@@ -1,1 +1,0 @@
-{"tmdb_id": 315842, "title": "Battle for Ukraine", "original_title": "Battle for Ukraine", "slug_title": "battle-for-ukraine", "date": "2014-11-07", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

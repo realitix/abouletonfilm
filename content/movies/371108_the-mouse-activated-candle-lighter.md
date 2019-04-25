@@ -1,1 +1,0 @@
-{"tmdb_id": 371108, "title": "The Mouse-Activated Candle Lighter", "original_title": "The Mouse-Activated Candle Lighter", "slug_title": "the-mouse-activated-candle-lighter", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

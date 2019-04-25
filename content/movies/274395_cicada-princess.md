@@ -1,1 +1,0 @@
-{"tmdb_id": 274395, "title": "Cicada Princess", "original_title": "Cicada Princess", "slug_title": "cicada-princess", "date": "2012-11-11", "genre": "Romance", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qMzBN48H9otT4GtVeRoJBxAcS5O.jpg", "actors": ["Stephen Fry (Narrator (voice))"], "comments": [], "recommandations_id": []}

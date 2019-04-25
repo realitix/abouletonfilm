@@ -1,1 +1,0 @@
-{"tmdb_id": 505829, "title": "Killgrave: The Purple Man", "original_title": "Killgrave: The Purple Man", "slug_title": "killgrave-the-purple-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/czaaJNxjUoD7arEXqmscSSZPg7C.jpg", "actors": [], "comments": [], "recommandations_id": []}

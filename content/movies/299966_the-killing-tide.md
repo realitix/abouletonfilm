@@ -1,1 +1,0 @@
-{"tmdb_id": 299966, "title": "The Killing Tide", "original_title": "The Killing Tide", "slug_title": "the-killing-tide", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

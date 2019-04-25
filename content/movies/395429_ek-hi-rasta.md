@@ -1,1 +1,0 @@
-{"tmdb_id": 395429, "title": "Ek-Hi-Rasta", "original_title": "Ek-Hi-Rasta", "slug_title": "ek-hi-rasta", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uwEMHG0AmtIqCRRWwNOldXLZHGv.jpg", "actors": ["Ashok Kumar ()", "Sunil Dutt ()", "Meena Kumari ()"], "comments": [], "recommandations_id": []}

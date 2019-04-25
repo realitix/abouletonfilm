@@ -1,1 +1,0 @@
-{"tmdb_id": 323040, "title": "Trapped in the Tunnel", "original_title": "Trapped in the Tunnel", "slug_title": "trapped-in-the-tunnel", "date": "1956-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Q7GIOvM1q5f6JbP6yLjbToak7M.jpg", "actors": [], "comments": [], "recommandations_id": []}

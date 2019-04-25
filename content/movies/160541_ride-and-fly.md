@@ -1,1 +1,0 @@
-{"tmdb_id": 160541, "title": "Ride and Fly", "original_title": "Ride and Fly", "slug_title": "ride-and-fly", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

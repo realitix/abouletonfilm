@@ -1,1 +1,0 @@
-{"tmdb_id": 335148, "title": "Close to Home", "original_title": "Close to Home", "slug_title": "close-to-home", "date": "1994-06-15", "genre": "Drame / Myst\u00e8re", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4eSWJbHEA1d3esPaiKMzuhmpI0c.jpg", "actors": [], "comments": [], "recommandations_id": []}

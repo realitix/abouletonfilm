@@ -1,1 +1,0 @@
-{"tmdb_id": 353349, "title": "Pink Floyd -  Pulse Disco 2", "original_title": "Pink Floyd -  Pulse Disco 2", "slug_title": "pink-floyd-pulse-disco-2", "date": "", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1lkKQRvTew8XOtWCPgu7oiq6hKJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

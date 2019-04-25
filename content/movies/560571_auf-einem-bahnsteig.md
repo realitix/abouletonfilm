@@ -1,1 +1,0 @@
-{"tmdb_id": 560571, "title": "Auf einem Bahnsteig", "original_title": "Auf einem Bahnsteig", "slug_title": "auf-einem-bahnsteig", "date": "1957-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6T0y0IsSxaplrWsL0cC4HK8vJ6W.jpg", "actors": [], "comments": [], "recommandations_id": []}

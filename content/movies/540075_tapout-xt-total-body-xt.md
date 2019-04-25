@@ -1,1 +1,0 @@
-{"tmdb_id": 540075, "title": "Tapout XT - Total Body XT", "original_title": "Tapout XT - Total Body XT", "slug_title": "tapout-xt-total-body-xt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gjG52RhejXj7wSLj4QruwkHytsV.jpg", "actors": [], "comments": [], "recommandations_id": []}

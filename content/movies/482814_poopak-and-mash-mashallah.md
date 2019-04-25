@@ -1,1 +1,0 @@
-{"tmdb_id": 482814, "title": "Poopak and Mash Mashallah", "original_title": "Poopak and Mash Mashallah", "slug_title": "poopak-and-mash-mashallah", "date": "2010-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

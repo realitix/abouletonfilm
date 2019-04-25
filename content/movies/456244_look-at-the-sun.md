@@ -1,1 +1,0 @@
-{"tmdb_id": 456244, "title": "Look at the Sun", "original_title": "Look at the Sun", "slug_title": "look-at-the-sun", "date": "2008-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dMW7uiZCm8qwUwTIrICtSnOHMy1.jpg", "actors": [], "comments": [], "recommandations_id": []}

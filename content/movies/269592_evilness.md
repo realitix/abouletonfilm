@@ -1,1 +1,0 @@
-{"tmdb_id": 269592, "title": "Evilness", "original_title": "La maldad", "slug_title": "evilness", "date": "2015-11-30", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ezb3RWIHW457ZQJswvrdVQGdx7H.jpg", "actors": ["Rafael Gil Moran (Himself)", "Raymundo Delgado Mu\u00f1oz ()"], "comments": [], "recommandations_id": []}

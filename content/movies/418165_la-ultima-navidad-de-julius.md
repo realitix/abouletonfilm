@@ -1,1 +1,0 @@
-{"tmdb_id": 418165, "title": "La \u00faltima navidad de Julius", "original_title": "La \u00faltima navidad de Julius", "slug_title": "la-ultima-navidad-de-julius", "date": "2016-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a3pfSVhwj363K1Muv4uGfSk1Npw.jpg", "actors": [], "comments": [], "recommandations_id": []}

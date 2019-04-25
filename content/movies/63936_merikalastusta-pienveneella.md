@@ -1,1 +1,0 @@
-{"tmdb_id": 63936, "title": "Merikalastusta pienveneell\u00e4", "original_title": "Merikalastusta pienveneell\u00e4", "slug_title": "merikalastusta-pienveneella", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pddK2u2KeargOKwy7XzIL3fH6Or.jpg", "actors": [], "comments": [], "recommandations_id": []}

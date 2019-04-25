@@ -1,1 +1,0 @@
-{"tmdb_id": 505255, "title": "The Monkey Fishes", "original_title": "The Monkey Fishes", "slug_title": "the-monkey-fishes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vA13GPmvL8cbCXbSzHvuBxJD5Lm.jpg", "actors": [], "comments": [], "recommandations_id": []}

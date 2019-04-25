@@ -1,1 +1,0 @@
-{"tmdb_id": 538995, "title": "Naughty Amelia Jane", "original_title": "Naughty Amelia Jane", "slug_title": "naughty-amelia-jane", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mAc3k2IWHuzUCDOxnEapUQWTIEx.jpg", "actors": [], "comments": [], "recommandations_id": []}

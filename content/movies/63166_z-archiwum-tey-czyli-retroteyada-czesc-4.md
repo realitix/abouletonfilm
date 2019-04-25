@@ -1,1 +1,0 @@
-{"tmdb_id": 63166, "title": "Z archiwum Tey czyli retroTEYada cz\u0119\u015b\u0107 4", "original_title": "Z archiwum Tey czyli retroTEYada cz\u0119\u015b\u0107 4", "slug_title": "z-archiwum-tey-czyli-retroteyada-czesc-4", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 421766, "title": "The Spanish Civil War", "original_title": "The Spanish Civil War", "slug_title": "the-spanish-civil-war", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w39uUVrbwMr4xA3wIbkqIPtlFO8.jpg", "actors": [], "comments": [], "recommandations_id": []}

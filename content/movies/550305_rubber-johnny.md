@@ -1,1 +1,0 @@
-{"tmdb_id": 550305, "title": "Rubber Johnny", "original_title": "Rubber Johnny", "slug_title": "rubber-johnny", "date": "2005-06-20", "genre": "Horreur / Science-Fiction / Musique", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3vv40eItqVIrV3YKJh8PsG4ALXc.jpg", "actors": [], "comments": [], "recommandations_id": []}

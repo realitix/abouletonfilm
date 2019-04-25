@@ -1,1 +1,0 @@
-{"tmdb_id": 436926, "title": "Mr Madila", "original_title": "Mr Madila", "slug_title": "mr-madila", "date": "2015-12-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/crPXiZrkkB0nhpQQfWlgezjYFSH.jpg", "actors": [], "comments": [], "recommandations_id": []}

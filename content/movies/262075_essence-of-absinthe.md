@@ -1,1 +1,0 @@
-{"tmdb_id": 262075, "title": "Essence of Absinthe", "original_title": "Essence d'absinthe", "slug_title": "essence-of-absinthe", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

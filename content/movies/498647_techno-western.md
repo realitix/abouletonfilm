@@ -1,1 +1,0 @@
-{"tmdb_id": 498647, "title": "Techno Western", "original_title": "Techno Western", "slug_title": "techno-western", "date": "2016-08-10", "genre": "Aventure / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kTwaPvK6xgeMEbl9arDZnMjW9qc.jpg", "actors": [], "comments": [], "recommandations_id": []}

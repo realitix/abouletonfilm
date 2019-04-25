@@ -1,1 +1,0 @@
-{"tmdb_id": 582007, "title": "Stratford Festival: The Tempest", "original_title": "Stratford Festival: The Tempest", "slug_title": "stratford-festival-the-tempest", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nvvhX7GycORT9ZVwMRFPOyeMkN1.jpg", "actors": [], "comments": [], "recommandations_id": []}

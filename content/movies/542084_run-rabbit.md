@@ -1,1 +1,0 @@
-{"tmdb_id": 542084, "title": "Run Rabbit", "original_title": "Run Rabbit", "slug_title": "run-rabbit", "date": "2018-08-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

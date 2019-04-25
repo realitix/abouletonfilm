@@ -1,1 +1,0 @@
-{"tmdb_id": 493151, "title": "Fragments", "original_title": "Kakera", "slug_title": "fragments", "date": "2016-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

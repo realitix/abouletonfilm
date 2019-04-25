@@ -1,1 +1,0 @@
-{"tmdb_id": 568255, "title": "S\u00e3o Paulo: sinfonia & cacofonia", "original_title": "S\u00e3o Paulo: sinfonia & cacofonia", "slug_title": "sao-paulo-sinfonia-cacofonia", "date": "1994-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

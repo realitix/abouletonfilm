@@ -1,1 +1,0 @@
-{"tmdb_id": 208107, "title": "Making Fashion", "original_title": "Making Fashion", "slug_title": "making-fashion", "date": "1938-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

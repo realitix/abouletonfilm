@@ -1,1 +1,0 @@
-{"tmdb_id": 464359, "title": "The American Revolution", "original_title": "The American Revolution", "slug_title": "the-american-revolution", "date": "2016-01-01", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tim Birkett (Host)"], "comments": [], "recommandations_id": []}

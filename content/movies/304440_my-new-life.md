@@ -1,1 +1,0 @@
-{"tmdb_id": 304440, "title": "My New Life", "original_title": "My New Life", "slug_title": "my-new-life", "date": "2010-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/an0mvn2CSmtBFLu0lQkR7jVCFIW.jpg", "actors": [], "comments": [], "recommandations_id": []}

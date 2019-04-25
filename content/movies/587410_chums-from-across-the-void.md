@@ -1,1 +1,0 @@
-{"tmdb_id": 587410, "title": "Chums from Across the Void", "original_title": "Chums from Across the Void", "slug_title": "chums-from-across-the-void", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

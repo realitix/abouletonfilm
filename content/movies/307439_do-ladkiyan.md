@@ -1,1 +1,0 @@
-{"tmdb_id": 307439, "title": "Do Ladkiyan", "original_title": "Do Ladkiyan", "slug_title": "do-ladkiyan", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

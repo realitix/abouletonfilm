@@ -1,1 +1,0 @@
-{"tmdb_id": 594159, "title": "La vie en danse", "original_title": "La vie en danse", "slug_title": "la-vie-en-danse", "date": "2016-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/liq1Z87UlFHtwHhynd1FhhxpXD3.jpg", "actors": [], "comments": [], "recommandations_id": []}

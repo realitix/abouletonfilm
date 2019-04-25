@@ -1,1 +1,0 @@
-{"tmdb_id": 471594, "title": "Johnny Logan - We All Need Love", "original_title": "Johnny Logan - We All Need Love", "slug_title": "johnny-logan-we-all-need-love", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lXao0GTvKIlftBZmtjPEttWr1Qh.jpg", "actors": [], "comments": [], "recommandations_id": []}

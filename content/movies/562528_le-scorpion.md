@@ -1,1 +1,0 @@
-{"tmdb_id": 562528, "title": "Le scorpion", "original_title": "Le scorpion", "slug_title": "le-scorpion", "date": "1962-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lx4ifRoQTmZTWlEjZFmG45fLNDE.jpg", "actors": [], "comments": [], "recommandations_id": []}

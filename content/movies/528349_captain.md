@@ -1,1 +1,0 @@
-{"tmdb_id": 528349, "title": "Captain", "original_title": "\u30ad\u30e3\u30d7\u30c6\u30f3", "slug_title": "captain", "date": "2007-08-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Noriyuki Fuse ()", "Takuya Ogawa ()", "Sayuri Iwata ()", "Mao Kobayashi ()"], "comments": [], "recommandations_id": []}

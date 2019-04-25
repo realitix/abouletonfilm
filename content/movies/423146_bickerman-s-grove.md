@@ -1,1 +1,0 @@
-{"tmdb_id": 423146, "title": "Bickerman's Grove", "original_title": "Bickerman's Grove", "slug_title": "bickerman-s-grove", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5PBpVvlAxrImRjNRHQbELZh1cZI.jpg", "actors": [], "comments": [], "recommandations_id": []}

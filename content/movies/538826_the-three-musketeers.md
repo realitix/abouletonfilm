@@ -1,1 +1,0 @@
-{"tmdb_id": 538826, "title": "The Three Musketeers", "original_title": "Les trois mousquetaires", "slug_title": "the-three-musketeers", "date": "1912-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Ww0wziMi8stUsHVz936GfjN5u2.jpg", "actors": [], "comments": [], "recommandations_id": []}

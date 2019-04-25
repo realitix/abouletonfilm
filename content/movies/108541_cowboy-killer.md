@@ -1,1 +1,0 @@
-{"tmdb_id": 108541, "title": "Cowboy Killer", "original_title": "Cowboy Killer", "slug_title": "cowboy-killer", "date": "2008-01-01", "genre": "Com\u00e9die / Horreur", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4rgku9Gm80VS6NQNNRGmLOmy9L0.jpg", "actors": [], "comments": [], "recommandations_id": []}

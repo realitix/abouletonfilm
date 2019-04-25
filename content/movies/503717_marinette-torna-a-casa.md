@@ -1,1 +1,0 @@
-{"tmdb_id": 503717, "title": "Marinette torna a casa", "original_title": "Marinette torna a casa", "slug_title": "marinette-torna-a-casa", "date": "2014-02-07", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marinette Pendola (herself)"], "comments": [], "recommandations_id": []}

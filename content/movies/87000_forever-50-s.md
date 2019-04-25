@@ -1,1 +1,0 @@
-{"tmdb_id": 87000, "title": "Forever 50's", "original_title": "Forever 50's", "slug_title": "forever-50-s", "date": "2003-04-29", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gYWfYMDma7md62BQ5ZjCo0aiAga.jpg", "actors": [], "comments": [], "recommandations_id": []}

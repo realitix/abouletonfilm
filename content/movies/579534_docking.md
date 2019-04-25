@@ -1,1 +1,0 @@
-{"tmdb_id": 579534, "title": "Docking", "original_title": "Docking", "slug_title": "docking", "date": "2019-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nYa9Yq6YoQg3aZf0i68lkL97ZyS.jpg", "actors": ["Trevor Anderson ()"], "comments": [], "recommandations_id": []}

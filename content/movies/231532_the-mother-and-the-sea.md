@@ -1,1 +1,0 @@
-{"tmdb_id": 231532, "title": "The Mother and the Sea", "original_title": "A M\u00e3e e o Mar", "slug_title": "the-mother-and-the-sea", "date": "2013-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t50uBrTiABUxsytqrh02SbxnmGN.jpg", "actors": [], "comments": [], "recommandations_id": []}

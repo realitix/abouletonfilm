@@ -1,1 +1,0 @@
-{"tmdb_id": 509263, "title": "La Flor de la Vida", "original_title": "La Flor de la Vida", "slug_title": "la-flor-de-la-vida", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v5WfiPewjahSvw1YJ9ECYezc3jl.jpg", "actors": [], "comments": [], "recommandations_id": []}

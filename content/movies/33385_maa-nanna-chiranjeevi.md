@@ -1,1 +1,0 @@
-{"tmdb_id": 33385, "title": "Maa Nanna Chiranjeevi", "original_title": "Maa Nanna Chiranjeevi", "slug_title": "maa-nanna-chiranjeevi", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wi28FkFFjE2OT7UTqGterYkxO2b.jpg", "actors": [], "comments": [], "recommandations_id": []}

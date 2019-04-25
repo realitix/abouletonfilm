@@ -1,1 +1,0 @@
-{"tmdb_id": 542371, "title": "Life After Love", "original_title": "Life After Love", "slug_title": "life-after-love", "date": "2018-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3VpeT6iIgzp7oSa9RtLPCK2qLOx.jpg", "actors": [], "comments": [], "recommandations_id": []}

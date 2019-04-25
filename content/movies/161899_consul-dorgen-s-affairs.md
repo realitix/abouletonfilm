@@ -1,1 +1,0 @@
-{"tmdb_id": 161899, "title": "Consul Dorgen's Affairs", "original_title": "Poslovi konzula Dorgena", "slug_title": "consul-dorgen-s-affairs", "date": "1933-05-01", "genre": "Thriller", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/42ZAilBavUMq5DoByrOstt98L5i.jpg", "actors": [], "comments": [], "recommandations_id": []}

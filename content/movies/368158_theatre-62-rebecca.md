@@ -1,1 +1,0 @@
-{"tmdb_id": 368158, "title": "Theatre 62: Rebecca", "original_title": "Theatre 62: Rebecca", "slug_title": "theatre-62-rebecca", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

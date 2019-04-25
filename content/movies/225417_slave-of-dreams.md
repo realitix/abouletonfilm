@@ -1,1 +1,0 @@
-{"tmdb_id": 225417, "title": "Slave of Dreams", "original_title": "Slave of Dreams", "slug_title": "slave-of-dreams", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edward James Olmos ()", "Sherilyn Fenn ()", "Adrian Pasdar ()"], "comments": [], "recommandations_id": []}

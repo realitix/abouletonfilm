@@ -1,1 +1,0 @@
-{"tmdb_id": 527275, "title": "Respirar", "original_title": "Respirar", "slug_title": "respirar", "date": "2018-05-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xTAnXKZXe695dN16p1cHChj0pxb.jpg", "actors": [], "comments": [], "recommandations_id": []}

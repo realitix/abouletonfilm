@@ -1,1 +1,0 @@
-{"tmdb_id": 517657, "title": "Reading from Now On", "original_title": "Reading from Now On", "slug_title": "reading-from-now-on", "date": "1969-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1xgVkZOY1PoEK74N3u9gDyktXP3.jpg", "actors": [], "comments": [], "recommandations_id": []}

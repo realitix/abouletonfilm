@@ -1,1 +1,0 @@
-{"tmdb_id": 91226, "title": "Demon Lover Diary", "original_title": "Demon Lover Diary", "slug_title": "demon-lover-diary", "date": "1980-01-04", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y0rtlVsemd6yGsweXOsmJgkWJvS.jpg", "actors": [], "comments": [], "recommandations_id": []}

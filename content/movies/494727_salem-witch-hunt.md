@@ -1,1 +1,0 @@
-{"tmdb_id": 494727, "title": "Salem Witch Hunt", "original_title": "Salem Witch Hunt", "slug_title": "salem-witch-hunt", "date": "2015-05-20", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

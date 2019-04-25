@@ -1,1 +1,0 @@
-{"tmdb_id": 265455, "title": "Kumbia Queers: More Louder Bitte", "original_title": "Kumbia Queers: More Louder Bitte", "slug_title": "kumbia-queers-more-louder-bitte", "date": "2014-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

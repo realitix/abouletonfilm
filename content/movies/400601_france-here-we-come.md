@@ -1,1 +1,0 @@
-{"tmdb_id": 400601, "title": "France, Here We Come!", "original_title": "Frankreich, wir kommen", "slug_title": "france-here-we-come", "date": "2000-07-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AmlsfFuqcElHrM9C5eEw1Cp2uZZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

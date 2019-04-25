@@ -1,1 +1,0 @@
-{"tmdb_id": 361988, "title": "Bad Moon Rising", "original_title": "Bad Moon Rising", "slug_title": "bad-moon-rising", "date": "2011-08-31", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David P. Emrich (Jeff)", "Josh Ethier ()", "Christina Napier ()"], "comments": [], "recommandations_id": []}

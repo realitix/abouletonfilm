@@ -1,1 +1,0 @@
-{"tmdb_id": 185794, "title": "Guns N' Roses: Live Tokyo '92", "original_title": "Guns N' Roses: Live Tokyo '92", "slug_title": "guns-n-roses-live-tokyo-92", "date": "1992-04-14", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hDHq4806Ayact8aLzf4djNHJkAR.jpg", "actors": [], "comments": [], "recommandations_id": []}

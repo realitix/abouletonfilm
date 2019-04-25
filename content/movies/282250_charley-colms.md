@@ -1,1 +1,0 @@
-{"tmdb_id": 282250, "title": "Charley Colms", "original_title": "Charley Colms", "slug_title": "charley-colms", "date": "1912-04-05", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z46BK6jRn0jyiZIu07jafeGQFpp.jpg", "actors": ["Georges Coquet ()", "Fernand Godeau ()"], "comments": [], "recommandations_id": []}

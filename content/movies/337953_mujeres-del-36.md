@@ -1,1 +1,1 @@
-{"tmdb_id": 337953, "title": "Mujeres del 36", "original_title": "Mujeres del 36", "slug_title": "mujeres-del-36", "date": "", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 337953, "title": "Mujeres del 36", "original_title": "Mujeres del 36", "slug_title": "mujeres-del-36", "date": "", "genre": [""], "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

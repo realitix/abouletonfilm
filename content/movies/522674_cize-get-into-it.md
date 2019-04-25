@@ -1,1 +1,0 @@
-{"tmdb_id": 522674, "title": "Cize - Get Into It", "original_title": "Cize - Get Into It", "slug_title": "cize-get-into-it", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

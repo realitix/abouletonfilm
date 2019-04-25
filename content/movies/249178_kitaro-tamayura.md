@@ -1,1 +1,0 @@
-{"tmdb_id": 249178, "title": "Kitaro: Tamayura", "original_title": "Kitaro: Tamayura", "slug_title": "kitaro-tamayura", "date": "2000-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

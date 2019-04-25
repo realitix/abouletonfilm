@@ -1,1 +1,0 @@
-{"tmdb_id": 311027, "title": "The Suicide", "original_title": "The Suicide", "slug_title": "the-suicide", "date": "1978-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oVy0fzHp9N6g7zvny8JjJ2f2WNc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 391209, "title": "End of Summer", "original_title": "\u0622\u062e\u0631 \u0627\u0644\u0635\u064a\u0641", "slug_title": "end-of-summer", "date": "1980-01-01", "genre": "Drame / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5yH1I0L2oLhyfjqX7twk1YCybBK.jpg", "actors": [], "comments": [], "recommandations_id": []}

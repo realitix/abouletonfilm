@@ -1,1 +1,0 @@
-{"tmdb_id": 467481, "title": "Nullarbor Hideout", "original_title": "Nullarbor Hideout", "slug_title": "nullarbor-hideout", "date": "1963-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/amaWHhy41HFISVCJxVHIM8zaHGz.jpg", "actors": [], "comments": [], "recommandations_id": []}

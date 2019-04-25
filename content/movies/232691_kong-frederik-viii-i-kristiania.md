@@ -1,1 +1,0 @@
-{"tmdb_id": 232691, "title": "Kong Frederik VIII i Kristiania", "original_title": "Kong Frederik VIII i Kristiania", "slug_title": "kong-frederik-viii-i-kristiania", "date": "1906-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

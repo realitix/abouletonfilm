@@ -1,1 +1,0 @@
-{"tmdb_id": 497060, "title": "Prends, seigneur prends", "original_title": "Prends, seigneur prends", "slug_title": "prends-seigneur-prends", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

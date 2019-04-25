@@ -1,1 +1,0 @@
-{"tmdb_id": 284438, "title": "Our Uduvere", "original_title": "Meie Uduvere", "slug_title": "our-uduvere", "date": "1987-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cIExr8XJjwgx0trn0UcvF2n0JwU.jpg", "actors": ["Sulev N\u00f5mmik (K\u00e4rna \u00c4rni)"], "comments": [], "recommandations_id": []}

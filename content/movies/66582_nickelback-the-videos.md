@@ -1,1 +1,0 @@
-{"tmdb_id": 66582, "title": "Nickelback: The Videos", "original_title": "Nickelback: The Videos", "slug_title": "nickelback-the-videos", "date": "2003-09-23", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1K3q3j8AfxSjLgYHEm1V7bXOjgR.jpg", "actors": [], "comments": [], "recommandations_id": []}

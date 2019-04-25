@@ -1,1 +1,0 @@
-{"tmdb_id": 425457, "title": "Arriving/Departing", "original_title": "Arriving/Departing", "slug_title": "arriving-departing", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4WvYRJhXt9lBS47GxJmo0xSe18Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

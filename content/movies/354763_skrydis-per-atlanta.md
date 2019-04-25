@@ -1,1 +1,0 @@
-{"tmdb_id": 354763, "title": "Skrydis per Atlant\u0105", "original_title": "Skrydis per Atlant\u0105", "slug_title": "skrydis-per-atlanta", "date": "1983-01-01", "genre": "Drame / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t3m4YP5oqmm9LL3pmHDTGJxMCDt.jpg", "actors": [], "comments": [], "recommandations_id": []}

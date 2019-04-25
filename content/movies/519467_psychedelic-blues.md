@@ -1,1 +1,0 @@
-{"tmdb_id": 519467, "title": "Psychedelic Blues", "original_title": "Psychedelic Blues", "slug_title": "psychedelic-blues", "date": "2015-04-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8QkqHA7ZIVOrnQrHv2KvmzgUbz4.jpg", "actors": [], "comments": [], "recommandations_id": []}

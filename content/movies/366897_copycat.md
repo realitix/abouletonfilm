@@ -1,1 +1,0 @@
-{"tmdb_id": 366897, "title": "Copycat", "original_title": "Copycat", "slug_title": "copycat", "date": "2015-03-06", "genre": "Horreur / Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dQzGZ9OXUscnP3uDzNfo5pRGzlG.jpg", "actors": [], "comments": [], "recommandations_id": []}

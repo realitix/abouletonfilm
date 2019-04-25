@@ -1,1 +1,0 @@
-{"tmdb_id": 340065, "title": "Red Bull Hare Scramble: Erzberg Rodeo", "original_title": "Red Bull Hare Scramble: Erzberg Rodeo", "slug_title": "red-bull-hare-scramble-erzberg-rodeo", "date": "2012-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

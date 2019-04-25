@@ -1,1 +1,0 @@
-{"tmdb_id": 318687, "title": "Inside Sportfishing: Baja 1: The East Cape", "original_title": "Inside Sportfishing: Baja 1: The East Cape", "slug_title": "inside-sportfishing-baja-1-the-east-cape", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

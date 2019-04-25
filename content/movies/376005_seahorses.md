@@ -1,1 +1,0 @@
-{"tmdb_id": 376005, "title": "Seahorses", "original_title": "Seahorses", "slug_title": "seahorses", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

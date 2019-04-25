@@ -1,1 +1,0 @@
-{"tmdb_id": 134321, "title": "Bleu Shut", "original_title": "Bleu Shut", "slug_title": "bleu-shut", "date": "1971-04-29", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1lIHPzrlpPBDG2U0pQKQGixgmGv.jpg", "actors": [], "comments": [], "recommandations_id": [195027, 209731, 117593, 162784]}

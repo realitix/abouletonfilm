@@ -1,1 +1,0 @@
-{"tmdb_id": 530623, "title": "Cova Aberta", "original_title": "Cova Aberta", "slug_title": "cova-aberta", "date": "2013-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3oC53tuBnlw864HfG5etKZju9A2.jpg", "actors": ["Paula Coelho ()", "Larissa Santana ()"], "comments": [], "recommandations_id": []}

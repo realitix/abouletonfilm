@@ -1,1 +1,0 @@
-{"tmdb_id": 130014, "title": "McLuhan's Wake", "original_title": "McLuhan's Wake", "slug_title": "mcluhan-s-wake", "date": "2002-11-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z5v5DhY5XrVdDpWquCBVGeb4D3Q.jpg", "actors": ["Laurie Anderson (Narrator)"], "comments": [], "recommandations_id": []}

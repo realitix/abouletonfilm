@@ -1,1 +1,0 @@
-{"tmdb_id": 323539, "title": "Give Your Walls Some Soul: These Chaps Have Soul", "original_title": "Give Your Walls Some Soul: These Chaps Have Soul", "slug_title": "give-your-walls-some-soul-these-chaps-have-soul", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

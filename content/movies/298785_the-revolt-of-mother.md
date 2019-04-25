@@ -1,1 +1,0 @@
-{"tmdb_id": 298785, "title": "The Revolt of Mother", "original_title": "The Revolt of Mother", "slug_title": "the-revolt-of-mother", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

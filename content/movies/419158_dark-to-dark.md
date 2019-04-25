@@ -1,1 +1,0 @@
-{"tmdb_id": 419158, "title": "Dark to Dark", "original_title": "Dark to Dark", "slug_title": "dark-to-dark", "date": "2016-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xo2BhtM0yXdwkvHSivD3TAt8WUP.jpg", "actors": [], "comments": [], "recommandations_id": []}

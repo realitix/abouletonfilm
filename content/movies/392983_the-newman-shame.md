@@ -1,1 +1,0 @@
-{"tmdb_id": 392983, "title": "The Newman Shame", "original_title": "The Newman Shame", "slug_title": "the-newman-shame", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zXyh8Cyma42LUxrN2xiAOGkeDEe.jpg", "actors": ["George Lazenby (John Brandy)"], "comments": [], "recommandations_id": []}

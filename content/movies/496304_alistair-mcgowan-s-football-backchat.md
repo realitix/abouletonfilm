@@ -1,1 +1,0 @@
-{"tmdb_id": 496304, "title": "Alistair Mcgowan's Football backchat", "original_title": "Alistair Mcgowan's Football backchat", "slug_title": "alistair-mcgowan-s-football-backchat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 39592, "title": "Private Gold 34: The Collector", "original_title": "Private Gold 34: The Collector", "slug_title": "private-gold-34-the-collector", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8FDhCwdoXjIgcKmxWbAuGD8zJtm.jpg", "actors": [], "comments": [], "recommandations_id": []}

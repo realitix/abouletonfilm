@@ -1,1 +1,0 @@
-{"tmdb_id": 369151, "title": "Le flame del paradis - Le fiamme del paradiso", "original_title": "Le flame del paradis - Le fiamme del paradiso", "slug_title": "le-flame-del-paradis-le-fiamme-del-paradiso", "date": "2006-10-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

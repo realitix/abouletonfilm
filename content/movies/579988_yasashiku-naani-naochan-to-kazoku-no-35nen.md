@@ -1,1 +1,0 @@
-{"tmdb_id": 579988, "title": "Yasashiku naani Naochan to kazoku no 35nen", "original_title": "Yasashiku naani Naochan to kazoku no 35nen", "slug_title": "yasashiku-naani-naochan-to-kazoku-no-35nen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

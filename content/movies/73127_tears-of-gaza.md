@@ -1,1 +1,0 @@
-{"tmdb_id": 73127, "title": "Tears of Gaza", "original_title": "Gazas t\u00e5rer", "slug_title": "tears-of-gaza", "date": "2010-11-05", "genre": "Guerre / Documentaire", "score": "6.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yPDUB41fbJpN9hGr6Q0Hsi2sd6U.jpg", "actors": [], "comments": [], "recommandations_id": [85642, 85637, 126919, 27506]}

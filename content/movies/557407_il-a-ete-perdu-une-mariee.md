@@ -1,1 +1,0 @@
-{"tmdb_id": 557407, "title": "Il a \u00e9t\u00e9 perdu une mari\u00e9e", "original_title": "Il a \u00e9t\u00e9 perdu une mari\u00e9e", "slug_title": "il-a-ete-perdu-une-mariee", "date": "1932-12-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

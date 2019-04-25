@@ -1,1 +1,0 @@
-{"tmdb_id": 361075, "title": "The Closer We Get", "original_title": "The Closer We Get", "slug_title": "the-closer-we-get", "date": "2015-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5nAEiSNUnymni9G0XKcWlBcyvTY.jpg", "actors": [], "comments": [], "recommandations_id": []}

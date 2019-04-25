@@ -1,1 +1,0 @@
-{"tmdb_id": 331388, "title": "Mahaguru", "original_title": "Mahaguru", "slug_title": "mahaguru", "date": "1985-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bBUjaJU5hfLVwZAmr8ISjozBkz3.jpg", "actors": ["Rajinikanth (Mahaguru/Vijay)", "Meenakshi Seshadri (Basanti)"], "comments": [], "recommandations_id": []}

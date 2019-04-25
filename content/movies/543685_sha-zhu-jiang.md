@@ -1,1 +1,0 @@
-{"tmdb_id": 543685, "title": "\u6740\u732a\u5320", "original_title": "\u6740\u732a\u5320", "slug_title": "sha-zhu-jiang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

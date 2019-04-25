@@ -1,1 +1,0 @@
-{"tmdb_id": 439312, "title": "Animals", "original_title": "Animals", "slug_title": "animals", "date": "2016-10-19", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/BiK7Q4kS4F6trzkAATFaXQ9uKd.jpg", "actors": ["Val Kilmer (Val Kilmer)"], "comments": [], "recommandations_id": []}

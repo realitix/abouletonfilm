@@ -1,1 +1,0 @@
-{"tmdb_id": 397967, "title": "Cuentas pendientes", "original_title": "Cuentas pendientes", "slug_title": "cuentas-pendientes", "date": "2016-09-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ct100XQnNKprLoMMI4irGGW4poN.jpg", "actors": ["Carlos Weber (Himself)"], "comments": [], "recommandations_id": []}

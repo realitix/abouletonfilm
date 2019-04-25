@@ -1,1 +1,0 @@
-{"tmdb_id": 38095, "title": "Stanley Cuba", "original_title": "Stanley Cuba", "slug_title": "stanley-cuba", "date": "2007-01-01", "genre": "Com\u00e9die", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aSmWe8FMU8GRUbiS8ktPKChCF5J.jpg", "actors": [], "comments": [], "recommandations_id": []}

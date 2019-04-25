@@ -1,1 +1,0 @@
-{"tmdb_id": 517633, "title": "Malteses, burgueses e \u00e0s vezes...", "original_title": "Malteses, burgueses e \u00e0s vezes...", "slug_title": "malteses-burgueses-e-as-vezes", "date": "1974-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

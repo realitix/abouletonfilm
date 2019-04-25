@@ -1,1 +1,0 @@
-{"tmdb_id": 212380, "title": "Tears and Laughter", "original_title": "Sm\u00edch a pl\u00e1\u010d", "slug_title": "tears-and-laughter", "date": "1898-08-05", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

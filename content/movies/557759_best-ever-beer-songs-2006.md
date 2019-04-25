@@ -1,1 +1,0 @@
-{"tmdb_id": 557759, "title": "Best Ever Beer Songs 2006", "original_title": "Best Ever Beer Songs 2006", "slug_title": "best-ever-beer-songs-2006", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tw6ZH755joV9sZNtwWHsYoGPT4j.jpg", "actors": [], "comments": [], "recommandations_id": []}

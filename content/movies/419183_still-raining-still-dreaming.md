@@ -1,1 +1,0 @@
-{"tmdb_id": 419183, "title": "Still Raining, Still Dreaming", "original_title": "Still Raining, Still Dreaming", "slug_title": "still-raining-still-dreaming", "date": "2009-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 502158, "title": "Brewmaster", "original_title": "Brewmaster", "slug_title": "brewmaster", "date": "2018-03-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/11Moku8jdfJuf39MxECOkggCrLD.jpg", "actors": [], "comments": [], "recommandations_id": []}

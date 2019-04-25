@@ -1,1 +1,0 @@
-{"tmdb_id": 394174, "title": "Homelands: View from the Edge", "original_title": "Homelands: View from the Edge", "slug_title": "homelands-view-from-the-edge", "date": "1993-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hFGolB0zVROcivZeXsYTWgwdfXR.jpg", "actors": [], "comments": [], "recommandations_id": []}

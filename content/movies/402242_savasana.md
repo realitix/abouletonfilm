@@ -1,1 +1,0 @@
-{"tmdb_id": 402242, "title": "Savasana", "original_title": "Savasana", "slug_title": "savasana", "date": "2015-12-01", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/As2HJhOhe4LZr86L3cHMc7OnumE.jpg", "actors": ["Paul Gordon ()"], "comments": [], "recommandations_id": []}

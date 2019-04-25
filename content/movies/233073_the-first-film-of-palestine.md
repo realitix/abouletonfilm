@@ -1,1 +1,0 @@
-{"tmdb_id": 233073, "title": "The First Film of Palestine", "original_title": "The First Film of Palestine", "slug_title": "the-first-film-of-palestine", "date": "1911-11-04", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

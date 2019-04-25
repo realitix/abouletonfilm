@@ -1,1 +1,0 @@
-{"tmdb_id": 511973, "title": "Ollas Populares", "original_title": "Ollas Populares", "slug_title": "ollas-populares", "date": "1968-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

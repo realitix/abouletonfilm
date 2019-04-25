@@ -1,1 +1,0 @@
-{"tmdb_id": 427490, "title": "The Gans-McGovern Fight", "original_title": "The Gans-McGovern Fight", "slug_title": "the-gans-mcgovern-fight", "date": "1901-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

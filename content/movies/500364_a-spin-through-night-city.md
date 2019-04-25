@@ -1,1 +1,0 @@
-{"tmdb_id": 500364, "title": "A Spin Through Night City", "original_title": "A Spin Through Night City", "slug_title": "a-spin-through-night-city", "date": "2017-06-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

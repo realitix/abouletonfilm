@@ -1,1 +1,0 @@
-{"tmdb_id": 333880, "title": "Silence, No Entry", "original_title": "Silence, sens interdit", "slug_title": "silence-no-entry", "date": "1973-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

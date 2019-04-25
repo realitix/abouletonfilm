@@ -1,1 +1,0 @@
-{"tmdb_id": 144864, "title": "L'h\u00e9ritage de Lilette", "original_title": "L'h\u00e9ritage de Lilette", "slug_title": "l-heritage-de-lilette", "date": "1930-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Raymond Dandy ()", "Jean Gabin ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 499358, "title": "Sign it Death", "original_title": "Sign it Death", "slug_title": "sign-it-death", "date": "1974-04-09", "genre": "T\u00e9l\u00e9film / Horreur / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 237283, "title": "Popeye Meets Hercules", "original_title": "Popeye Meets Hercules", "slug_title": "popeye-meets-hercules", "date": "1948-06-17", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Mercer (Popeye/Freshman/Announcer (voice))"], "comments": [], "recommandations_id": []}

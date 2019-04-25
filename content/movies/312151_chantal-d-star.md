@@ -1,1 +1,0 @@
-{"tmdb_id": 312151, "title": "Chantal D., Star", "original_title": "Chantal D., Star", "slug_title": "chantal-d-star", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2SIel43oC4q0oUv23CSLLFsPLTC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 63370, "title": "Yanagawa", "original_title": "Yanagawa", "slug_title": "yanagawa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 63370, "title": "Yanagawa", "original_title": "Yanagawa", "slug_title": "yanagawa", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Street thug Jiro Yanagawa is release from prison.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

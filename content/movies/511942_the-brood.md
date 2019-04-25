@@ -1,1 +1,0 @@
-{"tmdb_id": 511942, "title": "The Brood", "original_title": "The Brood", "slug_title": "the-brood", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uVq7pXLUS2b4JimUwFvqmoJEVea.jpg", "actors": [], "comments": [], "recommandations_id": []}

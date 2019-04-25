@@ -1,1 +1,0 @@
-{"tmdb_id": 65578, "title": "Cuban Story", "original_title": "Cuban Story", "slug_title": "cuban-story", "date": "1959-07-08", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jhUCliCovvoBT4uXD1XMlG9v6h0.jpg", "actors": ["Errol Flynn (Himself - Reporter)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 539479, "title": "Poliche", "original_title": "Poliche", "slug_title": "poliche", "date": "1934-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ctiqTD8PYktlCTdaB3zVSTrUbam.jpg", "actors": [], "comments": [], "recommandations_id": []}

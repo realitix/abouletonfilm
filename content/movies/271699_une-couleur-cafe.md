@@ -1,1 +1,0 @@
-{"tmdb_id": 271699, "title": "Une couleur caf\u00e9", "original_title": "Une couleur caf\u00e9", "slug_title": "une-couleur-cafe", "date": "1997-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean-Marie Adiaffi ()", "Rachida Brakni ()", "Silvie Feit ()"], "comments": [], "recommandations_id": []}

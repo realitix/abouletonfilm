@@ -1,1 +1,0 @@
-{"tmdb_id": 316558, "title": "Near-Sighted and Far Out", "original_title": "Near-Sighted and Far Out", "slug_title": "near-sighted-and-far-out", "date": "1964-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

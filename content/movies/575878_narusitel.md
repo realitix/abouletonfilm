@@ -1,1 +1,0 @@
-{"tmdb_id": 575878, "title": "Naru\u0161itel", "original_title": "Naru\u0161itel", "slug_title": "narusitel", "date": "2019-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xCuwTxrLsBYqWA1PWabo2Ns64mj.jpg", "actors": [], "comments": [], "recommandations_id": []}

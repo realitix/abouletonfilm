@@ -1,1 +1,0 @@
-{"tmdb_id": 263457, "title": "Totally Trucks Fire Monsters II", "original_title": "Totally Trucks Fire Monsters II", "slug_title": "totally-trucks-fire-monsters-ii", "date": "2012-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

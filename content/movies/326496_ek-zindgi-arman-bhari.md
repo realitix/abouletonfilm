@@ -1,1 +1,0 @@
-{"tmdb_id": 326496, "title": "Ek Zindgi Arman Bhari", "original_title": "Ek Zindgi Arman Bhari", "slug_title": "ek-zindgi-arman-bhari", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

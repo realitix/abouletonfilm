@@ -1,1 +1,0 @@
-{"tmdb_id": 337625, "title": "Alchemy Live", "original_title": "Alchemy Live", "slug_title": "alchemy-live", "date": "2013-09-23", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wBzXLZGxG3WRazC1iYQM60EYbA2.jpg", "actors": [], "comments": [], "recommandations_id": []}

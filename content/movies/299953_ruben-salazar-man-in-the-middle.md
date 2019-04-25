@@ -1,1 +1,0 @@
-{"tmdb_id": 299953, "title": "Ruben Salazar: Man in the Middle", "original_title": "Ruben Salazar: Man in the Middle", "slug_title": "ruben-salazar-man-in-the-middle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

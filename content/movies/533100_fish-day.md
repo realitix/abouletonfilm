@@ -1,1 +1,0 @@
-{"tmdb_id": 533100, "title": "Fish Day", "original_title": "Bal\u0131q G\u00fcn\u00fc", "slug_title": "fish-day", "date": "1983-01-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arif Gasimov (Abdulali)", "Gulshan Gurbanova (Abdulali's Wife)"], "comments": [], "recommandations_id": []}

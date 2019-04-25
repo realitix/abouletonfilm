@@ -1,1 +1,0 @@
-{"tmdb_id": 295197, "title": "Made for Mars", "original_title": "Made for Mars", "slug_title": "made-for-mars", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

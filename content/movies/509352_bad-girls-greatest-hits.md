@@ -1,1 +1,0 @@
-{"tmdb_id": 509352, "title": "Bad Girls Greatest Hits", "original_title": "Bad Girls Greatest Hits", "slug_title": "bad-girls-greatest-hits", "date": "2015-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kE2obPRzz5QOGJC71EEAC0PeHyF.jpg", "actors": [], "comments": [], "recommandations_id": []}

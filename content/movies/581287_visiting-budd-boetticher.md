@@ -1,1 +1,0 @@
-{"tmdb_id": 581287, "title": "Visiting Budd Boetticher", "original_title": "Besuch bei Budd Boetticher", "slug_title": "visiting-budd-boetticher", "date": "2000-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Budd Boetticher (Himself)"], "comments": [], "recommandations_id": []}

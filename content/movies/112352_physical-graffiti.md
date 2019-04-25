@@ -1,1 +1,0 @@
-{"tmdb_id": 112352, "title": "Physical Graffiti", "original_title": "Physical Graffiti", "slug_title": "physical-graffiti", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

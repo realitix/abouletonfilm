@@ -1,1 +1,0 @@
-{"tmdb_id": 282126, "title": "Electronic Yoga", "original_title": "Electronic Yoga", "slug_title": "electronic-yoga", "date": "1972-07-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/RGizQUV4rTmemvaLWBmjP7YETA.jpg", "actors": [], "comments": [], "recommandations_id": []}

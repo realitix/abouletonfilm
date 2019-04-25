@@ -1,1 +1,0 @@
-{"tmdb_id": 346294, "title": "Hitta bort", "original_title": "Hitta bort", "slug_title": "hitta-bort", "date": "2015-06-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zm02kUsIisH29lhMHU14irp5KdG.jpg", "actors": ["Timothy Fogelberg (Kaspian)", "Malin Hofvander (Lola)"], "comments": [], "recommandations_id": []}

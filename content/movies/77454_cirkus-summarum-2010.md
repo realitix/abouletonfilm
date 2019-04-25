@@ -1,1 +1,0 @@
-{"tmdb_id": 77454, "title": "Cirkus Summarum 2010", "original_title": "Cirkus Summarum 2010", "slug_title": "cirkus-summarum-2010", "date": "2010-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/40SXkz938jw2Du8kt6s6WZYsOb6.jpg", "actors": [], "comments": [], "recommandations_id": []}

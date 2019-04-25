@@ -1,1 +1,0 @@
-{"tmdb_id": 419271, "title": "Die G\u00e4nsemagd", "original_title": "Die G\u00e4nsemagd", "slug_title": "die-gansemagd", "date": "1977-02-27", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alena Penz (G\u00e4nsemagd)", "Heidi Schaffrath (Magd)"], "comments": [], "recommandations_id": []}

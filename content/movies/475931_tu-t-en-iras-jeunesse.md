@@ -1,1 +1,0 @@
-{"tmdb_id": 475931, "title": "Tu t'en iras, jeunesse", "original_title": "Tu t'en iras, jeunesse", "slug_title": "tu-t-en-iras-jeunesse", "date": "1911-11-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fabienne Fabr\u00e8ges ()", "L\u00e9once Perret ()"], "comments": [], "recommandations_id": []}

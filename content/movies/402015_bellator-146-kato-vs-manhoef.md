@@ -1,1 +1,0 @@
-{"tmdb_id": 402015, "title": "Bellator 146: Kato vs. Manhoef", "original_title": "Bellator 146: Kato vs. Manhoef", "slug_title": "bellator-146-kato-vs-manhoef", "date": "2015-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rPN4nA1JgqEEtm91EkliatRhf9c.jpg", "actors": [], "comments": [], "recommandations_id": []}

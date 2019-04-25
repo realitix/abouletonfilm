@@ -1,1 +1,0 @@
-{"tmdb_id": 563082, "title": "Operation Diplomatic Passport", "original_title": "Passeport diplomatique agent K 8", "slug_title": "operation-diplomatic-passport", "date": "1965-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uoiRh5Xkbg3Ah33HZu9rJxsbQH1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 183211, "title": "Adsiz cengaver", "original_title": "Adsiz cengaver", "slug_title": "adsiz-cengaver", "date": "1970-01-01", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ixzjYos4BaLQycowEAWtxpztNq2.jpg", "actors": ["C\u00fcneyt Ark\u0131n (Adsiz)"], "comments": [], "recommandations_id": []}

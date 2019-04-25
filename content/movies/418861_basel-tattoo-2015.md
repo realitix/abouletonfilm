@@ -1,1 +1,0 @@
-{"tmdb_id": 418861, "title": "Basel Tattoo 2015", "original_title": "Basel Tattoo 2015", "slug_title": "basel-tattoo-2015", "date": "2015-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nz4QY3TFPwRk4btm3NH9Hz2HueD.jpg", "actors": [], "comments": [], "recommandations_id": []}

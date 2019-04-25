@@ -1,1 +1,0 @@
-{"tmdb_id": 320190, "title": "Lazytown Action time 1", "original_title": "Lazytown Action time 1", "slug_title": "lazytown-action-time-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eeU6WRboyQS0aexeNkjiMrkwSKB.jpg", "actors": [], "comments": [], "recommandations_id": []}

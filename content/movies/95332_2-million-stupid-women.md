@@ -1,1 +1,0 @@
-{"tmdb_id": 95332, "title": "2 Million Stupid Women", "original_title": "2 Million Stupid Women", "slug_title": "2-million-stupid-women", "date": "2009-02-27", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dDNMjMLnomhfhrwlyYd4H96IO3T.jpg", "actors": [], "comments": [], "recommandations_id": []}

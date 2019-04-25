@@ -1,1 +1,0 @@
-{"tmdb_id": 155778, "title": "Moving Day", "original_title": "Moving Day", "slug_title": "moving-day", "date": "2010-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9qORnKarMOLHB6xjXzV6gGYKpq1.jpg", "actors": [], "comments": [], "recommandations_id": []}

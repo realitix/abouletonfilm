@@ -1,1 +1,0 @@
-{"tmdb_id": 282012, "title": "The Animation Show, Volume 1", "original_title": "The Animation Show, Volume 1", "slug_title": "the-animation-show-volume-1", "date": "2003-07-18", "genre": "Animation", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oMk5Um2W9apDW3FoIAeeRGXxPA3.jpg", "actors": [], "comments": [], "recommandations_id": []}

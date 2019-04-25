@@ -1,1 +1,0 @@
-{"tmdb_id": 450740, "title": "Sea World: Celebrating Dolphins", "original_title": "Sea World: Celebrating Dolphins", "slug_title": "sea-world-celebrating-dolphins", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

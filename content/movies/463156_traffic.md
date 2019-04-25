@@ -1,1 +1,1 @@
-{"tmdb_id": 463156, "title": "Traffic", "original_title": "Traffic", "slug_title": "traffic", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 463156, "title": "Traffic", "original_title": "Traffic", "slug_title": "traffic", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Traffic 2014 Telugu Movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

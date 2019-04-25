@@ -1,1 +1,0 @@
-{"tmdb_id": 437746, "title": "It Took Guts", "original_title": "It Took Guts", "slug_title": "it-took-guts", "date": "1979-09-07", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hvRgkzYAfuKRJyEZzTlnHGRcPey.jpg", "actors": ["Charles Schneider (The Eater)"], "comments": [], "recommandations_id": []}

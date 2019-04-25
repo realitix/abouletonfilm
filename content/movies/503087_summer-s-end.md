@@ -1,1 +1,0 @@
-{"tmdb_id": 503087, "title": "Summer's End", "original_title": "Summer's End", "slug_title": "summer-s-end", "date": "1985-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

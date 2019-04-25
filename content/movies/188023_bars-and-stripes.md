@@ -1,1 +1,0 @@
-{"tmdb_id": 188023, "title": "Bars and Stripes", "original_title": "Bars and Stripes", "slug_title": "bars-and-stripes", "date": "1931-10-13", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

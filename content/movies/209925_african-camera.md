@@ -1,1 +1,0 @@
-{"tmdb_id": 209925, "title": "African Camera", "original_title": "Camera d'Afrique", "slug_title": "african-camera", "date": "1983-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1rcPHioFTHZ48Gx17OWn64rZUnR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 294766, "title": "The Sweet Life", "original_title": "The Sweet Life", "slug_title": "the-sweet-life", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

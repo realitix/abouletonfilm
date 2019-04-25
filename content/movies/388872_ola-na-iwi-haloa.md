@@ -1,1 +1,0 @@
-{"tmdb_id": 388872, "title": "Ola N\u0101 Iwi: H\u0101loa", "original_title": "Ola N\u0101 Iwi: H\u0101loa", "slug_title": "ola-na-iwi-haloa", "date": "2013-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lEr6nEEljHNvyjrvgQUg71p5OXf.jpg", "actors": [], "comments": [], "recommandations_id": []}

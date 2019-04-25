@@ -1,1 +1,0 @@
-{"tmdb_id": 405316, "title": "The Kites Flying in the Sky", "original_title": "Hanurul nanun yondul", "slug_title": "the-kites-flying-in-the-sky", "date": "2008-02-16", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/88xgBM0amV53Sx9zVI5ftkYHf4p.jpg", "actors": [], "comments": [], "recommandations_id": []}

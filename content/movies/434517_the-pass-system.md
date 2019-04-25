@@ -1,1 +1,0 @@
-{"tmdb_id": 434517, "title": "The Pass System", "original_title": "The Pass System", "slug_title": "the-pass-system", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cbVG7hbUL8PUf2lwezY5TmuoZt9.jpg", "actors": [], "comments": [], "recommandations_id": []}

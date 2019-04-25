@@ -1,1 +1,0 @@
-{"tmdb_id": 369868, "title": "Hellhounds", "original_title": "Hellhounds", "slug_title": "hellhounds", "date": "2013-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7t1GHs5jlMiCcDf60q7jmKESzJA.jpg", "actors": [], "comments": [], "recommandations_id": []}

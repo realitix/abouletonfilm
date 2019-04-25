@@ -1,1 +1,0 @@
-{"tmdb_id": 589161, "title": "Couple on the Move", "original_title": "Hikkoshi f\u00fbfu", "slug_title": "couple-on-the-move", "date": "1928-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Atsushi Watanabe ()", "Mitsuko Yoshikawa ()", "Chish\u016b Ry\u016b ()", "Kenji Oyama ()"], "comments": [], "recommandations_id": []}

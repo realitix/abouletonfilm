@@ -1,1 +1,0 @@
-{"tmdb_id": 373930, "title": "Darts WORLD: PDC World Championship 2015 - 2016", "original_title": "Darts WORLD: PDC World Championship 2015 - 2016", "slug_title": "darts-world-pdc-world-championship-2015-2016", "date": "", "genre": "", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

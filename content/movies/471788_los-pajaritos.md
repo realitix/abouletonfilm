@@ -1,1 +1,0 @@
-{"tmdb_id": 471788, "title": "Los pajaritos", "original_title": "Los pajaritos", "slug_title": "los-pajaritos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kfMniqqYaHtYCiQv3AQlkf2KORG.jpg", "actors": [], "comments": [], "recommandations_id": []}

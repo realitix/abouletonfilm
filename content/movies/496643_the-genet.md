@@ -1,1 +1,0 @@
-{"tmdb_id": 496643, "title": "The Genet", "original_title": "The Genet", "slug_title": "the-genet", "date": "2014-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ibEZ5ESbik1LkTfCQoLla0FcDxh.jpg", "actors": [], "comments": [], "recommandations_id": []}

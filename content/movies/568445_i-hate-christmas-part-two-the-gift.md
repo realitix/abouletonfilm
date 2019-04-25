@@ -1,1 +1,0 @@
-{"tmdb_id": 568445, "title": "I Hate Christmas: Part Two - The Gift", "original_title": "I Hate Christmas: Part Two - The Gift", "slug_title": "i-hate-christmas-part-two-the-gift", "date": "2008-12-21", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

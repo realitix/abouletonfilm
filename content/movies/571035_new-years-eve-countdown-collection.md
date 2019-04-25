@@ -1,1 +1,0 @@
-{"tmdb_id": 571035, "title": "New Years Eve Countdown Collection", "original_title": "New Years Eve Countdown Collection", "slug_title": "new-years-eve-countdown-collection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v9fw30Hnd7NdBxanVCflXcKZnN1.jpg", "actors": [], "comments": [], "recommandations_id": []}

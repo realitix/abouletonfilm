@@ -1,1 +1,0 @@
-{"tmdb_id": 183860, "title": "The 727 Days Without Karamo", "original_title": "Die 727 Tage ohne Karamo", "slug_title": "the-727-days-without-karamo", "date": "2013-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zxZuyAFuaNeYxGci4bHNDDFQkz.jpg", "actors": [], "comments": [], "recommandations_id": []}

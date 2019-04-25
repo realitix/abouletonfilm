@@ -1,1 +1,0 @@
-{"tmdb_id": 575257, "title": "What Did You Seek for , Palupi ?", "original_title": "Apa Yang Kau Cari , Palupi ?", "slug_title": "what-did-you-seek-for-palupi", "date": "1969-02-12", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Asrul Sani (Director)"], "comments": [], "recommandations_id": []}

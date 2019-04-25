@@ -1,1 +1,0 @@
-{"tmdb_id": 397211, "title": "Kengere", "original_title": "Kengere", "slug_title": "kengere", "date": "2011-05-12", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/izPNVBe12Btml7YVQWqgIv5YFT0.jpg", "actors": [], "comments": [], "recommandations_id": []}

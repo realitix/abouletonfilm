@@ -1,1 +1,0 @@
-{"tmdb_id": 440335, "title": "Puberdade 2", "original_title": "Puberdade 2", "slug_title": "puberdade-2", "date": "1996-06-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ydN1KPPmzbcYrN4yQY9XmtWeqfU.jpg", "actors": [], "comments": [], "recommandations_id": []}

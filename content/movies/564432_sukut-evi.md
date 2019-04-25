@@ -1,1 +1,0 @@
-{"tmdb_id": 564432, "title": "S\u00fckut Evi", "original_title": "S\u00fckut Evi", "slug_title": "sukut-evi", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Melih Sel\u00e7uk ()", "Ece \u00d6zdikici ()", "Mehmet \u00d6zg\u00fcr ()"], "comments": [], "recommandations_id": []}

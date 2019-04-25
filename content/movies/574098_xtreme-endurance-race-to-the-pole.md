@@ -1,1 +1,0 @@
-{"tmdb_id": 574098, "title": "XTREME ENDURANCE: RACE TO THE POLE", "original_title": "XTREME ENDURANCE: RACE TO THE POLE", "slug_title": "xtreme-endurance-race-to-the-pole", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

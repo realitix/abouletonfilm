@@ -1,1 +1,0 @@
-{"tmdb_id": 418535, "title": "Headpin Hints", "original_title": "Headpin Hints", "slug_title": "headpin-hints", "date": "1955-12-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fred Wolf (Narrator (voice))", "Sylvia Wene (Herself)", "Lee Jouglard (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 522112, "title": "John Mortimer: A Life in Words", "original_title": "John Mortimer: A Life in Words", "slug_title": "john-mortimer-a-life-in-words", "date": "2009-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 328122, "title": "Peggy's Blue Skylight", "original_title": "Peggy's Blue Skylight", "slug_title": "peggy-s-blue-skylight", "date": "1964-01-01", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cWBaGIsJ183RHagfs62lVNprV0r.jpg", "actors": [], "comments": [], "recommandations_id": []}

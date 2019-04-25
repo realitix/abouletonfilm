@@ -1,1 +1,0 @@
-{"tmdb_id": 554597, "title": "El Corrido del Katch 2", "original_title": "El Corrido del Katch 2", "slug_title": "el-corrido-del-katch-2", "date": "2012-02-10", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7lyuJyKGUHAaSRQRbSgqfaKi9FV.jpg", "actors": [], "comments": [], "recommandations_id": []}

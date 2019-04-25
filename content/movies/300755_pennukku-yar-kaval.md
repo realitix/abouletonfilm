@@ -1,1 +1,0 @@
-{"tmdb_id": 300755, "title": "Pennukku Yar Kaval", "original_title": "Pennukku Yar Kaval", "slug_title": "pennukku-yar-kaval", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 391144, "title": "Muhammad Ali - Then and Now", "original_title": "Muhammad Ali - Then and Now", "slug_title": "muhammad-ali-then-and-now", "date": "2004-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

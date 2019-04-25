@@ -1,1 +1,0 @@
-{"tmdb_id": 272036, "title": "Nitt... Ndoxx", "original_title": "Nitt... Ndoxx", "slug_title": "nitt-ndoxx", "date": "1988-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Ramanjeliffa ()"], "comments": [], "recommandations_id": []}

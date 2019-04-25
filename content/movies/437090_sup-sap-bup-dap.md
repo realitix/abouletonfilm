@@ -1,1 +1,0 @@
-{"tmdb_id": 437090, "title": "Sup Sap Bup Dap", "original_title": "Shi san bu da", "slug_title": "sup-sap-bup-dap", "date": "1975-09-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yoPJLzqNJUv7u2nWIRuD7M9OSnt.jpg", "actors": [], "comments": [], "recommandations_id": []}

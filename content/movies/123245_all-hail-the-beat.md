@@ -1,1 +1,0 @@
-{"tmdb_id": 123245, "title": "All Hail the Beat", "original_title": "All Hail the Beat", "slug_title": "all-hail-the-beat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

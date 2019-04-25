@@ -1,1 +1,0 @@
-{"tmdb_id": 373211, "title": "Moscow - the Capital of Russia", "original_title": "Moscow - the Capital of Russia", "slug_title": "moscow-the-capital-of-russia", "date": "2007-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

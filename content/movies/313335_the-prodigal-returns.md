@@ -1,1 +1,0 @@
-{"tmdb_id": 313335, "title": "The Prodigal Returns", "original_title": "The Prodigal Returns", "slug_title": "the-prodigal-returns", "date": "2013-01-01", "genre": "Histoire / Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q0oqZK4DUxREFpZ4kULHrEhlSdj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 265487, "title": "I Am A Real Boy", "original_title": "I Am A Real Boy", "slug_title": "i-am-a-real-boy", "date": "2014-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

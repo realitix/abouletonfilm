@@ -1,1 +1,0 @@
-{"tmdb_id": 354612, "title": "The Mesh and the Circle", "original_title": "A Trama e o C\u00edrculo", "slug_title": "the-mesh-and-the-circle", "date": "2015-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tgaO99hKHhkuKO10xj84SOH4sI.jpg", "actors": [], "comments": [], "recommandations_id": []}

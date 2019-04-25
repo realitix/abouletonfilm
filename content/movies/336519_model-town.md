@@ -1,1 +1,0 @@
-{"tmdb_id": 336519, "title": "Model Town", "original_title": "Model Town", "slug_title": "model-town", "date": "2007-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/njzA6DDIAhxS3bE4BV4p6XicFWT.jpg", "actors": [], "comments": [], "recommandations_id": []}

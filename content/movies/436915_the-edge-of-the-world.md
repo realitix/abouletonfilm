@@ -1,1 +1,0 @@
-{"tmdb_id": 436915, "title": "The Edge of the World", "original_title": "O Cabo do Mundo", "slug_title": "the-edge-of-the-world", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j7J2ZXl2OW6nJfEQ3t8JIr7kKWy.jpg", "actors": [], "comments": [], "recommandations_id": []}

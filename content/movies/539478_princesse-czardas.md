@@ -1,1 +1,0 @@
-{"tmdb_id": 539478, "title": "Princesse Czardas", "original_title": "Princesse Czardas", "slug_title": "princesse-czardas", "date": "1934-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

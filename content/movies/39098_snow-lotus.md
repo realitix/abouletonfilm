@@ -1,1 +1,0 @@
-{"tmdb_id": 39098, "title": "Snow Lotus", "original_title": "Ganglamedo", "slug_title": "snow-lotus", "date": "2006-07-01", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7XmyHEMboMIyMubqmN7Ta5HMXC8.jpg", "actors": ["Kang Se-Jeong ()", "Hao Zheng ()", "Hao Bo-Jie ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 592738, "title": "Waldszenen", "original_title": "Waldszenen", "slug_title": "waldszenen", "date": "2015-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alexander Ebeert ()", "Juliane Z\u00f6llner ()"], "comments": [], "recommandations_id": []}

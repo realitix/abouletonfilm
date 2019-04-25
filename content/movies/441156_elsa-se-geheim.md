@@ -1,1 +1,0 @@
-{"tmdb_id": 441156, "title": "Elsa se Geheim", "original_title": "Elsa se Geheim", "slug_title": "elsa-se-geheim", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

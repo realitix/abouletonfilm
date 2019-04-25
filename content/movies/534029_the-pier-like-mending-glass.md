@@ -1,1 +1,0 @@
-{"tmdb_id": 534029, "title": "The Pier [Like Mending Glass]", "original_title": "The Pier [Like Mending Glass]", "slug_title": "the-pier-like-mending-glass", "date": "2017-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

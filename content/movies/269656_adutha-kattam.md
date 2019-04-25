@@ -1,1 +1,0 @@
-{"tmdb_id": 269656, "title": "Adutha Kattam", "original_title": "Adutha Kattam", "slug_title": "adutha-kattam", "date": "2013-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Bcj95MOYIVNi4LwFg4aLyB1UqO.jpg", "actors": [], "comments": [], "recommandations_id": []}

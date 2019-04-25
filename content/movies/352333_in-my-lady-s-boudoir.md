@@ -1,1 +1,0 @@
-{"tmdb_id": 352333, "title": "In My Lady's Boudoir", "original_title": "In My Lady's Boudoir", "slug_title": "in-my-lady-s-boudoir", "date": "1903-07-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kathryn Osterman ()"], "comments": [], "recommandations_id": []}

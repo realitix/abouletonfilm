@@ -1,1 +1,0 @@
-{"tmdb_id": 411650, "title": "Bradman - 87 Not Out", "original_title": "Bradman - 87 Not Out", "slug_title": "bradman-87-not-out", "date": "1996-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 190835, "title": "Making a Stetson", "original_title": "Making a Stetson", "slug_title": "making-a-stetson", "date": "1925-05-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gsl0BBUL72cCYSeOYEnuaFQPtEr.jpg", "actors": [], "comments": [], "recommandations_id": []}

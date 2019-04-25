@@ -1,1 +1,0 @@
-{"tmdb_id": 350907, "title": "\ucd95! \ucd1d\uac01\uc878\uc5c5", "original_title": "\ucd95! \ucd1d\uac01\uc878\uc5c5", "slug_title": "cug-conggagjoleob", "date": "1979-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

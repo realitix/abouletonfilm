@@ -1,1 +1,0 @@
-{"tmdb_id": 311276, "title": "Capoeira Na Veia", "original_title": "Capoeira Na Veia", "slug_title": "capoeira-na-veia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

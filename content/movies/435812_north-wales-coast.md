@@ -1,1 +1,0 @@
-{"tmdb_id": 435812, "title": "North Wales Coast", "original_title": "North Wales Coast", "slug_title": "north-wales-coast", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sMEH82VjbO7UU0VFIl6MlKyMa5N.jpg", "actors": [], "comments": [], "recommandations_id": []}

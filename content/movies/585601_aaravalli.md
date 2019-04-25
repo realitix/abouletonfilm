@@ -1,1 +1,0 @@
-{"tmdb_id": 585601, "title": "Aaravalli", "original_title": "Aaravalli", "slug_title": "aaravalli", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["M. Mynavethi ()", "G. Verelekshmi ()", "T.P. Muthulekshmi ()", "S.G. Easwer ()", "V. Gopalekrishnan ()"], "comments": [], "recommandations_id": []}

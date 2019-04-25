@@ -1,1 +1,0 @@
-{"tmdb_id": 467441, "title": "David Choe: High Risk", "original_title": "David Choe: High Risk", "slug_title": "david-choe-high-risk", "date": "2015-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eXKLoqH2TIVvMq2B0NxcjORsrSc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 595175, "title": "The Goat Who Climbed to Heaven", "original_title": "Kaza k\u0101pa debes\u012bs", "slug_title": "the-goat-who-climbed-to-heaven", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

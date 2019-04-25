@@ -1,1 +1,0 @@
-{"tmdb_id": 345389, "title": "Topor and Me", "original_title": "Topor Et Moi", "slug_title": "topor-and-me", "date": "2004-12-02", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/baQ8hFxBuBCyYp7YdxZethKHrtU.jpg", "actors": [], "comments": [], "recommandations_id": []}

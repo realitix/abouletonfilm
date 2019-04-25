@@ -1,1 +1,0 @@
-{"tmdb_id": 415134, "title": "agico mondo di Winnie the Pooh  Un giorno di scoperte", "original_title": "agico mondo di Winnie the Pooh  Un giorno di scoperte", "slug_title": "agico-mondo-di-winnie-the-pooh-un-giorno-di-scoperte", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

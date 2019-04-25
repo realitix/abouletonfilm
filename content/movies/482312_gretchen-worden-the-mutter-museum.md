@@ -1,1 +1,0 @@
-{"tmdb_id": 482312, "title": "Gretchen Worden: The Mutter Museum", "original_title": "Gretchen Worden: The Mutter Museum", "slug_title": "gretchen-worden-the-mutter-museum", "date": "2001-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

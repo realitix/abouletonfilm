@@ -1,1 +1,0 @@
-{"tmdb_id": 548905, "title": "Protejam essa laje", "original_title": "Protejam essa laje", "slug_title": "protejam-essa-laje", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/29EVWWvtU2q12WiPIN7hExh37Dc.jpg", "actors": [], "comments": [], "recommandations_id": []}

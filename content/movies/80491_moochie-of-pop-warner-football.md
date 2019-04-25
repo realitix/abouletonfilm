@@ -1,1 +1,0 @@
-{"tmdb_id": 80491, "title": "Moochie of Pop Warner Football", "original_title": "Moochie of Pop Warner Football", "slug_title": "moochie-of-pop-warner-football", "date": "1960-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kevin Corcoran ()", "Russ Conway ()", "Walt Disney ()"], "comments": [], "recommandations_id": []}

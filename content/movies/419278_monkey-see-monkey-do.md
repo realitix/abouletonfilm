@@ -1,1 +1,0 @@
-{"tmdb_id": 419278, "title": "Monkey See Monkey Do", "original_title": "Monkey See Monkey Do", "slug_title": "monkey-see-monkey-do", "date": "2009-12-01", "genre": "Aventure / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rHDTHHNqiN93mJGHJcUt3AaEWxR.jpg", "actors": [], "comments": [], "recommandations_id": []}

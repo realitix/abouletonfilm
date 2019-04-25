@@ -1,1 +1,0 @@
-{"tmdb_id": 237122, "title": "A Date for Dinner", "original_title": "A Date for Dinner", "slug_title": "a-date-for-dinner", "date": "1947-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ffVEcUqelIPEZycgNSChAKIyQet.jpg", "actors": [], "comments": [], "recommandations_id": []}

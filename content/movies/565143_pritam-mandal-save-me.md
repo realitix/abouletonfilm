@@ -1,1 +1,0 @@
-{"tmdb_id": 565143, "title": "Pritam Mandal: Save Me", "original_title": "Pritam Mandal: Save Me", "slug_title": "pritam-mandal-save-me", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6tZ1bXldMHBkfMwGvBS6rTGeBsC.jpg", "actors": ["Pritam Mandal (DJ)"], "comments": [], "recommandations_id": []}

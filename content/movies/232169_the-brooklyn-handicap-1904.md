@@ -1,1 +1,0 @@
-{"tmdb_id": 232169, "title": "The Brooklyn Handicap, 1904", "original_title": "The Brooklyn Handicap, 1904", "slug_title": "the-brooklyn-handicap-1904", "date": "1904-06-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

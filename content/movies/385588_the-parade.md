@@ -1,1 +1,0 @@
-{"tmdb_id": 385588, "title": "The Parade", "original_title": "Parada", "slug_title": "the-parade", "date": "1987-06-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3qrdu2fJKubTrIeJ3bbuMsruqbP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 541596, "title": "The Human Zoo", "original_title": "Calafate, zool\u00f3gicos humanos", "slug_title": "the-human-zoo", "date": "2011-08-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uKtThvtAlISWiqjnjmFWwblQRRj.jpg", "actors": [], "comments": [], "recommandations_id": []}

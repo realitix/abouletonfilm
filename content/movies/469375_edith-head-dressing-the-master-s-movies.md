@@ -1,1 +1,0 @@
-{"tmdb_id": 469375, "title": "Edith Head: Dressing the Master's Movies", "original_title": "Edith Head: Dressing the Master's Movies", "slug_title": "edith-head-dressing-the-master-s-movies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

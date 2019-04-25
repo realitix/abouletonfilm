@@ -1,1 +1,0 @@
-{"tmdb_id": 339460, "title": "Pavarotti The Duets", "original_title": "Pavarotti The Duets", "slug_title": "pavarotti-the-duets", "date": "2008-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xT1w3BGpWdgeSSHaZDsvJUmYKtD.jpg", "actors": [], "comments": [], "recommandations_id": []}

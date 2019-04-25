@@ -1,1 +1,0 @@
-{"tmdb_id": 490635, "title": "The Call of the Song", "original_title": "The Call of the Song", "slug_title": "the-call-of-the-song", "date": "1911-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mary Pickford (Amy Gordon)", "King Baggot (Hugh Norton)"], "comments": [], "recommandations_id": []}

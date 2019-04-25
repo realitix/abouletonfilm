@@ -1,1 +1,0 @@
-{"tmdb_id": 560081, "title": "Tecnicolor", "original_title": "Tecnicolor", "slug_title": "tecnicolor", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

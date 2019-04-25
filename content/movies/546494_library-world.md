@@ -1,1 +1,0 @@
-{"tmdb_id": 546494, "title": "Library World", "original_title": "Library World", "slug_title": "library-world", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

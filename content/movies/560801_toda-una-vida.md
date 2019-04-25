@@ -1,1 +1,1 @@
-{"tmdb_id": 560801, "title": "Toda una vida", "original_title": "Toda una vida", "slug_title": "toda-una-vida", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 560801, "title": "Toda una vida", "original_title": "Toda una vida", "slug_title": "toda-una-vida", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

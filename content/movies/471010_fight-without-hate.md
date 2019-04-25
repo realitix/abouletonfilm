@@ -1,1 +1,0 @@
-{"tmdb_id": 471010, "title": "Fight Without Hate", "original_title": "Fight Without Hate", "slug_title": "fight-without-hate", "date": "1948-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gVQJ6TK3RvqbceCBwQaoK3wwAn.jpg", "actors": [], "comments": [], "recommandations_id": []}

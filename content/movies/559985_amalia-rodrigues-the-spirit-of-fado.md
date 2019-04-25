@@ -1,1 +1,0 @@
-{"tmdb_id": 559985, "title": "Amalia Rodrigues - The Spirit of fado", "original_title": "Amalia Rodrigues - The Spirit of fado", "slug_title": "amalia-rodrigues-the-spirit-of-fado", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 120431, "title": "Takeover!", "original_title": "Takeover!", "slug_title": "takeover", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

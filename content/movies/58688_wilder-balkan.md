@@ -1,1 +1,0 @@
-{"tmdb_id": 58688, "title": "Wilder Balkan", "original_title": "Wilder Balkan", "slug_title": "wilder-balkan", "date": "2009-01-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dTWgyXjlSxMI7r0JNMhuhZxY6A0.jpg", "actors": [], "comments": [], "recommandations_id": []}

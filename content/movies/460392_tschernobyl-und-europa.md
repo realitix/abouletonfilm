@@ -1,1 +1,0 @@
-{"tmdb_id": 460392, "title": "Tschernobyl und Europa", "original_title": "Tschernobyl und Europa", "slug_title": "tschernobyl-und-europa", "date": "2006-06-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

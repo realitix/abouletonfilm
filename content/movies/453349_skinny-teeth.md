@@ -1,1 +1,0 @@
-{"tmdb_id": 453349, "title": "Skinny Teeth", "original_title": "Skinny Teeth", "slug_title": "skinny-teeth", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b2tGkY2oKrjjjizUwDtXciUnZ9c.jpg", "actors": [], "comments": [], "recommandations_id": []}

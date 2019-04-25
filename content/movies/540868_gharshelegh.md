@@ -1,1 +1,0 @@
-{"tmdb_id": 540868, "title": "Gharshelegh", "original_title": "\u0642\u0627\u0631\u0634\u0644\u0642", "slug_title": "gharshelegh", "date": "2018-09-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lCEJUtVLVjYq9QrdrttlvuK8YQp.jpg", "actors": [], "comments": [], "recommandations_id": []}

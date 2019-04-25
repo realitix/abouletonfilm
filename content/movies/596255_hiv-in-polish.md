@@ -1,1 +1,0 @@
-{"tmdb_id": 596255, "title": "HIV in Polish", "original_title": "HIV Po Polsku", "slug_title": "hiv-in-polish", "date": "2017-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ohEiUEGw3EPliajnpjxZWqdGZob.jpg", "actors": [], "comments": [], "recommandations_id": []}

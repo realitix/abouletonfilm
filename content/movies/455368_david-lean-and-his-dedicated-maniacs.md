@@ -1,1 +1,0 @@
-{"tmdb_id": 455368, "title": "David Lean and His Dedicated Maniacs", "original_title": "David Lean and His Dedicated Maniacs", "slug_title": "david-lean-and-his-dedicated-maniacs", "date": "2009-10-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

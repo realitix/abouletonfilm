@@ -1,1 +1,0 @@
-{"tmdb_id": 258692, "title": "Cinderella", "original_title": "Cinderella", "slug_title": "cinderella", "date": "1990-01-01", "genre": "Animation / Fantastique / Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rbzGHv4ir7BC3Nmlyf276yS0de8.jpg", "actors": [], "comments": [], "recommandations_id": []}

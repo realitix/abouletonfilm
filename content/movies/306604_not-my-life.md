@@ -1,1 +1,0 @@
-{"tmdb_id": 306604, "title": "Not My Life", "original_title": "Not My Life", "slug_title": "not-my-life", "date": "2011-10-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a9xE9vwZw3doB0nafVh7Rgn1TI5.jpg", "actors": ["Glenn Close (Narrator (voice))"], "comments": [], "recommandations_id": []}

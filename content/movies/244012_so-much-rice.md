@@ -1,1 +1,0 @@
-{"tmdb_id": 244012, "title": "So Much Rice", "original_title": "Hao duo da mi", "slug_title": "so-much-rice", "date": "2005-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/goOfGt8sp3axSVlOOQG8nIYkLlC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 354186, "title": "M\u00e9tropolitain", "original_title": "M\u00e9tropolitain", "slug_title": "metropolitain", "date": "1939-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vzchBeoT5lQVFluHCX8PKquH1FX.jpg", "actors": ["Albert Pr\u00e9jean (Pierre)"], "comments": [], "recommandations_id": []}

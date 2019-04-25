@@ -1,1 +1,0 @@
-{"tmdb_id": 275986, "title": "Luther: Opera in Two Acts", "original_title": "Luther: Opera in Two Acts", "slug_title": "luther-opera-in-two-acts", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 507985, "title": "Kingdom of the Forest", "original_title": "Kingdom of the Forest", "slug_title": "kingdom-of-the-forest", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tXuMbDHzXMzAlXPaTtxrZZAxy4t.jpg", "actors": [], "comments": [], "recommandations_id": []}

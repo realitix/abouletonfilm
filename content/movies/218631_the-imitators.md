@@ -1,1 +1,0 @@
-{"tmdb_id": 218631, "title": "The Imitators", "original_title": "The Imitators", "slug_title": "the-imitators", "date": "1996-11-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6slPf9hwrNssXW4IDZ9JnXhC4Bj.jpg", "actors": [], "comments": [], "recommandations_id": []}

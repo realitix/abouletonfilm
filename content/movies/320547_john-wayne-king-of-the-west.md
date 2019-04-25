@@ -1,1 +1,0 @@
-{"tmdb_id": 320547, "title": "John Wayne: King of the West", "original_title": "John Wayne: King of the West", "slug_title": "john-wayne-king-of-the-west", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

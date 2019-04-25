@@ -1,1 +1,0 @@
-{"tmdb_id": 506560, "title": "Serge Daney : le cin\u00e9ma et le monde", "original_title": "Serge Daney : le cin\u00e9ma et le monde", "slug_title": "serge-daney-le-cinema-et-le-monde", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

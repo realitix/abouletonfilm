@@ -1,1 +1,0 @@
-{"tmdb_id": 117685, "title": "Soundies Cavalcade", "original_title": "Soundies Cavalcade", "slug_title": "soundies-cavalcade", "date": "1945-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 546167, "title": "Kwagga Strikes Back", "original_title": "Kwagga Strikes Back", "slug_title": "kwagga-strikes-back", "date": "1990-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aa6DjQHH4CU7oVQiD3aPpvpXnxB.jpg", "actors": [], "comments": [], "recommandations_id": []}

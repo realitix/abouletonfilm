@@ -1,1 +1,0 @@
-{"tmdb_id": 351980, "title": "L' Ultimo film - The last movie", "original_title": "L' Ultimo film - The last movie", "slug_title": "l-ultimo-film-the-last-movie", "date": "2015-07-28", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stefano Simondo (Stefano)"], "comments": [], "recommandations_id": []}

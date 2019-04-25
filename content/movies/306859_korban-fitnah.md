@@ -1,1 +1,0 @@
-{"tmdb_id": 306859, "title": "Korban Fitnah", "original_title": "Korban Fitnah", "slug_title": "korban-fitnah", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8CKdwgk84mDeQPiCAgZ5Ho4Co03.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 310373, "title": "Ken Davis and Friends", "original_title": "Ken Davis and Friends", "slug_title": "ken-davis-and-friends", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

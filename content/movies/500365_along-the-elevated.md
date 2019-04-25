@@ -1,1 +1,0 @@
-{"tmdb_id": 500365, "title": "Along the Elevated", "original_title": "Along the Elevated", "slug_title": "along-the-elevated", "date": "2017-06-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

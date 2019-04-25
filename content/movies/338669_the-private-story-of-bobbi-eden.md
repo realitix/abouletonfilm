@@ -1,1 +1,0 @@
-{"tmdb_id": 338669, "title": "The Private Story of Bobbi Eden", "original_title": "The Private Story of Bobbi Eden", "slug_title": "the-private-story-of-bobbi-eden", "date": "2004-12-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bobbi Eden ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 594069, "title": "The Wind. A Documentary Thriller", "original_title": "Wiatr. Thriller dokumentalny", "slug_title": "the-wind-a-documentary-thriller", "date": "2019-04-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

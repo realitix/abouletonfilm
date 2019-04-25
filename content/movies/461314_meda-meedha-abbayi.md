@@ -1,1 +1,0 @@
-{"tmdb_id": 461314, "title": "Meda Meedha Abbayi", "original_title": "Meda Meedha Abbayi", "slug_title": "meda-meedha-abbayi", "date": "2017-08-26", "genre": "Romance", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8jfF8vtJIzgCP1Qy7Fsab25tazb.jpg", "actors": ["Allari Naresh ()"], "comments": [], "recommandations_id": []}

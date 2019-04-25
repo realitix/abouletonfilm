@@ -1,1 +1,0 @@
-{"tmdb_id": 371862, "title": "Naira's Chance", "original_title": "Naira's Chance", "slug_title": "naira-s-chance", "date": "2015-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Le Marechal (The Technician)", "Kikelomo Asaye (Naira)"], "comments": [], "recommandations_id": []}

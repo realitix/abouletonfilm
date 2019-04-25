@@ -1,1 +1,0 @@
-{"tmdb_id": 517044, "title": "This Is Not a Coup", "original_title": "Esto no es un golpe", "slug_title": "this-is-not-a-coup", "date": "2018-04-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8LAUiPykkY7F2WKeAi9CyvG4lb7.jpg", "actors": [], "comments": [], "recommandations_id": []}

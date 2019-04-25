@@ -1,1 +1,0 @@
-{"tmdb_id": 550346, "title": "The Return", "original_title": "Powr\u00f3t", "slug_title": "the-return", "date": "1973-06-21", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

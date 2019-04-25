@@ -1,1 +1,0 @@
-{"tmdb_id": 349736, "title": "\ud667\uae40\uc5d0?", "original_title": "\ud667\uae40\uc5d0?", "slug_title": "hwasgime", "date": "1993-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

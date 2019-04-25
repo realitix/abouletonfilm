@@ -1,1 +1,0 @@
-{"tmdb_id": 364756, "title": "Jellysmoke", "original_title": "Jellysmoke", "slug_title": "jellysmoke", "date": "2005-06-17", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Ealy (Jacob)", "Andre Royo (Paul)", "Opal Alladin (Cindy)"], "comments": [], "recommandations_id": []}

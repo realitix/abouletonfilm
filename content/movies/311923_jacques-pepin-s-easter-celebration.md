@@ -1,1 +1,0 @@
-{"tmdb_id": 311923, "title": "Jacques Pepin's Easter Celebration", "original_title": "Jacques Pepin's Easter Celebration", "slug_title": "jacques-pepin-s-easter-celebration", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

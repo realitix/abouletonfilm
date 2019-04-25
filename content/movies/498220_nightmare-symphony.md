@@ -1,1 +1,0 @@
-{"tmdb_id": 498220, "title": "NIGHTMARE SYMPHONY", "original_title": "NIGHTMARE SYMPHONY", "slug_title": "nightmare-symphony", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frank LaLoggia (The Director)"], "comments": [], "recommandations_id": []}

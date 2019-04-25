@@ -1,1 +1,0 @@
-{"tmdb_id": 460407, "title": "A P\u00e1l -utcai f\u00fak", "original_title": "A P\u00e1l -utcai f\u00fak", "slug_title": "a-pal-utcai-fuk", "date": "1929-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

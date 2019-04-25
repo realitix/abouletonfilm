@@ -1,1 +1,0 @@
-{"tmdb_id": 164121, "title": "Coda: Thirty Years Later", "original_title": "Coda: Thirty Years Later", "slug_title": "coda-thirty-years-later", "date": "2007-12-09", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AiSjvOiwI1dOOG7QQ8ta6PdvW9U.jpg", "actors": [], "comments": [], "recommandations_id": []}

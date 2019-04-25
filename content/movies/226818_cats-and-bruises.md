@@ -1,1 +1,0 @@
-{"tmdb_id": 226818, "title": "Cats and Bruises", "original_title": "Cats and Bruises", "slug_title": "cats-and-bruises", "date": "1965-01-30", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6nY1KGfUKhwABmw5pYH2jxvppjE.jpg", "actors": [], "comments": [], "recommandations_id": []}

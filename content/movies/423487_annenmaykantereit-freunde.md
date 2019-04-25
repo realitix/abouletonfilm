@@ -1,1 +1,0 @@
-{"tmdb_id": 423487, "title": "AnnenMayKantereit & Freunde", "original_title": "AnnenMayKantereit & Freunde", "slug_title": "annenmaykantereit-freunde", "date": "2016-09-10", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rB2W3LiOh2MX6RhQg5UxYzyuVXS.jpg", "actors": [], "comments": [], "recommandations_id": []}

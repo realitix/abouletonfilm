@@ -1,1 +1,0 @@
-{"tmdb_id": 560370, "title": "Modern China", "original_title": "Modern China", "slug_title": "modern-china", "date": "1909-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

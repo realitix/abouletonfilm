@@ -1,1 +1,0 @@
-{"tmdb_id": 277318, "title": "Living Without Money", "original_title": "Living Without Money", "slug_title": "living-without-money", "date": "2010-11-26", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

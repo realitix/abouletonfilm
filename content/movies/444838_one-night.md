@@ -1,1 +1,0 @@
-{"tmdb_id": 444838, "title": "One Night", "original_title": "One Night", "slug_title": "one-night", "date": "2000-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Katherine Horton ()", "Aixa Kendrick ()", "Rudy Mella (The Man)"], "comments": [], "recommandations_id": []}

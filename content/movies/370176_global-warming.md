@@ -1,1 +1,0 @@
-{"tmdb_id": 370176, "title": "Global Warming", "original_title": "Global Warming", "slug_title": "global-warming", "date": "2015-02-23", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5oGZjtDRHRNyV3giMYbUCpMCzTA.jpg", "actors": [], "comments": [], "recommandations_id": []}

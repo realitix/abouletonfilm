@@ -1,1 +1,0 @@
-{"tmdb_id": 483148, "title": "Jalda und Anna", "original_title": "Jalda und Anna", "slug_title": "jalda-und-anna", "date": "2012-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tmO7tvBlzzSOD9IX1psnMvIi1HT.jpg", "actors": ["Jalda Rebling (Jalda)", "Anna Adam (Anna)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 402838, "title": "The Innocent", "original_title": "The Innocent", "slug_title": "the-innocent", "date": "1994-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kelsey Grammer (Det. Frank Barlow)", "Polly Draper (Pamela Sutton)"], "comments": [], "recommandations_id": []}

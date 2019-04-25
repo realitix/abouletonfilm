@@ -1,1 +1,0 @@
-{"tmdb_id": 299888, "title": "Look Out for Trouble", "original_title": "Look Out for Trouble", "slug_title": "look-out-for-trouble", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v4w8Yax0hZEVnNen6s0CQzNlH6Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

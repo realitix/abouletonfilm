@@ -1,1 +1,1 @@
-{"tmdb_id": 113864, "title": "Euro Football", "original_title": "Euro Football", "slug_title": "euro-football", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 113864, "title": "Euro Football", "original_title": "Euro Football", "slug_title": "euro-football", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Euro football", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

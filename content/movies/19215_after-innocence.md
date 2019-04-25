@@ -1,1 +1,0 @@
-{"tmdb_id": 19215, "title": "After Innocence", "original_title": "After Innocence", "slug_title": "after-innocence", "date": "2005-10-23", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/abEMIxLr1zcsKHWFJA5IGgoLdSE.jpg", "actors": [], "comments": [], "recommandations_id": [177298]}

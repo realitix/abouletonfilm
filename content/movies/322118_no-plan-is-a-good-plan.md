@@ -1,1 +1,0 @@
-{"tmdb_id": 322118, "title": "No Plan Is A Good Plan", "original_title": "No Plan Is A Good Plan", "slug_title": "no-plan-is-a-good-plan", "date": "2011-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iIYB0jNfANI5dt6tqAZVErt8qe7.jpg", "actors": [], "comments": [], "recommandations_id": []}

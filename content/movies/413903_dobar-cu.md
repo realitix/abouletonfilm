@@ -1,1 +1,0 @@
-{"tmdb_id": 413903, "title": "Dobar C\u00fa", "original_title": "Dobar C\u00fa", "slug_title": "dobar-cu", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fUj8OXxx9wN80TpZOnSV2YMbeW2.jpg", "actors": [], "comments": [], "recommandations_id": []}

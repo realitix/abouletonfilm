@@ -1,1 +1,0 @@
-{"tmdb_id": 412831, "title": "Pathosis", "original_title": "Pathosis", "slug_title": "pathosis", "date": "2016-09-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/swunQOolFqMtn4YAbyEV9H47YWq.jpg", "actors": ["Yorgos Korobilis (Yorgos)", "Elli Stergiou (Elli)"], "comments": [], "recommandations_id": []}

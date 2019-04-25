@@ -1,1 +1,0 @@
-{"tmdb_id": 392064, "title": "A Place to Come", "original_title": "Un luogo a venire", "slug_title": "a-place-to-come", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k8W9RB93jYPFqZLpvh3VKayc4ib.jpg", "actors": [], "comments": [], "recommandations_id": []}

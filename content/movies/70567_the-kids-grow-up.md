@@ -1,1 +1,0 @@
-{"tmdb_id": 70567, "title": "The Kids Grow Up", "original_title": "The Kids Grow Up", "slug_title": "the-kids-grow-up", "date": "2010-10-31", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xsbVhOqgZ7Wsegh2WdBPT8RnJQJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

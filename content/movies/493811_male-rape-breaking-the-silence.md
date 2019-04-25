@@ -1,1 +1,0 @@
-{"tmdb_id": 493811, "title": "Male Rape: Breaking the Silence", "original_title": "Male Rape: Breaking the Silence", "slug_title": "male-rape-breaking-the-silence", "date": "2017-12-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alex Morgan ()"], "comments": [], "recommandations_id": []}

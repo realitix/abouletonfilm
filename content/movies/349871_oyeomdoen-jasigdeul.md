@@ -1,1 +1,0 @@
-{"tmdb_id": 349871, "title": "\uc624\uc5fc\ub41c \uc790\uc2dd\ub4e4", "original_title": "\uc624\uc5fc\ub41c \uc790\uc2dd\ub4e4", "slug_title": "oyeomdoen-jasigdeul", "date": "1982-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

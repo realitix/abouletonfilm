@@ -1,1 +1,0 @@
-{"tmdb_id": 363701, "title": "Journey", "original_title": "Safar", "slug_title": "journey", "date": "2014-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shweta Tripathi (Gouri)", "Mahabanoo Mody-Kotwal (Dhan)", "Vipin Sharma (Salim)", "Trimala Adhikari ()"], "comments": [], "recommandations_id": []}

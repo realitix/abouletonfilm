@@ -1,1 +1,0 @@
-{"tmdb_id": 116650, "title": "Grovt Skadeverk 2", "original_title": "Grovt Skadeverk 2", "slug_title": "grovt-skadeverk-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4SfY0gfa6OAVANNiD9YuyL8SETH.jpg", "actors": [], "comments": [], "recommandations_id": []}

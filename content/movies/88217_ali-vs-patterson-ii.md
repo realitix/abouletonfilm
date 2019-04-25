@@ -1,1 +1,0 @@
-{"tmdb_id": 88217, "title": "Ali vs Patterson II", "original_title": "Ali vs Patterson II", "slug_title": "ali-vs-patterson-ii", "date": "1972-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mLAmyortBWidt3TShwsOoSPpd0T.jpg", "actors": [], "comments": [], "recommandations_id": []}

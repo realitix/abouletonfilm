@@ -1,1 +1,0 @@
-{"tmdb_id": 179184, "title": "Water Birds", "original_title": "Water Birds", "slug_title": "water-birds", "date": "1952-06-26", "genre": "Documentaire / Familial", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qdoxUCJzujhdVdFNL9UAnTrQLaR.jpg", "actors": [], "comments": [], "recommandations_id": []}

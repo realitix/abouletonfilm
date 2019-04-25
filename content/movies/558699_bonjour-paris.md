@@ -1,1 +1,0 @@
-{"tmdb_id": 558699, "title": "Bonjour Paris", "original_title": "Bonjour Paris", "slug_title": "bonjour-paris", "date": "1953-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/awMFclNbRKGbczsiqSXpsPvEH5i.jpg", "actors": [], "comments": [], "recommandations_id": []}

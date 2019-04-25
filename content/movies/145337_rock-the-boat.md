@@ -1,1 +1,0 @@
-{"tmdb_id": 145337, "title": "Rock the Boat", "original_title": "C'est l'aviron", "slug_title": "rock-the-boat", "date": "1944-12-31", "genre": "Musique / Animation", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/66lbswzGSpBKdLNhu2TiM5PYpk3.jpg", "actors": [], "comments": [], "recommandations_id": [146362, 144674, 174298, 162755]}

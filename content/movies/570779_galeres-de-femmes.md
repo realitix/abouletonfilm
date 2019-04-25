@@ -1,1 +1,0 @@
-{"tmdb_id": 570779, "title": "Gal\u00e8res de femmes", "original_title": "Gal\u00e8res de femmes", "slug_title": "galeres-de-femmes", "date": "1993-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wF1pVoInjMmfeU7jFPv9pn3J0SG.jpg", "actors": [], "comments": [], "recommandations_id": []}

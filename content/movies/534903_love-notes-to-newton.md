@@ -1,1 +1,0 @@
-{"tmdb_id": 534903, "title": "Love Notes to Newton", "original_title": "Love Notes to Newton", "slug_title": "love-notes-to-newton", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ySDaqO5oYUGrkRqWOIxRsVxo8fN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 510593, "title": "H\u00f6hlenangst", "original_title": "H\u00f6hlenangst", "slug_title": "hohlenangst", "date": "1998-04-01", "genre": "Animation / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniel Nocke (Fl\u00f6t (voice))"], "comments": [], "recommandations_id": []}

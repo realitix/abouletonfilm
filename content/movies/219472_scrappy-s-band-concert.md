@@ -1,1 +1,0 @@
-{"tmdb_id": 219472, "title": "Scrappy's Band Concert", "original_title": "Scrappy's Band Concert", "slug_title": "scrappy-s-band-concert", "date": "1937-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

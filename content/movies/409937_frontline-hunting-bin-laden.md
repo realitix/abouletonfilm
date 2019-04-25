@@ -1,1 +1,0 @@
-{"tmdb_id": 409937, "title": "Frontline: Hunting Bin Laden", "original_title": "Frontline: Hunting Bin Laden", "slug_title": "frontline-hunting-bin-laden", "date": "2001-09-13", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aFUERaMjT7JHAzC7NVVavCG25lQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

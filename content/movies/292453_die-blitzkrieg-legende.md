@@ -1,1 +1,0 @@
-{"tmdb_id": 292453, "title": "Die Blitzkrieg-Legende", "original_title": "Die Blitzkrieg-Legende", "slug_title": "die-blitzkrieg-legende", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hjKhvW5VkKboGzxkcSZNvVUKD2G.jpg", "actors": [], "comments": [], "recommandations_id": []}

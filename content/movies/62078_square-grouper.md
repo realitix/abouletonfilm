@@ -1,1 +1,0 @@
-{"tmdb_id": 62078, "title": "Square Grouper", "original_title": "Square Grouper", "slug_title": "square-grouper", "date": "2011-04-15", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r8ZnuznK1Du91AYfHKnzJe6tGIF.jpg", "actors": [], "comments": [], "recommandations_id": []}

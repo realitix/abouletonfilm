@@ -1,1 +1,0 @@
-{"tmdb_id": 368079, "title": "Indiana Jones and the Last Crusade: A Look inside", "original_title": "Indiana Jones and the Last Crusade: A Look inside", "slug_title": "indiana-jones-and-the-last-crusade-a-look-inside", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

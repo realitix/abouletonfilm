@@ -1,1 +1,0 @@
-{"tmdb_id": 438515, "title": "As I Walk Through The Valley", "original_title": "As I Walk Through The Valley", "slug_title": "as-i-walk-through-the-valley", "date": "2017-03-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 512834, "title": "Schrodinger's Cat", "original_title": "Schrodinger's Cat", "slug_title": "schrodinger-s-cat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

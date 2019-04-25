@@ -1,1 +1,0 @@
-{"tmdb_id": 325720, "title": "No Love Song", "original_title": "No Love Song", "slug_title": "no-love-song", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

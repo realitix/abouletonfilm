@@ -1,1 +1,0 @@
-{"tmdb_id": 540005, "title": "As If We Were Tuna", "original_title": "As If We Were Tuna", "slug_title": "as-if-we-were-tuna", "date": "2018-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

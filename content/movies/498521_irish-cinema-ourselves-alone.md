@@ -1,1 +1,0 @@
-{"tmdb_id": 498521, "title": "Irish Cinema: Ourselves Alone?", "original_title": "Irish Cinema: Ourselves Alone?", "slug_title": "irish-cinema-ourselves-alone", "date": "1995-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/alf3GD9b6SVIhCYuAZKJHTBseUh.jpg", "actors": [], "comments": [], "recommandations_id": []}

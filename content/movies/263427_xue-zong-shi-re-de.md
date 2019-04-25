@@ -1,1 +1,0 @@
-{"tmdb_id": 263427, "title": "Xue, zong shi re de", "original_title": "Xue, zong shi re de", "slug_title": "xue-zong-shi-re-de", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fRsjCqXmplEoT55Ull8ZHXV9KoW.jpg", "actors": [], "comments": [], "recommandations_id": []}

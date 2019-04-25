@@ -1,1 +1,1 @@
-{"tmdb_id": 566176, "title": "Rat Killing", "original_title": "Rat Killing", "slug_title": "rat-killing", "date": "1894-05-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 566176, "title": "Rat Killing", "original_title": "Rat Killing", "slug_title": "rat-killing", "date": "1894-05-01", "genre": [""], "score": "2.0/10", "synopsis": "Edison short.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

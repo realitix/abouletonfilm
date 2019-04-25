@@ -1,1 +1,0 @@
-{"tmdb_id": 299651, "title": "Chronicle Reconstructions", "original_title": "Chronicle Reconstructions", "slug_title": "chronicle-reconstructions", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

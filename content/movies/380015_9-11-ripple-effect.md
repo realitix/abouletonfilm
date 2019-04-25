@@ -1,1 +1,0 @@
-{"tmdb_id": 380015, "title": "9-11 Ripple Effect", "original_title": "9-11 Ripple Effect", "slug_title": "9-11-ripple-effect", "date": "2007-06-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oG0Xp6BobmyJ3PwniJ5Fexfv1tM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 390611, "title": "TNA Slammiversary VIII", "original_title": "TNA Slammiversary VIII", "slug_title": "tna-slammiversary-viii", "date": "2010-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2o6GgWya83yIslv9jINehUfWtPd.jpg", "actors": [], "comments": [], "recommandations_id": []}

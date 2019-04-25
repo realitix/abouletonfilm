@@ -1,1 +1,0 @@
-{"tmdb_id": 284419, "title": "Taming the Quantum World", "original_title": "Den Forunderlige Kvanteverden", "slug_title": "taming-the-quantum-world", "date": "2013-12-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fszVRHiJ9BBQECEzUhEBiCQxLx0.jpg", "actors": [], "comments": [], "recommandations_id": []}

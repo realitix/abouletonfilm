@@ -1,1 +1,0 @@
-{"tmdb_id": 556712, "title": "The Sweetness of Loving", "original_title": "La douceur d'aimer", "slug_title": "the-sweetness-of-loving", "date": "1930-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

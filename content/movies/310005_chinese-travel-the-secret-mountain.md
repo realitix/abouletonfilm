@@ -1,1 +1,0 @@
-{"tmdb_id": 310005, "title": "Chinese Travel: The Secret Mountain", "original_title": "Chinese Travel: The Secret Mountain", "slug_title": "chinese-travel-the-secret-mountain", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

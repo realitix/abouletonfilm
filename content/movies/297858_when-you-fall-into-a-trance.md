@@ -1,1 +1,0 @@
-{"tmdb_id": 297858, "title": "When You Fall Into a Trance", "original_title": "When You Fall Into a Trance", "slug_title": "when-you-fall-into-a-trance", "date": "2014-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

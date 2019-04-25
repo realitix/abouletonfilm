@@ -1,1 +1,0 @@
-{"tmdb_id": 270357, "title": "The Carboard Bernini", "original_title": "The Carboard Bernini", "slug_title": "the-carboard-bernini", "date": "2012-10-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/upwtOhD9KyNPfnO6AqAPAUn0s69.jpg", "actors": [], "comments": [], "recommandations_id": []}

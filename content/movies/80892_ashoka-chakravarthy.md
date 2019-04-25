@@ -1,1 +1,0 @@
-{"tmdb_id": 80892, "title": "Ashoka Chakravarthy", "original_title": "Ashoka Chakravarthy", "slug_title": "ashoka-chakravarthy", "date": "1989-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tqzFIZYr4OWRkUN8nDkeciMQQea.jpg", "actors": ["Nandamuri Balakrishna (Hero)"], "comments": [], "recommandations_id": []}

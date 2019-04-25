@@ -1,1 +1,0 @@
-{"tmdb_id": 319566, "title": "Samurai: The Last Warrior", "original_title": "Samurai: The Last Warrior", "slug_title": "samurai-the-last-warrior", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

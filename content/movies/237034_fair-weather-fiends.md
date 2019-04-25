@@ -1,1 +1,0 @@
-{"tmdb_id": 237034, "title": "Fair Weather Fiends", "original_title": "Fair Weather Fiends", "slug_title": "fair-weather-fiends", "date": "1946-11-17", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oAaMgC6FsBwIYzWYzQofOmuWf5H.jpg", "actors": [], "comments": [], "recommandations_id": []}

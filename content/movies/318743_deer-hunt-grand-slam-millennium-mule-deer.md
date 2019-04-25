@@ -1,1 +1,0 @@
-{"tmdb_id": 318743, "title": "Deer Hunt Grand Slam: Millennium Mule Deer", "original_title": "Deer Hunt Grand Slam: Millennium Mule Deer", "slug_title": "deer-hunt-grand-slam-millennium-mule-deer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 593572, "title": "Hey Lawdy Mama", "original_title": "Hey Lawdy Mama", "slug_title": "hey-lawdy-mama", "date": "1944-04-08", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["June Richmond ()", "Roy Milton ()"], "comments": [], "recommandations_id": []}

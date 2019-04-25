@@ -1,1 +1,0 @@
-{"tmdb_id": 195644, "title": "MansFeld", "original_title": "MansFeld", "slug_title": "mansfeld", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/haTPzGhJwycL4KVwJWcH1rmCKWr.jpg", "actors": [], "comments": [], "recommandations_id": []}

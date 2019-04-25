@@ -1,1 +1,0 @@
-{"tmdb_id": 215413, "title": "The Real Power of Prayer", "original_title": "O verdadeiro poder da ora\u00e7\u00e3o", "slug_title": "the-real-power-of-prayer", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c5fPnWzd2tPVaiq0rZrxIvsKS6A.jpg", "actors": [], "comments": [], "recommandations_id": []}

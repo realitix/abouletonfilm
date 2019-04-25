@@ -1,1 +1,0 @@
-{"tmdb_id": 292225, "title": "Maria Chapdelaine", "original_title": "Maria Chapdelaine", "slug_title": "maria-chapdelaine", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

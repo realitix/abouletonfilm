@@ -1,1 +1,0 @@
-{"tmdb_id": 103929, "title": "Bad Boys of Summer", "original_title": "Bad Boys of Summer", "slug_title": "bad-boys-of-summer", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lgE7jR4SLnPWpC1AgkFfo81XzIN.jpg", "actors": [], "comments": [], "recommandations_id": []}

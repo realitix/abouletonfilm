@@ -1,1 +1,0 @@
-{"tmdb_id": 282712, "title": "The Tuxedo Theatre", "original_title": "The Tuxedo Theatre", "slug_title": "the-tuxedo-theatre", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

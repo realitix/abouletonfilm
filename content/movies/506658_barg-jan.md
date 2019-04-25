@@ -1,1 +1,0 @@
-{"tmdb_id": 506658, "title": "barg jan", "original_title": "barg jan", "slug_title": "barg-jan", "date": "2017-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hMOGnmRjNxNDkfb8qD1DFeW2ILs.jpg", "actors": ["Mehdi Ahmadi ()", "Saeed Poursamimi ()", "Maryam Moqadam ()"], "comments": [], "recommandations_id": []}

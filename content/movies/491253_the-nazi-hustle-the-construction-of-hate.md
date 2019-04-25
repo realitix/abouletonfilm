@@ -1,1 +1,0 @@
-{"tmdb_id": 491253, "title": "The Nazi Hustle: The Construction Of Hate", "original_title": "The Nazi Hustle: The Construction Of Hate", "slug_title": "the-nazi-hustle-the-construction-of-hate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

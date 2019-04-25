@@ -1,1 +1,0 @@
-{"tmdb_id": 594137, "title": "Soldado Estrangeiro", "original_title": "Soldado Estrangeiro", "slug_title": "soldado-estrangeiro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zpKL0ek0IePD9a9x2dHEyALcwu5.jpg", "actors": [], "comments": [], "recommandations_id": []}

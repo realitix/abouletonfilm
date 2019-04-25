@@ -1,1 +1,0 @@
-{"tmdb_id": 500478, "title": "Judith Loves Martha", "original_title": "Judith Loves Martha", "slug_title": "judith-loves-martha", "date": "2018-01-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Judith Godwin ()"], "comments": [], "recommandations_id": []}

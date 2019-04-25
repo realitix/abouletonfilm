@@ -1,1 +1,0 @@
-{"tmdb_id": 275264, "title": "Swedenborg", "original_title": "Swedenborg", "slug_title": "swedenborg", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kIM8YBv44G8GyKwqXc9Tu1Huke9.jpg", "actors": ["Rosa Morata ()", "Hiriam Abid ()"], "comments": [], "recommandations_id": []}

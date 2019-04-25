@@ -1,1 +1,0 @@
-{"tmdb_id": 595119, "title": "His Majesty, Bunker Bean", "original_title": "His Majesty, Bunker Bean", "slug_title": "his-majesty-bunker-bean", "date": "1925-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/43B2i759EVxsCdTTzCgntfDpuss.jpg", "actors": [], "comments": [], "recommandations_id": []}

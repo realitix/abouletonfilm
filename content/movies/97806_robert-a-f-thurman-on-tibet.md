@@ -1,1 +1,0 @@
-{"tmdb_id": 97806, "title": "Robert A.F. Thurman on Tibet", "original_title": "Robert A.F. Thurman on Tibet", "slug_title": "robert-a-f-thurman-on-tibet", "date": "2002-07-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Thurman (Self)"], "comments": [], "recommandations_id": []}

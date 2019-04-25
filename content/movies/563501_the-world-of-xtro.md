@@ -1,1 +1,0 @@
-{"tmdb_id": 563501, "title": "The World of Xtro", "original_title": "The World of Xtro", "slug_title": "the-world-of-xtro", "date": "2018-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

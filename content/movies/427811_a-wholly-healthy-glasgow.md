@@ -1,1 +1,0 @@
-{"tmdb_id": 427811, "title": "A Wholly Healthy Glasgow", "original_title": "A Wholly Healthy Glasgow", "slug_title": "a-wholly-healthy-glasgow", "date": "1988-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gerard Kelly ()", "Paul Higgins ()", "Tom Watson ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 572577, "title": "Every Other Saturday", "original_title": "Monsieur contre madame", "slug_title": "every-other-saturday", "date": "2000-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vAvfDog4PqLAcJzd77XaCT589ZN.jpg", "actors": [], "comments": [], "recommandations_id": []}

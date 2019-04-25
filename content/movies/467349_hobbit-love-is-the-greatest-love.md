@@ -1,1 +1,0 @@
-{"tmdb_id": 467349, "title": "Hobbit Love Is the Greatest Love", "original_title": "Hobbit Love Is the Greatest Love", "slug_title": "hobbit-love-is-the-greatest-love", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

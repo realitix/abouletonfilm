@@ -1,1 +1,0 @@
-{"tmdb_id": 253648, "title": "Chrome Children", "original_title": "Chrome Children", "slug_title": "chrome-children", "date": "2006-10-02", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/btr53R13aIrOxBg8s9KqJhvLBpK.jpg", "actors": [], "comments": [], "recommandations_id": []}

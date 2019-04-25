@@ -1,1 +1,0 @@
-{"tmdb_id": 31779, "title": "Jim Breuer: Hardcore", "original_title": "Jim Breuer: Hardcore", "slug_title": "jim-breuer-hardcore", "date": "2002-09-24", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u5aQ0WP7kLIioLhDPcuxTh9tBeF.jpg", "actors": ["Jim Breuer (Himself)"], "comments": [], "recommandations_id": []}

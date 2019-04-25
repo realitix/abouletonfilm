@@ -1,1 +1,0 @@
-{"tmdb_id": 507628, "title": "C Red Blue J", "original_title": "C Red Blue J", "slug_title": "c-red-blue-j", "date": "2008-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tpRwCxeSwYLd2qiRB9F6o8IKAX4.jpg", "actors": [], "comments": [], "recommandations_id": []}

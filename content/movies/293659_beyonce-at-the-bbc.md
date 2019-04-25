@@ -1,1 +1,0 @@
-{"tmdb_id": 293659, "title": "Beyonce at the BBC", "original_title": "Beyonce at the BBC", "slug_title": "beyonce-at-the-bbc", "date": "2006-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

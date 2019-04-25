@@ -1,1 +1,0 @@
-{"tmdb_id": 262288, "title": "Gunasundari", "original_title": "Gunasundari", "slug_title": "gunasundari", "date": "1955-12-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "Savitri ()", "T. P. Muthulakshmi ()", "S. V. Ranga Rao ()"], "comments": [], "recommandations_id": []}

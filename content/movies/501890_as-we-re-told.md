@@ -1,1 +1,0 @@
-{"tmdb_id": 501890, "title": "As We're Told", "original_title": "Vi bara lyder", "slug_title": "as-we-re-told", "date": "2017-11-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

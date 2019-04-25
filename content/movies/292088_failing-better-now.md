@@ -1,1 +1,0 @@
-{"tmdb_id": 292088, "title": "Failing Better Now", "original_title": "Failing Better Now", "slug_title": "failing-better-now", "date": "2010-05-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chris J. Murray (Jeff)"], "comments": [], "recommandations_id": []}

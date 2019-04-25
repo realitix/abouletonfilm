@@ -1,1 +1,0 @@
-{"tmdb_id": 435721, "title": "Atelier Colla", "original_title": "Atelier Colla", "slug_title": "atelier-colla", "date": "2011-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r8fJ3VjbdkWY9B5aVv1xYL2WnRT.jpg", "actors": [], "comments": [], "recommandations_id": [249873, 515130, 285038, 428237]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 357401, "title": "Gebet f\u00fcr die Linke", "original_title": "Gebet f\u00fcr die Linke", "slug_title": "gebet-fur-die-linke", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

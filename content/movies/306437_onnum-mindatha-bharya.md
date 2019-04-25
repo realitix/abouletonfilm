@@ -1,1 +1,0 @@
-{"tmdb_id": 306437, "title": "Onnum Mindatha Bharya", "original_title": "Onnum Mindatha Bharya", "slug_title": "onnum-mindatha-bharya", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

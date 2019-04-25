@@ -1,1 +1,0 @@
-{"tmdb_id": 172612, "title": "Amazons of Hong Kong", "original_title": "Amazons of Hong Kong", "slug_title": "amazons-of-hong-kong", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

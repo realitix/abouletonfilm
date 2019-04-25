@@ -1,1 +1,0 @@
-{"tmdb_id": 573198, "title": "Free Trip to Egypt", "original_title": "Free Trip to Egypt", "slug_title": "free-trip-to-egypt", "date": "2018-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fDMzQzHvmZoZwSk5eSBML81DAFo.jpg", "actors": [], "comments": [], "recommandations_id": []}

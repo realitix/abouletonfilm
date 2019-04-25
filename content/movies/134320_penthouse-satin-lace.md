@@ -1,1 +1,0 @@
-{"tmdb_id": 134320, "title": "Penthouse Satin & Lace", "original_title": "Penthouse Satin & Lace", "slug_title": "penthouse-satin-lace", "date": "1992-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z7HysMirRtFW0lHWW216GVaWMSP.jpg", "actors": [], "comments": [], "recommandations_id": []}

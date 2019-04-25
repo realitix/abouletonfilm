@@ -1,1 +1,0 @@
-{"tmdb_id": 444392, "title": "My Childhood in Hell", "original_title": "My Childhood in Hell", "slug_title": "my-childhood-in-hell", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

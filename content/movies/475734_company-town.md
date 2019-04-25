@@ -1,1 +1,0 @@
-{"tmdb_id": 475734, "title": "Company Town", "original_title": "Company Town", "slug_title": "company-town", "date": "2017-09-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qumemhmu6QbNEGy6zGohvunwnLF.jpg", "actors": [], "comments": [], "recommandations_id": []}

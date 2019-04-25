@@ -1,1 +1,0 @@
-{"tmdb_id": 85125, "title": "I for India", "original_title": "I for India", "slug_title": "i-for-india", "date": "2005-11-29", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2k6ysVFTRFQCi8QnW6x4f6VlHHj.jpg", "actors": [], "comments": [], "recommandations_id": []}

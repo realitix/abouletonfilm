@@ -1,1 +1,0 @@
-{"tmdb_id": 161439, "title": "Ashaant", "original_title": "Ashaant", "slug_title": "ashaant", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Akshay Kumar (Vijay)", "Vishnuvardhan (Vishnu)", "Ashwini Bhave (Anu / Anita)", "Mamta Kulkarni (Sonali)"], "comments": [], "recommandations_id": []}

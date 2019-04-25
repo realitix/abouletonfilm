@@ -1,1 +1,0 @@
-{"tmdb_id": 318019, "title": "Bumba - In de sneeuw", "original_title": "Bumba - In de sneeuw", "slug_title": "bumba-in-de-sneeuw", "date": "2011-11-23", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zSsu0sq7HxmbDlXnov2KyxF7tlK.jpg", "actors": [], "comments": [], "recommandations_id": []}

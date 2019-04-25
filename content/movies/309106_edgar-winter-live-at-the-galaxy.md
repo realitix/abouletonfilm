@@ -1,1 +1,0 @@
-{"tmdb_id": 309106, "title": "Edgar Winter: Live at the Galaxy", "original_title": "Edgar Winter: Live at the Galaxy", "slug_title": "edgar-winter-live-at-the-galaxy", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

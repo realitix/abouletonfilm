@@ -1,1 +1,0 @@
-{"tmdb_id": 210918, "title": "My Father, the Genius", "original_title": "My Father, the Genius", "slug_title": "my-father-the-genius", "date": "2002-01-14", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ihe4uIpM6SlSDVuzHmTf4F0Bk04.jpg", "actors": [], "comments": [], "recommandations_id": []}

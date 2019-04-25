@@ -1,1 +1,0 @@
-{"tmdb_id": 569227, "title": "Hitokara \u30d2\u30c8\u30ab\u30e9", "original_title": "Hitokara \u30d2\u30c8\u30ab\u30e9", "slug_title": "hitokara-hitokara", "date": "2018-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d71M4dBYLhkNVjB4RGkaUHycrvt.jpg", "actors": [], "comments": [], "recommandations_id": []}

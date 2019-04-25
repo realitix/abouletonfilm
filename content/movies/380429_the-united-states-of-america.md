@@ -1,1 +1,0 @@
-{"tmdb_id": 380429, "title": "The United States of America", "original_title": "The United States of America", "slug_title": "the-united-states-of-america", "date": "1975-01-01", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

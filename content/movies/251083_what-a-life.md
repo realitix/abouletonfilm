@@ -1,1 +1,0 @@
-{"tmdb_id": 251083, "title": "What a Life!", "original_title": "What a Life", "slug_title": "what-a-life", "date": "1948-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Massingham ()"], "comments": [], "recommandations_id": []}

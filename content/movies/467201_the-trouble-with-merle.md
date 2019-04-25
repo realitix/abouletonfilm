@@ -1,1 +1,0 @@
-{"tmdb_id": 467201, "title": "The Trouble with Merle", "original_title": "The Trouble with Merle", "slug_title": "the-trouble-with-merle", "date": "2002-08-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y3ttEA1OO35rSufjDeVaFzm9Pas.jpg", "actors": ["Merle Oberon (Self)"], "comments": [], "recommandations_id": []}

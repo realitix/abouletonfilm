@@ -1,1 +1,0 @@
-{"tmdb_id": 448623, "title": "Deolinda no Coliseu dos Recreios", "original_title": "Deolinda no Coliseu dos Recreios", "slug_title": "deolinda-no-coliseu-dos-recreios", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

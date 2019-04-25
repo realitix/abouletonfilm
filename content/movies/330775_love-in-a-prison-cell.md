@@ -1,1 +1,0 @@
-{"tmdb_id": 330775, "title": "Love in a Prison Cell", "original_title": "Hubb Fi-l-Zinzana", "slug_title": "love-in-a-prison-cell", "date": "1983-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

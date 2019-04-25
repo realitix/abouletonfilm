@@ -1,1 +1,0 @@
-{"tmdb_id": 310780, "title": "Crocodile Tears", "original_title": "Crocodile Tears", "slug_title": "crocodile-tears", "date": "1998-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7bpoFrC7tycGsnj7tgF8JcO8L9J.jpg", "actors": [], "comments": [], "recommandations_id": []}

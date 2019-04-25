@@ -1,1 +1,0 @@
-{"tmdb_id": 217297, "title": "Birth of a Golem", "original_title": "Birth of a Golem", "slug_title": "birth-of-a-golem", "date": "1990-08-27", "genre": "", "score": "1.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/37oIzWhnDfHoHl8Nno7olpGpTNm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 438249, "title": "Strange Oaks", "original_title": "Strange Oaks", "slug_title": "strange-oaks", "date": "2013-01-30", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tBe8mRcJXRuOvnJyKz5rMeM1rpF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 436706, "title": "Le Haut du Li\u00e8vre", "original_title": "Le Haut du Li\u00e8vre", "slug_title": "le-haut-du-lievre", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kyA5jLovB0h46ri8N4o3xO8scV1.jpg", "actors": [], "comments": [], "recommandations_id": []}

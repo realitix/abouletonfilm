@@ -1,1 +1,0 @@
-{"tmdb_id": 500226, "title": "Andamio", "original_title": "Andamio", "slug_title": "andamio", "date": "2012-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3NeK5cM6dpa5DRfcZuLwZzVpeDW.jpg", "actors": ["Paco Bl\u00e1zquez (David)", "Paco Bl\u00e1zquez (Eduardo)"], "comments": [], "recommandations_id": []}

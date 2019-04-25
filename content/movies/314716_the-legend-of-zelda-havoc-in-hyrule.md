@@ -1,1 +1,0 @@
-{"tmdb_id": 314716, "title": "The Legend of Zelda: Havoc in Hyrule", "original_title": "The Legend of Zelda: Havoc in Hyrule", "slug_title": "the-legend-of-zelda-havoc-in-hyrule", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

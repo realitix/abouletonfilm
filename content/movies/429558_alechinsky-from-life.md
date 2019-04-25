@@ -1,1 +1,0 @@
-{"tmdb_id": 429558, "title": "Alechinsky From Life", "original_title": "Alechinsky From Life", "slug_title": "alechinsky-from-life", "date": "1970-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

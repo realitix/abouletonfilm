@@ -1,1 +1,0 @@
-{"tmdb_id": 324994, "title": "Prophets of Doom", "original_title": "Prophets of Doom", "slug_title": "prophets-of-doom", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6sarGYxi4ZDxSOjdcU9n0c3rSlY.jpg", "actors": [], "comments": [], "recommandations_id": []}

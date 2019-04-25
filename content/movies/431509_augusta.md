@@ -1,1 +1,0 @@
-{"tmdb_id": 431509, "title": "Augusta", "original_title": "Augusta", "slug_title": "augusta", "date": "1976-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jTMzpiBLfmR0yIkKY1OFSgGmfQW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 468181, "title": "Across The River To Explore", "original_title": "Du jiang tan xian", "slug_title": "across-the-river-to-explore", "date": "1958-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cGrkk0A1CWk2jRqJYQlUbMcMQYZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

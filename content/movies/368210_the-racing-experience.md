@@ -1,1 +1,0 @@
-{"tmdb_id": 368210, "title": "The Racing Experience", "original_title": "The Racing Experience", "slug_title": "the-racing-experience", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

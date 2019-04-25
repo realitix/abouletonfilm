@@ -1,1 +1,0 @@
-{"tmdb_id": 184390, "title": "Under a Spell", "original_title": "Under a Spell", "slug_title": "under-a-spell", "date": "1925-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Neely Edwards ()", "Alice Howell ()", "Bert Roach (The Valet)"], "comments": [], "recommandations_id": []}

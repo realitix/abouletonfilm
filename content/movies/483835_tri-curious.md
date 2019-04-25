@@ -1,1 +1,0 @@
-{"tmdb_id": 483835, "title": "Tri-Curious", "original_title": "Tri-Curious", "slug_title": "tri-curious", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

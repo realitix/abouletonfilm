@@ -1,1 +1,0 @@
-{"tmdb_id": 165668, "title": "Abe Lyman & Band", "original_title": "Abe Lyman & Band", "slug_title": "abe-lyman-band", "date": "1933-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Abe Lyman ()"], "comments": [], "recommandations_id": []}

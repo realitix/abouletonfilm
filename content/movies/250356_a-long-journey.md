@@ -1,1 +1,0 @@
-{"tmdb_id": 250356, "title": "A Long Journey", "original_title": "Uma Longa Viagem", "slug_title": "a-long-journey", "date": "2011-07-11", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4c6MguG3nokuhwL6OrPo6Xgl3Di.jpg", "actors": ["Caio Blat ()"], "comments": [], "recommandations_id": []}

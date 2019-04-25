@@ -1,1 +1,0 @@
-{"tmdb_id": 298565, "title": "Swimming with Tears", "original_title": "Afureru atsui namida", "slug_title": "swimming-with-tears", "date": "1992-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jun Togawa (Asami Agawa)"], "comments": [], "recommandations_id": []}

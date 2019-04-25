@@ -1,1 +1,0 @@
-{"tmdb_id": 367861, "title": "Book of the Sword 2", "original_title": "Book of the Sword 2", "slug_title": "book-of-the-sword-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

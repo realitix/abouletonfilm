@@ -1,1 +1,0 @@
-{"tmdb_id": 158654, "title": "Officially Limited", "original_title": "Officially Limited", "slug_title": "officially-limited", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

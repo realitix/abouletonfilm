@@ -1,1 +1,0 @@
-{"tmdb_id": 525157, "title": "War Raiders", "original_title": "War Raiders", "slug_title": "war-raiders", "date": "2018-05-11", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rFR0S370GieNKqL1XzYW7Zno44n.jpg", "actors": ["Steve Diasparra ()", "Natalie Hallead ()"], "comments": [], "recommandations_id": []}

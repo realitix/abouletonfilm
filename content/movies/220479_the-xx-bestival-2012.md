@@ -1,1 +1,0 @@
-{"tmdb_id": 220479, "title": "The XX: Bestival 2012", "original_title": "The XX: Bestival 2012", "slug_title": "the-xx-bestival-2012", "date": "2012-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Y5VZxkf0Lhi5AYHVNdSRewHiSK.jpg", "actors": ["The XX ()"], "comments": [], "recommandations_id": []}

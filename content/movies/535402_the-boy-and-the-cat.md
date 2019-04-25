@@ -1,1 +1,0 @@
-{"tmdb_id": 535402, "title": "The Boy and the Cat", "original_title": "The Boy and the Cat", "slug_title": "the-boy-and-the-cat", "date": "1974-12-01", "genre": "Animation / Fantastique / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xT2u8Pwyql4LEYmVgPtJgMqMuES.jpg", "actors": [], "comments": [], "recommandations_id": []}

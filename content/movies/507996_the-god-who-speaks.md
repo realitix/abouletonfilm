@@ -1,1 +1,0 @@
-{"tmdb_id": 507996, "title": "The God Who Speaks", "original_title": "The God Who Speaks", "slug_title": "the-god-who-speaks", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

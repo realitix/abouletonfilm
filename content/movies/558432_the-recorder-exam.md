@@ -1,1 +1,0 @@
-{"tmdb_id": 558432, "title": "The Recorder Exam", "original_title": "\ub9ac\ucf54\ub354 \uc2dc\ud5d8", "slug_title": "the-recorder-exam", "date": "2011-06-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

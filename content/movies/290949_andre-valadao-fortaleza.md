@@ -1,1 +1,0 @@
-{"tmdb_id": 290949, "title": "Andr\u00e9 Valad\u00e3o - Fortaleza", "original_title": "Andr\u00e9 Valad\u00e3o - Fortaleza", "slug_title": "andre-valadao-fortaleza", "date": "2013-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aGDFQtasOFO9WJvGts8MdSY0i8.jpg", "actors": [], "comments": [], "recommandations_id": []}

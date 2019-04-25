@@ -1,1 +1,0 @@
-{"tmdb_id": 481195, "title": "Dementia", "original_title": "Dementia", "slug_title": "dementia", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d2yMUGj8VhC1x5hIK621xNjX9T.jpg", "actors": ["Lou Marie Kerr (Woman)", "Tom Webster (Man)"], "comments": [], "recommandations_id": []}

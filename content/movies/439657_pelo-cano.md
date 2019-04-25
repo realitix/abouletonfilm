@@ -1,1 +1,0 @@
-{"tmdb_id": 439657, "title": "Pelo Cano", "original_title": "Pelo Cano", "slug_title": "pelo-cano", "date": "2017-02-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paola Musatti ()", "Vera Abbud ()"], "comments": [], "recommandations_id": []}

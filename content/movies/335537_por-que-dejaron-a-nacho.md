@@ -1,1 +1,0 @@
-{"tmdb_id": 335537, "title": "Por Que Dejaron A Nacho?", "original_title": "Por Que Dejaron A Nacho?", "slug_title": "por-que-dejaron-a-nacho", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

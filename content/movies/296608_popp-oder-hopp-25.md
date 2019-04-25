@@ -1,1 +1,0 @@
-{"tmdb_id": 296608, "title": "Popp oder hopp 25", "original_title": "Popp oder hopp 25", "slug_title": "popp-oder-hopp-25", "date": "2008-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cmDa45aSfSE3cFdZkgtGd25nvaI.jpg", "actors": ["Jana Bach ()"], "comments": [], "recommandations_id": []}

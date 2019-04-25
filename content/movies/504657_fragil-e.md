@@ -1,1 +1,0 @@
-{"tmdb_id": 504657, "title": "FRAGIL(E)", "original_title": "FRAGIL(E)", "slug_title": "fragil-e", "date": "2005-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fM94714Y1zJv9iyDmKfZa1rRItj.jpg", "actors": [], "comments": [], "recommandations_id": []}

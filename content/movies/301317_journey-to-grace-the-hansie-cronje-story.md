@@ -1,1 +1,0 @@
-{"tmdb_id": 301317, "title": "Journey To Grace: The Hansie Cronje Story", "original_title": "Journey To Grace: The Hansie Cronje Story", "slug_title": "journey-to-grace-the-hansie-cronje-story", "date": "2012-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

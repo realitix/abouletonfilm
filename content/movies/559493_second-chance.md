@@ -1,1 +1,0 @@
-{"tmdb_id": 559493, "title": "Second Chance", "original_title": "Second Chance", "slug_title": "second-chance", "date": "2018-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ej0Mmy2zaS5OsrBrNoN5aAo2k4t.jpg", "actors": [], "comments": [], "recommandations_id": []}

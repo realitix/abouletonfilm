@@ -1,1 +1,0 @@
-{"tmdb_id": 321696, "title": "Sortie d'usine, [IV]", "original_title": "Sortie d'usine, [IV]", "slug_title": "sortie-d-usine-iv", "date": "1897-02-01", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

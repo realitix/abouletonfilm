@@ -1,1 +1,0 @@
-{"tmdb_id": 375557, "title": "Dogs used as smugglers", "original_title": "Les Chiens contrebandiers", "slug_title": "dogs-used-as-smugglers", "date": "1906-10-15", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

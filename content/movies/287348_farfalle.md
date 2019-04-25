@@ -1,1 +1,0 @@
-{"tmdb_id": 287348, "title": "Farfalle", "original_title": "Farfalle", "slug_title": "farfalle", "date": "1997-11-21", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Violante Placido (Sandra)", "Marzia Aquilani ()", "Lorenzo Flaherty (Pietro)"], "comments": [], "recommandations_id": []}

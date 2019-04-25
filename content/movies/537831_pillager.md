@@ -1,1 +1,0 @@
-{"tmdb_id": 537831, "title": "Pillager", "original_title": "Pillager", "slug_title": "pillager", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iktCu2SbUdugdmfz92w0b6eCClf.jpg", "actors": [], "comments": [], "recommandations_id": []}

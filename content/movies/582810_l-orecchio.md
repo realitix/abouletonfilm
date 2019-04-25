@@ -1,1 +1,0 @@
-{"tmdb_id": 582810, "title": "L'orecchio", "original_title": "L'orecchio", "slug_title": "l-orecchio", "date": "1986-02-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

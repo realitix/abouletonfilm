@@ -1,1 +1,0 @@
-{"tmdb_id": 305870, "title": "Iron  Ridge", "original_title": "Iron  Ridge", "slug_title": "iron-ridge", "date": "2012-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

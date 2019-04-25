@@ -1,1 +1,0 @@
-{"tmdb_id": 561129, "title": "Paris Urchin", "original_title": "Gamin de Paris", "slug_title": "paris-urchin", "date": "1954-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1qEPUg5HMqkrMkXxvsZP0akISH8.jpg", "actors": [], "comments": [], "recommandations_id": []}

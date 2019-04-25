@@ -1,1 +1,0 @@
-{"tmdb_id": 320338, "title": "Compassion in Action", "original_title": "Compassion in Action", "slug_title": "compassion-in-action", "date": "2014-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

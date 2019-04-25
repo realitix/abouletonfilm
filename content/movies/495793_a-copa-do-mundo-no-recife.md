@@ -1,1 +1,0 @@
-{"tmdb_id": 495793, "title": "A Copa do Mundo no Recife", "original_title": "A Copa do Mundo no Recife", "slug_title": "a-copa-do-mundo-no-recife", "date": "2014-08-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gJOxpZRfxFEvQN02tvdAkQHun78.jpg", "actors": [], "comments": [], "recommandations_id": []}

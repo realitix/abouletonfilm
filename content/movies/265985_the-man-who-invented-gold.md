@@ -1,1 +1,0 @@
-{"tmdb_id": 265985, "title": "The Man Who Invented Gold", "original_title": "The Man Who Invented Gold", "slug_title": "the-man-who-invented-gold", "date": "1957-08-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dGsMLd3RIRYWvHX0GAb2pFBzAKB.jpg", "actors": [], "comments": [], "recommandations_id": []}

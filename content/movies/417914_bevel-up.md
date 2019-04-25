@@ -1,1 +1,0 @@
-{"tmdb_id": 417914, "title": "Bevel Up", "original_title": "Bevel Up", "slug_title": "bevel-up", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

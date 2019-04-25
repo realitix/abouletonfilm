@@ -1,1 +1,0 @@
-{"tmdb_id": 485676, "title": "Fatcula", "original_title": "Fatcula", "slug_title": "fatcula", "date": "2016-11-26", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ycsPpIaQnyCOv2H05Iem2LHmg8h.jpg", "actors": [], "comments": [], "recommandations_id": []}

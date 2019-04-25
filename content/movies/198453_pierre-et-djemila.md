@@ -1,1 +1,0 @@
-{"tmdb_id": 198453, "title": "Pierre et Djemila", "original_title": "Pierre et Djemila", "slug_title": "pierre-et-djemila", "date": "1987-06-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8UKz5L3QwT8xBJ9pxP72aDeqzIC.jpg", "actors": [], "comments": [], "recommandations_id": []}

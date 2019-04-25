@@ -1,1 +1,0 @@
-{"tmdb_id": 475289, "title": "Analog Gaming", "original_title": "Analog Gaming", "slug_title": "analog-gaming", "date": "2017-08-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 260377, "title": "Erotic Journey", "original_title": "Gam gei yau hei", "slug_title": "erotic-journey", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kTyM7Al2CrMPoNXl0nt0CBa47YX.jpg", "actors": [], "comments": [], "recommandations_id": []}

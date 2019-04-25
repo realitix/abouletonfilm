@@ -1,1 +1,0 @@
-{"tmdb_id": 373846, "title": "Au pays de Zom", "original_title": "Au pays de Zom", "slug_title": "au-pays-de-zom", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sCte07P26ZzHwRhfOGrCxgF7pqr.jpg", "actors": [], "comments": [], "recommandations_id": []}

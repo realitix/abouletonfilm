@@ -1,1 +1,0 @@
-{"tmdb_id": 306228, "title": "Dezert People 11", "original_title": "Dezert People 11", "slug_title": "dezert-people-11", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

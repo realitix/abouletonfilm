@@ -1,1 +1,0 @@
-{"tmdb_id": 283316, "title": "Stone Lion", "original_title": "Stone Lion", "slug_title": "stone-lion", "date": "1990-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

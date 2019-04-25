@@ -1,1 +1,0 @@
-{"tmdb_id": 488420, "title": "Heads or Tails", "original_title": "Pile ou face", "slug_title": "heads-or-tails", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w4M0lhqMgTmK6v0XXUzUlVT8Wc6.jpg", "actors": [], "comments": [], "recommandations_id": []}

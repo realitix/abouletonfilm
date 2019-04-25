@@ -1,1 +1,0 @@
-{"tmdb_id": 509867, "title": "Daiva Thirumanangal", "original_title": "Daiva Thirumanangal", "slug_title": "daiva-thirumanangal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c0yHW98CfSxL9nT1RjLwxm1Ns2Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

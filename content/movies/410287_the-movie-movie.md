@@ -1,1 +1,0 @@
-{"tmdb_id": 410287, "title": "The Movie Movie", "original_title": "The Movie Movie", "slug_title": "the-movie-movie", "date": "2008-08-08", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jaBxIBCpmLxGHkSVsaq4TtsPrtW.jpg", "actors": ["Donald Trump ()"], "comments": [], "recommandations_id": []}

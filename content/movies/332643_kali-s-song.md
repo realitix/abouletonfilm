@@ -1,1 +1,0 @@
-{"tmdb_id": 332643, "title": "Kali's Song", "original_title": "Kali's Song", "slug_title": "kali-s-song", "date": "2015-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sxoBZOMbhr87KWAGWfZwagt2aqt.jpg", "actors": ["Susie Berneis (Narrator)"], "comments": [], "recommandations_id": []}

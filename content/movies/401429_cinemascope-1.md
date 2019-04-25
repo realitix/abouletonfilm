@@ -1,1 +1,0 @@
-{"tmdb_id": 401429, "title": "Cinemascope 1", "original_title": "Quinoscopio 1", "slug_title": "cinemascope-1", "date": "1986-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/auVQkKLUr5hnEBrrMlWGpEXpPwx.jpg", "actors": [], "comments": [], "recommandations_id": []}

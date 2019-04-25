@@ -1,1 +1,0 @@
-{"tmdb_id": 477593, "title": "O Lobisomem e o Coronel", "original_title": "O Lobisomem e o Coronel", "slug_title": "o-lobisomem-e-o-coronel", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

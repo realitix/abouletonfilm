@@ -1,1 +1,0 @@
-{"tmdb_id": 444393, "title": "Converso", "original_title": "Converso", "slug_title": "converso", "date": "2017-03-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/joerBiGKUMH6EyoP1jQAtw6z9Dy.jpg", "actors": [], "comments": [], "recommandations_id": []}

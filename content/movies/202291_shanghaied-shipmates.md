@@ -1,1 +1,0 @@
-{"tmdb_id": 202291, "title": "Shanghaied Shipmates", "original_title": "Shanghaied Shipmates", "slug_title": "shanghaied-shipmates", "date": "1936-06-19", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rt5qWfCUhR24OULIbuiKMrzJBLs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 479590, "title": "The Wave by The FIRM: Ride the WAVE", "original_title": "The Wave by The FIRM: Ride the WAVE", "slug_title": "the-wave-by-the-firm-ride-the-wave", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

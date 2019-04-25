@@ -1,1 +1,0 @@
-{"tmdb_id": 320171, "title": "Music That Wants Your Soul", "original_title": "Music That Wants Your Soul", "slug_title": "music-that-wants-your-soul", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

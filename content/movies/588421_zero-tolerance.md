@@ -1,1 +1,0 @@
-{"tmdb_id": 588421, "title": "Zero Tolerance", "original_title": "Zero Tolerance", "slug_title": "zero-tolerance", "date": "2015-07-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/64FrdOemmUgm335AJP5xetFg44H.jpg", "actors": ["Alex Cox (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 295358, "title": "Yellow Limbo", "original_title": "Yellow Limbo", "slug_title": "yellow-limbo", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

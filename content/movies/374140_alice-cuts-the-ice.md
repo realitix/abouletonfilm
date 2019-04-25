@@ -1,1 +1,0 @@
-{"tmdb_id": 374140, "title": "Alice Cuts the Ice", "original_title": "Alice Cuts the Ice", "slug_title": "alice-cuts-the-ice", "date": "1926-11-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Margie Gay (Alice)"], "comments": [], "recommandations_id": []}

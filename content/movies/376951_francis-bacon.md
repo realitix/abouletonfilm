@@ -1,1 +1,0 @@
-{"tmdb_id": 376951, "title": "Francis Bacon", "original_title": "Francis Bacon", "slug_title": "francis-bacon", "date": "1988-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/35a1iZi4Pm6AhNZ7ECjVl1j6dcS.jpg", "actors": ["Francis Bacon ()"], "comments": [], "recommandations_id": []}

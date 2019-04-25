@@ -1,1 +1,0 @@
-{"tmdb_id": 332620, "title": "Tashi's Turbine", "original_title": "Tashi's Turbine", "slug_title": "tashi-s-turbine", "date": "2015-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1AvNVw8JCjVj3dxryPxZn6KjuCF.jpg", "actors": [], "comments": [], "recommandations_id": []}

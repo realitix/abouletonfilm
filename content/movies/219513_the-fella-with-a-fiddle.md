@@ -1,1 +1,0 @@
-{"tmdb_id": 219513, "title": "The Fella with a Fiddle", "original_title": "The Fella with a Fiddle", "slug_title": "the-fella-with-a-fiddle", "date": "1937-03-26", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bQeelSlrecezFMp4XsCJuJHyVRl.jpg", "actors": [], "comments": [], "recommandations_id": []}

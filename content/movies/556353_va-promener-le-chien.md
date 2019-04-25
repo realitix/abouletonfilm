@@ -1,1 +1,0 @@
-{"tmdb_id": 556353, "title": "Va promener le chien", "original_title": "Va promener le chien", "slug_title": "va-promener-le-chien", "date": "1926-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

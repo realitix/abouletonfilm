@@ -1,1 +1,0 @@
-{"tmdb_id": 294117, "title": "Anderman", "original_title": "Anderman", "slug_title": "anderman", "date": "2006-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jUhyZR8CMG0ThjF0ZxFeKxL0n05.jpg", "actors": [], "comments": [], "recommandations_id": []}

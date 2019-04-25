@@ -1,1 +1,0 @@
-{"tmdb_id": 557625, "title": "Daytona", "original_title": "Daytona", "slug_title": "daytona", "date": "2004-02-12", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zqua7j7CCBBqfp9hJ9FbQsx0Yup.jpg", "actors": [], "comments": [], "recommandations_id": []}

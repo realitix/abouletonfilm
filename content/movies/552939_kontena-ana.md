@@ -1,1 +1,0 @@
-{"tmdb_id": 552939, "title": "Kontena Ana", "original_title": "Kontena Ana", "slug_title": "kontena-ana", "date": "2017-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f5SURrpTwteNBXcUxvmK245yooM.jpg", "actors": ["Lisa Surihani ()"], "comments": [], "recommandations_id": []}

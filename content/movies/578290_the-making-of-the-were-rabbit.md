@@ -1,1 +1,0 @@
-{"tmdb_id": 578290, "title": "The Making of the Were-Rabbit", "original_title": "The Making of the Were-Rabbit", "slug_title": "the-making-of-the-were-rabbit", "date": "2005-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

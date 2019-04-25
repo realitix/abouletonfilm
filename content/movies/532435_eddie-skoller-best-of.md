@@ -1,1 +1,0 @@
-{"tmdb_id": 532435, "title": "Eddie Skoller: Best Of", "original_title": "Eddie Skoller: Best Of", "slug_title": "eddie-skoller-best-of", "date": "2006-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xkelM1JILVMdp78hLVrci2lZNsb.jpg", "actors": ["Eddie Skoller (himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 76977, "title": "Bj\u00f8rnen", "original_title": "Bj\u00f8rnen", "slug_title": "bjornen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qKWPDkt6auy0FOtAoInd2US9MFj.jpg", "actors": ["Tch\u00e9ky Karyo ()", "Jack Wallace (Bill)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 298367, "title": "Flesh Computer", "original_title": "Flesh Computer", "slug_title": "flesh-computer", "date": "2014-02-07", "genre": "Science-Fiction", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jZVqOF7bw8Sw0RgIP1ij9ejobh8.jpg", "actors": [], "comments": [], "recommandations_id": [314238, 120777]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 503613, "title": "Miotte vu par Ra\u00fal Ruiz", "original_title": "Miotte vu par Ra\u00fal Ruiz", "slug_title": "miotte-vu-par-raul-ruiz", "date": "2002-05-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean Miotte ()"], "comments": [], "recommandations_id": []}

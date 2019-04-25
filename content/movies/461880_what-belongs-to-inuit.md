@@ -1,1 +1,0 @@
-{"tmdb_id": 461880, "title": "What Belongs to Inuit", "original_title": "Inuit Piqutingit", "slug_title": "what-belongs-to-inuit", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/55D6C7j6wUbxcazXY3mtIUBYaAk.jpg", "actors": [], "comments": [], "recommandations_id": []}

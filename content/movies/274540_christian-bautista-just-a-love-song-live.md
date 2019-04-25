@@ -1,1 +1,0 @@
-{"tmdb_id": 274540, "title": "Christian Bautista: Just a Love Song Live", "original_title": "Christian Bautista: Just a Love Song Live", "slug_title": "christian-bautista-just-a-love-song-live", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

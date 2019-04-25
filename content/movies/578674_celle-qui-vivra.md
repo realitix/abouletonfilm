@@ -1,1 +1,0 @@
-{"tmdb_id": 578674, "title": "Celle qui vivra", "original_title": "Celle qui vivra", "slug_title": "celle-qui-vivra", "date": "2017-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cDJLPGwCQaD6Mj82NjQ8jew52VL.jpg", "actors": [], "comments": [], "recommandations_id": []}

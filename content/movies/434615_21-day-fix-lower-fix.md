@@ -1,1 +1,0 @@
-{"tmdb_id": 434615, "title": "21 Day Fix - Lower Fix", "original_title": "21 Day Fix - Lower Fix", "slug_title": "21-day-fix-lower-fix", "date": "2014-01-01", "genre": "", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/64OSc3IRs1x8waZ3qIpxtui2nJg.jpg", "actors": ["Autumn Calabrese ()"], "comments": [], "recommandations_id": []}

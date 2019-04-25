@@ -1,1 +1,0 @@
-{"tmdb_id": 259759, "title": "Formula schastya", "original_title": "Formula schastya", "slug_title": "formula-schastya", "date": "2012-10-07", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ZWkX7b75WcH2uzj75lt8RkLe3s.jpg", "actors": [], "comments": [], "recommandations_id": []}

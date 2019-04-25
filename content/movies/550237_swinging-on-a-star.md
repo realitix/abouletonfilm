@@ -1,1 +1,0 @@
-{"tmdb_id": 550237, "title": "Swinging on a Star", "original_title": "Swinging on a Star", "slug_title": "swinging-on-a-star", "date": "2018-04-19", "genre": "Animation / Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s6chJcN7XVYOk4kr1HJCneUbX7Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

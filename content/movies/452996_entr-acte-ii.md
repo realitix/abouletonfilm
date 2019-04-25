@@ -1,1 +1,0 @@
-{"tmdb_id": 452996, "title": "Entr'acte II", "original_title": "Entr'acte II", "slug_title": "entr-acte-ii", "date": "2015-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wxPHAMAFG34MsBxTOeJrCkQN4Ps.jpg", "actors": [], "comments": [], "recommandations_id": []}

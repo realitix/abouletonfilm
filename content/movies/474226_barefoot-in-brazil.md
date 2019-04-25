@@ -1,1 +1,0 @@
-{"tmdb_id": 474226, "title": "Barefoot in Brazil", "original_title": "Barefoot in Brazil", "slug_title": "barefoot-in-brazil", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cQ0cTLkGkwIGgoEzKyg0RwcoiBF.jpg", "actors": [], "comments": [], "recommandations_id": []}

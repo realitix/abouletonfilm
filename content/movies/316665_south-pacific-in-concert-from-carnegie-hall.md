@@ -1,1 +1,0 @@
-{"tmdb_id": 316665, "title": "South Pacific: In Concert From Carnegie Hall", "original_title": "South Pacific: In Concert From Carnegie Hall", "slug_title": "south-pacific-in-concert-from-carnegie-hall", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

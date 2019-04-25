@@ -1,1 +1,0 @@
-{"tmdb_id": 545396, "title": "TGM the Liberator", "original_title": "TGM Osvoboditel", "slug_title": "tgm-the-liberator", "date": "1990-03-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

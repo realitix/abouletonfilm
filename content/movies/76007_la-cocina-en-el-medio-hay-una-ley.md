@@ -1,1 +1,0 @@
-{"tmdb_id": 76007, "title": "La Cocina (En el medio hay una ley)", "original_title": "La Cocina (En el medio hay una ley)", "slug_title": "la-cocina-en-el-medio-hay-una-ley", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9xMUuZxLnr31nhk6EgooZbECeOf.jpg", "actors": [], "comments": [], "recommandations_id": []}

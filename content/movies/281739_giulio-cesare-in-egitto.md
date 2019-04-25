@@ -1,1 +1,0 @@
-{"tmdb_id": 281739, "title": "Giulio Cesare in Egitto", "original_title": "Giulio Cesare in Egitto", "slug_title": "giulio-cesare-in-egitto", "date": "2012-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

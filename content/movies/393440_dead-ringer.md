@@ -1,1 +1,0 @@
-{"tmdb_id": 393440, "title": "Dead Ringer", "original_title": "Dead Ringer", "slug_title": "dead-ringer", "date": "2016-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3TDLJub7I8w42VvuYvwluxoyVQW.jpg", "actors": [], "comments": [], "recommandations_id": []}

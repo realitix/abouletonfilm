@@ -1,1 +1,0 @@
-{"tmdb_id": 510730, "title": "Spectrum", "original_title": "Spectrum", "slug_title": "spectrum", "date": "2018-03-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oFoGPRUGSylugfrrCJ9CkgYXK6i.jpg", "actors": [], "comments": [], "recommandations_id": []}

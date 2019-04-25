@@ -1,1 +1,0 @@
-{"tmdb_id": 310866, "title": "A Christmas Family Tragedy", "original_title": "A Christmas Family Tragedy", "slug_title": "a-christmas-family-tragedy", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

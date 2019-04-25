@@ -1,1 +1,0 @@
-{"tmdb_id": 567281, "title": "Operation Shadowman", "original_title": "Operation Shadowman", "slug_title": "operation-shadowman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

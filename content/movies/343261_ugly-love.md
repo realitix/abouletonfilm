@@ -1,1 +1,0 @@
-{"tmdb_id": 343261, "title": "Ugly Love", "original_title": "Ugly Love", "slug_title": "ugly-love", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9MCnAy8ZbHj6RaBU83I82ZhLVhM.jpg", "actors": ["Nick Bateman (Miles)", "Cody Hackman (Corbin)"], "comments": [], "recommandations_id": []}

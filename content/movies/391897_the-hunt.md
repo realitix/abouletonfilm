@@ -1,1 +1,0 @@
-{"tmdb_id": 391897, "title": "The Hunt", "original_title": "The Hunt", "slug_title": "the-hunt", "date": "2001-04-02", "genre": "Science-Fiction / Animation", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dt90aabQ7MZJtjQeU0XIJ1GW52s.jpg", "actors": [], "comments": [], "recommandations_id": []}

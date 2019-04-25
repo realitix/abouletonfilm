@@ -1,1 +1,0 @@
-{"tmdb_id": 502950, "title": "South Atlantic", "original_title": "South Atlantic", "slug_title": "south-atlantic", "date": "2013-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

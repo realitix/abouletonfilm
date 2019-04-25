@@ -1,1 +1,0 @@
-{"tmdb_id": 195940, "title": "Naughty Girls", "original_title": "\u6211\u4eec\u90fd\u662f\u574f\u5b69\u5b50", "slug_title": "naughty-girls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fgAnk4q95kFBFfLbv1dx5u42v9m.jpg", "actors": [], "comments": [], "recommandations_id": []}

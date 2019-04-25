@@ -1,1 +1,0 @@
-{"tmdb_id": 164313, "title": "The Final Season", "original_title": "The Final Season", "slug_title": "the-final-season", "date": "1989-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Burt Reynolds (Narrator)"], "comments": [], "recommandations_id": []}

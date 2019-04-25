@@ -1,1 +1,0 @@
-{"tmdb_id": 358025, "title": "Ten Foot Tall", "original_title": "Ten Foot Tall", "slug_title": "ten-foot-tall", "date": "1964-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i99Jj1PWUu075KAxr282hzwhSsx.jpg", "actors": ["Michael Collins (Commentary)"], "comments": [], "recommandations_id": []}

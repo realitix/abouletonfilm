@@ -1,1 +1,0 @@
-{"tmdb_id": 586122, "title": "Colours Of Money", "original_title": "Rongberonger Korhi", "slug_title": "colours-of-money", "date": "2018-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arunima Ghosh ()", "Rituparna Sengupta ()", "Soham Chakraborty ()", "Ritwik Chakraborty ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 340122, "title": "Starec Paisiy i Ya", "original_title": "Starec Paisiy i Ya", "slug_title": "starec-paisiy-i-ya", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

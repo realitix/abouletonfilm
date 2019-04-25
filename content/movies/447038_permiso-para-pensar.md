@@ -1,1 +1,0 @@
-{"tmdb_id": 447038, "title": "Permiso para pensar", "original_title": "Permiso para pensar", "slug_title": "permiso-para-pensar", "date": "1989-04-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oy8dArcUAfJ4ZvxEJTf5aXv5Tqe.jpg", "actors": [], "comments": [], "recommandations_id": []}

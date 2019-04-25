@@ -1,1 +1,0 @@
-{"tmdb_id": 366581, "title": "More Money, More Family", "original_title": "More Money, More Family", "slug_title": "more-money-more-family", "date": "2015-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/GmGUSdHFGJBCwuJT1K6nuUYNjp.jpg", "actors": [], "comments": [], "recommandations_id": []}

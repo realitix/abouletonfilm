@@ -1,1 +1,0 @@
-{"tmdb_id": 460981, "title": "Losing It", "original_title": "Losing It", "slug_title": "losing-it", "date": "2017-01-20", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iLs1Iwoj28Fm3EqV7OhMfl6xHXn.jpg", "actors": ["Bryce Earhart ()", "Rachelle Henry ()"], "comments": [], "recommandations_id": []}

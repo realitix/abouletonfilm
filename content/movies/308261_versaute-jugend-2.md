@@ -1,1 +1,0 @@
-{"tmdb_id": 308261, "title": "Versaute Jugend 2", "original_title": "Versaute Jugend 2", "slug_title": "versaute-jugend-2", "date": "2006-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zPUSWWMVRBMZ1GdV3tSjnbKyfn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 217194, "title": "Os Carrinhos ao Vivo", "original_title": "Os Carrinhos ao Vivo", "slug_title": "os-carrinhos-ao-vivo", "date": "2012-10-24", "genre": "Animation", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bVSvKKLdknMO4hIbKuWkK95Yebo.jpg", "actors": [], "comments": [], "recommandations_id": []}

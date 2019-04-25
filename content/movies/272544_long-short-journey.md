@@ -1,1 +1,0 @@
-{"tmdb_id": 272544, "title": "Long Short Journey", "original_title": "Long Short Journey", "slug_title": "long-short-journey", "date": "2009-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

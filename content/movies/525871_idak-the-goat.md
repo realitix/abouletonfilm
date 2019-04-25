@@ -1,1 +1,0 @@
-{"tmdb_id": 525871, "title": "Idak: The Goat", "original_title": "Idak: The Goat", "slug_title": "idak-the-goat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

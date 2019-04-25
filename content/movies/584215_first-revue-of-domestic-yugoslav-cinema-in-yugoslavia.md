@@ -1,1 +1,0 @@
-{"tmdb_id": 584215, "title": "First Revue of Domestic Yugoslav cinema in Yugoslavia", "original_title": "Prva revija doma\u0107eg filma", "slug_title": "first-revue-of-domestic-yugoslav-cinema-in-yugoslavia", "date": "1954-08-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

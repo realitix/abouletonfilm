@@ -1,1 +1,0 @@
-{"tmdb_id": 68592, "title": "My Asian Girlfriend 2", "original_title": "My Asian Girlfriend 2", "slug_title": "my-asian-girlfriend-2", "date": "2011-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vbRyEq5RhewTkH2TXxjh0MuBb3Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

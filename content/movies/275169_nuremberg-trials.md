@@ -1,1 +1,0 @@
-{"tmdb_id": 275169, "title": "Nuremberg Trials", "original_title": "Nuremberg Trials", "slug_title": "nuremberg-trials", "date": "1947-05-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rnwIurA2RbLBqXWmdDEh9VLFYoj.jpg", "actors": [], "comments": [], "recommandations_id": []}

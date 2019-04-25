@@ -1,1 +1,0 @@
-{"tmdb_id": 193507, "title": "Exile Family Movie", "original_title": "Exile Family Movie", "slug_title": "exile-family-movie", "date": "2006-09-28", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fuY64Hdc7mgxbTmtlzorrLzY8WQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

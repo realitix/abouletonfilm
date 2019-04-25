@@ -1,1 +1,0 @@
-{"tmdb_id": 195063, "title": "\u5730\u7403\u9020\u4eba", "original_title": "\u5730\u7403\u9020\u4eba", "slug_title": "di-qiu-zao-ren", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/llbLhvoU25k6SR8B8WbREnVomkt.jpg", "actors": [], "comments": [], "recommandations_id": []}

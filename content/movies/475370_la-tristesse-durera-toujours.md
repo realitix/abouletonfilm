@@ -1,1 +1,0 @@
-{"tmdb_id": 475370, "title": "La Tristesse Durera Toujours", "original_title": "La Tristesse Durera Toujours", "slug_title": "la-tristesse-durera-toujours", "date": "2017-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

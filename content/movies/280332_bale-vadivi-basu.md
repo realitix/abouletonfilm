@@ -1,1 +1,0 @@
-{"tmdb_id": 280332, "title": "Bale Vadivi Basu", "original_title": "Bale Vadivi Basu", "slug_title": "bale-vadivi-basu", "date": "2001-06-15", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nandamuri Balakrishna ()", "Shilpa Shetty ()", "Anjala Zaveri ()", "Prakash Raj ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 561468, "title": "Wan Xia: The Last Light of the Sunset", "original_title": "Wan Xia: The Last Light of the Sunset", "slug_title": "wan-xia-the-last-light-of-the-sunset", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

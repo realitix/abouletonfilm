@@ -1,1 +1,0 @@
-{"tmdb_id": 573178, "title": "The Edge of Joy", "original_title": "The Edge of Joy", "slug_title": "the-edge-of-joy", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r1uQmfqHgPUnyYc3qrewmM64cJS.jpg", "actors": [], "comments": [], "recommandations_id": []}

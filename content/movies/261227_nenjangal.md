@@ -1,1 +1,0 @@
-{"tmdb_id": 261227, "title": "Nenjangal", "original_title": "Nenjangal", "slug_title": "nenjangal", "date": "1982-12-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sivaji Ganesan ()", "Lakshmi ()", "Thengai Srinivasan ()", "Thiagarajan ()", "Vijayakumar ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 275271, "title": "Men of Fire", "original_title": "Ombres de foc", "slug_title": "men-of-fire", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rosa Morata ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 289372, "title": "Liebling, du irrst", "original_title": "Liebling, du irrst", "slug_title": "liebling-du-irrst", "date": "1979-07-14", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Regina Beyer (Uschi)", "Heinz Rennhack (Jochen)", "G\u00fcnter Schubert (Klaus)"], "comments": [], "recommandations_id": []}

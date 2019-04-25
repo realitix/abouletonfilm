@@ -1,1 +1,0 @@
-{"tmdb_id": 33168, "title": "Purple Triangles", "original_title": "Purple Triangles", "slug_title": "purple-triangles", "date": "2001-01-01", "genre": "Documentaire / Histoire", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/854gpDsuC4MDT5yPTyx0Lq0fMM1.jpg", "actors": [], "comments": [], "recommandations_id": []}

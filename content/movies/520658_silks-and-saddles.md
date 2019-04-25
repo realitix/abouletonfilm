@@ -1,1 +1,0 @@
-{"tmdb_id": 520658, "title": "Silks and Saddles", "original_title": "Silks and Saddles", "slug_title": "silks-and-saddles", "date": "1929-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

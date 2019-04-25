@@ -1,1 +1,0 @@
-{"tmdb_id": 189764, "title": "\u0160vejk v civilu", "original_title": "\u0160vejk v civilu", "slug_title": "svejk-v-civilu", "date": "1927-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

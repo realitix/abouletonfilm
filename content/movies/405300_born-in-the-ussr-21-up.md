@@ -1,1 +1,0 @@
-{"tmdb_id": 405300, "title": "Born in the USSR: 21 Up", "original_title": "Born in the USSR: 21 Up", "slug_title": "born-in-the-ussr-21-up", "date": "2005-11-29", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iJ8FW2VroAMfOIcOB5V583Bo7Vq.jpg", "actors": [], "comments": [], "recommandations_id": []}

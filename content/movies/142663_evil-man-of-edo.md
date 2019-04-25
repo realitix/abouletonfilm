@@ -1,1 +1,0 @@
-{"tmdb_id": 142663, "title": "Evil Man of Edo", "original_title": "Edo no akutaro", "slug_title": "evil-man-of-edo", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/39WrekIXUKDC54LjLsqSTrHwqIW.jpg", "actors": [], "comments": [], "recommandations_id": []}

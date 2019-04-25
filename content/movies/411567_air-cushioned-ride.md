@@ -1,1 +1,0 @@
-{"tmdb_id": 411567, "title": "Air Cushioned Ride", "original_title": "Air Cushioned Ride", "slug_title": "air-cushioned-ride", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9KDnYFR5IeaFjurqTA1obziFH26.jpg", "actors": [], "comments": [], "recommandations_id": []}

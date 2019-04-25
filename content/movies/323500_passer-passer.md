@@ -1,1 +1,0 @@
-{"tmdb_id": 323500, "title": "Passer Passer", "original_title": "PASSER PASSER", "slug_title": "passer-passer", "date": "2014-01-20", "genre": "Animation / Musique", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/arfFzyWUx7TIZVCqqU7zZAidTeM.jpg", "actors": [], "comments": [], "recommandations_id": []}

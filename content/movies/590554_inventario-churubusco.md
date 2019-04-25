@@ -1,1 +1,0 @@
-{"tmdb_id": 590554, "title": "Inventario Churubusco", "original_title": "Inventario Churubusco", "slug_title": "inventario-churubusco", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vWh4HxfOJIOmu1dDtfOOZlOOHVU.jpg", "actors": [], "comments": [], "recommandations_id": []}

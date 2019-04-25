@@ -1,1 +1,0 @@
-{"tmdb_id": 460696, "title": "The Night Bird", "original_title": "The Night Bird", "slug_title": "the-night-bird", "date": "1977-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Nllhy5KiTHW0qeuXCTJUNykI25.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 98884, "title": "Grinders", "original_title": "Grinders", "slug_title": "grinders", "date": "2011-04-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ecL6wgp7h2Zfi3REpstvgjazwER.jpg", "actors": [], "comments": [], "recommandations_id": []}

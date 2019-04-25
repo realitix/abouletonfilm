@@ -1,1 +1,0 @@
-{"tmdb_id": 316708, "title": "Over New England", "original_title": "Over New England", "slug_title": "over-new-england", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

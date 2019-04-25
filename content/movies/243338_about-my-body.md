@@ -1,1 +1,0 @@
-{"tmdb_id": 243338, "title": "About My Body", "original_title": "About My Body", "slug_title": "about-my-body", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

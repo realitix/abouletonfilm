@@ -1,1 +1,0 @@
-{"tmdb_id": 406571, "title": "The Magician", "original_title": "The Magician", "slug_title": "the-magician", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Q7GIOvM1q5f6JbP6yLjbToak7M.jpg", "actors": ["Robin Davies (Steve)", "Brinsley Forde (Toby)"], "comments": [], "recommandations_id": []}

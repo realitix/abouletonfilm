@@ -1,1 +1,0 @@
-{"tmdb_id": 283498, "title": "The Evil Faerie", "original_title": "The Evil Faerie", "slug_title": "the-evil-faerie", "date": "1966-01-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/irAMSuoGudI7oycuk8kyY8P5ySU.jpg", "actors": ["Steven M. Zinc ()"], "comments": [], "recommandations_id": []}

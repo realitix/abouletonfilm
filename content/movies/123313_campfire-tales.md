@@ -1,1 +1,0 @@
-{"tmdb_id": 123313, "title": "Campfire Tales", "original_title": "Campfire Tales", "slug_title": "campfire-tales", "date": "1991-10-01", "genre": "Thriller / Horreur", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2iOUFJY3cx0x51lKIuUEUPqzdAQ.jpg", "actors": ["Gunnar Hansen (Ralph)"], "comments": [], "recommandations_id": []}

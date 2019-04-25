@@ -1,1 +1,0 @@
-{"tmdb_id": 542783, "title": "Fabulous", "original_title": "Maravilhosa", "slug_title": "fabulous", "date": "2017-12-21", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nIOwAQn7FuKwAJHPPUca2jK07DT.jpg", "actors": ["L\u00e1zaro dos Anjos ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 347515, "title": "After Jenin", "original_title": "After Jenin", "slug_title": "after-jenin", "date": "2002-09-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

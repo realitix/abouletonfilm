@@ -1,1 +1,0 @@
-{"tmdb_id": 507016, "title": "Cabina Relax", "original_title": "Cabina Relax", "slug_title": "cabina-relax", "date": "2018-02-22", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nBckyipb8jCzJce3eUEP2lRRZU8.jpg", "actors": ["Daniel Cecilia ()", "Jordi Rosa ()"], "comments": [], "recommandations_id": []}

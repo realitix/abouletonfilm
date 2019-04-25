@@ -1,1 +1,0 @@
-{"tmdb_id": 311862, "title": "Jigarwala", "original_title": "Jigarwala", "slug_title": "jigarwala", "date": "1991-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

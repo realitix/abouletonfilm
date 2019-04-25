@@ -1,1 +1,0 @@
-{"tmdb_id": 196648, "title": "The Vacuum Cleaner", "original_title": "L'aspirateur", "slug_title": "the-vacuum-cleaner", "date": "1908-01-01", "genre": "Fantastique / Com\u00e9die / Science-Fiction", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7z7xwsyxdHNtxyHC6GXPTCsRyWj.jpg", "actors": [], "comments": [], "recommandations_id": []}

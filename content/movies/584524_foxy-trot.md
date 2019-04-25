@@ -1,1 +1,0 @@
-{"tmdb_id": 584524, "title": "Foxy Trot", "original_title": "Foxy Trot", "slug_title": "foxy-trot", "date": "2018-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qcEB7ptdilBMVwPWMvXWK1V17f4.jpg", "actors": [], "comments": [], "recommandations_id": []}

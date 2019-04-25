@@ -1,1 +1,0 @@
-{"tmdb_id": 184878, "title": "Navy Blue Days", "original_title": "Navy Blue Days", "slug_title": "navy-blue-days", "date": "1925-05-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stan Laurel (Stan)", "Julie Leonard (Grenadine)", "Glen Cavender (Peter Vermicelli)"], "comments": [], "recommandations_id": []}

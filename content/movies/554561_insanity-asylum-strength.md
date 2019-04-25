@@ -1,1 +1,0 @@
-{"tmdb_id": 554561, "title": "Insanity! Asylum: Strength", "original_title": "Insanity! Asylum: Strength", "slug_title": "insanity-asylum-strength", "date": "2011-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/58qMwZlR9eBETptfZW4zVHOKM2J.jpg", "actors": [], "comments": [], "recommandations_id": []}

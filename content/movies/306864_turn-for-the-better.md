@@ -1,1 +1,0 @@
-{"tmdb_id": 306864, "title": "Turn for the Better", "original_title": "Turn for the Better", "slug_title": "turn-for-the-better", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

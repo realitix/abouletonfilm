@@ -1,1 +1,0 @@
-{"tmdb_id": 285003, "title": "The Magic Braid", "original_title": "\u795e\u97ad", "slug_title": "the-magic-braid", "date": "1986-01-02", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zIR2G2jBZBEDTi0K3atgX0IrP0m.jpg", "actors": ["Yawei Wang ()", "Shouli Xu ()", "Chen Baoguo ()"], "comments": [], "recommandations_id": []}

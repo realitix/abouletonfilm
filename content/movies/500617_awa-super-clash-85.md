@@ -1,1 +1,0 @@
-{"tmdb_id": 500617, "title": "AWA Super Clash '85", "original_title": "AWA Super Clash '85", "slug_title": "awa-super-clash-85", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gNOT5f2Z22FHq6UeD1fCtuPmEJp.jpg", "actors": [], "comments": [], "recommandations_id": []}

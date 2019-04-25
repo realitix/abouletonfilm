@@ -1,1 +1,0 @@
-{"tmdb_id": 477543, "title": "Two Starving Cities on the Danube", "original_title": "Tv\u00e5 hungrande st\u00e4der vid Donau", "slug_title": "two-starving-cities-on-the-danube", "date": "1920-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

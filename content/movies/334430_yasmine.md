@@ -1,1 +1,0 @@
-{"tmdb_id": 334430, "title": "Yasmine", "original_title": "Yasmine", "slug_title": "yasmine", "date": "1950-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kx4CU0jY2dqoAKLtJufZ7SCB0wf.jpg", "actors": ["Fayrouz ()", "Zaki Rostom ()", "Anwar Wagdi ()", "Madiha Yousri ()"], "comments": [], "recommandations_id": []}

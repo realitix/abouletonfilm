@@ -1,1 +1,0 @@
-{"tmdb_id": 363905, "title": "Wrestling the Curse", "original_title": "Wrestling the Curse", "slug_title": "wrestling-the-curse", "date": "2015-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Z2yIwDEwpfJS2n6lOnckjBTgeJ.jpg", "actors": ["Kevin Von Erich (Himself)"], "comments": [], "recommandations_id": []}

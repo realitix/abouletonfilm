@@ -1,1 +1,0 @@
-{"tmdb_id": 433188, "title": "Djurg\u00e5rdsf\u00e4rjan", "original_title": "Djurg\u00e5rdsf\u00e4rjan", "slug_title": "djurgardsfarjan", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xX4IqyQ3gFyMZp8UjiMjCYBGsjq.jpg", "actors": [], "comments": [], "recommandations_id": []}

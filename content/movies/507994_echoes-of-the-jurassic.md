@@ -1,1 +1,0 @@
-{"tmdb_id": 507994, "title": "Echoes of the Jurassic", "original_title": "Echoes of the Jurassic", "slug_title": "echoes-of-the-jurassic", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 505636, "title": "Zombie Brother", "original_title": "Zombie Brother", "slug_title": "zombie-brother", "date": "", "genre": "Action", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 505636, "title": "Zombie Brother", "original_title": "Zombie Brother", "slug_title": "zombie-brother", "date": "", "genre": ["Action"], "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 595618, "title": "Pay as You Enter", "original_title": "Pay as You Enter", "slug_title": "pay-as-you-enter", "date": "1928-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6zxPU7IPRgt6gYReJyrmiTaC5aN.jpg", "actors": [], "comments": [], "recommandations_id": []}

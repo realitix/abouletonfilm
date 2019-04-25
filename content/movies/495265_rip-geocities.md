@@ -1,1 +1,0 @@
-{"tmdb_id": 495265, "title": "RIP Geocities", "original_title": "RIP Geocities", "slug_title": "rip-geocities", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

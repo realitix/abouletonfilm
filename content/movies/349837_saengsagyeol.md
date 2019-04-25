@@ -1,1 +1,0 @@
-{"tmdb_id": 349837, "title": "\uc0dd\uc0ac\uacb0", "original_title": "\uc0dd\uc0ac\uacb0", "slug_title": "saengsagyeol", "date": "1982-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

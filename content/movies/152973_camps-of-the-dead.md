@@ -1,1 +1,0 @@
-{"tmdb_id": 152973, "title": "Camps of the Dead", "original_title": "Camps of the Dead", "slug_title": "camps-of-the-dead", "date": "1947-12-31", "genre": "", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vp4XMLsRKvJNtPGLB7gaxpr2l0s.jpg", "actors": [], "comments": [], "recommandations_id": [383841, 285768, 262854, 154525]}

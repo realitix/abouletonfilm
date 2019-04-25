@@ -1,1 +1,0 @@
-{"tmdb_id": 202308, "title": "Pecking Holes in Poles", "original_title": "Pecking Holes in Poles", "slug_title": "pecking-holes-in-poles", "date": "1972-06-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aPjsHfioaoYn96NvCSThyKiEuoo.jpg", "actors": [], "comments": [], "recommandations_id": []}

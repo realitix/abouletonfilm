@@ -1,1 +1,0 @@
-{"tmdb_id": 272771, "title": "World Famous Kid Detective", "original_title": "World Famous Kid Detective", "slug_title": "world-famous-kid-detective", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3j230zo6Lle6C8nxWd9QPsL0F7x.jpg", "actors": [], "comments": [], "recommandations_id": []}

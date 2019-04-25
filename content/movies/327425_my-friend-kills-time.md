@@ -1,1 +1,0 @@
-{"tmdb_id": 327425, "title": "My Friend Kills Time", "original_title": "My Friend Kills Time", "slug_title": "my-friend-kills-time", "date": "2011-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thomas Duggan ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 456252, "title": "The Wizard, Oz", "original_title": "The Wizard, Oz", "slug_title": "the-wizard-oz", "date": "2016-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fTqeS1CRqkmh3et1iuj6U5woFNu.jpg", "actors": [], "comments": [], "recommandations_id": []}

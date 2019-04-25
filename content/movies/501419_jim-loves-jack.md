@@ -1,1 +1,0 @@
-{"tmdb_id": 501419, "title": "Jim Loves Jack", "original_title": "Jim Loves Jack", "slug_title": "jim-loves-jack", "date": "1996-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

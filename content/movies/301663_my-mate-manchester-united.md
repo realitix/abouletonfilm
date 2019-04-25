@@ -1,1 +1,0 @@
-{"tmdb_id": 301663, "title": "My Mate Manchester United", "original_title": "My Mate Manchester United", "slug_title": "my-mate-manchester-united", "date": "2011-11-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4qg8b8ZvW23RFxL1Z8J94tNJbE2.jpg", "actors": [], "comments": [], "recommandations_id": []}

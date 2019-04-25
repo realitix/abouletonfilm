@@ -1,1 +1,0 @@
-{"tmdb_id": 344760, "title": "Hollow-My-Weanie, Dr. Frankenstein", "original_title": "Hollow-My-Weanie, Dr. Frankenstein", "slug_title": "hollow-my-weanie-dr-frankenstein", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

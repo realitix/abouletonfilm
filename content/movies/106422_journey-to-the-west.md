@@ -1,1 +1,0 @@
-{"tmdb_id": 106422, "title": "Journey to the West", "original_title": "Journey to the West", "slug_title": "journey-to-the-west", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kS4wpbLrtriKhXZ6FkzRm1ws8oM.jpg", "actors": [], "comments": [], "recommandations_id": []}

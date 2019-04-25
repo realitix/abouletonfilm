@@ -1,1 +1,0 @@
-{"tmdb_id": 238800, "title": "The Light", "original_title": "The Light", "slug_title": "the-light", "date": "2010-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7k50FmCZ0vIhrITjuVQ5jqmn4q2.jpg", "actors": [], "comments": [], "recommandations_id": []}

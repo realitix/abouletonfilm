@@ -1,1 +1,0 @@
-{"tmdb_id": 256471, "title": "Perspectives", "original_title": "Perspectives", "slug_title": "perspectives", "date": "1975-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bVn52d9shfUFfDugZx61xMVuwpZ.jpg", "actors": [], "comments": [], "recommandations_id": [256584, 256575, 256578, 256470]}

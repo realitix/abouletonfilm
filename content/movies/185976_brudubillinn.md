@@ -1,1 +1,0 @@
-{"tmdb_id": 185976, "title": "Br\u00fa\u00f0ub\u00edllinn", "original_title": "Br\u00fa\u00f0ub\u00edllinn", "slug_title": "brudubillinn", "date": "2005-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

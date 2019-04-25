@@ -1,1 +1,0 @@
-{"tmdb_id": 151782, "title": "Psycho Jack", "original_title": "Psycho Jack", "slug_title": "psycho-jack", "date": "2000-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pPPolbFY6fmiTYwgQUVz9MyD7eX.jpg", "actors": ["Yazid Benfeghoul ()"], "comments": [], "recommandations_id": []}

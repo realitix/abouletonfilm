@@ -1,1 +1,0 @@
-{"tmdb_id": 545864, "title": "Belarra", "original_title": "Belarra", "slug_title": "belarra", "date": "2002-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Iker Pernas (Baby)", "Ainara Gurrutxaga (Woman)", "Peru Almandoz (Man)"], "comments": [], "recommandations_id": []}

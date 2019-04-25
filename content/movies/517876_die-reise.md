@@ -1,1 +1,0 @@
-{"tmdb_id": 517876, "title": "die reise", "original_title": "die reise", "slug_title": "die-reise", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

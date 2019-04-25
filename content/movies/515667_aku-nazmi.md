@@ -1,1 +1,0 @@
-{"tmdb_id": 515667, "title": "Aku Nazmi", "original_title": "Aku Nazmi", "slug_title": "aku-nazmi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jay Iswazir (Nazmi)", "Ayda Jebat (Ilya)", "Sheila Rusly (Puan Juha)"], "comments": [], "recommandations_id": []}

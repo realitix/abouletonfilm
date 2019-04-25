@@ -1,1 +1,0 @@
-{"tmdb_id": 503730, "title": "A Place to Die", "original_title": "A Place to Die", "slug_title": "a-place-to-die", "date": "1973-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ad36RrnrnrEHUNps0EAvZc28dj.jpg", "actors": [], "comments": [], "recommandations_id": []}

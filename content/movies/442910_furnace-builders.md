@@ -1,1 +1,0 @@
-{"tmdb_id": 442910, "title": "Furnace Builders", "original_title": "Ofenbauer", "slug_title": "furnace-builders", "date": "1962-11-13", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iTwjqPaAdqoaiu5U5YKV8FeYnAO.jpg", "actors": [], "comments": [], "recommandations_id": []}

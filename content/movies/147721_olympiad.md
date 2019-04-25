@@ -1,1 +1,0 @@
-{"tmdb_id": 147721, "title": "Olympiad", "original_title": "Olympiad", "slug_title": "olympiad", "date": "1971-12-31", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xAZqGKkKEGZLudirQueicKaU2MI.jpg", "actors": [], "comments": [], "recommandations_id": [162672, 150451, 130838, 148626]}

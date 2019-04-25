@@ -1,1 +1,0 @@
-{"tmdb_id": 285057, "title": "Der Hermelin", "original_title": "Der Hermelin", "slug_title": "der-hermelin", "date": "1970-02-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Grete Mosheim (Die alte Dame)", "Rolf Becker (Der junge Mann)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 75807, "title": "It's love", "original_title": "It's love", "slug_title": "it-s-love", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 75807, "title": "It's love", "original_title": "It's love", "slug_title": "it-s-love", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 532817, "title": "Beautiful And Inspiring", "original_title": "Beautiful And Inspiring", "slug_title": "beautiful-and-inspiring", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aqzovztBqCLD9ye320xigl1o4oc.jpg", "actors": ["Anna Leah (Model)"], "comments": [], "recommandations_id": []}

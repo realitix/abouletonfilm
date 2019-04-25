@@ -1,1 +1,0 @@
-{"tmdb_id": 313249, "title": "Artists of the 20th Century: Andy Warhol", "original_title": "Artists of the 20th Century: Andy Warhol", "slug_title": "artists-of-the-20th-century-andy-warhol", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

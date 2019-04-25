@@ -1,1 +1,0 @@
-{"tmdb_id": 502114, "title": "Woman Universe", "original_title": "Woman Universe", "slug_title": "woman-universe", "date": "2017-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

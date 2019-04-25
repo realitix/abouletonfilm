@@ -1,1 +1,0 @@
-{"tmdb_id": 238226, "title": "Chun dao ren jian", "original_title": "Chun dao ren jian", "slug_title": "chun-dao-ren-jian", "date": "1937-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

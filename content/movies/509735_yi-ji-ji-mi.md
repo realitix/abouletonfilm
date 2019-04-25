@@ -1,1 +1,0 @@
-{"tmdb_id": 509735, "title": "\u4e00\u7ea7\u673a\u5bc6", "original_title": "\u4e00\u7ea7\u673a\u5bc6", "slug_title": "yi-ji-ji-mi", "date": "2017-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/usv3w0YOpFOb3cVJLcqKXeye8KE.jpg", "actors": [], "comments": [], "recommandations_id": []}

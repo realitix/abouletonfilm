@@ -1,1 +1,0 @@
-{"tmdb_id": 320524, "title": "The Tragedie of Prince Zi Dan", "original_title": "The Tragedie of Prince Zi Dan", "slug_title": "the-tragedie-of-prince-zi-dan", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

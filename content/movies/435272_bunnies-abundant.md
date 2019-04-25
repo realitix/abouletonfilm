@@ -1,1 +1,0 @@
-{"tmdb_id": 435272, "title": "Bunnies Abundant", "original_title": "Bunnies Abundant", "slug_title": "bunnies-abundant", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iNjWrTQ7Xuh7zQBjCNlDiHreUpN.jpg", "actors": [], "comments": [], "recommandations_id": []}

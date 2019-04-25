@@ -1,1 +1,0 @@
-{"tmdb_id": 300081, "title": "Dying For Dollars", "original_title": "Dying For Dollars", "slug_title": "dying-for-dollars", "date": "2007-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

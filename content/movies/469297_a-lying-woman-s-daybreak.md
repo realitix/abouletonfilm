@@ -1,1 +1,0 @@
-{"tmdb_id": 469297, "title": "A Lying Woman's Daybreak", "original_title": "A Lying Woman's Daybreak", "slug_title": "a-lying-woman-s-daybreak", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Y\u00fbko Miyamoto ()"], "comments": [], "recommandations_id": []}

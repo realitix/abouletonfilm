@@ -1,1 +1,0 @@
-{"tmdb_id": 538704, "title": "Police mondaine", "original_title": "Police mondaine", "slug_title": "police-mondaine", "date": "1937-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vKwKfZs08VjiRZYwz52dL6JEae6.jpg", "actors": [], "comments": [], "recommandations_id": []}

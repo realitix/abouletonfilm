@@ -1,1 +1,0 @@
-{"tmdb_id": 104879, "title": "The Lifer and The Lady", "original_title": "The Lifer and The Lady", "slug_title": "the-lifer-and-the-lady", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

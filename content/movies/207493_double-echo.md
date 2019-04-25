@@ -1,1 +1,0 @@
-{"tmdb_id": 207493, "title": "Double Echo", "original_title": "Double Echo", "slug_title": "double-echo", "date": "1976-10-05", "genre": "Drame / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

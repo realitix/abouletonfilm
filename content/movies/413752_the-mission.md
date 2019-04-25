@@ -1,1 +1,0 @@
-{"tmdb_id": 413752, "title": "The Mission", "original_title": "The Mission", "slug_title": "the-mission", "date": "", "genre": "Action / Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

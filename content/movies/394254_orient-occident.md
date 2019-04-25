@@ -1,1 +1,0 @@
-{"tmdb_id": 394254, "title": "Orient-Occident", "original_title": "Orient-Occident", "slug_title": "orient-occident", "date": "1960-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mscdjzYVsvx0BVGvvenbPFUXzbj.jpg", "actors": [], "comments": [], "recommandations_id": []}

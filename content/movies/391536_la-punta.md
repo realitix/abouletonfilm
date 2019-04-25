@@ -1,1 +1,0 @@
-{"tmdb_id": 391536, "title": "La Punta", "original_title": "La Punta", "slug_title": "la-punta", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/42V19Q6uSoZy3nB9BmdPYyN3Dk3.jpg", "actors": [], "comments": [], "recommandations_id": []}

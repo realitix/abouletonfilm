@@ -1,1 +1,0 @@
-{"tmdb_id": 541553, "title": "Female Nomad", "original_title": "Mujer N\u00f3made", "slug_title": "female-nomad", "date": "2018-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xy1ynsCM2MgEuyjhqrElwZth33W.jpg", "actors": [], "comments": [], "recommandations_id": []}

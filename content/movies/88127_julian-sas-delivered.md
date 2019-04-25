@@ -1,1 +1,0 @@
-{"tmdb_id": 88127, "title": "Julian Sas - Delivered", "original_title": "Julian Sas - Delivered", "slug_title": "julian-sas-delivered", "date": "2003-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zNQZsmbbJ4bS1FGcbzZN9syG8QN.jpg", "actors": [], "comments": [], "recommandations_id": []}

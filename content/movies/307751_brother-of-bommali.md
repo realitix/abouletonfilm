@@ -1,1 +1,0 @@
-{"tmdb_id": 307751, "title": "Brother of Bommali", "original_title": "Brother of Bommali", "slug_title": "brother-of-bommali", "date": "2014-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yDAriSbNNT8UqZgGWLUGVbY0TSS.jpg", "actors": ["Bhanu Sri Mehra (Uma Devi)"], "comments": [], "recommandations_id": []}

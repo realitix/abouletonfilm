@@ -1,1 +1,0 @@
-{"tmdb_id": 197524, "title": "West Is West", "original_title": "West Is West", "slug_title": "west-is-west", "date": "1987-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pqpT9UYy0ce6kmpaYLihSPsMh1a.jpg", "actors": [], "comments": [], "recommandations_id": []}

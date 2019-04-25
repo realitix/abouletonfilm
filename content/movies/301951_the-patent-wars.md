@@ -1,1 +1,0 @@
-{"tmdb_id": 301951, "title": "The Patent Wars", "original_title": "The Patent Wars", "slug_title": "the-patent-wars", "date": "2014-10-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lHxZTPLpz529lEarpInNv1cocLX.jpg", "actors": [], "comments": [], "recommandations_id": []}

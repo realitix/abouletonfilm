@@ -1,1 +1,0 @@
-{"tmdb_id": 208239, "title": "Dutch Touch", "original_title": "Dutch Touch", "slug_title": "dutch-touch", "date": "2006-12-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

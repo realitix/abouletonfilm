@@ -1,1 +1,0 @@
-{"tmdb_id": 273652, "title": "Boom Varietal", "original_title": "Boom Varietal", "slug_title": "boom-varietal", "date": "2011-10-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iBfeWrLRPANbkiTJPiwvMC6YrLb.jpg", "actors": [], "comments": [], "recommandations_id": []}

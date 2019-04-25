@@ -1,1 +1,0 @@
-{"tmdb_id": 507366, "title": "The GF Club", "original_title": "The GF Club", "slug_title": "the-gf-club", "date": "2017-11-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xry2Dw7HucPL5gZAcxuqi8OyzkD.jpg", "actors": ["Jack Anderson (Brother)"], "comments": [], "recommandations_id": []}

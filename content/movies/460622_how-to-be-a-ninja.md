@@ -1,1 +1,0 @@
-{"tmdb_id": 460622, "title": "How to be a ninja", "original_title": "How to be a ninja", "slug_title": "how-to-be-a-ninja", "date": "2007-07-25", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fnJ2UeQOzdyinkoAlW7rlxpCukJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

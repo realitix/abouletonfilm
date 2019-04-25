@@ -1,1 +1,0 @@
-{"tmdb_id": 330655, "title": "Pipo De Clown Deel 1", "original_title": "Pipo De Clown Deel 1", "slug_title": "pipo-de-clown-deel-1", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5WBtTFLeQr6UBKiNZYdnVBPRCey.jpg", "actors": [], "comments": [], "recommandations_id": []}

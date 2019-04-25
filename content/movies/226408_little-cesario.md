@@ -1,1 +1,0 @@
-{"tmdb_id": 226408, "title": "Little Cesario", "original_title": "Little Cesario", "slug_title": "little-cesario", "date": "1941-08-30", "genre": "Animation / Com\u00e9die / Familial", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4wjGyfDplWALsz2BicIlxpFBJP4.jpg", "actors": [], "comments": [], "recommandations_id": []}

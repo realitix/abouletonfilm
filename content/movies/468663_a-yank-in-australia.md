@@ -1,1 +1,0 @@
-{"tmdb_id": 468663, "title": "A Yank in Australia", "original_title": "A Yank in Australia", "slug_title": "a-yank-in-australia", "date": "1942-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

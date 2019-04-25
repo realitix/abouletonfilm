@@ -1,1 +1,0 @@
-{"tmdb_id": 490393, "title": "Touhulan Arvoituksia 3", "original_title": "Touhulan Arvoituksia 3", "slug_title": "touhulan-arvoituksia-3", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gIk2g4wlsOOeuiJRpHUATf8E6Jz.jpg", "actors": [], "comments": [], "recommandations_id": []}

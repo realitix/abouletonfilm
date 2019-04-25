@@ -1,1 +1,0 @@
-{"tmdb_id": 546787, "title": "Amoricania", "original_title": "Amoricania", "slug_title": "amoricania", "date": "2017-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xXJcC06a7hP52JqFKTW4WqdPxbx.jpg", "actors": [], "comments": [], "recommandations_id": []}

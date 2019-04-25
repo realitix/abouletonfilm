@@ -1,1 +1,0 @@
-{"tmdb_id": 528124, "title": "Southland Soldiers", "original_title": "\u5357\u570b\u5c0f\u5175", "slug_title": "southland-soldiers", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mrMik6mkVXui9rJAHn2nPRSewYR.jpg", "actors": [], "comments": [], "recommandations_id": []}

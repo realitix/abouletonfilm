@@ -1,1 +1,0 @@
-{"tmdb_id": 505100, "title": "Slacker", "original_title": "Slacker", "slug_title": "slacker", "date": "2017-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gR7RtalcbkCmgCZ9xybXpMt5f3J.jpg", "actors": [], "comments": [], "recommandations_id": []}

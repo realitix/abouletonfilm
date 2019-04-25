@@ -1,1 +1,0 @@
-{"tmdb_id": 312606, "title": "Who Killed Martin Luther King?", "original_title": "Who Killed Martin Luther King?", "slug_title": "who-killed-martin-luther-king", "date": "1989-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

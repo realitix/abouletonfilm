@@ -1,1 +1,0 @@
-{"tmdb_id": 322025, "title": "Stanley Turrentine: In Concert", "original_title": "Stanley Turrentine: In Concert", "slug_title": "stanley-turrentine-in-concert", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 311273, "title": "Behind the Octagon with Dan Severn", "original_title": "Behind the Octagon with Dan Severn", "slug_title": "behind-the-octagon-with-dan-severn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

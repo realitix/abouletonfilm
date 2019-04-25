@@ -1,1 +1,0 @@
-{"tmdb_id": 329207, "title": "The Flying Camera: Drone", "original_title": "The Flying Camera: Drone", "slug_title": "the-flying-camera-drone", "date": "2015-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

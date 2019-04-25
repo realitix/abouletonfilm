@@ -1,1 +1,0 @@
-{"tmdb_id": 236665, "title": "War Dogs", "original_title": "War Dogs", "slug_title": "war-dogs", "date": "1943-10-08", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xTeCZiRXWax6KMY46m8v2JUipUC.jpg", "actors": [], "comments": [], "recommandations_id": []}

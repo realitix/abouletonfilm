@@ -1,1 +1,0 @@
-{"tmdb_id": 407823, "title": "Along the Navajo Trail", "original_title": "Along the Navajo Trail", "slug_title": "along-the-navajo-trail", "date": "1945-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 533457, "title": "Les pieds nickel\u00e9s", "original_title": "Les pieds nickel\u00e9s", "slug_title": "les-pieds-nickeles", "date": "1964-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b7jxGG8AVvOJZTZlkbnZZesZXe6.jpg", "actors": [], "comments": [], "recommandations_id": []}

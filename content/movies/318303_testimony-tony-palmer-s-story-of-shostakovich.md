@@ -1,1 +1,0 @@
-{"tmdb_id": 318303, "title": "Testimony: Tony Palmer's Story of Shostakovich", "original_title": "Testimony: Tony Palmer's Story of Shostakovich", "slug_title": "testimony-tony-palmer-s-story-of-shostakovich", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

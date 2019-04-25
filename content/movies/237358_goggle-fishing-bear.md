@@ -1,1 +1,0 @@
-{"tmdb_id": 237358, "title": "Goggle Fishing Bear", "original_title": "Goggle Fishing Bear", "slug_title": "goggle-fishing-bear", "date": "1949-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7bN9Koox6vpR5FKk5V7OskLWD3n.jpg", "actors": [], "comments": [], "recommandations_id": []}

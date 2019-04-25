@@ -1,1 +1,0 @@
-{"tmdb_id": 580384, "title": "Ghost in the Machine", "original_title": "Ghost in the Machine", "slug_title": "ghost-in-the-machine", "date": "2019-02-05", "genre": "Thriller / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Garrick Fernandez (Runner)"], "comments": [], "recommandations_id": []}

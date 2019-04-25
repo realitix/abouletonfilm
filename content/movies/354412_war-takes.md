@@ -1,1 +1,0 @@
-{"tmdb_id": 354412, "title": "War Takes", "original_title": "Tomas de guerra", "slug_title": "war-takes", "date": "2003-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i03sOLfYauBcF7SlrUJQK4jeRQ4.jpg", "actors": [], "comments": [], "recommandations_id": []}

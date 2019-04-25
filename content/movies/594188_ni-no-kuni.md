@@ -1,1 +1,0 @@
-{"tmdb_id": 594188, "title": "Ni No Kuni", "original_title": "Ni No Kuni", "slug_title": "ni-no-kuni", "date": "2019-07-31", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dfjnw8EtggYzejGNESB6VPAvmeB.jpg", "actors": [], "comments": [], "recommandations_id": []}

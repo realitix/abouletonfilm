@@ -1,1 +1,0 @@
-{"tmdb_id": 372720, "title": "Party Animal", "original_title": "Party Animal", "slug_title": "party-animal", "date": "2015-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cmc7OXbjOHpDamKozFqVhby8bgw.jpg", "actors": [], "comments": [], "recommandations_id": []}

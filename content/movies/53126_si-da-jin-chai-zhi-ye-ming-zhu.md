@@ -1,1 +1,0 @@
-{"tmdb_id": 53126, "title": "\u56db\u5927\u91d1\u9497\u4e4b\u591c\u660e\u73e0", "original_title": "\u56db\u5927\u91d1\u9497\u4e4b\u591c\u660e\u73e0", "slug_title": "si-da-jin-chai-zhi-ye-ming-zhu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

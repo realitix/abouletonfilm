@@ -1,1 +1,0 @@
-{"tmdb_id": 522849, "title": "Sons of Sassoun", "original_title": "Sons of Sassoun", "slug_title": "sons-of-sassoun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

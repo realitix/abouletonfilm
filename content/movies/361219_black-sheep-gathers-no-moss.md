@@ -1,1 +1,0 @@
-{"tmdb_id": 361219, "title": "Black Sheep Gathers No Moss", "original_title": "Black Sheep Gathers No Moss", "slug_title": "black-sheep-gathers-no-moss", "date": "1997-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

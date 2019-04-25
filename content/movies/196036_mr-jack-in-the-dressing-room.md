@@ -1,1 +1,0 @@
-{"tmdb_id": 196036, "title": "Mr. Jack in the Dressing Room", "original_title": "Mr. Jack in the Dressing Room", "slug_title": "mr-jack-in-the-dressing-room", "date": "1904-05-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

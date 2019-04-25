@@ -1,1 +1,0 @@
-{"tmdb_id": 490969, "title": "Tonpei and Sarukichi", "original_title": "Tonpei to Sarukichi", "slug_title": "tonpei-and-sarukichi", "date": "1932-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

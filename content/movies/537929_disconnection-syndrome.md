@@ -1,1 +1,0 @@
-{"tmdb_id": 537929, "title": "Disconnection Syndrome", "original_title": "Disconnection Syndrome", "slug_title": "disconnection-syndrome", "date": "2018-07-19", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

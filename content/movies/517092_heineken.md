@@ -1,1 +1,0 @@
-{"tmdb_id": 517092, "title": "Heineken", "original_title": "Heineken", "slug_title": "heineken", "date": "2007-11-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w6xr9BlJ3o8ciySCrbfwvh67Vyj.jpg", "actors": [], "comments": [], "recommandations_id": []}

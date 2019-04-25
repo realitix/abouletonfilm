@@ -1,1 +1,0 @@
-{"tmdb_id": 302887, "title": "Europakonzert 2007 from Berlin", "original_title": "Europakonzert 2007 from Berlin", "slug_title": "europakonzert-2007-from-berlin", "date": "2013-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

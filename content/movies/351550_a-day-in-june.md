@@ -1,1 +1,0 @@
-{"tmdb_id": 351550, "title": "A Day in June", "original_title": "A Day in June", "slug_title": "a-day-in-june", "date": "1944-03-03", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8eluMuBdV296Ls6XhawWXaPpbEw.jpg", "actors": [], "comments": [], "recommandations_id": []}

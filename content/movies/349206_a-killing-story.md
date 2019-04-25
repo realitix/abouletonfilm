@@ -1,1 +1,0 @@
-{"tmdb_id": 349206, "title": "A Killing Story", "original_title": "\uc8fd\uc774\ub294 \uc774\uc57c\uae30", "slug_title": "a-killing-story", "date": "1998-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Moon Sung-keun ()", "Hwang Shin-hye ()", "Lee Kyung-young ()"], "comments": [], "recommandations_id": []}

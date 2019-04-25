@@ -1,1 +1,0 @@
-{"tmdb_id": 329399, "title": "Psycho Scarecrow", "original_title": "Psycho Scarecrow", "slug_title": "psycho-scarecrow", "date": "1996-01-24", "genre": "Horreur", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tSc8UIicdZFuFC5cX4cNHCCN1PC.jpg", "actors": [], "comments": [], "recommandations_id": []}

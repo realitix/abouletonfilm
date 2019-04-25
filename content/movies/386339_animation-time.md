@@ -1,1 +1,0 @@
-{"tmdb_id": 386339, "title": "Animation Time", "original_title": "Animation Time", "slug_title": "animation-time", "date": "2015-03-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8fZkPOsPF6y1wEAtacPLYE3oUfe.jpg", "actors": [], "comments": [], "recommandations_id": []}

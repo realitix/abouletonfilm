@@ -1,1 +1,0 @@
-{"tmdb_id": 296677, "title": "Follow Me Outside", "original_title": "Follow Me Outside", "slug_title": "follow-me-outside", "date": "2000-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

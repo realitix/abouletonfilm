@@ -1,1 +1,0 @@
-{"tmdb_id": 389715, "title": "The Sunken Convent", "original_title": "Det Sjunkne Kloster", "slug_title": "the-sunken-convent", "date": "2016-02-02", "genre": "Horreur / Drame", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pFBAglWc3KyGs118dvzlcLOUqrC.jpg", "actors": [], "comments": [], "recommandations_id": []}

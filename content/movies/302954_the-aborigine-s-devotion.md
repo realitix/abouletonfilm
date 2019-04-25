@@ -1,1 +1,0 @@
-{"tmdb_id": 302954, "title": "The Aborigine's Devotion", "original_title": "The Aborigine's Devotion", "slug_title": "the-aborigine-s-devotion", "date": "1909-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

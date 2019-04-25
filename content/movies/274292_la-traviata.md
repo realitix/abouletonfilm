@@ -1,1 +1,0 @@
-{"tmdb_id": 274292, "title": "La traviata", "original_title": "La traviata", "slug_title": "la-traviata", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

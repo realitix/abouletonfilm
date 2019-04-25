@@ -1,1 +1,0 @@
-{"tmdb_id": 195291, "title": "Trick Bears", "original_title": "Trick Bears", "slug_title": "trick-bears", "date": "1899-09-27", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8jmWrSB8iIrt1EX6kxx18wKiW9w.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 32280, "title": "The Ugly Dino", "original_title": "The Ugly Dino", "slug_title": "the-ugly-dino", "date": "1940-06-14", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

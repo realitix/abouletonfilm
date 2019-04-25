@@ -1,1 +1,0 @@
-{"tmdb_id": 531048, "title": "Mem Vayasuku Vacham", "original_title": "Mem Vayasuku Vacham", "slug_title": "mem-vayasuku-vacham", "date": "2012-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qg9fKnzwP8CGDTeMKbgM2dEAaDz.jpg", "actors": ["Tanish Alladi ()"], "comments": [], "recommandations_id": []}

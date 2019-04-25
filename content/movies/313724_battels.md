@@ -1,1 +1,1 @@
-{"tmdb_id": 313724, "title": "battels", "original_title": "battels", "slug_title": "battels", "date": "", "genre": "", "score": "0.0/10", "synopsis": "batellse maderrr", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 313724, "title": "battels", "original_title": "battels", "slug_title": "battels", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "batellse maderrr", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

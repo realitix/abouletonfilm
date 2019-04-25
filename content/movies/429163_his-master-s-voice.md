@@ -1,1 +1,0 @@
-{"tmdb_id": 429163, "title": "His Master's Voice", "original_title": "His Master's Voice", "slug_title": "his-master-s-voice", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Gibbons ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 475030, "title": "Trouble in Paradise", "original_title": "Trouble in Paradise", "slug_title": "trouble-in-paradise", "date": "", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

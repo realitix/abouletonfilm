@@ -1,1 +1,0 @@
-{"tmdb_id": 73915, "title": "Estamira", "original_title": "Estamira", "slug_title": "estamira", "date": "2004-10-01", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tDE0jg9rjwaZ3EhXY3Ab1CneyzA.jpg", "actors": ["Estamira (Herself)"], "comments": [], "recommandations_id": [59990]}

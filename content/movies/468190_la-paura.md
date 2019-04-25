@@ -1,1 +1,0 @@
-{"tmdb_id": 468190, "title": "La paura", "original_title": "La paura", "slug_title": "la-paura", "date": "2009-01-01", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/adaMvc3a63GcdcU1sJ3fzTxdjOD.jpg", "actors": [], "comments": [], "recommandations_id": []}

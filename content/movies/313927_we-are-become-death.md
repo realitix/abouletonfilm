@@ -1,1 +1,0 @@
-{"tmdb_id": 313927, "title": "We Are Become Death", "original_title": "We Are Become Death", "slug_title": "we-are-become-death", "date": "2014-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b8W6f8VThV2IcyYTNMoQi8NUmNT.jpg", "actors": [], "comments": [], "recommandations_id": []}

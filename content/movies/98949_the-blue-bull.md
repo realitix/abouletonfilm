@@ -1,1 +1,0 @@
-{"tmdb_id": 98949, "title": "The Blue Bull", "original_title": "El brau blau", "slug_title": "the-blue-bull", "date": "2009-03-13", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ssugMpFdsl3oWhgL1XqihMcW4P.jpg", "actors": ["Victor J. Vazquez ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 465007, "title": "Babuji Ek Ticket Bambai", "original_title": "Babuji Ek Ticket Bambai", "slug_title": "babuji-ek-ticket-bambai", "date": "2017-07-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1UqgwI1JaaviJw09wumSgzllJjV.jpg", "actors": [], "comments": [], "recommandations_id": []}

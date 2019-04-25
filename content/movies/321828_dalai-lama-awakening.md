@@ -1,1 +1,0 @@
-{"tmdb_id": 321828, "title": "Dalai Lama Awakening", "original_title": "Dalai Lama Awakening", "slug_title": "dalai-lama-awakening", "date": "2014-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

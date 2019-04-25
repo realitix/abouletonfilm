@@ -1,1 +1,0 @@
-{"tmdb_id": 232484, "title": "Acquainted with the Night", "original_title": "Acquainted with the Night", "slug_title": "acquainted-with-the-night", "date": "2011-01-11", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yxnlirGc5wdIn8Dj7Ozk0pb5WpD.jpg", "actors": [], "comments": [], "recommandations_id": []}

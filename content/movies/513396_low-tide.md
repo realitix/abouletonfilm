@@ -1,1 +1,0 @@
-{"tmdb_id": 513396, "title": "Low Tide", "original_title": "Vazante", "slug_title": "low-tide", "date": "2012-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9rj5FrxBrA63iipxPQedK5rZks0.jpg", "actors": [], "comments": [], "recommandations_id": []}

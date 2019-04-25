@@ -1,1 +1,0 @@
-{"tmdb_id": 390314, "title": "TNA No Surrender 2008", "original_title": "TNA No Surrender 2008", "slug_title": "tna-no-surrender-2008", "date": "2008-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4fZOupYc1ugXIQLxb0jimfsXSJb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 367474, "title": "Face of our fear", "original_title": "Face of our fear", "slug_title": "face-of-our-fear", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1st1NDiOSoYbAqU7k1GlpDL0pwV.jpg", "actors": [], "comments": [], "recommandations_id": []}

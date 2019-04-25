@@ -1,1 +1,0 @@
-{"tmdb_id": 166008, "title": "The Grand Uproar", "original_title": "The Grand Uproar", "slug_title": "the-grand-uproar", "date": "1930-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

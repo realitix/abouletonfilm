@@ -1,1 +1,0 @@
-{"tmdb_id": 379345, "title": "La Corea", "original_title": "La Corea", "slug_title": "la-corea", "date": "1976-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aIouEeoeboLDkCF18nR1MM6kmDI.jpg", "actors": [], "comments": [], "recommandations_id": []}

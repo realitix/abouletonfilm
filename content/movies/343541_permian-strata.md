@@ -1,1 +1,0 @@
-{"tmdb_id": 343541, "title": "Permian Strata", "original_title": "Permian Strata", "slug_title": "permian-strata", "date": "1969-06-05", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jArPtBBH8OdFCnXwKKO89ziSWav.jpg", "actors": [], "comments": [], "recommandations_id": []}

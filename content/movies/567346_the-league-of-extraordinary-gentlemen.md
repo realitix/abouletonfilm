@@ -1,1 +1,0 @@
-{"tmdb_id": 567346, "title": "The League of Extraordinary Gentlemen", "original_title": "The League of Extraordinary Gentlemen", "slug_title": "the-league-of-extraordinary-gentlemen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

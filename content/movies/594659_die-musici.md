@@ -1,1 +1,0 @@
-{"tmdb_id": 594659, "title": "Die Musici", "original_title": "Die Musici", "slug_title": "die-musici", "date": "1963-11-23", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bZSZROKcRFw3FdWRYnkl3JV3URE.jpg", "actors": [], "comments": [], "recommandations_id": []}

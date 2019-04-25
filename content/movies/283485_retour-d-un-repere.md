@@ -1,1 +1,0 @@
-{"tmdb_id": 283485, "title": "Retour d'un rep\u00e8re", "original_title": "Retour d'un rep\u00e8re", "slug_title": "retour-d-un-repere", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cbLykhNKEUoyfffGLveerGpsG7X.jpg", "actors": [], "comments": [], "recommandations_id": []}

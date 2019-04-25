@@ -1,1 +1,0 @@
-{"tmdb_id": 226703, "title": "Rascal Dog Litter Box", "original_title": "Rascal Dog Litter Box", "slug_title": "rascal-dog-litter-box", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

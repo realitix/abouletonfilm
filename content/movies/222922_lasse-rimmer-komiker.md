@@ -1,1 +1,0 @@
-{"tmdb_id": 222922, "title": "Lasse Rimmer: KOMIKER", "original_title": "Lasse Rimmer: KOMIKER", "slug_title": "lasse-rimmer-komiker", "date": "2013-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vPD4lSAd2ATfJopQ9WTog5aSZKB.jpg", "actors": ["Lasse Rimmer (Himself)"], "comments": [], "recommandations_id": []}

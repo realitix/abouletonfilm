@@ -1,1 +1,0 @@
-{"tmdb_id": 417035, "title": "Ghomarbaz", "original_title": "Ghomarbaz", "slug_title": "ghomarbaz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

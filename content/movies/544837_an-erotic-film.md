@@ -1,1 +1,0 @@
-{"tmdb_id": 544837, "title": "An Erotic Film", "original_title": "An Erotic Film", "slug_title": "an-erotic-film", "date": "1975-08-20", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

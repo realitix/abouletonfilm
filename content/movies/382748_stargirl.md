@@ -1,1 +1,0 @@
-{"tmdb_id": 382748, "title": "Stargirl", "original_title": "Stargirl", "slug_title": "stargirl", "date": "", "genre": "Com\u00e9die / Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Graham Verchere (Leo Borlock)", "Grace VanderWaal (Susan \"Stargirl\" Caraway)"], "comments": [], "recommandations_id": []}

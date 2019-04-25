@@ -1,1 +1,0 @@
-{"tmdb_id": 386436, "title": "Dead Shadow", "original_title": "Martwy Cien", "slug_title": "dead-shadow", "date": "1980-01-01", "genre": "Guerre / Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8rk6pw9quQYDak6NNBS1QUT0Dju.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 321715, "title": "Anna Is Being Stalked", "original_title": "Anna Is Being Stalked", "slug_title": "anna-is-being-stalked", "date": "2002-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mt0EcOz54uIFyVB1d6aRZKFB1Ph.jpg", "actors": [], "comments": [], "recommandations_id": []}

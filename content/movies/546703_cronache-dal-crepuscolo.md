@@ -1,1 +1,0 @@
-{"tmdb_id": 546703, "title": "Cronache dal crepuscolo", "original_title": "Cronache dal crepuscolo", "slug_title": "cronache-dal-crepuscolo", "date": "2018-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6R0r32WrH3SrKgH9n1rjsF869j5.jpg", "actors": [], "comments": [], "recommandations_id": []}

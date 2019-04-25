@@ -1,1 +1,0 @@
-{"tmdb_id": 554676, "title": "Learning from Scratch", "original_title": "Learning from Scratch", "slug_title": "learning-from-scratch", "date": "2018-02-13", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John A. Russo (Himself)"], "comments": [], "recommandations_id": []}

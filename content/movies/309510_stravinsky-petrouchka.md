@@ -1,1 +1,0 @@
-{"tmdb_id": 309510, "title": "Stravinsky: Petrouchka", "original_title": "Stravinsky: Petrouchka", "slug_title": "stravinsky-petrouchka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

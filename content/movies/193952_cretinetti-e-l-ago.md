@@ -1,1 +1,0 @@
-{"tmdb_id": 193952, "title": "Cretinetti e l'ago", "original_title": "Cretinetti e l'ago", "slug_title": "cretinetti-e-l-ago", "date": "1911-05-13", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andr\u00e9 Deed (Cretinetti)"], "comments": [], "recommandations_id": []}

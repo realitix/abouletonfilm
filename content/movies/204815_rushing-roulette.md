@@ -1,1 +1,0 @@
-{"tmdb_id": 204815, "title": "Rushing Roulette", "original_title": "Rushing Roulette", "slug_title": "rushing-roulette", "date": "1965-07-31", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/77qQhJdz0NzP8STCXX7c7Uzyrlf.jpg", "actors": [], "comments": [], "recommandations_id": [234286]}

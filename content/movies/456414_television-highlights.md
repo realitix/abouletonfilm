@@ -1,1 +1,0 @@
-{"tmdb_id": 456414, "title": "Television Highlights", "original_title": "Television Highlights", "slug_title": "television-highlights", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

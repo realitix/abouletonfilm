@@ -1,1 +1,0 @@
-{"tmdb_id": 318792, "title": "Vachaathi", "original_title": "Vachaathi", "slug_title": "vachaathi", "date": "2012-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

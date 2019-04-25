@@ -1,1 +1,0 @@
-{"tmdb_id": 167735, "title": "Happy Birthday", "original_title": "Happy Birthday", "slug_title": "happy-birthday", "date": "2002-07-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/58qMyYfXizMpVf7paxRJFP8OnhW.jpg", "actors": [], "comments": [], "recommandations_id": []}

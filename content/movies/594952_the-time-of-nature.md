@@ -1,1 +1,0 @@
-{"tmdb_id": 594952, "title": "The time of nature", "original_title": "Il tempo della natura", "slug_title": "the-time-of-nature", "date": "2018-02-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/geAnaWnfTeT8bxBqRSDYTFD5aqi.jpg", "actors": [], "comments": [], "recommandations_id": []}

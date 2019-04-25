@@ -1,1 +1,0 @@
-{"tmdb_id": 480718, "title": "Steve McQueen: American Icon", "original_title": "Steve McQueen: American Icon", "slug_title": "steve-mcqueen-american-icon", "date": "2017-09-29", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oUq8PZcIesHgfkTRW1WQCsacisF.jpg", "actors": [], "comments": [], "recommandations_id": []}

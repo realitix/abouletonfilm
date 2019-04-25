@@ -1,1 +1,0 @@
-{"tmdb_id": 304428, "title": "Dying to Be Heart", "original_title": "Dying to Be Heart", "slug_title": "dying-to-be-heart", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

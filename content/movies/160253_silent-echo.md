@@ -1,1 +1,0 @@
-{"tmdb_id": 160253, "title": "Silent Echo", "original_title": "Silent Echo", "slug_title": "silent-echo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

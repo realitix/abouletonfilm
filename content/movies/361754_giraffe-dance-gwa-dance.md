@@ -1,1 +1,0 @@
-{"tmdb_id": 361754, "title": "Giraffe Dance / !Gwa Dance", "original_title": "Giraffe Dance / !Gwa Dance", "slug_title": "giraffe-dance-gwa-dance", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

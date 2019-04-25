@@ -1,1 +1,0 @@
-{"tmdb_id": 396078, "title": "Sleep Incidents", "original_title": "S\u00f6mnincidenter", "slug_title": "sleep-incidents", "date": "2016-01-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vyUY7CWprr8LCJHEBrmvLu4J9YJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

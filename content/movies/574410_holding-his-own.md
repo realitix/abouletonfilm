@@ -1,1 +1,0 @@
-{"tmdb_id": 574410, "title": "Holding His Own", "original_title": "Holding His Own", "slug_title": "holding-his-own", "date": "1922-01-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Ovey (Jerry)", "Arby Arly (Tilly)", "George Burton (Hank)"], "comments": [], "recommandations_id": []}

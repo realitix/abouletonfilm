@@ -1,1 +1,0 @@
-{"tmdb_id": 195079, "title": "Fisherman's Wharf", "original_title": "Fisherman's Wharf", "slug_title": "fisherman-s-wharf", "date": "1897-10-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 284631, "title": "Riding the Stallion of Dreams", "original_title": "Kanasembo kudureyaneri", "slug_title": "riding-the-stallion-of-dreams", "date": "2010-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4kehAXRHnwsp7stwkL5XEtyMFdQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

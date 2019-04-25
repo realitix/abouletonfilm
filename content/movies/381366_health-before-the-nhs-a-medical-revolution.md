@@ -1,1 +1,0 @@
-{"tmdb_id": 381366, "title": "Health Before The NHS: A Medical Revolution", "original_title": "Health Before The NHS: A Medical Revolution", "slug_title": "health-before-the-nhs-a-medical-revolution", "date": "2012-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 480193, "title": "Log Rollers", "original_title": "Log Rollers", "slug_title": "log-rollers", "date": "1953-09-03", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roy Halee (Heckle / Jeckle (voice))"], "comments": [], "recommandations_id": []}

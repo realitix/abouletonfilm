@@ -1,1 +1,0 @@
-{"tmdb_id": 388829, "title": "The Reason Why", "original_title": "Di' asimanton aformin", "slug_title": "the-reason-why", "date": "1974-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/HnOFWHEk5P0ELbsQGkHWdW5fps.jpg", "actors": [], "comments": [], "recommandations_id": []}

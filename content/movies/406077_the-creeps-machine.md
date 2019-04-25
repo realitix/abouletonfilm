@@ -1,1 +1,0 @@
-{"tmdb_id": 406077, "title": "The Creeps Machine", "original_title": "The Creeps Machine", "slug_title": "the-creeps-machine", "date": "1973-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

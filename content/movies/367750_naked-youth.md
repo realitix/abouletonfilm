@@ -1,1 +1,0 @@
-{"tmdb_id": 367750, "title": "Naked Youth", "original_title": "nakedyouth", "slug_title": "naked-youth", "date": "2007-07-21", "genre": "Animation / Romance / Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/laQnc0P2Lk29iTyHpGluxDbbYZo.jpg", "actors": [], "comments": [], "recommandations_id": []}

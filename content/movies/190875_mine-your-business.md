@@ -1,1 +1,0 @@
-{"tmdb_id": 190875, "title": "Mine Your Business!", "original_title": "Mine Your Business!", "slug_title": "mine-your-business", "date": "1927-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fred Parker (Rastus)"], "comments": [], "recommandations_id": []}

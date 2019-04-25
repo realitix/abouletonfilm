@@ -1,1 +1,0 @@
-{"tmdb_id": 362146, "title": "Bright Eyes", "original_title": "Bright Eyes", "slug_title": "bright-eyes", "date": "1982-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robin Ellis ()", "Kate Harper ()", "Sarah Berger ()", "Stephen Greif ()", "Julian Curry ()", "Gavin Campbell ()"], "comments": [], "recommandations_id": []}

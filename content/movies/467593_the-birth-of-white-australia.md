@@ -1,1 +1,0 @@
-{"tmdb_id": 467593, "title": "The Birth of White Australia", "original_title": "The Birth of White Australia", "slug_title": "the-birth-of-white-australia", "date": "1928-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9fYsRiiO6vYUjoHLz5JnFneVUeo.jpg", "actors": [], "comments": [], "recommandations_id": []}

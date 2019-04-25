@@ -1,1 +1,0 @@
-{"tmdb_id": 509831, "title": "The Kiss from Marseille", "original_title": "Le baiser de Marseille", "slug_title": "the-kiss-from-marseille", "date": "2014-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mBwtUil9WBP9uAEFD9MTzmZmYnt.jpg", "actors": [], "comments": [], "recommandations_id": []}

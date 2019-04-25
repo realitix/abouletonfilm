@@ -1,1 +1,0 @@
-{"tmdb_id": 544124, "title": "Der erste Walzer", "original_title": "Der erste Walzer", "slug_title": "der-erste-walzer", "date": "1978-10-29", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

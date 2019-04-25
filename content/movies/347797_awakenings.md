@@ -1,1 +1,0 @@
-{"tmdb_id": 347797, "title": "Awakenings", "original_title": "Awakenings", "slug_title": "awakenings", "date": "2015-05-02", "genre": "Horreur / Myst\u00e8re", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wdsfmN74TorUC226ThGjEWdRNCn.jpg", "actors": ["Palomi Ghosh (Meera)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 375349, "title": "More Moron Movies", "original_title": "More Moron Movies", "slug_title": "more-moron-movies", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Len Cella (Himself)"], "comments": [], "recommandations_id": []}

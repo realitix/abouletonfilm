@@ -1,1 +1,0 @@
-{"tmdb_id": 80597, "title": "My Perestroika", "original_title": "My Perestroika", "slug_title": "my-perestroika", "date": "2010-01-24", "genre": "Documentaire", "score": "7.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uAn0cGgY66wW7hHVxkoJMzrWCWI.jpg", "actors": [], "comments": [], "recommandations_id": [74666, 37416]}

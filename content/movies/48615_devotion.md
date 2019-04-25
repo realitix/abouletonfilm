@@ -1,1 +1,0 @@
-{"tmdb_id": 48615, "title": "Devotion", "original_title": "Devot", "slug_title": "devotion", "date": "2003-02-08", "genre": "Drame", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sHfq94DZ2uTjV3C5BcoJ0sJTfMU.jpg", "actors": ["Annett Renneberg (Anja)", "Simon B\u00f6er (Henry)"], "comments": [], "recommandations_id": []}

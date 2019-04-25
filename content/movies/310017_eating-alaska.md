@@ -1,1 +1,0 @@
-{"tmdb_id": 310017, "title": "Eating Alaska", "original_title": "Eating Alaska", "slug_title": "eating-alaska", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

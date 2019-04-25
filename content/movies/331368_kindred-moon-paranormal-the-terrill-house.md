@@ -1,1 +1,0 @@
-{"tmdb_id": 331368, "title": "Kindred Moon Paranormal The Terrill House", "original_title": "Kindred Moon Paranormal The Terrill House", "slug_title": "kindred-moon-paranormal-the-terrill-house", "date": "2014-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

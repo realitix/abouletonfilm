@@ -1,1 +1,0 @@
-{"tmdb_id": 518794, "title": "Sommokadidhi Sokokadidhi", "original_title": "Sommokadidhi Sokokadidhi", "slug_title": "sommokadidhi-sokokadidhi", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kamal Haasan (Rangadu & Dr.Shekar)", "Jayasudha (Lilly)", "Pandhari Bai (Parvathy)"], "comments": [], "recommandations_id": []}

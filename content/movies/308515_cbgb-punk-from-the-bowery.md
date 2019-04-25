@@ -1,1 +1,0 @@
-{"tmdb_id": 308515, "title": "CBGB: Punk From the Bowery", "original_title": "CBGB: Punk From the Bowery", "slug_title": "cbgb-punk-from-the-bowery", "date": "2003-04-22", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

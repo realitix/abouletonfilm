@@ -1,1 +1,0 @@
-{"tmdb_id": 281277, "title": "Into the Thunder Dragon", "original_title": "Into the Thunder Dragon", "slug_title": "into-the-thunder-dragon", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

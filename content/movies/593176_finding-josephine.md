@@ -1,1 +1,0 @@
-{"tmdb_id": 593176, "title": "Finding Josephine", "original_title": "Finding Josephine", "slug_title": "finding-josephine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

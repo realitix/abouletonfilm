@@ -1,1 +1,0 @@
-{"tmdb_id": 289088, "title": "Hypnotized!: The Trance State", "original_title": "Hypnotized!: The Trance State", "slug_title": "hypnotized-the-trance-state", "date": "2014-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

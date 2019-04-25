@@ -1,1 +1,0 @@
-{"tmdb_id": 328641, "title": "Grand H\u00f4tel des Palmes", "original_title": "Grand H\u00f4tel des Palmes", "slug_title": "grand-hotel-des-palmes", "date": "1978-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Antonello Aglioti ()"], "comments": [], "recommandations_id": []}

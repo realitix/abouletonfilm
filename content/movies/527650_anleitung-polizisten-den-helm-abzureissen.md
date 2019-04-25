@@ -1,1 +1,0 @@
-{"tmdb_id": 527650, "title": "Anleitung, Polizisten den Helm abzureissen", "original_title": "Anleitung, Polizisten den Helm abzureissen", "slug_title": "anleitung-polizisten-den-helm-abzureissen", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

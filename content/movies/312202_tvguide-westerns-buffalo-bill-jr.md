@@ -1,1 +1,0 @@
-{"tmdb_id": 312202, "title": "TVGuide Westerns: Buffalo Bill, Jr.", "original_title": "TVGuide Westerns: Buffalo Bill, Jr.", "slug_title": "tvguide-westerns-buffalo-bill-jr", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

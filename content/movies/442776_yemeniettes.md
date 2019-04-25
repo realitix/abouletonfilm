@@ -1,1 +1,0 @@
-{"tmdb_id": 442776, "title": "Yemeniettes", "original_title": "Yemeniettes", "slug_title": "yemeniettes", "date": "2014-02-15", "genre": "Documentaire / Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bus5IODPpYdoUwF5OKcqXG66K3g.jpg", "actors": [], "comments": [], "recommandations_id": []}

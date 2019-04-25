@@ -1,1 +1,0 @@
-{"tmdb_id": 378420, "title": "Hero the Great", "original_title": "\u6b66\u751f\u60c5\u672a\u4e86", "slug_title": "hero-the-great", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ApFAtK2oRCAmfaBJuasSwirlhUx.jpg", "actors": [], "comments": [], "recommandations_id": []}

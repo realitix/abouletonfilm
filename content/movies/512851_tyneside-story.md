@@ -1,1 +1,0 @@
-{"tmdb_id": 512851, "title": "Tyneside Story", "original_title": "Tyneside Story", "slug_title": "tyneside-story", "date": "1944-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

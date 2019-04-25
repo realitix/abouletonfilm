@@ -1,1 +1,0 @@
-{"tmdb_id": 338528, "title": "Celina's Story", "original_title": "Celina's Story", "slug_title": "celina-s-story", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 415956, "title": "Fight for Justice", "original_title": "\uc758\ub9ac\uc801 \uad6c\ud1a0", "slug_title": "fight-for-justice", "date": "1919-10-27", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

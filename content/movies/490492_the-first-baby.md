@@ -1,1 +1,0 @@
-{"tmdb_id": 490492, "title": "The First Baby", "original_title": "The First Baby", "slug_title": "the-first-baby", "date": "1936-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

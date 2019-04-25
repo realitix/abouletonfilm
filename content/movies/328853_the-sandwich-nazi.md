@@ -1,1 +1,0 @@
-{"tmdb_id": 328853, "title": "The Sandwich Nazi", "original_title": "The Sandwich Nazi", "slug_title": "the-sandwich-nazi", "date": "2015-03-15", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gL41Ni1ypERkoYbJMlCJZT4LfXX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 313905, "title": "Fishing", "original_title": "Fishing", "slug_title": "fishing", "date": "1921-11-21", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s4cQUHNvDpTaKwVLP7CIpssUkYt.jpg", "actors": ["Max Fleischer (Himself)"], "comments": [], "recommandations_id": []}

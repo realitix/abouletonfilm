@@ -1,1 +1,1 @@
-{"tmdb_id": 550507, "title": "Manimals", "original_title": "Manimals", "slug_title": "manimals", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 550507, "title": "Manimals", "original_title": "Manimals", "slug_title": "manimals", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A woman remembers her former boyfriends as animals.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

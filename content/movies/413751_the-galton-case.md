@@ -1,1 +1,0 @@
-{"tmdb_id": 413751, "title": "The Galton Case", "original_title": "The Galton Case", "slug_title": "the-galton-case", "date": "", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

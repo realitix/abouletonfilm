@@ -1,1 +1,0 @@
-{"tmdb_id": 264165, "title": "A Chair Fit for an Angel", "original_title": "A Chair Fit for an Angel", "slug_title": "a-chair-fit-for-an-angel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

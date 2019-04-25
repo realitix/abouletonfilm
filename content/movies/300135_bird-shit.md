@@ -1,1 +1,0 @@
-{"tmdb_id": 300135, "title": "Bird Shit", "original_title": "Bird Shit", "slug_title": "bird-shit", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pq7Qmz1I9lEh1RhPmjbDsOYFvut.jpg", "actors": [], "comments": [], "recommandations_id": []}

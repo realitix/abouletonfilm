@@ -1,1 +1,0 @@
-{"tmdb_id": 367040, "title": "Elsa Schiaparelli - Mode ist Kunst", "original_title": "Elsa Schiaparelli - Mode ist Kunst", "slug_title": "elsa-schiaparelli-mode-ist-kunst", "date": "2015-09-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 558924, "title": "Gulf War: First Strike - Wings Of The Storm", "original_title": "Gulf War: First Strike - Wings Of The Storm", "slug_title": "gulf-war-first-strike-wings-of-the-storm", "date": "2003-01-01", "genre": "Guerre / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

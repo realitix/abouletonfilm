@@ -1,1 +1,0 @@
-{"tmdb_id": 236509, "title": "We, the Animals - Squeak!", "original_title": "We, the Animals - Squeak!", "slug_title": "we-the-animals-squeak", "date": "1941-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8hzFHLdKqO0PvChcbNEPX1E0DFE.jpg", "actors": [], "comments": [], "recommandations_id": []}

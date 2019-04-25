@@ -1,1 +1,0 @@
-{"tmdb_id": 327291, "title": "Wet Shave", "original_title": "Nassrasur", "slug_title": "wet-shave", "date": "2003-05-30", "genre": "Crime / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Franco (Mr. Franken)", "Chris J. Milo (Customer)", "Birgit Meyer (Policewoman)"], "comments": [], "recommandations_id": []}

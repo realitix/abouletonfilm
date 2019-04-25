@@ -1,1 +1,0 @@
-{"tmdb_id": 427721, "title": "L'Etreinte", "original_title": "L'Etreinte", "slug_title": "l-etreinte", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x4MjHX1ZKK71wsWO2KviFEZhsP3.jpg", "actors": [], "comments": [], "recommandations_id": []}

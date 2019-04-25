@@ -1,1 +1,0 @@
-{"tmdb_id": 376558, "title": "The Slayers", "original_title": "The Slayers", "slug_title": "the-slayers", "date": "2015-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

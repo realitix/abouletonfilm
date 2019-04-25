@@ -1,1 +1,0 @@
-{"tmdb_id": 451799, "title": "Kobiety pracujace", "original_title": "Kobiety pracujace", "slug_title": "kobiety-pracujace", "date": "1978-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bMCe1BF3aT5zFNQvtl76ANSIU1j.jpg", "actors": [], "comments": [], "recommandations_id": []}

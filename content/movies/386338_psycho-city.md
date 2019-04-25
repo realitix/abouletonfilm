@@ -1,1 +1,0 @@
-{"tmdb_id": 386338, "title": "Psycho City", "original_title": "Psycho City", "slug_title": "psycho-city", "date": "2014-03-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/stQfSZFfdh7is5G6RZ3eDJhjxa.jpg", "actors": [], "comments": [], "recommandations_id": []}

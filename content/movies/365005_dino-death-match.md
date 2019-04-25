@@ -1,1 +1,0 @@
-{"tmdb_id": 365005, "title": "Dino Death Match", "original_title": "Dino Death Match", "slug_title": "dino-death-match", "date": "2015-10-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m0NHdpGKJCSEafa95sFipprP57O.jpg", "actors": [], "comments": [], "recommandations_id": []}

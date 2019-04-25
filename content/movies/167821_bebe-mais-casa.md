@@ -1,1 +1,0 @@
-{"tmdb_id": 167821, "title": "Beb\u00ea Mais - Casa", "original_title": "Beb\u00ea Mais - Casa", "slug_title": "bebe-mais-casa", "date": "2009-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xexaRQZNvxrhnLukIcNptRW56Ht.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 300074, "title": "Simonetti Horror Project", "original_title": "Simonetti Horror Project", "slug_title": "simonetti-horror-project", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Uy4NMIkE1yKx1KJjsLxa62vMns.jpg", "actors": [], "comments": [], "recommandations_id": []}

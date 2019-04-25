@@ -1,1 +1,0 @@
-{"tmdb_id": 423042, "title": "A Happy Fairy", "original_title": "\u5feb\u6d3b\u795e\u4ed9", "slug_title": "a-happy-fairy", "date": "1952-02-01", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sun-Ma Sze-Tsang ()", "Ho Fei-Fan ()", "Pak Yuk-Tong ()", "Law Lai-Guen ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 433011, "title": "Pipo en de Bosbas", "original_title": "Pipo en de Bosbas", "slug_title": "pipo-en-de-bosbas", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 433011, "title": "Pipo en de Bosbas", "original_title": "Pipo en de Bosbas", "slug_title": "pipo-en-de-bosbas", "date": "", "genre": [""], "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

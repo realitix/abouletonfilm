@@ -1,1 +1,0 @@
-{"tmdb_id": 340864, "title": "Breve em Nenhum Cinema", "original_title": "Breve em Nenhum Cinema", "slug_title": "breve-em-nenhum-cinema", "date": "2015-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eduardo Climachauska (Stallone Cobra)", "Kazuo Ota ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 235639, "title": "Her\u015feyim Sensin", "original_title": "Her\u015feyim Sensin", "slug_title": "herseyim-sensin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uTF5hTp68dBGZtxAttsn9W97KC5.jpg", "actors": [], "comments": [], "recommandations_id": []}

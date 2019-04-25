@@ -1,1 +1,0 @@
-{"tmdb_id": 93839, "title": "A Boy Called Alex: The Concert", "original_title": "A Boy Called Alex: The Concert", "slug_title": "a-boy-called-alex-the-concert", "date": "2009-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wl579LesZ5wymdnuZVTEgAdLCqO.jpg", "actors": [], "comments": [], "recommandations_id": []}

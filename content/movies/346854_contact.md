@@ -1,1 +1,0 @@
-{"tmdb_id": 346854, "title": "Contact", "original_title": "Contact", "slug_title": "contact", "date": "2014-01-01", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7WQI4EGt7R3NqS4XB0kLzvfmYgR.jpg", "actors": [], "comments": [], "recommandations_id": []}

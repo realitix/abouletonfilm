@@ -1,1 +1,0 @@
-{"tmdb_id": 556765, "title": "Come On Mandy", "original_title": "Come On Mandy", "slug_title": "come-on-mandy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

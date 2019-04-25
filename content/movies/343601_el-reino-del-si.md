@@ -1,1 +1,0 @@
-{"tmdb_id": 343601, "title": "El reino del si", "original_title": "El reino del si", "slug_title": "el-reino-del-si", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

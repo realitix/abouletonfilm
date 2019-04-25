@@ -1,1 +1,0 @@
-{"tmdb_id": 198782, "title": "Les jours de Mathieu", "original_title": "\u017bywot Mateusza", "slug_title": "les-jours-de-mathieu", "date": "1968-06-08", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7PLv09FZg9jHLhijua62or04N6i.jpg", "actors": [], "comments": [], "recommandations_id": []}

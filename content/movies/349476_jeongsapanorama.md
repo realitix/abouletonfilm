@@ -1,1 +1,0 @@
-{"tmdb_id": 349476, "title": "\uc815\uc0ac\ud30c\ub178\ub77c\ub9c8", "original_title": "\uc815\uc0ac\ud30c\ub178\ub77c\ub9c8", "slug_title": "jeongsapanorama", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

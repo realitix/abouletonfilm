@@ -1,1 +1,0 @@
-{"tmdb_id": 338817, "title": "The Invisible String", "original_title": "The Invisible String", "slug_title": "the-invisible-string", "date": "2012-04-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gtRF6Gyhl1KJ0Tig73iDBu2xnBU.jpg", "actors": [], "comments": [], "recommandations_id": []}

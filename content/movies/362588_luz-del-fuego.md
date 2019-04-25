@@ -1,1 +1,0 @@
-{"tmdb_id": 362588, "title": "Luz del Fuego", "original_title": "Luz Del Fuego", "slug_title": "luz-del-fuego", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luc\u00e9lia Santos (Luz Del Fuego)"], "comments": [], "recommandations_id": []}

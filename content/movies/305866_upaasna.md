@@ -1,1 +1,0 @@
-{"tmdb_id": 305866, "title": "Upaasna", "original_title": "Upaasna", "slug_title": "upaasna", "date": "1971-03-15", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

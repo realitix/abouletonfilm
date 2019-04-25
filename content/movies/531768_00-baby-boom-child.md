@@ -1,1 +1,0 @@
-{"tmdb_id": 531768, "title": "00-Baby Boom Child", "original_title": "00-tal barn", "slug_title": "00-baby-boom-child", "date": "", "genre": "Animation / Science-Fiction / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hhW9W8spWbEiP3CexrZXt9kxzYz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 487895, "title": "The Bismarck Convoy Smashed!", "original_title": "The Bismarck Convoy Smashed!", "slug_title": "the-bismarck-convoy-smashed", "date": "1943-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Bathurst (Commentator (voice))"], "comments": [], "recommandations_id": []}

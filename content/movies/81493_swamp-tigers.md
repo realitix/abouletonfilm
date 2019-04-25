@@ -1,1 +1,0 @@
-{"tmdb_id": 81493, "title": "Swamp Tigers", "original_title": "Naturals Killers - Swamp Tigers", "slug_title": "swamp-tigers", "date": "2005-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fa8vcFg3JjgEcaxYx8u4nSt044W.jpg", "actors": ["John Michie (narrator)"], "comments": [], "recommandations_id": []}

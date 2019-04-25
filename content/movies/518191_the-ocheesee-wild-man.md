@@ -1,1 +1,0 @@
-{"tmdb_id": 518191, "title": "The Ocheesee Wild Man", "original_title": "The Ocheesee Wild Man", "slug_title": "the-ocheesee-wild-man", "date": "2016-03-30", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stacy Brown Jr. (Himself)", "Dale Cox (Himself)"], "comments": [], "recommandations_id": []}

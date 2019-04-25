@@ -1,1 +1,0 @@
-{"tmdb_id": 309740, "title": "Mehandi Rang Lagyo", "original_title": "Mehandi Rang Lagyo", "slug_title": "mehandi-rang-lagyo", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 459278, "title": "The Smuggler and Her Charges", "original_title": "La Passeuse des Aubrais", "slug_title": "the-smuggler-and-her-charges", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

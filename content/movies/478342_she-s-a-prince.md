@@ -1,1 +1,0 @@
-{"tmdb_id": 478342, "title": "She's a Prince", "original_title": "She's a Prince", "slug_title": "she-s-a-prince", "date": "1926-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

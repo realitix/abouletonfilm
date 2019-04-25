@@ -1,1 +1,0 @@
-{"tmdb_id": 275488, "title": "Fly Fishing Film Tour 2013", "original_title": "Fly Fishing Film Tour 2013", "slug_title": "fly-fishing-film-tour-2013", "date": "2012-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

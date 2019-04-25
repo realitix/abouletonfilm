@@ -1,1 +1,0 @@
-{"tmdb_id": 503282, "title": "Cricket & Park-Ex: a love story", "original_title": "Cricket & Park-Ex: a love story", "slug_title": "cricket-park-ex-a-love-story", "date": "2016-02-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 547203, "title": "Swami Public Ltd.", "original_title": "Swami Public Ltd.", "slug_title": "swami-public-ltd", "date": "2014-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Subodh Bhave ()", "Vikram Gokhale ()"], "comments": [], "recommandations_id": []}

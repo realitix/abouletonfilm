@@ -1,1 +1,0 @@
-{"tmdb_id": 222782, "title": "Casper's Spree Under the Sea", "original_title": "Casper's Spree Under the Sea", "slug_title": "casper-s-spree-under-the-sea", "date": "1950-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vw8m6yJYljyohpleGUB8jRqEUbs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 301124, "title": "Hariyali Aur Rasta", "original_title": "Hariyali Aur Rasta", "slug_title": "hariyali-aur-rasta", "date": "1961-12-30", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

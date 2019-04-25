@@ -1,1 +1,1 @@
-{"tmdb_id": 568530, "title": "La loi sauvage", "original_title": "La loi sauvage", "slug_title": "la-loi-sauvage", "date": "1988-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 568530, "title": "La loi sauvage", "original_title": "La loi sauvage", "slug_title": "la-loi-sauvage", "date": "1988-05-05", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

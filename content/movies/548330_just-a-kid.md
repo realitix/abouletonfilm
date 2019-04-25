@@ -1,1 +1,0 @@
-{"tmdb_id": 548330, "title": "Just a  Kid", "original_title": "Satungen", "slug_title": "just-a-kid", "date": "2002-11-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lrcnUxEdw9vAefBefMjywXAfKpR.jpg", "actors": ["Simona Ericsson (Maria)", "Boman Oscarsson (Teacher)"], "comments": [], "recommandations_id": []}

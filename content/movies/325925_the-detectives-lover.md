@@ -1,1 +1,0 @@
-{"tmdb_id": 325925, "title": "The Detectives Lover", "original_title": "The Detectives Lover", "slug_title": "the-detectives-lover", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

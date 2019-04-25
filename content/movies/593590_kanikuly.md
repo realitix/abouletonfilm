@@ -1,1 +1,0 @@
-{"tmdb_id": 593590, "title": "\u041a\u0430\u043d\u0438\u043a\u0443\u043b\u044b", "original_title": "\u041a\u0430\u043d\u0438\u043a\u0443\u043b\u044b", "slug_title": "kanikuly", "date": "2018-09-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

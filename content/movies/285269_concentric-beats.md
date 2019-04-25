@@ -1,1 +1,0 @@
-{"tmdb_id": 285269, "title": "Concentric Beats", "original_title": "Concentric Beats", "slug_title": "concentric-beats", "date": "2003-01-09", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/urWE6FUfvRJR5ciF5iW1oD4VfLo.jpg", "actors": [], "comments": [], "recommandations_id": []}

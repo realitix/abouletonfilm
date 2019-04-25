@@ -1,1 +1,0 @@
-{"tmdb_id": 268793, "title": "24 Hours on Earth - Day", "original_title": "24 Hours on Earth - Day", "slug_title": "24-hours-on-earth-day", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

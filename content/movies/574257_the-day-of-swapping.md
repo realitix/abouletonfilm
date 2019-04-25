@@ -1,1 +1,0 @@
-{"tmdb_id": 574257, "title": "The Day of Swapping", "original_title": "The Day of Swapping", "slug_title": "the-day-of-swapping", "date": "2017-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/whX4CbaRDyn0sDuxSOjVi280CzF.jpg", "actors": [], "comments": [], "recommandations_id": []}

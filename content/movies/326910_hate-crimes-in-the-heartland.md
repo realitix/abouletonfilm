@@ -1,1 +1,0 @@
-{"tmdb_id": 326910, "title": "Hate Crimes in the Heartland", "original_title": "Hate Crimes in the Heartland", "slug_title": "hate-crimes-in-the-heartland", "date": "2014-02-11", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

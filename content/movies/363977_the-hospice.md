@@ -1,1 +1,0 @@
-{"tmdb_id": 363977, "title": "The Hospice", "original_title": "\ubaa9\uc228", "slug_title": "the-hospice", "date": "2014-12-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rkVyiVZoS1cDMgz4JfiahtyWfY2.jpg", "actors": [], "comments": [], "recommandations_id": []}

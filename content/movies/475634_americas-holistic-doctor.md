@@ -1,1 +1,0 @@
-{"tmdb_id": 475634, "title": "America\u2019s Holistic Doctor", "original_title": "America\u2019s Holistic Doctor", "slug_title": "americas-holistic-doctor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

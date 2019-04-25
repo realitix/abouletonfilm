@@ -1,1 +1,0 @@
-{"tmdb_id": 541546, "title": "jurrasic park", "original_title": "jurrasic park", "slug_title": "jurrasic-park", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

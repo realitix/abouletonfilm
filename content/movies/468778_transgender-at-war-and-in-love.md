@@ -1,1 +1,0 @@
-{"tmdb_id": 468778, "title": "Transgender, at war and in love", "original_title": "Transgender, at war and in love", "slug_title": "transgender-at-war-and-in-love", "date": "2015-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

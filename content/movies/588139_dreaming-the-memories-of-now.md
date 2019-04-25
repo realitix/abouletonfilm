@@ -1,1 +1,0 @@
-{"tmdb_id": 588139, "title": "Dreaming the Memories of Now", "original_title": "Dreaming the Memories of Now", "slug_title": "dreaming-the-memories-of-now", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kbhZBgrSaHR4ri6hIIDaRwXQdce.jpg", "actors": [], "comments": [], "recommandations_id": []}

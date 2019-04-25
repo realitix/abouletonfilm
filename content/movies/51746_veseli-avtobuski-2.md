@@ -1,1 +1,0 @@
-{"tmdb_id": 51746, "title": "Veseli avtobuski 2", "original_title": "Veseli avtobuski 2", "slug_title": "veseli-avtobuski-2", "date": "2003-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6GA5IvpKbHX3sRKHhpszOfx56mh.jpg", "actors": [], "comments": [], "recommandations_id": []}

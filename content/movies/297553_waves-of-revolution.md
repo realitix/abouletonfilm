@@ -1,1 +1,0 @@
-{"tmdb_id": 297553, "title": "Waves of Revolution", "original_title": "Waves of Revolution", "slug_title": "waves-of-revolution", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hSSHhHrmMq9wq9tXw0lKGhFnnBP.jpg", "actors": [], "comments": [], "recommandations_id": []}

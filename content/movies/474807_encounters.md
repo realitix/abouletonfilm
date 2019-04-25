@@ -1,1 +1,0 @@
-{"tmdb_id": 474807, "title": "Encounters", "original_title": "Spotkania", "slug_title": "encounters", "date": "2004-05-07", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

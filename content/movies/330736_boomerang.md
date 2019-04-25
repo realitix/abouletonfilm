@@ -1,1 +1,0 @@
-{"tmdb_id": 330736, "title": "Boomerang", "original_title": "Boomerang", "slug_title": "boomerang", "date": "1974-07-01", "genre": "T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s7qhDkuy5INAKjX6Xdgl2DCylFR.jpg", "actors": ["Nancy Holt ()"], "comments": [], "recommandations_id": []}

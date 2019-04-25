@@ -1,1 +1,0 @@
-{"tmdb_id": 429924, "title": "A Pact Among Angels", "original_title": "Le pacte des anges", "slug_title": "a-pact-among-angels", "date": "2016-11-04", "genre": "Drame / Thriller", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vqADjmS8mAjQSQwtOCSn29QcLqB.jpg", "actors": [], "comments": [], "recommandations_id": []}

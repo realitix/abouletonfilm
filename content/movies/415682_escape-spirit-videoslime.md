@@ -1,1 +1,0 @@
-{"tmdb_id": 415682, "title": "Escape Spirit Videoslime", "original_title": "Escape Spirit Videoslime", "slug_title": "escape-spirit-videoslime", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jPTzuNnG8qDLtDWxIX32T7Ocglj.jpg", "actors": [], "comments": [], "recommandations_id": []}

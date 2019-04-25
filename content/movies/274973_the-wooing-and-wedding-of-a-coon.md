@@ -1,1 +1,0 @@
-{"tmdb_id": 274973, "title": "The Wooing and Wedding of a Coon", "original_title": "The Wooing and Wedding of a Coon", "slug_title": "the-wooing-and-wedding-of-a-coon", "date": "1907-11-16", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

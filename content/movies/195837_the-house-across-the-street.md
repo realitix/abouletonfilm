@@ -1,1 +1,0 @@
-{"tmdb_id": 195837, "title": "The House Across the Street", "original_title": "La casa de enfrente", "slug_title": "the-house-across-the-street", "date": "2004-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vsqJ6FOhjOyShYaIFeYSIOuE7xw.jpg", "actors": [], "comments": [], "recommandations_id": []}

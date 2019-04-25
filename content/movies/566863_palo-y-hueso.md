@@ -1,1 +1,0 @@
-{"tmdb_id": 566863, "title": "Palo y hueso", "original_title": "Palo y hueso", "slug_title": "palo-y-hueso", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eLTAYfA6UefwIjRG9h0WtvFbvNN.jpg", "actors": [], "comments": [], "recommandations_id": []}

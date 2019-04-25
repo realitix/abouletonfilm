@@ -1,1 +1,0 @@
-{"tmdb_id": 425673, "title": "Scathing", "original_title": "Scathing", "slug_title": "scathing", "date": "2016-11-15", "genre": "Thriller / Horreur", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/trl6ziVTh73NyGL9f9oxoCLhmLi.jpg", "actors": [], "comments": [], "recommandations_id": []}

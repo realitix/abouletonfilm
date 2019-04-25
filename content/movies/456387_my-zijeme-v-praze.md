@@ -1,1 +1,0 @@
-{"tmdb_id": 456387, "title": "My \u017eijeme v Praze...", "original_title": "My \u017eijeme v Praze...", "slug_title": "my-zijeme-v-praze", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3JDTMm68MjCM5lwdHQ4SSwRNSek.jpg", "actors": ["Egon Bondy (Egon Bondy)"], "comments": [], "recommandations_id": []}

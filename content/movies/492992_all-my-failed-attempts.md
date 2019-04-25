@@ -1,1 +1,0 @@
-{"tmdb_id": 492992, "title": "All My Failed Attempts", "original_title": "All My Failed Attempts", "slug_title": "all-my-failed-attempts", "date": "2009-01-26", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3YkG60VtxeckuuLLoTAKmmpaaS8.jpg", "actors": [], "comments": [], "recommandations_id": []}

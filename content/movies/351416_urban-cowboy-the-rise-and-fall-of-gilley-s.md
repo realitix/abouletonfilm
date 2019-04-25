@@ -1,1 +1,0 @@
-{"tmdb_id": 351416, "title": "Urban Cowboy: The Rise and Fall of Gilley's", "original_title": "Urban Cowboy: The Rise and Fall of Gilley's", "slug_title": "urban-cowboy-the-rise-and-fall-of-gilley-s", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

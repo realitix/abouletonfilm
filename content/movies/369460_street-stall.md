@@ -1,1 +1,0 @@
-{"tmdb_id": 369460, "title": "Street Stall", "original_title": "\ud3ec\uc7a5\ub9c8\ucc28", "slug_title": "street-stall", "date": "2015-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ug2WL8GalXfr6UttMHePhraFkQn.jpg", "actors": ["Lee Chae-dam ()"], "comments": [], "recommandations_id": []}

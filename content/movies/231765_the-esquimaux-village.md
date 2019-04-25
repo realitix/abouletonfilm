@@ -1,1 +1,0 @@
-{"tmdb_id": 231765, "title": "The Esquimaux Village", "original_title": "The Esquimaux Village", "slug_title": "the-esquimaux-village", "date": "1901-07-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

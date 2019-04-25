@@ -1,1 +1,0 @@
-{"tmdb_id": 359841, "title": "Answer to Emergency", "original_title": "Answer to Emergency", "slug_title": "answer-to-emergency", "date": "1962-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nD301anMvc0EnVPjDQwUUDSOe7Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

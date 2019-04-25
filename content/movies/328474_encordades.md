@@ -1,1 +1,0 @@
-{"tmdb_id": 328474, "title": "Encordades", "original_title": "Encordades", "slug_title": "encordades", "date": "2014-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

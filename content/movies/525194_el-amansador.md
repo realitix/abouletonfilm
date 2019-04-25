@@ -1,1 +1,0 @@
-{"tmdb_id": 525194, "title": "El amansador", "original_title": "El amansador", "slug_title": "el-amansador", "date": "1896-05-15", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

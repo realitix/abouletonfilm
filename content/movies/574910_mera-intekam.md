@@ -1,1 +1,0 @@
-{"tmdb_id": 574910, "title": "Mera Intekam", "original_title": "Aatadukundam Raa", "slug_title": "mera-intekam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4aMaPuyJpDWIKhCcmW1k2ds6TMA.jpg", "actors": [], "comments": [], "recommandations_id": []}

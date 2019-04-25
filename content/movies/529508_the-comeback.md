@@ -1,1 +1,0 @@
-{"tmdb_id": 529508, "title": "The Comeback", "original_title": "The Comeback", "slug_title": "the-comeback", "date": "1989-01-08", "genre": "Drame / T\u00e9l\u00e9film", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Urich (Scotty Malloy)", "Chynna Phillips (Jessica)"], "comments": [], "recommandations_id": []}

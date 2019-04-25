@@ -1,1 +1,0 @@
-{"tmdb_id": 490151, "title": "Frozen Time", "original_title": "Frozen Time", "slug_title": "frozen-time", "date": "1981-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 193980, "title": "Temporal en Barcelona (atribuido)", "original_title": "Temporal en Barcelona (atribuido)", "slug_title": "temporal-en-barcelona-atribuido", "date": "1910-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

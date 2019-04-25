@@ -1,1 +1,0 @@
-{"tmdb_id": 271255, "title": "D.O.A.: Greatest Shits 1978-1998", "original_title": "D.O.A.: Greatest Shits 1978-1998", "slug_title": "d-o-a-greatest-shits-1978-1998", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

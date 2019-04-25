@@ -1,1 +1,0 @@
-{"tmdb_id": 559689, "title": "Nice Mother-in-law", "original_title": "Nice Mother-in-law", "slug_title": "nice-mother-in-law", "date": "2018-07-09", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s6xX158lG46vKDEVAonfK42Qwp9.jpg", "actors": [], "comments": [], "recommandations_id": []}

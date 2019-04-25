@@ -1,1 +1,0 @@
-{"tmdb_id": 389743, "title": "The Summer Guest", "original_title": "A nyaral\u00f3", "slug_title": "the-summer-guest", "date": "1992-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

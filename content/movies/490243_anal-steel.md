@@ -1,1 +1,0 @@
-{"tmdb_id": 490243, "title": "Anal Steel", "original_title": "Analstahl", "slug_title": "anal-steel", "date": "1992-12-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

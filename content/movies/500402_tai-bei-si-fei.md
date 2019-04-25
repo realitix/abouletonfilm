@@ -1,1 +1,0 @@
-{"tmdb_id": 500402, "title": "\u53f0\u5317\u56db\u975e", "original_title": "\u53f0\u5317\u56db\u975e", "slug_title": "tai-bei-si-fei", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

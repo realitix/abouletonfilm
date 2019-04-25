@@ -1,1 +1,0 @@
-{"tmdb_id": 511140, "title": "Deadly Deposits", "original_title": "Deadly Deposits", "slug_title": "deadly-deposits", "date": "1994-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AoDReisT5Nu2CnhnWCyqRWlZqV3.jpg", "actors": [], "comments": [], "recommandations_id": []}

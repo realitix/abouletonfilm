@@ -1,1 +1,0 @@
-{"tmdb_id": 17399, "title": "Zappa Plays Zappa", "original_title": "Zappa Plays Zappa", "slug_title": "zappa-plays-zappa", "date": "2007-10-05", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/szuXtKrpLXl4BJQse6K5sgAH3O8.jpg", "actors": ["Dweezil Zappa (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 42308, "title": "Not Evil Just Wrong", "original_title": "Not Evil Just Wrong", "slug_title": "not-evil-just-wrong", "date": "2009-10-18", "genre": "", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vp90xj2t3KWYmJoo1wmtsEVa4ou.jpg", "actors": [], "comments": [], "recommandations_id": []}

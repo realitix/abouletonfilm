@@ -1,1 +1,0 @@
-{"tmdb_id": 455294, "title": "\u0422\u0435\u0449\u0430", "original_title": "\u0422\u0435\u0449\u0430", "slug_title": "teshcha", "date": "1973-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r18f7ZLx1bhfnvbPpaiudFnSnPT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 372183, "title": "Krakonos a ovc\u00e1k", "original_title": "Krakonos a ovc\u00e1k", "slug_title": "krakonos-a-ovcak", "date": "1976-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

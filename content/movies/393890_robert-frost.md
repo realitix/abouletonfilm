@@ -1,1 +1,0 @@
-{"tmdb_id": 393890, "title": "Robert Frost", "original_title": "Robert Frost", "slug_title": "robert-frost", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6DIYZkZT38guXnAElHVgpAKU1Wu.jpg", "actors": ["Robert Frost (Himself)"], "comments": [], "recommandations_id": []}

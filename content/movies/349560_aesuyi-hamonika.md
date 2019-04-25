@@ -1,1 +1,0 @@
-{"tmdb_id": 349560, "title": "\uc560\uc218\uc758 \ud558\ubaa8\ub2c8\uce74", "original_title": "\uc560\uc218\uc758 \ud558\ubaa8\ub2c8\uce74", "slug_title": "aesuyi-hamonika", "date": "1995-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

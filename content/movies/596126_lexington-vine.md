@@ -1,1 +1,0 @@
-{"tmdb_id": 596126, "title": "Lexington & Vine", "original_title": "Lexington & Vine", "slug_title": "lexington-vine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

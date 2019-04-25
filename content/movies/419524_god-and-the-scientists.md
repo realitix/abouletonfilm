@@ -1,1 +1,0 @@
-{"tmdb_id": 419524, "title": "God and the Scientists", "original_title": "God and the Scientists", "slug_title": "god-and-the-scientists", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4vDlcYwPE3PTf6Ba5ejZu9yotp0.jpg", "actors": [], "comments": [], "recommandations_id": []}

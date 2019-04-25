@@ -1,1 +1,0 @@
-{"tmdb_id": 478175, "title": "UFC Top 10 Title Reigns", "original_title": "UFC Top 10 Title Reigns", "slug_title": "ufc-top-10-title-reigns", "date": "2017-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Hwg66lVU5ss8gqWT8Ocy4qR4Mq.jpg", "actors": [], "comments": [], "recommandations_id": []}

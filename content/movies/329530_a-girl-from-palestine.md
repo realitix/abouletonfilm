@@ -1,1 +1,0 @@
-{"tmdb_id": 329530, "title": "A Girl from Palestine", "original_title": "Fatat min Falastin", "slug_title": "a-girl-from-palestine", "date": "1949-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hassan Fayek ()", "Souad Mohamed ()", "Salah Nazmi ()"], "comments": [], "recommandations_id": []}

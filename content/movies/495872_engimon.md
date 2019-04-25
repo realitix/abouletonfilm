@@ -1,1 +1,0 @@
-{"tmdb_id": 495872, "title": "Engimon", "original_title": "\u3048\u3093\u304e\u3082\u3093", "slug_title": "engimon", "date": "2018-03-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gGrswc5nLNgRkMIeaUPNGOI6uuJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 410625, "title": "The Mark", "original_title": "The Mark", "slug_title": "the-mark", "date": "2003-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eunhcRiNzvtPgM4G0j3xP23PB8V.jpg", "actors": [], "comments": [], "recommandations_id": []}

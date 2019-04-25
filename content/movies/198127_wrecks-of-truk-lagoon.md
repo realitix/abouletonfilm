@@ -1,1 +1,0 @@
-{"tmdb_id": 198127, "title": "Wrecks of Truk Lagoon", "original_title": "Wrecks of Truk Lagoon", "slug_title": "wrecks-of-truk-lagoon", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k77tDQKBWVpsr12MAKvueaxEagg.jpg", "actors": [], "comments": [], "recommandations_id": []}

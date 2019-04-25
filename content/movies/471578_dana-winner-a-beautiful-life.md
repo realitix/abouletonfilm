@@ -1,1 +1,0 @@
-{"tmdb_id": 471578, "title": "Dana Winner - A Beautiful Life", "original_title": "Dana Winner - A Beautiful Life", "slug_title": "dana-winner-a-beautiful-life", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7PshfOUXgG1XaWOjSqdTTTM3CYh.jpg", "actors": [], "comments": [], "recommandations_id": []}

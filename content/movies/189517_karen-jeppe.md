@@ -1,1 +1,0 @@
-{"tmdb_id": 189517, "title": "Karen Jeppe", "original_title": "Karen Jeppe", "slug_title": "karen-jeppe", "date": "1926-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

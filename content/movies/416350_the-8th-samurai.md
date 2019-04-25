@@ -1,1 +1,0 @@
-{"tmdb_id": 416350, "title": "The 8th SAMURAI", "original_title": "The 8th SAMURAI", "slug_title": "the-8th-samurai", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

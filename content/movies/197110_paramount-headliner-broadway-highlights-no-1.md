@@ -1,1 +1,0 @@
-{"tmdb_id": 197110, "title": "Paramount Headliner: Broadway Highlights No. 1", "original_title": "Paramount Headliner: Broadway Highlights No. 1", "slug_title": "paramount-headliner-broadway-highlights-no-1", "date": "1935-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

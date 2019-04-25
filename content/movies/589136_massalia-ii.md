@@ -1,1 +1,0 @@
-{"tmdb_id": 589136, "title": "Massalia II", "original_title": "Massalia II", "slug_title": "massalia-ii", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "Massalia II explore le port de Marseille et visite le quartier du Cours Julien de la cit\u00e9 phoc\u00e9enne.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

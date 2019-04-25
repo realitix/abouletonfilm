@@ -1,1 +1,0 @@
-{"tmdb_id": 204281, "title": "The Time Chasers", "original_title": "The Time Chasers", "slug_title": "the-time-chasers", "date": "1994-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p6Pk3qyEqtpK63dS3TtpJr8ORhg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 215892, "title": "Pickles for Nickels", "original_title": "Pickles for Nickels", "slug_title": "pickles-for-nickels", "date": "2010-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 330818, "title": "Brewster's Magic", "original_title": "Brewster's Magic", "slug_title": "brewster-s-magic", "date": "1933-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n6ThErrhDtYGBWVoqM32lVJo4yD.jpg", "actors": [], "comments": [], "recommandations_id": []}

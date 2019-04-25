@@ -1,1 +1,0 @@
-{"tmdb_id": 308329, "title": "Last Days", "original_title": "Last Days", "slug_title": "last-days", "date": "2014-12-07", "genre": "Crime / Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xjqbZZAjrVsw4uyrui1LRxPDAqh.jpg", "actors": [], "comments": [], "recommandations_id": []}

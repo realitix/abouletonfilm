@@ -1,1 +1,0 @@
-{"tmdb_id": 570401, "title": "Cry of the Lizard", "original_title": "Le cri du l\u00e9zard", "slug_title": "cry-of-the-lizard", "date": "1991-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mSLuLdlp1ANrJjgoaUX5iwp2lUG.jpg", "actors": [], "comments": [], "recommandations_id": []}

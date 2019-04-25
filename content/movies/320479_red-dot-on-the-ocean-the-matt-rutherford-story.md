@@ -1,1 +1,0 @@
-{"tmdb_id": 320479, "title": "Red Dot on the Ocean: The Matt Rutherford Story", "original_title": "Red Dot on the Ocean: The Matt Rutherford Story", "slug_title": "red-dot-on-the-ocean-the-matt-rutherford-story", "date": "2014-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

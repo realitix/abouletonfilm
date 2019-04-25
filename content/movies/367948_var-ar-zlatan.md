@@ -1,1 +1,0 @@
-{"tmdb_id": 367948, "title": "Var \u00e4r Zlatan?", "original_title": "Var \u00e4r Zlatan?", "slug_title": "var-ar-zlatan", "date": "2004-02-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/btUWvwDqscbh7qkA0jmnuS4wFEX.jpg", "actors": [], "comments": [], "recommandations_id": []}

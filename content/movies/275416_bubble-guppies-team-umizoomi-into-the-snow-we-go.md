@@ -1,1 +1,0 @@
-{"tmdb_id": 275416, "title": "Bubble Guppies: Team Umizoomi: Into the Snow We Go", "original_title": "Bubble Guppies: Team Umizoomi: Into the Snow We Go", "slug_title": "bubble-guppies-team-umizoomi-into-the-snow-we-go", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

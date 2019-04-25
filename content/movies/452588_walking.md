@@ -1,1 +1,0 @@
-{"tmdb_id": 452588, "title": "Walking", "original_title": "Walking", "slug_title": "walking", "date": "", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

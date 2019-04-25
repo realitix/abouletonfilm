@@ -1,1 +1,0 @@
-{"tmdb_id": 295062, "title": "Michelle's Third Novel", "original_title": "Michelle's Third Novel", "slug_title": "michelle-s-third-novel", "date": "1994-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marguerite Lingard (Michelle)", "Romesh Goonwardene (Postman)"], "comments": [], "recommandations_id": []}

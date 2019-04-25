@@ -1,1 +1,0 @@
-{"tmdb_id": 529313, "title": "O Que H\u00e1 Por Tr\u00e1s da Porta?", "original_title": "O Que H\u00e1 Por Tr\u00e1s da Porta?", "slug_title": "o-que-ha-por-tras-da-porta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

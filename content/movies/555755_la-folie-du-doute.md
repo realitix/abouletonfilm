@@ -1,1 +1,0 @@
-{"tmdb_id": 555755, "title": "La folie du doute", "original_title": "La folie du doute", "slug_title": "la-folie-du-doute", "date": "1923-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

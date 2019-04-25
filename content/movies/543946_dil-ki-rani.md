@@ -1,1 +1,0 @@
-{"tmdb_id": 543946, "title": "Dil Ki Rani", "original_title": "Dil Ki Rani", "slug_title": "dil-ki-rani", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

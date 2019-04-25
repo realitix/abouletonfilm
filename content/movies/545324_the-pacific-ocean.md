@@ -1,1 +1,0 @@
-{"tmdb_id": 545324, "title": "The Pacific Ocean", "original_title": "The Pacific Ocean", "slug_title": "the-pacific-ocean", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v9P2h5fQ45oB1RRleA93cnNASDG.jpg", "actors": [], "comments": [], "recommandations_id": []}

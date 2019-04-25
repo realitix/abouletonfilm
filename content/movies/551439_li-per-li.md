@@ -1,1 +1,0 @@
-{"tmdb_id": 551439, "title": "Li per li", "original_title": "Li per li", "slug_title": "li-per-li", "date": "1994-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

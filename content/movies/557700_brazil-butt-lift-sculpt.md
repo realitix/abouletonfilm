@@ -1,1 +1,0 @@
-{"tmdb_id": 557700, "title": "Brazil Butt Lift: Sculpt", "original_title": "Brazil Butt Lift: Sculpt", "slug_title": "brazil-butt-lift-sculpt", "date": "2010-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/N3hgIcG4BXMjsGWFlCi9lkm8Ps.jpg", "actors": [], "comments": [], "recommandations_id": []}

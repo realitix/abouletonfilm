@@ -1,1 +1,0 @@
-{"tmdb_id": 287860, "title": "And the Beat Goes On", "original_title": "And the Beat Goes On", "slug_title": "and-the-beat-goes-on", "date": "2009-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dOmDYGr1C7mh3sxyf57NbBbZFz0.jpg", "actors": [], "comments": [], "recommandations_id": []}

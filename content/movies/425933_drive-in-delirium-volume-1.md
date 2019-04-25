@@ -1,1 +1,0 @@
-{"tmdb_id": 425933, "title": "Drive-In Delirium Volume 1", "original_title": "Drive-In Delirium Volume 1", "slug_title": "drive-in-delirium-volume-1", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hE1EWiKxDEL1jimx5JcJT97DTyY.jpg", "actors": [], "comments": [], "recommandations_id": []}

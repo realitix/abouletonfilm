@@ -1,1 +1,0 @@
-{"tmdb_id": 556870, "title": "Weird Fiction", "original_title": "Weird Fiction", "slug_title": "weird-fiction", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

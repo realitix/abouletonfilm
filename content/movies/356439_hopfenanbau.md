@@ -1,1 +1,0 @@
-{"tmdb_id": 356439, "title": "Hopfenanbau", "original_title": "Hopfenanbau", "slug_title": "hopfenanbau", "date": "1935-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 379257, "title": "Pink Z-Z-Z", "original_title": "Pink Z-Z-Z", "slug_title": "pink-z-z-z", "date": "1978-12-23", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ieIy0HMPIDNvgJO0j0KES0yNdam.jpg", "actors": [], "comments": [], "recommandations_id": []}

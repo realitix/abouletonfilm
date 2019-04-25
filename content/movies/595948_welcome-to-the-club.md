@@ -1,1 +1,0 @@
-{"tmdb_id": 595948, "title": "Welcome to the Club", "original_title": "Welcome to the Club", "slug_title": "welcome-to-the-club", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

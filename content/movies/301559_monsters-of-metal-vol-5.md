@@ -1,1 +1,0 @@
-{"tmdb_id": 301559, "title": "Monsters of Metal Vol. 5", "original_title": "Monsters of Metal Vol. 5", "slug_title": "monsters-of-metal-vol-5", "date": "2007-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t9k8vFBQAWf9oe0yTn3V9puk33h.jpg", "actors": [], "comments": [], "recommandations_id": []}

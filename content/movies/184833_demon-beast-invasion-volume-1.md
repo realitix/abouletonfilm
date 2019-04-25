@@ -1,1 +1,0 @@
-{"tmdb_id": 184833, "title": "Demon Beast Invasion Volume 1", "original_title": "Demon Beast Invasion Volume 1", "slug_title": "demon-beast-invasion-volume-1", "date": "1991-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iMV4xS2jM9fJlrrbhQNfPY1tcpj.jpg", "actors": [], "comments": [], "recommandations_id": []}

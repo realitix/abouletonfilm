@@ -1,1 +1,0 @@
-{"tmdb_id": 312415, "title": "Tsunami: The Day The Wave Struck", "original_title": "Tsunami: The Day The Wave Struck", "slug_title": "tsunami-the-day-the-wave-struck", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

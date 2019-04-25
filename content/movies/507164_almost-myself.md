@@ -1,1 +1,0 @@
-{"tmdb_id": 507164, "title": "Almost Myself", "original_title": "Almost Myself", "slug_title": "almost-myself", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/DKWVxP3rI2VlJ1btkWt9IWCbHO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 328184, "title": "Relation", "original_title": "Relation", "slug_title": "relation", "date": "1982-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uiqopyGJ4806zzyzHDbpkIcO5oG.jpg", "actors": [], "comments": [], "recommandations_id": []}

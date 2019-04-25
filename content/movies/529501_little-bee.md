@@ -1,1 +1,0 @@
-{"tmdb_id": 529501, "title": "Little Bee", "original_title": "Little Bee", "slug_title": "little-bee", "date": "", "genre": "Thriller / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Julia Roberts ()"], "comments": [], "recommandations_id": []}

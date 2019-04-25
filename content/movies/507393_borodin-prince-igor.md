@@ -1,1 +1,0 @@
-{"tmdb_id": 507393, "title": "Borodin: Prince Igor", "original_title": "Borodin: Prince Igor", "slug_title": "borodin-prince-igor", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ah1TXLHncUR8B9ycv34Gz6ynKhu.jpg", "actors": [], "comments": [], "recommandations_id": []}

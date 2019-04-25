@@ -1,1 +1,0 @@
-{"tmdb_id": 498954, "title": "Im inneren Kreis", "original_title": "Im inneren Kreis", "slug_title": "im-inneren-kreis", "date": "2017-06-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a8XGSuTvTAUgrwSfGVAUMMXguhZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

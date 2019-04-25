@@ -1,1 +1,0 @@
-{"tmdb_id": 366335, "title": "Jovem Guarda 40 Anos - Vol 2", "original_title": "Jovem Guarda 40 Anos - Vol 2", "slug_title": "jovem-guarda-40-anos-vol-2", "date": "2016-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bua7rIn4TXQQmJ6PpF17WD5sS35.jpg", "actors": [], "comments": [], "recommandations_id": []}

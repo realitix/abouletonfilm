@@ -1,1 +1,0 @@
-{"tmdb_id": 477470, "title": "Silent Class", "original_title": "\uace0\uc694\uc218\uc5c5", "slug_title": "silent-class", "date": "2017-03-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 261455, "title": "Vauhtia - Tempo 1-2", "original_title": "Vauhtia - Tempo 1-2", "slug_title": "vauhtia-tempo-1-2", "date": "1934-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

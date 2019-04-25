@@ -1,1 +1,0 @@
-{"tmdb_id": 349910, "title": "\ucd5c\uc778\ud638\uc758 \uc57c\uc0c9", "original_title": "\ucd5c\uc778\ud638\uc758 \uc57c\uc0c9", "slug_title": "coeinhoyi-yasaeg", "date": "1982-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

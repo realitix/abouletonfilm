@@ -1,1 +1,0 @@
-{"tmdb_id": 522592, "title": "Zombie Penetrator", "original_title": "Zombie Penetrator", "slug_title": "zombie-penetrator", "date": "2007-01-01", "genre": "Horreur / Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8LOGulO81dlDOzzYuQyeOG6RjWB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 572046, "title": "The Clever Girl", "original_title": "Okos l\u00e1ny", "slug_title": "the-clever-girl", "date": "1955-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

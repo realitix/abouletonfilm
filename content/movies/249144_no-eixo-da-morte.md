@@ -1,1 +1,0 @@
-{"tmdb_id": 249144, "title": "No Eixo da Morte", "original_title": "No Eixo da Morte", "slug_title": "no-eixo-da-morte", "date": "1998-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/YHge3lAI7H65hriq776yPpuM0x.jpg", "actors": ["Affonso Brazza ()", "Claudete Joubert ()"], "comments": [], "recommandations_id": []}

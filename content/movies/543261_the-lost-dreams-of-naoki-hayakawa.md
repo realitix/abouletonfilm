@@ -1,1 +1,0 @@
-{"tmdb_id": 543261, "title": "The Lost Dreams of Naoki Hayakawa", "original_title": "The Lost Dreams of Naoki Hayakawa", "slug_title": "the-lost-dreams-of-naoki-hayakawa", "date": "2017-07-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daisuke Kosugi (Naoki Hayakawa)"], "comments": [], "recommandations_id": []}

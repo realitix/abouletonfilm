@@ -1,1 +1,1 @@
-{"tmdb_id": 353012, "title": "Slim Pickings", "original_title": "Slim Pickings", "slug_title": "slim-pickings", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 353012, "title": "Slim Pickings", "original_title": "Slim Pickings", "slug_title": "slim-pickings", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

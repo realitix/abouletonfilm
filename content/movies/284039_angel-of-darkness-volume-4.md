@@ -1,1 +1,0 @@
-{"tmdb_id": 284039, "title": "Angel of Darkness Volume 4", "original_title": "Angel of Darkness Volume 4", "slug_title": "angel-of-darkness-volume-4", "date": "1995-11-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g7hy37DgCuPEser2eQg03uJhr1F.jpg", "actors": [], "comments": [], "recommandations_id": []}

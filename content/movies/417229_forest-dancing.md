@@ -1,1 +1,1 @@
-{"tmdb_id": 417229, "title": "Forest Dancing", "original_title": "Forest Dancing", "slug_title": "forest-dancing", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 417229, "title": "Forest Dancing", "original_title": "Forest Dancing", "slug_title": "forest-dancing", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

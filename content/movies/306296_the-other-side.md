@@ -1,1 +1,0 @@
-{"tmdb_id": 306296, "title": "The Other Side", "original_title": "Andra Sidan", "slug_title": "the-other-side", "date": "2003-08-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kina Strandberg (Emma)", "Theodor Larzon (Fredrik)"], "comments": [], "recommandations_id": []}

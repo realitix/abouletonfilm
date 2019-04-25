@@ -1,1 +1,0 @@
-{"tmdb_id": 167543, "title": "Dream Tower", "original_title": "Dream Tower", "slug_title": "dream-tower", "date": "1994-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ao4ad6wd7PsB3wvjxiQrZC8UAnZ.jpg", "actors": ["Paul Evitts ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 364527, "title": "Neighbor", "original_title": "\u90bb\u5c45", "slug_title": "neighbor", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ciWh0jmj72IcNw93cME439DoThL.jpg", "actors": [], "comments": [], "recommandations_id": []}

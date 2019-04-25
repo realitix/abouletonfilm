@@ -1,1 +1,0 @@
-{"tmdb_id": 235893, "title": "Pill Peddlers", "original_title": "Pill Peddlers", "slug_title": "pill-peddlers", "date": "1952-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

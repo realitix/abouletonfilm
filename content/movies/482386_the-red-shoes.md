@@ -1,1 +1,0 @@
-{"tmdb_id": 482386, "title": "The Red Shoes", "original_title": "The Red Shoes", "slug_title": "the-red-shoes", "date": "", "genre": "Familial / Fantastique / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

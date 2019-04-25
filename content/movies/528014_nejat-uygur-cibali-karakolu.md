@@ -1,1 +1,0 @@
-{"tmdb_id": 528014, "title": "Nejat Uygur - Cibali Karakolu", "original_title": "Nejat Uygur - Cibali Karakolu", "slug_title": "nejat-uygur-cibali-karakolu", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qtQvzUoSdibI9Lss2m0V15vEtS3.jpg", "actors": [], "comments": [], "recommandations_id": []}

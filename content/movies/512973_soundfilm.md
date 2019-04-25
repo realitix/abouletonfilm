@@ -1,1 +1,0 @@
-{"tmdb_id": 512973, "title": "SOUNDFILM", "original_title": "SOUNDFILM", "slug_title": "soundfilm", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

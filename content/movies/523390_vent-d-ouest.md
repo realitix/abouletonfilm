@@ -1,1 +1,0 @@
-{"tmdb_id": 523390, "title": "Vent d'ouest", "original_title": "Vent d'ouest", "slug_title": "vent-d-ouest", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

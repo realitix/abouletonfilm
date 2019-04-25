@@ -1,1 +1,0 @@
-{"tmdb_id": 311576, "title": "Jindabyne 2002: White Knuckle Extreme", "original_title": "Jindabyne 2002: White Knuckle Extreme", "slug_title": "jindabyne-2002-white-knuckle-extreme", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

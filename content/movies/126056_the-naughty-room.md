@@ -1,1 +1,0 @@
-{"tmdb_id": 126056, "title": "The Naughty Room", "original_title": "The Naughty Room", "slug_title": "the-naughty-room", "date": "2012-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zSrybXQ7BOFw7YeUizYLKoAFccZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 570935, "title": "Dad's Cabin", "original_title": "\u7238\u7238\u7684\u6728\u623f\u5b50", "slug_title": "dad-s-cabin", "date": "2016-08-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r4TJadpnafhhPuqvJB2jBZZfqFN.jpg", "actors": [], "comments": [], "recommandations_id": []}

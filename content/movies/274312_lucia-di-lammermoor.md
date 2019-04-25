@@ -1,1 +1,0 @@
-{"tmdb_id": 274312, "title": "Lucia di Lammermoor", "original_title": "Lucia di Lammermoor", "slug_title": "lucia-di-lammermoor", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anna Moffo (Lucia)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 504686, "title": "The Wild Pacific", "original_title": "The Wild Pacific", "slug_title": "the-wild-pacific", "date": "2016-06-09", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4k7O0VnybfYC7Uw9UvGEGrNtI1W.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 380486, "title": "Kapitan Kulas", "original_title": "Kapitan Kulas", "slug_title": "kapitan-kulas", "date": "1975-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o7w99bvezYsBzV7CobfvEujcNsm.jpg", "actors": [], "comments": [], "recommandations_id": []}

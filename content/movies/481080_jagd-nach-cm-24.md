@@ -1,1 +1,0 @@
-{"tmdb_id": 481080, "title": "Jagd nach CM 24", "original_title": "Jagd nach CM 24", "slug_title": "jagd-nach-cm-24", "date": "1997-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6MshbtxzVNKNkW5lZJtp2fQ4Xoy.jpg", "actors": [], "comments": [], "recommandations_id": []}

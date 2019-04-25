@@ -1,1 +1,0 @@
-{"tmdb_id": 298358, "title": "Bruno & Marrone - Agora", "original_title": "Bruno & Marrone - Agora", "slug_title": "bruno-marrone-agora", "date": "2014-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yYN7XkNtzgU5Yh9aXQE2P6HAWin.jpg", "actors": [], "comments": [], "recommandations_id": []}

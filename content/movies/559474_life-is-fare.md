@@ -1,1 +1,0 @@
-{"tmdb_id": 559474, "title": "Life is Fare", "original_title": "Life is Fare", "slug_title": "life-is-fare", "date": "2018-11-03", "genre": "Fantastique / Musique / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tfmNpQWl1IAaNnjrEmhktPzs8cu.jpg", "actors": [], "comments": [], "recommandations_id": []}

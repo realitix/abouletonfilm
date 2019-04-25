@@ -1,1 +1,0 @@
-{"tmdb_id": 495883, "title": "Mission Paisa", "original_title": "Mission Paisa", "slug_title": "mission-paisa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

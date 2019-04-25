@@ -1,1 +1,0 @@
-{"tmdb_id": 593327, "title": "\ubd90\ubc14\uc640  \ud23c\ubc14", "original_title": "\ubd90\ubc14\uc640  \ud23c\ubc14", "slug_title": "bumbawa-tumba", "date": "2014-12-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

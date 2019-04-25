@@ -1,1 +1,0 @@
-{"tmdb_id": 174441, "title": "The Dizzy Dwarf", "original_title": "The Dizzy Dwarf", "slug_title": "the-dizzy-dwarf", "date": "1934-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 345083, "title": "Primetime Murder", "original_title": "Delitto in Prima Serata", "slug_title": "primetime-murder", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

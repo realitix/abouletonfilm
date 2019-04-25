@@ -1,1 +1,0 @@
-{"tmdb_id": 321436, "title": "Une sc\u00e8ne \u00e0 l'octroi", "original_title": "Une sc\u00e8ne \u00e0 l'octroi", "slug_title": "une-scene-a-l-octroi", "date": "1903-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rM2mvM3vtM7y3nGvFLs5QfObL1R.jpg", "actors": [], "comments": [], "recommandations_id": []}

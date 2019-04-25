@@ -1,1 +1,0 @@
-{"tmdb_id": 234669, "title": "Sappy New Year", "original_title": "Sappy New Year", "slug_title": "sappy-new-year", "date": "1961-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 341083, "title": "The High Level Bridge", "original_title": "The High Level Bridge", "slug_title": "the-high-level-bridge", "date": "2010-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

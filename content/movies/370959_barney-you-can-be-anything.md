@@ -1,1 +1,0 @@
-{"tmdb_id": 370959, "title": "Barney: You Can Be Anything", "original_title": "Barney: You Can Be Anything", "slug_title": "barney-you-can-be-anything", "date": "2002-02-19", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v88eLvmoAVV1sO7xkSPOiOlrqyf.jpg", "actors": [], "comments": [], "recommandations_id": []}

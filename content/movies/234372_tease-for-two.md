@@ -1,1 +1,0 @@
-{"tmdb_id": 234372, "title": "Tease for Two", "original_title": "Tease for Two", "slug_title": "tease-for-two", "date": "1965-08-28", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yfSgcipKpEGhdBANuoYmgUhxzIE.jpg", "actors": [], "comments": [], "recommandations_id": []}

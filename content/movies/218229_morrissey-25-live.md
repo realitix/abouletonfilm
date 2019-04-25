@@ -1,1 +1,0 @@
-{"tmdb_id": 218229, "title": "Morrissey 25:Live", "original_title": "Morrissey 25:Live", "slug_title": "morrissey-25-live", "date": "2013-10-04", "genre": "Musique", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vzmuszYOuAW7aFdCbANmDvloto4.jpg", "actors": ["Morrissey ()"], "comments": [], "recommandations_id": []}

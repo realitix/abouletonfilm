@@ -1,1 +1,0 @@
-{"tmdb_id": 527504, "title": "Christmas", "original_title": "\u8056\u8a95\u7bc0", "slug_title": "christmas", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xsbd71WK4tcYaz40ZBXuG5gB7bx.jpg", "actors": [], "comments": [], "recommandations_id": []}

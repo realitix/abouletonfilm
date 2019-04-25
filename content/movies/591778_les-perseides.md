@@ -1,1 +1,0 @@
-{"tmdb_id": 591778, "title": "Les perseides", "original_title": "Les perseides", "slug_title": "les-perseides", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

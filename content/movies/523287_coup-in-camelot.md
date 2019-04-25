@@ -1,1 +1,0 @@
-{"tmdb_id": 523287, "title": "coup in camelot", "original_title": "coup in camelot", "slug_title": "coup-in-camelot", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

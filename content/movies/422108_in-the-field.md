@@ -1,1 +1,0 @@
-{"tmdb_id": 422108, "title": "In the Field", "original_title": "In the Field", "slug_title": "in-the-field", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bUBuoucj0F207GvQtVNzkpRuT1E.jpg", "actors": [], "comments": [], "recommandations_id": []}

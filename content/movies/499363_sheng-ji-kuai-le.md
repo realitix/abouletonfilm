@@ -1,1 +1,0 @@
-{"tmdb_id": 499363, "title": "\u751f\u5fcc\u5feb\u4e50", "original_title": "\u751f\u5fcc\u5feb\u4e50", "slug_title": "sheng-ji-kuai-le", "date": "2016-12-22", "genre": "Thriller / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8AbbUrMdSKqvkLEk7RTmwC189de.jpg", "actors": [], "comments": [], "recommandations_id": []}

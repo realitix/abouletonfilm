@@ -1,1 +1,0 @@
-{"tmdb_id": 263119, "title": "Rock and a Heart Place", "original_title": "Rock and a Heart Place", "slug_title": "rock-and-a-heart-place", "date": "2006-01-01", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tVPqEvqildMEXgQmyXTGaCHXTQk.jpg", "actors": [], "comments": [], "recommandations_id": []}

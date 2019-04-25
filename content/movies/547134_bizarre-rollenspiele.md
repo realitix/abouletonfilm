@@ -1,1 +1,0 @@
-{"tmdb_id": 547134, "title": "Bizarre Rollenspiele", "original_title": "Bizarre Rollenspiele", "slug_title": "bizarre-rollenspiele", "date": "2008-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

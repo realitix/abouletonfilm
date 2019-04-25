@@ -1,1 +1,0 @@
-{"tmdb_id": 197716, "title": "A Conversation with Bill Farmer", "original_title": "A Conversation with Bill Farmer", "slug_title": "a-conversation-with-bill-farmer", "date": "2002-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

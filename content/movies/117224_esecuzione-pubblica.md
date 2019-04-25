@@ -1,1 +1,0 @@
-{"tmdb_id": 117224, "title": "Esecuzione Pubblica", "original_title": "Esecuzione Pubblica", "slug_title": "esecuzione-pubblica", "date": "2012-06-19", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9IshuWFu7l7NxLkTdT3SazhoBSd.jpg", "actors": [], "comments": [], "recommandations_id": []}

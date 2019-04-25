@@ -1,1 +1,0 @@
-{"tmdb_id": 349603, "title": "\ubbf8\uc6c0\uc758 \uc138\uc6d4", "original_title": "\ubbf8\uc6c0\uc758 \uc138\uc6d4", "slug_title": "miumyi-seweol", "date": "1983-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

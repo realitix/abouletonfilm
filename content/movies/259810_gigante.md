@@ -1,1 +1,0 @@
-{"tmdb_id": 259810, "title": "Gigante", "original_title": "Gigante", "slug_title": "gigante", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k3UQNstbpNura8hCC2beRophN6X.jpg", "actors": [], "comments": [], "recommandations_id": []}

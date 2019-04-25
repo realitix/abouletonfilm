@@ -1,1 +1,0 @@
-{"tmdb_id": 416517, "title": "\uae4a\uc740 \uc232\uc18d \uc639\ub2ec\uc0d8", "original_title": "\uae4a\uc740 \uc232\uc18d \uc639\ub2ec\uc0d8", "slug_title": "gipeun-supsog-ongdalsaem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

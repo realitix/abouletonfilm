@@ -1,1 +1,1 @@
-{"tmdb_id": 436840, "title": "Bunkers", "original_title": "Bunkers", "slug_title": "bunkers", "date": "2016-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 436840, "title": "Bunkers", "original_title": "Bunkers", "slug_title": "bunkers", "date": "2016-02-02", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about swiss refugee politics.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

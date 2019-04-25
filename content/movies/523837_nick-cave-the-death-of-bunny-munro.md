@@ -1,1 +1,0 @@
-{"tmdb_id": 523837, "title": "Nick Cave: The Death Of Bunny Munro", "original_title": "Nick Cave: The Death Of Bunny Munro", "slug_title": "nick-cave-the-death-of-bunny-munro", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

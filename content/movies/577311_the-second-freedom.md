@@ -1,1 +1,0 @@
-{"tmdb_id": 577311, "title": "The Second Freedom", "original_title": "The Second Freedom", "slug_title": "the-second-freedom", "date": "1943-01-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frederick Grisewood (Narration (voice))"], "comments": [], "recommandations_id": []}

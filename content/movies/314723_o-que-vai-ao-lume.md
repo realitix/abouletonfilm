@@ -1,1 +1,0 @@
-{"tmdb_id": 314723, "title": "O Que Vai ao Lume?", "original_title": "O Que Vai ao Lume?", "slug_title": "o-que-vai-ao-lume", "date": "2014-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

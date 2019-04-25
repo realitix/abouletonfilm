@@ -1,1 +1,0 @@
-{"tmdb_id": 160315, "title": "Flamingo No. 13", "original_title": "Flamingo No. 13", "slug_title": "flamingo-no-13", "date": "2010-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

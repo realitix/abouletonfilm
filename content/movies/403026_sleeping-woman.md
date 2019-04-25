@@ -1,1 +1,0 @@
-{"tmdb_id": 403026, "title": "Sleeping Woman", "original_title": "Sleeping Woman", "slug_title": "sleeping-woman", "date": "1992-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

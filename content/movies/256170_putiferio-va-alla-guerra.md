@@ -1,1 +1,0 @@
-{"tmdb_id": 256170, "title": "Putiferio va alla guerra", "original_title": "Putiferio va alla guerra", "slug_title": "putiferio-va-alla-guerra", "date": "1968-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/if1bPWV0OuHGeM5bdmJjbgrdDae.jpg", "actors": [], "comments": [], "recommandations_id": []}

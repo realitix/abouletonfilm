@@ -1,1 +1,0 @@
-{"tmdb_id": 515222, "title": "Das alte Haus", "original_title": "Das alte Haus", "slug_title": "das-alte-haus", "date": "2013-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Herbert Leiser (Joseph Ernst)", "Karin Pfammatter (Marlen Kramer)", "Wowo Habdank (Andy)"], "comments": [], "recommandations_id": []}

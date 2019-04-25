@@ -1,1 +1,0 @@
-{"tmdb_id": 56760, "title": "Rise Against: Generation Lost", "original_title": "Rise Against: Generation Lost", "slug_title": "rise-against-generation-lost", "date": "2006-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7NurJVHSO9NE7LwtdCnu4LbJL1t.jpg", "actors": [], "comments": [], "recommandations_id": []}

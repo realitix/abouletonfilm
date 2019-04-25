@@ -1,1 +1,0 @@
-{"tmdb_id": 259261, "title": "The Anonymous People", "original_title": "The Anonymous People", "slug_title": "the-anonymous-people", "date": "2013-08-15", "genre": "Documentaire", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xnzZKoeULY17ztgllLVGqeDKBI4.jpg", "actors": [], "comments": [], "recommandations_id": []}

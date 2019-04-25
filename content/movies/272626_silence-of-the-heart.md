@@ -1,1 +1,0 @@
-{"tmdb_id": 272626, "title": "Silence of the Heart", "original_title": "Golu hadawatha", "slug_title": "silence-of-the-heart", "date": "1969-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zWGC95lSNXsUURvu5cpuNAKK9Zp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 308387, "title": "The Czech Year", "original_title": "\u0160pal\u00ed\u010dek", "slug_title": "the-czech-year", "date": "1947-01-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nL49SId5S1bNftGLlIb0Cmq4AUi.jpg", "actors": [], "comments": [], "recommandations_id": []}

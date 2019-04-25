@@ -1,1 +1,0 @@
-{"tmdb_id": 363375, "title": "The United States Navy Band", "original_title": "The United States Navy Band", "slug_title": "the-united-states-navy-band", "date": "1943-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

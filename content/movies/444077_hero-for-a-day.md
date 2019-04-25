@@ -1,1 +1,0 @@
-{"tmdb_id": 444077, "title": "Hero for a Day", "original_title": "Hero for a Day", "slug_title": "hero-for-a-day", "date": "1952-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zjipx2oUF47KFr3NZHEFDZOevSY.jpg", "actors": [], "comments": [], "recommandations_id": []}

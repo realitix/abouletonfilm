@@ -1,1 +1,0 @@
-{"tmdb_id": 556988, "title": "Boudoir diplomatique", "original_title": "Boudoir diplomatique", "slug_title": "boudoir-diplomatique", "date": "1931-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

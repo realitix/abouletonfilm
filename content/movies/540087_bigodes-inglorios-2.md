@@ -1,1 +1,0 @@
-{"tmdb_id": 540087, "title": "Bigodes Ingl\u00f3rios 2", "original_title": "Bigodes Ingl\u00f3rios 2", "slug_title": "bigodes-inglorios-2", "date": "2015-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 297955, "title": "Turnagain Hardcore 6: Higher", "original_title": "Turnagain Hardcore 6: Higher", "slug_title": "turnagain-hardcore-6-higher", "date": "2006-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/je8Kbv2vPSfMtX92yCJz9yKzedc.jpg", "actors": [], "comments": [], "recommandations_id": []}

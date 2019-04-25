@@ -1,1 +1,0 @@
-{"tmdb_id": 396771, "title": "Tender Negative", "original_title": "Tender Negative", "slug_title": "tender-negative", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

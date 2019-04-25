@@ -1,1 +1,0 @@
-{"tmdb_id": 594797, "title": "Maria Luiza", "original_title": "Maria Luiza", "slug_title": "maria-luiza", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4qivIGXodmI9ur5h6ZmnB5Gf8s6.jpg", "actors": [], "comments": [], "recommandations_id": []}

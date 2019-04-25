@@ -1,1 +1,0 @@
-{"tmdb_id": 459806, "title": "Lake Tahoe, Land of the Sky", "original_title": "Lake Tahoe, Land of the Sky", "slug_title": "lake-tahoe-land-of-the-sky", "date": "1916-11-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/im4YclUkQxJQFR0LE9AM9H6SfcD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 404313, "title": "The Shadow of the West", "original_title": "The Shadow of the West", "slug_title": "the-shadow-of-the-west", "date": "1986-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/964nXAH7M6JTT8kjb4l3dxzjeAX.jpg", "actors": [], "comments": [], "recommandations_id": []}

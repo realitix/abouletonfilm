@@ -1,1 +1,0 @@
-{"tmdb_id": 353033, "title": "Shikasha", "original_title": "Shikasha", "slug_title": "shikasha", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

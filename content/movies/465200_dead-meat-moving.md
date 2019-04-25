@@ -1,1 +1,0 @@
-{"tmdb_id": 465200, "title": "Dead Meat Moving", "original_title": "Dead Meat Moving", "slug_title": "dead-meat-moving", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 585838, "title": "Video Nasty Blasty! Mixtape", "original_title": "Video Nasty Blasty! Mixtape", "slug_title": "video-nasty-blasty-mixtape", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lpXbLY3Hu2bVsFZthsQqjzqMfh2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 526194, "title": "Defeat the Hearts", "original_title": "\u0634\u06a9\u0633\u062a \u0642\u0644\u0628\u0647\u0627", "slug_title": "defeat-the-hearts", "date": "2012-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Salim Shaheen ()"], "comments": [], "recommandations_id": []}

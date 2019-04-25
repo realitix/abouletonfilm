@@ -1,1 +1,0 @@
-{"tmdb_id": 102863, "title": "Meanwhile in Mamelodi", "original_title": "Meanwhile in Mamelodi", "slug_title": "meanwhile-in-mamelodi", "date": "2011-10-18", "genre": "Documentaire", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tO0ni5E1zuRCHKJgfyY2Le9OYo8.jpg", "actors": [], "comments": [], "recommandations_id": []}

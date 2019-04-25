@@ -1,1 +1,0 @@
-{"tmdb_id": 375719, "title": "DEU vs USA", "original_title": "DEU vs USA", "slug_title": "deu-vs-usa", "date": "2014-06-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kPCkYaiJAPm3T2kO0tqOCyDtyH3.jpg", "actors": [], "comments": [], "recommandations_id": []}

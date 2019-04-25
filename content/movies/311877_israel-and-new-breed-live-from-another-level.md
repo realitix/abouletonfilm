@@ -1,1 +1,0 @@
-{"tmdb_id": 311877, "title": "Israel and New Breed: Live from Another Level", "original_title": "Israel and New Breed: Live from Another Level", "slug_title": "israel-and-new-breed-live-from-another-level", "date": "2004-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

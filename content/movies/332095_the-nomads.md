@@ -1,1 +1,0 @@
-{"tmdb_id": 332095, "title": "The Nomads", "original_title": "Les nomades", "slug_title": "the-nomads", "date": "1976-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mohamed Chouikh ()", "Hassan Hassani ()"], "comments": [], "recommandations_id": []}

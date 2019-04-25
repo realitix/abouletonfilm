@@ -1,1 +1,0 @@
-{"tmdb_id": 310601, "title": "Biblical Armageddon", "original_title": "Biblical Armageddon", "slug_title": "biblical-armageddon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

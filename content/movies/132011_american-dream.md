@@ -1,1 +1,0 @@
-{"tmdb_id": 132011, "title": "American Dream", "original_title": "American Dream", "slug_title": "american-dream", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q1ty9alSGkqooMUVfeHZgfF6fkY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 330784, "title": "Flaming Borders", "original_title": "Al-hudud al Multahiba", "slug_title": "flaming-borders", "date": "1986-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

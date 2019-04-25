@@ -1,1 +1,0 @@
-{"tmdb_id": 278485, "title": "Between Places", "original_title": "Between Places", "slug_title": "between-places", "date": "2005-06-08", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zXFXJzv5VhXmqis9N1oGU4dmJFB.jpg", "actors": [], "comments": [], "recommandations_id": []}

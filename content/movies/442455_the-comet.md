@@ -1,1 +1,0 @@
-{"tmdb_id": 442455, "title": "The Comet", "original_title": "Kometen", "slug_title": "the-comet", "date": "2017-02-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJwlC4ewEZvAJjEjgWsAYFW73C2.jpg", "actors": ["Abdi Aziis ()"], "comments": [], "recommandations_id": []}

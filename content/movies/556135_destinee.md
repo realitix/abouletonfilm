@@ -1,1 +1,1 @@
-{"tmdb_id": 556135, "title": "Destin\u00e9e", "original_title": "Destin\u00e9e", "slug_title": "destinee", "date": "1926-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 556135, "title": "Destin\u00e9e", "original_title": "Destin\u00e9e", "slug_title": "destinee", "date": "1926-03-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

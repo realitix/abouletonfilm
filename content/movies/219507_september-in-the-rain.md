@@ -1,1 +1,0 @@
-{"tmdb_id": 219507, "title": "September in the Rain", "original_title": "September in the Rain", "slug_title": "september-in-the-rain", "date": "1937-12-17", "genre": "", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p7JLGnpjIkT2jZ9gAgsQj2l7YT3.jpg", "actors": [], "comments": [], "recommandations_id": []}

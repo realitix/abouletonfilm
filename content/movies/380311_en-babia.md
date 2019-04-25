@@ -1,1 +1,0 @@
-{"tmdb_id": 380311, "title": "En Babia", "original_title": "En Babia", "slug_title": "en-babia", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qVKXQNw12oejlPUTumV4Dw2wczB.jpg", "actors": [], "comments": [], "recommandations_id": []}

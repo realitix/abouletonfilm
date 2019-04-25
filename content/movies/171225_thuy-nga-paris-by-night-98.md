@@ -1,1 +1,0 @@
-{"tmdb_id": 171225, "title": "Thuy Nga Paris By Night 98", "original_title": "Thuy Nga Paris By Night 98", "slug_title": "thuy-nga-paris-by-night-98", "date": "2009-09-09", "genre": "Musique", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a97qkJwxeNkYMWiBeG0f0DaHPOM.jpg", "actors": [], "comments": [], "recommandations_id": []}

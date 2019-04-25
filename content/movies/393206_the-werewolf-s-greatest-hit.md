@@ -1,1 +1,0 @@
-{"tmdb_id": 393206, "title": "The Werewolf's Greatest Hit", "original_title": "The Werewolf's Greatest Hit", "slug_title": "the-werewolf-s-greatest-hit", "date": "2016-01-29", "genre": "Fantastique / Horreur / Thriller / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

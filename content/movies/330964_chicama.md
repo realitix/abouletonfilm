@@ -1,1 +1,0 @@
-{"tmdb_id": 330964, "title": "Chicama", "original_title": "Chicama", "slug_title": "chicama", "date": "2013-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xJQVaip8C0HoK3Tro5WsW6MQiK1.jpg", "actors": [], "comments": [], "recommandations_id": []}

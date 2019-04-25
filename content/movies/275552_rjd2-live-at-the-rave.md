@@ -1,1 +1,0 @@
-{"tmdb_id": 275552, "title": "RJD2: Live at the Rave", "original_title": "RJD2: Live at the Rave", "slug_title": "rjd2-live-at-the-rave", "date": "2011-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

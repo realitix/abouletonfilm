@@ -1,1 +1,0 @@
-{"tmdb_id": 326393, "title": "B-Side Studio", "original_title": "B-Side Studio", "slug_title": "b-side-studio", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

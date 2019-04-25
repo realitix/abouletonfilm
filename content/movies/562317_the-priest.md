@@ -1,1 +1,0 @@
-{"tmdb_id": 562317, "title": "The Priest", "original_title": "The Priest", "slug_title": "the-priest", "date": "2017-12-11", "genre": "Musique / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vT1Pv9clwKt77UrOMt4oNzB73xG.jpg", "actors": ["Molly Windsor ()", "Maxine Peake ()"], "comments": [], "recommandations_id": []}

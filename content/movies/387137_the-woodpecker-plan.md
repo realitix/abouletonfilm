@@ -1,1 +1,0 @@
-{"tmdb_id": 387137, "title": "The Woodpecker Plan", "original_title": "Kitsutsuki Keikaku", "slug_title": "the-woodpecker-plan", "date": "1966-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zoQTO8qXsrUF5xGbhRQco8Hzan3.jpg", "actors": [], "comments": [], "recommandations_id": []}

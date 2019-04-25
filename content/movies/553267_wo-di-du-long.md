@@ -1,1 +1,0 @@
-{"tmdb_id": 553267, "title": "Wo Di Du Long", "original_title": "Wo Di Du Long", "slug_title": "wo-di-du-long", "date": "2018-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qapO9o9lRjaVhMrcvcN69UhlwDz.jpg", "actors": [], "comments": [], "recommandations_id": []}

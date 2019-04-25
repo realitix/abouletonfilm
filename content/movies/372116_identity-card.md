@@ -1,1 +1,0 @@
-{"tmdb_id": 372116, "title": "Identity Card", "original_title": "Identity Card", "slug_title": "identity-card", "date": "2014-08-29", "genre": "Thriller / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yODsv8UjKdQhkorDURmK5dtfvbh.jpg", "actors": ["Tia Bajpai ()", "Prashaant Kumar ()"], "comments": [], "recommandations_id": []}

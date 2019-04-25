@@ -1,1 +1,0 @@
-{"tmdb_id": 366863, "title": "Driving with Selvi", "original_title": "Driving with Selvi", "slug_title": "driving-with-selvi", "date": "2015-09-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3dHJ2M5OieLec0OY5JmHgh1kWFq.jpg", "actors": [], "comments": [], "recommandations_id": []}

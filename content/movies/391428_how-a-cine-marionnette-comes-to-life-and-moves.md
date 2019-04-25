@@ -1,1 +1,0 @@
-{"tmdb_id": 391428, "title": "How a Cin\u00e9-marionnette Comes to Life and Moves", "original_title": "How a Cin\u00e9-marionnette Comes to Life and Moves", "slug_title": "how-a-cine-marionnette-comes-to-life-and-moves", "date": "1923-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

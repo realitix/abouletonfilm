@@ -1,1 +1,0 @@
-{"tmdb_id": 325469, "title": "NBA Street Series Vol. 3", "original_title": "NBA Street Series Vol. 3", "slug_title": "nba-street-series-vol-3", "date": "2006-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/BDg4TxxJKvBNCrFKmri8Q5cGvy.jpg", "actors": [], "comments": [], "recommandations_id": []}

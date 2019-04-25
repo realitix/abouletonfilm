@@ -1,1 +1,0 @@
-{"tmdb_id": 195974, "title": "The Unappreciated Joke", "original_title": "The Unappreciated Joke", "slug_title": "the-unappreciated-joke", "date": "1903-05-22", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vMyBKA6k9mBrEBXCiCn2ungnmiu.jpg", "actors": [], "comments": [], "recommandations_id": []}

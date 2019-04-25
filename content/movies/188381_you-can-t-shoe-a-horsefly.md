@@ -1,1 +1,0 @@
-{"tmdb_id": 188381, "title": "You Can't Shoe a Horsefly", "original_title": "You Can't Shoe a Horsefly", "slug_title": "you-can-t-shoe-a-horsefly", "date": "1940-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3jj7RVxZPuClwLIUvv59xX7Qj3u.jpg", "actors": [], "comments": [], "recommandations_id": []}

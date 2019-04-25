@@ -1,1 +1,0 @@
-{"tmdb_id": 594447, "title": "Concrete", "original_title": "Concrete", "slug_title": "concrete", "date": "2019-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

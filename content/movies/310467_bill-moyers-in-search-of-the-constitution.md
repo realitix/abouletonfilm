@@ -1,1 +1,0 @@
-{"tmdb_id": 310467, "title": "Bill Moyers: In Search of the Constitution", "original_title": "Bill Moyers: In Search of the Constitution", "slug_title": "bill-moyers-in-search-of-the-constitution", "date": "", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

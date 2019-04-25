@@ -1,1 +1,0 @@
-{"tmdb_id": 309255, "title": "The Runner: Extreme UltraRunner David Horton", "original_title": "The Runner: Extreme UltraRunner David Horton", "slug_title": "the-runner-extreme-ultrarunner-david-horton", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

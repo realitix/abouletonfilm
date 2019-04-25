@@ -1,1 +1,0 @@
-{"tmdb_id": 496118, "title": "Der Kampf um den B\u00e4r", "original_title": "Der Kampf um den B\u00e4r", "slug_title": "der-kampf-um-den-bar", "date": "1933-06-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hansi Arnstaedt ()", "Maly Delschaft ()", "Jakob Tiedtke ()"], "comments": [], "recommandations_id": []}

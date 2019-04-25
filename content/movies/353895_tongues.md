@@ -1,1 +1,0 @@
-{"tmdb_id": 353895, "title": "Tongues", "original_title": "Tongues", "slug_title": "tongues", "date": "1982-08-10", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gR0vzX4zOaqAvNPkqnRC2Uejz4J.jpg", "actors": ["Joe Chaikin ()"], "comments": [], "recommandations_id": []}

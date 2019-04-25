@@ -1,1 +1,0 @@
-{"tmdb_id": 475668, "title": "Los Truenos de San Juan", "original_title": "Los Truenos de San Juan", "slug_title": "los-truenos-de-san-juan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6KT33duTMed3jgQDb09QFZFcVuB.jpg", "actors": [], "comments": [], "recommandations_id": []}

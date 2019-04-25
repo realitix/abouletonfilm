@@ -1,1 +1,0 @@
-{"tmdb_id": 593660, "title": "Mio fratello rincorre i dinosauri", "original_title": "Mio fratello rincorre i dinosauri", "slug_title": "mio-fratello-rincorre-i-dinosauri", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

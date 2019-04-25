@@ -1,1 +1,0 @@
-{"tmdb_id": 402885, "title": "Death Is a Number", "original_title": "Death Is a Number", "slug_title": "death-is-a-number", "date": "1951-06-08", "genre": "Horreur", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Terence Alexander (Alan Robert)", "Lesley Osmond (Joan Robert)"], "comments": [], "recommandations_id": []}

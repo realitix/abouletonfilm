@@ -1,1 +1,0 @@
-{"tmdb_id": 428646, "title": "A Hard Day's Work", "original_title": "A Hard Day's Work", "slug_title": "a-hard-day-s-work", "date": "1997-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6VJC4UfSHXwjjNzTjCPCo4du6Ok.jpg", "actors": [], "comments": [], "recommandations_id": []}

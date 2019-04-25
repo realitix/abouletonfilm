@@ -1,1 +1,0 @@
-{"tmdb_id": 305372, "title": "Fanden i n\u00f8tten", "original_title": "Fanden i n\u00f8tten", "slug_title": "fanden-i-notten", "date": "1917-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

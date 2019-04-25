@@ -1,1 +1,0 @@
-{"tmdb_id": 253318, "title": "American Interior", "original_title": "American Interior", "slug_title": "american-interior", "date": "2014-03-11", "genre": "Documentaire", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tmM5xxKWNRBexSnV8tbZNhSGLmJ.jpg", "actors": ["Gruff Rhys ()"], "comments": [], "recommandations_id": []}

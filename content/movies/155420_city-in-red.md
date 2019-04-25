@@ -1,1 +1,0 @@
-{"tmdb_id": 155420, "title": "City in Red", "original_title": "Ciudad en Rojo", "slug_title": "city-in-red", "date": "2009-04-02", "genre": "Histoire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AjJ00rr1koiVEvT0cdQrBgHmkIN.jpg", "actors": [], "comments": [], "recommandations_id": []}

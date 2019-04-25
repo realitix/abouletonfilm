@@ -1,1 +1,0 @@
-{"tmdb_id": 313780, "title": "WWF No Way Out Of Texas: In Your House 20", "original_title": "WWF No Way Out Of Texas: In Your House 20", "slug_title": "wwf-no-way-out-of-texas-in-your-house-20", "date": "1998-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

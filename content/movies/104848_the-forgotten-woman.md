@@ -1,1 +1,0 @@
-{"tmdb_id": 104848, "title": "The Forgotten Woman", "original_title": "The Forgotten Woman", "slug_title": "the-forgotten-woman", "date": "2008-01-01", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g4orfMd9bC1tG0tdRDCBg5pyt8C.jpg", "actors": [], "comments": [], "recommandations_id": []}

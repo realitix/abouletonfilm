@@ -1,1 +1,0 @@
-{"tmdb_id": 337815, "title": "La leche y el agua", "original_title": "La leche y el agua", "slug_title": "la-leche-y-el-agua", "date": "2006-09-06", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oSLHnrKxbVsSKl2slUBi70RS4l3.jpg", "actors": ["Tara Parra (Mujer)"], "comments": [], "recommandations_id": []}

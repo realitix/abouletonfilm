@@ -1,1 +1,0 @@
-{"tmdb_id": 475495, "title": "Bosnia That Vanished", "original_title": "Bosna koja je pro\u0161la", "slug_title": "bosnia-that-vanished", "date": "1942-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 298359, "title": "Rambo Tanggo Part III", "original_title": "Rambo Tanggo Part III", "slug_title": "rambo-tanggo-part-iii", "date": "1984-08-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vEAxALC4zO1riEVn2mHHOnxqjM3.jpg", "actors": [], "comments": [], "recommandations_id": []}

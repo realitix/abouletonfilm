@@ -1,1 +1,0 @@
-{"tmdb_id": 323486, "title": "the Funeral... Again", "original_title": "the Funeral... Again", "slug_title": "the-funeral-again", "date": "2008-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

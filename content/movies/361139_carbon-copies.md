@@ -1,1 +1,0 @@
-{"tmdb_id": 361139, "title": "Carbon Copies", "original_title": "Carbon Copies", "slug_title": "carbon-copies", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Fr2Oium5voNGxV3gI8dTiHDH3d.jpg", "actors": [], "comments": [], "recommandations_id": []}

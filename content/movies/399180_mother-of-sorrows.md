@@ -1,1 +1,0 @@
-{"tmdb_id": 399180, "title": "Mother of Sorrows", "original_title": "Mother of Sorrows", "slug_title": "mother-of-sorrows", "date": "2019-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

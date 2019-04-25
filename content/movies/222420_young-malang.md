@@ -1,1 +1,0 @@
-{"tmdb_id": 222420, "title": "Young Malang", "original_title": "Young Malang", "slug_title": "young-malang", "date": "2013-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aXkASXufPFWPzNPTC7v1NRHUhG3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 514880, "title": "Today Again Naughty Bento", "original_title": "\u4eca\u65e5\u3082\u5acc\u304c\u3089\u305b\u5f01\u5f53", "slug_title": "today-again-naughty-bento", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ryoko Shinohara (Kaori)", "Kyoko Yoshine (Futaba)"], "comments": [], "recommandations_id": []}

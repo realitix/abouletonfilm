@@ -1,1 +1,0 @@
-{"tmdb_id": 573548, "title": "Decoding Watson", "original_title": "Decoding Watson", "slug_title": "decoding-watson", "date": "2019-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9eahnQcUe7n1IzxMj2rEmfCLTTl.jpg", "actors": [], "comments": [], "recommandations_id": []}

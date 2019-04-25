@@ -1,1 +1,0 @@
-{"tmdb_id": 155323, "title": "20 Lat P\u00f3\u017aniej", "original_title": "20 Lat P\u00f3\u017aniej", "slug_title": "20-lat-pozniej", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

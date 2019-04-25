@@ -1,1 +1,0 @@
-{"tmdb_id": 534904, "title": "Prunella", "original_title": "Prunella", "slug_title": "prunella", "date": "1918-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Isabel Berwin (Prin)", "Marguerite Clark (Prunella)"], "comments": [], "recommandations_id": []}

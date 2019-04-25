@@ -1,1 +1,0 @@
-{"tmdb_id": 498421, "title": "G2 - Road to LCS", "original_title": "G2 - Road to LCS", "slug_title": "g2-road-to-lcs", "date": "2015-09-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pm8Hb3ngdOC0PTlzrWM1MITlBXs.jpg", "actors": [], "comments": [], "recommandations_id": []}

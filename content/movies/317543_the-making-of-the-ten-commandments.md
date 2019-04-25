@@ -1,1 +1,0 @@
-{"tmdb_id": 317543, "title": "The Making of The Ten Commandments", "original_title": "The Making of The Ten Commandments", "slug_title": "the-making-of-the-ten-commandments", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

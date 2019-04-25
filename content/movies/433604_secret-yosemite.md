@@ -1,1 +1,0 @@
-{"tmdb_id": 433604, "title": "Secret Yosemite", "original_title": "Secret Yosemite", "slug_title": "secret-yosemite", "date": "2007-04-06", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pzAYJxXCFZx9kYbx8lfBxjn7wxv.jpg", "actors": [], "comments": [], "recommandations_id": []}

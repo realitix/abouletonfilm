@@ -1,1 +1,0 @@
-{"tmdb_id": 303384, "title": "Ghar Dwaar", "original_title": "Ghar Dwaar", "slug_title": "ghar-dwaar", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7RHLXiy2PW8UNV8SYYVbuXp5ATU.jpg", "actors": [], "comments": [], "recommandations_id": []}

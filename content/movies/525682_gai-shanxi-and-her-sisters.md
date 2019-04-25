@@ -1,1 +1,0 @@
-{"tmdb_id": 525682, "title": "Gai Shanxi and Her Sisters", "original_title": "Gai Shan Xi He Ta De Jie Mei Men", "slug_title": "gai-shanxi-and-her-sisters", "date": "2007-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ul2IcG94eLK0FqK3jhUO0oH3cuk.jpg", "actors": [], "comments": [], "recommandations_id": []}

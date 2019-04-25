@@ -1,1 +1,0 @@
-{"tmdb_id": 521735, "title": "PiYo - Strong Legs", "original_title": "PiYo - Strong Legs", "slug_title": "piyo-strong-legs", "date": "2015-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7nkrPtMmqGLfYCmO8kfhEPdufX7.jpg", "actors": [], "comments": [], "recommandations_id": []}

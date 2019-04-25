@@ -1,1 +1,0 @@
-{"tmdb_id": 304051, "title": "Kondapalli Rathaiah", "original_title": "Kondapalli Rathaiah", "slug_title": "kondapalli-rathaiah", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

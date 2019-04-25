@@ -1,1 +1,0 @@
-{"tmdb_id": 293658, "title": "The Silent Epidemic", "original_title": "The Silent Epidemic", "slug_title": "the-silent-epidemic", "date": "2010-12-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

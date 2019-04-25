@@ -1,1 +1,0 @@
-{"tmdb_id": 343410, "title": "Midnight Fear", "original_title": "Midnight Fear", "slug_title": "midnight-fear", "date": "1991-05-30", "genre": "Crime", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ivXtpj8pTkUg4kVMLDTW5n0Oyw.jpg", "actors": ["David Carradine (Hanley)"], "comments": [], "recommandations_id": []}

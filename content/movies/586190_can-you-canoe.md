@@ -1,1 +1,0 @@
-{"tmdb_id": 586190, "title": "Can You Canoe?", "original_title": "Can You Canoe?", "slug_title": "can-you-canoe", "date": "2012-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Mailander (Himself)", "Justin Lansing (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 545535, "title": "Punk Band", "original_title": "Punk Band", "slug_title": "punk-band", "date": "2018-07-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uA8TTPPxy5Ix7rvzZeeim08XV1y.jpg", "actors": [], "comments": [], "recommandations_id": []}

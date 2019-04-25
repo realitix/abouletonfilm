@@ -1,1 +1,0 @@
-{"tmdb_id": 281013, "title": "The New World of Synthesizer in Osaka", "original_title": "The New World of Synthesizer in Osaka", "slug_title": "the-new-world-of-synthesizer-in-osaka", "date": "2014-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

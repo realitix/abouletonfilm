@@ -1,1 +1,0 @@
-{"tmdb_id": 431069, "title": "Schiller - Future", "original_title": "Schiller - Future", "slug_title": "schiller-future", "date": "2016-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7uhR5qsAuxrrBXH31EZzFd5RHXA.jpg", "actors": [], "comments": [], "recommandations_id": []}

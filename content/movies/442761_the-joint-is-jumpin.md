@@ -1,1 +1,0 @@
-{"tmdb_id": 442761, "title": "The Joint Is Jumpin'", "original_title": "The Joint Is Jumpin'", "slug_title": "the-joint-is-jumpin", "date": "1941-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fats Waller ()", "Myra Johnson ()"], "comments": [], "recommandations_id": []}

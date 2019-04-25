@@ -1,1 +1,0 @@
-{"tmdb_id": 464061, "title": "East and West", "original_title": "East and West", "slug_title": "east-and-west", "date": "1923-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Molly Picon (Mollie)"], "comments": [], "recommandations_id": []}

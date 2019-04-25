@@ -1,1 +1,0 @@
-{"tmdb_id": 304772, "title": "Mere Baad", "original_title": "Mere Baad", "slug_title": "mere-baad", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

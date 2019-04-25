@@ -1,1 +1,0 @@
-{"tmdb_id": 173135, "title": "Guardian and She-Ghost of Sholin", "original_title": "Guardian and She-Ghost of Sholin", "slug_title": "guardian-and-she-ghost-of-sholin", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

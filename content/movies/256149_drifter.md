@@ -1,1 +1,0 @@
-{"tmdb_id": 256149, "title": "Drifter", "original_title": "Drifter", "slug_title": "drifter", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7MS24p2TrnNBQXFUZwChecSlL0j.jpg", "actors": [], "comments": [], "recommandations_id": []}

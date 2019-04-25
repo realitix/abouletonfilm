@@ -1,1 +1,0 @@
-{"tmdb_id": 501472, "title": "Int. Room", "original_title": "Int. Room", "slug_title": "int-room", "date": "2018-06-03", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Martin Donovan (The man)", "Ema Stamenkovska (The woman)"], "comments": [], "recommandations_id": []}

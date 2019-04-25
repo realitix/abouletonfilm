@@ -1,1 +1,0 @@
-{"tmdb_id": 284792, "title": "One of the Thirty-six", "original_title": "Lamedvovnik", "slug_title": "one-of-the-thirty-six", "date": "1925-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonas Turkow ()", "Mojzesz Lipman ()", "Helena Gotlib ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 522701, "title": "Bienvenidos", "original_title": "Bienvenidos", "slug_title": "bienvenidos", "date": "2015-03-22", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lOU31pel72ja1MBzdq23bckyRtg.jpg", "actors": [], "comments": [], "recommandations_id": []}

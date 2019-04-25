@@ -1,1 +1,0 @@
-{"tmdb_id": 481620, "title": "Cinecitt\u00e0 Babilonia", "original_title": "Cinecitt\u00e0 Babilonia", "slug_title": "cinecitta-babilonia", "date": "2016-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aSKyF2EZ5kptMdEUO4F0zVZO2Wa.jpg", "actors": [], "comments": [], "recommandations_id": []}

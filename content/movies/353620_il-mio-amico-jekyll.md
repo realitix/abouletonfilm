@@ -1,1 +1,0 @@
-{"tmdb_id": 353620, "title": "Il mio amico Jekyll", "original_title": "Il mio amico Jekyll", "slug_title": "il-mio-amico-jekyll", "date": "1960-08-10", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vvWVyEIAFfGRuIW3RbGYviYxO6f.jpg", "actors": [], "comments": [], "recommandations_id": []}

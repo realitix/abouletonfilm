@@ -1,1 +1,0 @@
-{"tmdb_id": 409881, "title": "Room Service 75", "original_title": "Room Service 75", "slug_title": "room-service-75", "date": "1972-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xapLmZ522Z0HTYlxiLuB4WccDc8.jpg", "actors": [], "comments": [], "recommandations_id": []}

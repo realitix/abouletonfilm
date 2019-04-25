@@ -1,1 +1,0 @@
-{"tmdb_id": 236160, "title": "Animal Cracker Circus", "original_title": "Animal Cracker Circus", "slug_title": "animal-cracker-circus", "date": "1938-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

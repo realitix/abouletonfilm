@@ -1,1 +1,0 @@
-{"tmdb_id": 506081, "title": "Riches of a City", "original_title": "Riches of a City", "slug_title": "riches-of-a-city", "date": "1976-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

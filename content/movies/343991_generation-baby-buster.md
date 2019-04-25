@@ -1,1 +1,0 @@
-{"tmdb_id": 343991, "title": "Generation Baby Buster", "original_title": "Generation Baby Buster", "slug_title": "generation-baby-buster", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/721lHkftMAfmmVBggH7ZoNNJR80.jpg", "actors": [], "comments": [], "recommandations_id": []}

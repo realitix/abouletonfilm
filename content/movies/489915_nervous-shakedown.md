@@ -1,1 +1,0 @@
-{"tmdb_id": 489915, "title": "Nervous Shakedown", "original_title": "Nervous Shakedown", "slug_title": "nervous-shakedown", "date": "1947-03-13", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hugh Herbert (Mr. Penn)"], "comments": [], "recommandations_id": []}

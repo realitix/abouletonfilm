@@ -1,1 +1,0 @@
-{"tmdb_id": 376784, "title": "Entre Cenas", "original_title": "Entre Cenas", "slug_title": "entre-cenas", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 275668, "title": "Granny's Got Game", "original_title": "Granny's Got Game", "slug_title": "granny-s-got-game", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

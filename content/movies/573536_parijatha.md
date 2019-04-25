@@ -1,1 +1,0 @@
-{"tmdb_id": 573536, "title": "Parijatha", "original_title": "Parijatha", "slug_title": "parijatha", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

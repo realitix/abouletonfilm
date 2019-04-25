@@ -1,1 +1,0 @@
-{"tmdb_id": 461247, "title": "Borrasca", "original_title": "Borrasca", "slug_title": "borrasca", "date": "2016-06-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r8r0qJOzJyBfIZvAWB9vLeJxDwj.jpg", "actors": ["Mario Bortolotto ()", "Francisco Edo Mendes ()"], "comments": [], "recommandations_id": []}

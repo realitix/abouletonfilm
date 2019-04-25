@@ -1,1 +1,0 @@
-{"tmdb_id": 464426, "title": "Shoot Yourself", "original_title": "Shoot Yourself", "slug_title": "shoot-yourself", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

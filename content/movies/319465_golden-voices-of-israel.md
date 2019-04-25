@@ -1,1 +1,0 @@
-{"tmdb_id": 319465, "title": "Golden Voices of Israel", "original_title": "Golden Voices of Israel", "slug_title": "golden-voices-of-israel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

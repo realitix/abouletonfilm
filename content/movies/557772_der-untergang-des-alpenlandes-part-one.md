@@ -1,1 +1,0 @@
-{"tmdb_id": 557772, "title": "Der Untergang des Alpenlandes Part One", "original_title": "Der Untergang des Alpenlandes Part One", "slug_title": "der-untergang-des-alpenlandes-part-one", "date": "1974-11-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Werner Pirchner ()"], "comments": [], "recommandations_id": []}

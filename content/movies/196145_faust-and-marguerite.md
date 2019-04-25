@@ -1,1 +1,0 @@
-{"tmdb_id": 196145, "title": "Faust and Marguerite", "original_title": "La Damnation du docteur Faust", "slug_title": "faust-and-marguerite", "date": "1904-04-01", "genre": "", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ngnUQX9Abkesfq72uvBF3uj4Es.jpg", "actors": [], "comments": [], "recommandations_id": [190729, 189600]}

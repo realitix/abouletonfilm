@@ -1,1 +1,0 @@
-{"tmdb_id": 311806, "title": "Bob Ross: The Joy of Painting: Winter Harmony", "original_title": "Bob Ross: The Joy of Painting: Winter Harmony", "slug_title": "bob-ross-the-joy-of-painting-winter-harmony", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

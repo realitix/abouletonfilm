@@ -1,1 +1,0 @@
-{"tmdb_id": 118167, "title": "El Salvavidas", "original_title": "El Salvavidas", "slug_title": "el-salvavidas", "date": "2011-10-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zHzfTjBpVedrq5fMmE7FbfUvaH1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 373218, "title": "Curtains", "original_title": "Curtains", "slug_title": "curtains", "date": "2009-06-27", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a0PeQudFJka7Y2AGCJObL9IHzv6.jpg", "actors": ["Romy Baskerville (Polly)", "Steve Oram (Forestry Man)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 384825, "title": "Carolina Parakeet", "original_title": "Carolina Parakeet", "slug_title": "carolina-parakeet", "date": "2014-10-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qwRpDmkJgvUZR1AD6M8r6enDWko.jpg", "actors": [], "comments": [], "recommandations_id": []}

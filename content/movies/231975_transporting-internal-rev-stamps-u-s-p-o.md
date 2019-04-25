@@ -1,1 +1,0 @@
-{"tmdb_id": 231975, "title": "Transporting Internal Rev. Stamps, U.S.P.O.", "original_title": "Transporting Internal Rev. Stamps, U.S.P.O.", "slug_title": "transporting-internal-rev-stamps-u-s-p-o", "date": "1903-08-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

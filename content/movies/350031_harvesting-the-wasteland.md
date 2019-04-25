@@ -1,1 +1,0 @@
-{"tmdb_id": 350031, "title": "Harvesting the Wasteland", "original_title": "Lykkens gr\u00f8de", "slug_title": "harvesting-the-wasteland", "date": "2008-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/64AuMLQJ2aquJpO2QpxotEgBufr.jpg", "actors": [], "comments": [], "recommandations_id": []}

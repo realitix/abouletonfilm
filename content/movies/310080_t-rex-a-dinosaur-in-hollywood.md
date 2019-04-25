@@ -1,1 +1,0 @@
-{"tmdb_id": 310080, "title": "T-Rex: A Dinosaur in Hollywood", "original_title": "T-Rex: A Dinosaur in Hollywood", "slug_title": "t-rex-a-dinosaur-in-hollywood", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

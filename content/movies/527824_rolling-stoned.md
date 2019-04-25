@@ -1,1 +1,0 @@
-{"tmdb_id": 527824, "title": "Rolling Stoned", "original_title": "Rolling Stoned", "slug_title": "rolling-stoned", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 539382, "title": "Ar\u00e8nes joyeuses", "original_title": "Ar\u00e8nes joyeuses", "slug_title": "arenes-joyeuses", "date": "1935-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s2AbOeXI6q2oI8zhSwceJVkq2j2.jpg", "actors": [], "comments": [], "recommandations_id": []}

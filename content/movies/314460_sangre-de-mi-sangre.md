@@ -1,1 +1,0 @@
-{"tmdb_id": 314460, "title": "Sangre de mi sangre", "original_title": "Sangre de mi sangre", "slug_title": "sangre-de-mi-sangre", "date": "2014-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

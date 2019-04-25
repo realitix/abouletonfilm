@@ -1,1 +1,0 @@
-{"tmdb_id": 140948, "title": "Here I Learned To Love", "original_title": "Po Lamaditi L'ehove", "slug_title": "here-i-learned-to-love", "date": "2013-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jyUWFPPwOa1J05juP86iZHQQRNt.jpg", "actors": [], "comments": [], "recommandations_id": []}

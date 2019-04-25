@@ -1,1 +1,0 @@
-{"tmdb_id": 392114, "title": "ROH: Samoa Joe vs. CM Punk", "original_title": "ROH: Samoa Joe vs. CM Punk", "slug_title": "roh-samoa-joe-vs-cm-punk", "date": "2012-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j1rsO9xpf0JKEV7zQiTKrljuUzW.jpg", "actors": [], "comments": [], "recommandations_id": []}

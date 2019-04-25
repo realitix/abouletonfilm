@@ -1,1 +1,0 @@
-{"tmdb_id": 338573, "title": "Mind the Gap", "original_title": "Mind the Gap", "slug_title": "mind-the-gap", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

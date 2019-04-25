@@ -1,1 +1,0 @@
-{"tmdb_id": 131680, "title": "Book of Mormon Stories (ASL)", "original_title": "Book of Mormon Stories (ASL)", "slug_title": "book-of-mormon-stories-asl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a05QUmyXF0gCdfo9plzr7oeAEil.jpg", "actors": [], "comments": [], "recommandations_id": []}

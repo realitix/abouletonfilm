@@ -1,1 +1,0 @@
-{"tmdb_id": 330445, "title": "Mabo no nankai funsenki", "original_title": "Mabo no nankai funsenki", "slug_title": "mabo-no-nankai-funsenki", "date": "1942-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

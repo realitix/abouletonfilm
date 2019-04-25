@@ -1,1 +1,0 @@
-{"tmdb_id": 466106, "title": "Age of Dissent", "original_title": "Age of Dissent", "slug_title": "age-of-dissent", "date": "1994-07-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2MLRPynBDrvoTi3ypghCSi4fHCi.jpg", "actors": [], "comments": [], "recommandations_id": []}

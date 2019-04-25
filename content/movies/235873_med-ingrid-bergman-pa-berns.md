@@ -1,1 +1,0 @@
-{"tmdb_id": 235873, "title": "Med Ingrid Bergman p\u00e5 Berns", "original_title": "Med Ingrid Bergman p\u00e5 Berns", "slug_title": "med-ingrid-bergman-pa-berns", "date": "1953-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

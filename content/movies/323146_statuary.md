@@ -1,1 +1,0 @@
-{"tmdb_id": 323146, "title": "Statuary", "original_title": "Statuary", "slug_title": "statuary", "date": "1995-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Laura Colella ()", "Ruth Maleczech (The Statuary Keeper)", "Daniel von Bargen (Narrator)", "Aaron Jungels ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556383, "title": "Le chauffeur de Mademoiselle", "original_title": "Le chauffeur de Mademoiselle", "slug_title": "le-chauffeur-de-mademoiselle", "date": "1928-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 479502, "title": "Morden i Sandhamn 04 - I natt \u00e4r du d\u00f6d", "original_title": "Morden i Sandhamn 04 - I natt \u00e4r du d\u00f6d", "slug_title": "morden-i-sandhamn-04-i-natt-ar-du-dod", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

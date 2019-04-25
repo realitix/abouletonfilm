@@ -1,1 +1,0 @@
-{"tmdb_id": 304452, "title": "The Isle", "original_title": "The Isle", "slug_title": "the-isle", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/edmApOeZwhntYN67Iw3VSkEX6Ew.jpg", "actors": [], "comments": [], "recommandations_id": []}

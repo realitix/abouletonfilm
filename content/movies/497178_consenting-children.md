@@ -1,1 +1,0 @@
-{"tmdb_id": 497178, "title": "Consenting Children", "original_title": "Consenting Children", "slug_title": "consenting-children", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

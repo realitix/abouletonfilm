@@ -1,1 +1,0 @@
-{"tmdb_id": 272425, "title": "Ek Se Mera Kya Hoga", "original_title": "Ek Se Mera Kya Hoga", "slug_title": "ek-se-mera-kya-hoga", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7N7maQz8G5Wf0S2ewZvRMeUjKIg.jpg", "actors": [], "comments": [], "recommandations_id": []}

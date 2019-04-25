@@ -1,1 +1,0 @@
-{"tmdb_id": 583044, "title": "Empathie und panische Angst", "original_title": "Empathie und panische Angst", "slug_title": "empathie-und-panische-angst", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fKLNOwZ7SmNgw9h9KXs9mfHIx87.jpg", "actors": [], "comments": [], "recommandations_id": []}

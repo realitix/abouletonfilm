@@ -1,1 +1,0 @@
-{"tmdb_id": 552971, "title": "Yo La Tengo - Groningen (NL), Vera", "original_title": "Yo La Tengo - Groningen (NL), Vera", "slug_title": "yo-la-tengo-groningen-nl-vera", "date": "1988-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 27971, "title": "Another Version of the Truth", "original_title": "Another Version of the Truth", "slug_title": "another-version-of-the-truth", "date": "2009-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

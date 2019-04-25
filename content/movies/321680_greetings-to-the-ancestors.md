@@ -1,1 +1,0 @@
-{"tmdb_id": 321680, "title": "Greetings to the Ancestors", "original_title": "Greetings to the Ancestors", "slug_title": "greetings-to-the-ancestors", "date": "2015-01-23", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uH1L9oMa6yGHph9mI4VjuYQfhT7.jpg", "actors": [], "comments": [], "recommandations_id": []}

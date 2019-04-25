@@ -1,1 +1,0 @@
-{"tmdb_id": 444824, "title": "Shimmer", "original_title": "Shimmer", "slug_title": "shimmer", "date": "2014-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

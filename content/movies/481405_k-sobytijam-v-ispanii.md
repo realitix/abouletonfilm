@@ -1,1 +1,0 @@
-{"tmdb_id": 481405, "title": "K Sobytijam v Ispanii", "original_title": "K Sobytijam v Ispanii", "slug_title": "k-sobytijam-v-ispanii", "date": "1936-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

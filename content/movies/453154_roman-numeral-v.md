@@ -1,1 +1,0 @@
-{"tmdb_id": 453154, "title": "Roman Numeral: V", "original_title": "Roman Numeral: V", "slug_title": "roman-numeral-v", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pP8Q7gaSWppi9jarWEwEr2Laqk9.jpg", "actors": [], "comments": [], "recommandations_id": []}

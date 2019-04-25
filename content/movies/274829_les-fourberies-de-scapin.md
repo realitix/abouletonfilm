@@ -1,1 +1,0 @@
-{"tmdb_id": 274829, "title": "Les fourberies de Scapin", "original_title": "Les fourberies de Scapin", "slug_title": "les-fourberies-de-scapin", "date": "1998-06-07", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6EXPCQDYkkn6hL1cxq8HeVJpBow.jpg", "actors": [], "comments": [], "recommandations_id": []}

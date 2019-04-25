@@ -1,1 +1,0 @@
-{"tmdb_id": 252052, "title": "The Sturgeon Queens", "original_title": "The Sturgeon Queens", "slug_title": "the-sturgeon-queens", "date": "2014-01-20", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p1I96F5nXpVqrIOv3LqiYz25V8W.jpg", "actors": [], "comments": [], "recommandations_id": []}

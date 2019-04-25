@@ -1,1 +1,0 @@
-{"tmdb_id": 349550, "title": "\ub4dc\ub77c\ud050\ub77c \uc560\ub9c8", "original_title": "\ub4dc\ub77c\ud050\ub77c \uc560\ub9c8", "slug_title": "deurakyura-aema", "date": "1994-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

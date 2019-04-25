@@ -1,1 +1,0 @@
-{"tmdb_id": 297392, "title": "Na Mira do Crime", "original_title": "Na Mira do Crime", "slug_title": "na-mira-do-crime", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Renata Dominguez ()", "Junno Andrade ()", "Gabi Lopes ()", "Rodrigo Veronose ()", "Luciana Vendramini ()"], "comments": [], "recommandations_id": []}

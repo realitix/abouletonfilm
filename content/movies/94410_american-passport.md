@@ -1,1 +1,0 @@
-{"tmdb_id": 94410, "title": "American Passport", "original_title": "American Passport", "slug_title": "american-passport", "date": "1999-01-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AukkI39G3ukPnXdqYIV6JSLDwRL.jpg", "actors": [], "comments": [], "recommandations_id": []}

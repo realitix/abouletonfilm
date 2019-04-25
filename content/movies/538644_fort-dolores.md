@@ -1,1 +1,0 @@
-{"tmdb_id": 538644, "title": "Fort Dolor\u00e8s", "original_title": "Fort Dolor\u00e8s", "slug_title": "fort-dolores", "date": "1939-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kkLkz2MNZEexsrWOPEtbhYsLeyR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 246369, "title": "The Dubya", "original_title": "The Dubya", "slug_title": "the-dubya", "date": "2005-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

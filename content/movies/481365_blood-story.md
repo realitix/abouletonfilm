@@ -1,1 +1,0 @@
-{"tmdb_id": 481365, "title": "Blood Story", "original_title": "Blood Story", "slug_title": "blood-story", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

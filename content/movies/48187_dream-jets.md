@@ -1,1 +1,0 @@
-{"tmdb_id": 48187, "title": "Dream Jets", "original_title": "Dream Jets", "slug_title": "dream-jets", "date": "2005-03-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6L4aSb9QU0GQkh4nzE21yw9GPmW.jpg", "actors": [], "comments": [], "recommandations_id": []}

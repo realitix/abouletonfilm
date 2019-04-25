@@ -1,1 +1,0 @@
-{"tmdb_id": 203859, "title": "Mardi Gras: Made in China", "original_title": "Mardi Gras: Made in China", "slug_title": "mardi-gras-made-in-china", "date": "2005-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5dVMTu0cI5EkTGRYyIKeVjKDySy.jpg", "actors": [], "comments": [], "recommandations_id": []}

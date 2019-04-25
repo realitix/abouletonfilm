@@ -1,1 +1,0 @@
-{"tmdb_id": 538716, "title": "My Father and My Daddy", "original_title": "Mon p\u00e8re et mon papa", "slug_title": "my-father-and-my-daddy", "date": "1938-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3m7myRKy8SXXB1LDC8i0CM251q0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 281657, "title": "The OId Chair", "original_title": "The OId Chair", "slug_title": "the-oid-chair", "date": "", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jgYv4dc7ej77WrOzxMhutDI4kZE.jpg", "actors": [], "comments": [], "recommandations_id": []}

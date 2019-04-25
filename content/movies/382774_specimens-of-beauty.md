@@ -1,1 +1,0 @@
-{"tmdb_id": 382774, "title": "Specimens of Beauty", "original_title": "Specimens of Beauty", "slug_title": "specimens-of-beauty", "date": "2004-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jxvO25QCsBR5jk8dEtBrlL01BSa.jpg", "actors": ["Trey Anastasio ()"], "comments": [], "recommandations_id": []}

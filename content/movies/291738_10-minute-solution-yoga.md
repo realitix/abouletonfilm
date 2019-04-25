@@ -1,1 +1,0 @@
-{"tmdb_id": 291738, "title": "10 Minute Solution: yoga", "original_title": "10 Minute Solution: yoga", "slug_title": "10-minute-solution-yoga", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

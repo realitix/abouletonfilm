@@ -1,1 +1,0 @@
-{"tmdb_id": 447542, "title": "Volkspolizei 1985", "original_title": "Volkspolizei 1985", "slug_title": "volkspolizei-1985", "date": "1985-12-31", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/123luhjpiylShEFoPd0UFnMueWS.jpg", "actors": [], "comments": [], "recommandations_id": []}

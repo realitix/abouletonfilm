@@ -1,1 +1,0 @@
-{"tmdb_id": 503371, "title": "LOVE AND DATING IN L.A.", "original_title": "LOVE AND DATING IN L.A.", "slug_title": "love-and-dating-in-l-a", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

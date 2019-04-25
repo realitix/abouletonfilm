@@ -1,1 +1,0 @@
-{"tmdb_id": 421519, "title": "Budapest - the City of Spas and Cures", "original_title": "Budapest f\u00fcrd\u00f6v\u00e1ros", "slug_title": "budapest-the-city-of-spas-and-cures", "date": "1935-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 311292, "title": "Maya & Miguel: Cinco de Maya", "original_title": "Maya & Miguel: Cinco de Maya", "slug_title": "maya-miguel-cinco-de-maya", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

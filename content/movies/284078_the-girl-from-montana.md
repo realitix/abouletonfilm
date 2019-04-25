@@ -1,1 +1,0 @@
-{"tmdb_id": 284078, "title": "The Girl from Montana", "original_title": "The Girl from Montana", "slug_title": "the-girl-from-montana", "date": "1907-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pansy Perry ()"], "comments": [], "recommandations_id": []}

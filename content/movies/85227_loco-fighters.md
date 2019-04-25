@@ -1,1 +1,0 @@
-{"tmdb_id": 85227, "title": "Loco Fighters", "original_title": "Tres ca\u00eddas", "slug_title": "loco-fighters", "date": "2006-10-20", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/61PzMjXl1yTmgEo8ZJmNrZIhDQS.jpg", "actors": [], "comments": [], "recommandations_id": []}

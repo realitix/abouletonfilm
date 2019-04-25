@@ -1,1 +1,0 @@
-{"tmdb_id": 561010, "title": "The Happiest of Men", "original_title": "Le plus heureux des hommes", "slug_title": "the-happiest-of-men", "date": "1952-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ohsflwIG6y7FqLa9MbH8q5sk2sF.jpg", "actors": [], "comments": [], "recommandations_id": []}

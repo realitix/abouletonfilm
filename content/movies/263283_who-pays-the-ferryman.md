@@ -1,1 +1,0 @@
-{"tmdb_id": 263283, "title": "Who Pays The Ferryman?", "original_title": "Who Pays The Ferryman?", "slug_title": "who-pays-the-ferryman", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Hedley (Alan Haldane)"], "comments": [], "recommandations_id": []}

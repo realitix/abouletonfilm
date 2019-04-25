@@ -1,1 +1,0 @@
-{"tmdb_id": 512021, "title": "The New Gods", "original_title": "The New Gods", "slug_title": "the-new-gods", "date": "", "genre": "Science-Fiction / Action", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/koDxjy57ESe6YpTSziJd4I3Ltay.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 350330, "title": "\ucc3d\ubc16\uc758 \uc5ec\uc790", "original_title": "\ucc3d\ubc16\uc758 \uc5ec\uc790", "slug_title": "cangbaggyi-yeoja", "date": "1980-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 205055, "title": "Sign Painters", "original_title": "Sign Painters", "slug_title": "sign-painters", "date": "2014-05-13", "genre": "Documentaire", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Y0wfQolqd2dumnuXmOKBPbLWkb.jpg", "actors": [], "comments": [], "recommandations_id": []}

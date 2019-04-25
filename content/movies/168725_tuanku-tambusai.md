@@ -1,1 +1,0 @@
-{"tmdb_id": 168725, "title": "Tuanku Tambusai", "original_title": "Tuanku Tambusai", "slug_title": "tuanku-tambusai", "date": "1991-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cok Simbara (Tuanku Tambusai)"], "comments": [], "recommandations_id": []}

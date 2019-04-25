@@ -1,1 +1,0 @@
-{"tmdb_id": 302382, "title": "Trinidad", "original_title": "Trinidad", "slug_title": "trinidad", "date": "1943-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/smKfwYLdR01qhoFd86osy6d0vS2.jpg", "actors": [], "comments": [], "recommandations_id": []}

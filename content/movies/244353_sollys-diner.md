@@ -1,1 +1,0 @@
-{"tmdb_id": 244353, "title": "Solly\u2019s Diner", "original_title": "Solly\u2019s Diner", "slug_title": "sollys-diner", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/baYLqgqCFtskvi07071liOKiwEt.jpg", "actors": [], "comments": [], "recommandations_id": []}

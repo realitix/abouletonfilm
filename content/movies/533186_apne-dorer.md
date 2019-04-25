@@ -1,1 +1,0 @@
-{"tmdb_id": 533186, "title": "\u00c5pne d\u00f8rer", "original_title": "\u00c5pne d\u00f8rer", "slug_title": "apne-dorer", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

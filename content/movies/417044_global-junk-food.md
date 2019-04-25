@@ -1,1 +1,0 @@
-{"tmdb_id": 417044, "title": "Global Junk Food", "original_title": "Global Junk Food", "slug_title": "global-junk-food", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

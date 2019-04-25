@@ -1,1 +1,0 @@
-{"tmdb_id": 318678, "title": "Arthur's Terrible Teasers", "original_title": "Arthur's Terrible Teasers", "slug_title": "arthur-s-terrible-teasers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

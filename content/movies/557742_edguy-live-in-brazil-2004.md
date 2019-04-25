@@ -1,1 +1,0 @@
-{"tmdb_id": 557742, "title": "Edguy \u2013 Live in Brazil 2004", "original_title": "Edguy \u2013 Live in Brazil 2004", "slug_title": "edguy-live-in-brazil-2004", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

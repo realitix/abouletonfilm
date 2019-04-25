@@ -1,1 +1,0 @@
-{"tmdb_id": 562729, "title": "Das warme Geld", "original_title": "Das warme Geld", "slug_title": "das-warme-geld", "date": "1992-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

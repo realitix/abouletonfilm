@@ -1,1 +1,0 @@
-{"tmdb_id": 457712, "title": "The VelociPastor", "original_title": "The VelociPastor", "slug_title": "the-velocipastor", "date": "2018-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rXWFOCTYRGj6ZURi75YclU6GQGm.jpg", "actors": [], "comments": [], "recommandations_id": []}

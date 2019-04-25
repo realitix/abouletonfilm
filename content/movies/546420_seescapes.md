@@ -1,1 +1,0 @@
-{"tmdb_id": 546420, "title": "Seescapes", "original_title": "Seescapes", "slug_title": "seescapes", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

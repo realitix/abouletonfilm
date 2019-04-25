@@ -1,1 +1,0 @@
-{"tmdb_id": 564172, "title": "The Five Devil Ghost", "original_title": "\u4e94\u9b3c\u596a\u9b42", "slug_title": "the-five-devil-ghost", "date": "1971-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xUYAHN5UMjKZa4cbKcTy7rzaRh6.jpg", "actors": [], "comments": [], "recommandations_id": []}

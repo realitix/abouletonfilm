@@ -1,1 +1,0 @@
-{"tmdb_id": 314955, "title": "Tractor Ted in Summertime", "original_title": "Tractor Ted in Summertime", "slug_title": "tractor-ted-in-summertime", "date": "2007-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xuNUcbmSf3PJf0W75cze5efUrmD.jpg", "actors": [], "comments": [], "recommandations_id": []}

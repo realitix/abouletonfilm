@@ -1,1 +1,0 @@
-{"tmdb_id": 326754, "title": "Bird Man", "original_title": "Bird Man", "slug_title": "bird-man", "date": "1935-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 503217, "title": "La Napoli di Marotta", "original_title": "La Napoli di Marotta", "slug_title": "la-napoli-di-marotta", "date": "1966-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

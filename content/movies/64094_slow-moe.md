@@ -1,1 +1,0 @@
-{"tmdb_id": 64094, "title": "Slow Moe", "original_title": "Slow Moe", "slug_title": "slow-moe", "date": "2010-01-01", "genre": "Familial", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kbW7eqiKRjM30gqTykj4bj1C26I.jpg", "actors": [], "comments": [], "recommandations_id": []}

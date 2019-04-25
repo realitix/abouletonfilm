@@ -1,1 +1,0 @@
-{"tmdb_id": 518524, "title": "Ethirmarai", "original_title": "Ethirmarai", "slug_title": "ethirmarai", "date": "2018-04-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iXM3qYdMESlRJMkOTTRxKAz6lk5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 370795, "title": "Electric Eel", "original_title": "Electric Eel", "slug_title": "electric-eel", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Irwin Moon ()"], "comments": [], "recommandations_id": []}

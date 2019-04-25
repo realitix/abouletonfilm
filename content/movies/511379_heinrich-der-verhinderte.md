@@ -1,1 +1,0 @@
-{"tmdb_id": 511379, "title": "Heinrich der Verhinderte", "original_title": "Heinrich der Verhinderte", "slug_title": "heinrich-der-verhinderte", "date": "1966-11-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iOFSlMZSCULZUt9dlEiMPfWUhTv.jpg", "actors": [], "comments": [], "recommandations_id": []}

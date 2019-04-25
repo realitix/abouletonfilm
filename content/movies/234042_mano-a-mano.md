@@ -1,1 +1,0 @@
-{"tmdb_id": 234042, "title": "Mano a mano", "original_title": "Mano a mano", "slug_title": "mano-a-mano", "date": "1930-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carlos Gardel ()", "Celedonio Flores ()"], "comments": [], "recommandations_id": []}

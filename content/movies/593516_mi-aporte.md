@@ -1,1 +1,0 @@
-{"tmdb_id": 593516, "title": "Mi Aporte", "original_title": "Mi Aporte", "slug_title": "mi-aporte", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

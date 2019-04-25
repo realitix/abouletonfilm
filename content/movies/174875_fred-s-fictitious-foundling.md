@@ -1,1 +1,0 @@
-{"tmdb_id": 174875, "title": "Fred's Fictitious Foundling", "original_title": "Fred's Fictitious Foundling", "slug_title": "fred-s-fictitious-foundling", "date": "1918-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

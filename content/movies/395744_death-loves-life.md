@@ -1,1 +1,0 @@
-{"tmdb_id": 395744, "title": "Death Loves Life", "original_title": "Death Loves Life", "slug_title": "death-loves-life", "date": "2015-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Ksbmd32VJFbHl6fYqCK1af4aQ1.jpg", "actors": [], "comments": [], "recommandations_id": []}

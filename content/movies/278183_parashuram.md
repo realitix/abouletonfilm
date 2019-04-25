@@ -1,1 +1,0 @@
-{"tmdb_id": 278183, "title": "Parashuram", "original_title": "Parashuram", "slug_title": "parashuram", "date": "1989-06-22", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dr. Rajkumar ()", "Vani Viswanath ()", "Puneeth Rajkumar ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 264113, "title": "The Man You Had in Mind", "original_title": "The Man You Had in Mind", "slug_title": "the-man-you-had-in-mind", "date": "2006-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n5qudC2JNpXxkgeamLqynkVLEmq.jpg", "actors": [], "comments": [], "recommandations_id": []}

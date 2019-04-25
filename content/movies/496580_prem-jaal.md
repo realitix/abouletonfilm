@@ -1,1 +1,0 @@
-{"tmdb_id": 496580, "title": "Prem Jaal", "original_title": "Prem Jaal", "slug_title": "prem-jaal", "date": "2001-01-01", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jghyoE4PqjtnL5KcnZiNxSVjnNS.jpg", "actors": ["Anil Soni ()"], "comments": [], "recommandations_id": []}

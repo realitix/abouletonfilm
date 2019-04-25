@@ -1,1 +1,0 @@
-{"tmdb_id": 80696, "title": "Cow Monkey", "original_title": "Cow Monkey", "slug_title": "cow-monkey", "date": "2001-12-02", "genre": "Action", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nbVWcD7FFLZn2HNSe8ffrECB71Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

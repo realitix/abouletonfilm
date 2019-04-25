@@ -1,1 +1,0 @@
-{"tmdb_id": 342249, "title": "Ponce de Le\u00f3n", "original_title": "Ponce de Le\u00f3n", "slug_title": "ponce-de-leon", "date": "2012-05-29", "genre": "Drame / Fantastique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3HQQPhMGORNeFKLDapwvU0pza4Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

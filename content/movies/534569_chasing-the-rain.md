@@ -1,1 +1,0 @@
-{"tmdb_id": 534569, "title": "Chasing the Rain", "original_title": "Chasing the Rain", "slug_title": "chasing-the-rain", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cy1Fo6ccx0nJOUONYLIIP7RwCws.jpg", "actors": [], "comments": [], "recommandations_id": []}

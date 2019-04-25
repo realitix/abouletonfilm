@@ -1,1 +1,0 @@
-{"tmdb_id": 451047, "title": "Bullied to Death", "original_title": "Bullied to Death", "slug_title": "bullied-to-death", "date": "2016-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nEA3A6ekHLWd4mKW3H1kKocoUE4.jpg", "actors": [], "comments": [], "recommandations_id": []}

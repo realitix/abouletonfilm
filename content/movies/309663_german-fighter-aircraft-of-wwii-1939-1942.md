@@ -1,1 +1,0 @@
-{"tmdb_id": 309663, "title": "German Fighter Aircraft of WWII: 1939-1942", "original_title": "German Fighter Aircraft of WWII: 1939-1942", "slug_title": "german-fighter-aircraft-of-wwii-1939-1942", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

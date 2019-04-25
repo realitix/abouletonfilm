@@ -1,1 +1,0 @@
-{"tmdb_id": 386195, "title": "Pertaining to Marin", "original_title": "Pertaining to Marin", "slug_title": "pertaining-to-marin", "date": "1950-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wFirwo6IWn6e56RWFX1nq2vUEEp.jpg", "actors": [], "comments": [], "recommandations_id": []}

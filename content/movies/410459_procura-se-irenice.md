@@ -1,1 +1,0 @@
-{"tmdb_id": 410459, "title": "Procura-se Irenice", "original_title": "Procura-se Irenice", "slug_title": "procura-se-irenice", "date": "2016-01-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gkMCUBCHDb65RoEvgSyLtmiHmPi.jpg", "actors": [], "comments": [], "recommandations_id": []}

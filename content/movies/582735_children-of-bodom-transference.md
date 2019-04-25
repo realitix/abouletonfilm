@@ -1,1 +1,0 @@
-{"tmdb_id": 582735, "title": "Children Of Bodom - Transference", "original_title": "Children Of Bodom - Transference", "slug_title": "children-of-bodom-transference", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/onUwWl68sC2ZoI78DTB8hQydLHp.jpg", "actors": [], "comments": [], "recommandations_id": []}

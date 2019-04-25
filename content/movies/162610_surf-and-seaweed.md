@@ -1,1 +1,0 @@
-{"tmdb_id": 162610, "title": "Surf and Seaweed", "original_title": "Surf and Seaweed", "slug_title": "surf-and-seaweed", "date": "1931-04-15", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AdkAidr7aQf6gzTuAtxZXr2yQMX.jpg", "actors": [], "comments": [], "recommandations_id": [161898, 77851, 162612, 163111]}

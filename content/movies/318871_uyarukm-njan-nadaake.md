@@ -1,1 +1,0 @@
-{"tmdb_id": 318871, "title": "Uyarukm Njan Nadaake", "original_title": "Uyarukm Njan Nadaake", "slug_title": "uyarukm-njan-nadaake", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

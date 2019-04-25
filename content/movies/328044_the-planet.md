@@ -1,1 +1,0 @@
-{"tmdb_id": 328044, "title": "The Planet", "original_title": "The Planet", "slug_title": "the-planet", "date": "2006-09-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eZWER6lj2YxZOXTTxNCyVfXi97f.jpg", "actors": [], "comments": [], "recommandations_id": []}

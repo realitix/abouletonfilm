@@ -1,1 +1,0 @@
-{"tmdb_id": 397409, "title": "Un hombre va por el camino", "original_title": "Un hombre va por el camino", "slug_title": "un-hombre-va-por-el-camino", "date": "1949-12-30", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/PhIx7gV8W6S5Pv31bhoIDF6O57.jpg", "actors": [], "comments": [], "recommandations_id": []}

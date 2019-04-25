@@ -1,1 +1,0 @@
-{"tmdb_id": 274373, "title": "Dil Ka Sauda", "original_title": "Dil Ka Sauda", "slug_title": "dil-ka-sauda", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

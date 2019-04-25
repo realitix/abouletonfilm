@@ -1,1 +1,0 @@
-{"tmdb_id": 257096, "title": "Grandpa Planted a Beet", "original_title": "Zasadil d\u011bdek \u0159epu", "slug_title": "grandpa-planted-a-beet", "date": "1945-01-01", "genre": "Animation / Familial", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lQBRYEAMblPITQcqVohFV13xEbs.jpg", "actors": [], "comments": [], "recommandations_id": []}

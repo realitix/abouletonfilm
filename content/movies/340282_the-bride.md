@@ -1,1 +1,0 @@
-{"tmdb_id": 340282, "title": "The Bride", "original_title": "Nevesta", "slug_title": "the-bride", "date": "1971-05-15", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uNBVFwTqWB2l7KsojbQqoXpJBXN.jpg", "actors": [], "comments": [], "recommandations_id": []}

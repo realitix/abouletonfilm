@@ -1,1 +1,0 @@
-{"tmdb_id": 328925, "title": "Finding Benjamin", "original_title": "Finding Benjamin", "slug_title": "finding-benjamin", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

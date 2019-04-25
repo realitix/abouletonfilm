@@ -1,1 +1,0 @@
-{"tmdb_id": 515701, "title": "Inside Hamas", "original_title": "Inside Hamas", "slug_title": "inside-hamas", "date": "2011-03-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

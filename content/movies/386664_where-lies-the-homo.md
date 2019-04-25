@@ -1,1 +1,0 @@
-{"tmdb_id": 386664, "title": "Where Lies the Homo?", "original_title": "Where Lies the Homo?", "slug_title": "where-lies-the-homo", "date": "1999-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

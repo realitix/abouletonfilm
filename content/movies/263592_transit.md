@@ -1,1 +1,0 @@
-{"tmdb_id": 263592, "title": "Transit", "original_title": "Transit", "slug_title": "transit", "date": "1980-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ypUUNT9ptMf4ZgW42mtxGqbCN9i.jpg", "actors": ["Itzhak Ben-Zur ()", "Gedalia Besser ()", "Yair Elazar ()"], "comments": [], "recommandations_id": []}

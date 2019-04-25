@@ -1,1 +1,0 @@
-{"tmdb_id": 375495, "title": "Labour in a Single Shot", "original_title": "Labour in a Single Shot", "slug_title": "labour-in-a-single-shot", "date": "2015-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

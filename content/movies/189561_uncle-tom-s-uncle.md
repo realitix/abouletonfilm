@@ -1,1 +1,0 @@
-{"tmdb_id": 189561, "title": "Uncle Tom's Uncle", "original_title": "Uncle Tom's Uncle", "slug_title": "uncle-tom-s-uncle", "date": "1926-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

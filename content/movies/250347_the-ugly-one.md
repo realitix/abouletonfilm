@@ -1,1 +1,0 @@
-{"tmdb_id": 250347, "title": "The Ugly One", "original_title": "The Ugly One", "slug_title": "the-ugly-one", "date": "2013-09-13", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aA46w3WnkbiCdAZRYZ0g40xk332.jpg", "actors": [], "comments": [], "recommandations_id": []}

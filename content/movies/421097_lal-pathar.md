@@ -1,1 +1,0 @@
-{"tmdb_id": 421097, "title": "Lal Pathar", "original_title": "Lal Pathar", "slug_title": "lal-pathar", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fntwqroQ4He15bK1hhUJ5T71SM.jpg", "actors": ["Uttam Kumar ()", "Supriya Choudhury ()"], "comments": [], "recommandations_id": []}

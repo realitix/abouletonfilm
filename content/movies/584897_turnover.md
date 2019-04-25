@@ -1,1 +1,0 @@
-{"tmdb_id": 584897, "title": "Turnover", "original_title": "Turnover", "slug_title": "turnover", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nG5xYXAwahecFhQ8ZrFdFoAqpqH.jpg", "actors": [], "comments": [], "recommandations_id": []}

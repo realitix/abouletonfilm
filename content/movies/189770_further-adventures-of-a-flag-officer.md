@@ -1,1 +1,0 @@
-{"tmdb_id": 189770, "title": "Further Adventures of a Flag Officer", "original_title": "Further Adventures of a Flag Officer", "slug_title": "further-adventures-of-a-flag-officer", "date": "1927-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Henry Edwards (Lt. Dicky Lascelles)"], "comments": [], "recommandations_id": []}

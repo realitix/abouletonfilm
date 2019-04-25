@@ -1,1 +1,0 @@
-{"tmdb_id": 287456, "title": "Maniac 2: Mr. Robbie", "original_title": "Maniac 2: Mr. Robbie", "slug_title": "maniac-2-mr-robbie", "date": "1986-11-01", "genre": "Horreur", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vC1NL9Wy0EkdJy9QmWfQaMhUXEq.jpg", "actors": ["Joe Spinell (Mr. Robbie)"], "comments": [], "recommandations_id": []}

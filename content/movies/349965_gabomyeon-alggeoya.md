@@ -1,1 +1,0 @@
-{"tmdb_id": 349965, "title": "\uac00\ubcf4\uba74 \uc54c\uaebc\uc57c", "original_title": "\uac00\ubcf4\uba74 \uc54c\uaebc\uc57c", "slug_title": "gabomyeon-alggeoya", "date": "1990-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

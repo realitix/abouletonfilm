@@ -1,1 +1,0 @@
-{"tmdb_id": 115200, "title": "Lipali - Akustyk Live", "original_title": "Lipali - Akustyk Live", "slug_title": "lipali-akustyk-live", "date": "2011-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xdvPl1j7l5TweHzJ7kZ3UizCkYS.jpg", "actors": [], "comments": [], "recommandations_id": []}

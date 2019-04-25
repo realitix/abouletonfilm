@@ -1,1 +1,1 @@
-{"tmdb_id": 454686, "title": "Ocharcoaga", "original_title": "Ocharcoaga", "slug_title": "ocharcoaga", "date": "", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 454686, "title": "Ocharcoaga", "original_title": "Ocharcoaga", "slug_title": "ocharcoaga", "date": "", "genre": ["Documentaire"], "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 337378, "title": "THE HUNT \u2013 Texas Streets", "original_title": "THE HUNT \u2013 Texas Streets", "slug_title": "the-hunt-texas-streets", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9xiGEI1wwB02MuJlLPuAOWBuo92.jpg", "actors": [], "comments": [], "recommandations_id": []}

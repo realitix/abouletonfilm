@@ -1,1 +1,0 @@
-{"tmdb_id": 349875, "title": "\ud640\ub85c\uc11c\ub294 \uadf8\ub0a0\uc5d0", "original_title": "\ud640\ub85c\uc11c\ub294 \uadf8\ub0a0\uc5d0", "slug_title": "holroseoneun-geunale", "date": "1990-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

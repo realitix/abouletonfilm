@@ -1,1 +1,0 @@
-{"tmdb_id": 300259, "title": "Aakhri Ghulam", "original_title": "Aakhri Ghulam", "slug_title": "aakhri-ghulam", "date": "1989-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

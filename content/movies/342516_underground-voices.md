@@ -1,1 +1,0 @@
-{"tmdb_id": 342516, "title": "Underground Voices", "original_title": "Voces del subterr\u00e1neo", "slug_title": "underground-voices", "date": "2010-03-15", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w0JS9AjdZb8pcqULWmYgjcKdL2i.jpg", "actors": [], "comments": [], "recommandations_id": []}

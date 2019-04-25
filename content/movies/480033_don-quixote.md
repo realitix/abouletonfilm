@@ -1,1 +1,0 @@
-{"tmdb_id": 480033, "title": "Don Quixote", "original_title": "Don Quixote", "slug_title": "don-quixote", "date": "2016-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ekaterina Krysanova (Kitri)", "Semen Chudin (Bazil)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 322451, "title": "Guided by Voices", "original_title": "Guided by Voices", "slug_title": "guided-by-voices", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/982XAdcOz74dGilYedOwJQXg1Lc.jpg", "actors": [], "comments": [], "recommandations_id": []}

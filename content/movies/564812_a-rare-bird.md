@@ -1,1 +1,0 @@
-{"tmdb_id": 564812, "title": "A Rare Bird", "original_title": "L'oiseau rare", "slug_title": "a-rare-bird", "date": "1973-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

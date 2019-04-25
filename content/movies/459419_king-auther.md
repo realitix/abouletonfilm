@@ -1,1 +1,0 @@
-{"tmdb_id": 459419, "title": "king auther", "original_title": "king auther", "slug_title": "king-auther", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

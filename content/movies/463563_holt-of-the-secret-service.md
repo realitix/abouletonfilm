@@ -1,1 +1,0 @@
-{"tmdb_id": 463563, "title": "Holt of the Secret Service", "original_title": "Holt of the Secret Service", "slug_title": "holt-of-the-secret-service", "date": "1944-03-06", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Holt ()", "Evelyn Brent ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 573931, "title": "Stretch Marks", "original_title": "Stretch Marks", "slug_title": "stretch-marks", "date": "2018-09-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ihAf8MzpWRJQj07PEQzH9LbjKEq.jpg", "actors": [], "comments": [], "recommandations_id": []}

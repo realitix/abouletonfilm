@@ -1,1 +1,0 @@
-{"tmdb_id": 367002, "title": "Working to Beat the Devil", "original_title": "Working to Beat the Devil", "slug_title": "working-to-beat-the-devil", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8H3W8bsFCaGY6J0gNGRTkrW0mWf.jpg", "actors": [], "comments": [], "recommandations_id": []}

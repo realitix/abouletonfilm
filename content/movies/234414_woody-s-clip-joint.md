@@ -1,1 +1,0 @@
-{"tmdb_id": 234414, "title": "Woody's Clip Joint", "original_title": "Woody's Clip Joint", "slug_title": "woody-s-clip-joint", "date": "1964-08-02", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/75cNIXFVGlIJpzhaS3Qe3wzhldq.jpg", "actors": [], "comments": [], "recommandations_id": []}

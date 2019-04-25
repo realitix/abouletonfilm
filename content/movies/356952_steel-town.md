@@ -1,1 +1,1 @@
-{"tmdb_id": 356952, "title": "Steel Town", "original_title": "Steel Town", "slug_title": "steel-town", "date": "1958-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 356952, "title": "Steel Town", "original_title": "Steel Town", "slug_title": "steel-town", "date": "1958-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Bill Mason.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

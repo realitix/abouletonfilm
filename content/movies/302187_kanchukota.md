@@ -1,1 +1,1 @@
-{"tmdb_id": 302187, "title": "Kanchukota", "original_title": "Kanchukota", "slug_title": "kanchukota", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 302187, "title": "Kanchukota", "original_title": "Kanchukota", "slug_title": "kanchukota", "date": "1967-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1967 film from India", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

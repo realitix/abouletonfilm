@@ -1,1 +1,0 @@
-{"tmdb_id": 585900, "title": "Backstage at the Kirov", "original_title": "Backstage at the Kirov", "slug_title": "backstage-at-the-kirov", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

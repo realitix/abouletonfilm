@@ -1,1 +1,0 @@
-{"tmdb_id": 275677, "title": "The Big Question", "original_title": "The Big Question", "slug_title": "the-big-question", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

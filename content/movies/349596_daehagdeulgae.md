@@ -1,1 +1,0 @@
-{"tmdb_id": 349596, "title": "\ub300\ud559\ub4e4\uac1c", "original_title": "\ub300\ud559\ub4e4\uac1c", "slug_title": "daehagdeulgae", "date": "1983-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

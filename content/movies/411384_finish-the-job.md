@@ -1,1 +1,0 @@
-{"tmdb_id": 411384, "title": "Finish the Job", "original_title": "Finish the Job", "slug_title": "finish-the-job", "date": "1998-06-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3coRaApB35G1BlyE3oNEL9F2E2X.jpg", "actors": ["David Thompson (Himself)"], "comments": [], "recommandations_id": []}

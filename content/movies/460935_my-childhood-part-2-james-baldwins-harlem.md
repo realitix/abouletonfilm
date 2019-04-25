@@ -1,1 +1,0 @@
-{"tmdb_id": 460935, "title": "My Childhood Part 2: James Baldwin\u2019s Harlem", "original_title": "My Childhood Part 2: James Baldwin\u2019s Harlem", "slug_title": "my-childhood-part-2-james-baldwins-harlem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

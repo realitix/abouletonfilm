@@ -1,1 +1,0 @@
-{"tmdb_id": 281088, "title": "History and Memory: For Akiko and Takashige", "original_title": "History and Memory: For Akiko and Takashige", "slug_title": "history-and-memory-for-akiko-and-takashige", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

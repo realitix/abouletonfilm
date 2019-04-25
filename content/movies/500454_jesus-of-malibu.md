@@ -1,1 +1,0 @@
-{"tmdb_id": 500454, "title": "Jesus of Malibu", "original_title": "Jesus of Malibu", "slug_title": "jesus-of-malibu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fMvj21S57rdZDWDDwih4GTwJqd9.jpg", "actors": ["Billy Yeager (Jesus of Malibu)", "Anais Yeager (Mindy)"], "comments": [], "recommandations_id": []}

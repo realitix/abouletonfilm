@@ -1,1 +1,0 @@
-{"tmdb_id": 302599, "title": "Cura\u00e7ao", "original_title": "Cura\u00e7ao", "slug_title": "curacao", "date": "2011-04-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

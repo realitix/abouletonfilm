@@ -1,1 +1,0 @@
-{"tmdb_id": 453595, "title": "Noddy og st\u00f8tfangermonsteret", "original_title": "Noddy og st\u00f8tfangermonsteret", "slug_title": "noddy-og-stotfangermonsteret", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

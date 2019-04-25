@@ -1,1 +1,0 @@
-{"tmdb_id": 490433, "title": "Tango: el Narrador", "original_title": "Tango: el Narrador", "slug_title": "tango-el-narrador", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

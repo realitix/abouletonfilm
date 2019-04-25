@@ -1,1 +1,0 @@
-{"tmdb_id": 114137, "title": "The Two Blind Men", "original_title": "Les deux aveugles", "slug_title": "the-two-blind-men", "date": "1900-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

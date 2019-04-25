@@ -1,1 +1,0 @@
-{"tmdb_id": 45721, "title": "Pegasus", "original_title": "Pegasus", "slug_title": "pegasus", "date": "1973-01-01", "genre": "Animation / Fantastique", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w9w2hiqmBKJk8DE0fDv5WpfGASW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 318258, "title": "Grey Wolves: U-Boats 1942 to 1943", "original_title": "Grey Wolves: U-Boats 1942 to 1943", "slug_title": "grey-wolves-u-boats-1942-to-1943", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

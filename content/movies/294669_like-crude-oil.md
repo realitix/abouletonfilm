@@ -1,1 +1,0 @@
-{"tmdb_id": 294669, "title": "Like Crude Oil", "original_title": "Like Crude Oil", "slug_title": "like-crude-oil", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Gladis ()", "Craig Stevenson ()"], "comments": [], "recommandations_id": []}

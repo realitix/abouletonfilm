@@ -1,1 +1,0 @@
-{"tmdb_id": 476629, "title": "Collywobbles", "original_title": "Collywobbles", "slug_title": "collywobbles", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

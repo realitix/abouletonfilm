@@ -1,1 +1,0 @@
-{"tmdb_id": 463512, "title": "Spring in Autumn", "original_title": "Qiu tian li de chun tian", "slug_title": "spring-in-autumn", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

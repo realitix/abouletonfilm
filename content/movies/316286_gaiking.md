@@ -1,1 +1,0 @@
-{"tmdb_id": 316286, "title": "Gaiking", "original_title": "Gaiking", "slug_title": "gaiking", "date": "2011-01-01", "genre": "Science-Fiction / Animation / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wfpw3h9Gt1Ea5ji153Mbw4uT7MH.jpg", "actors": [], "comments": [], "recommandations_id": []}

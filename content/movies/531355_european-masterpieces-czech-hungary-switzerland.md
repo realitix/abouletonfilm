@@ -1,1 +1,0 @@
-{"tmdb_id": 531355, "title": "European Masterpieces: Czech, Hungary, Switzerland", "original_title": "European Masterpieces: Czech, Hungary, Switzerland", "slug_title": "european-masterpieces-czech-hungary-switzerland", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

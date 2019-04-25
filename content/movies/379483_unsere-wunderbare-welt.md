@@ -1,1 +1,0 @@
-{"tmdb_id": 379483, "title": "Unsere wunderbare Welt", "original_title": "Unsere wunderbare Welt", "slug_title": "unsere-wunderbare-welt", "date": "2014-01-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fGtha8HzYoqLXPqsTEkLCTiZcRj.jpg", "actors": [], "comments": [], "recommandations_id": []}

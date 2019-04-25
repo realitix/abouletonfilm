@@ -1,1 +1,0 @@
-{"tmdb_id": 560984, "title": "Wonderful Mentality", "original_title": "Belle mentalit\u00e9", "slug_title": "wonderful-mentality", "date": "1953-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kUf0F88uXm3QmzHY1idswvblyYm.jpg", "actors": [], "comments": [], "recommandations_id": []}

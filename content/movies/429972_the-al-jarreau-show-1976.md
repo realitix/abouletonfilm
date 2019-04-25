@@ -1,1 +1,0 @@
-{"tmdb_id": 429972, "title": "The Al Jarreau Show 1976", "original_title": "The Al Jarreau Show 1976", "slug_title": "the-al-jarreau-show-1976", "date": "1976-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xszQd9wJBerTxU5JFvWWVaKtGeJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

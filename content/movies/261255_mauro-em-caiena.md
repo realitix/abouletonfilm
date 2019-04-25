@@ -1,1 +1,0 @@
-{"tmdb_id": 261255, "title": "Mauro em Caiena", "original_title": "Mauro em Caiena", "slug_title": "mauro-em-caiena", "date": "2012-09-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dEbmdcWvKjZ0XSfSVhIntkL0hM5.jpg", "actors": ["Leonardo Mouramateus (Narrator)"], "comments": [], "recommandations_id": []}

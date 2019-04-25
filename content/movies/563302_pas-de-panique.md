@@ -1,1 +1,0 @@
-{"tmdb_id": 563302, "title": "Pas de panique", "original_title": "Pas de panique", "slug_title": "pas-de-panique", "date": "1966-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kmaqx4tRWzGUgZINWVinfQxtrK6.jpg", "actors": [], "comments": [], "recommandations_id": []}

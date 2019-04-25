@@ -1,1 +1,0 @@
-{"tmdb_id": 287277, "title": "Glimpses of Bird Life", "original_title": "Les h\u00f4tes de l'air", "slug_title": "glimpses-of-bird-life", "date": "1910-04-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

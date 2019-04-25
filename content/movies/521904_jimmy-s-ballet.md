@@ -1,1 +1,0 @@
-{"tmdb_id": 521904, "title": "Jimmy's Ballet", "original_title": "Jimmy's Ballet", "slug_title": "jimmy-s-ballet", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9IOuDtwnHeJvghoMWLbKbw0BTkN.jpg", "actors": [], "comments": [], "recommandations_id": []}

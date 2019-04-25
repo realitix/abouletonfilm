@@ -1,1 +1,0 @@
-{"tmdb_id": 450055, "title": "Barthes*", "original_title": "Barthes*", "slug_title": "barthes", "date": "2017-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rZiVC4upla0E4DeFLliXcHIgll1.jpg", "actors": [], "comments": [], "recommandations_id": []}

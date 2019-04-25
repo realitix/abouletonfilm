@@ -1,1 +1,0 @@
-{"tmdb_id": 255931, "title": "LX Forty", "original_title": "LX Forty", "slug_title": "lx-forty", "date": "2009-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Myles Cranford (Himself)", "Marc Forster (Himself)"], "comments": [], "recommandations_id": []}

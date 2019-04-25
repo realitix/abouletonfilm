@@ -1,1 +1,0 @@
-{"tmdb_id": 426495, "title": "The Harvest", "original_title": "The Harvest", "slug_title": "the-harvest", "date": "2015-12-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/964xHCGgyYGOhXNgB2P30WjjJTQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

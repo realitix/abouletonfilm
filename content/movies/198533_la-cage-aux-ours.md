@@ -1,1 +1,0 @@
-{"tmdb_id": 198533, "title": "La cage aux ours", "original_title": "La cage aux ours", "slug_title": "la-cage-aux-ours", "date": "1974-06-04", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jVu4CLIW7c21eSlJX2yXUK9TRDC.jpg", "actors": [], "comments": [], "recommandations_id": []}

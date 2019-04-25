@@ -1,1 +1,0 @@
-{"tmdb_id": 190985, "title": "ECW Hardcore Heaven 1999", "original_title": "ECW Hardcore Heaven 1999", "slug_title": "ecw-hardcore-heaven-1999", "date": "1999-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bnD0G6UV55Yd17KUNfGDvrDCWS7.jpg", "actors": [], "comments": [], "recommandations_id": []}

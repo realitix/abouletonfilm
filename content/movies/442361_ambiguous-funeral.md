@@ -1,1 +1,0 @@
-{"tmdb_id": 442361, "title": "Ambiguous Funeral", "original_title": "Ambiguous Funeral", "slug_title": "ambiguous-funeral", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

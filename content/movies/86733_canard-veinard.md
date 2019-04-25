@@ -1,1 +1,0 @@
-{"tmdb_id": 86733, "title": "Canard veinard", "original_title": "Lucky Ducky", "slug_title": "canard-veinard", "date": "1948-10-09", "genre": "Animation", "score": "7.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cB4dpz59EDMgF3bhp3BzqDeElqf.jpg", "actors": [], "comments": [], "recommandations_id": [105560, 148176, 86730, 162749]}

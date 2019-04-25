@@ -1,1 +1,0 @@
-{"tmdb_id": 275340, "title": "Pingu: Chillin' With Pingu", "original_title": "Pingu: Chillin' With Pingu", "slug_title": "pingu-chillin-with-pingu", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dtS6LkfBSmwOieGzAVVKU1Oa2zf.jpg", "actors": [], "comments": [], "recommandations_id": []}

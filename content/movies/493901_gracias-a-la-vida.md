@@ -1,1 +1,0 @@
-{"tmdb_id": 493901, "title": "Gracias a La Vida", "original_title": "Gracias a La Vida", "slug_title": "gracias-a-la-vida", "date": "2012-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kersti Heinloo (Rita)"], "comments": [], "recommandations_id": []}

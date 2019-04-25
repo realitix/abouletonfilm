@@ -1,1 +1,0 @@
-{"tmdb_id": 112562, "title": "Fascinating Nature 3", "original_title": "Fascinating Nature 3", "slug_title": "fascinating-nature-3", "date": "2004-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1fvMdFwphbzi9pnD3r3mxSJHTGI.jpg", "actors": ["Gogol Lobmayr ()"], "comments": [], "recommandations_id": []}

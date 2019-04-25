@@ -1,1 +1,0 @@
-{"tmdb_id": 392586, "title": "The Golden Age", "original_title": "The Golden Age", "slug_title": "the-golden-age", "date": "2017-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/miCUeKwX2DfIzAuaX2n96KMEpyp.jpg", "actors": ["Justin Connor (Maya O'Malley)"], "comments": [], "recommandations_id": []}

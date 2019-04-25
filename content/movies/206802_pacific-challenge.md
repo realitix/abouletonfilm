@@ -1,1 +1,0 @@
-{"tmdb_id": 206802, "title": "Pacific Challenge", "original_title": "Pacific Challenge", "slug_title": "pacific-challenge", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Webber (Narrator)"], "comments": [], "recommandations_id": []}

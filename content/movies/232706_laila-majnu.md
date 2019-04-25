@@ -1,1 +1,0 @@
-{"tmdb_id": 232706, "title": "Laila-Majnu", "original_title": "Laila-Majnu", "slug_title": "laila-majnu", "date": "1979-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/99UPSNtKWzGoD5OXi4yUOzsCPPj.jpg", "actors": ["Rishi Kapoor (Kaish)", "Ranjeeta Kaur (Laila)"], "comments": [], "recommandations_id": []}

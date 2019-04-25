@@ -1,1 +1,0 @@
-{"tmdb_id": 470328, "title": "The Last Shepherd", "original_title": "The Last Shepherd", "slug_title": "the-last-shepherd", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

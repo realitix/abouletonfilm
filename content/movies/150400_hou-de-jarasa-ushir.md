@@ -1,1 +1,0 @@
-{"tmdb_id": 150400, "title": "Hou De Jarasa Ushir", "original_title": "Hou De Jarasa Ushir", "slug_title": "hou-de-jarasa-ushir", "date": "2012-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q6n5fRHbtEB2qRdlCOvtUftoUVE.jpg", "actors": [], "comments": [], "recommandations_id": []}

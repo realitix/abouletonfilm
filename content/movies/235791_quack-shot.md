@@ -1,1 +1,0 @@
-{"tmdb_id": 235791, "title": "Quack Shot", "original_title": "Quack Shot", "slug_title": "quack-shot", "date": "1954-10-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/82HgEemYm84HKT4PtU8uhBcDCtY.jpg", "actors": [], "comments": [], "recommandations_id": []}

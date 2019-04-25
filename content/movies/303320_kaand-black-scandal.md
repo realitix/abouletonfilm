@@ -1,1 +1,0 @@
-{"tmdb_id": 303320, "title": "Kaand Black Scandal", "original_title": "Kaand Black Scandal", "slug_title": "kaand-black-scandal", "date": "2013-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

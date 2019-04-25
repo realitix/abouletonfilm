@@ -1,1 +1,0 @@
-{"tmdb_id": 117150, "title": "Hansel and Gretel", "original_title": "Hansel and Gretel", "slug_title": "hansel-and-gretel", "date": "1996-01-01", "genre": "Familial / Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/buu8Iu3YFdIEpSuc5HDvTKwy0SN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 317332, "title": "Life Begins Tomorrow", "original_title": "La vie commence demain", "slug_title": "life-begins-tomorrow", "date": "1950-01-11", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8nC7GhgJZxZ7yESi3yQP80t8zPe.jpg", "actors": [], "comments": [], "recommandations_id": []}

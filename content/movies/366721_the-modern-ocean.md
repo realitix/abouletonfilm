@@ -1,1 +1,0 @@
-{"tmdb_id": 366721, "title": "The Modern Ocean", "original_title": "The Modern Ocean", "slug_title": "the-modern-ocean", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g3A66L7LOoUUOSkPGybucIR3jV1.jpg", "actors": [], "comments": [], "recommandations_id": [457232, 424853, 76545]}

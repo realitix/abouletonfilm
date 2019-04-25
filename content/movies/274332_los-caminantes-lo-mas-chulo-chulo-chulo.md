@@ -1,1 +1,0 @@
-{"tmdb_id": 274332, "title": "Los Caminantes: Lo Mas Chulo, Chulo, Chulo", "original_title": "Los Caminantes: Lo Mas Chulo, Chulo, Chulo", "slug_title": "los-caminantes-lo-mas-chulo-chulo-chulo", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 525773, "title": "Famigerado", "original_title": "Famigerado", "slug_title": "famigerado", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 525773, "title": "Famigerado", "original_title": "Famigerado", "slug_title": "famigerado", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 82196, "title": "Nava Vasantham", "original_title": "Nava Vasantham", "slug_title": "nava-vasantham", "date": "2007-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d1Z6etBFoODRKTY1wtpfgJYE9zB.jpg", "actors": [], "comments": [], "recommandations_id": []}

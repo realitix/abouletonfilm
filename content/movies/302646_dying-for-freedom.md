@@ -1,1 +1,0 @@
-{"tmdb_id": 302646, "title": "Dying for Freedom", "original_title": "Dying for Freedom", "slug_title": "dying-for-freedom", "date": "2012-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

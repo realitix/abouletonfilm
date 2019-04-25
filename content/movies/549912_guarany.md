@@ -1,1 +1,0 @@
-{"tmdb_id": 549912, "title": "Guarany", "original_title": "Guarany", "slug_title": "guarany", "date": "1948-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

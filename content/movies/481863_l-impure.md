@@ -1,1 +1,0 @@
-{"tmdb_id": 481863, "title": "L'impure", "original_title": "L'impure", "slug_title": "l-impure", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

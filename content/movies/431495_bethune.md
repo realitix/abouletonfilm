@@ -1,1 +1,0 @@
-{"tmdb_id": 431495, "title": "Bethune", "original_title": "Bethune", "slug_title": "bethune", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Donald Sutherland (Norman Bethune)", "Kate Nelligan ()", "David Gardner ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 348057, "title": "Tiempos de guerra (1940-1944)", "original_title": "Tiempos de guerra (1940-1944)", "slug_title": "tiempos-de-guerra-1940-1944", "date": "1992-07-08", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Juan Stack (Narrator)"], "comments": [], "recommandations_id": []}

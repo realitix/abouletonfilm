@@ -1,1 +1,0 @@
-{"tmdb_id": 515750, "title": "Bette Davis: If Looks Could Kill", "original_title": "Bette Davis: If Looks Could Kill", "slug_title": "bette-davis-if-looks-could-kill", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

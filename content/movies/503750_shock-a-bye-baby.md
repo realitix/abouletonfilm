@@ -1,1 +1,0 @@
-{"tmdb_id": 503750, "title": "Shock-A-Bye Baby", "original_title": "Shock-A-Bye Baby", "slug_title": "shock-a-bye-baby", "date": "1973-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

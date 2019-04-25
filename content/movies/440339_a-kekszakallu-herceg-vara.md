@@ -1,1 +1,0 @@
-{"tmdb_id": 440339, "title": "A k\u00e9kszak\u00e1ll\u00fa herceg v\u00e1ra", "original_title": "A k\u00e9kszak\u00e1ll\u00fa herceg v\u00e1ra", "slug_title": "a-kekszakallu-herceg-vara", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

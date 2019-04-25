@@ -1,1 +1,0 @@
-{"tmdb_id": 515739, "title": "Sah Al-Nawm", "original_title": "Sah Al-Nawm", "slug_title": "sah-al-nawm", "date": "1975-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vEIYVwjoymWaCFVtHsrnelokJNg.jpg", "actors": ["Duraid Lahham ()", "Naji Jabr ()"], "comments": [], "recommandations_id": []}

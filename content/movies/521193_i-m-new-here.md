@@ -1,1 +1,0 @@
-{"tmdb_id": 521193, "title": "I'm New Here", "original_title": "I'm New Here", "slug_title": "i-m-new-here", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aCjDPBquit7tuIY0AVEciPg32ry.jpg", "actors": [], "comments": [], "recommandations_id": []}

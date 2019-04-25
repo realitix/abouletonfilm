@@ -1,1 +1,0 @@
-{"tmdb_id": 372049, "title": "My Friend's Wife", "original_title": "My Friend's Wife", "slug_title": "my-friend-s-wife", "date": "2015-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cZgkRzVjIePpJywfcyFb8LyhGrX.jpg", "actors": [], "comments": [], "recommandations_id": []}

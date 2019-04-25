@@ -1,1 +1,0 @@
-{"tmdb_id": 138332, "title": "Fotbollskr\u00f6nikan EM 2008", "original_title": "Fotbollskr\u00f6nikan EM 2008", "slug_title": "fotbollskronikan-em-2008", "date": "2008-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qfzWv27G8ry6LY1jM0SophZTZea.jpg", "actors": [], "comments": [], "recommandations_id": []}

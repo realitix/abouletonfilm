@@ -1,1 +1,0 @@
-{"tmdb_id": 393547, "title": "SuperTot\u00f2", "original_title": "SuperTot\u00f2", "slug_title": "supertoto", "date": "1980-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vaqR6a4eSHlnvIDnW4xbliVQUPQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

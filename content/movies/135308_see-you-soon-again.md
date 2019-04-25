@@ -1,1 +1,0 @@
-{"tmdb_id": 135308, "title": "See You Soon Again", "original_title": "See You Soon Again", "slug_title": "see-you-soon-again", "date": "2012-09-28", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tFSePYwPsukbGd46T403gmwbiyt.jpg", "actors": [], "comments": [], "recommandations_id": []}

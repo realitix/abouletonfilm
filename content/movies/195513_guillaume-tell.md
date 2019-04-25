@@ -1,1 +1,0 @@
-{"tmdb_id": 195513, "title": "Guillaume Tell", "original_title": "Guillaume Tell", "slug_title": "guillaume-tell", "date": "1896-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

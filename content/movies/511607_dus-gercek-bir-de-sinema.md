@@ -1,1 +1,0 @@
-{"tmdb_id": 511607, "title": "D\u00fc\u015f, Ger\u00e7ek, Bir de Sinema", "original_title": "D\u00fc\u015f, Ger\u00e7ek, Bir de Sinema", "slug_title": "dus-gercek-bir-de-sinema", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

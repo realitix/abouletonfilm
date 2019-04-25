@@ -1,1 +1,0 @@
-{"tmdb_id": 314131, "title": "The Awareness", "original_title": "The Awareness", "slug_title": "the-awareness", "date": "2014-01-02", "genre": "Drame / Science-Fiction", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4MwlABkrvv8MBBopfVGftHC1BPu.jpg", "actors": [], "comments": [], "recommandations_id": []}

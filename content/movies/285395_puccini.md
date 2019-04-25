@@ -1,1 +1,0 @@
-{"tmdb_id": 285395, "title": "Puccini", "original_title": "Puccini", "slug_title": "puccini", "date": "1953-08-04", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2gw9yqv3ZsWIrDOEYuxjQBnEwBa.jpg", "actors": ["Gabriele Ferzetti (Giacomo Puccini)"], "comments": [], "recommandations_id": []}

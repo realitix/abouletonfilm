@@ -1,1 +1,0 @@
-{"tmdb_id": 299726, "title": "Pusu Qhuni", "original_title": "\u9918\u751f-\u8cfd\u5fb7\u514b\u2027\u5df4\u840a", "slug_title": "pusu-qhuni", "date": "2014-10-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nIt8wSsJMlB54dhbgW702RYIOIM.jpg", "actors": [], "comments": [], "recommandations_id": []}

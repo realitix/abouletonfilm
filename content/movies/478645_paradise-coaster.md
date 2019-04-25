@@ -1,1 +1,0 @@
-{"tmdb_id": 478645, "title": "Paradise Coaster", "original_title": "Paradise Coaster", "slug_title": "paradise-coaster", "date": "2012-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o8cx26mZHA0QrfKxXcncn6Ua9Gl.jpg", "actors": [], "comments": [], "recommandations_id": []}

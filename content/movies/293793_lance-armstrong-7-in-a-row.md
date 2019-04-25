@@ -1,1 +1,0 @@
-{"tmdb_id": 293793, "title": "Lance Armstrong - 7 In A Row", "original_title": "Lance Armstrong - 7 In A Row", "slug_title": "lance-armstrong-7-in-a-row", "date": "2005-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lance Armstrong (Himself)"], "comments": [], "recommandations_id": []}

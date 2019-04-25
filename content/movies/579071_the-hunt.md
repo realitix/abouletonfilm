@@ -1,1 +1,0 @@
-{"tmdb_id": 579071, "title": "The Hunt", "original_title": "The Hunt", "slug_title": "the-hunt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

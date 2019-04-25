@@ -1,1 +1,0 @@
-{"tmdb_id": 415059, "title": "La Traviata", "original_title": "La Traviata", "slug_title": "la-traviata", "date": "1993-02-25", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edita Gruberova (Violetta)", "Neil Shicoff (Alfredo Germont)", "Giorgio Zancanaro (Giorgio Germont)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 524693, "title": "Hum Chewai Zamling", "original_title": "Hum Chewai Zamling", "slug_title": "hum-chewai-zamling", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

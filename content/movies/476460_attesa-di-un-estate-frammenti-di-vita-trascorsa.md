@@ -1,1 +1,0 @@
-{"tmdb_id": 476460, "title": "Attesa di un'estate (frammenti di vita trascorsa)", "original_title": "Attesa di un'estate (frammenti di vita trascorsa)", "slug_title": "attesa-di-un-estate-frammenti-di-vita-trascorsa", "date": "2013-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

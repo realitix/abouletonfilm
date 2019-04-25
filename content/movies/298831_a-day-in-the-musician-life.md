@@ -1,1 +1,0 @@
-{"tmdb_id": 298831, "title": "A Day in the Musician Life", "original_title": "O Dia do M\u00fasico", "slug_title": "a-day-in-the-musician-life", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

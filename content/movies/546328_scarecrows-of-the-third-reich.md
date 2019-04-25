@@ -1,1 +1,0 @@
-{"tmdb_id": 546328, "title": "Scarecrows of the Third Reich", "original_title": "Scarecrows of the Third Reich", "slug_title": "scarecrows-of-the-third-reich", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tiAl4lxzStbYRUNWldfml1OmFQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

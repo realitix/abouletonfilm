@@ -1,1 +1,0 @@
-{"tmdb_id": 593530, "title": "De danske sydhavs\u00f8er", "original_title": "De danske sydhavs\u00f8er", "slug_title": "de-danske-sydhavsoer", "date": "1944-03-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Asbj\u00f8rn Andersen (Speaker)", "Gull-Maj Norin (Speaker)"], "comments": [], "recommandations_id": []}

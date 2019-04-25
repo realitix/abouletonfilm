@@ -1,1 +1,0 @@
-{"tmdb_id": 393155, "title": "Hoover Street Revival", "original_title": "Hoover Street Revival", "slug_title": "hoover-street-revival", "date": "2002-08-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g2VtyNMGybxqRjexSWr4olFv07z.jpg", "actors": [], "comments": [], "recommandations_id": []}

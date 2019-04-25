@@ -1,1 +1,0 @@
-{"tmdb_id": 489049, "title": "Historien om en mor", "original_title": "Historien om en mor", "slug_title": "historien-om-en-mor", "date": "2005-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aojIk1HT4kQnSL3KAgQBracjt1T.jpg", "actors": [], "comments": [], "recommandations_id": []}

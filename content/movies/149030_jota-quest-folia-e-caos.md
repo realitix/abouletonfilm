@@ -1,1 +1,0 @@
-{"tmdb_id": 149030, "title": "Jota Quest - Folia e Caos", "original_title": "Jota Quest - Folia e Caos", "slug_title": "jota-quest-folia-e-caos", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oe9FEDJr3ulvyTra0Sm8khW2SGT.jpg", "actors": [], "comments": [], "recommandations_id": []}

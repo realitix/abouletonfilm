@@ -1,1 +1,0 @@
-{"tmdb_id": 297537, "title": "Picasso", "original_title": "Picasso", "slug_title": "picasso", "date": "1973-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Nelson (Pablo Picasso)"], "comments": [], "recommandations_id": []}

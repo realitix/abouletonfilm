@@ -1,1 +1,0 @@
-{"tmdb_id": 370555, "title": "Le D\u00e9fil\u00e9 du 14 Juillet 1977", "original_title": "Le D\u00e9fil\u00e9 du 14 Juillet 1977", "slug_title": "le-defile-du-14-juillet-1977", "date": "1977-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

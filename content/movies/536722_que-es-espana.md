@@ -1,1 +1,0 @@
-{"tmdb_id": 536722, "title": "\u00bfQu\u00e9 es Espa\u00f1a?", "original_title": "\u00bfQu\u00e9 es Espa\u00f1a?", "slug_title": "que-es-espana", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tvm76eFq78RsC8HmA4sRiyQS8ub.jpg", "actors": [], "comments": [], "recommandations_id": []}

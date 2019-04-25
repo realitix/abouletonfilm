@@ -1,1 +1,0 @@
-{"tmdb_id": 573460, "title": "Diez minutos antes", "original_title": "Diez minutos antes", "slug_title": "diez-minutos-antes", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

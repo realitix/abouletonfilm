@@ -1,1 +1,0 @@
-{"tmdb_id": 130679, "title": "Appassionata", "original_title": "Appassionata", "slug_title": "appassionata", "date": "2012-09-24", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e28IbsFp4dZwBP56OIUb7TE27pr.jpg", "actors": [], "comments": [], "recommandations_id": []}

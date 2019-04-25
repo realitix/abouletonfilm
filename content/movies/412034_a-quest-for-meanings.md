@@ -1,1 +1,0 @@
-{"tmdb_id": 412034, "title": "A Quest For Meanings", "original_title": "A Quest For Meanings", "slug_title": "a-quest-for-meanings", "date": "2015-01-28", "genre": "Aventure / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

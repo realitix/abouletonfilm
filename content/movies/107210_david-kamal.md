@@ -1,1 +1,0 @@
-{"tmdb_id": 107210, "title": "David & Kamal", "original_title": "David & Kamal", "slug_title": "david-kamal", "date": "2011-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3YqqNGjrSU5J56puaNdXDLFNS6W.jpg", "actors": [], "comments": [], "recommandations_id": []}

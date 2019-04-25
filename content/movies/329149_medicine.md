@@ -1,1 +1,0 @@
-{"tmdb_id": 329149, "title": "Medicine", "original_title": "Medicine", "slug_title": "medicine", "date": "2013-12-03", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alan Woodham ()"], "comments": [], "recommandations_id": []}

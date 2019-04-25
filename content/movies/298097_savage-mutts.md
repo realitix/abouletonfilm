@@ -1,1 +1,0 @@
-{"tmdb_id": 298097, "title": "Savage Mutts", "original_title": "Savage Mutts", "slug_title": "savage-mutts", "date": "2014-12-31", "genre": "Thriller / Action / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ron Perlman (Terry 'Shotgun' Coburn)", "George Finn (Blondie)"], "comments": [], "recommandations_id": []}

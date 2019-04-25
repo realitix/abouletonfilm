@@ -1,1 +1,0 @@
-{"tmdb_id": 577460, "title": "After Hours", "original_title": "After Hours", "slug_title": "after-hours", "date": "2002-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ryUU6mMdtjAkGUAIUdZfSNpJo0p.jpg", "actors": [], "comments": [], "recommandations_id": []}

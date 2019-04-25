@@ -1,1 +1,0 @@
-{"tmdb_id": 492429, "title": "The Last Gunslinger", "original_title": "The Last Gunslinger", "slug_title": "the-last-gunslinger", "date": "2017-11-14", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a7qEi0ORq5B8J0e6PlRNcPTTqjj.jpg", "actors": [], "comments": [], "recommandations_id": []}

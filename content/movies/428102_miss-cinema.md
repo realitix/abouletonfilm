@@ -1,1 +1,0 @@
-{"tmdb_id": 428102, "title": "Miss Cinema", "original_title": "Miss Cinema", "slug_title": "miss-cinema", "date": "2015-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r4F52PYiYhAQIieKsSVdfeiEBcb.jpg", "actors": [], "comments": [], "recommandations_id": []}

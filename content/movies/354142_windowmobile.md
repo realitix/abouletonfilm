@@ -1,1 +1,0 @@
-{"tmdb_id": 354142, "title": "Windowmobile", "original_title": "Windowmobile", "slug_title": "windowmobile", "date": "1977-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lTecHfCZIDv8U2NQ8urhKW3Snqg.jpg", "actors": [], "comments": [], "recommandations_id": []}

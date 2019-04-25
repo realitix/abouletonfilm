@@ -1,1 +1,0 @@
-{"tmdb_id": 235002, "title": "Ice Scream", "original_title": "Ice Scream", "slug_title": "ice-scream", "date": "1957-08-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

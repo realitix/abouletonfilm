@@ -1,1 +1,0 @@
-{"tmdb_id": 217778, "title": "Il bacio di Tosca", "original_title": "Il bacio di Tosca", "slug_title": "il-bacio-di-tosca", "date": "1985-02-22", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nHHRvMToyKg4t4k5Rr2oJ9nr4HD.jpg", "actors": [], "comments": [], "recommandations_id": []}

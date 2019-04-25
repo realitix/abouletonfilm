@@ -1,1 +1,0 @@
-{"tmdb_id": 202151, "title": "Arctic Extreme", "original_title": "Arctic Extreme", "slug_title": "arctic-extreme", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 221011, "title": "Whinfrey's Last Case", "original_title": "Whinfrey's Last Case", "slug_title": "whinfrey-s-last-case", "date": "1979-10-09", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Palin ()"], "comments": [], "recommandations_id": []}

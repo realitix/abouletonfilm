@@ -1,1 +1,0 @@
-{"tmdb_id": 433532, "title": "El Triangulito", "original_title": "El Triangulito", "slug_title": "el-triangulito", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fernando Fern\u00e1n G\u00f3mez ()", "G\u00e9rard Barray ()", "Dianik Zurakowska ()"], "comments": [], "recommandations_id": []}

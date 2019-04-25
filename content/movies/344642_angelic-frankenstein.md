@@ -1,1 +1,0 @@
-{"tmdb_id": 344642, "title": "Angelic Frankenstein", "original_title": "Angelic Frankenstein", "slug_title": "angelic-frankenstein", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ray Greig (Dr. Frankenstein)", "Earl Dean (Creation)"], "comments": [], "recommandations_id": []}

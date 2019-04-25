@@ -1,1 +1,0 @@
-{"tmdb_id": 324175, "title": "The 17th Bride", "original_title": "The 17th Bride", "slug_title": "the-17th-bride", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lisa Hartman (Liza)", "Rosemary Leach (Esther)"], "comments": [], "recommandations_id": []}

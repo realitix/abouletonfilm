@@ -1,1 +1,0 @@
-{"tmdb_id": 367027, "title": "Edinburgh General", "original_title": "Edinburgh General", "slug_title": "edinburgh-general", "date": "1955-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yKK3joxvDP8eSVZYcl4G6Iom1KR.jpg", "actors": [], "comments": [], "recommandations_id": []}

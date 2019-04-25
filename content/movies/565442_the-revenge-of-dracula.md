@@ -1,1 +1,0 @@
-{"tmdb_id": 565442, "title": "The Revenge of Dracula", "original_title": "The Revenge of Dracula", "slug_title": "the-revenge-of-dracula", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 270718, "title": "The Crumbling of America", "original_title": "The Crumbling of America", "slug_title": "the-crumbling-of-america", "date": "2009-06-09", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/15OmAEr7LkvPnynyLM3O10vYE7N.jpg", "actors": [], "comments": [], "recommandations_id": []}

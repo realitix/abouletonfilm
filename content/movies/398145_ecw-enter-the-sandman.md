@@ -1,1 +1,0 @@
-{"tmdb_id": 398145, "title": "ECW Enter The Sandman", "original_title": "ECW Enter The Sandman", "slug_title": "ecw-enter-the-sandman", "date": "1995-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wD6l9Smmcqsna4YmDHmvfY82kOD.jpg", "actors": [], "comments": [], "recommandations_id": []}

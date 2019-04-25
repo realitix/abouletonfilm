@@ -1,1 +1,0 @@
-{"tmdb_id": 262060, "title": "Flowers from the Mount of Olives", "original_title": "\u00d5lim\u00e4e \u00f5ied", "slug_title": "flowers-from-the-mount-of-olives", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rLTIYjWdXpXKUwxbmggf5VG4AAG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 517653, "title": "Perc! Pop! Sprinkle!", "original_title": "Perc! Pop! Sprinkle!", "slug_title": "perc-pop-sprinkle", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8frVIEP9b3VXMQ61vOEOfHUcM6T.jpg", "actors": [], "comments": [], "recommandations_id": []}

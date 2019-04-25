@@ -1,1 +1,0 @@
-{"tmdb_id": 339022, "title": "Jazz Icons: The Swing Orchestras - Volume 1", "original_title": "Jazz Icons: The Swing Orchestras - Volume 1", "slug_title": "jazz-icons-the-swing-orchestras-volume-1", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 311805, "title": "James Brown: The Godfather of Soul", "original_title": "James Brown: The Godfather of Soul", "slug_title": "james-brown-the-godfather-of-soul", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

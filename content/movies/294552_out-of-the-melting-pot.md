@@ -1,1 +1,0 @@
-{"tmdb_id": 294552, "title": "Out of the Melting Pot", "original_title": "Out of the Melting Pot", "slug_title": "out-of-the-melting-pot", "date": "1927-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vWvqN4RX77tbljLfadmDIk4QCO1.jpg", "actors": [], "comments": [], "recommandations_id": []}

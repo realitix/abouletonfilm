@@ -1,1 +1,0 @@
-{"tmdb_id": 538500, "title": "Les rois de la flotte", "original_title": "Les rois de la flotte", "slug_title": "les-rois-de-la-flotte", "date": "1938-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7F2UhiZrEHUbTzSuan1WSKOHWpX.jpg", "actors": [], "comments": [], "recommandations_id": []}

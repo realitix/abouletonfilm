@@ -1,1 +1,0 @@
-{"tmdb_id": 332326, "title": "Single Stream", "original_title": "Single Stream", "slug_title": "single-stream", "date": "2014-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5eSvTgIamm1izhtPUx5HpjTACa5.jpg", "actors": [], "comments": [], "recommandations_id": []}

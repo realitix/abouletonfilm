@@ -1,1 +1,0 @@
-{"tmdb_id": 233261, "title": "Midnight Workout", "original_title": "Mayonaka no agaki", "slug_title": "midnight-workout", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3xLm4vykiZv6xZUUE59oqako7g1.jpg", "actors": ["Nahomi Yamashiro ()", "Junko Yamamoto ()"], "comments": [], "recommandations_id": []}

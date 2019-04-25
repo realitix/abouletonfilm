@@ -1,1 +1,0 @@
-{"tmdb_id": 490968, "title": "Backstory", "original_title": "Backstory", "slug_title": "backstory", "date": "2016-11-16", "genre": "Drame", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kNt5BXl2dKojITg23GhSmbEFlw4.jpg", "actors": [], "comments": [], "recommandations_id": []}

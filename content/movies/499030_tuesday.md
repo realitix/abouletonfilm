@@ -1,1 +1,0 @@
-{"tmdb_id": 499030, "title": "Tuesday", "original_title": "Tuesday", "slug_title": "tuesday", "date": "2017-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

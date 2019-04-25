@@ -1,1 +1,0 @@
-{"tmdb_id": 487831, "title": "Braddock Food Bank", "original_title": "Braddock Food Bank", "slug_title": "braddock-food-bank", "date": "1985-11-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

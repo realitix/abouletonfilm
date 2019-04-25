@@ -1,1 +1,0 @@
-{"tmdb_id": 301320, "title": "Love Is Where You Find It", "original_title": "Love Is Where You Find It", "slug_title": "love-is-where-you-find-it", "date": "2009-08-15", "genre": "Romance / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Victor Jones (Walter)", "Zakiya Alta Lee (Nadia)"], "comments": [], "recommandations_id": []}

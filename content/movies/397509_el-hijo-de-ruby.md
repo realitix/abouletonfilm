@@ -1,1 +1,0 @@
-{"tmdb_id": 397509, "title": "El hijo de Ruby", "original_title": "El hijo de Ruby", "slug_title": "el-hijo-de-ruby", "date": "2014-04-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4hGdGqwivZUtwAShk8kZdN3dlM7.jpg", "actors": ["Lio Villahermosa ()"], "comments": [], "recommandations_id": []}

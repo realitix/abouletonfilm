@@ -1,1 +1,0 @@
-{"tmdb_id": 596023, "title": "Web Arkaplan", "original_title": "Web Arkaplan", "slug_title": "web-arkaplan", "date": "", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

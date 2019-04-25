@@ -1,1 +1,0 @@
-{"tmdb_id": 450889, "title": "O Sarc\u00f3fago", "original_title": "O Sarc\u00f3fago", "slug_title": "o-sarcofago", "date": "2010-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mayeuDKchtUl7G48pthQIxLm0SG.jpg", "actors": [], "comments": [], "recommandations_id": []}

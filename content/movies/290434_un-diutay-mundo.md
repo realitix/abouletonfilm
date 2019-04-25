@@ -1,1 +1,0 @@
-{"tmdb_id": 290434, "title": "Un Diutay Mundo", "original_title": "Un Diutay Mundo", "slug_title": "un-diutay-mundo", "date": "2011-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mRwTdckRhJxHwlqY2ekjwhz3QKZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

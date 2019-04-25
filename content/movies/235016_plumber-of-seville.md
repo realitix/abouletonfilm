@@ -1,1 +1,0 @@
-{"tmdb_id": 235016, "title": "Plumber of Seville", "original_title": "Plumber of Seville", "slug_title": "plumber-of-seville", "date": "1957-12-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9G0pSY5kdtVeoACMcUdPb3IbRbP.jpg", "actors": ["Bob Johnson (Vocalist)"], "comments": [], "recommandations_id": []}

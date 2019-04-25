@@ -1,1 +1,0 @@
-{"tmdb_id": 557001, "title": "Le monsieur de minuit", "original_title": "Le monsieur de minuit", "slug_title": "le-monsieur-de-minuit", "date": "1931-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

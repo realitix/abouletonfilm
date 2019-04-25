@@ -1,1 +1,0 @@
-{"tmdb_id": 307157, "title": "Ek Aadat", "original_title": "Ek Aadat", "slug_title": "ek-aadat", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

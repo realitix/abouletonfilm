@@ -1,1 +1,0 @@
-{"tmdb_id": 389276, "title": "Black Sabbath - In Moscow", "original_title": "Black Sabbath - In Moscow", "slug_title": "black-sabbath-in-moscow", "date": "2008-11-10", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bQ7n9oEWA2zIwAEeKeX4vKisM5W.jpg", "actors": [], "comments": [], "recommandations_id": []}

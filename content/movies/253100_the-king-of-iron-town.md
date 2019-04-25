@@ -1,1 +1,0 @@
-{"tmdb_id": 253100, "title": "The King of Iron Town", "original_title": "The King of Iron Town", "slug_title": "the-king-of-iron-town", "date": "2004-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

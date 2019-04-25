@@ -1,1 +1,0 @@
-{"tmdb_id": 277143, "title": "Adventures with Big Rigs", "original_title": "Adventures with Big Rigs", "slug_title": "adventures-with-big-rigs", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1aE9urkLVkdFmMrPkwgYqPYdCT2.jpg", "actors": [], "comments": [], "recommandations_id": []}

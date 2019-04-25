@@ -1,1 +1,0 @@
-{"tmdb_id": 582430, "title": "Swing Hutton Swing", "original_title": "Swing Hutton Swing", "slug_title": "swing-hutton-swing", "date": "1937-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ina Ray Hutton (Herself)"], "comments": [], "recommandations_id": []}

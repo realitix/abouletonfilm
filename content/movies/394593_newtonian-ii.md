@@ -1,1 +1,0 @@
-{"tmdb_id": 394593, "title": "Newtonian II", "original_title": "Newtonian II", "slug_title": "newtonian-ii", "date": "1978-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fUIOhR7QDuYR1osRvRvNx9n59rE.jpg", "actors": [], "comments": [], "recommandations_id": []}

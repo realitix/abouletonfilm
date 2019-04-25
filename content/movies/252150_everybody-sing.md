@@ -1,1 +1,0 @@
-{"tmdb_id": 252150, "title": "Everybody Sing", "original_title": "Everybody Sing", "slug_title": "everybody-sing", "date": "1937-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

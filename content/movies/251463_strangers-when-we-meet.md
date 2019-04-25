@@ -1,1 +1,0 @@
-{"tmdb_id": 251463, "title": "Strangers When We Meet", "original_title": "Strangers When We Meet", "slug_title": "strangers-when-we-meet", "date": "2013-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kikujir\u00f4 Honda ()", "Masahiro Kobayashi ()", "Y\u00fbko Nakamura ()"], "comments": [], "recommandations_id": []}

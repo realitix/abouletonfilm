@@ -1,1 +1,0 @@
-{"tmdb_id": 26739, "title": "Inside Burma: Land of Fear", "original_title": "Inside Burma: Land of Fear", "slug_title": "inside-burma-land-of-fear", "date": "1997-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cVmtFdYJwI8l1sSDliZC7bPh2rs.jpg", "actors": [], "comments": [], "recommandations_id": []}

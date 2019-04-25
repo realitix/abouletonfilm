@@ -1,1 +1,0 @@
-{"tmdb_id": 258418, "title": "Ivan-Durak", "original_title": "Ivan-Durak", "slug_title": "ivan-durak", "date": "2002-01-01", "genre": "Science-Fiction", "score": "2.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/guKW75rkPeBInrXxYwN6s42Jdy4.jpg", "actors": [], "comments": [], "recommandations_id": []}

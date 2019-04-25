@@ -1,1 +1,0 @@
-{"tmdb_id": 478499, "title": "Italo Disco Legacy", "original_title": "Italo Disco Legacy", "slug_title": "italo-disco-legacy", "date": "2018-01-11", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/js0S5YhAk2PzZoiJFiWYIsp3Qbr.jpg", "actors": [], "comments": [], "recommandations_id": []}

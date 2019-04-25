@@ -1,1 +1,0 @@
-{"tmdb_id": 563904, "title": "Save and Burn", "original_title": "Save and Burn", "slug_title": "save-and-burn", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

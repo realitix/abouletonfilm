@@ -1,1 +1,0 @@
-{"tmdb_id": 403076, "title": "Lowriders", "original_title": "Lowriders", "slug_title": "lowriders", "date": "2016-06-01", "genre": "", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rKevnPzJ1RV1aYUkPpiM29Jcc59.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 231732, "title": "Blackburn Rovers V. West Bromwich", "original_title": "Blackburn Rovers V. West Bromwich", "slug_title": "blackburn-rovers-v-west-bromwich", "date": "1898-10-30", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 302652, "title": "Luenell: Hey Luenell!", "original_title": "Luenell: Hey Luenell!", "slug_title": "luenell-hey-luenell", "date": "2011-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mjEiOTl5nTywkbxxGkQiFUPuT3w.jpg", "actors": [], "comments": [], "recommandations_id": []}

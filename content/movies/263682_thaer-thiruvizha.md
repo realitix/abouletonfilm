@@ -1,1 +1,0 @@
-{"tmdb_id": 263682, "title": "Thaer Thiruvizha", "original_title": "Thaer Thiruvizha", "slug_title": "thaer-thiruvizha", "date": "1968-02-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["M. G. Ramachandran ()", "Jayalalithaa J ()", "M. M. A. Chinnappa Devar ()"], "comments": [], "recommandations_id": []}

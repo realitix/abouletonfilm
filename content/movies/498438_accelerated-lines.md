@@ -1,1 +1,0 @@
-{"tmdb_id": 498438, "title": "accelerated lines~", "original_title": "accelerated lines~", "slug_title": "accelerated-lines", "date": "2005-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

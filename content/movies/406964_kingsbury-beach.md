@@ -1,1 +1,0 @@
-{"tmdb_id": 406964, "title": "Kingsbury Beach", "original_title": "Kingsbury Beach", "slug_title": "kingsbury-beach", "date": "1999-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q0czOXmQxt1OhEnwu0VrFSCalIa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 25106, "title": "Fally Integrale", "original_title": "Fally Integrale", "slug_title": "fally-integrale", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c1XHRu3FCwfirynkcWEhgBsplT1.jpg", "actors": ["Fally Ipupa (FALLY)"], "comments": [], "recommandations_id": []}

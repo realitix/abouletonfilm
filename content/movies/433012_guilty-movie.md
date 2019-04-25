@@ -1,1 +1,1 @@
-{"tmdb_id": 433012, "title": "Guilty Movie", "original_title": "Guilty Movie", "slug_title": "guilty-movie", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 433012, "title": "Guilty Movie", "original_title": "Guilty Movie", "slug_title": "guilty-movie", "date": "", "genre": [""], "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

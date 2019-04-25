@@ -1,1 +1,0 @@
-{"tmdb_id": 414430, "title": "Bless You", "original_title": "Bless You", "slug_title": "bless-you", "date": "2013-09-01", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u8wgQRiyARlKUAyHPHG6U4v0onx.jpg", "actors": [], "comments": [], "recommandations_id": []}

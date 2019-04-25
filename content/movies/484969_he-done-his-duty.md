@@ -1,1 +1,0 @@
-{"tmdb_id": 484969, "title": "He Done His Duty", "original_title": "He Done His Duty", "slug_title": "he-done-his-duty", "date": "1937-12-10", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Sheriff Andy Clyde)"], "comments": [], "recommandations_id": []}

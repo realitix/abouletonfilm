@@ -1,1 +1,0 @@
-{"tmdb_id": 204798, "title": "The Littlest Hobo", "original_title": "The Littlest Hobo", "slug_title": "the-littlest-hobo", "date": "1958-07-06", "genre": "", "score": "9.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qmxZii7qFL00YgxSfGSeyHqi9NB.jpg", "actors": [], "comments": [], "recommandations_id": []}

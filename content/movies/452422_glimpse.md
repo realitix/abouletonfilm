@@ -1,1 +1,1 @@
-{"tmdb_id": 452422, "title": "Glimpse", "original_title": "Glimpse", "slug_title": "glimpse", "date": "2017-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 452422, "title": "Glimpse", "original_title": "Glimpse", "slug_title": "glimpse", "date": "2017-04-08", "genre": [""], "score": "0.0/10", "synopsis": "Presented at Documenta 14 in Athens.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

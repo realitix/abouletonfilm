@@ -1,1 +1,0 @@
-{"tmdb_id": 529159, "title": "Antarctic Territory, 2004", "original_title": "Antarctic Territory, 2004", "slug_title": "antarctic-territory-2004", "date": "2007-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

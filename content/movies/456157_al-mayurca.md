@@ -1,1 +1,0 @@
-{"tmdb_id": 456157, "title": "Al Mayurca", "original_title": "Al Mayurca", "slug_title": "al-mayurca", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maria Teresa Arteche ()", "Arantza Bolinaga ()", "Toni Buades ()", "Montserrat Fonoba ()"], "comments": [], "recommandations_id": []}

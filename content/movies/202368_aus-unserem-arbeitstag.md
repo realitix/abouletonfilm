@@ -1,1 +1,0 @@
-{"tmdb_id": 202368, "title": "Aus unserem Arbeitstag", "original_title": "Aus unserem Arbeitstag", "slug_title": "aus-unserem-arbeitstag", "date": "1969-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

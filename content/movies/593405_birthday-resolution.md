@@ -1,1 +1,0 @@
-{"tmdb_id": 593405, "title": "Birthday Resolution", "original_title": "Birthday Resolution", "slug_title": "birthday-resolution", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

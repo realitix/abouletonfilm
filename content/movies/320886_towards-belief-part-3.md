@@ -1,1 +1,0 @@
-{"tmdb_id": 320886, "title": "Towards Belief: Part 3", "original_title": "Towards Belief: Part 3", "slug_title": "towards-belief-part-3", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

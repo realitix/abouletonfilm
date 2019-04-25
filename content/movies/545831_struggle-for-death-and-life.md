@@ -1,1 +1,0 @@
-{"tmdb_id": 545831, "title": "Struggle for Death and Life", "original_title": "Struggle for Death and Life", "slug_title": "struggle-for-death-and-life", "date": "", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xdM3APqLQ2G5g54Ru2I4BBkSyQr.jpg", "actors": ["Arno ()"], "comments": [], "recommandations_id": []}

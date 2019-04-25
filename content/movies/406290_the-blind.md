@@ -1,1 +1,0 @@
-{"tmdb_id": 406290, "title": "The Blind", "original_title": "Les aveugles", "slug_title": "the-blind", "date": "1989-01-01", "genre": "Fantastique / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

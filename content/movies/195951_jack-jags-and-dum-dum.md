@@ -1,1 +1,0 @@
-{"tmdb_id": 195951, "title": "Jack Jags and Dum Dum", "original_title": "Tom Tight et Dum Dum", "slug_title": "jack-jags-and-dum-dum", "date": "1903-11-06", "genre": "", "score": "3.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ngnUQX9Abkesfq72uvBF3uj4Es.jpg", "actors": [], "comments": [], "recommandations_id": [108262, 108297, 195945, 195952]}

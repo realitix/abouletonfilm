@@ -1,1 +1,0 @@
-{"tmdb_id": 425580, "title": "The Man Who Knew Too Little", "original_title": "The Man Who Knew Too Little", "slug_title": "the-man-who-knew-too-little", "date": "2016-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7X7Z740rtbBFQ4MXctRjafoGybl.jpg", "actors": [], "comments": [], "recommandations_id": []}

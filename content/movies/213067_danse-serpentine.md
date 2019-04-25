@@ -1,1 +1,0 @@
-{"tmdb_id": 213067, "title": "Danse serpentine", "original_title": "Danse serpentine", "slug_title": "danse-serpentine", "date": "1900-08-08", "genre": "Documentaire", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/85KFeLUnBn35626112vcN3Dgg9m.jpg", "actors": [], "comments": [], "recommandations_id": [159245, 178720, 178703, 137412]}

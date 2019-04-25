@@ -1,1 +1,0 @@
-{"tmdb_id": 576119, "title": "To Be a Child Again - Israel", "original_title": "To Be a Child Again - Israel", "slug_title": "to-be-a-child-again-israel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l8DBCMepcErm3vFgCC1xaQkg2TX.jpg", "actors": [], "comments": [], "recommandations_id": []}

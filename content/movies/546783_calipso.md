@@ -1,1 +1,0 @@
-{"tmdb_id": 546783, "title": "Calipso", "original_title": "Calipso", "slug_title": "calipso", "date": "2018-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v5GufIxeXhLqgPSDzm6uT1BzWPQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

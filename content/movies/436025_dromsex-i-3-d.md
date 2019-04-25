@@ -1,1 +1,0 @@
-{"tmdb_id": 436025, "title": "Dr\u00f6msex i 3-D", "original_title": "Dr\u00f6msex i 3-D", "slug_title": "dromsex-i-3-d", "date": "1972-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t0fewhduw4vZtWDsi1nyILOpDSh.jpg", "actors": [], "comments": [], "recommandations_id": []}

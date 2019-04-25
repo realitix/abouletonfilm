@@ -1,1 +1,0 @@
-{"tmdb_id": 281434, "title": "Living Inside", "original_title": "Living Inside", "slug_title": "living-inside", "date": "1989-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d7JNjHfep30ZSZwl9YlPFqmb2uM.jpg", "actors": ["Sadie Benning (Herself)"], "comments": [], "recommandations_id": []}

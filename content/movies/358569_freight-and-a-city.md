@@ -1,1 +1,0 @@
-{"tmdb_id": 358569, "title": "Freight and a City", "original_title": "Freight and a City", "slug_title": "freight-and-a-city", "date": "1966-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ijz2Tr6SVXk3QfLfMsVEif2LF0r.jpg", "actors": [], "comments": [], "recommandations_id": []}

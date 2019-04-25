@@ -1,1 +1,0 @@
-{"tmdb_id": 409295, "title": "Kidneys for Jesus", "original_title": "Kidneys for Jesus", "slug_title": "kidneys-for-jesus", "date": "2003-01-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jon Ronson (Himself)"], "comments": [], "recommandations_id": []}

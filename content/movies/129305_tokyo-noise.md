@@ -1,1 +1,0 @@
-{"tmdb_id": 129305, "title": "Tokyo Noise", "original_title": "Tokyo Noise", "slug_title": "tokyo-noise", "date": "2002-11-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xYRZBam6wTI6JZdtAMEaxbP4gDB.jpg", "actors": [], "comments": [], "recommandations_id": []}

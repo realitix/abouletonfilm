@@ -1,1 +1,0 @@
-{"tmdb_id": 298550, "title": "2 Mums and a Dad", "original_title": "2 Mums and a Dad", "slug_title": "2-mums-and-a-dad", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9XUaA9hwRrwzSjDX0BtI2CddyWL.jpg", "actors": [], "comments": [], "recommandations_id": []}

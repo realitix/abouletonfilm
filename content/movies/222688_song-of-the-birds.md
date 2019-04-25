@@ -1,1 +1,0 @@
-{"tmdb_id": 222688, "title": "Song of the Birds", "original_title": "Song of the Birds", "slug_title": "song-of-the-birds", "date": "1949-11-18", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

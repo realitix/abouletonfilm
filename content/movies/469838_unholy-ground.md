@@ -1,1 +1,0 @@
-{"tmdb_id": 469838, "title": "Unholy Ground", "original_title": "Unholy Ground", "slug_title": "unholy-ground", "date": "2016-05-14", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rO0CIf5rj0AGqXAtJsGY43LeHDz.jpg", "actors": [], "comments": [], "recommandations_id": []}

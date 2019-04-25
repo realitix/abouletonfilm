@@ -1,1 +1,0 @@
-{"tmdb_id": 430243, "title": "The Animated Century", "original_title": "The Animated Century", "slug_title": "the-animated-century", "date": "2003-12-14", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

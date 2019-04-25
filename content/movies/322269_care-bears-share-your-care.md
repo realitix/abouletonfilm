@@ -1,1 +1,0 @@
-{"tmdb_id": 322269, "title": "Care Bears: Share Your Care", "original_title": "Care Bears: Share Your Care", "slug_title": "care-bears-share-your-care", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hUBmDILkWPP7Yevi1U4ea95Tkmp.jpg", "actors": [], "comments": [], "recommandations_id": []}

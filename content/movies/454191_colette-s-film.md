@@ -1,1 +1,0 @@
-{"tmdb_id": 454191, "title": "Colette's Film", "original_title": "Colette's Film", "slug_title": "colette-s-film", "date": "2017-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hZpMK7DuMvnoWtVEFcFbKcvTlDb.jpg", "actors": [], "comments": [], "recommandations_id": []}

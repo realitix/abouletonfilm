@@ -1,1 +1,0 @@
-{"tmdb_id": 203955, "title": "Le Cri du c\u0153ur", "original_title": "Le Cri du c\u0153ur", "slug_title": "le-cri-du-coeur", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e1Ix06YWArkFEID0rqhzfncve2C.jpg", "actors": [], "comments": [], "recommandations_id": []}

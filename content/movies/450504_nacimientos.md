@@ -1,1 +1,0 @@
-{"tmdb_id": 450504, "title": "Nacimientos", "original_title": "Nacimientos", "slug_title": "nacimientos", "date": "2016-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

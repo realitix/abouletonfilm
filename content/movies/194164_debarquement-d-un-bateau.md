@@ -1,1 +1,0 @@
-{"tmdb_id": 194164, "title": "D\u00e9barquement d'un bateau", "original_title": "D\u00e9barquement d'un bateau", "slug_title": "debarquement-d-un-bateau", "date": "1896-05-17", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

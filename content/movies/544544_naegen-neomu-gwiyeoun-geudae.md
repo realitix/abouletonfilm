@@ -1,1 +1,0 @@
-{"tmdb_id": 544544, "title": "\ub0b4\uac90 \ub108\ubb34 \uadc0\uc5ec\uc6b4 \uadf8\ub300", "original_title": "\ub0b4\uac90 \ub108\ubb34 \uadc0\uc5ec\uc6b4 \uadf8\ub300", "slug_title": "naegen-neomu-gwiyeoun-geudae", "date": "2016-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 563802, "title": "Tempo Sem Gl\u00f3ria", "original_title": "Tempo Sem Gl\u00f3ria", "slug_title": "tempo-sem-gloria", "date": "1984-06-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mXaIMucTKkrXVVRHFnyMJrmU4Qs.jpg", "actors": [], "comments": [], "recommandations_id": []}

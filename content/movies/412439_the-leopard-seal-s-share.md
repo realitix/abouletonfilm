@@ -1,1 +1,0 @@
-{"tmdb_id": 412439, "title": "The Leopard Seal's Share", "original_title": "The Leopard Seal's Share", "slug_title": "the-leopard-seal-s-share", "date": "1999-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vmOxnhK01YL7hYApJaIaD7OOR0x.jpg", "actors": [], "comments": [], "recommandations_id": []}

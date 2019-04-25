@@ -1,1 +1,0 @@
-{"tmdb_id": 303093, "title": "Akasamlo Sagam", "original_title": "Akasamlo Sagam", "slug_title": "akasamlo-sagam", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

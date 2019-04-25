@@ -1,1 +1,0 @@
-{"tmdb_id": 313479, "title": "A Handful of Sour Dates", "original_title": "A Handful of Sour Dates", "slug_title": "a-handful-of-sour-dates", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

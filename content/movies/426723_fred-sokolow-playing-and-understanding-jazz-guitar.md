@@ -1,1 +1,0 @@
-{"tmdb_id": 426723, "title": "Fred Sokolow: Playing and Understanding Jazz Guitar", "original_title": "Fred Sokolow: Playing and Understanding Jazz Guitar", "slug_title": "fred-sokolow-playing-and-understanding-jazz-guitar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

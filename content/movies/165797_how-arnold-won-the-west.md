@@ -1,1 +1,0 @@
-{"tmdb_id": 165797, "title": "How Arnold Won the West", "original_title": "How Arnold Won the West", "slug_title": "how-arnold-won-the-west", "date": "2004-04-24", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mhCHGbxtALN0JLTt8UvVg8wsNY8.jpg", "actors": [], "comments": [], "recommandations_id": []}

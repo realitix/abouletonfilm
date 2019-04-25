@@ -1,1 +1,0 @@
-{"tmdb_id": 319257, "title": "Falasha", "original_title": "Falasha", "slug_title": "falasha", "date": "1983-09-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7GIp6h9LNY7NnCs30KilIpieStJ.jpg", "actors": ["Simcha Jacobovici ((narrator))"], "comments": [], "recommandations_id": []}

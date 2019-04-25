@@ -1,1 +1,0 @@
-{"tmdb_id": 506260, "title": "Flicker + Pulse", "original_title": "Flicker + Pulse", "slug_title": "flicker-pulse", "date": "2016-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

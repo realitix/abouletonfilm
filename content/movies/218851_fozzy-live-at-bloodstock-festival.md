@@ -1,1 +1,0 @@
-{"tmdb_id": 218851, "title": "Fozzy: Live At Bloodstock Festival", "original_title": "Fozzy: Live At Bloodstock Festival", "slug_title": "fozzy-live-at-bloodstock-festival", "date": "2013-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

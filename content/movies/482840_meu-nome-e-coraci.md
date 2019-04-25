@@ -1,1 +1,0 @@
-{"tmdb_id": 482840, "title": "Meu Nome \u00e9 Coraci", "original_title": "Meu Nome \u00e9 Coraci", "slug_title": "meu-nome-e-coraci", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 243615, "title": "The Shetland Experience", "original_title": "The Shetland Experience", "slug_title": "the-shetland-experience", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mjumdq4MHC5lhOswYeV0z0jb41d.jpg", "actors": ["Eric Porter ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 311719, "title": "Liberace: The Candelabra Collection", "original_title": "Liberace: The Candelabra Collection", "slug_title": "liberace-the-candelabra-collection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

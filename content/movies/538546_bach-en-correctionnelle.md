@@ -1,1 +1,0 @@
-{"tmdb_id": 538546, "title": "Bach en correctionnelle", "original_title": "Bach en correctionnelle", "slug_title": "bach-en-correctionnelle", "date": "1940-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2xww5WVByMpas7DkqzTgPfo9lsU.jpg", "actors": [], "comments": [], "recommandations_id": []}

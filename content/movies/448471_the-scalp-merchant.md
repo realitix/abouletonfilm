@@ -1,1 +1,0 @@
-{"tmdb_id": 448471, "title": "The Scalp Merchant", "original_title": "The Scalp Merchant", "slug_title": "the-scalp-merchant", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Waters ()", "Elizabeth Alexander ()"], "comments": [], "recommandations_id": []}

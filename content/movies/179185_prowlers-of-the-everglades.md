@@ -1,1 +1,0 @@
-{"tmdb_id": 179185, "title": "Prowlers of the Everglades", "original_title": "Prowlers of the Everglades", "slug_title": "prowlers-of-the-everglades", "date": "1953-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Xq5vrrKSSK2ftAEYeEPGRMrp9.jpg", "actors": [], "comments": [], "recommandations_id": []}

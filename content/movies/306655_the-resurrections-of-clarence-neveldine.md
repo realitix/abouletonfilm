@@ -1,1 +1,0 @@
-{"tmdb_id": 306655, "title": "The Resurrections of Clarence Neveldine", "original_title": "The Resurrections of Clarence Neveldine", "slug_title": "the-resurrections-of-clarence-neveldine", "date": "2014-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

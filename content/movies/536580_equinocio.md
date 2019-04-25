@@ -1,1 +1,0 @@
-{"tmdb_id": 536580, "title": "Equin\u00f3cio", "original_title": "Equin\u00f3cio", "slug_title": "equinocio", "date": "2018-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eTO8WHNvE4jpMnh15as2uOxs5Z9.jpg", "actors": [], "comments": [], "recommandations_id": []}

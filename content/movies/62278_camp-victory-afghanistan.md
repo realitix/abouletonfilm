@@ -1,1 +1,0 @@
-{"tmdb_id": 62278, "title": "Camp Victory, Afghanistan", "original_title": "Camp Victory, Afghanistan", "slug_title": "camp-victory-afghanistan", "date": "2010-10-03", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dd7yKnysgNSRjY2dvjYZLnFlP5Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

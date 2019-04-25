@@ -1,1 +1,0 @@
-{"tmdb_id": 517340, "title": "Dystopian: Lovesong", "original_title": "Dystopian: Lovesong", "slug_title": "dystopian-lovesong", "date": "2017-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xiwvrZ9PJdGjGxCuxZWksHj7JuX.jpg", "actors": [], "comments": [], "recommandations_id": []}

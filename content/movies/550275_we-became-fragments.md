@@ -1,1 +1,0 @@
-{"tmdb_id": 550275, "title": "We Became Fragments", "original_title": "We Became Fragments", "slug_title": "we-became-fragments", "date": "2018-05-04", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

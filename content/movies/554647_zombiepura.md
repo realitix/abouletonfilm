@@ -1,1 +1,0 @@
-{"tmdb_id": 554647, "title": "Zombiepura", "original_title": "Zombiepura", "slug_title": "zombiepura", "date": "2018-10-25", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1lWSHMcupxGoflpaePUGm61hPou.jpg", "actors": ["Benjamin Heng ()", "Alaric Tay ()"], "comments": [], "recommandations_id": []}

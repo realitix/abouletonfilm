@@ -1,1 +1,0 @@
-{"tmdb_id": 64680, "title": "Protection", "original_title": "Protection", "slug_title": "protection", "date": "", "genre": "Action / Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

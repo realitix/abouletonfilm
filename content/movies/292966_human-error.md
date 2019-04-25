@@ -1,1 +1,0 @@
-{"tmdb_id": 292966, "title": "Human Error", "original_title": "Human Error", "slug_title": "human-error", "date": "2004-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

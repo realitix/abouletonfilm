@@ -1,1 +1,0 @@
-{"tmdb_id": 576306, "title": "Nobody I Know", "original_title": "Nobody I Know", "slug_title": "nobody-i-know", "date": "1997-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u2mtCQxaiMTqAMqHLayNLMs4Vy2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 31808, "title": "Tool: Salival", "original_title": "Tool: Salival", "slug_title": "tool-salival", "date": "2000-01-01", "genre": "Musique", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cL9GbwWmxZ1Q21zReoufge4hD2C.jpg", "actors": [], "comments": [], "recommandations_id": []}

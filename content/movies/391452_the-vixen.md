@@ -1,1 +1,0 @@
-{"tmdb_id": 391452, "title": "The Vixen", "original_title": "The Vixen", "slug_title": "the-vixen", "date": "1916-12-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Theda Bara (Elsie Drummond)", "Herbert Heyes ()", "A.H. Van Buren ()", "George Odell ()", "Carl Gerard ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 547856, "title": "A Love Story", "original_title": "A Love Story", "slug_title": "a-love-story", "date": "2012-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

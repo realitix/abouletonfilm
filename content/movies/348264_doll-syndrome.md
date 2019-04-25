@@ -1,1 +1,0 @@
-{"tmdb_id": 348264, "title": "Doll Syndrome", "original_title": "Doll Syndrome", "slug_title": "doll-syndrome", "date": "2015-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i5QdNbvZoPGYSCXRfZcSMyu3YWh.jpg", "actors": ["Tiziano Cella (Him)", "Aurora Kostova (Her)"], "comments": [], "recommandations_id": []}

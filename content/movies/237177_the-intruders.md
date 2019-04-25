@@ -1,1 +1,0 @@
-{"tmdb_id": 237177, "title": "The Intruders", "original_title": "The Intruders", "slug_title": "the-intruders", "date": "1947-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

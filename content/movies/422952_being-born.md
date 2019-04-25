@@ -1,1 +1,0 @@
-{"tmdb_id": 422952, "title": "Being Born", "original_title": "Being Born", "slug_title": "being-born", "date": "2016-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4YIbrDCaBv7KaDh1vwngoQkHady.jpg", "actors": ["Hedayat Hashemi ()", "Elham Korda ()", "Sepahrad Farzami ()"], "comments": [], "recommandations_id": []}

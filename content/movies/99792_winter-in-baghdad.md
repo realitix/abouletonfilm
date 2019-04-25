@@ -1,1 +1,0 @@
-{"tmdb_id": 99792, "title": "Winter in Baghdad", "original_title": "Invierno en Bagdad", "slug_title": "winter-in-baghdad", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c9QdX17OPu8UvQuKXNdXI60VQoE.jpg", "actors": [], "comments": [], "recommandations_id": []}

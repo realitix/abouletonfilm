@@ -1,1 +1,0 @@
-{"tmdb_id": 403217, "title": "A Foreign Language", "original_title": "A Foreign Language", "slug_title": "a-foreign-language", "date": "1958-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9SyqZIRk0ZlJtNmHE1LmuNZILs9.jpg", "actors": [], "comments": [], "recommandations_id": []}

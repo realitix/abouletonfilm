@@ -1,1 +1,0 @@
-{"tmdb_id": 242794, "title": "Moonshiner's Woman", "original_title": "Moonshiner's Woman", "slug_title": "moonshiner-s-woman", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

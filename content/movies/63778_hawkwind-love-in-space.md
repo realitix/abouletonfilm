@@ -1,1 +1,0 @@
-{"tmdb_id": 63778, "title": "Hawkwind: Love in Space", "original_title": "Hawkwind: Love in Space", "slug_title": "hawkwind-love-in-space", "date": "2009-01-05", "genre": "", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i26T8B8eYepZNZz1rJbs9hcXDFA.jpg", "actors": ["Hawkwind (Themselves)"], "comments": [], "recommandations_id": []}

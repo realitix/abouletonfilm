@@ -1,1 +1,0 @@
-{"tmdb_id": 402032, "title": "The Lizard of Death", "original_title": "The Lizard of Death", "slug_title": "the-lizard-of-death", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

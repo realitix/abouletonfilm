@@ -1,1 +1,0 @@
-{"tmdb_id": 577134, "title": "A Lecture on Man", "original_title": "A Lecture on Man", "slug_title": "a-lecture-on-man", "date": "1962-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zUlA3KqMNwyH3kPvwmXPeUhrXDj.jpg", "actors": [], "comments": [], "recommandations_id": []}

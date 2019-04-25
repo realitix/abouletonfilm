@@ -1,1 +1,0 @@
-{"tmdb_id": 530469, "title": "All Jazzed Up", "original_title": "All Jazzed Up", "slug_title": "all-jazzed-up", "date": "1920-01-02", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bobby Vernon (Seth Hopkins)", "Helen Darling (Jinny Hopkins)"], "comments": [], "recommandations_id": []}

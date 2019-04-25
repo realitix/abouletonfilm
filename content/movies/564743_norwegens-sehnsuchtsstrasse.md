@@ -1,1 +1,0 @@
-{"tmdb_id": 564743, "title": "Norwegens Sehnsuchtsstra\u00dfe", "original_title": "Norwegens Sehnsuchtsstra\u00dfe", "slug_title": "norwegens-sehnsuchtsstrasse", "date": "2018-11-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

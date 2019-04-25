@@ -1,1 +1,0 @@
-{"tmdb_id": 584304, "title": "I Snuck Off the Slave Ship", "original_title": "I Snuck Off the Slave Ship", "slug_title": "i-snuck-off-the-slave-ship", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

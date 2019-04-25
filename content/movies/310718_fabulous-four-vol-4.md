@@ -1,1 +1,0 @@
-{"tmdb_id": 310718, "title": "Fabulous Four: Vol. 4", "original_title": "Fabulous Four: Vol. 4", "slug_title": "fabulous-four-vol-4", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

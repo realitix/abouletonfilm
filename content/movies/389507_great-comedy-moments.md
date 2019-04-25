@@ -1,1 +1,0 @@
-{"tmdb_id": 389507, "title": "Great Comedy Moments", "original_title": "Great Comedy Moments", "slug_title": "great-comedy-moments", "date": "2001-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i9wpiqway5no6Mx55nqCvHMCOaA.jpg", "actors": [], "comments": [], "recommandations_id": []}

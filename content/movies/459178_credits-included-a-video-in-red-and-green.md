@@ -1,1 +1,0 @@
-{"tmdb_id": 459178, "title": "Credits Included: A Video In Red And Green", "original_title": "Credits Included: A Video In Red And Green", "slug_title": "credits-included-a-video-in-red-and-green", "date": "1995-03-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

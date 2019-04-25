@@ -1,1 +1,0 @@
-{"tmdb_id": 311101, "title": "Der Schauplatz des Krieges. Das Kino von John Ford", "original_title": "Der Schauplatz des Krieges. Das Kino von John Ford", "slug_title": "der-schauplatz-des-krieges-das-kino-von-john-ford", "date": "1976-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

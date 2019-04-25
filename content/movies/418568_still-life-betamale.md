@@ -1,1 +1,0 @@
-{"tmdb_id": 418568, "title": "Still Life (Betamale)", "original_title": "Still Life (Betamale)", "slug_title": "still-life-betamale", "date": "2013-09-23", "genre": "Animation / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ha3BMLOfGUri1DuYjOHGMF1yI0A.jpg", "actors": [], "comments": [], "recommandations_id": []}

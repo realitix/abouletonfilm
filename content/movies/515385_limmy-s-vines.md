@@ -1,1 +1,0 @@
-{"tmdb_id": 515385, "title": "Limmy's Vines", "original_title": "Limmy's Vines", "slug_title": "limmy-s-vines", "date": "2017-01-12", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iHDGggEqaObkmW3TBkblfJ412SN.jpg", "actors": ["Limmy ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 430766, "title": "Australien", "original_title": "Australien", "slug_title": "australien", "date": "2014-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

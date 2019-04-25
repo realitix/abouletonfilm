@@ -1,1 +1,0 @@
-{"tmdb_id": 176307, "title": "Big Moments from Little Pictures", "original_title": "Big Moments from Little Pictures", "slug_title": "big-moments-from-little-pictures", "date": "1924-03-30", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Will Rogers ()"], "comments": [], "recommandations_id": []}

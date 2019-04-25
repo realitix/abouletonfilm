@@ -1,1 +1,0 @@
-{"tmdb_id": 440788, "title": "Aniyara", "original_title": "Aniyara", "slug_title": "aniyara", "date": "1978-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["M G Soman ()", "Kaviyoor Ponnamma ()", "Sankaradi ()", "Bahadoor ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 290872, "title": "Tragedy on Three Cards", "original_title": "Tragedia su tre carte", "slug_title": "tragedy-on-three-cards", "date": "1922-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["A. Andr\u00e9 ()", "Riccardo Bertacchini ()", "Lia Formia ()"], "comments": [], "recommandations_id": []}

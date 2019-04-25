@@ -1,1 +1,0 @@
-{"tmdb_id": 414715, "title": "11s Las ultimas horas", "original_title": "11s Las ultimas horas", "slug_title": "11s-las-ultimas-horas", "date": "2014-09-07", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fUqk9t6SZquRZaQJ2P8LAatqLlT.jpg", "actors": [], "comments": [], "recommandations_id": []}

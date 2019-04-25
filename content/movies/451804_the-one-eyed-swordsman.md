@@ -1,1 +1,0 @@
-{"tmdb_id": 451804, "title": "The One-Eyed Swordsman", "original_title": "\u7368\u773c\u4fe0", "slug_title": "the-one-eyed-swordsman", "date": "1968-03-07", "genre": "Action / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stanley Fung ()", "Lui Kei ()", "Suet Nei ()", "Sek Kin ()"], "comments": [], "recommandations_id": []}

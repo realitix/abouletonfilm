@@ -1,1 +1,0 @@
-{"tmdb_id": 298505, "title": "Phantom Power", "original_title": "Phantom Power", "slug_title": "phantom-power", "date": "2014-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2cYCDiPaOaHEic5cHg7acZyCIPJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 420496, "title": "Arno: Dancing Inside My Head", "original_title": "Arno: Dancing Inside My Head", "slug_title": "arno-dancing-inside-my-head", "date": "2016-10-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arno Hintjens (Arno Hintjens)"], "comments": [], "recommandations_id": []}

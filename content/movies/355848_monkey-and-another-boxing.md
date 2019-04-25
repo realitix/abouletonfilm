@@ -1,1 +1,0 @@
-{"tmdb_id": 355848, "title": "Monkey and Another, Boxing", "original_title": "Monkey and Another, Boxing", "slug_title": "monkey-and-another-boxing", "date": "1891-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

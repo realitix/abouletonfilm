@@ -1,1 +1,0 @@
-{"tmdb_id": 213860, "title": "FEMA City", "original_title": "FEMA City", "slug_title": "fema-city", "date": "2007-04-16", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vrSIPRl0FLN1DnrUuBs3QGhVkU3.jpg", "actors": [], "comments": [], "recommandations_id": []}

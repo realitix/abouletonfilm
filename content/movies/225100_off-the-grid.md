@@ -1,1 +1,0 @@
-{"tmdb_id": 225100, "title": "Off the Grid", "original_title": "Off the Grid", "slug_title": "off-the-grid", "date": "2011-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/44BrvfGhzIQ26VrClIOeqFsMz2V.jpg", "actors": [], "comments": [], "recommandations_id": []}

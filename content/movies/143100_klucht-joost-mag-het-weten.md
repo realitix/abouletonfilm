@@ -1,1 +1,0 @@
-{"tmdb_id": 143100, "title": "Klucht - Joost mag het Weten", "original_title": "Klucht - Joost mag het Weten", "slug_title": "klucht-joost-mag-het-weten", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qT9GI9dLU7uJpwc1Jlrg4uJrF8F.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 432617, "title": "The Fight for Saturday Night", "original_title": "The Fight for Saturday Night", "slug_title": "the-fight-for-saturday-night", "date": "2014-12-21", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Grade ()", "Michael Grade (Himself)"], "comments": [], "recommandations_id": []}

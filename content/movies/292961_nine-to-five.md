@@ -1,1 +1,0 @@
-{"tmdb_id": 292961, "title": "Nine to Five", "original_title": "Nine to Five", "slug_title": "nine-to-five", "date": "2009-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u6uu3E0vgRzqx57HJWvRRbvp66U.jpg", "actors": [], "comments": [], "recommandations_id": []}

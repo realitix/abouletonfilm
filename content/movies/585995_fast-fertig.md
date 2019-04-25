@@ -1,1 +1,0 @@
-{"tmdb_id": 585995, "title": "Fast fertig", "original_title": "Fast fertig", "slug_title": "fast-fertig", "date": "2017-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5DNUmwijQU8CWMfJGrcWqxe9l5n.jpg", "actors": ["Otto Jaus (Otto Jaus)"], "comments": [], "recommandations_id": []}

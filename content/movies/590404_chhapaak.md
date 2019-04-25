@@ -1,1 +1,0 @@
-{"tmdb_id": 590404, "title": "Chhapaak", "original_title": "Chhapaak", "slug_title": "chhapaak", "date": "2020-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3fxm3JsPCm5m69xc5PtwUXFxQJG.jpg", "actors": ["Deepika Padukone (Malti)", "Vikrant Massey (Alok Dixit)"], "comments": [], "recommandations_id": []}

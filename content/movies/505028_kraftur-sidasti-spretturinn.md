@@ -1,1 +1,0 @@
-{"tmdb_id": 505028, "title": "Kraftur: S\u00ed\u00f0asti spretturinn", "original_title": "Kraftur: S\u00ed\u00f0asti spretturinn", "slug_title": "kraftur-sidasti-spretturinn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

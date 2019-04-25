@@ -1,1 +1,0 @@
-{"tmdb_id": 409057, "title": "Milk Inc. - The DVD", "original_title": "Milk Inc. - The DVD", "slug_title": "milk-inc-the-dvd", "date": "2004-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kVoEdToZkE4FLRKahPK3DulNw3C.jpg", "actors": [], "comments": [], "recommandations_id": []}

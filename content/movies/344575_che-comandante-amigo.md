@@ -1,1 +1,0 @@
-{"tmdb_id": 344575, "title": "Che comandante amigo", "original_title": "Che comandante amigo", "slug_title": "che-comandante-amigo", "date": "1978-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qj7do4uuqk062W0cE9DBRPZ4lKj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 281867, "title": "Tsunami 7X", "original_title": "Tsunami 7X", "slug_title": "tsunami-7x", "date": "2009-02-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bjrUiC7eSUApRYFWY0tVKB4MRsB.jpg", "actors": ["Ankita ()"], "comments": [], "recommandations_id": []}

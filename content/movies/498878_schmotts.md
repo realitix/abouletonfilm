@@ -1,1 +1,0 @@
-{"tmdb_id": 498878, "title": "Schmotts", "original_title": "Schmotts", "slug_title": "schmotts", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9qSC6Nzgt8dCE7gi5jwMEheKbe8.jpg", "actors": [], "comments": [], "recommandations_id": []}

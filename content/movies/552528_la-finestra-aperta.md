@@ -1,1 +1,0 @@
-{"tmdb_id": 552528, "title": "La finestra aperta", "original_title": "La finestra aperta", "slug_title": "la-finestra-aperta", "date": "2009-06-12", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lidia Biondi ()"], "comments": [], "recommandations_id": []}

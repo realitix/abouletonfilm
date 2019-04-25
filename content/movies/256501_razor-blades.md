@@ -1,1 +1,0 @@
-{"tmdb_id": 256501, "title": "Razor Blades", "original_title": "Razor Blades", "slug_title": "razor-blades", "date": "1968-01-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aFf9njWZPVDSGuJ6nIz9KYZ1h8t.jpg", "actors": [], "comments": [], "recommandations_id": []}

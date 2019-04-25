@@ -1,1 +1,0 @@
-{"tmdb_id": 223660, "title": "Satyanweshi", "original_title": "Satyanweshi", "slug_title": "satyanweshi", "date": "2013-08-16", "genre": "", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/meFQMklic4T02bDcu7E7ZUHBE1F.jpg", "actors": [], "comments": [], "recommandations_id": [213763]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 559933, "title": "Foreign Bodies by Kader Attou", "original_title": "Foreign Bodies by Kader Attou", "slug_title": "foreign-bodies-by-kader-attou", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

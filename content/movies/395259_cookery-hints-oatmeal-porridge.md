@@ -1,1 +1,0 @@
-{"tmdb_id": 395259, "title": "Cookery Hints: Oatmeal Porridge", "original_title": "Cookery Hints: Oatmeal Porridge", "slug_title": "cookery-hints-oatmeal-porridge", "date": "1940-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

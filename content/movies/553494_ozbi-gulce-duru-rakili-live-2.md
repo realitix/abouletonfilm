@@ -1,1 +1,0 @@
-{"tmdb_id": 553494, "title": "Ozbi & Gulce Duru Rakili Live 2", "original_title": "Ozbi & Gulce Duru Rakili Live 2", "slug_title": "ozbi-gulce-duru-rakili-live-2", "date": "2017-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5iwlSftlW68dNGAFboPIEtYbdOq.jpg", "actors": [], "comments": [], "recommandations_id": []}

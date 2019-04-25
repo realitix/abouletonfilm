@@ -1,1 +1,0 @@
-{"tmdb_id": 537535, "title": "Uppland", "original_title": "Uppland", "slug_title": "uppland", "date": "2018-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/46CN0tbBCRf3uT7aCkrBq5L4l85.jpg", "actors": [], "comments": [], "recommandations_id": []}

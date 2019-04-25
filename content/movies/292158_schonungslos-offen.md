@@ -1,1 +1,0 @@
-{"tmdb_id": 292158, "title": "Schonungslos offen", "original_title": "Schonungslos offen", "slug_title": "schonungslos-offen", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fdaTCJ3pIk8p5ZZuEARYjFrVCsl.jpg", "actors": ["Vivian Schmitt (Candy Moore)"], "comments": [], "recommandations_id": []}

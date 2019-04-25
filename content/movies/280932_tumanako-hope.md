@@ -1,1 +1,0 @@
-{"tmdb_id": 280932, "title": "T\u016bmanako/Hope", "original_title": "T\u016bmanako/Hope", "slug_title": "tumanako-hope", "date": "2014-07-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

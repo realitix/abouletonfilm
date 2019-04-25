@@ -1,1 +1,0 @@
-{"tmdb_id": 501333, "title": "The Women of Doctor Who", "original_title": "The Women of Doctor Who", "slug_title": "the-women-of-doctor-who", "date": "2012-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

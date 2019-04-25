@@ -1,1 +1,0 @@
-{"tmdb_id": 195147, "title": "Football", "original_title": "Football", "slug_title": "football", "date": "1897-05-20", "genre": "Documentaire", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4VCRIEvoOelInqYDp84V7Rf9Fh9.jpg", "actors": [], "comments": [], "recommandations_id": [194243, 195623, 152454, 189805]}

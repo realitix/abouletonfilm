@@ -1,1 +1,0 @@
-{"tmdb_id": 308691, "title": "Diane Wellington", "original_title": "Diane Wellington", "slug_title": "diane-wellington", "date": "2010-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cjANhM1yEW16grIGKMEWB8TbclN.jpg", "actors": [], "comments": [], "recommandations_id": []}

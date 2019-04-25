@@ -1,1 +1,0 @@
-{"tmdb_id": 449158, "title": "Total Fiction", "original_title": "Total Fiction", "slug_title": "total-fiction", "date": "2017-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cQxIyP2NhnUM8FdGcVjgR4AnoL6.jpg", "actors": [], "comments": [], "recommandations_id": []}

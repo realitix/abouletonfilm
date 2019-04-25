@@ -1,1 +1,0 @@
-{"tmdb_id": 471481, "title": "D\u00e9l fel\u00e9", "original_title": "D\u00e9l fel\u00e9", "slug_title": "del-fele", "date": "1941-08-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

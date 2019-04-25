@@ -1,1 +1,0 @@
-{"tmdb_id": 383435, "title": "The Marey Project", "original_title": "The Marey Project", "slug_title": "the-marey-project", "date": "2005-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

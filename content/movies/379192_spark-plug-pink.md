@@ -1,1 +1,0 @@
-{"tmdb_id": 379192, "title": "Spark Plug Pink", "original_title": "Spark Plug Pink", "slug_title": "spark-plug-pink", "date": "1979-06-28", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AqfFbLPokLp0JxwjfiXNkoxRhF1.jpg", "actors": [], "comments": [], "recommandations_id": []}

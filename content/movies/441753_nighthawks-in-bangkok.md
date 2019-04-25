@@ -1,1 +1,0 @@
-{"tmdb_id": 441753, "title": "Nighthawks in Bangkok", "original_title": "Nighthawks in Bangkok", "slug_title": "nighthawks-in-bangkok", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zkIWrFc7Tog3xpUFunQKDYqWLFO.jpg", "actors": [], "comments": [], "recommandations_id": []}

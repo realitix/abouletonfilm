@@ -1,1 +1,0 @@
-{"tmdb_id": 441409, "title": "Goro-chan", "original_title": "\u30b4\u30ed\u3061\u3083\u3093", "slug_title": "goro-chan", "date": "1990-02-10", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

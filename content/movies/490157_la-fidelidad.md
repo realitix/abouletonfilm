@@ -1,1 +1,0 @@
-{"tmdb_id": 490157, "title": "La fidelidad", "original_title": "La fidelidad", "slug_title": "la-fidelidad", "date": "1970-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

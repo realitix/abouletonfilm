@@ -1,1 +1,0 @@
-{"tmdb_id": 421395, "title": "Ride a Wild Stud", "original_title": "Ride a Wild Stud", "slug_title": "ride-a-wild-stud", "date": "1969-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2QApbowHQyBPGJLhebHSzocq3Ej.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 525820, "title": "Sundome New", "original_title": "\u3059\u3093\u30c9\u3081New", "slug_title": "sundome-new", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8wTzHm6jyRG20g56IMzGIVHUvOI.jpg", "actors": [], "comments": [], "recommandations_id": []}

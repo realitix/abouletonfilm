@@ -1,1 +1,0 @@
-{"tmdb_id": 143664, "title": "Get the Picture", "original_title": "Get the Picture", "slug_title": "get-the-picture", "date": "2012-11-17", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a8KJcTbr94Q3ue6JzgAnVWYIE1F.jpg", "actors": [], "comments": [], "recommandations_id": []}

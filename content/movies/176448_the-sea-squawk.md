@@ -1,1 +1,0 @@
-{"tmdb_id": 176448, "title": "The Sea Squawk", "original_title": "The Sea Squawk", "slug_title": "the-sea-squawk", "date": "1925-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2N62b939ApAVN8xCQ3UtcZY2GrE.jpg", "actors": ["Harry Langdon (An Immigrant)"], "comments": [], "recommandations_id": []}

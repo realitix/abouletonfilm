@@ -1,1 +1,0 @@
-{"tmdb_id": 521652, "title": "The Miner's Rose", "original_title": "Horn\u00edkova r\u016f\u017ee", "slug_title": "the-miner-s-rose", "date": "1974-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ntPRQQGAe4FTWLuN3IFk4wfwMcC.jpg", "actors": [], "comments": [], "recommandations_id": []}

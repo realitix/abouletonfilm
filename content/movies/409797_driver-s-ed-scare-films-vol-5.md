@@ -1,1 +1,0 @@
-{"tmdb_id": 409797, "title": "Driver's Ed Scare Films Vol. 5", "original_title": "Driver's Ed Scare Films Vol. 5", "slug_title": "driver-s-ed-scare-films-vol-5", "date": "2005-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zWKlcHIPJm6xdbqqQ9Fo9jMeNi2.jpg", "actors": [], "comments": [], "recommandations_id": []}

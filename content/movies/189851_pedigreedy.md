@@ -1,1 +1,0 @@
-{"tmdb_id": 189851, "title": "Pedigreedy", "original_title": "Pedigreedy", "slug_title": "pedigreedy", "date": "1927-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

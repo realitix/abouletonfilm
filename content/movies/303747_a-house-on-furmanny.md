@@ -1,1 +1,0 @@
-{"tmdb_id": 303747, "title": "A House on Furmanny", "original_title": "A House on Furmanny", "slug_title": "a-house-on-furmanny", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

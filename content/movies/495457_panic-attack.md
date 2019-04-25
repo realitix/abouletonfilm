@@ -1,1 +1,0 @@
-{"tmdb_id": 495457, "title": "Panic Attack!", "original_title": "Panic Attack!", "slug_title": "panic-attack", "date": "2016-11-02", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6lgOvXgtiYFNzF8ahXOrEPE3uv2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 223249, "title": "Documented", "original_title": "Documented", "slug_title": "documented", "date": "2014-05-02", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5zJU6NA3dTFy76y2U0hJimvHDbr.jpg", "actors": ["Jose Antonio Vargas ()"], "comments": [], "recommandations_id": []}

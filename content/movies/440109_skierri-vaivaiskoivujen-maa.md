@@ -1,1 +1,0 @@
-{"tmdb_id": 440109, "title": "Skierri, vaivaiskoivujen maa", "original_title": "Skierri, vaivaiskoivujen maa", "slug_title": "skierri-vaivaiskoivujen-maa", "date": "1982-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ysLfI8aJJ2w2y7zae5a0dQoeDXm.jpg", "actors": [], "comments": [], "recommandations_id": []}

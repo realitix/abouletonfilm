@@ -1,1 +1,0 @@
-{"tmdb_id": 374564, "title": "Dolphin Lover", "original_title": "Dolphin Lover", "slug_title": "dolphin-lover", "date": "2015-04-15", "genre": "Romance / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rLw7QsBvtN2DxiWeOrdb2rshhr7.jpg", "actors": ["Malcolm Brenner (Himself)"], "comments": [], "recommandations_id": []}

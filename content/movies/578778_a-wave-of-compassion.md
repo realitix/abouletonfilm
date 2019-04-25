@@ -1,1 +1,0 @@
-{"tmdb_id": 578778, "title": "A Wave of Compassion", "original_title": "A Wave of Compassion", "slug_title": "a-wave-of-compassion", "date": "2005-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jsYtCE5QNsdGcdfQTIrKomRJZIC.jpg", "actors": [], "comments": [], "recommandations_id": []}

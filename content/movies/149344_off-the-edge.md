@@ -1,1 +1,0 @@
-{"tmdb_id": 149344, "title": "Off the Edge", "original_title": "Off the Edge", "slug_title": "off-the-edge", "date": "1976-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xRt4ebGXsxjq7FivJ4pE1Of8rq7.jpg", "actors": [], "comments": [], "recommandations_id": []}

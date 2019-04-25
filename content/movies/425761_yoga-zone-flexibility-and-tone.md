@@ -1,1 +1,0 @@
-{"tmdb_id": 425761, "title": "Yoga Zone Flexibility and Tone", "original_title": "Yoga Zone Flexibility and Tone", "slug_title": "yoga-zone-flexibility-and-tone", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4JvrvMoz8NyLzl5vTJJxixZCKex.jpg", "actors": [], "comments": [], "recommandations_id": []}

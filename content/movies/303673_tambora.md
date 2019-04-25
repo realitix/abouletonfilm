@@ -1,1 +1,0 @@
-{"tmdb_id": 303673, "title": "Tambora", "original_title": "Tambora", "slug_title": "tambora", "date": "1938-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z2sm4NyK0troel63CkB7kCTVlG.jpg", "actors": [], "comments": [], "recommandations_id": []}

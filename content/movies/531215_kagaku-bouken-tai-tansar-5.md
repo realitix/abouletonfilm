@@ -1,1 +1,0 @@
-{"tmdb_id": 531215, "title": "Kagaku Bouken-tai Tansar 5", "original_title": "Kagaku Bouken-tai Tansar 5", "slug_title": "kagaku-bouken-tai-tansar-5", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

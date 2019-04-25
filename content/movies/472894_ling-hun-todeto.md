@@ -1,1 +1,0 @@
-{"tmdb_id": 472894, "title": "\u970a\u9b42\u3068\u30c7\u30fc\u30c8", "original_title": "\u970a\u9b42\u3068\u30c7\u30fc\u30c8", "slug_title": "ling-hun-todeto", "date": "1991-06-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uTCTdCL6l6vwE7VJAPecaumnmW6.jpg", "actors": [], "comments": [], "recommandations_id": []}

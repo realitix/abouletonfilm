@@ -1,1 +1,0 @@
-{"tmdb_id": 567647, "title": "Tensai Bakabon", "original_title": "Tensai Bakabon", "slug_title": "tensai-bakabon", "date": "2016-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5qs6YXzlDihIhb3vKaJICXMLxCU.jpg", "actors": [], "comments": [], "recommandations_id": []}

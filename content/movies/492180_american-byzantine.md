@@ -1,1 +1,0 @@
-{"tmdb_id": 492180, "title": "American Byzantine", "original_title": "American Byzantine", "slug_title": "american-byzantine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

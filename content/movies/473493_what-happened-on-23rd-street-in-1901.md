@@ -1,1 +1,0 @@
-{"tmdb_id": 473493, "title": "What Happened on 23rd Street in 1901", "original_title": "What Happened on 23rd Street in 1901", "slug_title": "what-happened-on-23rd-street-in-1901", "date": "2009-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

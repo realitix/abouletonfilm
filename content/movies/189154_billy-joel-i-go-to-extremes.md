@@ -1,1 +1,0 @@
-{"tmdb_id": 189154, "title": "Billy Joel - I Go to Extremes", "original_title": "Billy Joel - I Go to Extremes", "slug_title": "billy-joel-i-go-to-extremes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ioa9DTG1OdslRHoiSE08NKk1Es0.jpg", "actors": [], "comments": [], "recommandations_id": []}

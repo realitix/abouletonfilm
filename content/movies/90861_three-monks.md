@@ -1,1 +1,0 @@
-{"tmdb_id": 90861, "title": "Three Monks", "original_title": "\u4e09\u4e2a\u548c\u5c1a", "slug_title": "three-monks", "date": "1980-01-01", "genre": "Animation", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kQqirNz0tU2Izy9BkTuINkdQEWF.jpg", "actors": [], "comments": [], "recommandations_id": []}

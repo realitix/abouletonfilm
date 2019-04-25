@@ -1,1 +1,0 @@
-{"tmdb_id": 318679, "title": "Celebration of Catholicism", "original_title": "Celebration of Catholicism", "slug_title": "celebration-of-catholicism", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

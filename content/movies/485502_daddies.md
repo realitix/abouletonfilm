@@ -1,1 +1,0 @@
-{"tmdb_id": 485502, "title": "Daddies", "original_title": "Daddies", "slug_title": "daddies", "date": "2014-02-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nJ8ds1UVtiAjphEnqoymj1mRPnP.jpg", "actors": [], "comments": [], "recommandations_id": []}

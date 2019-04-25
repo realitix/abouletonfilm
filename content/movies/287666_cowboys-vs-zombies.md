@@ -1,1 +1,0 @@
-{"tmdb_id": 287666, "title": "Cowboys vs. Zombies", "original_title": "Cowboys vs. Zombies", "slug_title": "cowboys-vs-zombies", "date": "2014-01-01", "genre": "Horreur / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AhGyf3TW9GqTEPTjVPCnhQ7bcpF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 524961, "title": "Wild Eye", "original_title": "L'oeil sauvage", "slug_title": "wild-eye", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1jJXi1KzrbCH8xUoUbn3zvOiZjm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 320455, "title": "Natasha Bedingfield: Live in New York City", "original_title": "Natasha Bedingfield: Live in New York City", "slug_title": "natasha-bedingfield-live-in-new-york-city", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

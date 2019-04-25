@@ -1,1 +1,0 @@
-{"tmdb_id": 187909, "title": "La caverna", "original_title": "La caverna", "slug_title": "la-caverna", "date": "2000-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ferm\u00edn Casado ()", "Sara Loscos ()", "Pau Dur\u00e0 ()", "N\u00faria Prims ()"], "comments": [], "recommandations_id": []}

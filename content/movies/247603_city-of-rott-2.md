@@ -1,1 +1,0 @@
-{"tmdb_id": 247603, "title": "City of Rott 2", "original_title": "City of Rott 2", "slug_title": "city-of-rott-2", "date": "2014-09-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mgYqAPTIk8HhYjnpUkpwAqoD9mL.jpg", "actors": [], "comments": [], "recommandations_id": []}

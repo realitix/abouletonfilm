@@ -1,1 +1,0 @@
-{"tmdb_id": 306015, "title": "Kings of the Sky", "original_title": "Kings of the Sky", "slug_title": "kings-of-the-sky", "date": "2004-09-16", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gDDTGYBSJ4FEnpBgLmFbBChLXi4.jpg", "actors": [], "comments": [], "recommandations_id": []}

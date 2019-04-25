@@ -1,1 +1,0 @@
-{"tmdb_id": 349814, "title": "Visions of a City", "original_title": "Visions of a City", "slug_title": "visions-of-a-city", "date": "1978-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6EdNL9R5dQngOUOuGpHjtS213N0.jpg", "actors": ["Michael McClure (Himself)"], "comments": [], "recommandations_id": []}

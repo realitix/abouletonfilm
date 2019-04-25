@@ -1,1 +1,0 @@
-{"tmdb_id": 585105, "title": "The Franklin Expedition - Buried in Ice", "original_title": "The Franklin Expedition - Buried in Ice", "slug_title": "the-franklin-expedition-buried-in-ice", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

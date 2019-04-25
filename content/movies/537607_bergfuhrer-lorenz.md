@@ -1,1 +1,0 @@
-{"tmdb_id": 537607, "title": "Bergf\u00fchrer Lorenz", "original_title": "Bergf\u00fchrer Lorenz", "slug_title": "bergfuhrer-lorenz", "date": "1943-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Geny Spielmann (Stephan Lorenz)", "Madeleine Koebel (Autsch Blatter)"], "comments": [], "recommandations_id": []}

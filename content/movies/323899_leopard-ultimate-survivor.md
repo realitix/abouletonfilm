@@ -1,1 +1,0 @@
-{"tmdb_id": 323899, "title": "Leopard: Ultimate Survivor", "original_title": "Leopard: Ultimate Survivor", "slug_title": "leopard-ultimate-survivor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

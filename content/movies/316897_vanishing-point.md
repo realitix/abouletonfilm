@@ -1,1 +1,0 @@
-{"tmdb_id": 316897, "title": "Vanishing Point", "original_title": "Vanishing Point", "slug_title": "vanishing-point", "date": "2015-01-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qsBZ0CVBsUcBaR0sVqU1EIARh0R.jpg", "actors": [], "comments": [], "recommandations_id": []}

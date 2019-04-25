@@ -1,1 +1,0 @@
-{"tmdb_id": 305273, "title": "The Art of Strength: Newport download", "original_title": "The Art of Strength: Newport download", "slug_title": "the-art-of-strength-newport-download", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

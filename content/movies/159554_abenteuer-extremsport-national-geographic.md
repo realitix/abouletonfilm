@@ -1,1 +1,0 @@
-{"tmdb_id": 159554, "title": "Abenteuer Extremsport - National Geographic", "original_title": "Abenteuer Extremsport - National Geographic", "slug_title": "abenteuer-extremsport-national-geographic", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 350081, "title": "A Painter of Eloquent Silence: Ganesh Pyne", "original_title": "A Painter of Eloquent Silence: Ganesh Pyne", "slug_title": "a-painter-of-eloquent-silence-ganesh-pyne", "date": "1997-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

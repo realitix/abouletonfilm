@@ -1,1 +1,0 @@
-{"tmdb_id": 573682, "title": "The Autumn of the Ceibo Tree", "original_title": "The Autumn of the Ceibo Tree", "slug_title": "the-autumn-of-the-ceibo-tree", "date": "2016-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

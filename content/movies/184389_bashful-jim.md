@@ -1,1 +1,0 @@
-{"tmdb_id": 184389, "title": "Bashful Jim", "original_title": "Bashful Jim", "slug_title": "bashful-jim", "date": "1925-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ralph Graves (Jim)"], "comments": [], "recommandations_id": []}

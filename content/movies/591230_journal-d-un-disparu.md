@@ -1,1 +1,0 @@
-{"tmdb_id": 591230, "title": "Journal d'un disparu", "original_title": "Journal d'un disparu", "slug_title": "journal-d-un-disparu", "date": "2018-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zVKHGucS5BhJGzQq49jmxMygBzS.jpg", "actors": [], "comments": [], "recommandations_id": []}

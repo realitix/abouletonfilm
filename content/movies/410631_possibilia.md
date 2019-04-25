@@ -1,1 +1,0 @@
-{"tmdb_id": 410631, "title": "Possibilia", "original_title": "Possibilia", "slug_title": "possibilia", "date": "2014-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3uk7rz9yTFCB3RXW4vMWkBhCcHf.jpg", "actors": ["Alex Karpovsky (Rick)", "Zoe Jarman (Pollie)"], "comments": [], "recommandations_id": []}

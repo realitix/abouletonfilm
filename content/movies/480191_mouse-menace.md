@@ -1,1 +1,0 @@
-{"tmdb_id": 480191, "title": "Mouse Menace", "original_title": "Mouse Menace", "slug_title": "mouse-menace", "date": "1953-07-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Morrison (Little Roquefort (voice))"], "comments": [], "recommandations_id": []}

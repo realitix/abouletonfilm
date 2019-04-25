@@ -1,1 +1,0 @@
-{"tmdb_id": 71631, "title": "Shaadi Magar Aadhi", "original_title": "Shaadi Magar Aadhi", "slug_title": "shaadi-magar-aadhi", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

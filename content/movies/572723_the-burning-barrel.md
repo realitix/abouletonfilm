@@ -1,1 +1,0 @@
-{"tmdb_id": 572723, "title": "The Burning Barrel", "original_title": "The Burning Barrel", "slug_title": "the-burning-barrel", "date": "1997-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 275891, "title": "Fighting Corruption at Every Level", "original_title": "Fighting Corruption at Every Level", "slug_title": "fighting-corruption-at-every-level", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

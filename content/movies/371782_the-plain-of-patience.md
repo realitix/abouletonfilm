@@ -1,1 +1,0 @@
-{"tmdb_id": 371782, "title": "The Plain Of Patience", "original_title": "The Plain Of Patience", "slug_title": "the-plain-of-patience", "date": "2015-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lucho Jose Soza ()", "Jaime Vadell ()"], "comments": [], "recommandations_id": []}

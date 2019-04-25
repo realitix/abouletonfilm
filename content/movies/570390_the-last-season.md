@@ -1,1 +1,0 @@
-{"tmdb_id": 570390, "title": "The Last Season", "original_title": "La derni\u00e8re saison", "slug_title": "the-last-season", "date": "1992-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l8RDXSC67ntQ45SGYaaUK35mzx9.jpg", "actors": [], "comments": [], "recommandations_id": []}

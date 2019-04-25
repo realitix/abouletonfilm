@@ -1,1 +1,0 @@
-{"tmdb_id": 568639, "title": "Luoke Wangguo 2: Sheng Long De Xin Yuan", "original_title": "Luoke Wangguo 2: Sheng Long De Xin Yuan", "slug_title": "luoke-wangguo-2-sheng-long-de-xin-yuan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

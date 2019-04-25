@@ -1,1 +1,0 @@
-{"tmdb_id": 271224, "title": "An American Opera", "original_title": "An American Opera", "slug_title": "an-american-opera", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

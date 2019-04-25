@@ -1,1 +1,0 @@
-{"tmdb_id": 318600, "title": "A Sombra do Fogo", "original_title": "A Sombra do Fogo", "slug_title": "a-sombra-do-fogo", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Clayton Novais ()", "Luis Bezerra ()", "M\u00e1rcia Nunes ()", "Dora Nascimento ()", "Zh\u00e9 Gomes ()"], "comments": [], "recommandations_id": []}

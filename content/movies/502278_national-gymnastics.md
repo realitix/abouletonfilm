@@ -1,1 +1,0 @@
-{"tmdb_id": 502278, "title": "National Gymnastics", "original_title": "\uad6d\ubbfc\uccb4\uc870", "slug_title": "national-gymnastics", "date": "2018-01-10", "genre": "Drame / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6HT7FocaxbDvXrGl2Ee1Wsce3Ce.jpg", "actors": [], "comments": [], "recommandations_id": []}

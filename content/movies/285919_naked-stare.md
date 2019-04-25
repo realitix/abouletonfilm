@@ -1,1 +1,0 @@
-{"tmdb_id": 285919, "title": "Naked Stare", "original_title": "To gymno vlema", "slug_title": "naked-stare", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xMPMxn0dFoH1vQqbpSUWF6SJ5GG.jpg", "actors": [], "comments": [], "recommandations_id": []}

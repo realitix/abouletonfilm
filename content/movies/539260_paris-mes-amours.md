@@ -1,1 +1,0 @@
-{"tmdb_id": 539260, "title": "Paris, mes amours", "original_title": "Paris, mes amours", "slug_title": "paris-mes-amours", "date": "1935-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z04fWqRVmw69XWbhfQqwdeDYi1i.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 110684, "title": "Dual Sport Riding Techniques", "original_title": "Dual Sport Riding Techniques", "slug_title": "dual-sport-riding-techniques", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gDjVp1fYE8AWr2ENZbOf1oyhqjp.jpg", "actors": [], "comments": [], "recommandations_id": []}

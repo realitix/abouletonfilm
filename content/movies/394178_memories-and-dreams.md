@@ -1,1 +1,0 @@
-{"tmdb_id": 394178, "title": "Memories And Dreams", "original_title": "Memories And Dreams", "slug_title": "memories-and-dreams", "date": "1995-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/560oSOvvnRnWYm4uBoDZIdqzdPB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 532483, "title": "Vacarme", "original_title": "Vacarme", "slug_title": "vacarme", "date": "2005-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 532483, "title": "Vacarme", "original_title": "Vacarme", "slug_title": "vacarme", "date": "2005-04-09", "genre": [""], "score": "0.0/10", "synopsis": "(I don't have a summary right now)", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 539281, "title": "Power in the Blood", "original_title": "Power in the Blood", "slug_title": "power-in-the-blood", "date": "1989-03-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uQgd1rCmbGA5PLgiIpqeouKUwJV.jpg", "actors": ["Vernon Oxford (Himself)"], "comments": [], "recommandations_id": []}

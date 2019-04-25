@@ -1,1 +1,0 @@
-{"tmdb_id": 568692, "title": "LONG TERM", "original_title": "LONG TERM", "slug_title": "long-term", "date": "2018-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Ugn5Bu11IZGFywvGdOjnuAVeKi.jpg", "actors": ["Filipe Ignatius ()", "Jo\u00e3o Rocco ()"], "comments": [], "recommandations_id": []}

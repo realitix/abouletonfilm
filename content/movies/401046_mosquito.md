@@ -1,1 +1,0 @@
-{"tmdb_id": 401046, "title": "Mosquito", "original_title": "Mosquito", "slug_title": "mosquito", "date": "2014-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ktLwxG2KQYjsgG8fyqTDYOosttZ.jpg", "actors": ["Manfred Liechti ()"], "comments": [], "recommandations_id": []}

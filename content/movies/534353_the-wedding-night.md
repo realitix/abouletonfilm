@@ -1,1 +1,0 @@
-{"tmdb_id": 534353, "title": "The Wedding Night", "original_title": "\u0644\u064a\u0644\u0629 \u0627\u0644\u062f\u062e\u0644\u0629", "slug_title": "the-wedding-night", "date": "1950-07-14", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ismail Yasseen ()", "Hassan Fayek ()"], "comments": [], "recommandations_id": []}

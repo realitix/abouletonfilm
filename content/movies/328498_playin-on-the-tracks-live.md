@@ -1,1 +1,0 @@
-{"tmdb_id": 328498, "title": "Playin' on the Tracks LIVE", "original_title": "Playin' on the Tracks LIVE", "slug_title": "playin-on-the-tracks-live", "date": "2014-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

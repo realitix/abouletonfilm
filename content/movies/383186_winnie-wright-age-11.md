@@ -1,1 +1,0 @@
-{"tmdb_id": 383186, "title": "Winnie Wright, Age 11", "original_title": "Winnie Wright, Age 11", "slug_title": "winnie-wright-age-11", "date": "1974-01-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mkQQC9eAr3AH5HkrOtcfI7EhXzj.jpg", "actors": [], "comments": [], "recommandations_id": []}

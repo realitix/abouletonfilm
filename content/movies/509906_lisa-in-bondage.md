@@ -1,1 +1,0 @@
-{"tmdb_id": 509906, "title": "Lisa in Bondage", "original_title": "Lisa in Bondage", "slug_title": "lisa-in-bondage", "date": "1978-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

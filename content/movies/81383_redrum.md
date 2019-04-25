@@ -1,1 +1,0 @@
-{"tmdb_id": 81383, "title": "Redrum", "original_title": "Redrum", "slug_title": "redrum", "date": "2007-10-30", "genre": "Action / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sSHcQtNIgz4pCJKXiYsgzOWckDb.jpg", "actors": [], "comments": [], "recommandations_id": []}

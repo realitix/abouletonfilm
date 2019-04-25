@@ -1,1 +1,0 @@
-{"tmdb_id": 328512, "title": "The Hidden Face of Suicide", "original_title": "The Hidden Face of Suicide", "slug_title": "the-hidden-face-of-suicide", "date": "2015-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

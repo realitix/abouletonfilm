@@ -1,1 +1,0 @@
-{"tmdb_id": 287270, "title": "Liquidity Inc.", "original_title": "Liquidity Inc.", "slug_title": "liquidity-inc", "date": "2014-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1qwaATfJpcXvHLCyzwkYI8Tcbcz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 296333, "title": "Sauerbruch Hutton Architects", "original_title": "Sauerbruch Hutton Architects", "slug_title": "sauerbruch-hutton-architects", "date": "2013-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sCkdbtf7nZDHi3gIxC9LOpZxJwe.jpg", "actors": [], "comments": [], "recommandations_id": []}

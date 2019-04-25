@@ -1,1 +1,0 @@
-{"tmdb_id": 488626, "title": "Golden Eaglet: The Story of a Girl Scout", "original_title": "Golden Eaglet: The Story of a Girl Scout", "slug_title": "golden-eaglet-the-story-of-a-girl-scout", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

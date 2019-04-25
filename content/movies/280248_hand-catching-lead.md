@@ -1,1 +1,0 @@
-{"tmdb_id": 280248, "title": "Hand Catching Lead", "original_title": "Hand Catching Lead", "slug_title": "hand-catching-lead", "date": "1968-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/umEzDzWCmHKNPj9tOHWxfoANmpC.jpg", "actors": ["Richard Serra (Himself)"], "comments": [], "recommandations_id": []}

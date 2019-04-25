@@ -1,1 +1,0 @@
-{"tmdb_id": 332173, "title": "Wanderlost", "original_title": "Wanderlost", "slug_title": "wanderlost", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

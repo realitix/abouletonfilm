@@ -1,1 +1,0 @@
-{"tmdb_id": 538271, "title": "The Children of Concrete", "original_title": "Les enfants du b\u00e9ton", "slug_title": "the-children-of-concrete", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/GuGvHFws2lO5V6vHGT4bng5wte.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 258139, "title": "D'amore si vive", "original_title": "D'amore si vive", "slug_title": "d-amore-si-vive", "date": "1984-06-12", "genre": "Documentaire", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9sqR7yRdr91G3riv0ZgSHCevUBd.jpg", "actors": [], "comments": [], "recommandations_id": [94709]}

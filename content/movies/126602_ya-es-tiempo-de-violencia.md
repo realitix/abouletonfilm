@@ -1,1 +1,0 @@
-{"tmdb_id": 126602, "title": "Ya es tiempo de violencia", "original_title": "Ya es tiempo de violencia", "slug_title": "ya-es-tiempo-de-violencia", "date": "1969-12-31", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1r0WODnd0XP9adk7ca4z3cpQcK4.jpg", "actors": [], "comments": [], "recommandations_id": []}

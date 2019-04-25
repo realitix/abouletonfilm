@@ -1,1 +1,0 @@
-{"tmdb_id": 310329, "title": "The Tallis Scholars: Live in Rome", "original_title": "The Tallis Scholars: Live in Rome", "slug_title": "the-tallis-scholars-live-in-rome", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

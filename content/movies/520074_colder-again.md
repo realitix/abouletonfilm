@@ -1,1 +1,0 @@
-{"tmdb_id": 520074, "title": "Colder - Again", "original_title": "Colder - Again", "slug_title": "colder-again", "date": "2003-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

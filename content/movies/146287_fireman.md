@@ -1,1 +1,0 @@
-{"tmdb_id": 146287, "title": "Fireman", "original_title": "Fireman", "slug_title": "fireman", "date": "2009-10-24", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ujM4aeWgmJBQbUkZEhmMsZq5NuK.jpg", "actors": [], "comments": [], "recommandations_id": []}

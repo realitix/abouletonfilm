@@ -1,1 +1,0 @@
-{"tmdb_id": 321891, "title": "Teletubbies: The Magic Pumpkin and Other Stories", "original_title": "Teletubbies: The Magic Pumpkin and Other Stories", "slug_title": "teletubbies-the-magic-pumpkin-and-other-stories", "date": "2003-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

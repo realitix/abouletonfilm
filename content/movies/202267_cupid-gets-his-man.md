@@ -1,1 +1,0 @@
-{"tmdb_id": 202267, "title": "Cupid Gets His Man", "original_title": "Cupid Gets His Man", "slug_title": "cupid-gets-his-man", "date": "1936-07-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dXtfbskcK5RTpEtfMy9vSicbHCe.jpg", "actors": [], "comments": [], "recommandations_id": []}

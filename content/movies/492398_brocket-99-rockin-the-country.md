@@ -1,1 +1,0 @@
-{"tmdb_id": 492398, "title": "Brocket 99: Rockin' the Country", "original_title": "Brocket 99: Rockin' the Country", "slug_title": "brocket-99-rockin-the-country", "date": "2006-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lt5c38cxzIjjiBh9Jb8M9FNp27o.jpg", "actors": [], "comments": [], "recommandations_id": []}

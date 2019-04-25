@@ -1,1 +1,0 @@
-{"tmdb_id": 386748, "title": "Interrogation Room", "original_title": "Interrogation Room", "slug_title": "interrogation-room", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 341218, "title": "Legend of Horror", "original_title": "Legend of Horror", "slug_title": "legend-of-horror", "date": "1972-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nQNXwaC3wz3CgBHhFvVicYUOuD8.jpg", "actors": [], "comments": [], "recommandations_id": []}

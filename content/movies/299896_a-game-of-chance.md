@@ -1,1 +1,0 @@
-{"tmdb_id": 299896, "title": "A Game of Chance", "original_title": "A Game of Chance", "slug_title": "a-game-of-chance", "date": "1961-01-01", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oMqZLEIlyVB7ZEhqu2DBsqLf63o.jpg", "actors": [], "comments": [], "recommandations_id": []}

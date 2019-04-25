@@ -1,1 +1,0 @@
-{"tmdb_id": 547082, "title": "The Friendship Train", "original_title": "The Friendship Train", "slug_title": "the-friendship-train", "date": "1948-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dwight Weist (Narrator (voice) (uncredited))"], "comments": [], "recommandations_id": []}

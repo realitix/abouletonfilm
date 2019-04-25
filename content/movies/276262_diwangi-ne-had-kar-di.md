@@ -1,1 +1,0 @@
-{"tmdb_id": 276262, "title": "Diwangi Ne Had Kar Di", "original_title": "Diwangi Ne Had Kar Di", "slug_title": "diwangi-ne-had-kar-di", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

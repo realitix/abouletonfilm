@@ -1,1 +1,0 @@
-{"tmdb_id": 252420, "title": "Kaunis p\u00e4\u00e4kaupunkimme", "original_title": "Kaunis p\u00e4\u00e4kaupunkimme", "slug_title": "kaunis-paakaupunkimme", "date": "1937-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

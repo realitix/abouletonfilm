@@ -1,1 +1,0 @@
-{"tmdb_id": 342246, "title": "Window Suite of Children's Songs", "original_title": "Window Suite of Children's Songs", "slug_title": "window-suite-of-children-s-songs", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

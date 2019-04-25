@@ -1,1 +1,0 @@
-{"tmdb_id": 222168, "title": "Ralph S. Mouse", "original_title": "Ralph S. Mouse", "slug_title": "ralph-s-mouse", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

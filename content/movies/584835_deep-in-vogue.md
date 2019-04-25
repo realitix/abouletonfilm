@@ -1,1 +1,0 @@
-{"tmdb_id": 584835, "title": "Deep in Vogue", "original_title": "Deep in Vogue", "slug_title": "deep-in-vogue", "date": "2018-11-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

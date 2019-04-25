@@ -1,1 +1,0 @@
-{"tmdb_id": 326258, "title": "A Photographer's Journey", "original_title": "A Photographer's Journey", "slug_title": "a-photographer-s-journey", "date": "2015-02-24", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

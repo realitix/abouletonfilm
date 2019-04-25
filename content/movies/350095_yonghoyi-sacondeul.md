@@ -1,1 +1,0 @@
-{"tmdb_id": 350095, "title": "\uc6a9\ud638\uc758 \uc0ac\ucd0c\ub4e4", "original_title": "\uc6a9\ud638\uc758 \uc0ac\ucd0c\ub4e4", "slug_title": "yonghoyi-sacondeul", "date": "1981-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

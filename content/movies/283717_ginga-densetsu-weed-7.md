@@ -1,1 +1,0 @@
-{"tmdb_id": 283717, "title": "Ginga Densetsu Weed 7", "original_title": "Ginga Densetsu Weed 7", "slug_title": "ginga-densetsu-weed-7", "date": "2007-11-13", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3UHNNqLA1C8Vnyq1Acy9b72rO9R.jpg", "actors": [], "comments": [], "recommandations_id": []}

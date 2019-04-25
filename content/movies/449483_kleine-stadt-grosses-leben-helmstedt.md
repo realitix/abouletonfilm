@@ -1,1 +1,0 @@
-{"tmdb_id": 449483, "title": "Kleine Stadt \u2013 Gro\u00dfes Leben (Helmstedt)", "original_title": "Kleine Stadt \u2013 Gro\u00dfes Leben (Helmstedt)", "slug_title": "kleine-stadt-grosses-leben-helmstedt", "date": "1950-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

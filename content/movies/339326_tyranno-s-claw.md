@@ -1,1 +1,0 @@
-{"tmdb_id": 339326, "title": "Tyranno's Claw", "original_title": "Tirannoui baltob", "slug_title": "tyranno-s-claw", "date": "1994-05-08", "genre": "Fantastique / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7zMGzBdWrqKAA5V5kAyisLjzqmK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 529726, "title": "Serpentine", "original_title": "Serpentine", "slug_title": "serpentine", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pgZkKVudxJdzxEGW3xepO3PzmCc.jpg", "actors": [], "comments": [], "recommandations_id": []}

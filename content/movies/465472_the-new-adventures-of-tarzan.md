@@ -1,1 +1,0 @@
-{"tmdb_id": 465472, "title": "The New Adventures Of Tarzan", "original_title": "The New Adventures Of Tarzan", "slug_title": "the-new-adventures-of-tarzan", "date": "1935-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

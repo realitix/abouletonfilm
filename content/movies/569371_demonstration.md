@@ -1,1 +1,0 @@
-{"tmdb_id": 569371, "title": "Demonstration", "original_title": "Demonstration", "slug_title": "demonstration", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

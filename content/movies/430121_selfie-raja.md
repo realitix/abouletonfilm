@@ -1,1 +1,0 @@
-{"tmdb_id": 430121, "title": "Selfie Raja", "original_title": "Selfie Raja", "slug_title": "selfie-raja", "date": "2016-07-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vAmQWDiN9tL67JOZWNp3qqHmfjB.jpg", "actors": ["Allari Naresh ()", "Krishna Bhagavan ()"], "comments": [], "recommandations_id": []}

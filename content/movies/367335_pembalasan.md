@@ -1,1 +1,0 @@
-{"tmdb_id": 367335, "title": "Pembalasan", "original_title": "Pembalasan", "slug_title": "pembalasan", "date": "1950-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Siput Sarawak ()", "Dato' S.Roomai Noor ()", "P. Suraiti ()", "Rokiah Hashim ()"], "comments": [], "recommandations_id": []}

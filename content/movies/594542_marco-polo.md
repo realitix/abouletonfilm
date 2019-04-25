@@ -1,1 +1,0 @@
-{"tmdb_id": 594542, "title": "Marco Polo", "original_title": "Marco Polo", "slug_title": "marco-polo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christina DeRosa (Lauren)", "Bryce Wagoner (Marco Polo)"], "comments": [], "recommandations_id": []}

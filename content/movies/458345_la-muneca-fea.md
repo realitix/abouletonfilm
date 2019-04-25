@@ -1,1 +1,0 @@
-{"tmdb_id": 458345, "title": "La Mu\u00f1eca Fea", "original_title": "La Mu\u00f1eca Fea", "slug_title": "la-muneca-fea", "date": "2017-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b21d9UWsX3x7XFpFe0ru5WjRB0K.jpg", "actors": [], "comments": [], "recommandations_id": []}

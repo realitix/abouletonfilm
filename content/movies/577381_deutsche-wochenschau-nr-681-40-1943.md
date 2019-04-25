@@ -1,1 +1,0 @@
-{"tmdb_id": 577381, "title": "Deutsche Wochenschau Nr. 681/40/1943", "original_title": "Deutsche Wochenschau Nr. 681/40/1943", "slug_title": "deutsche-wochenschau-nr-681-40-1943", "date": "1943-09-22", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 537332, "title": "Face Value", "original_title": "Face Value", "slug_title": "face-value", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

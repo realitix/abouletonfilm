@@ -1,1 +1,0 @@
-{"tmdb_id": 366588, "title": "The Last Drawing of Canaletto", "original_title": "The Last Drawing of Canaletto", "slug_title": "the-last-drawing-of-canaletto", "date": "2000-02-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

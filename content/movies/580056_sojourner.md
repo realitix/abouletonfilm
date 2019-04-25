@@ -1,1 +1,0 @@
-{"tmdb_id": 580056, "title": "Sojourner", "original_title": "Sojourner", "slug_title": "sojourner", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

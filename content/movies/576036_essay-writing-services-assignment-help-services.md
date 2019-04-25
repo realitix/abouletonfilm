@@ -1,1 +1,0 @@
-{"tmdb_id": 576036, "title": "Essay Writing Services | Assignment Help Services", "original_title": "Essay Writing Services | Assignment Help Services", "slug_title": "essay-writing-services-assignment-help-services", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 478496, "title": "A Friendship in Tow/Toe", "original_title": "At\u00e9 a pr\u00f3/cima!", "slug_title": "a-friendship-in-tow-toe", "date": "2017-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

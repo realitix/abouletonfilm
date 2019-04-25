@@ -1,1 +1,0 @@
-{"tmdb_id": 393121, "title": "Insanity: Max Recovery", "original_title": "Insanity: Max Recovery", "slug_title": "insanity-max-recovery", "date": "2009-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eWv4lw1b0YvDCjYcY6C5PS1zmz.jpg", "actors": ["Shaun T. (Himself)"], "comments": [], "recommandations_id": []}

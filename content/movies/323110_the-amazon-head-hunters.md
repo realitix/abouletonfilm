@@ -1,1 +1,0 @@
-{"tmdb_id": 323110, "title": "The Amazon Head Hunters", "original_title": "Au Pays du Scalp", "slug_title": "the-amazon-head-hunters", "date": "1932-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t2x9aqc4GYTuRtvKsNrKW72n1F8.jpg", "actors": ["Marquis de Wavrin (Himself)"], "comments": [], "recommandations_id": []}

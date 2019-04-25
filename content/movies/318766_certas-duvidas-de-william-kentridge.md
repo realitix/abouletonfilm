@@ -1,1 +1,0 @@
-{"tmdb_id": 318766, "title": "Certas D\u00favidas de William Kentridge", "original_title": "Certas D\u00favidas de William Kentridge", "slug_title": "certas-duvidas-de-william-kentridge", "date": "2007-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

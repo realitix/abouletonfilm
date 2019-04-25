@@ -1,1 +1,0 @@
-{"tmdb_id": 360954, "title": "The Little Master", "original_title": "The Little Master", "slug_title": "the-little-master", "date": "2015-02-15", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qfs9feIlpu1Mg6eWBGRto29gevp.jpg", "actors": [], "comments": [], "recommandations_id": []}

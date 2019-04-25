@@ -1,1 +1,0 @@
-{"tmdb_id": 284922, "title": "Man and Woman", "original_title": "Aadmi Aur Aurat", "slug_title": "man-and-woman", "date": "1984-04-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jGXhCUzftzxHbNoxJgutPc5Xatn.jpg", "actors": ["Amol Palekar ()", "Mahua Roy Chowdhury ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 565164, "title": "Farm Babies And Their Mothers", "original_title": "Farm Babies And Their Mothers", "slug_title": "farm-babies-and-their-mothers", "date": "1954-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 474632, "title": "Interval Oakland 99", "original_title": "Interval Oakland 99", "slug_title": "interval-oakland-99", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A9C5n8YK9Ct0doqsdqWWfimbZ6p.jpg", "actors": [], "comments": [], "recommandations_id": []}

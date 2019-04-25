@@ -1,1 +1,0 @@
-{"tmdb_id": 595810, "title": "Terra di nessuno", "original_title": "Terra di nessuno", "slug_title": "terra-di-nessuno", "date": "2015-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lLLu4i4uLrx26DANxWRYP5CtvKp.jpg", "actors": [], "comments": [], "recommandations_id": []}

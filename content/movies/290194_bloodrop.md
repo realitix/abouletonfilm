@@ -1,1 +1,0 @@
-{"tmdb_id": 290194, "title": "Bloodrop", "original_title": "Bloodrop", "slug_title": "bloodrop", "date": "2011-03-21", "genre": "Fantastique", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uXlCJKI5sy8WQIFjlvFkpZssIpR.jpg", "actors": ["Grigoriy Dobrygin ()", "Ina Maria Jaich ()"], "comments": [], "recommandations_id": []}

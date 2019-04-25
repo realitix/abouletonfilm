@@ -1,1 +1,0 @@
-{"tmdb_id": 358169, "title": "Golden Films - Little Mermaid", "original_title": "Golden Films - Little Mermaid", "slug_title": "golden-films-little-mermaid", "date": "1992-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2yAEvkVVb1gSYtkt2Gu212QElk3.jpg", "actors": [], "comments": [], "recommandations_id": []}

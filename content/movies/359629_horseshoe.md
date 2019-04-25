@@ -1,1 +1,0 @@
-{"tmdb_id": 359629, "title": "Horseshoe", "original_title": "Horseshoe", "slug_title": "horseshoe", "date": "1998-05-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alan Hickman (Charles)", "Lyn Waldegrave (Dentist)", "Don Fellows (Voice)"], "comments": [], "recommandations_id": []}

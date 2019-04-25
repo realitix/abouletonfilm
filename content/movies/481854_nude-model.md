@@ -1,1 +1,0 @@
-{"tmdb_id": 481854, "title": "Nude Model", "original_title": "\ub204\ub4dc\ubaa8\ub378", "slug_title": "nude-model", "date": "2017-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uh2XSyL86xECgizmG4VRG2vEnge.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 174714, "title": "Won by a Fowl", "original_title": "Won by a Fowl", "slug_title": "won-by-a-fowl", "date": "1917-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

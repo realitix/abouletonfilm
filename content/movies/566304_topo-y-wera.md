@@ -1,1 +1,0 @@
-{"tmdb_id": 566304, "title": "Topo y Wera", "original_title": "Topo y Wera", "slug_title": "topo-y-wera", "date": "2018-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

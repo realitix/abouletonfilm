@@ -1,1 +1,0 @@
-{"tmdb_id": 388142, "title": "Nineteen", "original_title": "Nineteen", "slug_title": "nineteen", "date": "2015-05-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jWCJsbI8OWe5FrJ0iSEdosUfgaT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 81418, "title": "Star Wars: Deleted Magic", "original_title": "Star Wars: Deleted Magic", "slug_title": "star-wars-deleted-magic", "date": "2005-03-01", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qf6qlr8zqe8Pqrk2y9RcC43htde.jpg", "actors": [], "comments": [], "recommandations_id": []}

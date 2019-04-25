@@ -1,1 +1,0 @@
-{"tmdb_id": 429162, "title": "Pretty Boy", "original_title": "Pretty Boy", "slug_title": "pretty-boy", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Gibbons ()"], "comments": [], "recommandations_id": []}

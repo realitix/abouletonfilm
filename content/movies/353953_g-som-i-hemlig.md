@@ -1,1 +1,0 @@
-{"tmdb_id": 353953, "title": "G som i hemlig", "original_title": "G som i hemlig", "slug_title": "g-som-i-hemlig", "date": "1994-03-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

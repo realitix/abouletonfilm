@@ -1,1 +1,0 @@
-{"tmdb_id": 506142, "title": "The Bristled Dagger", "original_title": "The Bristled Dagger", "slug_title": "the-bristled-dagger", "date": "1996-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/382hekO4G5JhwUimf5KDVURg6Ra.jpg", "actors": [], "comments": [], "recommandations_id": []}

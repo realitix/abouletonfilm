@@ -1,1 +1,0 @@
-{"tmdb_id": 422588, "title": "E\u0301changeur", "original_title": "E\u0301changeur", "slug_title": "echangeur", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

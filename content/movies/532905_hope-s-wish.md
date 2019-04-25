@@ -1,1 +1,0 @@
-{"tmdb_id": 532905, "title": "Hope's Wish", "original_title": "Hope's Wish", "slug_title": "hope-s-wish", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Queen Latifah (Toni Dubois)"], "comments": [], "recommandations_id": []}

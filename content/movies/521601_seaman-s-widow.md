@@ -1,1 +1,0 @@
-{"tmdb_id": 521601, "title": "Seaman's Widow", "original_title": "La veuve du marin", "slug_title": "seaman-s-widow", "date": "1907-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 271400, "title": "Pongo Arrives", "original_title": "Pongo Arrives", "slug_title": "pongo-arrives", "date": "1925-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

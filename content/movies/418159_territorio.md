@@ -1,1 +1,0 @@
-{"tmdb_id": 418159, "title": "Territorio", "original_title": "Territorio", "slug_title": "territorio", "date": "2016-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zrmtA2qKQDj6YTdWiuBUTDKAqaB.jpg", "actors": [], "comments": [], "recommandations_id": []}

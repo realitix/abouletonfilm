@@ -1,1 +1,0 @@
-{"tmdb_id": 167279, "title": "The Inspector Lynley Mysteries", "original_title": "The Inspector Lynley Mysteries", "slug_title": "the-inspector-lynley-mysteries", "date": "", "genre": "", "score": "7.2/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

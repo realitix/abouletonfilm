@@ -1,1 +1,0 @@
-{"tmdb_id": 420642, "title": "Set of Co-incidence", "original_title": "Set of Co-incidence", "slug_title": "set-of-co-incidence", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3dWF2ctzrvqCGXiSuD2JkBoNNYm.jpg", "actors": ["Peter Campus ()"], "comments": [], "recommandations_id": []}

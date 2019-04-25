@@ -1,1 +1,0 @@
-{"tmdb_id": 493134, "title": "Charlie Hebdo, Avant le Massacre", "original_title": "Charlie Hebdo, Avant le Massacre", "slug_title": "charlie-hebdo-avant-le-massacre", "date": "2015-01-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

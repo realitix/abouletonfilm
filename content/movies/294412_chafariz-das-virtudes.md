@@ -1,1 +1,0 @@
-{"tmdb_id": 294412, "title": "Chafariz das Virtudes", "original_title": "Chafariz das Virtudes", "slug_title": "chafariz-das-virtudes", "date": "2014-09-22", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zRxcwwKwMrpCDQjLOvMdTT0JwAs.jpg", "actors": [], "comments": [], "recommandations_id": []}

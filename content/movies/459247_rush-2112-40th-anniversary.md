@@ -1,1 +1,0 @@
-{"tmdb_id": 459247, "title": "Rush 2112 40th Anniversary", "original_title": "Rush 2112 40th Anniversary", "slug_title": "rush-2112-40th-anniversary", "date": "2016-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i0Rb5ZevupV5NWfXD413SDqoxaL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 47066, "title": "Mirror Image", "original_title": "\u547d\u5e26\u8ffd\u9010", "slug_title": "mirror-image", "date": "2000-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ZGqavwWLOFtZQm94vrLS9JvcBv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 287650, "title": "Potential Employee", "original_title": "Potential Employee", "slug_title": "potential-employee", "date": "2009-04-01", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Angela Johnson (Melinda)", "Eden Porter (Janice)"], "comments": [], "recommandations_id": []}

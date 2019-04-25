@@ -1,1 +1,0 @@
-{"tmdb_id": 262055, "title": "Rise Against - Rock Am Ring", "original_title": "Rise Against - Rock Am Ring", "slug_title": "rise-against-rock-am-ring", "date": "2010-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gsBZlEb3Ypup63uzRzqwT1U4RhJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 478280, "title": "Girl from Nowhere", "original_title": "Girl from Nowhere", "slug_title": "girl-from-nowhere", "date": "2017-09-29", "genre": "Thriller", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yVgGbCiGS2rGDH4kzt6TqfK2xWu.jpg", "actors": ["Scot Cooper (Hugh)"], "comments": [], "recommandations_id": []}

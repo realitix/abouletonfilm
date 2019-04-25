@@ -1,1 +1,1 @@
-{"tmdb_id": 556006, "title": "La gitanilla", "original_title": "La gitanilla", "slug_title": "la-gitanilla", "date": "1924-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 556006, "title": "La gitanilla", "original_title": "La gitanilla", "slug_title": "la-gitanilla", "date": "1924-04-18", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

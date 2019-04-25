@@ -1,1 +1,0 @@
-{"tmdb_id": 302947, "title": "Minor Differences", "original_title": "Minor Differences", "slug_title": "minor-differences", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 351257, "title": "Salty McGuire", "original_title": "Salty McGuire", "slug_title": "salty-mcguire", "date": "1937-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

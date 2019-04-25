@@ -1,1 +1,0 @@
-{"tmdb_id": 412794, "title": "Castro Alves", "original_title": "Castro Alves", "slug_title": "castro-alves", "date": "1948-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s3OJTnBfxzL8QE48HB6xvHgRdv4.jpg", "actors": ["Jorge Silva (Narrador)"], "comments": [], "recommandations_id": []}

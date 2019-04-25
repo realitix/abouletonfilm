@@ -1,1 +1,0 @@
-{"tmdb_id": 128905, "title": "Lucky Luke: Billy the Kid", "original_title": "Lucky Luke: Billy the Kid", "slug_title": "lucky-luke-billy-the-kid", "date": "2003-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gyQ1fLRl0FPwMBSgFnSTnbp8pft.jpg", "actors": [], "comments": [], "recommandations_id": []}

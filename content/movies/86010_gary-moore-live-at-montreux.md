@@ -1,1 +1,0 @@
-{"tmdb_id": 86010, "title": "Gary Moore: Live at Montreux", "original_title": "Gary Moore: Live at Montreux", "slug_title": "gary-moore-live-at-montreux", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5boWSjJjD4GOmBwJQpelrdPwejX.jpg", "actors": [], "comments": [], "recommandations_id": []}

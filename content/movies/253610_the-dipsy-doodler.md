@@ -1,1 +1,0 @@
-{"tmdb_id": 253610, "title": "The Dipsy Doodler", "original_title": "The Dipsy Doodler", "slug_title": "the-dipsy-doodler", "date": "1940-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

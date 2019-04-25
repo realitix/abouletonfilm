@@ -1,1 +1,0 @@
-{"tmdb_id": 236720, "title": "Aladdin's Lamp", "original_title": "Aladdin's Lamp", "slug_title": "aladdin-s-lamp", "date": "1943-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

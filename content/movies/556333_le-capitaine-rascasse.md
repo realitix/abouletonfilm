@@ -1,1 +1,0 @@
-{"tmdb_id": 556333, "title": "Le capitaine Rascasse", "original_title": "Le capitaine Rascasse", "slug_title": "le-capitaine-rascasse", "date": "1927-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

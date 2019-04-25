@@ -1,1 +1,0 @@
-{"tmdb_id": 274613, "title": "FDR: Robert Vaughn One-Man Show", "original_title": "FDR: Robert Vaughn One-Man Show", "slug_title": "fdr-robert-vaughn-one-man-show", "date": "1982-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

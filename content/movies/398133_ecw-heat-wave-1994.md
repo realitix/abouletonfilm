@@ -1,1 +1,0 @@
-{"tmdb_id": 398133, "title": "ECW Heat Wave 1994", "original_title": "ECW Heat Wave 1994", "slug_title": "ecw-heat-wave-1994", "date": "1994-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qIXKiS8ik8YHiVxSsBheQJHTEa1.jpg", "actors": [], "comments": [], "recommandations_id": []}

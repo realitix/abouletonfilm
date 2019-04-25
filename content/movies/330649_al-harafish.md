@@ -1,1 +1,0 @@
-{"tmdb_id": 330649, "title": "Al-Harafish", "original_title": "\u0627\u0644\u062d\u0631\u0627\u0641\u064a\u0634", "slug_title": "al-harafish", "date": "1986-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cUHQB7sFscdI6FHC03IJowPDdF5.jpg", "actors": [], "comments": [], "recommandations_id": []}

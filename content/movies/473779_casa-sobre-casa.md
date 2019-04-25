@@ -1,1 +1,0 @@
-{"tmdb_id": 473779, "title": "Casa sobre Casa", "original_title": "Casa sobre Casa", "slug_title": "casa-sobre-casa", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

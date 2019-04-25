@@ -1,1 +1,0 @@
-{"tmdb_id": 534986, "title": "Un d\u00eda con Amen\u00e1bar", "original_title": "Un d\u00eda con Amen\u00e1bar", "slug_title": "un-dia-con-amenabar", "date": "2003-01-01", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

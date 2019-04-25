@@ -1,1 +1,0 @@
-{"tmdb_id": 475890, "title": "Mo\u00efse sauv\u00e9 des eaux", "original_title": "Mo\u00efse sauv\u00e9 des eaux", "slug_title": "moise-sauve-des-eaux", "date": "1911-04-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean Jacquinet ()", "Madeleine Roch ()"], "comments": [], "recommandations_id": []}

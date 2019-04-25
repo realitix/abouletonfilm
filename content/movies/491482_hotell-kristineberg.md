@@ -1,1 +1,0 @@
-{"tmdb_id": 491482, "title": "Hotell Kristineberg", "original_title": "Hotell Kristineberg", "slug_title": "hotell-kristineberg", "date": "2016-03-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2AmpzbJOJHzE9VrXKPLk35h9bzi.jpg", "actors": [], "comments": [], "recommandations_id": []}

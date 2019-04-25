@@ -1,1 +1,0 @@
-{"tmdb_id": 194252, "title": "Scaphandrier", "original_title": "Scaphandrier", "slug_title": "scaphandrier", "date": "1896-05-02", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mC2AMCL4dey9m75XyFTDBuEdCgY.jpg", "actors": [], "comments": [], "recommandations_id": []}

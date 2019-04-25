@@ -1,1 +1,0 @@
-{"tmdb_id": 414401, "title": "L'arroseur arros\u00e9", "original_title": "L'arroseur arros\u00e9", "slug_title": "l-arroseur-arrose", "date": "1897-09-05", "genre": "", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nrkmhKq6gWfrXjXq95aEIZh32YQ.jpg", "actors": [], "comments": [], "recommandations_id": [321752, 114128, 104460, 190573]}

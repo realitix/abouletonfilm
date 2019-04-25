@@ -1,1 +1,0 @@
-{"tmdb_id": 123290, "title": "Kany Garcia", "original_title": "Kany Garcia", "slug_title": "kany-garcia", "date": "2012-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kany Garcia ()"], "comments": [], "recommandations_id": []}

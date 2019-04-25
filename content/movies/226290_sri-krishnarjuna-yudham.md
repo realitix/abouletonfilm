@@ -1,1 +1,0 @@
-{"tmdb_id": 226290, "title": "Sri Krishnarjuna Yudham", "original_title": "Sri Krishnarjuna Yudham", "slug_title": "sri-krishnarjuna-yudham", "date": "1963-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

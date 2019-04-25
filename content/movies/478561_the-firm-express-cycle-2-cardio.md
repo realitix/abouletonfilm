@@ -1,1 +1,0 @@
-{"tmdb_id": 478561, "title": "The FIRM Express: Cycle 2 - Cardio", "original_title": "The FIRM Express: Cycle 2 - Cardio", "slug_title": "the-firm-express-cycle-2-cardio", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Zxak1Z5FGJCxeb3FhFv21VFfAv.jpg", "actors": [], "comments": [], "recommandations_id": []}

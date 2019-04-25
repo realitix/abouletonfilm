@@ -1,1 +1,0 @@
-{"tmdb_id": 430869, "title": "Picturesque Patzcuaro", "original_title": "Picturesque Patzcuaro", "slug_title": "picturesque-patzcuaro", "date": "1942-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXkZH46ps9C7cqV8cl6SLVqpmKp.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

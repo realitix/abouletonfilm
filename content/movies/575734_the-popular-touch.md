@@ -1,1 +1,0 @@
-{"tmdb_id": 575734, "title": "The Popular Touch", "original_title": "The Popular Touch", "slug_title": "the-popular-touch", "date": "2019-01-12", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ulUp7yz2uuOu7SywG04YDjfZJMj.jpg", "actors": [], "comments": [], "recommandations_id": []}

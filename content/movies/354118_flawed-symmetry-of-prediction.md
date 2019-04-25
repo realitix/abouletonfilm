@@ -1,1 +1,0 @@
-{"tmdb_id": 354118, "title": "Flawed Symmetry of Prediction", "original_title": "Flawed Symmetry of Prediction", "slug_title": "flawed-symmetry-of-prediction", "date": "2013-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zvEvHJ4eoxeAGOk5kMwDaYh8qgn.jpg", "actors": [], "comments": [], "recommandations_id": []}

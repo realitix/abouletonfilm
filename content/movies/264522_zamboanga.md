@@ -1,1 +1,0 @@
-{"tmdb_id": 264522, "title": "Zamboanga", "original_title": "Zamboanga", "slug_title": "zamboanga", "date": "2011-04-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zNPgr2wRF1a9WBtiMlAX9rNmtv5.jpg", "actors": [], "comments": [], "recommandations_id": []}

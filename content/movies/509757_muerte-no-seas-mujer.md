@@ -1,1 +1,0 @@
-{"tmdb_id": 509757, "title": "Muerte, no seas mujer", "original_title": "Muerte, no seas mujer", "slug_title": "muerte-no-seas-mujer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

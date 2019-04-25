@@ -1,1 +1,0 @@
-{"tmdb_id": 21426, "title": "La doublure", "original_title": "La doublure", "slug_title": "la-doublure", "date": "1909-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 562520, "title": "The Hideout", "original_title": "La planque", "slug_title": "the-hideout", "date": "1962-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cQd63PY6lhm5AUAxEfrg82M4J4B.jpg", "actors": [], "comments": [], "recommandations_id": []}

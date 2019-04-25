@@ -1,1 +1,0 @@
-{"tmdb_id": 171326, "title": "Postis Per - Den Hungriga Geten", "original_title": "Postis Per - Den Hungriga Geten", "slug_title": "postis-per-den-hungriga-geten", "date": "2005-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ypT5TW3NaVcjjseKPX5auv9PN8P.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 149329, "title": "Always a New Beginning", "original_title": "Always a New Beginning", "slug_title": "always-a-new-beginning", "date": "1974-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kBxJT4uYYO6Vis6n0QBRiCPpvwD.jpg", "actors": [], "comments": [], "recommandations_id": []}

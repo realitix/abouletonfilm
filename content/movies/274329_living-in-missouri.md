@@ -1,1 +1,0 @@
-{"tmdb_id": 274329, "title": "Living in Missouri", "original_title": "Living in Missouri", "slug_title": "living-in-missouri", "date": "2001-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 413677, "title": "Singularity", "original_title": "Singularity", "slug_title": "singularity", "date": "2013-12-12", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniel Strehle ()"], "comments": [], "recommandations_id": []}

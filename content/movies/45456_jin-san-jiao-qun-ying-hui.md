@@ -1,1 +1,0 @@
-{"tmdb_id": 45456, "title": "Jin san jiao qun ying hui", "original_title": "Jin san jiao qun ying hui", "slug_title": "jin-san-jiao-qun-ying-hui", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

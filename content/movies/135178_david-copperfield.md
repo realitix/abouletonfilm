@@ -1,1 +1,0 @@
-{"tmdb_id": 135178, "title": "David Copperfield", "original_title": "David Copperfield", "slug_title": "david-copperfield", "date": "2004-07-19", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 467550, "title": "Vocatta", "original_title": "\u09ad\u09cb\u0995\u09be\u099f\u09cd\u099f\u09be", "slug_title": "vocatta", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

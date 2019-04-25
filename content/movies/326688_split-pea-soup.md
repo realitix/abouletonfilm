@@ -1,1 +1,0 @@
-{"tmdb_id": 326688, "title": "Split Pea Soup", "original_title": "Split Pea Soup", "slug_title": "split-pea-soup", "date": "2004-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mlh8zAgV1WyfLcxvvjWvTiuCAQb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 529754, "title": "Geenie Reenie", "original_title": "Geenie Reenie", "slug_title": "geenie-reenie", "date": "2017-11-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8uySZj7lYwNN91yi8N2y1RQQbWM.jpg", "actors": ["Andrew Onorato (Dozen (voice))"], "comments": [], "recommandations_id": []}

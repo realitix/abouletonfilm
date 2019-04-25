@@ -1,1 +1,0 @@
-{"tmdb_id": 126216, "title": "Comingled Containers", "original_title": "Comingled Containers", "slug_title": "comingled-containers", "date": "1997-01-01", "genre": "", "score": "6.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/td4O9BT6S0IDFx0vdc8EE8Q1O4o.jpg", "actors": [], "comments": [], "recommandations_id": [126215, 105717, 126189, 126200]}

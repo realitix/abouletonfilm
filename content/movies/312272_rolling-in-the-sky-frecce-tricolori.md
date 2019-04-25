@@ -1,1 +1,0 @@
-{"tmdb_id": 312272, "title": "Rolling in the Sky: Frecce Tricolori", "original_title": "Rolling in the Sky: Frecce Tricolori", "slug_title": "rolling-in-the-sky-frecce-tricolori", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

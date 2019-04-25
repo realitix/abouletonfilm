@@ -1,1 +1,0 @@
-{"tmdb_id": 436563, "title": "Morzh (Walrus)", "original_title": "Morzh (Walrus)", "slug_title": "morzh-walrus", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iXQiJkLg8cFe3sgw7E4uRH6GeQM.jpg", "actors": [], "comments": [], "recommandations_id": []}

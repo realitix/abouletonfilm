@@ -1,1 +1,0 @@
-{"tmdb_id": 515190, "title": "O Desmonte do Monte", "original_title": "O Desmonte do Monte", "slug_title": "o-desmonte-do-monte", "date": "2018-03-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kYt45V9W9tUUyWNdQUOyoX7p2Gb.jpg", "actors": [], "comments": [], "recommandations_id": []}

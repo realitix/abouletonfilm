@@ -1,1 +1,0 @@
-{"tmdb_id": 576395, "title": "Inspired Bicycles", "original_title": "Inspired Bicycles", "slug_title": "inspired-bicycles", "date": "2009-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Danny MacAskill ()"], "comments": [], "recommandations_id": []}

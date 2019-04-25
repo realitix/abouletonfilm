@@ -1,1 +1,0 @@
-{"tmdb_id": 203892, "title": "Killing Love", "original_title": "Killing Love", "slug_title": "killing-love", "date": "2013-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nRo2TL9qdJhbYCLbhBDQ1WM9a6t.jpg", "actors": [], "comments": [], "recommandations_id": []}

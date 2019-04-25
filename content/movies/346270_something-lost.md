@@ -1,1 +1,0 @@
-{"tmdb_id": 346270, "title": "Something Lost", "original_title": "Something Lost", "slug_title": "something-lost", "date": "2011-06-26", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sofia Mehlum (Woman)", "Peter Vadsager (Man)"], "comments": [], "recommandations_id": []}

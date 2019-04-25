@@ -1,1 +1,0 @@
-{"tmdb_id": 521524, "title": "La Campana del Chaco", "original_title": "La Campana del Chaco", "slug_title": "la-campana-del-chaco", "date": "1933-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 87778, "title": "The Oiling of America", "original_title": "The Oiling of America", "slug_title": "the-oiling-of-america", "date": "2008-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5b0mqdCqln8DU5CBxBoS297U5i4.jpg", "actors": [], "comments": [], "recommandations_id": []}

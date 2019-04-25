@@ -1,1 +1,0 @@
-{"tmdb_id": 349527, "title": "\ubbf8\ub780\ub2e4", "original_title": "\ubbf8\ub780\ub2e4", "slug_title": "miranda", "date": "1995-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

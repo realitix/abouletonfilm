@@ -1,1 +1,0 @@
-{"tmdb_id": 341488, "title": "White Whales", "original_title": "Skytturnar", "slug_title": "white-whales", "date": "1987-02-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ZtcoPz9Duu97igsIyP755o30v1.jpg", "actors": [], "comments": [], "recommandations_id": []}

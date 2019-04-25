@@ -1,1 +1,0 @@
-{"tmdb_id": 568321, "title": "Softhard-Long Time No See 2006", "original_title": "Softhard-Long Time No See 2006", "slug_title": "softhard-long-time-no-see-2006", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jN8Zj1n2x6Z3zOEO6lkb9zmxYvV.jpg", "actors": [], "comments": [], "recommandations_id": []}

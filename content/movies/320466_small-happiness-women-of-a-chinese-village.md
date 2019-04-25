@@ -1,1 +1,0 @@
-{"tmdb_id": 320466, "title": "Small Happiness: Women of a Chinese Village", "original_title": "Small Happiness: Women of a Chinese Village", "slug_title": "small-happiness-women-of-a-chinese-village", "date": "1987-08-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

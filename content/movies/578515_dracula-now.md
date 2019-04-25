@@ -1,1 +1,1 @@
-{"tmdb_id": 578515, "title": "Dracula Now", "original_title": "Dracula Now", "slug_title": "dracula-now", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 578515, "title": "Dracula Now", "original_title": "Dracula Now", "slug_title": "dracula-now", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Modern adaptation of Dracula", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

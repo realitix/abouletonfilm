@@ -1,1 +1,0 @@
-{"tmdb_id": 554000, "title": "Le chemin des \u00e9coliers", "original_title": "Le chemin des \u00e9coliers", "slug_title": "le-chemin-des-ecoliers", "date": "1935-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

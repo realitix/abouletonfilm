@@ -1,1 +1,0 @@
-{"tmdb_id": 372431, "title": "Smallpox", "original_title": "Smallpox", "slug_title": "smallpox", "date": "2002-02-05", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brian Cox (Narrator)"], "comments": [], "recommandations_id": []}

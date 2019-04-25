@@ -1,1 +1,0 @@
-{"tmdb_id": 456279, "title": "The Square Root", "original_title": "The Square Root", "slug_title": "the-square-root", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/PzSz1WEuq3Tai7atq7V22zmYDF.jpg", "actors": ["Sylvester Stallone ()", "Tina Robertson ()"], "comments": [], "recommandations_id": []}

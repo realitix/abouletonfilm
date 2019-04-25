@@ -1,1 +1,0 @@
-{"tmdb_id": 470712, "title": "The Janitor's Tea Party", "original_title": "Le th\u00e9 chez la concierge", "slug_title": "the-janitor-s-tea-party", "date": "1907-03-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Henri Gallet ()", "Louis Pr\u00e9 Fils ()", "Alice Tissot ()"], "comments": [], "recommandations_id": []}

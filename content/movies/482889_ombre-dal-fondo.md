@@ -1,1 +1,0 @@
-{"tmdb_id": 482889, "title": "Ombre dal fondo", "original_title": "Ombre dal fondo", "slug_title": "ombre-dal-fondo", "date": "2016-09-09", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ehKZGwM4u9JPDvftldFd90EHeJK.jpg", "actors": ["Domenico Quirico (S\u00e9 stesso)"], "comments": [], "recommandations_id": []}

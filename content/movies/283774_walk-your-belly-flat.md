@@ -1,1 +1,0 @@
-{"tmdb_id": 283774, "title": "Walk Your Belly Flat", "original_title": "Walk Your Belly Flat", "slug_title": "walk-your-belly-flat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/omcJ2rQc3pwdMQRpnWP7zmuDZAo.jpg", "actors": [], "comments": [], "recommandations_id": []}

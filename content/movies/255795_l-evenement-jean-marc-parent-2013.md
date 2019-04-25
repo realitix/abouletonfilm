@@ -1,1 +1,0 @@
-{"tmdb_id": 255795, "title": "L'\u00e9v\u00e8nement Jean-Marc Parent 2013", "original_title": "L'\u00e9v\u00e8nement Jean-Marc Parent 2013", "slug_title": "l-evenement-jean-marc-parent-2013", "date": "2013-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

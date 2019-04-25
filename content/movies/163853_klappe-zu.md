@@ -1,1 +1,0 @@
-{"tmdb_id": 163853, "title": "Klappe zu", "original_title": "Klappe zu", "slug_title": "klappe-zu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1YxOmEfd9W4NGBJBLJInt8GJoP3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 442115, "title": "What's Happening at Local 70", "original_title": "What's Happening at Local 70", "slug_title": "what-s-happening-at-local-70", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

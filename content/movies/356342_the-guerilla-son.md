@@ -1,1 +1,0 @@
-{"tmdb_id": 356342, "title": "The Guerilla Son", "original_title": "Gerillasonen", "slug_title": "the-guerilla-son", "date": "2011-10-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zanyar Adami (Himself)", "Taher Adami (Himself)"], "comments": [], "recommandations_id": []}

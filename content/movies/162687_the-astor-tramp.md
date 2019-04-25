@@ -1,1 +1,0 @@
-{"tmdb_id": 162687, "title": "The Astor Tramp", "original_title": "The Astor Tramp", "slug_title": "the-astor-tramp", "date": "1899-11-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

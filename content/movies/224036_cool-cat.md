@@ -1,1 +1,0 @@
-{"tmdb_id": 224036, "title": "Cool Cat", "original_title": "Cool Cat", "slug_title": "cool-cat", "date": "1967-10-13", "genre": "Animation / Com\u00e9die", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/raMcUSOVFKhrKcgkcLLtFxALam1.jpg", "actors": [], "comments": [], "recommandations_id": []}

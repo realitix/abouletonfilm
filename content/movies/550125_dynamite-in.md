@@ -1,1 +1,0 @@
-{"tmdb_id": 550125, "title": "Dynamite in", "original_title": "Dynamite in", "slug_title": "dynamite-in", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

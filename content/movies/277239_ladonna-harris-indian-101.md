@@ -1,1 +1,0 @@
-{"tmdb_id": 277239, "title": "LaDonna Harris: Indian 101", "original_title": "LaDonna Harris: Indian 101", "slug_title": "ladonna-harris-indian-101", "date": "2014-03-29", "genre": "Documentaire", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Mt5JcgG9GpoexgWE1zXBdsHDc3.jpg", "actors": [], "comments": [], "recommandations_id": []}

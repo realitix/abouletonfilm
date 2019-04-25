@@ -1,1 +1,0 @@
-{"tmdb_id": 492876, "title": "Kopfgeld", "original_title": "Kopfgeld", "slug_title": "kopfgeld", "date": "1959-06-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pinkas Braun (Viktor Tann)", "Peter Sch\u00fctte (Generaldirektor Zander)", "Robert Meyn (Thomsen)"], "comments": [], "recommandations_id": []}

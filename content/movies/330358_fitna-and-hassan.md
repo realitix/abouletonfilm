@@ -1,1 +1,0 @@
-{"tmdb_id": 330358, "title": "Fitna and Hassan", "original_title": "Fitna wa Hassan", "slug_title": "fitna-and-hassan", "date": "1955-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

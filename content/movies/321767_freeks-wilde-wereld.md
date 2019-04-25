@@ -1,1 +1,0 @@
-{"tmdb_id": 321767, "title": "Freeks Wilde Wereld", "original_title": "Freeks Wilde Wereld", "slug_title": "freeks-wilde-wereld", "date": "2015-01-20", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5NSEdamPTfCXFysKx2PnUUwF9US.jpg", "actors": ["Freek Vonk ()"], "comments": [], "recommandations_id": []}

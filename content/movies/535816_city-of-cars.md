@@ -1,1 +1,0 @@
-{"tmdb_id": 535816, "title": "City of Cars", "original_title": "City of Cars", "slug_title": "city-of-cars", "date": "2017-09-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tYXt0FQDPfUhrtgK3k8BREnCR8C.jpg", "actors": [], "comments": [], "recommandations_id": []}

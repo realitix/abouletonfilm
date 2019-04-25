@@ -1,1 +1,0 @@
-{"tmdb_id": 307461, "title": "Ganga Manga", "original_title": "Ganga Manga", "slug_title": "ganga-manga", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 377760, "title": "The Deflowering", "original_title": "The Deflowering", "slug_title": "the-deflowering", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

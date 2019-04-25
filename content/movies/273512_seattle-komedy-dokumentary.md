@@ -1,1 +1,0 @@
-{"tmdb_id": 273512, "title": "Seattle Komedy Dokumentary", "original_title": "Seattle Komedy Dokumentary", "slug_title": "seattle-komedy-dokumentary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

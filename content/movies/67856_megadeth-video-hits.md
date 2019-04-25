@@ -1,1 +1,0 @@
-{"tmdb_id": 67856, "title": "Megadeth: Video Hits", "original_title": "Megadeth: Video Hits", "slug_title": "megadeth-video-hits", "date": "2005-01-11", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t96cns3gMNljJQUzJW633GAWdBJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

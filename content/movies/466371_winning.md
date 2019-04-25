@@ -1,1 +1,0 @@
-{"tmdb_id": 466371, "title": "Winning", "original_title": "Winning", "slug_title": "winning", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

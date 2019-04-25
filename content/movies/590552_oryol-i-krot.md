@@ -1,1 +1,0 @@
-{"tmdb_id": 590552, "title": "Oryol i krot", "original_title": "Oryol i krot", "slug_title": "oryol-i-krot", "date": "1944-03-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

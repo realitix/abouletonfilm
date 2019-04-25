@@ -1,1 +1,0 @@
-{"tmdb_id": 69198, "title": "Lloyd's Lunchbox", "original_title": "Lloyd's Lunchbox", "slug_title": "lloyd-s-lunchbox", "date": "1997-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1CwNcGNeA1XZZ5H1hIAfVPvxBQl.jpg", "actors": [], "comments": [], "recommandations_id": []}

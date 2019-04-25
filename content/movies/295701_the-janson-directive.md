@@ -1,1 +1,0 @@
-{"tmdb_id": 295701, "title": "The Janson Directive", "original_title": "The Janson Directive", "slug_title": "the-janson-directive", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Cena ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 519296, "title": "Club Midnight", "original_title": "Club Midnight", "slug_title": "club-midnight", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

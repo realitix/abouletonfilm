@@ -1,1 +1,0 @@
-{"tmdb_id": 307449, "title": "Eenaati Bandham Ye Naatido", "original_title": "Eenaati Bandham Ye Naatido", "slug_title": "eenaati-bandham-ye-naatido", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

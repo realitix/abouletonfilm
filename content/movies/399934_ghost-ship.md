@@ -1,1 +1,0 @@
-{"tmdb_id": 399934, "title": "Ghost Ship", "original_title": "S\u00eepo Phantasma", "slug_title": "ghost-ship", "date": "2016-01-02", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mu8JfDURkukoIAJKCxRcUgDyPxw.jpg", "actors": ["Maider Intxauspe (Florence Balcombe)"], "comments": [], "recommandations_id": []}

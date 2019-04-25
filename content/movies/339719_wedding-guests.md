@@ -1,1 +1,0 @@
-{"tmdb_id": 339719, "title": "Wedding Guests", "original_title": "Hochzeitsg\u00e4ste", "slug_title": "wedding-guests", "date": "1990-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

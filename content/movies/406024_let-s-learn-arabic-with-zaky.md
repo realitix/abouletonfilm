@@ -1,1 +1,0 @@
-{"tmdb_id": 406024, "title": "Let's Learn Arabic with Zaky", "original_title": "Let's Learn Arabic with Zaky", "slug_title": "let-s-learn-arabic-with-zaky", "date": "2015-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/56CgXqXl57UDxo9lSzupm3i5sdk.jpg", "actors": [], "comments": [], "recommandations_id": []}

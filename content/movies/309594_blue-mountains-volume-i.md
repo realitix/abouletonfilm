@@ -1,1 +1,0 @@
-{"tmdb_id": 309594, "title": "Blue Mountains Volume I", "original_title": "Blue Mountains Volume I", "slug_title": "blue-mountains-volume-i", "date": "1990-12-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4zFXMc5ShwIQDy792M6lgMN418a.jpg", "actors": [], "comments": [], "recommandations_id": []}

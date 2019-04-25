@@ -1,1 +1,0 @@
-{"tmdb_id": 596475, "title": "Justice In Translation", "original_title": "Las visitadoras", "slug_title": "justice-in-translation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

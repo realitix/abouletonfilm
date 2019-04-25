@@ -1,1 +1,0 @@
-{"tmdb_id": 280799, "title": "One Nation Under TV", "original_title": "One Nation Under TV", "slug_title": "one-nation-under-tv", "date": "1985-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vgwKi4sx7MGXEvav7PKQmvjs2Zj.jpg", "actors": [], "comments": [], "recommandations_id": []}

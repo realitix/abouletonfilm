@@ -1,1 +1,0 @@
-{"tmdb_id": 397806, "title": "Espanish Dream", "original_title": "Espanish Dream", "slug_title": "espanish-dream", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dzPUmgHujP2wN4zCyPDRmJYZwWj.jpg", "actors": [], "comments": [], "recommandations_id": []}

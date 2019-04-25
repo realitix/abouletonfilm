@@ -1,1 +1,0 @@
-{"tmdb_id": 271249, "title": "Combat Comedy Tour", "original_title": "Combat Comedy Tour", "slug_title": "combat-comedy-tour", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 588080, "title": "The Final Ride", "original_title": "The Final Ride", "slug_title": "the-final-ride", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mrfuKmrxIB7Lsui2Udc7kHlsuhW.jpg", "actors": [], "comments": [], "recommandations_id": []}

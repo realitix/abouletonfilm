@@ -1,1 +1,0 @@
-{"tmdb_id": 300580, "title": "Anthony Daniels", "original_title": "Anthony Daniels", "slug_title": "anthony-daniels", "date": "2014-11-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2RYmiDKWznRC4YOPhuoHak1Lsj2.jpg", "actors": ["Anthony Daniels (C3PO)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 403040, "title": "The Pamplemousse", "original_title": "The Pamplemousse", "slug_title": "the-pamplemousse", "date": "2013-06-01", "genre": "Romance / Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

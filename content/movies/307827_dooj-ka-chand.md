@@ -1,1 +1,0 @@
-{"tmdb_id": 307827, "title": "Dooj Ka Chand", "original_title": "Dooj Ka Chand", "slug_title": "dooj-ka-chand", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

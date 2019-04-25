@@ -1,1 +1,0 @@
-{"tmdb_id": 533183, "title": "Ansikter", "original_title": "Ansikter", "slug_title": "ansikter", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/454EFRMuRfuCDJTytPVgq1nx3cZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

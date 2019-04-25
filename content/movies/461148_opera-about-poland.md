@@ -1,1 +1,0 @@
-{"tmdb_id": 461148, "title": "Opera About Poland", "original_title": "Opera o Polsce", "slug_title": "opera-about-poland", "date": "2017-05-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hHQHdriP9VdHS0XnwkKZf7qX0rm.jpg", "actors": [], "comments": [], "recommandations_id": []}

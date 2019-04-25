@@ -1,1 +1,0 @@
-{"tmdb_id": 212746, "title": "Fists of Pride", "original_title": "Les Poings de la Fiert\u00e9", "slug_title": "fists-of-pride", "date": "2011-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iNiH5zhiChBAhgPoPXA47E0G00i.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 325860, "title": "Luchadora", "original_title": "Luchadora", "slug_title": "luchadora", "date": "2015-02-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/th8iP7bhmPvrpdqZKzLuZiWSi6v.jpg", "actors": ["Angeles Arande (Luna M\u00e1gica)"], "comments": [], "recommandations_id": []}

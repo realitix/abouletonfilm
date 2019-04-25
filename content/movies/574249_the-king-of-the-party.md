@@ -1,1 +1,0 @@
-{"tmdb_id": 574249, "title": "The King Of The Party", "original_title": "El rey de la fiesta", "slug_title": "the-king-of-the-party", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

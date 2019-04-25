@@ -1,1 +1,0 @@
-{"tmdb_id": 311863, "title": "Han Kyung Chik", "original_title": "Han Kyung Chik", "slug_title": "han-kyung-chik", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

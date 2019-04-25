@@ -1,1 +1,0 @@
-{"tmdb_id": 358646, "title": "The Stone Carriers", "original_title": "The Stone Carriers", "slug_title": "the-stone-carriers", "date": "1982-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

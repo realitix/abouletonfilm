@@ -1,1 +1,0 @@
-{"tmdb_id": 162690, "title": "Radio Racket", "original_title": "Radio Racket", "slug_title": "radio-racket", "date": "1931-03-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

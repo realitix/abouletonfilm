@@ -1,1 +1,0 @@
-{"tmdb_id": 236914, "title": "Jasper Goes Hunting", "original_title": "Jasper Goes Hunting", "slug_title": "jasper-goes-hunting", "date": "1944-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p4dlK778fUMFgHpcMPg3GhIuneV.jpg", "actors": [], "comments": [], "recommandations_id": []}

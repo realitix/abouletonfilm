@@ -1,1 +1,0 @@
-{"tmdb_id": 470656, "title": "Scoring for Comedy", "original_title": "Scoring for Comedy", "slug_title": "scoring-for-comedy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

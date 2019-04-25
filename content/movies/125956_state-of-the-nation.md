@@ -1,1 +1,0 @@
-{"tmdb_id": 125956, "title": "State of the Nation", "original_title": "Zur Lage: \u00d6sterreich in sechs Kapiteln", "slug_title": "state-of-the-nation", "date": "2002-08-03", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nzUmqaxFzvGs2gt2VqdXm9t0yRw.jpg", "actors": [], "comments": [], "recommandations_id": []}

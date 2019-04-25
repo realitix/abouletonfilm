@@ -1,1 +1,0 @@
-{"tmdb_id": 535898, "title": "Ya Tahadi Ya Taadi", "original_title": "Ya Tahadi Ya Taadi", "slug_title": "ya-tahadi-ya-taadi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

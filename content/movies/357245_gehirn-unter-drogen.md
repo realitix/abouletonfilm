@@ -1,1 +1,0 @@
-{"tmdb_id": 357245, "title": "Gehirn unter Drogen", "original_title": "Gehirn unter Drogen", "slug_title": "gehirn-unter-drogen", "date": "2005-10-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2EG0YfbY1QKi97FzVZ2Xr5o9RES.jpg", "actors": [], "comments": [], "recommandations_id": []}

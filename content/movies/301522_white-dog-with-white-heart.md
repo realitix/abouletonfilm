@@ -1,1 +1,0 @@
-{"tmdb_id": 301522, "title": "White Dog with White Heart", "original_title": "White Dog with White Heart", "slug_title": "white-dog-with-white-heart", "date": "2000-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lyOGLWb9kr135HjywqBJVUmx0tw.jpg", "actors": [], "comments": [], "recommandations_id": []}

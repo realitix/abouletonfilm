@@ -1,1 +1,0 @@
-{"tmdb_id": 434614, "title": "21 Day Fix - Dirty 30", "original_title": "21 Day Fix - Dirty 30", "slug_title": "21-day-fix-dirty-30", "date": "2014-01-01", "genre": "", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fibaJWP1OCPhygQv3qsqxiwCcih.jpg", "actors": ["Autumn Calabrese ()"], "comments": [], "recommandations_id": []}

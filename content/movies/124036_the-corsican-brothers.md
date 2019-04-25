@@ -1,1 +1,0 @@
-{"tmdb_id": 124036, "title": "The Corsican Brothers", "original_title": "The Corsican Brothers", "slug_title": "the-corsican-brothers", "date": "1898-08-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

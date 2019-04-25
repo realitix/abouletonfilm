@@ -1,1 +1,0 @@
-{"tmdb_id": 134457, "title": "Terra Blight", "original_title": "Terra Blight", "slug_title": "terra-blight", "date": "2012-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

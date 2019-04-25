@@ -1,1 +1,0 @@
-{"tmdb_id": 333892, "title": "Till Revolution", "original_title": "Ta Azadi", "slug_title": "till-revolution", "date": "1980-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

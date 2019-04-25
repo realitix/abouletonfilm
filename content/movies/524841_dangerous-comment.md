@@ -1,1 +1,0 @@
-{"tmdb_id": 524841, "title": "Dangerous Comment", "original_title": "Dangerous Comment", "slug_title": "dangerous-comment", "date": "1940-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

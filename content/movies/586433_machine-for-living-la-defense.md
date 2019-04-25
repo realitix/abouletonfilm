@@ -1,1 +1,0 @@
-{"tmdb_id": 586433, "title": "Machine for Living - La D\u00e9fense", "original_title": "Machine for Living - La D\u00e9fense", "slug_title": "machine-for-living-la-defense", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zd0JLZyx3Uo4i9g4aREt8rnfbL1.jpg", "actors": [], "comments": [], "recommandations_id": []}

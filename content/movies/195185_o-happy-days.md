@@ -1,1 +1,0 @@
-{"tmdb_id": 195185, "title": "O Happy Days!", "original_title": "\u00d4 heureux jours!", "slug_title": "o-happy-days", "date": "2013-03-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

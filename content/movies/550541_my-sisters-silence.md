@@ -1,1 +1,0 @@
-{"tmdb_id": 550541, "title": "MY SISTER\u2019S SILENCE\u2026", "original_title": "MY SISTER\u2019S SILENCE\u2026", "slug_title": "my-sisters-silence", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vbmjEsdgjjh2Mknf4SQc5hE9dMb.jpg", "actors": [], "comments": [], "recommandations_id": []}

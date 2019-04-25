@@ -1,1 +1,0 @@
-{"tmdb_id": 420194, "title": "The Last Judgement", "original_title": "\u6881\u5929\u4f86", "slug_title": "the-last-judgement", "date": "1979-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4dRiOJ3iKhIUF6wUx9N9CaZb8ZX.jpg", "actors": [], "comments": [], "recommandations_id": []}

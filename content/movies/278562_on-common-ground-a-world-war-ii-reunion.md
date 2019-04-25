@@ -1,1 +1,0 @@
-{"tmdb_id": 278562, "title": "On Common Ground: A World War II Reunion", "original_title": "On Common Ground: A World War II Reunion", "slug_title": "on-common-ground-a-world-war-ii-reunion", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

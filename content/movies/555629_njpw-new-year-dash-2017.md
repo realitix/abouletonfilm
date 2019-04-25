@@ -1,1 +1,0 @@
-{"tmdb_id": 555629, "title": "NJPW New Year Dash 2017", "original_title": "NJPW New Year Dash 2017", "slug_title": "njpw-new-year-dash-2017", "date": "2017-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

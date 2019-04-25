@@ -1,1 +1,0 @@
-{"tmdb_id": 533547, "title": "Maria Cachoeira", "original_title": "Maria Cachoeira", "slug_title": "maria-cachoeira", "date": "2017-12-13", "genre": "Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/miEO7Ds0QFMYViTzUtwPUYdl1Rr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 570785, "title": "The Telegraph Route", "original_title": "La piste du t\u00e9l\u00e9graphe", "slug_title": "the-telegraph-route", "date": "1994-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wTqOK4WzmdrLbCDWftdQL6sJ5K5.jpg", "actors": [], "comments": [], "recommandations_id": []}

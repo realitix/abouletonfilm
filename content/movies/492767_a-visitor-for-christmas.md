@@ -1,1 +1,0 @@
-{"tmdb_id": 492767, "title": "A Visitor for Christmas", "original_title": "A Visitor for Christmas", "slug_title": "a-visitor-for-christmas", "date": "1967-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

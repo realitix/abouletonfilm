@@ -1,1 +1,0 @@
-{"tmdb_id": 328851, "title": "Metacine aplicado", "original_title": "Metacine aplicado", "slug_title": "metacine-aplicado", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

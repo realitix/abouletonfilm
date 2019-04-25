@@ -1,1 +1,0 @@
-{"tmdb_id": 572970, "title": "Tom Clark: Outraged", "original_title": "Tom Clark: Outraged", "slug_title": "tom-clark-outraged", "date": "2017-12-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Clark (Himself)"], "comments": [], "recommandations_id": []}

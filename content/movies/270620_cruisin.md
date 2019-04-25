@@ -1,1 +1,0 @@
-{"tmdb_id": 270620, "title": "Cruisin'", "original_title": "Cruisin'", "slug_title": "cruisin", "date": "2014-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

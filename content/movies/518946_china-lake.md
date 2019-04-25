@@ -1,1 +1,0 @@
-{"tmdb_id": 518946, "title": "China Lake", "original_title": "China Lake", "slug_title": "china-lake", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Toppe (Scooter Wodzinski)", "Richard Edson (Connie Veesk)", "Derin Basden (Cruiser)", "Bob Bumgarner (Clyde)"], "comments": [], "recommandations_id": []}

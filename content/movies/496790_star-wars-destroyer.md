@@ -1,1 +1,0 @@
-{"tmdb_id": 496790, "title": "Star Wars: Destroyer", "original_title": "Star Wars: Destroyer", "slug_title": "star-wars-destroyer", "date": "2017-05-04", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jF2bIGJXPG9zl0f7I8rpyjW6Qmu.jpg", "actors": [], "comments": [], "recommandations_id": []}

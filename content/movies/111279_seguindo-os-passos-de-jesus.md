@@ -1,1 +1,0 @@
-{"tmdb_id": 111279, "title": "Seguindo Os Passos De Jesus", "original_title": "Seguindo Os Passos De Jesus", "slug_title": "seguindo-os-passos-de-jesus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m6YAMfHuY7h4M7crOJDklqoSUtA.jpg", "actors": [], "comments": [], "recommandations_id": []}

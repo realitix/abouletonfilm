@@ -1,1 +1,0 @@
-{"tmdb_id": 207335, "title": "Christmas Is Coming", "original_title": "Christmas Is Coming", "slug_title": "christmas-is-coming", "date": "1951-11-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xXqL4AjHzJAulWGTgLQ0ijt2viD.jpg", "actors": [], "comments": [], "recommandations_id": []}

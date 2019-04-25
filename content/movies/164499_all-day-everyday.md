@@ -1,1 +1,0 @@
-{"tmdb_id": 164499, "title": "All Day Everyday", "original_title": "All Day Everyday", "slug_title": "all-day-everyday", "date": "2008-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

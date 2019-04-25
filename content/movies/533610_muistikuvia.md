@@ -1,1 +1,0 @@
-{"tmdb_id": 533610, "title": "Muistikuvia", "original_title": "Muistikuvia", "slug_title": "muistikuvia", "date": "2018-03-05", "genre": "Animation / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

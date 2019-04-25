@@ -1,1 +1,0 @@
-{"tmdb_id": 343928, "title": "Fire Drill", "original_title": "Simulacro de incendio", "slug_title": "fire-drill", "date": "1897-06-07", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

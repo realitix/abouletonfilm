@@ -1,1 +1,0 @@
-{"tmdb_id": 280104, "title": "H\u00e5ndv\u00e6rkerskolen - Maler", "original_title": "H\u00e5ndv\u00e6rkerskolen - Maler", "slug_title": "handvaerkerskolen-maler", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8SK3KhHjlaLdQ3QtLz1PfTimbnu.jpg", "actors": [], "comments": [], "recommandations_id": []}

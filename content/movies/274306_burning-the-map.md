@@ -1,1 +1,0 @@
-{"tmdb_id": 274306, "title": "Burning the Map", "original_title": "Burning the Map", "slug_title": "burning-the-map", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 350527, "title": "The Fish in Me", "original_title": "Icimdeki Balik", "slug_title": "the-fish-in-me", "date": "2015-02-13", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

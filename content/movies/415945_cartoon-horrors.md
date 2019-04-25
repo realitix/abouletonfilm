@@ -1,1 +1,0 @@
-{"tmdb_id": 415945, "title": "Cartoon Horrors!", "original_title": "Cartoon Horrors!", "slug_title": "cartoon-horrors", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5LNRr2N3dJeAUH6qUKov8loWzad.jpg", "actors": [], "comments": [], "recommandations_id": []}

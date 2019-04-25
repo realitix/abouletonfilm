@@ -1,1 +1,0 @@
-{"tmdb_id": 251593, "title": "Voice of Life", "original_title": "Livets R\u00f8st", "slug_title": "voice-of-life", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

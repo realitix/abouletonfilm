@@ -1,1 +1,0 @@
-{"tmdb_id": 532353, "title": "Domestica", "original_title": "Domestica", "slug_title": "domestica", "date": "2014-04-02", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Meg Stanton ()"], "comments": [], "recommandations_id": []}

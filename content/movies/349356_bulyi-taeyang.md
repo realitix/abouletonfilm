@@ -1,1 +1,0 @@
-{"tmdb_id": 349356, "title": "\ubd88\uc758 \ud0dc\uc591", "original_title": "\ubd88\uc758 \ud0dc\uc591", "slug_title": "bulyi-taeyang", "date": "1994-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

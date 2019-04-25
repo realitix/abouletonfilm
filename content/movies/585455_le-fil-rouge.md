@@ -1,1 +1,0 @@
-{"tmdb_id": 585455, "title": "Le fil rouge", "original_title": "Le fil rouge", "slug_title": "le-fil-rouge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anouk Grinberg ()", "Avril Benard ()", "L\u00e9onard Guillain ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 130978, "title": "A Happy Mother's Day", "original_title": "A Happy Mother's Day", "slug_title": "a-happy-mother-s-day", "date": "1963-12-31", "genre": "Documentaire", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2X2knJRkWb9obuj5wrcrXwn8iga.jpg", "actors": [], "comments": [], "recommandations_id": []}

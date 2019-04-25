@@ -1,1 +1,0 @@
-{"tmdb_id": 588731, "title": "Der letzte Tanz", "original_title": "Der letzte Tanz", "slug_title": "der-letzte-tanz", "date": "2018-12-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hBZZlwdDDJrKM1bSNfkG2VeIN8x.jpg", "actors": [], "comments": [], "recommandations_id": []}

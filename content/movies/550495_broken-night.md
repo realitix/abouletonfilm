@@ -1,1 +1,0 @@
-{"tmdb_id": 550495, "title": "Broken Night", "original_title": "Pu-seo-jin bam", "slug_title": "broken-night", "date": "2010-10-10", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Han Joo-wan (Min-jo)", "Jeong In-gi (Kyoung-pyo)", "Lee Min-ji (Cho-hey)"], "comments": [], "recommandations_id": []}

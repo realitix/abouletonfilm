@@ -1,1 +1,0 @@
-{"tmdb_id": 365593, "title": "Admission By Guts", "original_title": "\u5389\u9b3c\u7535\u5f71\u9662", "slug_title": "admission-by-guts", "date": "2015-06-19", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A3UbJTKDHjvNxKiNaMWcBdTYJzT.jpg", "actors": [], "comments": [], "recommandations_id": []}

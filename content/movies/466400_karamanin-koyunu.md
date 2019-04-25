@@ -1,1 +1,0 @@
-{"tmdb_id": 466400, "title": "Karaman\u0131n Koyunu", "original_title": "Karaman\u0131n Koyunu", "slug_title": "karamanin-koyunu", "date": "2015-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lfas6PLxJkkHi6nc46sKiyWQhK9.jpg", "actors": [], "comments": [], "recommandations_id": []}

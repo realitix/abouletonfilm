@@ -1,1 +1,0 @@
-{"tmdb_id": 473203, "title": "33 Animals of Santa Claus", "original_title": "33 Zv\u0113ri Ziemassv\u0113tku Vec\u012btim", "slug_title": "33-animals-of-santa-claus", "date": "2011-08-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

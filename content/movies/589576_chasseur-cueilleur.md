@@ -1,1 +1,0 @@
-{"tmdb_id": 589576, "title": "Chasseur-cueilleur", "original_title": "Chasseur-cueilleur", "slug_title": "chasseur-cueilleur", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 591656, "title": "C\u00e3es Raivosos", "original_title": "C\u00e3es Raivosos", "slug_title": "caes-raivosos", "date": "2000-03-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paulo Castro ()", "Ant\u00f3nio Fonseca ()"], "comments": [], "recommandations_id": []}

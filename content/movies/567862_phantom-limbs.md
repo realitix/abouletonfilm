@@ -1,1 +1,0 @@
-{"tmdb_id": 567862, "title": "Phantom Limbs", "original_title": "Phantom Limbs", "slug_title": "phantom-limbs", "date": "2008-12-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2We9ypI9Tcgyii9nkB9BU0lN5yY.jpg", "actors": [], "comments": [], "recommandations_id": []}

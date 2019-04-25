@@ -1,1 +1,0 @@
-{"tmdb_id": 452340, "title": "Titanic's Fatal Fire", "original_title": "Titanic's Fatal Fire", "slug_title": "titanic-s-fatal-fire", "date": "2017-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

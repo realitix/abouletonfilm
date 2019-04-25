@@ -1,1 +1,0 @@
-{"tmdb_id": 412555, "title": "Young Style", "original_title": "\u9752\u6625\u6d3e", "slug_title": "young-style", "date": "2013-08-02", "genre": "Com\u00e9die / Romance / Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x1ZkDLydCpQ0zZZMpQdZ4QuiivQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

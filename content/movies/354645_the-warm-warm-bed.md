@@ -1,1 +1,0 @@
-{"tmdb_id": 354645, "title": "The Warm, Warm Bed", "original_title": "The Warm, Warm Bed", "slug_title": "the-warm-warm-bed", "date": "1968-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nniZNcBsIVLmUsExLqTUH5Ra1Tu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 499875, "title": "Diamond Jack", "original_title": "Diamond Jack", "slug_title": "diamond-jack", "date": "2017-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oE7VfT4VcGj6p5xu0kfy5zTqRnF.jpg", "actors": [], "comments": [], "recommandations_id": []}

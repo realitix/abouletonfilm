@@ -1,1 +1,0 @@
-{"tmdb_id": 317714, "title": "Springtime for Clobber", "original_title": "Springtime for Clobber", "slug_title": "springtime-for-clobber", "date": "1958-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

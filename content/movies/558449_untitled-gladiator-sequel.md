@@ -1,1 +1,0 @@
-{"tmdb_id": 558449, "title": "Untitled Gladiator Sequel", "original_title": "Untitled Gladiator Sequel", "slug_title": "untitled-gladiator-sequel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

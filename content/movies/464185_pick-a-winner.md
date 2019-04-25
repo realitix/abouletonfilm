@@ -1,1 +1,0 @@
-{"tmdb_id": 464185, "title": "Pick A Winner", "original_title": "Pick A Winner", "slug_title": "pick-a-winner", "date": "2004-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2cVAwyEYm94fBgVZbEDOaTRVZCm.jpg", "actors": [], "comments": [], "recommandations_id": []}

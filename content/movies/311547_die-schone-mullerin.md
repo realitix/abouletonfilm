@@ -1,1 +1,0 @@
-{"tmdb_id": 311547, "title": "Die Sch\u00f6ne M\u00fcllerin", "original_title": "Die Sch\u00f6ne M\u00fcllerin", "slug_title": "die-schone-mullerin", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

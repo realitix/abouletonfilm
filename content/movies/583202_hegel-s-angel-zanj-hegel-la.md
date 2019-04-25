@@ -1,1 +1,0 @@
-{"tmdb_id": 583202, "title": "Hegel's Angel (Zanj Hegel la)", "original_title": "Hegel's Angel (Zanj Hegel la)", "slug_title": "hegel-s-angel-zanj-hegel-la", "date": "2019-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/64UQPTxRjPpEclpFrCkqJtH3P1o.jpg", "actors": [], "comments": [], "recommandations_id": []}

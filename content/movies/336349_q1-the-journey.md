@@ -1,1 +1,0 @@
-{"tmdb_id": 336349, "title": "Q1 The Journey", "original_title": "Q1 The Journey", "slug_title": "q1-the-journey", "date": "2005-01-25", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5zYNPiqFPovBtcz9tc2MGiNMmPI.jpg", "actors": [], "comments": [], "recommandations_id": []}

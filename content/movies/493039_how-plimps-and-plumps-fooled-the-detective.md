@@ -1,1 +1,0 @@
-{"tmdb_id": 493039, "title": "How Plimps and Plumps Fooled the Detective", "original_title": "Wie Plimps und Plumps Den Detektiv \u00dcberlisteten", "slug_title": "how-plimps-and-plumps-fooled-the-detective", "date": "1913-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

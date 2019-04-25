@@ -1,1 +1,0 @@
-{"tmdb_id": 500621, "title": "Alumni Massage", "original_title": "Do\u0304so\u0304sei no etchi massa\u0304ji", "slug_title": "alumni-massage", "date": "2017-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Naoki Misuzu ()", "Yuko Igarashi ()"], "comments": [], "recommandations_id": []}

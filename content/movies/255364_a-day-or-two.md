@@ -1,1 +1,0 @@
-{"tmdb_id": 255364, "title": "A Day or Two", "original_title": "En dag eller to", "slug_title": "a-day-or-two", "date": "2012-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lOquiXzQ91qJAHzVCjNrRv85eo7.jpg", "actors": [], "comments": [], "recommandations_id": []}

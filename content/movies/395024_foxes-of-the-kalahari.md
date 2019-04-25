@@ -1,1 +1,0 @@
-{"tmdb_id": 395024, "title": "Foxes Of The Kalahari", "original_title": "Foxes Of The Kalahari", "slug_title": "foxes-of-the-kalahari", "date": "1997-04-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kkiKsYcQ2sEx0ZA6ionpyDVrOso.jpg", "actors": [], "comments": [], "recommandations_id": []}

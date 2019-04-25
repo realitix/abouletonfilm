@@ -1,1 +1,0 @@
-{"tmdb_id": 340348, "title": "Magnatul", "original_title": "Magnatul", "slug_title": "magnatul", "date": "2004-05-15", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

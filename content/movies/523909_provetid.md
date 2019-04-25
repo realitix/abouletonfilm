@@ -1,1 +1,0 @@
-{"tmdb_id": 523909, "title": "Pr\u00f8vetid", "original_title": "Pr\u00f8vetid", "slug_title": "provetid", "date": "2008-10-03", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/afRk6aPuVHq1LrsL6W8VSkPG6J0.jpg", "actors": [], "comments": [], "recommandations_id": []}

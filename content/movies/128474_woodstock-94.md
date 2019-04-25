@@ -1,1 +1,0 @@
-{"tmdb_id": 128474, "title": "Woodstock 94", "original_title": "Woodstock 94", "slug_title": "woodstock-94", "date": "1995-01-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/51R3YDrU43iup4i2kJCp0wytruj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 405985, "title": "ECW The Buffalo Invasion", "original_title": "ECW The Buffalo Invasion", "slug_title": "ecw-the-buffalo-invasion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nNH8qHQVQ7oPfzqFUcyGRifMruL.jpg", "actors": [], "comments": [], "recommandations_id": []}

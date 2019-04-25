@@ -1,1 +1,0 @@
-{"tmdb_id": 563908, "title": "The Powder Room", "original_title": "The Powder Room", "slug_title": "the-powder-room", "date": "1996-09-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

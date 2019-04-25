@@ -1,1 +1,0 @@
-{"tmdb_id": 277134, "title": "Winner Takes All", "original_title": "Winner Takes All", "slug_title": "winner-takes-all", "date": "2008-09-26", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

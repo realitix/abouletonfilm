@@ -1,1 +1,0 @@
-{"tmdb_id": 463058, "title": "Doctor B", "original_title": "Doctor B", "slug_title": "doctor-b", "date": "2017-06-19", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j7LtcVM9feKbdqkPKmbyhbYLOSp.jpg", "actors": ["Jonathan Best (Doctor B (Alias))"], "comments": [], "recommandations_id": []}

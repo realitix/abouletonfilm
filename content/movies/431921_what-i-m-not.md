@@ -1,1 +1,0 @@
-{"tmdb_id": 431921, "title": "what i'm not?", "original_title": "what i'm not?", "slug_title": "what-i-m-not", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 552028, "title": "The Girls Who'll Do Anything", "original_title": "The Girls Who'll Do Anything", "slug_title": "the-girls-who-ll-do-anything", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

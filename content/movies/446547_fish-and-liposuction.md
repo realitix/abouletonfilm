@@ -1,1 +1,0 @@
-{"tmdb_id": 446547, "title": "Fish and Liposuction", "original_title": "Fish and Liposuction", "slug_title": "fish-and-liposuction", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

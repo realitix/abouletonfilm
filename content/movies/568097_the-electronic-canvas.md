@@ -1,1 +1,0 @@
-{"tmdb_id": 568097, "title": "The Electronic Canvas", "original_title": "The Electronic Canvas", "slug_title": "the-electronic-canvas", "date": "2001-04-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Master-Harnik (Himself)"], "comments": [], "recommandations_id": []}

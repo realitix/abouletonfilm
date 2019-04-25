@@ -1,1 +1,0 @@
-{"tmdb_id": 269109, "title": "Los j\u00f3venes", "original_title": "Los j\u00f3venes", "slug_title": "los-jovenes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6xKU7nY5fCOb3y52QSxQlNM2QBY.jpg", "actors": [], "comments": [], "recommandations_id": []}

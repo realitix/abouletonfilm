@@ -1,1 +1,0 @@
-{"tmdb_id": 239959, "title": "Moving Stills - Kadir van Lohuizen", "original_title": "Moving Stills - Kadir van Lohuizen", "slug_title": "moving-stills-kadir-van-lohuizen", "date": "2013-11-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

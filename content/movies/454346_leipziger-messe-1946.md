@@ -1,1 +1,0 @@
-{"tmdb_id": 454346, "title": "Leipziger Messe 1946", "original_title": "Leipziger Messe 1946", "slug_title": "leipziger-messe-1946", "date": "1946-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

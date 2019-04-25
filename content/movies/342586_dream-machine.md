@@ -1,1 +1,0 @@
-{"tmdb_id": 342586, "title": "Dream Machine", "original_title": "Maquina de sue\u00f1os", "slug_title": "dream-machine", "date": "2013-04-20", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uaKjCME7Svy2hvG6nXEQ9N0spY9.jpg", "actors": [], "comments": [], "recommandations_id": []}

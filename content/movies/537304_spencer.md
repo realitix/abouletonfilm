@@ -1,1 +1,0 @@
-{"tmdb_id": 537304, "title": "Spencer", "original_title": "Spencer", "slug_title": "spencer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v6SWBrb9gdUd8UXcW1NgEdBEHOp.jpg", "actors": [], "comments": [], "recommandations_id": []}

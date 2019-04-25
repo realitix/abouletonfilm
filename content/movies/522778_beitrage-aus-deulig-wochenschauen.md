@@ -1,1 +1,0 @@
-{"tmdb_id": 522778, "title": "Beitr\u00e4ge aus Deulig-Wochenschauen", "original_title": "Beitr\u00e4ge aus Deulig-Wochenschauen", "slug_title": "beitrage-aus-deulig-wochenschauen", "date": "1927-05-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

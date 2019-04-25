@@ -1,1 +1,0 @@
-{"tmdb_id": 252242, "title": "Happy Days: 30th Anniversary Reunion", "original_title": "Happy Days: 30th Anniversary Reunion", "slug_title": "happy-days-30th-anniversary-reunion", "date": "2005-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 360370, "title": "Kino the Girl of Colour", "original_title": "Kino the Girl of Colour", "slug_title": "kino-the-girl-of-colour", "date": "1920-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

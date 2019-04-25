@@ -1,1 +1,0 @@
-{"tmdb_id": 458730, "title": "Can't Be Stopped", "original_title": "Can't Be Stopped", "slug_title": "can-t-be-stopped", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

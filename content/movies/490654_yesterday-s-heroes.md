@@ -1,1 +1,0 @@
-{"tmdb_id": 490654, "title": "Yesterday's Heroes", "original_title": "Yesterday's Heroes", "slug_title": "yesterday-s-heroes", "date": "1940-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cub1RmytQS4xxPyBCIHpHzwasf8.jpg", "actors": [], "comments": [], "recommandations_id": []}

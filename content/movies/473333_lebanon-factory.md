@@ -1,1 +1,0 @@
-{"tmdb_id": 473333, "title": "Lebanon Factory", "original_title": "Lebanon Factory", "slug_title": "lebanon-factory", "date": "2017-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kyGbIsKQkpFm5rgiFXxn9gH2rrH.jpg", "actors": [], "comments": [], "recommandations_id": []}

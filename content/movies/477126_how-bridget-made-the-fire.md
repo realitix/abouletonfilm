@@ -1,1 +1,0 @@
-{"tmdb_id": 477126, "title": "How Bridget Made the Fire", "original_title": "How Bridget Made the Fire", "slug_title": "how-bridget-made-the-fire", "date": "1900-06-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

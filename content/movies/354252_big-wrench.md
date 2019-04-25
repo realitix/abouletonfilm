@@ -1,1 +1,0 @@
-{"tmdb_id": 354252, "title": "Big Wrench", "original_title": "Big Wrench", "slug_title": "big-wrench", "date": "1980-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

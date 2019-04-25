@@ -1,1 +1,0 @@
-{"tmdb_id": 69649, "title": "London Elektricity: Live Gravy", "original_title": "London Elektricity: Live Gravy", "slug_title": "london-elektricity-live-gravy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e1PjSiFqnVzffE3eYUjF9bFvlHH.jpg", "actors": [], "comments": [], "recommandations_id": []}

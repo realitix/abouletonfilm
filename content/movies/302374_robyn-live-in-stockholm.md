@@ -1,1 +1,0 @@
-{"tmdb_id": 302374, "title": "Robyn - Live in stockholm", "original_title": "Robyn - Live in stockholm", "slug_title": "robyn-live-in-stockholm", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

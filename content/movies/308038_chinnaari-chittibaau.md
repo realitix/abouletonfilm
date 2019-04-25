@@ -1,1 +1,0 @@
-{"tmdb_id": 308038, "title": "Chinnaari Chittibaau", "original_title": "Chinnaari Chittibaau", "slug_title": "chinnaari-chittibaau", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

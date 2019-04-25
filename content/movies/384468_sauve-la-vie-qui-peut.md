@@ -1,1 +1,0 @@
-{"tmdb_id": 384468, "title": "Sauve la vie (qui peut)", "original_title": "Sauve la vie (qui peut)", "slug_title": "sauve-la-vie-qui-peut", "date": "1981-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

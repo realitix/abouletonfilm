@@ -1,1 +1,0 @@
-{"tmdb_id": 487498, "title": "Black Ghosts", "original_title": "Trans Somnium", "slug_title": "black-ghosts", "date": "2015-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kWpvfCQzIYEi1bDjfxEseDl9SEg.jpg", "actors": [], "comments": [], "recommandations_id": []}

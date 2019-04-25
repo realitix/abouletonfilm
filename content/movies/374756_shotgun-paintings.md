@@ -1,1 +1,0 @@
-{"tmdb_id": 374756, "title": "Shotgun Paintings", "original_title": "Shotgun Paintings", "slug_title": "shotgun-paintings", "date": "1992-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

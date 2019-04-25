@@ -1,1 +1,0 @@
-{"tmdb_id": 237085, "title": "Inki at the Circus", "original_title": "Inki at the Circus", "slug_title": "inki-at-the-circus", "date": "1947-06-20", "genre": "Animation", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jtkHQc71Km9BLFUTjVyUtx5Ab0b.jpg", "actors": [], "comments": [], "recommandations_id": []}

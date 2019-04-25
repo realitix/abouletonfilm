@@ -1,1 +1,0 @@
-{"tmdb_id": 406283, "title": "The Taurus Constellation", "original_title": "V sozvezdii byka", "slug_title": "the-taurus-constellation", "date": "2003-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zLe86C6c7VQLZfNLGf6FshaU5Jp.jpg", "actors": [], "comments": [], "recommandations_id": []}

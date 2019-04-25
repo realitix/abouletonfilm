@@ -1,1 +1,0 @@
-{"tmdb_id": 498899, "title": "ROOM H.264: Astoria, NY, January 2018", "original_title": "ROOM H.264: Astoria, NY, January 2018", "slug_title": "room-h-264-astoria-ny-january-2018", "date": "2018-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

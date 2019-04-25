@@ -1,1 +1,0 @@
-{"tmdb_id": 571579, "title": "For a Good Cause", "original_title": "C'est pour la bonne cause!", "slug_title": "for-a-good-cause", "date": "1997-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4uhRTC3GkowLfCPCsSt3pxUO1FX.jpg", "actors": [], "comments": [], "recommandations_id": []}

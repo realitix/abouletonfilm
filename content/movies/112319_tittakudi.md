@@ -1,1 +1,0 @@
-{"tmdb_id": 112319, "title": "TittaKudi", "original_title": "TittaKudi", "slug_title": "tittakudi", "date": "2010-05-05", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/drWQNO1wBuEP15rmXnQK1MNvsbq.jpg", "actors": ["Ravi (Actor)", "Asvatha (Actress)"], "comments": [], "recommandations_id": []}

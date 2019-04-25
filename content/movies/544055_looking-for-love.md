@@ -1,1 +1,0 @@
-{"tmdb_id": 544055, "title": "Looking For Love", "original_title": "Looking For Love", "slug_title": "looking-for-love", "date": "2018-08-31", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2OwRcuOMmM1ivlKmLbY5o87eogi.jpg", "actors": ["Celeste Ntuli (Buyi)"], "comments": [], "recommandations_id": []}

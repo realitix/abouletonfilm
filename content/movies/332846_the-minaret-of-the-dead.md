@@ -1,1 +1,0 @@
-{"tmdb_id": 332846, "title": "The Minaret of the Dead", "original_title": "Minaret Smerti", "slug_title": "the-minaret-of-the-dead", "date": "1925-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

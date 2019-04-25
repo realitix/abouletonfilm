@@ -1,1 +1,0 @@
-{"tmdb_id": 395257, "title": "Two Cooks and a Cabbage", "original_title": "Two Cooks and a Cabbage", "slug_title": "two-cooks-and-a-cabbage", "date": "1941-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

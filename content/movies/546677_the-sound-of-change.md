@@ -1,1 +1,0 @@
-{"tmdb_id": 546677, "title": "The Sound of Change", "original_title": "The Sound of Change", "slug_title": "the-sound-of-change", "date": "1968-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

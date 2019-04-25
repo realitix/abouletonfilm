@@ -1,1 +1,0 @@
-{"tmdb_id": 324029, "title": "Druckgef\u00e4\u00df Kahl", "original_title": "Druckgef\u00e4\u00df Kahl", "slug_title": "druckgefass-kahl", "date": "1960-04-26", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2CbUWX0wUxDJL3382E7g2XZIwVN.jpg", "actors": [], "comments": [], "recommandations_id": []}

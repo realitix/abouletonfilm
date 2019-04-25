@@ -1,1 +1,0 @@
-{"tmdb_id": 363064, "title": "Wild Force", "original_title": "Wild Force", "slug_title": "wild-force", "date": "1987-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wFt821Mq6d9ZCwkRhHqS6xvKtMU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 594714, "title": "The Friend", "original_title": "Doust", "slug_title": "the-friend", "date": "1992-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

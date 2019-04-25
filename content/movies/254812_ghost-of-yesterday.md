@@ -1,1 +1,0 @@
-{"tmdb_id": 254812, "title": "Ghost of Yesterday", "original_title": "Ghost of Yesterday", "slug_title": "ghost-of-yesterday", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 394477, "title": "Bob the Builder: Scoop saves the day", "original_title": "Bob the Builder: Scoop saves the day", "slug_title": "bob-the-builder-scoop-saves-the-day", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

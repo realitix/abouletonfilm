@@ -1,1 +1,0 @@
-{"tmdb_id": 118016, "title": "Dark Tranquillity: Live Damage", "original_title": "Dark Tranquillity: Live Damage", "slug_title": "dark-tranquillity-live-damage", "date": "2002-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5givjsu3tRHPEn3mogsN0PSEhdt.jpg", "actors": [], "comments": [], "recommandations_id": []}

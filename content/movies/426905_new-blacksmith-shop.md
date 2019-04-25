@@ -1,1 +1,0 @@
-{"tmdb_id": 426905, "title": "New Blacksmith Shop", "original_title": "New Blacksmith Shop", "slug_title": "new-blacksmith-shop", "date": "1895-11-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

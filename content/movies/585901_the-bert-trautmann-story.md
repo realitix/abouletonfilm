@@ -1,1 +1,0 @@
-{"tmdb_id": 585901, "title": "The Bert Trautmann Story", "original_title": "The Bert Trautmann Story", "slug_title": "the-bert-trautmann-story", "date": "2012-03-24", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bert Trautmann (Himself)"], "comments": [], "recommandations_id": []}

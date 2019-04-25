@@ -1,1 +1,0 @@
-{"tmdb_id": 270882, "title": "L'empire de M\u00e9dor", "original_title": "L'empire de M\u00e9dor", "slug_title": "l-empire-de-medor", "date": "1986-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ur6J200a4sdMX5fs7RGlYjGsT2P.jpg", "actors": [], "comments": [], "recommandations_id": []}

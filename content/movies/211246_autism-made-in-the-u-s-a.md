@@ -1,1 +1,0 @@
-{"tmdb_id": 211246, "title": "Autism: Made in the U.S.A.", "original_title": "Autism: Made in the U.S.A.", "slug_title": "autism-made-in-the-u-s-a", "date": "2009-05-08", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gI4RT36aEkEjr0BBMBJtNVAaBib.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 243317, "title": "While I Run This Race", "original_title": "While I Run This Race", "slug_title": "while-i-run-this-race", "date": "1967-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charlton Heston (Narrator)"], "comments": [], "recommandations_id": []}

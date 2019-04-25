@@ -1,1 +1,0 @@
-{"tmdb_id": 590376, "title": "Forgotten Pilots", "original_title": "Forgotten Pilots", "slug_title": "forgotten-pilots", "date": "1999-01-01", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

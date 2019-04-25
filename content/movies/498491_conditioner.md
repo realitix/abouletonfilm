@@ -1,1 +1,0 @@
-{"tmdb_id": 498491, "title": "Conditioner", "original_title": "Conditioner", "slug_title": "conditioner", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/56XyzPnFZcfNxxaKK2hop2wHr1l.jpg", "actors": ["Dave Maher (Voice)"], "comments": [], "recommandations_id": []}

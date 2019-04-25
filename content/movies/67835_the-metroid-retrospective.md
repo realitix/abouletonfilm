@@ -1,1 +1,0 @@
-{"tmdb_id": 67835, "title": "The Metroid Retrospective", "original_title": "The Metroid Retrospective", "slug_title": "the-metroid-retrospective", "date": "2007-08-27", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/JnXul30zL7mVD9U8HDftaF88nG.jpg", "actors": [], "comments": [], "recommandations_id": []}

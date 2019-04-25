@@ -1,1 +1,0 @@
-{"tmdb_id": 516350, "title": "AJE IJO: 7 Reflections", "original_title": "AJE IJO: 7 Reflections", "slug_title": "aje-ijo-7-reflections", "date": "2017-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

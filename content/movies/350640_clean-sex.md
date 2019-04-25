@@ -1,1 +1,0 @@
-{"tmdb_id": 350640, "title": "Clean Sex", "original_title": "Sexo limpio", "slug_title": "clean-sex", "date": "2015-07-19", "genre": "Com\u00e9die", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/57zuiN6e8D82p15HsHV9JxwKxhJ.jpg", "actors": ["Cosette Borges ()", "Tarek Becerril ()"], "comments": [], "recommandations_id": []}

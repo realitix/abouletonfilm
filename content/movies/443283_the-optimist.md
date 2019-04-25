@@ -1,1 +1,0 @@
-{"tmdb_id": 443283, "title": "The Optimist", "original_title": "The Optimist", "slug_title": "the-optimist", "date": "2015-08-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Z6d4kcfrQxAROh0E2B94ejIOz0.jpg", "actors": [], "comments": [], "recommandations_id": []}

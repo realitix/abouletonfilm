@@ -1,1 +1,0 @@
-{"tmdb_id": 519872, "title": "The Existential Pleading of the Inner Heart", "original_title": "The Existential Pleading of the Inner Heart", "slug_title": "the-existential-pleading-of-the-inner-heart", "date": "2018-03-28", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

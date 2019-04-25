@@ -1,1 +1,0 @@
-{"tmdb_id": 476301, "title": "When I become silent", "original_title": "Watashi ga chinmoku suru toki", "slug_title": "when-i-become-silent", "date": "", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ayaka Maeda (Ky\u00f4ko)", "Nahana (Rie)"], "comments": [], "recommandations_id": []}

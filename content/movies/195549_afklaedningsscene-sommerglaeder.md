@@ -1,1 +1,0 @@
-{"tmdb_id": 195549, "title": "Afkl\u00e6dningsscene 'sommergl\u00e6der'", "original_title": "Afkl\u00e6dningsscene 'sommergl\u00e6der'", "slug_title": "afklaedningsscene-sommerglaeder", "date": "1902-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 201411, "title": "Hal\u00e1sz Judit: Csiribiri", "original_title": "Hal\u00e1sz Judit: Csiribiri", "slug_title": "halasz-judit-csiribiri", "date": "2009-09-12", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yhD64R9qnpKTDEsU8QBdgsO2pxt.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 307388, "title": "Bhale Ammayilu", "original_title": "Bhale Ammayilu", "slug_title": "bhale-ammayilu", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zFZsm4bHzDX7tVJ2kQORmik4oBo.jpg", "actors": [], "comments": [], "recommandations_id": []}

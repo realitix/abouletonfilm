@@ -1,1 +1,0 @@
-{"tmdb_id": 550314, "title": "Finity Calling", "original_title": "Finity Calling", "slug_title": "finity-calling", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sclcKy7XftUiqSY3Dj1P1M6g8uY.jpg", "actors": [], "comments": [], "recommandations_id": []}

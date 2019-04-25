@@ -1,1 +1,0 @@
-{"tmdb_id": 506992, "title": "Namibia Today", "original_title": "Namibia Today", "slug_title": "namibia-today", "date": "2018-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

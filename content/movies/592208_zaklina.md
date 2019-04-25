@@ -1,1 +1,0 @@
-{"tmdb_id": 592208, "title": "Zaklina", "original_title": "Zaklina", "slug_title": "zaklina", "date": "2012-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aGjhrO089xGNukxJ49kGDXPm3lv.jpg", "actors": [], "comments": [], "recommandations_id": []}

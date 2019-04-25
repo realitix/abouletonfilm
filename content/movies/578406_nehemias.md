@@ -1,1 +1,0 @@
-{"tmdb_id": 578406, "title": "Nehem\u00edas", "original_title": "Nehem\u00edas", "slug_title": "nehemias", "date": "2019-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uK48JGCDGlcAC3rlnhicm38zV90.jpg", "actors": [], "comments": [], "recommandations_id": []}

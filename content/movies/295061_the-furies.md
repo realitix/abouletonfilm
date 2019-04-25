@@ -1,1 +1,0 @@
-{"tmdb_id": 295061, "title": "The Furies", "original_title": "The Furies", "slug_title": "the-furies", "date": "1934-01-01", "genre": "Drame / Crime / Fantastique / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5ac4pIDtJOIDsYbN9XwxvEqSUhQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

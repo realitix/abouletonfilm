@@ -1,1 +1,0 @@
-{"tmdb_id": 566980, "title": "Angel Dust", "original_title": "Angel Dust", "slug_title": "angel-dust", "date": "1980-03-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/paowG441IpB9s07AZGhB0B7vqDD.jpg", "actors": [], "comments": [], "recommandations_id": []}

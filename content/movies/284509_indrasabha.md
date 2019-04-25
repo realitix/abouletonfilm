@@ -1,1 +1,0 @@
-{"tmdb_id": 284509, "title": "Indrasabha", "original_title": "Indrasabha", "slug_title": "indrasabha", "date": "1932-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nissar ()", "Jehanara Kajjan ()", "Abdul Rehman Kabuli ()"], "comments": [], "recommandations_id": []}

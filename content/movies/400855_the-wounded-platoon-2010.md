@@ -1,1 +1,0 @@
-{"tmdb_id": 400855, "title": "The Wounded Platoon 2010", "original_title": "The Wounded Platoon 2010", "slug_title": "the-wounded-platoon-2010", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

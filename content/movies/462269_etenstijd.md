@@ -1,1 +1,0 @@
-{"tmdb_id": 462269, "title": "Etenstijd", "original_title": "Etenstijd", "slug_title": "etenstijd", "date": "", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

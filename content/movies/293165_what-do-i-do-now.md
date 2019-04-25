@@ -1,1 +1,0 @@
-{"tmdb_id": 293165, "title": "What Do I Do Now?", "original_title": "What Do I Do Now?", "slug_title": "what-do-i-do-now", "date": "2013-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 554040, "title": "Palmistry", "original_title": "Palmistry", "slug_title": "palmistry", "date": "1973-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xVzpgnMs11PYDSvm0hJy0PxxMLE.jpg", "actors": [], "comments": [], "recommandations_id": []}

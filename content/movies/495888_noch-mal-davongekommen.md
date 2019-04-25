@@ -1,1 +1,0 @@
-{"tmdb_id": 495888, "title": "Noch mal davongekommen", "original_title": "Noch mal davongekommen", "slug_title": "noch-mal-davongekommen", "date": "1998-12-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

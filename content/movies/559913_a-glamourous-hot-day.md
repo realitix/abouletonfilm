@@ -1,1 +1,0 @@
-{"tmdb_id": 559913, "title": "A Glamourous Hot Day", "original_title": "Geullaemeonyeouitteugeounhalu", "slug_title": "a-glamourous-hot-day", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hoon ()", "Yeoul ()"], "comments": [], "recommandations_id": []}

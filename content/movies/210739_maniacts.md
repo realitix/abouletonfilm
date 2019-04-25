@@ -1,1 +1,0 @@
-{"tmdb_id": 210739, "title": "Maniacts", "original_title": "Maniacts", "slug_title": "maniacts", "date": "2001-12-06", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ePXLqsui5Bc8340NnzwsO2USG0.jpg", "actors": ["Jeff Fahey (Joe Spinelli)", "Kellie Waymire (Beth Windsor)"], "comments": [], "recommandations_id": []}

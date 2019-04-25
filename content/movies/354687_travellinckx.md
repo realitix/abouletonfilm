@@ -1,1 +1,0 @@
-{"tmdb_id": 354687, "title": "Travellinckx", "original_title": "Travellinckx", "slug_title": "travellinckx", "date": "1999-09-19", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

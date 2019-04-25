@@ -1,1 +1,0 @@
-{"tmdb_id": 327567, "title": "Tomorrow is a Wonderful Day", "original_title": "Adamah", "slug_title": "tomorrow-is-a-wonderful-day", "date": "1949-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

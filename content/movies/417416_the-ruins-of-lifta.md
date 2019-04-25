@@ -1,1 +1,0 @@
-{"tmdb_id": 417416, "title": "The Ruins of Lifta", "original_title": "The Ruins of Lifta", "slug_title": "the-ruins-of-lifta", "date": "2016-09-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hCQUQpNPUsgvKZ5SeJLJtZQijaP.jpg", "actors": [], "comments": [], "recommandations_id": []}

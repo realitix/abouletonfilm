@@ -1,1 +1,0 @@
-{"tmdb_id": 175757, "title": "Save The Ship", "original_title": "Save The Ship", "slug_title": "save-the-ship", "date": "1923-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stan Laurel ()"], "comments": [], "recommandations_id": []}

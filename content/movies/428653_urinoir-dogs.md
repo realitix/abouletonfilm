@@ -1,1 +1,0 @@
-{"tmdb_id": 428653, "title": "Urinoir Dogs", "original_title": "Urinoir Dogs", "slug_title": "urinoir-dogs", "date": "1997-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yarAkkGade1oHq1pNhq1IhqO3JC.jpg", "actors": [], "comments": [], "recommandations_id": []}

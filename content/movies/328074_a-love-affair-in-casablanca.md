@@ -1,1 +1,0 @@
-{"tmdb_id": 328074, "title": "A Love Affair in Casablanca", "original_title": "Hubb Fi ai-Dar ai-Bayda", "slug_title": "a-love-affair-in-casablanca", "date": "1991-01-02", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mouna Fettou ()"], "comments": [], "recommandations_id": []}

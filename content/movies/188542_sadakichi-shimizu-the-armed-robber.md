@@ -1,1 +1,0 @@
-{"tmdb_id": 188542, "title": "Sadakichi Shimizu, the Armed Robber", "original_title": "Pisutoru g\u00f4t\u00f4 Shimizu Sadakichi", "slug_title": "sadakichi-shimizu-the-armed-robber", "date": "1899-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

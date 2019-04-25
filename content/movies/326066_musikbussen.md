@@ -1,1 +1,0 @@
-{"tmdb_id": 326066, "title": "Musikbussen", "original_title": "Musikbussen", "slug_title": "musikbussen", "date": "1994-05-17", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bibi Andersson (Ber\u00e4ttare)"], "comments": [], "recommandations_id": []}

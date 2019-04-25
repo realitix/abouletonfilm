@@ -1,1 +1,0 @@
-{"tmdb_id": 311915, "title": "Mighty Mo: The Battleship USS Missouri", "original_title": "Mighty Mo: The Battleship USS Missouri", "slug_title": "mighty-mo-the-battleship-uss-missouri", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

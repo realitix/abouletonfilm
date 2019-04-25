@@ -1,1 +1,0 @@
-{"tmdb_id": 406244, "title": "The Legend of Action Man", "original_title": "The Legend of Action Man", "slug_title": "the-legend-of-action-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

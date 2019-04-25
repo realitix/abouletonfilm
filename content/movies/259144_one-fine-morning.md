@@ -1,1 +1,0 @@
-{"tmdb_id": 259144, "title": "One Fine Morning", "original_title": "One Fine Morning", "slug_title": "one-fine-morning", "date": "2003-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

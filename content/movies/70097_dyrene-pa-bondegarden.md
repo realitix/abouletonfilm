@@ -1,1 +1,0 @@
-{"tmdb_id": 70097, "title": "Dyrene p\u00e5 bondeg\u00e5rden", "original_title": "Dyrene p\u00e5 bondeg\u00e5rden", "slug_title": "dyrene-pa-bondegarden", "date": "1988-01-01", "genre": "Familial", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hZUm1TOfeoz5MRm0oBbwGWfpx9m.jpg", "actors": [], "comments": [], "recommandations_id": []}

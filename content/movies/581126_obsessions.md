@@ -1,1 +1,0 @@
-{"tmdb_id": 581126, "title": "Obsessions", "original_title": "Obsessions", "slug_title": "obsessions", "date": "2020-09-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t8lvaoFxnMfWmeQa6TYelHLR46s.jpg", "actors": ["Zane Foyle (S.)"], "comments": [], "recommandations_id": []}

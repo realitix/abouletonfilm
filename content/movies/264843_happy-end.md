@@ -1,1 +1,0 @@
-{"tmdb_id": 264843, "title": "Happy-End", "original_title": "Happy-End", "slug_title": "happy-end", "date": "1996-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lLEiJa1ldHOcs03FXMY4C4P4Xwx.jpg", "actors": [], "comments": [], "recommandations_id": []}

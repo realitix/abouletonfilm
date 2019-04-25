@@ -1,1 +1,0 @@
-{"tmdb_id": 333418, "title": "Tantrum", "original_title": "Tantrum", "slug_title": "tantrum", "date": "2015-01-01", "genre": "Horreur", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1L1rg5TvNnCO1O39OXaV9OyCi5g.jpg", "actors": ["James Bell ()", "Amanda Bell (Girl)"], "comments": [], "recommandations_id": []}

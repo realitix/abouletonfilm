@@ -1,1 +1,0 @@
-{"tmdb_id": 402245, "title": "As Luck Would Have It", "original_title": "As Luck Would Have It", "slug_title": "as-luck-would-have-it", "date": "1917-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Betty Compson ()", "Harry Ham ()", "Eddie Barry ()", "Ethel Lynne ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 498870, "title": "The Preying Mantis", "original_title": "The Preying Mantis", "slug_title": "the-preying-mantis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aft9HRTQt4BrKICuWllg4kkN1L4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 356622, "title": "Timmy Time Timmy Needs a Bath", "original_title": "Timmy Time Timmy Needs a Bath", "slug_title": "timmy-time-timmy-needs-a-bath", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wfZHKbZAWIpsXBUaUaFknHOATnM.jpg", "actors": [], "comments": [], "recommandations_id": []}

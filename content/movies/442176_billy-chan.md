@@ -1,1 +1,0 @@
-{"tmdb_id": 442176, "title": "Billy Chan", "original_title": "Billy Chan", "slug_title": "billy-chan", "date": "1976-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oQnUDBJfLFBUC45yfQdLFcQnLGS.jpg", "actors": [], "comments": [], "recommandations_id": []}

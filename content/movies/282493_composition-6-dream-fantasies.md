@@ -1,1 +1,0 @@
-{"tmdb_id": 282493, "title": "Composition 6: Dream Fantasies", "original_title": "Composition 6: Dream Fantasies", "slug_title": "composition-6-dream-fantasies", "date": "1985-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

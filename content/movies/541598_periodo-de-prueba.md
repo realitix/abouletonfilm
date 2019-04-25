@@ -1,1 +1,0 @@
-{"tmdb_id": 541598, "title": "Periodo de prueba", "original_title": "Periodo de prueba", "slug_title": "periodo-de-prueba", "date": "2018-08-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b3sw2ay4aXyhGZyvE5W9LwrHb0w.jpg", "actors": [], "comments": [], "recommandations_id": []}

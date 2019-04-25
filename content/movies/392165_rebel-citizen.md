@@ -1,1 +1,0 @@
-{"tmdb_id": 392165, "title": "Rebel Citizen", "original_title": "Rebel Citizen", "slug_title": "rebel-citizen", "date": "2015-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pamela Yates (Herself)", "Haskell Wexler (Himself)"], "comments": [], "recommandations_id": []}

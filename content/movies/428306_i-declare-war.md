@@ -1,1 +1,0 @@
-{"tmdb_id": 428306, "title": "I Declare War", "original_title": "I Declare War", "slug_title": "i-declare-war", "date": "2016-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e5MUkiYzaws3V2TKZZ9uhI9tzDr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 591389, "title": "Fang Zhenzhu", "original_title": "Fang Zhenzhu", "slug_title": "fang-zhenzhu", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yelu Gu ()", "Tao Jin ((as Jin Tao))", "Jinglu Sun ()"], "comments": [], "recommandations_id": []}

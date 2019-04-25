@@ -1,1 +1,0 @@
-{"tmdb_id": 452979, "title": "Lego Batman: The Videogame (2008)", "original_title": "Lego Batman: The Videogame (2008)", "slug_title": "lego-batman-the-videogame-2008", "date": "", "genre": "", "score": "8.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sv1Gz4LoGw7XoxZxQSgkjZNrpmk.jpg", "actors": [], "comments": [], "recommandations_id": []}

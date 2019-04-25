@@ -1,1 +1,0 @@
-{"tmdb_id": 216662, "title": "Magyar retr\u00f3", "original_title": "Magyar retr\u00f3", "slug_title": "magyar-retro", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wZW579eN9SiP6xU19w7CW1yMA2f.jpg", "actors": [], "comments": [], "recommandations_id": []}

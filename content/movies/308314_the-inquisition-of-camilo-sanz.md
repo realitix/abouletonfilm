@@ -1,1 +1,0 @@
-{"tmdb_id": 308314, "title": "The Inquisition of Camilo Sanz", "original_title": "The Inquisition of Camilo Sanz", "slug_title": "the-inquisition-of-camilo-sanz", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yhFJcDv1GUqlGEfsxui2yfTHiy0.jpg", "actors": [], "comments": [], "recommandations_id": []}

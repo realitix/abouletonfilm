@@ -1,1 +1,0 @@
-{"tmdb_id": 421979, "title": "Berlin Oder Ein Traum Mit Sahne", "original_title": "Berlin Oder Ein Traum Mit Sahne", "slug_title": "berlin-oder-ein-traum-mit-sahne", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

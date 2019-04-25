@@ -1,1 +1,0 @@
-{"tmdb_id": 55501, "title": "Where's Spot", "original_title": "Where's Spot", "slug_title": "where-s-spot", "date": "2005-04-18", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qp1AEhKekhFppK5Rw7KfN29iEBt.jpg", "actors": [], "comments": [], "recommandations_id": []}

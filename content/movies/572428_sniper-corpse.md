@@ -1,1 +1,0 @@
-{"tmdb_id": 572428, "title": "Sniper Corpse", "original_title": "Sniper Corpse", "slug_title": "sniper-corpse", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uCTikkip0DSo9BkDHNA3VGm4wck.jpg", "actors": ["Eleri Jones (Diane)", "Kit Smith (Braddock)"], "comments": [], "recommandations_id": []}

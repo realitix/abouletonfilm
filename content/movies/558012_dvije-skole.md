@@ -1,1 +1,0 @@
-{"tmdb_id": 558012, "title": "DVIJE \u0160KOLE", "original_title": "DVIJE \u0160KOLE", "slug_title": "dvije-skole", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

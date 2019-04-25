@@ -1,1 +1,0 @@
-{"tmdb_id": 551142, "title": "Counselitis", "original_title": "Counselitis", "slug_title": "counselitis", "date": "1935-11-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leon Errol ()", "Eddie Kane ()", "Landers Stevens ()", "Maxine Jennings ()", "Robert Graves ()"], "comments": [], "recommandations_id": []}

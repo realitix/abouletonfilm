@@ -1,1 +1,0 @@
-{"tmdb_id": 329533, "title": "Femmes d'Alger", "original_title": "Femmes d'Alger", "slug_title": "femmes-d-alger", "date": "1992-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

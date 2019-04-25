@@ -1,1 +1,0 @@
-{"tmdb_id": 313908, "title": "Intolerance", "original_title": "Netrpeljivost", "slug_title": "intolerance", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

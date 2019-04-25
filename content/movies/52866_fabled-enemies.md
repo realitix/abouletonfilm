@@ -1,1 +1,0 @@
-{"tmdb_id": 52866, "title": "Fabled Enemies", "original_title": "Fabled Enemies", "slug_title": "fabled-enemies", "date": "2008-07-22", "genre": "Documentaire", "score": "5.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rsDypl9XjZbWcg7dV6P9DHzM72b.jpg", "actors": [], "comments": [], "recommandations_id": []}

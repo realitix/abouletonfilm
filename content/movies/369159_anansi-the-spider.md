@@ -1,1 +1,0 @@
-{"tmdb_id": 369159, "title": "Anansi the Spider", "original_title": "Anansi the Spider", "slug_title": "anansi-the-spider", "date": "1969-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Athmani Magoma (Narrator)"], "comments": [], "recommandations_id": []}

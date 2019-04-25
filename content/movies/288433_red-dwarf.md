@@ -1,1 +1,0 @@
-{"tmdb_id": 288433, "title": "Red Dwarf", "original_title": "Red Dwarf", "slug_title": "red-dwarf", "date": "1992-01-01", "genre": "Science-Fiction / Com\u00e9die", "score": "4.4/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [59709, 50468]}

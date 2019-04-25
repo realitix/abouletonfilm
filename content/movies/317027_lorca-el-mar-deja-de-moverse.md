@@ -1,1 +1,0 @@
-{"tmdb_id": 317027, "title": "Lorca. El mar deja de moverse", "original_title": "Lorca. El mar deja de moverse", "slug_title": "lorca-el-mar-deja-de-moverse", "date": "2006-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zc0ijKfe80lhtALg6ljWrbk0jCn.jpg", "actors": [], "comments": [], "recommandations_id": []}

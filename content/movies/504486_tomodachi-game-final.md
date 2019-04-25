@@ -1,1 +1,0 @@
-{"tmdb_id": 504486, "title": "Tomodachi Game Final", "original_title": "Tomodachi Game Final", "slug_title": "tomodachi-game-final", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ffCSlaGuOf4PIzPEW5ohJcMbAuv.jpg", "actors": [], "comments": [], "recommandations_id": []}

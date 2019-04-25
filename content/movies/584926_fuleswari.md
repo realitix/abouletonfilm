@@ -1,1 +1,0 @@
-{"tmdb_id": 584926, "title": "Fuleswari", "original_title": "Fuleswari", "slug_title": "fuleswari", "date": "1974-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rh5jdIdMBKdFX3yJCzuhc1G3MFF.jpg", "actors": ["Sandhya Roy (Fuleswari)", "Samit Bhanja ()"], "comments": [], "recommandations_id": []}

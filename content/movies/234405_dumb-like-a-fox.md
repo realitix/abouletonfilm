@@ -1,1 +1,0 @@
-{"tmdb_id": 234405, "title": "Dumb Like a Fox", "original_title": "Dumb Like a Fox", "slug_title": "dumb-like-a-fox", "date": "1964-01-07", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/moN84joWjisMazqkjYrBru3MNPN.jpg", "actors": [], "comments": [], "recommandations_id": []}

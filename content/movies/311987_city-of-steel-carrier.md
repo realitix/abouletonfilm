@@ -1,1 +1,0 @@
-{"tmdb_id": 311987, "title": "City of Steel: Carrier", "original_title": "City of Steel: Carrier", "slug_title": "city-of-steel-carrier", "date": "1999-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qcsJadQlglWGGPV1BPSgbDbaxgH.jpg", "actors": [], "comments": [], "recommandations_id": []}

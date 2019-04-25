@@ -1,1 +1,0 @@
-{"tmdb_id": 398110, "title": "Pawel i Wawel", "original_title": "Pawel i Wawel", "slug_title": "pawel-i-wawel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

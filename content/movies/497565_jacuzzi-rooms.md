@@ -1,1 +1,0 @@
-{"tmdb_id": 497565, "title": "Jacuzzi Rooms", "original_title": "Jacuzzi Rooms", "slug_title": "jacuzzi-rooms", "date": "2006-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/egQkTFMt8CH0ICgaxuUvacZisXL.jpg", "actors": [], "comments": [], "recommandations_id": []}

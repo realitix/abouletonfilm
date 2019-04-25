@@ -1,1 +1,0 @@
-{"tmdb_id": 589897, "title": "Frohe Ostern", "original_title": "Frohe Ostern", "slug_title": "frohe-ostern", "date": "2005-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roland Bonjour ()", "Marlise Fischer ()", "Anna-Katharina M\u00fcller ()", "Dieter Stoll ()"], "comments": [], "recommandations_id": []}

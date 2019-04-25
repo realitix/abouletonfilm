@@ -1,1 +1,0 @@
-{"tmdb_id": 559772, "title": "La Tigresse du Darknet", "original_title": "La Tigresse du Darknet", "slug_title": "la-tigresse-du-darknet", "date": "2018-11-11", "genre": "Guerre", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hemTw4vYVP4xwruw1I4SWjYWhPl.jpg", "actors": [], "comments": [], "recommandations_id": []}

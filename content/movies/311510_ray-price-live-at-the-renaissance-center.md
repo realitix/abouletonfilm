@@ -1,1 +1,0 @@
-{"tmdb_id": 311510, "title": "Ray Price: Live at the Renaissance Center", "original_title": "Ray Price: Live at the Renaissance Center", "slug_title": "ray-price-live-at-the-renaissance-center", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

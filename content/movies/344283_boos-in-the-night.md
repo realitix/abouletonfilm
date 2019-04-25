@@ -1,1 +1,0 @@
-{"tmdb_id": 344283, "title": "Boos in the Night", "original_title": "Boos in the Night", "slug_title": "boos-in-the-night", "date": "1949-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

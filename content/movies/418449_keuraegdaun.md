@@ -1,1 +1,0 @@
-{"tmdb_id": 418449, "title": "\ud06c\ub799\ub2e4\uc6b4", "original_title": "\ud06c\ub799\ub2e4\uc6b4", "slug_title": "keuraegdaun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

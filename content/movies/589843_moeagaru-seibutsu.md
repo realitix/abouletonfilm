@@ -1,1 +1,0 @@
-{"tmdb_id": 589843, "title": "Moeagaru Seibutsu", "original_title": "\u71c3\u3048\u4e0a\u304c\u308b\u751f\u7269", "slug_title": "moeagaru-seibutsu", "date": "2007-01-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Haruka Nanami ()", "Sakiko Takao ()"], "comments": [], "recommandations_id": []}

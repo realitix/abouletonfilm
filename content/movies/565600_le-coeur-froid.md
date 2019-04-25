@@ -1,1 +1,0 @@
-{"tmdb_id": 565600, "title": "Le coeur froid", "original_title": "Le coeur froid", "slug_title": "le-coeur-froid", "date": "1977-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r0iDb6pip9Z6TB3aecCPtohxmTI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 509870, "title": "Bhoga Bhagyalu", "original_title": "Bhoga Bhagyalu", "slug_title": "bhoga-bhagyalu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bYP2vtZRrv2DYhugmUMi3ncT2g2.jpg", "actors": [], "comments": [], "recommandations_id": []}

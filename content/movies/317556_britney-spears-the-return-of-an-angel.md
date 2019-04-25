@@ -1,1 +1,0 @@
-{"tmdb_id": 317556, "title": "Britney Spears: The Return of an Angel", "original_title": "Britney Spears: The Return of an Angel", "slug_title": "britney-spears-the-return-of-an-angel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

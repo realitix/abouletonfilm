@@ -1,1 +1,0 @@
-{"tmdb_id": 401842, "title": "Gravitation", "original_title": "Gravit\u00e1ci\u00f3", "slug_title": "gravitation", "date": "1981-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ctBfzzodP7iFmQXQQQxKwl5tVx8.jpg", "actors": [], "comments": [], "recommandations_id": []}

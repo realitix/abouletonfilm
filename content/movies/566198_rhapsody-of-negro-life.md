@@ -1,1 +1,0 @@
-{"tmdb_id": 566198, "title": "Rhapsody of Negro Life", "original_title": "Rhapsody of Negro Life", "slug_title": "rhapsody-of-negro-life", "date": "1949-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 433669, "title": "Benjamin Bl\u00fcmchen Classics - auf dem Bauernhof", "original_title": "Benjamin Bl\u00fcmchen Classics - auf dem Bauernhof", "slug_title": "benjamin-blumchen-classics-auf-dem-bauernhof", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

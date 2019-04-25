@@ -1,1 +1,0 @@
-{"tmdb_id": 156376, "title": "The Texan", "original_title": "The Texan", "slug_title": "the-texan", "date": "1932-02-01", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vpUzJ3e4yVxH7TCTQYpqf6l7F16.jpg", "actors": ["Jay Wilsey ()", "Lucile Browne ()"], "comments": [], "recommandations_id": []}

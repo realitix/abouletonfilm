@@ -1,1 +1,0 @@
-{"tmdb_id": 322775, "title": "Arabic Numeral Series 12", "original_title": "Arabic Numeral Series 12", "slug_title": "arabic-numeral-series-12", "date": "1981-07-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [164599, 142192, 164592, 164597]}

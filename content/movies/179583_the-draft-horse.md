@@ -1,1 +1,0 @@
-{"tmdb_id": 179583, "title": "The Draft Horse", "original_title": "The Draft Horse", "slug_title": "the-draft-horse", "date": "1942-05-09", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/74VglVP2494OhsIo2aAwZBQ5m2E.jpg", "actors": ["Mel Blanc (Draft Horse, Other voices)"], "comments": [], "recommandations_id": []}

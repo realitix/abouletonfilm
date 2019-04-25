@@ -1,1 +1,0 @@
-{"tmdb_id": 219475, "title": "The Foxy Hunter", "original_title": "The Foxy Hunter", "slug_title": "the-foxy-hunter", "date": "1937-11-25", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xMnKcG77skotfwc8oGuRek7VVcs.jpg", "actors": ["Mae Questel (Betty Boop)"], "comments": [], "recommandations_id": []}

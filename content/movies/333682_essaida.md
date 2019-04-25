@@ -1,1 +1,0 @@
-{"tmdb_id": 333682, "title": "Essa\u00efda", "original_title": "Essa\u00efda", "slug_title": "essaida", "date": "1996-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Myriam Amarouchene ()", "Faouzia Badr ()", "Chdli Bouzayen ()"], "comments": [], "recommandations_id": []}

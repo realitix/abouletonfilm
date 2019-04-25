@@ -1,1 +1,0 @@
-{"tmdb_id": 593684, "title": "The Look", "original_title": "The Look", "slug_title": "the-look", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Theo Buckwald (Joe)", "Jillian Ruvalcaba (Jack)"], "comments": [], "recommandations_id": []}

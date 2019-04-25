@@ -1,1 +1,0 @@
-{"tmdb_id": 437180, "title": "Tuesdays, Thursdays and Saturdays", "original_title": "Wtorki, czwartki i soboty", "slug_title": "tuesdays-thursdays-and-saturdays", "date": "1965-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

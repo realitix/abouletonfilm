@@ -1,1 +1,0 @@
-{"tmdb_id": 275751, "title": "Legend of the Dragon Kings: White Dragon", "original_title": "Legend of the Dragon Kings: White Dragon", "slug_title": "legend-of-the-dragon-kings-white-dragon", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

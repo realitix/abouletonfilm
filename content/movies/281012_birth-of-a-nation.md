@@ -1,1 +1,0 @@
-{"tmdb_id": 281012, "title": "Birth of a Nation", "original_title": "Birth of a Nation", "slug_title": "birth-of-a-nation", "date": "1965-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

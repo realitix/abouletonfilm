@@ -1,1 +1,0 @@
-{"tmdb_id": 351692, "title": "So Many Eyes in So Many Places", "original_title": "Tantos olhos em tantos lugares", "slug_title": "so-many-eyes-in-so-many-places", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e52hAum3MJSjauv4VQPfBrPNPe8.jpg", "actors": [], "comments": [], "recommandations_id": []}

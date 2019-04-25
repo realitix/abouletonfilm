@@ -1,1 +1,0 @@
-{"tmdb_id": 390161, "title": "La Libert\u00e9 raisonn\u00e9e", "original_title": "La Libert\u00e9 raisonn\u00e9e", "slug_title": "la-liberte-raisonnee", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iVqdD5xTmy1UlK5KfIy6jpZfSRt.jpg", "actors": [], "comments": [], "recommandations_id": []}

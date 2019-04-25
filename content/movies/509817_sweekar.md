@@ -1,1 +1,0 @@
-{"tmdb_id": 509817, "title": "Sweekar", "original_title": "Sweekar", "slug_title": "sweekar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

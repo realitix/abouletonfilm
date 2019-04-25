@@ -1,1 +1,0 @@
-{"tmdb_id": 297893, "title": "Alticity 6: Dedication", "original_title": "Alticity 6: Dedication", "slug_title": "alticity-6-dedication", "date": "2006-01-01", "genre": "Action / Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k9LhXszNzKMpepfoHwRIxBNw8tw.jpg", "actors": [], "comments": [], "recommandations_id": []}

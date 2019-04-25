@@ -1,1 +1,0 @@
-{"tmdb_id": 221316, "title": "Little Feat - Skin It Back", "original_title": "Little Feat - Skin It Back", "slug_title": "little-feat-skin-it-back", "date": "2009-09-22", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rbLsTK3X0CzN7rmRQxcvX6h4uCR.jpg", "actors": [], "comments": [], "recommandations_id": []}

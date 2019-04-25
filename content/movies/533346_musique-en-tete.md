@@ -1,1 +1,0 @@
-{"tmdb_id": 533346, "title": "Musique en t\u00eate", "original_title": "Musique en t\u00eate", "slug_title": "musique-en-tete", "date": "1951-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/srdIpf1HW5D8aImcHaQRcr0l1Qt.jpg", "actors": [], "comments": [], "recommandations_id": []}

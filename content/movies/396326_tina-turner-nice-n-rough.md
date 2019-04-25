@@ -1,1 +1,0 @@
-{"tmdb_id": 396326, "title": "Tina Turner: Nice 'n' Rough", "original_title": "Tina Turner: Nice 'n' Rough", "slug_title": "tina-turner-nice-n-rough", "date": "1982-12-28", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tina Turner (herself)"], "comments": [], "recommandations_id": []}

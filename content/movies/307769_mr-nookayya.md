@@ -1,1 +1,0 @@
-{"tmdb_id": 307769, "title": "Mr. Nookayya", "original_title": "Mr. Nookayya", "slug_title": "mr-nookayya", "date": "2012-03-08", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

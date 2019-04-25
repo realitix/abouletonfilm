@@ -1,1 +1,0 @@
-{"tmdb_id": 490664, "title": "A Very Young Lady", "original_title": "A Very Young Lady", "slug_title": "a-very-young-lady", "date": "1941-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dJPdoQivpPVSgrPi6sW7j3UaPfL.jpg", "actors": [], "comments": [], "recommandations_id": []}

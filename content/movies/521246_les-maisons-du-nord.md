@@ -1,1 +1,0 @@
-{"tmdb_id": 521246, "title": "Les Maisons du Nord", "original_title": "Les Maisons du Nord", "slug_title": "les-maisons-du-nord", "date": "2015-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

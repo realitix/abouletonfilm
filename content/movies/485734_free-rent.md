@@ -1,1 +1,0 @@
-{"tmdb_id": 485734, "title": "Free Rent", "original_title": "Free Rent", "slug_title": "free-rent", "date": "1936-12-20", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fm9HLQPY57owBmZcMjcEEIMoA6P.jpg", "actors": ["Monte Collins ()", "Tom Kennedy ()"], "comments": [], "recommandations_id": []}

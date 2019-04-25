@@ -1,1 +1,0 @@
-{"tmdb_id": 536142, "title": "Pura Vida", "original_title": "Pura Vida", "slug_title": "pura-vida", "date": "2018-05-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4po8h4M4buPbFhrOxkYylvWXtkh.jpg", "actors": [], "comments": [], "recommandations_id": []}

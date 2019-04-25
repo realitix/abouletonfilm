@@ -1,1 +1,0 @@
-{"tmdb_id": 435427, "title": "En gasfilm", "original_title": "En gasfilm", "slug_title": "en-gasfilm", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

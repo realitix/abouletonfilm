@@ -1,1 +1,0 @@
-{"tmdb_id": 349847, "title": "You, My Ecstatic Hell", "original_title": "\ub108\ub294 \ub098\uc758 \ud669\ud640\ud55c \uc9c0\uc625", "slug_title": "you-my-ecstatic-hell", "date": "1990-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

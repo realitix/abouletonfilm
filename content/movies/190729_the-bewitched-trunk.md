@@ -1,1 +1,0 @@
-{"tmdb_id": 190729, "title": "The Bewitched Trunk", "original_title": "Le coffre enchant\u00e9", "slug_title": "the-bewitched-trunk", "date": "1904-03-05", "genre": "", "score": "3.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ngnUQX9Abkesfq72uvBF3uj4Es.jpg", "actors": [], "comments": [], "recommandations_id": [189600]}

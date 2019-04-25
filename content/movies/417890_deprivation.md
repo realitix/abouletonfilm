@@ -1,1 +1,0 @@
-{"tmdb_id": 417890, "title": "Deprivation", "original_title": "Deprivation", "slug_title": "deprivation", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 307839, "title": "Idhi Maa Ashokgaadi Love Story", "original_title": "Idhi Maa Ashokgaadi Love Story", "slug_title": "idhi-maa-ashokgaadi-love-story", "date": "2003-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

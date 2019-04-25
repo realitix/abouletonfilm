@@ -1,1 +1,0 @@
-{"tmdb_id": 369077, "title": "Stand Up! A Comedian Backstage", "original_title": "Stand Up! Ein Comedian backstage", "slug_title": "stand-up-a-comedian-backstage", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hennes Bender (Himself)"], "comments": [], "recommandations_id": []}

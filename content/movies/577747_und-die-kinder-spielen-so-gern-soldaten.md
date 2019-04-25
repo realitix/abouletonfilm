@@ -1,1 +1,0 @@
-{"tmdb_id": 577747, "title": "Und die Kinder spielen so gern Soldaten", "original_title": "Und die Kinder spielen so gern Soldaten", "slug_title": "und-die-kinder-spielen-so-gern-soldaten", "date": "1951-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

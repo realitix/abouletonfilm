@@ -1,1 +1,0 @@
-{"tmdb_id": 566180, "title": "Lasso Thrower", "original_title": "Lasso Thrower", "slug_title": "lasso-thrower", "date": "1894-10-06", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

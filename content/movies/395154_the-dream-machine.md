@@ -1,1 +1,0 @@
-{"tmdb_id": 395154, "title": "The Dream Machine", "original_title": "The Dream Machine", "slug_title": "the-dream-machine", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

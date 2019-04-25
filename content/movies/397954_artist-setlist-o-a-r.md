@@ -1,1 +1,0 @@
-{"tmdb_id": 397954, "title": "Artist Setlist - O.A.R.", "original_title": "Artist Setlist - O.A.R.", "slug_title": "artist-setlist-o-a-r", "date": "2014-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/RhmRPjKGfVKEsEcwb0KFoRj1vw.jpg", "actors": [], "comments": [], "recommandations_id": []}

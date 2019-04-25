@@ -1,1 +1,0 @@
-{"tmdb_id": 324167, "title": "Bullies and Bullets", "original_title": "Bullies and Bullets", "slug_title": "bullies-and-bullets", "date": "1917-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hughie Mack (Him)", "Patsy De Forest (Her)", "Jimmy Aubrey (A Person)", "Alice Mann ()"], "comments": [], "recommandations_id": []}

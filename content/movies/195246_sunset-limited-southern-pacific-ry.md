@@ -1,1 +1,0 @@
-{"tmdb_id": 195246, "title": "Sunset Limited, Southern Pacific Ry.", "original_title": "Sunset Limited, Southern Pacific Ry.", "slug_title": "sunset-limited-southern-pacific-ry", "date": "1898-02-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

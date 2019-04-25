@@ -1,1 +1,0 @@
-{"tmdb_id": 346507, "title": "Livin'it", "original_title": "Livin'it", "slug_title": "livin-it", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

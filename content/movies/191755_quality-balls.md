@@ -1,1 +1,0 @@
-{"tmdb_id": 191755, "title": "Quality Balls", "original_title": "Quality Balls", "slug_title": "quality-balls", "date": "2013-05-24", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jNDI8SXtaZZytfv9Thb3lum6hIy.jpg", "actors": [], "comments": [], "recommandations_id": []}

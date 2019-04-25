@@ -1,1 +1,0 @@
-{"tmdb_id": 259483, "title": "Deserted at the Altar", "original_title": "Deserted at the Altar", "slug_title": "deserted-at-the-altar", "date": "1922-12-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tully Marshall ()", "Bessie Love ()", "Barbara Tennant ()", "William Scott ()"], "comments": [], "recommandations_id": []}

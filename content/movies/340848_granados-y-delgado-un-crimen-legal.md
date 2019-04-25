@@ -1,1 +1,0 @@
-{"tmdb_id": 340848, "title": "Granados y Delgado. Un crimen legal", "original_title": "Granados y Delgado. Un crimen legal", "slug_title": "granados-y-delgado-un-crimen-legal", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

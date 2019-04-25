@@ -1,1 +1,0 @@
-{"tmdb_id": 583606, "title": "Loz Jogjakartoz", "original_title": "Loz Jogjakartoz", "slug_title": "loz-jogjakartoz", "date": "2018-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gJGfuU7TJh3TweCeBTQg6a5XvsI.jpg", "actors": ["Kukuh Prasetya (Artos)"], "comments": [], "recommandations_id": []}

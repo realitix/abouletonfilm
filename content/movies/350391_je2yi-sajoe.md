@@ -1,1 +1,0 @@
-{"tmdb_id": 350391, "title": "\uc81c2\uc758 \uc0ac\uc8c4", "original_title": "\uc81c2\uc758 \uc0ac\uc8c4", "slug_title": "je2yi-sajoe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

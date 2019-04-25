@@ -1,1 +1,0 @@
-{"tmdb_id": 302319, "title": "Guerilla Art", "original_title": "Guerilla Art", "slug_title": "guerilla-art", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tXClyRarPDRHDsxAzMh0pNBh5mA.jpg", "actors": [], "comments": [], "recommandations_id": []}

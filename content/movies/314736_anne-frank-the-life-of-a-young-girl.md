@@ -1,1 +1,0 @@
-{"tmdb_id": 314736, "title": "Anne Frank: The Life of a Young Girl", "original_title": "Anne Frank: The Life of a Young Girl", "slug_title": "anne-frank-the-life-of-a-young-girl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

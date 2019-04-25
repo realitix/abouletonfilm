@@ -1,1 +1,0 @@
-{"tmdb_id": 551746, "title": "Tauride", "original_title": "Tauride", "slug_title": "tauride", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vTzsdom6mN22BxxpaduqyNa0RPp.jpg", "actors": ["Catherine Diverr\u00e8s ()", "Bernardo Montet ()"], "comments": [], "recommandations_id": []}

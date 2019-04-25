@@ -1,1 +1,0 @@
-{"tmdb_id": 476613, "title": "Apache Warrior", "original_title": "Apache Warrior", "slug_title": "apache-warrior", "date": "2017-12-12", "genre": "Documentaire", "score": "1.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p477xgNQDKPgG7AXTne9aYnP8Sr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 389432, "title": "La meridiana del convento", "original_title": "La meridiana del convento", "slug_title": "la-meridiana-del-convento", "date": "1917-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gigetta Morano ()", "Eleuterio Rodolfi ()", "Ernesto Vaser ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 567269, "title": "Funk Lessons", "original_title": "Funk Lessons", "slug_title": "funk-lessons", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

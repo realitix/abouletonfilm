@@ -1,1 +1,0 @@
-{"tmdb_id": 595106, "title": "The Bridge of Sighs", "original_title": "The Bridge of Sighs", "slug_title": "the-bridge-of-sighs", "date": "1925-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aWCjrPjE7TLakbFSIqzAC4rfhMc.jpg", "actors": [], "comments": [], "recommandations_id": []}

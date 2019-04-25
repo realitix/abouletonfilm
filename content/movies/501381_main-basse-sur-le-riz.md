@@ -1,1 +1,0 @@
-{"tmdb_id": 501381, "title": "Main basse sur le riz", "original_title": "Main basse sur le riz", "slug_title": "main-basse-sur-le-riz", "date": "2010-04-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aW9b3XbrWZjx4T5vTkDN0BFPBvu.jpg", "actors": [], "comments": [], "recommandations_id": []}

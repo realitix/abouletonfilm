@@ -1,1 +1,0 @@
-{"tmdb_id": 519303, "title": "hateworld", "original_title": "hateworld", "slug_title": "hateworld", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/agirrIhrxfPrFBimKDMQb2lMTu1.jpg", "actors": [], "comments": [], "recommandations_id": []}

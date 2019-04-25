@@ -1,1 +1,0 @@
-{"tmdb_id": 447949, "title": "De larges d\u00e9tails, sur les pas de Francis Al\u00ffs", "original_title": "De larges d\u00e9tails, sur les pas de Francis Al\u00ffs", "slug_title": "de-larges-details-sur-les-pas-de-francis-alys", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

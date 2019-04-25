@@ -1,1 +1,0 @@
-{"tmdb_id": 275240, "title": "Project XX: End of the Trail", "original_title": "Project XX: End of the Trail", "slug_title": "project-xx-end-of-the-trail", "date": "1967-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

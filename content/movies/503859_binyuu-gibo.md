@@ -1,1 +1,0 @@
-{"tmdb_id": 503859, "title": "Binyuu Gibo", "original_title": "Binyuu Gibo", "slug_title": "binyuu-gibo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

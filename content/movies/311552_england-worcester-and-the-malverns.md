@@ -1,1 +1,0 @@
-{"tmdb_id": 311552, "title": "England: Worcester and the Malverns", "original_title": "England: Worcester and the Malverns", "slug_title": "england-worcester-and-the-malverns", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

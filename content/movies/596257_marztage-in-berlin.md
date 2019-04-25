@@ -1,1 +1,0 @@
-{"tmdb_id": 596257, "title": "M\u00e4rztage in Berlin", "original_title": "M\u00e4rztage in Berlin", "slug_title": "marztage-in-berlin", "date": "1987-03-17", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Klaus Piontek ()", "Barbara Schnitzler ()", "J\u00f6rg Panknin ()"], "comments": [], "recommandations_id": []}

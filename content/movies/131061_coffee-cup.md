@@ -1,1 +1,0 @@
-{"tmdb_id": 131061, "title": "Coffee Cup", "original_title": "Coffee Cup", "slug_title": "coffee-cup", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 592008, "title": "Le Mafatais", "original_title": "Le Mafatais", "slug_title": "le-mafatais", "date": "2017-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fEBUPeHuhaglwc5Jsu4xiAeprOL.jpg", "actors": [], "comments": [], "recommandations_id": []}

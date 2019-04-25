@@ -1,1 +1,0 @@
-{"tmdb_id": 593591, "title": "Stop That Dancin' Up There", "original_title": "Stop That Dancin' Up There", "slug_title": "stop-that-dancin-up-there", "date": "1944-04-08", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kay Starr ()", "Jimmie Dodd ()"], "comments": [], "recommandations_id": []}

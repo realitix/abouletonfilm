@@ -1,1 +1,0 @@
-{"tmdb_id": 434479, "title": "Month as a Day", "original_title": "Tve rogorts erti dghe", "slug_title": "month-as-a-day", "date": "2016-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

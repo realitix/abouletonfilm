@@ -1,1 +1,0 @@
-{"tmdb_id": 281964, "title": "El Cardenal", "original_title": "El Cardenal", "slug_title": "el-cardenal", "date": "1972-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ksqS7SfP0FFypO55UnInEkDZ7d.jpg", "actors": [], "comments": [], "recommandations_id": []}

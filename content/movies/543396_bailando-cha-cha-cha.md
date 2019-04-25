@@ -1,1 +1,0 @@
-{"tmdb_id": 543396, "title": "Bailando Cha Cha Cha", "original_title": "Bailando Cha Cha Cha", "slug_title": "bailando-cha-cha-cha", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 224321, "title": "Tech Support", "original_title": "Tech Support", "slug_title": "tech-support", "date": "2009-09-27", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jenny Hagel ()", "Nikki Lindgren ()"], "comments": [], "recommandations_id": []}

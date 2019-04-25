@@ -1,1 +1,0 @@
-{"tmdb_id": 576260, "title": "Breaking Kayfabe with Jerome Young", "original_title": "Breaking Kayfabe with Jerome Young", "slug_title": "breaking-kayfabe-with-jerome-young", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Jerome Young (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 555405, "title": "Le tournant", "original_title": "Le tournant", "slug_title": "le-tournant", "date": "1918-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 327902, "title": "Frank's Plight", "original_title": "Frank's Plight", "slug_title": "frank-s-plight", "date": "2012-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 555959, "title": "Le lac d'argent", "original_title": "Le lac d'argent", "slug_title": "le-lac-d-argent", "date": "1922-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

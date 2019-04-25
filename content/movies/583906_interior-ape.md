@@ -1,1 +1,0 @@
-{"tmdb_id": 583906, "title": "Interior Ape", "original_title": "Interior Ape", "slug_title": "interior-ape", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

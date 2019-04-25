@@ -1,1 +1,0 @@
-{"tmdb_id": 384800, "title": "Duo guan xian shi", "original_title": "Duo guan xian shi", "slug_title": "duo-guan-xian-shi", "date": "1991-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kGYAHRjX09OXyrsvTZtiJlgNQbd.jpg", "actors": ["Zhi Cheng (\u949f\u6709\u5fb7)"], "comments": [], "recommandations_id": []}

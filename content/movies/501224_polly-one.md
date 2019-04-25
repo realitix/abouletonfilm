@@ -1,1 +1,0 @@
-{"tmdb_id": 501224, "title": "Polly One", "original_title": "Polly One", "slug_title": "polly-one", "date": "2017-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/un53L9kI3FTvOz3YR60hAhQoWj2.jpg", "actors": [], "comments": [], "recommandations_id": []}

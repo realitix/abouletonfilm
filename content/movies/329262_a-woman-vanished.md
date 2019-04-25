@@ -1,1 +1,0 @@
-{"tmdb_id": 329262, "title": "A Woman Vanished", "original_title": "Bir kadin kayboldu", "slug_title": "a-woman-vanished", "date": "1971-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ekrem Bora ()", "Peri Han ()", "Aynur Aydan ()"], "comments": [], "recommandations_id": []}

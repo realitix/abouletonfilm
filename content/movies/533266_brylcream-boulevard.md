@@ -1,1 +1,0 @@
-{"tmdb_id": 533266, "title": "Brylcream Boulevard", "original_title": "Brylcream Boulevard", "slug_title": "brylcream-boulevard", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4HEH9TMz7gfVVFVNwZuVFIos2lh.jpg", "actors": [], "comments": [], "recommandations_id": []}

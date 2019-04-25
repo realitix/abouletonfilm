@@ -1,1 +1,0 @@
-{"tmdb_id": 405308, "title": "La Valse", "original_title": "La Valse", "slug_title": "la-valse", "date": "2012-05-24", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zssXIJc1ux5j9uAOkS8e8SG79wx.jpg", "actors": [], "comments": [], "recommandations_id": []}

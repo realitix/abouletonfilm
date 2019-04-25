@@ -1,1 +1,0 @@
-{"tmdb_id": 511853, "title": "Intermitente", "original_title": "Intermitente", "slug_title": "intermitente", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nZil7SahzJd84XUfyeMni1tVgU.jpg", "actors": ["Camille Miranda (Lara)", "Ver\u00f4nica ReAl (Talita)"], "comments": [], "recommandations_id": []}

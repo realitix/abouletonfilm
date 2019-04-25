@@ -1,1 +1,0 @@
-{"tmdb_id": 319190, "title": "Why Is the Sea Water Salty?", "original_title": "Umi no mizu wa naze karai", "slug_title": "why-is-the-sea-water-salty", "date": "1935-01-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9MzqkhAYiUbtvnZ5QyswE7l4add.jpg", "actors": [], "comments": [], "recommandations_id": []}

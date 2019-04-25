@@ -1,1 +1,0 @@
-{"tmdb_id": 596621, "title": "Turkey, the Legacy of Silence", "original_title": "L'h\u00e9ritage du silence", "slug_title": "turkey-the-legacy-of-silence", "date": "2015-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kHbBbt9kGWGmibRSEzB40CAcL4G.jpg", "actors": [], "comments": [], "recommandations_id": []}

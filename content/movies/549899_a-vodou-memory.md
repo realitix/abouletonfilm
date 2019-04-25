@@ -1,1 +1,0 @@
-{"tmdb_id": 549899, "title": "A vodou memory", "original_title": "Une m\u00e9moire vodou", "slug_title": "a-vodou-memory", "date": "2008-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

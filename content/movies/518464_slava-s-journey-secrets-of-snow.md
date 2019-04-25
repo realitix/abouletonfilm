@@ -1,1 +1,0 @@
-{"tmdb_id": 518464, "title": "Slava's Journey: Secrets of Snow", "original_title": "Slava's Journey: Secrets of Snow", "slug_title": "slava-s-journey-secrets-of-snow", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

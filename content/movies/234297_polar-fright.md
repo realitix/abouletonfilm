@@ -1,1 +1,0 @@
-{"tmdb_id": 234297, "title": "Polar Fright", "original_title": "Polar Fright", "slug_title": "polar-fright", "date": "1966-11-08", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l7vyqt028J6QWgYmEvC5E9SkQqA.jpg", "actors": [], "comments": [], "recommandations_id": []}

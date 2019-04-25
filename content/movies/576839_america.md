@@ -1,1 +1,0 @@
-{"tmdb_id": 576839, "title": "America", "original_title": "America", "slug_title": "america", "date": "2019-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7vjHSvcQPMGoEZcllJ69hlJHRhB.jpg", "actors": [], "comments": [], "recommandations_id": []}

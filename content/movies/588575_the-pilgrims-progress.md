@@ -1,1 +1,0 @@
-{"tmdb_id": 588575, "title": "The Pilgrims Progress", "original_title": "The Pilgrims Progress", "slug_title": "the-pilgrims-progress", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

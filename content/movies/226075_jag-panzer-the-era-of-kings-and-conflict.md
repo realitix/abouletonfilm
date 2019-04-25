@@ -1,1 +1,0 @@
-{"tmdb_id": 226075, "title": "Jag Panzer The Era of Kings and Conflict", "original_title": "Jag Panzer The Era of Kings and Conflict", "slug_title": "jag-panzer-the-era-of-kings-and-conflict", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 287575, "title": "Satanism: Satan's Bloody Teaching", "original_title": "Satanism: Satan's Bloody Teaching", "slug_title": "satanism-satan-s-bloody-teaching", "date": "2011-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

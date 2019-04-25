@@ -1,1 +1,0 @@
-{"tmdb_id": 141667, "title": "Legends", "original_title": "Legends", "slug_title": "legends", "date": "2008-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/csiRmgegGiPalShMYggJQzBUquU.jpg", "actors": [], "comments": [], "recommandations_id": []}

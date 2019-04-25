@@ -1,1 +1,0 @@
-{"tmdb_id": 523728, "title": "Current 93: Since Yesterday", "original_title": "Current 93: Since Yesterday", "slug_title": "current-93-since-yesterday", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

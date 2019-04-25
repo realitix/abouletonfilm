@@ -1,1 +1,0 @@
-{"tmdb_id": 74428, "title": "PlaySchool - Live in Concert", "original_title": "PlaySchool - Live in Concert", "slug_title": "playschool-live-in-concert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/50fYXMKmBX6Q6CrUyKhDqSyE2K0.jpg", "actors": [], "comments": [], "recommandations_id": []}

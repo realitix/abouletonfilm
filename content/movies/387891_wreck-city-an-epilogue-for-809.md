@@ -1,1 +1,0 @@
-{"tmdb_id": 387891, "title": "WRECK CITY: AN EPILOGUE FOR 809", "original_title": "WRECK CITY: AN EPILOGUE FOR 809", "slug_title": "wreck-city-an-epilogue-for-809", "date": "2016-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 368523, "title": "The House at 12 Rose Street", "original_title": "The House at 12 Rose Street", "slug_title": "the-house-at-12-rose-street", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

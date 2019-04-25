@@ -1,1 +1,0 @@
-{"tmdb_id": 189749, "title": "Papa's Boy", "original_title": "Papa's Boy", "slug_title": "papa-s-boy", "date": "1927-12-17", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zELrRcRfyAgfa4aG2UNtPsCqL7h.jpg", "actors": ["Lloyd Hamilton ()"], "comments": [], "recommandations_id": []}

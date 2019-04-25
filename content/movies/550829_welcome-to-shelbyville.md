@@ -1,1 +1,0 @@
-{"tmdb_id": 550829, "title": "Welcome to Shelbyville", "original_title": "Welcome to Shelbyville", "slug_title": "welcome-to-shelbyville", "date": "2011-05-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

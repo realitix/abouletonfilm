@@ -1,1 +1,0 @@
-{"tmdb_id": 444379, "title": "Born Into Exile", "original_title": "Born Into Exile", "slug_title": "born-into-exile", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

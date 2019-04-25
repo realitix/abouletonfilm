@@ -1,1 +1,0 @@
-{"tmdb_id": 532820, "title": "The Longest Weiner", "original_title": "The Longest Weiner", "slug_title": "the-longest-weiner", "date": "", "genre": "Drame / Thriller / Action / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

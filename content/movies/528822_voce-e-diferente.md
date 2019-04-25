@@ -1,1 +1,0 @@
-{"tmdb_id": 528822, "title": "Voc\u00ea \u00e9 Diferente", "original_title": "Voc\u00ea \u00e9 Diferente", "slug_title": "voce-e-diferente", "date": "2018-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hOmOwv0KBQzA5Ym6mg8f3cgCFwZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

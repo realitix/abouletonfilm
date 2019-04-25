@@ -1,1 +1,0 @@
-{"tmdb_id": 302299, "title": "Vivahitha", "original_title": "Vivahitha", "slug_title": "vivahitha", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

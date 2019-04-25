@@ -1,1 +1,0 @@
-{"tmdb_id": 384370, "title": "A Place Where There Are Moths", "original_title": "Ga no Iru Tokoro", "slug_title": "a-place-where-there-are-moths", "date": "2001-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rNPuEjru3hvRpyARYkAFetMDHDV.jpg", "actors": [], "comments": [], "recommandations_id": []}

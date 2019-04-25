@@ -1,1 +1,0 @@
-{"tmdb_id": 503158, "title": "Cul-De-Sac", "original_title": "Cul-De-Sac", "slug_title": "cul-de-sac", "date": "2016-03-23", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pal1O4GD3fje87tCgrw72wqYO3Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 406319, "title": "The City in the Sky", "original_title": "La citt\u00e0 nel cielo", "slug_title": "the-city-in-the-sky", "date": "2009-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rnqnF1E781CBqVUMXpgCDHCS8fa.jpg", "actors": [], "comments": [], "recommandations_id": []}

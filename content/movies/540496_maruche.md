@@ -1,1 +1,0 @@
-{"tmdb_id": 540496, "title": "Maruche", "original_title": "Maruche", "slug_title": "maruche", "date": "1934-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yRNE9wxM90nUnmOudQ9YMYBKOSo.jpg", "actors": [], "comments": [], "recommandations_id": []}

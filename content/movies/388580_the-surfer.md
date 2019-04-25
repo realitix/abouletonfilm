@@ -1,1 +1,0 @@
-{"tmdb_id": 388580, "title": "The Surfer", "original_title": "The Surfer", "slug_title": "the-surfer", "date": "1986-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nqwt0BgvcCLXZmNdlVfdmmny4m1.jpg", "actors": [], "comments": [], "recommandations_id": []}

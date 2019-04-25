@@ -1,1 +1,0 @@
-{"tmdb_id": 500992, "title": "Cinema Olanda Film", "original_title": "Cinema Olanda Film", "slug_title": "cinema-olanda-film", "date": "2018-02-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

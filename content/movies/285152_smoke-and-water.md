@@ -1,1 +1,0 @@
-{"tmdb_id": 285152, "title": "Smoke and Water", "original_title": "Dim i voda", "slug_title": "smoke-and-water", "date": "1963-01-01", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AqPl2CcWr5IfXWK3jffBubh1BkY.jpg", "actors": [], "comments": [], "recommandations_id": []}

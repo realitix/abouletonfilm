@@ -1,1 +1,0 @@
-{"tmdb_id": 280722, "title": "Teletubbies - 10", "original_title": "Teletubbies - 10", "slug_title": "teletubbies-10", "date": "1997-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

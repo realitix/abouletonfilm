@@ -1,1 +1,0 @@
-{"tmdb_id": 78608, "title": "Chinnadurai", "original_title": "Chinnadurai", "slug_title": "chinnadurai", "date": "1999-03-13", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["R. Sarathkumar ()", "Roja Selvamani ()", "Manivannan ()", "Ponnambalam ()", "Sithara ()"], "comments": [], "recommandations_id": []}

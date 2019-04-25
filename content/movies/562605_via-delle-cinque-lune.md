@@ -1,1 +1,0 @@
-{"tmdb_id": 562605, "title": "Via delle Cinque Lune", "original_title": "Via delle Cinque Lune", "slug_title": "via-delle-cinque-lune", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luisella Beghi (Ines)", "Andrea Checchi (Checco)", "Olga Solbelli (Sora Teta)"], "comments": [], "recommandations_id": []}

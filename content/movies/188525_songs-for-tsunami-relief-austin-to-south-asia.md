@@ -1,1 +1,0 @@
-{"tmdb_id": 188525, "title": "Songs for Tsunami Relief: Austin to South Asia", "original_title": "Songs for Tsunami Relief: Austin to South Asia", "slug_title": "songs-for-tsunami-relief-austin-to-south-asia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

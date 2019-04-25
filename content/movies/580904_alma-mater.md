@@ -1,1 +1,0 @@
-{"tmdb_id": 580904, "title": "Alma Mater", "original_title": "Alma Mater", "slug_title": "alma-mater", "date": "2002-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zOj05pnmRCS43vA7QsSeluCHyTz.jpg", "actors": [], "comments": [], "recommandations_id": []}

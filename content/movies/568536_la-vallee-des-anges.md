@@ -1,1 +1,0 @@
-{"tmdb_id": 568536, "title": "La vall\u00e9e des anges", "original_title": "La vall\u00e9e des anges", "slug_title": "la-vallee-des-anges", "date": "1989-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

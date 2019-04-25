@@ -1,1 +1,0 @@
-{"tmdb_id": 67329, "title": "Rent, No Utilities", "original_title": "Kaltmiete", "slug_title": "rent-no-utilities", "date": "2007-09-01", "genre": "Horreur / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2WQRycGmikLlyyEvbN6Hnw83V4b.jpg", "actors": [], "comments": [], "recommandations_id": []}

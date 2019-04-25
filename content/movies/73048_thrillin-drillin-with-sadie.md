@@ -1,1 +1,0 @@
-{"tmdb_id": 73048, "title": "Thrillin' Drillin' With Sadie", "original_title": "Thrillin' Drillin' With Sadie", "slug_title": "thrillin-drillin-with-sadie", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gYwNgyWLYyxWAlejH7Lr5SO0aZS.jpg", "actors": [], "comments": [], "recommandations_id": []}

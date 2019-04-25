@@ -1,1 +1,0 @@
-{"tmdb_id": 353512, "title": "JOAO.NETO.E.FREDERICO.DVD-R.COVEIRO", "original_title": "JOAO.NETO.E.FREDERICO.DVD-R.COVEIRO", "slug_title": "joao-neto-e-frederico-dvd-r-coveiro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

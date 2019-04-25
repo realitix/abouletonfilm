@@ -1,1 +1,0 @@
-{"tmdb_id": 566444, "title": "Kiseki no Kyoshitsu", "original_title": "Kiseki no Kyoshitsu", "slug_title": "kiseki-no-kyoshitsu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yuji Oda (Yanagi Shuji)", "Mokomichi Hayami (Nishikawa)", "Mitsuki Takahata (Reiko)"], "comments": [], "recommandations_id": []}

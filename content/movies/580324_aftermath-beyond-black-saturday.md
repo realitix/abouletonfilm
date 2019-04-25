@@ -1,1 +1,0 @@
-{"tmdb_id": 580324, "title": "Aftermath: Beyond Black Saturday", "original_title": "Aftermath: Beyond Black Saturday", "slug_title": "aftermath-beyond-black-saturday", "date": "2019-02-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["William McInnes (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 233648, "title": "How to Use the Dial Telephone", "original_title": "How to Use the Dial Telephone", "slug_title": "how-to-use-the-dial-telephone", "date": "1927-11-06", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

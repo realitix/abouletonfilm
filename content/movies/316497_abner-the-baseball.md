@@ -1,1 +1,0 @@
-{"tmdb_id": 316497, "title": "Abner the Baseball", "original_title": "Abner the Baseball", "slug_title": "abner-the-baseball", "date": "1961-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

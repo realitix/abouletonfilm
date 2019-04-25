@@ -1,1 +1,0 @@
-{"tmdb_id": 282391, "title": "Fisheye", "original_title": "Riblje oko", "slug_title": "fisheye", "date": "1980-01-01", "genre": "Myst\u00e8re / Animation / Horreur / Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8FZox6RQIfKBLadGKpOJZGrpuPW.jpg", "actors": [], "comments": [], "recommandations_id": [72696]}

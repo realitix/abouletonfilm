@@ -1,1 +1,0 @@
-{"tmdb_id": 458888, "title": "The Red Sun", "original_title": "Hong Ri", "slug_title": "the-red-sun", "date": "1963-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bYIK0UQadp5JgywtQ7k4kLoWmsc.jpg", "actors": [], "comments": [], "recommandations_id": []}

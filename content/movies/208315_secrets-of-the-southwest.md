@@ -1,1 +1,0 @@
-{"tmdb_id": 208315, "title": "Secrets of the Southwest", "original_title": "Secrets of the Southwest", "slug_title": "secrets-of-the-southwest", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

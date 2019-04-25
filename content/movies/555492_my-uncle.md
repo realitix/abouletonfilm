@@ -1,1 +1,0 @@
-{"tmdb_id": 555492, "title": "My Uncle", "original_title": "Mon oncle", "slug_title": "my-uncle", "date": "1917-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

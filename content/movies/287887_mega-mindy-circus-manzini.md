@@ -1,1 +1,0 @@
-{"tmdb_id": 287887, "title": "Mega Mindy Circus Manzini", "original_title": "Mega Mindy Circus Manzini", "slug_title": "mega-mindy-circus-manzini", "date": "2009-01-01", "genre": "", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9B3L1fit99KD3QKtKpez26VarhT.jpg", "actors": [], "comments": [], "recommandations_id": []}

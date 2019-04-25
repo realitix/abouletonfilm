@@ -1,1 +1,0 @@
-{"tmdb_id": 482775, "title": "Germany made in USA", "original_title": "Germany made in USA", "slug_title": "germany-made-in-usa", "date": "1999-05-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

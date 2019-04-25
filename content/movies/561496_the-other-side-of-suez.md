@@ -1,1 +1,0 @@
-{"tmdb_id": 561496, "title": "The other side of Suez", "original_title": "The other side of Suez", "slug_title": "the-other-side-of-suez", "date": "2004-06-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 45673, "title": "NMFC 2007 Season Highlights", "original_title": "NMFC 2007 Season Highlights", "slug_title": "nmfc-2007-season-highlights", "date": "", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vvkuV76SihWuEZNRpxKto9Vj0TE.jpg", "actors": [], "comments": [], "recommandations_id": []}

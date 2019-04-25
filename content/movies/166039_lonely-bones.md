@@ -1,1 +1,0 @@
-{"tmdb_id": 166039, "title": "Lonely Bones", "original_title": "Lonely Bones", "slug_title": "lonely-bones", "date": "2013-01-23", "genre": "Animation", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/C5CJY8F5vYYGNfT8ksoanYmWd2.jpg", "actors": [], "comments": [], "recommandations_id": []}

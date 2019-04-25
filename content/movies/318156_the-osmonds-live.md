@@ -1,1 +1,0 @@
-{"tmdb_id": 318156, "title": "The Osmonds Live", "original_title": "The Osmonds Live", "slug_title": "the-osmonds-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

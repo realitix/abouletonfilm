@@ -1,1 +1,0 @@
-{"tmdb_id": 142665, "title": "Ghost Office", "original_title": "Mui tin hak lei bat siu see", "slug_title": "ghost-office", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gphbRbe2pqsLwJrMaljpgNby1He.jpg", "actors": [], "comments": [], "recommandations_id": []}

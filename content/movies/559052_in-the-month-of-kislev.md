@@ -1,1 +1,0 @@
-{"tmdb_id": 559052, "title": "In the Month of Kislev", "original_title": "In the Month of Kislev", "slug_title": "in-the-month-of-kislev", "date": "1994-06-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Theodore Bikel (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 313411, "title": "Mario Lanza: The American Caruso", "original_title": "Mario Lanza: The American Caruso", "slug_title": "mario-lanza-the-american-caruso", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

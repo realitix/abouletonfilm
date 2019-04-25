@@ -1,1 +1,0 @@
-{"tmdb_id": 42336, "title": "G.I. Joe: Ninja Battles", "original_title": "G.I. Joe: Ninja Battles", "slug_title": "g-i-joe-ninja-battles", "date": "2004-09-15", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j9MXFNeh96xgFbqNWVujxABgu1k.jpg", "actors": [], "comments": [], "recommandations_id": []}

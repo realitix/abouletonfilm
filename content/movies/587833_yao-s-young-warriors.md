@@ -1,1 +1,0 @@
-{"tmdb_id": 587833, "title": "Yao's Young Warriors", "original_title": "Yue jia xiao jang", "slug_title": "yao-s-young-warriors", "date": "1983-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cham Fung ()", "Hei-ling Cheung ()", "Cheung Shing-chung ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 301386, "title": "A Football Life: Terrel Davis", "original_title": "A Football Life: Terrel Davis", "slug_title": "a-football-life-terrel-davis", "date": "2014-10-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

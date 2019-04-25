@@ -1,1 +1,0 @@
-{"tmdb_id": 124286, "title": "Guus Meeuwis - In Concert", "original_title": "Guus Meeuwis - In Concert", "slug_title": "guus-meeuwis-in-concert", "date": "2004-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8AhYOADZjOx4KH9idNIlIHfKfpE.jpg", "actors": ["Guus Meeuwis ()"], "comments": [], "recommandations_id": []}

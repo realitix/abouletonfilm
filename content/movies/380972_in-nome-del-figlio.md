@@ -1,1 +1,0 @@
-{"tmdb_id": 380972, "title": "In nome del figlio", "original_title": "In nome del figlio", "slug_title": "in-nome-del-figlio", "date": "2008-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hpQ8ZNxwVAVeAqGRpnAqmXcQhuM.jpg", "actors": ["Lorenza Indovina ()", "David Coco ()"], "comments": [], "recommandations_id": []}

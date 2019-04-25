@@ -1,1 +1,0 @@
-{"tmdb_id": 71647, "title": "Undercover Cops", "original_title": "Undercover Cops", "slug_title": "undercover-cops", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

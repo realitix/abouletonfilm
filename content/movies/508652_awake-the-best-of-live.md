@@ -1,1 +1,0 @@
-{"tmdb_id": 508652, "title": "Awake The Best of Live", "original_title": "Awake The Best of Live", "slug_title": "awake-the-best-of-live", "date": "2004-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

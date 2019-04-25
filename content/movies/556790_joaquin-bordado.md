@@ -1,1 +1,0 @@
-{"tmdb_id": 556790, "title": "Joaquin Bordado", "original_title": "Joaquin Bordado", "slug_title": "joaquin-bordado", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramon Revilla Sr. ()", "Tanya Gomez ()", "Janice Jurado ()"], "comments": [], "recommandations_id": []}

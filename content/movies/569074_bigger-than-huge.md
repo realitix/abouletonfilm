@@ -1,1 +1,0 @@
-{"tmdb_id": 569074, "title": "Bigger Than Huge", "original_title": "Bigger Than Huge", "slug_title": "bigger-than-huge", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/623LNsS8N1fgxnCzqWdJmjYMNRA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 590892, "title": "Giderayak", "original_title": "Giderayak", "slug_title": "giderayak", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mustafa Erkan ()", "Murat Sa\u011flam ()", "Deniz Gerede ()", "Cengiz Samsun ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 584014, "title": "Neo Serenity", "original_title": "Neo Serenity", "slug_title": "neo-serenity", "date": "2019-01-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lx7gDXcLJUqHhCVFhGq2mUF3d3t.jpg", "actors": [], "comments": [], "recommandations_id": []}

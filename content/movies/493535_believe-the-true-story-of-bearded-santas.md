@@ -1,1 +1,0 @@
-{"tmdb_id": 493535, "title": "Believe: The True Story of Bearded Santas", "original_title": "Believe: The True Story of Bearded Santas", "slug_title": "believe-the-true-story-of-bearded-santas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

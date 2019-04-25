@@ -1,1 +1,0 @@
-{"tmdb_id": 462822, "title": "The scope of separation", "original_title": "The scope of separation", "slug_title": "the-scope-of-separation", "date": "2017-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8W65ZpTmFfnIW5ph2dM3IVUiPtq.jpg", "actors": [], "comments": [], "recommandations_id": []}

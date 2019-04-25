@@ -1,1 +1,0 @@
-{"tmdb_id": 365480, "title": "Entre Dois Desconhecidos", "original_title": "Entre Dois Desconhecidos", "slug_title": "entre-dois-desconhecidos", "date": "2015-10-29", "genre": "Documentaire", "score": "0.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

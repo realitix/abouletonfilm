@@ -1,1 +1,0 @@
-{"tmdb_id": 177192, "title": "Lisboners", "original_title": "Lisboetas", "slug_title": "lisboners", "date": "2004-03-14", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/udoL3afwJvBR26tTU4biNfhAlUY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 270682, "title": "A Box of Buttons", "original_title": "A Box of Buttons", "slug_title": "a-box-of-buttons", "date": "2005-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 494189, "title": "An Affair of the Skin", "original_title": "An Affair of the Skin", "slug_title": "an-affair-of-the-skin", "date": "1963-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2gZE9doMla0DqHpV1JmKwATKdbI.jpg", "actors": [], "comments": [], "recommandations_id": []}

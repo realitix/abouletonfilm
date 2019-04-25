@@ -1,1 +1,0 @@
-{"tmdb_id": 288845, "title": "The Homecoming", "original_title": "I  epistrofi", "slug_title": "the-homecoming", "date": "2008-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kyE8BRqA8khQ3JUgOQL66ax0hCc.jpg", "actors": [], "comments": [], "recommandations_id": []}

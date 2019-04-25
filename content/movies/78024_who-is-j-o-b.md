@@ -1,1 +1,0 @@
-{"tmdb_id": 78024, "title": "Who is J.O.B", "original_title": "Who is J.O.B", "slug_title": "who-is-j-o-b", "date": "2010-10-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n0cp5ofd59wlwsqGvOZrDpgiyK1.jpg", "actors": [], "comments": [], "recommandations_id": []}

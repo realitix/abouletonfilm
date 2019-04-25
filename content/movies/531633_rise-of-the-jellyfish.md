@@ -1,1 +1,0 @@
-{"tmdb_id": 531633, "title": "Rise of the Jellyfish", "original_title": "Rise of the Jellyfish", "slug_title": "rise-of-the-jellyfish", "date": "2011-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8c0LoyTb7JacE5BGJkUBcOyiGEh.jpg", "actors": [], "comments": [], "recommandations_id": []}

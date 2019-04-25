@@ -1,1 +1,0 @@
-{"tmdb_id": 437899, "title": "C\u00e1psulas", "original_title": "C\u00e1psulas", "slug_title": "capsulas", "date": "2012-02-17", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/spfpw3ixXZVsgdy0cVQCgGd1wN0.jpg", "actors": [], "comments": [], "recommandations_id": []}

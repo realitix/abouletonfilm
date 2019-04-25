@@ -1,1 +1,0 @@
-{"tmdb_id": 584523, "title": "Psicoteatro M\u00e1gico", "original_title": "Psicoteatro M\u00e1gico", "slug_title": "psicoteatro-magico", "date": "2013-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oI6RetT3Bgx25cDTSAhnWs2jcXZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

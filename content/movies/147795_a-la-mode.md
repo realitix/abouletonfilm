@@ -1,1 +1,0 @@
-{"tmdb_id": 147795, "title": "A La Mode", "original_title": "A La Mode", "slug_title": "a-la-mode", "date": "1959-01-01", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qnA5O2hL2wzXNrWjBXPHEAgct5j.jpg", "actors": [], "comments": [], "recommandations_id": [98498, 441812, 162662, 147199]}

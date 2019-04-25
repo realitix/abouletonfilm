@@ -1,1 +1,0 @@
-{"tmdb_id": 86052, "title": "Hells Heels", "original_title": "Hells Heels", "slug_title": "hells-heels", "date": "1930-06-06", "genre": "Animation", "score": "6.4/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

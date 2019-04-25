@@ -1,1 +1,0 @@
-{"tmdb_id": 306091, "title": "Stagnation", "original_title": "Stagnation", "slug_title": "stagnation", "date": "2014-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

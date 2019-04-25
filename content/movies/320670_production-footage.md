@@ -1,1 +1,0 @@
-{"tmdb_id": 320670, "title": "Production Footage", "original_title": "Production Footage", "slug_title": "production-footage", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Morgan Fisher ()"], "comments": [], "recommandations_id": []}

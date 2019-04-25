@@ -1,1 +1,0 @@
-{"tmdb_id": 534097, "title": "Voyage \u00e0 Rome", "original_title": "Voyage \u00e0 Rome", "slug_title": "voyage-a-rome", "date": "1992-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4fMijg8fhbj9FcCrTKDu5EuZacz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 585312, "title": "H.P. Lovecraft: Two Left Arms", "original_title": "H.P. Lovecraft: Two Left Arms", "slug_title": "h-p-lovecraft-two-left-arms", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nCPjHu62WomgoSECqun6N5A6Ebc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 449837, "title": "Vasarely", "original_title": "Vasarely", "slug_title": "vasarely", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lBo6V4CZr8HWQmngQEMwNla6Obl.jpg", "actors": [], "comments": [], "recommandations_id": []}

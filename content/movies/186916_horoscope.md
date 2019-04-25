@@ -1,1 +1,0 @@
-{"tmdb_id": 186916, "title": "Horoscope", "original_title": "Horoscope", "slug_title": "horoscope", "date": "1991-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rLyXTHHiSL0ZuxGj8T7SWpmuuvd.jpg", "actors": ["Holly Adams ()", "Bob Mook ()", "Squeak Wilentz ()"], "comments": [], "recommandations_id": []}

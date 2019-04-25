@@ -1,1 +1,0 @@
-{"tmdb_id": 428569, "title": "Mogadishu Soldier", "original_title": "Mogadishu Soldier", "slug_title": "mogadishu-soldier", "date": "2016-11-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8J01tEHzp6OO6aTrFL7vsHOpH3E.jpg", "actors": [], "comments": [], "recommandations_id": []}

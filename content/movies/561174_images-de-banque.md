@@ -1,1 +1,0 @@
-{"tmdb_id": 561174, "title": "Images de banque", "original_title": "Images de banque", "slug_title": "images-de-banque", "date": "1943-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

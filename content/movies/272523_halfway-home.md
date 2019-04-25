@@ -1,1 +1,0 @@
-{"tmdb_id": 272523, "title": "Halfway Home", "original_title": "Halfway Home", "slug_title": "halfway-home", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

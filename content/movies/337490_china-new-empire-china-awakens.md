@@ -1,1 +1,0 @@
-{"tmdb_id": 337490, "title": "China New Empire: China Awakens", "original_title": "China New Empire: China Awakens", "slug_title": "china-new-empire-china-awakens", "date": "2013-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

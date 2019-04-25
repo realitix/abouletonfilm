@@ -1,1 +1,0 @@
-{"tmdb_id": 496566, "title": "Das rollende Rad", "original_title": "Das rollende Rad", "slug_title": "das-rollende-rad", "date": "1933-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

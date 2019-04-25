@@ -1,1 +1,0 @@
-{"tmdb_id": 582683, "title": "The Dark Military", "original_title": "The Dark Military", "slug_title": "the-dark-military", "date": "2019-04-04", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hJd5O4PbZgxGSEEB9Q3u9kydfEo.jpg", "actors": [], "comments": [], "recommandations_id": []}

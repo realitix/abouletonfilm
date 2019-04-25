@@ -1,1 +1,0 @@
-{"tmdb_id": 384608, "title": "Die Again, Undead One", "original_title": "Die Again, Undead One", "slug_title": "die-again-undead-one", "date": "2012-11-30", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jForbOTyQnXiN69ADydLsQeCPJb.jpg", "actors": ["Jason Schwartzman ()"], "comments": [], "recommandations_id": []}

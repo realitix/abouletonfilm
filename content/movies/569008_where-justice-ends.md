@@ -1,1 +1,0 @@
-{"tmdb_id": 569008, "title": "Where Justice Ends", "original_title": "Where Justice Ends", "slug_title": "where-justice-ends", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

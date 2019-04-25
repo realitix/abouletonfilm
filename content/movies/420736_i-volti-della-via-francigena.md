@@ -1,1 +1,0 @@
-{"tmdb_id": 420736, "title": "I volti della via Francigena", "original_title": "I volti della via Francigena", "slug_title": "i-volti-della-via-francigena", "date": "2016-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2wiLpDPNQZdVtREW1VLYbbVGmKu.jpg", "actors": [], "comments": [], "recommandations_id": []}

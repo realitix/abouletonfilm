@@ -1,1 +1,0 @@
-{"tmdb_id": 455176, "title": "Vancouver: No Fixed Address", "original_title": "Vancouver: No Fixed Address", "slug_title": "vancouver-no-fixed-address", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uETmvjrBlDuA8mj2Lpw0LyGE41E.jpg", "actors": [], "comments": [], "recommandations_id": []}

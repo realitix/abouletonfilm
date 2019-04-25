@@ -1,1 +1,0 @@
-{"tmdb_id": 498219, "title": "This Lemon Tastes of Apple", "original_title": "This Lemon Tastes of Apple", "slug_title": "this-lemon-tastes-of-apple", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hiwa K (Himself)", "Daroon Othman (Himself)"], "comments": [], "recommandations_id": []}

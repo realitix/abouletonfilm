@@ -1,1 +1,0 @@
-{"tmdb_id": 165605, "title": "Junction", "original_title": "Junction", "slug_title": "junction", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["April Wade ()"], "comments": [], "recommandations_id": []}

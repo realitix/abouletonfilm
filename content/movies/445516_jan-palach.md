@@ -1,1 +1,0 @@
-{"tmdb_id": 445516, "title": "Jan Palach", "original_title": "Jan Palach", "slug_title": "jan-palach", "date": "1969-03-07", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/64KSMECE0DIKREjwT7tBh8PbaD3.jpg", "actors": [], "comments": [], "recommandations_id": []}

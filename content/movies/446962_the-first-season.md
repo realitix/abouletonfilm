@@ -1,1 +1,0 @@
-{"tmdb_id": 446962, "title": "The First Season", "original_title": "The First Season", "slug_title": "the-first-season", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

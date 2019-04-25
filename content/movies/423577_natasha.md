@@ -1,1 +1,0 @@
-{"tmdb_id": 423577, "title": "Natasha", "original_title": "Natasha", "slug_title": "natasha", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chris Taylor (Mother)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 477162, "title": "Nada m\u00e1s que una mujer", "original_title": "Nada m\u00e1s que una mujer", "slug_title": "nada-mas-que-una-mujer", "date": "1934-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vOAVN5KuXxI3gqRn2Ft7kIVqCC7.jpg", "actors": [], "comments": [], "recommandations_id": []}

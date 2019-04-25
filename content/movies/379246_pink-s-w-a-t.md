@@ -1,1 +1,0 @@
-{"tmdb_id": 379246, "title": "Pink S.W.A.T.", "original_title": "Pink S.W.A.T.", "slug_title": "pink-s-w-a-t", "date": "1978-11-22", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/15TAVg3gopdmWNAmqP8RiMnr8tX.jpg", "actors": [], "comments": [], "recommandations_id": []}

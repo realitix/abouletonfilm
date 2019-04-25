@@ -1,1 +1,0 @@
-{"tmdb_id": 377229, "title": "The Ocean at the End of the Lane", "original_title": "The Ocean at the End of the Lane", "slug_title": "the-ocean-at-the-end-of-the-lane", "date": "", "genre": "Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Hanks (The Man)"], "comments": [], "recommandations_id": []}

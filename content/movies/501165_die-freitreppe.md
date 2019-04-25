@@ -1,1 +1,0 @@
-{"tmdb_id": 501165, "title": "Die Freitreppe", "original_title": "Die Freitreppe", "slug_title": "die-freitreppe", "date": "1987-09-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leonard Lansink (Horst)", "Renate Muhri (Frau Anzinger)", "Heidi Stroh (Frau Siependieck)"], "comments": [], "recommandations_id": []}

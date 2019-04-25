@@ -1,1 +1,0 @@
-{"tmdb_id": 400875, "title": "Apr\u00e8s Hitler", "original_title": "Apr\u00e8s Hitler", "slug_title": "apres-hitler", "date": "2016-05-08", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aMWhEZTYcdQmsQNbKGBKlPBv5nB.jpg", "actors": ["Vincent Lindon (Narrateur)"], "comments": [], "recommandations_id": []}

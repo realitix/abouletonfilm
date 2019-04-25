@@ -1,1 +1,0 @@
-{"tmdb_id": 205080, "title": "\u00c9picentres", "original_title": "\u00c9picentres", "slug_title": "epicentres", "date": "2013-07-03", "genre": "Com\u00e9die / Drame", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/koUOqlhsMUhDYGbKET8BMd1gjNf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 338258, "title": "The Private Life of Monique Covet", "original_title": "The Private Life of Monique Covet", "slug_title": "the-private-life-of-monique-covet", "date": "2001-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Monique Cov\u00e9t ()"], "comments": [], "recommandations_id": []}

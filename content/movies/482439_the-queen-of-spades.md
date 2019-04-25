@@ -1,1 +1,0 @@
-{"tmdb_id": 482439, "title": "The Queen of Spades", "original_title": "\u041f\u0438\u043a\u043e\u0432\u0430\u044f \u0434\u0430\u043c\u0430", "slug_title": "the-queen-of-spades", "date": "1988-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Petr Stupin (first guest)"], "comments": [], "recommandations_id": []}

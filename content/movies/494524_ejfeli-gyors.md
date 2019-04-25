@@ -1,1 +1,0 @@
-{"tmdb_id": 494524, "title": "\u00c9jf\u00e9li gyors", "original_title": "\u00c9jf\u00e9li gyors", "slug_title": "ejfeli-gyors", "date": "1943-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

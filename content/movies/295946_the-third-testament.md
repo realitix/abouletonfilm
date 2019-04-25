@@ -1,1 +1,0 @@
-{"tmdb_id": 295946, "title": "The Third Testament", "original_title": "The Third Testament", "slug_title": "the-third-testament", "date": "2010-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

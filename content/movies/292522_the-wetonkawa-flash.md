@@ -1,1 +1,0 @@
-{"tmdb_id": 292522, "title": "The Wetonkawa Flash", "original_title": "The Wetonkawa Flash", "slug_title": "the-wetonkawa-flash", "date": "1996-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

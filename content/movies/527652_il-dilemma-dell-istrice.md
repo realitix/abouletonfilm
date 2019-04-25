@@ -1,1 +1,0 @@
-{"tmdb_id": 527652, "title": "Il Dilemma Dell Istrice", "original_title": "Il Dilemma Dell Istrice", "slug_title": "il-dilemma-dell-istrice", "date": "2016-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w8z6LZjRH6vrEGXL3tkwY4T03Mh.jpg", "actors": [], "comments": [], "recommandations_id": []}

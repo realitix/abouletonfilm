@@ -1,1 +1,0 @@
-{"tmdb_id": 258576, "title": "Chernobyl 20", "original_title": "Chernobyl 20", "slug_title": "chernobyl-20", "date": "2006-04-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r5SbGM0S1qnZZk1E4gremjseMhB.jpg", "actors": [], "comments": [], "recommandations_id": []}

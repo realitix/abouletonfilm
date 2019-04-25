@@ -1,1 +1,0 @@
-{"tmdb_id": 330873, "title": "The Sorcerer's Scissors", "original_title": "The Sorcerer's Scissors", "slug_title": "the-sorcerer-s-scissors", "date": "1907-09-30", "genre": "Animation / Fantastique", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a0GAC34ZAtD5qd0Poq8Mztiw8ll.jpg", "actors": [], "comments": [], "recommandations_id": []}

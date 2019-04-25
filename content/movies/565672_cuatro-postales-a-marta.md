@@ -1,1 +1,0 @@
-{"tmdb_id": 565672, "title": "Cuatro postales a Marta", "original_title": "Cuatro postales a Marta", "slug_title": "cuatro-postales-a-marta", "date": "2015-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

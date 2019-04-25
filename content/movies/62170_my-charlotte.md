@@ -1,1 +1,0 @@
-{"tmdb_id": 62170, "title": "My Charlotte", "original_title": "My Charlotte", "slug_title": "my-charlotte", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

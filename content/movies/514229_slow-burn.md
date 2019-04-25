@@ -1,1 +1,0 @@
-{"tmdb_id": 514229, "title": "Slow Burn", "original_title": "Slow Burn", "slug_title": "slow-burn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3L2PDLUiCXgQZ0Xb25wykypbX49.jpg", "actors": [], "comments": [], "recommandations_id": []}

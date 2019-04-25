@@ -1,1 +1,0 @@
-{"tmdb_id": 142406, "title": "Saturday October 5th", "original_title": "L\u00f6rdagen den 5.10", "slug_title": "saturday-october-5th", "date": "1969-10-10", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5D7UBSEgdyONE6Lql6xS7s6OLcW.jpg", "actors": [], "comments": [], "recommandations_id": []}

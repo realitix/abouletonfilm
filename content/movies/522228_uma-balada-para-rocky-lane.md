@@ -1,1 +1,0 @@
-{"tmdb_id": 522228, "title": "Uma Balada para Rocky Lane", "original_title": "Uma Balada para Rocky Lane", "slug_title": "uma-balada-para-rocky-lane", "date": "2018-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wvDBtpghNTTEkJz6G01dHeEaljo.jpg", "actors": [], "comments": [], "recommandations_id": []}

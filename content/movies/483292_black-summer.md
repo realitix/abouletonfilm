@@ -1,1 +1,0 @@
-{"tmdb_id": 483292, "title": "Black Summer", "original_title": "\uac80\uc740\uc5ec\ub984", "slug_title": "black-summer", "date": "2017-10-13", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/56h0opWHj3gerdTEAQN8aQtcu0V.jpg", "actors": ["Woo Ji-hyeon (Jihyeon)"], "comments": [], "recommandations_id": []}

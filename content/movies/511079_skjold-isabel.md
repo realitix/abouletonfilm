@@ -1,1 +1,0 @@
-{"tmdb_id": 511079, "title": "Skjold & Isabel", "original_title": "Skjold & Isabel", "slug_title": "skjold-isabel", "date": "2018-05-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eyiU0TS1vCFP7rkw92Xchu2qQVI.jpg", "actors": [], "comments": [], "recommandations_id": []}

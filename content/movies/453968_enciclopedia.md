@@ -1,1 +1,0 @@
-{"tmdb_id": 453968, "title": "Enciclopedia", "original_title": "Enciclopedia", "slug_title": "enciclopedia", "date": "1998-07-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/65dV9b4lSh5nCnKis24YpZSlqtd.jpg", "actors": [], "comments": [], "recommandations_id": []}

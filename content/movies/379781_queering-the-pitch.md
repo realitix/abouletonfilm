@@ -1,1 +1,0 @@
-{"tmdb_id": 379781, "title": "Queering the Pitch", "original_title": "Queering the Pitch", "slug_title": "queering-the-pitch", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

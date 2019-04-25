@@ -1,1 +1,0 @@
-{"tmdb_id": 317196, "title": "Bahrtalo! J\u00f3 szerencs\u00e9t!", "original_title": "Bahrtalo! J\u00f3 szerencs\u00e9t!", "slug_title": "bahrtalo-jo-szerencset", "date": "2008-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wH0bomkA2xYRwsbxpUMagMCrMxI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 509267, "title": "I Stand Corrected", "original_title": "I Stand Corrected", "slug_title": "i-stand-corrected", "date": "2012-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lUPV59MPAudnSEx6DmsWT21U57d.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 591732, "title": "Fiddlin'", "original_title": "Fiddlin'", "slug_title": "fiddlin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

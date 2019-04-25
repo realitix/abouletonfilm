@@ -1,1 +1,0 @@
-{"tmdb_id": 197113, "title": "Broadway Highlights No. 2", "original_title": "Broadway Highlights No. 2", "slug_title": "broadway-highlights-no-2", "date": "1935-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

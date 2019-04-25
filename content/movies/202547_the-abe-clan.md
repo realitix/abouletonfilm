@@ -1,1 +1,0 @@
-{"tmdb_id": 202547, "title": "The Abe Clan", "original_title": "\u963f\u90e8\u4e00\u65cf", "slug_title": "the-abe-clan", "date": "1938-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bEuwMLtvGgO2rcC0fmRbTdUXcgT.jpg", "actors": ["Kan'emon Nakamura ()"], "comments": [], "recommandations_id": []}

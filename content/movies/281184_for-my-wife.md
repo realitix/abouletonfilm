@@ -1,1 +1,0 @@
-{"tmdb_id": 281184, "title": "For My Wife", "original_title": "For My Wife", "slug_title": "for-my-wife", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

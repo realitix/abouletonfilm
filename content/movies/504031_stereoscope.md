@@ -1,1 +1,0 @@
-{"tmdb_id": 504031, "title": "Stereoscope", "original_title": "Stereoscope", "slug_title": "stereoscope", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yV4QjxolquLFqkpVlo9LlPZFwHX.jpg", "actors": [], "comments": [], "recommandations_id": []}

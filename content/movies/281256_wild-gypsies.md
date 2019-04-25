@@ -1,1 +1,0 @@
-{"tmdb_id": 281256, "title": "Wild Gypsies", "original_title": "Wild Gypsies", "slug_title": "wild-gypsies", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/70CJqXP8Rr518l09WTlJYyDb4XP.jpg", "actors": [], "comments": [], "recommandations_id": []}

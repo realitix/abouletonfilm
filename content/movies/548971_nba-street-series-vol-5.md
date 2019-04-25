@@ -1,1 +1,0 @@
-{"tmdb_id": 548971, "title": "NBA Street Series Vol. 5", "original_title": "NBA Street Series Vol. 5", "slug_title": "nba-street-series-vol-5", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xccI4nQyY0Pw5lFbiDR4DaAzNtn.jpg", "actors": [], "comments": [], "recommandations_id": []}

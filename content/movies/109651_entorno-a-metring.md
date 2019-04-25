@@ -1,1 +1,0 @@
-{"tmdb_id": 109651, "title": "Entorno a Metring", "original_title": "Entorno a Metring", "slug_title": "entorno-a-metring", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xDk3TIApr3n01cwYStXWvAnl64X.jpg", "actors": [], "comments": [], "recommandations_id": []}

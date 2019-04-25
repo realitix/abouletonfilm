@@ -1,1 +1,0 @@
-{"tmdb_id": 344905, "title": "Scheherazade's Diary", "original_title": "\u064a\u0648\u0645\u064a\u0651\u0627\u062a \u0634\u0647\u0631\u0632\u0627\u062f", "slug_title": "scheherazade-s-diary", "date": "2013-12-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

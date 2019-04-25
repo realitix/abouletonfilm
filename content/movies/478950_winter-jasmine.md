@@ -1,1 +1,0 @@
-{"tmdb_id": 478950, "title": "Winter Jasmine", "original_title": "Ying chun hua", "slug_title": "winter-jasmine", "date": "1942-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

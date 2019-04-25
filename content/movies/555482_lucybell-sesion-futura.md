@@ -1,1 +1,0 @@
-{"tmdb_id": 555482, "title": "Lucybell: Sesi\u00f3n Futura", "original_title": "Lucybell: Sesi\u00f3n Futura", "slug_title": "lucybell-sesion-futura", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2xLD98wHPUh5aPJE2N3HXrFGtZK.jpg", "actors": [], "comments": [], "recommandations_id": []}

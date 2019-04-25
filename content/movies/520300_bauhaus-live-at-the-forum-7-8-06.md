@@ -1,1 +1,0 @@
-{"tmdb_id": 520300, "title": "Bauhaus - Live at the Forum 7-8-06", "original_title": "Bauhaus - Live at the Forum 7-8-06", "slug_title": "bauhaus-live-at-the-forum-7-8-06", "date": "2006-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

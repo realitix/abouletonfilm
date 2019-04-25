@@ -1,1 +1,0 @@
-{"tmdb_id": 319691, "title": "An Advent Concert of Music by Bach", "original_title": "An Advent Concert of Music by Bach", "slug_title": "an-advent-concert-of-music-by-bach", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

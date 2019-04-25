@@ -1,1 +1,0 @@
-{"tmdb_id": 124619, "title": "Lotto Land", "original_title": "Lotto Land", "slug_title": "lotto-land", "date": "1995-06-01", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rOaGqpWX3G5xX9mZNt2v23gvxsc.jpg", "actors": [], "comments": [], "recommandations_id": []}

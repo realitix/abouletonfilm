@@ -1,1 +1,0 @@
-{"tmdb_id": 332899, "title": "19 Revolutions", "original_title": "19 Revolutions", "slug_title": "19-revolutions", "date": "2004-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wXl9JpLO3jQlnH0u818Zhn08JSa.jpg", "actors": [], "comments": [], "recommandations_id": []}

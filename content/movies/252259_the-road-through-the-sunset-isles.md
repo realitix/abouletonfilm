@@ -1,1 +1,0 @@
-{"tmdb_id": 252259, "title": "The Road Through the Sunset Isles", "original_title": "The Road Through the Sunset Isles", "slug_title": "the-road-through-the-sunset-isles", "date": "1937-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Elliot (Himself)"], "comments": [], "recommandations_id": []}

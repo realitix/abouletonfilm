@@ -1,1 +1,0 @@
-{"tmdb_id": 79179, "title": "God's Country", "original_title": "God's Country", "slug_title": "god-s-country", "date": "1985-06-07", "genre": "Documentaire", "score": "7.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8PCFBTmI1r6DRXVSnKq7Hno5NoP.jpg", "actors": ["Louis Malle (Narrator)"], "comments": [], "recommandations_id": []}

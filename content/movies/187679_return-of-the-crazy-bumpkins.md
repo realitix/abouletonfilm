@@ -1,1 +1,0 @@
-{"tmdb_id": 187679, "title": "Return of the Crazy Bumpkins", "original_title": "\u963f\u725b\u51fa\u7344\u8a18", "slug_title": "return-of-the-crazy-bumpkins", "date": "1975-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3bBtgXwnPCMaAXIiB9izpB43wwo.jpg", "actors": [], "comments": [], "recommandations_id": []}

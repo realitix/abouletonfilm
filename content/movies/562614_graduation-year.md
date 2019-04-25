@@ -1,1 +1,0 @@
-{"tmdb_id": 562614, "title": "Graduation Year", "original_title": "L'ann\u00e9e du bac", "slug_title": "graduation-year", "date": "1964-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hTs2gf47wBz4Q9LuqUcbLl4mnhX.jpg", "actors": [], "comments": [], "recommandations_id": []}

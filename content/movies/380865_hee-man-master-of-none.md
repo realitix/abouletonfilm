@@ -1,1 +1,0 @@
-{"tmdb_id": 380865, "title": "Hee Man: Master of None", "original_title": "Hee Man: Master of None", "slug_title": "hee-man-master-of-none", "date": "1985-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z3nhqo6M4wWR2xERGV1FtNkhjR5.jpg", "actors": [], "comments": [], "recommandations_id": []}

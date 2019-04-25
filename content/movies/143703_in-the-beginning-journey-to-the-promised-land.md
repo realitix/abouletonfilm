@@ -1,1 +1,0 @@
-{"tmdb_id": 143703, "title": "In the Beginning: Journey to the Promised Land", "original_title": "In the Beginning: Journey to the Promised Land", "slug_title": "in-the-beginning-journey-to-the-promised-land", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 520883, "title": "Bronze: Zetsuai Since 1989", "original_title": "Bronze: Zetsuai Since 1989", "slug_title": "bronze-zetsuai-since-1989", "date": "1996-04-03", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9w5OCMSrtQZJQK47r2HACHdcQiT.jpg", "actors": [], "comments": [], "recommandations_id": []}

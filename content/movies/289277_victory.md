@@ -1,1 +1,0 @@
-{"tmdb_id": 289277, "title": "Victory", "original_title": "Victory", "slug_title": "victory", "date": "2013-08-23", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sharan ()"], "comments": [], "recommandations_id": []}

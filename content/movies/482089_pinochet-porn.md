@@ -1,1 +1,0 @@
-{"tmdb_id": 482089, "title": "Pinochet Porn", "original_title": "Pinochet Porn", "slug_title": "pinochet-porn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

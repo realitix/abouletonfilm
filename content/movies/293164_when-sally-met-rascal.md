@@ -1,1 +1,0 @@
-{"tmdb_id": 293164, "title": "When Sally Met Rascal...", "original_title": "When Sally Met Rascal...", "slug_title": "when-sally-met-rascal", "date": "2011-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

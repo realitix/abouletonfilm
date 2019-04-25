@@ -1,1 +1,0 @@
-{"tmdb_id": 261687, "title": "Iru Thuruvam", "original_title": "Iru Thuruvam", "slug_title": "iru-thuruvam", "date": "1971-01-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sivaji Ganesan ()", "Padmini ()", "P. S. Veerappa ()", "Chittor V. Nagaiah ()"], "comments": [], "recommandations_id": []}

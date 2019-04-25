@@ -1,1 +1,0 @@
-{"tmdb_id": 330888, "title": "Continuum", "original_title": "Continuum", "slug_title": "continuum", "date": "2015-03-15", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

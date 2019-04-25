@@ -1,1 +1,0 @@
-{"tmdb_id": 439337, "title": "My Mother\u2019s Place", "original_title": "My Mother\u2019s Place", "slug_title": "my-mothers-place", "date": "1990-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

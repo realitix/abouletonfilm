@@ -1,1 +1,0 @@
-{"tmdb_id": 529681, "title": "Standing Tall", "original_title": "Elles ont toutes une histoire", "slug_title": "standing-tall", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hdzthrQxpaYVr37veJSN2e3Ly8v.jpg", "actors": [], "comments": [], "recommandations_id": []}

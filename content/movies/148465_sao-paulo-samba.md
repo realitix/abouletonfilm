@@ -1,1 +1,0 @@
-{"tmdb_id": 148465, "title": "S\u00e3o Paulo Samba", "original_title": "S\u00e3o Paulo Samba", "slug_title": "sao-paulo-samba", "date": "2016-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wTmYZiWPozZMGyNj12ZgP8vCUUV.jpg", "actors": [], "comments": [], "recommandations_id": []}

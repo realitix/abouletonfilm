@@ -1,1 +1,0 @@
-{"tmdb_id": 268616, "title": "Bob Dylan - World Tours: 1966-1974", "original_title": "Bob Dylan - World Tours: 1966-1974", "slug_title": "bob-dylan-world-tours-1966-1974", "date": "2005-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

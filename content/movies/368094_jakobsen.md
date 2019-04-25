@@ -1,1 +1,0 @@
-{"tmdb_id": 368094, "title": "Jakobsen", "original_title": "Jakobsen", "slug_title": "jakobsen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

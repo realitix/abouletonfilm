@@ -1,1 +1,0 @@
-{"tmdb_id": 339860, "title": "Raktha Kanneeru", "original_title": "Raktha Kanneeru", "slug_title": "raktha-kanneeru", "date": "2003-09-18", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gdIEMr5qUADVVrNH77A6rbWZgzK.jpg", "actors": ["Upendra ()", "Ramya Krishnan ()"], "comments": [], "recommandations_id": []}

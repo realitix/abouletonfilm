@@ -1,1 +1,0 @@
-{"tmdb_id": 419545, "title": "Biography of a Motion Picture\u00a0Camera", "original_title": "Naissance du cin\u00e9ma", "slug_title": "biography-of-a-motion-picture-camera", "date": "1950-08-02", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

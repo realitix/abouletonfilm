@@ -1,1 +1,0 @@
-{"tmdb_id": 540439, "title": "Petite bonne s\u00e9rieuse", "original_title": "Petite bonne s\u00e9rieuse", "slug_title": "petite-bonne-serieuse", "date": "1933-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pP6kyG5Kpr3LI17o44nryc3fWEa.jpg", "actors": [], "comments": [], "recommandations_id": []}

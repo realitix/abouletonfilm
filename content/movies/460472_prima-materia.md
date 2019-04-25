@@ -1,1 +1,0 @@
-{"tmdb_id": 460472, "title": "Prima Materia", "original_title": "Prima Materia", "slug_title": "prima-materia", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

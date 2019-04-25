@@ -1,1 +1,0 @@
-{"tmdb_id": 586401, "title": "The Ghosts Are Hastening", "original_title": "Fantomele se gr\u0103besc", "slug_title": "the-ghosts-are-hastening", "date": "1966-11-30", "genre": "Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kxPCF18Cqiqj2KLaEd64hZRkSPB.jpg", "actors": [], "comments": [], "recommandations_id": []}

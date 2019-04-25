@@ -1,1 +1,0 @@
-{"tmdb_id": 234492, "title": "Room and Bored", "original_title": "Room and Bored", "slug_title": "room-and-bored", "date": "1962-03-05", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rU5nSoYKEC3oistcJIpqusUnOl2.jpg", "actors": [], "comments": [], "recommandations_id": []}

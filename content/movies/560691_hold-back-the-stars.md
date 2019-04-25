@@ -1,1 +1,0 @@
-{"tmdb_id": 560691, "title": "Hold Back the Stars", "original_title": "Hold Back the Stars", "slug_title": "hold-back-the-stars", "date": "", "genre": "Science-Fiction / Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Boyega ()", "Letitia Wright ()"], "comments": [], "recommandations_id": []}

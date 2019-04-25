@@ -1,1 +1,0 @@
-{"tmdb_id": 480989, "title": "Vid\u00e9ocartographies: A\u00efda, Palestine", "original_title": "Vid\u00e9ocartographies: A\u00efda, Palestine", "slug_title": "videocartographies-aida-palestine", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

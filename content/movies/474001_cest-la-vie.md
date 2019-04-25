@@ -1,1 +1,0 @@
-{"tmdb_id": 474001, "title": "C\u2019est la vie", "original_title": "C\u2019est la vie", "slug_title": "cest-la-vie", "date": "1997-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uMDKBXT1FlML0RGJiMdv9GbcSP2.jpg", "actors": [], "comments": [], "recommandations_id": []}

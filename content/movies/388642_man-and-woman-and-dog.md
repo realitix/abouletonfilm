@@ -1,1 +1,0 @@
-{"tmdb_id": 388642, "title": "Man and Woman and Dog", "original_title": "Otoko to Onna to Inu", "slug_title": "man-and-woman-and-dog", "date": "1963-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ilQXn5QIVj4qo78aijoUUmayqL.jpg", "actors": [], "comments": [], "recommandations_id": []}

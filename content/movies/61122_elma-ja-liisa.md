@@ -1,1 +1,0 @@
-{"tmdb_id": 61122, "title": "Elma ja Liisa", "original_title": "Elma ja Liisa", "slug_title": "elma-ja-liisa", "date": "2011-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qsywYMd90cdGtWAYMXo2n5KzJ7h.jpg", "actors": ["Pamela Tola (Elma)", "Pihla Viitala (Liisa)"], "comments": [], "recommandations_id": []}

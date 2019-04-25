@@ -1,1 +1,0 @@
-{"tmdb_id": 568204, "title": "Ooops Wrong Planet", "original_title": "Ooops Wrong Planet", "slug_title": "ooops-wrong-planet", "date": "2009-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

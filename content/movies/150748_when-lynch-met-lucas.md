@@ -1,1 +1,0 @@
-{"tmdb_id": 150748, "title": "When Lynch Met Lucas", "original_title": "When Lynch Met Lucas", "slug_title": "when-lynch-met-lucas", "date": "2010-02-13", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3u5JxpFdTStHrFQZ6rVBe518Gr3.jpg", "actors": [], "comments": [], "recommandations_id": []}

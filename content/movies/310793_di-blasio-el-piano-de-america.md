@@ -1,1 +1,0 @@
-{"tmdb_id": 310793, "title": "Di Blasio: El Piano De America", "original_title": "Di Blasio: El Piano De America", "slug_title": "di-blasio-el-piano-de-america", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

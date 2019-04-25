@@ -1,1 +1,1 @@
-{"tmdb_id": 330565, "title": "Borders", "original_title": "Gvuloth", "slug_title": "borders", "date": "1999-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 330565, "title": "Borders", "original_title": "Gvuloth", "slug_title": "borders", "date": "1999-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Eran Ricklis.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

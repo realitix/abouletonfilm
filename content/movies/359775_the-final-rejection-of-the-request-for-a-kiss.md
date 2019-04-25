@@ -1,1 +1,0 @@
-{"tmdb_id": 359775, "title": "The Final Rejection of the Request for a Kiss", "original_title": "Det definitive afslag p\u00e5 anmodningen om et kys", "slug_title": "the-final-rejection-of-the-request-for-a-kiss", "date": "1949-09-14", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

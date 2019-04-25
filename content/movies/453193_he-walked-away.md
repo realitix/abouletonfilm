@@ -1,1 +1,0 @@
-{"tmdb_id": 453193, "title": "He Walked Away", "original_title": "He Walked Away", "slug_title": "he-walked-away", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a5xmjut5K2AT704GMjMmU6BdFJm.jpg", "actors": [], "comments": [], "recommandations_id": []}

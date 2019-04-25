@@ -1,1 +1,0 @@
-{"tmdb_id": 236819, "title": "Rhythm in the Ranks", "original_title": "Rhythm in the Ranks", "slug_title": "rhythm-in-the-ranks", "date": "1941-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Hdje9SNVY96r1IzAvolDPIoiqn.jpg", "actors": [], "comments": [], "recommandations_id": []}

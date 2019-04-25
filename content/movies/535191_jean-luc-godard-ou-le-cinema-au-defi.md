@@ -1,1 +1,0 @@
-{"tmdb_id": 535191, "title": "Jean-Luc Godard ou Le cin\u00e9ma au d\u00e9fi", "original_title": "Jean-Luc Godard ou Le cin\u00e9ma au d\u00e9fi", "slug_title": "jean-luc-godard-ou-le-cinema-au-defi", "date": "1965-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

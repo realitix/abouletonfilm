@@ -1,1 +1,0 @@
-{"tmdb_id": 270310, "title": "Le Frangin d'Am\u00e9rique", "original_title": "Le Frangin d'Am\u00e9rique", "slug_title": "le-frangin-d-amerique", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

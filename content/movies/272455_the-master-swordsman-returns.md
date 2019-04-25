@@ -1,1 +1,0 @@
-{"tmdb_id": 272455, "title": "The Master Swordsman Returns", "original_title": "The Master Swordsman Returns", "slug_title": "the-master-swordsman-returns", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

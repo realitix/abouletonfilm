@@ -1,1 +1,0 @@
-{"tmdb_id": 587646, "title": "Interno Tautium", "original_title": "Interno Tautium", "slug_title": "interno-tautium", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aXQ9WYtMtUw6lr1upPvc0e1lcK4.jpg", "actors": [], "comments": [], "recommandations_id": []}

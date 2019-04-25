@@ -1,1 +1,0 @@
-{"tmdb_id": 289242, "title": "Storybook Classics: Hercules", "original_title": "Storybook Classics: Hercules", "slug_title": "storybook-classics-hercules", "date": "2011-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

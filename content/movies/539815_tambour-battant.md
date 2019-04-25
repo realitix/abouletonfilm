@@ -1,1 +1,0 @@
-{"tmdb_id": 539815, "title": "Tambour battant", "original_title": "Tambour battant", "slug_title": "tambour-battant", "date": "1934-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

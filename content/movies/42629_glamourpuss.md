@@ -1,1 +1,0 @@
-{"tmdb_id": 42629, "title": "Glamourpuss", "original_title": "Glamourpuss", "slug_title": "glamourpuss", "date": "2010-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rvZZY2c9g2clRSO6R0TGubVXtbr.jpg", "actors": [], "comments": [], "recommandations_id": []}

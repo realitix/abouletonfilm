@@ -1,1 +1,0 @@
-{"tmdb_id": 550696, "title": "Arbitrary Limits", "original_title": "Arbitrary Limits", "slug_title": "arbitrary-limits", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/niNWNlvgBJfNrAztVktgHRDDfaH.jpg", "actors": [], "comments": [], "recommandations_id": []}

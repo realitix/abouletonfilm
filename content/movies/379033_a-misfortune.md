@@ -1,1 +1,0 @@
-{"tmdb_id": 379033, "title": "A Misfortune", "original_title": "A Misfortune", "slug_title": "a-misfortune", "date": "1973-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

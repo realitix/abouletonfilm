@@ -1,1 +1,0 @@
-{"tmdb_id": 521522, "title": "Al Pie del Illimani", "original_title": "Al Pie del Illimani", "slug_title": "al-pie-del-illimani", "date": "1948-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

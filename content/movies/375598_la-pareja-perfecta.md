@@ -1,1 +1,0 @@
-{"tmdb_id": 375598, "title": "La Pareja Perfecta", "original_title": "La Pareja Perfecta", "slug_title": "la-pareja-perfecta", "date": "", "genre": "Romance / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 345999, "title": "I paisan", "original_title": "I paisan", "slug_title": "i-paisan", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 506555, "title": "De l'autre c\u00f4t\u00e9 du racisme", "original_title": "De l'autre c\u00f4t\u00e9 du racisme", "slug_title": "de-l-autre-cote-du-racisme", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

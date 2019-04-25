@@ -1,1 +1,0 @@
-{"tmdb_id": 426724, "title": "Funk Rhythm Guitar With Ross Bolton Part 1", "original_title": "Funk Rhythm Guitar With Ross Bolton Part 1", "slug_title": "funk-rhythm-guitar-with-ross-bolton-part-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

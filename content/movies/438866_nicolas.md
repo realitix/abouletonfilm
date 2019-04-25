@@ -1,1 +1,0 @@
-{"tmdb_id": 438866, "title": "Nicolas", "original_title": "Nicolas", "slug_title": "nicolas", "date": "2001-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Eju3RvSfqfRunHFVUkcmFHtcis.jpg", "actors": ["Marcus Graham (Nicolas)", "Gretchen Egolf (Lead)"], "comments": [], "recommandations_id": []}

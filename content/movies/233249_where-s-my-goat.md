@@ -1,1 +1,0 @@
-{"tmdb_id": 233249, "title": "Where's My Goat?", "original_title": "Where's My Goat?", "slug_title": "where-s-my-goat", "date": "2010-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6NKlAlXCQkHnR6Kmio98lVpBEpI.jpg", "actors": [], "comments": [], "recommandations_id": []}

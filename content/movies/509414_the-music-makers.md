@@ -1,1 +1,0 @@
-{"tmdb_id": 509414, "title": "The Music Makers", "original_title": "The Music Makers", "slug_title": "the-music-makers", "date": "1929-07-03", "genre": "Musique / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Willie Howard (The Store Employee)", "Eugene Howard (The Store Owner)"], "comments": [], "recommandations_id": []}

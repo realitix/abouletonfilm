@@ -1,1 +1,0 @@
-{"tmdb_id": 359919, "title": "Rabbit Ears -  The White Cat", "original_title": "Rabbit Ears -  The White Cat", "slug_title": "rabbit-ears-the-white-cat", "date": "1991-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8OrPLkqilq3gztI1dThtxZ0N4Rz.jpg", "actors": [], "comments": [], "recommandations_id": []}

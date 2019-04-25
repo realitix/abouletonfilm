@@ -1,1 +1,0 @@
-{"tmdb_id": 382165, "title": "How to Abandon Ship", "original_title": "How to Abandon Ship", "slug_title": "how-to-abandon-ship", "date": "2013-05-13", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p7VkiVnI92xQunpDMRHWqvfK5lj.jpg", "actors": [], "comments": [], "recommandations_id": []}

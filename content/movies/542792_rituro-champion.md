@@ -1,1 +1,0 @@
-{"tmdb_id": 542792, "title": "Rituro champion", "original_title": "Rituro champion", "slug_title": "rituro-champion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

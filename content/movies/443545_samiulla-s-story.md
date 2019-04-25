@@ -1,1 +1,0 @@
-{"tmdb_id": 443545, "title": "Samiulla's Story", "original_title": "Samiulla's Story", "slug_title": "samiulla-s-story", "date": "2012-01-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/93Io95sx6oHtY6ei5yxEnmnF3Cr.jpg", "actors": ["Samiulla (Himself)"], "comments": [], "recommandations_id": []}

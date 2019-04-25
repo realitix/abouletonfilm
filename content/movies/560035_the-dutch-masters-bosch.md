@@ -1,1 +1,0 @@
-{"tmdb_id": 560035, "title": "The Dutch Masters: Bosch", "original_title": "The Dutch Masters: Bosch", "slug_title": "the-dutch-masters-bosch", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5J2p2SRjlMIii08juSBpmD41TfM.jpg", "actors": [], "comments": [], "recommandations_id": []}

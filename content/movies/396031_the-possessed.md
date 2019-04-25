@@ -1,1 +1,0 @@
-{"tmdb_id": 396031, "title": "The Possessed", "original_title": "\u9b3c\u80ce", "slug_title": "the-possessed", "date": "1976-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n8oaX4k674gxq7bIxSxBHBVj6aO.jpg", "actors": ["Lo Lieh ()", "Fong Yau ()"], "comments": [], "recommandations_id": []}

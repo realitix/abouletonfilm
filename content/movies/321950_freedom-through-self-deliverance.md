@@ -1,1 +1,0 @@
-{"tmdb_id": 321950, "title": "Freedom Through Self-Deliverance", "original_title": "Freedom Through Self-Deliverance", "slug_title": "freedom-through-self-deliverance", "date": "2013-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

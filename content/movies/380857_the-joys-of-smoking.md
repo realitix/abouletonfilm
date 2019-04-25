@@ -1,1 +1,0 @@
-{"tmdb_id": 380857, "title": "The Joys Of Smoking", "original_title": "The Joys Of Smoking", "slug_title": "the-joys-of-smoking", "date": "1999-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

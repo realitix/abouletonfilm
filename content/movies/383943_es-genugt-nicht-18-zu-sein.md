@@ -1,1 +1,0 @@
-{"tmdb_id": 383943, "title": "Es gen\u00fcgt nicht, 18 zu sein", "original_title": "Es gen\u00fcgt nicht, 18 zu sein", "slug_title": "es-genugt-nicht-18-zu-sein", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

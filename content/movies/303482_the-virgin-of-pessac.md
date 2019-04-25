@@ -1,1 +1,0 @@
-{"tmdb_id": 303482, "title": "The Virgin of Pessac", "original_title": "The Virgin of Pessac", "slug_title": "the-virgin-of-pessac", "date": "1979-12-07", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qGmXbakejOawfN5iRfqitNQvyQG.jpg", "actors": [], "comments": [], "recommandations_id": []}

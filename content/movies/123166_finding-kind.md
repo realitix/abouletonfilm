@@ -1,1 +1,0 @@
-{"tmdb_id": 123166, "title": "Finding Kind", "original_title": "Finding Kind", "slug_title": "finding-kind", "date": "2011-05-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rOoKHfocstpj1zZwpbWnohvoNRG.jpg", "actors": [], "comments": [], "recommandations_id": []}

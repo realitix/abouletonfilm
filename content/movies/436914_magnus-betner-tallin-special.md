@@ -1,1 +1,0 @@
-{"tmdb_id": 436914, "title": "Magnus Betn\u00e9r: Tallin Special", "original_title": "Magnus Betn\u00e9r: Tallin Special", "slug_title": "magnus-betner-tallin-special", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Magnus Betn\u00e9r ()"], "comments": [], "recommandations_id": []}

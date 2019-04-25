@@ -1,1 +1,0 @@
-{"tmdb_id": 340000, "title": "The Eye Hears, the Ear Sees", "original_title": "The Eye Hears, the Ear Sees", "slug_title": "the-eye-hears-the-ear-sees", "date": "1970-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Norman McLaren ()", "Gavin Millar ()", "Grant Munro ()"], "comments": [], "recommandations_id": []}

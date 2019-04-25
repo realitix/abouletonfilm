@@ -1,1 +1,0 @@
-{"tmdb_id": 253792, "title": "Mariana, Mariana", "original_title": "Mariana, Mariana", "slug_title": "mariana-mariana", "date": "1987-08-05", "genre": "", "score": "7.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1zMl1KErRJa5BlzsWxlzrEBhDxx.jpg", "actors": [], "comments": [], "recommandations_id": []}

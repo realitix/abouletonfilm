@@ -1,1 +1,0 @@
-{"tmdb_id": 441302, "title": "Geheimnis der 17", "original_title": "Geheimnis der 17", "slug_title": "geheimnis-der-17", "date": "1963-07-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["G\u00fcnter Junghans (Otto)", "Benno Mieth (Kutscher)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 470193, "title": "Disobedience", "original_title": "Disobedience", "slug_title": "disobedience", "date": "2016-04-29", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 371952, "title": "The David Milgaard Story", "original_title": "The David Milgaard Story", "slug_title": "the-david-milgaard-story", "date": "1992-03-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Milgaard (Himself)"], "comments": [], "recommandations_id": []}

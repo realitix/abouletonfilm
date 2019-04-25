@@ -1,1 +1,0 @@
-{"tmdb_id": 382888, "title": "Wie Tiere f\u00fchlen", "original_title": "Wie Tiere f\u00fchlen", "slug_title": "wie-tiere-fuhlen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

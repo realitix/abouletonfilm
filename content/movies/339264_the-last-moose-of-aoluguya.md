@@ -1,1 +1,0 @@
-{"tmdb_id": 339264, "title": "The Last Moose of Aoluguya", "original_title": "Han da han", "slug_title": "the-last-moose-of-aoluguya", "date": "2013-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8wGelrAXyYIlIipzPSr7IlsYxnA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 461549, "title": "The Turkish Way", "original_title": "The Turkish Way", "slug_title": "the-turkish-way", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4uIGcdL7udrENBAoi63OdcpQMs6.jpg", "actors": [], "comments": [], "recommandations_id": []}

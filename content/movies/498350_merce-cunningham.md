@@ -1,1 +1,0 @@
-{"tmdb_id": 498350, "title": "Merce Cunningham", "original_title": "Merce Cunningham", "slug_title": "merce-cunningham", "date": "1962-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Merce Cunningham (Himself)", "John Cage (Himself)", "Robert Rauschenberg (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 407213, "title": "Nanga Parbat", "original_title": "Nanga Parbat", "slug_title": "nanga-parbat", "date": "1953-11-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vQm8djfGbAXdNpBVOOH1v50rNOT.jpg", "actors": ["Hermann Buhl (Himself)"], "comments": [], "recommandations_id": []}

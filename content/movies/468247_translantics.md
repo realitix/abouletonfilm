@@ -1,1 +1,0 @@
-{"tmdb_id": 468247, "title": "Translantics", "original_title": "Translantics", "slug_title": "translantics", "date": "2015-09-15", "genre": "Com\u00e9die / Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eFMDSLQAXCtIJL4K7kJ3GlSa3CT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 378654, "title": "Un film facile", "original_title": "Un film facile", "slug_title": "un-film-facile", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v1DYuBm3ZgtHxbsdckz7f0Ll7LB.jpg", "actors": [], "comments": [], "recommandations_id": []}

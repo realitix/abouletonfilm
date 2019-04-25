@@ -1,1 +1,0 @@
-{"tmdb_id": 576162, "title": "Mariana Alcoforado", "original_title": "Mariana Alcoforado", "slug_title": "mariana-alcoforado", "date": "1979-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lia Gama ()"], "comments": [], "recommandations_id": []}

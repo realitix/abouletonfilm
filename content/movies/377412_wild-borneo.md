@@ -1,1 +1,0 @@
-{"tmdb_id": 377412, "title": "Wild Borneo", "original_title": "Wild Borneo", "slug_title": "wild-borneo", "date": "2015-01-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zKO1JxBQHbDIR5X2PgLdhEKJLN3.jpg", "actors": [], "comments": [], "recommandations_id": []}

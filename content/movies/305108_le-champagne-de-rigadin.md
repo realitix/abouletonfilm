@@ -1,1 +1,0 @@
-{"tmdb_id": 305108, "title": "Le champagne de Rigadin", "original_title": "Le champagne de Rigadin", "slug_title": "le-champagne-de-rigadin", "date": "1915-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charles Prince (Rigadin)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 327245, "title": "The Shores of Phos: A Fable", "original_title": "The Shores of Phos: A Fable", "slug_title": "the-shores-of-phos-a-fable", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

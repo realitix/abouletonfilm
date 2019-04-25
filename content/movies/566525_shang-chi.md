@@ -1,1 +1,0 @@
-{"tmdb_id": 566525, "title": "Shang-Chi", "original_title": "Shang-Chi", "slug_title": "shang-chi", "date": "", "genre": "Action / Aventure / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dVmBt7xnl8zkfebQWBxiskuVSP9.jpg", "actors": ["Mike Moh (Shang-chi)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 329045, "title": "History Of The Air Force: Vietnam And After", "original_title": "History Of The Air Force: Vietnam And After", "slug_title": "history-of-the-air-force-vietnam-and-after", "date": "1977-01-01", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

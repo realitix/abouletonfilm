@@ -1,1 +1,0 @@
-{"tmdb_id": 143255, "title": "Heaven Shall Burn - Bildersturm", "original_title": "Heaven Shall Burn - Bildersturm", "slug_title": "heaven-shall-burn-bildersturm", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

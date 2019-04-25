@@ -1,1 +1,0 @@
-{"tmdb_id": 586331, "title": "Nur das Beste", "original_title": "Nur das Beste", "slug_title": "nur-das-beste", "date": "2012-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thomas Freitag ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 505254, "title": "The Conversation", "original_title": "The Conversation", "slug_title": "the-conversation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

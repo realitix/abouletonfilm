@@ -1,1 +1,0 @@
-{"tmdb_id": 174975, "title": "Dull Care", "original_title": "Dull Care", "slug_title": "dull-care", "date": "1919-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Semon (Larry, a Detective)", "Oliver Hardy (A Janitor)"], "comments": [], "recommandations_id": []}

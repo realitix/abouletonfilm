@@ -1,1 +1,0 @@
-{"tmdb_id": 422111, "title": "Wrestling Alligators", "original_title": "Wrestling Alligators", "slug_title": "wrestling-alligators", "date": "2016-04-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jamies Billie ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 382066, "title": "Clifford the Big Red Dog: Clifford's Schoolhouse", "original_title": "Clifford the Big Red Dog: Clifford's Schoolhouse", "slug_title": "clifford-the-big-red-dog-clifford-s-schoolhouse", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

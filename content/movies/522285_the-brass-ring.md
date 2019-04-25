@@ -1,1 +1,0 @@
-{"tmdb_id": 522285, "title": "The Brass Ring", "original_title": "The Brass Ring", "slug_title": "the-brass-ring", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vwyGfqiv093tr1gw2tYymOICCSs.jpg", "actors": [], "comments": [], "recommandations_id": []}

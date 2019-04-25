@@ -1,1 +1,0 @@
-{"tmdb_id": 273015, "title": "Project XX: The Story of Will Rogers", "original_title": "Project XX: The Story of Will Rogers", "slug_title": "project-xx-the-story-of-will-rogers", "date": "1961-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

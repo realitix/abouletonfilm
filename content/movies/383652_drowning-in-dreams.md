@@ -1,1 +1,0 @@
-{"tmdb_id": 383652, "title": "Drowning In Dreams", "original_title": "Drowning In Dreams", "slug_title": "drowning-in-dreams", "date": "1997-09-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

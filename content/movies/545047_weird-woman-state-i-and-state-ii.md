@@ -1,1 +1,0 @@
-{"tmdb_id": 545047, "title": "Weird Woman (State I and State II)", "original_title": "Weird Woman (State I and State II)", "slug_title": "weird-woman-state-i-and-state-ii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Genesis P-Orridge (Woman)"], "comments": [], "recommandations_id": []}

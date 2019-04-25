@@ -1,1 +1,0 @@
-{"tmdb_id": 574487, "title": "Croisi\u00e8re", "original_title": "Croisi\u00e8re", "slug_title": "croisiere", "date": "2005-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s2Et0G6g6aNVMj5rJopSzxCfsYF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 236588, "title": "The Wild and Woozy West", "original_title": "The Wild and Woozy West", "slug_title": "the-wild-and-woozy-west", "date": "1942-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

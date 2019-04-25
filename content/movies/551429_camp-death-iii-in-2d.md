@@ -1,1 +1,0 @@
-{"tmdb_id": 551429, "title": "Camp Death III in 2D!", "original_title": "Camp Death III in 2D!", "slug_title": "camp-death-iii-in-2d", "date": "2018-08-19", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nDlYdlfBA4Czb0hrqazZC4SKJJS.jpg", "actors": [], "comments": [], "recommandations_id": []}

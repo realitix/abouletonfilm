@@ -1,1 +1,0 @@
-{"tmdb_id": 516526, "title": "Ban jin qi liang", "original_title": "Ban jin qi liang", "slug_title": "ban-jin-qi-liang", "date": "", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hQcPGuVxO61X9zZAP4R1wckp2DJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

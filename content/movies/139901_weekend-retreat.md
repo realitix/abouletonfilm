@@ -1,1 +1,0 @@
-{"tmdb_id": 139901, "title": "Weekend Retreat", "original_title": "Weekend Retreat", "slug_title": "weekend-retreat", "date": "2011-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9UJ9rnhy2s8jn2aBk8uqXTyJX3.jpg", "actors": [], "comments": [], "recommandations_id": []}

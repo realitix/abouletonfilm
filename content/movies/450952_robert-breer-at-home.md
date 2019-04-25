@@ -1,1 +1,0 @@
-{"tmdb_id": 450952, "title": "Robert Breer At Home", "original_title": "Robert Breer At Home", "slug_title": "robert-breer-at-home", "date": "1992-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Breer ()"], "comments": [], "recommandations_id": []}

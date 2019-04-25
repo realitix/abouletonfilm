@@ -1,1 +1,0 @@
-{"tmdb_id": 195791, "title": "Retiring Tatiana", "original_title": "Retiring Tatiana", "slug_title": "retiring-tatiana", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 476440, "title": "Le brahmane du Komintern", "original_title": "Le brahmane du Komintern", "slug_title": "le-brahmane-du-komintern", "date": "2006-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/twBK9sujvp9Ws4nrA15Mh23wutB.jpg", "actors": [], "comments": [], "recommandations_id": []}

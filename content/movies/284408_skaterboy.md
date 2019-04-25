@@ -1,1 +1,0 @@
-{"tmdb_id": 284408, "title": "SkaterBoy", "original_title": "SkaterBoy", "slug_title": "skaterboy", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Alexander (Spike)", "Darian Hawke (Fuzz)"], "comments": [], "recommandations_id": []}

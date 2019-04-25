@@ -1,1 +1,0 @@
-{"tmdb_id": 432926, "title": "The Incredible Skis", "original_title": "The Incredible Skis", "slug_title": "the-incredible-skis", "date": "1968-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/krzVuJBUVCmzgLNXgP0ZcqeQxiv.jpg", "actors": [], "comments": [], "recommandations_id": []}

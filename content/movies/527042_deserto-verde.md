@@ -1,1 +1,0 @@
-{"tmdb_id": 527042, "title": "Deserto Verde", "original_title": "Deserto Verde", "slug_title": "deserto-verde", "date": "2016-07-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mSUXf0Wi3lAglIP1TitlJF7cf84.jpg", "actors": [], "comments": [], "recommandations_id": []}

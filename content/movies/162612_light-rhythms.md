@@ -1,1 +1,0 @@
-{"tmdb_id": 162612, "title": "Light Rhythms", "original_title": "Light Rhythms", "slug_title": "light-rhythms", "date": "1931-03-05", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f3BBAmFMny8xMiWFr94m1eRXCQk.jpg", "actors": [], "comments": [], "recommandations_id": [184519, 184522, 77851, 163111]}

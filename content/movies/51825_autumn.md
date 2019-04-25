@@ -1,1 +1,0 @@
-{"tmdb_id": 51825, "title": "Autumn", "original_title": "Autumn", "slug_title": "autumn", "date": "1930-02-15", "genre": "Animation", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/29TuPQLsVVqNjQHG721LlmULLpE.jpg", "actors": [], "comments": [], "recommandations_id": [57639, 51781, 236635, 237290]}

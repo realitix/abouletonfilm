@@ -1,1 +1,0 @@
-{"tmdb_id": 122990, "title": "Louie Vega - Dance Ritual NY", "original_title": "Louie Vega - Dance Ritual NY", "slug_title": "louie-vega-dance-ritual-ny", "date": "2005-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kjzY0lIZRS2Z29eGvQ3ejvrGIcG.jpg", "actors": [], "comments": [], "recommandations_id": []}

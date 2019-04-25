@@ -1,1 +1,0 @@
-{"tmdb_id": 337860, "title": "Am I Next?", "original_title": "Am I Next?", "slug_title": "am-i-next", "date": "2014-08-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shane Flowers (Himself)"], "comments": [], "recommandations_id": []}

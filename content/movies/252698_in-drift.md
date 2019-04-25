@@ -1,1 +1,0 @@
-{"tmdb_id": 252698, "title": "In Drift", "original_title": "In Drift", "slug_title": "in-drift", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9jsITqQ1vsHlJ9BTcGjeMOMHsLe.jpg", "actors": ["JAS (Salvador)", "Nastasya Clark (Olivia)"], "comments": [], "recommandations_id": []}

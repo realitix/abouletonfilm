@@ -1,1 +1,0 @@
-{"tmdb_id": 169347, "title": "Corrupted Minds", "original_title": "Corrupted Minds", "slug_title": "corrupted-minds", "date": "2007-01-09", "genre": "Thriller / Action / Crime", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6QxTsscuZacaBY0lA7GttWVtkoy.jpg", "actors": [], "comments": [], "recommandations_id": []}

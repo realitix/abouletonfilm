@@ -1,1 +1,0 @@
-{"tmdb_id": 550163, "title": "The King Lion", "original_title": "The King Lion", "slug_title": "the-king-lion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7XO15rxoM4kHAY6WvVzA5fp5jdg.jpg", "actors": [], "comments": [], "recommandations_id": []}

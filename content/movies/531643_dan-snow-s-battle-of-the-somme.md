@@ -1,1 +1,0 @@
-{"tmdb_id": 531643, "title": "Dan Snow's Battle of the Somme", "original_title": "Dan Snow's Battle of the Somme", "slug_title": "dan-snow-s-battle-of-the-somme", "date": "2014-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/44ZKULxPwgpHPdYDxIxsiRHfflQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

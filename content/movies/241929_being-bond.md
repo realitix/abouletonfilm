@@ -1,1 +1,0 @@
-{"tmdb_id": 241929, "title": "Being Bond", "original_title": "Being Bond", "slug_title": "being-bond", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

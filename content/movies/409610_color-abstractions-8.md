@@ -1,1 +1,0 @@
-{"tmdb_id": 409610, "title": "Color Abstractions #8", "original_title": "Color Abstractions #8", "slug_title": "color-abstractions-8", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

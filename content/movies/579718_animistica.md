@@ -1,1 +1,0 @@
-{"tmdb_id": 579718, "title": "animistica", "original_title": "animistica", "slug_title": "animistica", "date": "2019-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6evzrCaaggdLwusJEzTKLY7O8wx.jpg", "actors": [], "comments": [], "recommandations_id": []}

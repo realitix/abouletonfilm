@@ -1,1 +1,0 @@
-{"tmdb_id": 579740, "title": "Exhibition on Screen: Munch 150", "original_title": "Exhibition on Screen: Munch 150", "slug_title": "exhibition-on-screen-munch-150", "date": "2013-06-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tim Marlow (Himself - Presenter)"], "comments": [], "recommandations_id": []}

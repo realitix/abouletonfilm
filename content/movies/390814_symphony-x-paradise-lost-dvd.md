@@ -1,1 +1,0 @@
-{"tmdb_id": 390814, "title": "Symphony X: Paradise Lost (DVD)", "original_title": "Symphony X: Paradise Lost (DVD)", "slug_title": "symphony-x-paradise-lost-dvd", "date": "2009-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Yirf71dwHiIw5o9RMX1zu8sxD2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 231858, "title": "Matilde", "original_title": "Matilde", "slug_title": "matilde", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

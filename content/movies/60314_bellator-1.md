@@ -1,1 +1,0 @@
-{"tmdb_id": 60314, "title": "Bellator 1", "original_title": "Bellator 1", "slug_title": "bellator-1", "date": "2009-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/udI0pq9HCbqW66FCJacSIyScCYk.jpg", "actors": [], "comments": [], "recommandations_id": []}

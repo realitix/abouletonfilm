@@ -1,1 +1,0 @@
-{"tmdb_id": 435570, "title": "Black Buffalo Water", "original_title": "Apa ca un bivol negru", "slug_title": "black-buffalo-water", "date": "1970-01-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

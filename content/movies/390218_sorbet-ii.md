@@ -1,1 +1,0 @@
-{"tmdb_id": 390218, "title": "Sorbet II", "original_title": "Sorbet II", "slug_title": "sorbet-ii", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marjan Klomp ()"], "comments": [], "recommandations_id": []}

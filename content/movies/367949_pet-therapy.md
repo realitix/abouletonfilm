@@ -1,1 +1,0 @@
-{"tmdb_id": 367949, "title": "Pet Therapy", "original_title": "Pet Therapy", "slug_title": "pet-therapy", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j3HZG0DjZog4NCPXrmmFggNfwzj.jpg", "actors": [], "comments": [], "recommandations_id": []}

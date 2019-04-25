@@ -1,1 +1,0 @@
-{"tmdb_id": 555454, "title": "Papillon", "original_title": "Papillon", "slug_title": "papillon", "date": "2006-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/phBYyu7gY1N0AAsKSvMPgYRgeLI.jpg", "actors": [], "comments": [], "recommandations_id": []}

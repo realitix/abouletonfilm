@@ -1,1 +1,0 @@
-{"tmdb_id": 452384, "title": "The Parcel", "original_title": "Das Paket", "slug_title": "the-parcel", "date": "2016-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rjX3UbFPK3PHHyReSCsoWz7Z7KU.jpg", "actors": [], "comments": [], "recommandations_id": []}

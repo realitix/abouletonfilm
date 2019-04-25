@@ -1,1 +1,0 @@
-{"tmdb_id": 431453, "title": "The 42nd. Street Special", "original_title": "The 42nd. Street Special", "slug_title": "the-42nd-street-special", "date": "1933-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

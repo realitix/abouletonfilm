@@ -1,1 +1,0 @@
-{"tmdb_id": 357961, "title": "The Spring", "original_title": "Bahar", "slug_title": "the-spring", "date": "1985-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pybz7f7qZ1ExY6uedHWywoV3BHv.jpg", "actors": [], "comments": [], "recommandations_id": []}

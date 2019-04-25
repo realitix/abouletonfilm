@@ -1,1 +1,0 @@
-{"tmdb_id": 551285, "title": "Song for the Jungle", "original_title": "Song for the Jungle", "slug_title": "song-for-the-jungle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

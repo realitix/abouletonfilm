@@ -1,1 +1,0 @@
-{"tmdb_id": 373264, "title": "Silver Stream", "original_title": "Ginga", "slug_title": "silver-stream", "date": "1931-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

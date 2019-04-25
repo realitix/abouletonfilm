@@ -1,1 +1,0 @@
-{"tmdb_id": 310294, "title": "Richard Galliano: Tangaria Quartet", "original_title": "Richard Galliano: Tangaria Quartet", "slug_title": "richard-galliano-tangaria-quartet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

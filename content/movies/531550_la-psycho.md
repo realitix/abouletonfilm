@@ -1,1 +1,0 @@
-{"tmdb_id": 531550, "title": "La Psycho", "original_title": "La Psycho", "slug_title": "la-psycho", "date": "2016-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wjuE5Zqr65RJqMgB7p32MfBTtte.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 314565, "title": "\u00c0 Queima Roupa", "original_title": "\u00c0 Queima Roupa", "slug_title": "a-queima-roupa", "date": "2014-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iX0JlhD2bBbx9gQ9Ak6TzaYIZOy.jpg", "actors": [], "comments": [], "recommandations_id": []}

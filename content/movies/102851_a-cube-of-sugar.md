@@ -1,1 +1,0 @@
-{"tmdb_id": 102851, "title": "A Cube of Sugar", "original_title": "\u06cc\u06a9 \u062d\u0628\u0647 \u0642\u0646\u062f", "slug_title": "a-cube-of-sugar", "date": "2011-10-12", "genre": "", "score": "7.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fS7aOd9o8l928qZha4sUCCaiVTA.jpg", "actors": [], "comments": [], "recommandations_id": []}

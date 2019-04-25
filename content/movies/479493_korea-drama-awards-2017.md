@@ -1,1 +1,0 @@
-{"tmdb_id": 479493, "title": "Korea Drama Awards 2017", "original_title": "Korea Drama Awards 2017", "slug_title": "korea-drama-awards-2017", "date": "2017-10-02", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cwivOqKaGfL6Yfc1IAukUGfPqGN.jpg", "actors": [], "comments": [], "recommandations_id": []}

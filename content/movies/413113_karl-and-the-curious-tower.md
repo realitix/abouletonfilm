@@ -1,1 +1,0 @@
-{"tmdb_id": 413113, "title": "Karl and the Curious Tower", "original_title": "Karl to Fushigi na To", "slug_title": "karl-and-the-curious-tower", "date": "2010-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qsColvC91RUz0x0EUdSg3NBa5en.jpg", "actors": [], "comments": [], "recommandations_id": []}

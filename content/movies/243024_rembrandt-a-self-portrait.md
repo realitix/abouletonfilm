@@ -1,1 +1,0 @@
-{"tmdb_id": 243024, "title": "Rembrandt: A Self-Portrait", "original_title": "Rembrandt: A Self-Portrait", "slug_title": "rembrandt-a-self-portrait", "date": "1954-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

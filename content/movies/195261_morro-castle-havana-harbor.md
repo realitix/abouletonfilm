@@ -1,1 +1,0 @@
-{"tmdb_id": 195261, "title": "Morro Castle, Havana Harbor", "original_title": "Morro Castle, Havana Harbor", "slug_title": "morro-castle-havana-harbor", "date": "1898-05-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

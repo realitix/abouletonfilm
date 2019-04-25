@@ -1,1 +1,0 @@
-{"tmdb_id": 368988, "title": "Rabbit in the Moon", "original_title": "Rabbit in the Moon", "slug_title": "rabbit-in-the-moon", "date": "1999-01-01", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rKufsf9qMzl21UyN07zqR0IE6YI.jpg", "actors": [], "comments": [], "recommandations_id": []}

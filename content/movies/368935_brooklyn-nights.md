@@ -1,1 +1,0 @@
-{"tmdb_id": 368935, "title": "Brooklyn Nights", "original_title": "Brooklyn Nights", "slug_title": "brooklyn-nights", "date": "1987-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aJ6A1sNxrgc1PJIVYDQfHyGtZL1.jpg", "actors": ["Lazar Rockwood (Paco)"], "comments": [], "recommandations_id": []}

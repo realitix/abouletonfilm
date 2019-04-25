@@ -1,1 +1,0 @@
-{"tmdb_id": 276987, "title": "Cosmic Travelers: Comets and Asteroids", "original_title": "Cosmic Travelers: Comets and Asteroids", "slug_title": "cosmic-travelers-comets-and-asteroids", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

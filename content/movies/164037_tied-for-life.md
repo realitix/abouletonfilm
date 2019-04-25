@@ -1,1 +1,0 @@
-{"tmdb_id": 164037, "title": "Tied for Life", "original_title": "Tied for Life", "slug_title": "tied-for-life", "date": "1933-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Langdon (The Groom)", "Vernon Dent (Angry motorist)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 405229, "title": "CHIKARA: Whisper House", "original_title": "CHIKARA: Whisper House", "slug_title": "chikara-whisper-house", "date": "2016-05-07", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wbm9sNCe0tNhYUXwyUFatC7XjWE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 549566, "title": "The Harry Potter Saga Analyzed", "original_title": "The Harry Potter Saga Analyzed", "slug_title": "the-harry-potter-saga-analyzed", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

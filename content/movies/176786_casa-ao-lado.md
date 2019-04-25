@@ -1,1 +1,0 @@
-{"tmdb_id": 176786, "title": "Casa ao Lado", "original_title": "Casa ao Lado", "slug_title": "casa-ao-lado", "date": "2010-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zW7POBHjybd0hc9RrUNoGbtHmrh.jpg", "actors": ["J\u00falia Belard (In\u00eas)", "Ana Lopes (Sara)"], "comments": [], "recommandations_id": []}

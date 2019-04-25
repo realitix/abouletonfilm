@@ -1,1 +1,0 @@
-{"tmdb_id": 343335, "title": "The Lure of Labrador", "original_title": "The Lure of Labrador", "slug_title": "the-lure-of-labrador", "date": "1928-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Varick Frissell ()", "Jim Hillier ()"], "comments": [], "recommandations_id": []}

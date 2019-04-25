@@ -1,1 +1,0 @@
-{"tmdb_id": 258522, "title": "Boy with Cat", "original_title": "Boy with Cat", "slug_title": "boy-with-cat", "date": "1966-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gJOUJftFNAXnnDFShRjfDqTr2eo.jpg", "actors": [], "comments": [], "recommandations_id": []}

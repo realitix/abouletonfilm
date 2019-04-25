@@ -1,1 +1,0 @@
-{"tmdb_id": 495203, "title": "Experiment III", "original_title": "Experiment III", "slug_title": "experiment-iii", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jxYdYCNArj0UGIBkJZ2rA99k920.jpg", "actors": [], "comments": [], "recommandations_id": []}

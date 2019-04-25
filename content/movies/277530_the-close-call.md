@@ -1,1 +1,0 @@
-{"tmdb_id": 277530, "title": "The Close Call", "original_title": "The Close Call", "slug_title": "the-close-call", "date": "1914-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Felix Walsh (Felix)", "Olive Johnson (Olive)", "'Baby' Carmen De Rue (Carmen)"], "comments": [], "recommandations_id": []}

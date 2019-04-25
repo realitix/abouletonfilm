@@ -1,1 +1,0 @@
-{"tmdb_id": 126013, "title": "The Black Glove", "original_title": "The Black Glove", "slug_title": "the-black-glove", "date": "2007-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hgJRiEJg3m7mAfFOxVzSchZ9iYZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

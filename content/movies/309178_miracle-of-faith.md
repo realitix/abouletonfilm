@@ -1,1 +1,0 @@
-{"tmdb_id": 309178, "title": "Miracle of Faith", "original_title": "Miracle of Faith", "slug_title": "miracle-of-faith", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

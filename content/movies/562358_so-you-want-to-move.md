@@ -1,1 +1,0 @@
-{"tmdb_id": 562358, "title": "So You Want to Move", "original_title": "So You Want to Move", "slug_title": "so-you-want-to-move", "date": "1950-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon ()"], "comments": [], "recommandations_id": []}

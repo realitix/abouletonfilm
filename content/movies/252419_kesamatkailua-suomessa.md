@@ -1,1 +1,0 @@
-{"tmdb_id": 252419, "title": "Kes\u00e4matkailua Suomessa", "original_title": "Kes\u00e4matkailua Suomessa", "slug_title": "kesamatkailua-suomessa", "date": "1937-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

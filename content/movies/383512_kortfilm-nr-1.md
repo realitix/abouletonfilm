@@ -1,1 +1,0 @@
-{"tmdb_id": 383512, "title": "Kortfilm Nr.1", "original_title": "Kortfilm Nr.1", "slug_title": "kortfilm-nr-1", "date": "2009-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q0iL00xNgRlsQHyTzQLP6tSl86.jpg", "actors": [], "comments": [], "recommandations_id": []}

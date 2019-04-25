@@ -1,1 +1,0 @@
-{"tmdb_id": 262592, "title": "Festivals Britannia", "original_title": "Festivals Britannia", "slug_title": "festivals-britannia", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

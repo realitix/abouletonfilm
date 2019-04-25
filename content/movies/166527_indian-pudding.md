@@ -1,1 +1,0 @@
-{"tmdb_id": 166527, "title": "Indian Pudding", "original_title": "Indian Pudding", "slug_title": "indian-pudding", "date": "1930-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

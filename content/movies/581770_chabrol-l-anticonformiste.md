@@ -1,1 +1,0 @@
-{"tmdb_id": 581770, "title": "Chabrol, l'anticonformiste", "original_title": "Chabrol, l'anticonformiste", "slug_title": "chabrol-l-anticonformiste", "date": "2019-02-17", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6KqhcU3IjvdGdCL27apfRom2AQQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 427215, "title": "La monta\u00f1a", "original_title": "La monta\u00f1a", "slug_title": "la-montana", "date": "2013-10-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uPvCPa1a6HnWfIh0OTOmCTbt0Ge.jpg", "actors": [], "comments": [], "recommandations_id": []}

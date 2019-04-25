@@ -1,1 +1,0 @@
-{"tmdb_id": 291762, "title": "Prelude", "original_title": "Prelude", "slug_title": "prelude", "date": "1927-07-01", "genre": "Horreur", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rsZsHZC7ZRZlQ8EfILT1fAt3yJo.jpg", "actors": ["Castleton Knight (The Man)"], "comments": [], "recommandations_id": []}

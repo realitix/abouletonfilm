@@ -1,1 +1,0 @@
-{"tmdb_id": 426120, "title": "Ham Heads", "original_title": "Ham Heads", "slug_title": "ham-heads", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

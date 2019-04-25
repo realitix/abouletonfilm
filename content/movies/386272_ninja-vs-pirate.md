@@ -1,1 +1,0 @@
-{"tmdb_id": 386272, "title": "Ninja vs Pirate", "original_title": "Ninja vs Pirate", "slug_title": "ninja-vs-pirate", "date": "2012-08-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/60KSd2RUzMiGb1FysOloLfEdvWg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 592015, "title": "Pulling G's", "original_title": "Pulling G's", "slug_title": "pulling-g-s", "date": "1987-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tg6LKqCzV57675XuJPQKg77shyQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

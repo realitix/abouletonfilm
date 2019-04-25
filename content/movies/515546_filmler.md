@@ -1,1 +1,0 @@
-{"tmdb_id": 515546, "title": "Filmler", "original_title": "Filmler", "slug_title": "filmler", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

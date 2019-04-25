@@ -1,1 +1,0 @@
-{"tmdb_id": 547635, "title": "The Selection", "original_title": "Selekcia", "slug_title": "the-selection", "date": "1982-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sRU0agBV0tYndq6ZUU8TKvtGydl.jpg", "actors": [], "comments": [], "recommandations_id": []}

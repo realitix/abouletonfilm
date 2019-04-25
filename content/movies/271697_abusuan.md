@@ -1,1 +1,0 @@
-{"tmdb_id": 271697, "title": "Abusuan", "original_title": "Abusuan", "slug_title": "abusuan", "date": "1972-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["L\u00e9onard Groguhat ()", "Natou Koly ()", "Jean-Baptiste Tiemele ()"], "comments": [], "recommandations_id": []}

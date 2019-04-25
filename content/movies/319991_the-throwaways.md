@@ -1,1 +1,0 @@
-{"tmdb_id": 319991, "title": "The Throwaways", "original_title": "The Throwaways", "slug_title": "the-throwaways", "date": "2013-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

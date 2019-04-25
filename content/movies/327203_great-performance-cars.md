@@ -1,1 +1,0 @@
-{"tmdb_id": 327203, "title": "Great Performance Cars", "original_title": "Great Performance Cars", "slug_title": "great-performance-cars", "date": "2010-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tjEPek9wLZYTRzzQfbaXRuToULJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

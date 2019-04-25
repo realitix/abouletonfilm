@@ -1,1 +1,0 @@
-{"tmdb_id": 322967, "title": "Heights of Danger", "original_title": "Heights of Danger", "slug_title": "heights-of-danger", "date": "1953-02-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Basil Appleby ()", "Freda Bamford ()", "Wilfred Downing ()", "Sebastian Cabot ()"], "comments": [], "recommandations_id": []}

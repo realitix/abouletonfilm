@@ -1,1 +1,1 @@
-{"tmdb_id": 23791, "title": "Vengamamba", "original_title": "Vengamamba", "slug_title": "vengamamba", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 23791, "title": "Vengamamba", "original_title": "Vengamamba", "slug_title": "vengamamba", "date": "2009-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No overview found.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 197664, "title": "Savatage: Cologne Germany", "original_title": "Savatage: Cologne Germany", "slug_title": "savatage-cologne-germany", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

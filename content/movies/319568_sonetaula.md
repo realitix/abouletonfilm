@@ -1,1 +1,0 @@
-{"tmdb_id": 319568, "title": "Sonet\u00e0ula", "original_title": "Sonet\u00e0ula", "slug_title": "sonetaula", "date": "2008-03-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gVUZ0GhImJP6POYtBBzbCQEeOPb.jpg", "actors": [], "comments": [], "recommandations_id": []}

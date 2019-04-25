@@ -1,1 +1,0 @@
-{"tmdb_id": 300575, "title": "Die Erbschaft", "original_title": "Die Erbschaft", "slug_title": "die-erbschaft", "date": "1991-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Buschhoff (Arthur)", "Michael Degen (Manfred)", "Dagmar Manzel (Jutta)", "Gerd Baltus (Mandant)"], "comments": [], "recommandations_id": []}

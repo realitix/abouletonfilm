@@ -1,1 +1,0 @@
-{"tmdb_id": 340931, "title": "Citando Borges", "original_title": "Citando Borges", "slug_title": "citando-borges", "date": "", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Deborah Enjiu (Ana)", "Mario Koreyasu (Nelson)", "Jun Sakuma (Eric)"], "comments": [], "recommandations_id": []}

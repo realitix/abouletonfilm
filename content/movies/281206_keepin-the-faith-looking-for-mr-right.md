@@ -1,1 +1,0 @@
-{"tmdb_id": 281206, "title": "Keepin' The Faith: Looking For Mr. Right", "original_title": "Keepin' The Faith: Looking For Mr. Right", "slug_title": "keepin-the-faith-looking-for-mr-right", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

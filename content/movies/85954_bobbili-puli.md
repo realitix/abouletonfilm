@@ -1,1 +1,0 @@
-{"tmdb_id": 85954, "title": "Bobbili Puli", "original_title": "Bobbili Puli", "slug_title": "bobbili-puli", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A0c3C1ehzvvb5C6672G0vij8NSd.jpg", "actors": [], "comments": [], "recommandations_id": []}

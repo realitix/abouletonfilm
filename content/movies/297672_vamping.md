@@ -1,1 +1,0 @@
-{"tmdb_id": 297672, "title": "Vamping", "original_title": "Vamping", "slug_title": "vamping", "date": "1984-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5ZV5BlOn6M5ENWqbnW9PPWaoUx6.jpg", "actors": ["Patrick Duffy (Harry Baranski)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 245766, "title": "La mafia \u00e8 bianca", "original_title": "La mafia \u00e8 bianca", "slug_title": "la-mafia-e-bianca", "date": "2005-11-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jrXaGdLorZFBUI5WogmpDky0W1i.jpg", "actors": [], "comments": [], "recommandations_id": []}

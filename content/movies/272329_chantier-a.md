@@ -1,1 +1,0 @@
-{"tmdb_id": 272329, "title": "Chantier A", "original_title": "Chantier A", "slug_title": "chantier-a", "date": "2013-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yiXdBgg83FckqGe15E3h9dDNMfG.jpg", "actors": [], "comments": [], "recommandations_id": []}

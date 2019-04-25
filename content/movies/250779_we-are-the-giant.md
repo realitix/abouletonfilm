@@ -1,1 +1,0 @@
-{"tmdb_id": 250779, "title": "We Are the Giant", "original_title": "We Are the Giant", "slug_title": "we-are-the-giant", "date": "2014-01-18", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eoVYlyTXT4wbiypPqFPgwm4Vadp.jpg", "actors": [], "comments": [], "recommandations_id": []}

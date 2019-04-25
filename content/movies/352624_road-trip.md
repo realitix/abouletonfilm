@@ -1,1 +1,0 @@
-{"tmdb_id": 352624, "title": "Road Trip", "original_title": "Road Trip", "slug_title": "road-trip", "date": "2015-07-22", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/98cqqFq2NdR7p21wuf6qhGO9BuT.jpg", "actors": ["Karen Moreno (Natalie)", "Patrick Moss (Joseph)"], "comments": [], "recommandations_id": []}

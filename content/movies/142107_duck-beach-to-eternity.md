@@ -1,1 +1,0 @@
-{"tmdb_id": 142107, "title": "Duck Beach to Eternity", "original_title": "Duck Beach to Eternity", "slug_title": "duck-beach-to-eternity", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qYt6qdtlU1cUKPYhoersSvMFhRL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 425314, "title": "COINTELPRO: The FBI's War on Black America", "original_title": "COINTELPRO: The FBI's War on Black America", "slug_title": "cointelpro-the-fbi-s-war-on-black-america", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

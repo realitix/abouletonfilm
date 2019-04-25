@@ -1,1 +1,0 @@
-{"tmdb_id": 310170, "title": "Journeyman", "original_title": "Journeyman", "slug_title": "journeyman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

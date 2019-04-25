@@ -1,1 +1,0 @@
-{"tmdb_id": 273340, "title": "Kunpan - Der perfekte Krieger", "original_title": "Kunpan - Der perfekte Krieger", "slug_title": "kunpan-der-perfekte-krieger", "date": "2013-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/umCROGsnZxRxn0gJ46JVv7zwKfQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

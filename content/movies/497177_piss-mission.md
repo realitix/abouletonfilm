@@ -1,1 +1,0 @@
-{"tmdb_id": 497177, "title": "Piss Mission", "original_title": "Piss Mission", "slug_title": "piss-mission", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

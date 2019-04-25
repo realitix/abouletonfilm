@@ -1,1 +1,0 @@
-{"tmdb_id": 516239, "title": "The Time Travelers", "original_title": "The Time Travelers", "slug_title": "the-time-travelers", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

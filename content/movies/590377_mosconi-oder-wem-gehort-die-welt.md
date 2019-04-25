@@ -1,1 +1,0 @@
-{"tmdb_id": 590377, "title": "Mosconi - Oder wem geh\u00f6rt die Welt", "original_title": "Mosconi - Oder wem geh\u00f6rt die Welt", "slug_title": "mosconi-oder-wem-gehort-die-welt", "date": "2008-05-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

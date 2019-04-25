@@ -1,1 +1,0 @@
-{"tmdb_id": 535611, "title": "Devil's Food Cake", "original_title": "Devil's Food Cake", "slug_title": "devil-s-food-cake", "date": "2017-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kip Niven ()", "Sarah McGuire ()", "Jim Korinke ()", "Chad Crenshaw ()"], "comments": [], "recommandations_id": []}

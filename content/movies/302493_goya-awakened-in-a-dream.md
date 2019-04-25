@@ -1,1 +1,0 @@
-{"tmdb_id": 302493, "title": "Goya : Awakened in a Dream", "original_title": "Goya : Awakened in a Dream", "slug_title": "goya-awakened-in-a-dream", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

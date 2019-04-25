@@ -1,1 +1,0 @@
-{"tmdb_id": 271698, "title": "Chicken", "original_title": "Chicken", "slug_title": "chicken", "date": "2001-03-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h1AWgM4FN8dF1HApgnb4Lex6rF9.jpg", "actors": [], "comments": [], "recommandations_id": []}

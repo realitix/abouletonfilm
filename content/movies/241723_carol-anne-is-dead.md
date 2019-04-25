@@ -1,1 +1,0 @@
-{"tmdb_id": 241723, "title": "Carol Anne Is Dead", "original_title": "Carol Anne Is Dead", "slug_title": "carol-anne-is-dead", "date": "2008-01-01", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oaluRqnb4KRycGQkrGpRk7zGPP9.jpg", "actors": [], "comments": [], "recommandations_id": []}

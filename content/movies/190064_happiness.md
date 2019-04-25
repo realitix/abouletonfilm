@@ -1,1 +1,0 @@
-{"tmdb_id": 190064, "title": "Happiness", "original_title": "Sre\u0107a", "slug_title": "happiness", "date": "1928-04-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

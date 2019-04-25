@@ -1,1 +1,0 @@
-{"tmdb_id": 448497, "title": "Strange Fish", "original_title": "Strange Fish", "slug_title": "strange-fish", "date": "2017-03-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3TvsInyEW1EN57fAkQy2NG7ccJZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

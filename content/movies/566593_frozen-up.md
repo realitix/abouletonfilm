@@ -1,1 +1,0 @@
-{"tmdb_id": 566593, "title": "Frozen Up", "original_title": "Frozen Up", "slug_title": "frozen-up", "date": "2018-12-04", "genre": "Animation / Musique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w3EBHKOkMGLs7CYj1fHk70q59Dj.jpg", "actors": [], "comments": [], "recommandations_id": []}

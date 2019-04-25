@@ -1,1 +1,0 @@
-{"tmdb_id": 294162, "title": "Hear My Cry", "original_title": "Uslyszcie m\u00f3j krzyk", "slug_title": "hear-my-cry", "date": "1990-05-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2NvPsoQFxwN7SVD8kot7e19XO2k.jpg", "actors": [], "comments": [], "recommandations_id": []}

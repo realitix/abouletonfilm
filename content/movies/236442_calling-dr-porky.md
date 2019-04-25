@@ -1,1 +1,0 @@
-{"tmdb_id": 236442, "title": "Calling Dr. Porky", "original_title": "Calling Dr. Porky", "slug_title": "calling-dr-porky", "date": "1940-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2I1EzLNQyJQwg92s4Fixf2eLL6I.jpg", "actors": [], "comments": [], "recommandations_id": []}

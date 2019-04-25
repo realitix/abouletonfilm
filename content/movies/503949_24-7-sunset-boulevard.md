@@ -1,1 +1,0 @@
-{"tmdb_id": 503949, "title": "24/7 - Sunset Boulevard", "original_title": "24/7 - Sunset Boulevard", "slug_title": "24-7-sunset-boulevard", "date": "2001-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

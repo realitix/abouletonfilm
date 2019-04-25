@@ -1,1 +1,0 @@
-{"tmdb_id": 299105, "title": "Zu\u0308rcher Ballett: Swan Lake", "original_title": "Zu\u0308rcher Ballett: Swan Lake", "slug_title": "zurcher-ballett-swan-lake", "date": "2009-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

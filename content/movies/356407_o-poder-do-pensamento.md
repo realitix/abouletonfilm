@@ -1,1 +1,0 @@
-{"tmdb_id": 356407, "title": "O Poder do Pensamento", "original_title": "O Poder do Pensamento", "slug_title": "o-poder-do-pensamento", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

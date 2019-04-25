@@ -1,1 +1,0 @@
-{"tmdb_id": 195862, "title": "O Amor Natural", "original_title": "O Amor Natural", "slug_title": "o-amor-natural", "date": "1996-12-05", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7U5SD9pk3tYI0eWmxSsJJHbBcKP.jpg", "actors": [], "comments": [], "recommandations_id": []}

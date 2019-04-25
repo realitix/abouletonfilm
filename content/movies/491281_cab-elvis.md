@@ -1,1 +1,0 @@
-{"tmdb_id": 491281, "title": "Cab Elvis", "original_title": "Cab Elvis", "slug_title": "cab-elvis", "date": "2016-05-29", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qNE4LIrh8GllPUrPA3qE41XOjde.jpg", "actors": ["Dave Groh ()"], "comments": [], "recommandations_id": []}

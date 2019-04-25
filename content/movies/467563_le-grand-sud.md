@@ -1,1 +1,1 @@
-{"tmdb_id": 467563, "title": "Le grand sud", "original_title": "Le grand sud", "slug_title": "le-grand-sud", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 467563, "title": "Le grand sud", "original_title": "Le grand sud", "slug_title": "le-grand-sud", "date": "1956-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

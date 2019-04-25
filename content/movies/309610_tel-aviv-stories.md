@@ -1,1 +1,0 @@
-{"tmdb_id": 309610, "title": "Tel Aviv Stories", "original_title": "Tel Aviv Stories", "slug_title": "tel-aviv-stories", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

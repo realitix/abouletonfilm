@@ -1,1 +1,0 @@
-{"tmdb_id": 586839, "title": "Big Three Dragons", "original_title": "Big Three Dragons", "slug_title": "big-three-dragons", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Derek Chang ()", "Ella Chen ()", "Michael Huang ()"], "comments": [], "recommandations_id": []}

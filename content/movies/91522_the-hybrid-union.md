@@ -1,1 +1,0 @@
-{"tmdb_id": 91522, "title": "The Hybrid Union", "original_title": "The Hybrid Union", "slug_title": "the-hybrid-union", "date": "2011-02-10", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ybUbk32kxjmToznRn9UlKGEehLa.jpg", "actors": [], "comments": [], "recommandations_id": []}

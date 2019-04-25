@@ -1,1 +1,0 @@
-{"tmdb_id": 93353, "title": "CantaJuego 2", "original_title": "CantaJuego 2", "slug_title": "cantajuego-2", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4CzqhXBW9SX9TiXuRjwJZpBFdhS.jpg", "actors": [], "comments": [], "recommandations_id": []}

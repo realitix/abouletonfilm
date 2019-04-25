@@ -1,1 +1,0 @@
-{"tmdb_id": 138000, "title": "Demonic Heroine in Peril", "original_title": "Demonic Heroine in Peril", "slug_title": "demonic-heroine-in-peril", "date": "2005-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rUrlp4ZQ6bw01EIvCIZ3ZzuGIEe.jpg", "actors": ["Misaki (Outsider)"], "comments": [], "recommandations_id": []}

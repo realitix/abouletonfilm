@@ -1,1 +1,0 @@
-{"tmdb_id": 370950, "title": "Barney: Let's Go to the Beach!", "original_title": "Barney: Let's Go to the Beach!", "slug_title": "barney-let-s-go-to-the-beach", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

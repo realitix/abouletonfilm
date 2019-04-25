@@ -1,1 +1,0 @@
-{"tmdb_id": 297943, "title": "The Luncheon of the Hyena", "original_title": "Das Fr\u00fchst\u00fcck der Hy\u00e4ne", "slug_title": "the-luncheon-of-the-hyena", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

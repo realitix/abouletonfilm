@@ -1,1 +1,0 @@
-{"tmdb_id": 408756, "title": "The Diver", "original_title": "El Buzo", "slug_title": "the-diver", "date": "2015-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ny5PtTGc35Tks2w2nyANABq73PJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

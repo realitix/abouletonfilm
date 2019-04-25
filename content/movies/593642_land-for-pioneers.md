@@ -1,1 +1,0 @@
-{"tmdb_id": 593642, "title": "Land for Pioneers", "original_title": "Land for Pioneers", "slug_title": "land-for-pioneers", "date": "1944-04-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Miville Couture (Narrator (voice: French version))", "King Whyte (Narrator (voice))"], "comments": [], "recommandations_id": []}

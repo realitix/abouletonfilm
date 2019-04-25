@@ -1,1 +1,0 @@
-{"tmdb_id": 203235, "title": "Das Wunder von Wien", "original_title": "Das Wunder von Wien", "slug_title": "das-wunder-von-wien", "date": "2008-06-05", "genre": "Documentaire", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/osn0QXMDFKxd8bKe3LQ7Dlej3Pr.jpg", "actors": [], "comments": [], "recommandations_id": []}

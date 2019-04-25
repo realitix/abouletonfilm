@@ -1,1 +1,0 @@
-{"tmdb_id": 281925, "title": "By Twos and Threes: Women", "original_title": "By Twos and Threes: Women", "slug_title": "by-twos-and-threes-women", "date": "1974-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

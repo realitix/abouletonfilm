@@ -1,1 +1,0 @@
-{"tmdb_id": 372638, "title": "The Best of Boys in Love", "original_title": "The Best of Boys in Love", "slug_title": "the-best-of-boys-in-love", "date": "2000-09-19", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2niXHDduicgWDbe4jxIxjV0PXfE.jpg", "actors": [], "comments": [], "recommandations_id": []}

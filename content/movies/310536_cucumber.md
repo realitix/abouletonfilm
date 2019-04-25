@@ -1,1 +1,0 @@
-{"tmdb_id": 310536, "title": "Cucumber", "original_title": "\u9ec4\u74dc", "slug_title": "cucumber", "date": "2008-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/71OpUQCjTf2Rmvk0f7ghre51qYs.jpg", "actors": ["Yuanyuan Cheng ()"], "comments": [], "recommandations_id": []}

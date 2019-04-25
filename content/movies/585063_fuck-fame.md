@@ -1,1 +1,0 @@
-{"tmdb_id": 585063, "title": "Fuck Fame", "original_title": "Fuck Fame", "slug_title": "fuck-fame", "date": "2019-01-23", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cp9y37UdgsdilCLRqoclKvqVWhJ.jpg", "actors": ["Uffie (Herself)"], "comments": [], "recommandations_id": []}

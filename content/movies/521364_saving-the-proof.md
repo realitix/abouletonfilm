@@ -1,1 +1,0 @@
-{"tmdb_id": 521364, "title": "Saving the Proof", "original_title": "Saving the Proof", "slug_title": "saving-the-proof", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 480201, "title": "Blaze Away", "original_title": "Blaze Away", "slug_title": "blaze-away", "date": "1922-12-03", "genre": "Western / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

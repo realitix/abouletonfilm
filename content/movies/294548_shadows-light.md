@@ -1,1 +1,0 @@
-{"tmdb_id": 294548, "title": "Shadows Light", "original_title": "Shadows Light", "slug_title": "shadows-light", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 398319, "title": "Wyrdoes", "original_title": "Wyrdoes", "slug_title": "wyrdoes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lu Corfield ()", "Ginny Holder ()", "Anna Crilly ()", "Richard Sandling ()", "Mike Wozniak ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 422194, "title": "Five Feminist Minutes", "original_title": "Five Feminist Minutes", "slug_title": "five-feminist-minutes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

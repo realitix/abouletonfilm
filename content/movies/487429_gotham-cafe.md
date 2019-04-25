@@ -1,1 +1,0 @@
-{"tmdb_id": 487429, "title": "Gotham Cafe", "original_title": "Gotham Cafe", "slug_title": "gotham-cafe", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

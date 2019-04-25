@@ -1,1 +1,0 @@
-{"tmdb_id": 542304, "title": "My Friend Michael Jones", "original_title": "My Friend Michael Jones", "slug_title": "my-friend-michael-jones", "date": "2018-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Villa Junior Lemanu (Michael Jones)", "Luciane Buchanan (Selina)"], "comments": [], "recommandations_id": []}

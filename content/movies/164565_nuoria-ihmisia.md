@@ -1,1 +1,0 @@
-{"tmdb_id": 164565, "title": "Nuoria ihmisi\u00e4", "original_title": "Nuoria ihmisi\u00e4", "slug_title": "nuoria-ihmisia", "date": "1943-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vXm08T0mpTT7dsuGD8Pn7KY9eFm.jpg", "actors": ["Hannes H\u00e4yrinen ()"], "comments": [], "recommandations_id": []}

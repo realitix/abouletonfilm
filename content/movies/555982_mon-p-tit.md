@@ -1,1 +1,0 @@
-{"tmdb_id": 555982, "title": "Mon p'tit", "original_title": "Mon p'tit", "slug_title": "mon-p-tit", "date": "1922-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

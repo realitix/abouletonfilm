@@ -1,1 +1,0 @@
-{"tmdb_id": 424623, "title": "El Sartorio", "original_title": "El Sartorio", "slug_title": "el-sartorio", "date": "1907-01-01", "genre": "Fantastique / Horreur", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

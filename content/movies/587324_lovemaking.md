@@ -1,1 +1,0 @@
-{"tmdb_id": 587324, "title": "Lovemaking", "original_title": "Lovemaking", "slug_title": "lovemaking", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

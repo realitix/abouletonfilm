@@ -1,1 +1,0 @@
-{"tmdb_id": 323777, "title": "Move N Art Jennifer Villa-Car & Fan.", "original_title": "Move N Art Jennifer Villa-Car & Fan.", "slug_title": "move-n-art-jennifer-villa-car-fan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

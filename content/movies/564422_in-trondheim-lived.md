@@ -1,1 +1,0 @@
-{"tmdb_id": 564422, "title": "In Trondheim Lived", "original_title": "I Trondheim Bodde", "slug_title": "in-trondheim-lived", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1yghK01Fy18acjwSW75oNkOi1NV.jpg", "actors": [], "comments": [], "recommandations_id": []}

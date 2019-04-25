@@ -1,1 +1,0 @@
-{"tmdb_id": 303668, "title": "Julotta", "original_title": "Julotta", "slug_title": "julotta", "date": "1937-12-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

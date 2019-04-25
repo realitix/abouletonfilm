@@ -1,1 +1,0 @@
-{"tmdb_id": 254937, "title": "Spezzacatene", "original_title": "Spezzacatene", "slug_title": "spezzacatene", "date": "2010-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

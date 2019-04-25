@@ -1,1 +1,0 @@
-{"tmdb_id": 154147, "title": "The Almost Guys", "original_title": "The Almost Guys", "slug_title": "the-almost-guys", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

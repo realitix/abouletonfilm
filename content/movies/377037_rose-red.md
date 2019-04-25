@@ -1,1 +1,0 @@
-{"tmdb_id": 377037, "title": "Rose Red", "original_title": "Rose Red", "slug_title": "rose-red", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fASsmHi3lUcCpwbbV1aSGK4NrWJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

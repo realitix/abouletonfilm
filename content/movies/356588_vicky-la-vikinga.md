@@ -1,1 +1,0 @@
-{"tmdb_id": 356588, "title": "Vicky la vikinga", "original_title": "Vicky la vikinga", "slug_title": "vicky-la-vikinga", "date": "", "genre": "Aventure / Drame", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/df3aYvU2pYTpGlJQXtOExExrWFU.jpg", "actors": ["La Artista Ness (Vicky)"], "comments": [], "recommandations_id": []}

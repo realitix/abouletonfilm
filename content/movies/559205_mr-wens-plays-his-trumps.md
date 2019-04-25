@@ -1,1 +1,0 @@
-{"tmdb_id": 559205, "title": "Mr. Wens Plays His Trumps", "original_title": "Les atouts de Monsieur Wens", "slug_title": "mr-wens-plays-his-trumps", "date": "1947-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cCfw41sHD3Bz89wYnlmTkBE8fwv.jpg", "actors": [], "comments": [], "recommandations_id": []}

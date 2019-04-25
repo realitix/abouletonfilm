@@ -1,1 +1,0 @@
-{"tmdb_id": 197975, "title": "Bad Burns", "original_title": "Bad Burns", "slug_title": "bad-burns", "date": "1982-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 415321, "title": "Los \u00e1ngeles se han fatigado", "original_title": "Los \u00e1ngeles se han fatigado", "slug_title": "los-angeles-se-han-fatigado", "date": "1987-01-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

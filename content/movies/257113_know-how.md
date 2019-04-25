@@ -1,1 +1,0 @@
-{"tmdb_id": 257113, "title": "Know How", "original_title": "Know How", "slug_title": "know-how", "date": "2014-03-08", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w9BsW4boADuOSCP2pifKqi8HT5G.jpg", "actors": ["Deshawn Brown ()", "Niquana Clark ()", "Michael Dew ()"], "comments": [], "recommandations_id": []}

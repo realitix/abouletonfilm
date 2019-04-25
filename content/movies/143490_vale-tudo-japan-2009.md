@@ -1,1 +1,0 @@
-{"tmdb_id": 143490, "title": "Vale Tudo Japan 2009", "original_title": "Vale Tudo Japan 2009", "slug_title": "vale-tudo-japan-2009", "date": "2009-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

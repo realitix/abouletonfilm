@@ -1,1 +1,0 @@
-{"tmdb_id": 557074, "title": "Bruno S. - Die Fremde ist der Tod", "original_title": "Bruno S. - Die Fremde ist der Tod", "slug_title": "bruno-s-die-fremde-ist-der-tod", "date": "2003-02-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

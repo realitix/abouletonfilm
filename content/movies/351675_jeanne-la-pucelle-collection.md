@@ -1,1 +1,0 @@
-{"tmdb_id": 351675, "title": "Jeanne la Pucelle Collection", "original_title": "Jeanne la Pucelle Collection", "slug_title": "jeanne-la-pucelle-collection", "date": "1994-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mTJxIj8e6UG2jaR2vB4TcsNZYLh.jpg", "actors": [], "comments": [], "recommandations_id": []}

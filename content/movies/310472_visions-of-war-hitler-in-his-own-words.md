@@ -1,1 +1,0 @@
-{"tmdb_id": 310472, "title": "Visions of War: Hitler in His Own Words", "original_title": "Visions of War: Hitler in His Own Words", "slug_title": "visions-of-war-hitler-in-his-own-words", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

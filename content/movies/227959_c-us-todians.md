@@ -1,1 +1,0 @@
-{"tmdb_id": 227959, "title": "C(us)todians", "original_title": "A Gente", "slug_title": "c-us-todians", "date": "2013-10-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tUvaNha8KvzSHxvWWveA2gM688D.jpg", "actors": ["Jefferson Walkiu (Himself)"], "comments": [], "recommandations_id": []}

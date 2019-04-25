@@ -1,1 +1,0 @@
-{"tmdb_id": 352935, "title": "Bart the General 3", "original_title": "Bart the General 3", "slug_title": "bart-the-general-3", "date": "2006-08-05", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rLXjWKNxHucLt6QUxhuOCXGPnBu.jpg", "actors": [], "comments": [], "recommandations_id": []}

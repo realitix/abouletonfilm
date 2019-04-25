@@ -1,1 +1,0 @@
-{"tmdb_id": 250139, "title": "Augusta Feeds Her Child", "original_title": "Auguszta etet", "slug_title": "augusta-feeds-her-child", "date": "1986-02-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

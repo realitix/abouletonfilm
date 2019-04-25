@@ -1,1 +1,0 @@
-{"tmdb_id": 117544, "title": "Contracto", "original_title": "Contracto", "slug_title": "contracto", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xQ6PskovhSmn52spEGCiM1MoExK.jpg", "actors": [], "comments": [], "recommandations_id": []}

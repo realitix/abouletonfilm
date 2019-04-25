@@ -1,1 +1,0 @@
-{"tmdb_id": 579903, "title": "This is Nowhere", "original_title": "This is Nowhere", "slug_title": "this-is-nowhere", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 595893, "title": "Letter To Theo", "original_title": "Letter To Theo", "slug_title": "letter-to-theo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9wKWnGimFbuL68G1FjkKXrerTsm.jpg", "actors": [], "comments": [], "recommandations_id": []}

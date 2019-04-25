@@ -1,1 +1,0 @@
-{"tmdb_id": 328506, "title": "Soft Machine Legacy - Paris Concert", "original_title": "Soft Machine Legacy - Paris Concert", "slug_title": "soft-machine-legacy-paris-concert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

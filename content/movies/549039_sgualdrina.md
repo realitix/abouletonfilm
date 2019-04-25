@@ -1,1 +1,0 @@
-{"tmdb_id": 549039, "title": "Sgualdrina", "original_title": "Sgualdrina", "slug_title": "sgualdrina", "date": "2018-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4sjgIGQOKHzXAyXHNiCQg3dxjDx.jpg", "actors": ["Pamela Anderson (Margot)"], "comments": [], "recommandations_id": []}

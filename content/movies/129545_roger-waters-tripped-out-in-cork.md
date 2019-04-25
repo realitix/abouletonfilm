@@ -1,1 +1,0 @@
-{"tmdb_id": 129545, "title": "Roger Waters - Tripped Out in Cork", "original_title": "Roger Waters - Tripped Out in Cork", "slug_title": "roger-waters-tripped-out-in-cork", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cwbd3WMC57jUYmqUIAJRixyKaDA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 48288, "title": "Small Town Gay Bar", "original_title": "Small Town Gay Bar", "slug_title": "small-town-gay-bar", "date": "2007-03-31", "genre": "Documentaire", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1d1syIT6pll9QR0zzTW9U3hI3R0.jpg", "actors": [], "comments": [], "recommandations_id": [67952, 41862, 38548, 96495]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 542264, "title": "Vandana", "original_title": "Vandana", "slug_title": "vandana", "date": "2018-08-10", "genre": "Drame / Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lhHYlDbMyI9sr9foSla7WCtv23b.jpg", "actors": ["N. Arun Kumar ()", "Shobitha Shivanna ()"], "comments": [], "recommandations_id": []}

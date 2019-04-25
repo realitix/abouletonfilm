@@ -1,1 +1,0 @@
-{"tmdb_id": 548708, "title": "Cyclops", "original_title": "Cyclops", "slug_title": "cyclops", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

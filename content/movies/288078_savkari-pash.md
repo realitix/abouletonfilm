@@ -1,1 +1,0 @@
-{"tmdb_id": 288078, "title": "Savkari Pash", "original_title": "Savkari Pash", "slug_title": "savkari-pash", "date": "1925-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rajaram Vankudre Shantaram ()", "Zunzharrao Pawar ()", "Kamaladevi ()"], "comments": [], "recommandations_id": []}

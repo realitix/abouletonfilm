@@ -1,1 +1,0 @@
-{"tmdb_id": 563949, "title": "Caribbean Sunrise", "original_title": "Caribbean Sunrise", "slug_title": "caribbean-sunrise", "date": "2002-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1e2CZ849hYrEtDwoHJ2jIl2krK7.jpg", "actors": [], "comments": [], "recommandations_id": []}

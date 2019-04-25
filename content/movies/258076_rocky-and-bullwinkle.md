@@ -1,1 +1,0 @@
-{"tmdb_id": 258076, "title": "Rocky and Bullwinkle", "original_title": "Rocky and Bullwinkle", "slug_title": "rocky-and-bullwinkle", "date": "2014-10-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3jDYk9654XndLc9AGNq8KwN2X7z.jpg", "actors": [], "comments": [], "recommandations_id": []}

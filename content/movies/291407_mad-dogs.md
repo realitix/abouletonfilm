@@ -1,1 +1,0 @@
-{"tmdb_id": 291407, "title": "Mad Dogs", "original_title": "Mad Dogs", "slug_title": "mad-dogs", "date": "2002-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

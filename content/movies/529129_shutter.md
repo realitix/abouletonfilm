@@ -1,1 +1,0 @@
-{"tmdb_id": 529129, "title": "Shutter", "original_title": "Shutter", "slug_title": "shutter", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

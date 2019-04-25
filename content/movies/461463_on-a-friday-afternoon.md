@@ -1,1 +1,0 @@
-{"tmdb_id": 461463, "title": "On A Friday Afternoon", "original_title": "Asr-e Jomeh", "slug_title": "on-a-friday-afternoon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

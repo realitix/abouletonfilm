@@ -1,1 +1,0 @@
-{"tmdb_id": 581323, "title": "Museum of Symmetry", "original_title": "Museum of Symmetry", "slug_title": "museum-of-symmetry", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

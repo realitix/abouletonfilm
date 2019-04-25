@@ -1,1 +1,0 @@
-{"tmdb_id": 305794, "title": "Blue Tide", "original_title": "Blue Tide", "slug_title": "blue-tide", "date": "2014-05-11", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nMU5MCutOiUiB38jrZb4MPPvkGo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 317375, "title": "Keeping Up with Krazy", "original_title": "Keeping Up with Krazy", "slug_title": "keeping-up-with-krazy", "date": "1962-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aRmX1EUclLVwlJdZ0HgqHVsvRQb.jpg", "actors": [], "comments": [], "recommandations_id": []}

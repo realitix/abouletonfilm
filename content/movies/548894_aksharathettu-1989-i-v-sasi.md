@@ -1,1 +1,0 @@
-{"tmdb_id": 548894, "title": "Aksharathettu (1989) I V Sasi", "original_title": "Aksharathettu (1989) I V Sasi", "slug_title": "aksharathettu-1989-i-v-sasi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

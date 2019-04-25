@@ -1,1 +1,0 @@
-{"tmdb_id": 558927, "title": "Panty Girls", "original_title": "Panty Girls", "slug_title": "panty-girls", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rene Bond ()", "Franklin Anthony ()", "Ric Lutze ()"], "comments": [], "recommandations_id": []}

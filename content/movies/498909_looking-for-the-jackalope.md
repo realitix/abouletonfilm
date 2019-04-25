@@ -1,1 +1,0 @@
-{"tmdb_id": 498909, "title": "Looking for the Jackalope", "original_title": "Looking for the Jackalope", "slug_title": "looking-for-the-jackalope", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jcgP6R6NQSzOnbCY3nesQCGC5Hn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 453450, "title": "Know Thyself", "original_title": "Know Thyself", "slug_title": "know-thyself", "date": "2014-05-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christian Coulson (Young Man)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 489863, "title": "The Dirty Sniff", "original_title": "The Dirty Sniff", "slug_title": "the-dirty-sniff", "date": "2016-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

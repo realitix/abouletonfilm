@@ -1,1 +1,0 @@
-{"tmdb_id": 425311, "title": "...porque es vivir un testimonio raro", "original_title": "...porque es vivir un testimonio raro", "slug_title": "porque-es-vivir-un-testimonio-raro", "date": "2002-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

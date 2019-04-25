@@ -1,1 +1,0 @@
-{"tmdb_id": 40865, "title": "Bold King Cole", "original_title": "Bold King Cole", "slug_title": "bold-king-cole", "date": "1936-01-01", "genre": "Animation", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kp3WHYIFHFYJNjGkdeO9mBd9Hdz.jpg", "actors": [], "comments": [], "recommandations_id": []}

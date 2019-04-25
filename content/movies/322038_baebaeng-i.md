@@ -1,1 +1,0 @@
-{"tmdb_id": 322038, "title": "Baebaeng-i", "original_title": "\ubc30\ubc45\uc774", "slug_title": "baebaeng-i", "date": "1973-07-04", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sin Yeong-il ()", "Yeo Su-Jin ()", "Park Ju-a ()", "Jeon Shook ()"], "comments": [], "recommandations_id": []}

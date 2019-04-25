@@ -1,1 +1,0 @@
-{"tmdb_id": 172809, "title": "The Laboratory Rat: A Natural History", "original_title": "The Laboratory Rat: A Natural History", "slug_title": "the-laboratory-rat-a-natural-history", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

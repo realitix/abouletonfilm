@@ -1,1 +1,0 @@
-{"tmdb_id": 449753, "title": "Solitary Confinement", "original_title": "Solitary Confinement", "slug_title": "solitary-confinement", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Carradine ()", "Jessica Cameron ()", "Robert Catrini ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 581946, "title": "Tia Creuza", "original_title": "Tia Creuza", "slug_title": "tia-creuza", "date": "2011-02-13", "genre": "Com\u00e9die / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wnYjaQYiOMBuBYRSKVw2gagRyS7.jpg", "actors": ["Marcelo Adnet (Tia Creuza)"], "comments": [], "recommandations_id": []}

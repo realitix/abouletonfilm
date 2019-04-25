@@ -1,1 +1,0 @@
-{"tmdb_id": 394559, "title": "A Time To Rise", "original_title": "A Time To Rise", "slug_title": "a-time-to-rise", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sXwhysuvKb8iGoyXiZxYfQteUEE.jpg", "actors": [], "comments": [], "recommandations_id": []}

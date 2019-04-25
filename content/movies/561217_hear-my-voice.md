@@ -1,1 +1,0 @@
-{"tmdb_id": 561217, "title": "Hear My Voice", "original_title": "Hear My Voice", "slug_title": "hear-my-voice", "date": "2018-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rXTXWaei03jlIw7DG0CMvoxCIh9.jpg", "actors": [], "comments": [], "recommandations_id": []}

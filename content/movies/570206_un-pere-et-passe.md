@@ -1,1 +1,0 @@
-{"tmdb_id": 570206, "title": "Un p\u00e8re et passe", "original_title": "Un p\u00e8re et passe", "slug_title": "un-pere-et-passe", "date": "1989-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/17ZwZ92HwmM44x8MOBDn7EmEZqT.jpg", "actors": [], "comments": [], "recommandations_id": []}

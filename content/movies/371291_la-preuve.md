@@ -1,1 +1,1 @@
-{"tmdb_id": 371291, "title": "La preuve", "original_title": "La preuve", "slug_title": "la-preuve", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 371291, "title": "La preuve", "original_title": "La preuve", "slug_title": "la-preuve", "date": "2013-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Drama featuring a taxi driver.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

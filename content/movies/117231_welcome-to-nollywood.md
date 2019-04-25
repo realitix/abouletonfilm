@@ -1,1 +1,0 @@
-{"tmdb_id": 117231, "title": "Welcome to Nollywood", "original_title": "Welcome to Nollywood", "slug_title": "welcome-to-nollywood", "date": "2007-04-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z95BzwEgzx0R2ls4aJxeMmiNkLJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

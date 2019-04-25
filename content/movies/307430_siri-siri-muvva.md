@@ -1,1 +1,0 @@
-{"tmdb_id": 307430, "title": "Siri Siri Muvva", "original_title": "Siri Siri Muvva", "slug_title": "siri-siri-muvva", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

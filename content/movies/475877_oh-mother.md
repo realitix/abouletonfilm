@@ -1,1 +1,0 @@
-{"tmdb_id": 475877, "title": "Oh Mother!", "original_title": "O MATKO!", "slug_title": "oh-mother", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/23P0NVbNCQkCsrkOvsGRiWleP1v.jpg", "actors": [], "comments": [], "recommandations_id": []}

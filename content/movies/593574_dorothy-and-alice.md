@@ -1,1 +1,0 @@
-{"tmdb_id": 593574, "title": "Dorothy and Alice", "original_title": "Dorothy and Alice", "slug_title": "dorothy-and-alice", "date": "", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cc8x46UHZfpCpXKDYPLLpcflPMU.jpg", "actors": [], "comments": [], "recommandations_id": []}

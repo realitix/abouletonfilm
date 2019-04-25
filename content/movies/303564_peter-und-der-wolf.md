@@ -1,1 +1,0 @@
-{"tmdb_id": 303564, "title": "Peter und der Wolf", "original_title": "Peter und der Wolf", "slug_title": "peter-und-der-wolf", "date": "2007-04-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ez5BJZRzpAMQQ5FMPHMuWkYKh37.jpg", "actors": [], "comments": [], "recommandations_id": []}

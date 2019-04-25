@@ -1,1 +1,0 @@
-{"tmdb_id": 358233, "title": "Lobsters", "original_title": "Lobsters", "slug_title": "lobsters", "date": "1935-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zGOI8f2b8YiS9hoC7HMeZRpjz9E.jpg", "actors": ["Alan Howland (Commentator (voice))"], "comments": [], "recommandations_id": []}

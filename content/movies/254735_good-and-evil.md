@@ -1,1 +1,0 @@
-{"tmdb_id": 254735, "title": "Good and Evil", "original_title": "Det gode og det onde", "slug_title": "good-and-evil", "date": "1975-05-26", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5KtVsdC4G33pbJdXkg1eQdhWZmp.jpg", "actors": [], "comments": [], "recommandations_id": []}

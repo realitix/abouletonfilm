@@ -1,1 +1,0 @@
-{"tmdb_id": 551671, "title": "Soldier, Go Away!", "original_title": "Ratni\u010de, voljno!", "slug_title": "soldier-go-away", "date": "1966-12-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

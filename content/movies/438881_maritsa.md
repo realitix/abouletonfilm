@@ -1,1 +1,0 @@
-{"tmdb_id": 438881, "title": "\u041c\u0430\u0440\u0438\u0446\u0430", "original_title": "\u041c\u0430\u0440\u0438\u0446\u0430", "slug_title": "maritsa", "date": "1972-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b2SFvfKQ4QNBL9TbpvsCsfMEsRh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 298970, "title": "Lord Thing", "original_title": "Lord Thing", "slug_title": "lord-thing", "date": "1970-01-01", "genre": "Crime / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fLWgOc9ugKbLQIFtqLrNW9lemXm.jpg", "actors": [], "comments": [], "recommandations_id": []}

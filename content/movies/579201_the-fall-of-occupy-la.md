@@ -1,1 +1,0 @@
-{"tmdb_id": 579201, "title": "The Fall of Occupy LA", "original_title": "The Fall of Occupy LA", "slug_title": "the-fall-of-occupy-la", "date": "2015-07-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

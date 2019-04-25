@@ -1,1 +1,0 @@
-{"tmdb_id": 531690, "title": "Shelter", "original_title": "Shelter", "slug_title": "shelter", "date": "2011-10-08", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4uA8huHZzBzgrIAfaYKgHQdEmPP.jpg", "actors": ["Hananda Hutami (Nanda)", "Krisna Eka Putranto (Krisna)"], "comments": [], "recommandations_id": []}

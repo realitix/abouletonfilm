@@ -1,1 +1,0 @@
-{"tmdb_id": 461873, "title": "Panels for the Walls of the World", "original_title": "Panels for the Walls of the World", "slug_title": "panels-for-the-walls-of-the-world", "date": "1967-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

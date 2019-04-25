@@ -1,1 +1,0 @@
-{"tmdb_id": 30925, "title": "Died Young, Stayed Pretty", "original_title": "Died Young, Stayed Pretty", "slug_title": "died-young-stayed-pretty", "date": "2008-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/81RXhqGqizmewdOvOmhNwVH03qf.jpg", "actors": [], "comments": [], "recommandations_id": []}

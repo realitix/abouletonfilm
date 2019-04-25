@@ -1,1 +1,0 @@
-{"tmdb_id": 384911, "title": "Tefta Tashko Koco Sings", "original_title": "K\u00ebndon Tefta Tashko Ko\u00e7o", "slug_title": "tefta-tashko-koco-sings", "date": "1973-02-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r7I7CCWt9wnFoijZ3Yvoh53pVRj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 335291, "title": "Arbeit Macht Frei", "original_title": "Arbeit Macht Frei", "slug_title": "arbeit-macht-frei", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4UyWZdvAMnccqtBhsMODmOrqIZ7.jpg", "actors": [], "comments": [], "recommandations_id": []}

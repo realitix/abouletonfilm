@@ -1,1 +1,0 @@
-{"tmdb_id": 545227, "title": "Coyote Vs. Acme", "original_title": "Coyote Vs. Acme", "slug_title": "coyote-vs-acme", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

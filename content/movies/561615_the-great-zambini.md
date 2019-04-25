@@ -1,1 +1,0 @@
-{"tmdb_id": 561615, "title": "The Great Zambini", "original_title": "El Gran Zambini", "slug_title": "the-great-zambini", "date": "2005-09-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4RjmrhxT7c8aNoUBjKZmpInqvIR.jpg", "actors": [], "comments": [], "recommandations_id": []}

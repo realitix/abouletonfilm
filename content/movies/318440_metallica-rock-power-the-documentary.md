@@ -1,1 +1,0 @@
-{"tmdb_id": 318440, "title": "Metallica: Rock Power: The Documentary", "original_title": "Metallica: Rock Power: The Documentary", "slug_title": "metallica-rock-power-the-documentary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 477644, "title": "Stars Man Has Made", "original_title": "Stars Man Has Made", "slug_title": "stars-man-has-made", "date": "1956-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iiAsxz1P9SSubtgdL0IBE7Q2amr.jpg", "actors": [], "comments": [], "recommandations_id": []}

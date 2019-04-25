@@ -1,1 +1,0 @@
-{"tmdb_id": 484881, "title": "The Girl And The Murder", "original_title": "The Girl And The Murder", "slug_title": "the-girl-and-the-murder", "date": "2016-02-17", "genre": "Thriller / Action / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ben Irvine (Ben)", "Bailey Mullen (Bailey)"], "comments": [], "recommandations_id": []}

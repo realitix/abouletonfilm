@@ -1,1 +1,0 @@
-{"tmdb_id": 530117, "title": "Judgement Jam", "original_title": "Judgement Jam", "slug_title": "judgement-jam", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pJUDJVm5ikgD7EQwoN6LGUSfKEm.jpg", "actors": [], "comments": [], "recommandations_id": []}

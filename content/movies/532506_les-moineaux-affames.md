@@ -1,1 +1,0 @@
-{"tmdb_id": 532506, "title": "Les moineaux aff\u00e2m\u00e9s", "original_title": "Les moineaux aff\u00e2m\u00e9s", "slug_title": "les-moineaux-affames", "date": "1913-07-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edmond Duquesne (Morin)", "Germaine de France (Suzanne)"], "comments": [], "recommandations_id": []}

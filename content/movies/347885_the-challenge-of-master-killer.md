@@ -1,1 +1,0 @@
-{"tmdb_id": 347885, "title": "The Challenge of Master Killer", "original_title": "Meng hu fa huo", "slug_title": "the-challenge-of-master-killer", "date": "1989-06-14", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gordon Liu Chia-Hui (Detective)"], "comments": [], "recommandations_id": []}

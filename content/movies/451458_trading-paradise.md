@@ -1,1 +1,0 @@
-{"tmdb_id": 451458, "title": "Trading Paradise", "original_title": "Trading Paradise", "slug_title": "trading-paradise", "date": "2016-08-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pRkJBdLaCnL7mS6dKR3r6ofKwZF.jpg", "actors": [], "comments": [], "recommandations_id": []}

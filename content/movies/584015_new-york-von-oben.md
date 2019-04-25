@@ -1,1 +1,0 @@
-{"tmdb_id": 584015, "title": "New York von Oben", "original_title": "New York von Oben", "slug_title": "new-york-von-oben", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1VBoMBX0FtbeolEX0yMYNTjuO2q.jpg", "actors": [], "comments": [], "recommandations_id": []}

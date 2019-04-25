@@ -1,1 +1,0 @@
-{"tmdb_id": 281451, "title": "School of Hard Knocks", "original_title": "School of Hard Knocks", "slug_title": "school-of-hard-knocks", "date": "2013-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

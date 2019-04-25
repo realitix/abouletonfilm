@@ -1,1 +1,0 @@
-{"tmdb_id": 393709, "title": "Die Enth\u00fcllung des Phantoms", "original_title": "Die Enth\u00fcllung des Phantoms", "slug_title": "die-enthullung-des-phantoms", "date": "1979-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

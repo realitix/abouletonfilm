@@ -1,1 +1,0 @@
-{"tmdb_id": 498425, "title": "StarCraft II - Year One", "original_title": "StarCraft II - Year One", "slug_title": "starcraft-ii-year-one", "date": "2011-08-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/18mLfXh50WmOHnYE3SPOCJYP99w.jpg", "actors": [], "comments": [], "recommandations_id": []}

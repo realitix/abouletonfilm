@@ -1,1 +1,0 @@
-{"tmdb_id": 589689, "title": "Ape Girl", "original_title": "Monga", "slug_title": "ape-girl", "date": "2018-09-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zCQHQFZiLiqSKJtDE2tcoczTKgx.jpg", "actors": [], "comments": [], "recommandations_id": []}

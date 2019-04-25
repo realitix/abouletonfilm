@@ -1,1 +1,0 @@
-{"tmdb_id": 544254, "title": "The Fire Dancers", "original_title": "The Fire Dancers", "slug_title": "the-fire-dancers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

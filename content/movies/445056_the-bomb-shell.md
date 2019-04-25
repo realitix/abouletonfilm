@@ -1,1 +1,0 @@
-{"tmdb_id": 445056, "title": "The Bomb Shell", "original_title": "Bing bing zei zei", "slug_title": "the-bomb-shell", "date": "1981-10-15", "genre": "Drame / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cWbcVuNLZ1CCb4Q7X3DmOxpIVPO.jpg", "actors": [], "comments": [], "recommandations_id": []}

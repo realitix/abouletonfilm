@@ -1,1 +1,0 @@
-{"tmdb_id": 308687, "title": "Nan Goldin - Contacts", "original_title": "Nan Goldin - Contacts", "slug_title": "nan-goldin-contacts", "date": "1999-02-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

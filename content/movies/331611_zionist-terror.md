@@ -1,1 +1,0 @@
-{"tmdb_id": 331611, "title": "Zionist Terror", "original_title": "al-Irhab al-Suhyuni", "slug_title": "zionist-terror", "date": "1973-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

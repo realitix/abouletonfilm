@@ -1,1 +1,0 @@
-{"tmdb_id": 564682, "title": "Synchronicity", "original_title": "Synchronicity", "slug_title": "synchronicity", "date": "2018-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

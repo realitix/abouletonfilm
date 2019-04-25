@@ -1,1 +1,0 @@
-{"tmdb_id": 568276, "title": "Velvet and the Walk", "original_title": "Velvet and the Walk", "slug_title": "velvet-and-the-walk", "date": "2008-12-17", "genre": "Animation / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 567211, "title": "We Do It Because", "original_title": "We Do It Because", "slug_title": "we-do-it-because", "date": "1942-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Nesbitt (Narrator (voice))"], "comments": [], "recommandations_id": []}

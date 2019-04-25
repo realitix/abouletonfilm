@@ -1,1 +1,0 @@
-{"tmdb_id": 165523, "title": "Norman Rockwell & The Saturday Evening Post", "original_title": "Norman Rockwell & The Saturday Evening Post", "slug_title": "norman-rockwell-the-saturday-evening-post", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

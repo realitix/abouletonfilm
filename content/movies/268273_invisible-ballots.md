@@ -1,1 +1,0 @@
-{"tmdb_id": 268273, "title": "Invisible Ballots", "original_title": "Invisible Ballots", "slug_title": "invisible-ballots", "date": "2004-04-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5F8zh7cci90osJmRVWBNDulyuwA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 559642, "title": "Menace de mort", "original_title": "Menace de mort", "slug_title": "menace-de-mort", "date": "1950-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ioY1MCKzpQeGBfm1RlDj4euvFQv.jpg", "actors": [], "comments": [], "recommandations_id": []}

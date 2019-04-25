@@ -1,1 +1,0 @@
-{"tmdb_id": 163715, "title": "Chiralia", "original_title": "Chiralia", "slug_title": "chiralia", "date": "2013-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uKWN2JpCRRYXM3UOzAlv00BLGPD.jpg", "actors": [], "comments": [], "recommandations_id": []}

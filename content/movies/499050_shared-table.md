@@ -1,1 +1,0 @@
-{"tmdb_id": 499050, "title": "Shared Table", "original_title": "Shared Table", "slug_title": "shared-table", "date": "2016-03-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

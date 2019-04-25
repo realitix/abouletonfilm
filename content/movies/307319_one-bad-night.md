@@ -1,1 +1,0 @@
-{"tmdb_id": 307319, "title": "One Bad Night", "original_title": "One Bad Night", "slug_title": "one-bad-night", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jadon Clews (Kyle)", "Mathew Edmondson (Ben)", "Dan Haug (Jason)", "Colin Edwards (Lee)"], "comments": [], "recommandations_id": []}

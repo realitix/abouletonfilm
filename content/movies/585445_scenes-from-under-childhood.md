@@ -1,1 +1,0 @@
-{"tmdb_id": 585445, "title": "Scenes from Under Childhood", "original_title": "Scenes from Under Childhood", "slug_title": "scenes-from-under-childhood", "date": "1970-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rY1TMZDIN4Lhrg0Qq40B5dAPyP3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 306225, "title": "Scott Ian: Swearing Words in Glasgow", "original_title": "Scott Ian: Swearing Words in Glasgow", "slug_title": "scott-ian-swearing-words-in-glasgow", "date": "2014-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

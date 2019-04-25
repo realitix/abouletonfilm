@@ -1,1 +1,0 @@
-{"tmdb_id": 309479, "title": "Elgar: Cello Concerto: Naxos Musical Journey", "original_title": "Elgar: Cello Concerto: Naxos Musical Journey", "slug_title": "elgar-cello-concerto-naxos-musical-journey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

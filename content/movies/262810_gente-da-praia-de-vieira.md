@@ -1,1 +1,0 @@
-{"tmdb_id": 262810, "title": "Gente da Praia de Vieira", "original_title": "Gente da Praia de Vieira", "slug_title": "gente-da-praia-de-vieira", "date": "1976-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lavDTKeN1vFSUsj0WlVnsbw6Y7i.jpg", "actors": [], "comments": [], "recommandations_id": []}

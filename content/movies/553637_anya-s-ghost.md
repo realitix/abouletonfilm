@@ -1,1 +1,0 @@
-{"tmdb_id": 553637, "title": "Anya's Ghost", "original_title": "Anya's Ghost", "slug_title": "anya-s-ghost", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emma Roberts (Emily)"], "comments": [], "recommandations_id": []}

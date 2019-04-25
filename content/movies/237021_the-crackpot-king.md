@@ -1,1 +1,0 @@
-{"tmdb_id": 237021, "title": "The Crackpot King", "original_title": "The Crackpot King", "slug_title": "the-crackpot-king", "date": "1946-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/puXwG0q3CwKUnPajSDCq7CLubVJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

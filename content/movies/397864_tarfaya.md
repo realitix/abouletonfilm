@@ -1,1 +1,0 @@
-{"tmdb_id": 397864, "title": "Tarfaya", "original_title": "Tarfaya", "slug_title": "tarfaya", "date": "2004-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Touria Alaoui ()"], "comments": [], "recommandations_id": []}

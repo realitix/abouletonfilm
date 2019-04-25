@@ -1,1 +1,0 @@
-{"tmdb_id": 292300, "title": "My Fair Lidy", "original_title": "My Fair Lidy", "slug_title": "my-fair-lidy", "date": "2015-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t4XobHT9aKbDE28eDOiJU6ZbhK8.jpg", "actors": [], "comments": [], "recommandations_id": []}

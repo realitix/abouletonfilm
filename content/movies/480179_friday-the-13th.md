@@ -1,1 +1,0 @@
-{"tmdb_id": 480179, "title": "Friday the 13th", "original_title": "Friday the 13th", "slug_title": "friday-the-13th", "date": "1953-05-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Morrison (Little Roquefort (voice))"], "comments": [], "recommandations_id": []}

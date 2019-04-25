@@ -1,1 +1,0 @@
-{"tmdb_id": 349683, "title": "CAPTUM (lat. Captivity)", "original_title": "CAPTUM (lat. Captivity)", "slug_title": "captum-lat-captivity", "date": "2015-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gxBHpl3NKxMfeZqobjzI67QTVjS.jpg", "actors": [], "comments": [], "recommandations_id": []}

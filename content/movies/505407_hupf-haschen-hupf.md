@@ -1,1 +1,0 @@
-{"tmdb_id": 505407, "title": "H\u00fcpf, H\u00e4schen, h\u00fcpf", "original_title": "H\u00fcpf, H\u00e4schen, h\u00fcpf", "slug_title": "hupf-haschen-hupf", "date": "1991-10-02", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Corinna Harfouch ()", "Thomas Neumann ()"], "comments": [], "recommandations_id": []}

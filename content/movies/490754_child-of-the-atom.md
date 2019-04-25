@@ -1,1 +1,0 @@
-{"tmdb_id": 490754, "title": "Child of the Atom", "original_title": "Child of the Atom", "slug_title": "child-of-the-atom", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 397904, "title": "RetroAhoy: Doom", "original_title": "RetroAhoy: Doom", "slug_title": "retroahoy-doom", "date": "2016-01-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/txza6zmTZw1hqls0tckZlInzywB.jpg", "actors": ["Stuart Brown (Narrator)"], "comments": [], "recommandations_id": []}

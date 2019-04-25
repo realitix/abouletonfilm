@@ -1,1 +1,0 @@
-{"tmdb_id": 397062, "title": "Peanuts and Bullets", "original_title": "Peanuts and Bullets", "slug_title": "peanuts-and-bullets", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

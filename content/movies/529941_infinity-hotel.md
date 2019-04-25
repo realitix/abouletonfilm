@@ -1,1 +1,0 @@
-{"tmdb_id": 529941, "title": "Infinity Hotel", "original_title": "Infinity Hotel", "slug_title": "infinity-hotel", "date": "2017-01-01", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eUeio2lKmuxwwUXF805CnFUF4XZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

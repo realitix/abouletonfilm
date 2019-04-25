@@ -1,1 +1,0 @@
-{"tmdb_id": 93482, "title": "Jesus Walking on Screen", "original_title": "Jesus Walking on Screen", "slug_title": "jesus-walking-on-screen", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A32Pcx1udfM0O6MEqR1UyKeUWET.jpg", "actors": [], "comments": [], "recommandations_id": []}

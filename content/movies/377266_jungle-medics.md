@@ -1,1 +1,0 @@
-{"tmdb_id": 377266, "title": "Jungle Medics", "original_title": "Jungle Medics", "slug_title": "jungle-medics", "date": "1960-01-01", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iapset09JDb24HRqkQYOcWTBVJN.jpg", "actors": ["Dal McKennon (Voices)"], "comments": [], "recommandations_id": []}

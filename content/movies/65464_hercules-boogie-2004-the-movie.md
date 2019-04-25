@@ -1,1 +1,0 @@
-{"tmdb_id": 65464, "title": "Hercules Boogie 2004 The Movie", "original_title": "Hercules Boogie 2004 The Movie", "slug_title": "hercules-boogie-2004-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5bElUqFcdkZdHnE8VvDbFJ3yB9w.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 552984, "title": "An Eye for an Eye", "original_title": "An Eye for an Eye", "slug_title": "an-eye-for-an-eye", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Janet Leigh ()", "Tony Curtis ()"], "comments": [], "recommandations_id": []}

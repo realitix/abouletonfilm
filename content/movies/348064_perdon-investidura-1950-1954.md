@@ -1,1 +1,0 @@
-{"tmdb_id": 348064, "title": "Perd\u00f3n... investidura (1950-1954)", "original_title": "Perd\u00f3n... investidura (1950-1954)", "slug_title": "perdon-investidura-1950-1954", "date": "1992-07-08", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Juan Stack (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 195094, "title": "S.S. 'Coptic' in the Harbor", "original_title": "S.S. 'Coptic' in the Harbor", "slug_title": "s-s-coptic-in-the-harbor", "date": "1897-10-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

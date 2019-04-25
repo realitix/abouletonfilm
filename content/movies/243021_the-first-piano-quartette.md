@@ -1,1 +1,0 @@
-{"tmdb_id": 243021, "title": "The First Piano Quartette", "original_title": "The First Piano Quartette", "slug_title": "the-first-piano-quartette", "date": "1954-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

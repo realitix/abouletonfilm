@@ -1,1 +1,0 @@
-{"tmdb_id": 468338, "title": "Les lendemains qui chantent", "original_title": "Les lendemains qui chantent", "slug_title": "les-lendemains-qui-chantent", "date": "1985-02-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5peRuyEovKgvF1klBsr1JpUjOzM.jpg", "actors": [], "comments": [], "recommandations_id": []}

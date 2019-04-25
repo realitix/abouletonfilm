@@ -1,1 +1,0 @@
-{"tmdb_id": 551829, "title": "As Worlds Divide", "original_title": "As Worlds Divide", "slug_title": "as-worlds-divide", "date": "2018-10-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6XHE6anKrfWSvmrSiWlG04beKnp.jpg", "actors": [], "comments": [], "recommandations_id": []}

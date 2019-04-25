@@ -1,1 +1,0 @@
-{"tmdb_id": 368627, "title": "Z-man's Kinder", "original_title": "Z-man's Kinder", "slug_title": "z-man-s-kinder", "date": "1994-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nadja Engel ()", "Suzanne von Borsody ()", "Dominik Bender ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 322601, "title": "Pippi L\u00e5ngstrump", "original_title": "Pippi L\u00e5ngstrump", "slug_title": "pippi-langstrump", "date": "2005-11-09", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qzgyUvFtjOqPAgb4u6q83DfaiGd.jpg", "actors": [], "comments": [], "recommandations_id": []}

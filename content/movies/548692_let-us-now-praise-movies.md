@@ -1,1 +1,0 @@
-{"tmdb_id": 548692, "title": "Let Us Now Praise Movies", "original_title": "Y ahora elogiemos las pel\u00edculas", "slug_title": "let-us-now-praise-movies", "date": "2017-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u4iCMIWbgO1R7EBGWEgbcQTxgI4.jpg", "actors": [], "comments": [], "recommandations_id": []}

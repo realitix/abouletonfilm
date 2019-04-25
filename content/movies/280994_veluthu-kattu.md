@@ -1,1 +1,0 @@
-{"tmdb_id": 280994, "title": "Veluthu Kattu", "original_title": "Veluthu Kattu", "slug_title": "veluthu-kattu", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uyyyOSASg4nA16d3S7oDJ0W3J3v.jpg", "actors": [], "comments": [], "recommandations_id": []}

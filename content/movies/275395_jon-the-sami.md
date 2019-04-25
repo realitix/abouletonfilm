@@ -1,1 +1,0 @@
-{"tmdb_id": 275395, "title": "Jon the Sami", "original_title": "Jon the Sami", "slug_title": "jon-the-sami", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/puuEzJ6ZR54aSGNZSQNGpJLmXVV.jpg", "actors": [], "comments": [], "recommandations_id": []}

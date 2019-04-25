@@ -1,1 +1,0 @@
-{"tmdb_id": 292616, "title": "Snooky's Twin Troubles", "original_title": "Snooky's Twin Troubles", "slug_title": "snooky-s-twin-troubles", "date": "1921-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Snooky ()"], "comments": [], "recommandations_id": []}

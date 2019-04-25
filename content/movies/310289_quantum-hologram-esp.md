@@ -1,1 +1,0 @@
-{"tmdb_id": 310289, "title": "Quantum Hologram & ESP", "original_title": "Quantum Hologram & ESP", "slug_title": "quantum-hologram-esp", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

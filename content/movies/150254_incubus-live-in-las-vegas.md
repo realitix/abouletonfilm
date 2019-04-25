@@ -1,1 +1,0 @@
-{"tmdb_id": 150254, "title": "Incubus: Live in Las Vegas", "original_title": "Incubus: Live in Las Vegas", "slug_title": "incubus-live-in-las-vegas", "date": "2010-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qdVNxWwKruDhazxcFY8msJMMcq0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556335, "title": "Anatomy of the Tide", "original_title": "Anatomy of the Tide", "slug_title": "anatomy-of-the-tide", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y7k5n8edGELcyNX0jRIugtWbPmS.jpg", "actors": [], "comments": [], "recommandations_id": []}

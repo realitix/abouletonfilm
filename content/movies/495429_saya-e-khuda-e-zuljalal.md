@@ -1,1 +1,0 @@
-{"tmdb_id": 495429, "title": "Saya e Khuda e Zuljalal", "original_title": "Saya e Khuda e Zuljalal", "slug_title": "saya-e-khuda-e-zuljalal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2CZG0wKKbddz6k0SS94k3dhCmhv.jpg", "actors": [], "comments": [], "recommandations_id": []}

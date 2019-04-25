@@ -1,1 +1,0 @@
-{"tmdb_id": 542720, "title": "BLASTING CAPS", "original_title": "BLASTING CAPS", "slug_title": "blasting-caps", "date": "2006-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ab9rE2gUk6wMrdkWAg2jDn9C7t9.jpg", "actors": [], "comments": [], "recommandations_id": []}

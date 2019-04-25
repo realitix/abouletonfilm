@@ -1,1 +1,0 @@
-{"tmdb_id": 193413, "title": "Zizi's Family", "original_title": "Aelit Zizi", "slug_title": "zizi-s-family", "date": "1963-01-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/152Ycyur0tgA4qnVatJv7tX3chT.jpg", "actors": [], "comments": [], "recommandations_id": []}

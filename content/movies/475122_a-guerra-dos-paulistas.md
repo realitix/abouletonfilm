@@ -1,1 +1,0 @@
-{"tmdb_id": 475122, "title": "A Guerra dos Paulistas", "original_title": "A Guerra dos Paulistas", "slug_title": "a-guerra-dos-paulistas", "date": "2002-07-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9XRvmHAT7kQDSYLsmJW5gntfKux.jpg", "actors": [], "comments": [], "recommandations_id": []}

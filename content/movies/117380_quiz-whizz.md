@@ -1,1 +1,0 @@
-{"tmdb_id": 117380, "title": "Quiz Whizz", "original_title": "Quiz Whizz", "slug_title": "quiz-whizz", "date": "1958-02-13", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Fine (Larry)", "Joe Besser (Himself)", "Moe Howard (Moe)"], "comments": [], "recommandations_id": []}

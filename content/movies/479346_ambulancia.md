@@ -1,1 +1,0 @@
-{"tmdb_id": 479346, "title": "Ambulancia", "original_title": "Ambulancia", "slug_title": "ambulancia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

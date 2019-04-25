@@ -1,1 +1,0 @@
-{"tmdb_id": 520032, "title": "Korath: Dawn of Darkness", "original_title": "Korath: Dawn of Darkness", "slug_title": "korath-dawn-of-darkness", "date": "2015-05-17", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Abj1wvSUF8sjcqyLjx1dxEIGbMv.jpg", "actors": [], "comments": [], "recommandations_id": []}

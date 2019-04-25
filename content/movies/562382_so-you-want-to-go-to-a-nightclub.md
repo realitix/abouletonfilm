@@ -1,1 +1,0 @@
-{"tmdb_id": 562382, "title": "So You Want to Go to a Nightclub", "original_title": "So You Want to Go to a Nightclub", "slug_title": "so-you-want-to-go-to-a-nightclub", "date": "1954-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon ()"], "comments": [], "recommandations_id": []}

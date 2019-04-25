@@ -1,1 +1,0 @@
-{"tmdb_id": 421014, "title": "Cougar Time", "original_title": "Cougar Time", "slug_title": "cougar-time", "date": "2010-08-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A7JGGrNxLOABJjTrDdeU10LKXDF.jpg", "actors": [], "comments": [], "recommandations_id": []}

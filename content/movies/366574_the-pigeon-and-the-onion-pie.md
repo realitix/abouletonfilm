@@ -1,1 +1,0 @@
-{"tmdb_id": 366574, "title": "The Pigeon and the Onion Pie", "original_title": "The Pigeon and the Onion Pie", "slug_title": "the-pigeon-and-the-onion-pie", "date": "2002-11-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

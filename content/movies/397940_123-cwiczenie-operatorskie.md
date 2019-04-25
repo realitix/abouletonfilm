@@ -1,1 +1,0 @@
-{"tmdb_id": 397940, "title": "1,2,3 \u0106wiczenie Operatorskie", "original_title": "1,2,3 \u0106wiczenie Operatorskie", "slug_title": "123-cwiczenie-operatorskie", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

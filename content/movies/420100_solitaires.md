@@ -1,1 +1,0 @@
-{"tmdb_id": 420100, "title": "Solitaires", "original_title": "Solitaires", "slug_title": "solitaires", "date": "1913-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Norma Talmadge (Julia)", "Leo Delaney (Frank)", "Florence Ashbrooke (Mrs. Gossip)", "Charles Delaney ()"], "comments": [], "recommandations_id": []}

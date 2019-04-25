@@ -1,1 +1,0 @@
-{"tmdb_id": 328723, "title": "Let There Be Zombies", "original_title": "Let There Be Zombies", "slug_title": "let-there-be-zombies", "date": "2014-05-25", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/34CfUZ7lYbV07eVsy3SY3S1WpXD.jpg", "actors": [], "comments": [], "recommandations_id": []}

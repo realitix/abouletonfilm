@@ -1,1 +1,0 @@
-{"tmdb_id": 356980, "title": "The Face of Britain", "original_title": "The Face of Britain", "slug_title": "the-face-of-britain", "date": "1935-01-02", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gEUBTtARzVeIdy2cUe6oRgWb06s.jpg", "actors": [], "comments": [], "recommandations_id": []}

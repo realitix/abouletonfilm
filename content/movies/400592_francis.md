@@ -1,1 +1,0 @@
-{"tmdb_id": 400592, "title": "Francis", "original_title": "Francis", "slug_title": "francis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sule Rimi ()", "Jean-Claude Boeke ()", "Pontus Str\u00f6baek ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 51704, "title": "Obuti ma\u010dek", "original_title": "Obuti ma\u010dek", "slug_title": "obuti-macek", "date": "2003-01-01", "genre": "Animation", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y2navQTOUZIRnfYUrnD1NNkksYu.jpg", "actors": [], "comments": [], "recommandations_id": []}

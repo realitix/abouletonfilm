@@ -1,1 +1,0 @@
-{"tmdb_id": 509193, "title": "Reportaje", "original_title": "Reportaje", "slug_title": "reportaje", "date": "1966-07-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

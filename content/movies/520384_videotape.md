@@ -1,1 +1,0 @@
-{"tmdb_id": 520384, "title": "Videotape", "original_title": "Videotape", "slug_title": "videotape", "date": "2018-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dpnKT1OmUTbZeRkX5z6z359Rore.jpg", "actors": [], "comments": [], "recommandations_id": []}

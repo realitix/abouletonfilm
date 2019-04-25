@@ -1,1 +1,0 @@
-{"tmdb_id": 515606, "title": "Gone with the Hazelnuts", "original_title": "Gone with the Hazelnuts", "slug_title": "gone-with-the-hazelnuts", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jQgJG1WPED8lw3DrtJuUFOVnKRN.jpg", "actors": [], "comments": [], "recommandations_id": []}

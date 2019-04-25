@@ -1,1 +1,0 @@
-{"tmdb_id": 347663, "title": "Precise Poetry", "original_title": "Precise Poetry", "slug_title": "precise-poetry", "date": "2014-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/esXBT0UnZf4Vk73AJB3OFf72WEh.jpg", "actors": [], "comments": [], "recommandations_id": []}

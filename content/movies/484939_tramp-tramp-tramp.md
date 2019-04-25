@@ -1,1 +1,0 @@
-{"tmdb_id": 484939, "title": "Tramp Tramp Tramp", "original_title": "Tramp Tramp Tramp", "slug_title": "tramp-tramp-tramp", "date": "1935-05-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy)"], "comments": [], "recommandations_id": []}

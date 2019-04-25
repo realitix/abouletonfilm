@@ -1,1 +1,0 @@
-{"tmdb_id": 85826, "title": "Diva Dolorosa", "original_title": "Diva Dolorosa", "slug_title": "diva-dolorosa", "date": "1999-10-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A8cVlBkJrVapzquOkF2sID1ytvP.jpg", "actors": ["Lyda Borelli ()", "Pina Menichelli ()"], "comments": [], "recommandations_id": []}

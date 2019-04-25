@@ -1,1 +1,0 @@
-{"tmdb_id": 477909, "title": "The Campaign", "original_title": "The Campaign", "slug_title": "the-campaign", "date": "1982-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6GDPuZvO9RueczG51ojUXZ0jHbx.jpg", "actors": [], "comments": [], "recommandations_id": []}

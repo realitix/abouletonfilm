@@ -1,1 +1,0 @@
-{"tmdb_id": 367505, "title": "Liverpool - West Ham FA Cup Final 2006", "original_title": "Liverpool - West Ham FA Cup Final 2006", "slug_title": "liverpool-west-ham-fa-cup-final-2006", "date": "2006-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Steven Gerrard (Steven Gerrard)"], "comments": [], "recommandations_id": []}

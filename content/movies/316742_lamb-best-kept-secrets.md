@@ -1,1 +1,0 @@
-{"tmdb_id": 316742, "title": "Lamb: Best Kept Secrets", "original_title": "Lamb: Best Kept Secrets", "slug_title": "lamb-best-kept-secrets", "date": "2004-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Louise Rhodes ()", "Andrew Barlow ()"], "comments": [], "recommandations_id": []}

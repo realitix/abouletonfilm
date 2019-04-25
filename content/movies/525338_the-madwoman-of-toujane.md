@@ -1,1 +1,0 @@
-{"tmdb_id": 525338, "title": "The Madwoman of Toujane", "original_title": "La folle de Toujane", "slug_title": "the-madwoman-of-toujane", "date": "1974-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4R2XV3OGa5VP9BWLTxrNb3rT5pM.jpg", "actors": [], "comments": [], "recommandations_id": []}

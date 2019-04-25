@@ -1,1 +1,0 @@
-{"tmdb_id": 212346, "title": "Paul Tremaine and His Aristocrats", "original_title": "Paul Tremaine and His Aristocrats", "slug_title": "paul-tremaine-and-his-aristocrats", "date": "1929-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

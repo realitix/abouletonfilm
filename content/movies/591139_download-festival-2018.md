@@ -1,1 +1,0 @@
-{"tmdb_id": 591139, "title": "Download Festival 2018", "original_title": "Download Festival 2018", "slug_title": "download-festival-2018", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ueMkrfb83ztqM7ddYxuUBbknP3E.jpg", "actors": [], "comments": [], "recommandations_id": []}

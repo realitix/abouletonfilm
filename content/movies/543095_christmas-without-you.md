@@ -1,1 +1,0 @@
-{"tmdb_id": 543095, "title": "Christmas Without You", "original_title": "Christmas Without You", "slug_title": "christmas-without-you", "date": "2012-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1cUdlJ1t1ud8NLfCARFqVehchgX.jpg", "actors": [], "comments": [], "recommandations_id": []}

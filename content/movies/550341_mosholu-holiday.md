@@ -1,1 +1,0 @@
-{"tmdb_id": 550341, "title": "Mosholu Holiday", "original_title": "Mosholu Holiday", "slug_title": "mosholu-holiday", "date": "1967-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Cowan ()", "Iris Holtzman ()", "Frances Leibowitz ()", "Bill Ronald ()", "Helen Ronald ()"], "comments": [], "recommandations_id": []}

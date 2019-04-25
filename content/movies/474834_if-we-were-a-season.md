@@ -1,1 +1,0 @@
-{"tmdb_id": 474834, "title": "If We Were a Season", "original_title": "If We Were a Season", "slug_title": "if-we-were-a-season", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/emhhxFHNw8BuDNVI0H6H3Ohre3u.jpg", "actors": [], "comments": [], "recommandations_id": []}

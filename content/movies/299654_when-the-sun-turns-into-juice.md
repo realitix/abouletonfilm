@@ -1,1 +1,0 @@
-{"tmdb_id": 299654, "title": "When the Sun Turns Into Juice", "original_title": "When the Sun Turns Into Juice", "slug_title": "when-the-sun-turns-into-juice", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/53CP6ekh66aa45qtCdrZbbyEcpn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 563443, "title": "Tajemn\u00fd \u010cernobyl", "original_title": "Tajemn\u00fd \u010cernobyl", "slug_title": "tajemny-cernobyl", "date": "2015-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

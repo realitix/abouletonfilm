@@ -1,1 +1,0 @@
-{"tmdb_id": 284035, "title": "Genesis and Catastrophe", "original_title": "Genesis and Catastrophe", "slug_title": "genesis-and-catastrophe", "date": "2000-10-12", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gzmyGKzi5v6fPDoaWiN2zU3eLSX.jpg", "actors": [], "comments": [], "recommandations_id": []}

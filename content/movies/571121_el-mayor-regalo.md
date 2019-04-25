@@ -1,1 +1,1 @@
-{"tmdb_id": 571121, "title": "El Mayor Regalo", "original_title": "El Mayor Regalo", "slug_title": "el-mayor-regalo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 571121, "title": "El Mayor Regalo", "original_title": "El Mayor Regalo", "slug_title": "el-mayor-regalo", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

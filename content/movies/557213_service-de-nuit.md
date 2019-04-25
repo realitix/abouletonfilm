@@ -1,1 +1,0 @@
-{"tmdb_id": 557213, "title": "Service de nuit", "original_title": "Service de nuit", "slug_title": "service-de-nuit", "date": "1932-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

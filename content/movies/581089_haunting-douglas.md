@@ -1,1 +1,0 @@
-{"tmdb_id": 581089, "title": "Haunting Douglas", "original_title": "Haunting Douglas", "slug_title": "haunting-douglas", "date": "2003-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y1M5KZrJcwDCUMNE2wlecjWjRyD.jpg", "actors": [], "comments": [], "recommandations_id": []}

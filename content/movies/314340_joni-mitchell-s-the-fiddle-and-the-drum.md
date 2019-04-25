@@ -1,1 +1,0 @@
-{"tmdb_id": 314340, "title": "Joni Mitchell's The Fiddle and the Drum", "original_title": "Joni Mitchell's The Fiddle and the Drum", "slug_title": "joni-mitchell-s-the-fiddle-and-the-drum", "date": "2007-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

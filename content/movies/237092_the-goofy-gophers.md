@@ -1,1 +1,0 @@
-{"tmdb_id": 237092, "title": "The Goofy Gophers", "original_title": "The Goofy Gophers", "slug_title": "the-goofy-gophers", "date": "1947-01-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8kYQNOvde8FstVwiYWNeiv2cG0w.jpg", "actors": [], "comments": [], "recommandations_id": []}

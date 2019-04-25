@@ -1,1 +1,0 @@
-{"tmdb_id": 278472, "title": "Manchester City 2013/14 Season Review [DVD]", "original_title": "Manchester City 2013/14 Season Review [DVD]", "slug_title": "manchester-city-2013-14-season-review-dvd", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 586431, "title": "Machine for Living - La Grande Borne", "original_title": "Machine for Living - La Grande Borne", "slug_title": "machine-for-living-la-grande-borne", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

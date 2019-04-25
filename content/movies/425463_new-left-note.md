@@ -1,1 +1,0 @@
-{"tmdb_id": 425463, "title": "New Left Note", "original_title": "New Left Note", "slug_title": "new-left-note", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jug5B7ER1RnqFy2y7hg8AO1dTlq.jpg", "actors": [], "comments": [], "recommandations_id": []}

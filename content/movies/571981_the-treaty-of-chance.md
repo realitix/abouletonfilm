@@ -1,1 +1,0 @@
-{"tmdb_id": 571981, "title": "The Treaty of Chance", "original_title": "Le trait\u00e9 du hasard", "slug_title": "the-treaty-of-chance", "date": "1998-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5eZ4Fn9XHduAfUrBNjlSlHkT3r7.jpg", "actors": [], "comments": [], "recommandations_id": []}

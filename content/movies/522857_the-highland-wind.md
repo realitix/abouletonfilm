@@ -1,1 +1,0 @@
-{"tmdb_id": 522857, "title": "The Highland Wind", "original_title": "The Highland Wind", "slug_title": "the-highland-wind", "date": "2018-08-04", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ieJOkKe5Z1JazZfaxJ79z43VkqB.jpg", "actors": ["Fraser Dempster (The Young Man)"], "comments": [], "recommandations_id": []}

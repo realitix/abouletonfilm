@@ -1,1 +1,0 @@
-{"tmdb_id": 322696, "title": "No More Lies", "original_title": "No More Lies", "slug_title": "no-more-lies", "date": "2010-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jules Rosskam ()"], "comments": [], "recommandations_id": []}

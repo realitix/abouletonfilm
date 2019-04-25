@@ -1,1 +1,0 @@
-{"tmdb_id": 266502, "title": "The Relaxed Wife", "original_title": "The Relaxed Wife", "slug_title": "the-relaxed-wife", "date": "1957-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mdULbQkdBxuX1FkTqqNkKSWRqnw.jpg", "actors": [], "comments": [], "recommandations_id": []}

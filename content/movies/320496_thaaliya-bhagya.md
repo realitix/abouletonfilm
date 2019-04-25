@@ -1,1 +1,0 @@
-{"tmdb_id": 320496, "title": "Thaaliya Bhagya", "original_title": "Thaaliya Bhagya", "slug_title": "thaaliya-bhagya", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

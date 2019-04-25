@@ -1,1 +1,0 @@
-{"tmdb_id": 450809, "title": "The Norwegian Islamist", "original_title": "Den norske islamisten", "slug_title": "the-norwegian-islamist", "date": "2017-04-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ubaydullah Hussein (Himself)"], "comments": [], "recommandations_id": []}

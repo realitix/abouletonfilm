@@ -1,1 +1,0 @@
-{"tmdb_id": 248379, "title": "American Courtesans", "original_title": "American Courtesans", "slug_title": "american-courtesans", "date": "2013-07-12", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7l558IZWMJMVjJv1lrvWX1ofhgL.jpg", "actors": [], "comments": [], "recommandations_id": []}

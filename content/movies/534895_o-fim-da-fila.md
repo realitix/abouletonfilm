@@ -1,1 +1,0 @@
-{"tmdb_id": 534895, "title": "O Fim da Fila", "original_title": "O Fim da Fila", "slug_title": "o-fim-da-fila", "date": "2016-06-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vGGHD2K5DKV8GkWFVJeF93csJJp.jpg", "actors": [], "comments": [], "recommandations_id": []}

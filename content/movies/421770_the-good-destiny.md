@@ -1,1 +1,0 @@
-{"tmdb_id": 421770, "title": "The Good Destiny", "original_title": "El buen destino", "slug_title": "the-good-destiny", "date": "2005-01-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 595889, "title": "I'll Fix It", "original_title": "I'll Fix It", "slug_title": "i-ll-fix-it", "date": "1934-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

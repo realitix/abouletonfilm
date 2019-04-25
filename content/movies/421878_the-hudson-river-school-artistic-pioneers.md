@@ -1,1 +1,0 @@
-{"tmdb_id": 421878, "title": "The Hudson River School: Artistic Pioneers", "original_title": "The Hudson River School: Artistic Pioneers", "slug_title": "the-hudson-river-school-artistic-pioneers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

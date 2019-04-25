@@ -1,1 +1,0 @@
-{"tmdb_id": 467368, "title": "Radioamat\u00f6ren", "original_title": "Radioamat\u00f6ren", "slug_title": "radioamatoren", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u0YO13VhDJFO12Nm3obcAYu3JBb.jpg", "actors": [], "comments": [], "recommandations_id": []}

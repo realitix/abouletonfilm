@@ -1,1 +1,0 @@
-{"tmdb_id": 273891, "title": "The Daughter of the Desert", "original_title": "Laila el badawiyyah", "slug_title": "the-daughter-of-the-desert", "date": "1937-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 242545, "title": "Seagull", "original_title": "Seagull", "slug_title": "seagull", "date": "2013-12-12", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vqPD3ea8bq5hbIw7FNX6YnnKch.jpg", "actors": [], "comments": [], "recommandations_id": []}

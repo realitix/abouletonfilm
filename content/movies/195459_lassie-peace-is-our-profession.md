@@ -1,1 +1,0 @@
-{"tmdb_id": 195459, "title": "Lassie: Peace Is Our Profession", "original_title": "Lassie: Peace Is Our Profession", "slug_title": "lassie-peace-is-our-profession", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/goYLkoZy6gdfJb3gPDVybrJTbDH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 240904, "title": "The North Sea - Our sea", "original_title": "Die Nordsee - Unser Meer", "slug_title": "the-north-sea-our-sea", "date": "2013-04-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5PCftjNGgirh4ZkFOdb92QLUCV9.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 295957, "title": "Brigitta", "original_title": "Brigitta", "slug_title": "brigitta", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zdpxGMuSbmg8I87wJG0lSsZtz1Y.jpg", "actors": ["Elke Cole (Brigitta)", "Eva Richter ()"], "comments": [], "recommandations_id": []}

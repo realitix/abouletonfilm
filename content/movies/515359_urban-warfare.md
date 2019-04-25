@@ -1,1 +1,0 @@
-{"tmdb_id": 515359, "title": "Urban Warfare", "original_title": "Urban Warfare", "slug_title": "urban-warfare", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

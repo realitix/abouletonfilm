@@ -1,1 +1,0 @@
-{"tmdb_id": 244919, "title": "A Story of Healing", "original_title": "A Story of Healing", "slug_title": "a-story-of-healing", "date": "1997-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/99sGPWsvRnOtT0bSXwayzSuEQBE.jpg", "actors": [], "comments": [], "recommandations_id": []}

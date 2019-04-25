@@ -1,1 +1,0 @@
-{"tmdb_id": 333552, "title": "Blood Rising", "original_title": "Blood Rising", "slug_title": "blood-rising", "date": "2014-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oNo7gLURcMeieutgy0lhP1QAkyA.jpg", "actors": [], "comments": [], "recommandations_id": []}

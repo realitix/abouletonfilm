@@ -1,1 +1,0 @@
-{"tmdb_id": 338936, "title": "Yucatan - No Templo do deus Jaguar", "original_title": "Yucatan - No Templo do deus Jaguar", "slug_title": "yucatan-no-templo-do-deus-jaguar", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

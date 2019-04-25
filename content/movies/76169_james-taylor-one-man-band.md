@@ -1,1 +1,0 @@
-{"tmdb_id": 76169, "title": "James Taylor: One Man Band", "original_title": "James Taylor: One Man Band", "slug_title": "james-taylor-one-man-band", "date": "2007-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wvjyF11hLT0OZB9CS8T52hSlg9x.jpg", "actors": [], "comments": [], "recommandations_id": []}

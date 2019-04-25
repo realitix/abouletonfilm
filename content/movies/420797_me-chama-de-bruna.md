@@ -1,1 +1,0 @@
-{"tmdb_id": 420797, "title": "Me Chama De Bruna", "original_title": "Me Chama De Bruna", "slug_title": "me-chama-de-bruna", "date": "2016-10-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gxymZNIUo0ZmTUCKstlduBllxQe.jpg", "actors": ["Maria Bopp (Bruna Surfistinha)"], "comments": [], "recommandations_id": []}

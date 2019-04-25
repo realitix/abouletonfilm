@@ -1,1 +1,0 @@
-{"tmdb_id": 236449, "title": "Mr. Elephant Goes to Town", "original_title": "Mr. Elephant Goes to Town", "slug_title": "mr-elephant-goes-to-town", "date": "1940-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

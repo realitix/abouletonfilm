@@ -1,1 +1,0 @@
-{"tmdb_id": 368525, "title": "The seeding of Sarah Burns", "original_title": "The seeding of Sarah Burns", "slug_title": "the-seeding-of-sarah-burns", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

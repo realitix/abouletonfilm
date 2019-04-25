@@ -1,1 +1,0 @@
-{"tmdb_id": 293044, "title": "The Jam Makers", "original_title": "The Jam Makers", "slug_title": "the-jam-makers", "date": "1919-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

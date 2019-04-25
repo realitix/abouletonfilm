@@ -1,1 +1,0 @@
-{"tmdb_id": 592592, "title": "Beloved", "original_title": "Beloved", "slug_title": "beloved", "date": "2002-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

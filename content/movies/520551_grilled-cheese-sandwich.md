@@ -1,1 +1,0 @@
-{"tmdb_id": 520551, "title": "Grilled Cheese Sandwich", "original_title": "Grilled Cheese Sandwich", "slug_title": "grilled-cheese-sandwich", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

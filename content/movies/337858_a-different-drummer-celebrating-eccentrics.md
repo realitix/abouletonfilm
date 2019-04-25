@@ -1,1 +1,0 @@
-{"tmdb_id": 337858, "title": "A Different Drummer: Celebrating Eccentrics", "original_title": "A Different Drummer: Celebrating Eccentrics", "slug_title": "a-different-drummer-celebrating-eccentrics", "date": "2015-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

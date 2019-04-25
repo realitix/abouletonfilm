@@ -1,1 +1,0 @@
-{"tmdb_id": 223519, "title": "Project Wild Thing", "original_title": "Project Wild Thing", "slug_title": "project-wild-thing", "date": "2013-10-25", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fwlyKcQm6v6QbfzjtiggeZeAS1k.jpg", "actors": [], "comments": [], "recommandations_id": []}

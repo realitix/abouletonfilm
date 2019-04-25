@@ -1,1 +1,0 @@
-{"tmdb_id": 566927, "title": "Impractical Jokers", "original_title": "Impractical Jokers", "slug_title": "impractical-jokers", "date": "2019-07-24", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brian Quinn (Q)", "Joe Gatto (Joe)", "James Murray (Murr)", "Sal Vulcano (Sal)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 382288, "title": "Lucky Luke - De Clown", "original_title": "Lucky Luke - De Clown", "slug_title": "lucky-luke-de-clown", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vr7EPo4nNebx73IIb3eDRJWpQcr.jpg", "actors": [], "comments": [], "recommandations_id": []}

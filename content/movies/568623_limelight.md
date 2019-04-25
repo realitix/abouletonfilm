@@ -1,1 +1,0 @@
-{"tmdb_id": 568623, "title": "Limelight", "original_title": "Limelight", "slug_title": "limelight", "date": "1937-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anna Neagle (Marjorie Kay)", "Arthur Tracy (Bob Grant)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 324469, "title": "Skuggab\u00f6rn", "original_title": "Skuggab\u00f6rn", "slug_title": "skuggaborn", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/97d4zT0bOworMR8cJPLO90VKaUE.jpg", "actors": [], "comments": [], "recommandations_id": []}

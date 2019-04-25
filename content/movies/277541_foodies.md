@@ -1,1 +1,0 @@
-{"tmdb_id": 277541, "title": "Foodies", "original_title": "Foodies", "slug_title": "foodies", "date": "2014-05-23", "genre": "Documentaire", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ek0VS2QIlvZl0fYFe4dA8ohpOVf.jpg", "actors": [], "comments": [], "recommandations_id": [258145, 61460, 285869, 365183]}

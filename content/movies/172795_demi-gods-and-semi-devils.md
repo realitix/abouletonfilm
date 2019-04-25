@@ -1,1 +1,0 @@
-{"tmdb_id": 172795, "title": "Demi-Gods and Semi-Devils", "original_title": "Demi-Gods and Semi-Devils", "slug_title": "demi-gods-and-semi-devils", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oa7d4vzsFgVv0RP5Q0uaNProdcZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 339102, "title": "Devil May Cry", "original_title": "Devil May Cry", "slug_title": "devil-may-cry", "date": "", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xLqCKs3GDoH90aWhrXt913J1kr7.jpg", "actors": [], "comments": [], "recommandations_id": []}

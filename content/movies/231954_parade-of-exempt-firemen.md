@@ -1,1 +1,0 @@
-{"tmdb_id": 231954, "title": "Parade of 'Exempt' Firemen", "original_title": "Parade of 'Exempt' Firemen", "slug_title": "parade-of-exempt-firemen", "date": "1903-10-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

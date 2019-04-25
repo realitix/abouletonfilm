@@ -1,1 +1,0 @@
-{"tmdb_id": 414886, "title": "Pink Boy", "original_title": "Pink Boy", "slug_title": "pink-boy", "date": "2015-06-07", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pYzmIXBgTJzJlTtsyd6KFjE1EI6.jpg", "actors": [], "comments": [], "recommandations_id": []}

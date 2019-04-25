@@ -1,1 +1,0 @@
-{"tmdb_id": 589700, "title": "Ladies' Lounge", "original_title": "Ladies' Lounge", "slug_title": "ladies-lounge", "date": "2019-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

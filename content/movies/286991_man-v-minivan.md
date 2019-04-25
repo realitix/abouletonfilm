@@ -1,1 +1,0 @@
-{"tmdb_id": 286991, "title": "Man v. Minivan", "original_title": "Man v. Minivan", "slug_title": "man-v-minivan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marc Bendavid (Shane)", "Rachel Wilson (Jen)", "John Boylan (Warren)", "Catherine Bruce (Ronda)"], "comments": [], "recommandations_id": []}

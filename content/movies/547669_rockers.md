@@ -1,1 +1,0 @@
-{"tmdb_id": 547669, "title": "Rockers", "original_title": "Rockers", "slug_title": "rockers", "date": "1979-05-09", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/id83uH0mLvSePLMLMlEsuf5S2cY.jpg", "actors": [], "comments": [], "recommandations_id": []}

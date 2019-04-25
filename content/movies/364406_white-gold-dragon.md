@@ -1,1 +1,0 @@
-{"tmdb_id": 364406, "title": "White Gold Dragon", "original_title": "Baijin long", "slug_title": "white-gold-dragon", "date": "1933-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rxjJ39YctMmzveXiA8yrq84xLMC.jpg", "actors": ["Sit Kok Sin ()", "Tong Suet-hing ()"], "comments": [], "recommandations_id": []}

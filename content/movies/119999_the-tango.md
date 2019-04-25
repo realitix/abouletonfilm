@@ -1,1 +1,0 @@
-{"tmdb_id": 119999, "title": "The Tango", "original_title": "Le tango", "slug_title": "the-tango", "date": "1905-01-01", "genre": "", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2rLeCibyGRET3Ndi8lpuuPn21K3.jpg", "actors": [], "comments": [], "recommandations_id": [120012, 119980, 120010, 119988]}

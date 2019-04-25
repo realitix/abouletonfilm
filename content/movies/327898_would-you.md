@@ -1,1 +1,0 @@
-{"tmdb_id": 327898, "title": "Would You", "original_title": "Would You", "slug_title": "would-you", "date": "2012-03-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 502764, "title": "Gu nu lei", "original_title": "Gu nu lei", "slug_title": "gu-nu-lei", "date": "1986-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jPuTlQ0NBrn23J6IZvH9qTPR8ud.jpg", "actors": [], "comments": [], "recommandations_id": []}

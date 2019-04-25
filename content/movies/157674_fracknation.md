@@ -1,1 +1,0 @@
-{"tmdb_id": 157674, "title": "FrackNation", "original_title": "FrackNation", "slug_title": "fracknation", "date": "2013-01-07", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gB7my1v4FVi0a6fvn4f2aojNxTj.jpg", "actors": [], "comments": [], "recommandations_id": [257249, 168051]}

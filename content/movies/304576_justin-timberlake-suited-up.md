@@ -1,1 +1,0 @@
-{"tmdb_id": 304576, "title": "Justin Timberlake: Suited Up", "original_title": "Justin Timberlake: Suited Up", "slug_title": "justin-timberlake-suited-up", "date": "2014-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

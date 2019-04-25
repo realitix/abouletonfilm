@@ -1,1 +1,0 @@
-{"tmdb_id": 342105, "title": "Kongerevyen 1930", "original_title": "Kongerevyen 1930", "slug_title": "kongerevyen-1930", "date": "1930-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

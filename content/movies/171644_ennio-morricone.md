@@ -1,1 +1,0 @@
-{"tmdb_id": 171644, "title": "Ennio Morricone", "original_title": "Ennio Morricone", "slug_title": "ennio-morricone", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sMQ2jjOFD5DGzR4XwZeug6HJhoo.jpg", "actors": [], "comments": [], "recommandations_id": []}

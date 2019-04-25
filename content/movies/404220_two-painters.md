@@ -1,1 +1,0 @@
-{"tmdb_id": 404220, "title": "Two Painters", "original_title": "Two Painters", "slug_title": "two-painters", "date": "2010-11-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arianna Huffington ()", "Rebecca Pidgeon (Announcer)", "John Pirruccello ()"], "comments": [], "recommandations_id": []}

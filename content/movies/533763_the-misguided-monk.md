@@ -1,1 +1,0 @@
-{"tmdb_id": 533763, "title": "The Misguided Monk", "original_title": "The Misguided Monk", "slug_title": "the-misguided-monk", "date": "2009-06-17", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a3hds2kWaT7Rar9JiSzRTnCrRAX.jpg", "actors": [], "comments": [], "recommandations_id": []}

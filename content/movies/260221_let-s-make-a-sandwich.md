@@ -1,1 +1,0 @@
-{"tmdb_id": 260221, "title": "Let's Make a Sandwich", "original_title": "Let's Make a Sandwich", "slug_title": "let-s-make-a-sandwich", "date": "1978-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

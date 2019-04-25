@@ -1,1 +1,0 @@
-{"tmdb_id": 570488, "title": "Saving Flora", "original_title": "Saving Flora", "slug_title": "saving-flora", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

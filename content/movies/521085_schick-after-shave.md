@@ -1,1 +1,0 @@
-{"tmdb_id": 521085, "title": "Schick After Shave", "original_title": "Schick After Shave", "slug_title": "schick-after-shave", "date": "1971-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vca3ZHNI7zdD7cOehrMcxjOqneH.jpg", "actors": ["Juliet Berto (La Femme)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 277001, "title": "Sawyer Brown: The Hits Live", "original_title": "Sawyer Brown: The Hits Live", "slug_title": "sawyer-brown-the-hits-live", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 107190, "title": "Ophelia Learns To Swim", "original_title": "Ophelia Learns To Swim", "slug_title": "ophelia-learns-to-swim", "date": "2000-11-22", "genre": "Action / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/te9oT401O1NQA0Bu8f04qdSFKFS.jpg", "actors": [], "comments": [], "recommandations_id": []}

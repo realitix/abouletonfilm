@@ -1,1 +1,0 @@
-{"tmdb_id": 128058, "title": "Being Bazaar", "original_title": "Being Bazaar", "slug_title": "being-bazaar", "date": "2012-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9gDNUQW4QhtyiFsgXIp7nj9TlAW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 473708, "title": "This Existence Is Material", "original_title": "This Existence Is Material", "slug_title": "this-existence-is-material", "date": "2003-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oCoYMlTNYGVPCglKexnWYkmZd41.jpg", "actors": [], "comments": [], "recommandations_id": []}

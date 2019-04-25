@@ -1,1 +1,0 @@
-{"tmdb_id": 340946, "title": "Miss HIV", "original_title": "Miss HIV", "slug_title": "miss-hiv", "date": "2007-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/And6hvTeccvskmSmkWdktX797SQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

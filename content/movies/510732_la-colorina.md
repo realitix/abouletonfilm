@@ -1,1 +1,0 @@
-{"tmdb_id": 510732, "title": "La colorina", "original_title": "La colorina", "slug_title": "la-colorina", "date": "2008-03-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oiPfWXNWM5exYD2mPcqkfuyiaTA.jpg", "actors": ["Alejandro Jodorowsky (Himself)"], "comments": [], "recommandations_id": []}

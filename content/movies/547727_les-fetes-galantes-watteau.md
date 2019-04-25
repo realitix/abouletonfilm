@@ -1,1 +1,0 @@
-{"tmdb_id": 547727, "title": "Les f\u00eates galantes (Watteau)", "original_title": "Les f\u00eates galantes (Watteau)", "slug_title": "les-fetes-galantes-watteau", "date": "1950-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

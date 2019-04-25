@@ -1,1 +1,0 @@
-{"tmdb_id": 291118, "title": "In the Gutter and Other Good Places", "original_title": "In the Gutter and Other Good Places", "slug_title": "in-the-gutter-and-other-good-places", "date": "1993-09-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

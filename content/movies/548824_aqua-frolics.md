@@ -1,1 +1,0 @@
-{"tmdb_id": 548824, "title": "Aqua Frolics", "original_title": "Aqua Frolics", "slug_title": "aqua-frolics", "date": "1950-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

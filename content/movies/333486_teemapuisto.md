@@ -1,1 +1,0 @@
-{"tmdb_id": 333486, "title": "Teemapuisto", "original_title": "Teemapuisto", "slug_title": "teemapuisto", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

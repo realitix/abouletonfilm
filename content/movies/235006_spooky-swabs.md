@@ -1,1 +1,0 @@
-{"tmdb_id": 235006, "title": "Spooky Swabs", "original_title": "Spooky Swabs", "slug_title": "spooky-swabs", "date": "1957-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iiUGMiQlybuPZhlkpiVnWDfO6LD.jpg", "actors": [], "comments": [], "recommandations_id": []}

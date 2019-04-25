@@ -1,1 +1,0 @@
-{"tmdb_id": 480254, "title": "Max Boulil: En sketches et en chansons", "original_title": "Max Boulil: En sketches et en chansons", "slug_title": "max-boulil-en-sketches-et-en-chansons", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

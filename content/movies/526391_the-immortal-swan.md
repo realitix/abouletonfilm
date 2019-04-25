@@ -1,1 +1,0 @@
-{"tmdb_id": 526391, "title": "The Immortal Swan", "original_title": "The Immortal Swan", "slug_title": "the-immortal-swan", "date": "1935-05-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anna Pavlova ((archive footage))"], "comments": [], "recommandations_id": []}

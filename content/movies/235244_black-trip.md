@@ -1,1 +1,0 @@
-{"tmdb_id": 235244, "title": "Black Trip", "original_title": "Black Trip", "slug_title": "black-trip", "date": "1965-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2DzKlA5HdS15EJ9YCWGCsJU0Mo9.jpg", "actors": [], "comments": [], "recommandations_id": []}

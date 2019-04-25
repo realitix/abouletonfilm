@@ -1,1 +1,0 @@
-{"tmdb_id": 68782, "title": "milion dolarow", "original_title": "milion dolarow", "slug_title": "milion-dolarow", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gmeEER8ZpI4iMrul2GWkrGUVX1c.jpg", "actors": [], "comments": [], "recommandations_id": []}

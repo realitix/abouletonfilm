@@ -1,1 +1,0 @@
-{"tmdb_id": 542679, "title": "Hand Colored no.2", "original_title": "Hand Colored no.2", "slug_title": "hand-colored-no-2", "date": "2017-06-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 443949, "title": "Death Grips - The Movie", "original_title": "Death Grips - The Movie", "slug_title": "death-grips-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

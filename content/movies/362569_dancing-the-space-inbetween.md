@@ -1,1 +1,0 @@
-{"tmdb_id": 362569, "title": "Dancing the Space Inbetween", "original_title": "Dancing the Space Inbetween", "slug_title": "dancing-the-space-inbetween", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

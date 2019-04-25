@@ -1,1 +1,0 @@
-{"tmdb_id": 277748, "title": "John Tesh: Alive: Music & Dance", "original_title": "John Tesh: Alive: Music & Dance", "slug_title": "john-tesh-alive-music-dance", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

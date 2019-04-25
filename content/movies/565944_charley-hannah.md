@@ -1,1 +1,0 @@
-{"tmdb_id": 565944, "title": "Charley Hannah", "original_title": "Charley Hannah", "slug_title": "charley-hannah", "date": "1986-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Conrad (Capt. Charley Hannah)"], "comments": [], "recommandations_id": []}

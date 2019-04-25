@@ -1,1 +1,0 @@
-{"tmdb_id": 325442, "title": "Hochzeitsvorbereitungen auf dem Lande", "original_title": "Hochzeitsvorbereitungen auf dem Lande", "slug_title": "hochzeitsvorbereitungen-auf-dem-lande", "date": "2015-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Youdid Kahveci ()"], "comments": [], "recommandations_id": []}

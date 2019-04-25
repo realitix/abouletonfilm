@@ -1,1 +1,0 @@
-{"tmdb_id": 514516, "title": "Fashions of Fifty Years Ago", "original_title": "Fashions of Fifty Years Ago", "slug_title": "fashions-of-fifty-years-ago", "date": "1928-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

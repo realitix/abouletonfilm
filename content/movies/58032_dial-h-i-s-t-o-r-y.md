@@ -1,1 +1,0 @@
-{"tmdb_id": 58032, "title": "Dial H-I-S-T-O-R-Y", "original_title": "Dial H-I-S-T-O-R-Y", "slug_title": "dial-h-i-s-t-o-r-y", "date": "1997-01-01", "genre": "Documentaire / Histoire / Crime", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9JjZdNT5hE9kqpTLWBdFxyu1JBB.jpg", "actors": [], "comments": [], "recommandations_id": []}

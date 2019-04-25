@@ -1,1 +1,0 @@
-{"tmdb_id": 193803, "title": "Le March\u00e9 aux poissons", "original_title": "Le March\u00e9 aux poissons", "slug_title": "le-marche-aux-poissons", "date": "1896-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

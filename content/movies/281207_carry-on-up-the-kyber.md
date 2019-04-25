@@ -1,1 +1,0 @@
-{"tmdb_id": 281207, "title": "Carry On up the Kyber", "original_title": "Carry On up the Kyber", "slug_title": "carry-on-up-the-kyber", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vk9ahN5pndt8ujG82iu5617xymz.jpg", "actors": [], "comments": [], "recommandations_id": []}

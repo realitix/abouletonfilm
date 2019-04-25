@@ -1,1 +1,0 @@
-{"tmdb_id": 337333, "title": "Count Arthur Strong - Man Behind The Smile", "original_title": "Count Arthur Strong - Man Behind The Smile", "slug_title": "count-arthur-strong-man-behind-the-smile", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

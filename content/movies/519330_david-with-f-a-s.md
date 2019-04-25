@@ -1,1 +1,0 @@
-{"tmdb_id": 519330, "title": "David with F.A.S", "original_title": "David with F.A.S", "slug_title": "david-with-f-a-s", "date": "1997-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

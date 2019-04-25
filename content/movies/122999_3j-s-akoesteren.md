@@ -1,1 +1,0 @@
-{"tmdb_id": 122999, "title": "3J's - Akoesteren", "original_title": "3J's - Akoesteren", "slug_title": "3j-s-akoesteren", "date": "2009-10-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z3S8za3exsfOLiSimIKxlkrcea3.jpg", "actors": [], "comments": [], "recommandations_id": []}

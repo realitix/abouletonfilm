@@ -1,1 +1,0 @@
-{"tmdb_id": 31693, "title": "Aquarium in a Box", "original_title": "Aquarium in a Box", "slug_title": "aquarium-in-a-box", "date": "2007-08-07", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aPp2mNBXkNib2wHAPWgoow4xlLS.jpg", "actors": [], "comments": [], "recommandations_id": []}

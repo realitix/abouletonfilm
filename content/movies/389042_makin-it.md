@@ -1,1 +1,0 @@
-{"tmdb_id": 389042, "title": "Makin'it", "original_title": "Makin'it", "slug_title": "makin-it", "date": "1970-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

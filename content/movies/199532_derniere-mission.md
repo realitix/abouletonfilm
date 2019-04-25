@@ -1,1 +1,0 @@
-{"tmdb_id": 199532, "title": "Derni\u00e8re mission", "original_title": "Teleftaia apostoli", "slug_title": "derniere-mission", "date": "1949-04-03", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zenTvVXSLCYOqEh2AMVMO1vxuE6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 225863, "title": "Line Describing Your Mom", "original_title": "Line Describing Your Mom", "slug_title": "line-describing-your-mom", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8KpJ2CIgFF1xuWbbSaXNyddsK0s.jpg", "actors": [], "comments": [], "recommandations_id": []}

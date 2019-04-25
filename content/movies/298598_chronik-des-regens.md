@@ -1,1 +1,0 @@
-{"tmdb_id": 298598, "title": "Chronik des Regens", "original_title": "Chronik des Regens", "slug_title": "chronik-des-regens", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mario Mentrup ()"], "comments": [], "recommandations_id": []}

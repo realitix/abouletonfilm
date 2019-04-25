@@ -1,1 +1,0 @@
-{"tmdb_id": 545123, "title": "I Love You", "original_title": "I Love You", "slug_title": "i-love-you", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jqh6k6CyPp3SWDjrf0l5TG6MV6R.jpg", "actors": [], "comments": [], "recommandations_id": []}

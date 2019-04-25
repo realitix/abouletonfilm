@@ -1,1 +1,0 @@
-{"tmdb_id": 310288, "title": "Pink: Alive and Kicking", "original_title": "Pink: Alive and Kicking", "slug_title": "pink-alive-and-kicking", "date": "2010-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t8H3KCNO87dOD1cMtYBiMqK57AG.jpg", "actors": ["Pink ()"], "comments": [], "recommandations_id": []}

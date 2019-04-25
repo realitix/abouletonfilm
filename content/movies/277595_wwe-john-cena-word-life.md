@@ -1,1 +1,0 @@
-{"tmdb_id": 277595, "title": "WWE: John Cena: Word Life", "original_title": "WWE: John Cena: Word Life", "slug_title": "wwe-john-cena-word-life", "date": "2004-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zOy5CRpcykkztVCZtZjMMWsRYWz.jpg", "actors": ["John Cena ()"], "comments": [], "recommandations_id": []}

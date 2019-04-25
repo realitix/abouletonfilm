@@ -1,1 +1,0 @@
-{"tmdb_id": 569091, "title": "Cocktales", "original_title": "Cocktales", "slug_title": "cocktales", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1SOYPCS96BPPFsMokxtGnqh8OOY.jpg", "actors": [], "comments": [], "recommandations_id": []}

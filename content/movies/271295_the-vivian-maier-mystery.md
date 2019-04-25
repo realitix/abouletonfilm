@@ -1,1 +1,0 @@
-{"tmdb_id": 271295, "title": "The Vivian Maier Mystery", "original_title": "The Vivian Maier Mystery", "slug_title": "the-vivian-maier-mystery", "date": "2013-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Qrsbzzhqx1nIUqbcWuHx8L1Z0U.jpg", "actors": [], "comments": [], "recommandations_id": []}

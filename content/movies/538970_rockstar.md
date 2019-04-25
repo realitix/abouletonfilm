@@ -1,1 +1,0 @@
-{"tmdb_id": 538970, "title": "Rockstar", "original_title": "Rockstar", "slug_title": "rockstar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Polly Jane Rocket Adams (Rockstar)", "Douglas Adams (Black shoe and blue jeans trouser leg)", "John Cleese (Interviewer in lounge)"], "comments": [], "recommandations_id": []}

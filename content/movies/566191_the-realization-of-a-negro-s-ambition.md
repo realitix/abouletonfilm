@@ -1,1 +1,0 @@
-{"tmdb_id": 566191, "title": "The Realization of a Negro's Ambition", "original_title": "The Realization of a Negro's Ambition", "slug_title": "the-realization-of-a-negro-s-ambition", "date": "1916-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 63931, "title": "Mega Factories - Dodge Viper", "original_title": "Mega Factories - Dodge Viper", "slug_title": "mega-factories-dodge-viper", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/buhalJVIXGklatLzTUQ38mj3Sg5.jpg", "actors": [], "comments": [], "recommandations_id": []}

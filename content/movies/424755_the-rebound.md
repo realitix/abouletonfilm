@@ -1,1 +1,0 @@
-{"tmdb_id": 424755, "title": "The Rebound", "original_title": "The Rebound", "slug_title": "the-rebound", "date": "2016-11-22", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b9rZWuoCs3BccvpljEXD5z8AnbA.jpg", "actors": [], "comments": [], "recommandations_id": []}

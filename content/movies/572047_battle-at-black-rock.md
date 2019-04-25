@@ -1,1 +1,0 @@
-{"tmdb_id": 572047, "title": "Battle at Black Rock", "original_title": "Pukovnik Nedi\u0107 u borbi ili Bitka na Crnom Kamenu", "slug_title": "battle-at-black-rock", "date": "1913-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

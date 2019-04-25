@@ -1,1 +1,0 @@
-{"tmdb_id": 106872, "title": "Report on Death", "original_title": "Reportaje a la muerte", "slug_title": "report-on-death", "date": "1993-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/weS5M5dZenb3aTJOg0w6bLow83t.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 585621, "title": "Dust Angel", "original_title": "\ud3f4\ub9ac\uc2a4 \uc2a4\ud30c\uc774", "slug_title": "dust-angel", "date": "2019-01-24", "genre": "Thriller / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bbMP7rV2tsHFueduxINuX1PMj95.jpg", "actors": [], "comments": [], "recommandations_id": []}

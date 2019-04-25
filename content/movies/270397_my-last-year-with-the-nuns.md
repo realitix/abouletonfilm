@@ -1,1 +1,0 @@
-{"tmdb_id": 270397, "title": "My Last Year With The Nuns", "original_title": "My Last Year With The Nuns", "slug_title": "my-last-year-with-the-nuns", "date": "2014-05-21", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

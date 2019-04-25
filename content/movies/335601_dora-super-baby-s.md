@@ -1,1 +1,0 @@
-{"tmdb_id": 335601, "title": "Dora Super Baby's", "original_title": "Dora Super Baby's", "slug_title": "dora-super-baby-s", "date": "2008-06-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

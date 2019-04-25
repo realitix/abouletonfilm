@@ -1,1 +1,0 @@
-{"tmdb_id": 314779, "title": "Iannis Xenakis: La Legende D'Eer", "original_title": "Iannis Xenakis: La Legende D'Eer", "slug_title": "iannis-xenakis-la-legende-d-eer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xP10WHvucn3kq279cP5tTQorxR9.jpg", "actors": [], "comments": [], "recommandations_id": []}

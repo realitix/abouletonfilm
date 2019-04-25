@@ -1,1 +1,0 @@
-{"tmdb_id": 389177, "title": "L'escadron Volap\u00fck", "original_title": "L'escadron Volap\u00fck", "slug_title": "l-escadron-volapuk", "date": "1970-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

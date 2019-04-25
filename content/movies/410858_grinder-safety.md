@@ -1,1 +1,0 @@
-{"tmdb_id": 410858, "title": "Grinder Safety", "original_title": "Grinder Safety", "slug_title": "grinder-safety", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gAd0SRNq9HLDPPdjRFa245G5E9y.jpg", "actors": [], "comments": [], "recommandations_id": []}

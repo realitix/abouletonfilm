@@ -1,1 +1,0 @@
-{"tmdb_id": 339352, "title": "The Humanitarians", "original_title": "Die Menschenliebe", "slug_title": "the-humanitarians", "date": "2014-05-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

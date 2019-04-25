@@ -1,1 +1,0 @@
-{"tmdb_id": 360658, "title": "W@rriors", "original_title": "Guerriller@s", "slug_title": "w-rriors", "date": "", "genre": "Documentaire", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xngNJAaLSxUCVIUtagc0xccJlyq.jpg", "actors": [], "comments": [], "recommandations_id": []}

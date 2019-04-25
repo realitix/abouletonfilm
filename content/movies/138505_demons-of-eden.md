@@ -1,1 +1,0 @@
-{"tmdb_id": 138505, "title": "Demons of Eden", "original_title": "Los demonios del Ed\u00e9n", "slug_title": "demons-of-eden", "date": "2007-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lydia Cacho (Herself)"], "comments": [], "recommandations_id": []}

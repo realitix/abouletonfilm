@@ -1,1 +1,0 @@
-{"tmdb_id": 314942, "title": "CHIKARA: Hot Off The Griddle", "original_title": "CHIKARA: Hot Off The Griddle", "slug_title": "chikara-hot-off-the-griddle", "date": "2012-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rFzxPv5AhmRHT023aMCSQGBozVA.jpg", "actors": [], "comments": [], "recommandations_id": []}

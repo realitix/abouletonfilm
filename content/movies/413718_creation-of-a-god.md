@@ -1,1 +1,0 @@
-{"tmdb_id": 413718, "title": "Creation Of A God", "original_title": "Creation Of A God", "slug_title": "creation-of-a-god", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

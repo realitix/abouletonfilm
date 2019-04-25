@@ -1,1 +1,0 @@
-{"tmdb_id": 439848, "title": "\u00c1rvores Abatidas ao Para Lu\u00eds Melo", "original_title": "\u00c1rvores Abatidas ao Para Lu\u00eds Melo", "slug_title": "arvores-abatidas-ao-para-luis-melo", "date": "2017-02-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rosana Stavis ()"], "comments": [], "recommandations_id": []}

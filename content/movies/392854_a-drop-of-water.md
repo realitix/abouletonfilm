@@ -1,1 +1,0 @@
-{"tmdb_id": 392854, "title": "A Drop of Water", "original_title": "Una gota de agua", "slug_title": "a-drop-of-water", "date": "1949-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/68AOghHoeyv0wLp9RCd359SFJvM.jpg", "actors": [], "comments": [], "recommandations_id": []}

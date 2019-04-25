@@ -1,1 +1,0 @@
-{"tmdb_id": 50957, "title": "Daughter of Keltoum", "original_title": "La fille de Keltoum", "slug_title": "daughter-of-keltoum", "date": "2002-04-10", "genre": "", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2igwgLBmoZnyIWhFP5XZyMnPYmI.jpg", "actors": [], "comments": [], "recommandations_id": []}

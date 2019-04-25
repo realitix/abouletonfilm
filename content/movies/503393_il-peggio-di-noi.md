@@ -1,1 +1,0 @@
-{"tmdb_id": 503393, "title": "Il peggio di noi", "original_title": "Il peggio di noi", "slug_title": "il-peggio-di-noi", "date": "2006-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Corso Salani (Himself)", "Paloma Calle (Herself)"], "comments": [], "recommandations_id": []}

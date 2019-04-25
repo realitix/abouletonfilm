@@ -1,1 +1,0 @@
-{"tmdb_id": 538537, "title": "La cit\u00e9 des lumi\u00e8res", "original_title": "La cit\u00e9 des lumi\u00e8res", "slug_title": "la-cite-des-lumieres", "date": "1938-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fZ58Ga15cpfhrwOSD5s5acQGCDB.jpg", "actors": [], "comments": [], "recommandations_id": []}

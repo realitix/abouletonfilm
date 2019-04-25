@@ -1,1 +1,0 @@
-{"tmdb_id": 432820, "title": "The Masseurs", "original_title": "Anma", "slug_title": "the-masseurs", "date": "1963-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/upjk34iaC6m8R9u6loi5hLT8BDR.jpg", "actors": ["Tatsumi Hijikata ()", "Kazuo Ohno ()"], "comments": [], "recommandations_id": []}

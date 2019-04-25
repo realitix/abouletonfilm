@@ -1,1 +1,0 @@
-{"tmdb_id": 217393, "title": "Nightingales in December", "original_title": "Rossignols en d\u00e9cembre", "slug_title": "nightingales-in-december", "date": "2012-03-14", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cbpOX6Np8tZP1XP5x4gUjPFtl5F.jpg", "actors": [], "comments": [], "recommandations_id": []}

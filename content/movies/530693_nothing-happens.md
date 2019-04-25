@@ -1,1 +1,0 @@
-{"tmdb_id": 530693, "title": "Nothing Happens", "original_title": "Nothing Happens", "slug_title": "nothing-happens", "date": "2017-06-13", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dNH6YX3dEgrcYo32n6c0o36xtA4.jpg", "actors": [], "comments": [], "recommandations_id": []}

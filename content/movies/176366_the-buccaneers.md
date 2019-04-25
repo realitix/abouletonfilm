@@ -1,1 +1,0 @@
-{"tmdb_id": 176366, "title": "The Buccaneers", "original_title": "The Buccaneers", "slug_title": "the-buccaneers", "date": "1924-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sunshine Sammy Morrison (Ernie (as Hal Roach's Rascals))"], "comments": [], "recommandations_id": []}

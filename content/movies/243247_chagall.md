@@ -1,1 +1,0 @@
-{"tmdb_id": 243247, "title": "Chagall", "original_title": "Chagall", "slug_title": "chagall", "date": "1964-09-17", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j223SsfL9HM8H4UTQftxgIOOBJb.jpg", "actors": ["Vincent Price (Narrator)", "Marc Chagall (Himself)"], "comments": [], "recommandations_id": []}

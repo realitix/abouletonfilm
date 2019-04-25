@@ -1,1 +1,0 @@
-{"tmdb_id": 391875, "title": "Campaign Manager", "original_title": "Campaign Manager", "slug_title": "campaign-manager", "date": "1964-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 234289, "title": "Vive la vente par correspondance", "original_title": "Clippety Clobbered", "slug_title": "vive-la-vente-par-correspondance", "date": "1966-03-11", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2iM2ubD26pVKZ6TBmgbJnmJQsdk.jpg", "actors": [], "comments": [], "recommandations_id": []}

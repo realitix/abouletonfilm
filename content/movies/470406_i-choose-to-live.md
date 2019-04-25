@@ -1,1 +1,0 @@
-{"tmdb_id": 470406, "title": "I Choose to Live", "original_title": "Ho\u010dem \u017eiveti", "slug_title": "i-choose-to-live", "date": "2013-09-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A8Cjl1knlCbbcUY6Mbenkp6M810.jpg", "actors": ["Nina Rakovec (Ne\u017ea)"], "comments": [], "recommandations_id": []}

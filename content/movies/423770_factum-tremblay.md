@@ -1,1 +1,0 @@
-{"tmdb_id": 423770, "title": "Factum Tremblay", "original_title": "Factum Tremblay", "slug_title": "factum-tremblay", "date": "2009-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Natalyn Tremblay (Natalyn Tremblay)", "Jocelyn Tremblay (Jocelyn Tremblay)"], "comments": [], "recommandations_id": []}

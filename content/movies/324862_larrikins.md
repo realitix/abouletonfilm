@@ -1,1 +1,0 @@
-{"tmdb_id": 324862, "title": "Larrikins", "original_title": "Larrikins", "slug_title": "larrikins", "date": "", "genre": "Animation / Com\u00e9die / Musique", "score": "5.3/10", "synopsis": "Les aventures d'un animal du d\u00e9sert.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

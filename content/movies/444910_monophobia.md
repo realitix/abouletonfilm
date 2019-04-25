@@ -1,1 +1,0 @@
-{"tmdb_id": 444910, "title": "Monophobia", "original_title": "Monophobia", "slug_title": "monophobia", "date": "2016-07-21", "genre": "Horreur / Thriller", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9UVlDqeYUhX1vVFnuY6a8DqXQH.jpg", "actors": [], "comments": [], "recommandations_id": []}

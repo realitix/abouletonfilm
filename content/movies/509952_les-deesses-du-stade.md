@@ -1,1 +1,0 @@
-{"tmdb_id": 509952, "title": "Les D\u00e9esses du stade", "original_title": "Les D\u00e9esses du stade", "slug_title": "les-deesses-du-stade", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2QN3rxETAGdggZwL2enmmmaS0C2.jpg", "actors": [], "comments": [], "recommandations_id": []}

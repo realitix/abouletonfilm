@@ -1,1 +1,0 @@
-{"tmdb_id": 566219, "title": "Sea of Shadows", "original_title": "Sea of Shadows", "slug_title": "sea-of-shadows", "date": "2019-03-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1j0R5SQlr0oRzrnzlnhwrTtMPlH.jpg", "actors": [], "comments": [], "recommandations_id": []}

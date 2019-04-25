@@ -1,1 +1,0 @@
-{"tmdb_id": 357773, "title": "Blatzom", "original_title": "Blatzom", "slug_title": "blatzom", "date": "1986-01-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4aUtjRTvEbQvzaol9dsXRNMeEsj.jpg", "actors": ["Jeff Keen ()"], "comments": [], "recommandations_id": []}

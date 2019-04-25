@@ -1,1 +1,0 @@
-{"tmdb_id": 503615, "title": "Well Groomed", "original_title": "Well Groomed", "slug_title": "well-groomed", "date": "2017-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

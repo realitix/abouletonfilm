@@ -1,1 +1,0 @@
-{"tmdb_id": 324533, "title": "100th Anniversary of Bray Productions", "original_title": "100th Anniversary of Bray Productions", "slug_title": "100th-anniversary-of-bray-productions", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

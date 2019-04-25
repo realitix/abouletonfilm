@@ -1,1 +1,0 @@
-{"tmdb_id": 348669, "title": "Severance", "original_title": "Severance", "slug_title": "severance", "date": "2015-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xTErhPI9NeLrgDXB6jqlRYIG0Sl.jpg", "actors": ["Christian Ruvalcaba ()", "Cody Hall ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 377538, "title": "Joy Ride", "original_title": "Usfahrt", "slug_title": "joy-ride", "date": "2000-11-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eW7MyFEzTiU2Ho28mD29ZVlDFMX.jpg", "actors": [], "comments": [], "recommandations_id": []}

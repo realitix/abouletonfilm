@@ -1,1 +1,0 @@
-{"tmdb_id": 417018, "title": "It All Goes Away", "original_title": "It All Goes Away", "slug_title": "it-all-goes-away", "date": "2016-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2iqBGKkiBJJff8i9YqLiHTRQPMa.jpg", "actors": [], "comments": [], "recommandations_id": []}

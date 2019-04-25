@@ -1,1 +1,0 @@
-{"tmdb_id": 184382, "title": "Felix Dopes It Out", "original_title": "Felix Dopes It Out", "slug_title": "felix-dopes-it-out", "date": "1925-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vQir6rdQR4bvDT79VYhjgkaMKEV.jpg", "actors": [], "comments": [], "recommandations_id": []}

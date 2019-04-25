@@ -1,1 +1,0 @@
-{"tmdb_id": 361094, "title": "A Skill for Molina", "original_title": "A Skill for Molina", "slug_title": "a-skill-for-molina", "date": "1964-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/258qgclqH4OggpZejspi7Amxxue.jpg", "actors": [], "comments": [], "recommandations_id": []}

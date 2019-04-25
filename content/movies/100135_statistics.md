@@ -1,1 +1,0 @@
-{"tmdb_id": 100135, "title": "Statistics", "original_title": "Statistics", "slug_title": "statistics", "date": "", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

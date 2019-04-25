@@ -1,1 +1,0 @@
-{"tmdb_id": 402761, "title": "Surviving Alone in Alaska", "original_title": "Surviving Alone in Alaska", "slug_title": "surviving-alone-in-alaska", "date": "2009-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Heimo Korth (Himself)"], "comments": [], "recommandations_id": []}

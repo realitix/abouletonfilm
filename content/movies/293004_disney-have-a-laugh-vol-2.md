@@ -1,1 +1,0 @@
-{"tmdb_id": 293004, "title": "Disney Have a Laugh Vol. 2", "original_title": "Disney Have a Laugh Vol. 2", "slug_title": "disney-have-a-laugh-vol-2", "date": "2010-10-26", "genre": "Animation", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6GrM7HUAyHdaxsyQlHYYr5dz4m5.jpg", "actors": [], "comments": [], "recommandations_id": []}

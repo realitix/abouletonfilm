@@ -1,1 +1,0 @@
-{"tmdb_id": 320395, "title": "Michael Bolton: My Secret Passion", "original_title": "Michael Bolton: My Secret Passion", "slug_title": "michael-bolton-my-secret-passion", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

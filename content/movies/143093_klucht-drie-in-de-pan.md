@@ -1,1 +1,0 @@
-{"tmdb_id": 143093, "title": "Klucht - Drie in de Pan", "original_title": "Klucht - Drie in de Pan", "slug_title": "klucht-drie-in-de-pan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f65kWAwoTs2Fh09BXh9ZNWWgYYH.jpg", "actors": [], "comments": [], "recommandations_id": []}

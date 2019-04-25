@@ -1,1 +1,0 @@
-{"tmdb_id": 556085, "title": "The 1990 New York Mets", "original_title": "The 1990 New York Mets", "slug_title": "the-1990-new-york-mets", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pdW9ZCMJLPcBpCIdB43SEcf4Xpq.jpg", "actors": ["Larry Keith (Narrator)"], "comments": [], "recommandations_id": []}

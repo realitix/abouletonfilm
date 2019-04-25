@@ -1,1 +1,0 @@
-{"tmdb_id": 300652, "title": "Khateeat Malak", "original_title": "Khateeat Malak", "slug_title": "khateeat-malak", "date": "1979-01-01", "genre": "Science-Fiction / Fantastique", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

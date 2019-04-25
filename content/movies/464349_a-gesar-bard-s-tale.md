@@ -1,1 +1,0 @@
-{"tmdb_id": 464349, "title": "A Gesar Bard's Tale", "original_title": "A Gesar Bard's Tale", "slug_title": "a-gesar-bard-s-tale", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t6EhkXrevE8wCFAtYV7wNvBQmh3.jpg", "actors": ["Dawa Drakpa (Himself)"], "comments": [], "recommandations_id": []}

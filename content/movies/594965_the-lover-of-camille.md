@@ -1,1 +1,0 @@
-{"tmdb_id": 594965, "title": "The Lover of Camille", "original_title": "The Lover of Camille", "slug_title": "the-lover-of-camille", "date": "1924-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c1z2vJb5vANtHlrQFs73x1Vds9s.jpg", "actors": [], "comments": [], "recommandations_id": []}

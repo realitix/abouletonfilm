@@ -1,1 +1,0 @@
-{"tmdb_id": 545878, "title": "Das Allg\u00e4u von oben", "original_title": "Das Allg\u00e4u von oben", "slug_title": "das-allgau-von-oben", "date": "", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nwlQRDLItD2W7NtwDgaexUBnGPy.jpg", "actors": [], "comments": [], "recommandations_id": []}

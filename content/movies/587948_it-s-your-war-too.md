@@ -1,1 +1,0 @@
-{"tmdb_id": 587948, "title": "It's Your War Too", "original_title": "It's Your War Too", "slug_title": "it-s-your-war-too", "date": "1944-04-20", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George C. Marshall ()"], "comments": [], "recommandations_id": []}

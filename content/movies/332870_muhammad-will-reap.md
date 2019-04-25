@@ -1,1 +1,0 @@
-{"tmdb_id": 332870, "title": "Muhammad Will Reap", "original_title": "Muhammad Yiktzor", "slug_title": "muhammad-will-reap", "date": "1976-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

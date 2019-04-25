@@ -1,1 +1,0 @@
-{"tmdb_id": 461371, "title": "Tales of the Copper Cross Garden: Episode 1", "original_title": "Tales of the Copper Cross Garden: Episode 1", "slug_title": "tales-of-the-copper-cross-garden-episode-1", "date": "2017-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

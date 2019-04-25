@@ -1,1 +1,0 @@
-{"tmdb_id": 174873, "title": "Poslednee Tango", "original_title": "Poslednee Tango", "slug_title": "poslednee-tango", "date": "1918-05-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vera Kholodnaya (Chloe)", "Ossip Runitsch (Joe)", "Ivan Khudoleyev (Sir Stone)"], "comments": [], "recommandations_id": []}

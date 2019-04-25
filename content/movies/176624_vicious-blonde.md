@@ -1,1 +1,0 @@
-{"tmdb_id": 176624, "title": "Vicious Blonde", "original_title": "Vicious Blonde", "slug_title": "vicious-blonde", "date": "", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

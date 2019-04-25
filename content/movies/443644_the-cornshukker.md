@@ -1,1 +1,0 @@
-{"tmdb_id": 443644, "title": "The Cornshukker", "original_title": "The Cornshukker", "slug_title": "the-cornshukker", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/42onOHVrRad4k6XMiZA7Uv5POjX.jpg", "actors": [], "comments": [], "recommandations_id": []}

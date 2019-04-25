@@ -1,1 +1,0 @@
-{"tmdb_id": 190081, "title": "Tusalava", "original_title": "Tusalava", "slug_title": "tusalava", "date": "1929-12-01", "genre": "", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8sU8P4tOezcq5XuDSrZWGxiipvQ.jpg", "actors": [], "comments": [], "recommandations_id": [190309, 174298, 104806, 236063]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 82722, "title": "Nayakudu", "original_title": "Nayakudu", "slug_title": "nayakudu", "date": "1987-07-13", "genre": "Drame / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hMzj1uNplPibeUjou4OitK3H9Vk.jpg", "actors": [], "comments": [], "recommandations_id": []}

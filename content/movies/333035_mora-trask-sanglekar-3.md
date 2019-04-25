@@ -1,1 +1,0 @@
-{"tmdb_id": 333035, "title": "Mora Tr\u00e4sk-S\u00e5nglekar 3", "original_title": "Mora Tr\u00e4sk-S\u00e5nglekar 3", "slug_title": "mora-trask-sanglekar-3", "date": "2005-08-24", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

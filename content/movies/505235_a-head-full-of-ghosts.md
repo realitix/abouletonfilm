@@ -1,1 +1,0 @@
-{"tmdb_id": 505235, "title": "A Head Full of Ghosts", "original_title": "A Head Full of Ghosts", "slug_title": "a-head-full-of-ghosts", "date": "", "genre": "Thriller", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

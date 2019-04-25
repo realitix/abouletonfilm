@@ -1,1 +1,0 @@
-{"tmdb_id": 317609, "title": "Captains Outrageous", "original_title": "Captains Outrageous", "slug_title": "captains-outrageous", "date": "1952-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

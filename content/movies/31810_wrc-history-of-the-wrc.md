@@ -1,1 +1,0 @@
-{"tmdb_id": 31810, "title": "WRC: History of the WRC", "original_title": "WRC: History of the WRC", "slug_title": "wrc-history-of-the-wrc", "date": "2009-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7H1DbDfFlOuiCNnL5pe9jhyUDSE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 335304, "title": "Life Track", "original_title": "Gwedo", "slug_title": "life-track", "date": "2007-10-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nQi0n8CNlux6XEWgSnzpaHgd6EP.jpg", "actors": ["Jing-Hu Chui (Chul-su)", "Su-yeon Jang (Hyang-suk)"], "comments": [], "recommandations_id": []}

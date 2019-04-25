@@ -1,1 +1,0 @@
-{"tmdb_id": 517728, "title": "Hingabe", "original_title": "Hingabe", "slug_title": "hingabe", "date": "1929-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marcella Albani (die Frau)", "Hans Adalbert Schlettow (der Mann)", "Clementine Plessner (die Mutter)"], "comments": [], "recommandations_id": []}

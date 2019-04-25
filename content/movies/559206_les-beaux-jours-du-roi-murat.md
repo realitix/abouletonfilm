@@ -1,1 +1,0 @@
-{"tmdb_id": 559206, "title": "Les beaux jours du roi Murat", "original_title": "Les beaux jours du roi Murat", "slug_title": "les-beaux-jours-du-roi-murat", "date": "1947-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 343384, "title": "Back to God's Country", "original_title": "Back to God's Country", "slug_title": "back-to-god-s-country", "date": "1927-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

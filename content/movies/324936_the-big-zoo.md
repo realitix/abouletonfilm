@@ -1,1 +1,0 @@
-{"tmdb_id": 324936, "title": "The Big Zoo", "original_title": "The Big Zoo", "slug_title": "the-big-zoo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

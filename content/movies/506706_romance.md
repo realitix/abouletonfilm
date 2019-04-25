@@ -1,1 +1,0 @@
-{"tmdb_id": 506706, "title": "Romance", "original_title": "Romance", "slug_title": "romance", "date": "2004-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8bRpneRnspx3QIL4DJd8DqhLkAO.jpg", "actors": [], "comments": [], "recommandations_id": []}

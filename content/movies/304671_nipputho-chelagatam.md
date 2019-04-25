@@ -1,1 +1,0 @@
-{"tmdb_id": 304671, "title": "Nipputho Chelagatam", "original_title": "Nipputho Chelagatam", "slug_title": "nipputho-chelagatam", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

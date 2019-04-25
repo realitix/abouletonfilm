@@ -1,1 +1,0 @@
-{"tmdb_id": 328907, "title": "Cutthroat", "original_title": "Cutthroat", "slug_title": "cutthroat", "date": "2013-05-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uegt0Yz0Y4ehQc3qmAPIwYyeY4Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

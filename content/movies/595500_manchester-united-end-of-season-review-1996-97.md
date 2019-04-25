@@ -1,1 +1,0 @@
-{"tmdb_id": 595500, "title": "Manchester United - End Of Season Review 1996/97", "original_title": "Manchester United - End Of Season Review 1996/97", "slug_title": "manchester-united-end-of-season-review-1996-97", "date": "1997-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

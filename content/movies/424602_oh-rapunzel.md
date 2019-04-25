@@ -1,1 +1,0 @@
-{"tmdb_id": 424602, "title": "Oh, Rapunzel", "original_title": "Oh, Rapunzel", "slug_title": "oh-rapunzel", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7rpct73kNj2a8H4rVgHLYIYhTDQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

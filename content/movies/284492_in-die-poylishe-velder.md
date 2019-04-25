@@ -1,1 +1,0 @@
-{"tmdb_id": 284492, "title": "In die poylishe velder", "original_title": "In die poylishe velder", "slug_title": "in-die-poylishe-velder", "date": "1929-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Diana Blumenfeld ()", "Silven Rich ()", "Mojzesz Lipman ()"], "comments": [], "recommandations_id": []}

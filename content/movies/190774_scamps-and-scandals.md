@@ -1,1 +1,0 @@
-{"tmdb_id": 190774, "title": "Scamps and Scandals", "original_title": "Scamps and Scandals", "slug_title": "scamps-and-scandals", "date": "1919-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Semon (Larry)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 187821, "title": "POD - Still Payin' Dues", "original_title": "POD - Still Payin' Dues", "slug_title": "pod-still-payin-dues", "date": "2002-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/60hsU0XuVwEj3zGEgEo6al3DXMD.jpg", "actors": [], "comments": [], "recommandations_id": []}

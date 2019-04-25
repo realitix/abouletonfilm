@@ -1,1 +1,0 @@
-{"tmdb_id": 263595, "title": "Guidelines", "original_title": "La marche \u00e0 suivre", "slug_title": "guidelines", "date": "2014-02-11", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AmqIXSAyDBm6dWX0soDoSRN4RGV.jpg", "actors": ["Claude Leblanc (Claude Leblanc)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 300422, "title": "Chasing the White Dragon", "original_title": "Chasing the White Dragon", "slug_title": "chasing-the-white-dragon", "date": "2008-08-07", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cqnQNl6aCMnAd6QIXTi4LQCt1qd.jpg", "actors": [], "comments": [], "recommandations_id": []}

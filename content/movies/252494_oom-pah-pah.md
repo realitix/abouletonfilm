@@ -1,1 +1,0 @@
-{"tmdb_id": 252494, "title": "Oom Pah Pah", "original_title": "Oom Pah Pah", "slug_title": "oom-pah-pah", "date": "1930-05-11", "genre": "Animation / Musique", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

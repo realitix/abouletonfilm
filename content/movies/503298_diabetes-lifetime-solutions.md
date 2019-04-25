@@ -1,1 +1,0 @@
-{"tmdb_id": 503298, "title": "Diabetes, Lifetime Solutions", "original_title": "Diabetes, Lifetime Solutions", "slug_title": "diabetes-lifetime-solutions", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

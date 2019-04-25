@@ -1,1 +1,0 @@
-{"tmdb_id": 498653, "title": "Pepper and the Salt Sea", "original_title": "Pepper and the Salt Sea", "slug_title": "pepper-and-the-salt-sea", "date": "2015-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a0rQbPAlnmYytSjX7CYPTWqQNMn.jpg", "actors": [], "comments": [], "recommandations_id": []}

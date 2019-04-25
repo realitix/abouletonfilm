@@ -1,1 +1,0 @@
-{"tmdb_id": 414104, "title": "Death of a Friend", "original_title": "Morte di un amico", "slug_title": "death-of-a-friend", "date": "1960-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/IZThvRVqfXlif1k0O2IvKBPlQt.jpg", "actors": [], "comments": [], "recommandations_id": []}

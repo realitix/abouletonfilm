@@ -1,1 +1,0 @@
-{"tmdb_id": 264974, "title": "Kursaison im Dirndlh\u00f6schen", "original_title": "Kursaison im Dirndlh\u00f6schen", "slug_title": "kursaison-im-dirndlhoschen", "date": "1981-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y6EtOrV56HzN3DnIQScVODE7cYO.jpg", "actors": [], "comments": [], "recommandations_id": []}

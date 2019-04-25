@@ -1,1 +1,0 @@
-{"tmdb_id": 375482, "title": "Whatever Happened to Peaches Christ?", "original_title": "Whatever Happened to Peaches Christ?", "slug_title": "whatever-happened-to-peaches-christ", "date": "2004-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 300613, "title": "The Offering", "original_title": "The Offering", "slug_title": "the-offering", "date": "2014-11-03", "genre": "", "score": "3.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lcxXmMpYyGRAhOBEuTnj8HN3sPN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 456887, "title": "The Water Dwellers", "original_title": "The Water Dwellers", "slug_title": "the-water-dwellers", "date": "1963-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ndSbYqu4kmnoH3em8BHMrUtdrm8.jpg", "actors": [], "comments": [], "recommandations_id": []}

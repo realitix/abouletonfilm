@@ -1,1 +1,0 @@
-{"tmdb_id": 64415, "title": "Buzz and Poppy", "original_title": "Buzz and Poppy", "slug_title": "buzz-and-poppy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

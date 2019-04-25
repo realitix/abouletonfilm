@@ -1,1 +1,0 @@
-{"tmdb_id": 456373, "title": "Toque de queda", "original_title": "Toque de queda", "slug_title": "toque-de-queda", "date": "1978-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

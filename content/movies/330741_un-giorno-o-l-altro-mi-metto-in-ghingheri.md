@@ -1,1 +1,0 @@
-{"tmdb_id": 330741, "title": "Un Giorno O L'Altro Mi Metto In Ghingheri", "original_title": "Un Giorno O L'Altro Mi Metto In Ghingheri", "slug_title": "un-giorno-o-l-altro-mi-metto-in-ghingheri", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Astutillo Smeriglia ()"], "comments": [], "recommandations_id": []}

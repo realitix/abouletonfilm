@@ -1,1 +1,0 @@
-{"tmdb_id": 72953, "title": "Devil's Bible", "original_title": "Devil's Bible", "slug_title": "devil-s-bible", "date": "2008-12-14", "genre": "Documentaire / Histoire / Myst\u00e8re", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tNUldOVuPsXwtRlyLEVnlYFSP0i.jpg", "actors": [], "comments": [], "recommandations_id": [221909, 362689]}

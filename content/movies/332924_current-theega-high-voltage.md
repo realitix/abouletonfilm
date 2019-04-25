@@ -1,1 +1,0 @@
-{"tmdb_id": 332924, "title": "Current Theega - High Voltage", "original_title": "Current Theega - High Voltage", "slug_title": "current-theega-high-voltage", "date": "2014-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

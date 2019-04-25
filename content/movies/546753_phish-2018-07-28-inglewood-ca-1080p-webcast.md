@@ -1,1 +1,0 @@
-{"tmdb_id": 546753, "title": "Phish - 2018-07-28 - Inglewood, CA 1080p Webcast", "original_title": "Phish - 2018-07-28 - Inglewood, CA 1080p Webcast", "slug_title": "phish-2018-07-28-inglewood-ca-1080p-webcast", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

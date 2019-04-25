@@ -1,1 +1,0 @@
-{"tmdb_id": 307181, "title": "Kalkandu", "original_title": "Kalkandu", "slug_title": "kalkandu", "date": "2014-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gajesh (Karthik)", "Dimple Chopade (Karthika)", "Akhil (Vignesh)"], "comments": [], "recommandations_id": []}

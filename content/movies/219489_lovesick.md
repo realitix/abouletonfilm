@@ -1,1 +1,0 @@
-{"tmdb_id": 219489, "title": "Lovesick", "original_title": "Lovesick", "slug_title": "lovesick", "date": "1937-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

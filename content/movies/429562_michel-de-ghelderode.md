@@ -1,1 +1,0 @@
-{"tmdb_id": 429562, "title": "Michel de Ghelderode", "original_title": "Michel de Ghelderode", "slug_title": "michel-de-ghelderode", "date": "1957-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 505546, "title": "Musta Lumikki", "original_title": "Musta Lumikki", "slug_title": "musta-lumikki", "date": "1971-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gzYqYtreljKdSZdMW1gQFPvAEao.jpg", "actors": [], "comments": [], "recommandations_id": []}

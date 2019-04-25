@@ -1,1 +1,0 @@
-{"tmdb_id": 587942, "title": "Fighting Sea-Fleas", "original_title": "Fighting Sea-Fleas", "slug_title": "fighting-sea-fleas", "date": "1944-03-13", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lorne Greene (Narrator (voice))"], "comments": [], "recommandations_id": []}

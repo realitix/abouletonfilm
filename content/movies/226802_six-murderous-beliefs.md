@@ -1,1 +1,0 @@
-{"tmdb_id": 226802, "title": "Six Murderous Beliefs", "original_title": "Six Murderous Beliefs", "slug_title": "six-murderous-beliefs", "date": "1955-01-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qg4mJQGcbEhnWIuLiPtEroTQcQM.jpg", "actors": [], "comments": [], "recommandations_id": []}

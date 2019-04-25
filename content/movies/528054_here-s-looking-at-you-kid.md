@@ -1,1 +1,0 @@
-{"tmdb_id": 528054, "title": "Here's Looking at You, Kid!", "original_title": "\u5361\u62c9[\u8d85\u4f4f\uff08\u4f60\uff09\u5605]", "slug_title": "here-s-looking-at-you-kid", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

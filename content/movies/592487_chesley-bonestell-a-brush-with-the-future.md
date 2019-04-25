@@ -1,1 +1,0 @@
-{"tmdb_id": 592487, "title": "Chesley Bonestell: A Brush with the Future", "original_title": "Chesley Bonestell: A Brush with the Future", "slug_title": "chesley-bonestell-a-brush-with-the-future", "date": "", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

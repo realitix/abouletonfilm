@@ -1,1 +1,0 @@
-{"tmdb_id": 273942, "title": "Held for Ransom", "original_title": "Held for Ransom", "slug_title": "held-for-ransom", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 361205, "title": "Motley's Law", "original_title": "Motley's Law", "slug_title": "motley-s-law", "date": "2015-10-15", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lOfMVzq9hOuyCTJW19BGj7tIRcK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 559048, "title": "Return of the Catalina", "original_title": "Return of the Catalina", "slug_title": "return-of-the-catalina", "date": "", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

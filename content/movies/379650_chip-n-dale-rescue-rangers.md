@@ -1,1 +1,0 @@
-{"tmdb_id": 379650, "title": "Chip 'N' Dale Rescue Rangers", "original_title": "Chip 'N' Dale Rescue Rangers", "slug_title": "chip-n-dale-rescue-rangers", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A3SOEybn9hEyZfMXDmxAZTy4cL2.jpg", "actors": [], "comments": [], "recommandations_id": []}

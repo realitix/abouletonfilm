@@ -1,1 +1,0 @@
-{"tmdb_id": 79292, "title": "Against the War", "original_title": "Against the War", "slug_title": "against-the-war", "date": "1999-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harold Pinter (himself)"], "comments": [], "recommandations_id": []}

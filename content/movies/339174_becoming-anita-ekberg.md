@@ -1,1 +1,0 @@
-{"tmdb_id": 339174, "title": "Becoming Anita Ekberg", "original_title": "Becoming Anita Ekberg", "slug_title": "becoming-anita-ekberg", "date": "2014-05-07", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6M457fAntVKyiGxuyCPEWTfDQPH.jpg", "actors": ["Anita Ekberg ()"], "comments": [], "recommandations_id": []}

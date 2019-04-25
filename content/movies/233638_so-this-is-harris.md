@@ -1,1 +1,0 @@
-{"tmdb_id": 233638, "title": "So This Is Harris!", "original_title": "So This Is Harris!", "slug_title": "so-this-is-harris", "date": "1933-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/twrmZkTn0RWf4ALmKNwnoXGVguI.jpg", "actors": [], "comments": [], "recommandations_id": []}

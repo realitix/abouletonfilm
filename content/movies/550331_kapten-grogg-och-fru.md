@@ -1,1 +1,0 @@
-{"tmdb_id": 550331, "title": "Kapten Grogg och fru", "original_title": "Kapten Grogg och fru", "slug_title": "kapten-grogg-och-fru", "date": "1918-11-11", "genre": "Com\u00e9die / Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

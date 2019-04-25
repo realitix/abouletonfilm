@@ -1,1 +1,0 @@
-{"tmdb_id": 529880, "title": "Re-Surveying the World", "original_title": "Re-Surveying the World", "slug_title": "re-surveying-the-world", "date": "2016-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

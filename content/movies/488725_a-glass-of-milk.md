@@ -1,1 +1,0 @@
-{"tmdb_id": 488725, "title": "A Glass of Milk", "original_title": "A Glass of Milk", "slug_title": "a-glass-of-milk", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vzRBHLesldJ2gQo9xNQokHPLCsY.jpg", "actors": [], "comments": [], "recommandations_id": []}

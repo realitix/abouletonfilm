@@ -1,1 +1,0 @@
-{"tmdb_id": 216996, "title": "Dark Funeral: Bloodstock 2013", "original_title": "Dark Funeral: Bloodstock 2013", "slug_title": "dark-funeral-bloodstock-2013", "date": "2013-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

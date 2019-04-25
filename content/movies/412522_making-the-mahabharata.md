@@ -1,1 +1,0 @@
-{"tmdb_id": 412522, "title": "Making The Mahabharata", "original_title": "Making The Mahabharata", "slug_title": "making-the-mahabharata", "date": "1989-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dsliU3a9kXnaNEgz2Ajq1NzFrW2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 317530, "title": "Soweto Gospel Choir: Blessed Live in Concert", "original_title": "Soweto Gospel Choir: Blessed Live in Concert", "slug_title": "soweto-gospel-choir-blessed-live-in-concert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

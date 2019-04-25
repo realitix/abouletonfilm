@@ -1,1 +1,0 @@
-{"tmdb_id": 566526, "title": "Les bancals", "original_title": "Les bancals", "slug_title": "les-bancals", "date": "1983-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vgM4pxM2aZSq6vNQ0fQ15ztc4iA.jpg", "actors": [], "comments": [], "recommandations_id": []}

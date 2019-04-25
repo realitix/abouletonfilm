@@ -1,1 +1,0 @@
-{"tmdb_id": 27882, "title": "Zombies & Cigarettes", "original_title": "Zombies & Cigarettes", "slug_title": "zombies-cigarettes", "date": "2009-01-01", "genre": "Horreur", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h3CWoMTFHgg8qrEkULCgIMmO7mP.jpg", "actors": [], "comments": [], "recommandations_id": []}

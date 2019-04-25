@@ -1,1 +1,0 @@
-{"tmdb_id": 520880, "title": "Rain or Shine", "original_title": "Rain or Shine", "slug_title": "rain-or-shine", "date": "2012-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

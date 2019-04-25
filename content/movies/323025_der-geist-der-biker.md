@@ -1,1 +1,0 @@
-{"tmdb_id": 323025, "title": "Der Geist der Biker", "original_title": "Der Geist der Biker", "slug_title": "der-geist-der-biker", "date": "2014-12-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7TMKWp4FFEJOEZ61qtgRfKikTRu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 50140, "title": "Lady Ninja Kasumi 4", "original_title": "Lady Ninja Kasumi 4", "slug_title": "lady-ninja-kasumi-4", "date": "", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1UA7QOJkye4oVbT9ihELIU1oDZF.jpg", "actors": [], "comments": [], "recommandations_id": []}

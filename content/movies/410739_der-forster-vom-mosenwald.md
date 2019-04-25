@@ -1,1 +1,0 @@
-{"tmdb_id": 410739, "title": "Der F\u00f6rster vom M\u00f6senwald", "original_title": "Der F\u00f6rster vom M\u00f6senwald", "slug_title": "der-forster-vom-mosenwald", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

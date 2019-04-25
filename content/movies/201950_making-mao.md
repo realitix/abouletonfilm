@@ -1,1 +1,0 @@
-{"tmdb_id": 201950, "title": "Making Mao", "original_title": "Making Mao", "slug_title": "making-mao", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z6ovqgejtdcXJYtc10Tbmaiyjxf.jpg", "actors": [], "comments": [], "recommandations_id": []}

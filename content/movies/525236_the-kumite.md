@@ -1,1 +1,0 @@
-{"tmdb_id": 525236, "title": "The Kumite", "original_title": "The Kumite", "slug_title": "the-kumite", "date": "2009-01-01", "genre": "Documentaire / Action", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AsmP65ECDuBkLAI7hvHXVdqg5mK.jpg", "actors": ["Maximus (Maximus)"], "comments": [], "recommandations_id": []}

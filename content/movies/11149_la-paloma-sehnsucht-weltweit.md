@@ -1,1 +1,0 @@
-{"tmdb_id": 11149, "title": "La Paloma. Sehnsucht. Weltweit", "original_title": "La Paloma. Sehnsucht. Weltweit", "slug_title": "la-paloma-sehnsucht-weltweit", "date": "2008-04-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 221317, "title": "New Dominion Tank Police", "original_title": "Tokus\u00f4 sensha-tai Dominion", "slug_title": "new-dominion-tank-police", "date": "1993-09-13", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tmfAeVPwLOiTSXryn2W58sH75OK.jpg", "actors": [], "comments": [], "recommandations_id": []}

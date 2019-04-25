@@ -1,1 +1,0 @@
-{"tmdb_id": 432480, "title": "Self Centaured", "original_title": "Self Centaured", "slug_title": "self-centaured", "date": "2011-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mTU44zHEaaHiIzAvkST3cFYWodf.jpg", "actors": ["Martyn Horner-Glister (Tambourine Man)"], "comments": [], "recommandations_id": []}

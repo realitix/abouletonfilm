@@ -1,1 +1,0 @@
-{"tmdb_id": 578384, "title": "Oomagatoki", "original_title": "Oomagatoki", "slug_title": "oomagatoki", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

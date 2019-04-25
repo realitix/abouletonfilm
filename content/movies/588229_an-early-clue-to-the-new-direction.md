@@ -1,1 +1,0 @@
-{"tmdb_id": 588229, "title": "An Early Clue to the New Direction", "original_title": "An Early Clue to the New Direction", "slug_title": "an-early-clue-to-the-new-direction", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

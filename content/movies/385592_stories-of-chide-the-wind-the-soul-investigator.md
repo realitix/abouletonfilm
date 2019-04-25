@@ -1,1 +1,0 @@
-{"tmdb_id": 385592, "title": "Stories Of Chide The Wind: The Soul Investigator", "original_title": "Stories Of Chide The Wind: The Soul Investigator", "slug_title": "stories-of-chide-the-wind-the-soul-investigator", "date": "1994-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 301711, "title": "Skunk Ape Hunters in Texas", "original_title": "Skunk Ape Hunters in Texas", "slug_title": "skunk-ape-hunters-in-texas", "date": "2011-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

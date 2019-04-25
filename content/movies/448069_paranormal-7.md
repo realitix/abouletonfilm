@@ -1,1 +1,0 @@
-{"tmdb_id": 448069, "title": "Paranormal 7", "original_title": "7 \u0e2d\u0e32\u0e16\u0e23\u0e23\u0e1e\u0e13\u0e4c", "slug_title": "paranormal-7", "date": "1978-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hFE5paHUBDEH1OQbXMmSEvqaRTG.jpg", "actors": [], "comments": [], "recommandations_id": []}

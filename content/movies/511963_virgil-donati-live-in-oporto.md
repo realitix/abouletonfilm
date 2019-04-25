@@ -1,1 +1,0 @@
-{"tmdb_id": 511963, "title": "Virgil Donati - Live in Oporto", "original_title": "Virgil Donati - Live in Oporto", "slug_title": "virgil-donati-live-in-oporto", "date": "2009-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r9evzNDedXjEOp4Ua9Gxa0rjr7W.jpg", "actors": [], "comments": [], "recommandations_id": []}

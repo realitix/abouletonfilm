@@ -1,1 +1,0 @@
-{"tmdb_id": 183373, "title": "Cattle Mutilation", "original_title": "Cattle Mutilation", "slug_title": "cattle-mutilation", "date": "1983-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tO8ECN1q3nUYkLGRnjNShMobJu.jpg", "actors": [], "comments": [], "recommandations_id": []}

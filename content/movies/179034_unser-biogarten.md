@@ -1,1 +1,0 @@
-{"tmdb_id": 179034, "title": "Unser Biogarten", "original_title": "Unser Biogarten", "slug_title": "unser-biogarten", "date": "2013-02-18", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9hvD93A542bo9nSRFdlFR32ksKz.jpg", "actors": ["R\u00fcdiger Dahlke (Himself)"], "comments": [], "recommandations_id": []}

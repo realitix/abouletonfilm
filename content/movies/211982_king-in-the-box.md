@@ -1,1 +1,0 @@
-{"tmdb_id": 211982, "title": "King in the Box", "original_title": "King in the Box", "slug_title": "king-in-the-box", "date": "2007-09-21", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2H6618fejxVeLQUl5MjeV47QvKa.jpg", "actors": [], "comments": [], "recommandations_id": []}

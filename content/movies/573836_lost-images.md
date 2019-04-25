@@ -1,1 +1,0 @@
-{"tmdb_id": 573836, "title": "Lost images", "original_title": "Lost images", "slug_title": "lost-images", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

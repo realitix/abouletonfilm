@@ -1,1 +1,0 @@
-{"tmdb_id": 154597, "title": "Permaculture Soils", "original_title": "Permaculture Soils", "slug_title": "permaculture-soils", "date": "2010-10-30", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ubHMTPeVaidDPTWrR2aMtUfDCFd.jpg", "actors": ["Geoff Lawton (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 551618, "title": "Sundown", "original_title": "G\u00fcnbatimi", "slug_title": "sundown", "date": "2014-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zOpuq8Yih87ceiD6IzPVWbrKwuh.jpg", "actors": [], "comments": [], "recommandations_id": []}

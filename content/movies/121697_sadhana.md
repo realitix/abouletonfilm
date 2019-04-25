@@ -1,1 +1,0 @@
-{"tmdb_id": 121697, "title": "Sadhana", "original_title": "Sadhana", "slug_title": "sadhana", "date": "1989-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

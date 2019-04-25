@@ -1,1 +1,0 @@
-{"tmdb_id": 410353, "title": "Nana Benz", "original_title": "Nana Benz", "slug_title": "nana-benz", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

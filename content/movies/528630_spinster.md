@@ -1,1 +1,0 @@
-{"tmdb_id": 528630, "title": "Spinster", "original_title": "Spinster", "slug_title": "spinster", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chelsea Peretti ()"], "comments": [], "recommandations_id": []}

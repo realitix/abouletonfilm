@@ -1,1 +1,0 @@
-{"tmdb_id": 341215, "title": "When the Line Goes Through", "original_title": "When the Line Goes Through", "slug_title": "when-the-line-goes-through", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/77J20eeWzCNnJ83MFYEmuKO4c9z.jpg", "actors": [], "comments": [], "recommandations_id": []}

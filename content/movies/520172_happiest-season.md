@@ -1,1 +1,0 @@
-{"tmdb_id": 520172, "title": "Happiest Season", "original_title": "Happiest Season", "slug_title": "happiest-season", "date": "", "genre": "Romance / Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kristen Stewart ()", "Mackenzie Davis ()"], "comments": [], "recommandations_id": []}

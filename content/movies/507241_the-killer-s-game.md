@@ -1,1 +1,0 @@
-{"tmdb_id": 507241, "title": "The Killer's Game", "original_title": "The Killer's Game", "slug_title": "the-killer-s-game", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jason Statham ()"], "comments": [], "recommandations_id": []}

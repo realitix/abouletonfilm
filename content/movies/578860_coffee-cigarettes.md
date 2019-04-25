@@ -1,1 +1,0 @@
-{"tmdb_id": 578860, "title": "Coffee & Cigarettes", "original_title": "Coffee & Cigarettes", "slug_title": "coffee-cigarettes", "date": "2019-01-30", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8NVhvpIUhJexkbKCovBvnKRjSML.jpg", "actors": ["Miles Edwards (Him)"], "comments": [], "recommandations_id": []}

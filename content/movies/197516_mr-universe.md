@@ -1,1 +1,0 @@
-{"tmdb_id": 197516, "title": "Mr. Universe", "original_title": "Mr. Universe", "slug_title": "mr-universe", "date": "1988-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/10zR3yLTSJf7hAgDxV1sg2Vx311.jpg", "actors": [], "comments": [], "recommandations_id": []}

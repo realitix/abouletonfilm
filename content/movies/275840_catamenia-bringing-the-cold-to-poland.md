@@ -1,1 +1,0 @@
-{"tmdb_id": 275840, "title": "Catamenia: Bringing the Cold to Poland", "original_title": "Catamenia: Bringing the Cold to Poland", "slug_title": "catamenia-bringing-the-cold-to-poland", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

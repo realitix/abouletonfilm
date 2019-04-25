@@ -1,1 +1,0 @@
-{"tmdb_id": 326349, "title": "Regul\u00e6, un film fait dans les r\u00e8gles", "original_title": "Regul\u00e6, un film fait dans les r\u00e8gles", "slug_title": "regulae-un-film-fait-dans-les-regles", "date": "1974-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 491896, "title": "Trunk of Death", "original_title": "Trunk of Death", "slug_title": "trunk-of-death", "date": "2015-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lhVbMVsrzZ5920zvE5qU1j5vOD4.jpg", "actors": [], "comments": [], "recommandations_id": []}

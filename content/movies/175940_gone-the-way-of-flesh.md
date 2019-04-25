@@ -1,1 +1,0 @@
-{"tmdb_id": 175940, "title": "Gone the Way of Flesh", "original_title": "Gone the Way of Flesh", "slug_title": "gone-the-way-of-flesh", "date": "2006-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jos4NfEyq2spNJeXN2z8uyk49Hy.jpg", "actors": [], "comments": [], "recommandations_id": []}

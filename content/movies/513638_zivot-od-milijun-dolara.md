@@ -1,1 +1,0 @@
-{"tmdb_id": 513638, "title": "\u017divot od milijun dolara", "original_title": "\u017divot od milijun dolara", "slug_title": "zivot-od-milijun-dolara", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/auCMfSU43BHeRzpzkIP2wV51Ddh.jpg", "actors": [], "comments": [], "recommandations_id": []}

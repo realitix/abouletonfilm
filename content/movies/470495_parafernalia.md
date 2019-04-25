@@ -1,1 +1,0 @@
-{"tmdb_id": 470495, "title": "Parafernalia", "original_title": "Parafernalia", "slug_title": "parafernalia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

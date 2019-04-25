@@ -1,1 +1,0 @@
-{"tmdb_id": 391524, "title": "6X9: An Immersive Experiece of Solitary Confinement", "original_title": "6X9: An Immersive Experiece of Solitary Confinement", "slug_title": "6x9-an-immersive-experiece-of-solitary-confinement", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

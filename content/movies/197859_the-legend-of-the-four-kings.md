@@ -1,1 +1,0 @@
-{"tmdb_id": 197859, "title": "The Legend of the Four Kings", "original_title": "The Legend of the Four Kings", "slug_title": "the-legend-of-the-four-kings", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jjte1bt7ucYwvV5rW8wEwk3xnos.jpg", "actors": [], "comments": [], "recommandations_id": []}

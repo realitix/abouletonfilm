@@ -1,1 +1,0 @@
-{"tmdb_id": 232064, "title": "Steam Hammer", "original_title": "Steam Hammer", "slug_title": "steam-hammer", "date": "1904-05-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

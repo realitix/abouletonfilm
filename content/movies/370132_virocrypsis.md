@@ -1,1 +1,0 @@
-{"tmdb_id": 370132, "title": "virocrypsis", "original_title": "virocrypsis", "slug_title": "virocrypsis", "date": "2015-11-26", "genre": "Documentaire / Histoire / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

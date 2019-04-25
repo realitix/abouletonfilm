@@ -1,1 +1,0 @@
-{"tmdb_id": 357039, "title": "The Training of Infantry", "original_title": "The Training of Infantry", "slug_title": "the-training-of-infantry", "date": "1900-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

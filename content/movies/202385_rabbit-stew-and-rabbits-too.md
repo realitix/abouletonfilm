@@ -1,1 +1,0 @@
-{"tmdb_id": 202385, "title": "Rabbit Stew and Rabbits Too!", "original_title": "Rabbit Stew and Rabbits Too!", "slug_title": "rabbit-stew-and-rabbits-too", "date": "1969-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

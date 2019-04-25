@@ -1,1 +1,0 @@
-{"tmdb_id": 270965, "title": "Mind the Steps!", "original_title": "Vigy\u00e1zat L\u00e9pcs\u0151!", "slug_title": "mind-the-steps", "date": "1989-01-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gYyUwuPGWvjIQPCn8Hg4miGl8aZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

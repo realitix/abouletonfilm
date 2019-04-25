@@ -1,1 +1,0 @@
-{"tmdb_id": 586491, "title": "The Event Horizon", "original_title": "The Event Horizon", "slug_title": "the-event-horizon", "date": "2015-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Guillermo Moncayo (Director)"], "comments": [], "recommandations_id": []}

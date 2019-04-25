@@ -1,1 +1,0 @@
-{"tmdb_id": 303389, "title": "Haathkadi", "original_title": "Haathkadi", "slug_title": "haathkadi", "date": "1982-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/al7WDKAUxkWAtvdH5YAXySUZkLj.jpg", "actors": [], "comments": [], "recommandations_id": []}

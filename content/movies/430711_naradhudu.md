@@ -1,1 +1,1 @@
-{"tmdb_id": 430711, "title": "Naradhudu", "original_title": "Naradhudu", "slug_title": "naradhudu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 430711, "title": "Naradhudu", "original_title": "Naradhudu", "slug_title": "naradhudu", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "2016 Telugu Movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

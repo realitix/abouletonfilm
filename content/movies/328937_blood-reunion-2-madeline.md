@@ -1,1 +1,0 @@
-{"tmdb_id": 328937, "title": "Blood Reunion 2: Madeline", "original_title": "Blood Reunion 2: Madeline", "slug_title": "blood-reunion-2-madeline", "date": "2015-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

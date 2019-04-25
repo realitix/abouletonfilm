@@ -1,1 +1,0 @@
-{"tmdb_id": 93972, "title": "Bikershaw Festival", "original_title": "Bikershaw Festival", "slug_title": "bikershaw-festival", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uF3lPnWX5dlSle1imeYG35EuaVD.jpg", "actors": [], "comments": [], "recommandations_id": []}

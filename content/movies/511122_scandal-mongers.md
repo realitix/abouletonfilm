@@ -1,1 +1,0 @@
-{"tmdb_id": 511122, "title": "Scandal Mongers", "original_title": "Scandal Mongers", "slug_title": "scandal-mongers", "date": "1918-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lois Weber (Daisy Dean)", "Phillips Smalley (William Wright)", "Rupert Julian (Robert Gordon)"], "comments": [], "recommandations_id": []}

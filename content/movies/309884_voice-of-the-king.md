@@ -1,1 +1,0 @@
-{"tmdb_id": 309884, "title": "Voice of the King", "original_title": "Voice of the King", "slug_title": "voice-of-the-king", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

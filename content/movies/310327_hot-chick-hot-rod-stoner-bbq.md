@@ -1,1 +1,0 @@
-{"tmdb_id": 310327, "title": "Hot Chick Hot Rod Stoner BBQ", "original_title": "Hot Chick Hot Rod Stoner BBQ", "slug_title": "hot-chick-hot-rod-stoner-bbq", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

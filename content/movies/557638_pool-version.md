@@ -1,1 +1,0 @@
-{"tmdb_id": 557638, "title": "Pool Version", "original_title": "Pool Version", "slug_title": "pool-version", "date": "2016-08-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ddvxzg7RyBicNVAkCYDn57hLMZq.jpg", "actors": ["Alena D\u017eebo (Aida)"], "comments": [], "recommandations_id": []}

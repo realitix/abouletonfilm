@@ -1,1 +1,0 @@
-{"tmdb_id": 557195, "title": "Lulu Santos: Toca + Lulu Ao Vivo", "original_title": "Lulu Santos: Toca + Lulu Ao Vivo", "slug_title": "lulu-santos-toca-lulu-ao-vivo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7QSIGzofb9jW8UziHvbGcqWwyf5.jpg", "actors": [], "comments": [], "recommandations_id": []}

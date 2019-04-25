@@ -1,1 +1,0 @@
-{"tmdb_id": 596381, "title": "Merlin's Apprentice", "original_title": "Merlin's Apprentice", "slug_title": "merlin-s-apprentice", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fh5mSUtTPlD2iK69nsHjJwfeq47.jpg", "actors": [], "comments": [], "recommandations_id": []}

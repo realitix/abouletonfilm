@@ -1,1 +1,0 @@
-{"tmdb_id": 334352, "title": "TNA Bound For Glory 2010", "original_title": "TNA Bound For Glory 2010", "slug_title": "tna-bound-for-glory-2010", "date": "2010-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pSVUcX0yTgNizkeHrQIh8COUlD4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 508519, "title": "Odile the Documentary", "original_title": "Odile", "slug_title": "odile-the-documentary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vkyIBnuLh5DVnSCJEJ4NUkOkJEe.jpg", "actors": [], "comments": [], "recommandations_id": []}

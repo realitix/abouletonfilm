@@ -1,1 +1,0 @@
-{"tmdb_id": 476189, "title": "The Story of Net", "original_title": "The Story of Net", "slug_title": "the-story-of-net", "date": "2010-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jKtboszLsTyYQYqxLnwon56KEl6.jpg", "actors": ["Thanet Putthasorn (Net)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 346201, "title": "Les cahiers du cin\u00e9ma", "original_title": "Les cahiers du cin\u00e9ma", "slug_title": "les-cahiers-du-cinema", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6dA6wSmiP0uWlJ42sIcTMnbMZik.jpg", "actors": [], "comments": [], "recommandations_id": []}

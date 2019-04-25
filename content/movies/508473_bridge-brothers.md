@@ -1,1 +1,0 @@
-{"tmdb_id": 508473, "title": "Bridge Brothers", "original_title": "Bridge Brothers", "slug_title": "bridge-brothers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

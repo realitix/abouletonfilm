@@ -1,1 +1,0 @@
-{"tmdb_id": 495467, "title": "Hi, My Name's Tre", "original_title": "Hi, My Name's Tre", "slug_title": "hi-my-name-s-tre", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

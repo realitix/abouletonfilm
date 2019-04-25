@@ -1,1 +1,1 @@
-{"tmdb_id": 307594, "title": "Pillaiyaar", "original_title": "Pillaiyaar", "slug_title": "pillaiyaar", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 307594, "title": "Pillaiyaar", "original_title": "Pillaiyaar", "slug_title": "pillaiyaar", "date": "1984-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No Overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 313890, "title": "A Very Funny Christmas", "original_title": "A Very Funny Christmas", "slug_title": "a-very-funny-christmas", "date": "2014-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bjs1AyLa30auXGhQ6KFF7NBiVPl.jpg", "actors": [], "comments": [], "recommandations_id": []}

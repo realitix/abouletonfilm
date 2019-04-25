@@ -1,1 +1,0 @@
-{"tmdb_id": 480205, "title": "Ralph Waldo Emerson", "original_title": "Ralph Waldo Emerson", "slug_title": "ralph-waldo-emerson", "date": "1922-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 154859, "title": "Dissent", "original_title": "Dissent", "slug_title": "dissent", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pzrnn788jIL0zzupdrHsTHOtMOq.jpg", "actors": [], "comments": [], "recommandations_id": []}

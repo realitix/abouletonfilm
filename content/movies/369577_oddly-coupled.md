@@ -1,1 +1,0 @@
-{"tmdb_id": 369577, "title": "Oddly Coupled", "original_title": "Oddly Coupled", "slug_title": "oddly-coupled", "date": "1970-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/guzWXrznLz21QhmhB3AoNERkOD2.jpg", "actors": [], "comments": [], "recommandations_id": []}

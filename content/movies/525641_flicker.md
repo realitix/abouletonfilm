@@ -1,1 +1,0 @@
-{"tmdb_id": 525641, "title": "Flicker", "original_title": "Flicker", "slug_title": "flicker", "date": "2009-09-04", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oA4tA2IeqDXr7e4pKXfzm9lJMHN.jpg", "actors": [], "comments": [], "recommandations_id": []}

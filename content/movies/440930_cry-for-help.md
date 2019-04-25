@@ -1,1 +1,0 @@
-{"tmdb_id": 440930, "title": "Cry for Help", "original_title": "Cry for Help", "slug_title": "cry-for-help", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

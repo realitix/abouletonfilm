@@ -1,1 +1,0 @@
-{"tmdb_id": 106187, "title": "Paraphernalia", "original_title": "Paraphernalia", "slug_title": "paraphernalia", "date": "2011-05-01", "genre": "Animation", "score": "3.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 172753, "title": "The Cat Living Ten Times", "original_title": "The Cat Living Ten Times", "slug_title": "the-cat-living-ten-times", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8FHd95hw4nrEqWRSt3TJ49WIw0k.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 115543, "title": "Hammerboy", "original_title": "Mangchi", "slug_title": "hammerboy", "date": "2003-08-30", "genre": "Action / Aventure / Animation / Science-Fiction", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bJgeH6m4pH4L6mse9oXbn8oevuC.jpg", "actors": [], "comments": [], "recommandations_id": []}

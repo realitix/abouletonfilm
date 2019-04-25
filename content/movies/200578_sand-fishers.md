@@ -1,1 +1,0 @@
-{"tmdb_id": 200578, "title": "Sand Fishers", "original_title": "Le Chemin du Sable", "slug_title": "sand-fishers", "date": "2012-06-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 401504, "title": "Atlantic Parks", "original_title": "Parcs atlantiques", "slug_title": "atlantic-parks", "date": "1967-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 386421, "title": "Der hei\u00dfe Frieden", "original_title": "Der hei\u00dfe Frieden", "slug_title": "der-heisse-frieden", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

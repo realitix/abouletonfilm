@@ -1,1 +1,0 @@
-{"tmdb_id": 447275, "title": "Chikara: sumobryderens s\u00f8n", "original_title": "Chikara: sumobryderens s\u00f8n", "slug_title": "chikara-sumobryderens-son", "date": "2013-07-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qBG42BCcwu2xuT3H2IdyiZP8I8R.jpg", "actors": [], "comments": [], "recommandations_id": []}

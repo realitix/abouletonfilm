@@ -1,1 +1,0 @@
-{"tmdb_id": 555105, "title": "The Bell", "original_title": "The Bell", "slug_title": "the-bell", "date": "2018-03-31", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emery Bingham (Emery)", "Monroe Bingham (Monroe)"], "comments": [], "recommandations_id": []}

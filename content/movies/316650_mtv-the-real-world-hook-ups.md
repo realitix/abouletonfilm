@@ -1,1 +1,0 @@
-{"tmdb_id": 316650, "title": "MTV: The Real World: Hook-Ups", "original_title": "MTV: The Real World: Hook-Ups", "slug_title": "mtv-the-real-world-hook-ups", "date": "2003-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wGyUjNhTsOfFapQmqd9TFQkmjGb.jpg", "actors": [], "comments": [], "recommandations_id": []}

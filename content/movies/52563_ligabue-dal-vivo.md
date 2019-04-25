@@ -1,1 +1,0 @@
-{"tmdb_id": 52563, "title": "Ligabue Dal Vivo", "original_title": "Ligabue Dal Vivo", "slug_title": "ligabue-dal-vivo", "date": "1991-07-06", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2DsEDUKJZd0xQTyjz5lT2n2VbGg.jpg", "actors": ["Luciano Ligabue ()"], "comments": [], "recommandations_id": []}

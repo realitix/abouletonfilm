@@ -1,1 +1,0 @@
-{"tmdb_id": 270602, "title": "After Happily Ever After", "original_title": "After Happily Ever After", "slug_title": "after-happily-ever-after", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

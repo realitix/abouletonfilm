@@ -1,1 +1,0 @@
-{"tmdb_id": 243011, "title": "The Living City", "original_title": "The Living City", "slug_title": "the-living-city", "date": "1953-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x20XHvAcsF0qo51Wj7cP6wUlFxE.jpg", "actors": ["James Brill (Narrator (voice))"], "comments": [], "recommandations_id": []}

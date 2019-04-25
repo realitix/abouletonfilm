@@ -1,1 +1,0 @@
-{"tmdb_id": 156552, "title": "Craig Campbell: Death of a Badger", "original_title": "Craig Campbell: Death of a Badger", "slug_title": "craig-campbell-death-of-a-badger", "date": "2012-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Craig Campbell (Craig Campbell)"], "comments": [], "recommandations_id": []}

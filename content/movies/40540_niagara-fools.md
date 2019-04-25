@@ -1,1 +1,0 @@
-{"tmdb_id": 40540, "title": "Niagara Fools", "original_title": "Niagara Fools", "slug_title": "niagara-fools", "date": "1956-10-21", "genre": "Animation", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8c0KTAv0vhreJlGQyikBK6BdEwj.jpg", "actors": ["Bob Johnson (Voices)"], "comments": [], "recommandations_id": []}

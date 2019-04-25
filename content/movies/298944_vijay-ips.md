@@ -1,1 +1,0 @@
-{"tmdb_id": 298944, "title": "Vijay IPS", "original_title": "Vijay IPS", "slug_title": "vijay-ips", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

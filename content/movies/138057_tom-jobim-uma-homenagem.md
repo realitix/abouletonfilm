@@ -1,1 +1,0 @@
-{"tmdb_id": 138057, "title": "Tom Jobim - Uma Homenagem", "original_title": "Tom Jobim - Uma Homenagem", "slug_title": "tom-jobim-uma-homenagem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kVARbHWCwX4vtQXQSoaZFDCsNgt.jpg", "actors": [], "comments": [], "recommandations_id": []}

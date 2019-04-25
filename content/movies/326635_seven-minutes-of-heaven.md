@@ -1,1 +1,0 @@
-{"tmdb_id": 326635, "title": "Seven Minutes of Heaven", "original_title": "Seven Minutes of Heaven", "slug_title": "seven-minutes-of-heaven", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joshua Lozano (Dante DiMartino)", "Sky Lara (Janet Gabrielle)"], "comments": [], "recommandations_id": []}

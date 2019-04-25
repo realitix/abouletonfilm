@@ -1,1 +1,0 @@
-{"tmdb_id": 402619, "title": "Squirrel Crazy", "original_title": "Squirrel Crazy", "slug_title": "squirrel-crazy", "date": "1950-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

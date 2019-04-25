@@ -1,1 +1,0 @@
-{"tmdb_id": 393734, "title": "Formula Super VIII", "original_title": "Formula Super VIII", "slug_title": "formula-super-viii", "date": "1983-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p5KbOwhztqmHWyiiHsJmuHCKg2c.jpg", "actors": [], "comments": [], "recommandations_id": []}

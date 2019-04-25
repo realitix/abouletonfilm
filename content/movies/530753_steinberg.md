@@ -1,1 +1,0 @@
-{"tmdb_id": 530753, "title": "Steinberg", "original_title": "Steinberg", "slug_title": "steinberg", "date": "1965-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5dVgJMPKYbxkUgyNuNYl2Mdhv2g.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 274364, "title": "Carmen: The Cullberg Ballet", "original_title": "Carmen: The Cullberg Ballet", "slug_title": "carmen-the-cullberg-ballet", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

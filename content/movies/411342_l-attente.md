@@ -1,1 +1,0 @@
-{"tmdb_id": 411342, "title": "L'attente", "original_title": "L'attente", "slug_title": "l-attente", "date": "2006-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matt Reed ()", "Daniel Stiker ()", "Lucas McNelly ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 528672, "title": "K-1 Sanctuary I", "original_title": "K-1 Sanctuary I", "slug_title": "k-1-sanctuary-i", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 528672, "title": "K-1 Sanctuary I", "original_title": "K-1 Sanctuary I", "slug_title": "k-1-sanctuary-i", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "K-1 Sanctuary I", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

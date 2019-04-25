@@ -1,1 +1,0 @@
-{"tmdb_id": 458416, "title": "Heggerty Haggerty", "original_title": "Heggerty Haggerty", "slug_title": "heggerty-haggerty", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Cole (George Cole)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 100868, "title": "Tokyo Waka", "original_title": "Tokyo Waka", "slug_title": "tokyo-waka", "date": "2013-08-28", "genre": "Documentaire / Histoire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9HIG4bAT4qQtOYewzDhQ2nW9ZBO.jpg", "actors": [], "comments": [], "recommandations_id": []}

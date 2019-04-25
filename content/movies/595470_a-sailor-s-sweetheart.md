@@ -1,1 +1,0 @@
-{"tmdb_id": 595470, "title": "A Sailor's Sweetheart", "original_title": "A Sailor's Sweetheart", "slug_title": "a-sailor-s-sweetheart", "date": "1927-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/focawxEwWWVvnTjFMeVoZpHpTVG.jpg", "actors": [], "comments": [], "recommandations_id": []}

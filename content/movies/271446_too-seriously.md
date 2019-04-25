@@ -1,1 +1,0 @@
-{"tmdb_id": 271446, "title": "Too Seriously", "original_title": "Demasiado a S\u00e9rio", "slug_title": "too-seriously", "date": "2007-03-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jorge Salvaterra (Z\u00e9)", "Nicolau Pais (Jo\u00e3o)"], "comments": [], "recommandations_id": []}

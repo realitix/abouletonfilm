@@ -1,1 +1,0 @@
-{"tmdb_id": 281189, "title": "Gory Gory Hallelujah", "original_title": "Gory Gory Hallelujah", "slug_title": "gory-gory-hallelujah", "date": "2003-11-05", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hshvQD8TbxYEr3RaMvnAKVKABH.jpg", "actors": [], "comments": [], "recommandations_id": []}

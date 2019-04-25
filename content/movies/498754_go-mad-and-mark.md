@@ -1,1 +1,0 @@
-{"tmdb_id": 498754, "title": "Go Mad and Mark", "original_title": "Go Mad and Mark", "slug_title": "go-mad-and-mark", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yEwUvGkaVSYdMR8VMsKYQstsV7f.jpg", "actors": [], "comments": [], "recommandations_id": []}

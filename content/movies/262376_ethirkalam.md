@@ -1,1 +1,0 @@
-{"tmdb_id": 262376, "title": "Ethirkalam", "original_title": "Ethirkalam", "slug_title": "ethirkalam", "date": "1970-02-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "Padmini ()"], "comments": [], "recommandations_id": []}

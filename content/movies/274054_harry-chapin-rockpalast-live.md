@@ -1,1 +1,0 @@
-{"tmdb_id": 274054, "title": "Harry Chapin Rockpalast Live", "original_title": "Harry Chapin Rockpalast Live", "slug_title": "harry-chapin-rockpalast-live", "date": "2002-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/evyUAF2oWR6xrVGhiOM0uzf8y2.jpg", "actors": [], "comments": [], "recommandations_id": []}

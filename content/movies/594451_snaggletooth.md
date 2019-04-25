@@ -1,1 +1,0 @@
-{"tmdb_id": 594451, "title": "Snaggletooth", "original_title": "Snaggletooth", "slug_title": "snaggletooth", "date": "2019-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3cijJVrz5L6a3egaKwFLr2PZb8B.jpg", "actors": [], "comments": [], "recommandations_id": []}

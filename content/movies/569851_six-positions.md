@@ -1,1 +1,0 @@
-{"tmdb_id": 569851, "title": "Six Positions", "original_title": "Six Positions", "slug_title": "six-positions", "date": "1998-04-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

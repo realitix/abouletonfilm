@@ -1,1 +1,0 @@
-{"tmdb_id": 431601, "title": "How Dinosaurs Learned to Fly", "original_title": "How Dinosaurs Learned to Fly", "slug_title": "how-dinosaurs-learned-to-fly", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Fzm6reqla2cTCFgbr4uE2hX4HZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

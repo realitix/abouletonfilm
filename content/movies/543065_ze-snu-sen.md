@@ -1,1 +1,0 @@
-{"tmdb_id": 543065, "title": "Ze snu sen", "original_title": "Ze snu sen", "slug_title": "ze-snu-sen", "date": "1998-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

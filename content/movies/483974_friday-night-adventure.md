@@ -1,1 +1,0 @@
-{"tmdb_id": 483974, "title": "Friday Night Adventure", "original_title": "Friday Night Adventure", "slug_title": "friday-night-adventure", "date": "1976-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iVh2VZ9Nh4zNtyVInA2xZG8jzmf.jpg", "actors": ["Saul Rubinek ()"], "comments": [], "recommandations_id": []}

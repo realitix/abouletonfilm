@@ -1,1 +1,0 @@
-{"tmdb_id": 564292, "title": "Fish Tales", "original_title": "Fish Tales", "slug_title": "fish-tales", "date": "1954-03-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator (voice))"], "comments": [], "recommandations_id": []}

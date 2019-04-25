@@ -1,1 +1,0 @@
-{"tmdb_id": 163659, "title": "Cochochi", "original_title": "Cochochi", "slug_title": "cochochi", "date": "2007-04-24", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Sex00ImAwBI7ulbfwnnxrOkqPY.jpg", "actors": [], "comments": [], "recommandations_id": []}

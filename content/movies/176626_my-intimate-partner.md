@@ -1,1 +1,0 @@
-{"tmdb_id": 176626, "title": "My Intimate Partner", "original_title": "Nan xiong nan di", "slug_title": "my-intimate-partner", "date": "1960-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9o9tmmqiXl1GAJ2l4tWZAKOUDaM.jpg", "actors": [], "comments": [], "recommandations_id": []}

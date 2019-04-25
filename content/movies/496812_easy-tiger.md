@@ -1,1 +1,0 @@
-{"tmdb_id": 496812, "title": "Easy Tiger", "original_title": "Easy Tiger", "slug_title": "easy-tiger", "date": "2008-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

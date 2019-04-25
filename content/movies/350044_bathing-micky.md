@@ -1,1 +1,0 @@
-{"tmdb_id": 350044, "title": "Bathing Micky", "original_title": "Micky Bader", "slug_title": "bathing-micky", "date": "2010-01-30", "genre": "", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qld9j0SfbBFiRVyu9KW9GHQe2YW.jpg", "actors": [], "comments": [], "recommandations_id": [300927, 327546, 153798, 295329]}

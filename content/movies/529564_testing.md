@@ -1,1 +1,1 @@
-{"tmdb_id": 529564, "title": "Testing", "original_title": "Testing", "slug_title": "testing", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 529564, "title": "Testing", "original_title": "Testing", "slug_title": "testing", "date": "", "genre": [""], "score": "10.0/10", "synopsis": "This is a test movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

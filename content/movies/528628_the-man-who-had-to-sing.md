@@ -1,1 +1,0 @@
-{"tmdb_id": 528628, "title": "The Man Who Had to Sing", "original_title": "\u010covjek koji je morao pjevati", "slug_title": "the-man-who-had-to-sing", "date": "1970-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ehu8kdIAqXSY1pnSiNYJRPKxI4O.jpg", "actors": [], "comments": [], "recommandations_id": []}

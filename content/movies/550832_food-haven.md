@@ -1,1 +1,0 @@
-{"tmdb_id": 550832, "title": "Food Haven", "original_title": "Food Haven", "slug_title": "food-haven", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zsYxowHiHXQG0MUMsj5wBvro2p0.jpg", "actors": [], "comments": [], "recommandations_id": []}

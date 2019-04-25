@@ -1,1 +1,0 @@
-{"tmdb_id": 60132, "title": "Budda Saitan", "original_title": "Budda Saitan", "slug_title": "budda-saitan", "date": "2009-10-17", "genre": "Romance / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hfW73MekvyXmKJkPpOFeo2CSklh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 195941, "title": "Accident d'automobile", "original_title": "Accident d'automobile", "slug_title": "accident-d-automobile", "date": "1903-05-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xombwFpRaKAJUW6iy8yS9wasynu.jpg", "actors": [], "comments": [], "recommandations_id": [372268, 178989]}

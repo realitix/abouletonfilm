@@ -1,1 +1,0 @@
-{"tmdb_id": 85501, "title": "Dans l'oeil des Enfoires 2011", "original_title": "Dans l'oeil des Enfoires 2011", "slug_title": "dans-l-oeil-des-enfoires-2011", "date": "", "genre": "", "score": "0.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 244351, "title": "Bravery in the Field", "original_title": "Bravery in the Field", "slug_title": "bravery-in-the-field", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y1CEP2byvxAUPiCfQ8uGoI6zM9m.jpg", "actors": [], "comments": [], "recommandations_id": []}

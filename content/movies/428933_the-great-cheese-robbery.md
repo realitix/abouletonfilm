@@ -1,1 +1,0 @@
-{"tmdb_id": 428933, "title": "The Great Cheese Robbery", "original_title": "The Great Cheese Robbery", "slug_title": "the-great-cheese-robbery", "date": "1920-01-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

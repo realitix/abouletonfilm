@@ -1,1 +1,0 @@
-{"tmdb_id": 493305, "title": "Marathon", "original_title": "Maraton", "slug_title": "marathon", "date": "2006-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

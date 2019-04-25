@@ -1,1 +1,0 @@
-{"tmdb_id": 556289, "title": "A Daughter of Israel", "original_title": "Le puits de Jacob", "slug_title": "a-daughter-of-israel", "date": "1925-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

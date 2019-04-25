@@ -1,1 +1,0 @@
-{"tmdb_id": 577991, "title": "Bear in a Bedroom", "original_title": "Bear in a Bedroom", "slug_title": "bear-in-a-bedroom", "date": "2018-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

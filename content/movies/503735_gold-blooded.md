@@ -1,1 +1,0 @@
-{"tmdb_id": 503735, "title": "Gold Blooded", "original_title": "Gold Blooded", "slug_title": "gold-blooded", "date": "2018-02-07", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lBJQuE27yyvQhtwG8M8Chqmt5ID.jpg", "actors": [], "comments": [], "recommandations_id": []}

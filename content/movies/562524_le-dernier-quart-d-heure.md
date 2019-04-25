@@ -1,1 +1,0 @@
-{"tmdb_id": 562524, "title": "Le dernier quart d'heure", "original_title": "Le dernier quart d'heure", "slug_title": "le-dernier-quart-d-heure", "date": "1962-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/OV6gQYGigZVUiuXRw4pk5s1pag.jpg", "actors": [], "comments": [], "recommandations_id": []}

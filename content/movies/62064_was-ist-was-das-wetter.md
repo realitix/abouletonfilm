@@ -1,1 +1,0 @@
-{"tmdb_id": 62064, "title": "Was ist Was - Das Wetter", "original_title": "Was ist Was - Das Wetter", "slug_title": "was-ist-was-das-wetter", "date": "2006-02-10", "genre": "Documentaire / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/CWAjhG2gZSY1AUzzCeVUK3ESLl.jpg", "actors": [], "comments": [], "recommandations_id": []}

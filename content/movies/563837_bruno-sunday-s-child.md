@@ -1,1 +1,0 @@
-{"tmdb_id": 563837, "title": "Bruno: Sunday's Child", "original_title": "Bruno, l'enfant du dimanche", "slug_title": "bruno-sunday-s-child", "date": "1969-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9GXPNsFlvIhrT2SYPOE0iBU97V1.jpg", "actors": [], "comments": [], "recommandations_id": []}

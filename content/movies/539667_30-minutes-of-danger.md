@@ -1,1 +1,0 @@
-{"tmdb_id": 539667, "title": "30 Minutes of Danger", "original_title": "30 Minutes of Danger", "slug_title": "30-minutes-of-danger", "date": "2018-08-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maude Davey ()", "Nicki Bacon ()", "Shareena Clanton ()"], "comments": [], "recommandations_id": []}

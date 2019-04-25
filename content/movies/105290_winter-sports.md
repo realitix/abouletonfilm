@@ -1,1 +1,0 @@
-{"tmdb_id": 105290, "title": "Winter Sports", "original_title": "Winter Sports", "slug_title": "winter-sports", "date": "1970-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Judy Angel ()", "Kathy Hilton ()", "Jill Jameson ()", "Orrin North ()"], "comments": [], "recommandations_id": []}

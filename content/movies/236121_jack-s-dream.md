@@ -1,1 +1,0 @@
-{"tmdb_id": 236121, "title": "Jack's Dream", "original_title": "Jack's Dream", "slug_title": "jack-s-dream", "date": "1938-11-13", "genre": "Animation / Drame / Fantastique", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tNwjNpa8BureJIjwoTPDjpHSIGM.jpg", "actors": [], "comments": [], "recommandations_id": [159245]}

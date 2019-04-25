@@ -1,1 +1,0 @@
-{"tmdb_id": 430077, "title": "Babymetal: Wembly to Tokyo", "original_title": "Babymetal: Wembly to Tokyo", "slug_title": "babymetal-wembly-to-tokyo", "date": "2016-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aUu3QHzqLzalGzkIdRW6drZCVex.jpg", "actors": [], "comments": [], "recommandations_id": []}

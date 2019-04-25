@@ -1,1 +1,0 @@
-{"tmdb_id": 558032, "title": "Connection by Fate", "original_title": "\u8d85\u7d1a\u516c\u6c11", "slug_title": "connection-by-fate", "date": "1998-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nGrZRI1IVElW9sUtjxhzk1xvmRQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

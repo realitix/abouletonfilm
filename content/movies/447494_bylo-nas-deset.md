@@ -1,1 +1,0 @@
-{"tmdb_id": 447494, "title": "Bylo n\u00e1s deset", "original_title": "Bylo n\u00e1s deset", "slug_title": "bylo-nas-deset", "date": "1963-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fw3bdlbAgrZvptDip5LBnO4EEuR.jpg", "actors": [], "comments": [], "recommandations_id": []}

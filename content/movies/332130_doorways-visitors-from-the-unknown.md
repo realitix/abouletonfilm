@@ -1,1 +1,0 @@
-{"tmdb_id": 332130, "title": "Doorways: Visitors From the Unknown", "original_title": "Doorways: Visitors From the Unknown", "slug_title": "doorways-visitors-from-the-unknown", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

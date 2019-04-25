@@ -1,1 +1,0 @@
-{"tmdb_id": 566279, "title": "Boogie-Woogie Dream", "original_title": "Boogie-Woogie Dream", "slug_title": "boogie-woogie-dream", "date": "1944-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lena Horne ()"], "comments": [], "recommandations_id": []}

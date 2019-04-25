@@ -1,1 +1,0 @@
-{"tmdb_id": 213898, "title": "Mammame", "original_title": "Mammame", "slug_title": "mammame", "date": "1986-07-23", "genre": "Musique", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qOZ1um5XamKNyzrKqQjeRMorUIT.jpg", "actors": [], "comments": [], "recommandations_id": [64441, 88034]}

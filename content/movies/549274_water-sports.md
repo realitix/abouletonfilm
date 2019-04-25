@@ -1,1 +1,0 @@
-{"tmdb_id": 549274, "title": "Water Sports", "original_title": "Water Sports", "slug_title": "water-sports", "date": "1935-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator)", "Christian Peterson (Himself)"], "comments": [], "recommandations_id": []}

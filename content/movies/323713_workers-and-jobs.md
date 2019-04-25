@@ -1,1 +1,0 @@
-{"tmdb_id": 323713, "title": "Workers and Jobs", "original_title": "Workers and Jobs", "slug_title": "workers-and-jobs", "date": "1935-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zDTPNkOEWvcVZWMtxnYLu5eDeey.jpg", "actors": [], "comments": [], "recommandations_id": []}

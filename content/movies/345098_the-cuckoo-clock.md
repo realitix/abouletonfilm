@@ -1,1 +1,0 @@
-{"tmdb_id": 345098, "title": "The Cuckoo Clock", "original_title": "L'Orologio a Cuc\u00f9", "slug_title": "the-cuckoo-clock", "date": "1938-09-19", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A8fXqAlUDAZYtxB83fVzpoKYnVy.jpg", "actors": ["Vittorio De Sica ()"], "comments": [], "recommandations_id": []}

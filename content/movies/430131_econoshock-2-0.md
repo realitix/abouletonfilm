@@ -1,1 +1,0 @@
-{"tmdb_id": 430131, "title": "Econoshock 2.0", "original_title": "Econoshock 2.0", "slug_title": "econoshock-2-0", "date": "2013-09-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bfPARof9rlVIzvU1Tw0w9jqi7YG.jpg", "actors": [], "comments": [], "recommandations_id": []}

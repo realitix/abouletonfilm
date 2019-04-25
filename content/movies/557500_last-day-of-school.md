@@ -1,1 +1,0 @@
-{"tmdb_id": 557500, "title": "Last Day of School", "original_title": "Last Day of School", "slug_title": "last-day-of-school", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

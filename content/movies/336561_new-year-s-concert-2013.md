@@ -1,1 +1,0 @@
-{"tmdb_id": 336561, "title": "New Year's Concert 2013", "original_title": "New Year's Concert 2013", "slug_title": "new-year-s-concert-2013", "date": "2013-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8l1XFRTNrhoU8ILgFQXA5a2yHZg.jpg", "actors": [], "comments": [], "recommandations_id": []}

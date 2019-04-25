@@ -1,1 +1,0 @@
-{"tmdb_id": 358292, "title": "Stream Line", "original_title": "Stream Line", "slug_title": "stream-line", "date": "1976-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ev0WTHcn5KHWIVYelKFLZ4c9dc1.jpg", "actors": [], "comments": [], "recommandations_id": []}

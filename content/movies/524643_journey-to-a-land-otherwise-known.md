@@ -1,1 +1,0 @@
-{"tmdb_id": 524643, "title": "Journey to a Land Otherwise Known", "original_title": "Journey to a Land Otherwise Known", "slug_title": "journey-to-a-land-otherwise-known", "date": "2011-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dominique Thomas (Narrator (voice))"], "comments": [], "recommandations_id": []}

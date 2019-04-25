@@ -1,1 +1,0 @@
-{"tmdb_id": 329479, "title": "Emile Habibi: I Stayed in Haifa", "original_title": "Emile Habibi - Niszarty B'Haifa", "slug_title": "emile-habibi-i-stayed-in-haifa", "date": "1997-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

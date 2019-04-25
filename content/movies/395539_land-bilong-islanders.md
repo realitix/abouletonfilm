@@ -1,1 +1,0 @@
-{"tmdb_id": 395539, "title": "Land Bilong Islanders", "original_title": "Land Bilong Islanders", "slug_title": "land-bilong-islanders", "date": "1989-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6szv7my37827lA9nZtUe87Okxiy.jpg", "actors": [], "comments": [], "recommandations_id": []}

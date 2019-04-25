@@ -1,1 +1,0 @@
-{"tmdb_id": 92685, "title": "God Seed: Live at Wacken", "original_title": "God Seed: Live at Wacken", "slug_title": "god-seed-live-at-wacken", "date": "2012-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/apaYiTQN27RmYfQPxEfSPC84DWU.jpg", "actors": [], "comments": [], "recommandations_id": []}

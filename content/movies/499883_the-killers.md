@@ -1,1 +1,0 @@
-{"tmdb_id": 499883, "title": "The Killers", "original_title": "Al-Qatiluun", "slug_title": "the-killers", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

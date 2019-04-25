@@ -1,1 +1,0 @@
-{"tmdb_id": 588027, "title": "Gr\u00f6tmyndigheten", "original_title": "Gr\u00f6tmyndigheten", "slug_title": "grotmyndigheten", "date": "2003-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Irma Schultz ()", "G\u00f6ran Thorell ()"], "comments": [], "recommandations_id": []}

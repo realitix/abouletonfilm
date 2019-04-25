@@ -1,1 +1,0 @@
-{"tmdb_id": 595666, "title": "Prima Donna", "original_title": "Prima Donna", "slug_title": "prima-donna", "date": "2015-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lnIYbp7V6NJRZGNwtJAnjMOvqWp.jpg", "actors": [], "comments": [], "recommandations_id": []}

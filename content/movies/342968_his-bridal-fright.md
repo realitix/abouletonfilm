@@ -1,1 +1,0 @@
-{"tmdb_id": 342968, "title": "His Bridal Fright", "original_title": "His Bridal Fright", "slug_title": "his-bridal-fright", "date": "1940-01-12", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charley Chase (Charley)", "Iris Meredith (Mary)"], "comments": [], "recommandations_id": []}

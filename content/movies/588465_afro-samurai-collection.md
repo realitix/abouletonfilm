@@ -1,1 +1,0 @@
-{"tmdb_id": 588465, "title": "Afro Samurai Collection", "original_title": "Afro Samurai Collection", "slug_title": "afro-samurai-collection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

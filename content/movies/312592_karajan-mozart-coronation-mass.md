@@ -1,1 +1,0 @@
-{"tmdb_id": 312592, "title": "Karajan: Mozart - Coronation Mass", "original_title": "Karajan: Mozart - Coronation Mass", "slug_title": "karajan-mozart-coronation-mass", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

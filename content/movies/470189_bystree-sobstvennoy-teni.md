@@ -1,1 +1,0 @@
-{"tmdb_id": 470189, "title": "Bystree Sobstvennoy Teni", "original_title": "Bystree Sobstvennoy Teni", "slug_title": "bystree-sobstvennoy-teni", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

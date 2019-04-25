@@ -1,1 +1,0 @@
-{"tmdb_id": 56778, "title": "Blue Vinyl", "original_title": "Blue Vinyl", "slug_title": "blue-vinyl", "date": "2002-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/clVHG01NVjgcnzhgdsdWnLXBo1F.jpg", "actors": [], "comments": [], "recommandations_id": []}

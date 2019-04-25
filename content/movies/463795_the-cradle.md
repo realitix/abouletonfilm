@@ -1,1 +1,0 @@
-{"tmdb_id": 463795, "title": "The Cradle", "original_title": "Kolijevka", "slug_title": "the-cradle", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sEpZ2glEM8niGtATicvbew8aDy7.jpg", "actors": [], "comments": [], "recommandations_id": []}

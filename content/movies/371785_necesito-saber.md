@@ -1,1 +1,0 @@
-{"tmdb_id": 371785, "title": "Necesito saber", "original_title": "Necesito saber", "slug_title": "necesito-saber", "date": "2015-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Blanca Lewin ()", "Antonia Conejeros Chavez ()", "Luis Dub\u00f3 ()", "Paula Z\u00fa\u00f1iga ()"], "comments": [], "recommandations_id": []}

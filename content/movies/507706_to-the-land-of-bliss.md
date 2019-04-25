@@ -1,1 +1,0 @@
-{"tmdb_id": 507706, "title": "To The Land of Bliss", "original_title": "To The Land of Bliss", "slug_title": "to-the-land-of-bliss", "date": "2002-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ObFx1d5kXNyDndYoN159PzVL4F.jpg", "actors": [], "comments": [], "recommandations_id": []}

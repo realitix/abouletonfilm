@@ -1,1 +1,0 @@
-{"tmdb_id": 484509, "title": "Just Spooks", "original_title": "Just Spooks", "slug_title": "just-spooks", "date": "1925-09-13", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Lantz ()"], "comments": [], "recommandations_id": []}

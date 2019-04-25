@@ -1,1 +1,0 @@
-{"tmdb_id": 525829, "title": "Durch die Blumen", "original_title": "Durch die Blumen", "slug_title": "durch-die-blumen", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cta5BXUdc4ORTbpEYbtBU31N6ss.jpg", "actors": [], "comments": [], "recommandations_id": []}

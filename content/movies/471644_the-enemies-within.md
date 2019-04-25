@@ -1,1 +1,0 @@
-{"tmdb_id": 471644, "title": "The Enemies Within", "original_title": "The Enemies Within", "slug_title": "the-enemies-within", "date": "2016-09-12", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aJ5XsJIPaUUjZAyFPdUftbaSlbO.jpg", "actors": ["Trevor Loudon (Himself)"], "comments": [], "recommandations_id": []}

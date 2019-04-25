@@ -1,1 +1,0 @@
-{"tmdb_id": 204000, "title": "The King of Mont Ventoux", "original_title": "The King of Mont Ventoux", "slug_title": "the-king-of-mont-ventoux", "date": "2013-07-07", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7kKkmhND6gmQa1OB7kWy0Pym5iX.jpg", "actors": [], "comments": [], "recommandations_id": []}

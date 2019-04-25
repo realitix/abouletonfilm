@@ -1,1 +1,0 @@
-{"tmdb_id": 184441, "title": "Circus Fever", "original_title": "Circus Fever", "slug_title": "circus-fever", "date": "1925-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

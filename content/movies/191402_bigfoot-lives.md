@@ -1,1 +1,0 @@
-{"tmdb_id": 191402, "title": "Bigfoot Lives", "original_title": "Bigfoot Lives", "slug_title": "bigfoot-lives", "date": "2007-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ivf6WHDRN7WRIIELGr6W845Jae1.jpg", "actors": [], "comments": [], "recommandations_id": []}

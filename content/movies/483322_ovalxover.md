@@ -1,1 +1,0 @@
-{"tmdb_id": 483322, "title": "OVALxOVER", "original_title": "OVALxOVER", "slug_title": "ovalxover", "date": "2005-03-23", "genre": "Action / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wH4zFH4nUnD7xaxVguKpor10kcA.jpg", "actors": [], "comments": [], "recommandations_id": []}

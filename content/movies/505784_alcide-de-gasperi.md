@@ -1,1 +1,0 @@
-{"tmdb_id": 505784, "title": "Alcide De Gasperi", "original_title": "Alcide De Gasperi", "slug_title": "alcide-de-gasperi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

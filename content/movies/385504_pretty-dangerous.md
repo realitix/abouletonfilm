@@ -1,1 +1,0 @@
-{"tmdb_id": 385504, "title": "Pretty Dangerous", "original_title": "Pretty Dangerous", "slug_title": "pretty-dangerous", "date": "2015-09-01", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rdIzaP3KBPBJFsoZeVwL4Fnq5Jo.jpg", "actors": [], "comments": [], "recommandations_id": []}

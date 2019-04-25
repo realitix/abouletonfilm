@@ -1,1 +1,0 @@
-{"tmdb_id": 485715, "title": "Daddy's Girl", "original_title": "Daddy's Girl", "slug_title": "daddy-s-girl", "date": "2001-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2MkrS9VBtVf0cVX9K92Yn0S9OBw.jpg", "actors": ["John Joseph Cambell (Daddy)", "Heather Keenan (Teenie)"], "comments": [], "recommandations_id": []}

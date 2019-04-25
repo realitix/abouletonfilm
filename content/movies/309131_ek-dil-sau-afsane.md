@@ -1,1 +1,0 @@
-{"tmdb_id": 309131, "title": "Ek Dil Sau Afsane", "original_title": "Ek Dil Sau Afsane", "slug_title": "ek-dil-sau-afsane", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

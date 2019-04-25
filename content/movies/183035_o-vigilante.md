@@ -1,1 +1,0 @@
-{"tmdb_id": 183035, "title": "O Vigilante", "original_title": "O Vigilante", "slug_title": "o-vigilante", "date": "1992-09-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eB9uvEmaZAlzNSvAbacW64c0NQP.jpg", "actors": ["Walter Carlos ()", "Barbara Fazio ()"], "comments": [], "recommandations_id": []}

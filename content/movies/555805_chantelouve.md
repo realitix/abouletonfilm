@@ -1,1 +1,0 @@
-{"tmdb_id": 555805, "title": "Chantelouve", "original_title": "Chantelouve", "slug_title": "chantelouve", "date": "1921-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

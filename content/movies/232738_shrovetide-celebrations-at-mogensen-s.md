@@ -1,1 +1,0 @@
-{"tmdb_id": 232738, "title": "Shrovetide Celebrations at Mogensen's", "original_title": "Fastelavnsl\u00f8jer hos Mogensen i \"Napoli\"", "slug_title": "shrovetide-celebrations-at-mogensen-s", "date": "1907-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

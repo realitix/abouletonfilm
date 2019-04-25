@@ -1,1 +1,0 @@
-{"tmdb_id": 367631, "title": "Waiting for the end of the World", "original_title": "Waiting for the end of the World", "slug_title": "waiting-for-the-end-of-the-world", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

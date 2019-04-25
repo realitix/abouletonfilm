@@ -1,1 +1,0 @@
-{"tmdb_id": 533945, "title": "Punk em S\u00e3o Paulo: Garotos do Sub\u00farbio", "original_title": "Punk em S\u00e3o Paulo: Garotos do Sub\u00farbio", "slug_title": "punk-em-sao-paulo-garotos-do-suburbio", "date": "1983-06-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

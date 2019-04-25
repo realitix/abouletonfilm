@@ -1,1 +1,0 @@
-{"tmdb_id": 327996, "title": "Monument", "original_title": "Monument", "slug_title": "monument", "date": "1976-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nvksdYhLoOkvIAZ63EGlQTeTd9.jpg", "actors": [], "comments": [], "recommandations_id": []}

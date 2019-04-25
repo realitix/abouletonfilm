@@ -1,1 +1,0 @@
-{"tmdb_id": 523709, "title": "Door God", "original_title": "Door God", "slug_title": "door-god", "date": "2014-10-24", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Li Qian (Aunt)", "Mao Hai (Father)", "Xinxin Niu (Lingli)", "Wei Qing (Grandmother)"], "comments": [], "recommandations_id": []}

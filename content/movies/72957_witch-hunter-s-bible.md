@@ -1,1 +1,0 @@
-{"tmdb_id": 72957, "title": "Witch Hunter's Bible", "original_title": "Witch Hunter's Bible", "slug_title": "witch-hunter-s-bible", "date": "2010-09-05", "genre": "Documentaire", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1DnpkjEzb2BMx4bPdZICOe3NwWk.jpg", "actors": [], "comments": [], "recommandations_id": []}

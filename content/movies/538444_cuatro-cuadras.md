@@ -1,1 +1,0 @@
-{"tmdb_id": 538444, "title": "Cuatro cuadras", "original_title": "Cuatro cuadras", "slug_title": "cuatro-cuadras", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2FIKClbUOcgT026ZTRhdYj6y6aA.jpg", "actors": [], "comments": [], "recommandations_id": []}

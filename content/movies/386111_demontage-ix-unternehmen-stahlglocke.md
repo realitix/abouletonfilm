@@ -1,1 +1,0 @@
-{"tmdb_id": 386111, "title": "Demontage IX, Unternehmen Stahlglocke", "original_title": "Demontage IX, Unternehmen Stahlglocke", "slug_title": "demontage-ix-unternehmen-stahlglocke", "date": "1992-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

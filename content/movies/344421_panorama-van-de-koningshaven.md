@@ -1,1 +1,0 @@
-{"tmdb_id": 344421, "title": "Panorama Van De Koningshaven", "original_title": "Panorama Van De Koningshaven", "slug_title": "panorama-van-de-koningshaven", "date": "1925-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

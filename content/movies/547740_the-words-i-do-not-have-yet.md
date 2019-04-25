@@ -1,1 +1,0 @@
-{"tmdb_id": 547740, "title": "the words i do not have yet", "original_title": "the words i do not have yet", "slug_title": "the-words-i-do-not-have-yet", "date": "2017-09-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nuVf7KPXXsQCiR8Jn1GKkJLq65A.jpg", "actors": [], "comments": [], "recommandations_id": []}

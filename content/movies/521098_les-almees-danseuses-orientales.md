@@ -1,1 +1,0 @@
-{"tmdb_id": 521098, "title": "Les Alm\u00e9es, danseuses orientales", "original_title": "Les Alm\u00e9es, danseuses orientales", "slug_title": "les-almees-danseuses-orientales", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

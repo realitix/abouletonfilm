@@ -1,1 +1,0 @@
-{"tmdb_id": 588584, "title": "Black or White", "original_title": "Czarne czy bia\u0142e", "slug_title": "black-or-white", "date": "1967-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eDzH7y5fY9Y2l9WhbCk2OYwZ2VB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 580984, "title": "GThai Movie 9: Paranormal", "original_title": "GThai Movie 9: Paranormal", "slug_title": "gthai-movie-9-paranormal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iNFL8isJ0hE3QKCDkLkEMp9Iedb.jpg", "actors": [], "comments": [], "recommandations_id": []}

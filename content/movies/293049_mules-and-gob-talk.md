@@ -1,1 +1,0 @@
-{"tmdb_id": 293049, "title": "Mules and Gob Talk", "original_title": "Mules and Gob Talk", "slug_title": "mules-and-gob-talk", "date": "1920-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

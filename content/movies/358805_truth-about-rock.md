@@ -1,1 +1,0 @@
-{"tmdb_id": 358805, "title": "Truth About Rock", "original_title": "Truth About Rock", "slug_title": "truth-about-rock", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wwVhEVAGDOmmDgUggBDDMbjJ5E0.jpg", "actors": [], "comments": [], "recommandations_id": []}

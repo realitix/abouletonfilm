@@ -1,1 +1,0 @@
-{"tmdb_id": 439927, "title": "The Snake Wife", "original_title": "\u0e40\u0e21\u0e35\u0e22\u0e07\u0e39", "slug_title": "the-snake-wife", "date": "1994-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vrU4h71aa2iOJJff8psVmKg9pBP.jpg", "actors": [], "comments": [], "recommandations_id": []}

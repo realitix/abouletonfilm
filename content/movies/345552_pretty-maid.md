@@ -1,1 +1,0 @@
-{"tmdb_id": 345552, "title": "Pretty Maid", "original_title": "Yi Ge Wen Zhou De Nu Ren", "slug_title": "pretty-maid", "date": "2014-03-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gpaKSifJ6mjTXGvAP7WjVPH0lwG.jpg", "actors": [], "comments": [], "recommandations_id": []}

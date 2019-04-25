@@ -1,1 +1,0 @@
-{"tmdb_id": 278353, "title": "Captured", "original_title": "Captured", "slug_title": "captured", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/twGWJt3g42fBK1qh3gDVR8aySQz.jpg", "actors": [], "comments": [], "recommandations_id": []}

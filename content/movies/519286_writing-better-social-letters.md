@@ -1,1 +1,0 @@
-{"tmdb_id": 519286, "title": "Writing Better Social Letters", "original_title": "Writing Better Social Letters", "slug_title": "writing-better-social-letters", "date": "1950-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

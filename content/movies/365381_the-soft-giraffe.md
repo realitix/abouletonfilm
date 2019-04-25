@@ -1,1 +1,0 @@
-{"tmdb_id": 365381, "title": "The Soft Giraffe", "original_title": "The Soft Giraffe", "slug_title": "the-soft-giraffe", "date": "2013-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fyVsX2D9cye81D4bNDPoOthe0NW.jpg", "actors": [], "comments": [], "recommandations_id": []}

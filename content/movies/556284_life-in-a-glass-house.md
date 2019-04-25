@@ -1,1 +1,0 @@
-{"tmdb_id": 556284, "title": "Life in a Glass house", "original_title": "Life in a Glass house", "slug_title": "life-in-a-glass-house", "date": "2013-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o1n8vf0XVsXO9ACS4MUUcY5XZj2.jpg", "actors": [], "comments": [], "recommandations_id": []}

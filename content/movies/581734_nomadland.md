@@ -1,1 +1,0 @@
-{"tmdb_id": 581734, "title": "Nomadland", "original_title": "Nomadland", "slug_title": "nomadland", "date": "", "genre": "Drame / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frances McDormand (Fern)", "David Strathairn ()", "Charlene Swankie ()", "Linda May ()"], "comments": [], "recommandations_id": []}

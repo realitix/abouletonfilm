@@ -1,1 +1,0 @@
-{"tmdb_id": 525340, "title": "Veronique", "original_title": "V\u00e9ronique ou L'\u00e9t\u00e9 de mes 13 ans", "slug_title": "veronique", "date": "1975-12-03", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7SI8mOeEKnnP2qBWvyDNAeqpRQa.jpg", "actors": [], "comments": [], "recommandations_id": []}

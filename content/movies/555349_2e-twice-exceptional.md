@@ -1,1 +1,0 @@
-{"tmdb_id": 555349, "title": "2e: Twice Exceptional", "original_title": "2e: Twice Exceptional", "slug_title": "2e-twice-exceptional", "date": "2015-02-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2oXWyzhSZ3YZTr3oVXbuW3Lwr0o.jpg", "actors": [], "comments": [], "recommandations_id": []}

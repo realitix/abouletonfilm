@@ -1,1 +1,0 @@
-{"tmdb_id": 386324, "title": "A Letter to Dad", "original_title": "Pismo ocu", "slug_title": "a-letter-to-dad", "date": "2011-01-01", "genre": "Documentaire / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/usfpu1b4MFiRkKT9N7R3TciqUMJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

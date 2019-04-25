@@ -1,1 +1,0 @@
-{"tmdb_id": 565455, "title": "Return of the Teenage Werewolf", "original_title": "Return of the Teenage Werewolf", "slug_title": "return-of-the-teenage-werewolf", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xmxpcpwzZXqWn8lSiv476VgSWoz.jpg", "actors": [], "comments": [], "recommandations_id": []}

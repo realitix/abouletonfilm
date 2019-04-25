@@ -1,1 +1,0 @@
-{"tmdb_id": 583464, "title": "Ananse: Part 2", "original_title": "Ananse: Part 2", "slug_title": "ananse-part-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

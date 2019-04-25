@@ -1,1 +1,0 @@
-{"tmdb_id": 246643, "title": "Resonance", "original_title": "Resonance", "slug_title": "resonance", "date": "2013-12-30", "genre": "Drame / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bZwRKDXUilssFnStetqhRv3hRHH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 319534, "title": "The Firesign Theatre: Weirdly Cool", "original_title": "The Firesign Theatre: Weirdly Cool", "slug_title": "the-firesign-theatre-weirdly-cool", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

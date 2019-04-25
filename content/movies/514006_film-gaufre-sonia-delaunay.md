@@ -1,1 +1,0 @@
-{"tmdb_id": 514006, "title": "Film gaufr\u00e9: Sonia Delaunay", "original_title": "Film gaufr\u00e9: Sonia Delaunay", "slug_title": "film-gaufre-sonia-delaunay", "date": "1925-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

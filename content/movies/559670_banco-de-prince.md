@@ -1,1 +1,0 @@
-{"tmdb_id": 559670, "title": "Banco de prince", "original_title": "Banco de prince", "slug_title": "banco-de-prince", "date": "1950-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mWPeVvALbD8V5WBD6gxMvS3KSPZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

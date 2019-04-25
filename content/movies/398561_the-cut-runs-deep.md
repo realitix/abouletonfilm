@@ -1,1 +1,0 @@
-{"tmdb_id": 398561, "title": "The Cut Runs Deep", "original_title": "The Cut Runs Deep", "slug_title": "the-cut-runs-deep", "date": "1999-12-16", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nFZ6rVlWfoJmvWH7dPPqRi3Vin8.jpg", "actors": ["David Lee McInnis (J.D.)"], "comments": [], "recommandations_id": []}

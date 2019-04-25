@@ -1,1 +1,0 @@
-{"tmdb_id": 501956, "title": "Spotlight", "original_title": "Spotlight", "slug_title": "spotlight", "date": "2018-01-28", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chloe Chapman (Alice)", "Jack Cummings (The Man)", "Olivia Hespe (Sarah)", "Laura Janes (Amy)", "Jody Larcombe (Rose)"], "comments": [], "recommandations_id": []}

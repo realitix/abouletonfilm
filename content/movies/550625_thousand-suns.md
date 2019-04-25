@@ -1,1 +1,0 @@
-{"tmdb_id": 550625, "title": "Thousand Suns", "original_title": "Mille soleils", "slug_title": "thousand-suns", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vincent Rottiers (Yann)", "Lolita Chammah (Lena)", "Barth\u00e9l\u00e9my Grossmann (Thierry)"], "comments": [], "recommandations_id": []}

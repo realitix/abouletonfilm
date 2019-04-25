@@ -1,1 +1,0 @@
-{"tmdb_id": 113036, "title": "A Doll's Dream", "original_title": "Musikk p\u00e5 loftet", "slug_title": "a-doll-s-dream", "date": "1950-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4vllGRTfVTBG1mTR81XQEvL2A9S.jpg", "actors": [], "comments": [], "recommandations_id": []}

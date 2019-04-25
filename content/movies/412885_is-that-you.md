@@ -1,1 +1,0 @@
-{"tmdb_id": 412885, "title": "Is That You?", "original_title": "Is That You?", "slug_title": "is-that-you", "date": "2014-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sKYu8qFdidwodr1W825SktoPJwL.jpg", "actors": ["Alon Aboutboul (Ronnie)", "Suzanne Sadler (Rachel)"], "comments": [], "recommandations_id": []}

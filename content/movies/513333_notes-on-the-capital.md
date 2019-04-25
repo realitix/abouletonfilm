@@ -1,1 +1,0 @@
-{"tmdb_id": 513333, "title": "Notes on the capital", "original_title": "Notes on the capital", "slug_title": "notes-on-the-capital", "date": "2018-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/khMOlkRTZu2wm2i1MSE9hPwu2CG.jpg", "actors": [], "comments": [], "recommandations_id": []}

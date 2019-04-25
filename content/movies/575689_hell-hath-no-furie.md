@@ -1,1 +1,0 @@
-{"tmdb_id": 575689, "title": "Hell Hath No Furie", "original_title": "Hell Hath No Furie", "slug_title": "hell-hath-no-furie", "date": "2019-01-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJ2UoOPsUTWhEAaJGUxekgUnvkW.jpg", "actors": [], "comments": [], "recommandations_id": []}

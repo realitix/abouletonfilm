@@ -1,1 +1,0 @@
-{"tmdb_id": 343698, "title": "Envoy\u00e9 sp\u00e9cial : narcotrafic", "original_title": "Envoy\u00e9 sp\u00e9cial : narcotrafic", "slug_title": "envoye-special-narcotrafic", "date": "2007-10-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

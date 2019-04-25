@@ -1,1 +1,0 @@
-{"tmdb_id": 382071, "title": "Dinosaur Train: Submarine Adventures", "original_title": "Dinosaur Train: Submarine Adventures", "slug_title": "dinosaur-train-submarine-adventures", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

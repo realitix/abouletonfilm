@@ -1,1 +1,0 @@
-{"tmdb_id": 185991, "title": "Plaisir d'offrir", "original_title": "Plaisir d'offrir", "slug_title": "plaisir-d-offrir", "date": "1995-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fran\u00e7ois Morel ()", "Kristin Scott Thomas ()"], "comments": [], "recommandations_id": []}

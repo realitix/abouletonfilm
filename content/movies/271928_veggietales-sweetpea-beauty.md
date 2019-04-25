@@ -1,1 +1,0 @@
-{"tmdb_id": 271928, "title": "VeggieTales: Sweetpea Beauty", "original_title": "VeggieTales: Sweetpea Beauty", "slug_title": "veggietales-sweetpea-beauty", "date": "2010-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7MgFHLGuOjPRVa3DHLqFvsaPjUm.jpg", "actors": [], "comments": [], "recommandations_id": []}

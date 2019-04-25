@@ -1,1 +1,1 @@
-{"tmdb_id": 481537, "title": "Jeju Prayer", "original_title": "Jeju Prayer", "slug_title": "jeju-prayer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 481537, "title": "Jeju Prayer", "original_title": "Jeju Prayer", "slug_title": "jeju-prayer", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

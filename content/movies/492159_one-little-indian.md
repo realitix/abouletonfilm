@@ -1,1 +1,0 @@
-{"tmdb_id": 492159, "title": "One Little Indian", "original_title": "One Little Indian", "slug_title": "one-little-indian", "date": "1954-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gFnTEsr7vg1a4vaiJCHx1s28lL.jpg", "actors": [], "comments": [], "recommandations_id": []}

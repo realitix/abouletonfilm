@@ -1,1 +1,0 @@
-{"tmdb_id": 266589, "title": "Epic - Days Of The Dinosaurs", "original_title": "Epic - Days Of The Dinosaurs", "slug_title": "epic-days-of-the-dinosaurs", "date": "1985-05-14", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hOAYcUEPudiNXtrjzhkq1uxDcYA.jpg", "actors": [], "comments": [], "recommandations_id": []}

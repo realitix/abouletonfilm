@@ -1,1 +1,0 @@
-{"tmdb_id": 202202, "title": "Helmut Doppel: Alfa / Rectum", "original_title": "Helmut Doppel: Alfa / Rectum", "slug_title": "helmut-doppel-alfa-rectum", "date": "2013-06-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zoltan Fazekas ()"], "comments": [], "recommandations_id": []}

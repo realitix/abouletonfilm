@@ -1,1 +1,0 @@
-{"tmdb_id": 571585, "title": "Queen: Jewels (Greatest Hits)", "original_title": "Queen: Jewels (Greatest Hits)", "slug_title": "queen-jewels-greatest-hits", "date": "2004-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rV8h6b2FnynzJHqy6EFNOXzGglo.jpg", "actors": [], "comments": [], "recommandations_id": []}

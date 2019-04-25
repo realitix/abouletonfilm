@@ -1,1 +1,0 @@
-{"tmdb_id": 528909, "title": "Menina da Chuva", "original_title": "Menina da Chuva", "slug_title": "menina-da-chuva", "date": "2010-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

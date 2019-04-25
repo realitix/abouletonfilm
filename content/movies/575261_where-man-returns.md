@@ -1,1 +1,0 @@
-{"tmdb_id": 575261, "title": "Where Man Returns", "original_title": "Hvor man vender tilbake", "slug_title": "where-man-returns", "date": "2019-01-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

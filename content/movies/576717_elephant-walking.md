@@ -1,1 +1,0 @@
-{"tmdb_id": 576717, "title": "Elephant Walking", "original_title": "Elephant Walking", "slug_title": "elephant-walking", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xhSwbcnUypdzYvEYGtlB6oXwPcM.jpg", "actors": [], "comments": [], "recommandations_id": []}

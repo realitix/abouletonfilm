@@ -1,1 +1,0 @@
-{"tmdb_id": 502843, "title": "Illusions 2", "original_title": "Illusions 2", "slug_title": "illusions-2", "date": "1992-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Teri Weigel ()", "Jade East ()"], "comments": [], "recommandations_id": []}

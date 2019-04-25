@@ -1,1 +1,0 @@
-{"tmdb_id": 372865, "title": "Our Guy in Latvia", "original_title": "Our Guy in Latvia", "slug_title": "our-guy-in-latvia", "date": "2015-12-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/46g79u2wh3LppSxdNSxvvAi4ULz.jpg", "actors": ["Guy Martin (Himself)"], "comments": [], "recommandations_id": []}

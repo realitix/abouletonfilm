@@ -1,1 +1,0 @@
-{"tmdb_id": 186669, "title": "Le Marteau", "original_title": "Le Marteau", "slug_title": "le-marteau", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

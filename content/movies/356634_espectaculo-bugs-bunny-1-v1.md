@@ -1,1 +1,0 @@
-{"tmdb_id": 356634, "title": "Espect\u00e1culo Bugs Bunny 1 V1", "original_title": "Espect\u00e1culo Bugs Bunny 1 V1", "slug_title": "espectaculo-bugs-bunny-1-v1", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vRft198TdgyD4HPIOpWxZttEKQd.jpg", "actors": [], "comments": [], "recommandations_id": []}

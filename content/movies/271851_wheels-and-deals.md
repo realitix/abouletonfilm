@@ -1,1 +1,0 @@
-{"tmdb_id": 271851, "title": "Wheels and Deals", "original_title": "Wheels and Deals", "slug_title": "wheels-and-deals", "date": "1990-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

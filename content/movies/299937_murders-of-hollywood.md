@@ -1,1 +1,0 @@
-{"tmdb_id": 299937, "title": "Murders of Hollywood", "original_title": "Murders of Hollywood", "slug_title": "murders-of-hollywood", "date": "2003-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/syj27am9ro0A9u88QVfwry2vi3L.jpg", "actors": [], "comments": [], "recommandations_id": []}

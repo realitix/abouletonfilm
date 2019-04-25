@@ -1,1 +1,0 @@
-{"tmdb_id": 405427, "title": "White Light", "original_title": "White Light", "slug_title": "white-light", "date": "1996-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/etDgiVfitgTMWnic9qJMY48WnYc.jpg", "actors": [], "comments": [], "recommandations_id": []}

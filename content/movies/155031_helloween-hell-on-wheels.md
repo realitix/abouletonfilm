@@ -1,1 +1,0 @@
-{"tmdb_id": 155031, "title": "Helloween: Hell on Wheels", "original_title": "Helloween: Hell on Wheels", "slug_title": "helloween-hell-on-wheels", "date": "1987-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Ymc73FzlIGBJxEVK3EAqNfxqtr.jpg", "actors": [], "comments": [], "recommandations_id": []}

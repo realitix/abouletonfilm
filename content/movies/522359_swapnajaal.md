@@ -1,1 +1,0 @@
-{"tmdb_id": 522359, "title": "Swapnajaal", "original_title": "Swapnajaal", "slug_title": "swapnajaal", "date": "2018-04-06", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oOizqhhPUX6Gl6Hcs0okZhAPUIH.jpg", "actors": ["Yash Rohan (Apu)", "Pori Moni (Shuvra)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 239255, "title": "The Bitch Is Back", "original_title": "The Bitch Is Back", "slug_title": "the-bitch-is-back", "date": "1995-03-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kTUwXvFk8r1IDAFBOpGpKZcf2PE.jpg", "actors": [], "comments": [], "recommandations_id": []}

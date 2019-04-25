@@ -1,1 +1,0 @@
-{"tmdb_id": 137466, "title": "Nuvvu Vastavani", "original_title": "Nuvvu Vastavani", "slug_title": "nuvvu-vastavani", "date": "2000-04-05", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x9qO9A3EZ5jTVT7e3xhRoxCuUzs.jpg", "actors": ["Nagarjuna Akkineni ()", "Simran ()"], "comments": [], "recommandations_id": []}

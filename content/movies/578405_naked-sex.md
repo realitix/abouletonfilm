@@ -1,1 +1,0 @@
-{"tmdb_id": 578405, "title": "Naked Sex", "original_title": "Le sexe nu", "slug_title": "naked-sex", "date": "1973-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6yqU4Fb2gXwoqRMuwMch3UEWJr7.jpg", "actors": [], "comments": [], "recommandations_id": []}

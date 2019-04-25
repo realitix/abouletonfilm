@@ -1,1 +1,0 @@
-{"tmdb_id": 571007, "title": "A Strange Place", "original_title": "A Strange Place", "slug_title": "a-strange-place", "date": "2018-01-05", "genre": "Myst\u00e8re / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qa1JG4iKJkc6fN3sU9Y2kcQ72Uh.jpg", "actors": ["Oscar Deng (Young Man)"], "comments": [], "recommandations_id": []}

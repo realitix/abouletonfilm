@@ -1,1 +1,0 @@
-{"tmdb_id": 211423, "title": "Screen Kiss", "original_title": "Screen Kiss", "slug_title": "screen-kiss", "date": "2005-11-25", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

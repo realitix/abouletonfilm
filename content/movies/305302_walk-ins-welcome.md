@@ -1,1 +1,0 @@
-{"tmdb_id": 305302, "title": "Walk-ins Welcome", "original_title": "Walk-ins Welcome", "slug_title": "walk-ins-welcome", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christopher St. Mary (Dominic)", "Chris V. Brown (Charles)"], "comments": [], "recommandations_id": []}

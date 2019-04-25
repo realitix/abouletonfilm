@@ -1,1 +1,0 @@
-{"tmdb_id": 335465, "title": "Extreme Fighters", "original_title": "Extreme Fighters", "slug_title": "extreme-fighters", "date": "2014-03-17", "genre": "Action / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hDtCJNpOOVKprGiUegstWi6LIPY.jpg", "actors": [], "comments": [], "recommandations_id": []}

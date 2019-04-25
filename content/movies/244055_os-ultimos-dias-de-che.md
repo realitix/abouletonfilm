@@ -1,1 +1,0 @@
-{"tmdb_id": 244055, "title": "Os \u00daltimos Dias de Che", "original_title": "Os \u00daltimos Dias de Che", "slug_title": "os-ultimos-dias-de-che", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

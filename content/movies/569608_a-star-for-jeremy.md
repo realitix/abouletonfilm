@@ -1,1 +1,0 @@
-{"tmdb_id": 569608, "title": "A Star For Jeremy", "original_title": "A Star For Jeremy", "slug_title": "a-star-for-jeremy", "date": "1982-12-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leif Ancker (voice)", "James Gleason (voice)"], "comments": [], "recommandations_id": []}

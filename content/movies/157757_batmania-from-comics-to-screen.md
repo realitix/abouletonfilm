@@ -1,1 +1,0 @@
-{"tmdb_id": 157757, "title": "Batmania: From Comics to Screen", "original_title": "Batmania: From Comics to Screen", "slug_title": "batmania-from-comics-to-screen", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r3qPYtV2aJPSYsuNmODazqheOKI.jpg", "actors": [], "comments": [], "recommandations_id": []}

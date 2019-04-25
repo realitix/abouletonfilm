@@ -1,1 +1,0 @@
-{"tmdb_id": 299525, "title": "Beast of Cardo", "original_title": "Bestia de Cardo", "slug_title": "beast-of-cardo", "date": "2014-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2IHMChcwHE20TToIDD37eF2A7oa.jpg", "actors": [], "comments": [], "recommandations_id": []}

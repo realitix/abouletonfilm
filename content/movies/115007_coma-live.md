@@ -1,1 +1,0 @@
-{"tmdb_id": 115007, "title": "Coma Live", "original_title": "Coma Live", "slug_title": "coma-live", "date": "2013-11-21", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/abonIbthEOAnJ1S1VCzrg9zX6qT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 163266, "title": "\u5929\u6c34\u570d\u7684\u591c\u8207\u9727", "original_title": "\u5929\u6c34\u570d\u7684\u591c\u8207\u9727", "slug_title": "tian-shui-wei-de-ye-yu-wu", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

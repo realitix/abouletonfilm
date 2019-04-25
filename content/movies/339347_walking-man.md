@@ -1,1 +1,0 @@
-{"tmdb_id": 339347, "title": "Walking Man", "original_title": "Walking Man", "slug_title": "walking-man", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

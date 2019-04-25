@@ -1,1 +1,0 @@
-{"tmdb_id": 545596, "title": "Theodore Roosevelt in Africa", "original_title": "Theodore Roosevelt in Africa", "slug_title": "theodore-roosevelt-in-africa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 79943, "title": "NBA Dynasty Series - Chicago Bulls", "original_title": "NBA Dynasty Series - Chicago Bulls", "slug_title": "nba-dynasty-series-chicago-bulls", "date": "", "genre": "", "score": "9.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/74w8ch5dViUcuXk61uEV7lLu3qf.jpg", "actors": [], "comments": [], "recommandations_id": []}

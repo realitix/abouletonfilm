@@ -1,1 +1,0 @@
-{"tmdb_id": 532464, "title": "Histoire(s) d'une utopie \u00e0 vendre", "original_title": "Histoire(s) d'une utopie \u00e0 vendre", "slug_title": "histoire-s-d-une-utopie-a-vendre", "date": "2006-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

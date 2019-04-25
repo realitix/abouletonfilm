@@ -1,1 +1,0 @@
-{"tmdb_id": 216181, "title": "Garden of Scorpions", "original_title": "Sady skorpiona", "slug_title": "garden-of-scorpions", "date": "1992-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

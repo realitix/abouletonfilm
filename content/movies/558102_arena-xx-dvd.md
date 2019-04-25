@@ -1,1 +1,0 @@
-{"tmdb_id": 558102, "title": "Arena XX DVD", "original_title": "Arena XX DVD", "slug_title": "arena-xx-dvd", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uhhUrmQpow4SH9WYB08nf4AOK5a.jpg", "actors": [], "comments": [], "recommandations_id": []}

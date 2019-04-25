@@ -1,1 +1,0 @@
-{"tmdb_id": 390023, "title": "The Rabbit Case", "original_title": "Causa kr\u00e1l\u00edk", "slug_title": "the-rabbit-case", "date": "1980-03-26", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gr3MLAG4rV5uIVQmxF8wH0lUHlj.jpg", "actors": [], "comments": [], "recommandations_id": []}

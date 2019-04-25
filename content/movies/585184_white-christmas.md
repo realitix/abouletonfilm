@@ -1,1 +1,0 @@
-{"tmdb_id": 585184, "title": "White Christmas", "original_title": "White Christmas", "slug_title": "white-christmas", "date": "1995-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/90VzofjiBodNua2ALJJZB6Ia1w2.jpg", "actors": [], "comments": [], "recommandations_id": []}

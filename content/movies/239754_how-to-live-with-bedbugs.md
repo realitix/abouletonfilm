@@ -1,1 +1,0 @@
-{"tmdb_id": 239754, "title": "How to Live with Bedbugs", "original_title": "How to Live with Bedbugs", "slug_title": "how-to-live-with-bedbugs", "date": "2013-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

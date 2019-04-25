@@ -1,1 +1,0 @@
-{"tmdb_id": 277431, "title": "Dragon Force Operation", "original_title": "Dragon Force Operation", "slug_title": "dragon-force-operation", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

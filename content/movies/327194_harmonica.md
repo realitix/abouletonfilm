@@ -1,1 +1,0 @@
-{"tmdb_id": 327194, "title": "Harmonica", "original_title": "\u0633\u0627\u0632 \u062f\u0647\u0646\u06cc", "slug_title": "harmonica", "date": "1974-04-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rZRIHDoL5LnmDNWnq9yn2tEjjLy.jpg", "actors": [], "comments": [], "recommandations_id": []}

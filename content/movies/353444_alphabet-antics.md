@@ -1,1 +1,0 @@
-{"tmdb_id": 353444, "title": "Alphabet Antics", "original_title": "Alphabet Antics", "slug_title": "alphabet-antics", "date": "1951-01-01", "genre": "Familial", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kvKmxQDdceEPPqDpfvN2RIFpmD4.jpg", "actors": [], "comments": [], "recommandations_id": []}

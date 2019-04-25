@@ -1,1 +1,0 @@
-{"tmdb_id": 399703, "title": "The Clown Tape", "original_title": "The Clown Tape", "slug_title": "the-clown-tape", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/utRWubaIWZApYAXTfCmIMTvVG9c.jpg", "actors": [], "comments": [], "recommandations_id": []}

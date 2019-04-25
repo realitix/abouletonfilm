@@ -1,1 +1,0 @@
-{"tmdb_id": 502623, "title": "Bianchi pascoli", "original_title": "Bianchi pascoli", "slug_title": "bianchi-pascoli", "date": "1947-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

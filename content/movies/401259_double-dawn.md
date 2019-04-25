@@ -1,1 +1,0 @@
-{"tmdb_id": 401259, "title": "Double Dawn", "original_title": "Double Dawn", "slug_title": "double-dawn", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z4Fq0bM6OEk1aCsBwXhf2ZTTMjk.jpg", "actors": [], "comments": [], "recommandations_id": []}

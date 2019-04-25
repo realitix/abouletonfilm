@@ -1,1 +1,0 @@
-{"tmdb_id": 116459, "title": "Break Up the Dance", "original_title": "Rozbijemy zabaw\u0119", "slug_title": "break-up-the-dance", "date": "1957-01-01", "genre": "Drame", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kDcUW6n0mCwXuXIWaWFod8YAxBG.jpg", "actors": [], "comments": [], "recommandations_id": [144690, 163041, 104141, 104144]}

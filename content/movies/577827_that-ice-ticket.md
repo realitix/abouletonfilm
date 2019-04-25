@@ -1,1 +1,0 @@
-{"tmdb_id": 577827, "title": "That Ice Ticket", "original_title": "That Ice Ticket", "slug_title": "that-ice-ticket", "date": "1922-01-01", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Angela Murray Gibson ()"], "comments": [], "recommandations_id": []}

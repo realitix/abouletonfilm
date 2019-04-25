@@ -1,1 +1,0 @@
-{"tmdb_id": 316594, "title": "Forget-Me-Nuts", "original_title": "Forget-Me-Nuts", "slug_title": "forget-me-nuts", "date": "1967-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

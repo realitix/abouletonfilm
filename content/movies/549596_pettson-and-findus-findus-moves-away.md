@@ -1,1 +1,0 @@
-{"tmdb_id": 549596, "title": "Pettson and Findus: Findus moves away", "original_title": "Petterson und Findus-Findus zieht weg von zu hause", "slug_title": "pettson-and-findus-findus-moves-away", "date": "", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

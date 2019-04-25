@@ -1,1 +1,0 @@
-{"tmdb_id": 551066, "title": "D\u00fcg\u00fcn - Die Heirat", "original_title": "D\u00fcg\u00fcn - Die Heirat", "slug_title": "dugun-die-heirat", "date": "1992-02-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/odqA3fLCfZ3bXlgyyGsLNKF1IcL.jpg", "actors": [], "comments": [], "recommandations_id": []}

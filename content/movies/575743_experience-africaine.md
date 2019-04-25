@@ -1,1 +1,0 @@
-{"tmdb_id": 575743, "title": "Exp\u00e9rience africaine", "original_title": "Exp\u00e9rience africaine", "slug_title": "experience-africaine", "date": "2009-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qHT8G9UeVh0bqOrI3JLjVVwCjhq.jpg", "actors": [], "comments": [], "recommandations_id": []}

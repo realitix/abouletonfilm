@@ -1,1 +1,0 @@
-{"tmdb_id": 163944, "title": "The Embrace of the River", "original_title": "Los abrazos del r\u00edo", "slug_title": "the-embrace-of-the-river", "date": "2010-11-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dxMNXjwllwVkCtpCYj9ktQQRKCb.jpg", "actors": [], "comments": [], "recommandations_id": []}

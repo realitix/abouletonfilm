@@ -1,1 +1,0 @@
-{"tmdb_id": 376959, "title": "Corny Concerto", "original_title": "Corny Concerto", "slug_title": "corny-concerto", "date": "1962-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qY2rIixXMr0hUOEKCNNjxXb01hT.jpg", "actors": ["Paul Frees (Doc (voice))"], "comments": [], "recommandations_id": []}

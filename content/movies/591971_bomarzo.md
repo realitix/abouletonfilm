@@ -1,1 +1,0 @@
-{"tmdb_id": 591971, "title": "Bomarzo", "original_title": "Bomarzo", "slug_title": "bomarzo", "date": "2017-12-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mKFQ6VeKqZxgjjAbijcQRZUTc0R.jpg", "actors": [], "comments": [], "recommandations_id": []}

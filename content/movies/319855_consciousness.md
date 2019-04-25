@@ -1,1 +1,0 @@
-{"tmdb_id": 319855, "title": "Consciousness", "original_title": "Consciousness", "slug_title": "consciousness", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

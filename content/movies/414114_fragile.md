@@ -1,1 +1,0 @@
-{"tmdb_id": 414114, "title": "Fragile", "original_title": "FRAGIL", "slug_title": "fragile", "date": "2015-08-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zqbXRUmrTrhBvrfdHwdyjjIaj7o.jpg", "actors": ["Lale Yava\u015f (Natalie)", "Beat Marti (Sascha)"], "comments": [], "recommandations_id": []}

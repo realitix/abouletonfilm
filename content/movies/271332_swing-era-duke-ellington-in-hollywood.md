@@ -1,1 +1,0 @@
-{"tmdb_id": 271332, "title": "Swing Era: Duke Ellington - In Hollywood", "original_title": "Swing Era: Duke Ellington - In Hollywood", "slug_title": "swing-era-duke-ellington-in-hollywood", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

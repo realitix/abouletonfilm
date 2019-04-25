@@ -1,1 +1,0 @@
-{"tmdb_id": 385884, "title": "Because They Are in Love", "original_title": "Pentru c\u0103 se iubesc", "slug_title": "because-they-are-in-love", "date": "1972-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yf3GdHOlTL0ZuFzk3Rp60sT1S4T.jpg", "actors": [], "comments": [], "recommandations_id": []}

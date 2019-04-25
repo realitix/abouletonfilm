@@ -1,1 +1,0 @@
-{"tmdb_id": 498372, "title": "Rock 'N Roll", "original_title": "Rock 'N Roll", "slug_title": "rock-n-roll", "date": "2016-01-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4VJZDy40H9gld1i6dbD6BLBL5Si.jpg", "actors": ["Anggun Priambodo ()", "Putra Ayudya ()"], "comments": [], "recommandations_id": []}

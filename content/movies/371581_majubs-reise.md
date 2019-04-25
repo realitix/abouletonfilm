@@ -1,1 +1,0 @@
-{"tmdb_id": 371581, "title": "Majubs Reise", "original_title": "Majubs Reise", "slug_title": "majubs-reise", "date": "2013-10-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

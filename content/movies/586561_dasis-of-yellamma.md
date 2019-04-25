@@ -1,1 +1,0 @@
-{"tmdb_id": 586561, "title": "Dasis of Yellamma", "original_title": "Dasis of Yellamma", "slug_title": "dasis-of-yellamma", "date": "2015-04-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 526123, "title": "Hygiene For Men", "original_title": "Hygiene For Men", "slug_title": "hygiene-for-men", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/twfR63SHhfnEUzUR66s2r2e6aVz.jpg", "actors": [], "comments": [], "recommandations_id": []}

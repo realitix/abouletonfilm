@@ -1,1 +1,0 @@
-{"tmdb_id": 298435, "title": "Room Window Sea Sky", "original_title": "Room Window Sea Sky", "slug_title": "room-window-sea-sky", "date": "2014-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

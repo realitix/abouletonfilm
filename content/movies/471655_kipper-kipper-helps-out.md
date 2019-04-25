@@ -1,1 +1,0 @@
-{"tmdb_id": 471655, "title": "Kipper - Kipper Helps Out", "original_title": "Kipper - Kipper Helps Out", "slug_title": "kipper-kipper-helps-out", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mwtUFof31ND3bICLaudqaDw6g8R.jpg", "actors": [], "comments": [], "recommandations_id": []}

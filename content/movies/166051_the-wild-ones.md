@@ -1,1 +1,0 @@
-{"tmdb_id": 166051, "title": "The Wild Ones", "original_title": "Alla vilda", "slug_title": "the-wild-ones", "date": "2012-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fmGBxEXDqtQ7jDaCXQeD6TWGBN9.jpg", "actors": ["Birgitta Stenberg (Birgitta Stenberg)"], "comments": [], "recommandations_id": []}

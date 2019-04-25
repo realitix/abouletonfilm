@@ -1,1 +1,0 @@
-{"tmdb_id": 346373, "title": "Whodunnit??", "original_title": "Whodunnit??", "slug_title": "whodunnit", "date": "2014-06-06", "genre": "Animation / Com\u00e9die / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kR9QVtS5t3POXdR7yYJ3q5GDsIk.jpg", "actors": [], "comments": [], "recommandations_id": []}

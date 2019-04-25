@@ -1,1 +1,0 @@
-{"tmdb_id": 539540, "title": "Midsommardr\u00f6m i fattighuset", "original_title": "Midsommardr\u00f6m i fattighuset", "slug_title": "midsommardrom-i-fattighuset", "date": "1959-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

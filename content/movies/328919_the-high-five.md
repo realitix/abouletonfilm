@@ -1,1 +1,0 @@
-{"tmdb_id": 328919, "title": "The High Five", "original_title": "The High Five", "slug_title": "the-high-five", "date": "2014-07-23", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/czYzvDlVHqfsRmXfdRhBhIQbnwv.jpg", "actors": [], "comments": [], "recommandations_id": []}

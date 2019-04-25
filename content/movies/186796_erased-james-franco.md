@@ -1,1 +1,0 @@
-{"tmdb_id": 186796, "title": "Erased James Franco", "original_title": "Erased James Franco", "slug_title": "erased-james-franco", "date": "2009-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Franco (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 520254, "title": "Turning Tables", "original_title": "Turning Tables", "slug_title": "turning-tables", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 384909, "title": "Doxology", "original_title": "Doxology", "slug_title": "doxology", "date": "2007-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/idgiUEXj8rXrhfr80Mz1CyhZPtU.jpg", "actors": [], "comments": [], "recommandations_id": []}

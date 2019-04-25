@@ -1,1 +1,0 @@
-{"tmdb_id": 538191, "title": "California's Forgotten Children", "original_title": "California's Forgotten Children", "slug_title": "california-s-forgotten-children", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

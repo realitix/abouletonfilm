@@ -1,1 +1,0 @@
-{"tmdb_id": 389134, "title": "Coming Out", "original_title": "Coming Out", "slug_title": "coming-out", "date": "2016-03-22", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/48BM6WULcxAYYs4KELF7JukLFiu.jpg", "actors": ["Alden Peters (Himself)"], "comments": [], "recommandations_id": []}

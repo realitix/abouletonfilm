@@ -1,1 +1,0 @@
-{"tmdb_id": 311775, "title": "9 Lives of Mara", "original_title": "9 Lives of Mara", "slug_title": "9-lives-of-mara", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

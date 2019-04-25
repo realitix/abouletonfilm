@@ -1,1 +1,0 @@
-{"tmdb_id": 353412, "title": "Posture Pals", "original_title": "Posture Pals", "slug_title": "posture-pals", "date": "1952-08-07", "genre": "Documentaire", "score": "1.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AjpJ4opSrkjXbExzH4ITRofz9R1.jpg", "actors": [], "comments": [], "recommandations_id": []}

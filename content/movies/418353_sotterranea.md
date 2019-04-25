@@ -1,1 +1,0 @@
-{"tmdb_id": 418353, "title": "Sotterranea", "original_title": "Sotterranea", "slug_title": "sotterranea", "date": "1973-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4dFqgTBusgKcGCZ0qUfCgpfUpc2.jpg", "actors": [], "comments": [], "recommandations_id": []}

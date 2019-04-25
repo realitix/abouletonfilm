@@ -1,1 +1,0 @@
-{"tmdb_id": 164094, "title": "The Dawn Of A New Day", "original_title": "The Dawn Of A New Day", "slug_title": "the-dawn-of-a-new-day", "date": "2011-01-28", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sD2Zl7nlCRnWz6GlzwCyuR9swoo.jpg", "actors": [], "comments": [], "recommandations_id": []}

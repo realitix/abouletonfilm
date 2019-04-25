@@ -1,1 +1,0 @@
-{"tmdb_id": 591494, "title": "Celluloid Memory", "original_title": "\u30bb\u30eb\u30ed\u30a4\u30c9\u306e\u8a18\u61b6", "slug_title": "celluloid-memory", "date": "1993-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bgpp4OcgOK4Rhqh7IA9rMnipoN3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 585908, "title": "Berlin Report", "original_title": "\ubca0\ub97c\ub9b0 \ub9ac\ud3ec\ud2b8", "slug_title": "berlin-report", "date": "1991-06-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ahn Sung-ki ()", "Kang Soo-yeon ()", "Moon Sung-keun ()", "Jae-yeong Lee ()"], "comments": [], "recommandations_id": []}

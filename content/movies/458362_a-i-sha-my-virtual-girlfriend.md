@@ -1,1 +1,0 @@
-{"tmdb_id": 458362, "title": "A.I.SHA: My Virtual Girlfriend", "original_title": "A.I.SHA: My Virtual Girlfriend", "slug_title": "a-i-sha-my-virtual-girlfriend", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

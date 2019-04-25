@@ -1,1 +1,0 @@
-{"tmdb_id": 205650, "title": "Tom Turk and Daffy", "original_title": "Tom Turk and Daffy", "slug_title": "tom-turk-and-daffy", "date": "1944-02-12", "genre": "Animation", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1zh2anakOv6xV1d7yRgGgr4XrDr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 539697, "title": "Fragments 83", "original_title": "Fragments 83", "slug_title": "fragments-83", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1qY7rcVYFBxZYTZz2RP2PFRE9uT.jpg", "actors": ["Richard Millen ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 559845, "title": "A Tower of Painted Glass", "original_title": "A Tower of Painted Glass", "slug_title": "a-tower-of-painted-glass", "date": "2013-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2GS4aeMMAL4FI7XAl0xEVIZQkId.jpg", "actors": [], "comments": [], "recommandations_id": []}

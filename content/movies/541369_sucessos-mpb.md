@@ -1,1 +1,0 @@
-{"tmdb_id": 541369, "title": "Sucessos MPB", "original_title": "Sucessos MPB", "slug_title": "sucessos-mpb", "date": "2005-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zpH0HJvaFsFLzMzNz2czGo5qC4U.jpg", "actors": [], "comments": [], "recommandations_id": []}

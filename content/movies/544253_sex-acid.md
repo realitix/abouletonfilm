@@ -1,1 +1,0 @@
-{"tmdb_id": 544253, "title": "Sex Acid", "original_title": "Sex Acid", "slug_title": "sex-acid", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

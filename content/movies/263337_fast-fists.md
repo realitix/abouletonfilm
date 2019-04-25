@@ -1,1 +1,0 @@
-{"tmdb_id": 263337, "title": "Fast Fists", "original_title": "Fast Fists", "slug_title": "fast-fists", "date": "1973-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

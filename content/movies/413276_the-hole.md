@@ -1,1 +1,0 @@
-{"tmdb_id": 413276, "title": "The Hole", "original_title": "Le Trou", "slug_title": "the-hole", "date": "1968-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3PYytO4ZxVPlxfKnhNPPdFi4Ec6.jpg", "actors": [], "comments": [], "recommandations_id": []}

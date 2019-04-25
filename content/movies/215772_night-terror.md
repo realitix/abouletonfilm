@@ -1,1 +1,0 @@
-{"tmdb_id": 215772, "title": "Night Terror", "original_title": "Night Terror", "slug_title": "night-terror", "date": "1989-01-02", "genre": "Fantastique / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kDdSVINb88PXpU5H22fhnelOW8D.jpg", "actors": [], "comments": [], "recommandations_id": []}

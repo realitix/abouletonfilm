@@ -1,1 +1,0 @@
-{"tmdb_id": 507597, "title": "San Francisco Good Times", "original_title": "San Francisco Good Times", "slug_title": "san-francisco-good-times", "date": "1977-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bjnbvZZf2oFf3HNv4oc6TH3mVtc.jpg", "actors": [], "comments": [], "recommandations_id": []}

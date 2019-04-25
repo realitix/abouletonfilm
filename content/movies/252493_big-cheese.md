@@ -1,1 +1,0 @@
-{"tmdb_id": 252493, "title": "Big Cheese", "original_title": "Big Cheese", "slug_title": "big-cheese", "date": "1930-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

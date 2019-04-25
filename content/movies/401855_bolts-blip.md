@@ -1,1 +1,0 @@
-{"tmdb_id": 401855, "title": "Bolts & Blip", "original_title": "Bolts & Blip", "slug_title": "bolts-blip", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 385591, "title": "Look Me In The Eye", "original_title": "Look Me In The Eye", "slug_title": "look-me-in-the-eye", "date": "1994-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 572689, "title": "The Midnight Jester", "original_title": "The Midnight Jester", "slug_title": "the-midnight-jester", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

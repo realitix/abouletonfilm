@@ -1,1 +1,0 @@
-{"tmdb_id": 262567, "title": "Amerikas S\u00fcdwesten", "original_title": "Amerikas S\u00fcdwesten", "slug_title": "amerikas-sudwesten", "date": "2013-01-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8iSV6fdWt8EHICSS4dAzszH6rda.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 191151, "title": "Dummies", "original_title": "Dummies", "slug_title": "dummies", "date": "1928-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Semon (The Entertainer)"], "comments": [], "recommandations_id": []}

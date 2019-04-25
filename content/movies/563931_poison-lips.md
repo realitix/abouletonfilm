@@ -1,1 +1,0 @@
-{"tmdb_id": 563931, "title": "Poison Lips", "original_title": "Poison Lips", "slug_title": "poison-lips", "date": "2009-10-02", "genre": "Musique / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jun ()", "Zara Prassinot ()", "Kana Anan ()", "Eriko Sat\u00f4 ()", "Mila Suminokura ()"], "comments": [], "recommandations_id": []}

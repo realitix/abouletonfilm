@@ -1,1 +1,0 @@
-{"tmdb_id": 411654, "title": "Blankets for Indians", "original_title": "Blankets for Indians", "slug_title": "blankets-for-indians", "date": "2012-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/49Zoz3vhdlxETIJltjsiDoqxHnQ.jpg", "actors": ["Flo Jacobs ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 193493, "title": "Horizontal Landscape", "original_title": "Pejza\u017c horyzontalny", "slug_title": "horizontal-landscape", "date": "1973-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iVOv70RogITcrFRW3hxcsS7ZuGr.jpg", "actors": [], "comments": [], "recommandations_id": []}

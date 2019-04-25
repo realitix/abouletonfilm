@@ -1,1 +1,0 @@
-{"tmdb_id": 357256, "title": "Der konstruierte Mensch", "original_title": "Der konstruierte Mensch", "slug_title": "der-konstruierte-mensch", "date": "2013-11-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fbrkvCnpK9KtOQkTm1dEEF2udXa.jpg", "actors": [], "comments": [], "recommandations_id": []}

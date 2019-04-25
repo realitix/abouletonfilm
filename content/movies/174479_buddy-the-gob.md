@@ -1,1 +1,0 @@
-{"tmdb_id": 174479, "title": "Buddy the Gob", "original_title": "Buddy the Gob", "slug_title": "buddy-the-gob", "date": "1934-01-12", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p47VcNNwiqtR7yCVCW7uAWiSlZj.jpg", "actors": [], "comments": [], "recommandations_id": []}

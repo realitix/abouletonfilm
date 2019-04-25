@@ -1,1 +1,0 @@
-{"tmdb_id": 379059, "title": "Mystic Pink", "original_title": "Mystic Pink", "slug_title": "mystic-pink", "date": "1976-01-06", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a6pfGIlOg1wZHFAUtvleVMnUm2d.jpg", "actors": [], "comments": [], "recommandations_id": []}

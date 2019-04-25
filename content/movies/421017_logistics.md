@@ -1,1 +1,0 @@
-{"tmdb_id": 421017, "title": "Logistics", "original_title": "Logistics", "slug_title": "logistics", "date": "2012-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z8DF8LmRXkgij0jzlb386w2tHfI.jpg", "actors": [], "comments": [], "recommandations_id": []}

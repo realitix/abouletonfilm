@@ -1,1 +1,0 @@
-{"tmdb_id": 271010, "title": "Being Captain Zero", "original_title": "Being Captain Zero", "slug_title": "being-captain-zero", "date": "2009-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

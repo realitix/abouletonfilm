@@ -1,1 +1,0 @@
-{"tmdb_id": 199903, "title": "O Enfermeiro Jos\u00e9", "original_title": "O Enfermeiro Jos\u00e9", "slug_title": "o-enfermeiro-jose", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e3yJGIuStqf2SIcjlGYRL1S7gAW.jpg", "actors": [], "comments": [], "recommandations_id": []}

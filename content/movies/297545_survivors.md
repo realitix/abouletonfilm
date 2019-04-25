@@ -1,1 +1,0 @@
-{"tmdb_id": 297545, "title": "Survivors", "original_title": "Survivors", "slug_title": "survivors", "date": "1990-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 288398, "title": "Glorious Days", "original_title": "Glorious Days", "slug_title": "glorious-days", "date": "2014-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p9Jmdqks6rs3vnsdHyAOpD7vSLc.jpg", "actors": [], "comments": [], "recommandations_id": []}

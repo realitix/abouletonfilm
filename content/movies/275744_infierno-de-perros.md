@@ -1,1 +1,0 @@
-{"tmdb_id": 275744, "title": "Infierno de Perros", "original_title": "Infierno de Perros", "slug_title": "infierno-de-perros", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

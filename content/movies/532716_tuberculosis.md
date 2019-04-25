@@ -1,1 +1,0 @@
-{"tmdb_id": 532716, "title": "Tuberculosis", "original_title": "Tuberculosis", "slug_title": "tuberculosis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

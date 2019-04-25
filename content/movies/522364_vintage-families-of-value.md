@@ -1,1 +1,0 @@
-{"tmdb_id": 522364, "title": "Vintage: Families of Value", "original_title": "Vintage: Families of Value", "slug_title": "vintage-families-of-value", "date": "1995-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

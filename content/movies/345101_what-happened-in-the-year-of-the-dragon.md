@@ -1,1 +1,0 @@
-{"tmdb_id": 345101, "title": "What Happened in the Year of the Dragon", "original_title": "What Happened in the Year of the Dragon", "slug_title": "what-happened-in-the-year-of-the-dragon", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

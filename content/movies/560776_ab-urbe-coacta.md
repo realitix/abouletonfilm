@@ -1,1 +1,0 @@
-{"tmdb_id": 560776, "title": "Ab Urbe Coacta", "original_title": "Ab Urbe Coacta", "slug_title": "ab-urbe-coacta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mauro Bonanni (himself)"], "comments": [], "recommandations_id": []}

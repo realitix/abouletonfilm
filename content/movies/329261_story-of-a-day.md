@@ -1,1 +1,0 @@
-{"tmdb_id": 329261, "title": "Story of a Day", "original_title": "Bir g\u00fcn\u00fcn hikayesi", "slug_title": "story-of-a-day", "date": "1980-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

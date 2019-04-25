@@ -1,1 +1,0 @@
-{"tmdb_id": 443615, "title": "Grave Digger Domination", "original_title": "Grave Digger Domination", "slug_title": "grave-digger-domination", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cuy8UntAHe3uKktuLoiASgCb2Qr.jpg", "actors": [], "comments": [], "recommandations_id": []}

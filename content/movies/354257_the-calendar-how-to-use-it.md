@@ -1,1 +1,0 @@
-{"tmdb_id": 354257, "title": "The Calendar: How to Use It", "original_title": "The Calendar: How to Use It", "slug_title": "the-calendar-how-to-use-it", "date": "1982-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yncxwGaoZLcUNk0O19LBtFfCsRS.jpg", "actors": [], "comments": [], "recommandations_id": []}

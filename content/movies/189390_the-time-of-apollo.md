@@ -1,1 +1,0 @@
-{"tmdb_id": 189390, "title": "The Time of Apollo", "original_title": "The Time of Apollo", "slug_title": "the-time-of-apollo", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hdkfEvEzdhrw3GbhF5BjHN1Kx4Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

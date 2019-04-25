@@ -1,1 +1,0 @@
-{"tmdb_id": 489576, "title": "The Face", "original_title": "\uc5bc\uad74", "slug_title": "the-face", "date": "1999-05-29", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ayFCHT0l4jxAEd3oaNlh9Dbd1xz.jpg", "actors": ["Cho Jae-hyun ()", "Im Ha-ryong ()"], "comments": [], "recommandations_id": []}

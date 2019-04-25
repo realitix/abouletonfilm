@@ -1,1 +1,0 @@
-{"tmdb_id": 403851, "title": "Epsilon", "original_title": "Epsilon", "slug_title": "epsilon", "date": "2014-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h8LF3OW0bHChIPVPSUwWx9C72zz.jpg", "actors": [], "comments": [], "recommandations_id": []}

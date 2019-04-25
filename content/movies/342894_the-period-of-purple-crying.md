@@ -1,1 +1,0 @@
-{"tmdb_id": 342894, "title": "The Period of Purple Crying", "original_title": "The Period of Purple Crying", "slug_title": "the-period-of-purple-crying", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f4fzIMwNhLC693niYbubyx3Faog.jpg", "actors": [], "comments": [], "recommandations_id": []}

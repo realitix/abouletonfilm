@@ -1,1 +1,0 @@
-{"tmdb_id": 493111, "title": "A Day for Women", "original_title": "Yom lel-Sittat", "slug_title": "a-day-for-women", "date": "2016-10-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

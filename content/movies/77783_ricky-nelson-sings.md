@@ -1,1 +1,0 @@
-{"tmdb_id": 77783, "title": "Ricky Nelson Sings", "original_title": "Ricky Nelson Sings", "slug_title": "ricky-nelson-sings", "date": "2005-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8AiEW91nhIvaM6DK2kdbhbnVhRj.jpg", "actors": ["Ricky Nelson ()"], "comments": [], "recommandations_id": []}

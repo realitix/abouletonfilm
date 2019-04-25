@@ -1,1 +1,0 @@
-{"tmdb_id": 462444, "title": "The Devil's Pass", "original_title": "The Devil's Pass", "slug_title": "the-devil-s-pass", "date": "1957-08-04", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

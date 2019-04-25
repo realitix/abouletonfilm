@@ -1,1 +1,0 @@
-{"tmdb_id": 527932, "title": "After Twilight", "original_title": "After Twilight", "slug_title": "after-twilight", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8szulx1jehvm6Cx2xZe8WsNAunt.jpg", "actors": [], "comments": [], "recommandations_id": []}

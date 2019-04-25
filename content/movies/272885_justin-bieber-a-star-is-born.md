@@ -1,1 +1,0 @@
-{"tmdb_id": 272885, "title": "Justin Bieber: A Star is Born", "original_title": "Justin Bieber: A Star is Born", "slug_title": "justin-bieber-a-star-is-born", "date": "2011-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

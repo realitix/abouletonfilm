@@ -1,1 +1,0 @@
-{"tmdb_id": 390615, "title": "TNA Final Resolution 2010", "original_title": "TNA Final Resolution 2010", "slug_title": "tna-final-resolution-2010", "date": "2010-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1RTK0rRI6HQyJTyef8TQKopX2PF.jpg", "actors": [], "comments": [], "recommandations_id": []}

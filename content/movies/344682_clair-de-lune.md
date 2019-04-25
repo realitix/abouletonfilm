@@ -1,1 +1,0 @@
-{"tmdb_id": 344682, "title": "Clair de Lune", "original_title": "Clair de Lune", "slug_title": "clair-de-lune", "date": "", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

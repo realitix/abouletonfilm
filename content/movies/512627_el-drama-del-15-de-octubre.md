@@ -1,1 +1,0 @@
-{"tmdb_id": 512627, "title": "El Drama del 15 de Octubre", "original_title": "El Drama del 15 de Octubre", "slug_title": "el-drama-del-15-de-octubre", "date": "1915-10-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kkYg6eDslfMyqJzyNJuIbsmpkPq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 210371, "title": "Jenseits von Tibet", "original_title": "Jenseits von Tibet", "slug_title": "jenseits-von-tibet", "date": "2001-05-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oOLNPRgiOYVZ36B42WBL1XpR5GF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 596029, "title": "MC Marmot", "original_title": "MC Marmot", "slug_title": "mc-marmot", "date": "2020-11-02", "genre": "Animation / Musique / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

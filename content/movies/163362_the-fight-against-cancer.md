@@ -1,1 +1,0 @@
-{"tmdb_id": 163362, "title": "The Fight Against Cancer", "original_title": "Kampen mod kr\u00e6ften", "slug_title": "the-fight-against-cancer", "date": "1947-09-23", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4A2eGBlwQUvrLbUZf8Nh8PxRttG.jpg", "actors": [], "comments": [], "recommandations_id": []}

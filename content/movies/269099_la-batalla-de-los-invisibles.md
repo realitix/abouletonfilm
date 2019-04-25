@@ -1,1 +1,0 @@
-{"tmdb_id": 269099, "title": "La batalla de los invisibles", "original_title": "La batalla de los invisibles", "slug_title": "la-batalla-de-los-invisibles", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

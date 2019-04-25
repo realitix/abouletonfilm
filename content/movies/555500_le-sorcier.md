@@ -1,1 +1,1 @@
-{"tmdb_id": 555500, "title": "Le sorcier", "original_title": "Le sorcier", "slug_title": "le-sorcier", "date": "1917-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 555500, "title": "Le sorcier", "original_title": "Le sorcier", "slug_title": "le-sorcier", "date": "1917-10-21", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

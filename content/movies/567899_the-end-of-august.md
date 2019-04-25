@@ -1,1 +1,0 @@
-{"tmdb_id": 567899, "title": "The End of August", "original_title": "The End of August", "slug_title": "the-end-of-august", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 481745, "title": "The Ancestral Sin", "original_title": "\u05e1\u05dc\u05d0\u05d7, \u05e4\u05d4 \u05d6\u05d4 \u05d0\u05e8\u05e5 \u05d9\u05e9\u05e8\u05d0\u05dc", "slug_title": "the-ancestral-sin", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

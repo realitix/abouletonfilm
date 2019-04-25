@@ -1,1 +1,0 @@
-{"tmdb_id": 569344, "title": "No Time for Justice", "original_title": "Le d\u00e9nomm\u00e9", "slug_title": "no-time-for-justice", "date": "1990-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gbhOhA83A5KPYbUPDzT8Wyk1u4T.jpg", "actors": [], "comments": [], "recommandations_id": []}

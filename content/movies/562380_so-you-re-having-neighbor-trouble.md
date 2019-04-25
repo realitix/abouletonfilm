@@ -1,1 +1,0 @@
-{"tmdb_id": 562380, "title": "So You're Having Neighbor Trouble", "original_title": "So You're Having Neighbor Trouble", "slug_title": "so-you-re-having-neighbor-trouble", "date": "1954-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon ()"], "comments": [], "recommandations_id": []}

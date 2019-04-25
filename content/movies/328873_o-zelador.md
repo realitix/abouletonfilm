@@ -1,1 +1,0 @@
-{"tmdb_id": 328873, "title": "O Zelador", "original_title": "O Zelador", "slug_title": "o-zelador", "date": "2007-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2DXWmsjqo0Y6qBn2jg6tj7sc9xb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 592718, "title": "Boys'n Guns", "original_title": "Boys'n Guns", "slug_title": "boys-n-guns", "date": "2020-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bwyWIpwCqNjC8MhfBwrcMCcq8J2.jpg", "actors": [], "comments": [], "recommandations_id": []}

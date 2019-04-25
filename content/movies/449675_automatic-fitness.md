@@ -1,1 +1,0 @@
-{"tmdb_id": 449675, "title": "Automatic Fitness", "original_title": "Automatic Fitness", "slug_title": "automatic-fitness", "date": "2015-02-09", "genre": "Animation", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ehPOYLD1K6gd0Nusbh46EkckZuv.jpg", "actors": [], "comments": [], "recommandations_id": []}

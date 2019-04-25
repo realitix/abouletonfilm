@@ -1,1 +1,0 @@
-{"tmdb_id": 534661, "title": "Algum Romance Transit\u00f3rio", "original_title": "Algum Romance Transit\u00f3rio", "slug_title": "algum-romance-transitorio", "date": "2017-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sGMuCORRtj3H6VgTVfvtbx6itge.jpg", "actors": [], "comments": [], "recommandations_id": []}

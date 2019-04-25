@@ -1,1 +1,0 @@
-{"tmdb_id": 378474, "title": "Inverno", "original_title": "Inverno", "slug_title": "inverno", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

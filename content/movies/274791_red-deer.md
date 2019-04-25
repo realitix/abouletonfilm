@@ -1,1 +1,0 @@
-{"tmdb_id": 274791, "title": "Red Deer", "original_title": "Red Deer", "slug_title": "red-deer", "date": "2000-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

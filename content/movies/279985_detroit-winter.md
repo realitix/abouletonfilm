@@ -1,1 +1,0 @@
-{"tmdb_id": 279985, "title": "Detroit Winter", "original_title": "Detroit Winter", "slug_title": "detroit-winter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

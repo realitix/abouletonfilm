@@ -1,1 +1,0 @@
-{"tmdb_id": 52148, "title": "Vicdan", "original_title": "Vicdan", "slug_title": "vicdan", "date": "2008-10-10", "genre": "Drame", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zba5d50NK0N41jD8bB21mv3AdvW.jpg", "actors": ["Nurg\u00fcl Ye\u015fil\u00e7ay ()", "Murat Han ()"], "comments": [], "recommandations_id": [52157, 52187]}

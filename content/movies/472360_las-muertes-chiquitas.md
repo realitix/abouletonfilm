@@ -1,1 +1,0 @@
-{"tmdb_id": 472360, "title": "Las muertes chiquitas", "original_title": "Las muertes chiquitas", "slug_title": "las-muertes-chiquitas", "date": "2013-10-08", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/40kPzrqa8MKoflMV3YCGWgmJylU.jpg", "actors": [], "comments": [], "recommandations_id": []}

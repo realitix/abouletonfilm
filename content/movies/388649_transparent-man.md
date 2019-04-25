@@ -1,1 +1,0 @@
-{"tmdb_id": 388649, "title": "Transparent Man", "original_title": "Toumei Ningen", "slug_title": "transparent-man", "date": "1969-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mHtiD1chmRWgURqIwfyWj566Yg2.jpg", "actors": [], "comments": [], "recommandations_id": []}

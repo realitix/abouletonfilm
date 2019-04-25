@@ -1,1 +1,0 @@
-{"tmdb_id": 323817, "title": "e2: Intervention Architecture", "original_title": "e2: Intervention Architecture", "slug_title": "e2-intervention-architecture", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

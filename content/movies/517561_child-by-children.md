@@ -1,1 +1,0 @@
-{"tmdb_id": 517561, "title": "Child by Children", "original_title": "Kodomo no Kodomo", "slug_title": "child-by-children", "date": "2008-09-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dJGOKKa6KtAy5Nx3wWw1ltCq9w2.jpg", "actors": [], "comments": [], "recommandations_id": []}

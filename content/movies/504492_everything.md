@@ -1,1 +1,0 @@
-{"tmdb_id": 504492, "title": "Everything", "original_title": "Everything: Gameplay Film", "slug_title": "everything", "date": "2017-02-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oE5DQae5Cx944WyJUQ35qEg4euC.jpg", "actors": ["Alan Watts (himself)"], "comments": [], "recommandations_id": []}

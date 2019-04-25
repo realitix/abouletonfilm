@@ -1,1 +1,0 @@
-{"tmdb_id": 453218, "title": "Washing Clothes at Sicily", "original_title": "Washing Clothes at Sicily", "slug_title": "washing-clothes-at-sicily", "date": "1903-06-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

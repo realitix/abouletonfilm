@@ -1,1 +1,0 @@
-{"tmdb_id": 283071, "title": "D\u00f4butsu sum\u00f4 taikai", "original_title": "D\u00f4butsu sum\u00f4 taikai", "slug_title": "dobutsu-sumo-taikai", "date": "1931-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

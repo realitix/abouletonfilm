@@ -1,1 +1,0 @@
-{"tmdb_id": 523437, "title": "Trauma - Live 1982 Cliff Burton", "original_title": "Trauma - Live 1982 Cliff Burton", "slug_title": "trauma-live-1982-cliff-burton", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

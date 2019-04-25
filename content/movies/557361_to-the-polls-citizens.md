@@ -1,1 +1,0 @@
-{"tmdb_id": 557361, "title": "To the Polls, Citizens", "original_title": "Aux urnes, citoyens!", "slug_title": "to-the-polls-citizens", "date": "1932-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556103, "title": "Clueless", "original_title": "Clueless", "slug_title": "clueless", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dctUJe59GTQdUym1IT3HbOTsuqW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 40535, "title": "The Crown", "original_title": "La corona", "slug_title": "the-crown", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nSY8TFPz0HVy8gAGeHY9SzWjzUO.jpg", "actors": [], "comments": [], "recommandations_id": []}

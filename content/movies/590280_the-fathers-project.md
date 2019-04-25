@@ -1,1 +1,0 @@
-{"tmdb_id": 590280, "title": "The Fathers Project", "original_title": "The Fathers Project", "slug_title": "the-fathers-project", "date": "2018-06-11", "genre": "Drame / Romance / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/esr7OdKV82jGAlQ1g6ZJudk7Dec.jpg", "actors": [], "comments": [], "recommandations_id": []}

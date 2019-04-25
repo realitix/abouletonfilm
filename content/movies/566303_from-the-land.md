@@ -1,1 +1,0 @@
-{"tmdb_id": 566303, "title": "From The Land", "original_title": "From The Land", "slug_title": "from-the-land", "date": "2018-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

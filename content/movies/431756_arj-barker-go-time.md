@@ -1,1 +1,0 @@
-{"tmdb_id": 431756, "title": "Arj Barker: Go Time", "original_title": "Arj Barker: Go Time", "slug_title": "arj-barker-go-time", "date": "2015-03-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/10Oo5aWFvX95P0iFsCFMtRBvL9H.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 569610, "title": "Christmas Is", "original_title": "Christmas Is", "slug_title": "christmas-is", "date": "1970-12-01", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hans Conried (voice)", "Don Messick (voice)", "Richard Sacino (voice)"], "comments": [], "recommandations_id": []}

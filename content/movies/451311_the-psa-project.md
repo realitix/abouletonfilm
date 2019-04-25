@@ -1,1 +1,0 @@
-{"tmdb_id": 451311, "title": "The PSA Project", "original_title": "The PSA Project", "slug_title": "the-psa-project", "date": "2005-04-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kg9FI7qXmwqrkWYCEoh3LbK9WZW.jpg", "actors": [], "comments": [], "recommandations_id": []}

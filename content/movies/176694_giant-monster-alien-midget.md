@@ -1,1 +1,0 @@
-{"tmdb_id": 176694, "title": "Giant Monster Alien Midget", "original_title": "Giant Monster Alien Midget", "slug_title": "giant-monster-alien-midget", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

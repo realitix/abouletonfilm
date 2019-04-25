@@ -1,1 +1,0 @@
-{"tmdb_id": 438262, "title": "Blackberry Winter", "original_title": "Blackberry Winter", "slug_title": "blackberry-winter", "date": "2006-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chris Bower (Ezra)"], "comments": [], "recommandations_id": []}

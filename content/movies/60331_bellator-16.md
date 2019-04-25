@@ -1,1 +1,0 @@
-{"tmdb_id": 60331, "title": "Bellator 16", "original_title": "Bellator 16", "slug_title": "bellator-16", "date": "2010-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2m7j00pR8l9c13A9grZzo6nM0gv.jpg", "actors": [], "comments": [], "recommandations_id": []}

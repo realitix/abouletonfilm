@@ -1,1 +1,0 @@
-{"tmdb_id": 528903, "title": "David Cassidy: The Last Session", "original_title": "David Cassidy: The Last Session", "slug_title": "david-cassidy-the-last-session", "date": "2018-06-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

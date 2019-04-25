@@ -1,1 +1,0 @@
-{"tmdb_id": 510563, "title": "Not Safe to Be Me", "original_title": "Not Safe to Be Me", "slug_title": "not-safe-to-be-me", "date": "2015-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dehyd93jmtWPlbraJNOEvorg58H.jpg", "actors": [], "comments": [], "recommandations_id": []}

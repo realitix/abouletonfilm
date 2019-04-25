@@ -1,1 +1,0 @@
-{"tmdb_id": 359927, "title": "Goldfish", "original_title": "Goldfish", "slug_title": "goldfish", "date": "2015-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

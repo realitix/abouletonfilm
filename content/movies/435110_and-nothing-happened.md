@@ -1,1 +1,0 @@
-{"tmdb_id": 435110, "title": "And Nothing Happened", "original_title": "And Nothing Happened", "slug_title": "and-nothing-happened", "date": "2016-06-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ac3GADC6XZJEc9zT0hLFeKZa4Hl.jpg", "actors": [], "comments": [], "recommandations_id": []}

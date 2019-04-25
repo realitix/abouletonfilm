@@ -1,1 +1,0 @@
-{"tmdb_id": 294265, "title": "Burma: A Human Tragedy", "original_title": "Burma: A Human Tragedy", "slug_title": "burma-a-human-tragedy", "date": "2012-07-08", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anjelica Huston (Narator)", "Aung San Suu Kyi (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 465924, "title": "Under the Big Blue Sun", "original_title": "Under the Big Blue Sun", "slug_title": "under-the-big-blue-sun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

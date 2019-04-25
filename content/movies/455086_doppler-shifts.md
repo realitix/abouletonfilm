@@ -1,1 +1,0 @@
-{"tmdb_id": 455086, "title": "Doppler Shifts", "original_title": "Doppler Shifts", "slug_title": "doppler-shifts", "date": "2016-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mz7JlBGI66ALzvXGsB3GyqBAyJQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

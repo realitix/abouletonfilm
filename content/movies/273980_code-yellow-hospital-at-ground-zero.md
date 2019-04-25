@@ -1,1 +1,0 @@
-{"tmdb_id": 273980, "title": "Code Yellow: Hospital at Ground Zero", "original_title": "Code Yellow: Hospital at Ground Zero", "slug_title": "code-yellow-hospital-at-ground-zero", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

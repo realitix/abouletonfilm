@@ -1,1 +1,0 @@
-{"tmdb_id": 566053, "title": "Toukiden: The Age of Demons - Introduction", "original_title": "\u8a0e\u9b3c\u4f1d", "slug_title": "toukiden-the-age-of-demons-introduction", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lAalyHxXsefMm8wKLpLqa1960Eo.jpg", "actors": [], "comments": [], "recommandations_id": []}

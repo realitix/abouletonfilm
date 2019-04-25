@@ -1,1 +1,0 @@
-{"tmdb_id": 516572, "title": "Diwana Diwani", "original_title": "Diwana Diwani", "slug_title": "diwana-diwani", "date": "2013-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

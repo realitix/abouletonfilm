@@ -1,1 +1,0 @@
-{"tmdb_id": 359975, "title": "Anatole", "original_title": "Anatole", "slug_title": "anatole", "date": "1962-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carl Reiner (Anatole (voice))", "Allen Swift (Francios (voice))"], "comments": [], "recommandations_id": []}

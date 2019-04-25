@@ -1,1 +1,0 @@
-{"tmdb_id": 513079, "title": "Brooklyn Tide", "original_title": "Brooklyn Tide", "slug_title": "brooklyn-tide", "date": "2016-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9HZDcVOVafSqjghdxiU04wx25tq.jpg", "actors": [], "comments": [], "recommandations_id": []}

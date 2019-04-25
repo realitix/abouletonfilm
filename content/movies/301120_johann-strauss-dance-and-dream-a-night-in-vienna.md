@@ -1,1 +1,0 @@
-{"tmdb_id": 301120, "title": "Johann Strauss: Dance and Dream, A Night in Vienna", "original_title": "Johann Strauss: Dance and Dream, A Night in Vienna", "slug_title": "johann-strauss-dance-and-dream-a-night-in-vienna", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 540516, "title": "Le soir des rois", "original_title": "Le soir des rois", "slug_title": "le-soir-des-rois", "date": "1933-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

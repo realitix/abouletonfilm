@@ -1,1 +1,0 @@
-{"tmdb_id": 583861, "title": "Rosie Rose", "original_title": "Rosie Rose", "slug_title": "rosie-rose", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uhyoc1DBwwwXpum9R0EInkckS8z.jpg", "actors": [], "comments": [], "recommandations_id": []}

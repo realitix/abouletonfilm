@@ -1,1 +1,0 @@
-{"tmdb_id": 323976, "title": "Army Air Forces Report, 1944", "original_title": "Army Air Forces Report, 1944", "slug_title": "army-air-forces-report-1944", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

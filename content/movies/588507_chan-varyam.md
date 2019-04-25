@@ -1,1 +1,0 @@
-{"tmdb_id": 588507, "title": "Chan Varyam", "original_title": "Chan Varyam", "slug_title": "chan-varyam", "date": "1981-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sultan Rahi ()"], "comments": [], "recommandations_id": []}

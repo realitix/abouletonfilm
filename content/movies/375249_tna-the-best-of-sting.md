@@ -1,1 +1,0 @@
-{"tmdb_id": 375249, "title": "TNA: The Best of Sting", "original_title": "TNA: The Best of Sting", "slug_title": "tna-the-best-of-sting", "date": "2015-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tGH0NbYpAkwinFBX5BJQORkFZr7.jpg", "actors": [], "comments": [], "recommandations_id": []}

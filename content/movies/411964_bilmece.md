@@ -1,1 +1,0 @@
-{"tmdb_id": 411964, "title": "B\u0130LMECE", "original_title": "B\u0130LMECE", "slug_title": "bilmece", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 77247, "title": "Heaven and Hell: Rockpalast", "original_title": "Heaven and Hell: Rockpalast", "slug_title": "heaven-and-hell-rockpalast", "date": "2009-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hnX6Rr6GY8EwsudF7XyVSDQBksh.jpg", "actors": [], "comments": [], "recommandations_id": []}

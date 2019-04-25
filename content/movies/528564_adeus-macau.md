@@ -1,1 +1,0 @@
-{"tmdb_id": 528564, "title": "Adeus Macau", "original_title": "\u6fb3\u9580\u4e8c\u5343", "slug_title": "adeus-macau", "date": "2000-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4V8DLvg4wJNkld4jNnJnD0PKZtX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 393230, "title": "Genius in Lying", "original_title": "Genius in Lying", "slug_title": "genius-in-lying", "date": "1982-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Troy Davies (Himself)"], "comments": [], "recommandations_id": []}

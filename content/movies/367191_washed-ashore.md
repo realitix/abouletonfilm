@@ -1,1 +1,0 @@
-{"tmdb_id": 367191, "title": "Washed Ashore", "original_title": "Washed Ashore", "slug_title": "washed-ashore", "date": "2014-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aiCMKLnkkUtHyUxFitFVjseHy18.jpg", "actors": [], "comments": [], "recommandations_id": []}

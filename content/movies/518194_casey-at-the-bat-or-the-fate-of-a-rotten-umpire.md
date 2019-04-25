@@ -1,1 +1,0 @@
-{"tmdb_id": 518194, "title": "Casey at the Bat or the Fate of a \"Rotten\" Umpire", "original_title": "Casey at the Bat or the Fate of a \"Rotten\" Umpire", "slug_title": "casey-at-the-bat-or-the-fate-of-a-rotten-umpire", "date": "1899-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 334735, "title": "Memories of Agano", "original_title": "\u963f\u8cc0\u306e\u8a18\u61b6", "slug_title": "memories-of-agano", "date": "2005-06-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g7RVS8SAT8KOq90d5W5nk8C1fIM.jpg", "actors": [], "comments": [], "recommandations_id": []}

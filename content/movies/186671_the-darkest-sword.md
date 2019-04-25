@@ -1,1 +1,0 @@
-{"tmdb_id": 186671, "title": "The Darkest Sword", "original_title": "The Darkest Sword", "slug_title": "the-darkest-sword", "date": "1970-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7pq7REU5UgFa3FTkwCfHwWv7uvS.jpg", "actors": [], "comments": [], "recommandations_id": []}

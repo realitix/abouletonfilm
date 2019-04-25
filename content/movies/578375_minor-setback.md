@@ -1,1 +1,0 @@
-{"tmdb_id": 578375, "title": "Minor Setback", "original_title": "Minor Setback", "slug_title": "minor-setback", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

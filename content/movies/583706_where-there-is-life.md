@@ -1,1 +1,0 @@
-{"tmdb_id": 583706, "title": "Where There is Life", "original_title": "Where There is Life", "slug_title": "where-there-is-life", "date": "2017-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

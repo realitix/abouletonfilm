@@ -1,1 +1,0 @@
-{"tmdb_id": 280093, "title": "Williamsburg, Brooklyn", "original_title": "Williamsburg, Brooklyn", "slug_title": "williamsburg-brooklyn", "date": "2003-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xl7QuHPmsiLy4kj1pCDwi7C8zd2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 272957, "title": "Martin Atkins: 16 Days in China", "original_title": "Martin Atkins: 16 Days in China", "slug_title": "martin-atkins-16-days-in-china", "date": "2008-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qabi7Gb3bWfjSxUy3q4UUVnirjP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 451249, "title": "Dancing in Limbo", "original_title": "Dancing in Limbo", "slug_title": "dancing-in-limbo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

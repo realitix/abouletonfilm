@@ -1,1 +1,0 @@
-{"tmdb_id": 554240, "title": "Anxious", "original_title": "Anxious", "slug_title": "anxious", "date": "2018-09-30", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qz3pjunhInkNyy2vc2XtNRshhqF.jpg", "actors": ["Hazel Hayes (Anxious Woman/Anxiety)"], "comments": [], "recommandations_id": []}

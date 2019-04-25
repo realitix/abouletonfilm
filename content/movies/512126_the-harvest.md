@@ -1,1 +1,1 @@
-{"tmdb_id": 512126, "title": "The Harvest", "original_title": "The Harvest", "slug_title": "the-harvest", "date": "1908-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 512126, "title": "The Harvest", "original_title": "The Harvest", "slug_title": "the-harvest", "date": "1908-03-18", "genre": [""], "score": "0.0/10", "synopsis": "Kinemacolor", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

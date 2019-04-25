@@ -1,1 +1,0 @@
-{"tmdb_id": 534714, "title": "Thor's Saga", "original_title": "Thors saga", "slug_title": "thor-s-saga", "date": "2011-09-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

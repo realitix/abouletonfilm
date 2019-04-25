@@ -1,1 +1,0 @@
-{"tmdb_id": 130276, "title": "Francesco und der Papst", "original_title": "Francesco und der Papst", "slug_title": "francesco-und-der-papst", "date": "2011-04-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/47dCLwOrSruXVaqUGnj54raCuJP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 432485, "title": "Bethune", "original_title": "\u767d\u6c42\u6069\u5927\u592b", "slug_title": "bethune", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2lBcfJY460QMKLfC8k6EvtJafhx.jpg", "actors": ["Gerald Tannebaum (Dr. Norman Bethune)"], "comments": [], "recommandations_id": []}

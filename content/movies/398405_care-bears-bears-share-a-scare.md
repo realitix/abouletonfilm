@@ -1,1 +1,0 @@
-{"tmdb_id": 398405, "title": "Care Bears: Bears Share A Scare", "original_title": "Care Bears: Bears Share A Scare", "slug_title": "care-bears-bears-share-a-scare", "date": "1988-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3f7yfIfDKpM1LVL092okuTWEbNp.jpg", "actors": [], "comments": [], "recommandations_id": []}

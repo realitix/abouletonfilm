@@ -1,1 +1,0 @@
-{"tmdb_id": 560148, "title": "American Creed", "original_title": "American Creed", "slug_title": "american-creed", "date": "2018-11-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oP70SkRVnCyuCdLjW7kzGeFfeh1.jpg", "actors": [], "comments": [], "recommandations_id": []}

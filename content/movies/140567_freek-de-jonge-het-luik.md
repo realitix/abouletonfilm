@@ -1,1 +1,0 @@
-{"tmdb_id": 140567, "title": "Freek de Jonge - Het luik", "original_title": "Freek de Jonge - Het luik", "slug_title": "freek-de-jonge-het-luik", "date": "1996-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lcl3EGiXHU3Vwzhdk7ChA2JsI2Y.jpg", "actors": ["Freek de Jonge ()"], "comments": [], "recommandations_id": []}

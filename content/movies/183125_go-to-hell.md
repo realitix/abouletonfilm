@@ -1,1 +1,0 @@
-{"tmdb_id": 183125, "title": "Go to Hell", "original_title": "Go to Hell", "slug_title": "go-to-hell", "date": "1986-01-01", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eGpTR1EuqNDrySlsaoTZSNywXor.jpg", "actors": [], "comments": [], "recommandations_id": []}

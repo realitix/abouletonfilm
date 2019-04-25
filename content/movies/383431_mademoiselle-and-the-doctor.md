@@ -1,1 +1,0 @@
-{"tmdb_id": 383431, "title": "Mademoiselle and the Doctor", "original_title": "Mademoiselle and the Doctor", "slug_title": "mademoiselle-and-the-doctor", "date": "2004-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

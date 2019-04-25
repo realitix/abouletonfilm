@@ -1,1 +1,0 @@
-{"tmdb_id": 573466, "title": "Las horas contadas", "original_title": "Las horas contadas", "slug_title": "las-horas-contadas", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 86592, "title": "The Devil's Triangle", "original_title": "The Devil's Triangle", "slug_title": "the-devil-s-triangle", "date": "2002-09-01", "genre": "Documentaire / Myst\u00e8re", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aRs3dRxTywGI6V4udnQrIBvGIQZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

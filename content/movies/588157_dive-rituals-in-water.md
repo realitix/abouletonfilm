@@ -1,1 +1,0 @@
-{"tmdb_id": 588157, "title": "Dive - Rituals in Water", "original_title": "Dive - Rituals in Water", "slug_title": "dive-rituals-in-water", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/taKhI9ybV4jsYz9CCgpLdcZxLw8.jpg", "actors": [], "comments": [], "recommandations_id": []}

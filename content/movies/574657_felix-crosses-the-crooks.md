@@ -1,1 +1,0 @@
-{"tmdb_id": 574657, "title": "Felix Crosses the Crooks", "original_title": "Felix Crosses the Crooks", "slug_title": "felix-crosses-the-crooks", "date": "1924-02-15", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

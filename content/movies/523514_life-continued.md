@@ -1,1 +1,0 @@
-{"tmdb_id": 523514, "title": "Life Continued", "original_title": "\u5ef6", "slug_title": "life-continued", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

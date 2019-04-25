@@ -1,1 +1,0 @@
-{"tmdb_id": 575858, "title": "Interbeing", "original_title": "Interbeing", "slug_title": "interbeing", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fxywdqfZDk6tLAfDqDC70abapJe.jpg", "actors": [], "comments": [], "recommandations_id": []}

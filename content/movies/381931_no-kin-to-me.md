@@ -1,1 +1,0 @@
-{"tmdb_id": 381931, "title": "No Kin to Me", "original_title": "No Kin to Me", "slug_title": "no-kin-to-me", "date": "2016-03-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

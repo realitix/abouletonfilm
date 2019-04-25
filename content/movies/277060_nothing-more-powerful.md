@@ -1,1 +1,0 @@
-{"tmdb_id": 277060, "title": "Nothing More Powerful", "original_title": "Nothing More Powerful", "slug_title": "nothing-more-powerful", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

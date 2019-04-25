@@ -1,1 +1,0 @@
-{"tmdb_id": 275418, "title": "Okaimono", "original_title": "Okaimono", "slug_title": "okaimono", "date": "2009-02-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jpGCs5BCA56oTeArQ7c0iVCa5Id.jpg", "actors": [], "comments": [], "recommandations_id": []}

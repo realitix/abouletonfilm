@@ -1,1 +1,0 @@
-{"tmdb_id": 507181, "title": "Nudie Cuties: Volume 70", "original_title": "Nudie Cuties: Volume 70", "slug_title": "nudie-cuties-volume-70", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

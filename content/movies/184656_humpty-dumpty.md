@@ -1,1 +1,0 @@
-{"tmdb_id": 184656, "title": "Humpty Dumpty", "original_title": "Humpty Dumpty", "slug_title": "humpty-dumpty", "date": "1935-12-29", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iwgGg8pZ4L4CEUUWv9J3MWiXrgS.jpg", "actors": [], "comments": [], "recommandations_id": []}

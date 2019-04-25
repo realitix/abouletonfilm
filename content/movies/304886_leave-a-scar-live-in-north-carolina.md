@@ -1,1 +1,0 @@
-{"tmdb_id": 304886, "title": "Leave a Scar: Live in North Carolina", "original_title": "Leave a Scar: Live in North Carolina", "slug_title": "leave-a-scar-live-in-north-carolina", "date": "2014-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

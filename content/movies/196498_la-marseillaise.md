@@ -1,1 +1,0 @@
-{"tmdb_id": 196498, "title": "La Marseillaise", "original_title": "La Marseillaise", "slug_title": "la-marseillaise", "date": "1907-05-23", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nTEmur9Z35kpR7WL9f4XFOP8904.jpg", "actors": [], "comments": [], "recommandations_id": []}

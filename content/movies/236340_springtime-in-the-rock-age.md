@@ -1,1 +1,0 @@
-{"tmdb_id": 236340, "title": "Springtime in the Rock Age", "original_title": "Springtime in the Rock Age", "slug_title": "springtime-in-the-rock-age", "date": "1940-08-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

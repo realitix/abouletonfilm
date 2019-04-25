@@ -1,1 +1,0 @@
-{"tmdb_id": 502638, "title": "Wishful Thinking", "original_title": "Wishful Thinking", "slug_title": "wishful-thinking", "date": "1990-01-01", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daisy Dunlop ()", "Rosy Guard ()"], "comments": [], "recommandations_id": []}

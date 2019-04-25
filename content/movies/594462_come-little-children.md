@@ -1,1 +1,0 @@
-{"tmdb_id": 594462, "title": "Come Little Children", "original_title": "\u041f\u0440\u0438\u0445\u043e\u0434\u0438\u0442\u0435, \u0434\u0435\u0442\u0438", "slug_title": "come-little-children", "date": "2018-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

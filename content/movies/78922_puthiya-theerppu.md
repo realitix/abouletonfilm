@@ -1,1 +1,0 @@
-{"tmdb_id": 78922, "title": "Puthiya Theerppu", "original_title": "Puthiya Theerppu", "slug_title": "puthiya-theerppu", "date": "1985-10-04", "genre": "Action / Com\u00e9die", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vijayakanth ()", "Ambika ()", "Senthil ()"], "comments": [], "recommandations_id": []}

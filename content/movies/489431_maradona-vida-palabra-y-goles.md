@@ -1,1 +1,0 @@
-{"tmdb_id": 489431, "title": "Maradona: Vida, Palabra y Goles", "original_title": "Maradona: Vida, Palabra y Goles", "slug_title": "maradona-vida-palabra-y-goles", "date": "1999-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6iYVOtG1ULsJ1XVaJymy2y2hKW1.jpg", "actors": [], "comments": [], "recommandations_id": []}

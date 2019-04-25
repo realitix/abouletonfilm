@@ -1,1 +1,0 @@
-{"tmdb_id": 267484, "title": "The Suffered", "original_title": "\ud53c\ud574\uc790\ub4e4", "slug_title": "the-suffered", "date": "2014-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eGJOy2TTH1oILj7Kt9Z6yjsZoce.jpg", "actors": ["Ryu Tae-joon ()", "Jang Eun-Ah ()"], "comments": [], "recommandations_id": []}

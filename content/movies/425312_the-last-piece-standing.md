@@ -1,1 +1,0 @@
-{"tmdb_id": 425312, "title": "The Last Piece Standing", "original_title": "The Last Piece Standing", "slug_title": "the-last-piece-standing", "date": "2015-09-17", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iOXcsPnBsGb1LGi6Uo7CKSh6uKm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 587236, "title": "Levit spielt Brahms", "original_title": "Levit spielt Brahms", "slug_title": "levit-spielt-brahms", "date": "2018-09-07", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Igor Levit (Himself)", "Pekka Saraste (Himself)"], "comments": [], "recommandations_id": []}

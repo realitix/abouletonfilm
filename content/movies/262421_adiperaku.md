@@ -1,1 +1,0 @@
-{"tmdb_id": 262421, "title": "Adiperaku", "original_title": "Adiperaku", "slug_title": "adiperaku", "date": "1951-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "B. Saroja Devi ()", "J. P. Chandrababu ()"], "comments": [], "recommandations_id": []}

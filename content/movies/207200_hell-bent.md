@@ -1,1 +1,0 @@
-{"tmdb_id": 207200, "title": "Hell Bent", "original_title": "Hell Bent", "slug_title": "hell-bent", "date": "1994-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k7DNb9h3k07wfRbPwQMgT7rYKhr.jpg", "actors": [], "comments": [], "recommandations_id": []}

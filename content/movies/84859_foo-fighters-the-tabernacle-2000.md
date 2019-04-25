@@ -1,1 +1,0 @@
-{"tmdb_id": 84859, "title": "Foo Fighters: The Tabernacle 2000", "original_title": "Foo Fighters: The Tabernacle 2000", "slug_title": "foo-fighters-the-tabernacle-2000", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i798vngfzNp1RpgpoimvjLp6c1w.jpg", "actors": [], "comments": [], "recommandations_id": []}

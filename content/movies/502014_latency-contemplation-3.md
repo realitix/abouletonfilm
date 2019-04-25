@@ -1,1 +1,0 @@
-{"tmdb_id": 502014, "title": "Latency Contemplation 3", "original_title": "Latency Contemplation 3", "slug_title": "latency-contemplation-3", "date": "2018-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 191012, "title": "ECW Wrestlepalooza 1998", "original_title": "ECW Wrestlepalooza 1998", "slug_title": "ecw-wrestlepalooza-1998", "date": "1998-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mJ1a1oPJ1rIFg1CWK1vmkRax6zO.jpg", "actors": [], "comments": [], "recommandations_id": []}

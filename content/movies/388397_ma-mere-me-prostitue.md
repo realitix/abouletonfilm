@@ -1,1 +1,0 @@
-{"tmdb_id": 388397, "title": "Ma m\u00e8re me prostitue", "original_title": "Ma m\u00e8re me prostitue", "slug_title": "ma-mere-me-prostitue", "date": "1982-10-27", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Tbl0Grr0FY2ExgXBfD6SloLuRt.jpg", "actors": [], "comments": [], "recommandations_id": []}

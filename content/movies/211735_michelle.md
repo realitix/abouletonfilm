@@ -1,1 +1,0 @@
-{"tmdb_id": 211735, "title": "Michelle", "original_title": "Michelle", "slug_title": "michelle", "date": "2008-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adam Deacon ()", "Ed Skrein ()", "Anouska Mond ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 381118, "title": "From Nags to Riches", "original_title": "From Nags to Riches", "slug_title": "from-nags-to-riches", "date": "1975-05-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Holt (Dogfather / Pug (voice))", "Daws Butler (Louie (voice))"], "comments": [], "recommandations_id": []}

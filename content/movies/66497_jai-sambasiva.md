@@ -1,1 +1,1 @@
-{"tmdb_id": 66497, "title": "Jai Sambasiva", "original_title": "Jai Sambasiva", "slug_title": "jai-sambasiva", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 66497, "title": "Jai Sambasiva", "original_title": "Jai Sambasiva", "slug_title": "jai-sambasiva", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Jai Sambasiva", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

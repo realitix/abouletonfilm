@@ -1,1 +1,0 @@
-{"tmdb_id": 460944, "title": "Lily's Sea", "original_title": "Lily's Sea", "slug_title": "lily-s-sea", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

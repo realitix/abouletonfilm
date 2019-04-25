@@ -1,1 +1,0 @@
-{"tmdb_id": 566435, "title": "Doug's Christmas Story", "original_title": "Doug's Christmas Story", "slug_title": "doug-s-christmas-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

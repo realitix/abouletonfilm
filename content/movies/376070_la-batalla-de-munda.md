@@ -1,1 +1,0 @@
-{"tmdb_id": 376070, "title": "La Batalla de Munda", "original_title": "La Batalla de Munda", "slug_title": "la-batalla-de-munda", "date": "2010-03-10", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nNXJDGoAwOAjCWVw20WUox7osqr.jpg", "actors": [], "comments": [], "recommandations_id": []}

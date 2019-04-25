@@ -1,1 +1,0 @@
-{"tmdb_id": 497128, "title": "Liebe geht - wohin sie will", "original_title": "Liebe geht - wohin sie will", "slug_title": "liebe-geht-wohin-sie-will", "date": "1935-08-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maria Paudler (Dr. Maria Krause)", "Kurt Skalden (Andreas)"], "comments": [], "recommandations_id": []}

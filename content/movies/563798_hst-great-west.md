@@ -1,1 +1,0 @@
-{"tmdb_id": 563798, "title": "HST Great West", "original_title": "HST Great West", "slug_title": "hst-great-west", "date": "1993-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5FBlpmUbpjhb5EvOmTgCMkPhO88.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 569430, "title": "Norjmaa", "original_title": "Norjmaa", "slug_title": "norjmaa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

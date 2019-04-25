@@ -1,1 +1,0 @@
-{"tmdb_id": 344077, "title": "Haircut", "original_title": "Haircut", "slug_title": "haircut", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/boIq6TG7DdWhYkzA4JcCoQb4LeB.jpg", "actors": ["Billy Name ()", "Freddy Herko (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 332842, "title": "Michel Ezra Safra and Sons", "original_title": "Michel Ezra Safra U'vanav", "slug_title": "michel-ezra-safra-and-sons", "date": "1983-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tikva Dayan ()", "Makram Khoury ()", "Amos Lavi ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 184753, "title": "Bon Jovi: Breakout The Videos", "original_title": "Bon Jovi: Breakout The Videos", "slug_title": "bon-jovi-breakout-the-videos", "date": "1988-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cpmU2EhJTqFnuuSFntZWaX1N8ed.jpg", "actors": [], "comments": [], "recommandations_id": []}

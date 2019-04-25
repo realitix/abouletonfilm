@@ -1,1 +1,0 @@
-{"tmdb_id": 456452, "title": "Blues People", "original_title": "Blues People", "slug_title": "blues-people", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aW4NBBvq10VKycDKokqWWAP7Mnl.jpg", "actors": ["Skip Norman ()", "Li Antes ()"], "comments": [], "recommandations_id": []}

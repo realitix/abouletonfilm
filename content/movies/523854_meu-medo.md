@@ -1,1 +1,0 @@
-{"tmdb_id": 523854, "title": "Meu Medo", "original_title": "Meu Medo", "slug_title": "meu-medo", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

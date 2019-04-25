@@ -1,1 +1,0 @@
-{"tmdb_id": 318806, "title": "Vladimir Vasiliev: Macbeth: The Bolshoi Theatre", "original_title": "Vladimir Vasiliev: Macbeth: The Bolshoi Theatre", "slug_title": "vladimir-vasiliev-macbeth-the-bolshoi-theatre", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

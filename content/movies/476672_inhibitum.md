@@ -1,1 +1,0 @@
-{"tmdb_id": 476672, "title": "Inhibitum", "original_title": "Inhibitum", "slug_title": "inhibitum", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 497481, "title": "An affair trip", "original_title": "An affair trip", "slug_title": "an-affair-trip", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

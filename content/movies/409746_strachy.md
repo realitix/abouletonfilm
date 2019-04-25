@@ -1,1 +1,0 @@
-{"tmdb_id": 409746, "title": "Strachy", "original_title": "Strachy", "slug_title": "strachy", "date": "1938-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lLXU1DJUyb6PIlrbHt0iFmvAdph.jpg", "actors": [], "comments": [], "recommandations_id": []}

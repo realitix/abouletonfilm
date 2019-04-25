@@ -1,1 +1,0 @@
-{"tmdb_id": 413115, "title": "Bluuuuurgh", "original_title": "Bluuuuurgh", "slug_title": "bluuuuurgh", "date": "2009-08-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o6PpmxC7m7LabjDOTjzDGbNIQmr.jpg", "actors": [], "comments": [], "recommandations_id": []}

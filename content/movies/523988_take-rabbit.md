@@ -1,1 +1,0 @@
-{"tmdb_id": 523988, "title": "Take Rabbit", "original_title": "Take Rabbit", "slug_title": "take-rabbit", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

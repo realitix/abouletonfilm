@@ -1,1 +1,0 @@
-{"tmdb_id": 570369, "title": "Pentimento", "original_title": "Pentimento", "slug_title": "pentimento", "date": "1989-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e8wRq2vY3i1YJgOy6gTGWpoRlAW.jpg", "actors": [], "comments": [], "recommandations_id": []}

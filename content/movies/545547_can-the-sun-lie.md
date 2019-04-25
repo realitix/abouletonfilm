@@ -1,1 +1,0 @@
-{"tmdb_id": 545547, "title": "Can the Sun Lie?", "original_title": "Can the Sun Lie?", "slug_title": "can-the-sun-lie", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

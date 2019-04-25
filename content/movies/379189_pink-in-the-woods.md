@@ -1,1 +1,0 @@
-{"tmdb_id": 379189, "title": "Pink in the Woods", "original_title": "Pink in the Woods", "slug_title": "pink-in-the-woods", "date": "1979-04-26", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/79K6EZGPvY7S1eH4Ebn6ObZYkau.jpg", "actors": [], "comments": [], "recommandations_id": []}

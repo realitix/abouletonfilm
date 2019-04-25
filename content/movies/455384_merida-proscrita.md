@@ -1,1 +1,0 @@
-{"tmdb_id": 455384, "title": "Merida Proscrita", "original_title": "Merida Proscrita", "slug_title": "merida-proscrita", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

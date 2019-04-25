@@ -1,1 +1,0 @@
-{"tmdb_id": 544959, "title": "Kartoteka", "original_title": "Kartoteka", "slug_title": "kartoteka", "date": "1979-10-15", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xWCOnQU2IIqxCLivLPIaEQFeVP.jpg", "actors": [], "comments": [], "recommandations_id": []}

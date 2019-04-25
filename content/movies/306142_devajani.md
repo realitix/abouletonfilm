@@ -1,1 +1,1 @@
-{"tmdb_id": 306142, "title": "Devajani", "original_title": "Devajani", "slug_title": "devajani", "date": "1981-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 306142, "title": "Devajani", "original_title": "Devajani", "slug_title": "devajani", "date": "1981-04-10", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1981", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

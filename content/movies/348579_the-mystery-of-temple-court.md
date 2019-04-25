@@ -1,1 +1,0 @@
-{"tmdb_id": 348579, "title": "The Mystery of Temple Court", "original_title": "The Mystery of Temple Court", "slug_title": "the-mystery-of-temple-court", "date": "1910-03-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

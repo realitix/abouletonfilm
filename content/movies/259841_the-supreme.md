@@ -1,1 +1,0 @@
-{"tmdb_id": 259841, "title": "The Supreme", "original_title": "Najwyzszy", "slug_title": "the-supreme", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

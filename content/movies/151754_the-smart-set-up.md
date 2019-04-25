@@ -1,1 +1,0 @@
-{"tmdb_id": 151754, "title": "The Smart Set-Up", "original_title": "The Smart Set-Up", "slug_title": "the-smart-set-up", "date": "1931-09-30", "genre": "Romance / Com\u00e9die / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter O'Keefe (Walter 'Wally' Keen)", "Margaret Lee (Patsy Grant)"], "comments": [], "recommandations_id": []}

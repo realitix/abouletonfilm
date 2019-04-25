@@ -1,1 +1,0 @@
-{"tmdb_id": 492546, "title": "Amor Pastuzo", "original_title": "Amor Pastuzo", "slug_title": "amor-pastuzo", "date": "", "genre": "Romance / Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carla Sandoval (Paulina)", "Julio Paez (Pancho)", "Pupi (Pug)", "Martin Paez (Martin)"], "comments": [], "recommandations_id": []}

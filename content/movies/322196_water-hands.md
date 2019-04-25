@@ -1,1 +1,0 @@
-{"tmdb_id": 322196, "title": "Water Hands", "original_title": "Water Hands", "slug_title": "water-hands", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

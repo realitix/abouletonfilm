@@ -1,1 +1,0 @@
-{"tmdb_id": 579282, "title": "Man Walking", "original_title": "Man Walking", "slug_title": "man-walking", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

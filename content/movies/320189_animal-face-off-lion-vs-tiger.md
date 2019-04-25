@@ -1,1 +1,0 @@
-{"tmdb_id": 320189, "title": "Animal Face-Off: Lion vs. Tiger", "original_title": "Animal Face-Off: Lion vs. Tiger", "slug_title": "animal-face-off-lion-vs-tiger", "date": "2004-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

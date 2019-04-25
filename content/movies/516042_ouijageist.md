@@ -1,1 +1,0 @@
-{"tmdb_id": 516042, "title": "Ouijageist", "original_title": "Ouijageist", "slug_title": "ouijageist", "date": "2018-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tFYUGY51qMk9isUkHVQJUvEAHA8.jpg", "actors": ["Lesley Scoble (Karen Harper)"], "comments": [], "recommandations_id": []}

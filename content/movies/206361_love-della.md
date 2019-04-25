@@ -1,1 +1,0 @@
-{"tmdb_id": 206361, "title": "Love Della", "original_title": "Love Della", "slug_title": "love-della", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kate Ceberano (Della Ray)"], "comments": [], "recommandations_id": []}

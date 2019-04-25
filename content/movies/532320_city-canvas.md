@@ -1,1 +1,0 @@
-{"tmdb_id": 532320, "title": "City Canvas", "original_title": "City Canvas", "slug_title": "city-canvas", "date": "2018-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s5ohjuzf0KkRPDPp4Db4ySVzi78.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 500350, "title": "Projection X", "original_title": "Projektion X", "slug_title": "projection-x", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

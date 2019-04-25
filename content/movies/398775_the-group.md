@@ -1,1 +1,0 @@
-{"tmdb_id": 398775, "title": "The Group", "original_title": "The Group", "slug_title": "the-group", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

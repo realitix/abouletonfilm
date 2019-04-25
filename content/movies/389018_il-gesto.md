@@ -1,1 +1,0 @@
-{"tmdb_id": 389018, "title": "Il gesto", "original_title": "Il gesto", "slug_title": "il-gesto", "date": "1972-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

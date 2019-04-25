@@ -1,1 +1,0 @@
-{"tmdb_id": 351671, "title": "Win, Place and Showboat", "original_title": "Win, Place and Showboat", "slug_title": "win-place-and-showboat", "date": "1950-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

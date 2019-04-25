@@ -1,1 +1,0 @@
-{"tmdb_id": 557222, "title": "Erotic Ghost Story II", "original_title": "\u804a\u9f4b\u8277\u8b5a2 \u4e94\u901a\u795e", "slug_title": "erotic-ghost-story-ii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 425321, "title": "Encyclopaedia Cinematographica", "original_title": "Encyclopaedia Cinematographica", "slug_title": "encyclopaedia-cinematographica", "date": "2001-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fQ0fiEN2Ypidy7b0YItFePHubE3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 483078, "title": "Service of the Goods", "original_title": "Service of the Goods", "slug_title": "service-of-the-goods", "date": "2013-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

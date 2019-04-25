@@ -1,1 +1,0 @@
-{"tmdb_id": 585203, "title": "Citizens Against Basswood", "original_title": "Citizens Against Basswood", "slug_title": "citizens-against-basswood", "date": "2013-01-01", "genre": "Documentaire / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

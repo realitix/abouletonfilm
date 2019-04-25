@@ -1,1 +1,0 @@
-{"tmdb_id": 477125, "title": "How Bridget Served the Salad Undressed", "original_title": "How Bridget Served the Salad Undressed", "slug_title": "how-bridget-served-the-salad-undressed", "date": "1898-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

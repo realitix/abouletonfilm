@@ -1,1 +1,0 @@
-{"tmdb_id": 484596, "title": "Plumbing for Gold", "original_title": "Plumbing for Gold", "slug_title": "plumbing-for-gold", "date": "1934-06-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Sidney ()", "Charles Murray ()"], "comments": [], "recommandations_id": []}

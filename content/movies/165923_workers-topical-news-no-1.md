@@ -1,1 +1,0 @@
-{"tmdb_id": 165923, "title": "Workers' Topical News No. 1", "original_title": "Workers' Topical News No. 1", "slug_title": "workers-topical-news-no-1", "date": "1930-09-18", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yFyaLHtV4Y3Ew0xVYGcCPALhLRX.jpg", "actors": [], "comments": [], "recommandations_id": []}

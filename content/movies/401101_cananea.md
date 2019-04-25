@@ -1,1 +1,0 @@
-{"tmdb_id": 401101, "title": "Cananea", "original_title": "Cananea", "slug_title": "cananea", "date": "1978-08-17", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l59mukibFOzmWanl36LSaIor1je.jpg", "actors": [], "comments": [], "recommandations_id": []}

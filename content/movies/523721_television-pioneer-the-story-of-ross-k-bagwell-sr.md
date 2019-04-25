@@ -1,1 +1,0 @@
-{"tmdb_id": 523721, "title": "Television Pioneer: The Story of Ross K. Bagwell, Sr.", "original_title": "Television Pioneer: The Story of Ross K. Bagwell, Sr.", "slug_title": "television-pioneer-the-story-of-ross-k-bagwell-sr", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

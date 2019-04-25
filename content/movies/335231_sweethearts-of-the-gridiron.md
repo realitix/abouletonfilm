@@ -1,1 +1,0 @@
-{"tmdb_id": 335231, "title": "Sweethearts of the Gridiron", "original_title": "Sweethearts of the Gridiron", "slug_title": "sweethearts-of-the-gridiron", "date": "2016-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dIFjJ9KI0OCAOoaTrsc1UIhKPdP.jpg", "actors": [], "comments": [], "recommandations_id": []}

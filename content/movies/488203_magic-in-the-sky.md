@@ -1,1 +1,0 @@
-{"tmdb_id": 488203, "title": "Magic in the Sky", "original_title": "Magic in the Sky", "slug_title": "magic-in-the-sky", "date": "1981-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gnysk8CXrPmNk0MBDXQpmYSxXYV.jpg", "actors": ["Michael Kane (Narrator)"], "comments": [], "recommandations_id": []}

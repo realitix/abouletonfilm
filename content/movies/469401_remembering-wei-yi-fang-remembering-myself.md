@@ -1,1 +1,0 @@
-{"tmdb_id": 469401, "title": "Remembering Wei-Yi Fang, Remembering Myself", "original_title": "Remembering Wei-Yi Fang, Remembering Myself", "slug_title": "remembering-wei-yi-fang-remembering-myself", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 364231, "title": "Ikuisesti Sinun X3", "original_title": "Ikuisesti Sinun X3", "slug_title": "ikuisesti-sinun-x3", "date": "2014-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

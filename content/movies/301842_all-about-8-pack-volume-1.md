@@ -1,1 +1,0 @@
-{"tmdb_id": 301842, "title": "All About 8 Pack Volume 1", "original_title": "All About 8 Pack Volume 1", "slug_title": "all-about-8-pack-volume-1", "date": "2012-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mijRYNiyr7ROGnzHsyByygMRl5Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

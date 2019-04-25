@@ -1,1 +1,0 @@
-{"tmdb_id": 531569, "title": "Amazing Titanman", "original_title": "Amazing Titanman", "slug_title": "amazing-titanman", "date": "2018-02-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cUVsRomA3vb1kpS2BJeTwRB1EfF.jpg", "actors": ["Jaguar Lim ()"], "comments": [], "recommandations_id": []}

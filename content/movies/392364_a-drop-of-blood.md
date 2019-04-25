@@ -1,1 +1,0 @@
-{"tmdb_id": 392364, "title": "A Drop of Blood", "original_title": "Una gota de sangre", "slug_title": "a-drop-of-blood", "date": "1963-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qn1o6Vu0B3hLzyMz2Vhfbg81pnf.jpg", "actors": [], "comments": [], "recommandations_id": []}

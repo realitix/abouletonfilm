@@ -1,1 +1,0 @@
-{"tmdb_id": 514145, "title": "Das Abschiedssouper", "original_title": "Das Abschiedssouper", "slug_title": "das-abschiedssouper", "date": "1957-08-12", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Weck (Anatol)", "Ina Peters (Annie)", "Walter Janssen (Kellner)"], "comments": [], "recommandations_id": []}

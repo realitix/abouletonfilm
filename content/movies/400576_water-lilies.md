@@ -1,1 +1,0 @@
-{"tmdb_id": 400576, "title": "Water Lilies", "original_title": "Water Lilies", "slug_title": "water-lilies", "date": "1911-01-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Irmgard von Rottenthal (Albertina)"], "comments": [], "recommandations_id": []}

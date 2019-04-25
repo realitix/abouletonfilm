@@ -1,1 +1,0 @@
-{"tmdb_id": 104071, "title": "Yellowstone", "original_title": "Yellowstone", "slug_title": "yellowstone", "date": "1994-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dxsan1KrJ9YxdRe35RAbldbyy1A.jpg", "actors": [], "comments": [], "recommandations_id": []}

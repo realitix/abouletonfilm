@@ -1,1 +1,0 @@
-{"tmdb_id": 556850, "title": "Direni\u015f", "original_title": "Direni\u015f", "slug_title": "direnis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

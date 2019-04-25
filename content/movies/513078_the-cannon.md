@@ -1,1 +1,0 @@
-{"tmdb_id": 513078, "title": "The Cannon", "original_title": "The Cannon", "slug_title": "the-cannon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

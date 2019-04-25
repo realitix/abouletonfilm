@@ -1,1 +1,0 @@
-{"tmdb_id": 412725, "title": "Wi'kupaltimk: Feast of Forgiveness", "original_title": "Wi'kupaltimk: Feast of Forgiveness", "slug_title": "wi-kupaltimk-feast-of-forgiveness", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

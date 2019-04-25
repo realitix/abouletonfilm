@@ -1,1 +1,0 @@
-{"tmdb_id": 405989, "title": "Enamor\u00e1ndome de Abril", "original_title": "Enamor\u00e1ndome de Abril", "slug_title": "enamorandome-de-abril", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qkrGSEwWIDoAmMSFE0eqWsYWi8B.jpg", "actors": [], "comments": [], "recommandations_id": []}

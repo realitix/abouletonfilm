@@ -1,1 +1,0 @@
-{"tmdb_id": 267039, "title": "Danube: Europe's Amazon", "original_title": "Danube: Europe's Amazon", "slug_title": "danube-europe-s-amazon", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AhUBKkIEHYn8BS9BaCe4yudB7QG.jpg", "actors": [], "comments": [], "recommandations_id": []}

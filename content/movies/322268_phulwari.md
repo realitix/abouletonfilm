@@ -1,1 +1,0 @@
-{"tmdb_id": 322268, "title": "Phulwari", "original_title": "Phulwari", "slug_title": "phulwari", "date": "1984-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

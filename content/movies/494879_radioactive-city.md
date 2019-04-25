@@ -1,1 +1,0 @@
-{"tmdb_id": 494879, "title": "Radioactive City", "original_title": "Radioactive City", "slug_title": "radioactive-city", "date": "2012-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

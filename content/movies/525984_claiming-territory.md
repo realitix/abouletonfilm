@@ -1,1 +1,0 @@
-{"tmdb_id": 525984, "title": "Claiming Territory", "original_title": "Claiming Territory", "slug_title": "claiming-territory", "date": "1993-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lRyjPxXsIo3gJdy3dOOt1tR9F0j.jpg", "actors": [], "comments": [], "recommandations_id": []}

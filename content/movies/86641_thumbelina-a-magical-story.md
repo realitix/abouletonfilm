@@ -1,1 +1,0 @@
-{"tmdb_id": 86641, "title": "Thumbelina - A Magical Story", "original_title": "Oyayubi Hime Monogatari", "slug_title": "thumbelina-a-magical-story", "date": "1978-09-30", "genre": "Animation", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7w7yfaK58PL3Pibxsr3LI0mgBC3.jpg", "actors": [], "comments": [], "recommandations_id": []}

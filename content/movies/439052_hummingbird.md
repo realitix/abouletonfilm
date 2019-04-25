@@ -1,1 +1,0 @@
-{"tmdb_id": 439052, "title": "Hummingbird", "original_title": "Hummingbird", "slug_title": "hummingbird", "date": "", "genre": "Thriller / Action", "score": "5.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zoe Saldana ()", "Milla Jovovich ()"], "comments": [], "recommandations_id": []}

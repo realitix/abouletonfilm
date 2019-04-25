@@ -1,1 +1,0 @@
-{"tmdb_id": 122079, "title": "Night Shift Nurses", "original_title": "Yakin Byoutou", "slug_title": "night-shift-nurses", "date": "2000-07-26", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/olpRvn33WnZ13vlR9gfkke95hgd.jpg", "actors": [], "comments": [], "recommandations_id": []}

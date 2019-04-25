@@ -1,1 +1,0 @@
-{"tmdb_id": 531010, "title": "Hungama", "original_title": "Hungama", "slug_title": "hungama", "date": "2005-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ry8cylF2yrMd5tpWACpLUifEzEO.jpg", "actors": ["Venu Madhav ()", "Ali ()"], "comments": [], "recommandations_id": []}

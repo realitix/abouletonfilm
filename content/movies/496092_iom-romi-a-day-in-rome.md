@@ -1,1 +1,0 @@
-{"tmdb_id": 496092, "title": "Iom Romi (A Day in Rome)", "original_title": "Iom Romi (A Day in Rome)", "slug_title": "iom-romi-a-day-in-rome", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

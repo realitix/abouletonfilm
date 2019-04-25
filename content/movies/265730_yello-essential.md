@@ -1,1 +1,0 @@
-{"tmdb_id": 265730, "title": "Yello - Essential", "original_title": "Yello - Essential", "slug_title": "yello-essential", "date": "2001-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8E965nscv8qG7sRTH7lT567rWv3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 485044, "title": "Cowboy and \"Indian\" Film", "original_title": "Cowboy and \"Indian\" Film", "slug_title": "cowboy-and-indian-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

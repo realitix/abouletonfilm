@@ -1,1 +1,0 @@
-{"tmdb_id": 238681, "title": "The Tale of Little Puppetboy", "original_title": "Sagan om den lille dockpojken", "slug_title": "the-tale-of-little-puppetboy", "date": "2008-10-24", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vd5OtCsdfr7xBYXw387xLFo5IXX.jpg", "actors": [], "comments": [], "recommandations_id": []}

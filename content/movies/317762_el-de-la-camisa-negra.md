@@ -1,1 +1,0 @@
-{"tmdb_id": 317762, "title": "El de la Camisa Negra", "original_title": "El de la Camisa Negra", "slug_title": "el-de-la-camisa-negra", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

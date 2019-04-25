@@ -1,1 +1,0 @@
-{"tmdb_id": 272752, "title": "I Can't Believe I'm Telling You This", "original_title": "I Can't Believe I'm Telling You This", "slug_title": "i-can-t-believe-i-m-telling-you-this", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 575813, "title": "Better Days", "original_title": "Shao nian de ni", "slug_title": "better-days", "date": "2019-02-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r39Fi9EaOKXHTPnrwawmagpUDus.jpg", "actors": ["Zhou Dongyu ()", "Jackson Yee ()"], "comments": [], "recommandations_id": []}

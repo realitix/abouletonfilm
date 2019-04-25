@@ -1,1 +1,0 @@
-{"tmdb_id": 556133, "title": "Barocco", "original_title": "Barocco", "slug_title": "barocco", "date": "1925-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 365645, "title": "Satan Claus", "original_title": "Satan Claus", "slug_title": "satan-claus", "date": "1975-01-01", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jWKhFGEVvio4Abdb0SNvTR5LUXt.jpg", "actors": [], "comments": [], "recommandations_id": []}

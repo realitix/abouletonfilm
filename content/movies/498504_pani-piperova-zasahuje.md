@@ -1,1 +1,0 @@
-{"tmdb_id": 498504, "title": "Pan\u00ed Piperov\u00e1 zasahuje", "original_title": "Pan\u00ed Piperov\u00e1 zasahuje", "slug_title": "pani-piperova-zasahuje", "date": "2000-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zryEdnhfQIvSb7TzrUVxwJC6jBL.jpg", "actors": [], "comments": [], "recommandations_id": []}

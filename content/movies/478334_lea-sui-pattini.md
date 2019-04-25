@@ -1,1 +1,0 @@
-{"tmdb_id": 478334, "title": "Lea sui pattini", "original_title": "Lea sui pattini", "slug_title": "lea-sui-pattini", "date": "1911-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

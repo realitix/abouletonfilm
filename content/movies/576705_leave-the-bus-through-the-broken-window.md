@@ -1,1 +1,0 @@
-{"tmdb_id": 576705, "title": "Leave the Bus Through the Broken Window", "original_title": "Leave the Bus Through the Broken Window", "slug_title": "leave-the-bus-through-the-broken-window", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

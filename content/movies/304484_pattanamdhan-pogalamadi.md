@@ -1,1 +1,0 @@
-{"tmdb_id": 304484, "title": "Pattanamdhan Pogalamadi", "original_title": "Pattanamdhan Pogalamadi", "slug_title": "pattanamdhan-pogalamadi", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 366306, "title": "Canada Vignettes: Fashion Designer", "original_title": "Canada Vignettes: Fashion Designer", "slug_title": "canada-vignettes-fashion-designer", "date": "1977-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Selma Bryant-Fournier (Herself)"], "comments": [], "recommandations_id": []}

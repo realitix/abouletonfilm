@@ -1,1 +1,0 @@
-{"tmdb_id": 348450, "title": "Trickster", "original_title": "Trickster", "slug_title": "trickster", "date": "2014-03-03", "genre": "Science-Fiction", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7RyVstjhWtN6amjbVVv8A4sWHOZ.jpg", "actors": ["Brigitte Hernandez (Maruth)"], "comments": [], "recommandations_id": []}

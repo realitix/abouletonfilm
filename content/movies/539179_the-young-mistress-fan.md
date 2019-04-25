@@ -1,1 +1,0 @@
-{"tmdb_id": 539179, "title": "The Young Mistress' Fan", "original_title": "Shaonainai de shanzi", "slug_title": "the-young-mistress-fan", "date": "1939-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lu Luming ()", "Yuan Meiyun ()", "Xi Mei ()", "Liu Qiong ()", "Xiu Jiang ()"], "comments": [], "recommandations_id": []}

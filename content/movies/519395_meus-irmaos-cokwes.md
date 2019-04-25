@@ -1,1 +1,0 @@
-{"tmdb_id": 519395, "title": "Meus Irm\u00e3os Cokwes", "original_title": "Meus Irm\u00e3os Cokwes", "slug_title": "meus-irmaos-cokwes", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

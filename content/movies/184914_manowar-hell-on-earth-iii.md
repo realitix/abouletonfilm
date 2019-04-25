@@ -1,1 +1,0 @@
-{"tmdb_id": 184914, "title": "Manowar: Hell On Earth III", "original_title": "Manowar: Hell On Earth III", "slug_title": "manowar-hell-on-earth-iii", "date": "2003-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eTEFOunfOixUdTeCtT1AaplzaWt.jpg", "actors": [], "comments": [], "recommandations_id": []}

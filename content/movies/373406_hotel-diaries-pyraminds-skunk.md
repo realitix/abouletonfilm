@@ -1,1 +1,0 @@
-{"tmdb_id": 373406, "title": "Hotel Diaries: Pyraminds/Skunk", "original_title": "Hotel Diaries: Pyraminds/Skunk", "slug_title": "hotel-diaries-pyraminds-skunk", "date": "2007-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rM5CimiDrM4CD5Di8K5pu0IVHyu.jpg", "actors": [], "comments": [], "recommandations_id": []}

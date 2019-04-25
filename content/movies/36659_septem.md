@@ -1,1 +1,0 @@
-{"tmdb_id": 36659, "title": "Septem", "original_title": "Septem", "slug_title": "septem", "date": "2006-09-06", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cmJs487pG5YwSZC02OvS1yj8gdq.jpg", "actors": [], "comments": [], "recommandations_id": []}

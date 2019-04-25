@@ -1,1 +1,0 @@
-{"tmdb_id": 369946, "title": "Almost Brooklyn", "original_title": "Almost Brooklyn", "slug_title": "almost-brooklyn", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mbAVXZSnSekpOchFufH0T5plMkS.jpg", "actors": [], "comments": [], "recommandations_id": []}

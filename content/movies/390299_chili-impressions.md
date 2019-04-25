@@ -1,1 +1,0 @@
-{"tmdb_id": 390299, "title": "Chili - Impressions", "original_title": "Chili - Impressions", "slug_title": "chili-impressions", "date": "1989-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zwRkuqajKBSQRQUB95cfwhzTRfI.jpg", "actors": [], "comments": [], "recommandations_id": []}

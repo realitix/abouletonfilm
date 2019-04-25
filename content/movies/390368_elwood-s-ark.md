@@ -1,1 +1,0 @@
-{"tmdb_id": 390368, "title": "Elwood's Ark", "original_title": "Elwood's Ark", "slug_title": "elwood-s-ark", "date": "2015-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pdauK8sQxN7ZdDymFi0jH8OhZZB.jpg", "actors": [], "comments": [], "recommandations_id": []}

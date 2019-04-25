@@ -1,1 +1,0 @@
-{"tmdb_id": 333250, "title": "His Excellency Kish Kish Bey", "original_title": "Sahib al saada", "slug_title": "his-excellency-kish-kish-bey", "date": "1931-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Naguib Al Rihani ()", "Mohamed Kamal al-Masri ()", "Stephan Rosti ()"], "comments": [], "recommandations_id": []}

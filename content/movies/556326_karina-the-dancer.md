@@ -1,1 +1,0 @@
-{"tmdb_id": 556326, "title": "Karina the Dancer", "original_title": "La maison du Maltais", "slug_title": "karina-the-dancer", "date": "1928-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

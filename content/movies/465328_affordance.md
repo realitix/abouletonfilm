@@ -1,1 +1,0 @@
-{"tmdb_id": 465328, "title": "Affordance", "original_title": "Affordance", "slug_title": "affordance", "date": "2017-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

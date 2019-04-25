@@ -1,1 +1,0 @@
-{"tmdb_id": 443251, "title": "A Christmas Carol", "original_title": "A Christmas Carol", "slug_title": "a-christmas-carol", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/moNuasKwI8LI17ynvI9BiCnzuRE.jpg", "actors": [], "comments": [], "recommandations_id": []}

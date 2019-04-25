@@ -1,1 +1,0 @@
-{"tmdb_id": 563218, "title": "Impressions", "original_title": "Impressions", "slug_title": "impressions", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yHd9m4m7VqJ7qOJBPTHhwYP2QG4.jpg", "actors": [], "comments": [], "recommandations_id": []}

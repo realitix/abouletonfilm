@@ -1,1 +1,0 @@
-{"tmdb_id": 39820, "title": "Oh, What a Knight", "original_title": "Oh, What a Knight", "slug_title": "oh-what-a-knight", "date": "1928-05-27", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/47T4urII3P0OBgNviqDbv4xwmJ1.jpg", "actors": [], "comments": [], "recommandations_id": [39823, 39815, 39821, 39822]}

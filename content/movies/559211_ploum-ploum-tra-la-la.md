@@ -1,1 +1,0 @@
-{"tmdb_id": 559211, "title": "Ploum, ploum, tra-la-la", "original_title": "Ploum, ploum, tra-la-la", "slug_title": "ploum-ploum-tra-la-la", "date": "1947-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8uL48U2pTMBaKDjbrJSCa82Y7Hj.jpg", "actors": [], "comments": [], "recommandations_id": []}

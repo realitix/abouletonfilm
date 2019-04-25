@@ -1,1 +1,0 @@
-{"tmdb_id": 359780, "title": "Reality A", "original_title": "Reality A", "slug_title": "reality-a", "date": "1950-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

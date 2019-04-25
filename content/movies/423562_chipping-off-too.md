@@ -1,1 +1,0 @@
-{"tmdb_id": 423562, "title": "Chipping Off, too", "original_title": "Chipping Off, too", "slug_title": "chipping-off-too", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3eIHERWk4RwB9r4tZvG9kvIl1Sj.jpg", "actors": [], "comments": [], "recommandations_id": []}

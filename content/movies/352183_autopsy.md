@@ -1,1 +1,0 @@
-{"tmdb_id": 352183, "title": "Autopsy", "original_title": "Sekcja zwlok", "slug_title": "autopsy", "date": "1973-07-28", "genre": "Drame / Animation", "score": "4.7/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

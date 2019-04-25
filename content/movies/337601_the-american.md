@@ -1,1 +1,0 @@
-{"tmdb_id": 337601, "title": "The American", "original_title": "The American", "slug_title": "the-american", "date": "1959-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

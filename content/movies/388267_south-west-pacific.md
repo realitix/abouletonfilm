@@ -1,1 +1,0 @@
-{"tmdb_id": 388267, "title": "South West Pacific", "original_title": "South West Pacific", "slug_title": "south-west-pacific", "date": "1943-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

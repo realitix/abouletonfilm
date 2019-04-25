@@ -1,1 +1,0 @@
-{"tmdb_id": 568557, "title": "Under the Sun", "original_title": "Under the Sun", "slug_title": "under-the-sun", "date": "1979-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

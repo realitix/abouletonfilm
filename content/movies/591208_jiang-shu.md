@@ -1,1 +1,0 @@
-{"tmdb_id": 591208, "title": "Jiang shu", "original_title": "Jiang shu", "slug_title": "jiang-shu", "date": "1977-06-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Li Chuang ()", "Yuan-sheng Huang ()", "Yun Wen Chang ()", "Susan Yam-Yam Shaw ()", "Hon Gwok-Choi ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 524825, "title": "Eligible Dentist", "original_title": "Eligible Dentist", "slug_title": "eligible-dentist", "date": "1993-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

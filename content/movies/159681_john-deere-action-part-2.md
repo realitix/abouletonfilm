@@ -1,1 +1,0 @@
-{"tmdb_id": 159681, "title": "John Deere Action, Part 2", "original_title": "John Deere Action, Part 2", "slug_title": "john-deere-action-part-2", "date": "2010-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/82iOY1BQ4hwHQYhia3TKaPr9Bcp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 124854, "title": "Timothy Leary's Dead", "original_title": "Timothy Leary's Dead", "slug_title": "timothy-leary-s-dead", "date": "1996-09-09", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dosu7v9aoUl15r1gQ91dtg1rBjY.jpg", "actors": [], "comments": [], "recommandations_id": []}

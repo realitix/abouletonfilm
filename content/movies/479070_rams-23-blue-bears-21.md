@@ -1,1 +1,0 @@
-{"tmdb_id": 479070, "title": "Rams 23 Blue Bears 21", "original_title": "Rams 23 Blue Bears 21", "slug_title": "rams-23-blue-bears-21", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mJgmIDPZpNOievS42wrN4u1Xotf.jpg", "actors": [], "comments": [], "recommandations_id": []}

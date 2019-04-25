@@ -1,1 +1,0 @@
-{"tmdb_id": 568751, "title": "Fourth of July", "original_title": "Fourth of July", "slug_title": "fourth-of-july", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "La f\u00eate nationale dans les rues pleines d'adolescents.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

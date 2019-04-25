@@ -1,1 +1,0 @@
-{"tmdb_id": 312698, "title": "Punk Rawk Show: New American Standard", "original_title": "Punk Rawk Show: New American Standard", "slug_title": "punk-rawk-show-new-american-standard", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

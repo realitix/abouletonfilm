@@ -1,1 +1,0 @@
-{"tmdb_id": 538884, "title": "Jandino: Live in Ahoy", "original_title": "Jandino: Live in Ahoy", "slug_title": "jandino-live-in-ahoy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aH04cWzBtaeCM13DxqeCCEUj6ha.jpg", "actors": [], "comments": [], "recommandations_id": []}

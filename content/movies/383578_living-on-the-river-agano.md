@@ -1,1 +1,0 @@
-{"tmdb_id": 383578, "title": "Living on the River Agano", "original_title": "\u963f\u8cc0\u306b\u751f\u304d\u308b", "slug_title": "living-on-the-river-agano", "date": "1992-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dsLiJyBwfNFVQPhS8LGdeBsgcuE.jpg", "actors": [], "comments": [], "recommandations_id": []}

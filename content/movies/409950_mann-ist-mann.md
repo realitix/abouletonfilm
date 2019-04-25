@@ -1,1 +1,0 @@
-{"tmdb_id": 409950, "title": "Mann ist Mann", "original_title": "Mann ist Mann", "slug_title": "mann-ist-mann", "date": "1931-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y0rPTT8ANZLMnWBx5WCsNCQzPsS.jpg", "actors": [], "comments": [], "recommandations_id": []}

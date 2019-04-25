@@ -1,1 +1,0 @@
-{"tmdb_id": 548684, "title": "The NeverEnding Story", "original_title": "The NeverEnding Story", "slug_title": "the-neverending-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

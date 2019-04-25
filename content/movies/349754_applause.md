@@ -1,1 +1,0 @@
-{"tmdb_id": 349754, "title": "Applause", "original_title": "\uac08\ucc44", "slug_title": "applause", "date": "1982-04-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Won Mi-kyung ()", "Shin Goo ()", "Kim Ae-kyung ()", "Moon Mi-bong ()"], "comments": [], "recommandations_id": []}

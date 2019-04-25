@@ -1,1 +1,0 @@
-{"tmdb_id": 380173, "title": "Dad in Mum", "original_title": "Papa dans maman", "slug_title": "dad-in-mum", "date": "2014-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

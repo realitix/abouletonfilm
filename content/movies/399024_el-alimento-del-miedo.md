@@ -1,1 +1,0 @@
-{"tmdb_id": 399024, "title": "El Alimento Del Miedo", "original_title": "El Alimento Del Miedo", "slug_title": "el-alimento-del-miedo", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Isaura Espinoza ()", "Juan L\u00f3pez Moctezuma ()", "Paulina de Labra ()"], "comments": [], "recommandations_id": []}

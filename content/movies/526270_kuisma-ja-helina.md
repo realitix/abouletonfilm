@@ -1,1 +1,0 @@
-{"tmdb_id": 526270, "title": "Kuisma ja Helin\u00e4", "original_title": "Kuisma ja Helin\u00e4", "slug_title": "kuisma-ja-helina", "date": "1932-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

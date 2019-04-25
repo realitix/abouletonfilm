@@ -1,1 +1,0 @@
-{"tmdb_id": 528610, "title": "B\u00e1rbara", "original_title": "B\u00e1rbara", "slug_title": "barbara", "date": "2017-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dOtWKKzOn6UGIxlK86COMrPpIJ4.jpg", "actors": [], "comments": [], "recommandations_id": []}

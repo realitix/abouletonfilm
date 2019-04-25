@@ -1,1 +1,0 @@
-{"tmdb_id": 315078, "title": "Umbrellas in the sun", "original_title": "Umbrellas in the sun", "slug_title": "umbrellas-in-the-sun", "date": "2005-07-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2S6EyTABaXB92UIKJYKxItc46vn.jpg", "actors": [], "comments": [], "recommandations_id": []}

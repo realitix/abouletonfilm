@@ -1,1 +1,0 @@
-{"tmdb_id": 355021, "title": "Facing Anorexia", "original_title": "Facing Anorexia", "slug_title": "facing-anorexia", "date": "2009-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

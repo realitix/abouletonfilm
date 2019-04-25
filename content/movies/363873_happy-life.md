@@ -1,1 +1,0 @@
-{"tmdb_id": 363873, "title": "Happy life", "original_title": "Happy life", "slug_title": "happy-life", "date": "2012-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8WDguYXXzP0RHoHfBXhesqxUJFT.jpg", "actors": [], "comments": [], "recommandations_id": []}

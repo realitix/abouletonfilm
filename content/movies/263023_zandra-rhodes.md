@@ -1,1 +1,0 @@
-{"tmdb_id": 263023, "title": "Zandra Rhodes", "original_title": "Zandra Rhodes", "slug_title": "zandra-rhodes", "date": "1981-01-01", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4iCzpa6jnvvOgIrSlZE7hG4Ir7i.jpg", "actors": ["Zandra Rhodes ()"], "comments": [], "recommandations_id": []}

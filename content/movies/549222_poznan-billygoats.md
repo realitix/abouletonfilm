@@ -1,1 +1,0 @@
-{"tmdb_id": 549222, "title": "Poznan Billygoats", "original_title": "Pozna\u0144skie Kozio\u0142ki", "slug_title": "poznan-billygoats", "date": "2009-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a0NaNx3WgQ0S87BkPP56bu7Xrb6.jpg", "actors": [], "comments": [], "recommandations_id": []}

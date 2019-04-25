@@ -1,1 +1,0 @@
-{"tmdb_id": 376428, "title": "10 Minute Trainer: Abs", "original_title": "10 Minute Trainer: Abs", "slug_title": "10-minute-trainer-abs", "date": "2007-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pYM0YdTPORglVzbEsXMJAEOlUA3.jpg", "actors": [], "comments": [], "recommandations_id": []}

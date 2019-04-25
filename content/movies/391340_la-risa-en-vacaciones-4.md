@@ -1,1 +1,0 @@
-{"tmdb_id": 391340, "title": "La risa en vacaciones 4", "original_title": "La risa en vacaciones 4", "slug_title": "la-risa-en-vacaciones-4", "date": "1994-01-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wTcnZqxKk1FJ5bKqHr94B2D4Pcs.jpg", "actors": [], "comments": [], "recommandations_id": []}

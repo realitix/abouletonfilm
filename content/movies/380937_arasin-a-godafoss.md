@@ -1,1 +1,0 @@
-{"tmdb_id": 380937, "title": "\u00c1r\u00e1sin \u00e1 Go\u00f0afoss", "original_title": "\u00c1r\u00e1sin \u00e1 Go\u00f0afoss", "slug_title": "arasin-a-godafoss", "date": "2009-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ZQa3rnHVLEuJmFNZLW4rYozuZJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

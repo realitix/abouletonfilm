@@ -1,1 +1,0 @@
-{"tmdb_id": 482373, "title": "Don't Breathe 2", "original_title": "Don't Breathe 2", "slug_title": "don-t-breathe-2", "date": "", "genre": "Horreur", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uze1RN75hOXAJz0kGBfDizFLRmD.jpg", "actors": [], "comments": [], "recommandations_id": []}

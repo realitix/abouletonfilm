@@ -1,1 +1,0 @@
-{"tmdb_id": 316729, "title": "Radio Hams", "original_title": "Radio Hams", "slug_title": "radio-hams", "date": "1939-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator (voice))"], "comments": [], "recommandations_id": []}

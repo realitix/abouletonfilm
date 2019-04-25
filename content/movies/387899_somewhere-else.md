@@ -1,1 +1,0 @@
-{"tmdb_id": 387899, "title": "Somewhere Else", "original_title": "En alg\u00fan sitio", "slug_title": "somewhere-else", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

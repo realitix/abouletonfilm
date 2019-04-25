@@ -1,1 +1,0 @@
-{"tmdb_id": 584661, "title": "What Would It Mean To Win?", "original_title": "What Would It Mean To Win?", "slug_title": "what-would-it-mean-to-win", "date": "2008-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

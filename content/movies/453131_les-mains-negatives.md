@@ -1,1 +1,0 @@
-{"tmdb_id": 453131, "title": "Les Mains, N\u00e9gatives", "original_title": "Les Mains, N\u00e9gatives", "slug_title": "les-mains-negatives", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vgrxpwIo0LncyBRTdf9ypfVbwFW.jpg", "actors": [], "comments": [], "recommandations_id": []}

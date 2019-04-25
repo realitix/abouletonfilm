@@ -1,1 +1,0 @@
-{"tmdb_id": 210083, "title": "The Forge", "original_title": "The Forge", "slug_title": "the-forge", "date": "2013-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tDKx8uSprbDiRDFAcLLhb61oSch.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 492956, "title": "The Trip", "original_title": "A Viagem", "slug_title": "the-trip", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gHb94T2cShTHlNpnp1eHrBBUBdC.jpg", "actors": ["Margarida Carpinteiro (Maria)", "Orlando Costa (Ant\u00f3nio)"], "comments": [], "recommandations_id": []}

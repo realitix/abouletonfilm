@@ -1,1 +1,0 @@
-{"tmdb_id": 560874, "title": "Despertar", "original_title": "Despertar", "slug_title": "despertar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

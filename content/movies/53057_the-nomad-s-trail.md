@@ -1,1 +1,0 @@
-{"tmdb_id": 53057, "title": "The Nomad's Trail", "original_title": "The Nomad's Trail", "slug_title": "the-nomad-s-trail", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

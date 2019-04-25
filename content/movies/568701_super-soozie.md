@@ -1,1 +1,0 @@
-{"tmdb_id": 568701, "title": "Super Soozie", "original_title": "Super Soozie", "slug_title": "super-soozie", "date": "2018-12-11", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4pY70PRGQA8PeavHY4Z1h6JNNNq.jpg", "actors": [], "comments": [], "recommandations_id": []}

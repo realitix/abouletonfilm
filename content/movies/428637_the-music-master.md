@@ -1,1 +1,0 @@
-{"tmdb_id": 428637, "title": "The Music Master", "original_title": "The Music Master", "slug_title": "the-music-master", "date": "1908-05-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["D.W. Griffith ()"], "comments": [], "recommandations_id": []}

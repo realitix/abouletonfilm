@@ -1,1 +1,0 @@
-{"tmdb_id": 334637, "title": "9/11: The Days After", "original_title": "9/11: The Days After", "slug_title": "9-11-the-days-after", "date": "2011-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

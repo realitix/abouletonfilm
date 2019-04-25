@@ -1,1 +1,0 @@
-{"tmdb_id": 40746, "title": "Jump Britain", "original_title": "Jump Britain", "slug_title": "jump-britain", "date": "2005-01-06", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tCVOpiq0YhIOt20mvlFm2T6RCXi.jpg", "actors": [], "comments": [], "recommandations_id": []}

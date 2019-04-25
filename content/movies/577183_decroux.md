@@ -1,1 +1,1 @@
-{"tmdb_id": 577183, "title": "Decroux", "original_title": "Decroux", "slug_title": "decroux", "date": "1955-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 577183, "title": "Decroux", "original_title": "Decroux", "slug_title": "decroux", "date": "1955-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

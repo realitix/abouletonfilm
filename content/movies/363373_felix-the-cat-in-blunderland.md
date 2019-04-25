@@ -1,1 +1,0 @@
-{"tmdb_id": 363373, "title": "Felix the Cat in Blunderland", "original_title": "Felix the Cat in Blunderland", "slug_title": "felix-the-cat-in-blunderland", "date": "1926-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sHMbJ6KOUuSdksZCpV8TgUZwUvV.jpg", "actors": [], "comments": [], "recommandations_id": []}

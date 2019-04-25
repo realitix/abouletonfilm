@@ -1,1 +1,0 @@
-{"tmdb_id": 592595, "title": "A car ride in the Pyren\u00e9es", "original_title": "A car ride in the Pyren\u00e9es", "slug_title": "a-car-ride-in-the-pyrenees", "date": "1912-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

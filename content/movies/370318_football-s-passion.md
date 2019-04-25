@@ -1,1 +1,0 @@
-{"tmdb_id": 370318, "title": "Football's Passion", "original_title": "Futebol \u00e9 Pai", "slug_title": "football-s-passion", "date": "2014-06-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Antonio Haddad Aguerre (Himself)"], "comments": [], "recommandations_id": []}

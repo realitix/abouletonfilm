@@ -1,1 +1,0 @@
-{"tmdb_id": 530983, "title": "Le regard Picasso", "original_title": "Le regard Picasso", "slug_title": "le-regard-picasso", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

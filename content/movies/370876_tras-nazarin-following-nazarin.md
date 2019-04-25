@@ -1,1 +1,0 @@
-{"tmdb_id": 370876, "title": "Tras Nazarin: Following Nazarin", "original_title": "Tras Nazarin: Following Nazarin", "slug_title": "tras-nazarin-following-nazarin", "date": "2015-03-09", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p8qslclPNtXnC6iUDb0IPASb9BY.jpg", "actors": [], "comments": [], "recommandations_id": []}

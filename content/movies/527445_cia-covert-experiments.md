@@ -1,1 +1,0 @@
-{"tmdb_id": 527445, "title": "CIA Covert Experiments", "original_title": "CIA Covert Experiments", "slug_title": "cia-covert-experiments", "date": "2015-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gcgtoewxhv7h5xXIOorqJmmKtEt.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 292620, "title": "Werther", "original_title": "Werther", "slug_title": "werther", "date": "1910-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andr\u00e9 Brul\u00e9 ()", "Laurence Duluc ()", "Philippe Garnier ()"], "comments": [], "recommandations_id": []}

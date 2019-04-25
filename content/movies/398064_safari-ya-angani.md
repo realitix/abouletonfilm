@@ -1,1 +1,0 @@
-{"tmdb_id": 398064, "title": "Safari ya Angani", "original_title": "Safari ya Angani", "slug_title": "safari-ya-angani", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

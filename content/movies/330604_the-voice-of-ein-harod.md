@@ -1,1 +1,0 @@
-{"tmdb_id": 330604, "title": "The Voice of Ein Harod", "original_title": "Ha-Derech L'Ein Harod", "slug_title": "the-voice-of-ein-harod", "date": "1990-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

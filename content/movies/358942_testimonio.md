@@ -1,1 +1,0 @@
-{"tmdb_id": 358942, "title": "Testimonio", "original_title": "Testimonio", "slug_title": "testimonio", "date": "1969-12-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

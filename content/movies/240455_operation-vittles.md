@@ -1,1 +1,0 @@
-{"tmdb_id": 240455, "title": "Operation Vittles", "original_title": "Operation Vittles", "slug_title": "operation-vittles", "date": "1948-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

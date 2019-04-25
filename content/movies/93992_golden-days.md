@@ -1,1 +1,0 @@
-{"tmdb_id": 93992, "title": "Golden Days", "original_title": "Golden Days", "slug_title": "golden-days", "date": "", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zrkiOCgRnCqqLTPRiKWptcl9K3g.jpg", "actors": [], "comments": [], "recommandations_id": []}

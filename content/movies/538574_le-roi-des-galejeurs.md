@@ -1,1 +1,0 @@
-{"tmdb_id": 538574, "title": "Le roi des gal\u00e9jeurs", "original_title": "Le roi des gal\u00e9jeurs", "slug_title": "le-roi-des-galejeurs", "date": "1940-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fdQLQBFiUp9fpeHGDWKKC6MDvPR.jpg", "actors": [], "comments": [], "recommandations_id": []}

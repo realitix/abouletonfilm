@@ -1,1 +1,0 @@
-{"tmdb_id": 292168, "title": "Upheaval in October", "original_title": "Shi yue de feng yun", "slug_title": "upheaval-in-october", "date": "1977-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

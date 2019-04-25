@@ -1,1 +1,0 @@
-{"tmdb_id": 419151, "title": "Taste of Life", "original_title": "Taste of Life", "slug_title": "taste-of-life", "date": "2016-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/agpmW0QZ3Zwil30x4x9N09kKU9c.jpg", "actors": ["Ahmed Majed ()"], "comments": [], "recommandations_id": []}

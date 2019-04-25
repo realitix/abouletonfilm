@@ -1,1 +1,0 @@
-{"tmdb_id": 440685, "title": "The Pillars of Society", "original_title": "The Pillars of Society", "slug_title": "the-pillars-of-society", "date": "1911-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

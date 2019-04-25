@@ -1,1 +1,1 @@
-{"tmdb_id": 352859, "title": "Clean?Coal", "original_title": "Clean?Coal", "slug_title": "clean-coal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 352859, "title": "Clean?Coal", "original_title": "Clean?Coal", "slug_title": "clean-coal", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

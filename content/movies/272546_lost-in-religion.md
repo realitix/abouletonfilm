@@ -1,1 +1,0 @@
-{"tmdb_id": 272546, "title": "Lost in Religion", "original_title": "Lost in Religion", "slug_title": "lost-in-religion", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

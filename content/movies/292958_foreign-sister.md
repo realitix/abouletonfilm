@@ -1,1 +1,0 @@
-{"tmdb_id": 292958, "title": "Foreign Sister", "original_title": "Foreign Sister", "slug_title": "foreign-sister", "date": "2000-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

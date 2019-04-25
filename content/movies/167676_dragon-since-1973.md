@@ -1,1 +1,0 @@
-{"tmdb_id": 167676, "title": "Dragon: Since 1973", "original_title": "Dragon: Since 1973", "slug_title": "dragon-since-1973", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/216xtLbOFSangFRDPdsbapcJBrh.jpg", "actors": [], "comments": [], "recommandations_id": []}

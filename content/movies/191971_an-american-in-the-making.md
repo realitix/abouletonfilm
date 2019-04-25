@@ -1,1 +1,0 @@
-{"tmdb_id": 191971, "title": "An American in the Making", "original_title": "An American in the Making", "slug_title": "an-american-in-the-making", "date": "1913-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

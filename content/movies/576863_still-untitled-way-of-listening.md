@@ -1,1 +1,0 @@
-{"tmdb_id": 576863, "title": "Still untitled - Way of Listening", "original_title": "Still untitled - Way of Listening", "slug_title": "still-untitled-way-of-listening", "date": "2018-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

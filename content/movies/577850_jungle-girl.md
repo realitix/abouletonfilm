@@ -1,1 +1,0 @@
-{"tmdb_id": 577850, "title": "Jungle Girl", "original_title": "Jungle Girl", "slug_title": "jungle-girl", "date": "1984-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

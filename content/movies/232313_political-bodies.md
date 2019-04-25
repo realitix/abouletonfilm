@@ -1,1 +1,0 @@
-{"tmdb_id": 232313, "title": "Political Bodies", "original_title": "Political Bodies", "slug_title": "political-bodies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

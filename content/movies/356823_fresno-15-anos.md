@@ -1,1 +1,0 @@
-{"tmdb_id": 356823, "title": "Fresno 15 Anos", "original_title": "Fresno 15 Anos", "slug_title": "fresno-15-anos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

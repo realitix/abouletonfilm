@@ -1,1 +1,0 @@
-{"tmdb_id": 449932, "title": "Heartsaver", "original_title": "\uc138\uc774\ubc84", "slug_title": "heartsaver", "date": "2016-03-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yNR2wu2UcMrW7IrMHBeFbSRikl4.jpg", "actors": [], "comments": [], "recommandations_id": []}

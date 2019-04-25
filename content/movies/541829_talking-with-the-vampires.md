@@ -1,1 +1,0 @@
-{"tmdb_id": 541829, "title": "Talking with the Vampires", "original_title": "Talking with the Vampires", "slug_title": "talking-with-the-vampires", "date": "2018-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lili Taylor ()", "Christopher Walken ()", "Joe Delia ()", "Ken Kelsch ()"], "comments": [], "recommandations_id": []}

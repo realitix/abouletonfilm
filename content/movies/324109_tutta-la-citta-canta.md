@@ -1,1 +1,0 @@
-{"tmdb_id": 324109, "title": "Tutta la Citt\u00e0 Canta", "original_title": "Tutta la Citt\u00e0 Canta", "slug_title": "tutta-la-citta-canta", "date": "1945-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

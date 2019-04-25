@@ -1,1 +1,0 @@
-{"tmdb_id": 551595, "title": "Eye of the Beholder: The Art of Dungeons & Dragons", "original_title": "Eye of the Beholder: The Art of Dungeons & Dragons", "slug_title": "eye-of-the-beholder-the-art-of-dungeons-dragons", "date": "2018-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

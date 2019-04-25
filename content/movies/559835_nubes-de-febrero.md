@@ -1,1 +1,0 @@
-{"tmdb_id": 559835, "title": "Nubes de Febrero", "original_title": "Nubes de Febrero", "slug_title": "nubes-de-febrero", "date": "2018-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/knTwAXXlWSdpX2iES80zhyZLJUL.jpg", "actors": [], "comments": [], "recommandations_id": []}

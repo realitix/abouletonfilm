@@ -1,1 +1,0 @@
-{"tmdb_id": 426210, "title": "Over Dinner", "original_title": "Over Dinner", "slug_title": "over-dinner", "date": "2013-11-15", "genre": "Drame / Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wVc8IajwhBts1eW7rmSzNF2sEO1.jpg", "actors": [], "comments": [], "recommandations_id": []}

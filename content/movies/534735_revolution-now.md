@@ -1,1 +1,0 @@
-{"tmdb_id": 534735, "title": "Revolution Now!", "original_title": "Revolution Now!", "slug_title": "revolution-now", "date": "2015-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

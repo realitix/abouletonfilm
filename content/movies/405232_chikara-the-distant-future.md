@@ -1,1 +1,0 @@
-{"tmdb_id": 405232, "title": "CHIKARA: The Distant Future", "original_title": "CHIKARA: The Distant Future", "slug_title": "chikara-the-distant-future", "date": "2016-05-07", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/doVbnXQsR3mBZngA2nY0lEq4siv.jpg", "actors": [], "comments": [], "recommandations_id": []}

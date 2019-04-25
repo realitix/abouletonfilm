@@ -1,1 +1,0 @@
-{"tmdb_id": 513039, "title": "Egy \u00e9v Hoppifalv\u00e1n", "original_title": "Egy \u00e9v Hoppifalv\u00e1n", "slug_title": "egy-ev-hoppifalvan", "date": "", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3G7aejLHR1phd7N2ycOZ1iGyn54.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 319232, "title": "In Smog and Thunder", "original_title": "In Smog and Thunder", "slug_title": "in-smog-and-thunder", "date": "2003-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4nvfpuUf7A9Bmqe0gqoRWBXv5pu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 353517, "title": "LEGIAO_E_PARALAMAS_JUNTOS", "original_title": "LEGIAO_E_PARALAMAS_JUNTOS", "slug_title": "legiao-e-paralamas-juntos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

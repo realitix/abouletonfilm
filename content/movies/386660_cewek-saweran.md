@@ -1,1 +1,0 @@
-{"tmdb_id": 386660, "title": "Cewek saweran", "original_title": "Cewek saweran", "slug_title": "cewek-saweran", "date": "2011-03-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6gvTgRCsw9GVq7gWgiYFZxUp98t.jpg", "actors": [], "comments": [], "recommandations_id": []}

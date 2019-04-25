@@ -1,1 +1,0 @@
-{"tmdb_id": 409787, "title": "Oni vstretilis v puti", "original_title": "Oni vstretilis v puti", "slug_title": "oni-vstretilis-v-puti", "date": "1957-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oBD8pFT8abD8KcZ9FHv8u7egABe.jpg", "actors": [], "comments": [], "recommandations_id": []}

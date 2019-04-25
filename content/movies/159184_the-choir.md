@@ -1,1 +1,0 @@
-{"tmdb_id": 159184, "title": "The Choir", "original_title": "The Choir", "slug_title": "the-choir", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

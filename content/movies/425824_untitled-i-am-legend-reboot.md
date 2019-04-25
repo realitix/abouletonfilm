@@ -1,1 +1,0 @@
-{"tmdb_id": 425824, "title": "Untitled I Am Legend Reboot", "original_title": "Untitled I Am Legend Reboot", "slug_title": "untitled-i-am-legend-reboot", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

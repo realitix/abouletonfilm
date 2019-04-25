@@ -1,1 +1,0 @@
-{"tmdb_id": 473762, "title": "Hip Hop Cafe", "original_title": "Hip Hop Cafe", "slug_title": "hip-hop-cafe", "date": "2017-10-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4xHOsP5blVco0V8TxVzyzCc8wDg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 511596, "title": "Midnight Screening", "original_title": "Midnight Screening", "slug_title": "midnight-screening", "date": "2018-03-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wo1Pfy0t2jmiPwpv5VPLppMGi0C.jpg", "actors": [], "comments": [], "recommandations_id": []}

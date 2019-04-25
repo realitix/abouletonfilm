@@ -1,1 +1,0 @@
-{"tmdb_id": 368292, "title": "Edge of Ice", "original_title": "Edge of Ice", "slug_title": "edge-of-ice", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

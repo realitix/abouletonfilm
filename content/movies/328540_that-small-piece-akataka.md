@@ -1,1 +1,0 @@
-{"tmdb_id": 328540, "title": "That Small Piece \"Akataka\"", "original_title": "That Small Piece \"Akataka\"", "slug_title": "that-small-piece-akataka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

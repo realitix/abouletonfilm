@@ -1,1 +1,0 @@
-{"tmdb_id": 227033, "title": "Crafting a Nation", "original_title": "Crafting a Nation", "slug_title": "crafting-a-nation", "date": "2013-01-30", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/udjkicNakGYbRkYlHCEtThDidld.jpg", "actors": [], "comments": [], "recommandations_id": []}

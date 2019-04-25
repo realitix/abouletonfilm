@@ -1,1 +1,0 @@
-{"tmdb_id": 200213, "title": "Killing Me", "original_title": "Killing Me", "slug_title": "killing-me", "date": "2012-07-07", "genre": "Horreur / Com\u00e9die", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dMMXs6KEE5ukzLrBr2sBEfrSDsu.jpg", "actors": [], "comments": [], "recommandations_id": []}

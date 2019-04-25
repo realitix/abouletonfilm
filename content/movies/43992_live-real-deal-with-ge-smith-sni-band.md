@@ -1,1 +1,0 @@
-{"tmdb_id": 43992, "title": "Live: Real Deal With Ge Smith & Sni Band", "original_title": "Live: Real Deal With Ge Smith & Sni Band", "slug_title": "live-real-deal-with-ge-smith-sni-band", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Buddy Guy (Self)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 472593, "title": "My Country", "original_title": "Il mio paese", "slug_title": "my-country", "date": "2006-09-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qGDACE6mGVqx8vqQw2HjEoInivb.jpg", "actors": [], "comments": [], "recommandations_id": []}

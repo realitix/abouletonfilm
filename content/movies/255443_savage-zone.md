@@ -1,1 +1,0 @@
-{"tmdb_id": 255443, "title": "Savage Zone", "original_title": "Dimensione Violenza", "slug_title": "savage-zone", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/olgIHzYgjbA49CihlwyyUmrghJE.jpg", "actors": [], "comments": [], "recommandations_id": []}

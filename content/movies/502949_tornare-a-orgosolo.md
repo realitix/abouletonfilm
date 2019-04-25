@@ -1,1 +1,0 @@
-{"tmdb_id": 502949, "title": "Tornare a Orgosolo", "original_title": "Tornare a Orgosolo", "slug_title": "tornare-a-orgosolo", "date": "1997-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vittorio De Seta (Himself)"], "comments": [], "recommandations_id": []}

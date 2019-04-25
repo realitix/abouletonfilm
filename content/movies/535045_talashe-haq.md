@@ -1,1 +1,0 @@
-{"tmdb_id": 535045, "title": "Talashe Haq", "original_title": "Talashe Haq", "slug_title": "talashe-haq", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jaddanbai ()", "Nargis ()", "Qamar Jahan ()", "Lala Yaqoob ()", "Anwar Hussain ()"], "comments": [], "recommandations_id": []}

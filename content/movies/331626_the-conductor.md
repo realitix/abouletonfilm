@@ -1,1 +1,0 @@
-{"tmdb_id": 331626, "title": "The Conductor", "original_title": "al-Jabi", "slug_title": "the-conductor", "date": "1967-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

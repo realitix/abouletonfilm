@@ -1,1 +1,0 @@
-{"tmdb_id": 587407, "title": "The Plagiarist", "original_title": "Les id\u00e9es s'am\u00e9liorent", "slug_title": "the-plagiarist", "date": "2018-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

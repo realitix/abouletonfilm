@@ -1,1 +1,0 @@
-{"tmdb_id": 322952, "title": "Juno Helps Out", "original_title": "Juno Helps Out", "slug_title": "juno-helps-out", "date": "1953-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 324997, "title": "Samson & Gert Deel 12", "original_title": "Samson & Gert Deel 12", "slug_title": "samson-gert-deel-12", "date": "2001-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ZIGUe3PeVi1FYmW21jWprFnfy3.jpg", "actors": [], "comments": [], "recommandations_id": []}

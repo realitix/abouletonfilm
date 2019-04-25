@@ -1,1 +1,0 @@
-{"tmdb_id": 461225, "title": "WHITE T AND FEEBLE THINGS", "original_title": "\u767dT (Shiro T )", "slug_title": "white-t-and-feeble-things", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mihiro ()", "Yuki Sakurai ()", "Hannya ()"], "comments": [], "recommandations_id": []}

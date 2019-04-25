@@ -1,1 +1,0 @@
-{"tmdb_id": 566209, "title": "Just Hold It", "original_title": "Just Hold It", "slug_title": "just-hold-it", "date": "2018-10-18", "genre": "Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d77b8vVlvHMVTK1pqNWpI2XnrzR.jpg", "actors": ["Sander Nilsen (Marge)"], "comments": [], "recommandations_id": []}

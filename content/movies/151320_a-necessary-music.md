@@ -1,1 +1,0 @@
-{"tmdb_id": 151320, "title": "A Necessary Music", "original_title": "A Necessary Music", "slug_title": "a-necessary-music", "date": "2009-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gGwi1DmmDVi05HL1gQt7mj54Yx5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 375115, "title": "Toca R\u00e1pido o Muere", "original_title": "Toca R\u00e1pido o Muere", "slug_title": "toca-rapido-o-muere", "date": "2015-09-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bqVeNz3g9tzpNZmrjtpE8uCgGyx.jpg", "actors": [], "comments": [], "recommandations_id": []}

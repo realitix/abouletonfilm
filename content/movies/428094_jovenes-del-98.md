@@ -1,1 +1,0 @@
-{"tmdb_id": 428094, "title": "J\u00f3venes del 98", "original_title": "J\u00f3venes del 98", "slug_title": "jovenes-del-98", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 518992, "title": "Pelleedu Pillalu", "original_title": "Pelleedu Pillalu", "slug_title": "pelleedu-pillalu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3eU5YjAHA8wvtWPQ2HFQffeoOn6.jpg", "actors": [], "comments": [], "recommandations_id": []}

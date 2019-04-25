@@ -1,1 +1,0 @@
-{"tmdb_id": 264570, "title": "Moses of Prosthesis", "original_title": "Gisoku no Moses", "slug_title": "moses-of-prosthesis", "date": "2013-09-16", "genre": "Animation / Com\u00e9die / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uheRtQXfv1kC0loeje14V543VnT.jpg", "actors": [], "comments": [], "recommandations_id": []}

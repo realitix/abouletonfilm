@@ -1,1 +1,0 @@
-{"tmdb_id": 369307, "title": "A Smallville Man", "original_title": "A Smallville Man", "slug_title": "a-smallville-man", "date": "2015-01-12", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/66NhEKXAIf5HwL61eNaahkQEQmF.jpg", "actors": [], "comments": [], "recommandations_id": []}

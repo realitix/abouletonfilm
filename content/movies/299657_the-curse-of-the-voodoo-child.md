@@ -1,1 +1,0 @@
-{"tmdb_id": 299657, "title": "The Curse of the Voodoo Child", "original_title": "The Curse of the Voodoo Child", "slug_title": "the-curse-of-the-voodoo-child", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lPbxxnbebWSosnDFwszQRrsFvvT.jpg", "actors": [], "comments": [], "recommandations_id": []}

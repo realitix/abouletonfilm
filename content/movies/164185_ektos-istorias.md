@@ -1,1 +1,0 @@
-{"tmdb_id": 164185, "title": "Ektos istorias", "original_title": "Ektos istorias", "slug_title": "ektos-istorias", "date": "2012-03-10", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/66kFhfan9WiUAmsY3cTw8aDrxYm.jpg", "actors": [], "comments": [], "recommandations_id": []}

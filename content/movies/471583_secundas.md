@@ -1,1 +1,0 @@
-{"tmdb_id": 471583, "title": "Secundas", "original_title": "Secundas", "slug_title": "secundas", "date": "2017-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/muZaiJ0zg2PdcoEolrrWwrTsdwV.jpg", "actors": [], "comments": [], "recommandations_id": []}

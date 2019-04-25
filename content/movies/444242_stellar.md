@@ -1,1 +1,0 @@
-{"tmdb_id": 444242, "title": "Stellar", "original_title": "Stellar", "slug_title": "stellar", "date": "2017-02-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9NVsjVcvDBMoUWKicBITG20MqRK.jpg", "actors": [], "comments": [], "recommandations_id": []}

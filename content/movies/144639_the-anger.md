@@ -1,1 +1,0 @@
-{"tmdb_id": 144639, "title": "The Anger", "original_title": "The Anger", "slug_title": "the-anger", "date": "1982-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lu Hsiao-Fen ()", "Lin Tsai-pei ()", "Gua Ah-leh ()", "Don Wong Tao ()"], "comments": [], "recommandations_id": []}

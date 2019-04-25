@@ -1,1 +1,0 @@
-{"tmdb_id": 592272, "title": "Canada Untold", "original_title": "Canada Untold", "slug_title": "canada-untold", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

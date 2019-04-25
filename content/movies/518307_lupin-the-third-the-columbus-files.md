@@ -1,1 +1,0 @@
-{"tmdb_id": 518307, "title": "Lupin The Third: The Columbus Files", "original_title": "Lupin The Third: The Columbus Files", "slug_title": "lupin-the-third-the-columbus-files", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 550846, "title": "A Crimson Star", "original_title": "A Crimson Star", "slug_title": "a-crimson-star", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

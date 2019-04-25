@@ -1,1 +1,0 @@
-{"tmdb_id": 398631, "title": "Britain's Bloody Crown", "original_title": "Britain's Bloody Crown", "slug_title": "britain-s-bloody-crown", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cVIz5JX5TkJJkE8L4zLsN0qPCyH.jpg", "actors": [], "comments": [], "recommandations_id": []}

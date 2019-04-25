@@ -1,1 +1,0 @@
-{"tmdb_id": 567284, "title": "Sumidades Carnavalescas", "original_title": "Sumidades Carnavalescas", "slug_title": "sumidades-carnavalescas", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

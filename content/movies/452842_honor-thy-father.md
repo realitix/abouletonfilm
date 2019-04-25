@@ -1,1 +1,0 @@
-{"tmdb_id": 452842, "title": "Honor Thy Father", "original_title": "Gan'en Suiyue", "slug_title": "honor-thy-father", "date": "1989-04-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Xiu-Zhi Liang ()", "Ching-tao Ma ()", "Keiko Suzuka ()", "Mei-Hsueh Wang ()", "Wu Ma ()"], "comments": [], "recommandations_id": []}

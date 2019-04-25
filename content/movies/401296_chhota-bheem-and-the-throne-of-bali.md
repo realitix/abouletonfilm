@@ -1,1 +1,0 @@
-{"tmdb_id": 401296, "title": "Chhota Bheem and the Throne of Bali", "original_title": "Chhota Bheem and the Throne of Bali", "slug_title": "chhota-bheem-and-the-throne-of-bali", "date": "2013-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

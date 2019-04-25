@@ -1,1 +1,0 @@
-{"tmdb_id": 444962, "title": "Decrescente", "original_title": "Decrescente", "slug_title": "decrescente", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

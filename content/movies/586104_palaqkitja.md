@@ -1,1 +1,0 @@
-{"tmdb_id": 586104, "title": "Palaqkitja", "original_title": "Palaqkitja", "slug_title": "palaqkitja", "date": "2014-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/196jg9wv51C4TnAtfLjdWTIOK2o.jpg", "actors": [], "comments": [], "recommandations_id": []}

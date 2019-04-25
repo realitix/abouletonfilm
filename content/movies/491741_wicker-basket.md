@@ -1,1 +1,0 @@
-{"tmdb_id": 491741, "title": "Wicker Basket", "original_title": "Wiklinowy kosz", "slug_title": "wicker-basket", "date": "1966-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c9vzdhnI3roY6BlqWcg2QEQBTqE.jpg", "actors": [], "comments": [], "recommandations_id": []}

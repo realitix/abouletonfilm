@@ -1,1 +1,0 @@
-{"tmdb_id": 253694, "title": "Adam Lambert: Glam Nation Live", "original_title": "Adam Lambert: Glam Nation Live", "slug_title": "adam-lambert-glam-nation-live", "date": "2011-05-10", "genre": "", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y5DgI07VJUEQOqnbdJ5MCcAxYQZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

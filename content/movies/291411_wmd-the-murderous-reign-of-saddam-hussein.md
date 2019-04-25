@@ -1,1 +1,0 @@
-{"tmdb_id": 291411, "title": "WMD: The Murderous Reign of Saddam Hussein", "original_title": "WMD: The Murderous Reign of Saddam Hussein", "slug_title": "wmd-the-murderous-reign-of-saddam-hussein", "date": "2004-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 499063, "title": "Silent Hill 3: The Movie", "original_title": "Silent Hill 3: The Movie", "slug_title": "silent-hill-3-the-movie", "date": "2012-07-13", "genre": "Horreur", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l0Zt6omBFsNy5QNwasXxgaAd7mh.jpg", "actors": [], "comments": [], "recommandations_id": []}

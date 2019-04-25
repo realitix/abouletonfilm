@@ -1,1 +1,0 @@
-{"tmdb_id": 426685, "title": "Play Drums Now!", "original_title": "Play Drums Now!", "slug_title": "play-drums-now", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pVsh80mTDPR0Da5glWgqT8Icahr.jpg", "actors": [], "comments": [], "recommandations_id": []}

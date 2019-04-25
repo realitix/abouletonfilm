@@ -1,1 +1,0 @@
-{"tmdb_id": 129608, "title": "Lowlands", "original_title": "Lowlands", "slug_title": "lowlands", "date": "2009-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8g6mWpPedalKLrFCAw7jwwQLasH.jpg", "actors": [], "comments": [], "recommandations_id": []}

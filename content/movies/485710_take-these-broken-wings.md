@@ -1,1 +1,0 @@
-{"tmdb_id": 485710, "title": "Take These Broken Wings", "original_title": "Take These Broken Wings", "slug_title": "take-these-broken-wings", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

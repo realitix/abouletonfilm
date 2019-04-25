@@ -1,1 +1,0 @@
-{"tmdb_id": 204689, "title": "I Feel Like a Feather in the Breeze", "original_title": "I Feel Like a Feather in the Breeze", "slug_title": "i-feel-like-a-feather-in-the-breeze", "date": "1936-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 583635, "title": "Las del diente", "original_title": "Las del diente", "slug_title": "las-del-diente", "date": "2018-11-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aitziber Olaskoaga ((voice))", "Angela Stempel ((voice))", "Natalia La Salle ((voice))"], "comments": [], "recommandations_id": []}

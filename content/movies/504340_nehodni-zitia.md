@@ -1,1 +1,0 @@
-{"tmdb_id": 504340, "title": "Nehodn\u00ed \u017eitia?", "original_title": "Nehodn\u00ed \u017eitia?", "slug_title": "nehodni-zitia", "date": "2016-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vwy69RWFQsO3hTXv3bssWLZuyvJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

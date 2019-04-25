@@ -1,1 +1,0 @@
-{"tmdb_id": 265267, "title": "Sally - hei\u00df wie ein Vulkan", "original_title": "Sally - hei\u00df wie ein Vulkan", "slug_title": "sally-heiss-wie-ein-vulkan", "date": "1973-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ug4ry2XOw0T7F2ldJmrg3ycQSdN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 396168, "title": "Photographic Phantoms", "original_title": "Photographic Phantoms", "slug_title": "photographic-phantoms", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

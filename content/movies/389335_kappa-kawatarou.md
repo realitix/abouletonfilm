@@ -1,1 +1,0 @@
-{"tmdb_id": 389335, "title": "Kappa Kawatarou", "original_title": "Kappa Kawatarou", "slug_title": "kappa-kawatarou", "date": "1954-01-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q0Rl2h4im4qj7SjF6woNA3AJUHT.jpg", "actors": [], "comments": [], "recommandations_id": []}

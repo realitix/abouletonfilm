@@ -1,1 +1,0 @@
-{"tmdb_id": 594649, "title": "Love her doze", "original_title": "Love her doze", "slug_title": "love-her-doze", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "Jody, un dealer sans foi ni loi, se vante d'avoir en sa possession la drogue la plus puissante qui soit.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

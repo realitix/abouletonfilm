@@ -1,1 +1,0 @@
-{"tmdb_id": 350091, "title": "\uc5f0\ubd84\ud64d\uce58\ub9c8", "original_title": "\uc5f0\ubd84\ud64d\uce58\ub9c8", "slug_title": "yeonbunhongcima", "date": "1981-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

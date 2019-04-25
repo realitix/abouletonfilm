@@ -1,1 +1,0 @@
-{"tmdb_id": 328494, "title": "Law of sin", "original_title": "Law of sin", "slug_title": "law-of-sin", "date": "2014-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

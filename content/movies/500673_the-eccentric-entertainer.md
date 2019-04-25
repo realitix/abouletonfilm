@@ -1,1 +1,0 @@
-{"tmdb_id": 500673, "title": "The Eccentric Entertainer", "original_title": "The Eccentric Entertainer", "slug_title": "the-eccentric-entertainer", "date": "1929-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

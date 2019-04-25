@@ -1,1 +1,0 @@
-{"tmdb_id": 591941, "title": "McCann's Embedded Confessions", "original_title": "McCann's Embedded Confessions", "slug_title": "mccann-s-embedded-confessions", "date": "2016-11-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard D. Hall ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 403592, "title": "San Francisco Ball", "original_title": "San Francisco Ball", "slug_title": "san-francisco-ball", "date": "1971-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

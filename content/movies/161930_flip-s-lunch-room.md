@@ -1,1 +1,0 @@
-{"tmdb_id": 161930, "title": "Flip's Lunch Room", "original_title": "Flip's Lunch Room", "slug_title": "flip-s-lunch-room", "date": "1933-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

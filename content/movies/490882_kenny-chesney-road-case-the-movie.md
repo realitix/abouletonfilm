@@ -1,1 +1,0 @@
-{"tmdb_id": 490882, "title": "Kenny Chesney: Road Case - The Movie", "original_title": "Kenny Chesney: Road Case - The Movie", "slug_title": "kenny-chesney-road-case-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

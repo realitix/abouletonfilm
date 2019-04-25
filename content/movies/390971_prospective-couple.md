@@ -1,1 +1,0 @@
-{"tmdb_id": 390971, "title": "Prospective Couple", "original_title": "Perspektyvi pora", "slug_title": "prospective-couple", "date": "2005-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

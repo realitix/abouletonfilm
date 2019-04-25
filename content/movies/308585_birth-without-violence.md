@@ -1,1 +1,0 @@
-{"tmdb_id": 308585, "title": "Birth Without Violence", "original_title": "Birth Without Violence", "slug_title": "birth-without-violence", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

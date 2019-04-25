@@ -1,1 +1,0 @@
-{"tmdb_id": 223289, "title": "Hard Rock'n", "original_title": "Hard Rock'n", "slug_title": "hard-rock-n", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sadie Shiller ()"], "comments": [], "recommandations_id": []}

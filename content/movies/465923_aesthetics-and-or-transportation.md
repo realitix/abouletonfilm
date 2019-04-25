@@ -1,1 +1,0 @@
-{"tmdb_id": 465923, "title": "Aesthetics and/or Transportation", "original_title": "Aesthetics and/or Transportation", "slug_title": "aesthetics-and-or-transportation", "date": "1987-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

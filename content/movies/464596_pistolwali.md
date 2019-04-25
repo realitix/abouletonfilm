@@ -1,1 +1,0 @@
-{"tmdb_id": 464596, "title": "Pistolwali", "original_title": "Pistolwali", "slug_title": "pistolwali", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nbCgep0JHpKCeb4xo1BuZ0TPAb8.jpg", "actors": ["Jyothi Lakshmi ()", "Nandamuri Bala Krishna ()", "Helen ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 199536, "title": "The Shape Of Rex", "original_title": "The Shape Of Rex", "slug_title": "the-shape-of-rex", "date": "2013-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hKEnnerZK4o7sqYOCzEdbOvsqu3.jpg", "actors": [], "comments": [], "recommandations_id": []}

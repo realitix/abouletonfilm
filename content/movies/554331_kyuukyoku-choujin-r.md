@@ -1,1 +1,0 @@
-{"tmdb_id": 554331, "title": "Kyuukyoku Choujin R", "original_title": "Kyuukyoku Choujin R", "slug_title": "kyuukyoku-choujin-r", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

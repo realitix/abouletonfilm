@@ -1,1 +1,0 @@
-{"tmdb_id": 196228, "title": "Finissant(e)s", "original_title": "Finissant(e)s", "slug_title": "finissant-e-s", "date": "2013-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vsP9hffMOo0Opx04INnKk2gHPWx.jpg", "actors": ["Carla Turcotte ()"], "comments": [], "recommandations_id": []}

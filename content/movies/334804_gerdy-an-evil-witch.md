@@ -1,1 +1,0 @@
-{"tmdb_id": 334804, "title": "Gerdy, An Evil Witch", "original_title": "Gerdy, zlo\u010desta vje\u0161tica", "slug_title": "gerdy-an-evil-witch", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

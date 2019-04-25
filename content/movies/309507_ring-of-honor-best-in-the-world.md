@@ -1,1 +1,0 @@
-{"tmdb_id": 309507, "title": "Ring of Honor: Best in the World", "original_title": "Ring of Honor: Best in the World", "slug_title": "ring-of-honor-best-in-the-world", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

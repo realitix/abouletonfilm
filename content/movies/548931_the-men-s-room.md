@@ -1,1 +1,0 @@
-{"tmdb_id": 548931, "title": "The Men's Room", "original_title": "For vi er gutta", "slug_title": "the-men-s-room", "date": "2018-09-28", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b60wPMXARjFVqfJTIeyIkMzb2xl.jpg", "actors": ["Per \u00d8ivind Houmb (Himself)"], "comments": [], "recommandations_id": []}

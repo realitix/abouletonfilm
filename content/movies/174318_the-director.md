@@ -1,1 +1,0 @@
-{"tmdb_id": 174318, "title": "The Director", "original_title": "The Director", "slug_title": "the-director", "date": "2013-04-21", "genre": "Documentaire", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eDmb1D5Ik5PwLtjNsXnyCmsMVde.jpg", "actors": ["Frida Giannini (Herself)"], "comments": [], "recommandations_id": []}

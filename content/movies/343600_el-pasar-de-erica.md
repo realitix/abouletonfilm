@@ -1,1 +1,0 @@
-{"tmdb_id": 343600, "title": "El pasar de Erica", "original_title": "El pasar de Erica", "slug_title": "el-pasar-de-erica", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eg0ncRu7DWbUvDkhffALHYHKX0.jpg", "actors": [], "comments": [], "recommandations_id": []}

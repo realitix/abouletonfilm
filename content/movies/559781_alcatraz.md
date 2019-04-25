@@ -1,1 +1,0 @@
-{"tmdb_id": 559781, "title": "Alcatraz", "original_title": "Alcatraz", "slug_title": "alcatraz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xRRKZab1vGwbzsW1sqwo44Nxwi7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 552269, "title": "Good Joe Bell", "original_title": "Good Joe Bell", "slug_title": "good-joe-bell", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mark Wahlberg (Joe Bell)", "Reid Miller (Jadin Bell)", "Connie Britton ()", "Max Jenkins (Joseph Bell)"], "comments": [], "recommandations_id": []}

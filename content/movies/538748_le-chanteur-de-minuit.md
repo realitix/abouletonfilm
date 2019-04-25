@@ -1,1 +1,0 @@
-{"tmdb_id": 538748, "title": "Le chanteur de minuit", "original_title": "Le chanteur de minuit", "slug_title": "le-chanteur-de-minuit", "date": "1939-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/woGVp201pgjs7Mw32QkBy1pBQ8G.jpg", "actors": [], "comments": [], "recommandations_id": []}

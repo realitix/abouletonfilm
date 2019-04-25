@@ -1,1 +1,0 @@
-{"tmdb_id": 275903, "title": "How I Worked Under Stalin, or Songs of the Oligarchs", "original_title": "How I Worked Under Stalin, or Songs of the Oligarchs", "slug_title": "how-i-worked-under-stalin-or-songs-of-the-oligarchs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

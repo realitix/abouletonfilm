@@ -1,1 +1,0 @@
-{"tmdb_id": 478806, "title": "Countdown to Ground Zero", "original_title": "Countdown to Ground Zero", "slug_title": "countdown-to-ground-zero", "date": "2006-08-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kesaM0iOENWT4oMcPhUFB2CcErP.jpg", "actors": [], "comments": [], "recommandations_id": []}

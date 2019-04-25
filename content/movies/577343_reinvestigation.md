@@ -1,1 +1,0 @@
-{"tmdb_id": 577343, "title": "Reinvestigation", "original_title": "\u05d7\u05d5\u05e7\u05e8\u05ea", "slug_title": "reinvestigation", "date": "", "genre": "Documentaire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

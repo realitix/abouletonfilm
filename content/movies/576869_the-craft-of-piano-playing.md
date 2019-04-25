@@ -1,1 +1,0 @@
-{"tmdb_id": 576869, "title": "The Craft of Piano Playing", "original_title": "The Craft of Piano Playing", "slug_title": "the-craft-of-piano-playing", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

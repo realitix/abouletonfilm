@@ -1,1 +1,0 @@
-{"tmdb_id": 232236, "title": "Baby Story", "original_title": "Baby Story", "slug_title": "baby-story", "date": "1978-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f95nk4cJDS4nJgX9o6YYAsVf5J0.jpg", "actors": [], "comments": [], "recommandations_id": []}

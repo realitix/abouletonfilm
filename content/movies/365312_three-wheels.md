@@ -1,1 +1,0 @@
-{"tmdb_id": 365312, "title": "Three Wheels", "original_title": "Three Wheels", "slug_title": "three-wheels", "date": "2015-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

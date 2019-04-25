@@ -1,1 +1,0 @@
-{"tmdb_id": 288369, "title": "Seeta Swayamvar", "original_title": "Seeta Swayamvar", "slug_title": "seeta-swayamvar", "date": "1918-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 132938, "title": "God's Lonely Man", "original_title": "God's Lonely Man", "slug_title": "god-s-lonely-man", "date": "1996-01-01", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rrdYl5J0LigDoyy25hM9eysHPkU.jpg", "actors": [], "comments": [], "recommandations_id": []}

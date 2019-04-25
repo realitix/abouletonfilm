@@ -1,1 +1,0 @@
-{"tmdb_id": 548105, "title": "Queerbait", "original_title": "Queerbait", "slug_title": "queerbait", "date": "2013-10-25", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rebecca Cox (Jacki Spaghetti)", "Mason Giles (Tommy)", "R. Dustin Sanchez (Harry Spaghetti)"], "comments": [], "recommandations_id": []}

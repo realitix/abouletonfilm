@@ -1,1 +1,0 @@
-{"tmdb_id": 192060, "title": "All'ombra della croce", "original_title": "All'ombra della croce", "slug_title": "all-ombra-della-croce", "date": "2012-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vwq6lBFmLMEE7WtyjpeNdacwBPM.jpg", "actors": [], "comments": [], "recommandations_id": []}

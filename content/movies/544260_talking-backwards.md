@@ -1,1 +1,0 @@
-{"tmdb_id": 544260, "title": "Talking Backwards", "original_title": "Talking Backwards", "slug_title": "talking-backwards", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Isaac Money (Gary Dresden)", "Lucie Parmiter (Amy Dresden)", "Luca Moore (Lucy Chambers)"], "comments": [], "recommandations_id": []}

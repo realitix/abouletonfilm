@@ -1,1 +1,0 @@
-{"tmdb_id": 412254, "title": "Eight Women Die a Martyr", "original_title": "Ba nu tou jiang", "slug_title": "eight-women-die-a-martyr", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

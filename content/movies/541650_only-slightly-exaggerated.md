@@ -1,1 +1,0 @@
-{"tmdb_id": 541650, "title": "Only slightly exaggerated", "original_title": "Only slightly exaggerated", "slug_title": "only-slightly-exaggerated", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

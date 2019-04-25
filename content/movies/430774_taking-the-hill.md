@@ -1,1 +1,0 @@
-{"tmdb_id": 430774, "title": "Taking the Hill", "original_title": "Taking the Hill", "slug_title": "taking-the-hill", "date": "2006-12-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mYgu4pi9VR6JeRIcbyctNCsxZv6.jpg", "actors": ["Raul Ries (Himself)"], "comments": [], "recommandations_id": []}

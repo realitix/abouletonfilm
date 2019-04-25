@@ -1,1 +1,0 @@
-{"tmdb_id": 379493, "title": "Bird Strike", "original_title": "Vogel vrij", "slug_title": "bird-strike", "date": "2015-09-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

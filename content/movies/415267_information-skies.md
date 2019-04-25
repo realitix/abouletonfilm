@@ -1,1 +1,0 @@
-{"tmdb_id": 415267, "title": "Information Skies", "original_title": "Information Skies", "slug_title": "information-skies", "date": "2016-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8QyVFqEFcmsvfAeR9WQ2SSrXR7h.jpg", "actors": [], "comments": [], "recommandations_id": []}

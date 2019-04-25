@@ -1,1 +1,0 @@
-{"tmdb_id": 362907, "title": "Pedal Cyclists", "original_title": "Pedal Cyclists", "slug_title": "pedal-cyclists", "date": "1947-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

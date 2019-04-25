@@ -1,1 +1,0 @@
-{"tmdb_id": 252337, "title": "The Coronation of King George VI", "original_title": "The Coronation of King George VI", "slug_title": "the-coronation-of-king-george-vi", "date": "1937-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["King George VI ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 548785, "title": "Atalanta", "original_title": "Atalanta", "slug_title": "atalanta", "date": "2018-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 548785, "title": "Atalanta", "original_title": "Atalanta", "slug_title": "atalanta", "date": "2018-09-16", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

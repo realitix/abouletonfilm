@@ -1,1 +1,0 @@
-{"tmdb_id": 569445, "title": "Shi er ci lie che", "original_title": "Shi er ci lie che", "slug_title": "shi-er-ci-lie-che", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

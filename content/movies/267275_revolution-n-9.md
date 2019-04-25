@@ -1,1 +1,0 @@
-{"tmdb_id": 267275, "title": "Revolution N. 9", "original_title": "Revolution N. 9", "slug_title": "revolution-n-9", "date": "2003-06-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/afRXB6aDKhbKeqccQz2QTukOMhz.jpg", "actors": [], "comments": [], "recommandations_id": []}

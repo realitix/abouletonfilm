@@ -1,1 +1,0 @@
-{"tmdb_id": 329127, "title": "Lacking a Homeland", "original_title": "B'Ein Moledet", "slug_title": "lacking-a-homeland", "date": "1959-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amos Arikha ()", "Sa'adia Damari ()", "Shoshana Damari ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 459380, "title": "nontonYuk", "original_title": "nontonYuk", "slug_title": "nontonyuk", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 459380, "title": "nontonYuk", "original_title": "nontonYuk", "slug_title": "nontonyuk", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "movie app that can see upcoming movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

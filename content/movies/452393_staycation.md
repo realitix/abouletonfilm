@@ -1,1 +1,0 @@
-{"tmdb_id": 452393, "title": "Staycation", "original_title": "Staycation", "slug_title": "staycation", "date": "2016-01-01", "genre": "Myst\u00e8re / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cdvXtEcQbBGzskgHtgfbpNfgIQo.jpg", "actors": ["Robert Malone ()", "Joanna Arnow ()"], "comments": [], "recommandations_id": []}

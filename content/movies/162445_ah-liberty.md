@@ -1,1 +1,0 @@
-{"tmdb_id": 162445, "title": "Ah, Liberty!", "original_title": "Ah, Liberty!", "slug_title": "ah-liberty", "date": "2008-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dZaHPNYRTwX8Mbl4o6sTwJcq9Yv.jpg", "actors": [], "comments": [], "recommandations_id": [44570, 128312]}

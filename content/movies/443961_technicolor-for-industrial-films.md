@@ -1,1 +1,0 @@
-{"tmdb_id": 443961, "title": "Technicolor for Industrial Films", "original_title": "Technicolor for Industrial Films", "slug_title": "technicolor-for-industrial-films", "date": "1940-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

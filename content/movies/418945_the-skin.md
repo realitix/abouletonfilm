@@ -1,1 +1,0 @@
-{"tmdb_id": 418945, "title": "The Skin", "original_title": "The Skin", "slug_title": "the-skin", "date": "2011-09-16", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ahNJCiORDgwarCxlUHoMOJy3cBT.jpg", "actors": ["Tom Durant Pritchard ()", "Jeff Stewart ()"], "comments": [], "recommandations_id": []}

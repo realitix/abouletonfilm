@@ -1,1 +1,0 @@
-{"tmdb_id": 596654, "title": "Nigadam", "original_title": "Nigadam", "slug_title": "nigadam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oeh11vQSP9U7t9qJ1cHEiYPX4Tp.jpg", "actors": [], "comments": [], "recommandations_id": []}

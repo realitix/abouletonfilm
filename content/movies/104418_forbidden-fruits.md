@@ -1,1 +1,0 @@
-{"tmdb_id": 104418, "title": "Forbidden Fruits", "original_title": "Forbidden Fruits", "slug_title": "forbidden-fruits", "date": "2006-07-25", "genre": "Drame / Romance", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Lister Jr. (Jade)", "Fredro Starr (Brian Casey)", "Keith Sweat (Terrence)"], "comments": [], "recommandations_id": []}

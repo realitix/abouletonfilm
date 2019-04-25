@@ -1,1 +1,0 @@
-{"tmdb_id": 185806, "title": "Biohazard: Dynamo Open Air", "original_title": "Biohazard: Dynamo Open Air", "slug_title": "biohazard-dynamo-open-air", "date": "1995-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tq9lrAUND9YsYIFjaBacTIro04N.jpg", "actors": [], "comments": [], "recommandations_id": []}

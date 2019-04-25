@@ -1,1 +1,0 @@
-{"tmdb_id": 185126, "title": "Desi Arnaz and His Orchestra", "original_title": "Desi Arnaz and His Orchestra", "slug_title": "desi-arnaz-and-his-orchestra", "date": "1946-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

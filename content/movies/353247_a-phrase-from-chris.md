@@ -1,1 +1,0 @@
-{"tmdb_id": 353247, "title": "A Phrase from Chris", "original_title": "A Phrase from Chris", "slug_title": "a-phrase-from-chris", "date": "2011-08-06", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dfe02f4Nw6cDfXWI6ldeh29xkWt.jpg", "actors": [], "comments": [], "recommandations_id": []}

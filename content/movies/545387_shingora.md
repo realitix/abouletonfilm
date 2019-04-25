@@ -1,1 +1,0 @@
-{"tmdb_id": 545387, "title": "Shingora", "original_title": "Shingora", "slug_title": "shingora", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/88j6LVn2hVGSkVKLqDVLXUq6J0v.jpg", "actors": ["Persis Khambatta (Roma Sinha)", "Marc Zuber (Vikram Lamba)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 564570, "title": "Brutalit\u00e9s amoureuses", "original_title": "Brutalit\u00e9s amoureuses", "slug_title": "brutalites-amoureuses", "date": "1972-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uUo9nJ6rCG3E0XbHpazi3DJpAK7.jpg", "actors": [], "comments": [], "recommandations_id": []}

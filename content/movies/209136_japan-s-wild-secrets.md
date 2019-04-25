@@ -1,1 +1,0 @@
-{"tmdb_id": 209136, "title": "Japan's Wild Secrets", "original_title": "Japan's Wild Secrets", "slug_title": "japan-s-wild-secrets", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kK1bWgFaqQuv7VGiGSdoNO29wCv.jpg", "actors": [], "comments": [], "recommandations_id": []}

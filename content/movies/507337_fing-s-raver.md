@@ -1,1 +1,0 @@
-{"tmdb_id": 507337, "title": "Fing's Raver", "original_title": "Fing's Raver", "slug_title": "fing-s-raver", "date": "2001-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6NkP4k2R2G3vJFUFCcSUbyOroGI.jpg", "actors": ["Sam Lee ()"], "comments": [], "recommandations_id": []}

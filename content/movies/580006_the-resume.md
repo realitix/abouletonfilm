@@ -1,1 +1,0 @@
-{"tmdb_id": 580006, "title": "The Resume", "original_title": "The Resume", "slug_title": "the-resume", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b20DMhs7ajaml7TMJkIckYqtjyy.jpg", "actors": ["Jason Margaca (Director)", "Jordan Garry (Writer)"], "comments": [], "recommandations_id": []}

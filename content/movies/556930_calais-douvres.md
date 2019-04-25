@@ -1,1 +1,0 @@
-{"tmdb_id": 556930, "title": "Calais-Douvres", "original_title": "Calais-Douvres", "slug_title": "calais-douvres", "date": "1931-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

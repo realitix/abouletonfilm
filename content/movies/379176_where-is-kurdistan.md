@@ -1,1 +1,0 @@
-{"tmdb_id": 379176, "title": "Where Is Kurdistan?", "original_title": "Where Is Kurdistan?", "slug_title": "where-is-kurdistan", "date": "2016-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tQkQKS6DupKEr1HieODJk4jiKAG.jpg", "actors": [], "comments": [], "recommandations_id": []}

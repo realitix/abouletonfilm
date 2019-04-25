@@ -1,1 +1,0 @@
-{"tmdb_id": 475651, "title": "Wheels of Progress", "original_title": "Wheels of Progress", "slug_title": "wheels-of-progress", "date": "1950-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lSqRJdLZh1Fp0Z5BFFCf15k1lrO.jpg", "actors": [], "comments": [], "recommandations_id": []}

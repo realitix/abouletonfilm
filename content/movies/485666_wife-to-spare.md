@@ -1,1 +1,0 @@
-{"tmdb_id": 485666, "title": "Wife to Spare", "original_title": "Wife to Spare", "slug_title": "wife-to-spare", "date": "1947-11-20", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy Clyde)"], "comments": [], "recommandations_id": []}

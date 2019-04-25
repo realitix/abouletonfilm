@@ -1,1 +1,0 @@
-{"tmdb_id": 461601, "title": "The Last Supper", "original_title": "Posledn\u00e1 ve\u010dera", "slug_title": "the-last-supper", "date": "1968-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kd83vUwULUhv9QCL4wAyLN848Bn.jpg", "actors": [], "comments": [], "recommandations_id": []}

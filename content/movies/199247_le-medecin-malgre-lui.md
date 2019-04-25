@@ -1,1 +1,0 @@
-{"tmdb_id": 199247, "title": "Le m\u00e9decin malgr\u00e9 lui", "original_title": "Toubib el affia", "slug_title": "le-medecin-malgre-lui", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mohamed Al Tabai ()", "Kamal El-Shinnawi ()"], "comments": [], "recommandations_id": []}

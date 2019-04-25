@@ -1,1 +1,0 @@
-{"tmdb_id": 492457, "title": "Our Diary", "original_title": "\uc6b0\ub9ac\ub4e4\uc758 \uc77c\uae30", "slug_title": "our-diary", "date": "2017-06-01", "genre": "Drame / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4vpMgFY8qKDIsMXpfTYbFysxkBo.jpg", "actors": [], "comments": [], "recommandations_id": []}

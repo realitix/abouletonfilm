@@ -1,1 +1,0 @@
-{"tmdb_id": 415808, "title": "The Butterfly Man", "original_title": "The Butterfly Man", "slug_title": "the-butterfly-man", "date": "1920-04-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oUYUfbdxVo21VFCtkPGkaYduRch.jpg", "actors": [], "comments": [], "recommandations_id": []}

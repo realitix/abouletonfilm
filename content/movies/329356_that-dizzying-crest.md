@@ -1,1 +1,0 @@
-{"tmdb_id": 329356, "title": "THAT DIZZYING CREST", "original_title": "THAT DIZZYING CREST", "slug_title": "that-dizzying-crest", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

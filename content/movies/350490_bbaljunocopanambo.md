@@ -1,1 +1,0 @@
-{"tmdb_id": 350490, "title": "\ube68\uc8fc\ub178\ucd08\ud30c\ub0a8\ubcf4", "original_title": "\ube68\uc8fc\ub178\ucd08\ud30c\ub0a8\ubcf4", "slug_title": "bbaljunocopanambo", "date": "1980-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

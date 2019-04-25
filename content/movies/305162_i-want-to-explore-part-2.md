@@ -1,1 +1,0 @@
-{"tmdb_id": 305162, "title": "I want to Explore\" - Part 2", "original_title": "I want to Explore\" - Part 2", "slug_title": "i-want-to-explore-part-2", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

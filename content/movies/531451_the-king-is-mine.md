@@ -1,1 +1,0 @@
-{"tmdb_id": 531451, "title": "The King is Mine", "original_title": "The King is Mine", "slug_title": "the-king-is-mine", "date": "2016-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5hHL6AQXpA3jpzHRA2YiXXxKjPf.jpg", "actors": [], "comments": [], "recommandations_id": []}

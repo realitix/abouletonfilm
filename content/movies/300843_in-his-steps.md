@@ -1,1 +1,0 @@
-{"tmdb_id": 300843, "title": "In His Steps", "original_title": "In His Steps", "slug_title": "in-his-steps", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

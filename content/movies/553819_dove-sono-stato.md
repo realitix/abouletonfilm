@@ -1,1 +1,0 @@
-{"tmdb_id": 553819, "title": "Dove sono stato", "original_title": "Dove sono stato", "slug_title": "dove-sono-stato", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

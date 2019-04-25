@@ -1,1 +1,0 @@
-{"tmdb_id": 81071, "title": "Konchem Touchlo Vunte Cheputanu", "original_title": "Konchem Touchlo Vunte Cheputanu", "slug_title": "konchem-touchlo-vunte-cheputanu", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j7OA6GuhBepCcOhQvmHNHvvYkNx.jpg", "actors": [], "comments": [], "recommandations_id": []}

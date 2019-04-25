@@ -1,1 +1,0 @@
-{"tmdb_id": 214271, "title": "Baseball in the Strand", "original_title": "Baseball in the Strand", "slug_title": "baseball-in-the-strand", "date": "1918-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

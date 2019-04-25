@@ -1,1 +1,0 @@
-{"tmdb_id": 539045, "title": "La rose effeuill\u00e9e", "original_title": "La rose effeuill\u00e9e", "slug_title": "la-rose-effeuillee", "date": "1937-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j9NoPq2E9q8Rf5FgB5nf8kPvbCH.jpg", "actors": [], "comments": [], "recommandations_id": []}

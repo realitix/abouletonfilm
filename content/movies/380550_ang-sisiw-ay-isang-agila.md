@@ -1,1 +1,0 @@
-{"tmdb_id": 380550, "title": "Ang Sisiw ay Isang Agila", "original_title": "Ang Sisiw ay Isang Agila", "slug_title": "ang-sisiw-ay-isang-agila", "date": "1979-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s6Fp16EMQxxeuDQMqOORjPR3ir0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 453778, "title": "Slide for Life, Luna Park", "original_title": "Slide for Life, Luna Park", "slug_title": "slide-for-life-luna-park", "date": "1903-10-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

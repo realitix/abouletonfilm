@@ -1,1 +1,0 @@
-{"tmdb_id": 4378, "title": "Nachruf auf eine Bestie", "original_title": "Nachruf auf eine Bestie", "slug_title": "nachruf-auf-eine-bestie", "date": "1985-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wilfried Rasch (Himself)"], "comments": [], "recommandations_id": []}

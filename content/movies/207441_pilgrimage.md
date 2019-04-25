@@ -1,1 +1,0 @@
-{"tmdb_id": 207441, "title": "Pilgrimage", "original_title": "Pilgrimage", "slug_title": "pilgrimage", "date": "2001-01-01", "genre": "Documentaire", "score": "4.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rtNs6KZLr0EvW07LHn2IYH1cTra.jpg", "actors": [], "comments": [], "recommandations_id": [162451, 117595, 118257, 203663]}

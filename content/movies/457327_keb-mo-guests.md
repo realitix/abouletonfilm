@@ -1,1 +1,0 @@
-{"tmdb_id": 457327, "title": "Keb' Mo' & Guests", "original_title": "Keb' Mo' & Guests", "slug_title": "keb-mo-guests", "date": "2011-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eEBdTVvwY0wJi4PkYhYAlHdi8w0.jpg", "actors": [], "comments": [], "recommandations_id": []}

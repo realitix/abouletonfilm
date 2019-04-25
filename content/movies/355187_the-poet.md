@@ -1,1 +1,0 @@
-{"tmdb_id": 355187, "title": "The Poet", "original_title": "Puisi Tak Terkuburkan", "slug_title": "the-poet", "date": "2000-11-07", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7HXkDH6Y1efW4etA1hEbCDu5fZg.jpg", "actors": ["Ibrahim Kadir (Himself)"], "comments": [], "recommandations_id": []}

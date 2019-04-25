@@ -1,1 +1,0 @@
-{"tmdb_id": 543708, "title": "Back to Berlin", "original_title": "Back to Berlin", "slug_title": "back-to-berlin", "date": "2018-11-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3oHfSaxZDotRqqX0bQHhjprfPzk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 385130, "title": "Very V\u00e9rit\u00e9", "original_title": "Very V\u00e9rit\u00e9", "slug_title": "very-verite", "date": "2014-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zWrJTR1FvuhBf4HOtxgYQex9MOK.jpg", "actors": [], "comments": [], "recommandations_id": []}

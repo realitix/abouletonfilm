@@ -1,1 +1,0 @@
-{"tmdb_id": 516759, "title": "Urotskukidoji: Legend of the Overfiend", "original_title": "Urotskukidoji: Legend of the Overfiend", "slug_title": "urotskukidoji-legend-of-the-overfiend", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

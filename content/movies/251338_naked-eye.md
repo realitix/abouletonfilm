@@ -1,1 +1,0 @@
-{"tmdb_id": 251338, "title": "Naked Eye", "original_title": "Olho Nu", "slug_title": "naked-eye", "date": "2012-09-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3cjkiRzEhja8FGWfWqazEYOukHK.jpg", "actors": ["Ney Matogrosso (Ney Matogrosso)"], "comments": [], "recommandations_id": []}

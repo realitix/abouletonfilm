@@ -1,1 +1,0 @@
-{"tmdb_id": 96446, "title": "Human Behavior", "original_title": "Human Behavior", "slug_title": "human-behavior", "date": "2006-08-15", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stephen Twardokus (Jason Plithman)", "Daniel Kash (Bobby)", "Derek Cole (Steve Rowe)"], "comments": [], "recommandations_id": []}

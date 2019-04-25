@@ -1,1 +1,0 @@
-{"tmdb_id": 533318, "title": "Vernissage", "original_title": "Vernissage", "slug_title": "vernissage", "date": "2004-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

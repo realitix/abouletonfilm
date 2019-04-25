@@ -1,1 +1,0 @@
-{"tmdb_id": 438295, "title": "Geschieden", "original_title": "Geschieden", "slug_title": "geschieden", "date": "1986-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

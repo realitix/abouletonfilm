@@ -1,1 +1,0 @@
-{"tmdb_id": 573545, "title": "GG Allin: All in the Family", "original_title": "GG Allin: All in the Family", "slug_title": "gg-allin-all-in-the-family", "date": "", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["GG Allin ()"], "comments": [], "recommandations_id": []}

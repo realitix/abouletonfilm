@@ -1,1 +1,0 @@
-{"tmdb_id": 419688, "title": "Urlaub von der Stange", "original_title": "Urlaub von der Stange", "slug_title": "urlaub-von-der-stange", "date": "1960-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

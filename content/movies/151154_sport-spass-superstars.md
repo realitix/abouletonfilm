@@ -1,1 +1,0 @@
-{"tmdb_id": 151154, "title": "Sport Spass Superstars", "original_title": "Sport Spass Superstars", "slug_title": "sport-spass-superstars", "date": "2004-11-25", "genre": "", "score": "2.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lHAYdksJdjCqdKH1MLe9YiQJUZm.jpg", "actors": [], "comments": [], "recommandations_id": []}

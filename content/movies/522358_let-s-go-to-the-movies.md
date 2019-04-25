@@ -1,1 +1,0 @@
-{"tmdb_id": 522358, "title": "Let's Go to the Movies", "original_title": "Let's Go to the Movies", "slug_title": "let-s-go-to-the-movies", "date": "1949-05-13", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Warner Anderson (Narrator)"], "comments": [], "recommandations_id": []}

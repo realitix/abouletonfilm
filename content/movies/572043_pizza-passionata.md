@@ -1,1 +1,0 @@
-{"tmdb_id": 572043, "title": "Pizza Passionata", "original_title": "Pizza Passionata", "slug_title": "pizza-passionata", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

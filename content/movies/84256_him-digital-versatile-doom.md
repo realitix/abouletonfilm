@@ -1,1 +1,0 @@
-{"tmdb_id": 84256, "title": "HIM: Digital Versatile Doom", "original_title": "HIM: Digital Versatile Doom", "slug_title": "him-digital-versatile-doom", "date": "2008-04-29", "genre": "Musique", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xpBrqNGPxKuQLOzDlqOkC3L49Hn.jpg", "actors": [], "comments": [], "recommandations_id": []}

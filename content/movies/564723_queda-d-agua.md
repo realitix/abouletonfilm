@@ -1,1 +1,0 @@
-{"tmdb_id": 564723, "title": "Queda D'\u00c1gua", "original_title": "Queda D'\u00c1gua", "slug_title": "queda-d-agua", "date": "2018-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9f9ZdVqtYPd8CYflwoIyxoNWMT9.jpg", "actors": [], "comments": [], "recommandations_id": []}

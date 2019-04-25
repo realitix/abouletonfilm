@@ -1,1 +1,0 @@
-{"tmdb_id": 315543, "title": "A Trip Down Memory Lane", "original_title": "A Trip Down Memory Lane", "slug_title": "a-trip-down-memory-lane", "date": "2014-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joshua Lozano (The Guy)", "Marianne Guillen (Michelle)", "Diego Luevano (Mark)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 65440, "title": "BANANAS IN PYJAMAS - VOL. 3", "original_title": "BANANAS IN PYJAMAS - VOL. 3", "slug_title": "bananas-in-pyjamas-vol-3", "date": "", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dQUCzMaC9QxA8OmfP0D8QVw6QDu.jpg", "actors": [], "comments": [], "recommandations_id": []}

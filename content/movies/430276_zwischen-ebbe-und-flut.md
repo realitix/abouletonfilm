@@ -1,1 +1,0 @@
-{"tmdb_id": 430276, "title": "Zwischen Ebbe und Flut", "original_title": "Zwischen Ebbe und Flut", "slug_title": "zwischen-ebbe-und-flut", "date": "1950-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["G\u00fcnter Pfitzmann (Narrator)", "Eva Probst (Narrator)"], "comments": [], "recommandations_id": []}

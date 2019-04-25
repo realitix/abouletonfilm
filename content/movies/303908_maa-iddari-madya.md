@@ -1,1 +1,0 @@
-{"tmdb_id": 303908, "title": "Maa Iddari Madya", "original_title": "Maa Iddari Madya", "slug_title": "maa-iddari-madya", "date": "2006-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 318589, "title": "The Solitary Conquerors", "original_title": "Les conqu\u00e9rants solitaires", "slug_title": "the-solitary-conquerors", "date": "1952-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mLyJnsShVV2UlkMGOYOPyXBEDFl.jpg", "actors": [], "comments": [], "recommandations_id": []}

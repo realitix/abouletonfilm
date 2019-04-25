@@ -1,1 +1,0 @@
-{"tmdb_id": 265721, "title": "Gothic Industrial Madness", "original_title": "Gothic Industrial Madness", "slug_title": "gothic-industrial-madness", "date": "2000-06-13", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/14AqRNwKZvN5qyR2WsWL7AP79X0.jpg", "actors": [], "comments": [], "recommandations_id": []}

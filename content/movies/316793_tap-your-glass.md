@@ -1,1 +1,0 @@
-{"tmdb_id": 316793, "title": "Tap Your Glass", "original_title": "Tap Your Glass", "slug_title": "tap-your-glass", "date": "2014-08-04", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rYxCvVxvPk9DfE3jihdxSZ5Vdwq.jpg", "actors": ["Jonna Lee (iamamiwhoami)"], "comments": [], "recommandations_id": []}

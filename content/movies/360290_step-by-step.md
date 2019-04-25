@@ -1,1 +1,0 @@
-{"tmdb_id": 360290, "title": "Step by Step", "original_title": "Khutwa Khutwa", "slug_title": "step-by-step", "date": "1978-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8SKrZqKB4koyCqUJzRPkL3VTkbm.jpg", "actors": [], "comments": [], "recommandations_id": []}

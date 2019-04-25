@@ -1,1 +1,0 @@
-{"tmdb_id": 430192, "title": "Le porte regali. Saggio sull'icona. Sokurov Promenade", "original_title": "Le porte regali. Saggio sull'icona. Sokurov Promenade", "slug_title": "le-porte-regali-saggio-sull-icona-sokurov-promenade", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 458607, "title": "The Brick House", "original_title": "The Brick House", "slug_title": "the-brick-house", "date": "2016-02-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sapa (Himself)", "Hija Saleh (Himself)"], "comments": [], "recommandations_id": []}

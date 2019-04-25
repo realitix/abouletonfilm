@@ -1,1 +1,0 @@
-{"tmdb_id": 374622, "title": "Cuba, as Time Goes By", "original_title": "Cuba, as Time Goes By", "slug_title": "cuba-as-time-goes-by", "date": "2008-10-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

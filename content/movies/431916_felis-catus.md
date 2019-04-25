@@ -1,1 +1,0 @@
-{"tmdb_id": 431916, "title": "Felis Catus", "original_title": "Felis Catus", "slug_title": "felis-catus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

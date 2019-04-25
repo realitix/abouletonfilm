@@ -1,1 +1,0 @@
-{"tmdb_id": 253317, "title": "The 78 Project Movie", "original_title": "The 78 Project Movie", "slug_title": "the-78-project-movie", "date": "2014-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/raIV3wteMpfxYLxQm31dD9h0wq9.jpg", "actors": [], "comments": [], "recommandations_id": []}

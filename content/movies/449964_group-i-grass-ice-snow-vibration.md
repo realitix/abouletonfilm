@@ -1,1 +1,0 @@
-{"tmdb_id": 449964, "title": "Group I: Grass/Ice/Snow/Vibration", "original_title": "Group I: Grass/Ice/Snow/Vibration", "slug_title": "group-i-grass-ice-snow-vibration", "date": "1969-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

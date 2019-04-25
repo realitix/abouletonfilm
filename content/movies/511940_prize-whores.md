@@ -1,1 +1,0 @@
-{"tmdb_id": 511940, "title": "Prize Whores", "original_title": "Prize Whores", "slug_title": "prize-whores", "date": "2002-03-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

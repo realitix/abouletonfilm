@@ -1,1 +1,0 @@
-{"tmdb_id": 70181, "title": "Film Fun", "original_title": "Film Fun", "slug_title": "film-fun", "date": "1955-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

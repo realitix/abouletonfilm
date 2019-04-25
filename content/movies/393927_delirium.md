@@ -1,1 +1,0 @@
-{"tmdb_id": 393927, "title": "Delirium", "original_title": "Delirium", "slug_title": "delirium", "date": "2005-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mike Burnnell (Sheriff Speakman)"], "comments": [], "recommandations_id": []}

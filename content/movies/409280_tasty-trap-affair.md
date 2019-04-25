@@ -1,1 +1,0 @@
-{"tmdb_id": 409280, "title": "Tasty Trap - Affair", "original_title": "Tasty Trap - Affair", "slug_title": "tasty-trap-affair", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tOg6270Jfo4zZcMS5AxWwVZZ0db.jpg", "actors": [], "comments": [], "recommandations_id": []}

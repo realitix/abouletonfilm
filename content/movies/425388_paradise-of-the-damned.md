@@ -1,1 +1,0 @@
-{"tmdb_id": 425388, "title": "Paradise of the Damned", "original_title": "Paradise of the Damned", "slug_title": "paradise-of-the-damned", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pdxFCNZH9Exwc1k90LfzfoN9lsR.jpg", "actors": [], "comments": [], "recommandations_id": []}

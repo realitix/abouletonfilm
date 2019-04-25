@@ -1,1 +1,0 @@
-{"tmdb_id": 263415, "title": "Aquele Cara", "original_title": "Aquele Cara", "slug_title": "aquele-cara", "date": "2006-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

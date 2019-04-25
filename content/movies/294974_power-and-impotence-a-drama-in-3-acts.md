@@ -1,1 +1,0 @@
-{"tmdb_id": 294974, "title": "Power and Impotence, a drama in 3 acts", "original_title": "Poder e impotencia, una tragedia en 3 actos", "slug_title": "power-and-impotence-a-drama-in-3-acts", "date": "2014-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

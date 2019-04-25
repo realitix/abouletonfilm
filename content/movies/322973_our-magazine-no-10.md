@@ -1,1 +1,0 @@
-{"tmdb_id": 322973, "title": "Our Magazine No. 10", "original_title": "Our Magazine No. 10", "slug_title": "our-magazine-no-10", "date": "1954-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

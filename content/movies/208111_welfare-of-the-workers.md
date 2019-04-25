@@ -1,1 +1,0 @@
-{"tmdb_id": 208111, "title": "Welfare of the Workers", "original_title": "Welfare of the Workers", "slug_title": "welfare-of-the-workers", "date": "1940-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

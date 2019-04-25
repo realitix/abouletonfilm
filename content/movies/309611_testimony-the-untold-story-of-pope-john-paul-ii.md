@@ -1,1 +1,0 @@
-{"tmdb_id": 309611, "title": "Testimony: The Untold Story of Pope John Paul II", "original_title": "Testimony: The Untold Story of Pope John Paul II", "slug_title": "testimony-the-untold-story-of-pope-john-paul-ii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

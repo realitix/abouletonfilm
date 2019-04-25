@@ -1,1 +1,0 @@
-{"tmdb_id": 536271, "title": "Dangerous Females", "original_title": "Dangerous Females", "slug_title": "dangerous-females", "date": "1929-11-16", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marie Dressler (Sarah Bascom)"], "comments": [], "recommandations_id": []}

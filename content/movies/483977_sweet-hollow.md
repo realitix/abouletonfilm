@@ -1,1 +1,0 @@
-{"tmdb_id": 483977, "title": "Sweet Hollow", "original_title": "Sweet Hollow", "slug_title": "sweet-hollow", "date": "2017-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uDLM33jP0zoWAUpU2IjAbDvV12J.jpg", "actors": [], "comments": [], "recommandations_id": []}

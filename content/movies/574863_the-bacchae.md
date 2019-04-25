@@ -1,1 +1,0 @@
-{"tmdb_id": 574863, "title": "The Bacchae", "original_title": "The Bacchae", "slug_title": "the-bacchae", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stratos Tzortzoglou ()", "Hristos Sougaris ()", "Ioanna Pagiataki ()", "Costas Sadas ()", "Vassilis Vassiliakis ()"], "comments": [], "recommandations_id": []}

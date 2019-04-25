@@ -1,1 +1,0 @@
-{"tmdb_id": 503001, "title": "House Mother", "original_title": "House Mother", "slug_title": "house-mother", "date": "2016-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Qi2Fei5u0V2b9i1WkIYBQ7nNuF.jpg", "actors": [], "comments": [], "recommandations_id": []}

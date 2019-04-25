@@ -1,1 +1,0 @@
-{"tmdb_id": 453925, "title": "Evoluon", "original_title": "Evoluon", "slug_title": "evoluon", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9h4I3H3wggX7jowOmA1hSOHGwxk.jpg", "actors": [], "comments": [], "recommandations_id": []}

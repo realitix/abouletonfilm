@@ -1,1 +1,0 @@
-{"tmdb_id": 233450, "title": "White Mischief", "original_title": "White Mischief", "slug_title": "white-mischief", "date": "2003-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

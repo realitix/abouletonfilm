@@ -1,1 +1,0 @@
-{"tmdb_id": 293178, "title": "Del Shores: My Sordid Life", "original_title": "Del Shores: My Sordid Life", "slug_title": "del-shores-my-sordid-life", "date": "2011-04-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7OwJSkdKCgTeyEgmg6aymK3SREZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

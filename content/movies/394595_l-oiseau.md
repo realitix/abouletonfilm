@@ -1,1 +1,0 @@
-{"tmdb_id": 394595, "title": "L'oiseau", "original_title": "L'oiseau", "slug_title": "l-oiseau", "date": "1977-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1fd0OSlhx65QdkZG4yydsq4kzDv.jpg", "actors": [], "comments": [], "recommandations_id": []}

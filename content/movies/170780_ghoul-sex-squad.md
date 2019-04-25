@@ -1,1 +1,0 @@
-{"tmdb_id": 170780, "title": "Ghoul Sex Squad", "original_title": "Gan shi yan tan", "slug_title": "ghoul-sex-squad", "date": "1991-06-05", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chiao-Niang Chin ()", "Niao-Wang Lan ()", "Mei-Chiao Lin ()"], "comments": [], "recommandations_id": []}

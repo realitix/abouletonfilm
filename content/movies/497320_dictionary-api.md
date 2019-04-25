@@ -1,1 +1,0 @@
-{"tmdb_id": 497320, "title": "Dictionary api", "original_title": "Dictionary api", "slug_title": "dictionary-api", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

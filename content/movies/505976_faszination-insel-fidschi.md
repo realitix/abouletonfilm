@@ -1,1 +1,0 @@
-{"tmdb_id": 505976, "title": "Faszination Insel - Fidschi", "original_title": "Faszination Insel - Fidschi", "slug_title": "faszination-insel-fidschi", "date": "2014-04-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gp7PBhiv6Y4pwTqnqe3AgXb5GYT.jpg", "actors": [], "comments": [], "recommandations_id": []}

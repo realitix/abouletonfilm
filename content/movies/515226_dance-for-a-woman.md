@@ -1,1 +1,0 @@
-{"tmdb_id": 515226, "title": "Dance for a Woman", "original_title": "Tanz f\u00fcr eine Frau", "slug_title": "dance-for-a-woman", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ulrike Rosenbach (Herself)"], "comments": [], "recommandations_id": []}

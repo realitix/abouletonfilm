@@ -1,1 +1,0 @@
-{"tmdb_id": 310060, "title": "Pizzetti and Raimondi: Murder in the Cathedral", "original_title": "Pizzetti and Raimondi: Murder in the Cathedral", "slug_title": "pizzetti-and-raimondi-murder-in-the-cathedral", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

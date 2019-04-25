@@ -1,1 +1,0 @@
-{"tmdb_id": 584729, "title": "Charles Barkley - Sir Charles", "original_title": "Charles Barkley - Sir Charles", "slug_title": "charles-barkley-sir-charles", "date": "1994-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/freAcUB7XbcGCl011qSp4trXvLx.jpg", "actors": [], "comments": [], "recommandations_id": []}

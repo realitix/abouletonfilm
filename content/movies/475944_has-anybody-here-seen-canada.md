@@ -1,1 +1,0 @@
-{"tmdb_id": 475944, "title": "Has Anybody Here Seen Canada?", "original_title": "Has Anybody Here Seen Canada?", "slug_title": "has-anybody-here-seen-canada", "date": "1979-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Kane (Narrator (voice))"], "comments": [], "recommandations_id": []}

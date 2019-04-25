@@ -1,1 +1,0 @@
-{"tmdb_id": 376539, "title": "Version", "original_title": "Verzi\u00f3", "slug_title": "version", "date": "1979-01-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/28hgkifId6m3Yno2Svb71ijxphI.jpg", "actors": [], "comments": [], "recommandations_id": []}

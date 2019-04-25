@@ -1,1 +1,0 @@
-{"tmdb_id": 401373, "title": "Noe som skjedde p\u00e5 veien", "original_title": "Noe som skjedde p\u00e5 veien", "slug_title": "noe-som-skjedde-pa-veien", "date": "2015-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/68CPbHwPNzwKqF0RZNZoIS4Q7hg.jpg", "actors": [], "comments": [], "recommandations_id": []}

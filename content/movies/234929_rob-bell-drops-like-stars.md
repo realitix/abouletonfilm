@@ -1,1 +1,0 @@
-{"tmdb_id": 234929, "title": "Rob Bell - Drops Like Stars", "original_title": "Rob Bell - Drops Like Stars", "slug_title": "rob-bell-drops-like-stars", "date": "2010-11-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rob Bell ()"], "comments": [], "recommandations_id": []}

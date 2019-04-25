@@ -1,1 +1,0 @@
-{"tmdb_id": 341549, "title": "Paris Secret", "original_title": "Paris Secret", "slug_title": "paris-secret", "date": "1965-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cEFG3BRrYAjPnz9AqiKFlBD5JEv.jpg", "actors": [], "comments": [], "recommandations_id": []}

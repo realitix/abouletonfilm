@@ -1,1 +1,0 @@
-{"tmdb_id": 330546, "title": "Color of my Wings", "original_title": "El color de mis alas", "slug_title": "color-of-my-wings", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

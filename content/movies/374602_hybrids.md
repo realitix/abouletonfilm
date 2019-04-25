@@ -1,1 +1,0 @@
-{"tmdb_id": 374602, "title": "Hybrids", "original_title": "Hybrids", "slug_title": "hybrids", "date": "2013-06-07", "genre": "Science-Fiction", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p9TrNU1RVwkc2ZbO6JvfjZtqp6S.jpg", "actors": [], "comments": [], "recommandations_id": []}

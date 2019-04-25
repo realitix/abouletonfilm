@@ -1,1 +1,1 @@
-{"tmdb_id": 578278, "title": "Homeboys", "original_title": "Homeboys", "slug_title": "homeboys", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 578278, "title": "Homeboys", "original_title": "Homeboys", "slug_title": "homeboys", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "AIP Studios Release.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

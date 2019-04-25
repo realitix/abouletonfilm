@@ -1,1 +1,0 @@
-{"tmdb_id": 422752, "title": "El Otro Round", "original_title": "El Otro Round", "slug_title": "el-otro-round", "date": "1984-04-08", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

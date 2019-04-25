@@ -1,1 +1,0 @@
-{"tmdb_id": 289189, "title": "Dwarves Kingdom", "original_title": "Dwarves Kingdom", "slug_title": "dwarves-kingdom", "date": "2015-04-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iCc9pDVupXMb7A7AnBgdCLZFNEj.jpg", "actors": [], "comments": [], "recommandations_id": []}

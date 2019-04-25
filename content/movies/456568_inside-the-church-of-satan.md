@@ -1,1 +1,0 @@
-{"tmdb_id": 456568, "title": "Inside The Church Of Satan", "original_title": "Inside The Church Of Satan", "slug_title": "inside-the-church-of-satan", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gXCEdjLMjQJqn42q8EQnHBit6Gc.jpg", "actors": [], "comments": [], "recommandations_id": []}

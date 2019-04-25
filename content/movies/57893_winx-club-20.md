@@ -1,1 +1,0 @@
-{"tmdb_id": 57893, "title": "Winx Club 20", "original_title": "Winx Club 20", "slug_title": "winx-club-20", "date": "2010-03-03", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qZxctfnAziD9lvOp4jrAyDb7N7t.jpg", "actors": [], "comments": [], "recommandations_id": []}

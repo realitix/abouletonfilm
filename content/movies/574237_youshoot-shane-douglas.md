@@ -1,1 +1,0 @@
-{"tmdb_id": 574237, "title": "YouShoot: Shane Douglas", "original_title": "YouShoot: Shane Douglas", "slug_title": "youshoot-shane-douglas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Troy Martin (Himself)"], "comments": [], "recommandations_id": []}

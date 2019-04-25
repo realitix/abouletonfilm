@@ -1,1 +1,0 @@
-{"tmdb_id": 541551, "title": "Hospital Obrero", "original_title": "Hospital Obrero", "slug_title": "hospital-obrero", "date": "2009-07-02", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ke7LvQv2ezdnTTJgy2I3I0CkGWS.jpg", "actors": [], "comments": [], "recommandations_id": []}

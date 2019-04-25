@@ -1,1 +1,0 @@
-{"tmdb_id": 84438, "title": "Korn: Woodstock 99", "original_title": "Korn: Woodstock 99", "slug_title": "korn-woodstock-99", "date": "1999-10-19", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ioFoZVtwFqiXyEkca57bRgH0hp0.jpg", "actors": [], "comments": [], "recommandations_id": []}

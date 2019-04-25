@@ -1,1 +1,0 @@
-{"tmdb_id": 277238, "title": "Full Moon Fables", "original_title": "Full Moon Fables", "slug_title": "full-moon-fables", "date": "2004-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

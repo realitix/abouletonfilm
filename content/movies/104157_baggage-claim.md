@@ -1,1 +1,0 @@
-{"tmdb_id": 104157, "title": "Baggage Claim", "original_title": "Equipajes", "slug_title": "baggage-claim", "date": "2006-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c3tjJx0QU0uCzGCax1gHkHzecLI.jpg", "actors": ["Natalia Mateo (B\u00e1rbara)", "Xisco Segura (Leo)"], "comments": [], "recommandations_id": []}

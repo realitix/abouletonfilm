@@ -1,1 +1,0 @@
-{"tmdb_id": 420066, "title": "\u00c1KOS - VELETEK VAGYUNK", "original_title": "\u00c1KOS - VELETEK VAGYUNK", "slug_title": "akos-veletek-vagyunk", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jqpd7v9ZXrcyk9L7cHXe5HrzIpu.jpg", "actors": [], "comments": [], "recommandations_id": []}

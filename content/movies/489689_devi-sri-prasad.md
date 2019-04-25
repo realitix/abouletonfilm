@@ -1,1 +1,0 @@
-{"tmdb_id": 489689, "title": "Devi Sri Prasad", "original_title": "Devi Sri Prasad", "slug_title": "devi-sri-prasad", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

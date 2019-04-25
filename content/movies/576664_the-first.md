@@ -1,1 +1,0 @@
-{"tmdb_id": 576664, "title": "The First", "original_title": "The First", "slug_title": "the-first", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alex McDonald ()", "Daniel Rugama ()"], "comments": [], "recommandations_id": []}

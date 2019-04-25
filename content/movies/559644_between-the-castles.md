@@ -1,1 +1,0 @@
-{"tmdb_id": 559644, "title": "Between the castles", "original_title": "\u0628\u064a\u0646 \u0627\u0644\u0642\u0635\u0631\u064a\u0646", "slug_title": "between-the-castles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yehia Chahine ()"], "comments": [], "recommandations_id": []}

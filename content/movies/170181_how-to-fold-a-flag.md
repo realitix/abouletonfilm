@@ -1,1 +1,0 @@
-{"tmdb_id": 170181, "title": "How to Fold a Flag", "original_title": "How to Fold a Flag", "slug_title": "how-to-fold-a-flag", "date": "2009-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w9H88cHgpUnfuKtV5SxORrCffXO.jpg", "actors": [], "comments": [], "recommandations_id": []}

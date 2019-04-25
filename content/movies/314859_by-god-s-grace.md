@@ -1,1 +1,0 @@
-{"tmdb_id": 314859, "title": "By God's Grace", "original_title": "By God's Grace", "slug_title": "by-god-s-grace", "date": "2014-11-02", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t12SOcLTfjn7Te2IqoZwhmRFWLr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 451685, "title": "Rich Man, Poor Woman in New York", "original_title": "Rich Man, Poor Woman in New York", "slug_title": "rich-man-poor-woman-in-new-york", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vJKTrPDvg9XwSOUxj2JvVXUg6gM.jpg", "actors": [], "comments": [], "recommandations_id": []}

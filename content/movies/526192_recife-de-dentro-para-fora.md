@@ -1,1 +1,0 @@
-{"tmdb_id": 526192, "title": "Recife de Dentro Para Fora", "original_title": "Recife de Dentro Para Fora", "slug_title": "recife-de-dentro-para-fora", "date": "1997-03-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1xiEsfupErYg6gINSFQD9bfaVfV.jpg", "actors": [], "comments": [], "recommandations_id": []}

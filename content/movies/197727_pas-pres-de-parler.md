@@ -1,1 +1,0 @@
-{"tmdb_id": 197727, "title": "Pas pr\u00e8s de parler !", "original_title": "Little Go Beep", "slug_title": "pas-pres-de-parler", "date": "2000-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/re98QIS63MnvJ6eca99hfMshg99.jpg", "actors": ["Stan Freberg (Cage E. Coyote)"], "comments": [], "recommandations_id": []}

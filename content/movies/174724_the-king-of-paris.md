@@ -1,1 +1,0 @@
-{"tmdb_id": 174724, "title": "The King of Paris", "original_title": "Korol Parizha", "slug_title": "the-king-of-paris", "date": "1917-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xF1e8PrhSEK9dZoWlGW0uoWu2kK.jpg", "actors": [], "comments": [], "recommandations_id": []}

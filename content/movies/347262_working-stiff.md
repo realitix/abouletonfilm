@@ -1,1 +1,0 @@
-{"tmdb_id": 347262, "title": "Working Stiff", "original_title": "Working Stiff", "slug_title": "working-stiff", "date": "2002-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

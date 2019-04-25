@@ -1,1 +1,0 @@
-{"tmdb_id": 388252, "title": "How Was Your Day?", "original_title": "How Was Your Day?", "slug_title": "how-was-your-day", "date": "2016-03-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rJ8zBw3FU4XfsmDlIqBrblDsPwY.jpg", "actors": ["Eileen Walsh ()", "Sean Duggan ()"], "comments": [], "recommandations_id": []}

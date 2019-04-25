@@ -1,1 +1,0 @@
-{"tmdb_id": 308584, "title": "Beyond Elvis' Memphis", "original_title": "Beyond Elvis' Memphis", "slug_title": "beyond-elvis-memphis", "date": "2008-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uDkCGUeZFtvLv4nA9XD9B6MImxv.jpg", "actors": [], "comments": [], "recommandations_id": []}

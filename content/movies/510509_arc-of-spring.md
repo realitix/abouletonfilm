@@ -1,1 +1,0 @@
-{"tmdb_id": 510509, "title": "Arc of Spring", "original_title": "Arc of Spring", "slug_title": "arc-of-spring", "date": "2015-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/szO5DK2BoBemIOolqveFBditVLl.jpg", "actors": [], "comments": [], "recommandations_id": []}

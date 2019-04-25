@@ -1,1 +1,0 @@
-{"tmdb_id": 139280, "title": "The Artist's Dream", "original_title": "The Artist's Dream", "slug_title": "the-artist-s-dream", "date": "1913-06-12", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 232119, "title": "Herding Horses Across a River", "original_title": "Herding Horses Across a River", "slug_title": "herding-horses-across-a-river", "date": "1904-11-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

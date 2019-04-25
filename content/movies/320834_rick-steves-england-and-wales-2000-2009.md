@@ -1,1 +1,0 @@
-{"tmdb_id": 320834, "title": "Rick Steves: England and Wales 2000-2009", "original_title": "Rick Steves: England and Wales 2000-2009", "slug_title": "rick-steves-england-and-wales-2000-2009", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

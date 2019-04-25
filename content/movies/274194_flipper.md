@@ -1,1 +1,0 @@
-{"tmdb_id": 274194, "title": "Flipper", "original_title": "Flipper", "slug_title": "flipper", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

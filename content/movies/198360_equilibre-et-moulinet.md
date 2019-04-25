@@ -1,1 +1,0 @@
-{"tmdb_id": 198360, "title": "\u00c9quilibre et moulinet", "original_title": "\u00c9quilibre et moulinet", "slug_title": "equilibre-et-moulinet", "date": "1899-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/RhiZC5LzXYZygZibUTDlskqIzE.jpg", "actors": [], "comments": [], "recommandations_id": []}

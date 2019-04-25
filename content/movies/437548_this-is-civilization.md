@@ -1,1 +1,0 @@
-{"tmdb_id": 437548, "title": "This Is Civilization", "original_title": "This Is Civilization", "slug_title": "this-is-civilization", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

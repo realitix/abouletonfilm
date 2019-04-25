@@ -1,1 +1,0 @@
-{"tmdb_id": 63478, "title": "Slimed", "original_title": "Slimed", "slug_title": "slimed", "date": "2010-01-01", "genre": "Action / Aventure", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jondRh0pQQwbvvlAE74Ml5zRlPI.jpg", "actors": [], "comments": [], "recommandations_id": []}

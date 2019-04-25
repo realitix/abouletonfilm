@@ -1,1 +1,0 @@
-{"tmdb_id": 190278, "title": "Everything Turns, Everything Revolves", "original_title": "Alles dreht sich, alles bewegt sich", "slug_title": "everything-turns-everything-revolves", "date": "1929-07-25", "genre": "", "score": "5.9/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [98498, 117588, 184882, 189651]}

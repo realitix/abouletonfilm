@@ -1,1 +1,0 @@
-{"tmdb_id": 36717, "title": "The Male Intellect", "original_title": "Hur t\u00e4nker hon?", "slug_title": "the-male-intellect", "date": "2007-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/85e5VB4f5KP4rkzXCq9tpe3088A.jpg", "actors": ["Johan Rheborg ()"], "comments": [], "recommandations_id": []}

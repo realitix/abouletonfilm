@@ -1,1 +1,0 @@
-{"tmdb_id": 537478, "title": "Desert Witch", "original_title": "Desert Witch", "slug_title": "desert-witch", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

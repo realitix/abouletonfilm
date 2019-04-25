@@ -1,1 +1,0 @@
-{"tmdb_id": 574612, "title": "Souvenir-Souvenir", "original_title": "Souvenir-Souvenir", "slug_title": "souvenir-souvenir", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un film de Jakobois", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 194939, "title": "Swing State", "original_title": "Swing State", "slug_title": "swing-state", "date": "2008-01-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

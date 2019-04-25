@@ -1,1 +1,0 @@
-{"tmdb_id": 443317, "title": "Sea Scouts", "original_title": "Sea Scouts", "slug_title": "sea-scouts", "date": "1941-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["E.V.H. Emmett (Narrator (voice))"], "comments": [], "recommandations_id": []}

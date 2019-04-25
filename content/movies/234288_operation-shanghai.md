@@ -1,1 +1,0 @@
-{"tmdb_id": 234288, "title": "Operation Shanghai", "original_title": "Operation Shanghai", "slug_title": "operation-shanghai", "date": "1966-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q1NhlzaDDPCXcSzzhHP9svpPS4x.jpg", "actors": [], "comments": [], "recommandations_id": []}

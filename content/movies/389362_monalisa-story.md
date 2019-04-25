@@ -1,1 +1,0 @@
-{"tmdb_id": 389362, "title": "MonaLisa Story", "original_title": "MonaLisa Story", "slug_title": "monalisa-story", "date": "2016-03-25", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u3nxU6rt6z0782G17rMToMIoVTG.jpg", "actors": [], "comments": [], "recommandations_id": []}

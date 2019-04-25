@@ -1,1 +1,0 @@
-{"tmdb_id": 564358, "title": "Bonaparte et la r\u00e9volution", "original_title": "Bonaparte et la r\u00e9volution", "slug_title": "bonaparte-et-la-revolution", "date": "1972-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u9pBANam9UtBl1e3gwJvb0s96zg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 311366, "title": "Chet Atkins: Rare Performances 1976-1995", "original_title": "Chet Atkins: Rare Performances 1976-1995", "slug_title": "chet-atkins-rare-performances-1976-1995", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

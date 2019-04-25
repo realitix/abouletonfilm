@@ -1,1 +1,0 @@
-{"tmdb_id": 390310, "title": "Burning Car", "original_title": "Burning Car", "slug_title": "burning-car", "date": "2008-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

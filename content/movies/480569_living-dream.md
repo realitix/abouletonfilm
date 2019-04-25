@@ -1,1 +1,0 @@
-{"tmdb_id": 480569, "title": "Living Dream", "original_title": "\u7275\u725b\u82b1", "slug_title": "living-dream", "date": "1996-11-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2RRzGk69p93mVQRbMisM6nmk55k.jpg", "actors": ["Zhang Mengxi ()", "Rong Chang ()"], "comments": [], "recommandations_id": []}

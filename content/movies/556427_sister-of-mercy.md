@@ -1,1 +1,0 @@
-{"tmdb_id": 556427, "title": "Sister of Mercy", "original_title": "La petite soeur des pauvres", "slug_title": "sister-of-mercy", "date": "1929-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

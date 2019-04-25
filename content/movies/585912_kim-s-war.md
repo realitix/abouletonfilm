@@ -1,1 +1,0 @@
-{"tmdb_id": 585912, "title": "Kim's War", "original_title": "\uae40\uc758 \uc804\uc7c1", "slug_title": "kim-s-war", "date": "1992-02-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yu In-chon ()", "Lee Hye-sook ()", "Kim Bok-hee ()", "Kim Heng-il ()", "Shin Woo-chul ()"], "comments": [], "recommandations_id": []}

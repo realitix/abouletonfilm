@@ -1,1 +1,0 @@
-{"tmdb_id": 288456, "title": "Verde Salvaje", "original_title": "Verde Salvaje", "slug_title": "verde-salvaje", "date": "2014-07-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vtvMqzP5cWbUQs3hk9gjAGR0drH.jpg", "actors": [], "comments": [], "recommandations_id": []}

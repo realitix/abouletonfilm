@@ -1,1 +1,0 @@
-{"tmdb_id": 371502, "title": "100 Porsches and Me", "original_title": "100 Porsches and Me", "slug_title": "100-porsches-and-me", "date": "2007-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

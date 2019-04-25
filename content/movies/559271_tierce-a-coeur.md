@@ -1,1 +1,0 @@
-{"tmdb_id": 559271, "title": "Tierce \u00e0 coeur", "original_title": "Tierce \u00e0 coeur", "slug_title": "tierce-a-coeur", "date": "1947-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ngbm0NfZiPOAKoNoYENbIlKhiYC.jpg", "actors": [], "comments": [], "recommandations_id": []}

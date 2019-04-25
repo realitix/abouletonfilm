@@ -1,1 +1,0 @@
-{"tmdb_id": 383417, "title": "Brandmand Sam Bjergets Konge", "original_title": "Brandmand Sam Bjergets Konge", "slug_title": "brandmand-sam-bjergets-konge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8vAuT0ROiGS4rkGuqu5q9cHYXN4.jpg", "actors": [], "comments": [], "recommandations_id": []}

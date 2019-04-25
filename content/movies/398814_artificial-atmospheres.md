@@ -1,1 +1,0 @@
-{"tmdb_id": 398814, "title": "Artificial Atmospheres", "original_title": "Artificial Atmospheres", "slug_title": "artificial-atmospheres", "date": "2016-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yLo8invS4LdU1lEqvD9CciiFD4I.jpg", "actors": [], "comments": [], "recommandations_id": []}

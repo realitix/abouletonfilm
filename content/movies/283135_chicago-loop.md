@@ -1,1 +1,0 @@
-{"tmdb_id": 283135, "title": "Chicago Loop", "original_title": "Chicago Loop", "slug_title": "chicago-loop", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

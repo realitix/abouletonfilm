@@ -1,1 +1,0 @@
-{"tmdb_id": 206272, "title": "The Women and the Passenger", "original_title": "Las mujeres del pasajero", "slug_title": "the-women-and-the-passenger", "date": "2013-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lSsIXGM1cz5SyTIB9DxON3WkARH.jpg", "actors": [], "comments": [], "recommandations_id": []}

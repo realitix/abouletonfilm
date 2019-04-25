@@ -1,1 +1,0 @@
-{"tmdb_id": 173446, "title": "1996 World Series", "original_title": "1996 World Series", "slug_title": "1996-world-series", "date": "1996-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h1l2gtuIXZNZUIl63jMWzON4c5l.jpg", "actors": [], "comments": [], "recommandations_id": []}

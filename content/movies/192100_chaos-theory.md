@@ -1,1 +1,0 @@
-{"tmdb_id": 192100, "title": "Chaos Theory", "original_title": "Chaos Theory", "slug_title": "chaos-theory", "date": "2007-06-29", "genre": "Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xsQh4gkStjENPbRpQ2zqyH0RcFu.jpg", "actors": ["Michael Gentile (Emmanuele)"], "comments": [], "recommandations_id": []}

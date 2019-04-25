@@ -1,1 +1,0 @@
-{"tmdb_id": 473445, "title": "The Day I Died", "original_title": "The Day I Died", "slug_title": "the-day-i-died", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8yAkPvOjZp4pmRmNlnFbxvgLVvw.jpg", "actors": [], "comments": [], "recommandations_id": []}

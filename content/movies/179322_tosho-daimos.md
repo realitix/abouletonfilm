@@ -1,1 +1,0 @@
-{"tmdb_id": 179322, "title": "Tosho Daimos", "original_title": "Tosho Daimos", "slug_title": "tosho-daimos", "date": "1982-06-30", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dEdPnszMN5d5Rqn5blzNOoMbwys.jpg", "actors": [], "comments": [], "recommandations_id": []}

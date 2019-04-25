@@ -1,1 +1,0 @@
-{"tmdb_id": 455027, "title": "Dance of Outlaws", "original_title": "Dance of Outlaws", "slug_title": "dance-of-outlaws", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yElRJfyCHbXGGIVCIgbHJ4gF6PH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 592131, "title": "Pirate Boys", "original_title": "Pirate Boys", "slug_title": "pirate-boys", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

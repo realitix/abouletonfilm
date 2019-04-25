@@ -1,1 +1,0 @@
-{"tmdb_id": 274810, "title": "The Broken Altar", "original_title": "The Broken Altar", "slug_title": "the-broken-altar", "date": "2013-03-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e5k9ALLQkBwtf8Jkbs2x5FkkvZA.jpg", "actors": [], "comments": [], "recommandations_id": []}

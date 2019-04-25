@@ -1,1 +1,0 @@
-{"tmdb_id": 376773, "title": "George Strait: Live!", "original_title": "George Strait: Live!", "slug_title": "george-strait-live", "date": "2010-06-21", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k5OO5VYHAlO8KqZoGYRxbblXfyG.jpg", "actors": ["George Strait (Himself)"], "comments": [], "recommandations_id": []}

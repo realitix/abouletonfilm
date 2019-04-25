@@ -1,1 +1,0 @@
-{"tmdb_id": 203839, "title": "Mythic Journeys", "original_title": "Mythic Journeys", "slug_title": "mythic-journeys", "date": "2009-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qtuc02EtPpQxU5P2tBwBSWOaChp.jpg", "actors": [], "comments": [], "recommandations_id": []}

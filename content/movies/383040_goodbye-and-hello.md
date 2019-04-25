@@ -1,1 +1,0 @@
-{"tmdb_id": 383040, "title": "Goodbye and Hello", "original_title": "Goodbye And Hello", "slug_title": "goodbye-and-hello", "date": "2015-12-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gyMeocqTUSx8Vf4TEEf9W3xF6pa.jpg", "actors": [], "comments": [], "recommandations_id": []}

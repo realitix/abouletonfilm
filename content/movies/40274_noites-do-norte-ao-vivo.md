@@ -1,1 +1,0 @@
-{"tmdb_id": 40274, "title": "Noites do Norte Ao Vivo", "original_title": "Noites do Norte Ao Vivo", "slug_title": "noites-do-norte-ao-vivo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mqyf1o2OcjzBUw1KrMOXXNBa9FI.jpg", "actors": [], "comments": [], "recommandations_id": []}

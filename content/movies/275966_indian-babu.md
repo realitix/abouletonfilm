@@ -1,1 +1,0 @@
-{"tmdb_id": 275966, "title": "Indian Babu", "original_title": "Indian Babu", "slug_title": "indian-babu", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fi9MlA8pny4OfYXNwViObcP9KV1.jpg", "actors": [], "comments": [], "recommandations_id": []}

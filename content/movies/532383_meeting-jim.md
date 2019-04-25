@@ -1,1 +1,0 @@
-{"tmdb_id": 532383, "title": "Meeting Jim", "original_title": "Meeting Jim", "slug_title": "meeting-jim", "date": "2018-06-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ucTDcJUUFAZgvnl6XHfq0v4y5Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

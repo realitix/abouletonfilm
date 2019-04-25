@@ -1,1 +1,0 @@
-{"tmdb_id": 534713, "title": "The Water Petition", "original_title": "Su \u018friz\u0259si", "slug_title": "the-water-petition", "date": "1964-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ismail Osmanli (Gadim)", "Mohsun Sanani (Mirab Zulgadar)"], "comments": [], "recommandations_id": []}

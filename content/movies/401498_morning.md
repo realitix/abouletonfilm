@@ -1,1 +1,0 @@
-{"tmdb_id": 401498, "title": "Morning", "original_title": "Morning", "slug_title": "morning", "date": "1969-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

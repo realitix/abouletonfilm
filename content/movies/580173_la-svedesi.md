@@ -1,1 +1,0 @@
-{"tmdb_id": 580173, "title": "La svedesi", "original_title": "La svedesi", "slug_title": "la-svedesi", "date": "1960-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Ta4pA2jH5ARHiiAaJr1rxLRtVE.jpg", "actors": [], "comments": [], "recommandations_id": []}

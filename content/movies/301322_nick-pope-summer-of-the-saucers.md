@@ -1,1 +1,0 @@
-{"tmdb_id": 301322, "title": "Nick Pope: Summer of the Saucers", "original_title": "Nick Pope: Summer of the Saucers", "slug_title": "nick-pope-summer-of-the-saucers", "date": "2009-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

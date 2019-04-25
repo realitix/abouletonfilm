@@ -1,1 +1,0 @@
-{"tmdb_id": 232767, "title": "Automobiler i Fredensborg", "original_title": "Automobiler i Fredensborg", "slug_title": "automobiler-i-fredensborg", "date": "1907-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

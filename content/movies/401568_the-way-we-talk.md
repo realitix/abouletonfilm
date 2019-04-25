@@ -1,1 +1,0 @@
-{"tmdb_id": 401568, "title": "The Way We Talk", "original_title": "The Way We Talk", "slug_title": "the-way-we-talk", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w6aIYBiqKEYtx1ZuVNy1sjFku8P.jpg", "actors": [], "comments": [], "recommandations_id": []}

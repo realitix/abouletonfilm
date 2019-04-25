@@ -1,1 +1,0 @@
-{"tmdb_id": 550800, "title": "De Avonturen Van Kuifje V1", "original_title": "De Avonturen Van Kuifje V1", "slug_title": "de-avonturen-van-kuifje-v1", "date": "2001-09-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nKVOlsNNGVwHwBPyu8d1w8JSnSL.jpg", "actors": [], "comments": [], "recommandations_id": []}

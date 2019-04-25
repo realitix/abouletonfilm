@@ -1,1 +1,0 @@
-{"tmdb_id": 70107, "title": "Hood Life", "original_title": "Hood Life", "slug_title": "hood-life", "date": "", "genre": "Documentaire", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/23OIKLWSJCXPXez8sn1dQ8Vurlj.jpg", "actors": [], "comments": [], "recommandations_id": []}

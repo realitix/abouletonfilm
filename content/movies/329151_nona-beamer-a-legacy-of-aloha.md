@@ -1,1 +1,0 @@
-{"tmdb_id": 329151, "title": "Nona Beamer: A Legacy of Aloha", "original_title": "Nona Beamer: A Legacy of Aloha", "slug_title": "nona-beamer-a-legacy-of-aloha", "date": "2012-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

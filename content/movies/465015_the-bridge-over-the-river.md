@@ -1,1 +1,0 @@
-{"tmdb_id": 465015, "title": "The Bridge over the River", "original_title": "Die ..brucke \u00fcber den fluss", "slug_title": "the-bridge-over-the-river", "date": "", "genre": "Romance / Drame / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

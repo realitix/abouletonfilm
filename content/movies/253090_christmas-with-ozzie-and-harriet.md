@@ -1,1 +1,0 @@
-{"tmdb_id": 253090, "title": "Christmas With Ozzie And Harriet", "original_title": "Christmas With Ozzie And Harriet", "slug_title": "christmas-with-ozzie-and-harriet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

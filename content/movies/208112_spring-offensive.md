@@ -1,1 +1,0 @@
-{"tmdb_id": 208112, "title": "Spring Offensive", "original_title": "Spring Offensive", "slug_title": "spring-offensive", "date": "1940-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

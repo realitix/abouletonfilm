@@ -1,1 +1,0 @@
-{"tmdb_id": 320518, "title": "The Mafia: An Expose - Vegas and Hoffa", "original_title": "The Mafia: An Expose - Vegas and Hoffa", "slug_title": "the-mafia-an-expose-vegas-and-hoffa", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

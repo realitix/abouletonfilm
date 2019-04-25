@@ -1,1 +1,0 @@
-{"tmdb_id": 232658, "title": "B\u00f8rnehj\u00e6lpsdagen 1905, I-III", "original_title": "B\u00f8rnehj\u00e6lpsdagen 1905, I-III", "slug_title": "bornehjaelpsdagen-1905-i-iii", "date": "1905-11-03", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

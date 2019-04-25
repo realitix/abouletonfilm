@@ -1,1 +1,0 @@
-{"tmdb_id": 388865, "title": "Beer Mukashi Mukashi", "original_title": "Beer Mukashi Mukashi", "slug_title": "beer-mukashi-mukashi", "date": "1956-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gIB8FhSrpEpmNsLgHanTmy07ZvN.jpg", "actors": [], "comments": [], "recommandations_id": []}

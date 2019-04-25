@@ -1,1 +1,0 @@
-{"tmdb_id": 314481, "title": "The First Summer", "original_title": "O Primeiro Ver\u00e3o", "slug_title": "the-first-summer", "date": "2015-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9KSkVgsSc6Klijtowv7L9S4W6BI.jpg", "actors": ["Anabela Caetano (Isabel)"], "comments": [], "recommandations_id": []}

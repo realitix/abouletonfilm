@@ -1,1 +1,0 @@
-{"tmdb_id": 520451, "title": "Enterprise", "original_title": "Enterprise", "slug_title": "enterprise", "date": "", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bvgU2iDqU2LbFCrhQkhXW5vtixy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 65241, "title": "Bap Dreimal Zehn Jahre", "original_title": "Bap Dreimal Zehn Jahre", "slug_title": "bap-dreimal-zehn-jahre", "date": "", "genre": "Musique", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qfplXrirGNa7UQ9xieBuk6QZA72.jpg", "actors": [], "comments": [], "recommandations_id": []}

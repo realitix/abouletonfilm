@@ -1,1 +1,0 @@
-{"tmdb_id": 441847, "title": "Diga-me, O Que \u00c9 A Ci\u00eancia? - I", "original_title": "Diga-me, O Que \u00c9 A Ci\u00eancia? - I", "slug_title": "diga-me-o-que-e-a-ciencia-i", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

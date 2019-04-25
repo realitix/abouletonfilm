@@ -1,1 +1,0 @@
-{"tmdb_id": 319082, "title": "The Muses of Bashevis Singer", "original_title": "The Muses of Bashevis Singer", "slug_title": "the-muses-of-bashevis-singer", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

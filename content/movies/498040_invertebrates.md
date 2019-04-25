@@ -1,1 +1,0 @@
-{"tmdb_id": 498040, "title": "Invertebrates", "original_title": "Invertebrados", "slug_title": "invertebrates", "date": "2011-06-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

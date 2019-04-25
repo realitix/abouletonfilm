@@ -1,1 +1,0 @@
-{"tmdb_id": 554445, "title": "L\u2019abb\u00e9 Pierre", "original_title": "L\u2019abb\u00e9 Pierre", "slug_title": "labbe-pierre", "date": "2012-08-01", "genre": "", "score": "0.0/10", "synopsis": "un film de Pierre Merejkowsky", "image": "/img/default-cover.png", "actors": ["Pierre Merejkowsky ()"], "comments": [], "recommandations_id": []}

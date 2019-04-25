@@ -1,1 +1,0 @@
-{"tmdb_id": 437662, "title": "V\u00eda Tango", "original_title": "V\u00eda Tango", "slug_title": "via-tango", "date": "2013-01-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

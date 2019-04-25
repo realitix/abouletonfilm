@@ -1,1 +1,0 @@
-{"tmdb_id": 586469, "title": "The Unbelievable Plight of Mrs. Wright", "original_title": "The Unbelievable Plight of Mrs. Wright", "slug_title": "the-unbelievable-plight-of-mrs-wright", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

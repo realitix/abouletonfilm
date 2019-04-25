@@ -1,1 +1,0 @@
-{"tmdb_id": 524966, "title": "Totality Remix", "original_title": "Totalite Remix", "slug_title": "totality-remix", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5JHVuHHJaX82t4vA9z3fKhebBHV.jpg", "actors": [], "comments": [], "recommandations_id": []}

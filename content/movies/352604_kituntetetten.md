@@ -1,1 +1,0 @@
-{"tmdb_id": 352604, "title": "Kit\u00fcntetetten", "original_title": "Kit\u00fcntetetten", "slug_title": "kituntetetten", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

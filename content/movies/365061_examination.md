@@ -1,1 +1,0 @@
-{"tmdb_id": 365061, "title": "Examination", "original_title": "Zaliczenie", "slug_title": "examination", "date": "1968-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aVLTRWB8mTPtvSpRHMhstpFA5OX.jpg", "actors": ["Daniel Olbrychski ()", "Aleksander Bardini ()"], "comments": [], "recommandations_id": []}

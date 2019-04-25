@@ -1,1 +1,0 @@
-{"tmdb_id": 289255, "title": "The Ultimate Betrayal: A Survivor's Journey", "original_title": "The Ultimate Betrayal: A Survivor's Journey", "slug_title": "the-ultimate-betrayal-a-survivor-s-journey", "date": "2009-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

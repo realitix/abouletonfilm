@@ -1,1 +1,0 @@
-{"tmdb_id": 429937, "title": "A Morte do Cinema", "original_title": "A Morte do Cinema", "slug_title": "a-morte-do-cinema", "date": "2015-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q5a6cNATfF5ZeXojNmgmGgz50Tr.jpg", "actors": ["Roque Ara\u00fajo (Ele mesmo)"], "comments": [], "recommandations_id": []}

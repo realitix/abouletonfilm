@@ -1,1 +1,0 @@
-{"tmdb_id": 63162, "title": "Z archiwum Tey czyli retroTEYada cz\u0119\u015b\u0107 1", "original_title": "Z archiwum Tey czyli retroTEYada cz\u0119\u015b\u0107 1", "slug_title": "z-archiwum-tey-czyli-retroteyada-czesc-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

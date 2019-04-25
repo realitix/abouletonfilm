@@ -1,1 +1,0 @@
-{"tmdb_id": 578144, "title": "Undercurrent", "original_title": "Undercurrent", "slug_title": "undercurrent", "date": "2012-08-16", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

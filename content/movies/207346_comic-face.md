@@ -1,1 +1,0 @@
-{"tmdb_id": 207346, "title": "Comic Face", "original_title": "Comic Face", "slug_title": "comic-face", "date": "1897-09-13", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6wmUCuLTlsBAz4ejjQYL7ivvRqG.jpg", "actors": ["Tom Green ()"], "comments": [], "recommandations_id": []}

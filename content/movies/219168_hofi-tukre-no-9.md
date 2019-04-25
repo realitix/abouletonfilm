@@ -1,1 +1,0 @@
-{"tmdb_id": 219168, "title": "Hofi t\u00fckre No.9", "original_title": "Hofi t\u00fckre No.9", "slug_title": "hofi-tukre-no-9", "date": "2011-01-01", "genre": "Com\u00e9die", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j3a2N4UAP249Ob1nFJkD6DuaMD2.jpg", "actors": ["Hofi G\u00e9za (Beteg)"], "comments": [], "recommandations_id": []}

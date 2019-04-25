@@ -1,1 +1,0 @@
-{"tmdb_id": 108983, "title": "Hell Gate: The Watery Grave", "original_title": "Hell Gate: The Watery Grave", "slug_title": "hell-gate-the-watery-grave", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alexander Scourby (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 586937, "title": "Little Caribou", "original_title": "Little Caribou", "slug_title": "little-caribou", "date": "", "genre": "Animation / Aventure / Drame / Familial / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dLdVyNP5xpsgVDX4pFJyMYs1rq2.jpg", "actors": [], "comments": [], "recommandations_id": []}

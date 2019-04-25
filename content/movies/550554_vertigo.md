@@ -1,1 +1,0 @@
-{"tmdb_id": 550554, "title": "Vertigo", "original_title": "Vertigo", "slug_title": "vertigo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

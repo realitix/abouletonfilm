@@ -1,1 +1,0 @@
-{"tmdb_id": 468160, "title": "Dead Girls", "original_title": "Dead Girls", "slug_title": "dead-girls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

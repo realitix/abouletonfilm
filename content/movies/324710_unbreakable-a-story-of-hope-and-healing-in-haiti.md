@@ -1,1 +1,0 @@
-{"tmdb_id": 324710, "title": "Unbreakable: A Story of Hope and Healing in Haiti", "original_title": "Unbreakable: A Story of Hope and Healing in Haiti", "slug_title": "unbreakable-a-story-of-hope-and-healing-in-haiti", "date": "2014-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

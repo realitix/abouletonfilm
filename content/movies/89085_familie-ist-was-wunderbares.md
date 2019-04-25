@@ -1,1 +1,0 @@
-{"tmdb_id": 89085, "title": "Familie ist was Wunderbares", "original_title": "Familie ist was Wunderbares", "slug_title": "familie-ist-was-wunderbares", "date": "2008-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6OUrGy9uiwU7YxD9vCbtyexFfWE.jpg", "actors": [], "comments": [], "recommandations_id": []}

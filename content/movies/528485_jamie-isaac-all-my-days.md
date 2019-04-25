@@ -1,1 +1,0 @@
-{"tmdb_id": 528485, "title": "Jamie Isaac - All My Days", "original_title": "Jamie Isaac - All My Days", "slug_title": "jamie-isaac-all-my-days", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jamie Isaac (Jamie Isaac)"], "comments": [], "recommandations_id": []}

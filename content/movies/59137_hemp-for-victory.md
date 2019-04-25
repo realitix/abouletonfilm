@@ -1,1 +1,0 @@
-{"tmdb_id": 59137, "title": "Hemp for Victory", "original_title": "Hemp for Victory", "slug_title": "hemp-for-victory", "date": "1943-01-01", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n2x8LM9QOPWJVdz5GWS7SzOiFJ5.jpg", "actors": ["Lee D. Vickers (Narrator)"], "comments": [], "recommandations_id": []}

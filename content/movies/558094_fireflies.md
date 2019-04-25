@@ -1,1 +1,0 @@
-{"tmdb_id": 558094, "title": "Fireflies", "original_title": "Deduna", "slug_title": "fireflies", "date": "1987-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

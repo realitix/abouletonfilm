@@ -1,1 +1,0 @@
-{"tmdb_id": 381667, "title": "Operation Sunflower", "original_title": "\u05de\u05d1\u05e6\u05e2 \u05d7\u05de\u05e0\u05d9\u05d4", "slug_title": "operation-sunflower", "date": "2014-02-07", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Y0FALslIfoZ4ftu0n5do4v2bpp.jpg", "actors": [], "comments": [], "recommandations_id": []}

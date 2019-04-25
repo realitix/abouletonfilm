@@ -1,1 +1,0 @@
-{"tmdb_id": 583899, "title": "Non Catholicam", "original_title": "Non Catholicam", "slug_title": "non-catholicam", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

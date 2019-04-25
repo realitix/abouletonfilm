@@ -1,1 +1,0 @@
-{"tmdb_id": 511309, "title": "Only Men Go to the Grave", "original_title": "Only Men Go to the Grave", "slug_title": "only-men-go-to-the-grave", "date": "2016-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eQ5lpyMyhCsrPeeJgraBBssS3ON.jpg", "actors": [], "comments": [], "recommandations_id": []}

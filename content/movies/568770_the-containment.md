@@ -1,1 +1,0 @@
-{"tmdb_id": 568770, "title": "The Containment", "original_title": "The Containment", "slug_title": "the-containment", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

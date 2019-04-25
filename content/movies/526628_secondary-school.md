@@ -1,1 +1,0 @@
-{"tmdb_id": 526628, "title": "Secondary School", "original_title": "\u4e2d\u5b78", "slug_title": "secondary-school", "date": "2003-12-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tJB1AYFVJJPAfpdTCDsOr4Q3b7C.jpg", "actors": [], "comments": [], "recommandations_id": []}

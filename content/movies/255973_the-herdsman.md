@@ -1,1 +1,0 @@
-{"tmdb_id": 255973, "title": "The Herdsman", "original_title": "\u7267\u9a6c\u4eba", "slug_title": "the-herdsman", "date": "1982-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pGu24B8q0JvnQy90jxpRjhIBO21.jpg", "actors": ["Zhu Shimao ()"], "comments": [], "recommandations_id": []}

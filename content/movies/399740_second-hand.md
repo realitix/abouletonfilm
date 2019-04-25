@@ -1,1 +1,0 @@
-{"tmdb_id": 399740, "title": "Second Hand", "original_title": "Second Hand", "slug_title": "second-hand", "date": "1990-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jutta Speidel ()", "Dietmar Mues ()", "Oliver Stritzel ()", "Alexander Radszun ()"], "comments": [], "recommandations_id": []}

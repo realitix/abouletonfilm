@@ -1,1 +1,0 @@
-{"tmdb_id": 102821, "title": "Home Road Movies", "original_title": "Home Road Movies", "slug_title": "home-road-movies", "date": "2002-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aInIZ0dHHMSEd0RTxZ2D0SR71th.jpg", "actors": [], "comments": [], "recommandations_id": []}

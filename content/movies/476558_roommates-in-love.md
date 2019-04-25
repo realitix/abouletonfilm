@@ -1,1 +1,0 @@
-{"tmdb_id": 476558, "title": "Roommates In Love", "original_title": "\u7570\u6027\u5408\u79df\u7684\u5f80\u4e8b", "slug_title": "roommates-in-love", "date": "", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cica Zhou (Xia Xueli)", "He Ming Han (Zhang Jian Man)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 319988, "title": "Double Booked", "original_title": "Double Booked", "slug_title": "double-booked", "date": "2015-01-06", "genre": "Thriller / Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ssJwNcyTSKpIINZMJXiRa6AkzWv.jpg", "actors": [], "comments": [], "recommandations_id": []}

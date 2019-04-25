@@ -1,1 +1,0 @@
-{"tmdb_id": 390002, "title": "Abel Gance et son Napol\u00e9on", "original_title": "Abel Gance et son Napol\u00e9on", "slug_title": "abel-gance-et-son-napoleon", "date": "1984-03-26", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o9LMPCvyDZkFXCYtFtBQAYkEhaI.jpg", "actors": [], "comments": [], "recommandations_id": []}

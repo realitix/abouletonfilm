@@ -1,1 +1,0 @@
-{"tmdb_id": 453720, "title": "The Kodachrome Elegies", "original_title": "The Kodachrome Elegies", "slug_title": "the-kodachrome-elegies", "date": "2017-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

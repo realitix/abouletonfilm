@@ -1,1 +1,0 @@
-{"tmdb_id": 386874, "title": "Bad Class", "original_title": "Bad Class", "slug_title": "bad-class", "date": "2015-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/elramwhR9nBt2Yfb1feQrR75RBi.jpg", "actors": ["Yoon Seol-hee (Jo Hyeon-ah)", "Lee Chae-dam ()"], "comments": [], "recommandations_id": []}

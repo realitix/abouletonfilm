@@ -1,1 +1,0 @@
-{"tmdb_id": 350090, "title": "\uc5ec\uc790\ub294 \uad34\ub85c\uc6cc", "original_title": "\uc5ec\uc790\ub294 \uad34\ub85c\uc6cc", "slug_title": "yeojaneun-goeroweo", "date": "1982-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

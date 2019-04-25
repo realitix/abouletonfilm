@@ -1,1 +1,0 @@
-{"tmdb_id": 379725, "title": "Unemployed are Cooking for the Unemployed", "original_title": "Erwerbslose kochen f\u00fcr Erwerbslose", "slug_title": "unemployed-are-cooking-for-the-unemployed", "date": "1932-08-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

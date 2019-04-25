@@ -1,1 +1,0 @@
-{"tmdb_id": 54957, "title": "Enjoy Your Meal", "original_title": "Enjoy Your Meal", "slug_title": "enjoy-your-meal", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

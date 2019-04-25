@@ -1,1 +1,0 @@
-{"tmdb_id": 386542, "title": "The Dog Who Loved Music", "original_title": "Le chien m\u00e9lomane", "slug_title": "the-dog-who-loved-music", "date": "1973-01-01", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

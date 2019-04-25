@@ -1,1 +1,0 @@
-{"tmdb_id": 367639, "title": "The Making of Aladdin: A Whole New World", "original_title": "The Making of Aladdin: A Whole New World", "slug_title": "the-making-of-aladdin-a-whole-new-world", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

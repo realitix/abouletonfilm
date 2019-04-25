@@ -1,1 +1,0 @@
-{"tmdb_id": 385941, "title": "Tick Tick Tick", "original_title": "Tick Tick Tick", "slug_title": "tick-tick-tick", "date": "2013-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jVgjNtZI3jN0KD3HO9KSJ8q354g.jpg", "actors": [], "comments": [], "recommandations_id": []}

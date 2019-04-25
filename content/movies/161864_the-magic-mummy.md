@@ -1,1 +1,0 @@
-{"tmdb_id": 161864, "title": "The Magic Mummy", "original_title": "The Magic Mummy", "slug_title": "the-magic-mummy", "date": "1933-02-06", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5SdVwLVL5p9y76x6DeVAIxog0uu.jpg", "actors": [], "comments": [], "recommandations_id": []}

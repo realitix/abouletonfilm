@@ -1,1 +1,0 @@
-{"tmdb_id": 441886, "title": "Kikumana", "original_title": "Kikumana", "slug_title": "kikumana", "date": "2001-07-14", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uIfFD3AUGtXl5wgIyn1IuY21N97.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 327142, "title": "Road to Hollywood - Making it to the Main Stage", "original_title": "Road to Hollywood - Making it to the Main Stage", "slug_title": "road-to-hollywood-making-it-to-the-main-stage", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

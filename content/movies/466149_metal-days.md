@@ -1,1 +1,0 @@
-{"tmdb_id": 466149, "title": "Metal Days", "original_title": "Metal Days", "slug_title": "metal-days", "date": "1986-01-01", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lqZKbwrmAyIT8bs2OFlHl6gvKAB.jpg", "actors": ["Haji Suzuki ()"], "comments": [], "recommandations_id": []}

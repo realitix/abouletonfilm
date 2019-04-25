@@ -1,1 +1,0 @@
-{"tmdb_id": 468922, "title": "The Solar Thread", "original_title": "Taiyo no ito", "slug_title": "the-solar-thread", "date": "1963-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aKJYpW4eiZ2APwelgtmQdDXIoki.jpg", "actors": [], "comments": [], "recommandations_id": []}

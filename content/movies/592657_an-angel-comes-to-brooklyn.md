@@ -1,1 +1,0 @@
-{"tmdb_id": 592657, "title": "An Angel Comes To Brooklyn", "original_title": "An Angel Comes To Brooklyn", "slug_title": "an-angel-comes-to-brooklyn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kaye Dowd ()"], "comments": [], "recommandations_id": []}

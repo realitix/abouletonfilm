@@ -1,1 +1,0 @@
-{"tmdb_id": 42535, "title": "Black Water Gold", "original_title": "Black Water Gold", "slug_title": "black-water-gold", "date": "1970-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n8kwG8V0KphAmldfyJyLin5eM64.jpg", "actors": [], "comments": [], "recommandations_id": []}

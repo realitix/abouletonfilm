@@ -1,1 +1,0 @@
-{"tmdb_id": 234050, "title": "Dokyumento poruno: Nozoku", "original_title": "Dokyumento poruno: Nozoku", "slug_title": "dokyumento-poruno-nozoku", "date": "1973-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Al6igXjgzK3FUonLlPkM5885cXX.jpg", "actors": [], "comments": [], "recommandations_id": []}

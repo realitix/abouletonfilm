@@ -1,1 +1,0 @@
-{"tmdb_id": 304436, "title": "Kamp - A River for all Senses", "original_title": "Kamp - A River for all Senses", "slug_title": "kamp-a-river-for-all-senses", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 514671, "title": "Veronica", "original_title": "Veronica", "slug_title": "veronica", "date": "2011-01-01", "genre": "Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emilee Linahon (Veronica F. Ockelman)", "Jessica Maben (Grace Taylor)"], "comments": [], "recommandations_id": []}

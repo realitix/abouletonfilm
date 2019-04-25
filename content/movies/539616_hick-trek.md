@@ -1,1 +1,0 @@
-{"tmdb_id": 539616, "title": "Hick Trek", "original_title": "Hick Trek", "slug_title": "hick-trek", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Schuermann (Capt. Slim T Jerk)", "Mari Pittman-Knoche (Fluffy)", "David Carty (Mr. Checkoff)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 564497, "title": "Hasty and the Princess", "original_title": "Hasty and the Princess", "slug_title": "hasty-and-the-princess", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

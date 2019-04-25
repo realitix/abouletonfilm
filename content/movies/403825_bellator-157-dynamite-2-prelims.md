@@ -1,1 +1,0 @@
-{"tmdb_id": 403825, "title": "Bellator 157: Dynamite 2 Prelims", "original_title": "Bellator 157: Dynamite 2 Prelims", "slug_title": "bellator-157-dynamite-2-prelims", "date": "2016-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

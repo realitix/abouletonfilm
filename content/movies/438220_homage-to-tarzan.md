@@ -1,1 +1,0 @@
-{"tmdb_id": 438220, "title": "Homage to Tarzan", "original_title": "Homenaje a Tarz\u00e1n", "slug_title": "homage-to-tarzan", "date": "1970-01-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

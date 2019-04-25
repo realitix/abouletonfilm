@@ -1,1 +1,0 @@
-{"tmdb_id": 454929, "title": "The Barber Of Seville", "original_title": "The Barber Of Seville", "slug_title": "the-barber-of-seville", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/da8oZiOxAmLYzWb5xNZEtb1zRU8.jpg", "actors": [], "comments": [], "recommandations_id": []}

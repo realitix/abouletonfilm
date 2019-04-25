@@ -1,1 +1,0 @@
-{"tmdb_id": 589442, "title": "Apeshit", "original_title": "Apeshit", "slug_title": "apeshit", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

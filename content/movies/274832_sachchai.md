@@ -1,1 +1,0 @@
-{"tmdb_id": 274832, "title": "Sachchai", "original_title": "Sachchai", "slug_title": "sachchai", "date": "1949-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Akhtari ()", "Mohammad Hanif Azad ()", "Swaran Lata ()"], "comments": [], "recommandations_id": []}

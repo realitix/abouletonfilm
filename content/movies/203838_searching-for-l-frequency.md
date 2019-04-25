@@ -1,1 +1,0 @@
-{"tmdb_id": 203838, "title": "Searching for L Frequency", "original_title": "Searching for L Frequency", "slug_title": "searching-for-l-frequency", "date": "2013-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

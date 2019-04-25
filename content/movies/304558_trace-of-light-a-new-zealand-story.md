@@ -1,1 +1,0 @@
-{"tmdb_id": 304558, "title": "Trace of Light - A New Zealand Story", "original_title": "Trace of Light - A New Zealand Story", "slug_title": "trace-of-light-a-new-zealand-story", "date": "2014-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

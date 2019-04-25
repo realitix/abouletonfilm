@@ -1,1 +1,0 @@
-{"tmdb_id": 592433, "title": "Punkti\u0146a un Antons", "original_title": "Punkti\u0146a un Antons", "slug_title": "punktina-un-antons", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/LkjbzoRlzCioztFsWP04eAZb4d.jpg", "actors": [], "comments": [], "recommandations_id": []}

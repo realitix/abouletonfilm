@@ -1,1 +1,0 @@
-{"tmdb_id": 307440, "title": "As they say", "original_title": "As they say", "slug_title": "as-they-say", "date": "2012-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

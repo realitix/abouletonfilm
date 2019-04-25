@@ -1,1 +1,0 @@
-{"tmdb_id": 201076, "title": "Mirage Men", "original_title": "Mirage Men", "slug_title": "mirage-men", "date": "2013-06-13", "genre": "Documentaire", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cBjjo0ycZTVliFEWXSSek9mSenL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 362265, "title": "The Distant Touch", "original_title": "The Distant Touch", "slug_title": "the-distant-touch", "date": "2014-05-02", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jtbKRgeJUFkUq8PMe8nfKWH8Eg3.jpg", "actors": [], "comments": [], "recommandations_id": []}

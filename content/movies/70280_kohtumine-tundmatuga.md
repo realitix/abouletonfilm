@@ -1,1 +1,0 @@
-{"tmdb_id": 70280, "title": "Kohtumine tundmatuga", "original_title": "Kohtumine tundmatuga", "slug_title": "kohtumine-tundmatuga", "date": "2005-01-01", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

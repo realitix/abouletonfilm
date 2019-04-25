@@ -1,1 +1,0 @@
-{"tmdb_id": 395247, "title": "Sabotage!", "original_title": "Sabotage!", "slug_title": "sabotage", "date": "1940-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

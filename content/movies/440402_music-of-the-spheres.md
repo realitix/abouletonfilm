@@ -1,1 +1,0 @@
-{"tmdb_id": 440402, "title": "Music of the Spheres", "original_title": "Music of the Spheres", "slug_title": "music-of-the-spheres", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lFaWqLr4KrTkhe9gHuHUfGIZpwm.jpg", "actors": [], "comments": [], "recommandations_id": []}

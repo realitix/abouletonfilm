@@ -1,1 +1,0 @@
-{"tmdb_id": 503788, "title": "The Birthday Party", "original_title": "The Birthday Party", "slug_title": "the-birthday-party", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wJoOjC7mN0eBJgMh6kHqWRG8r2j.jpg", "actors": [], "comments": [], "recommandations_id": []}

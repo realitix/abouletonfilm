@@ -1,1 +1,0 @@
-{"tmdb_id": 577585, "title": "Get Out of One's Clothes", "original_title": "Raus Aus Seinen Kleidern", "slug_title": "get-out-of-one-s-clothes", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Corinna Schnitt ()"], "comments": [], "recommandations_id": []}

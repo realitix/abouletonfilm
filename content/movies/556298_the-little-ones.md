@@ -1,1 +1,1 @@
-{"tmdb_id": 556298, "title": "The Little Ones", "original_title": "Les petits", "slug_title": "the-little-ones", "date": "1925-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 556298, "title": "The Little Ones", "original_title": "Les petits", "slug_title": "the-little-ones", "date": "1925-10-30", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 533190, "title": "Obos og byen", "original_title": "Obos og byen", "slug_title": "obos-og-byen", "date": "1971-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

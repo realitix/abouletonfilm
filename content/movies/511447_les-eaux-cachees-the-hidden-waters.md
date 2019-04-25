@@ -1,1 +1,0 @@
-{"tmdb_id": 511447, "title": "Les Eaux Cach\u00e9es ( The Hidden Waters)", "original_title": "Les Eaux Cach\u00e9es ( The Hidden Waters)", "slug_title": "les-eaux-cachees-the-hidden-waters", "date": "2013-03-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

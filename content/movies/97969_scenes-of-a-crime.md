@@ -1,1 +1,0 @@
-{"tmdb_id": 97969, "title": "Scenes of a Crime", "original_title": "Scenes of a Crime", "slug_title": "scenes-of-a-crime", "date": "2012-03-30", "genre": "Documentaire / Thriller", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qCFKvFsSZRaaOeh9Z3Ij7VWqbIh.jpg", "actors": [], "comments": [], "recommandations_id": []}

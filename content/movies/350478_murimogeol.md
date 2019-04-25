@@ -1,1 +1,0 @@
-{"tmdb_id": 350478, "title": "\ubb34\ub9bc\uc624\uac78", "original_title": "\ubb34\ub9bc\uc624\uac78", "slug_title": "murimogeol", "date": "1980-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

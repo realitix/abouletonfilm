@@ -1,1 +1,0 @@
-{"tmdb_id": 584679, "title": "Teheran Kitchen", "original_title": "Teheran Kitchen", "slug_title": "teheran-kitchen", "date": "2010-06-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

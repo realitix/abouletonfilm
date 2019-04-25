@@ -1,1 +1,0 @@
-{"tmdb_id": 198462, "title": "Genesis", "original_title": "Genesis", "slug_title": "genesis", "date": "1986-06-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iAEcxq7PgVBXJBDR9L7HjfThfRU.jpg", "actors": [], "comments": [], "recommandations_id": []}

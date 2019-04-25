@@ -1,1 +1,0 @@
-{"tmdb_id": 301403, "title": "But Let's Not Talk About Work", "original_title": "But Let's Not Talk About Work", "slug_title": "but-let-s-not-talk-about-work", "date": "2014-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

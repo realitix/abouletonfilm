@@ -1,1 +1,0 @@
-{"tmdb_id": 319428, "title": "Dennis Wilson Forever", "original_title": "Dennis Wilson Forever", "slug_title": "dennis-wilson-forever", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 124357, "title": "Portman, a la sombra de Roberto", "original_title": "Portman, a la sombra de Roberto", "slug_title": "portman-a-la-sombra-de-roberto", "date": "2001-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/75l7ModnBz25LuzFSm7niHfCXVZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

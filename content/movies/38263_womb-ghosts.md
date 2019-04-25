@@ -1,1 +1,0 @@
-{"tmdb_id": 38263, "title": "Womb Ghosts", "original_title": "\u60e1\u80ce", "slug_title": "womb-ghosts", "date": "2010-03-18", "genre": "Horreur", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6AzVABMEbFutUDw287896tMsEq8.jpg", "actors": [], "comments": [], "recommandations_id": []}

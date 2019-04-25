@@ -1,1 +1,0 @@
-{"tmdb_id": 320374, "title": "I'm Gonna Be an Angel: Vol. 2", "original_title": "I'm Gonna Be an Angel: Vol. 2", "slug_title": "i-m-gonna-be-an-angel-vol-2", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

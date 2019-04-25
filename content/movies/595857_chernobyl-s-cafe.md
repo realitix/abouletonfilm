@@ -1,1 +1,0 @@
-{"tmdb_id": 595857, "title": "Chernobyl's Caf\u00e9", "original_title": "Chernobyl's Caf\u00e9", "slug_title": "chernobyl-s-cafe", "date": "2016-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

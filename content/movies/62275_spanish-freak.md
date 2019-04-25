@@ -1,1 +1,0 @@
-{"tmdb_id": 62275, "title": "Spanish Freak", "original_title": "Spanish Freak", "slug_title": "spanish-freak", "date": "2010-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2UOf7sdhpGsFFd6Fib32n61qSVv.jpg", "actors": ["Aris Dark ()", "Gina Nil ()", "Nacho Vidal ()"], "comments": [], "recommandations_id": []}

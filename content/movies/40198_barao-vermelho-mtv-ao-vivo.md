@@ -1,1 +1,0 @@
-{"tmdb_id": 40198, "title": "Barao Vermelho - MTV Ao Vivo", "original_title": "Barao Vermelho - MTV Ao Vivo", "slug_title": "barao-vermelho-mtv-ao-vivo", "date": "2005-11-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iQdtCFp12dcT4fHZygQblWsG4rd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 313410, "title": "Mantis in the Monkey's Shadow", "original_title": "Mantis in the Monkey's Shadow", "slug_title": "mantis-in-the-monkey-s-shadow", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

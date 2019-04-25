@@ -1,1 +1,0 @@
-{"tmdb_id": 351123, "title": "The Magic Fish", "original_title": "The Magic Fish", "slug_title": "the-magic-fish", "date": "1934-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

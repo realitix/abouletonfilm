@@ -1,1 +1,0 @@
-{"tmdb_id": 90272, "title": "The Fern Flower", "original_title": "Fleur de foug\u00e8re", "slug_title": "the-fern-flower", "date": "1949-01-01", "genre": "Animation / Fantastique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9J2WtOYjql5AKvcWOiP8TJPxqx8.jpg", "actors": [], "comments": [], "recommandations_id": []}

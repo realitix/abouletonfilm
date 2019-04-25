@@ -1,1 +1,0 @@
-{"tmdb_id": 588235, "title": "Edi ile B\u00fcd\u00fc", "original_title": "Edi ile B\u00fcd\u00fc", "slug_title": "edi-ile-budu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u2WCrB7bil2vHY6U0SRlxUfCdEJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

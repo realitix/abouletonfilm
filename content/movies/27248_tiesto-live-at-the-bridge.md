@@ -1,1 +1,0 @@
-{"tmdb_id": 27248, "title": "Ti\u00ebsto: Live at The Bridge", "original_title": "Ti\u00ebsto: Live at The Bridge", "slug_title": "tiesto-live-at-the-bridge", "date": "2005-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fPY3tFB4I9W7YBccxKgxcliqTjt.jpg", "actors": [], "comments": [], "recommandations_id": []}

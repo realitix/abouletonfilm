@@ -1,1 +1,0 @@
-{"tmdb_id": 472896, "title": "Summer Lake Massacre", "original_title": "Summer Lake Massacre", "slug_title": "summer-lake-massacre", "date": "2018-02-02", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ypbeEhT1FDfVrmzoLy65fkw2j0.jpg", "actors": [], "comments": [], "recommandations_id": []}

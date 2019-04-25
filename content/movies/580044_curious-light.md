@@ -1,1 +1,0 @@
-{"tmdb_id": 580044, "title": "Curious Light", "original_title": "Curious Light", "slug_title": "curious-light", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iqQCYCOtbZ2yPTD5zDdLOHQ6YHJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

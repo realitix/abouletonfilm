@@ -1,1 +1,0 @@
-{"tmdb_id": 556933, "title": "Circulez!", "original_title": "Circulez!", "slug_title": "circulez", "date": "1931-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

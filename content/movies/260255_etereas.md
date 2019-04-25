@@ -1,1 +1,0 @@
-{"tmdb_id": 260255, "title": "Et\u00e9reas", "original_title": "Et\u00e9reas", "slug_title": "etereas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/veGFncyjg1vXrwAmMTdWI76D96f.jpg", "actors": ["Tiana Zoumer ()", "Brecken Rivara ()"], "comments": [], "recommandations_id": []}

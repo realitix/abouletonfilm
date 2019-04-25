@@ -1,1 +1,0 @@
-{"tmdb_id": 284634, "title": "Jiraika-gumi: Dai-nihen", "original_title": "Jiraika-gumi: Dai-nihen", "slug_title": "jiraika-gumi-dai-nihen", "date": "1927-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kamesaburo Arashi ()", "Okawaka Arashi ()", "Tamamatsuro Arashi ()"], "comments": [], "recommandations_id": []}

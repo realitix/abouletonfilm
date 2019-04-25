@@ -1,1 +1,0 @@
-{"tmdb_id": 441463, "title": "The Darkest Valentine", "original_title": "The Darkest Valentine", "slug_title": "the-darkest-valentine", "date": "2017-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

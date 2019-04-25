@@ -1,1 +1,0 @@
-{"tmdb_id": 509472, "title": "The Way to Kevin", "original_title": "The Way to Kevin", "slug_title": "the-way-to-kevin", "date": "2012-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tcZ6P6sxhumWnnn570xDaOEsowW.jpg", "actors": [], "comments": [], "recommandations_id": []}

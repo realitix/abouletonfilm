@@ -1,1 +1,0 @@
-{"tmdb_id": 411430, "title": "Produce Your Own Damn Movie!", "original_title": "Produce Your Own Damn Movie!", "slug_title": "produce-your-own-damn-movie", "date": "2011-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

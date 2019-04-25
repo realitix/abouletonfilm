@@ -1,1 +1,0 @@
-{"tmdb_id": 310518, "title": "William Hung: Hangin' with Hung", "original_title": "William Hung: Hangin' with Hung", "slug_title": "william-hung-hangin-with-hung", "date": "2004-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

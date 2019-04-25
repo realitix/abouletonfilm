@@ -1,1 +1,0 @@
-{"tmdb_id": 395659, "title": "The Elixir", "original_title": "The Elixir", "slug_title": "the-elixir", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7VGvLYiNkyNxCFFVov8WrdODiOB.jpg", "actors": [], "comments": [], "recommandations_id": []}

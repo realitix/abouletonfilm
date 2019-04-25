@@ -1,1 +1,0 @@
-{"tmdb_id": 593298, "title": "The League Of Five", "original_title": "La liga de los 5", "slug_title": "the-league-of-five", "date": "2019-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nEKLFF3FeqY7gxpOZNxr8m2fstA.jpg", "actors": [], "comments": [], "recommandations_id": []}

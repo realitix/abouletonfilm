@@ -1,1 +1,0 @@
-{"tmdb_id": 312279, "title": "This Is Southern Rock", "original_title": "This Is Southern Rock", "slug_title": "this-is-southern-rock", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 476986, "title": "The Illustrator", "original_title": "The Illustrator", "slug_title": "the-illustrator", "date": "2017-05-11", "genre": "Myst\u00e8re / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oaiJ5tmHNO5Bo7d0eMOdln4KtuK.jpg", "actors": [], "comments": [], "recommandations_id": []}

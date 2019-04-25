@@ -1,1 +1,0 @@
-{"tmdb_id": 108002, "title": "Killing Bee", "original_title": "Satsujinbachi - kir\u00e2 b\u00ee", "slug_title": "killing-bee", "date": "2005-04-23", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AcpTowJ82zENvAjoS3WyXDQF4qw.jpg", "actors": [], "comments": [], "recommandations_id": []}

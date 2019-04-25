@@ -1,1 +1,0 @@
-{"tmdb_id": 277370, "title": "El caso Roc\u00edo", "original_title": "El caso Roc\u00edo", "slug_title": "el-caso-rocio", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

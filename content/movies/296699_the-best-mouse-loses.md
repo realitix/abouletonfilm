@@ -1,1 +1,0 @@
-{"tmdb_id": 296699, "title": "The Best Mouse Loses", "original_title": "The Best Mouse Loses", "slug_title": "the-best-mouse-loses", "date": "1920-03-03", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

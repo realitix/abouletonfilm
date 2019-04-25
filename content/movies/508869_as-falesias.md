@@ -1,1 +1,0 @@
-{"tmdb_id": 508869, "title": "As Fal\u00e9sias", "original_title": "As Fal\u00e9sias", "slug_title": "as-falesias", "date": "2013-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

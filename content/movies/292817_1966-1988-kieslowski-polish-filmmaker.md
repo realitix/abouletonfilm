@@ -1,1 +1,0 @@
-{"tmdb_id": 292817, "title": "1966-1988: Kieslowski, Polish Filmmaker", "original_title": "1966-1988: Kieslowski, cin\u00e9aste polonais", "slug_title": "1966-1988-kieslowski-polish-filmmaker", "date": "2015-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

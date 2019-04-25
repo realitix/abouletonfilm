@@ -1,1 +1,0 @@
-{"tmdb_id": 529064, "title": "Les tr\u00e9sors de la mer Rouge", "original_title": "Les tr\u00e9sors de la mer Rouge", "slug_title": "les-tresors-de-la-mer-rouge", "date": "1955-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

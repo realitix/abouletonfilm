@@ -1,1 +1,0 @@
-{"tmdb_id": 55332, "title": "Right Brain Left Brain", "original_title": "Right Brain Left Brain", "slug_title": "right-brain-left-brain", "date": "2010-09-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gmzh8kJy7xmOzyAtAWNdxtc6Y2x.jpg", "actors": [], "comments": [], "recommandations_id": []}

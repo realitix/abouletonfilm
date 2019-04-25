@@ -1,1 +1,0 @@
-{"tmdb_id": 489630, "title": "Medicina, i misteri", "original_title": "Medicina, i misteri", "slug_title": "medicina-i-misteri", "date": "2002-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 293078, "title": "Dormente", "original_title": "Dormente", "slug_title": "dormente", "date": "2005-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

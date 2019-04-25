@@ -1,1 +1,0 @@
-{"tmdb_id": 193399, "title": "Firemen Rescuing Men and Women", "original_title": "Firemen Rescuing Men and Women", "slug_title": "firemen-rescuing-men-and-women", "date": "1899-06-30", "genre": "", "score": "4.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [190618, 189061, 193396, 190600]}

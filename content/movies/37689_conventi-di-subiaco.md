@@ -1,1 +1,0 @@
-{"tmdb_id": 37689, "title": "Conventi di Subiaco", "original_title": "Conventi di Subiaco", "slug_title": "conventi-di-subiaco", "date": "1913-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

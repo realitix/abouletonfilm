@@ -1,1 +1,0 @@
-{"tmdb_id": 474911, "title": "Black Nations/Queer Nations?", "original_title": "Black Nations/Queer Nations?", "slug_title": "black-nations-queer-nations", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

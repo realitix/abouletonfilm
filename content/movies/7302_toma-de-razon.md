@@ -1,1 +1,0 @@
-{"tmdb_id": 7302, "title": "Toma de Razon", "original_title": "Toma de Razon", "slug_title": "toma-de-razon", "date": "2006-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

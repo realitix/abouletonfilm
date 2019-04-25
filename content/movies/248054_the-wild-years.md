@@ -1,1 +1,0 @@
-{"tmdb_id": 248054, "title": "The Wild Years", "original_title": "Els Anys Salvatges", "slug_title": "the-wild-years", "date": "2013-11-22", "genre": "Documentaire", "score": "8.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/25gPPbTgwOYsYvF7uMKqAG4Jhvf.jpg", "actors": [], "comments": [], "recommandations_id": []}

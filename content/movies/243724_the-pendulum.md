@@ -1,1 +1,0 @@
-{"tmdb_id": 243724, "title": "The Pendulum", "original_title": "The Pendulum", "slug_title": "the-pendulum", "date": "2014-02-28", "genre": "Myst\u00e8re / Thriller / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

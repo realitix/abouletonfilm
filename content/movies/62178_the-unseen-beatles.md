@@ -1,1 +1,0 @@
-{"tmdb_id": 62178, "title": "The Unseen Beatles", "original_title": "The Unseen Beatles", "slug_title": "the-unseen-beatles", "date": "2007-01-01", "genre": "Documentaire", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d6UAJQcgZoeuvuCqQhKg75RhwgR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 592152, "title": "A Sacred Gaucho", "original_title": "A Sacred Gaucho", "slug_title": "a-sacred-gaucho", "date": "2018-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cn3hnhSkMTcMXTV7ixJ8QWJqFp9.jpg", "actors": [], "comments": [], "recommandations_id": []}

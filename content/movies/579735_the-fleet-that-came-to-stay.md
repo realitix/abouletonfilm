@@ -1,1 +1,0 @@
-{"tmdb_id": 579735, "title": "The Fleet That Came to Stay", "original_title": "The Fleet That Came to Stay", "slug_title": "the-fleet-that-came-to-stay", "date": "1945-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/47ZtvWrhi0BahaWazaQh9qINceK.jpg", "actors": [], "comments": [], "recommandations_id": []}

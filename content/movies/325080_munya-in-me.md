@@ -1,1 +1,0 @@
-{"tmdb_id": 325080, "title": "Munya in Me", "original_title": "Munya in mij", "slug_title": "munya-in-me", "date": "2013-10-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5y0nIdrwcVAgUwDSdgn54PibS7z.jpg", "actors": ["Salma Khanfour ()"], "comments": [], "recommandations_id": []}

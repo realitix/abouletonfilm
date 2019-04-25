@@ -1,1 +1,0 @@
-{"tmdb_id": 137771, "title": "Isabella Taviani - Ao Vivo", "original_title": "Isabella Taviani - Ao Vivo", "slug_title": "isabella-taviani-ao-vivo", "date": "2016-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nMGWS6JsxDFz9jY7lQkeAZoAXN6.jpg", "actors": [], "comments": [], "recommandations_id": []}

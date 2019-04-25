@@ -1,1 +1,0 @@
-{"tmdb_id": 147071, "title": "Moraes Moreira  - Som Brasil", "original_title": "Moraes Moreira  - Som Brasil", "slug_title": "moraes-moreira-som-brasil", "date": "2016-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Aiz2mlS39a3t7C8knZQNEInIbwv.jpg", "actors": [], "comments": [], "recommandations_id": []}

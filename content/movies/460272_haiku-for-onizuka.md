@@ -1,1 +1,0 @@
-{"tmdb_id": 460272, "title": "Haiku (for Onizuka)", "original_title": "Haiku (for Onizuka)", "slug_title": "haiku-for-onizuka", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/um8YJjQ1DD5PsYrcoRKRXApmHDV.jpg", "actors": [], "comments": [], "recommandations_id": []}

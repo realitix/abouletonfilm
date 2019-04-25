@@ -1,1 +1,0 @@
-{"tmdb_id": 520868, "title": "Tananarive, Madagascar", "original_title": "Tananarive, Madagascar", "slug_title": "tananarive-madagascar", "date": "1913-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

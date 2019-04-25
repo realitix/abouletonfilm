@@ -1,1 +1,0 @@
-{"tmdb_id": 438182, "title": "The Making of the President 1960", "original_title": "The Making of the President 1960", "slug_title": "the-making-of-the-president-1960", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

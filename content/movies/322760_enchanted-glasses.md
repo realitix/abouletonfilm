@@ -1,1 +1,0 @@
-{"tmdb_id": 322760, "title": "Enchanted Glasses", "original_title": "Les verres enchant\u00e9s", "slug_title": "enchanted-glasses", "date": "1907-02-01", "genre": "Fantastique", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ysi7wcujFo7tOJQDQ3u7fC3Hano.jpg", "actors": [], "comments": [], "recommandations_id": []}

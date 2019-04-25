@@ -1,1 +1,0 @@
-{"tmdb_id": 190632, "title": "Japanese Village", "original_title": "Japanese Village", "slug_title": "japanese-village", "date": "1901-07-30", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nXyVVEAbTlwO4P4QYtmr8I3KRc4.jpg", "actors": [], "comments": [], "recommandations_id": []}

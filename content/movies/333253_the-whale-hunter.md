@@ -1,1 +1,0 @@
-{"tmdb_id": 333253, "title": "The Whale Hunter", "original_title": "Sa'id aI-Hut", "slug_title": "the-whale-hunter", "date": "1967-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

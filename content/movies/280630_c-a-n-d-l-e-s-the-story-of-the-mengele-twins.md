@@ -1,1 +1,0 @@
-{"tmdb_id": 280630, "title": "C.A.N.D.L.E.S.: The Story of the Mengele Twins", "original_title": "C.A.N.D.L.E.S.: The Story of the Mengele Twins", "slug_title": "c-a-n-d-l-e-s-the-story-of-the-mengele-twins", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

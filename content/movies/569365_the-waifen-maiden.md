@@ -1,1 +1,0 @@
-{"tmdb_id": 569365, "title": "The Waifen Maiden", "original_title": "The Waifen Maiden", "slug_title": "the-waifen-maiden", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 525242, "title": "Bluebeard", "original_title": "Bluebeard", "slug_title": "bluebeard", "date": "", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 323536, "title": "Lots of Penguins In The Wild", "original_title": "Lots of Penguins In The Wild", "slug_title": "lots-of-penguins-in-the-wild", "date": "2007-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

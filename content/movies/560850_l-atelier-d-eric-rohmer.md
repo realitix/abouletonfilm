@@ -1,1 +1,0 @@
-{"tmdb_id": 560850, "title": "L'atelier d'Eric Rohmer", "original_title": "L'atelier d'Eric Rohmer", "slug_title": "l-atelier-d-eric-rohmer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Film documentaire", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

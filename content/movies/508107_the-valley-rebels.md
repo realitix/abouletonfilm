@@ -1,1 +1,0 @@
-{"tmdb_id": 508107, "title": "The Valley Rebels", "original_title": "The Valley Rebels", "slug_title": "the-valley-rebels", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

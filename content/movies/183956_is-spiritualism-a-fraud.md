@@ -1,1 +1,0 @@
-{"tmdb_id": 183956, "title": "Is Spiritualism a Fraud?", "original_title": "Is Spiritualism a Fraud?", "slug_title": "is-spiritualism-a-fraud", "date": "1906-07-01", "genre": "Horreur / Com\u00e9die", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ZZ6oqNmyM9ngAeykmKNeLDVjoB.jpg", "actors": [], "comments": [], "recommandations_id": []}

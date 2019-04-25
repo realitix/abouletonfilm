@@ -1,1 +1,0 @@
-{"tmdb_id": 555696, "title": "Magic Medicine", "original_title": "Magic Medicine", "slug_title": "magic-medicine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

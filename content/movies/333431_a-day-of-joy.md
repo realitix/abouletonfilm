@@ -1,1 +1,0 @@
-{"tmdb_id": 333431, "title": "A Day of Joy", "original_title": "Den radosti", "slug_title": "a-day-of-joy", "date": "1972-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oJ3OARPp6Ovu0uoyHm05CNKN9RQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

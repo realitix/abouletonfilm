@@ -1,1 +1,0 @@
-{"tmdb_id": 48614, "title": "Cowboys: The Conformist", "original_title": "Cowboys: The Conformist", "slug_title": "cowboys-the-conformist", "date": "1991-01-01", "genre": "Animation / Western", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ksrytPvan1NURTgXmUsRIfGPkOP.jpg", "actors": [], "comments": [], "recommandations_id": []}

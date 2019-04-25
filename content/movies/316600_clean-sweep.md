@@ -1,1 +1,0 @@
-{"tmdb_id": 316600, "title": "Clean Sweep", "original_title": "Clean Sweep", "slug_title": "clean-sweep", "date": "1967-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 363876, "title": "Neither God Nor Santa Mar\u00eda", "original_title": "Sin Dios Ni Santa Mar\u00eda", "slug_title": "neither-god-nor-santa-maria", "date": "2015-10-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nctvAZj2y5N7as8yau2RVRcQqfp.jpg", "actors": [], "comments": [], "recommandations_id": []}

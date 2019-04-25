@@ -1,1 +1,0 @@
-{"tmdb_id": 502915, "title": "Storie d'armi e piccoli eroi", "original_title": "Storie d'armi e piccoli eroi", "slug_title": "storie-d-armi-e-piccoli-eroi", "date": "2008-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

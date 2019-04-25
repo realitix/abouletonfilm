@@ -1,1 +1,0 @@
-{"tmdb_id": 498290, "title": "See in Blue", "original_title": "See in Blue", "slug_title": "see-in-blue", "date": "2016-12-20", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qSYgvSw5zEGeomcpGWsdS9sY291.jpg", "actors": ["Dua Lipa (Dua Lipa)"], "comments": [], "recommandations_id": []}

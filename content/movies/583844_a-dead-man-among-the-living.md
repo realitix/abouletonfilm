@@ -1,1 +1,0 @@
-{"tmdb_id": 583844, "title": "A Dead Man among the Living", "original_title": "Mrtv\u00fd mezi \u017eiv\u00fdmi", "slug_title": "a-dead-man-among-the-living", "date": "1947-02-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tT51AlLfy2DsppqAEHYJoMZ2H7s.jpg", "actors": [], "comments": [], "recommandations_id": []}

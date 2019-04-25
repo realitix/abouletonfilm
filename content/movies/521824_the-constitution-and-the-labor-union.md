@@ -1,1 +1,0 @@
-{"tmdb_id": 521824, "title": "The Constitution and the Labor Union", "original_title": "The Constitution and the Labor Union", "slug_title": "the-constitution-and-the-labor-union", "date": "1957-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Trout (Narrator)"], "comments": [], "recommandations_id": []}

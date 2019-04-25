@@ -1,1 +1,0 @@
-{"tmdb_id": 370884, "title": "A Roundabout in My Head", "original_title": "Dans ma t\u00eate un rond-point", "slug_title": "a-roundabout-in-my-head", "date": "2015-07-03", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6IIbIsH7jsVh4HT8b1oNC7IRUq5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 291740, "title": "Seasons of Life", "original_title": "Seasons of Life", "slug_title": "seasons-of-life", "date": "2006-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

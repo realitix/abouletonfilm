@@ -1,1 +1,0 @@
-{"tmdb_id": 342519, "title": "A Wee Bit of Scotland", "original_title": "A Wee Bit of Scotland", "slug_title": "a-wee-bit-of-scotland", "date": "1949-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James A. FitzPatrick (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 591497, "title": "Bourbon Time", "original_title": "\u30d0\u30fc\u30dc\u30f3\u30bf\u30a4\u30e0", "slug_title": "bourbon-time", "date": "1997-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a46aYH1NzoDM0c1uAv2aqTLNfHi.jpg", "actors": [], "comments": [], "recommandations_id": []}

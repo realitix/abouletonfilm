@@ -1,1 +1,0 @@
-{"tmdb_id": 569995, "title": "Dulla Bhatti Wala", "original_title": "Dulla Bhatti Wala", "slug_title": "dulla-bhatti-wala", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

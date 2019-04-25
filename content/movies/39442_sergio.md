@@ -1,1 +1,0 @@
-{"tmdb_id": 39442, "title": "Sergio", "original_title": "Sergio", "slug_title": "sergio", "date": "2009-01-20", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kfHPvMLVXogtu3OSv7q9fxiPotL.jpg", "actors": [], "comments": [], "recommandations_id": []}

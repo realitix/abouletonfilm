@@ -1,1 +1,0 @@
-{"tmdb_id": 38889, "title": "Rock 'n' Roll Forever", "original_title": "Rock 'n' Roll Forever", "slug_title": "rock-n-roll-forever", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

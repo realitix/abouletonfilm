@@ -1,1 +1,0 @@
-{"tmdb_id": 169595, "title": "Electric Purgatory: The Fate of the Black Rocker", "original_title": "Electric Purgatory: The Fate of the Black Rocker", "slug_title": "electric-purgatory-the-fate-of-the-black-rocker", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

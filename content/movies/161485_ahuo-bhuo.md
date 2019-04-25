@@ -1,1 +1,0 @@
-{"tmdb_id": 161485, "title": "A\u8d27B\u8d27", "original_title": "A\u8d27B\u8d27", "slug_title": "ahuo-bhuo", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nKqNu9oFq3rjYNxjtiA3EwOJXys.jpg", "actors": [], "comments": [], "recommandations_id": []}

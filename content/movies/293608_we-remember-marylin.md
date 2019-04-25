@@ -1,1 +1,0 @@
-{"tmdb_id": 293608, "title": "We Remember Marylin", "original_title": "We Remember Marylin", "slug_title": "we-remember-marylin", "date": "1998-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

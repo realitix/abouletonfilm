@@ -1,1 +1,0 @@
-{"tmdb_id": 299539, "title": "The Bad Boy", "original_title": "Zly Chlopiec", "slug_title": "the-bad-boy", "date": "1950-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

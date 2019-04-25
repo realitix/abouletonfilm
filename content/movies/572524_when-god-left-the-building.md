@@ -1,1 +1,0 @@
-{"tmdb_id": 572524, "title": "When God Left the Building", "original_title": "When God Left the Building", "slug_title": "when-god-left-the-building", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ytYRgYtZQp8PR0KfTfz8GBs7ya5.jpg", "actors": [], "comments": [], "recommandations_id": []}

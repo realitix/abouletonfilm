@@ -1,1 +1,0 @@
-{"tmdb_id": 154302, "title": "18 Fatal Strikes", "original_title": "Shi ba luo han quan", "slug_title": "18-fatal-strikes", "date": "1978-01-02", "genre": "Action", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6MUH1XK54L5KIyxwQ9XxPpnHbSZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

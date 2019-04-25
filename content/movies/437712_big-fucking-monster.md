@@ -1,1 +1,0 @@
-{"tmdb_id": 437712, "title": "Big Fucking Monster", "original_title": "Big Fucking Monster", "slug_title": "big-fucking-monster", "date": "2017-02-28", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lxvrb5XkwvcV3XflNcQE3ALlYqN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 291979, "title": "Oh Youth!", "original_title": "Chongchuniyo!", "slug_title": "oh-youth", "date": "1995-01-01", "genre": "Romance / Com\u00e9die / Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yWumJ6GcRAZjxCYSs3SAMtRRGhV.jpg", "actors": ["Jong-pal Jon ()"], "comments": [], "recommandations_id": []}

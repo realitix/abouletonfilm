@@ -1,1 +1,0 @@
-{"tmdb_id": 371583, "title": "Generation L: David Lama", "original_title": "Generation L: David Lama", "slug_title": "generation-l-david-lama", "date": "2004-11-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Lama (David Lama)"], "comments": [], "recommandations_id": []}

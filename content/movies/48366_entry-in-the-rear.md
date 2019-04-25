@@ -1,1 +1,0 @@
-{"tmdb_id": 48366, "title": "Entry in The Rear", "original_title": "Entry in The Rear", "slug_title": "entry-in-the-rear", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kkfBgIzoSkxpdpzo2dAm2acLwNY.jpg", "actors": [], "comments": [], "recommandations_id": []}

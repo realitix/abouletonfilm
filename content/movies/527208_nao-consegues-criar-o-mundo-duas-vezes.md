@@ -1,1 +1,0 @@
-{"tmdb_id": 527208, "title": "N\u00e3o Consegues Criar O Mundo Duas Vezes", "original_title": "N\u00e3o Consegues Criar O Mundo Duas Vezes", "slug_title": "nao-consegues-criar-o-mundo-duas-vezes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

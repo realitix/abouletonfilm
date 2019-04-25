@@ -1,1 +1,0 @@
-{"tmdb_id": 593534, "title": "Vidrios", "original_title": "Vidrios", "slug_title": "vidrios", "date": "2013-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7wz1AzHW8mygBZlOeKlaVwsT60S.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 174505, "title": "Don Quixote", "original_title": "Don Quixote", "slug_title": "don-quixote", "date": "1934-11-15", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eE4OAv5mjlKXYHte7FV83FpKOvn.jpg", "actors": [], "comments": [], "recommandations_id": [175411, 100750, 239278, 125601]}

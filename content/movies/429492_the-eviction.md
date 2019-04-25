@@ -1,1 +1,0 @@
-{"tmdb_id": 429492, "title": "The Eviction", "original_title": "The Eviction", "slug_title": "the-eviction", "date": "1904-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

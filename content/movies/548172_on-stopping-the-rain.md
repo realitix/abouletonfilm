@@ -1,1 +1,0 @@
-{"tmdb_id": 548172, "title": "On Stopping the Rain", "original_title": "Sepatu Baru", "slug_title": "on-stopping-the-rain", "date": "2014-02-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b3UWZAzjGEPpHYmzSrKj7K3FIcL.jpg", "actors": ["Isfira Febiana (Girl)"], "comments": [], "recommandations_id": []}

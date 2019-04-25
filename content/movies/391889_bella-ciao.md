@@ -1,1 +1,0 @@
-{"tmdb_id": 391889, "title": "Bella ciao", "original_title": "Bella ciao", "slug_title": "bella-ciao", "date": "2002-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yckxOD7bdiZ2f7XmlaBy1xxgYZm.jpg", "actors": [], "comments": [], "recommandations_id": []}

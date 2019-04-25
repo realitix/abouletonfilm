@@ -1,1 +1,0 @@
-{"tmdb_id": 379390, "title": "Leo Mania", "original_title": "Leo Mania", "slug_title": "leo-mania", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cLLECpzJgBe87B3azi45qCXE553.jpg", "actors": ["Leonardo D'Antoni ()"], "comments": [], "recommandations_id": []}

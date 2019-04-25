@@ -1,1 +1,0 @@
-{"tmdb_id": 501783, "title": "Dekigokoro", "original_title": "Dekigokoro", "slug_title": "dekigokoro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

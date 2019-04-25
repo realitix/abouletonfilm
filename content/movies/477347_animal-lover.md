@@ -1,1 +1,0 @@
-{"tmdb_id": 477347, "title": "Animal Lover", "original_title": "Een dierenvriend", "slug_title": "animal-lover", "date": "1912-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

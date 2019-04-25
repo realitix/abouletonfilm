@@ -1,1 +1,0 @@
-{"tmdb_id": 126806, "title": "Vultures Don't Eat Vans", "original_title": "Vultures Don't Eat Vans", "slug_title": "vultures-don-t-eat-vans", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nrZDPABW7offj0NT0FOvxQcmpdY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 413488, "title": "Equator: Power of an Ocean", "original_title": "Equator: Power of an Ocean", "slug_title": "equator-power-of-an-ocean", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wJwDWD6hsye3xW8EPhJdOCKnDP3.jpg", "actors": [], "comments": [], "recommandations_id": []}

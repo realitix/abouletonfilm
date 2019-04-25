@@ -1,1 +1,1 @@
-{"tmdb_id": 529268, "title": "Carnavalha", "original_title": "Carnavalha", "slug_title": "carnavalha", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 529268, "title": "Carnavalha", "original_title": "Carnavalha", "slug_title": "carnavalha", "date": "", "genre": ["Thriller"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

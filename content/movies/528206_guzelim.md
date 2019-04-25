@@ -1,1 +1,0 @@
-{"tmdb_id": 528206, "title": "G\u00fczelim", "original_title": "G\u00fczelim", "slug_title": "guzelim", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aKHN7dAG7eFqlk64vskKpL1QJTe.jpg", "actors": ["Serpil \u00c7akmakl\u0131 ()", "Tar\u0131k Tarcan ()"], "comments": [], "recommandations_id": []}

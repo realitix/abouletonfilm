@@ -1,1 +1,0 @@
-{"tmdb_id": 561686, "title": "Airport Below  zero", "original_title": "Airport Below  zero", "slug_title": "airport-below-zero", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

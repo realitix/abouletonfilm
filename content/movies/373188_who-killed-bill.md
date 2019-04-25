@@ -1,1 +1,0 @@
-{"tmdb_id": 373188, "title": "Who Killed Bill?", "original_title": "Who Killed Bill?", "slug_title": "who-killed-bill", "date": "2010-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bEPHcB9glaAi9lUJUUEgw5w8t3L.jpg", "actors": [], "comments": [], "recommandations_id": []}

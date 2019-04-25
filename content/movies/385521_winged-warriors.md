@@ -1,1 +1,0 @@
-{"tmdb_id": 385521, "title": "Winged Warriors", "original_title": "Winged Warriors", "slug_title": "winged-warriors", "date": "2015-10-12", "genre": "Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4JnahEW3b0XVfGHta9JOfo5UTG8.jpg", "actors": [], "comments": [], "recommandations_id": []}

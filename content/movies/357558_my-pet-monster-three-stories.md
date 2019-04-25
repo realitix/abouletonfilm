@@ -1,1 +1,0 @@
-{"tmdb_id": 357558, "title": "My Pet Monster - Three Stories", "original_title": "My Pet Monster - Three Stories", "slug_title": "my-pet-monster-three-stories", "date": "1985-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lUdizzuQ2sBRv5giIUvYHRELPNc.jpg", "actors": [], "comments": [], "recommandations_id": []}

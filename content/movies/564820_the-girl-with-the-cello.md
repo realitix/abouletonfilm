@@ -1,1 +1,0 @@
-{"tmdb_id": 564820, "title": "The Girl with the Cello", "original_title": "La fille au violoncelle", "slug_title": "the-girl-with-the-cello", "date": "1973-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fiG7AGwvogCyzfQknVrzdQaDzn2.jpg", "actors": [], "comments": [], "recommandations_id": []}

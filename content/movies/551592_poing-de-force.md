@@ -1,1 +1,0 @@
-{"tmdb_id": 551592, "title": "Poing de Force", "original_title": "Poing de Force", "slug_title": "poing-de-force", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kZu6euNasGkeEPNOwzY5f6CMHRr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 324329, "title": "We Like It Like That", "original_title": "We Like It Like That", "slug_title": "we-like-it-like-that", "date": "", "genre": "Histoire / Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

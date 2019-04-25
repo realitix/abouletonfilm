@@ -1,1 +1,0 @@
-{"tmdb_id": 243046, "title": "A City Decides", "original_title": "A City Decides", "slug_title": "a-city-decides", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

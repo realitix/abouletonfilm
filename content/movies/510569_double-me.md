@@ -1,1 +1,0 @@
-{"tmdb_id": 510569, "title": "Double Me", "original_title": "Doble yo", "slug_title": "double-me", "date": "2018-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a12olNIWc9ktt6wKBv19SO65v7F.jpg", "actors": [], "comments": [], "recommandations_id": []}

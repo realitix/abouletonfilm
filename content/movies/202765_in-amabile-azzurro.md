@@ -1,1 +1,0 @@
-{"tmdb_id": 202765, "title": "In amabile azzurro", "original_title": "In amabile azzurro", "slug_title": "in-amabile-azzurro", "date": "2008-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vTtCDXJwpD0a7koXRbWKDhi70PP.jpg", "actors": [], "comments": [], "recommandations_id": []}

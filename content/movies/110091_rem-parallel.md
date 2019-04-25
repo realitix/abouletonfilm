@@ -1,1 +1,0 @@
-{"tmdb_id": 110091, "title": "REM: Parallel", "original_title": "REM: Parallel", "slug_title": "rem-parallel", "date": "1995-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q6oBljE33MQa4DeWGhqtUoA9qS3.jpg", "actors": ["R.E.M. ()"], "comments": [], "recommandations_id": []}

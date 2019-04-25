@@ -1,1 +1,0 @@
-{"tmdb_id": 379671, "title": "Choppin' Blades", "original_title": "Choppin' Blades", "slug_title": "choppin-blades", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/prRcXOY8A4jTmvMX9KGHFzjqvjT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 426903, "title": "Buffalo Running", "original_title": "Buffalo Running", "slug_title": "buffalo-running", "date": "1883-11-19", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b0Z1VeG6Rq7b42bfeBqhxO5Nba3.jpg", "actors": [], "comments": [], "recommandations_id": [336380, 315946, 105153, 312452]}

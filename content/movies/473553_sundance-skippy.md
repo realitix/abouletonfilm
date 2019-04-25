@@ -1,1 +1,0 @@
-{"tmdb_id": 473553, "title": "Sundance Skippy", "original_title": "Sundance Skippy", "slug_title": "sundance-skippy", "date": "2010-01-21", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jzoM0ebH5lrIP8aDdaDZVT65lKg.jpg", "actors": [], "comments": [], "recommandations_id": [60035, 21780, 27007, 482004]}

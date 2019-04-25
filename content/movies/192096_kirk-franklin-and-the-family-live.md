@@ -1,1 +1,0 @@
-{"tmdb_id": 192096, "title": "Kirk Franklin and the Family: Live", "original_title": "Kirk Franklin and the Family: Live", "slug_title": "kirk-franklin-and-the-family-live", "date": "2003-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kirk Franklin (Himself)"], "comments": [], "recommandations_id": []}

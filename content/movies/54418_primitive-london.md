@@ -1,1 +1,0 @@
-{"tmdb_id": 54418, "title": "Primitive London", "original_title": "Primitive London", "slug_title": "primitive-london", "date": "1965-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/94laGsjzPaNcm78CkWCCst5pAhZ.jpg", "actors": ["David Gell (Narrator)"], "comments": [], "recommandations_id": []}

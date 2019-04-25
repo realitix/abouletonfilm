@@ -1,1 +1,0 @@
-{"tmdb_id": 397240, "title": "Papier Hier", "original_title": "Papier Hier", "slug_title": "papier-hier", "date": "2010-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9PFiMu85iTsCStLB7Y4oSSUjlEe.jpg", "actors": [], "comments": [], "recommandations_id": []}

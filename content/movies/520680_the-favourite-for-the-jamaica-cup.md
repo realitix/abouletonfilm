@@ -1,1 +1,0 @@
-{"tmdb_id": 520680, "title": "The Favourite for the Jamaica Cup", "original_title": "The Favourite for the Jamaica Cup", "slug_title": "the-favourite-for-the-jamaica-cup", "date": "1913-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

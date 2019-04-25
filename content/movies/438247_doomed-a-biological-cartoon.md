@@ -1,1 +1,0 @@
-{"tmdb_id": 438247, "title": "Doomed: A Biological Cartoon!", "original_title": "Doomed: A Biological Cartoon!", "slug_title": "doomed-a-biological-cartoon", "date": "2011-01-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

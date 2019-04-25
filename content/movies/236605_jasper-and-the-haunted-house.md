@@ -1,1 +1,0 @@
-{"tmdb_id": 236605, "title": "Jasper and the Haunted House", "original_title": "Jasper and the Haunted House", "slug_title": "jasper-and-the-haunted-house", "date": "1942-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ps7MnOAI6yOXVKsngI1Dgb5UGQn.jpg", "actors": [], "comments": [], "recommandations_id": []}

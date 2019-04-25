@@ -1,1 +1,0 @@
-{"tmdb_id": 375330, "title": "Almost Human", "original_title": "Almost Human", "slug_title": "almost-human", "date": "1927-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p2MRkcpNnrqBEhILfkNJU4Dk3QP.jpg", "actors": [], "comments": [], "recommandations_id": []}

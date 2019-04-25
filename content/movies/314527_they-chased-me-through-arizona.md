@@ -1,1 +1,0 @@
-{"tmdb_id": 314527, "title": "They Chased Me Through Arizona", "original_title": "They Chased Me Through Arizona", "slug_title": "they-chased-me-through-arizona", "date": "2014-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/32AzV8230FQnthkm1nmgvSlV8Sf.jpg", "actors": [], "comments": [], "recommandations_id": []}

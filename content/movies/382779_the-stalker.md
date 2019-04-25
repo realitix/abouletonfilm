@@ -1,1 +1,0 @@
-{"tmdb_id": 382779, "title": "The Stalker", "original_title": "The Stalker", "slug_title": "the-stalker", "date": "2015-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Reuben Harvey ()", "Adam Howe ()"], "comments": [], "recommandations_id": []}

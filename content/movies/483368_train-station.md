@@ -1,1 +1,0 @@
-{"tmdb_id": 483368, "title": "Train Station", "original_title": "Train Station", "slug_title": "train-station", "date": "2015-11-06", "genre": "Drame / Com\u00e9die / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/akRvrUwcToMYyVj36oZLcscqN84.jpg", "actors": [], "comments": [], "recommandations_id": []}

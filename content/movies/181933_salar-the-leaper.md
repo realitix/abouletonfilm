@@ -1,1 +1,0 @@
-{"tmdb_id": 181933, "title": "Salar, the Leaper", "original_title": "Salar, the Leaper", "slug_title": "salar-the-leaper", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 258160, "title": "One Simple Question", "original_title": "One Simple Question", "slug_title": "one-simple-question", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tIv6x88SFNSqVIwSjFz04tA4DNN.jpg", "actors": [], "comments": [], "recommandations_id": []}

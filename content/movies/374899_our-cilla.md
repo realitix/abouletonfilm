@@ -1,1 +1,0 @@
-{"tmdb_id": 374899, "title": "Our Cilla", "original_title": "Our Cilla", "slug_title": "our-cilla", "date": "2015-12-25", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul O'Grady (Himself)", "Cliff Richard (Himself)", "Elaine Paige (Herself)", "Christopher Biggins (Himself)"], "comments": [], "recommandations_id": []}

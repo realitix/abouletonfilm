@@ -1,1 +1,0 @@
-{"tmdb_id": 444259, "title": "Zillertal", "original_title": "Zillertal", "slug_title": "zillertal", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w4pNckSKPkcENkAOJDs1EHGUs11.jpg", "actors": [], "comments": [], "recommandations_id": []}

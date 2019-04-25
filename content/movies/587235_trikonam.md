@@ -1,1 +1,0 @@
-{"tmdb_id": 587235, "title": "Trikonam", "original_title": "\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bcb\u0ba3\u0bae\u0bcd", "slug_title": "trikonam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xpBgJUuSOOOAdFQ0Fp6LkwdSGM5.jpg", "actors": [], "comments": [], "recommandations_id": []}

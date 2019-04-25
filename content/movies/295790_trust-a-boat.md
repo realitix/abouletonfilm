@@ -1,1 +1,0 @@
-{"tmdb_id": 295790, "title": "Trust a Boat", "original_title": "Trust a Boat", "slug_title": "trust-a-boat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

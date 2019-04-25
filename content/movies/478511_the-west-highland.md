@@ -1,1 +1,0 @@
-{"tmdb_id": 478511, "title": "The West Highland", "original_title": "The West Highland", "slug_title": "the-west-highland", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dJXUNLEqRni6eQc6A0xnYpDh4zz.jpg", "actors": [], "comments": [], "recommandations_id": []}

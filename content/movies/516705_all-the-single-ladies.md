@@ -1,1 +1,0 @@
-{"tmdb_id": 516705, "title": "All the Single Ladies", "original_title": "All the Single Ladies", "slug_title": "all-the-single-ladies", "date": "2017-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wBJkexHQDajmzIP44r6oBs7Gjxj.jpg", "actors": [], "comments": [], "recommandations_id": []}

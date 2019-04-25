@@ -1,1 +1,0 @@
-{"tmdb_id": 249511, "title": "Sad Tropics", "original_title": "Triste Tr\u00f3pico", "slug_title": "sad-tropics", "date": "1974-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5NXizYavW6DS8J50PTAiev9tGOF.jpg", "actors": ["Othon Bastos ((voice))"], "comments": [], "recommandations_id": []}

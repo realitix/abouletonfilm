@@ -1,1 +1,0 @@
-{"tmdb_id": 409212, "title": "Ettekaal Second", "original_title": "Ettekaal Second", "slug_title": "ettekaal-second", "date": "2014-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gWeSXuo3zURAd6EdvkIvdjjXPRi.jpg", "actors": ["Govind Padmasoorya ()", "Mia George ()"], "comments": [], "recommandations_id": []}

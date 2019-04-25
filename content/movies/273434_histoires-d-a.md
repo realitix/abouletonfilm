@@ -1,1 +1,0 @@
-{"tmdb_id": 273434, "title": "Histoires d'A", "original_title": "Histoires d'A", "slug_title": "histoires-d-a", "date": "1974-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ugdaK8T8u9XGgWqQJBxNqiVgLBM.jpg", "actors": [], "comments": [], "recommandations_id": []}

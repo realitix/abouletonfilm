@@ -1,1 +1,0 @@
-{"tmdb_id": 420621, "title": "La mancha", "original_title": "La mancha", "slug_title": "la-mancha", "date": "2009-08-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Te\u00f3filo Torres (Sacar\u00edas)", "Norman Santiago (Chago)"], "comments": [], "recommandations_id": []}

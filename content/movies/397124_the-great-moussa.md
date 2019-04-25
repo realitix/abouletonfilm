@@ -1,1 +1,0 @@
-{"tmdb_id": 397124, "title": "The Great Moussa", "original_title": "Le grand Moussa", "slug_title": "the-great-moussa", "date": "1984-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

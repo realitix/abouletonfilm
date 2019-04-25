@@ -1,1 +1,0 @@
-{"tmdb_id": 360562, "title": "Studio Black!", "original_title": "Studio Black!", "slug_title": "studio-black", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

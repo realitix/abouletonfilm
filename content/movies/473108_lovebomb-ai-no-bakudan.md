@@ -1,1 +1,0 @@
-{"tmdb_id": 473108, "title": "Lovebomb/Ai No Bakudan", "original_title": "Lovebomb/Ai No Bakudan", "slug_title": "lovebomb-ai-no-bakudan", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

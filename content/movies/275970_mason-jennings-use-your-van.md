@@ -1,1 +1,0 @@
-{"tmdb_id": 275970, "title": "Mason Jennings: Use Your Van", "original_title": "Mason Jennings: Use Your Van", "slug_title": "mason-jennings-use-your-van", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

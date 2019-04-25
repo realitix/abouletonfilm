@@ -1,1 +1,0 @@
-{"tmdb_id": 244939, "title": "Sunrise Over Tiananmen Square", "original_title": "Sunrise Over Tiananmen Square", "slug_title": "sunrise-over-tiananmen-square", "date": "1998-10-16", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j37706nxrOupyLyBNw75EUvshBx.jpg", "actors": [], "comments": [], "recommandations_id": []}

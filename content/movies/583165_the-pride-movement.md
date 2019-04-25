@@ -1,1 +1,0 @@
-{"tmdb_id": 583165, "title": "The Pride Movement", "original_title": "The Pride Movement", "slug_title": "the-pride-movement", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aLqgZ9cKKgNjXXSKZ0k2aop3a0b.jpg", "actors": [], "comments": [], "recommandations_id": []}

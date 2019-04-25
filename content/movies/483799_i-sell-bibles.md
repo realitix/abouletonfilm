@@ -1,1 +1,0 @@
-{"tmdb_id": 483799, "title": "I Sell Bibles", "original_title": "I Sell Bibles", "slug_title": "i-sell-bibles", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

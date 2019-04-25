@@ -1,1 +1,0 @@
-{"tmdb_id": 358730, "title": "...All That Mighty Heart...", "original_title": "...All That Mighty Heart...", "slug_title": "all-that-mighty-heart", "date": "1962-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

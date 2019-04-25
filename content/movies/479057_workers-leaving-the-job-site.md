@@ -1,1 +1,0 @@
-{"tmdb_id": 479057, "title": "Workers Leaving the Job Site", "original_title": "Workers Leaving the Job Site", "slug_title": "workers-leaving-the-job-site", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g0VumUFV0yMXIhBrShHRQzugavP.jpg", "actors": [], "comments": [], "recommandations_id": []}

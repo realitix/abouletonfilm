@@ -1,1 +1,0 @@
-{"tmdb_id": 211996, "title": "Fogonero del delirio", "original_title": "Fogonero del delirio", "slug_title": "fogonero-del-delirio", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nw4kerRzoWBBXr8HFG9pZnWckU3.jpg", "actors": [], "comments": [], "recommandations_id": []}

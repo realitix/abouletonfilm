@@ -1,1 +1,0 @@
-{"tmdb_id": 47997, "title": "Take Me to the Plaza", "original_title": "Take Me to the Plaza", "slug_title": "take-me-to-the-plaza", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonathan Richman (Jonathan Richman)"], "comments": [], "recommandations_id": []}

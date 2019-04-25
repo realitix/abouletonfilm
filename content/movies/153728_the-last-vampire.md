@@ -1,1 +1,0 @@
-{"tmdb_id": 153728, "title": "The last vampire", "original_title": "The last vampire", "slug_title": "the-last-vampire", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

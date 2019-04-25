@@ -1,1 +1,0 @@
-{"tmdb_id": 170447, "title": "21 Sexiest Beaches", "original_title": "21 Sexiest Beaches", "slug_title": "21-sexiest-beaches", "date": "2008-03-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1EagZBUxK5o84e54Ea4TOy2Mcnt.jpg", "actors": [], "comments": [], "recommandations_id": []}

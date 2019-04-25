@@ -1,1 +1,0 @@
-{"tmdb_id": 415659, "title": "The Automobile Thieves", "original_title": "The Automobile Thieves", "slug_title": "the-automobile-thieves", "date": "1906-11-10", "genre": "Drame / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

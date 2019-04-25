@@ -1,1 +1,0 @@
-{"tmdb_id": 395559, "title": "You Take Care Now", "original_title": "You Take Care Now", "slug_title": "you-take-care-now", "date": "1989-01-01", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qRhk4R5RdSM9uGtGPBBRR5sDS6H.jpg", "actors": [], "comments": [], "recommandations_id": []}

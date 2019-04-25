@@ -1,1 +1,0 @@
-{"tmdb_id": 335234, "title": "Photographic Convention of 1898", "original_title": "Photographic Convention of 1898", "slug_title": "photographic-convention-of-1898", "date": "1898-01-01", "genre": "Documentaire", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

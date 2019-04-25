@@ -1,1 +1,0 @@
-{"tmdb_id": 313856, "title": "Return to Mushsnail: The Legend of the Snowmill", "original_title": "Return to Mushsnail: The Legend of the Snowmill", "slug_title": "return-to-mushsnail-the-legend-of-the-snowmill", "date": "2004-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

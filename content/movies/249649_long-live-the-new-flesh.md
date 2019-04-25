@@ -1,1 +1,0 @@
-{"tmdb_id": 249649, "title": "Long Live the New Flesh", "original_title": "Long Live the New Flesh", "slug_title": "long-live-the-new-flesh", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gFc8FYfnqqtmniVe68HIflaDtoV.jpg", "actors": [], "comments": [], "recommandations_id": []}

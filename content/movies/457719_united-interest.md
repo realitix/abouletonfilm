@@ -1,1 +1,0 @@
-{"tmdb_id": 457719, "title": "United Interest", "original_title": "United Interest", "slug_title": "united-interest", "date": "2016-02-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

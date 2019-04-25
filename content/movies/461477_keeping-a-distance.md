@@ -1,1 +1,0 @@
-{"tmdb_id": 461477, "title": "Keeping a Distance", "original_title": "Odosobnen\u00ed", "slug_title": "keeping-a-distance", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s3HXR2dd6bzGFUVhbc4rLlQp37a.jpg", "actors": [], "comments": [], "recommandations_id": []}

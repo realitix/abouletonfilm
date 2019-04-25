@@ -1,1 +1,0 @@
-{"tmdb_id": 369989, "title": "Hot Cargo", "original_title": "Hot Cargo", "slug_title": "hot-cargo", "date": "1946-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tFceVs8Ay6ekwKPRs3thd21JSzP.jpg", "actors": [], "comments": [], "recommandations_id": []}

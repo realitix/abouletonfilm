@@ -1,1 +1,0 @@
-{"tmdb_id": 473022, "title": "Don Miguel", "original_title": "Don Miguel", "slug_title": "don-miguel", "date": "2014-11-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aC66qnxvo1Ia4SkS4xr0i5ttuKO.jpg", "actors": ["Eriz Alberdi (Don Miguel)", "Joseba Apaolaza (Eugenio)"], "comments": [], "recommandations_id": []}

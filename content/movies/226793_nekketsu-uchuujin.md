@@ -1,1 +1,0 @@
-{"tmdb_id": 226793, "title": "Nekketsu Uchuujin", "original_title": "Nekketsu Uchuujin", "slug_title": "nekketsu-uchuujin", "date": "2009-10-30", "genre": "Animation / Com\u00e9die / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

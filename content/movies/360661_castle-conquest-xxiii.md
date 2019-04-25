@@ -1,1 +1,0 @@
-{"tmdb_id": 360661, "title": "Castle Conquest XXIII", "original_title": "Castle Conquest XXIII", "slug_title": "castle-conquest-xxiii", "date": "2007-09-30", "genre": "Action / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

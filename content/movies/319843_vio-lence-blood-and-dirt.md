@@ -1,1 +1,0 @@
-{"tmdb_id": 319843, "title": "Vio-Lence: Blood and Dirt", "original_title": "Vio-Lence: Blood and Dirt", "slug_title": "vio-lence-blood-and-dirt", "date": "2006-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4IPD9S7AQCREF3KiN6n7bFDfaKQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

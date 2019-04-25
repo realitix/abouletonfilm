@@ -1,1 +1,0 @@
-{"tmdb_id": 404841, "title": "Celibacy", "original_title": "Celibacy", "slug_title": "celibacy", "date": "2004-06-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

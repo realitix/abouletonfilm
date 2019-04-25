@@ -1,1 +1,0 @@
-{"tmdb_id": 339760, "title": "Columbus on Trial", "original_title": "Columbus on Trial", "slug_title": "columbus-on-trial", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9flYlrTY55dRK5j7oRtTTVqynEG.jpg", "actors": [], "comments": [], "recommandations_id": []}

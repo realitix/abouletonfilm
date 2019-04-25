@@ -1,1 +1,0 @@
-{"tmdb_id": 290284, "title": "Skeshekeshe", "original_title": "Skeshekeshe", "slug_title": "skeshekeshe", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vJ9cT1jinyEDq8uAz4pXAiV0uug.jpg", "actors": ["Alfred Ntombela (Skeshekeshe)", "Dirk Van Vuuren ()"], "comments": [], "recommandations_id": []}

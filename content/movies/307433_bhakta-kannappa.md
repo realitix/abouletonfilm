@@ -1,1 +1,0 @@
-{"tmdb_id": 307433, "title": "Bhakta Kannappa", "original_title": "Bhakta Kannappa", "slug_title": "bhakta-kannappa", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

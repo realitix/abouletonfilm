@@ -1,1 +1,0 @@
-{"tmdb_id": 415828, "title": "The Life of George Washington", "original_title": "The Life of George Washington", "slug_title": "the-life-of-george-washington", "date": "1909-06-29", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

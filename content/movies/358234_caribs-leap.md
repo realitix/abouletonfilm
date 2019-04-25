@@ -1,1 +1,0 @@
-{"tmdb_id": 358234, "title": "Caribs' Leap", "original_title": "Caribs' Leap", "slug_title": "caribs-leap", "date": "2002-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

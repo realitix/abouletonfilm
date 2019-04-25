@@ -1,1 +1,0 @@
-{"tmdb_id": 226246, "title": "Karo and Piyobupt: The Sandwiches", "original_title": "Karo and Piyobupt: Sandoitti", "slug_title": "karo-and-piyobupt-the-sandwiches", "date": "1993-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/CvyvKreAfXLYCKgaxTfwmyENE3.jpg", "actors": [], "comments": [], "recommandations_id": []}

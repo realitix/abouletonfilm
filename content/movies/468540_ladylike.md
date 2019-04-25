@@ -1,1 +1,0 @@
-{"tmdb_id": 468540, "title": "Ladylike", "original_title": "Ladylike", "slug_title": "ladylike", "date": "2014-11-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nia Jervier (Vaughan)", "Christine McGraw (Vivian)", "Courtney Sauls (Harlan)", "Michele Pulisci (Guy in trunk)"], "comments": [], "recommandations_id": []}

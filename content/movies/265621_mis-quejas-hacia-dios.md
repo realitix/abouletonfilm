@@ -1,1 +1,0 @@
-{"tmdb_id": 265621, "title": "Mis Quejas hacia Dios", "original_title": "Mis Quejas hacia Dios", "slug_title": "mis-quejas-hacia-dios", "date": "2011-08-15", "genre": "Fantastique / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

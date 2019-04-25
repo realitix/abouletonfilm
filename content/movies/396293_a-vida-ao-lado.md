@@ -1,1 +1,0 @@
-{"tmdb_id": 396293, "title": "A Vida ao Lado", "original_title": "A Vida ao Lado", "slug_title": "a-vida-ao-lado", "date": "2006-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leonardo Medeiros ()", "Larissa Salgado ()", "Vin\u00edcius Ferreira ()"], "comments": [], "recommandations_id": []}

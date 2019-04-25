@@ -1,1 +1,0 @@
-{"tmdb_id": 569362, "title": "Freedom's Skyway", "original_title": "Freedom's Skyway", "slug_title": "freedom-s-skyway", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

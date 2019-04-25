@@ -1,1 +1,0 @@
-{"tmdb_id": 252500, "title": "Club Sandwich", "original_title": "Club Sandwich", "slug_title": "club-sandwich", "date": "1931-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

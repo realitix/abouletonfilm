@@ -1,1 +1,0 @@
-{"tmdb_id": 509804, "title": "The Dress", "original_title": "The Dress", "slug_title": "the-dress", "date": "2014-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bppzBqzSZxON1QkDAMjdsn7Dab9.jpg", "actors": [], "comments": [], "recommandations_id": []}

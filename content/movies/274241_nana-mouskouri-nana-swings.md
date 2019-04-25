@@ -1,1 +1,0 @@
-{"tmdb_id": 274241, "title": "Nana Mouskouri: Nana Swings", "original_title": "Nana Mouskouri: Nana Swings", "slug_title": "nana-mouskouri-nana-swings", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

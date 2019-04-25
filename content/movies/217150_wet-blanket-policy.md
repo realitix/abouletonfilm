@@ -1,1 +1,0 @@
-{"tmdb_id": 217150, "title": "Wet Blanket Policy", "original_title": "Wet Blanket Policy", "slug_title": "wet-blanket-policy", "date": "1948-08-19", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g4CAU4NrJwwfrkt5nh8NYbydRly.jpg", "actors": [], "comments": [], "recommandations_id": []}

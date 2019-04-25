@@ -1,1 +1,0 @@
-{"tmdb_id": 494427, "title": "Blind Spot", "original_title": "Blind Spot", "slug_title": "blind-spot", "date": "2017-03-24", "genre": "Com\u00e9die", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Becca Scott Kerns (Beth)", "Laura Malone Hunt (Lisa)"], "comments": [], "recommandations_id": []}

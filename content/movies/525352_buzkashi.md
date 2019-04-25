@@ -1,1 +1,0 @@
-{"tmdb_id": 525352, "title": "Buzkashi!", "original_title": "Buzkashi!", "slug_title": "buzkashi", "date": "2012-04-29", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c9OFGgtGSefJlk7K16GkYTzxSmL.jpg", "actors": [], "comments": [], "recommandations_id": []}

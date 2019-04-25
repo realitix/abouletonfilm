@@ -1,1 +1,0 @@
-{"tmdb_id": 385893, "title": "Road Kings", "original_title": "Road Kings", "slug_title": "road-kings", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

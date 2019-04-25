@@ -1,1 +1,0 @@
-{"tmdb_id": 465812, "title": "Sport Thrills: Snow Foolin'", "original_title": "Sport Thrills: Snow Foolin'", "slug_title": "sport-thrills-snow-foolin", "date": "1938-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

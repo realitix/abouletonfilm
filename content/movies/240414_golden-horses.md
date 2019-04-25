@@ -1,1 +1,0 @@
-{"tmdb_id": 240414, "title": "Golden Horses", "original_title": "Golden Horses", "slug_title": "golden-horses", "date": "1946-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

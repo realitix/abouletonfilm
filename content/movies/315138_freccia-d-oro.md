@@ -1,1 +1,0 @@
-{"tmdb_id": 315138, "title": "Freccia d'oro", "original_title": "Freccia d'oro", "slug_title": "freccia-d-oro", "date": "1935-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

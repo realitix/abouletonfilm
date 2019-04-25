@@ -1,1 +1,0 @@
-{"tmdb_id": 235009, "title": "Patriotic Popeye", "original_title": "Patriotic Popeye", "slug_title": "patriotic-popeye", "date": "1957-05-10", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bQ1zhfQVuZ5VLPUA5CKPrwdW6Vz.jpg", "actors": [], "comments": [], "recommandations_id": []}

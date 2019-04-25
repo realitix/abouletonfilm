@@ -1,1 +1,0 @@
-{"tmdb_id": 573827, "title": "The Coming of Sunbeam", "original_title": "The Coming of Sunbeam", "slug_title": "the-coming-of-sunbeam", "date": "1913-01-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

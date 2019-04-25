@@ -1,1 +1,0 @@
-{"tmdb_id": 548030, "title": "Meteorlight", "original_title": "Meteorlight", "slug_title": "meteorlight", "date": "2018-11-19", "genre": "Animation / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/77T6lo3oeIzJkO22Tp6dKUdsi7A.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 453704, "title": "Cat Fight", "original_title": "Ri\u00f1a de gatos", "slug_title": "cat-fight", "date": "2017-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kBn57frxxSTrkH0xeQzgJrS08Uf.jpg", "actors": [], "comments": [], "recommandations_id": []}

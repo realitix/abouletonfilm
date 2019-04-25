@@ -1,1 +1,0 @@
-{"tmdb_id": 581549, "title": "Picking for Picasso", "original_title": "Picking for Picasso", "slug_title": "picking-for-picasso", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rw44AOh9xzAo8LYtKEKX2aHbmDJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

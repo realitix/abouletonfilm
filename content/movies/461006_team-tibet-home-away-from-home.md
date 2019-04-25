@@ -1,1 +1,0 @@
-{"tmdb_id": 461006, "title": "TEAM TIBET: Home Away from Home", "original_title": "TEAM TIBET: Home Away from Home", "slug_title": "team-tibet-home-away-from-home", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

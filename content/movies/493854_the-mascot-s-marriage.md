@@ -1,1 +1,0 @@
-{"tmdb_id": 493854, "title": "The Mascot's Marriage", "original_title": "F\u00e9tiche se marie", "slug_title": "the-mascot-s-marriage", "date": "1935-07-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

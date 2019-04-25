@@ -1,1 +1,0 @@
-{"tmdb_id": 438274, "title": "Var\u00f0eldur", "original_title": "Var\u00f0eldur", "slug_title": "vardeldur", "date": "2012-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cM6bpIfkUREzWP3s48waJqMQOzf.jpg", "actors": ["Selma Banich ()"], "comments": [], "recommandations_id": []}

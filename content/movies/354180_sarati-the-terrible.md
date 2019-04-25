@@ -1,1 +1,0 @@
-{"tmdb_id": 354180, "title": "Sarati the Terrible", "original_title": "Sarati, le terrible", "slug_title": "sarati-the-terrible", "date": "1937-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tbwixkmcdAGJhTJfcYcUaid8Y49.jpg", "actors": ["Harry Baur (Cesar Sarati)"], "comments": [], "recommandations_id": []}

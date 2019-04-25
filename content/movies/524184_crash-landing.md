@@ -1,1 +1,0 @@
-{"tmdb_id": 524184, "title": "Crash Landing", "original_title": "Crash Landing", "slug_title": "crash-landing", "date": "", "genre": "Action / Aventure / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charlton Heston ()", "James Coburn ()", "Richard Thomas ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 568839, "title": "Fantasy Pea", "original_title": "Ervilha da Fantasia", "slug_title": "fantasy-pea", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sylvio Back (Sylvio Back)", "Paulo Leminski (Paulo Leminski)", "Paulo Friebe (Paulo Friebe)"], "comments": [], "recommandations_id": []}

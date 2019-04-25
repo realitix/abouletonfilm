@@ -1,1 +1,0 @@
-{"tmdb_id": 371710, "title": "Seamstress", "original_title": "Ompelijatar", "slug_title": "seamstress", "date": "2015-09-25", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fT6stCOfRHhTy2AjLiWtnXno0Sv.jpg", "actors": ["Martta Koskinen (Herself)"], "comments": [], "recommandations_id": []}

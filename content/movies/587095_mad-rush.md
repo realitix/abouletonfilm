@@ -1,1 +1,0 @@
-{"tmdb_id": 587095, "title": "Mad Rush", "original_title": "Mad Rush", "slug_title": "mad-rush", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ake1bNZGoFbSbR2aEEE81HdFQpq.jpg", "actors": [], "comments": [], "recommandations_id": []}

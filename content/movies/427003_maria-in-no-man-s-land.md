@@ -1,1 +1,0 @@
-{"tmdb_id": 427003, "title": "Mar\u00eda in No Man's Land", "original_title": "Mar\u00eda en tierra de nadie", "slug_title": "maria-in-no-man-s-land", "date": "2011-09-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cT5zXtgUOpJ5xTOv8Njacev9qAp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 75528, "title": "Meet the Vowels", "original_title": "Meet the Vowels", "slug_title": "meet-the-vowels", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

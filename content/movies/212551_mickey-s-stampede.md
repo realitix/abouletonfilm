@@ -1,1 +1,0 @@
-{"tmdb_id": 212551, "title": "Mickey's Stampede", "original_title": "Mickey's Stampede", "slug_title": "mickey-s-stampede", "date": "1931-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mickey Rooney (Mickey McGuire)", "Delia Bogard ()", "Billy Barty (Mickey's Brother)"], "comments": [], "recommandations_id": []}

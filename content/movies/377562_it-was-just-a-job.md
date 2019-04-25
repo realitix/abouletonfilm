@@ -1,1 +1,0 @@
-{"tmdb_id": 377562, "title": "(It Was) Just a Job", "original_title": "(It Was) Just a Job", "slug_title": "it-was-just-a-job", "date": "1992-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ApNMiSbvoRWfaYv30wPWsCixeXX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 190624, "title": "Morecambe Church Lads' Brigade at Drill", "original_title": "Morecambe Church Lads' Brigade at Drill", "slug_title": "morecambe-church-lads-brigade-at-drill", "date": "1901-07-03", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

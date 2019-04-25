@@ -1,1 +1,0 @@
-{"tmdb_id": 271032, "title": "Crop Circles: What Do They Mean?", "original_title": "Crop Circles: What Do They Mean?", "slug_title": "crop-circles-what-do-they-mean", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

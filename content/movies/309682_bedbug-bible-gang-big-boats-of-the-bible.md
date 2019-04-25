@@ -1,1 +1,0 @@
-{"tmdb_id": 309682, "title": "Bedbug Bible Gang: Big Boats of the Bible", "original_title": "Bedbug Bible Gang: Big Boats of the Bible", "slug_title": "bedbug-bible-gang-big-boats-of-the-bible", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 574749, "title": "The Heart Breaker", "original_title": "The Heart Breaker", "slug_title": "the-heart-breaker", "date": "1925-10-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sidney Smith ()", "Judy King ()", "Jack Henderson ()", "Jerry Madden (Little Boy)"], "comments": [], "recommandations_id": []}

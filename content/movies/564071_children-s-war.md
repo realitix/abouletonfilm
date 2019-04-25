@@ -1,1 +1,0 @@
-{"tmdb_id": 564071, "title": "Children's War", "original_title": "A Guerra dos Meninos", "slug_title": "children-s-war", "date": "1991-07-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

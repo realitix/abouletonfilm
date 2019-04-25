@@ -1,1 +1,0 @@
-{"tmdb_id": 282887, "title": "The Dark Romance of a Tobacco Tin", "original_title": "The Dark Romance of a Tobacco Tin", "slug_title": "the-dark-romance-of-a-tobacco-tin", "date": "1911-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

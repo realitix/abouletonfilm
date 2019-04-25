@@ -1,1 +1,0 @@
-{"tmdb_id": 101562, "title": "Legenes Krig", "original_title": "Legenes Krig", "slug_title": "legenes-krig", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

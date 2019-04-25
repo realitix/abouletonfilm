@@ -1,1 +1,0 @@
-{"tmdb_id": 240830, "title": "Adventure with a Song", "original_title": "Przygoda z piosenka", "slug_title": "adventure-with-a-song", "date": "1969-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lqcpq91vY3lWnaMwkgX9dzeU8gm.jpg", "actors": [], "comments": [], "recommandations_id": []}

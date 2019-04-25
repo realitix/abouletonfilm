@@ -1,1 +1,0 @@
-{"tmdb_id": 80000, "title": "Pathey Holo Deri", "original_title": "Pathey Holo Deri", "slug_title": "pathey-holo-deri", "date": "", "genre": "Romance / Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6qgB8lEk6VH4PcHGNZlw4UV17E0.jpg", "actors": [], "comments": [], "recommandations_id": []}

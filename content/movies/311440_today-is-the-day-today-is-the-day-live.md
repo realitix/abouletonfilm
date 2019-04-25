@@ -1,1 +1,0 @@
-{"tmdb_id": 311440, "title": "Today Is the Day: Today Is the Day: Live", "original_title": "Today Is the Day: Today Is the Day: Live", "slug_title": "today-is-the-day-today-is-the-day-live", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

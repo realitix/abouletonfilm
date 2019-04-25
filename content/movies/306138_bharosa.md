@@ -1,1 +1,1 @@
-{"tmdb_id": 306138, "title": "Bharosa", "original_title": "Bharosa", "slug_title": "bharosa", "date": "1940-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 306138, "title": "Bharosa", "original_title": "Bharosa", "slug_title": "bharosa", "date": "1940-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1940", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

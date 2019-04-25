@@ -1,1 +1,0 @@
-{"tmdb_id": 468587, "title": "Proof of God", "original_title": "Proof of God", "slug_title": "proof-of-god", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

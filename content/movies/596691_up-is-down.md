@@ -1,1 +1,0 @@
-{"tmdb_id": 596691, "title": "Up Is Down", "original_title": "Up Is Down", "slug_title": "up-is-down", "date": "1969-01-01", "genre": "Animation / Com\u00e9die / Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hans Conried (Narrator)"], "comments": [], "recommandations_id": []}

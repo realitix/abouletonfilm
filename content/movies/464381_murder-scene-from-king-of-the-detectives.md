@@ -1,1 +1,0 @@
-{"tmdb_id": 464381, "title": "Murder Scene from 'King of the Detectives'", "original_title": "Murder Scene from 'King of the Detectives'", "slug_title": "murder-scene-from-king-of-the-detectives", "date": "1903-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

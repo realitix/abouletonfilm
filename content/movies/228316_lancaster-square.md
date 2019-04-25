@@ -1,1 +1,0 @@
-{"tmdb_id": 228316, "title": "Lancaster Square", "original_title": "Lancaster Square", "slug_title": "lancaster-square", "date": "2010-09-28", "genre": "Horreur / Drame", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/udM1an7d4RzeFhCcQLORHqMDTJs.jpg", "actors": ["Jenny Savage (Bethany)"], "comments": [], "recommandations_id": []}

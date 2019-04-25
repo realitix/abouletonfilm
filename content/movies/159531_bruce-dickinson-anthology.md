@@ -1,1 +1,0 @@
-{"tmdb_id": 159531, "title": "Bruce Dickinson: Anthology", "original_title": "Bruce Dickinson: Anthology", "slug_title": "bruce-dickinson-anthology", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 470455, "title": "Symptom X", "original_title": "Shorei X", "slug_title": "symptom-x", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kiyoko Miyashige ()", "Hiroki Nonaka ()", "Masaari Sakamoto ()", "Masaari Sakamoto ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 340259, "title": "The Man with 80 Wives", "original_title": "The Man with 80 Wives", "slug_title": "the-man-with-80-wives", "date": "2006-05-01", "genre": "Crime / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sanjiv Bhattacharya (Reporter)"], "comments": [], "recommandations_id": []}

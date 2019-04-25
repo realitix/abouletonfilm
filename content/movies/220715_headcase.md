@@ -1,1 +1,0 @@
-{"tmdb_id": 220715, "title": "Headcase", "original_title": "Headcase", "slug_title": "headcase", "date": "2013-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8YZevFbGq6NIU5oPqiPlJWVzpvJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 338541, "title": "Encuentro", "original_title": "Encuentro", "slug_title": "encuentro", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 338541, "title": "Encuentro", "original_title": "Encuentro", "slug_title": "encuentro", "date": "2010-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film from Nick Igea", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

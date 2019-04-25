@@ -1,1 +1,0 @@
-{"tmdb_id": 407807, "title": "Le cri du cochon", "original_title": "Le cri du cochon", "slug_title": "le-cri-du-cochon", "date": "1991-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wtNzOqGfVwi9Rabd4Oc84QARBLe.jpg", "actors": [], "comments": [], "recommandations_id": []}

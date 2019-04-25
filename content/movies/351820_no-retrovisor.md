@@ -1,1 +1,0 @@
-{"tmdb_id": 351820, "title": "No retrovisor", "original_title": "No retrovisor", "slug_title": "no-retrovisor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

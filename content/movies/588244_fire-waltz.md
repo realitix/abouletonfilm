@@ -1,1 +1,0 @@
-{"tmdb_id": 588244, "title": "Fire Waltz", "original_title": "Fire Waltz", "slug_title": "fire-waltz", "date": "2011-01-01", "genre": "Animation / Musique / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aiwLmvJrdsLabCmFhdFPGJg9XZl.jpg", "actors": [], "comments": [], "recommandations_id": []}

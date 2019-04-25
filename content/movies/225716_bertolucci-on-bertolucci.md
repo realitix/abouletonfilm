@@ -1,1 +1,0 @@
-{"tmdb_id": 225716, "title": "Bertolucci on Bertolucci", "original_title": "Bertolucci on Bertolucci", "slug_title": "bertolucci-on-bertolucci", "date": "2013-08-31", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rBowVrm9p2uGdecCSmtyPdoMBdP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 499026, "title": "Brain Surgeon", "original_title": "Brain Surgeon", "slug_title": "brain-surgeon", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

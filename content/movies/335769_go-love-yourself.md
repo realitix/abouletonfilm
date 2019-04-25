@@ -1,1 +1,0 @@
-{"tmdb_id": 335769, "title": "Go Love Yourself", "original_title": "Pid\u00e4 rakkautes", "slug_title": "go-love-yourself", "date": "2015-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tFJk8M3OTKUkOQmZzoFuz9SOae8.jpg", "actors": [], "comments": [], "recommandations_id": []}

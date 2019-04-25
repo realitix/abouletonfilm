@@ -1,1 +1,0 @@
-{"tmdb_id": 460278, "title": "Case Closed", "original_title": "Migyeol geon eun eobsda", "slug_title": "case-closed", "date": "2011-07-30", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/otzPbwXFLLs3hiKOqG3TWmTi69D.jpg", "actors": ["Choe Kyong-hui ()", "Ryo Chol ()"], "comments": [], "recommandations_id": []}

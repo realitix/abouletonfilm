@@ -1,1 +1,0 @@
-{"tmdb_id": 386259, "title": "Saucer Man", "original_title": "Saucer Man", "slug_title": "saucer-man", "date": "2015-01-01", "genre": "Science-Fiction / Animation", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5aKTahqPb2WzDtJoHh2HyBi2ueK.jpg", "actors": [], "comments": [], "recommandations_id": []}

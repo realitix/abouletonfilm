@@ -1,1 +1,0 @@
-{"tmdb_id": 531556, "title": "The Double Life of Josef Hlinomaze", "original_title": "Dvoj\u00ed \u017eivot Josefa Hlinomaze", "slug_title": "the-double-life-of-josef-hlinomaze", "date": "1976-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Josef Hlinomaz (Josef Hlinomaz)"], "comments": [], "recommandations_id": []}

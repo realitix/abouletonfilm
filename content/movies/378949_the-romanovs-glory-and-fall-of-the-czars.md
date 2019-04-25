@@ -1,1 +1,0 @@
-{"tmdb_id": 378949, "title": "The Romanovs - Glory and Fall of the Czars", "original_title": "Die Romanows - Glanz und Untergang des Zarenreichs", "slug_title": "the-romanovs-glory-and-fall-of-the-czars", "date": "2013-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

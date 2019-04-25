@@ -1,1 +1,0 @@
-{"tmdb_id": 128180, "title": "Granton Trawler", "original_title": "Granton Trawler", "slug_title": "granton-trawler", "date": "1934-10-18", "genre": "", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l8uwiX9UdJ0Qsm0D1tDiq7FCqU9.jpg", "actors": [], "comments": [], "recommandations_id": [190575, 146362, 104294, 142196]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 226250, "title": "Kipling Jr.", "original_title": "Kippuringu Jr.", "slug_title": "kipling-jr", "date": "1995-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6oXdueynuZwO6dM4vEztX40q5Uc.jpg", "actors": [], "comments": [], "recommandations_id": []}

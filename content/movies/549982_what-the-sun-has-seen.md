@@ -1,1 +1,0 @@
-{"tmdb_id": 549982, "title": "What the Sun Has Seen", "original_title": "What the Sun Has Seen", "slug_title": "what-the-sun-has-seen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 250794, "title": "Amerasians", "original_title": "Amerasians", "slug_title": "amerasians", "date": "1998-10-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

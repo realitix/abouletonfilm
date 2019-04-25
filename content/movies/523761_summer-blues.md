@@ -1,1 +1,0 @@
-{"tmdb_id": 523761, "title": "Summer Blues", "original_title": "Summer Blues", "slug_title": "summer-blues", "date": "2018-03-24", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iWFIrX5AjTBNwAxJg9A5pi8PS5M.jpg", "actors": [], "comments": [], "recommandations_id": []}

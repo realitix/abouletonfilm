@@ -1,1 +1,0 @@
-{"tmdb_id": 217067, "title": "Fragmentos de Sal", "original_title": "Fragmentos de Sal", "slug_title": "fragmentos-de-sal", "date": "2000-01-01", "genre": "Animation", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/urwxTVdS0kil3HXDdS1qTb7Jp3t.jpg", "actors": [], "comments": [], "recommandations_id": []}

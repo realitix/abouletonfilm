@@ -1,1 +1,0 @@
-{"tmdb_id": 580665, "title": "Punk Rock", "original_title": "Punk Rock", "slug_title": "punk-rock", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7wR3XNnHmoxVLLYzSypznmtmMbR.jpg", "actors": ["Wade Nichols (Dillinger)"], "comments": [], "recommandations_id": []}

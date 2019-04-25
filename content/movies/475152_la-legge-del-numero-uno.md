@@ -1,1 +1,0 @@
-{"tmdb_id": 475152, "title": "La legge del numero uno", "original_title": "La legge del numero uno", "slug_title": "la-legge-del-numero-uno", "date": "2017-07-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marco Palvetti ()", "Andrea Sartoretti ()", "Pietro Bontempo ()"], "comments": [], "recommandations_id": []}

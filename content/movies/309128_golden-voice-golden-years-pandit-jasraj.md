@@ -1,1 +1,0 @@
-{"tmdb_id": 309128, "title": "Golden Voice, Golden Years: Pandit Jasraj", "original_title": "Golden Voice, Golden Years: Pandit Jasraj", "slug_title": "golden-voice-golden-years-pandit-jasraj", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

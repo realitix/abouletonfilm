@@ -1,1 +1,0 @@
-{"tmdb_id": 485699, "title": "Oh, Say Can You Sue", "original_title": "Oh, Say Can You Sue", "slug_title": "oh-say-can-you-sue", "date": "1953-09-10", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy)"], "comments": [], "recommandations_id": []}

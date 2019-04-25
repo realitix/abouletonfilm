@@ -1,1 +1,0 @@
-{"tmdb_id": 531193, "title": "The 70's:  Bellbottoms to Boogie Shoes", "original_title": "The 70's Bellbottoms to Boogie Shoes", "slug_title": "the-70-s-bellbottoms-to-boogie-shoes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Danny Bonaduce (Narrator)"], "comments": [], "recommandations_id": []}

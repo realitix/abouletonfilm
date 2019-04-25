@@ -1,1 +1,0 @@
-{"tmdb_id": 524488, "title": "Rattle Them Bars", "original_title": "Rattle Them Bars", "slug_title": "rattle-them-bars", "date": "2015-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

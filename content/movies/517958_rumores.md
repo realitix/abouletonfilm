@@ -1,1 +1,0 @@
-{"tmdb_id": 517958, "title": "Rumores", "original_title": "Rumores", "slug_title": "rumores", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zO3ja11z22Ddo4C6sgOzoiZnXMk.jpg", "actors": [], "comments": [], "recommandations_id": []}

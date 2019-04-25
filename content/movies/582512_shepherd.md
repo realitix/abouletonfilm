@@ -1,1 +1,0 @@
-{"tmdb_id": 582512, "title": "Shepherd", "original_title": "Shepherd", "slug_title": "shepherd", "date": "2019-03-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5rR08AOe4gu1UseoukQOXg5CV7J.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 569020, "title": "Marvin Sapp: I Win", "original_title": "Marvin Sapp: I Win", "slug_title": "marvin-sapp-i-win", "date": "2012-04-03", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/77vD1fsKmahhaX6HGF7byC0Dowa.jpg", "actors": ["Marvin L. Sapp ()"], "comments": [], "recommandations_id": []}

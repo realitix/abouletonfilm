@@ -1,1 +1,0 @@
-{"tmdb_id": 500066, "title": "Darinda", "original_title": "Darinda", "slug_title": "darinda", "date": "2005-12-09", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fA7zgIs98wXGnyzMgoyby8q0ScI.jpg", "actors": ["Anil Nagrath ()", "Sapna ()", "Vinod Tripathi ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 180446, "title": "Les clowns", "original_title": "Les clowns", "slug_title": "les-clowns", "date": "2011-12-30", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/feeK5tJYAMQyeoe1xkHq7pvASMC.jpg", "actors": [], "comments": [], "recommandations_id": []}

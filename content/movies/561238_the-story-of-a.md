@@ -1,1 +1,0 @@
-{"tmdb_id": 561238, "title": "The Story of A", "original_title": "Le r\u00e9cit d\u2019A", "slug_title": "the-story-of-a", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

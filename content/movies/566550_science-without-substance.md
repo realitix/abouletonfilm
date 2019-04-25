@@ -1,1 +1,0 @@
-{"tmdb_id": 566550, "title": "Science without Substance", "original_title": "Science without Substance", "slug_title": "science-without-substance", "date": "2019-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

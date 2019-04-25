@@ -1,1 +1,0 @@
-{"tmdb_id": 537341, "title": "Vidas paralelas", "original_title": "Vidas paralelas", "slug_title": "vidas-paralelas", "date": "2008-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/40ZPCrBO2kdHIa1eSFfrSAOB4e2.jpg", "actors": [], "comments": [], "recommandations_id": []}

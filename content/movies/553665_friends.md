@@ -1,1 +1,0 @@
-{"tmdb_id": 553665, "title": "Friends", "original_title": "Friends", "slug_title": "friends", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gpDoRPACEH2rlbFu494xTYedC2x.jpg", "actors": ["Cory Novak (Thomas)", "Ian McGinness (Mr.Mcgillicutty)"], "comments": [], "recommandations_id": []}

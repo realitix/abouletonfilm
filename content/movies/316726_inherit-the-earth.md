@@ -1,1 +1,0 @@
-{"tmdb_id": 316726, "title": "Inherit the Earth", "original_title": "Inherit the Earth", "slug_title": "inherit-the-earth", "date": "", "genre": "Science-Fiction / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

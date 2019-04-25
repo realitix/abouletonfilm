@@ -1,1 +1,0 @@
-{"tmdb_id": 319285, "title": "Book Bargain", "original_title": "Book Bargain", "slug_title": "book-bargain", "date": "1937-01-19", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gQqV0KDXaalLvqx3bvetbV1XYpw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 322191, "title": "A Letter From Adam", "original_title": "A Letter From Adam", "slug_title": "a-letter-from-adam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

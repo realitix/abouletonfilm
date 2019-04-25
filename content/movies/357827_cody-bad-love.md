@@ -1,1 +1,0 @@
-{"tmdb_id": 357827, "title": "Cody: Bad Love", "original_title": "Cody: Bad Love", "slug_title": "cody-bad-love", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 576324, "title": "The Ballad of Poisonberry Pete", "original_title": "The Ballad of Poisonberry Pete", "slug_title": "the-ballad-of-poisonberry-pete", "date": "2012-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ke2mmb2XAsmVZ2Xmb8DcDgZqce8.jpg", "actors": [], "comments": [], "recommandations_id": []}

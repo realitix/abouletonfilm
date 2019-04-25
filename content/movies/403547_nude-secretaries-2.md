@@ -1,1 +1,0 @@
-{"tmdb_id": 403547, "title": "Nude Secretaries 2", "original_title": "Nude Secretaries 2", "slug_title": "nude-secretaries-2", "date": "2002-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

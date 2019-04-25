@@ -1,1 +1,0 @@
-{"tmdb_id": 541863, "title": "Esp\u00edritus Independientes", "original_title": "Esp\u00edritus Independientes", "slug_title": "espiritus-independientes", "date": "2005-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3SeqZKphq54CrXfwjMgjVuraIqc.jpg", "actors": [], "comments": [], "recommandations_id": []}

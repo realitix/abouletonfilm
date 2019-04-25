@@ -1,1 +1,0 @@
-{"tmdb_id": 213505, "title": "The Battle for Barking", "original_title": "The Battle for Barking", "slug_title": "the-battle-for-barking", "date": "2010-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nick Griffin ()", "Margaret Hodge ()"], "comments": [], "recommandations_id": []}

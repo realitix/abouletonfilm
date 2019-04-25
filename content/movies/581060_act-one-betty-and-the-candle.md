@@ -1,1 +1,0 @@
-{"tmdb_id": 581060, "title": "Act One: Betty and the Candle", "original_title": "Act One: Betty and the Candle", "slug_title": "act-one-betty-and-the-candle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

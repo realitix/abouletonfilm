@@ -1,1 +1,0 @@
-{"tmdb_id": 438215, "title": "Let Her Cry", "original_title": "Let Her Cry", "slug_title": "let-her-cry", "date": "2016-05-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l7gUBQIekDW32ihKFiOWgciifvJ.jpg", "actors": ["Swarna Mallawarachchi ()", "Dhritiman Chatterjee ()"], "comments": [], "recommandations_id": []}

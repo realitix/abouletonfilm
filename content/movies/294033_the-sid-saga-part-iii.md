@@ -1,1 +1,0 @@
-{"tmdb_id": 294033, "title": "The Sid Saga Part III", "original_title": "The Sid Saga Part III", "slug_title": "the-sid-saga-part-iii", "date": "1989-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sid Laverents (himself)"], "comments": [], "recommandations_id": []}

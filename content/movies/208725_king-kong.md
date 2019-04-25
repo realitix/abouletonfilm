@@ -1,1 +1,0 @@
-{"tmdb_id": 208725, "title": "King Kong", "original_title": "King Kong", "slug_title": "king-kong", "date": "2012-07-20", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

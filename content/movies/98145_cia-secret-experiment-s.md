@@ -1,1 +1,0 @@
-{"tmdb_id": 98145, "title": "CIA: Secret Experiment's", "original_title": "CIA: Secret Experiment's", "slug_title": "cia-secret-experiment-s", "date": "2008-03-11", "genre": "Histoire / Documentaire", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

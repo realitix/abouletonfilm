@@ -1,1 +1,0 @@
-{"tmdb_id": 42963, "title": "Video Gangs", "original_title": "Video Gangs", "slug_title": "video-gangs", "date": "2003-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t8Rkj1t5x2ETMtCZmzAn0E7Fgs4.jpg", "actors": [], "comments": [], "recommandations_id": []}

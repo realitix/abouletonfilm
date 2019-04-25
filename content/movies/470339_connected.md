@@ -1,1 +1,0 @@
-{"tmdb_id": 470339, "title": "Connected", "original_title": "Connected", "slug_title": "connected", "date": "2011-10-26", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l1UUO4IgK1USjHttQsGFOQNQ4Y6.jpg", "actors": ["Kevin Eldon (Customer)", "Miles Jupp (Shop Manager)"], "comments": [], "recommandations_id": []}

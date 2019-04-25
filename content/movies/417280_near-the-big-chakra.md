@@ -1,1 +1,0 @@
-{"tmdb_id": 417280, "title": "Near the Big Chakra", "original_title": "Near the Big Chakra", "slug_title": "near-the-big-chakra", "date": "1971-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alice Anne Parker Severson ()"], "comments": [], "recommandations_id": []}

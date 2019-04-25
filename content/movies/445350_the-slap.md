@@ -1,1 +1,1 @@
-{"tmdb_id": 445350, "title": "The Slap", "original_title": "The Slap", "slug_title": "the-slap", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 445350, "title": "The Slap", "original_title": "The Slap", "slug_title": "the-slap", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "short movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

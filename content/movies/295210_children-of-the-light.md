@@ -1,1 +1,0 @@
-{"tmdb_id": 295210, "title": "Children of the Light", "original_title": "Children of the Light", "slug_title": "children-of-the-light", "date": "2014-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

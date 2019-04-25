@@ -1,1 +1,0 @@
-{"tmdb_id": 528051, "title": "Marx and his heirs", "original_title": "Marx and his heirs", "slug_title": "marx-and-his-heirs", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 289082, "title": "Hawaii: A Voice for Sovereignty", "original_title": "Hawaii: A Voice for Sovereignty", "slug_title": "hawaii-a-voice-for-sovereignty", "date": "2009-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

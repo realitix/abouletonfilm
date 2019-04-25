@@ -1,1 +1,0 @@
-{"tmdb_id": 164102, "title": "Martyries Xesikomou", "original_title": "Martyries Xesikomou", "slug_title": "martyries-xesikomou", "date": "2012-03-10", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gtCdErgggnwjd86eFqg1UJmL2ar.jpg", "actors": [], "comments": [], "recommandations_id": []}

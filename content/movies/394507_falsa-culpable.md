@@ -1,1 +1,1 @@
-{"tmdb_id": 394507, "title": "Falsa culpable", "original_title": "Falsa culpable", "slug_title": "falsa-culpable", "date": "2005-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 394507, "title": "Falsa culpable", "original_title": "Falsa culpable", "slug_title": "falsa-culpable", "date": "2005-06-18", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

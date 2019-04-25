@@ -1,1 +1,0 @@
-{"tmdb_id": 424678, "title": "Quartieri popolari di Roma", "original_title": "Quartieri popolari di Roma", "slug_title": "quartieri-popolari-di-roma", "date": "1972-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 228204, "title": "Bayou Blue", "original_title": "Bayou Blue", "slug_title": "bayou-blue", "date": "2011-11-23", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ncvEB2etwF8hVubenkKKcxODxXi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 384963, "title": "Black Man Down", "original_title": "Black Man Down", "slug_title": "black-man-down", "date": "1996-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4oL83hzYJk5A0JhxgNe8e8VHS1j.jpg", "actors": ["David Hudson (Waxy)", "Linda Johnson (Mulweena)"], "comments": [], "recommandations_id": []}

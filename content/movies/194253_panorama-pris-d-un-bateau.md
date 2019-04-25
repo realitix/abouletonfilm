@@ -1,1 +1,0 @@
-{"tmdb_id": 194253, "title": "Panorama pris d'un bateau", "original_title": "Panorama pris d'un bateau", "slug_title": "panorama-pris-d-un-bateau", "date": "1896-10-26", "genre": "", "score": "6.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

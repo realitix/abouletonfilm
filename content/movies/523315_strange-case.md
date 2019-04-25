@@ -1,1 +1,0 @@
-{"tmdb_id": 523315, "title": "Strange Case", "original_title": "Dziwny przypadek", "slug_title": "strange-case", "date": "2017-05-31", "genre": "Animation / Documentaire / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uATaQf8098H8ioqj8kQvLaavhmL.jpg", "actors": [], "comments": [], "recommandations_id": []}

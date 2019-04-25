@@ -1,1 +1,0 @@
-{"tmdb_id": 301119, "title": "Ondu Muthina Kathe", "original_title": "Ondu Muthina Kathe", "slug_title": "ondu-muthina-kathe", "date": "1987-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

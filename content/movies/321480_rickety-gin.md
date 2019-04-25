@@ -1,1 +1,0 @@
-{"tmdb_id": 321480, "title": "Rickety Gin", "original_title": "Rickety Gin", "slug_title": "rickety-gin", "date": "1927-12-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

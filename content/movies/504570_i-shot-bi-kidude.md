@@ -1,1 +1,0 @@
-{"tmdb_id": 504570, "title": "I Shot Bi Kidude", "original_title": "I Shot Bi Kidude", "slug_title": "i-shot-bi-kidude", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7zPzZ9u25iM5vVdLVP9WlyVXg7I.jpg", "actors": [], "comments": [], "recommandations_id": []}

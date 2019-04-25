@@ -1,1 +1,0 @@
-{"tmdb_id": 522763, "title": "Guinness for You", "original_title": "Guinness for You", "slug_title": "guinness-for-you", "date": "1971-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 588556, "title": "An Adventure in Stripes", "original_title": "Przygoda w paski", "slug_title": "an-adventure-in-stripes", "date": "1960-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yuWWSxtDNn23ZltWlnZhoQU0EmE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 215943, "title": "Numbers & Friends", "original_title": "Numbers & Friends", "slug_title": "numbers-friends", "date": "2013-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alexander Carson ()", "Atli Bollason (Atli)", "Benjamin Carson (Jack Lewis / Athlete)"], "comments": [], "recommandations_id": []}

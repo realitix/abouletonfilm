@@ -1,1 +1,0 @@
-{"tmdb_id": 534970, "title": "Alexandr", "original_title": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440", "slug_title": "alexandr", "date": "2018-01-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

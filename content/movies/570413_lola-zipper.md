@@ -1,1 +1,0 @@
-{"tmdb_id": 570413, "title": "Lola Zipper", "original_title": "Lola Zipper", "slug_title": "lola-zipper", "date": "1991-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vseXwohQGlIhfk6jsQ1SjeFA0Di.jpg", "actors": [], "comments": [], "recommandations_id": []}

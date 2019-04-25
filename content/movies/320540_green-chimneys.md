@@ -1,1 +1,0 @@
-{"tmdb_id": 320540, "title": "Green Chimneys", "original_title": "Green Chimneys", "slug_title": "green-chimneys", "date": "1997-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

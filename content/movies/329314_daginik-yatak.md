@@ -1,1 +1,0 @@
-{"tmdb_id": 329314, "title": "Da\u011f\u0131n\u0131k Yatak", "original_title": "Da\u011f\u0131n\u0131k Yatak", "slug_title": "daginik-yatak", "date": "1984-01-02", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["M\u00fcjde Ar ()", "Aykut S\u00f6zeri ()", "\u00dcmit Belen ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 81818, "title": "Road to Roubaix", "original_title": "Road to Roubaix", "slug_title": "road-to-roubaix", "date": "2008-06-01", "genre": "Drame / Action / Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/je30lsXWVPLxlnUvKbe14LLzAqK.jpg", "actors": [], "comments": [], "recommandations_id": []}

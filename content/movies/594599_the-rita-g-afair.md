@@ -1,1 +1,0 @@
-{"tmdb_id": 594599, "title": "The Rita G. Afair", "original_title": "The Rita G. Afair", "slug_title": "the-rita-g-afair", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

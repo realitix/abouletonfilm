@@ -1,1 +1,0 @@
-{"tmdb_id": 386347, "title": "Fun with Computers", "original_title": "Fun with Computers", "slug_title": "fun-with-computers", "date": "2004-03-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pFs8A64WoCTI2LudtvZqQHq9Pd3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 489499, "title": "The Sandmine", "original_title": "Im M\u00e4rkischen Sand", "slug_title": "the-sandmine", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1k7jHK88N6xpNGJ8mvuPntDKofE.jpg", "actors": ["Aurora Kellermann (Narrator)"], "comments": [], "recommandations_id": []}

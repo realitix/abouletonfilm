@@ -1,1 +1,0 @@
-{"tmdb_id": 556938, "title": "C\u00f4te d'Azur", "original_title": "C\u00f4te d'Azur", "slug_title": "cote-d-azur", "date": "1932-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

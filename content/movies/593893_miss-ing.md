@@ -1,1 +1,0 @@
-{"tmdb_id": 593893, "title": "MISS(ING)", "original_title": "MISS(ING)", "slug_title": "miss-ing", "date": "", "genre": "Thriller / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pedro Pablo Corpancho (Santino)"], "comments": [], "recommandations_id": []}

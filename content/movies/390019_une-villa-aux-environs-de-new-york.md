@@ -1,1 +1,0 @@
-{"tmdb_id": 390019, "title": "Une villa aux environs de New York", "original_title": "Une villa aux environs de New York", "slug_title": "une-villa-aux-environs-de-new-york", "date": "1983-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

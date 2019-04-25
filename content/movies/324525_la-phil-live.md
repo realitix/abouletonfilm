@@ -1,1 +1,0 @@
-{"tmdb_id": 324525, "title": "La Phil live", "original_title": "La Phil live", "slug_title": "la-phil-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1hGhd1V9z8q5ZzPvlNUvntwZTJT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 379370, "title": "The Visible Hand", "original_title": "La Mano Visible", "slug_title": "the-visible-hand", "date": "2015-02-03", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oF2GQsiXe3eE8FFrNpxCy8N31Qz.jpg", "actors": [], "comments": [], "recommandations_id": []}

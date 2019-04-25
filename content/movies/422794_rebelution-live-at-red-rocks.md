@@ -1,1 +1,0 @@
-{"tmdb_id": 422794, "title": "Rebelution: Live at Red Rocks", "original_title": "Rebelution: Live at Red Rocks", "slug_title": "rebelution-live-at-red-rocks", "date": "2016-10-28", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

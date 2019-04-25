@@ -1,1 +1,0 @@
-{"tmdb_id": 593862, "title": "On a Wing and a Prayer", "original_title": "On a Wing and a Prayer", "slug_title": "on-a-wing-and-a-prayer", "date": "2016-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

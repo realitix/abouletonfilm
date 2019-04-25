@@ -1,1 +1,0 @@
-{"tmdb_id": 594601, "title": "Beautiful View", "original_title": "Beautiful View", "slug_title": "beautiful-view", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

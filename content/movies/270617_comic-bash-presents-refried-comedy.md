@@ -1,1 +1,0 @@
-{"tmdb_id": 270617, "title": "Comic Bash Presents Refried Comedy", "original_title": "Comic Bash Presents Refried Comedy", "slug_title": "comic-bash-presents-refried-comedy", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

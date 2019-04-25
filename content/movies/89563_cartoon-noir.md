@@ -1,1 +1,0 @@
-{"tmdb_id": 89563, "title": "Cartoon Noir", "original_title": "Cartoon Noir", "slug_title": "cartoon-noir", "date": "1999-02-02", "genre": "Fantastique / Animation / Science-Fiction", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/znu53i163vpV4T7PbUovXeFyztI.jpg", "actors": [], "comments": [], "recommandations_id": []}

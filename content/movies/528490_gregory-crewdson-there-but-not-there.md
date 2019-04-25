@@ -1,1 +1,0 @@
-{"tmdb_id": 528490, "title": "Gregory Crewdson: There But Not There", "original_title": "Gregory Crewdson: There But Not There", "slug_title": "gregory-crewdson-there-but-not-there", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 252641, "title": "Robinson Crusoe", "original_title": "Robinson Crusoe", "slug_title": "robinson-crusoe", "date": "1933-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 538208, "title": "The Devil Ant", "original_title": "The Devil Ant", "slug_title": "the-devil-ant", "date": "1999-01-01", "genre": "Horreur / Com\u00e9die / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xYSX1yVAwgbOY2UUkmxaNIWKX8h.jpg", "actors": ["Rocky Nelson ()"], "comments": [], "recommandations_id": []}

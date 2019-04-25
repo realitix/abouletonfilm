@@ -1,1 +1,0 @@
-{"tmdb_id": 387281, "title": "Scenic Grandeur", "original_title": "Scenic Grandeur", "slug_title": "scenic-grandeur", "date": "1941-12-14", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Krev3c0JKitIQdQ1zy4dd3RYbI.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

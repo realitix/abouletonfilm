@@ -1,1 +1,0 @@
-{"tmdb_id": 577463, "title": "Psychosis Safari", "original_title": "Psychosis Safari", "slug_title": "psychosis-safari", "date": "2003-07-08", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fR78IdQO6NOUKZW3vCEE609STXT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 84407, "title": "The Pruitt-Igoe Myth", "original_title": "The Pruitt-Igoe Myth", "slug_title": "the-pruitt-igoe-myth", "date": "2012-01-20", "genre": "Documentaire", "score": "6.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xMbw6tCS9jq9NJvHZFlcyU1ocWb.jpg", "actors": [], "comments": [], "recommandations_id": [35567, 174352]}

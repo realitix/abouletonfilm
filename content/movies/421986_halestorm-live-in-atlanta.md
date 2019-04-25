@@ -1,1 +1,0 @@
-{"tmdb_id": 421986, "title": "Halestorm: Live In Atlanta", "original_title": "Halestorm: Live In Atlanta", "slug_title": "halestorm-live-in-atlanta", "date": "2015-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ztW3Gptngs5owaTEJV2XJM9hc1T.jpg", "actors": [], "comments": [], "recommandations_id": []}

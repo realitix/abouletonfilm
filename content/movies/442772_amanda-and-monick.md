@@ -1,1 +1,0 @@
-{"tmdb_id": 442772, "title": "Amanda and Monick", "original_title": "Amanda e Monick", "slug_title": "amanda-and-monick", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s2l6tDNXXfXDdu6aWYFqtpmKkUx.jpg", "actors": [], "comments": [], "recommandations_id": []}

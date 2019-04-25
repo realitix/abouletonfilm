@@ -1,1 +1,0 @@
-{"tmdb_id": 534935, "title": "Kongjwi & Patjwi", "original_title": "\ucf69\uc950 \ud325\uc950", "slug_title": "kongjwi-patjwi", "date": "1978-01-23", "genre": "Animation / Familial / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oKb9yYUr5e77FunQS18Gc0TSdYW.jpg", "actors": [], "comments": [], "recommandations_id": []}

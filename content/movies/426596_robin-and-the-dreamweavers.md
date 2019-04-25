@@ -1,1 +1,0 @@
-{"tmdb_id": 426596, "title": "Robin and the Dreamweavers", "original_title": "Robin and the Dreamweavers", "slug_title": "robin-and-the-dreamweavers", "date": "2000-05-03", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/47sx0VcUAT0ETX7JvqBpYQWOI79.jpg", "actors": [], "comments": [], "recommandations_id": []}

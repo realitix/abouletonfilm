@@ -1,1 +1,0 @@
-{"tmdb_id": 347893, "title": "Circus Nomads", "original_title": "Circus Nomads", "slug_title": "circus-nomads", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

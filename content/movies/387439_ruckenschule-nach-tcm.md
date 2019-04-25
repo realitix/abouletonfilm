@@ -1,1 +1,0 @@
-{"tmdb_id": 387439, "title": "R\u00fcckenschule nach TCM", "original_title": "R\u00fcckenschule nach TCM", "slug_title": "ruckenschule-nach-tcm", "date": "2007-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXmiX5aplcim389SP1ZDaF7BWaw.jpg", "actors": [], "comments": [], "recommandations_id": []}

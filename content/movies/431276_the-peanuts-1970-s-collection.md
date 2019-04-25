@@ -1,1 +1,0 @@
-{"tmdb_id": 431276, "title": "The Peanuts - 1970's Collection", "original_title": "The Peanuts - 1970's Collection", "slug_title": "the-peanuts-1970-s-collection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dyBLYMToeBmqoppYXRkHbfbIxMb.jpg", "actors": [], "comments": [], "recommandations_id": []}

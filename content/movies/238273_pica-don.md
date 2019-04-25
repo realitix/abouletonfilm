@@ -1,1 +1,0 @@
-{"tmdb_id": 238273, "title": "Pica-Don", "original_title": "Pica-Don", "slug_title": "pica-don", "date": "1978-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qmdISJrMGACmqka4ibDbszYfsed.jpg", "actors": [], "comments": [], "recommandations_id": []}

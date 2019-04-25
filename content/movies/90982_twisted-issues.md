@@ -1,1 +1,0 @@
-{"tmdb_id": 90982, "title": "Twisted Issues", "original_title": "Twisted Issues", "slug_title": "twisted-issues", "date": "1988-01-01", "genre": "Horreur", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Z9kNWozLzePcM8eHudZTbUG1Eo.jpg", "actors": [], "comments": [], "recommandations_id": []}

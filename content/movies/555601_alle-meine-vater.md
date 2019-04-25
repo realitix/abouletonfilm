@@ -1,1 +1,0 @@
-{"tmdb_id": 555601, "title": "Alle meine V\u00e4ter", "original_title": "Alle meine V\u00e4ter", "slug_title": "alle-meine-vater", "date": "2010-02-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 565676, "title": "I, George Balanchine", "original_title": "\u10db\u10d4, \u10ef\u10dd\u10e0\u10ef \u10d1\u10d0\u10da\u10d0\u10dc\u10e9\u10d8\u10dc\u10d8", "slug_title": "i-george-balanchine", "date": "2015-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

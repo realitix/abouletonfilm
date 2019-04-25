@@ -1,1 +1,0 @@
-{"tmdb_id": 507303, "title": "Chadi Jawani Budhe Nu", "original_title": "Chadi Jawani Budhe Nu", "slug_title": "chadi-jawani-budhe-nu", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6xg0TpxSSTkSaDJ7M1zmMHspERL.jpg", "actors": [], "comments": [], "recommandations_id": []}

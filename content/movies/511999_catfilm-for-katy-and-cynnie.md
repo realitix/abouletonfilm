@@ -1,1 +1,0 @@
-{"tmdb_id": 511999, "title": "Catfilm for Katy and Cynnie", "original_title": "Catfilm for Katy and Cynnie", "slug_title": "catfilm-for-katy-and-cynnie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

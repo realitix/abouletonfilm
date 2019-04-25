@@ -1,1 +1,0 @@
-{"tmdb_id": 346718, "title": "Til ditt eget beste", "original_title": "Til ditt eget beste", "slug_title": "til-ditt-eget-beste", "date": "1997-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

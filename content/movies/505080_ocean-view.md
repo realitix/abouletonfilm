@@ -1,1 +1,0 @@
-{"tmdb_id": 505080, "title": "Ocean View", "original_title": "Ocean View", "slug_title": "ocean-view", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 237019, "title": "The Wicked Wolf", "original_title": "The Wicked Wolf", "slug_title": "the-wicked-wolf", "date": "1946-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/angUmGsVltU1n37Uli15yXYgPKA.jpg", "actors": [], "comments": [], "recommandations_id": []}

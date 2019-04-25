@@ -1,1 +1,0 @@
-{"tmdb_id": 288967, "title": "Stephanie in the Water", "original_title": "Stephanie in the Water", "slug_title": "stephanie-in-the-water", "date": "2014-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e8TIhQ3peDuHHFMxY9p7MfkK5xW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 130378, "title": "Metallica: Live at Donington", "original_title": "Metallica: Live at Donington", "slug_title": "metallica-live-at-donington", "date": "2006-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uPXwp5Kq8zBSJEeSwzvqp00E5Aj.jpg", "actors": [], "comments": [], "recommandations_id": []}

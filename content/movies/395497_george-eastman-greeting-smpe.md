@@ -1,1 +1,0 @@
-{"tmdb_id": 395497, "title": "George Eastman Greeting SMPE", "original_title": "George Eastman Greeting SMPE", "slug_title": "george-eastman-greeting-smpe", "date": "1930-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

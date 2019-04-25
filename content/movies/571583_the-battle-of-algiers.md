@@ -1,1 +1,0 @@
-{"tmdb_id": 571583, "title": "The Battle of Algiers", "original_title": "The Battle of Algiers", "slug_title": "the-battle-of-algiers", "date": "2018-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

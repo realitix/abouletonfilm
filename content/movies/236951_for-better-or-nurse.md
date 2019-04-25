@@ -1,1 +1,0 @@
-{"tmdb_id": 236951, "title": "For Better or Nurse", "original_title": "For Better or Nurse", "slug_title": "for-better-or-nurse", "date": "1945-06-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nT9eO2jaKfGeWyyZpM01kDHA7A0.jpg", "actors": [], "comments": [], "recommandations_id": []}

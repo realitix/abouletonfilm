@@ -1,1 +1,0 @@
-{"tmdb_id": 96550, "title": "La neige au village", "original_title": "La neige au village", "slug_title": "la-neige-au-village", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gr\u00e9gory Gatignol ()", "S\u00e9bastien Morin ()", "Fanny Sidney ()"], "comments": [], "recommandations_id": []}

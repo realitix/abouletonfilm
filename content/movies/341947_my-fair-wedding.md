@@ -1,1 +1,0 @@
-{"tmdb_id": 341947, "title": "My Fair Wedding", "original_title": "\ub9c8\uc774 \ud398\uc5b4 \uc6e8\ub529", "slug_title": "my-fair-wedding", "date": "2015-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eo978trx4N2ZpezByDuYaEYdLQK.jpg", "actors": ["Kim Jho Gwang-soo ()"], "comments": [], "recommandations_id": []}

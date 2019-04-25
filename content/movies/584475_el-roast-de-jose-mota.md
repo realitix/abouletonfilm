@@ -1,1 +1,0 @@
-{"tmdb_id": 584475, "title": "El Roast de Jos\u00e9 Mota", "original_title": "El Roast de Jos\u00e9 Mota", "slug_title": "el-roast-de-jose-mota", "date": "2019-02-24", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iFCb6rCRPWHvZb7fmYomfQPuQiP.jpg", "actors": [], "comments": [], "recommandations_id": []}

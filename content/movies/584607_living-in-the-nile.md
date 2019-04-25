@@ -1,1 +1,0 @@
-{"tmdb_id": 584607, "title": "Living In The Nile", "original_title": "Living In The Nile", "slug_title": "living-in-the-nile", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

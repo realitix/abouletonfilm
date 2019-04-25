@@ -1,1 +1,0 @@
-{"tmdb_id": 307311, "title": "A Tale of Cinderella", "original_title": "A Tale of Cinderella", "slug_title": "a-tale-of-cinderella", "date": "1998-04-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jmR8jrfLHCMZNK0UjG7vGgpRaN4.jpg", "actors": ["Vanessa Thorpe (Lucia)"], "comments": [], "recommandations_id": []}

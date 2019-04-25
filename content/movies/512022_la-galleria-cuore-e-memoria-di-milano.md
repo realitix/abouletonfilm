@@ -1,1 +1,0 @@
-{"tmdb_id": 512022, "title": "La Galleria, cuore e memoria di Milano", "original_title": "La Galleria, cuore e memoria di Milano", "slug_title": "la-galleria-cuore-e-memoria-di-milano", "date": "1967-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

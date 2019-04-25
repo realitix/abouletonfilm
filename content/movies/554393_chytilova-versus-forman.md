@@ -1,1 +1,0 @@
-{"tmdb_id": 554393, "title": "Chytilov\u00e1 Versus Forman", "original_title": "Chytilov\u00e1 Versus Forman", "slug_title": "chytilova-versus-forman", "date": "1982-10-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["V\u011bra Chytilov\u00e1 ()", "Milo\u0161 Forman ()"], "comments": [], "recommandations_id": []}

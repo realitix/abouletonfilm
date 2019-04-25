@@ -1,1 +1,0 @@
-{"tmdb_id": 321460, "title": "Chirurgie m\u00e9canique", "original_title": "Chirurgie m\u00e9canique", "slug_title": "chirurgie-mecanique", "date": "1903-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uuWTBuPPbASJsDpj0L6CAHeefJK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 305697, "title": "The Yakuza Way", "original_title": "The Yakuza Way", "slug_title": "the-yakuza-way", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/txA3FOGkedF8UFm0MVAqpQgyLgX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 591914, "title": "The Yorkshire Ripper Files", "original_title": "The Yorkshire Ripper Files", "slug_title": "the-yorkshire-ripper-files", "date": "2019-03-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7F8K3fnUykzMS9xzitCaEGan6wB.jpg", "actors": [], "comments": [], "recommandations_id": []}

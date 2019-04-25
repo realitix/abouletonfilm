@@ -1,1 +1,0 @@
-{"tmdb_id": 332220, "title": "Ninjascope: Magical World of Ninjas", "original_title": "Ninjascope: Magical World of Ninjas", "slug_title": "ninjascope-magical-world-of-ninjas", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

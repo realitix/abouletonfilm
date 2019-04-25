@@ -1,1 +1,0 @@
-{"tmdb_id": 472587, "title": "Petar Dobrovic", "original_title": "Petar Dobrovi\u0107", "slug_title": "petar-dobrovic", "date": "1957-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8TROGnKJUynAXidBVsLsfS7hJgp.jpg", "actors": [], "comments": [], "recommandations_id": []}

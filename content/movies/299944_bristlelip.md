@@ -1,1 +1,0 @@
-{"tmdb_id": 299944, "title": "Bristlelip", "original_title": "Bristlelip", "slug_title": "bristlelip", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

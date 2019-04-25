@@ -1,1 +1,0 @@
-{"tmdb_id": 551053, "title": "Mit Pyramiden", "original_title": "Mit Pyramiden", "slug_title": "mit-pyramiden", "date": "1991-02-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

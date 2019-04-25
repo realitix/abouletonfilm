@@ -1,1 +1,0 @@
-{"tmdb_id": 289412, "title": "Ett h\u00f6rn i norr", "original_title": "Ett h\u00f6rn i norr", "slug_title": "ett-horn-i-norr", "date": "1951-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

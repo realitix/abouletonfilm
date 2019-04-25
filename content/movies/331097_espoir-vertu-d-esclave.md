@@ -1,1 +1,0 @@
-{"tmdb_id": 331097, "title": "Espoir, vertu d'esclave", "original_title": "Espoir, vertu d'esclave", "slug_title": "espoir-vertu-d-esclave", "date": "2008-06-01", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

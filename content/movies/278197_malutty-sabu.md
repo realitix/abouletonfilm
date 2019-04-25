@@ -1,1 +1,0 @@
-{"tmdb_id": 278197, "title": "Malutty Sabu", "original_title": "Malutty Sabu", "slug_title": "malutty-sabu", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Suresh Gopi ()"], "comments": [], "recommandations_id": []}

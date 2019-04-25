@@ -1,1 +1,0 @@
-{"tmdb_id": 402115, "title": "Bedtime", "original_title": "Bedtime", "slug_title": "bedtime", "date": "1967-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Imogen Hassall ()", "Michael Latimer ()"], "comments": [], "recommandations_id": []}

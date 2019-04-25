@@ -1,1 +1,0 @@
-{"tmdb_id": 481279, "title": "Caamora - She", "original_title": "Caamora - She", "slug_title": "caamora-she", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dWwkCJau4pIvDOkYuW5ertlfXLL.jpg", "actors": [], "comments": [], "recommandations_id": []}

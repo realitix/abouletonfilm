@@ -1,1 +1,0 @@
-{"tmdb_id": 588746, "title": "John Lennon vs Bill O'Reilly", "original_title": "John Lennon vs Bill O'Reilly", "slug_title": "john-lennon-vs-bill-o-reilly", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 517201, "title": "Membrana Mortis (Dead Film)", "original_title": "Membrana Mortis (Dead Film)", "slug_title": "membrana-mortis-dead-film", "date": "2017-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iodI0dlDQxwKtc3CgMgQ65a7Ax0.jpg", "actors": [], "comments": [], "recommandations_id": []}

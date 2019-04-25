@@ -1,1 +1,0 @@
-{"tmdb_id": 316026, "title": "Held Hostage in Colombia", "original_title": "Held Hostage in Colombia", "slug_title": "held-hostage-in-colombia", "date": "2003-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

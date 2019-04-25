@@ -1,1 +1,0 @@
-{"tmdb_id": 578317, "title": "Return to Life", "original_title": "Return to Life", "slug_title": "return-to-life", "date": "1980-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

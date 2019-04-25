@@ -1,1 +1,0 @@
-{"tmdb_id": 372816, "title": "Gitirana", "original_title": "Gitirana", "slug_title": "gitirana", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Concei\u00e7\u00e3o Senna ()"], "comments": [], "recommandations_id": []}

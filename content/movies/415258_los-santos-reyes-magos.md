@@ -1,1 +1,0 @@
-{"tmdb_id": 415258, "title": "Los Santos Reyes Magos", "original_title": "Los Santos Reyes Magos", "slug_title": "los-santos-reyes-magos", "date": "1997-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Teresa Hern\u00e1ndez (Narrator)"], "comments": [], "recommandations_id": []}

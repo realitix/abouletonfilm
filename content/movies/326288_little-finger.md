@@ -1,1 +1,0 @@
-{"tmdb_id": 326288, "title": "Little Finger", "original_title": "Little Finger", "slug_title": "little-finger", "date": "2014-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

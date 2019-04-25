@@ -1,1 +1,0 @@
-{"tmdb_id": 330496, "title": "Birdland - Over the Rainbow", "original_title": "Birdland - Over the Rainbow", "slug_title": "birdland-over-the-rainbow", "date": "1994-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8njNUmQi2r3fnge0tgq2Ms2ft5U.jpg", "actors": [], "comments": [], "recommandations_id": []}

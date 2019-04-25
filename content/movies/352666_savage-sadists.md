@@ -1,1 +1,0 @@
-{"tmdb_id": 352666, "title": "Savage Sadists", "original_title": "Savage Sadists", "slug_title": "savage-sadists", "date": "1980-01-01", "genre": "", "score": "2.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8OjswMjOPKFvALLKuGd98oOWNOi.jpg", "actors": [], "comments": [], "recommandations_id": []}

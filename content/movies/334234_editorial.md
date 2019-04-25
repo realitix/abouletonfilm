@@ -1,1 +1,0 @@
-{"tmdb_id": 334234, "title": "Editorial", "original_title": "Editorial", "slug_title": "editorial", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w8ulzJrxTp7jalHb0elmOptlT3w.jpg", "actors": [], "comments": [], "recommandations_id": []}

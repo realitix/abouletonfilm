@@ -1,1 +1,0 @@
-{"tmdb_id": 533313, "title": "Embrasser les tigres", "original_title": "Embrasser les tigres", "slug_title": "embrasser-les-tigres", "date": "2004-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

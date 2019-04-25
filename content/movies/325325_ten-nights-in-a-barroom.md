@@ -1,1 +1,0 @@
-{"tmdb_id": 325325, "title": "Ten Nights in a Barroom", "original_title": "Ten Nights in a Barroom", "slug_title": "ten-nights-in-a-barroom", "date": "1903-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 223534, "title": "The Journey", "original_title": "The Journey", "slug_title": "the-journey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

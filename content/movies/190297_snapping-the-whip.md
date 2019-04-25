@@ -1,1 +1,0 @@
-{"tmdb_id": 190297, "title": "Snapping the Whip", "original_title": "Snapping the Whip", "slug_title": "snapping-the-whip", "date": "1929-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

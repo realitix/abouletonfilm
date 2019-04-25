@@ -1,1 +1,0 @@
-{"tmdb_id": 576196, "title": "Amber Light", "original_title": "\u3053\u306f\u304f", "slug_title": "amber-light", "date": "2019-07-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arata Iura (Ryota Hironaga)", "Akira Ohashi (Shoichi Hironaga)"], "comments": [], "recommandations_id": []}

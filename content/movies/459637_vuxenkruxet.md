@@ -1,1 +1,0 @@
-{"tmdb_id": 459637, "title": "Vuxenkruxet", "original_title": "Vuxenkruxet", "slug_title": "vuxenkruxet", "date": "2017-05-04", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nBqFJwjVXBt1ntLXofgDwiL5gic.jpg", "actors": ["Thomas J\u00e4rvheden (Huvudroll)"], "comments": [], "recommandations_id": []}

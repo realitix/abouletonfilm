@@ -1,1 +1,0 @@
-{"tmdb_id": 438445, "title": "The Last Grave at Dimbaza", "original_title": "The Last Grave at Dimbaza", "slug_title": "the-last-grave-at-dimbaza", "date": "1973-05-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vsvwv5AF5Z8onesVGncJNz4YqO9.jpg", "actors": [], "comments": [], "recommandations_id": []}

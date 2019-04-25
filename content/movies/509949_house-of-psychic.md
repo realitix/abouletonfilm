@@ -1,1 +1,0 @@
-{"tmdb_id": 509949, "title": "House of Psychic", "original_title": "House of Psychic", "slug_title": "house-of-psychic", "date": "2014-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vv6EBTTOg5S3iWxVNimYQ7pmx2S.jpg", "actors": ["Lauren Lavercombe ()", "Madeleine Stack ()"], "comments": [], "recommandations_id": []}

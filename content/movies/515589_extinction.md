@@ -1,1 +1,0 @@
-{"tmdb_id": 515589, "title": "Extinction", "original_title": "Extin\u00e7\u00e3o", "slug_title": "extinction", "date": "2018-03-18", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rUjwzFblhUy38lvGogWsVeSQ8eP.jpg", "actors": [], "comments": [], "recommandations_id": []}

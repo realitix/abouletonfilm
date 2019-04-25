@@ -1,1 +1,0 @@
-{"tmdb_id": 373267, "title": "The Story of a Sign", "original_title": "The Story of a Sign", "slug_title": "the-story-of-a-sign", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mauricio Garcia Muela (Man with Breifcase)", "Amilcar Carracosa (Blind Man)"], "comments": [], "recommandations_id": []}

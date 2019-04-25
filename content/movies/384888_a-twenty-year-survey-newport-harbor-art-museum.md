@@ -1,1 +1,0 @@
-{"tmdb_id": 384888, "title": "A Twenty-Year Survey, Newport Harbor Art Museum", "original_title": "A Twenty-Year Survey, Newport Harbor Art Museum", "slug_title": "a-twenty-year-survey-newport-harbor-art-museum", "date": "1988-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

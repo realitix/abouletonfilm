@@ -1,1 +1,0 @@
-{"tmdb_id": 521532, "title": "Ode to a Fuckboi", "original_title": "Ode to a Fuckboi", "slug_title": "ode-to-a-fuckboi", "date": "2017-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 559274, "title": "A Girl Knew", "original_title": "Une jeune fille savait", "slug_title": "a-girl-knew", "date": "1948-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4GIhv62ozAtJlu6yNH3HahFsdEr.jpg", "actors": [], "comments": [], "recommandations_id": []}

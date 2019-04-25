@@ -1,1 +1,0 @@
-{"tmdb_id": 449633, "title": "White Funeral", "original_title": "Puting Paalam", "slug_title": "white-funeral", "date": "1997-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m4I2DBsxwAeK92MgKSvhOO5YlQ1.jpg", "actors": ["Myra Beltran ()", "Hayuma Habulan ()"], "comments": [], "recommandations_id": []}

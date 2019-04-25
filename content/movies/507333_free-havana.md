@@ -1,1 +1,0 @@
-{"tmdb_id": 507333, "title": "Free Havana", "original_title": "Habana Libre", "slug_title": "free-havana", "date": "2012-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iNwQyfyRsgRDrb3cHFAsyp1TaRH.jpg", "actors": [], "comments": [], "recommandations_id": []}

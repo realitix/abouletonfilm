@@ -1,1 +1,0 @@
-{"tmdb_id": 333648, "title": "Breathe - a free diving film", "original_title": "Breathe - a free diving film", "slug_title": "breathe-a-free-diving-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

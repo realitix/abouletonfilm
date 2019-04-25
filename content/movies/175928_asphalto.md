@@ -1,1 +1,0 @@
-{"tmdb_id": 175928, "title": "Asphalto", "original_title": "Asphalto", "slug_title": "asphalto", "date": "1998-09-25", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bmqAB7mjMTpj66aULgwyoMtbG1C.jpg", "actors": ["Irina Bj\u00f6rklund (Nainen)", "Peter Franz\u00e9n (Mies)"], "comments": [], "recommandations_id": []}

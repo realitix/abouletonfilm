@@ -1,1 +1,0 @@
-{"tmdb_id": 309188, "title": "Sacred Mt. Ali and the Forest Railway", "original_title": "Sacred Mt. Ali and the Forest Railway", "slug_title": "sacred-mt-ali-and-the-forest-railway", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 495879, "title": "Dear Satan", "original_title": "Dear Satan", "slug_title": "dear-satan", "date": "2017-12-12", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rG33vTm1CW3P4owdLG3l5hPnV8B.jpg", "actors": ["Patrick Stewart (Narrator)"], "comments": [], "recommandations_id": []}

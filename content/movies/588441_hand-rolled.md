@@ -1,1 +1,0 @@
-{"tmdb_id": 588441, "title": "Hand Rolled", "original_title": "Hand Rolled", "slug_title": "hand-rolled", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["JESSE MARIUT (Director)"], "comments": [], "recommandations_id": []}

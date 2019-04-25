@@ -1,1 +1,0 @@
-{"tmdb_id": 480118, "title": "Infants at Rie", "original_title": "Infants at Rie", "slug_title": "infants-at-rie", "date": "1989-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

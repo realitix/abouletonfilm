@@ -1,1 +1,0 @@
-{"tmdb_id": 452973, "title": "Inside Split", "original_title": "Inside Split", "slug_title": "inside-split", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nadia Capone ()", "Michael A. Miranda ()", "David Phillips ()"], "comments": [], "recommandations_id": []}

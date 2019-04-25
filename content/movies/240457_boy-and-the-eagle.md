@@ -1,1 +1,0 @@
-{"tmdb_id": 240457, "title": "Boy and the Eagle", "original_title": "Boy and the Eagle", "slug_title": "boy-and-the-eagle", "date": "1949-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

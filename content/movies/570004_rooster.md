@@ -1,1 +1,0 @@
-{"tmdb_id": 570004, "title": "Rooster", "original_title": "Pivac", "slug_title": "rooster", "date": "2018-08-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rijad Gvozden (Policajac)", "Marija Piki\u0107 (An\u0111a)", "Amila Terzimehic (Stela)", "Sabit Sejdinovi\u0107 (Daniel)"], "comments": [], "recommandations_id": []}

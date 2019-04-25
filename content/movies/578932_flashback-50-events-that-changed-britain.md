@@ -1,1 +1,0 @@
-{"tmdb_id": 578932, "title": "Flashback: 50 Events That Changed Britain", "original_title": "Flashback: 50 Events That Changed Britain", "slug_title": "flashback-50-events-that-changed-britain", "date": "2012-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

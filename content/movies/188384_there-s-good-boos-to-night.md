@@ -1,1 +1,0 @@
-{"tmdb_id": 188384, "title": "There's Good Boos To-Night", "original_title": "There's Good Boos To-Night", "slug_title": "there-s-good-boos-to-night", "date": "1948-04-22", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5S7kDSFORS81Sk8PQ93sz9I6sDq.jpg", "actors": [], "comments": [], "recommandations_id": []}

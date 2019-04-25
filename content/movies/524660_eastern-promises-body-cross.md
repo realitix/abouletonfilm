@@ -1,1 +1,0 @@
-{"tmdb_id": 524660, "title": "Eastern Promises: Body Cross", "original_title": "Body Cross", "slug_title": "eastern-promises-body-cross", "date": "", "genre": "Crime / Thriller", "score": "0.0/10", "synopsis": "Suite des Promesses de l'Ombre de Cronenberg", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 426357, "title": "Halloween Hugs", "original_title": "Halloween Hugs", "slug_title": "halloween-hugs", "date": "2013-10-13", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6BqibiassZX1kFqNpob4aw64VYu.jpg", "actors": [], "comments": [], "recommandations_id": []}

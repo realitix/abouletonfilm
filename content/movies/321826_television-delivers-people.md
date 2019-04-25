@@ -1,1 +1,0 @@
-{"tmdb_id": 321826, "title": "Television Delivers People", "original_title": "Television Delivers People", "slug_title": "television-delivers-people", "date": "1973-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gY3uPv7yPVJNLpXg5OY8XcmgCmr.jpg", "actors": [], "comments": [], "recommandations_id": []}

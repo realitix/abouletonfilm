@@ -1,1 +1,0 @@
-{"tmdb_id": 379021, "title": "Tracce di tracce", "original_title": "Tracce di tracce", "slug_title": "tracce-di-tracce", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wAV7y1rNHHemug2HZ74NuxqKLP9.jpg", "actors": [], "comments": [], "recommandations_id": []}

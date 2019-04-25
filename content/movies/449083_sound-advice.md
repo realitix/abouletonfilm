@@ -1,1 +1,0 @@
-{"tmdb_id": 449083, "title": "Sound Advice", "original_title": "Sound Advice", "slug_title": "sound-advice", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sAyRnvNZ5hXTupEZTvxEMY7KKfo.jpg", "actors": ["Dave Polich (Instructor)"], "comments": [], "recommandations_id": []}

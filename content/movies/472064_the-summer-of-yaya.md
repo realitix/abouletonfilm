@@ -1,1 +1,0 @@
-{"tmdb_id": 472064, "title": "The Summer of YaYa", "original_title": "\u4e2b\u4e2b\u7684\u590f", "slug_title": "the-summer-of-yaya", "date": "2017-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gUipHtJLrAQ51rX54Z58nURgrGr.jpg", "actors": [], "comments": [], "recommandations_id": []}

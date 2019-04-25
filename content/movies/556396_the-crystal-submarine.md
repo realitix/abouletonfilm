@@ -1,1 +1,0 @@
-{"tmdb_id": 556396, "title": "The Crystal Submarine", "original_title": "Le sous-marin de cristal", "slug_title": "the-crystal-submarine", "date": "1927-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

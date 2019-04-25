@@ -1,1 +1,0 @@
-{"tmdb_id": 523638, "title": "Prisoners of the Ghostland", "original_title": "Prisoners of the Ghostland", "slug_title": "prisoners-of-the-ghostland", "date": "", "genre": "Action / Thriller / Fantastique / Horreur", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicolas Cage ()", "Imogen Poots ()"], "comments": [], "recommandations_id": []}

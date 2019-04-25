@@ -1,1 +1,0 @@
-{"tmdb_id": 114837, "title": "Denn du bist bei mir", "original_title": "Denn du bist bei mir", "slug_title": "denn-du-bist-bei-mir", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mEb79f8BogqCfBHK1Llu7EkAcO1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 459280, "title": "Ejercicio sobre la desaparici\u00f3n", "original_title": "Ejercicio sobre la desaparici\u00f3n", "slug_title": "ejercicio-sobre-la-desaparicion", "date": "2016-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

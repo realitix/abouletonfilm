@@ -1,1 +1,0 @@
-{"tmdb_id": 236074, "title": "King Tut's Tomb", "original_title": "King Tut's Tomb", "slug_title": "king-tut-s-tomb", "date": "1950-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

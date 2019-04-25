@@ -1,1 +1,0 @@
-{"tmdb_id": 579219, "title": "Stranger", "original_title": "Stranger", "slug_title": "stranger", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

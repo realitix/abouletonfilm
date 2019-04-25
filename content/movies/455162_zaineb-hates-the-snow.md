@@ -1,1 +1,0 @@
-{"tmdb_id": 455162, "title": "Zaineb Hates the Snow", "original_title": "Zaineb takrahou ethelj", "slug_title": "zaineb-hates-the-snow", "date": "2016-06-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tVW3LVd8tL02pKBoEXD7xfSLXMy.jpg", "actors": [], "comments": [], "recommandations_id": []}

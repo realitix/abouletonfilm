@@ -1,1 +1,0 @@
-{"tmdb_id": 356492, "title": "Catalog of Memory", "original_title": "Catalog of Memory", "slug_title": "catalog-of-memory", "date": "1977-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sh\u016bji Terayama (himself)", "Mishi Tanaka (himself)"], "comments": [], "recommandations_id": []}

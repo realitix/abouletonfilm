@@ -1,1 +1,0 @@
-{"tmdb_id": 311278, "title": "Elton John: Inside the Music", "original_title": "Elton John: Inside the Music", "slug_title": "elton-john-inside-the-music", "date": "2012-07-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

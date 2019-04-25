@@ -1,1 +1,0 @@
-{"tmdb_id": 395949, "title": "Veguli Pen", "original_title": "Veguli Pen", "slug_title": "veguli-pen", "date": "1971-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3QMqfabCtHA8dyqNEe3KkVEY1T.jpg", "actors": ["Gemini Ganesan ()", "Devika ()"], "comments": [], "recommandations_id": []}

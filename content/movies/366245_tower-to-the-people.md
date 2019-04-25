@@ -1,1 +1,0 @@
-{"tmdb_id": 366245, "title": "Tower To The People", "original_title": "Tower To The People", "slug_title": "tower-to-the-people", "date": "2015-10-04", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sjdzH34kvGdQ6uvIsTAoZ3YtBTM.jpg", "actors": [], "comments": [], "recommandations_id": []}

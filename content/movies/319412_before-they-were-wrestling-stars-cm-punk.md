@@ -1,1 +1,0 @@
-{"tmdb_id": 319412, "title": "Before They Were Wrestling Stars: CM Punk", "original_title": "Before They Were Wrestling Stars: CM Punk", "slug_title": "before-they-were-wrestling-stars-cm-punk", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

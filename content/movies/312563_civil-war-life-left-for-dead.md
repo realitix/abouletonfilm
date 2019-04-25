@@ -1,1 +1,0 @@
-{"tmdb_id": 312563, "title": "Civil War Life: Left for Dead", "original_title": "Civil War Life: Left for Dead", "slug_title": "civil-war-life-left-for-dead", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

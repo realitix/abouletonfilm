@@ -1,1 +1,0 @@
-{"tmdb_id": 313960, "title": "Tetched in the Head", "original_title": "Tetched in the Head", "slug_title": "tetched-in-the-head", "date": "1935-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

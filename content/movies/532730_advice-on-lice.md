@@ -1,1 +1,0 @@
-{"tmdb_id": 532730, "title": "Advice on Lice", "original_title": "Advice on Lice", "slug_title": "advice-on-lice", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 482082, "title": "The Last Pig", "original_title": "The Last Pig", "slug_title": "the-last-pig", "date": "2017-08-02", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8n2nmC1MYj5lv1C9wAvJ4Fs3rAO.jpg", "actors": [], "comments": [], "recommandations_id": []}

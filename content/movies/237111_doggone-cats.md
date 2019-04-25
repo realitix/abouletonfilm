@@ -1,1 +1,0 @@
-{"tmdb_id": 237111, "title": "Doggone Cats", "original_title": "Doggone Cats", "slug_title": "doggone-cats", "date": "1947-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/byByEjTPc91QvpTB1OXELF6d6RA.jpg", "actors": [], "comments": [], "recommandations_id": []}

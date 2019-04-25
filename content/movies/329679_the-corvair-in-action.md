@@ -1,1 +1,0 @@
-{"tmdb_id": 329679, "title": "The Corvair In Action!", "original_title": "The Corvair In Action!", "slug_title": "the-corvair-in-action", "date": "1960-12-31", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5l8pcOlf5MbpgAdmLCzmbH1SsZg.jpg", "actors": [], "comments": [], "recommandations_id": []}

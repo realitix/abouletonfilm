@@ -1,1 +1,0 @@
-{"tmdb_id": 411568, "title": "Window Drawing", "original_title": "Window Drawing", "slug_title": "window-drawing", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l7hoaASiGAXGLT68IOfBE14Ytik.jpg", "actors": [], "comments": [], "recommandations_id": []}

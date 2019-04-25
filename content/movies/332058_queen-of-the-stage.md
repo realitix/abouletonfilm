@@ -1,1 +1,0 @@
-{"tmdb_id": 332058, "title": "Queen of the Stage", "original_title": "Malakat el massareh", "slug_title": "queen-of-the-stage", "date": "1936-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Badia Massabni ()", "Mokhtar Osman ()"], "comments": [], "recommandations_id": []}

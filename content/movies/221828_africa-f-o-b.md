@@ -1,1 +1,0 @@
-{"tmdb_id": 221828, "title": "Africa F.O.B.", "original_title": "Africa F.O.B.", "slug_title": "africa-f-o-b", "date": "1925-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Monty Banks ()", "William Blaisdell ()"], "comments": [], "recommandations_id": []}

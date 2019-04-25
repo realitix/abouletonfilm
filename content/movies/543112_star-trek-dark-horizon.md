@@ -1,1 +1,0 @@
-{"tmdb_id": 543112, "title": "Star Trek: Dark Horizon", "original_title": "Star Trek: Dark Horizon", "slug_title": "star-trek-dark-horizon", "date": "2015-08-15", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dgfi4KJ8ADxz8WvyVRaWgj11kd7.jpg", "actors": [], "comments": [], "recommandations_id": []}

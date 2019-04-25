@@ -1,1 +1,0 @@
-{"tmdb_id": 473675, "title": "Myth in the Electrical Age", "original_title": "Myth in the Electrical Age", "slug_title": "myth-in-the-electrical-age", "date": "1981-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jFIQvG3PtCbGR6bugESLfjqdZat.jpg", "actors": [], "comments": [], "recommandations_id": []}

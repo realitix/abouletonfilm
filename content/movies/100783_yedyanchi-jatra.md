@@ -1,1 +1,0 @@
-{"tmdb_id": 100783, "title": "Yedyanchi Jatra", "original_title": "Yedyanchi Jatra", "slug_title": "yedyanchi-jatra", "date": "", "genre": "Com\u00e9die / Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hvSUVSEEtHnreGfjhxDgDiUFJZu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 271680, "title": "Naked Acts", "original_title": "Naked Acts", "slug_title": "naked-acts", "date": "1996-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1UQNcXNhQAh0nbulOMFtRqw7GcU.jpg", "actors": ["Beatrice Brazoban ()", "Rodney Charles ()", "Rene Cox ()"], "comments": [], "recommandations_id": []}

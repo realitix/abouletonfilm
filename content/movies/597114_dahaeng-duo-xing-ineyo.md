@@ -1,1 +1,0 @@
-{"tmdb_id": 597114, "title": "\ub2e4\ud589(\u591a\u884c) \uc774\ub124\uc694", "original_title": "\ub2e4\ud589(\u591a\u884c) \uc774\ub124\uc694", "slug_title": "dahaeng-duo-xing-ineyo", "date": "2019-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

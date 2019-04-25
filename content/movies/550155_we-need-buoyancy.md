@@ -1,1 +1,0 @@
-{"tmdb_id": 550155, "title": "We Need Buoyancy", "original_title": "We Need Buoyancy", "slug_title": "we-need-buoyancy", "date": "2014-12-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vwbFG5lymxU4qMag7J6FIDN17Oj.jpg", "actors": ["Irina Lavrinovi\u010d ()"], "comments": [], "recommandations_id": []}

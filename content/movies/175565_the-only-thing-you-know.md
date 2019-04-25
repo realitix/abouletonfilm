@@ -1,1 +1,0 @@
-{"tmdb_id": 175565, "title": "The Only Thing You Know", "original_title": "The Only Thing You Know", "slug_title": "the-only-thing-you-know", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7LLsbx7ZBdnv8Gd2Kw9H9f8ookb.jpg", "actors": ["Ann Knox ()"], "comments": [], "recommandations_id": []}

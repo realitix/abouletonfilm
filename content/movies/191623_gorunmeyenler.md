@@ -1,1 +1,0 @@
-{"tmdb_id": 191623, "title": "G\u00f6r\u00fcnmeyenler", "original_title": "G\u00f6r\u00fcnmeyenler", "slug_title": "gorunmeyenler", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

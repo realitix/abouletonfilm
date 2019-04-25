@@ -1,1 +1,0 @@
-{"tmdb_id": 557049, "title": "La volpe e l'ape", "original_title": "La volpe e l'ape", "slug_title": "la-volpe-e-l-ape", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a2xZAG0DzF22oP5wFN2zZS0WObu.jpg", "actors": ["Federico Becini ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 285333, "title": "Moments musicaux", "original_title": "Drobiazg melodyjny", "slug_title": "moments-musicaux", "date": "1934-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

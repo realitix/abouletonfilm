@@ -1,1 +1,0 @@
-{"tmdb_id": 235339, "title": "Lost Prophet", "original_title": "Lost Prophet", "slug_title": "lost-prophet", "date": "1992-06-08", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qC5VCx1AUNfnuWHG6yrtNGdBYpT.jpg", "actors": [], "comments": [], "recommandations_id": []}

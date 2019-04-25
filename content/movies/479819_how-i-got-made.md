@@ -1,1 +1,0 @@
-{"tmdb_id": 479819, "title": "How I Got Made", "original_title": "How I Got Made", "slug_title": "how-i-got-made", "date": "", "genre": "Com\u00e9die / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

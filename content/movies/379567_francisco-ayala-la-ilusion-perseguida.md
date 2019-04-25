@@ -1,1 +1,0 @@
-{"tmdb_id": 379567, "title": "Francisco Ayala, la ilusi\u00f3n perseguida", "original_title": "Francisco Ayala, la ilusi\u00f3n perseguida", "slug_title": "francisco-ayala-la-ilusion-perseguida", "date": "2009-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

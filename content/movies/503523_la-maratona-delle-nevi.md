@@ -1,1 +1,0 @@
-{"tmdb_id": 503523, "title": "La maratona delle nevi", "original_title": "La maratona delle nevi", "slug_title": "la-maratona-delle-nevi", "date": "1970-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

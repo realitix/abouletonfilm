@@ -1,1 +1,0 @@
-{"tmdb_id": 422824, "title": "La Femme Libido", "original_title": "La Femme Libido", "slug_title": "la-femme-libido", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wGgXO6cLSj6rF7yt9I27DDFjNP9.jpg", "actors": [], "comments": [], "recommandations_id": []}

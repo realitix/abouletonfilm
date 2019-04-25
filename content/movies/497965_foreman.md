@@ -1,1 +1,0 @@
-{"tmdb_id": 497965, "title": "Foreman", "original_title": "Foreman", "slug_title": "foreman", "date": "2017-09-13", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uE1IDhlFCpYXsmv7wnrLO6I25FH.jpg", "actors": [], "comments": [], "recommandations_id": []}

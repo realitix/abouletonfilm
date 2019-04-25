@@ -1,1 +1,0 @@
-{"tmdb_id": 577235, "title": "The Rollicking Rajah", "original_title": "The Rollicking Rajah", "slug_title": "the-rollicking-rajah", "date": "1913-01-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Buss ()", "Violet Hopson ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 326859, "title": "42nd Street Forever, Volume 1", "original_title": "42nd Street Forever, Volume 1", "slug_title": "42nd-street-forever-volume-1", "date": "2005-09-14", "genre": "", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pzIWYUqcBxy0iwskcAEU3wnd5Lc.jpg", "actors": [], "comments": [], "recommandations_id": []}

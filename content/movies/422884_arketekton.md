@@ -1,1 +1,0 @@
-{"tmdb_id": 422884, "title": "Arketekton", "original_title": "Arketekton", "slug_title": "arketekton", "date": "", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b9pYd68af1hTykJ3S2HiJdwtecV.jpg", "actors": [], "comments": [], "recommandations_id": []}

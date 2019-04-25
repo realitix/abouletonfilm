@@ -1,1 +1,0 @@
-{"tmdb_id": 321877, "title": "Mi Pa' Es un Teporocho", "original_title": "Mi Pa' Es un Teporocho", "slug_title": "mi-pa-es-un-teporocho", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 263128, "title": "The Policewoman", "original_title": "Mulher Pol\u00edcia", "slug_title": "the-policewoman", "date": "2003-05-05", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7dhdu8hjSmqErPf0HicOGzFjS0T.jpg", "actors": [], "comments": [], "recommandations_id": []}

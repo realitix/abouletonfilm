@@ -1,1 +1,0 @@
-{"tmdb_id": 522801, "title": "Berlin is in Germany", "original_title": "Berlin is in Germany", "slug_title": "berlin-is-in-germany", "date": "1998-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Heinrich Rolfing ()"], "comments": [], "recommandations_id": []}

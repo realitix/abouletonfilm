@@ -1,1 +1,0 @@
-{"tmdb_id": 514868, "title": "The Union", "original_title": "La Directiva", "slug_title": "the-union", "date": "2018-04-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cJKVJJkLv37RBb6B2eHlY9q4l36.jpg", "actors": [], "comments": [], "recommandations_id": []}

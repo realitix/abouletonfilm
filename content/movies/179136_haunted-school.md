@@ -1,1 +1,0 @@
-{"tmdb_id": 179136, "title": "Haunted School", "original_title": "Haunted School", "slug_title": "haunted-school", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

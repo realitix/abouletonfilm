@@ -1,1 +1,0 @@
-{"tmdb_id": 444749, "title": "The Senators' Bargain", "original_title": "The Senators' Bargain", "slug_title": "the-senators-bargain", "date": "2010-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sdpwmZkKLYkhsmzr610PNSzlKlQ.jpg", "actors": ["Ted Kennedy (Himself)"], "comments": [], "recommandations_id": []}

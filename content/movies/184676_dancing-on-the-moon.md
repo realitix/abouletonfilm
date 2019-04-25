@@ -1,1 +1,0 @@
-{"tmdb_id": 184676, "title": "Dancing on the Moon", "original_title": "Dancing on the Moon", "slug_title": "dancing-on-the-moon", "date": "1935-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v5UV44Wfjuq3KBooIrAojlFCOlg.jpg", "actors": [], "comments": [], "recommandations_id": []}

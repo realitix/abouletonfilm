@@ -1,1 +1,0 @@
-{"tmdb_id": 478909, "title": "Redmond Hand, Private Dick", "original_title": "Redmond Hand, Private Dick", "slug_title": "redmond-hand-private-dick", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

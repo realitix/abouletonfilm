@@ -1,1 +1,0 @@
-{"tmdb_id": 313194, "title": "Paul Brady: Paul Brady Songbook", "original_title": "Paul Brady: Paul Brady Songbook", "slug_title": "paul-brady-paul-brady-songbook", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

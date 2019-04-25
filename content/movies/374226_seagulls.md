@@ -1,1 +1,0 @@
-{"tmdb_id": 374226, "title": "Seagulls", "original_title": "Seagulls", "slug_title": "seagulls", "date": "2014-02-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mikey Hoc (Ryan)", "Connor Hamilton (Cal)", "Ali McBride (Nico)", "Kathleen McDermott (Lynne)", "Mark Woolner (Reaney)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 66430, "title": "Kurathi Magan", "original_title": "Kurathi Magan", "slug_title": "kurathi-magan", "date": "1972-04-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "K R Vijaya ()", "Kamal Haasan ()", "Sivakumar ()", "Jayachitra ()"], "comments": [], "recommandations_id": []}

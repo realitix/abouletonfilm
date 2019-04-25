@@ -1,1 +1,0 @@
-{"tmdb_id": 483524, "title": "O Elo Perdido", "original_title": "O Elo Perdido", "slug_title": "o-elo-perdido", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 544096, "title": "Kopf oder Zahl", "original_title": "Kopf oder Zahl", "slug_title": "kopf-oder-zahl", "date": "1973-01-05", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

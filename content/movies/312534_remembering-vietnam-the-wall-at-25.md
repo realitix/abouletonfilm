@@ -1,1 +1,0 @@
-{"tmdb_id": 312534, "title": "Remembering Vietnam: The Wall at 25", "original_title": "Remembering Vietnam: The Wall at 25", "slug_title": "remembering-vietnam-the-wall-at-25", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

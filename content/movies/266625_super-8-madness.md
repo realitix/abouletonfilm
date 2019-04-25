@@ -1,1 +1,0 @@
-{"tmdb_id": 266625, "title": "Super 8 Madness!", "original_title": "Super 8 Madness!", "slug_title": "super-8-madness", "date": "2014-04-20", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b9i4qXsjqnJGHzpvlNZkzbpM7Md.jpg", "actors": [], "comments": [], "recommandations_id": []}

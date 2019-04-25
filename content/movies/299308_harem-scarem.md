@@ -1,1 +1,0 @@
-{"tmdb_id": 299308, "title": "Harem Scarem", "original_title": "Harem Scarem", "slug_title": "harem-scarem", "date": "1928-01-09", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yv8aCoVt5p90FHtiv3VkYeDHirX.jpg", "actors": [], "comments": [], "recommandations_id": []}

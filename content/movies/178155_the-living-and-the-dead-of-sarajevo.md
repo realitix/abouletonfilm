@@ -1,1 +1,0 @@
-{"tmdb_id": 178155, "title": "The Living And The Dead Of Sarajevo", "original_title": "Les Vivants Et Les Morts De Sarajevo", "slug_title": "the-living-and-the-dead-of-sarajevo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

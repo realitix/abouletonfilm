@@ -1,1 +1,0 @@
-{"tmdb_id": 393481, "title": "Bloodstream", "original_title": "Bloodstream", "slug_title": "bloodstream", "date": "2000-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Meredith Mills (Pamela Miner)", "Eric Bunton (Marty Johnson)", "Joe Decker (Tom)", "Joey Day (Andrea)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 274956, "title": "The Tempest of Life", "original_title": "Toofane zendegi", "slug_title": "the-tempest-of-life", "date": "1948-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

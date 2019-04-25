@@ -1,1 +1,0 @@
-{"tmdb_id": 382026, "title": "My Gal, Rosemarie", "original_title": "My Gal, Rosemarie", "slug_title": "my-gal-rosemarie", "date": "2014-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tUf4vqS26em5lIEk8OCBNKkBsr0.jpg", "actors": [], "comments": [], "recommandations_id": []}

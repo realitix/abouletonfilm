@@ -1,1 +1,0 @@
-{"tmdb_id": 542768, "title": "Guardianes del manglar", "original_title": "Guardianes del manglar", "slug_title": "guardianes-del-manglar", "date": "2018-08-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7YnFSpfUnNEakEQMMVMTjTbWZq9.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 488678, "title": "Ek Deewaana Tha", "original_title": "Ek Deewaana Tha", "slug_title": "ek-deewaana-tha", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

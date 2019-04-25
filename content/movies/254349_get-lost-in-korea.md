@@ -1,1 +1,0 @@
-{"tmdb_id": 254349, "title": "Get Lost in Korea", "original_title": "Get Lost in Korea", "slug_title": "get-lost-in-korea", "date": "2013-11-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l9kmexU1gRY5QjfaQRmkJhwLjY4.jpg", "actors": [], "comments": [], "recommandations_id": []}

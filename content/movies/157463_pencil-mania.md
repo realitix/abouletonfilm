@@ -1,1 +1,0 @@
-{"tmdb_id": 157463, "title": "Pencil Mania", "original_title": "Pencil Mania", "slug_title": "pencil-mania", "date": "1932-12-08", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pFmvLwYOCziao0JoyrhpLS7Oh9h.jpg", "actors": [], "comments": [], "recommandations_id": []}

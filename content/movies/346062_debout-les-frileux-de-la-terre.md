@@ -1,1 +1,0 @@
-{"tmdb_id": 346062, "title": "Debout les frileux de la terre", "original_title": "Debout les frileux de la terre", "slug_title": "debout-les-frileux-de-la-terre", "date": "2004-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pWPi57F9HXwSZXIDwKPwca7WlxE.jpg", "actors": [], "comments": [], "recommandations_id": []}

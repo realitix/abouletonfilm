@@ -1,1 +1,0 @@
-{"tmdb_id": 554936, "title": "A Day for Susana", "original_title": "Um Dia para Susana", "slug_title": "a-day-for-susana", "date": "2018-10-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lEhaKujOmzYfibtaL1jiUblEb4j.jpg", "actors": ["Susana Schnarndorf (Herself)"], "comments": [], "recommandations_id": []}

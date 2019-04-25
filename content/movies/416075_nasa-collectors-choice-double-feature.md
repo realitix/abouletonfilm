@@ -1,1 +1,0 @@
-{"tmdb_id": 416075, "title": "NASA Collectors Choice Double Feature", "original_title": "NASA Collectors Choice Double Feature", "slug_title": "nasa-collectors-choice-double-feature", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 492254, "title": "Superman The Power", "original_title": "Superman The Power", "slug_title": "superman-the-power", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7e7ODcwwfaKVdEl1ViFeTYGfFaM.jpg", "actors": ["Juwel Rana (abir/superman)"], "comments": [], "recommandations_id": []}

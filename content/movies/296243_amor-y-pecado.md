@@ -1,1 +1,0 @@
-{"tmdb_id": 296243, "title": "Amor y pecado", "original_title": "Amor y pecado", "slug_title": "amor-y-pecado", "date": "1956-10-03", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jKMwaSiwElex7njBK5ezKzfYOmO.jpg", "actors": [], "comments": [], "recommandations_id": []}

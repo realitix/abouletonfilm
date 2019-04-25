@@ -1,1 +1,0 @@
-{"tmdb_id": 298439, "title": "Mutatis Mutandis", "original_title": "Mutatis Mutandis", "slug_title": "mutatis-mutandis", "date": "2014-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qBDXtGJFM1L7ReHvwQsXgGONdl5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 479066, "title": "We Demand", "original_title": "We Demand", "slug_title": "we-demand", "date": "2016-02-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qemMXTthZVPwiRzX6vSfYFLsNCv.jpg", "actors": ["Ricky Goldman ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 310775, "title": "A Paradise Under the Stars", "original_title": "A Paradise Under the Stars", "slug_title": "a-paradise-under-the-stars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

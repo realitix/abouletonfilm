@@ -1,1 +1,0 @@
-{"tmdb_id": 60439, "title": "Rex Navarrete: Hella Pinoy", "original_title": "Rex Navarrete: Hella Pinoy", "slug_title": "rex-navarrete-hella-pinoy", "date": "2003-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p7AulGOfN9grVAZjGEcC0Zy2Xv9.jpg", "actors": [], "comments": [], "recommandations_id": []}

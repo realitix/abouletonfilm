@@ -1,1 +1,0 @@
-{"tmdb_id": 39596, "title": "Private Gold 38: Network", "original_title": "Private Gold 38: Network", "slug_title": "private-gold-38-network", "date": "1999-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vG8viBSFWYiv2KzXTEKQ6IjnVBU.jpg", "actors": [], "comments": [], "recommandations_id": []}

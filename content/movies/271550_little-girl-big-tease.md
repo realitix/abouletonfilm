@@ -1,1 +1,0 @@
-{"tmdb_id": 271550, "title": "Little Girl, Big Tease", "original_title": "Little Girl, Big Tease", "slug_title": "little-girl-big-tease", "date": "1976-07-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kXCIl5yxyTQwkzxoWIi8bXKZx8Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

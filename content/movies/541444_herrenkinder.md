@@ -1,1 +1,0 @@
-{"tmdb_id": 541444, "title": "Herrenkinder", "original_title": "Herrenkinder", "slug_title": "herrenkinder", "date": "2009-10-30", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2XP0mmjMHsETtG4W43mXya6YERF.jpg", "actors": [], "comments": [], "recommandations_id": []}

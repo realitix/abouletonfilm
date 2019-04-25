@@ -1,1 +1,0 @@
-{"tmdb_id": 532659, "title": "Cult of Terror", "original_title": "Cult of Terror", "slug_title": "cult-of-terror", "date": "2018-08-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qrRXwAXQcRnj2nZk4NNLDXqPlpx.jpg", "actors": [], "comments": [], "recommandations_id": []}

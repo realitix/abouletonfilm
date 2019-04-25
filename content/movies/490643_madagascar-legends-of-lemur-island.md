@@ -1,1 +1,0 @@
-{"tmdb_id": 490643, "title": "Madagascar: Legends of Lemur Island", "original_title": "Madagascar: Legends of Lemur Island", "slug_title": "madagascar-legends-of-lemur-island", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

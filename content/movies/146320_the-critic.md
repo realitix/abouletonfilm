@@ -1,1 +1,0 @@
-{"tmdb_id": 146320, "title": "The Critic", "original_title": "The Critic", "slug_title": "the-critic", "date": "1963-09-08", "genre": "Com\u00e9die / Animation", "score": "7.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/96QXzlLM5zqpXmifStEQgMaqbXD.jpg", "actors": ["Mel Brooks (Narrator)"], "comments": [], "recommandations_id": [188425, 47207]}

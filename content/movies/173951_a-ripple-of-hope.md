@@ -1,1 +1,0 @@
-{"tmdb_id": 173951, "title": "A Ripple of Hope", "original_title": "A Ripple of Hope", "slug_title": "a-ripple-of-hope", "date": "2010-01-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ljsBjRGLlvi5siLgqzBTGX41Ich.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 506117, "title": "The Deviants", "original_title": "The Deviants", "slug_title": "the-deviants", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o4WDY84zsfsSwPk2qKpGjOYkwco.jpg", "actors": [], "comments": [], "recommandations_id": []}

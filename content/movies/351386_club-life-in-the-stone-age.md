@@ -1,1 +1,0 @@
-{"tmdb_id": 351386, "title": "Club Life in the Stone Age", "original_title": "Club Life in the Stone Age", "slug_title": "club-life-in-the-stone-age", "date": "1940-08-23", "genre": "", "score": "8.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

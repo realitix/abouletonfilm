@@ -1,1 +1,0 @@
-{"tmdb_id": 227399, "title": "Extraterrestrial Cat in Boots", "original_title": "O Gato de Botas Extraterrestre", "slug_title": "extraterrestrial-cat-in-boots", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1wrFVb6jI9CCUGNQYMbHs5q39At.jpg", "actors": [], "comments": [], "recommandations_id": []}

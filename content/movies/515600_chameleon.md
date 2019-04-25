@@ -1,1 +1,0 @@
-{"tmdb_id": 515600, "title": "Chameleon", "original_title": "Chameleon", "slug_title": "chameleon", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5McgEbh5INghp9FOz1etXowEwOb.jpg", "actors": [], "comments": [], "recommandations_id": []}

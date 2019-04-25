@@ -1,1 +1,0 @@
-{"tmdb_id": 377706, "title": "The Rival Brothers' Patriotism", "original_title": "The Rival Brothers' Patriotism", "slug_title": "the-rival-brothers-patriotism", "date": "1911-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charles Arling ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 459596, "title": "Finding Fatima", "original_title": "Finding Fatima", "slug_title": "finding-fatima", "date": "2010-10-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fcRizPg3LPk7FlOpXyDteEqtnfz.jpg", "actors": [], "comments": [], "recommandations_id": []}

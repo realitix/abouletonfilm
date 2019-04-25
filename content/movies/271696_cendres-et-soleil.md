@@ -1,1 +1,0 @@
-{"tmdb_id": 271696, "title": "Cendres et soleil", "original_title": "Cendres et soleil", "slug_title": "cendres-et-soleil", "date": "1994-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Issa Baba Traore\u0301 ()"], "comments": [], "recommandations_id": []}

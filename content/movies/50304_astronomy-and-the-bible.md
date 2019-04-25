@@ -1,1 +1,0 @@
-{"tmdb_id": 50304, "title": "Astronomy and the Bible", "original_title": "Astronomy and the Bible", "slug_title": "astronomy-and-the-bible", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lxJFNylpGVfZw6FCkRIeV7SM7w0.jpg", "actors": [], "comments": [], "recommandations_id": []}

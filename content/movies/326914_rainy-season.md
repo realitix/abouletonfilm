@@ -1,1 +1,0 @@
-{"tmdb_id": 326914, "title": "Rainy Season", "original_title": "Rainy Season", "slug_title": "rainy-season", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

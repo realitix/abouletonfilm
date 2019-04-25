@@ -1,1 +1,0 @@
-{"tmdb_id": 220710, "title": "Joe Leahy's Neighbors", "original_title": "Joe Leahy's Neighbors", "slug_title": "joe-leahy-s-neighbors", "date": "1988-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aSl9zhXEUQnsmadEw2ZEb7rdeMq.jpg", "actors": [], "comments": [], "recommandations_id": []}

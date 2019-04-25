@@ -1,1 +1,0 @@
-{"tmdb_id": 426526, "title": "Virtual Kidnapper", "original_title": "Virtual Kidnapper", "slug_title": "virtual-kidnapper", "date": "2000-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kYNlq39II1Ks1uR7zmK55RdT5Zn.jpg", "actors": ["Erin Brown ((as Misty Mundae))"], "comments": [], "recommandations_id": []}

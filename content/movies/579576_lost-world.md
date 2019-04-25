@@ -1,1 +1,0 @@
-{"tmdb_id": 579576, "title": "Lost World", "original_title": "Lost World", "slug_title": "lost-world", "date": "2019-01-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sjHP6A6nFth7FzIYllg32PwCTG3.jpg", "actors": [], "comments": [], "recommandations_id": []}

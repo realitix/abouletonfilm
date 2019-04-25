@@ -1,1 +1,0 @@
-{"tmdb_id": 588167, "title": "Man on the Land", "original_title": "Man on the Land", "slug_title": "man-on-the-land", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 310794, "title": "Hillary: The Movie", "original_title": "Hillary: The Movie", "slug_title": "hillary-the-movie", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jl7fgNiGFzRfBsQ1A8GgA2me3Zi.jpg", "actors": ["Hillary Clinton (Herself)"], "comments": [], "recommandations_id": []}

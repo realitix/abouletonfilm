@@ -1,1 +1,0 @@
-{"tmdb_id": 386856, "title": "Britannia", "original_title": "Britannia", "slug_title": "britannia", "date": "1993-03-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s7BSgsmCuI3heHdQtXIVeIldrhf.jpg", "actors": [], "comments": [], "recommandations_id": []}

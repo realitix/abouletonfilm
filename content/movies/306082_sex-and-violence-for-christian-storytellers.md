@@ -1,1 +1,0 @@
-{"tmdb_id": 306082, "title": "Sex and Violence for Christian Storytellers", "original_title": "Sex and Violence for Christian Storytellers", "slug_title": "sex-and-violence-for-christian-storytellers", "date": "2014-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

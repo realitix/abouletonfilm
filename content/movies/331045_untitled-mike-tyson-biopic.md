@@ -1,1 +1,0 @@
-{"tmdb_id": 331045, "title": "Untitled Mike Tyson Biopic", "original_title": "Untitled Mike Tyson Biopic", "slug_title": "untitled-mike-tyson-biopic", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

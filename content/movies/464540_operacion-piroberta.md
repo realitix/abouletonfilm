@@ -1,1 +1,0 @@
-{"tmdb_id": 464540, "title": "Operaci\u00f3n Piroberta", "original_title": "Operaci\u00f3n Piroberta", "slug_title": "operacion-piroberta", "date": "2016-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

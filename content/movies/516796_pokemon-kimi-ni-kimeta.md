@@ -1,1 +1,0 @@
-{"tmdb_id": 516796, "title": "Pokemon! Kimi ni Kimeta!", "original_title": "Pokemon! Kimi ni Kimeta!", "slug_title": "pokemon-kimi-ni-kimeta", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

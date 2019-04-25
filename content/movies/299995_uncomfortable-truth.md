@@ -1,1 +1,0 @@
-{"tmdb_id": 299995, "title": "Uncomfortable Truth", "original_title": "Uncomfortable Truth", "slug_title": "uncomfortable-truth", "date": "2014-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

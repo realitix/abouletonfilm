@@ -1,1 +1,0 @@
-{"tmdb_id": 97047, "title": "Sodoma: La Caida Del Mono Jojoy", "original_title": "Sodoma: La Caida Del Mono Jojoy", "slug_title": "sodoma-la-caida-del-mono-jojoy", "date": "2011-09-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

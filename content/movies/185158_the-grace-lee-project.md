@@ -1,1 +1,0 @@
-{"tmdb_id": 185158, "title": "The Grace Lee Project", "original_title": "The Grace Lee Project", "slug_title": "the-grace-lee-project", "date": "2005-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c8sjdsFzkJHKXVBNGEXGlLWEEcK.jpg", "actors": [], "comments": [], "recommandations_id": []}

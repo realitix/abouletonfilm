@@ -1,1 +1,0 @@
-{"tmdb_id": 405157, "title": "Watch It Played", "original_title": "Watch It Played", "slug_title": "watch-it-played", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

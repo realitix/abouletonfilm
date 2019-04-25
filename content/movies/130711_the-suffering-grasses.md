@@ -1,1 +1,0 @@
-{"tmdb_id": 130711, "title": "The Suffering Grasses", "original_title": "The Suffering Grasses", "slug_title": "the-suffering-grasses", "date": "2012-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dVxETHco1BD7lhaGM7dGKFKaSy5.jpg", "actors": [], "comments": [], "recommandations_id": []}

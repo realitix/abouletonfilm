@@ -1,1 +1,0 @@
-{"tmdb_id": 206065, "title": "Bonhoeffer", "original_title": "Bonhoeffer", "slug_title": "bonhoeffer", "date": "2003-06-19", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wRJm3MSIK51xvw9qMy1ih9FI5lV.jpg", "actors": [], "comments": [], "recommandations_id": []}

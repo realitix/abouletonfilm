@@ -1,1 +1,0 @@
-{"tmdb_id": 352009, "title": "Being Far Away", "original_title": "Being Far Away", "slug_title": "being-far-away", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

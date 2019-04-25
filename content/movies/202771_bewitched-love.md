@@ -1,1 +1,0 @@
-{"tmdb_id": 202771, "title": "Bewitched Love", "original_title": "El Amor Brujo", "slug_title": "bewitched-love", "date": "1967-06-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/typpSl3SumO0ALjzHjJ8cyWaVCL.jpg", "actors": [], "comments": [], "recommandations_id": []}

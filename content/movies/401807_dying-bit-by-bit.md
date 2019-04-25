@@ -1,1 +1,0 @@
-{"tmdb_id": 401807, "title": "Dying Bit by Bit", "original_title": "Ein wenig sterben", "slug_title": "dying-bit-by-bit", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

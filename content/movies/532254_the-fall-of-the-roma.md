@@ -1,1 +1,0 @@
-{"tmdb_id": 532254, "title": "The Fall of the Roma", "original_title": "The Fall of the Roma", "slug_title": "the-fall-of-the-roma", "date": "1997-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hgGKDM7Cxq3So9ZSIT7xc7NZjn1.jpg", "actors": [], "comments": [], "recommandations_id": []}

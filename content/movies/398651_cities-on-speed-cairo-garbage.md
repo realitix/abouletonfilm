@@ -1,1 +1,0 @@
-{"tmdb_id": 398651, "title": "Cities on Speed: Cairo Garbage", "original_title": "Cities on Speed: Cairo Garbage", "slug_title": "cities-on-speed-cairo-garbage", "date": "2009-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

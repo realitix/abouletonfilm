@@ -1,1 +1,0 @@
-{"tmdb_id": 355075, "title": "Eine Liebe in Istanbul", "original_title": "Eine Liebe in Istanbul", "slug_title": "eine-liebe-in-istanbul", "date": "1990-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jale Arikan (Nursim)", "Rolf Becker (Erwin)", "Oliver Rohrbeck (Horst)"], "comments": [], "recommandations_id": []}

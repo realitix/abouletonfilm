@@ -1,1 +1,0 @@
-{"tmdb_id": 368142, "title": "Grass Roots", "original_title": "Grass Roots", "slug_title": "grass-roots", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

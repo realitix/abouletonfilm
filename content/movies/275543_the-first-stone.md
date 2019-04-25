@@ -1,1 +1,0 @@
-{"tmdb_id": 275543, "title": "The First Stone", "original_title": "The First Stone", "slug_title": "the-first-stone", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

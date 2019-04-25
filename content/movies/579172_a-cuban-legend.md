@@ -1,1 +1,0 @@
-{"tmdb_id": 579172, "title": "A Cuban Legend", "original_title": "A Cuban Legend", "slug_title": "a-cuban-legend", "date": "2002-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

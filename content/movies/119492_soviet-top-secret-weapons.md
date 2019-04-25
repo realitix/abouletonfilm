@@ -1,1 +1,0 @@
-{"tmdb_id": 119492, "title": "Soviet Top Secret Weapons", "original_title": "Soviet Top Secret Weapons", "slug_title": "soviet-top-secret-weapons", "date": "2002-05-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gBnwuSz4R03a4JMgnA63MsNjAqv.jpg", "actors": [], "comments": [], "recommandations_id": []}

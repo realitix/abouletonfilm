@@ -1,1 +1,0 @@
-{"tmdb_id": 519295, "title": "Storyville Memory", "original_title": "Storyville Memory", "slug_title": "storyville-memory", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

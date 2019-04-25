@@ -1,1 +1,0 @@
-{"tmdb_id": 187217, "title": "Scorpions: Wacken 2012", "original_title": "Scorpions: Wacken 2012", "slug_title": "scorpions-wacken-2012", "date": "2012-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/raCUHbTyLdWcsaRxJp32bOlFwgk.jpg", "actors": ["Scorpions ()"], "comments": [], "recommandations_id": []}

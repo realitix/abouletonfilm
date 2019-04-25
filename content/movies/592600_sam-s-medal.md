@@ -1,1 +1,0 @@
-{"tmdb_id": 592600, "title": "Sam's Medal", "original_title": "Sam's Medal", "slug_title": "sam-s-medal", "date": "1936-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stanley Holloway ()"], "comments": [], "recommandations_id": []}

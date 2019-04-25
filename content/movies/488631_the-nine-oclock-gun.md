@@ -1,1 +1,0 @@
-{"tmdb_id": 488631, "title": "The Nine O\u2019Clock Gun", "original_title": "The Nine O\u2019Clock Gun", "slug_title": "the-nine-oclock-gun", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/usztd0EexJZdbMMGtjcRorqmQZv.jpg", "actors": [], "comments": [], "recommandations_id": []}

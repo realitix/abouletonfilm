@@ -1,1 +1,0 @@
-{"tmdb_id": 410051, "title": "Stranger Than Paradise", "original_title": "Stranger Than Paradise", "slug_title": "stranger-than-paradise", "date": "1983-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

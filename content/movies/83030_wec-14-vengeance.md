@@ -1,1 +1,0 @@
-{"tmdb_id": 83030, "title": "WEC 14: Vengeance", "original_title": "WEC 14: Vengeance", "slug_title": "wec-14-vengeance", "date": "2005-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ilf0V0720jel4kWdoXz9dbgl4Dw.jpg", "actors": [], "comments": [], "recommandations_id": []}

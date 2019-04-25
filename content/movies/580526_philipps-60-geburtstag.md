@@ -1,1 +1,0 @@
-{"tmdb_id": 580526, "title": "Philipps 60. Geburtstag", "original_title": "Philipps 60. Geburtstag", "slug_title": "philipps-60-geburtstag", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2MKeeCyCDT1dAZSVc0WI22Zb6b2.jpg", "actors": [], "comments": [], "recommandations_id": []}

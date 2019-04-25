@@ -1,1 +1,0 @@
-{"tmdb_id": 298444, "title": "Dixie Dynamite", "original_title": "Dixie Dynamite", "slug_title": "dixie-dynamite", "date": "2010-01-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

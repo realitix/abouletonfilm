@@ -1,1 +1,0 @@
-{"tmdb_id": 318024, "title": "Bumba - Nanadu", "original_title": "Bumba - Nanadu", "slug_title": "bumba-nanadu", "date": "2007-05-02", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5I1yBlcrnEg9uTWjTJWUJKptPbL.jpg", "actors": [], "comments": [], "recommandations_id": []}

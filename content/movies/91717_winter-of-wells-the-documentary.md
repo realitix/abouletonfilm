@@ -1,1 +1,0 @@
-{"tmdb_id": 91717, "title": "Winter Of Wells The Documentary", "original_title": "Winter Of Wells The Documentary", "slug_title": "winter-of-wells-the-documentary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nzc7pPOHr7yGeIiIMm8pG8n91Qz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 417524, "title": "20 Years as a Woman Reporter", "original_title": "\u5973\u8a18\u8005 20\u5e74", "slug_title": "20-years-as-a-woman-reporter", "date": "1978-11-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AtZtQFNiiYqbQpaDjk5F0LPGW2Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

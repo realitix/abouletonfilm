@@ -1,1 +1,0 @@
-{"tmdb_id": 298447, "title": "Double Crossed", "original_title": "Double Crossed", "slug_title": "double-crossed", "date": "2010-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

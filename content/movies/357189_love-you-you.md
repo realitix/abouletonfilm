@@ -1,1 +1,0 @@
-{"tmdb_id": 357189, "title": "Love You You", "original_title": "Love You You", "slug_title": "love-you-you", "date": "2011-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uXSjLPS04kFeNE8CFY7lmF9ShSC.jpg", "actors": [], "comments": [], "recommandations_id": []}

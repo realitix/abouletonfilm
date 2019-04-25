@@ -1,1 +1,0 @@
-{"tmdb_id": 510742, "title": "Fly Lady Fly", "original_title": "Fly Lady Fly", "slug_title": "fly-lady-fly", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

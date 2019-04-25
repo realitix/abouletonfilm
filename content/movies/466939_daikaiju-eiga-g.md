@@ -1,1 +1,0 @@
-{"tmdb_id": 466939, "title": "Daikaiju Eiga G", "original_title": "Daikaiju Eiga G", "slug_title": "daikaiju-eiga-g", "date": "2007-10-23", "genre": "Horreur / Action / Science-Fiction", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mZAJavLIPWDIQGghThFFBW6MQgk.jpg", "actors": [], "comments": [], "recommandations_id": []}

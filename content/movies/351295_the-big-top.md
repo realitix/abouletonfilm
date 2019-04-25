@@ -1,1 +1,0 @@
-{"tmdb_id": 351295, "title": "The Big Top", "original_title": "The Big Top", "slug_title": "the-big-top", "date": "1938-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 498295, "title": "Ruins Rider", "original_title": "Ruins Rider", "slug_title": "ruins-rider", "date": "2017-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1N0hzGSTW8Y11pkwX90Q5GOUZou.jpg", "actors": [], "comments": [], "recommandations_id": []}

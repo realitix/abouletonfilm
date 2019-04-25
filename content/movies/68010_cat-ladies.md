@@ -1,1 +1,0 @@
-{"tmdb_id": 68010, "title": "Cat Ladies", "original_title": "Cat Ladies", "slug_title": "cat-ladies", "date": "2009-10-18", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ffTgckBAFpokz5rqfkMSKQ1Uj1d.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 588877, "title": "Joan Mitchell, Details", "original_title": "Joan Mitchell, Details", "slug_title": "joan-mitchell-details", "date": "2019-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 277741, "title": "Howdy Town 2", "original_title": "Howdy Town 2", "slug_title": "howdy-town-2", "date": "2008-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

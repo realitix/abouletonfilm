@@ -1,1 +1,0 @@
-{"tmdb_id": 288460, "title": "Killing Ruth: The Snuff Dialogues", "original_title": "Killing Ruth: The Snuff Dialogues", "slug_title": "killing-ruth-the-snuff-dialogues", "date": "2011-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

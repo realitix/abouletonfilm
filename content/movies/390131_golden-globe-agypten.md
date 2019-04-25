@@ -1,1 +1,0 @@
-{"tmdb_id": 390131, "title": "Golden Globe - \u00c4gypten", "original_title": "Golden Globe - \u00c4gypten", "slug_title": "golden-globe-agypten", "date": "2011-10-27", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5LIEWlRP81a6uf6SApK2jIk9mzl.jpg", "actors": [], "comments": [], "recommandations_id": []}

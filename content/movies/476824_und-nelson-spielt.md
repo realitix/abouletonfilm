@@ -1,1 +1,0 @@
-{"tmdb_id": 476824, "title": "Und Nelson spielt", "original_title": "Und Nelson spielt", "slug_title": "und-nelson-spielt", "date": "1929-02-26", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xNmPWxpUQ7aDqYOOga0y64PmGst.jpg", "actors": ["Rudolf Nelson ()"], "comments": [], "recommandations_id": []}

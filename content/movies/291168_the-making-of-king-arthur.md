@@ -1,1 +1,0 @@
-{"tmdb_id": 291168, "title": "The Making of King Arthur", "original_title": "The Making of King Arthur", "slug_title": "the-making-of-king-arthur", "date": "2010-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

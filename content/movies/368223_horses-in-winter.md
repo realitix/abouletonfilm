@@ -1,1 +1,0 @@
-{"tmdb_id": 368223, "title": "Horses in Winter", "original_title": "Horses in Winter", "slug_title": "horses-in-winter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

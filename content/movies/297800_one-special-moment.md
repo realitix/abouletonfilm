@@ -1,1 +1,0 @@
-{"tmdb_id": 297800, "title": "One Special Moment", "original_title": "One Special Moment", "slug_title": "one-special-moment", "date": "2001-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

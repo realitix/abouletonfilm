@@ -1,1 +1,0 @@
-{"tmdb_id": 504488, "title": "\uc80a\uc740 \uc7a5\ubaa8", "original_title": "\uc80a\uc740 \uc7a5\ubaa8", "slug_title": "jeolmeun-jangmo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

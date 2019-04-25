@@ -1,1 +1,0 @@
-{"tmdb_id": 287894, "title": "G\u00f6ttliche Lage", "original_title": "G\u00f6ttliche Lage", "slug_title": "gottliche-lage", "date": "2014-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Q0QlzMnmt4IdemrM1WHVSuT4o1.jpg", "actors": [], "comments": [], "recommandations_id": []}

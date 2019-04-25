@@ -1,1 +1,0 @@
-{"tmdb_id": 310236, "title": "Voices of Jamaica: Live in Concert: London", "original_title": "Voices of Jamaica: Live in Concert: London", "slug_title": "voices-of-jamaica-live-in-concert-london", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

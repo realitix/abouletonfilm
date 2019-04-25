@@ -1,1 +1,0 @@
-{"tmdb_id": 582297, "title": "Reflejo actoral", "original_title": "Reflejo actoral", "slug_title": "reflejo-actoral", "date": "2019-02-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

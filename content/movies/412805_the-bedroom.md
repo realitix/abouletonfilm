@@ -1,1 +1,0 @@
-{"tmdb_id": 412805, "title": "The Bedroom", "original_title": "De slaapkammer", "slug_title": "the-bedroom", "date": "1990-05-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c5s0pwVUvqdigNpQZlngEeTUSK8.jpg", "actors": [], "comments": [], "recommandations_id": []}

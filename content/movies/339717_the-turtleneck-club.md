@@ -1,1 +1,0 @@
-{"tmdb_id": 339717, "title": "The Turtleneck Club", "original_title": "The Turtleneck Club", "slug_title": "the-turtleneck-club", "date": "2013-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

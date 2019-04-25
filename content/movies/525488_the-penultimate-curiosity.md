@@ -1,1 +1,0 @@
-{"tmdb_id": 525488, "title": "The Penultimate Curiosity", "original_title": "The Penultimate Curiosity", "slug_title": "the-penultimate-curiosity", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xIWVAYY18dojlDT9WmLauIfYMwN.jpg", "actors": [], "comments": [], "recommandations_id": []}

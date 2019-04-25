@@ -1,1 +1,0 @@
-{"tmdb_id": 292953, "title": "The Curious Case of Curt Flood", "original_title": "The Curious Case of Curt Flood", "slug_title": "the-curious-case-of-curt-flood", "date": "2011-07-13", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tUlXuWHVrJnKZAjFY7A4ihgGcJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

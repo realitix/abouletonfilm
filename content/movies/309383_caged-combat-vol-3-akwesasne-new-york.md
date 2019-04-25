@@ -1,1 +1,0 @@
-{"tmdb_id": 309383, "title": "Caged Combat: Vol. 3: Akwesasne, New York", "original_title": "Caged Combat: Vol. 3: Akwesasne, New York", "slug_title": "caged-combat-vol-3-akwesasne-new-york", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 499110, "title": "Kyaa Dil Ne Kahaa", "original_title": "Kyaa Dil Ne Kahaa", "slug_title": "kyaa-dil-ne-kahaa", "date": "2002-06-28", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rajesh Khanna ()", "Tusshar Kapoor ()", "Esha Deol ()", "Raj Babbar ()", "Razak Khan ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 411855, "title": "Pirai Thediya Naatkal", "original_title": "Pirai Thediya Naatkal", "slug_title": "pirai-thediya-naatkal", "date": "2018-12-15", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ashok Selvan ()", "Parvatii Nair ()", "Ritu Varma ()"], "comments": [], "recommandations_id": []}

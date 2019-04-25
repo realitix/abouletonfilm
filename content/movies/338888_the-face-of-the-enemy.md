@@ -1,1 +1,0 @@
-{"tmdb_id": 338888, "title": "The Face of the Enemy", "original_title": "The Face of the Enemy", "slug_title": "the-face-of-the-enemy", "date": "2009-01-30", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xKVIph6Uw6eZdhZNU9TLlx8dNhb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 302681, "title": "The Drive II: 395 Miles From L.A.", "original_title": "The Drive II: 395 Miles From L.A.", "slug_title": "the-drive-ii-395-miles-from-l-a", "date": "2013-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 374797, "title": "Costel's Pendulum", "original_title": "Costel's Pendulum", "slug_title": "costel-s-pendulum", "date": "2013-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

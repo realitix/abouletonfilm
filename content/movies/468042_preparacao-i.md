@@ -1,1 +1,0 @@
-{"tmdb_id": 468042, "title": "Prepara\u00e7\u00e3o I", "original_title": "Prepara\u00e7\u00e3o I", "slug_title": "preparacao-i", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lJVGjFoI6YXHjs0edVViuC5XnbW.jpg", "actors": [], "comments": [], "recommandations_id": []}

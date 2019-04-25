@@ -1,1 +1,0 @@
-{"tmdb_id": 528945, "title": "Set Free", "original_title": "Set Free", "slug_title": "set-free", "date": "2015-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vFbLpc2BT6CNFd1VpPSwbYohLjn.jpg", "actors": [], "comments": [], "recommandations_id": []}

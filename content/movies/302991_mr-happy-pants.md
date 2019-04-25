@@ -1,1 +1,0 @@
-{"tmdb_id": 302991, "title": "Mr.Happy Pants", "original_title": "Mr.Happy Pants", "slug_title": "mr-happy-pants", "date": "2014-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 249868, "title": "The Ambassadors", "original_title": "The Ambassadors", "slug_title": "the-ambassadors", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Bauer ()", "Alan Gifford ()", "Bethel Leslie ()"], "comments": [], "recommandations_id": []}

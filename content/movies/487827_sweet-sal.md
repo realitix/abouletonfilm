@@ -1,1 +1,0 @@
-{"tmdb_id": 487827, "title": "Sweet Sal", "original_title": "Sweet Sal", "slug_title": "sweet-sal", "date": "1979-11-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sal Carullo (Himself)", "Tony Buba (Himself)"], "comments": [], "recommandations_id": []}

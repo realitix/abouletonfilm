@@ -1,1 +1,0 @@
-{"tmdb_id": 508901, "title": "At Home in the World", "original_title": "At Home in the World", "slug_title": "at-home-in-the-world", "date": "1995-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

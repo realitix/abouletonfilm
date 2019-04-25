@@ -1,1 +1,0 @@
-{"tmdb_id": 355027, "title": "The Nuer", "original_title": "The Nuer", "slug_title": "the-nuer", "date": "1971-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1MNfOHMuAraNsROwlsBXgROXJrF.jpg", "actors": [], "comments": [], "recommandations_id": []}

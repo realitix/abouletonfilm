@@ -1,1 +1,0 @@
-{"tmdb_id": 538700, "title": "Des roses et des crocodiles", "original_title": "Des roses et des crocodiles", "slug_title": "des-roses-et-des-crocodiles", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

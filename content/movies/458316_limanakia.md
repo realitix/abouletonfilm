@@ -1,1 +1,0 @@
-{"tmdb_id": 458316, "title": "Limanakia", "original_title": "Limanakia", "slug_title": "limanakia", "date": "2014-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5uASeFN3C8mmkgGw95KQQDpr8ME.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 405307, "title": "Modern City", "original_title": "Modern City", "slug_title": "modern-city", "date": "2015-07-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cnXD4W9KSMWPjrAX0TTIp4crx7f.jpg", "actors": [], "comments": [], "recommandations_id": []}

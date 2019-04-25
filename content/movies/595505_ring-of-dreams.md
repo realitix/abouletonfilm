@@ -1,1 +1,0 @@
-{"tmdb_id": 595505, "title": "Ring of Dreams", "original_title": "Ring of Dreams", "slug_title": "ring-of-dreams", "date": "2019-04-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

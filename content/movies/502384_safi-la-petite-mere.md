@@ -1,1 +1,0 @@
-{"tmdb_id": 502384, "title": "Safi, la petite m\u00e8re", "original_title": "Safi, la petite m\u00e8re", "slug_title": "safi-la-petite-mere", "date": "2004-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

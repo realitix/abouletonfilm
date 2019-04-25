@@ -1,1 +1,0 @@
-{"tmdb_id": 402530, "title": "Campo Europa", "original_title": "Campo Europa", "slug_title": "campo-europa", "date": "1984-08-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Val\u00e9rie Favre (Anna)", "Lou Castel (Silvio)", "Camillo Milli ()", "Dominique Stehle ()"], "comments": [], "recommandations_id": []}

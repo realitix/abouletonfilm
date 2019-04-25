@@ -1,1 +1,0 @@
-{"tmdb_id": 164620, "title": "Chet Baker Trio - Sweden", "original_title": "Chet Baker Trio - Sweden", "slug_title": "chet-baker-trio-sweden", "date": "1985-06-29", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/myiCPdD6CQpDTGhCAisYcC7mmYy.jpg", "actors": ["Chet Baker ()"], "comments": [], "recommandations_id": []}

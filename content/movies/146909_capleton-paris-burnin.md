@@ -1,1 +1,0 @@
-{"tmdb_id": 146909, "title": "Capleton - Paris' Burnin'", "original_title": "Capleton - Paris' Burnin'", "slug_title": "capleton-paris-burnin", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nJIrfOYxpCpimW63EH3UfNLH7Dn.jpg", "actors": ["Capleton (Himself)"], "comments": [], "recommandations_id": []}

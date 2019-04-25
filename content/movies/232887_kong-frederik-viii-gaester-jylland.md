@@ -1,1 +1,0 @@
-{"tmdb_id": 232887, "title": "Kong Frederik VIII g\u00e6ster Jylland", "original_title": "Kong Frederik VIII g\u00e6ster Jylland", "slug_title": "kong-frederik-viii-gaester-jylland", "date": "1908-08-03", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

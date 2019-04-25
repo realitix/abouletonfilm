@@ -1,1 +1,0 @@
-{"tmdb_id": 309090, "title": "Strauss: Wiener Blut", "original_title": "Strauss: Wiener Blut", "slug_title": "strauss-wiener-blut", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

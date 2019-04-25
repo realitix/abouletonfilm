@@ -1,1 +1,0 @@
-{"tmdb_id": 228594, "title": "Production Stills", "original_title": "Production Stills", "slug_title": "production-stills", "date": "1970-01-01", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tN38EaaeI9RuxgapcmKFAbFVgMZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

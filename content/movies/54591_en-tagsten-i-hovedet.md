@@ -1,1 +1,0 @@
-{"tmdb_id": 54591, "title": "En Tagsten I Hovedet", "original_title": "En Tagsten I Hovedet", "slug_title": "en-tagsten-i-hovedet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2e5Fx4ixUlWBEuPHJMEukk6YXd2.jpg", "actors": [], "comments": [], "recommandations_id": []}

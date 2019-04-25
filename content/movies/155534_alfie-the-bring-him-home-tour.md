@@ -1,1 +1,0 @@
-{"tmdb_id": 155534, "title": "Alfie - The Bring Him Home Tour", "original_title": "Alfie - The Bring Him Home Tour", "slug_title": "alfie-the-bring-him-home-tour", "date": "2012-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2hdFpPaMnY8i5K8JuPjvKiJeYjm.jpg", "actors": [], "comments": [], "recommandations_id": []}

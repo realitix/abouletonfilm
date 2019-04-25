@@ -1,1 +1,0 @@
-{"tmdb_id": 129427, "title": "Rabbit \u00e0 la Berlin", "original_title": "Kr\u00f3lik po berlinsku", "slug_title": "rabbit-a-la-berlin", "date": "2009-04-29", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bXKO7JhEbyVhhDv47Y9RrZLeNss.jpg", "actors": [], "comments": [], "recommandations_id": []}

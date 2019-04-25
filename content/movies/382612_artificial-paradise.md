@@ -1,1 +1,0 @@
-{"tmdb_id": 382612, "title": "Artificial Paradise", "original_title": "Artificial Paradise", "slug_title": "artificial-paradise", "date": "1986-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

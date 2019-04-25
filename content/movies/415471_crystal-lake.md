@@ -1,1 +1,0 @@
-{"tmdb_id": 415471, "title": "Crystal Lake", "original_title": "Crystal Lake", "slug_title": "crystal-lake", "date": "2016-02-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qJxk4KgbgsTd8xwrZoIUOYtKWhb.jpg", "actors": [], "comments": [], "recommandations_id": []}

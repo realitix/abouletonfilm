@@ -1,1 +1,0 @@
-{"tmdb_id": 253243, "title": "I against ME", "original_title": "I against ME", "slug_title": "i-against-me", "date": "2010-07-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8R0DbuOSt2yAmTuVyncBeX73KX1.jpg", "actors": [], "comments": [], "recommandations_id": []}

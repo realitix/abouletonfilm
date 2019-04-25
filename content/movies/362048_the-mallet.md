@@ -1,1 +1,0 @@
-{"tmdb_id": 362048, "title": "The Mallet", "original_title": "Malj", "slug_title": "the-mallet", "date": "1977-03-15", "genre": "Documentaire", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vzLXTY3fxol1vN73C9m43zw9Rex.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 438748, "title": "Aurora - Fire in the Sky", "original_title": "Aurora - Fire in the Sky", "slug_title": "aurora-fire-in-the-sky", "date": "2012-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/QznDxKD5Qk1GlY9qZ5qVaQszaF.jpg", "actors": [], "comments": [], "recommandations_id": []}

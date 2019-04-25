@@ -1,1 +1,0 @@
-{"tmdb_id": 196542, "title": "First Prize in Cello", "original_title": "Premier Prix de violoncelle", "slug_title": "first-prize-in-cello", "date": "1907-01-01", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aS11ClhuNMpRlrtpe0B7r7lAfw6.jpg", "actors": [], "comments": [], "recommandations_id": []}

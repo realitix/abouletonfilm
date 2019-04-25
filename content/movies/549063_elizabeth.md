@@ -1,1 +1,0 @@
-{"tmdb_id": 549063, "title": "Elizabeth", "original_title": "Elizabeth", "slug_title": "elizabeth", "date": "2018-09-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maria Mamona (Elzbieta Zielinska)"], "comments": [], "recommandations_id": []}

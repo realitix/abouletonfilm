@@ -1,1 +1,0 @@
-{"tmdb_id": 540793, "title": "Three Paces", "original_title": "Three Paces", "slug_title": "three-paces", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kkMXkJNXUMAVcL9GsIi78snrZVx.jpg", "actors": [], "comments": [], "recommandations_id": []}

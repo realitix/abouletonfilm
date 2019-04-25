@@ -1,1 +1,0 @@
-{"tmdb_id": 163102, "title": "The Potted Psalm", "original_title": "The Potted Psalm", "slug_title": "the-potted-psalm", "date": "1946-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bbUaHCD2JeD7DSreSe6nEZ9q6Ie.jpg", "actors": [], "comments": [], "recommandations_id": [154818, 212097, 148827, 162672]}

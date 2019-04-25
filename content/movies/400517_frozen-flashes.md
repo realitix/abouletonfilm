@@ -1,1 +1,0 @@
-{"tmdb_id": 400517, "title": "Frozen Flashes", "original_title": "Frozen Flashes", "slug_title": "frozen-flashes", "date": "1976-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jHtisRYuetHucZT5KC529AZLEKL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 318610, "title": "In Their Teens", "original_title": "\u8c46\u853b\u5e74\u534e", "slug_title": "in-their-teens", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Al7YvlvntC3uRt0qx7DWag1Z79C.jpg", "actors": ["Miao Miao (\u59da\u5c0f\u79be)"], "comments": [], "recommandations_id": []}

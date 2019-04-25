@@ -1,1 +1,0 @@
-{"tmdb_id": 157518, "title": "Die Paddaprins", "original_title": "Die Paddaprins", "slug_title": "die-paddaprins", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lDsTUXrrWkGp9DqI9hFk7FIIAa3.jpg", "actors": [], "comments": [], "recommandations_id": []}

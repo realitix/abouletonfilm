@@ -1,1 +1,0 @@
-{"tmdb_id": 295999, "title": "Wehrert\u00fcchtigung", "original_title": "Wehrert\u00fcchtigung", "slug_title": "wehrertuchtigung", "date": "1967-02-07", "genre": "", "score": "3.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tAYAhWRzhZjwoV6ITOff97LZ0Fp.jpg", "actors": [], "comments": [], "recommandations_id": [106441, 442223]}

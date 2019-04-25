@@ -1,1 +1,0 @@
-{"tmdb_id": 309481, "title": "Greasy Rider", "original_title": "Greasy Rider", "slug_title": "greasy-rider", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

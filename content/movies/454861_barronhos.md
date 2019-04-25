@@ -1,1 +1,0 @@
-{"tmdb_id": 454861, "title": "Barronhos", "original_title": "Barronhos", "slug_title": "barronhos", "date": "1976-06-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

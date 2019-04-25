@@ -1,1 +1,0 @@
-{"tmdb_id": 311406, "title": "The Art of Rosalyn Tureck", "original_title": "The Art of Rosalyn Tureck", "slug_title": "the-art-of-rosalyn-tureck", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

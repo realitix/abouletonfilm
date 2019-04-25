@@ -1,1 +1,0 @@
-{"tmdb_id": 290212, "title": "Tuning the Pulse", "original_title": "Tuning the Pulse", "slug_title": "tuning-the-pulse", "date": "2013-07-02", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c54kPwdzJX7huCf2SeEQQOsSB0U.jpg", "actors": ["Jandek (Himself)"], "comments": [], "recommandations_id": []}

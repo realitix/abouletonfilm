@@ -1,1 +1,0 @@
-{"tmdb_id": 174374, "title": "Lenny Cooke", "original_title": "Lenny Cooke", "slug_title": "lenny-cooke", "date": "2013-12-06", "genre": "Documentaire", "score": "7.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3nqgD0ZEmrCQ8REDhzbLjQb7GKH.jpg", "actors": ["Lenny Cooke (Himself)"], "comments": [], "recommandations_id": []}

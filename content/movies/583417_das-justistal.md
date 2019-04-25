@@ -1,1 +1,0 @@
-{"tmdb_id": 583417, "title": "Das Justistal", "original_title": "Das Justistal", "slug_title": "das-justistal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

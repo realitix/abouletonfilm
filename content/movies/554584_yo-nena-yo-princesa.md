@@ -1,1 +1,0 @@
-{"tmdb_id": 554584, "title": "Yo nena, yo princesa", "original_title": "Yo nena, yo princesa", "slug_title": "yo-nena-yo-princesa", "date": "2014-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ijuYHkvY3kVXMs2GWfM8mRjBfcu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 550722, "title": "G\u00f6taplatsen #flerochfler", "original_title": "G\u00f6taplatsen #flerochfler", "slug_title": "gotaplatsen-flerochfler", "date": "2018-01-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

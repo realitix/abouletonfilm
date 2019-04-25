@@ -1,1 +1,0 @@
-{"tmdb_id": 409995, "title": "Traffic Regulations", "original_title": "Traffic Regulations", "slug_title": "traffic-regulations", "date": "1929-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ecNeMEpcvYdohowC6RW7OrMPNFV.jpg", "actors": [], "comments": [], "recommandations_id": []}

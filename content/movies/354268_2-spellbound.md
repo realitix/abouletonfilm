@@ -1,1 +1,0 @@
-{"tmdb_id": 354268, "title": "2 Spellbound", "original_title": "2 Spellbound", "slug_title": "2-spellbound", "date": "1999-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

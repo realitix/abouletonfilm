@@ -1,1 +1,0 @@
-{"tmdb_id": 428997, "title": "Juliet & Romeo", "original_title": "Juliet & Romeo", "slug_title": "juliet-romeo", "date": "2015-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r99JDccGoMPhd6yUx3xozJzfS8o.jpg", "actors": [], "comments": [], "recommandations_id": []}

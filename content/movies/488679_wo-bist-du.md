@@ -1,1 +1,0 @@
-{"tmdb_id": 488679, "title": "Wo bist Du?", "original_title": "Wo bist Du?", "slug_title": "wo-bist-du", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 235429, "title": "Rabbit Punch", "original_title": "Rabbit Punch", "slug_title": "rabbit-punch", "date": "1955-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

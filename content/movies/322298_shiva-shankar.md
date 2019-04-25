@@ -1,1 +1,0 @@
-{"tmdb_id": 322298, "title": "Shiva Shankar", "original_title": "Shiva Shankar", "slug_title": "shiva-shankar", "date": "2004-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

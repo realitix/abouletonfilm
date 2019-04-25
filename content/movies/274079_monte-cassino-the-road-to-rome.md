@@ -1,1 +1,0 @@
-{"tmdb_id": 274079, "title": "Monte Cassino: The Road to Rome", "original_title": "Monte Cassino: The Road to Rome", "slug_title": "monte-cassino-the-road-to-rome", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

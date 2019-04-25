@@ -1,1 +1,0 @@
-{"tmdb_id": 552324, "title": "El Aguila Blanca", "original_title": "El Aguila Blanca", "slug_title": "el-aguila-blanca", "date": "2009-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m0UUfptgeeEpGtcd2OEK0nK5q4k.jpg", "actors": [], "comments": [], "recommandations_id": []}

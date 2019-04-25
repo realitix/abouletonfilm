@@ -1,1 +1,0 @@
-{"tmdb_id": 346075, "title": "Why Not: A Serenade of Eschatological Ecology", "original_title": "Why Not: A Serenade of Eschatological Ecology", "slug_title": "why-not-a-serenade-of-eschatological-ecology", "date": "1970-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

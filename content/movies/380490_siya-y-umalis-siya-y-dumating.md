@@ -1,1 +1,0 @@
-{"tmdb_id": 380490, "title": "Siya'y Umalis, Siya'y Dumating", "original_title": "Siya'y Umalis, Siya'y Dumating", "slug_title": "siya-y-umalis-siya-y-dumating", "date": "1975-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4MkTWEp7bDqRY70eHMGpetCJc3E.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 431800, "title": "S\u00f6ngvaborg 2", "original_title": "S\u00f6ngvaborg 2", "slug_title": "songvaborg-2", "date": "2002-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fs8PBkPmEmp3ST5XgchgbLhR3Fe.jpg", "actors": [], "comments": [], "recommandations_id": []}

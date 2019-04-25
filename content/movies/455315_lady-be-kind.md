@@ -1,1 +1,0 @@
-{"tmdb_id": 455315, "title": "Lady Be Kind", "original_title": "Lady Be Kind", "slug_title": "lady-be-kind", "date": "1942-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Muriel George ()"], "comments": [], "recommandations_id": []}

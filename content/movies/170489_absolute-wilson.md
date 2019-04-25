@@ -1,1 +1,0 @@
-{"tmdb_id": 170489, "title": "Absolute Wilson", "original_title": "Absolute Wilson", "slug_title": "absolute-wilson", "date": "2006-04-06", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9g2iFj2BiFbshpMqwiInMZQA71c.jpg", "actors": ["Robert Wilson ()"], "comments": [], "recommandations_id": []}

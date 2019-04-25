@@ -1,1 +1,0 @@
-{"tmdb_id": 30615, "title": "Soyokaze", "original_title": "Soyokaze", "slug_title": "soyokaze", "date": "1945-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

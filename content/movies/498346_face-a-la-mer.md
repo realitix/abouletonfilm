@@ -1,1 +1,0 @@
-{"tmdb_id": 498346, "title": "Face \u00e0 la mer", "original_title": "Face \u00e0 la mer", "slug_title": "face-a-la-mer", "date": "1993-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yGLpROeKaQ4Yd42Yq5KIccACSM5.jpg", "actors": [], "comments": [], "recommandations_id": []}

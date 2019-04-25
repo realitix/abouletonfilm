@@ -1,1 +1,0 @@
-{"tmdb_id": 433582, "title": "Louis Feuillade: Master of Many Forms", "original_title": "Louis Feuillade: Master of Many Forms", "slug_title": "louis-feuillade-master-of-many-forms", "date": "2009-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

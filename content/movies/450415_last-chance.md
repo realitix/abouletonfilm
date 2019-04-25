@@ -1,1 +1,0 @@
-{"tmdb_id": 450415, "title": "Last Chance", "original_title": "Last Chance", "slug_title": "last-chance", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5U7GfQvY8Oe1Q22j3ddtwttcEzs.jpg", "actors": [], "comments": [], "recommandations_id": []}

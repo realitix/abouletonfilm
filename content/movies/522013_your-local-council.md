@@ -1,1 +1,0 @@
-{"tmdb_id": 522013, "title": "Your Local Council", "original_title": "Your Local Council", "slug_title": "your-local-council", "date": "1949-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

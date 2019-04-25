@@ -1,1 +1,0 @@
-{"tmdb_id": 250810, "title": "Great Communist Bank Robbery", "original_title": "Marele jaf comunist", "slug_title": "great-communist-bank-robbery", "date": "2004-05-10", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d19JUsPRyAil4U9pFemvcwVe5GM.jpg", "actors": [], "comments": [], "recommandations_id": []}

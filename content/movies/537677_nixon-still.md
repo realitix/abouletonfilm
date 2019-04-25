@@ -1,1 +1,0 @@
-{"tmdb_id": 537677, "title": "Nixon Still", "original_title": "Nixon Still", "slug_title": "nixon-still", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7jnN2SBlfGDiXbAisFdlKvWpNwc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 392395, "title": "The Guitar", "original_title": "La guitarra", "slug_title": "the-guitar", "date": "1952-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/97Rzo8D5L3vk0qpQlGUpNd3R4jh.jpg", "actors": ["Regino S\u00e1inz de la Maza (Himself)"], "comments": [], "recommandations_id": []}

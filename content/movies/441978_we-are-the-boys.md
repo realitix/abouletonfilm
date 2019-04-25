@@ -1,1 +1,0 @@
-{"tmdb_id": 441978, "title": "We are the Boys", "original_title": "We are the Boys", "slug_title": "we-are-the-boys", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

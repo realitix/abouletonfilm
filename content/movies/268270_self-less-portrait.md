@@ -1,1 +1,0 @@
-{"tmdb_id": 268270, "title": "Self(less) Portrait", "original_title": "Self(less) Portrait", "slug_title": "self-less-portrait", "date": "2014-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

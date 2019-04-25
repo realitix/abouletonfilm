@@ -1,1 +1,0 @@
-{"tmdb_id": 320448, "title": "Journeys in Black: Johnnie Cochran", "original_title": "Journeys in Black: Johnnie Cochran", "slug_title": "journeys-in-black-johnnie-cochran", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 354762, "title": "Justice for Sergei", "original_title": "Justice for Sergei", "slug_title": "justice-for-sergei", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

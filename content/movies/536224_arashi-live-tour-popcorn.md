@@ -1,1 +1,0 @@
-{"tmdb_id": 536224, "title": "ARASHI LIVE TOUR Popcorn", "original_title": "ARASHI LIVE TOUR Popcorn", "slug_title": "arashi-live-tour-popcorn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bPE9l3cvDJ2Z3xoGYbIxEihMOR7.jpg", "actors": [], "comments": [], "recommandations_id": []}

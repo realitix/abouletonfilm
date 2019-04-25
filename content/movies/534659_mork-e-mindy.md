@@ -1,1 +1,0 @@
-{"tmdb_id": 534659, "title": "Mork e Mindy", "original_title": "Mork e Mindy", "slug_title": "mork-e-mindy", "date": "2010-05-14", "genre": "Crime / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/whvGnt0A8c991aCcJ2G4cbJjc3b.jpg", "actors": [], "comments": [], "recommandations_id": []}

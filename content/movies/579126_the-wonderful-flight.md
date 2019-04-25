@@ -1,1 +1,0 @@
-{"tmdb_id": 579126, "title": "The Wonderful Flight", "original_title": "The Wonderful Flight", "slug_title": "the-wonderful-flight", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9HuyHQArXNdHyvWbBYEeX02jiIR.jpg", "actors": [], "comments": [], "recommandations_id": []}

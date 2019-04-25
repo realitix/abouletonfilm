@@ -1,1 +1,0 @@
-{"tmdb_id": 292367, "title": "Victory of the Chinese People", "original_title": "Pobeda kitayskogo naroda", "slug_title": "victory-of-the-chinese-people", "date": "1950-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

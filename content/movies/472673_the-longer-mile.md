@@ -1,1 +1,0 @@
-{"tmdb_id": 472673, "title": "The Longer Mile", "original_title": "The Longer Mile", "slug_title": "the-longer-mile", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Raymond Baxter (Narrator)"], "comments": [], "recommandations_id": []}

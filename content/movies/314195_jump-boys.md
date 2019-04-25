@@ -1,1 +1,0 @@
-{"tmdb_id": 314195, "title": "Jump Boys!", "original_title": "\u7ffb\u6efe\u5427\uff01\u7537\u5b69", "slug_title": "jump-boys", "date": "2005-06-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tTNCenUfj6uvquXJP4qsKxS8jOj.jpg", "actors": [], "comments": [], "recommandations_id": []}

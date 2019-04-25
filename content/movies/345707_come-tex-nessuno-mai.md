@@ -1,1 +1,0 @@
-{"tmdb_id": 345707, "title": "Come Tex nessuno mai", "original_title": "Come Tex nessuno mai", "slug_title": "come-tex-nessuno-mai", "date": "2012-11-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wkHMJ54hkB6rPHuX6EtFFSI6xdy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 301936, "title": "The Azores 3D", "original_title": "The Azores 3D", "slug_title": "the-azores-3d", "date": "2012-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/smT0S32wE0pZOYlhNQj0GWRYrVX.jpg", "actors": [], "comments": [], "recommandations_id": []}

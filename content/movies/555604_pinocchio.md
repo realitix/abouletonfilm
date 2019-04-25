@@ -1,1 +1,0 @@
-{"tmdb_id": 555604, "title": "Pinocchio", "original_title": "Pinocchio", "slug_title": "pinocchio", "date": "2021-01-01", "genre": "Animation / Fantastique / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/irAEtx2WEXEKDxclgPSEBt783Xk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 264250, "title": "La mujer del diablo", "original_title": "La mujer del diablo", "slug_title": "la-mujer-del-diablo", "date": "1974-06-13", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gABJpSesn8FcaJcACUKRJ6jPosh.jpg", "actors": [], "comments": [], "recommandations_id": []}

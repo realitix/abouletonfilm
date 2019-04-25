@@ -1,1 +1,0 @@
-{"tmdb_id": 274088, "title": "Oh Happy Day", "original_title": "Oh Happy Day", "slug_title": "oh-happy-day", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

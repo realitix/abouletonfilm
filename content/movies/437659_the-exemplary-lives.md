@@ -1,1 +1,0 @@
-{"tmdb_id": 437659, "title": "The Exemplary Lives", "original_title": "Las vidas ejemplares", "slug_title": "the-exemplary-lives", "date": "2008-01-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

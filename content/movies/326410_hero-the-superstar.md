@@ -1,1 +1,0 @@
-{"tmdb_id": 326410, "title": "Hero: The Superstar", "original_title": "Hero: The Superstar", "slug_title": "hero-the-superstar", "date": "2014-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 234717, "title": "Shootin' Stars", "original_title": "Shootin' Stars", "slug_title": "shootin-stars", "date": "1960-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

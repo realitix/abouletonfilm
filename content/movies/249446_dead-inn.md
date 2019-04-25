@@ -1,1 +1,0 @@
-{"tmdb_id": 249446, "title": "Dead Inn", "original_title": "Dead Inn", "slug_title": "dead-inn", "date": "1997-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hFMFGUKSuV75ZOr7mxFllAgbzIn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 459479, "title": "Rolls and Shutters", "original_title": "Rolls and Shutters", "slug_title": "rolls-and-shutters", "date": "2016-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9aoWfDIhEbV6KrXzOGZOIA4Qq88.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 545200, "title": "Mike's Kooky Summer", "original_title": "Mike's Kooky Summer", "slug_title": "mike-s-kooky-summer", "date": "2014-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adam McArthur (Mike)", "Rosa Berndt ()", "Peter Zachwieja ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 67986, "title": "Dogs And More Dogs", "original_title": "Dogs And More Dogs", "slug_title": "dogs-and-more-dogs", "date": "2004-02-03", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m5iiyHk0Qf60TixEXozocJKjxzi.jpg", "actors": [], "comments": [], "recommandations_id": []}

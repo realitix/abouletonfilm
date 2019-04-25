@@ -1,1 +1,0 @@
-{"tmdb_id": 174425, "title": "Buddy the Woodsman", "original_title": "Buddy the Woodsman", "slug_title": "buddy-the-woodsman", "date": "1934-10-19", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4lAf0AZSz4Hu1JwZaD3b1w82EQt.jpg", "actors": [], "comments": [], "recommandations_id": []}

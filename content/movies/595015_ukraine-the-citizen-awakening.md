@@ -1,1 +1,0 @@
-{"tmdb_id": 595015, "title": "Ukraine, the citizen awakening", "original_title": "Ukraine, le r\u00e9veil citoyen", "slug_title": "ukraine-the-citizen-awakening", "date": "2016-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/stxl91cDX6csyxTgO88V7vRbyl3.jpg", "actors": [], "comments": [], "recommandations_id": []}

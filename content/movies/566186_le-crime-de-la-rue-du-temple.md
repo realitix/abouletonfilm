@@ -1,1 +1,0 @@
-{"tmdb_id": 566186, "title": "Le Crime de la Rue du Temple", "original_title": "Le Crime de la Rue du Temple", "slug_title": "le-crime-de-la-rue-du-temple", "date": "1904-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

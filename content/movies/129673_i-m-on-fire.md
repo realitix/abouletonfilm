@@ -1,1 +1,0 @@
-{"tmdb_id": 129673, "title": "I'm on Fire", "original_title": "I'm on Fire", "slug_title": "i-m-on-fire", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rhc7pZMxhNlNLJqcc2tixNz3nV.jpg", "actors": [], "comments": [], "recommandations_id": []}

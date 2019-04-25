@@ -1,1 +1,0 @@
-{"tmdb_id": 529600, "title": "Wet Tiles", "original_title": "Wet Tiles", "slug_title": "wet-tiles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cG8uTvxUBEtePWZjrHYqQhkTRLS.jpg", "actors": [], "comments": [], "recommandations_id": []}

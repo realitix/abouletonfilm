@@ -1,1 +1,0 @@
-{"tmdb_id": 256576, "title": "Infinity", "original_title": "Infinity", "slug_title": "infinity", "date": "1998-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/71Nldq6kX7qOVRezXhN6lFnTv3V.jpg", "actors": ["Jim Rippey ()", "Kevin Jones ()"], "comments": [], "recommandations_id": []}

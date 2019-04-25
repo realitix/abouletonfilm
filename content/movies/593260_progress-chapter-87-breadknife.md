@@ -1,1 +1,0 @@
-{"tmdb_id": 593260, "title": "PROGRESS Chapter 87: Breadknife", "original_title": "PROGRESS Chapter 87: Breadknife", "slug_title": "progress-chapter-87-breadknife", "date": "2019-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7tXqOf8wqgb9bvHiED7VWwwZVHa.jpg", "actors": [], "comments": [], "recommandations_id": []}

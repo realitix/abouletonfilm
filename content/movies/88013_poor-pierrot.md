@@ -1,1 +1,0 @@
-{"tmdb_id": 88013, "title": "Poor Pierrot", "original_title": "Pauvre Pierrot", "slug_title": "poor-pierrot", "date": "1892-10-28", "genre": "Com\u00e9die / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oS7ll70TnNHROejIvpnVJzl2ZIu.jpg", "actors": [], "comments": [], "recommandations_id": [159896, 33229, 96882, 16624]}

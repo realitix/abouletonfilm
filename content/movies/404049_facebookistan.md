@@ -1,1 +1,0 @@
-{"tmdb_id": 404049, "title": "Facebookistan", "original_title": "Facebookistan", "slug_title": "facebookistan", "date": "2016-06-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/osKsNvMPSFWTTcDabYboAmuwsK4.jpg", "actors": [], "comments": [], "recommandations_id": []}

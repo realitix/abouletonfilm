@@ -1,1 +1,0 @@
-{"tmdb_id": 593589, "title": "The Parachute Murder Plot", "original_title": "The Parachute Murder Plot", "slug_title": "the-parachute-murder-plot", "date": "2018-10-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6iwDChZYTWjdWRqoSqHR2G5TOv9.jpg", "actors": [], "comments": [], "recommandations_id": []}

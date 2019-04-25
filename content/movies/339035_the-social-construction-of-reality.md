@@ -1,1 +1,0 @@
-{"tmdb_id": 339035, "title": "The Social Construction of Reality", "original_title": "The Social Construction of Reality", "slug_title": "the-social-construction-of-reality", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

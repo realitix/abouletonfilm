@@ -1,1 +1,0 @@
-{"tmdb_id": 115906, "title": "3 Dumb Clucks", "original_title": "3 Dumb Clucks", "slug_title": "3-dumb-clucks", "date": "1937-04-17", "genre": "Com\u00e9die", "score": "5.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Curly Howard (Curly)", "Moe Howard ()", "Larry Fine ()"], "comments": [], "recommandations_id": [115928, 115991, 115919, 50207]}

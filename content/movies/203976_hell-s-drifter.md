@@ -1,1 +1,0 @@
-{"tmdb_id": 203976, "title": "Hell's Drifter", "original_title": "Hell's Drifter", "slug_title": "hell-s-drifter", "date": "2009-01-01", "genre": "Com\u00e9die / Drame / Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cvDf5GfBImMGJh6aRLbeIOBPe4s.jpg", "actors": [], "comments": [], "recommandations_id": []}

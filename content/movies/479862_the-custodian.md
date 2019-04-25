@@ -1,1 +1,0 @@
-{"tmdb_id": 479862, "title": "The Custodian", "original_title": "Serayadar", "slug_title": "the-custodian", "date": "1976-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xdgHowBkk2J255ZGhQ3isaxtTeb.jpg", "actors": ["Ali Nassirian ()"], "comments": [], "recommandations_id": []}

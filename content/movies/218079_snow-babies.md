@@ -1,1 +1,0 @@
-{"tmdb_id": 218079, "title": "Snow Babies", "original_title": "Snow Babies", "slug_title": "snow-babies", "date": "2012-12-19", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qnov49WYcCSMIL5xwDzwIPgX47U.jpg", "actors": [], "comments": [], "recommandations_id": []}

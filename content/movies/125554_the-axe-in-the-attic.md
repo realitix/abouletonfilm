@@ -1,1 +1,0 @@
-{"tmdb_id": 125554, "title": "The Axe in the Attic", "original_title": "The Axe in the Attic", "slug_title": "the-axe-in-the-attic", "date": "2007-10-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qTHWWe933wwHTyWQqGwmHGJWSeh.jpg", "actors": [], "comments": [], "recommandations_id": []}

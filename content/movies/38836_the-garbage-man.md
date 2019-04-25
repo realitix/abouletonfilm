@@ -1,1 +1,0 @@
-{"tmdb_id": 38836, "title": "The Garbage Man", "original_title": "The Garbage Man", "slug_title": "the-garbage-man", "date": "2009-01-01", "genre": "Horreur", "score": "1.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/19OIvsQ847m6olWaaG2b7MHodtg.jpg", "actors": [], "comments": [], "recommandations_id": []}

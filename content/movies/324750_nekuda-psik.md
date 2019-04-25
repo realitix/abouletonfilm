@@ -1,1 +1,0 @@
-{"tmdb_id": 324750, "title": "Nekuda Psik", "original_title": "Nekuda Psik", "slug_title": "nekuda-psik", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 202343, "title": "Songs of the Years of Fire", "original_title": "Pesni ognennykh let", "slug_title": "songs-of-the-years-of-fire", "date": "1971-06-18", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tfpDZNGguwpqdoFozT06wpnDSgs.jpg", "actors": [], "comments": [], "recommandations_id": []}

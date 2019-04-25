@@ -1,1 +1,0 @@
-{"tmdb_id": 589281, "title": "Remission", "original_title": "Remission", "slug_title": "remission", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yn1ihMLhDP91Y0ikjupWPK1PwMr.jpg", "actors": ["Erik Winberg (The Culprit)", "Memphis Weiss (The Bystander)"], "comments": [], "recommandations_id": []}

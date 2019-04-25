@@ -1,1 +1,0 @@
-{"tmdb_id": 484259, "title": "Cheetahs of the Deep", "original_title": "Cheetahs of the Deep", "slug_title": "cheetahs-of-the-deep", "date": "2014-08-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8PQNWivYuLXRzvLRGgwRuIrR3J9.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 377371, "title": "THE LITTLE RASCALS", "original_title": "THE LITTLE RASCALS", "slug_title": "the-little-rascals", "date": "", "genre": "", "score": "8.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 472018, "title": "Moon Lady", "original_title": "Chanda Kinnarie", "slug_title": "moon-lady", "date": "1998-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hemasiri Liyanage ()", "Swarna Mallawarachchi ()", "Rukmal Nirosh ()", "Buddhadasa Vithanaarachchi ()"], "comments": [], "recommandations_id": []}

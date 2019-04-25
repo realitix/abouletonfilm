@@ -1,1 +1,0 @@
-{"tmdb_id": 274298, "title": "And the Winner Is...", "original_title": "And the Winner Is...", "slug_title": "and-the-winner-is", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ufMwM1rNLMNL41YrX7UlrmkShAr.jpg", "actors": [], "comments": [], "recommandations_id": []}

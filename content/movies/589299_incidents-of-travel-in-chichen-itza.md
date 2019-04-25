@@ -1,1 +1,0 @@
-{"tmdb_id": 589299, "title": "Incidents of Travel in Chichen Itza", "original_title": "Incidents of Travel in Chichen Itza", "slug_title": "incidents-of-travel-in-chichen-itza", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

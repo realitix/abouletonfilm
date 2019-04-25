@@ -1,1 +1,0 @@
-{"tmdb_id": 406315, "title": "Koccan\u00e1s", "original_title": "Koccan\u00e1s", "slug_title": "koccanas", "date": "2009-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wG2jLcjuUsD0pAak1AjBGpWI75E.jpg", "actors": [], "comments": [], "recommandations_id": []}

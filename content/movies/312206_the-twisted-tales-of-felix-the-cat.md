@@ -1,1 +1,0 @@
-{"tmdb_id": 312206, "title": "The Twisted Tales of Felix the Cat", "original_title": "The Twisted Tales of Felix the Cat", "slug_title": "the-twisted-tales-of-felix-the-cat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

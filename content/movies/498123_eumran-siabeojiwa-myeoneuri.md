@@ -1,1 +1,0 @@
-{"tmdb_id": 498123, "title": "\uc74c\ub780 \uc2dc\uc544\ubc84\uc9c0\uc640 \uba70\ub290\ub9ac", "original_title": "\uc74c\ub780 \uc2dc\uc544\ubc84\uc9c0\uc640 \uba70\ub290\ub9ac", "slug_title": "eumran-siabeojiwa-myeoneuri", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

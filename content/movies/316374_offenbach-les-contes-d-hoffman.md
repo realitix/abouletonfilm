@@ -1,1 +1,0 @@
-{"tmdb_id": 316374, "title": "Offenbach: Les Contes D'Hoffman", "original_title": "Offenbach: Les Contes D'Hoffman", "slug_title": "offenbach-les-contes-d-hoffman", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pl\u00e1cido Domingo ()"], "comments": [], "recommandations_id": []}

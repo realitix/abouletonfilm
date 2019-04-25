@@ -1,1 +1,0 @@
-{"tmdb_id": 282120, "title": "Beatles Electroniques", "original_title": "Beatles Electroniques", "slug_title": "beatles-electroniques", "date": "1969-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ofRUHciVyRykWRN74Sm7L6hXoql.jpg", "actors": [], "comments": [], "recommandations_id": []}

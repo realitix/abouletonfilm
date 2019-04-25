@@ -1,1 +1,0 @@
-{"tmdb_id": 136736, "title": "Jaque Mate", "original_title": "Jaque Mate", "slug_title": "jaque-mate", "date": "2013-08-08", "genre": "Drame", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bA1Gr4F7vPNMotmtbls2Z9CGLpE.jpg", "actors": ["Adri\u00e1n Mas ()", "Frank Perozo ()"], "comments": [], "recommandations_id": []}

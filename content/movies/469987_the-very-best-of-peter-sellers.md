@@ -1,1 +1,0 @@
-{"tmdb_id": 469987, "title": "The Very Best of Peter Sellers", "original_title": "The Very Best of Peter Sellers", "slug_title": "the-very-best-of-peter-sellers", "date": "1990-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Sellers ()"], "comments": [], "recommandations_id": []}

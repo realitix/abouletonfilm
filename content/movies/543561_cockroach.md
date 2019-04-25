@@ -1,1 +1,0 @@
-{"tmdb_id": 543561, "title": "Cockroach", "original_title": "Gokiburi", "slug_title": "cockroach", "date": "", "genre": "Com\u00e9die / Drame", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Will Sharpe (Kiyoshi)", "Michiko Fukuda (Bachan)", "Yuko Fukuda (Yuko)", "Mitsuhiro Fukuda (Mitsuhiro)"], "comments": [], "recommandations_id": []}

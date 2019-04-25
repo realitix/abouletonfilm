@@ -1,1 +1,0 @@
-{"tmdb_id": 506018, "title": "The Real Estate Render Blackout", "original_title": "The Real Estate Render Blackout", "slug_title": "the-real-estate-render-blackout", "date": "2018-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 554074, "title": "2-11 Dia de los muertos", "original_title": "2-11 Dia de los muertos", "slug_title": "2-11-dia-de-los-muertos", "date": "2012-03-08", "genre": "Horreur", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xWjbTAMIEiKl4iuAzNc6zb3XQs9.jpg", "actors": [], "comments": [], "recommandations_id": []}

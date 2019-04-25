@@ -1,1 +1,0 @@
-{"tmdb_id": 394479, "title": "Death Day", "original_title": "Death Day", "slug_title": "death-day", "date": "1934-06-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iCmtAuuWyiPxYrwBRX7a6kehJYv.jpg", "actors": [], "comments": [], "recommandations_id": []}

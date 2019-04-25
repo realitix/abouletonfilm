@@ -1,1 +1,0 @@
-{"tmdb_id": 447629, "title": "The Hits Video 8", "original_title": "The Hits Video 8", "slug_title": "the-hits-video-8", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/klb2fxIe2th5yOVcLcYXmFN48SN.jpg", "actors": [], "comments": [], "recommandations_id": []}

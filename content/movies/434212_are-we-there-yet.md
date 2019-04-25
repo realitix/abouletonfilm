@@ -1,1 +1,0 @@
-{"tmdb_id": 434212, "title": "Are We There Yet?", "original_title": "Are We There Yet?", "slug_title": "are-we-there-yet", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vQrCZwEq2U8IcuDc4v4BvOdOh3S.jpg", "actors": [], "comments": [], "recommandations_id": []}

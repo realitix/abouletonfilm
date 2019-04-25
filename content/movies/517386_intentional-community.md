@@ -1,1 +1,0 @@
-{"tmdb_id": 517386, "title": "Intentional Community", "original_title": "Intentional Community", "slug_title": "intentional-community", "date": "2017-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

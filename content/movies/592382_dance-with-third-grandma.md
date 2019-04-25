@@ -1,1 +1,0 @@
-{"tmdb_id": 592382, "title": "Dance with Third Grandma", "original_title": "Dance with Third Grandma", "slug_title": "dance-with-third-grandma", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zdTU6uX7eHG4npdjJxMtR7yo7qI.jpg", "actors": [], "comments": [], "recommandations_id": []}

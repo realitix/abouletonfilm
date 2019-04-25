@@ -1,1 +1,0 @@
-{"tmdb_id": 389216, "title": "Nauru: Paradise Ruined", "original_title": "Nauru - det \u00f8delagte paradis", "slug_title": "nauru-paradise-ruined", "date": "2011-12-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/36BgSgbHxJ9i2mzKngccLeMEhvm.jpg", "actors": [], "comments": [], "recommandations_id": []}

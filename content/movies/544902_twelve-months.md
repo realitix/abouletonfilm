@@ -1,1 +1,0 @@
-{"tmdb_id": 544902, "title": "Twelve Months", "original_title": "\u092c\u093e\u0930\u094b\u092e\u093e\u0938 (Baromas)", "slug_title": "twelve-months", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

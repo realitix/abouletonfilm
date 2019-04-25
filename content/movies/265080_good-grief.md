@@ -1,1 +1,0 @@
-{"tmdb_id": 265080, "title": "Good Grief", "original_title": "Good Grief", "slug_title": "good-grief", "date": "2014-04-06", "genre": "Animation / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v1akIkmD3mSmgrFNA5KjGozEK1H.jpg", "actors": [], "comments": [], "recommandations_id": []}

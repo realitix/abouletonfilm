@@ -1,1 +1,0 @@
-{"tmdb_id": 491071, "title": "Mestre Dic\u00e1", "original_title": "Mestre Dic\u00e1", "slug_title": "mestre-dica", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

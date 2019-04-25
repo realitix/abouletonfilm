@@ -1,1 +1,0 @@
-{"tmdb_id": 272034, "title": "Vukani/Awake", "original_title": "Vukani/Awake", "slug_title": "vukani-awake", "date": "1962-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

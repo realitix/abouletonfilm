@@ -1,1 +1,0 @@
-{"tmdb_id": 551202, "title": "Richard III: The New Evidence", "original_title": "Richard III: The New Evidence", "slug_title": "richard-iii-the-new-evidence", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

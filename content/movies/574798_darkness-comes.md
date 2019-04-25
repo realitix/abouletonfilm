@@ -1,1 +1,0 @@
-{"tmdb_id": 574798, "title": "Darkness Comes", "original_title": "Darkness Comes", "slug_title": "darkness-comes", "date": "2018-05-15", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Owen Whitelaw (Eddie Bowen)", "Kelly Wenham (Suze)", "James Cosmo (Policeman)"], "comments": [], "recommandations_id": []}

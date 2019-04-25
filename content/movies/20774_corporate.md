@@ -1,1 +1,1 @@
-{"tmdb_id": 20774, "title": "Corporate", "original_title": "Corporate", "slug_title": "corporate", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 20774, "title": "Corporate", "original_title": "Corporate", "slug_title": "corporate", "date": "2009-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No overview found.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

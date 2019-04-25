@@ -1,1 +1,0 @@
-{"tmdb_id": 275703, "title": "Bahut Din Hue", "original_title": "Bahut Din Hue", "slug_title": "bahut-din-hue", "date": "1954-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

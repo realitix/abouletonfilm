@@ -1,1 +1,0 @@
-{"tmdb_id": 485110, "title": "After Inez", "original_title": "Efter Inez", "slug_title": "after-inez", "date": "2017-09-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8O46dfyZSUOxO1jLGNHhgcMDbbE.jpg", "actors": [], "comments": [], "recommandations_id": []}

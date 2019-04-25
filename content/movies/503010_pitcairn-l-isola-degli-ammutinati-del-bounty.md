@@ -1,1 +1,0 @@
-{"tmdb_id": 503010, "title": "Pitcairn - L'isola degli ammutinati del Bounty", "original_title": "Pitcairn - L'isola degli ammutinati del Bounty", "slug_title": "pitcairn-l-isola-degli-ammutinati-del-bounty", "date": "1996-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

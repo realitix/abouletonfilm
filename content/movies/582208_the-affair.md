@@ -1,1 +1,0 @@
-{"tmdb_id": 582208, "title": "The Affair", "original_title": "The Affair", "slug_title": "the-affair", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mQQThl5o3w6rxHaVzx7oB04gfb2.jpg", "actors": ["Mia Sorvino ()", "Cary Elwes ()"], "comments": [], "recommandations_id": []}

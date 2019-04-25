@@ -1,1 +1,0 @@
-{"tmdb_id": 455107, "title": "SHUTTER", "original_title": "SHUTTER", "slug_title": "shutter", "date": "2010-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rhAe1xMuKmzPmu8AqZkXmhgAQN0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 592365, "title": "A Comfortable Hole", "original_title": "A Comfortable Hole", "slug_title": "a-comfortable-hole", "date": "2019-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

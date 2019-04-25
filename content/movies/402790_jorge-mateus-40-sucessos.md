@@ -1,1 +1,0 @@
-{"tmdb_id": 402790, "title": "Jorge & Mateus - 40 Sucessos", "original_title": "Jorge & Mateus - 40 Sucessos", "slug_title": "jorge-mateus-40-sucessos", "date": "2016-06-19", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bsaGtBnIZ6tQJe9xb3YhlCejFp3.jpg", "actors": [], "comments": [], "recommandations_id": []}

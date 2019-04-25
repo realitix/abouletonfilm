@@ -1,1 +1,0 @@
-{"tmdb_id": 348994, "title": "Lun\u00e1tico", "original_title": "Lun\u00e1tico", "slug_title": "lunatico", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/edFoZ0xBKr8AZ7nooy1F0heTpaZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

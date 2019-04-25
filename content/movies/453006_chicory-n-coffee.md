@@ -1,1 +1,0 @@
-{"tmdb_id": 453006, "title": "Chicory 'n' Coffee", "original_title": "Cikorja an' kafe", "slug_title": "chicory-n-coffee", "date": "2008-10-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dNiA7MJc5a3igNCruIlIxZ1Yjji.jpg", "actors": [], "comments": [], "recommandations_id": []}

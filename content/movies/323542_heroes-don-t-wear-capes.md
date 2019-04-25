@@ -1,1 +1,0 @@
-{"tmdb_id": 323542, "title": "Heroes Don't Wear Capes", "original_title": "Heroes Don't Wear Capes", "slug_title": "heroes-don-t-wear-capes", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

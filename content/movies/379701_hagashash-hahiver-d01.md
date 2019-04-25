@@ -1,1 +1,0 @@
-{"tmdb_id": 379701, "title": "Hagashash.Hahiver.D01", "original_title": "Hagashash.Hahiver.D01", "slug_title": "hagashash-hahiver-d01", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

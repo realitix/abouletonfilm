@@ -1,1 +1,0 @@
-{"tmdb_id": 190622, "title": "Miners Leaving Pendlebury Colliery", "original_title": "Miners Leaving Pendlebury Colliery", "slug_title": "miners-leaving-pendlebury-colliery", "date": "1901-02-10", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

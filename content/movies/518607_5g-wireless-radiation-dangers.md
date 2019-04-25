@@ -1,1 +1,0 @@
-{"tmdb_id": 518607, "title": "5G Wireless Radiation Dangers", "original_title": "5G Wireless Radiation Dangers", "slug_title": "5g-wireless-radiation-dangers", "date": "2017-05-17", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mkG0jYVl8fCtBGoe69Jvsw5L2DK.jpg", "actors": [], "comments": [], "recommandations_id": []}

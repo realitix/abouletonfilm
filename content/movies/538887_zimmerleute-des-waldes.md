@@ -1,1 +1,0 @@
-{"tmdb_id": 538887, "title": "Zimmerleute des Waldes", "original_title": "Zimmerleute des Waldes", "slug_title": "zimmerleute-des-waldes", "date": "1955-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

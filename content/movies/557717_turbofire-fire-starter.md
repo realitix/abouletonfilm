@@ -1,1 +1,0 @@
-{"tmdb_id": 557717, "title": "TurboFire: Fire Starter", "original_title": "TurboFire: Fire Starter", "slug_title": "turbofire-fire-starter", "date": "2010-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1crU4qbZ6z63yKScoGlQU7S6Oiq.jpg", "actors": [], "comments": [], "recommandations_id": []}

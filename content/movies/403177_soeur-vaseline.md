@@ -1,1 +1,0 @@
-{"tmdb_id": 403177, "title": "S\u0153ur Vaseline", "original_title": "S\u0153ur Vaseline", "slug_title": "soeur-vaseline", "date": "1925-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

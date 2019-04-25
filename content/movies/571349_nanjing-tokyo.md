@@ -1,1 +1,0 @@
-{"tmdb_id": 571349, "title": "Nanjing Tokyo", "original_title": "\u5357\u4eac\u4e1c1937", "slug_title": "nanjing-tokyo", "date": "2015-12-08", "genre": "Histoire / Guerre / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/woy0nNSWhM8GBoKz1YED7FeRDtx.jpg", "actors": [], "comments": [], "recommandations_id": []}

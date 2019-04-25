@@ -1,1 +1,0 @@
-{"tmdb_id": 258500, "title": "Chinese Ping-Pong", "original_title": "Kinesisk bordtennis", "slug_title": "chinese-ping-pong", "date": "1972-03-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nQJsowbY4jyGH4kZvtgu33Jkrqq.jpg", "actors": [], "comments": [], "recommandations_id": []}

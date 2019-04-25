@@ -1,1 +1,0 @@
-{"tmdb_id": 543038, "title": "Srbenka", "original_title": "Srbenka", "slug_title": "srbenka", "date": "2018-04-17", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5HTOrkJU2MppYKTRUnZuhm5TGYw.jpg", "actors": [], "comments": [], "recommandations_id": []}

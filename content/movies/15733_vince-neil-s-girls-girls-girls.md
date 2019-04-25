@@ -1,1 +1,0 @@
-{"tmdb_id": 15733, "title": "Vince Neil's Girls Girls Girls", "original_title": "Girls Girls Girls", "slug_title": "vince-neil-s-girls-girls-girls", "date": "2003-07-01", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

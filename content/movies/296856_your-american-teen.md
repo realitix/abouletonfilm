@@ -1,1 +1,0 @@
-{"tmdb_id": 296856, "title": "Your American Teen", "original_title": "Your American Teen", "slug_title": "your-american-teen", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

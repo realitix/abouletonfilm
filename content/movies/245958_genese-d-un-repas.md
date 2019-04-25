@@ -1,1 +1,0 @@
-{"tmdb_id": 245958, "title": "Gen\u00e8se d'un repas", "original_title": "Gen\u00e8se d'un repas", "slug_title": "genese-d-un-repas", "date": "1979-02-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rzRHLIooyfLV7AJMk3hMabos2fS.jpg", "actors": ["Luc Moullet ()"], "comments": [], "recommandations_id": []}

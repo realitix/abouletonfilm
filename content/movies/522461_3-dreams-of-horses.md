@@ -1,1 +1,0 @@
-{"tmdb_id": 522461, "title": "3 Dreams of Horses", "original_title": "3 Dreams of Horses", "slug_title": "3-dreams-of-horses", "date": "2018-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3VfRJTPn2p6QSnft6hgj6ntQEED.jpg", "actors": [], "comments": [], "recommandations_id": []}

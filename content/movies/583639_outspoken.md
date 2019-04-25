@@ -1,1 +1,0 @@
-{"tmdb_id": 583639, "title": "Outspoken", "original_title": "Outspoken", "slug_title": "outspoken", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

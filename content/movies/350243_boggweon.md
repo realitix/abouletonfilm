@@ -1,1 +1,0 @@
-{"tmdb_id": 350243, "title": "\ubcf5\uad8c", "original_title": "\ubcf5\uad8c", "slug_title": "boggweon", "date": "1980-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

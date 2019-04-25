@@ -1,1 +1,0 @@
-{"tmdb_id": 515985, "title": "The Fever", "original_title": "The Fever", "slug_title": "the-fever", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

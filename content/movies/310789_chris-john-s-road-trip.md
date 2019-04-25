@@ -1,1 +1,0 @@
-{"tmdb_id": 310789, "title": "Chris & John's Road Trip", "original_title": "Chris & John's Road Trip", "slug_title": "chris-john-s-road-trip", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

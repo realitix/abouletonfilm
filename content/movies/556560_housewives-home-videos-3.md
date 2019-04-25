@@ -1,1 +1,0 @@
-{"tmdb_id": 556560, "title": "Housewives Home Videos 3", "original_title": "Housewives Home Videos 3", "slug_title": "housewives-home-videos-3", "date": "2014-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hmjibnWGF96ubJuontFSdCA0pnF.jpg", "actors": [], "comments": [], "recommandations_id": []}

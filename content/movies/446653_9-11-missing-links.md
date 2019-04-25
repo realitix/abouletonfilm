@@ -1,1 +1,0 @@
-{"tmdb_id": 446653, "title": "9/11: Missing Links", "original_title": "9/11: Missing Links", "slug_title": "9-11-missing-links", "date": "2008-08-18", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xR18FFf2SJBReEllDhNjcUvG8aL.jpg", "actors": [], "comments": [], "recommandations_id": []}

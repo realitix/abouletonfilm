@@ -1,1 +1,0 @@
-{"tmdb_id": 308197, "title": "An overcooked steak", "original_title": "Un steak trop cuit", "slug_title": "an-overcooked-steak", "date": "1960-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6eUD8RmTI1UNrE1zNkjkKFWReYq.jpg", "actors": [], "comments": [], "recommandations_id": []}

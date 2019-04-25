@@ -1,1 +1,0 @@
-{"tmdb_id": 386266, "title": "Sofia La Principessa - Il Castello Sul Mare", "original_title": "Sofia La Principessa - Il Castello Sul Mare", "slug_title": "sofia-la-principessa-il-castello-sul-mare", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

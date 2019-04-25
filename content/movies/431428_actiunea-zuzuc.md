@@ -1,1 +1,0 @@
-{"tmdb_id": 431428, "title": "Actiunea Zuzuc", "original_title": "Actiunea Zuzuc", "slug_title": "actiunea-zuzuc", "date": "1985-12-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ba0vk04Dzh49ECXzYIef2wDZjta.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 201721, "title": "Winging Around Europe with Will Rogers", "original_title": "Winging Around Europe with Will Rogers", "slug_title": "winging-around-europe-with-will-rogers", "date": "1927-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Will Rogers (Himself)"], "comments": [], "recommandations_id": []}

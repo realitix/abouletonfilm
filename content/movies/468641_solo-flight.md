@@ -1,1 +1,0 @@
-{"tmdb_id": 468641, "title": "Solo Flight", "original_title": "Solo Flight", "slug_title": "solo-flight", "date": "1975-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

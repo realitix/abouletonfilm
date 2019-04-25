@@ -1,1 +1,0 @@
-{"tmdb_id": 302863, "title": "Fistful Of Moguls", "original_title": "Fistful Of Moguls", "slug_title": "fistful-of-moguls", "date": "1999-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

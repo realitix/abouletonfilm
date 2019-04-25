@@ -1,1 +1,0 @@
-{"tmdb_id": 287056, "title": "Shipwreck", "original_title": "Schipbreuk", "slug_title": "shipwreck", "date": "2013-11-01", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ijRz8b5j5ahX5PhaaZwASzRkIVH.jpg", "actors": [], "comments": [], "recommandations_id": []}

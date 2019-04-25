@@ -1,1 +1,0 @@
-{"tmdb_id": 360922, "title": "Give Me Sex Jesus", "original_title": "Give Me Sex Jesus", "slug_title": "give-me-sex-jesus", "date": "2015-09-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nwUXp1sbOe82RWcVaH7TwpXkLIR.jpg", "actors": ["Richard Ross (Himself)"], "comments": [], "recommandations_id": []}

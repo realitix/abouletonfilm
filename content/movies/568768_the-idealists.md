@@ -1,1 +1,0 @@
-{"tmdb_id": 568768, "title": "The Idealists", "original_title": "Los Idealistas", "slug_title": "the-idealists", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nailea Norvind ()", "Claudia Ram\u00edrez ()", "Yolanda Ventura ()", "Tiar\u00e9 Scanda ()", "Juan Pablo Medina ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 535173, "title": "Ferradura", "original_title": "Ferradura", "slug_title": "ferradura", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 535173, "title": "Ferradura", "original_title": "Ferradura", "slug_title": "ferradura", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

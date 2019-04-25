@@ -1,1 +1,0 @@
-{"tmdb_id": 73581, "title": "The Schengen Files", "original_title": "The Schengen Files", "slug_title": "the-schengen-files", "date": "2011-04-10", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xA7leSdi0wzUedEXlhaXFuu4GtJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

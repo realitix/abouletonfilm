@@ -1,1 +1,0 @@
-{"tmdb_id": 84913, "title": "Pot Zombies", "original_title": "Pot Zombies", "slug_title": "pot-zombies", "date": "2005-01-01", "genre": "Horreur", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ukBZIPlLBzKZgrn2TBCiLv2SPC.jpg", "actors": [], "comments": [], "recommandations_id": [11021, 25028, 86330, 42689]}

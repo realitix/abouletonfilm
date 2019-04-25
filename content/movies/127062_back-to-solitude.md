@@ -1,1 +1,0 @@
-{"tmdb_id": 127062, "title": "Back to Solitude", "original_title": "Back to Solitude", "slug_title": "back-to-solitude", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Xenia Assenza ()", "Constantin L\u00fccke ()", "Alan Orpin (Narrator (voice))", "Mario Kas ()"], "comments": [], "recommandations_id": []}

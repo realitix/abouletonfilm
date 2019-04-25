@@ -1,1 +1,0 @@
-{"tmdb_id": 228755, "title": "Jerry Done Again", "original_title": "Jerry Done Again", "slug_title": "jerry-done-again", "date": "1925-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gRkUe2YpfAFLBOs6QdmGn0AJUPn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 553697, "title": "Lenz of Spinoza", "original_title": "\u30b9\u30d4\u30ce\u30b6\u306e\u30ec\u30f3\u30ba", "slug_title": "lenz-of-spinoza", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1PhnRDSoUnOHLhttaFLaFoUDDFt.jpg", "actors": [], "comments": [], "recommandations_id": []}

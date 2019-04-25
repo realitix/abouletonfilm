@@ -1,1 +1,0 @@
-{"tmdb_id": 498827, "title": "Campos El\u00edseos", "original_title": "Campos El\u00edseos", "slug_title": "campos-eliseos", "date": "1978-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8gMKDEZrIORiC8vtMmFl9mHeTbd.jpg", "actors": [], "comments": [], "recommandations_id": []}

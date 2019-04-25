@@ -1,1 +1,0 @@
-{"tmdb_id": 446809, "title": "Chronique d'une banlieue ordinaire", "original_title": "Chronique d'une banlieue ordinaire", "slug_title": "chronique-d-une-banlieue-ordinaire", "date": "1992-12-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dominique Cabrera ()"], "comments": [], "recommandations_id": []}

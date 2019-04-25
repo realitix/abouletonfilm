@@ -1,1 +1,0 @@
-{"tmdb_id": 349160, "title": "The Glove", "original_title": "El guante", "slug_title": "the-glove", "date": "2002-07-17", "genre": "Fantastique / Animation / Thriller", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nAJZF1qXJX6xP7QowtqPlWaYZjI.jpg", "actors": [], "comments": [], "recommandations_id": []}

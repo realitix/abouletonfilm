@@ -1,1 +1,0 @@
-{"tmdb_id": 157188, "title": "Monica & David", "original_title": "Monica & David", "slug_title": "monica-david", "date": "2010-10-14", "genre": "Documentaire", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aKlG5EXJ1uIMT4Ubd9UEU2Zk2y.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 265786, "title": "Imbecile", "original_title": "\ub3cc\uc544\uc774", "slug_title": "imbecile", "date": "1985-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3TPDdSS05RWjyMveRkOzVoXOiTs.jpg", "actors": ["jeon yeong-log (Imbecile)"], "comments": [], "recommandations_id": []}

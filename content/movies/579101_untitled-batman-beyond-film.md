@@ -1,1 +1,0 @@
-{"tmdb_id": 579101, "title": "Untitled Batman Beyond Film", "original_title": "Untitled Batman Beyond Film", "slug_title": "untitled-batman-beyond-film", "date": "2022-12-01", "genre": "Animation / Action / Crime / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

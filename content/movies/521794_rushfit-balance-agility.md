@@ -1,1 +1,0 @@
-{"tmdb_id": 521794, "title": "Rushfit - Balance & Agility", "original_title": "Rushfit - Balance & Agility", "slug_title": "rushfit-balance-agility", "date": "2011-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t1b4AdcRrZzhA9wAASemotn3bLd.jpg", "actors": [], "comments": [], "recommandations_id": []}

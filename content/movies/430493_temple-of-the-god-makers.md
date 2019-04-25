@@ -1,1 +1,0 @@
-{"tmdb_id": 430493, "title": "Temple of the God Makers", "original_title": "Temple of the God Makers", "slug_title": "temple-of-the-god-makers", "date": "1987-03-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kIlM3bYsbkGcRrf1o5vSyT82xWM.jpg", "actors": [], "comments": [], "recommandations_id": []}

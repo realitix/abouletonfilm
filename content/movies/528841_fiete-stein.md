@@ -1,1 +1,0 @@
-{"tmdb_id": 528841, "title": "Fiete Stein", "original_title": "Fiete Stein", "slug_title": "fiete-stein", "date": "1970-06-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ursula Werner ()", "Peter Reusse ()", "Renate von Wangenheim ()"], "comments": [], "recommandations_id": []}

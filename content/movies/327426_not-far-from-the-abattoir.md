@@ -1,1 +1,0 @@
-{"tmdb_id": 327426, "title": "Not Far from the Abattoir", "original_title": "Not Far from the Abattoir", "slug_title": "not-far-from-the-abattoir", "date": "2012-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

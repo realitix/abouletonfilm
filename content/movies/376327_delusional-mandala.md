@@ -1,1 +1,0 @@
-{"tmdb_id": 376327, "title": "Delusional Mandala", "original_title": "Delusional Mandala", "slug_title": "delusional-mandala", "date": "2015-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hHoWw1xAWXqAHSv8LE0TVWpC77D.jpg", "actors": [], "comments": [], "recommandations_id": []}

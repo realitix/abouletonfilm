@@ -1,1 +1,0 @@
-{"tmdb_id": 533838, "title": "Putain d'histoire d'amour", "original_title": "Putain d'histoire d'amour", "slug_title": "putain-d-histoire-d-amour", "date": "1981-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iqdZGK2LLmW1LFro4q2LwP96vAE.jpg", "actors": [], "comments": [], "recommandations_id": []}

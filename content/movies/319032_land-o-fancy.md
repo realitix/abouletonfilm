@@ -1,1 +1,0 @@
-{"tmdb_id": 319032, "title": "Land O'Fancy", "original_title": "Land O'Fancy", "slug_title": "land-o-fancy", "date": "1926-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

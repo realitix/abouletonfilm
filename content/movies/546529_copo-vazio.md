@@ -1,1 +1,0 @@
-{"tmdb_id": 546529, "title": "Copo Vazio", "original_title": "Copo Vazio", "slug_title": "copo-vazio", "date": "2018-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

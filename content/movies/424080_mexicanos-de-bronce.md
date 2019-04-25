@@ -1,1 +1,0 @@
-{"tmdb_id": 424080, "title": "Mexicanos de bronce", "original_title": "Mexicanos de bronce", "slug_title": "mexicanos-de-bronce", "date": "2016-10-23", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ywF20XbQYAw0vaKr7uNfpVZHUaN.jpg", "actors": [], "comments": [], "recommandations_id": []}

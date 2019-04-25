@@ -1,1 +1,0 @@
-{"tmdb_id": 257492, "title": "\u00a1Es para ti!", "original_title": "\u00a1Es para ti!", "slug_title": "es-para-ti", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

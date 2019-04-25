@@ -1,1 +1,0 @@
-{"tmdb_id": 26909, "title": "The Jaffo Gate Quartet - Abba Vader", "original_title": "The Jaffo Gate Quartet - Abba Vader", "slug_title": "the-jaffo-gate-quartet-abba-vader", "date": "2007-04-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

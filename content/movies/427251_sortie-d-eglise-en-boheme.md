@@ -1,1 +1,0 @@
-{"tmdb_id": 427251, "title": "Sortie d'\u00e9glise en Boh\u00eame", "original_title": "Sortie d'\u00e9glise en Boh\u00eame", "slug_title": "sortie-d-eglise-en-boheme", "date": "1899-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

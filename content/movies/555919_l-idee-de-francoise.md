@@ -1,1 +1,0 @@
-{"tmdb_id": 555919, "title": "L'id\u00e9e de Fran\u00e7oise", "original_title": "L'id\u00e9e de Fran\u00e7oise", "slug_title": "l-idee-de-francoise", "date": "1923-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

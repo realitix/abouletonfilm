@@ -1,1 +1,0 @@
-{"tmdb_id": 485730, "title": "Just Speeding", "original_title": "Just Speeding", "slug_title": "just-speeding", "date": "1936-01-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Monte Collins ()", "Tom Kennedy ()"], "comments": [], "recommandations_id": []}

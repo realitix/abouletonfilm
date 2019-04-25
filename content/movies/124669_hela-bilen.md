@@ -1,1 +1,0 @@
-{"tmdb_id": 124669, "title": "Hela Bilen", "original_title": "Hela Bilen", "slug_title": "hela-bilen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gHU3kGhBykEN1RjboTQQetKXKNb.jpg", "actors": [], "comments": [], "recommandations_id": []}

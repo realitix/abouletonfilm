@@ -1,1 +1,0 @@
-{"tmdb_id": 539596, "title": "Le vertige", "original_title": "Le vertige", "slug_title": "le-vertige", "date": "1935-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

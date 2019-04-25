@@ -1,1 +1,1 @@
-{"tmdb_id": 121392, "title": "The Outraged", "original_title": "Les Indign\u00e9s", "slug_title": "the-outraged", "date": "2012-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 121392, "title": "The Outraged", "original_title": "Les Indign\u00e9s", "slug_title": "the-outraged", "date": "2012-07-20", "genre": [""], "score": "0.0/10", "synopsis": ".", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

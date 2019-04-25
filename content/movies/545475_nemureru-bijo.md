@@ -1,1 +1,0 @@
-{"tmdb_id": 545475, "title": "Nemureru bijo", "original_title": "Nemureru bijo", "slug_title": "nemureru-bijo", "date": "2007-03-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/seKAOnpeWGflXQ4iK4IVhxvX4mK.jpg", "actors": ["Tsuyoshi Takashiro (Eguchi)", "Keiko Okawa ()"], "comments": [], "recommandations_id": []}

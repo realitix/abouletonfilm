@@ -1,1 +1,0 @@
-{"tmdb_id": 345974, "title": "The Word Universe: A Journey to West Africa", "original_title": "The Word Universe: A Journey to West Africa", "slug_title": "the-word-universe-a-journey-to-west-africa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

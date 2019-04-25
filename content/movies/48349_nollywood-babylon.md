@@ -1,1 +1,0 @@
-{"tmdb_id": 48349, "title": "Nollywood Babylon", "original_title": "Nollywood Babylon", "slug_title": "nollywood-babylon", "date": "2009-07-03", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pdMIWYEV3p6LK15NOFDrRP9SER8.jpg", "actors": ["Osita Iheme (Himself)"], "comments": [], "recommandations_id": []}

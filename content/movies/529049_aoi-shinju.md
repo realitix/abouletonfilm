@@ -1,1 +1,0 @@
-{"tmdb_id": 529049, "title": "Aoi shinju", "original_title": "Aoi shinju", "slug_title": "aoi-shinju", "date": "1951-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yuriko Hamada (Riu)", "Yukiko Shimazaki (Noe)", "Ry\u00f4 Ikebe (Nishida)", "Takashi Shimura (Lighthouse Man)"], "comments": [], "recommandations_id": []}

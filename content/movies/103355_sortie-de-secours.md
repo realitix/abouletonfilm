@@ -1,1 +1,0 @@
-{"tmdb_id": 103355, "title": "Sortie de secours", "original_title": "Sortie de secours", "slug_title": "sortie-de-secours", "date": "2002-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Lemire ()", "Nicolas Canuel (Pascal)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 217549, "title": "Deep Winter", "original_title": "Skammdegi", "slug_title": "deep-winter", "date": "1985-04-06", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l83sDTiBigDllhWaCwQkJh2ZkdT.jpg", "actors": [], "comments": [], "recommandations_id": []}

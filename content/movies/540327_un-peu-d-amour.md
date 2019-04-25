@@ -1,1 +1,1 @@
-{"tmdb_id": 540327, "title": "Un peu d'amour", "original_title": "Un peu d'amour", "slug_title": "un-peu-d-amour", "date": "1933-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 540327, "title": "Un peu d'amour", "original_title": "Un peu d'amour", "slug_title": "un-peu-d-amour", "date": "1933-03-10", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 148201, "title": "The Sleep Counselor", "original_title": "The Sleep Counselor", "slug_title": "the-sleep-counselor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qvnAy2RFiCmfFNWZwMVhHWdeYNM.jpg", "actors": [], "comments": [], "recommandations_id": []}

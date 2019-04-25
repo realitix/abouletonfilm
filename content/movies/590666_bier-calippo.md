@@ -1,1 +1,0 @@
-{"tmdb_id": 590666, "title": "Bier & Calippo", "original_title": "Bier & Calippo", "slug_title": "bier-calippo", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roland D\u00fcringer (Papa)", "Florian Feik (Dani)", "Vicky Nikolaevskaja (Milli)"], "comments": [], "recommandations_id": []}

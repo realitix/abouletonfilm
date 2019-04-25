@@ -1,1 +1,0 @@
-{"tmdb_id": 548088, "title": "End of Daylight", "original_title": "End of Daylight", "slug_title": "end-of-daylight", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

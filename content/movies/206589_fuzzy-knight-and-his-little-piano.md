@@ -1,1 +1,0 @@
-{"tmdb_id": 206589, "title": "Fuzzy Knight and His Little Piano", "original_title": "Fuzzy Knight and His Little Piano", "slug_title": "fuzzy-knight-and-his-little-piano", "date": "1928-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fuzzy Knight ()"], "comments": [], "recommandations_id": []}

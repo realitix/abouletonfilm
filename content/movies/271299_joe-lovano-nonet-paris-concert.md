@@ -1,1 +1,0 @@
-{"tmdb_id": 271299, "title": "Joe Lovano Nonet: Paris Concert", "original_title": "Joe Lovano Nonet: Paris Concert", "slug_title": "joe-lovano-nonet-paris-concert", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

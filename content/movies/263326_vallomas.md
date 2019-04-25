@@ -1,1 +1,0 @@
-{"tmdb_id": 263326, "title": "Vallom\u00e1s", "original_title": "Vallom\u00e1s", "slug_title": "vallomas", "date": "2008-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andor Luk\u00e1ts (Apa)", "Orsolya T\u00f3th (L\u00e1ny)"], "comments": [], "recommandations_id": []}

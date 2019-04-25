@@ -1,1 +1,0 @@
-{"tmdb_id": 389631, "title": "L'aube \u00e0 l'envers", "original_title": "L'aube \u00e0 l'envers", "slug_title": "l-aube-a-l-envers", "date": "1995-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Judith Godr\u00e8che ()", "Jerzy Gra\u0142ek ()", "Anna Nehrebecka ()"], "comments": [], "recommandations_id": []}

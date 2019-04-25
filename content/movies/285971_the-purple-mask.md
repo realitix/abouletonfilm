@@ -1,1 +1,0 @@
-{"tmdb_id": 285971, "title": "The Purple Mask", "original_title": "The Purple Mask", "slug_title": "the-purple-mask", "date": "1916-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Francis Ford ()", "Grace Cunard ()", "Jean Hathaway ()"], "comments": [], "recommandations_id": []}

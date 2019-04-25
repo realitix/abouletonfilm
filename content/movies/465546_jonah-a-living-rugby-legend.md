@@ -1,1 +1,0 @@
-{"tmdb_id": 465546, "title": "Jonah: A Living Rugby Legend", "original_title": "Jonah: A Living Rugby Legend", "slug_title": "jonah-a-living-rugby-legend", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

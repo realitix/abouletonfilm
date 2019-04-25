@@ -1,1 +1,0 @@
-{"tmdb_id": 387746, "title": "Hors-d'oeuvre", "original_title": "Hors-d'oeuvre", "slug_title": "hors-d-oeuvre", "date": "1960-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dwmNsqJTh1ThgeMEmNHeDbmkxh0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 497277, "title": "Hunter Hayes: The Journey", "original_title": "Hunter Hayes: The Journey", "slug_title": "hunter-hayes-the-journey", "date": "2014-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hunter Hayes (Himself)", "Rebecca Smith (Narrator)"], "comments": [], "recommandations_id": []}

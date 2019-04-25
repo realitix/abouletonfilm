@@ -1,1 +1,0 @@
-{"tmdb_id": 357347, "title": "Songs of the Coalfields", "original_title": "Songs of the Coalfields", "slug_title": "songs-of-the-coalfields", "date": "1964-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Isla Cameron ()", "Ewan MacColl ()"], "comments": [], "recommandations_id": []}

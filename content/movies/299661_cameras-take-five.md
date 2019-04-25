@@ -1,1 +1,0 @@
-{"tmdb_id": 299661, "title": "Cameras Take Five", "original_title": "Cameras Take Five", "slug_title": "cameras-take-five", "date": "2003-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jduaqA7mcjRIEgpSwo00HKUQano.jpg", "actors": [], "comments": [], "recommandations_id": []}

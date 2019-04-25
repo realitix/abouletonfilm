@@ -1,1 +1,0 @@
-{"tmdb_id": 556775, "title": "Les Petites Vacances", "original_title": "Les Petites Vacances", "slug_title": "les-petites-vacances", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 273894, "title": "Looking at Britain: National Parks", "original_title": "Looking at Britain: National Parks", "slug_title": "looking-at-britain-national-parks", "date": "1961-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

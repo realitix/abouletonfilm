@@ -1,1 +1,0 @@
-{"tmdb_id": 340796, "title": "The OmniFocus Video Field Guide", "original_title": "The OmniFocus Video Field Guide", "slug_title": "the-omnifocus-video-field-guide", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

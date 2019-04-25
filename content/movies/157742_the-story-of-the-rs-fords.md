@@ -1,1 +1,0 @@
-{"tmdb_id": 157742, "title": "The Story of the RS Fords", "original_title": "The Story of the RS Fords", "slug_title": "the-story-of-the-rs-fords", "date": "2011-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lQi4yUo4VDjZ7GPH7GJj3BrBuFf.jpg", "actors": [], "comments": [], "recommandations_id": []}

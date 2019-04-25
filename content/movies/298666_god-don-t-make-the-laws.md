@@ -1,1 +1,0 @@
-{"tmdb_id": 298666, "title": "God Don't Make the Laws", "original_title": "God Don't Make the Laws", "slug_title": "god-don-t-make-the-laws", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

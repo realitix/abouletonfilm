@@ -1,1 +1,0 @@
-{"tmdb_id": 571391, "title": "Chicuarotes", "original_title": "Chicuarotes", "slug_title": "chicuarotes", "date": "", "genre": "Drame / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Benny Emmanuel ()", "Leidi Guti\u00e9rrez ()", "Daniel Gim\u00e9nez Cacho ()", "Dolores Heredia ()"], "comments": [], "recommandations_id": []}

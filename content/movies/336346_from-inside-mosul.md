@@ -1,1 +1,0 @@
-{"tmdb_id": 336346, "title": "From Inside Mosul", "original_title": "From Inside Mosul", "slug_title": "from-inside-mosul", "date": "2015-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/APJQJzIdg0W46Gqq4RS45Oyudf.jpg", "actors": ["John Cantlie (Himself)"], "comments": [], "recommandations_id": []}

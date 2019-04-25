@@ -1,1 +1,0 @@
-{"tmdb_id": 473948, "title": "NABUCCO - OPERA DIFERIDO", "original_title": "NABUCCO - OPERA DIFERIDO", "slug_title": "nabucco-opera-diferido", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mmYBnDG9iQeYySPL8L6Dfjzdzsd.jpg", "actors": [], "comments": [], "recommandations_id": []}

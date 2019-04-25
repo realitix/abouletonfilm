@@ -1,1 +1,0 @@
-{"tmdb_id": 162597, "title": "How to Tell", "original_title": "How to Tell", "slug_title": "how-to-tell", "date": "1931-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tRXfzcyYoNn6UdhOqCyYraOPkyn.jpg", "actors": [], "comments": [], "recommandations_id": []}

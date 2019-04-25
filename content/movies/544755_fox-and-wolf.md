@@ -1,1 +1,0 @@
-{"tmdb_id": 544755, "title": "Fox and Wolf", "original_title": "Lisa i volk", "slug_title": "fox-and-wolf", "date": "1937-04-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jY7ibfj9ytBk5M60yZODZAZ0nyC.jpg", "actors": ["Mikhail Dagmarov ()"], "comments": [], "recommandations_id": []}

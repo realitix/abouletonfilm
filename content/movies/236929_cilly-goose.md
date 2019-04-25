@@ -1,1 +1,0 @@
-{"tmdb_id": 236929, "title": "Cilly Goose", "original_title": "Cilly Goose", "slug_title": "cilly-goose", "date": "1944-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

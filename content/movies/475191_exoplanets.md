@@ -1,1 +1,0 @@
-{"tmdb_id": 475191, "title": "Exoplanets", "original_title": "Exoplanets", "slug_title": "exoplanets", "date": "2017-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/flyLKo2YSSMZQxWBTdLLwwjDCf8.jpg", "actors": [], "comments": [], "recommandations_id": []}

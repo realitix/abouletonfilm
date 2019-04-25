@@ -1,1 +1,0 @@
-{"tmdb_id": 573617, "title": "Town School", "original_title": "\u0da7\u0dc0\u0dca\u0db8\u0dd9 \u0d89\u0dc3\u0dca\u0d9a\u0ddc\u0dbd\u0dda", "slug_title": "town-school", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dFij2PDNAKN3WauhblO97SXq1HR.jpg", "actors": [], "comments": [], "recommandations_id": []}

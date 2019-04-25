@@ -1,1 +1,0 @@
-{"tmdb_id": 157944, "title": "Piano for Quitters", "original_title": "Piano for Quitters", "slug_title": "piano-for-quitters", "date": "1997-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ggDn2wLuFXNqNFSaVuiCk0FtQup.jpg", "actors": ["Mark Almond (Himself)"], "comments": [], "recommandations_id": []}

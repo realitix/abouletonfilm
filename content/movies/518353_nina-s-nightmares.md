@@ -1,1 +1,0 @@
-{"tmdb_id": 518353, "title": "Nina's Nightmares", "original_title": "Nina's Nightmares", "slug_title": "nina-s-nightmares", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nWGWWC7XwAGjTgQw5uX4YmpaQvi.jpg", "actors": ["Maria Vaslova (Nina)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 569364, "title": "Phone/Film Portraits", "original_title": "Phone/Film Portraits", "slug_title": "phone-film-portraits", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

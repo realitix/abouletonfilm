@@ -1,1 +1,0 @@
-{"tmdb_id": 295796, "title": "Mr. Leather", "original_title": "Mr. Leather", "slug_title": "mr-leather", "date": "2004-06-10", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/66Q7yxioY7RoeV2FaxL3rkAvZgJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

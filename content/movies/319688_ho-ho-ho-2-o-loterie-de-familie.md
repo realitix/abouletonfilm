@@ -1,1 +1,0 @@
-{"tmdb_id": 319688, "title": "Ho Ho Ho 2: O loterie de familie", "original_title": "Ho Ho Ho 2: O loterie de familie", "slug_title": "ho-ho-ho-2-o-loterie-de-familie", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andreea Banica ()"], "comments": [], "recommandations_id": []}

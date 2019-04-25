@@ -1,1 +1,0 @@
-{"tmdb_id": 573337, "title": "Shoot to Kill", "original_title": "\u91cd\u6848\u5be6\u9304\u4e4b\u9a5a\u5929\u68b0\u52ab\u6848", "slug_title": "shoot-to-kill", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wLbXySpl0GAkFy5xYPdoWsUyTNm.jpg", "actors": [], "comments": [], "recommandations_id": []}

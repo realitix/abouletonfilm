@@ -1,1 +1,0 @@
-{"tmdb_id": 335391, "title": "Itt vagyok", "original_title": "Itt vagyok", "slug_title": "itt-vagyok", "date": "2009-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xGCY7bdI3UVEMq9V0CJ6QSfLKKA.jpg", "actors": [], "comments": [], "recommandations_id": []}

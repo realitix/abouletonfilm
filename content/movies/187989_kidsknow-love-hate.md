@@ -1,1 +1,0 @@
-{"tmdb_id": 187989, "title": "Kidsknow: Love Hate", "original_title": "Kidsknow: Love Hate", "slug_title": "kidsknow-love-hate", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v9zLE8HwM51z5lfxpq1ZhcxMMeW.jpg", "actors": [], "comments": [], "recommandations_id": []}

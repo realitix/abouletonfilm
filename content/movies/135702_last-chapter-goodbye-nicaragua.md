@@ -1,1 +1,0 @@
-{"tmdb_id": 135702, "title": "Last Chapter: Goodbye Nicaragua", "original_title": "Last Chapter: Goodbye Nicaragua", "slug_title": "last-chapter-goodbye-nicaragua", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rCGMG1XM9J0ks3flAzHBaDxFJJ5.jpg", "actors": [], "comments": [], "recommandations_id": []}

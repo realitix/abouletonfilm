@@ -1,1 +1,0 @@
-{"tmdb_id": 508323, "title": "Reindeer Slaughter at Lake Kruttvattnet", "original_title": "Renslakt vid Krutvattnet", "slug_title": "reindeer-slaughter-at-lake-kruttvattnet", "date": "1967-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

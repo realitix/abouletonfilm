@@ -1,1 +1,0 @@
-{"tmdb_id": 352118, "title": "Lost in the Garden of the World", "original_title": "Lost in the Garden of the World", "slug_title": "lost-in-the-garden-of-the-world", "date": "1975-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Heath (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 542087, "title": "Bellissima", "original_title": "Bellissima", "slug_title": "bellissima", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lhSqKahjvTkiqkfcflrAaPhMwrM.jpg", "actors": [], "comments": [], "recommandations_id": []}

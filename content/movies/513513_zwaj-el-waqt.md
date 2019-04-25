@@ -1,1 +1,0 @@
-{"tmdb_id": 513513, "title": "Zwaj El Waqt", "original_title": "\u0632\u0648\u0627\u062c \u0627\u0644\u0648\u0642\u062a", "slug_title": "zwaj-el-waqt", "date": "2017-04-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

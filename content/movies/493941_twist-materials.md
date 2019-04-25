@@ -1,1 +1,0 @@
-{"tmdb_id": 493941, "title": "Twist Materials", "original_title": "Twist Materials", "slug_title": "twist-materials", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

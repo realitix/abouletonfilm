@@ -1,1 +1,0 @@
-{"tmdb_id": 277288, "title": "Josef Krips: A Mozart Festival", "original_title": "Josef Krips: A Mozart Festival", "slug_title": "josef-krips-a-mozart-festival", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

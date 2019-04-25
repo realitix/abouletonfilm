@@ -1,1 +1,0 @@
-{"tmdb_id": 514593, "title": "You Should Have Left", "original_title": "You Should Have Left", "slug_title": "you-should-have-left", "date": "2019-12-31", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kevin Bacon ()", "Amanda Seyfried ()"], "comments": [], "recommandations_id": []}

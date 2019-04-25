@@ -1,1 +1,0 @@
-{"tmdb_id": 350387, "title": "\uc544\ub08c\uc5c6\uc774 \uc8fc\ub828\ub2e4", "original_title": "\uc544\ub08c\uc5c6\uc774 \uc8fc\ub828\ub2e4", "slug_title": "aggimeobsi-juryeonda", "date": "1989-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 419483, "title": "The Catechist of Kil-Arni", "original_title": "The Catechist of Kil-Arni", "slug_title": "the-catechist-of-kil-arni", "date": "1923-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thomas Gavin Duffy (Priest)"], "comments": [], "recommandations_id": []}

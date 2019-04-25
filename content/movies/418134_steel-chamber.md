@@ -1,1 +1,0 @@
-{"tmdb_id": 418134, "title": "Steel Chamber", "original_title": "Steel Chamber", "slug_title": "steel-chamber", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rKgCmiiX465KAb4GxIfMYFWb605.jpg", "actors": [], "comments": [], "recommandations_id": []}

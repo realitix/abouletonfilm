@@ -1,1 +1,0 @@
-{"tmdb_id": 565075, "title": "L\u2019odyss\u00e9e (La odisea)", "original_title": "L\u2019odyss\u00e9e (La odisea)", "slug_title": "lodyssee-la-odisea", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

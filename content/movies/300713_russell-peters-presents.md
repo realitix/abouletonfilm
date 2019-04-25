@@ -1,1 +1,0 @@
-{"tmdb_id": 300713, "title": "Russell Peters Presents", "original_title": "Russell Peters Presents", "slug_title": "russell-peters-presents", "date": "2009-09-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ypDDNR1iQ2zO9dbjc6fvHpo1Gh.jpg", "actors": [], "comments": [], "recommandations_id": []}

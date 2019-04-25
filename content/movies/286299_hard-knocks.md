@@ -1,1 +1,0 @@
-{"tmdb_id": 286299, "title": "Hard Knocks", "original_title": "Hard Knocks", "slug_title": "hard-knocks", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z6WTdf6BiFBBbpHVavkZWmRawPG.jpg", "actors": [], "comments": [], "recommandations_id": []}

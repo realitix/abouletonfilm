@@ -1,1 +1,0 @@
-{"tmdb_id": 555273, "title": "Billy's Last Stand", "original_title": "Billy's Last Stand", "slug_title": "billy-s-last-stand", "date": "1971-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Barrett (Billy)", "Dudley Foster (Darkly)", "Rex Robinson (Gibbs)"], "comments": [], "recommandations_id": []}

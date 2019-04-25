@@ -1,1 +1,0 @@
-{"tmdb_id": 32287, "title": "The Greatest", "original_title": "The Greatest", "slug_title": "the-greatest", "date": "2006-05-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 574170, "title": "5 Minutes Silence", "original_title": "5 Minutes Silence", "slug_title": "5-minutes-silence", "date": "2018-03-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oyT0nvwjEwxAZ6FHvRMsUYhpyB2.jpg", "actors": ["Asal Haji ()"], "comments": [], "recommandations_id": []}

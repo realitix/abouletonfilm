@@ -1,1 +1,0 @@
-{"tmdb_id": 138751, "title": "Challo Driver", "original_title": "Challo Driver", "slug_title": "challo-driver", "date": "2012-07-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xJ34J1Iift6EeHl0cBvEC8QJt4p.jpg", "actors": [], "comments": [], "recommandations_id": []}

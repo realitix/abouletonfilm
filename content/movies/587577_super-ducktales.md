@@ -1,1 +1,0 @@
-{"tmdb_id": 587577, "title": "Super Ducktales", "original_title": "Super Ducktales", "slug_title": "super-ducktales", "date": "1989-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

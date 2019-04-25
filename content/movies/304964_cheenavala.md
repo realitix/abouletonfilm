@@ -1,1 +1,0 @@
-{"tmdb_id": 304964, "title": "Cheenavala", "original_title": "Cheenavala", "slug_title": "cheenavala", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

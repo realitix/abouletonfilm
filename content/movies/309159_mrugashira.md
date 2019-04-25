@@ -1,1 +1,0 @@
-{"tmdb_id": 309159, "title": "Mrugashira", "original_title": "Mrugashira", "slug_title": "mrugashira", "date": "2015-05-15", "genre": "Thriller / Action", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/25xpamOQLr8sq6cvUFPsYg8lfrA.jpg", "actors": ["Manasa Himavarsha ()"], "comments": [], "recommandations_id": []}

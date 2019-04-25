@@ -1,1 +1,0 @@
-{"tmdb_id": 588352, "title": "Swimming Moon", "original_title": "Swimming Moon", "slug_title": "swimming-moon", "date": "2008-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

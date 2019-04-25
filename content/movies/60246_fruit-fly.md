@@ -1,1 +1,0 @@
-{"tmdb_id": 60246, "title": "Fruit Fly", "original_title": "Fruit Fly", "slug_title": "fruit-fly", "date": "2009-09-28", "genre": "Com\u00e9die / Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2673B0tvwTpXRG87z1tSCy2kM3l.jpg", "actors": ["L.A. Renigen (Bethesda)"], "comments": [], "recommandations_id": []}

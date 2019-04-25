@@ -1,1 +1,0 @@
-{"tmdb_id": 426078, "title": "The Chase", "original_title": "The Chase", "slug_title": "the-chase", "date": "", "genre": "Musique / Action / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

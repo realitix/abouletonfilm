@@ -1,1 +1,0 @@
-{"tmdb_id": 68811, "title": "Oh Julie!", "original_title": "Oh Julie!", "slug_title": "oh-julie", "date": "1994-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jIfYbwPeT5tLt8dSiiTwD5SROPv.jpg", "actors": ["Mark Vegh ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 583318, "title": "Catwoman", "original_title": "Catwoman", "slug_title": "catwoman", "date": "2015-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2O6xXKYH389KUMnjKfHczwXTxQN.jpg", "actors": ["Anastasia Pierce ()", "Crystal Clark ()", "Jean Bardot ()"], "comments": [], "recommandations_id": []}

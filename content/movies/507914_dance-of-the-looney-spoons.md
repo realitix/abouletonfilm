@@ -1,1 +1,0 @@
-{"tmdb_id": 507914, "title": "Dance of the Looney Spoons", "original_title": "Dance of the Looney Spoons", "slug_title": "dance-of-the-looney-spoons", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/my3bZvzrzZUX5OpVZPRsxP7shBs.jpg", "actors": [], "comments": [], "recommandations_id": []}

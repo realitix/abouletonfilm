@@ -1,1 +1,0 @@
-{"tmdb_id": 477325, "title": "Sheriff Callie's Wild West: Howdy Partner", "original_title": "Sheriff Callie's Wild West: Howdy Partner", "slug_title": "sheriff-callie-s-wild-west-howdy-partner", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 329818, "title": "Snuff Film: Death on Camera", "original_title": "Snuff Film: Death on Camera", "slug_title": "snuff-film-death-on-camera", "date": "2011-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jrPnuVsGOkpYYZPMsLAN4OBOGMf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 484823, "title": "Lessons on Leaving Your Body", "original_title": "Lessons on Leaving Your Body", "slug_title": "lessons-on-leaving-your-body", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

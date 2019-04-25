@@ -1,1 +1,0 @@
-{"tmdb_id": 332526, "title": "Tales from the Mist: Inside 'The Fog'", "original_title": "Tales from the Mist: Inside 'The Fog'", "slug_title": "tales-from-the-mist-inside-the-fog", "date": "2002-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

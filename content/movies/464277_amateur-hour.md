@@ -1,1 +1,0 @@
-{"tmdb_id": 464277, "title": "Amateur Hour", "original_title": "Amateur Hour", "slug_title": "amateur-hour", "date": "2014-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robin Goldsworthy (Lachlan)", "Christine Greenough (Juliet)"], "comments": [], "recommandations_id": []}

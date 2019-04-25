@@ -1,1 +1,0 @@
-{"tmdb_id": 475884, "title": "Der Servantilist", "original_title": "Der Servantilist", "slug_title": "der-servantilist", "date": "1996-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jakob H\u00fcfner (Jakob)", "Anne Habermann (Anne)", "Rainer Knepperges ()", "Bernhard Marsch ()"], "comments": [], "recommandations_id": []}

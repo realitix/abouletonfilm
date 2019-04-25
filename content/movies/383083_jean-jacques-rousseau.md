@@ -1,1 +1,0 @@
-{"tmdb_id": 383083, "title": "Jean-Jacques Rousseau", "original_title": "Jean-Jacques Rousseau", "slug_title": "jean-jacques-rousseau", "date": "1979-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

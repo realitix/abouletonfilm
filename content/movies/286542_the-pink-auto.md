@@ -1,1 +1,0 @@
-{"tmdb_id": 286542, "title": "The Pink Auto", "original_title": "The Pink Auto", "slug_title": "the-pink-auto", "date": "1964-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iVOXlXCS6NddvwM6hJ982I7Mmjt.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 312502, "title": "W/O V. Varaprasad", "original_title": "W/O V. Varaprasad", "slug_title": "w-o-v-varaprasad", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

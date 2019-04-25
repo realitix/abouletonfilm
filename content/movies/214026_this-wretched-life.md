@@ -1,1 +1,0 @@
-{"tmdb_id": 214026, "title": "This Wretched Life", "original_title": "This Wretched Life", "slug_title": "this-wretched-life", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniel Ball (Chris)"], "comments": [], "recommandations_id": []}

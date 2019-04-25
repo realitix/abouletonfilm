@@ -1,1 +1,0 @@
-{"tmdb_id": 273801, "title": "Honey Girl", "original_title": "Honey Girl", "slug_title": "honey-girl", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 496721, "title": "War of The Stars", "original_title": "War of The Stars", "slug_title": "war-of-the-stars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4kniSeKNxOr1M6HZJ1K3zDa0A0i.jpg", "actors": [], "comments": [], "recommandations_id": []}

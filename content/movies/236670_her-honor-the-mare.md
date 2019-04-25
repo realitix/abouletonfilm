@@ -1,1 +1,0 @@
-{"tmdb_id": 236670, "title": "Her Honor the Mare", "original_title": "Her Honor the Mare", "slug_title": "her-honor-the-mare", "date": "1943-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

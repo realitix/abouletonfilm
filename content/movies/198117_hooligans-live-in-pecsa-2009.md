@@ -1,1 +1,0 @@
-{"tmdb_id": 198117, "title": "Hooligans Live In PeCsa 2009", "original_title": "Hooligans Live In PeCsa 2009", "slug_title": "hooligans-live-in-pecsa-2009", "date": "2009-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

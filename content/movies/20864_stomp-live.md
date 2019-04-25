@@ -1,1 +1,0 @@
-{"tmdb_id": 20864, "title": "Stomp Live", "original_title": "Stomp Live", "slug_title": "stomp-live", "date": "2009-08-21", "genre": "Musique", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y4xwGYSIykQKCwzaZX996yxl6AX.jpg", "actors": [], "comments": [], "recommandations_id": []}

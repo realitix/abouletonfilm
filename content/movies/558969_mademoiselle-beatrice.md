@@ -1,1 +1,0 @@
-{"tmdb_id": 558969, "title": "Mademoiselle B\u00e9atrice", "original_title": "Mademoiselle B\u00e9atrice", "slug_title": "mademoiselle-beatrice", "date": "1943-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4oshjMJADYg4PQ7KoDcp614vsKv.jpg", "actors": [], "comments": [], "recommandations_id": []}

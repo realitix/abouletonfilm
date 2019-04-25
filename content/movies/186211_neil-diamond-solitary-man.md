@@ -1,1 +1,0 @@
-{"tmdb_id": 186211, "title": "Neil Diamond: Solitary Man", "original_title": "Neil Diamond: Solitary Man", "slug_title": "neil-diamond-solitary-man", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/teLEMogE7GJjvLcERseEMAVZHIC.jpg", "actors": [], "comments": [], "recommandations_id": []}

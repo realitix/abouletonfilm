@@ -1,1 +1,0 @@
-{"tmdb_id": 246665, "title": "The Lump", "original_title": "The Lump", "slug_title": "the-lump", "date": "1991-01-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ugV8dlGqxZbGSGVDzClYNygd7IX.jpg", "actors": ["Harvey Atkin (voice)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 319845, "title": "50 Cent: Real Money", "original_title": "50 Cent: Real Money", "slug_title": "50-cent-real-money", "date": "2008-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

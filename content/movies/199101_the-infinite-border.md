@@ -1,1 +1,0 @@
-{"tmdb_id": 199101, "title": "The Infinite Border", "original_title": "La frontera infinita", "slug_title": "the-infinite-border", "date": "2007-10-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/egQCoOT9AUcB3xkQHJYU0o1VFmP.jpg", "actors": [], "comments": [], "recommandations_id": []}

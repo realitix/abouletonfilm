@@ -1,1 +1,0 @@
-{"tmdb_id": 494893, "title": "Mediterranean", "original_title": "Mediterranean", "slug_title": "mediterranean", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

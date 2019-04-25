@@ -1,1 +1,0 @@
-{"tmdb_id": 377685, "title": "The Bicycle", "original_title": "The Bicycle", "slug_title": "the-bicycle", "date": "2013-04-06", "genre": "Aventure / Drame", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 424540, "title": "Inquire Within", "original_title": "Inquire Within", "slug_title": "inquire-within", "date": "2012-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gk71D4UtUZ2kiJMC0An7mhUG6sT.jpg", "actors": [], "comments": [], "recommandations_id": []}

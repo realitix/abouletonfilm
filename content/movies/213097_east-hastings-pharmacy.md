@@ -1,1 +1,0 @@
-{"tmdb_id": 213097, "title": "East Hastings Pharmacy", "original_title": "East Hastings Pharmacy", "slug_title": "east-hastings-pharmacy", "date": "2012-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

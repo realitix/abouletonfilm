@@ -1,1 +1,0 @@
-{"tmdb_id": 542338, "title": "Alle helfen Teddy", "original_title": "Alle helfen Teddy", "slug_title": "alle-helfen-teddy", "date": "1960-11-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

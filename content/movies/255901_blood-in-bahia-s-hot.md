@@ -1,1 +1,0 @@
-{"tmdb_id": 255901, "title": "Blood in Bahia's Hot", "original_title": "Il Sangue \u00e8 Caldo Di Bahia", "slug_title": "blood-in-bahia-s-hot", "date": "2014-01-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k5Pbssdful5YGSUFL18G7PhExJu.jpg", "actors": [], "comments": [], "recommandations_id": []}

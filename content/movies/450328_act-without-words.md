@@ -1,1 +1,0 @@
-{"tmdb_id": 450328, "title": "Act Without Words", "original_title": "Act Without Words", "slug_title": "act-without-words", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

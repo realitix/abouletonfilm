@@ -1,1 +1,0 @@
-{"tmdb_id": 510229, "title": "ROSETTA Memories Of A Comet", "original_title": "ROSETTA Memories Of A Comet", "slug_title": "rosetta-memories-of-a-comet", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nnIsjpXLfJUueZAgZwVjpFoBAdq.jpg", "actors": [], "comments": [], "recommandations_id": []}

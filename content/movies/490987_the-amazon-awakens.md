@@ -1,1 +1,0 @@
-{"tmdb_id": 490987, "title": "The Amazon Awakens", "original_title": "The Amazon Awakens", "slug_title": "the-amazon-awakens", "date": "1944-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bajmjSYwnHZM0GLtt668PGeg9fX.jpg", "actors": [], "comments": [], "recommandations_id": []}

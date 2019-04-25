@@ -1,1 +1,0 @@
-{"tmdb_id": 546896, "title": "Irritation", "original_title": "Irritation", "slug_title": "irritation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

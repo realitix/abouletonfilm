@@ -1,1 +1,0 @@
-{"tmdb_id": 378902, "title": "I Due Castelli", "original_title": "I Due Castelli", "slug_title": "i-due-castelli", "date": "1963-01-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

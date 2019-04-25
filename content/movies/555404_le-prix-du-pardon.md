@@ -1,1 +1,0 @@
-{"tmdb_id": 555404, "title": "Le prix du pardon", "original_title": "Le prix du pardon", "slug_title": "le-prix-du-pardon", "date": "1916-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

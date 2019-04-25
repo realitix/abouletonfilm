@@ -1,1 +1,0 @@
-{"tmdb_id": 328514, "title": "The Librarian and The Banjo", "original_title": "The Librarian and The Banjo", "slug_title": "the-librarian-and-the-banjo", "date": "2013-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

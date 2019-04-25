@@ -1,1 +1,0 @@
-{"tmdb_id": 531917, "title": "Si vamos 28, volvemos 28", "original_title": "Si vamos 28, volvemos 28", "slug_title": "si-vamos-28-volvemos-28", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

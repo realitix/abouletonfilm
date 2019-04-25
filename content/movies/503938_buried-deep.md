@@ -1,1 +1,0 @@
-{"tmdb_id": 503938, "title": "Buried Deep", "original_title": "Buried Deep", "slug_title": "buried-deep", "date": "2016-01-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Stahl-David (Michael)", "Zainab Jah (Zainab)"], "comments": [], "recommandations_id": []}

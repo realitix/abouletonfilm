@@ -1,1 +1,0 @@
-{"tmdb_id": 231039, "title": "The Do Gooders", "original_title": "The Do Gooders", "slug_title": "the-do-gooders", "date": "2013-10-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uGxKFW0MhjmRBajj3h72gClnJaJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

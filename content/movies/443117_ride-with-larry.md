@@ -1,1 +1,0 @@
-{"tmdb_id": 443117, "title": "Ride with Larry", "original_title": "Ride with Larry", "slug_title": "ride-with-larry", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jay Alberts (himself)", "Emily Drabant (herself)", "Larry Smith (himself)"], "comments": [], "recommandations_id": []}

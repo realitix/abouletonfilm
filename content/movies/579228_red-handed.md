@@ -1,1 +1,0 @@
-{"tmdb_id": 579228, "title": "Red Handed", "original_title": "Red Handed", "slug_title": "red-handed", "date": "2013-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

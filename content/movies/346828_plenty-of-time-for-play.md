@@ -1,1 +1,0 @@
-{"tmdb_id": 346828, "title": "Plenty of Time for Play", "original_title": "Plenty of Time for Play", "slug_title": "plenty-of-time-for-play", "date": "1935-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y4jFkrGAMTjPYMJtm2elAUfJwAc.jpg", "actors": [], "comments": [], "recommandations_id": []}

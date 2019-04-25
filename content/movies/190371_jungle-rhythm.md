@@ -1,1 +1,0 @@
-{"tmdb_id": 190371, "title": "Jungle Rhythm", "original_title": "Jungle Rhythm", "slug_title": "jungle-rhythm", "date": "1929-11-15", "genre": "Animation", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7RQbPtKCiNtoIhY0pNYBHYDDpad.jpg", "actors": [], "comments": [], "recommandations_id": [229504, 431711, 123413, 300927]}

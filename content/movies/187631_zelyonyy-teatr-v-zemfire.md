@@ -1,1 +1,0 @@
-{"tmdb_id": 187631, "title": "Zelyonyy teatr v Zemfire", "original_title": "Zelyonyy teatr v Zemfire", "slug_title": "zelyonyy-teatr-v-zemfire", "date": "2008-02-20", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dYFwzGLccvnnf8oEzy1eRvH0bQC.jpg", "actors": [], "comments": [], "recommandations_id": []}

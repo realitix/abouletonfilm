@@ -1,1 +1,0 @@
-{"tmdb_id": 168532, "title": "Historic Pubs of Dublin", "original_title": "Historic Pubs of Dublin", "slug_title": "historic-pubs-of-dublin", "date": "2008-06-21", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jQvJL5yB44CLaFD2LZBRYXB634I.jpg", "actors": [], "comments": [], "recommandations_id": []}

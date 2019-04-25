@@ -1,1 +1,1 @@
-{"tmdb_id": 307482, "title": "Jebu donga", "original_title": "Jebu donga", "slug_title": "jebu-donga", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 307482, "title": "Jebu donga", "original_title": "Jebu donga", "slug_title": "jebu-donga", "date": "1975-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No Overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

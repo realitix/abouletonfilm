@@ -1,1 +1,0 @@
-{"tmdb_id": 517698, "title": "Life on Mars", "original_title": "Life on Mars", "slug_title": "life-on-mars", "date": "", "genre": "Science-Fiction / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

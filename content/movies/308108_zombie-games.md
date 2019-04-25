@@ -1,1 +1,0 @@
-{"tmdb_id": 308108, "title": "Zombie Games", "original_title": "Zombie Games", "slug_title": "zombie-games", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

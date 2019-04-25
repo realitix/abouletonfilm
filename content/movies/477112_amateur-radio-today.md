@@ -1,1 +1,0 @@
-{"tmdb_id": 477112, "title": "Amateur Radio Today", "original_title": "Amateur Radio Today", "slug_title": "amateur-radio-today", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7YEqdiQngp6pXff9K7mb4g6e2ZE.jpg", "actors": ["Walter Cronkite (Himself)"], "comments": [], "recommandations_id": []}

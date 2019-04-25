@@ -1,1 +1,0 @@
-{"tmdb_id": 453195, "title": "Shadows Choose Their Horrors", "original_title": "Shadows Choose Their Horrors", "slug_title": "shadows-choose-their-horrors", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wI5FQ53OuqVmoEcbF7iWtOmLWTM.jpg", "actors": [], "comments": [], "recommandations_id": []}

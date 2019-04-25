@@ -1,1 +1,0 @@
-{"tmdb_id": 261092, "title": "The Creation as We Saw It", "original_title": "The Creation as We Saw It", "slug_title": "the-creation-as-we-saw-it", "date": "2012-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eE2wdaYRSIsfu4D1PLrhlWLnVJU.jpg", "actors": [], "comments": [], "recommandations_id": []}

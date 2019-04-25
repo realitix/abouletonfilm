@@ -1,1 +1,0 @@
-{"tmdb_id": 396367, "title": "Epilogue", "original_title": "Ep\u00edlogo", "slug_title": "epilogue", "date": "2008-12-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/97Z2bfrmLwFCyOAULSc1Ld6MKQ3.jpg", "actors": ["Macarena G\u00f3mez ()", "Pablo Tur\u00e9gano ()"], "comments": [], "recommandations_id": []}

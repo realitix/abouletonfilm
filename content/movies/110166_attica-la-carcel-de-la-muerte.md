@@ -1,1 +1,0 @@
-{"tmdb_id": 110166, "title": "Attica, la c\u00e1rcel de la muerte", "original_title": "Attica, la c\u00e1rcel de la muerte", "slug_title": "attica-la-carcel-de-la-muerte", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

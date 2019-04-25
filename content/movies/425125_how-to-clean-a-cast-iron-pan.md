@@ -1,1 +1,0 @@
-{"tmdb_id": 425125, "title": "How To Clean A Cast Iron Pan", "original_title": "How To Clean A Cast Iron Pan", "slug_title": "how-to-clean-a-cast-iron-pan", "date": "2012-11-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ahmed Khawaja (Himself)"], "comments": [], "recommandations_id": []}

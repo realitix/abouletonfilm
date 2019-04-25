@@ -1,1 +1,0 @@
-{"tmdb_id": 297665, "title": "Deadly Weapons:  Firearms and Firepower", "original_title": "Deadly Weapons:  Firearms and Firepower", "slug_title": "deadly-weapons-firearms-and-firepower", "date": "1985-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

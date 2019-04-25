@@ -1,1 +1,0 @@
-{"tmdb_id": 134466, "title": "Atlantis al Rescate", "original_title": "Atlantis al Rescate", "slug_title": "atlantis-al-rescate", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alexa Castillo ()", "Paco Ib\u00e1\u00f1ez ()", "Atlantis ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 555703, "title": "Perm-36: Reflexion", "original_title": "Perm-36: Reflexion", "slug_title": "perm-36-reflexion", "date": "2016-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

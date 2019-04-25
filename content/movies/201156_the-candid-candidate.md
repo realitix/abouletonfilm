@@ -1,1 +1,0 @@
-{"tmdb_id": 201156, "title": "The Candid Candidate", "original_title": "The Candid Candidate", "slug_title": "the-candid-candidate", "date": "1937-08-27", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4G0t6u6EOPWwfJrjFi56ZWhKD8W.jpg", "actors": [], "comments": [], "recommandations_id": []}

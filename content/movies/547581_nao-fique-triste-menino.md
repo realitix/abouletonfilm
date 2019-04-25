@@ -1,1 +1,0 @@
-{"tmdb_id": 547581, "title": "\u200dN\u00e3o Fique Triste, Menino", "original_title": "\u200dN\u00e3o Fique Triste, Menino", "slug_title": "nao-fique-triste-menino", "date": "2018-02-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

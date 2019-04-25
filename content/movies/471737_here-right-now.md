@@ -1,1 +1,0 @@
-{"tmdb_id": 471737, "title": "Here Right Now", "original_title": "Here Right Now", "slug_title": "here-right-now", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

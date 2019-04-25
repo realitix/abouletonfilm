@@ -1,1 +1,1 @@
-{"tmdb_id": 284237, "title": "The Head", "original_title": "Al-ras", "slug_title": "the-head", "date": "1977-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 284237, "title": "The Head", "original_title": "Al-ras", "slug_title": "the-head", "date": "1977-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Faisal Al-Yassiri.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

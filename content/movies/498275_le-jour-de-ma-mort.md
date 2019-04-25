@@ -1,1 +1,0 @@
-{"tmdb_id": 498275, "title": "Le Jour de ma mort", "original_title": "Le Jour de Ma Mort", "slug_title": "le-jour-de-ma-mort", "date": "2006-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["C\u00e9dric Appietto ()", "Marie Denarnaud ()", "Jean-Emmanuel Pagni ()"], "comments": [], "recommandations_id": []}

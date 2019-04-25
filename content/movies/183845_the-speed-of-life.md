@@ -1,1 +1,0 @@
-{"tmdb_id": 183845, "title": "The Speed Of Life", "original_title": "The Speed Of Life", "slug_title": "the-speed-of-life", "date": "2007-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gUwJlakZvCkNuOaCyjbt7HxeWg4.jpg", "actors": ["Jeremy Allen White (Sammer)"], "comments": [], "recommandations_id": []}

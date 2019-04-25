@@ -1,1 +1,0 @@
-{"tmdb_id": 309546, "title": "Corriganville", "original_title": "Corriganville", "slug_title": "corriganville", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

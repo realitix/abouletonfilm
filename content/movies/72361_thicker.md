@@ -1,1 +1,0 @@
-{"tmdb_id": 72361, "title": "Thicker", "original_title": "Thicker", "slug_title": "thicker", "date": "", "genre": "Com\u00e9die / Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

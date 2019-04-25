@@ -1,1 +1,0 @@
-{"tmdb_id": 521516, "title": "Hacia la gloria", "original_title": "Hacia la gloria", "slug_title": "hacia-la-gloria", "date": "1932-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

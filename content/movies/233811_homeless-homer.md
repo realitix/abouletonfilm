@@ -1,1 +1,0 @@
-{"tmdb_id": 233811, "title": "Homeless Homer", "original_title": "Homeless Homer", "slug_title": "homeless-homer", "date": "1929-01-07", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hg3vSpOyFKHIqewaBNYWar8JAWP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 548471, "title": "Behind the Masks", "original_title": "Behind the Masks", "slug_title": "behind-the-masks", "date": "1973-09-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wScUOxyTT5VKLr8ch1AM9fyAvxT.jpg", "actors": ["Claude L\u00e9vi-Strauss ()"], "comments": [], "recommandations_id": []}

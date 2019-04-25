@@ -1,1 +1,0 @@
-{"tmdb_id": 410643, "title": "Primordial Ties", "original_title": "Primordial Ties", "slug_title": "primordial-ties", "date": "2010-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fzLLWI4MygoM3dGGEtfggyFa7eS.jpg", "actors": ["Stephanie Sobocan (Marjorie)"], "comments": [], "recommandations_id": []}

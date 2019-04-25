@@ -1,1 +1,0 @@
-{"tmdb_id": 467840, "title": "Butterflies Do Not Live Here", "original_title": "Mot\u00fdli tady ne\u017eij\u00ed", "slug_title": "butterflies-do-not-live-here", "date": "1958-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

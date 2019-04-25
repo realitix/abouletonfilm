@@ -1,1 +1,0 @@
-{"tmdb_id": 412419, "title": "Serial Metaphysics", "original_title": "Serial Metaphysics", "slug_title": "serial-metaphysics", "date": "1972-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xXdlQH4TIO756NC1oDyOXAy2rW0.jpg", "actors": [], "comments": [], "recommandations_id": []}

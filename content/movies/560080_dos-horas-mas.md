@@ -1,1 +1,0 @@
-{"tmdb_id": 560080, "title": "Dos horas m\u00e1s", "original_title": "Dos horas m\u00e1s", "slug_title": "dos-horas-mas", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

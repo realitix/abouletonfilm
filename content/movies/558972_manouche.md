@@ -1,1 +1,0 @@
-{"tmdb_id": 558972, "title": "Manouche", "original_title": "Manouche", "slug_title": "manouche", "date": "1944-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3aRFyzSIANhc4YGMPtRtzgMQi54.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 333866, "title": "The Man Who Became Coffee", "original_title": "The Man Who Became Coffee", "slug_title": "the-man-who-became-coffee", "date": "2015-04-03", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicholas Janzen (Man)"], "comments": [], "recommandations_id": []}

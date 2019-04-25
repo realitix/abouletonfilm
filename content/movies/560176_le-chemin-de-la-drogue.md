@@ -1,1 +1,0 @@
-{"tmdb_id": 560176, "title": "Le chemin de la drogue", "original_title": "Le chemin de la drogue", "slug_title": "le-chemin-de-la-drogue", "date": "1953-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

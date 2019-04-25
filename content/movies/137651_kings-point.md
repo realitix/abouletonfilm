@@ -1,1 +1,0 @@
-{"tmdb_id": 137651, "title": "Kings Point", "original_title": "Kings Point", "slug_title": "kings-point", "date": "2012-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g2WqooRzFNuA3tRuTG5hhKRoVOv.jpg", "actors": [], "comments": [], "recommandations_id": []}

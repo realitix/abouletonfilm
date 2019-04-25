@@ -1,1 +1,0 @@
-{"tmdb_id": 279749, "title": "Accidental Meeting", "original_title": "Accidental Meeting", "slug_title": "accidental-meeting", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

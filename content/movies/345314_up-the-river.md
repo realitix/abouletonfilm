@@ -1,1 +1,0 @@
-{"tmdb_id": 345314, "title": "Up the River", "original_title": "Up the River", "slug_title": "up-the-river", "date": "2015-06-19", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hH2tdmhYLgsSyyUvzTtGydncqjp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 425402, "title": "Baglight", "original_title": "Baglight", "slug_title": "baglight", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mOzodJiZoQLLDoFw8sn2ntBLj5x.jpg", "actors": [], "comments": [], "recommandations_id": []}

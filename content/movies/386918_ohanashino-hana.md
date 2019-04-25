@@ -1,1 +1,0 @@
-{"tmdb_id": 386918, "title": "Ohanashino-hana", "original_title": "Ohanashino-hana", "slug_title": "ohanashino-hana", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

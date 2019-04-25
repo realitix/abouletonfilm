@@ -1,1 +1,0 @@
-{"tmdb_id": 519170, "title": "Philippe P\u00e9tain: Processo a Vichy", "original_title": "Philippe P\u00e9tain: Processo a Vichy", "slug_title": "philippe-petain-processo-a-vichy", "date": "1965-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

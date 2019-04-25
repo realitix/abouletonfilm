@@ -1,1 +1,0 @@
-{"tmdb_id": 35266, "title": "Clorophilla", "original_title": "Clorophilla", "slug_title": "clorophilla", "date": "2006-01-01", "genre": "Drame", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/34H5QGXXky0W9JrSJfRc6oRyPx9.jpg", "actors": [], "comments": [], "recommandations_id": []}

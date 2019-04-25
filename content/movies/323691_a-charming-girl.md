@@ -1,1 +1,0 @@
-{"tmdb_id": 323691, "title": "A Charming Girl", "original_title": "Un film cu o fata fermecatoare", "slug_title": "a-charming-girl", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5v8XC8aB2djbHYE9J5souHI8EZ4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 91523, "title": "Nullarbor", "original_title": "Nullarbor", "slug_title": "nullarbor", "date": "2011-02-10", "genre": "Animation / Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5CGdVWNUq9ajQAwCdwFl2N5syKq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 236075, "title": "Land of the Lost Jewels", "original_title": "Land of the Lost Jewels", "slug_title": "land-of-the-lost-jewels", "date": "1950-01-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1pJuosWwxQnVXIp2FuIsnDyuaWS.jpg", "actors": [], "comments": [], "recommandations_id": []}

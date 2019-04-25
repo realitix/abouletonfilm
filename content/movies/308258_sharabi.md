@@ -1,1 +1,0 @@
-{"tmdb_id": 308258, "title": "Sharabi", "original_title": "Sharabi", "slug_title": "sharabi", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 457974, "title": "Smarkus And Company", "original_title": "Smarkus And Company", "slug_title": "smarkus-and-company", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d5Kmqf30L8y7xnpN71KrsePCjGr.jpg", "actors": [], "comments": [], "recommandations_id": []}

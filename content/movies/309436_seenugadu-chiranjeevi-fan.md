@@ -1,1 +1,0 @@
-{"tmdb_id": 309436, "title": "Seenugadu Chiranjeevi Fan", "original_title": "Seenugadu Chiranjeevi Fan", "slug_title": "seenugadu-chiranjeevi-fan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

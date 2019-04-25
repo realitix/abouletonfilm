@@ -1,1 +1,0 @@
-{"tmdb_id": 53449, "title": "U2 - The History Mix", "original_title": "U2 - The History Mix", "slug_title": "u2-the-history-mix", "date": "2002-11-04", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1cidM1OXKcIO2zSrSFEjVt4VyGR.jpg", "actors": [], "comments": [], "recommandations_id": []}

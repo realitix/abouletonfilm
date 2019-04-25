@@ -1,1 +1,0 @@
-{"tmdb_id": 137461, "title": "Dead Homiez", "original_title": "Dead Homiez", "slug_title": "dead-homiez", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bCH6nWuruvQ8olZpsu5nn55pjxL.jpg", "actors": [], "comments": [], "recommandations_id": []}

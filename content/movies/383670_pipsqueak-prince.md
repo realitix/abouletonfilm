@@ -1,1 +1,0 @@
-{"tmdb_id": 383670, "title": "Pipsqueak Prince", "original_title": "Le Trop Petit Prince", "slug_title": "pipsqueak-prince", "date": "2003-10-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cpmqYpTvL8EXdc7M4i2XTJrSKBC.jpg", "actors": [], "comments": [], "recommandations_id": []}

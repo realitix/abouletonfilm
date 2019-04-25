@@ -1,1 +1,0 @@
-{"tmdb_id": 195320, "title": "Admiral Dewey Leading Land Parade", "original_title": "Admiral Dewey Leading Land Parade", "slug_title": "admiral-dewey-leading-land-parade", "date": "1899-10-20", "genre": "", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

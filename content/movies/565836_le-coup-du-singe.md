@@ -1,1 +1,0 @@
-{"tmdb_id": 565836, "title": "Le coup du singe", "original_title": "Le coup du singe", "slug_title": "le-coup-du-singe", "date": "1979-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

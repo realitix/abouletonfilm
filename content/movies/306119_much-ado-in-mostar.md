@@ -1,1 +1,0 @@
-{"tmdb_id": 306119, "title": "Much Ado in Mostar", "original_title": "Much Ado in Mostar", "slug_title": "much-ado-in-mostar", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

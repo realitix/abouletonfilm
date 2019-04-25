@@ -1,1 +1,0 @@
-{"tmdb_id": 368995, "title": "Oondamooroo", "original_title": "Oondamooroo: A Profile of Ernie Dingo", "slug_title": "oondamooroo", "date": "1992-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernie Dingo (Ernie Dingo)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 143697, "title": "In the Beginning: Joseph's Triumph", "original_title": "In the Beginning: Joseph's Triumph", "slug_title": "in-the-beginning-joseph-s-triumph", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

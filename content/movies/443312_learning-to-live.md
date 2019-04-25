@@ -1,1 +1,0 @@
-{"tmdb_id": 443312, "title": "Learning to Live", "original_title": "Learning to Live", "slug_title": "learning-to-live", "date": "1941-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 582445, "title": "I Grew Up in Princeton", "original_title": "I Grew Up in Princeton", "slug_title": "i-grew-up-in-princeton", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lvP5cJT0cBfRuJBq8WVKhksImjY.jpg", "actors": [], "comments": [], "recommandations_id": []}

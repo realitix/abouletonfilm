@@ -1,1 +1,0 @@
-{"tmdb_id": 194255, "title": "Concert", "original_title": "Concert", "slug_title": "concert", "date": "1896-04-18", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rose Lumi\u00e8re (Herself)", "Marguerite Lumi\u00e8re (Herself)", "Jeanne Koehler (Herself)", "Andr\u00e9 Honnorat (Himself)"], "comments": [], "recommandations_id": []}

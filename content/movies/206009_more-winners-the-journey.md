@@ -1,1 +1,0 @@
-{"tmdb_id": 206009, "title": "More Winners: The Journey", "original_title": "More Winners: The Journey", "slug_title": "more-winners-the-journey", "date": "1990-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 310012, "title": "Drive-Thru Records: Vol. 1", "original_title": "Drive-Thru Records: Vol. 1", "slug_title": "drive-thru-records-vol-1", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 408410, "title": "Until The Day I Die: Part 2", "original_title": "Until The Day I Die: Part 2", "slug_title": "until-the-day-i-die-part-2", "date": "2016-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6MyCAlKCURkPdzoCUJYNf44fH73.jpg", "actors": [], "comments": [], "recommandations_id": []}

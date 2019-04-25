@@ -1,1 +1,0 @@
-{"tmdb_id": 328914, "title": "Collision Course", "original_title": "Collision Course", "slug_title": "collision-course", "date": "2013-09-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

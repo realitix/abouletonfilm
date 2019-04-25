@@ -1,1 +1,0 @@
-{"tmdb_id": 508568, "title": "Mode in France", "original_title": "Mode in France", "slug_title": "mode-in-france", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Fd3EuWb8ioOzMII1LJ33KHhaHC.jpg", "actors": [], "comments": [], "recommandations_id": []}

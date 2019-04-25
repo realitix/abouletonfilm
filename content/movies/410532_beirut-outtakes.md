@@ -1,1 +1,0 @@
-{"tmdb_id": 410532, "title": "Beirut Outtakes", "original_title": "Beirut Outtakes", "slug_title": "beirut-outtakes", "date": "2007-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iB2NI39oKPnaC5AsFvtaSwsWpjH.jpg", "actors": [], "comments": [], "recommandations_id": []}

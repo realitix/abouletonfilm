@@ -1,1 +1,0 @@
-{"tmdb_id": 578388, "title": "Hinzelmeier", "original_title": "Hinzelmeier", "slug_title": "hinzelmeier", "date": "1976-02-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Chatel (Hinzelmeier)", "Volker Spengler (Krahirius)", "Peter R\u00fchring (Erz\u00e4hler (voice))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 447776, "title": "Magic Writing", "original_title": "Magick\u00e9 p\u00edsmo", "slug_title": "magic-writing", "date": "1970-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

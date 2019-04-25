@@ -1,1 +1,0 @@
-{"tmdb_id": 463810, "title": "Der Captain Is Examined for Insurance", "original_title": "Der Captain Is Examined for Insurance", "slug_title": "der-captain-is-examined-for-insurance", "date": "1917-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

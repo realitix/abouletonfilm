@@ -1,1 +1,0 @@
-{"tmdb_id": 444116, "title": "Faces of Death VIII", "original_title": "Faces of Death VIII", "slug_title": "faces-of-death-viii", "date": "2006-09-06", "genre": "Horreur / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vdCwDI7D4OFq34HoiTNZFEbX467.jpg", "actors": [], "comments": [], "recommandations_id": []}

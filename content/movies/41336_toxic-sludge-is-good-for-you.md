@@ -1,1 +1,0 @@
-{"tmdb_id": 41336, "title": "Toxic Sludge is Good For You", "original_title": "Toxic Sludge is Good For You", "slug_title": "toxic-sludge-is-good-for-you", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hlBljbxCdK9HyEp71UnQt6tYuIi.jpg", "actors": [], "comments": [], "recommandations_id": []}

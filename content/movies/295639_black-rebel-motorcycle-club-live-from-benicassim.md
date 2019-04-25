@@ -1,1 +1,0 @@
-{"tmdb_id": 295639, "title": "Black Rebel Motorcycle Club: Live From Benicassim", "original_title": "Black Rebel Motorcycle Club: Live From Benicassim", "slug_title": "black-rebel-motorcycle-club-live-from-benicassim", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

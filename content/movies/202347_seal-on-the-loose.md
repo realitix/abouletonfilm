@@ -1,1 +1,0 @@
-{"tmdb_id": 202347, "title": "Seal on the Loose", "original_title": "Seal on the Loose", "slug_title": "seal-on-the-loose", "date": "1970-05-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1csv9feoaq1XPbcSfAiPNwLYwzJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 385077, "title": "Nihon boryokudan-Kumicho", "original_title": "Nihon boryokudan-Kumicho", "slug_title": "nihon-boryokudan-kumicho", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

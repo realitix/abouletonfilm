@@ -1,1 +1,0 @@
-{"tmdb_id": 267741, "title": "Anjal Thurai", "original_title": "Anjal Thurai", "slug_title": "anjal-thurai", "date": "2013-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fkhZ4O8vgifpdDAaP0VsK26LoHw.jpg", "actors": [], "comments": [], "recommandations_id": []}

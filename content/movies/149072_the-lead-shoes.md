@@ -1,1 +1,0 @@
-{"tmdb_id": 149072, "title": "The Lead Shoes", "original_title": "The Lead Shoes", "slug_title": "the-lead-shoes", "date": "1949-12-31", "genre": "", "score": "5.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ztyxHOz8YRJpHlp7TeWjpQnivmg.jpg", "actors": [], "comments": [], "recommandations_id": [102389, 83909, 111161, 164585]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 389475, "title": "Cazadores de Utop\u00edas", "original_title": "Cazadores de Utop\u00edas", "slug_title": "cazadores-de-utopias", "date": "1996-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/spMCIhuf8pTmwBMCoZ7A73DlQ59.jpg", "actors": [], "comments": [], "recommandations_id": []}

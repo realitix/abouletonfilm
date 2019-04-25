@@ -1,1 +1,0 @@
-{"tmdb_id": 448527, "title": "Gravity", "original_title": "Zemsk\u00e1 t\u00ed\u017ee", "slug_title": "gravity", "date": "1984-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

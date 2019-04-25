@@ -1,1 +1,0 @@
-{"tmdb_id": 569512, "title": "Cleaning Woman", "original_title": "Siivooja", "slug_title": "cleaning-woman", "date": "2018-09-27", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elina Knihtil\u00e4 ()", "Tommi Eronen ()", "Pihla Penttinen ()"], "comments": [], "recommandations_id": []}

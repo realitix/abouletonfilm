@@ -1,1 +1,0 @@
-{"tmdb_id": 557209, "title": "Rive gauche", "original_title": "Rive gauche", "slug_title": "rive-gauche", "date": "1931-08-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 457952, "title": "The Benevolent Dictator", "original_title": "The Benevolent Dictator", "slug_title": "the-benevolent-dictator", "date": "2016-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nUClwJcFMxf98lISH9u1UB7WMg4.jpg", "actors": [], "comments": [], "recommandations_id": []}

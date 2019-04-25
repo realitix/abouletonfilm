@@ -1,1 +1,0 @@
-{"tmdb_id": 165208, "title": "A Great Actor", "original_title": "\uc88b\uc740 \ubc30\uc6b0", "slug_title": "a-great-actor", "date": "2005-10-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

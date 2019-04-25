@@ -1,1 +1,0 @@
-{"tmdb_id": 559579, "title": "Mice and Mystics", "original_title": "Mice and Mystics", "slug_title": "mice-and-mystics", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

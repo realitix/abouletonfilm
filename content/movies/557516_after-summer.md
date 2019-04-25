@@ -1,1 +1,0 @@
-{"tmdb_id": 557516, "title": "After Summer", "original_title": "After Summer", "slug_title": "after-summer", "date": "2019-08-09", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fedS3GTebUEFrzKGGiEqAH8yBNd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 123992, "title": "Zooey & Adam", "original_title": "Zooey & Adam", "slug_title": "zooey-adam", "date": "2009-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vAyxRSFRCPb0XyO3n0HnZxPu8NT.jpg", "actors": [], "comments": [], "recommandations_id": []}

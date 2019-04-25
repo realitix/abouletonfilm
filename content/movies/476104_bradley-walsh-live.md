@@ -1,1 +1,0 @@
-{"tmdb_id": 476104, "title": "Bradley Walsh Live", "original_title": "Bradley Walsh Live", "slug_title": "bradley-walsh-live", "date": "2004-09-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3IR482MHX1YLNY9O9KhXTONZUnM.jpg", "actors": ["Bradley Walsh ()"], "comments": [], "recommandations_id": []}

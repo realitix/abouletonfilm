@@ -1,1 +1,0 @@
-{"tmdb_id": 170923, "title": "Quick Billy", "original_title": "Quick Billy", "slug_title": "quick-billy", "date": "1970-03-24", "genre": "Western / Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xuqHGYlHMGUSHku3QOJlzmvhKp7.jpg", "actors": [], "comments": [], "recommandations_id": []}

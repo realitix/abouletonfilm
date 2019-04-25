@@ -1,1 +1,0 @@
-{"tmdb_id": 52121, "title": "The Caravan of Pride", "original_title": "The Caravan of Pride", "slug_title": "the-caravan-of-pride", "date": "", "genre": "Action / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

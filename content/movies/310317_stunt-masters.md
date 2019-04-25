@@ -1,1 +1,0 @@
-{"tmdb_id": 310317, "title": "Stunt Masters", "original_title": "Stunt Masters", "slug_title": "stunt-masters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

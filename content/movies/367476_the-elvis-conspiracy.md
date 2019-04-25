@@ -1,1 +1,0 @@
-{"tmdb_id": 367476, "title": "The Elvis Conspiracy", "original_title": "The Elvis Conspiracy", "slug_title": "the-elvis-conspiracy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

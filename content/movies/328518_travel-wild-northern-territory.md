@@ -1,1 +1,0 @@
-{"tmdb_id": 328518, "title": "Travel Wild Northern Territory", "original_title": "Travel Wild Northern Territory", "slug_title": "travel-wild-northern-territory", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

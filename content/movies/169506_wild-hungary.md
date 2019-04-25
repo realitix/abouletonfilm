@@ -1,1 +1,0 @@
-{"tmdb_id": 169506, "title": "Wild Hungary", "original_title": "Vad Magyarorsz\u00e1g \u2013 A vizek birodalma", "slug_title": "wild-hungary", "date": "2011-04-20", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8dZoxi2YoZSVEufNEpaLv4Ufa1Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

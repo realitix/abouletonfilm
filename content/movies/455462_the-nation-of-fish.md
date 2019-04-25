@@ -1,1 +1,0 @@
-{"tmdb_id": 455462, "title": "The Nation of Fish", "original_title": "Manga: Sakana no kuni", "slug_title": "the-nation-of-fish", "date": "1928-04-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rEkJv7Vw1LF8r4j2U6eJelBZblh.jpg", "actors": [], "comments": [], "recommandations_id": []}

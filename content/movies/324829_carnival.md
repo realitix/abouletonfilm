@@ -1,1 +1,0 @@
-{"tmdb_id": 324829, "title": "Carnival", "original_title": "Carnival", "slug_title": "carnival", "date": "1963-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

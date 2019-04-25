@@ -1,1 +1,0 @@
-{"tmdb_id": 413037, "title": "Astronomers from My Neighborhood", "original_title": "Astr\u00f3nomos de mi barrio: Guillermo Fern\u00e1ndez, Carlos Contreras", "slug_title": "astronomers-from-my-neighborhood", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

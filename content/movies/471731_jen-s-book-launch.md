@@ -1,1 +1,0 @@
-{"tmdb_id": 471731, "title": "Jen's Book Launch", "original_title": "Jen's Book Launch", "slug_title": "jen-s-book-launch", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jen Powley (Herself)"], "comments": [], "recommandations_id": []}

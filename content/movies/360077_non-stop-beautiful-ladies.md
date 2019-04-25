@@ -1,1 +1,0 @@
-{"tmdb_id": 360077, "title": "Non-Stop Beautiful Ladies", "original_title": "Non-Stop Beautiful Ladies", "slug_title": "non-stop-beautiful-ladies", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

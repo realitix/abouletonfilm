@@ -1,1 +1,0 @@
-{"tmdb_id": 412883, "title": "My Seven Places", "original_title": "Mes sept lieux", "slug_title": "my-seven-places", "date": "2014-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yErBuciqShN7qq4TGh3oUceSlZW.jpg", "actors": ["Boris Lehman (Himself)"], "comments": [], "recommandations_id": []}

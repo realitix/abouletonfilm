@@ -1,1 +1,0 @@
-{"tmdb_id": 284261, "title": "Hinamatsuri no yoru", "original_title": "Hinamatsuri no yoru", "slug_title": "hinamatsuri-no-yoru", "date": "1921-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michiko Hayama ()", "Mitsu Kanbe ()", "Tokihiko Okada ()"], "comments": [], "recommandations_id": []}

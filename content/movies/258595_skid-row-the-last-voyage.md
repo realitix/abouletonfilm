@@ -1,1 +1,0 @@
-{"tmdb_id": 258595, "title": "Skid Row: The Last Voyage", "original_title": "Skid Row: The Last Voyage", "slug_title": "skid-row-the-last-voyage", "date": "1989-08-12", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cmerZxqhnuDBQLoXg8NU9uWRE3M.jpg", "actors": [], "comments": [], "recommandations_id": []}

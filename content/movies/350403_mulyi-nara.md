@@ -1,1 +1,0 @@
-{"tmdb_id": 350403, "title": "\ubb3c\uc758 \ub098\ub77c", "original_title": "\ubb3c\uc758 \ub098\ub77c", "slug_title": "mulyi-nara", "date": "1990-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

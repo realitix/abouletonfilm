@@ -1,1 +1,0 @@
-{"tmdb_id": 410285, "title": "Through the Fifth Dimension", "original_title": "Poprzez piaty wymiar", "slug_title": "through-the-fifth-dimension", "date": "1973-05-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bz2du9I5Fou5SLxXyJ95gIWDNwO.jpg", "actors": [], "comments": [], "recommandations_id": []}

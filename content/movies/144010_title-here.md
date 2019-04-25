@@ -1,1 +1,0 @@
-{"tmdb_id": 144010, "title": "Title Here", "original_title": "Title Here", "slug_title": "title-here", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uAXThnGpntJX43YeRlS5e0LjqDP.jpg", "actors": [], "comments": [], "recommandations_id": []}

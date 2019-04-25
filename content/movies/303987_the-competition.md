@@ -1,1 +1,0 @@
-{"tmdb_id": 303987, "title": "The Competition", "original_title": "The Competition", "slug_title": "the-competition", "date": "2013-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ZtQKj4j7uj6DW3FJmDLOQqHPxa.jpg", "actors": [], "comments": [], "recommandations_id": []}

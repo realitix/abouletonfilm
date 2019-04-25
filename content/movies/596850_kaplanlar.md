@@ -1,1 +1,0 @@
-{"tmdb_id": 596850, "title": "Kaplanlar", "original_title": "Kaplanlar", "slug_title": "kaplanlar", "date": "1985-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8NkkCopSHZ0uN2POU8e1w2hc6xS.jpg", "actors": ["C\u00fcneyt Ark\u0131n ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

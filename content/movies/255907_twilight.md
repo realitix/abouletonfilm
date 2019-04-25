@@ -1,1 +1,0 @@
-{"tmdb_id": 255907, "title": "Twilight", "original_title": "Twilight", "slug_title": "twilight", "date": "1994-01-01", "genre": "Aventure / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ktS9sTsOsX3jpbJrlfDnAbNZaLR.jpg", "actors": ["Daiko Ishimaru (Boy)"], "comments": [], "recommandations_id": []}

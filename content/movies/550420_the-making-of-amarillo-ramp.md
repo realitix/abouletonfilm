@@ -1,1 +1,0 @@
-{"tmdb_id": 550420, "title": "The Making of Amarillo Ramp", "original_title": "The Making of Amarillo Ramp", "slug_title": "the-making-of-amarillo-ramp", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/akyctcgA2pkHtNTXlOx4Dpm1EYz.jpg", "actors": [], "comments": [], "recommandations_id": []}

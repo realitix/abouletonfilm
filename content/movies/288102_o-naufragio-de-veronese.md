@@ -1,1 +1,0 @@
-{"tmdb_id": 288102, "title": "O Naufr\u00e1gio de Veronese", "original_title": "O Naufr\u00e1gio de Veronese", "slug_title": "o-naufragio-de-veronese", "date": "1913-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 320404, "title": "Pointer Sisters: So Excited", "original_title": "Pointer Sisters: So Excited", "slug_title": "pointer-sisters-so-excited", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

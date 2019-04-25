@@ -1,1 +1,0 @@
-{"tmdb_id": 521467, "title": "Grasshopper Jungle", "original_title": "Grasshopper Jungle", "slug_title": "grasshopper-jungle", "date": "2017-07-07", "genre": "Animation / Action / Science-Fiction", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xcDYp2h0usp2uQBdSZLlRl1nJRm.jpg", "actors": [], "comments": [], "recommandations_id": []}

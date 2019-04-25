@@ -1,1 +1,0 @@
-{"tmdb_id": 504003, "title": "Transformation", "original_title": "Transformation", "slug_title": "transformation", "date": "2016-04-22", "genre": "Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fyYW4uipnlYYKOuAav44oMtbdrF.jpg", "actors": ["Anthony Maniglia (Id / Ego)"], "comments": [], "recommandations_id": []}

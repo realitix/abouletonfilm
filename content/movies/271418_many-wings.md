@@ -1,1 +1,0 @@
-{"tmdb_id": 271418, "title": "Many Wings", "original_title": "Many Wings", "slug_title": "many-wings", "date": "1927-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

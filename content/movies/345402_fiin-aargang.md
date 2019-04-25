@@ -1,1 +1,0 @@
-{"tmdb_id": 345402, "title": "Fiin aargang", "original_title": "Fiin aargang", "slug_title": "fiin-aargang", "date": "2008-06-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Bredal ()", "Gerdi Schjelderup ()", "Espen Skj\u00f8nberg ()"], "comments": [], "recommandations_id": []}

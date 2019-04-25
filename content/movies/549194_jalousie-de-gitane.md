@@ -1,1 +1,0 @@
-{"tmdb_id": 549194, "title": "Jalousie de gitane", "original_title": "Jalousie de gitane", "slug_title": "jalousie-de-gitane", "date": "1910-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

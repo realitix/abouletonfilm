@@ -1,1 +1,0 @@
-{"tmdb_id": 473700, "title": "The Devil\u2019s Bride: A Mill Legend", "original_title": "Die Teufelsbraut", "slug_title": "the-devils-bride-a-mill-legend", "date": "1990-05-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3AXk4OPKMF9snanFfEaCrPyUwNL.jpg", "actors": [], "comments": [], "recommandations_id": []}

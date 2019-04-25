@@ -1,1 +1,0 @@
-{"tmdb_id": 277078, "title": "Pingu: Breaks The Ice", "original_title": "Pingu: Breaks The Ice", "slug_title": "pingu-breaks-the-ice", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 413411, "title": "Notes and Sketches I (2005-15)", "original_title": "Notes and Sketches I (2005-15)", "slug_title": "notes-and-sketches-i-2005-15", "date": "2016-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

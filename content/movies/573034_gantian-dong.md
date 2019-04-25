@@ -1,1 +1,0 @@
-{"tmdb_id": 573034, "title": "Gantian Dong", "original_title": "Gantian Dong", "slug_title": "gantian-dong", "date": "1985-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qnXUJBEwaT9PHDgWqGpLy86ShOQ.jpg", "actors": ["Dono ()", "Kasino ()", "Indro ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 94626, "title": "Ceylan - Halb Get\u00fcrkt", "original_title": "Ceylan - Halb Get\u00fcrkt", "slug_title": "ceylan-halb-geturkt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

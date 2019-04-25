@@ -1,1 +1,0 @@
-{"tmdb_id": 55088, "title": "JFK's Women: The Scandals Revealed", "original_title": "JFK's Women: The Scandals Revealed", "slug_title": "jfk-s-women-the-scandals-revealed", "date": "2006-12-12", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

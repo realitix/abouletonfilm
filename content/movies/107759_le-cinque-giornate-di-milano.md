@@ -1,1 +1,0 @@
-{"tmdb_id": 107759, "title": "Le cinque giornate di Milano", "original_title": "Le cinque giornate di Milano", "slug_title": "le-cinque-giornate-di-milano", "date": "2004-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8sIS71w2KfoxbrJqgAieQHkGOaF.jpg", "actors": [], "comments": [], "recommandations_id": []}

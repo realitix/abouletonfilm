@@ -1,1 +1,0 @@
-{"tmdb_id": 387453, "title": "Attenti alla vernice!", "original_title": "Attenti alla vernice!", "slug_title": "attenti-alla-vernice", "date": "1913-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

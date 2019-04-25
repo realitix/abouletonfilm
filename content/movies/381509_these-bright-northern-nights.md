@@ -1,1 +1,0 @@
-{"tmdb_id": 381509, "title": "These Bright Northern Nights", "original_title": "S\u00f8ring nordover", "slug_title": "these-bright-northern-nights", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/60BGdV0WbxIh1kU8A0zYdRDYw2s.jpg", "actors": [], "comments": [], "recommandations_id": []}

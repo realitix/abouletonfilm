@@ -1,1 +1,0 @@
-{"tmdb_id": 457428, "title": "Wednesdays", "original_title": "Woensdagen", "slug_title": "wednesdays", "date": "2011-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eNKfVIBJGcqGJz9uBYNgMz7uhcB.jpg", "actors": [], "comments": [], "recommandations_id": []}

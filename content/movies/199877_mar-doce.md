@@ -1,1 +1,0 @@
-{"tmdb_id": 199877, "title": "Mar Doce", "original_title": "Mar Doce", "slug_title": "mar-doce", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

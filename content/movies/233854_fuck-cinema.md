@@ -1,1 +1,0 @@
-{"tmdb_id": 233854, "title": "Fuck Cinema", "original_title": "\u64cd\u4ed6\u5988\u7684\u7535\u5f71", "slug_title": "fuck-cinema", "date": "2004-12-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

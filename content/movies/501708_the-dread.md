@@ -1,1 +1,0 @@
-{"tmdb_id": 501708, "title": "The Dread", "original_title": "El Espanto", "slug_title": "the-dread", "date": "2017-12-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/umFK7WnxetdNYnUyERJk4c9wMfW.jpg", "actors": [], "comments": [], "recommandations_id": []}

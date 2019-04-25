@@ -1,1 +1,0 @@
-{"tmdb_id": 452002, "title": "Elly baly balak", "original_title": "Elly baly balak", "slug_title": "elly-baly-balak", "date": "", "genre": "", "score": "6.2/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mohammad Saad ()"], "comments": [], "recommandations_id": [455657, 452162, 415488, 330493]}

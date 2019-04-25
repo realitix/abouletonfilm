@@ -1,1 +1,0 @@
-{"tmdb_id": 564322, "title": "Ciel bleu", "original_title": "Ciel bleu", "slug_title": "ciel-bleu", "date": "1971-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fr\u00e9d\u00e9ric de Pasquale ()", "Alexandra Stewart ()"], "comments": [], "recommandations_id": []}

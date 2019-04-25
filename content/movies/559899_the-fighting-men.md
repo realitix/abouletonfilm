@@ -1,1 +1,0 @@
-{"tmdb_id": 559899, "title": "The Fighting Men", "original_title": "Gli inesorabili", "slug_title": "the-fighting-men", "date": "1950-11-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/26niT8Zojyr2TyTaoM2Cy4V1oMI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 431090, "title": "J. Edgar Hoover", "original_title": "J. Edgar Hoover", "slug_title": "j-edgar-hoover", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Treat Williams (Colonel Nathan Fitzgerald)"], "comments": [], "recommandations_id": []}

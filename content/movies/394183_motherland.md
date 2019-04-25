@@ -1,1 +1,0 @@
-{"tmdb_id": 394183, "title": "Motherland", "original_title": "Motherland", "slug_title": "motherland", "date": "1994-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

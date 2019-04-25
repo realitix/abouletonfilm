@@ -1,1 +1,0 @@
-{"tmdb_id": 564458, "title": "Tarzan aur Jadugar", "original_title": "Tarzan aur Jadugar", "slug_title": "tarzan-aur-jadugar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

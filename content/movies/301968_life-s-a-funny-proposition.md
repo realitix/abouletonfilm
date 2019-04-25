@@ -1,1 +1,0 @@
-{"tmdb_id": 301968, "title": "Life's a Funny Proposition", "original_title": "Life's a Funny Proposition", "slug_title": "life-s-a-funny-proposition", "date": "1919-01-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

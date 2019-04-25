@@ -1,1 +1,0 @@
-{"tmdb_id": 563745, "title": "The Last One", "original_title": "Sonuncu", "slug_title": "the-last-one", "date": "2014-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Idris Rustamov (Old Man)", "Corc Qafarov (Boy)"], "comments": [], "recommandations_id": []}

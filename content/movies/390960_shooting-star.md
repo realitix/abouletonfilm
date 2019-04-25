@@ -1,1 +1,0 @@
-{"tmdb_id": 390960, "title": "Shooting Star", "original_title": "Shooting Star", "slug_title": "shooting-star", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

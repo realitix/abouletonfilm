@@ -1,1 +1,0 @@
-{"tmdb_id": 403561, "title": "The Deerslayer", "original_title": "The Deerslayer", "slug_title": "the-deerslayer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

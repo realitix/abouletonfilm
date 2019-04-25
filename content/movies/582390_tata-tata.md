@@ -1,1 +1,1 @@
-{"tmdb_id": 582390, "title": "TATA TATA", "original_title": "TATA TATA", "slug_title": "tata-tata", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 582390, "title": "TATA TATA", "original_title": "TATA TATA", "slug_title": "tata-tata", "date": "", "genre": [""], "score": "10.0/10", "synopsis": "alone for ever", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

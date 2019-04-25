@@ -1,1 +1,0 @@
-{"tmdb_id": 246937, "title": "Black Bike Week", "original_title": "Black Bike Week", "slug_title": "black-bike-week", "date": "2013-12-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9b72VGL0pcXx3ExyYBTEwveNODT.jpg", "actors": [], "comments": [], "recommandations_id": []}

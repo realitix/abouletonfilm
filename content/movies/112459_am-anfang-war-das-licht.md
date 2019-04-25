@@ -1,1 +1,0 @@
-{"tmdb_id": 112459, "title": "Am Anfang war das Licht", "original_title": "Am Anfang war das Licht", "slug_title": "am-anfang-war-das-licht", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alina Manoukian (Eva)", "Sebastian Schwarz (Customer)", "Wanja Mues (Adam)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 316017, "title": "L\u00f6paren", "original_title": "L\u00f6paren", "slug_title": "loparen", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 446169, "title": "Les Vacances", "original_title": "Les Vacances", "slug_title": "les-vacances", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

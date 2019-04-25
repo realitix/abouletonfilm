@@ -1,1 +1,0 @@
-{"tmdb_id": 512262, "title": "Steve Smith - Drum Legacy", "original_title": "Steve Smith - Drum Legacy", "slug_title": "steve-smith-drum-legacy", "date": "2008-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a3jfQyz0cXuclrtGNtxi0Xjzu2U.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 570579, "title": "Captain Bal", "original_title": "\u30ad\u30e3\u30d7\u30c6\u30f3\u30fb\u30d0\u30eb", "slug_title": "captain-bal", "date": "2019-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fdwLVGd3DpkUUZoilH1wASqKoVf.jpg", "actors": [], "comments": [], "recommandations_id": []}

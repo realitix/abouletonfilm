@@ -1,1 +1,0 @@
-{"tmdb_id": 315401, "title": "Top Stripper", "original_title": "(\u672c)\u5642\u306e\u30b9\u30c8\u30ea\u30c3\u30d1\u30fc", "slug_title": "top-stripper", "date": "1982-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e8F7Gf1wTPQO4iMCdBat0DPYnfS.jpg", "actors": [], "comments": [], "recommandations_id": []}

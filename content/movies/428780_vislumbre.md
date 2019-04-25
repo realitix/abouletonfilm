@@ -1,1 +1,0 @@
-{"tmdb_id": 428780, "title": "Vislumbre", "original_title": "Vislumbre", "slug_title": "vislumbre", "date": "2016-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

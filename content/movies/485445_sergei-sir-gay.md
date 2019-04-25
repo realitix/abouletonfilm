@@ -1,1 +1,0 @@
-{"tmdb_id": 485445, "title": "Sergei/Sir Gay", "original_title": "Sergei/Sir Gay", "slug_title": "sergei-sir-gay", "date": "2017-01-27", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ab3zPbNUctOn1HeucSEkD5jxjQc.jpg", "actors": ["Sergei Eisenstein ()", "Mihailo Stanisavac ()"], "comments": [], "recommandations_id": []}

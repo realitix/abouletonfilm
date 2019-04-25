@@ -1,1 +1,0 @@
-{"tmdb_id": 137789, "title": "Jovem Guarda 40 Anos", "original_title": "Jovem Guarda 40 Anos", "slug_title": "jovem-guarda-40-anos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r9fHAPIHuyOXnspaIyg0rO3DQLJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

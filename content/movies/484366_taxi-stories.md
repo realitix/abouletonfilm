@@ -1,1 +1,0 @@
-{"tmdb_id": 484366, "title": "Taxi Stories", "original_title": "Taxi Stories", "slug_title": "taxi-stories", "date": "2017-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ApFYUvatCD55yCZgWQR4aoeyNFb.jpg", "actors": [], "comments": [], "recommandations_id": []}

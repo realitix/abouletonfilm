@@ -1,1 +1,0 @@
-{"tmdb_id": 596298, "title": "Monster Dios", "original_title": "Monstruo Dios", "slug_title": "monster-dios", "date": "2019-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

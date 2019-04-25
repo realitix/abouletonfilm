@@ -1,1 +1,0 @@
-{"tmdb_id": 249126, "title": "Architecture And Power", "original_title": "Arhitectura si putere", "slug_title": "architecture-and-power", "date": "1993-01-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j612sZhTvfShOpFGwXjczUu8m8Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

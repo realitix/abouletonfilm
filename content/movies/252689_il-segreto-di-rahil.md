@@ -1,1 +1,0 @@
-{"tmdb_id": 252689, "title": "Il segreto di Rahil", "original_title": "Il segreto di Rahil", "slug_title": "il-segreto-di-rahil", "date": "2007-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

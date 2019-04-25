@@ -1,1 +1,0 @@
-{"tmdb_id": 318416, "title": "Ian Parker: Whilst the Wind: Live", "original_title": "Ian Parker: Whilst the Wind: Live", "slug_title": "ian-parker-whilst-the-wind-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

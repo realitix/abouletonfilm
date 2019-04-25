@@ -1,1 +1,0 @@
-{"tmdb_id": 574561, "title": "Ring Roasts 2: Terry Funk", "original_title": "Ring Roasts 2: Terry Funk", "slug_title": "ring-roasts-2-terry-funk", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Terry Funk (Himself)", "Mick Foley (Himself)"], "comments": [], "recommandations_id": []}

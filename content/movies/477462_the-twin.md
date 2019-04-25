@@ -1,1 +1,0 @@
-{"tmdb_id": 477462, "title": "The Twin", "original_title": "The Twin", "slug_title": "the-twin", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

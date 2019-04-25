@@ -1,1 +1,0 @@
-{"tmdb_id": 392065, "title": "Buddy Holly: The Definitive Story", "original_title": "Buddy Holly: The Definitive Story", "slug_title": "buddy-holly-the-definitive-story", "date": "2009-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

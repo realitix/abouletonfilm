@@ -1,1 +1,0 @@
-{"tmdb_id": 569277, "title": "Ek Inquilab Aur Aaya", "original_title": "Ek Inquilab Aur Aaya", "slug_title": "ek-inquilab-aur-aaya", "date": "2018-02-06", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k0FbDRYKk10bqY02PDEAu9LOvtM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 504920, "title": "Regret Regrets", "original_title": "Regret Regrets", "slug_title": "regret-regrets", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

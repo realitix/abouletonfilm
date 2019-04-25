@@ -1,1 +1,0 @@
-{"tmdb_id": 447783, "title": "Blood on the Wall", "original_title": "Blood on the Wall", "slug_title": "blood-on-the-wall", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

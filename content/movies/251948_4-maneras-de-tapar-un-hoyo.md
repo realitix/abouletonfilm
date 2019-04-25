@@ -1,1 +1,0 @@
-{"tmdb_id": 251948, "title": "4 maneras de tapar un hoyo", "original_title": "4 maneras de tapar un hoyo", "slug_title": "4-maneras-de-tapar-un-hoyo", "date": "1996-05-22", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s9woUCmHLR3adgHTWVuZIJoT770.jpg", "actors": [], "comments": [], "recommandations_id": []}

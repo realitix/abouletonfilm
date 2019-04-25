@@ -1,1 +1,0 @@
-{"tmdb_id": 593164, "title": "Godard/ Tarantino", "original_title": "Godard/ Tarantino", "slug_title": "godard-tarantino", "date": "2019-01-14", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3BWN580ikrfF7MnSBh8aL05clun.jpg", "actors": ["Anna Karina ()", "Uma Thurman ()"], "comments": [], "recommandations_id": []}

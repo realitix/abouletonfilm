@@ -1,1 +1,0 @@
-{"tmdb_id": 513269, "title": "The Heroin Effect", "original_title": "The Heroin Effect", "slug_title": "the-heroin-effect", "date": "2018-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o8OSZwjhc3yOe4RkLS8RxIRBtxi.jpg", "actors": [], "comments": [], "recommandations_id": []}

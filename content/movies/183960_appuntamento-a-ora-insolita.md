@@ -1,1 +1,0 @@
-{"tmdb_id": 183960, "title": "Appuntamento a ora insolita", "original_title": "Appuntamento a ora insolita", "slug_title": "appuntamento-a-ora-insolita", "date": "2008-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7qLSHN3wGMUoywAp2PO4Lg9XHkX.jpg", "actors": [], "comments": [], "recommandations_id": []}

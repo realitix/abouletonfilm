@@ -1,1 +1,0 @@
-{"tmdb_id": 272040, "title": "Ouagadougou, ouaga deux roues", "original_title": "Ouagadougou, ouaga deux roues", "slug_title": "ouagadougou-ouaga-deux-roues", "date": "1984-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

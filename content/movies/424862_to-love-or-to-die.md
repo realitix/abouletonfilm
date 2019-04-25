@@ -1,1 +1,0 @@
-{"tmdb_id": 424862, "title": "To Love or To Die", "original_title": "To Love or To Die", "slug_title": "to-love-or-to-die", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b7j6u7uGHM7CGew1jNRGDbqyD98.jpg", "actors": [], "comments": [], "recommandations_id": []}

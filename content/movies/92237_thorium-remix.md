@@ -1,1 +1,0 @@
-{"tmdb_id": 92237, "title": "Thorium Remix", "original_title": "Thorium Remix", "slug_title": "thorium-remix", "date": "2011-10-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m1ZHBhAcLTGuJHFleLNflqxCbBz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 568858, "title": "Afghanistan: The Great Game", "original_title": "Afghanistan: The Great Game", "slug_title": "afghanistan-the-great-game", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rory Stewart (Himself/Narrator)"], "comments": [], "recommandations_id": []}

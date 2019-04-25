@@ -1,1 +1,0 @@
-{"tmdb_id": 491346, "title": "Cupid Goes Nuts", "original_title": "Cupid Goes Nuts", "slug_title": "cupid-goes-nuts", "date": "1947-05-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barbara Jo Allen (Vera Vague / Prudy Vague (as Vera Vague))"], "comments": [], "recommandations_id": []}

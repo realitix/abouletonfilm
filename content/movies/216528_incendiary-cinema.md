@@ -1,1 +1,0 @@
-{"tmdb_id": 216528, "title": "Incendiary Cinema", "original_title": "Incendiary Cinema", "slug_title": "incendiary-cinema", "date": "2005-10-23", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h4CyhRo1HugzQlki6OUyqLlcKXC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 513000, "title": "\u00d3pera Cabocla", "original_title": "\u00d3pera Cabocla", "slug_title": "opera-cabocla", "date": "2013-05-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v43G7uwoeL4QyqeiPbHtiorqQlI.jpg", "actors": [], "comments": [], "recommandations_id": []}

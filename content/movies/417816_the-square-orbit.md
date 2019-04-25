@@ -1,1 +1,0 @@
-{"tmdb_id": 417816, "title": "The Square Orbit", "original_title": "The Square Orbit", "slug_title": "the-square-orbit", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sophie C. Hopkins ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 357611, "title": "Showreel", "original_title": "Showreel", "slug_title": "showreel", "date": "2012-10-24", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonathan Broke ()", "Jeany Spark (Grace)", "Sarah Stone ()", "Patrick Ryecart (Gilbert)"], "comments": [], "recommandations_id": []}

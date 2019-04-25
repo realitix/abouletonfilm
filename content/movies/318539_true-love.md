@@ -1,1 +1,0 @@
-{"tmdb_id": 318539, "title": "True Love", "original_title": "True Love", "slug_title": "true-love", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

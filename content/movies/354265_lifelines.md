@@ -1,1 +1,0 @@
-{"tmdb_id": 354265, "title": "Lifelines", "original_title": "Lifelines", "slug_title": "lifelines", "date": "1960-08-13", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qXwClNTD9tWWjv4o1RbX6SOlxPu.jpg", "actors": ["Barbara Kersey ()"], "comments": [], "recommandations_id": []}

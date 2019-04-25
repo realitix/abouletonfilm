@@ -1,1 +1,0 @@
-{"tmdb_id": 571447, "title": "Blutjunge Puppen", "original_title": "Blutjunge Puppen", "slug_title": "blutjunge-puppen", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Show ()", "Charls Dupont ()", "Ela Star ()"], "comments": [], "recommandations_id": []}

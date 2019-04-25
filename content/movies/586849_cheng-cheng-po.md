@@ -1,1 +1,0 @@
-{"tmdb_id": 586849, "title": "Cheng Cheng Po", "original_title": "Cheng Cheng Po", "slug_title": "cheng-cheng-po", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/erxyBc6KoEfuguXbooWjFmjlLUX.jpg", "actors": [], "comments": [], "recommandations_id": []}

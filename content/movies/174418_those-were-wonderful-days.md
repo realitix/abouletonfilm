@@ -1,1 +1,0 @@
-{"tmdb_id": 174418, "title": "Those Were Wonderful Days", "original_title": "Those Were Wonderful Days", "slug_title": "those-were-wonderful-days", "date": "1934-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gL1GPYBsRSKwVLDPY6n1nX3mKmo.jpg", "actors": [], "comments": [], "recommandations_id": []}

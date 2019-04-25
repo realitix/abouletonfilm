@@ -1,1 +1,0 @@
-{"tmdb_id": 50494, "title": "The Slayers of Ashland", "original_title": "The Slayers of Ashland", "slug_title": "the-slayers-of-ashland", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

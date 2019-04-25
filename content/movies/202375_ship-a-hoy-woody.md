@@ -1,1 +1,0 @@
-{"tmdb_id": 202375, "title": "Ship a-Hoy Woody", "original_title": "Ship a-Hoy Woody", "slug_title": "ship-a-hoy-woody", "date": "1969-08-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uG4juq5JQ6QkC13OKOJIKshuDl9.jpg", "actors": [], "comments": [], "recommandations_id": []}

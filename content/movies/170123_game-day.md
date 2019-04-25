@@ -1,1 +1,0 @@
-{"tmdb_id": 170123, "title": "Game Day", "original_title": "Game Day", "slug_title": "game-day", "date": "2007-08-21", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 285561, "title": "La citt\u00e0 del sole", "original_title": "La citt\u00e0 del sole", "slug_title": "la-citta-del-sole", "date": "1973-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Giulio Brogi ()", "Umberto Spadaro ()"], "comments": [], "recommandations_id": []}

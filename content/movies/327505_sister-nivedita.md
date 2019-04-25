@@ -1,1 +1,0 @@
-{"tmdb_id": 327505, "title": "Sister Nivedita", "original_title": "Bhagini Nivedita", "slug_title": "sister-nivedita", "date": "1962-01-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6CrtJZJWPcw7A2jzjf449ChXcR7.jpg", "actors": [], "comments": [], "recommandations_id": []}

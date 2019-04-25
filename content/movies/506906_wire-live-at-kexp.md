@@ -1,1 +1,0 @@
-{"tmdb_id": 506906, "title": "Wire: Live at KEXP", "original_title": "Wire: Live at KEXP", "slug_title": "wire-live-at-kexp", "date": "2013-11-13", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6xjsQYbV6dwc9qDzRNu6n0SPbWh.jpg", "actors": ["Colin Newman (Self)"], "comments": [], "recommandations_id": []}

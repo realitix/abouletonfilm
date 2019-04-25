@@ -1,1 +1,0 @@
-{"tmdb_id": 428351, "title": "Der erste Patient", "original_title": "Der erste Patient", "slug_title": "der-erste-patient", "date": "1915-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Johanna Ewald (K\u00f6chin)", "Ernst Lubitsch (Doktor)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 332917, "title": "Fireman Sam - Ready for Action", "original_title": "Fireman Sam - Ready for Action", "slug_title": "fireman-sam-ready-for-action", "date": "2011-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g07CJnQrgMHLP29rfaeH2pJIoHH.jpg", "actors": [], "comments": [], "recommandations_id": []}

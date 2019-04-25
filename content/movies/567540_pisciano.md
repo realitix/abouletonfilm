@@ -1,1 +1,0 @@
-{"tmdb_id": 567540, "title": "Pisciano", "original_title": "Pisciano", "slug_title": "pisciano", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vRf120ROHy70t8cycLUCtDh3Ux5.jpg", "actors": ["Alexandre Pitanga ()"], "comments": [], "recommandations_id": []}

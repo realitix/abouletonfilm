@@ -1,1 +1,0 @@
-{"tmdb_id": 565062, "title": "Infinite Flesh", "original_title": "Carne Infinita", "slug_title": "infinite-flesh", "date": "2018-11-23", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pfSIFNoIrGHEEFluVNbfWEM9YWG.jpg", "actors": ["Ingrid Cairo ()"], "comments": [], "recommandations_id": []}

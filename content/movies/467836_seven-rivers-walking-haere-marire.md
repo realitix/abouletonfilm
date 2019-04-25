@@ -1,1 +1,0 @@
-{"tmdb_id": 467836, "title": "Seven Rivers Walking - Haere M\u0101rire", "original_title": "Seven Rivers Walking - Haere M\u0101rire", "slug_title": "seven-rivers-walking-haere-marire", "date": "2017-08-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

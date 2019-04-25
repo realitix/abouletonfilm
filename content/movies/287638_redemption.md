@@ -1,1 +1,0 @@
-{"tmdb_id": 287638, "title": "Redemption", "original_title": "Redemption", "slug_title": "redemption", "date": "2012-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 513070, "title": "Uber Menschen", "original_title": "Uber Menschen", "slug_title": "uber-menschen", "date": "2018-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Colby Keller (Mariano)", "Calvin Banks (Arturo)"], "comments": [], "recommandations_id": []}

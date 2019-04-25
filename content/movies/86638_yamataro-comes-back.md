@@ -1,1 +1,0 @@
-{"tmdb_id": 86638, "title": "Yamataro Comes Back", "original_title": "Yamatarou Kaeru", "slug_title": "yamataro-comes-back", "date": "1986-08-15", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ArjIhehmYfxZ6LF3edpGLdUibk.jpg", "actors": [], "comments": [], "recommandations_id": []}

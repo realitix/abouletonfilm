@@ -1,1 +1,0 @@
-{"tmdb_id": 393266, "title": "Porzingod", "original_title": "Porzingod", "slug_title": "porzingod", "date": "2016-04-21", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oIP7ZJ39w2m7Or7L2O5BdMw657p.jpg", "actors": ["John Leguizamo ()", "Adam Mucci ()"], "comments": [], "recommandations_id": []}

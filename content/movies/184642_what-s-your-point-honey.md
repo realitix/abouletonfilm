@@ -1,1 +1,0 @@
-{"tmdb_id": 184642, "title": "What's Your Point Honey", "original_title": "What's Your Point Honey", "slug_title": "what-s-your-point-honey", "date": "2008-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

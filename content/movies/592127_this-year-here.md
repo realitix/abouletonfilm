@@ -1,1 +1,0 @@
-{"tmdb_id": 592127, "title": "this year, here", "original_title": "this year, here", "slug_title": "this-year-here", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

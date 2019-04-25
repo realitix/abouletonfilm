@@ -1,1 +1,0 @@
-{"tmdb_id": 191964, "title": "Auf einsamer Insel", "original_title": "Auf einsamer Insel", "slug_title": "auf-einsamer-insel", "date": "1913-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

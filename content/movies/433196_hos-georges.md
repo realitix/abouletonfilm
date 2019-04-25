@@ -1,1 +1,0 @@
-{"tmdb_id": 433196, "title": "Hos Georges", "original_title": "Hos Georges", "slug_title": "hos-georges", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iteJxY8hI2d7RmYRJ64cDix6psb.jpg", "actors": [], "comments": [], "recommandations_id": []}

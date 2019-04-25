@@ -1,1 +1,0 @@
-{"tmdb_id": 304269, "title": "Jeet Hamaari", "original_title": "Jeet Hamaari", "slug_title": "jeet-hamaari", "date": "1983-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g7IoEDrHQjRHtztGeXDoBjuxL5a.jpg", "actors": ["Rajinikanth (Raju)", "Rakesh Roshan (Anand)"], "comments": [], "recommandations_id": []}

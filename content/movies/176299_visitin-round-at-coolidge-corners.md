@@ -1,1 +1,0 @@
-{"tmdb_id": 176299, "title": "Visitin' 'round at Coolidge Corners", "original_title": "Visitin' 'round at Coolidge Corners", "slug_title": "visitin-round-at-coolidge-corners", "date": "1924-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Calvin Coolidge ()"], "comments": [], "recommandations_id": []}

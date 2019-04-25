@@ -1,1 +1,0 @@
-{"tmdb_id": 550381, "title": "92,8 MHz - dr\u00f6mmar i s\u00f6der", "original_title": "92,8 MHz - dr\u00f6mmar i s\u00f6der", "slug_title": "928-mhz-drommar-i-soder", "date": "2000-02-18", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Evert Anderson ()", "Magnus Borgstr\u00f6m ()"], "comments": [], "recommandations_id": []}

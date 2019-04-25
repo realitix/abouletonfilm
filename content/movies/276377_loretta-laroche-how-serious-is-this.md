@@ -1,1 +1,0 @@
-{"tmdb_id": 276377, "title": "Loretta LaRoche: How Serious Is This?", "original_title": "Loretta LaRoche: How Serious Is This?", "slug_title": "loretta-laroche-how-serious-is-this", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

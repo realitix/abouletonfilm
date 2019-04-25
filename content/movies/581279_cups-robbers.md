@@ -1,1 +1,0 @@
-{"tmdb_id": 581279, "title": "Cups & Robbers", "original_title": "Cups & Robbers", "slug_title": "cups-robbers", "date": "2017-01-01", "genre": "Com\u00e9die / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dGxvnuQ8YExD2hC4yQF9bKCq3dO.jpg", "actors": [], "comments": [], "recommandations_id": []}

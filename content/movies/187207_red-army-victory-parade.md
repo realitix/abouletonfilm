@@ -1,1 +1,0 @@
-{"tmdb_id": 187207, "title": "Red Army Victory Parade", "original_title": "Red Army Victory Parade", "slug_title": "red-army-victory-parade", "date": "1945-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cZIRaWrWzifxollj2k6VP9GYdAX.jpg", "actors": [], "comments": [], "recommandations_id": []}

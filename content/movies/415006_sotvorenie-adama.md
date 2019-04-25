@@ -1,1 +1,0 @@
-{"tmdb_id": 415006, "title": "Sotvorenie Adama", "original_title": "Sotvorenie Adama", "slug_title": "sotvorenie-adama", "date": "1994-01-01", "genre": "Romance / Drame / Fantastique / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sergey Vinogradov ()"], "comments": [], "recommandations_id": []}

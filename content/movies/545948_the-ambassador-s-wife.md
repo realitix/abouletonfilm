@@ -1,1 +1,0 @@
-{"tmdb_id": 545948, "title": "The Ambassador's Wife", "original_title": "The Ambassador's Wife", "slug_title": "the-ambassador-s-wife", "date": "2018-09-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1WBc2VJ1dZcEeQZRmnnkGt6qIJz.jpg", "actors": [], "comments": [], "recommandations_id": []}

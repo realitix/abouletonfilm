@@ -1,1 +1,0 @@
-{"tmdb_id": 313453, "title": "The Mission: Wave Upon the Sand & Crusade", "original_title": "The Mission: Wave Upon the Sand & Crusade", "slug_title": "the-mission-wave-upon-the-sand-crusade", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

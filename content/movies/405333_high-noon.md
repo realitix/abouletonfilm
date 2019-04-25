@@ -1,1 +1,0 @@
-{"tmdb_id": 405333, "title": "High Noon", "original_title": "High Noon", "slug_title": "high-noon", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9SiZJ8uzBttAP2sBfAIm06JnHeq.jpg", "actors": [], "comments": [], "recommandations_id": []}

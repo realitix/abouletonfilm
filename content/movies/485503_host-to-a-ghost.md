@@ -1,1 +1,0 @@
-{"tmdb_id": 485503, "title": "Host to a Ghost", "original_title": "Host to a Ghost", "slug_title": "host-to-a-ghost", "date": "1941-08-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy)"], "comments": [], "recommandations_id": []}

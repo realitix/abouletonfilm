@@ -1,1 +1,0 @@
-{"tmdb_id": 426355, "title": "Beastie Boys $2Bill", "original_title": "Beastie Boys $2Bill", "slug_title": "beastie-boys-2bill", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

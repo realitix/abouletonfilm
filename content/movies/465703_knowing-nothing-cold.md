@@ -1,1 +1,0 @@
-{"tmdb_id": 465703, "title": "Knowing Nothing Cold", "original_title": "Knowing Nothing Cold", "slug_title": "knowing-nothing-cold", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

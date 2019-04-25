@@ -1,1 +1,0 @@
-{"tmdb_id": 429891, "title": "Serpentine Dance, Annabelle", "original_title": "Serpentine Dance, Annabelle", "slug_title": "serpentine-dance-annabelle", "date": "1897-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Annabelle Moore (Herself)"], "comments": [], "recommandations_id": []}

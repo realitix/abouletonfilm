@@ -1,1 +1,0 @@
-{"tmdb_id": 444553, "title": "The Case of Tommy Tucker", "original_title": "The Case of Tommy Tucker", "slug_title": "the-case-of-tommy-tucker", "date": "1950-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kzC9f6s5oX0zPyl3ZlVOmlCkjvt.jpg", "actors": [], "comments": [], "recommandations_id": []}

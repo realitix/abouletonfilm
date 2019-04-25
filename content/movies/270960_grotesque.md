@@ -1,1 +1,0 @@
-{"tmdb_id": 270960, "title": "Grotesque", "original_title": "Groteszk", "slug_title": "grotesque", "date": "1963-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

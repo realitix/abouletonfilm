@@ -1,1 +1,0 @@
-{"tmdb_id": 589178, "title": "Aggression", "original_title": "Aggression", "slug_title": "aggression", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hDh7cVSWdioPEPE2OPgjoLZBGfo.jpg", "actors": [], "comments": [], "recommandations_id": []}

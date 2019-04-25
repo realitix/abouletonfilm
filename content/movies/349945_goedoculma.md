@@ -1,1 +1,0 @@
-{"tmdb_id": 349945, "title": "\uad34\ub3c4\ucd9c\ub9c8", "original_title": "\uad34\ub3c4\ucd9c\ub9c8", "slug_title": "goedoculma", "date": "1981-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

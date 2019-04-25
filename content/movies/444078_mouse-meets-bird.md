@@ -1,1 +1,0 @@
-{"tmdb_id": 444078, "title": "Mouse Meets Bird", "original_title": "Mouse Meets Bird", "slug_title": "mouse-meets-bird", "date": "1952-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Morrison (Little Roquefort (voice))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 312194, "title": "Raggs Kids Club Band: Pawsuuup! Tour", "original_title": "Raggs Kids Club Band: Pawsuuup! Tour", "slug_title": "raggs-kids-club-band-pawsuuup-tour", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

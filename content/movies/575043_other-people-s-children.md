@@ -1,1 +1,0 @@
-{"tmdb_id": 575043, "title": "Other People's Children", "original_title": "Other People's Children", "slug_title": "other-people-s-children", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 201249, "title": "Here Was Cuba", "original_title": "Here Was Cuba", "slug_title": "here-was-cuba", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yhqyrt5GavxqBugSa1O7wQDN9Aj.jpg", "actors": [], "comments": [], "recommandations_id": []}

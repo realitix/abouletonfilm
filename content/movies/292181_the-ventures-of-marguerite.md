@@ -1,1 +1,0 @@
-{"tmdb_id": 292181, "title": "The Ventures of Marguerite", "original_title": "The Ventures of Marguerite", "slug_title": "the-ventures-of-marguerite", "date": "1915-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marguerite Courtot ()", "Richard Purdon ()", "Edward Roseman ()"], "comments": [], "recommandations_id": []}

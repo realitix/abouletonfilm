@@ -1,1 +1,0 @@
-{"tmdb_id": 73044, "title": "Drum Solo with Sadie", "original_title": "Drum Solo with Sadie", "slug_title": "drum-solo-with-sadie", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/S2jgSwIzpSW75myPrzQgPmpp0z.jpg", "actors": [], "comments": [], "recommandations_id": []}

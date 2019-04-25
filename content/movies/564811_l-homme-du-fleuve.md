@@ -1,1 +1,0 @@
-{"tmdb_id": 564811, "title": "L'homme du fleuve", "original_title": "L'homme du fleuve", "slug_title": "l-homme-du-fleuve", "date": "1975-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fKQDQWGEeF4Fw3ml9RP5B4gWfcJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

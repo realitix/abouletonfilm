@@ -1,1 +1,0 @@
-{"tmdb_id": 462102, "title": "Giovanni Enriques che seppe immaginare il futuro", "original_title": "Giovanni Enriques che seppe immaginare il futuro", "slug_title": "giovanni-enriques-che-seppe-immaginare-il-futuro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

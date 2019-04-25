@@ -1,1 +1,0 @@
-{"tmdb_id": 513004, "title": "Jango em 3 Atos", "original_title": "Jango em 3 Atos", "slug_title": "jango-em-3-atos", "date": "2008-10-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dZUp3D32CLPhjVoN4U51ELeoZNh.jpg", "actors": ["Jo\u00e3o Goulart (himself)"], "comments": [], "recommandations_id": []}

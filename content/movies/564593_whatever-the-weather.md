@@ -1,1 +1,0 @@
-{"tmdb_id": 564593, "title": "Whatever The Weather", "original_title": "Whatever The Weather", "slug_title": "whatever-the-weather", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 314672, "title": "Placebo", "original_title": "Placebo", "slug_title": "placebo", "date": "2014-11-19", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7lPMIPZTzKNzq6papjXQvUCNFBs.jpg", "actors": [], "comments": [], "recommandations_id": [419289, 423197, 428140, 317945]}

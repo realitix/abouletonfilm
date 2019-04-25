@@ -1,1 +1,0 @@
-{"tmdb_id": 588844, "title": "Navajo Math Circles", "original_title": "Navajo Math Circles", "slug_title": "navajo-math-circles", "date": "2016-09-12", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ip2FovnI3SPcIxHoJmkAFgL6mC4.jpg", "actors": [], "comments": [], "recommandations_id": []}

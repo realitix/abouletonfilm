@@ -1,1 +1,0 @@
-{"tmdb_id": 588166, "title": "Sasaeng gyeoldan", "original_title": "Sasaeng gyeoldan", "slug_title": "sasaeng-gyeoldan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kil-su Hyeon ()", "Kim Ae-kyung ()", "Bae Su-cheon ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 387103, "title": "CHIKARA Diamonds Are Forever", "original_title": "CHIKARA Diamonds Are Forever", "slug_title": "chikara-diamonds-are-forever", "date": "2014-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h9J6uEXbCd7s44gdRgjcirVfNXu.jpg", "actors": [], "comments": [], "recommandations_id": []}

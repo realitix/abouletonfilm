@@ -1,1 +1,0 @@
-{"tmdb_id": 504938, "title": "Greetings from Out Here", "original_title": "Greetings from Out Here", "slug_title": "greetings-from-out-here", "date": "1993-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cfreVCyFeIe46w8yZkFYvadOdVg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 402623, "title": "Songs of Erin", "original_title": "Songs of Erin", "slug_title": "songs-of-erin", "date": "1951-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Kay (Gandy Goose (voice))"], "comments": [], "recommandations_id": []}

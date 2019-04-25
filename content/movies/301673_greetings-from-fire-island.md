@@ -1,1 +1,0 @@
-{"tmdb_id": 301673, "title": "Greetings from Fire Island", "original_title": "Greetings from Fire Island", "slug_title": "greetings-from-fire-island", "date": "2013-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

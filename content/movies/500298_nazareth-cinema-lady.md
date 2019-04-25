@@ -1,1 +1,0 @@
-{"tmdb_id": 500298, "title": "Nazareth Cinema Lady", "original_title": "HaIsha Me-Ha Cinematheque", "slug_title": "nazareth-cinema-lady", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wMfpys6FYUCbElz2UHvhMxbGAXT.jpg", "actors": [], "comments": [], "recommandations_id": []}

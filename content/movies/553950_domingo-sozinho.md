@@ -1,1 +1,0 @@
-{"tmdb_id": 553950, "title": "Domingo, Sozinho", "original_title": "Domingo, Sozinho", "slug_title": "domingo-sozinho", "date": "2018-10-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1QOarbB3zS1kjlUn0qeTDZBfDUE.jpg", "actors": [], "comments": [], "recommandations_id": []}

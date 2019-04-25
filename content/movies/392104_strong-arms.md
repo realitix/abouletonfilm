@@ -1,1 +1,0 @@
-{"tmdb_id": 392104, "title": "Strong Arms", "original_title": "Le mani forti", "slug_title": "strong-arms", "date": "1997-04-09", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oCL8wM5A0CAehHwNyDVNByYniPT.jpg", "actors": ["Francesca Neri ()", "Claudio Amendola ()"], "comments": [], "recommandations_id": []}

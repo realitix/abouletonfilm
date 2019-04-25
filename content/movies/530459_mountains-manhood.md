@@ -1,1 +1,0 @@
-{"tmdb_id": 530459, "title": "Mountains & Manhood", "original_title": "Mountains & Manhood", "slug_title": "mountains-manhood", "date": "2018-06-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mpMcn2aTmP0mGj1G2kSM3MCkXbX.jpg", "actors": [], "comments": [], "recommandations_id": []}

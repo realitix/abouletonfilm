@@ -1,1 +1,0 @@
-{"tmdb_id": 338749, "title": "James Bond: For Real", "original_title": "James Bond: For Real", "slug_title": "james-bond-for-real", "date": "2006-11-22", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nFeJkJbZ5lT9vmsQFnAF3m4tMjz.jpg", "actors": [], "comments": [], "recommandations_id": []}

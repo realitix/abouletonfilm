@@ -1,1 +1,0 @@
-{"tmdb_id": 275178, "title": "Charlton Heston Presents the Bible", "original_title": "Charlton Heston Presents the Bible", "slug_title": "charlton-heston-presents-the-bible", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

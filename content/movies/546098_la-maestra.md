@@ -1,1 +1,0 @@
-{"tmdb_id": 546098, "title": "La Maestra", "original_title": "La Maestra", "slug_title": "la-maestra", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e3nyPTdNjpCgsGfablWlpOUZoMw.jpg", "actors": ["Mayra Aguila (Mayra Aguila)"], "comments": [], "recommandations_id": []}

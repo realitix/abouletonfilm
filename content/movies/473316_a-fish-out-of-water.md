@@ -1,1 +1,0 @@
-{"tmdb_id": 473316, "title": "A Fish Out of Water", "original_title": "\u4e0a\u5cb8\u7684\u9b5a", "slug_title": "a-fish-out-of-water", "date": "2017-09-07", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mhEVf3nIDvZMkRGwYH24UHEhFzn.jpg", "actors": [], "comments": [], "recommandations_id": []}

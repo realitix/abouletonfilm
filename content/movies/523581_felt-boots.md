@@ -1,1 +1,0 @@
-{"tmdb_id": 523581, "title": "Felt boots", "original_title": "\u0412\u0430\u043b\u0435\u043d\u043a\u0438", "slug_title": "felt-boots", "date": "2012-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

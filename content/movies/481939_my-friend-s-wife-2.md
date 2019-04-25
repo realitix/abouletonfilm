@@ -1,1 +1,0 @@
-{"tmdb_id": 481939, "title": "My Friend's Wife 2", "original_title": "\ub0b4 \uce5c\uad6c\uc758 \uc544\ub0b4 2", "slug_title": "my-friend-s-wife-2", "date": "2016-12-29", "genre": "Romance / Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h1QqeNS3VE6wcDWsYXnCF0K0Gt8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 562091, "title": "Comedians", "original_title": "Comedians", "slug_title": "comedians", "date": "2016-05-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kvqOWnkhWioSDAwjhrg9TsFYLhy.jpg", "actors": ["Bianca Cruzeiro (Eva)", "David Nyberg (Male comedian)"], "comments": [], "recommandations_id": []}

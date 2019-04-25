@@ -1,1 +1,0 @@
-{"tmdb_id": 128574, "title": "Cold Fusion: Fire from Water", "original_title": "Cold Fusion: Fire from Water", "slug_title": "cold-fusion-fire-from-water", "date": "1998-03-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Doohan (Himself)"], "comments": [], "recommandations_id": []}

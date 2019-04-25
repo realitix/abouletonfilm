@@ -1,1 +1,0 @@
-{"tmdb_id": 572217, "title": "Amour rue de Lappe", "original_title": "Amour rue de Lappe", "slug_title": "amour-rue-de-lappe", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

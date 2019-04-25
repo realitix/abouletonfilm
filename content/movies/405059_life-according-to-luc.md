@@ -1,1 +1,0 @@
-{"tmdb_id": 405059, "title": "Life According To Luc", "original_title": "La Vie Selon Luc", "slug_title": "life-according-to-luc", "date": "1991-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2aCXvU9G7sK1O3XYNGMJRAukW9E.jpg", "actors": [], "comments": [], "recommandations_id": []}

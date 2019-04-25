@@ -1,1 +1,0 @@
-{"tmdb_id": 493180, "title": "Super Bheem Toota Khush Tara", "original_title": "Super Bheem Toota Khush Tara", "slug_title": "super-bheem-toota-khush-tara", "date": "2017-12-17", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 535476, "title": "The Artifact", "original_title": "The Artifact", "slug_title": "the-artifact", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gRSoUtkErmZt0ZjGZPrWcFF6Xds.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 193505, "title": "Just Another Murder", "original_title": "Just Another Murder", "slug_title": "just-another-murder", "date": "1935-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Billy Gilbert (Mr. Quick)", "Vince Barnett (Vincent Smart)"], "comments": [], "recommandations_id": []}

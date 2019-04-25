@@ -1,1 +1,0 @@
-{"tmdb_id": 514648, "title": "The Last Objectors", "original_title": "The Last Objectors", "slug_title": "the-last-objectors", "date": "2016-08-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sfLKA66CPPeNLbWkiv2qBNqQ1je.jpg", "actors": [], "comments": [], "recommandations_id": []}

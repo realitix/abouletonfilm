@@ -1,1 +1,0 @@
-{"tmdb_id": 581052, "title": "Honey Is Sweeter Than Blood", "original_title": "Le miel est plus doux que le sang", "slug_title": "honey-is-sweeter-than-blood", "date": "2014-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xmsNxDNdlJNuUFC3IluyomHx9LH.jpg", "actors": [], "comments": [], "recommandations_id": []}

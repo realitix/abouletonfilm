@@ -1,1 +1,0 @@
-{"tmdb_id": 264407, "title": "Papagiorgio. The Great", "original_title": "Papagiorgio. El grande", "slug_title": "papagiorgio-the-great", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

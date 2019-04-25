@@ -1,1 +1,0 @@
-{"tmdb_id": 411723, "title": "Artists + Models", "original_title": "Artists + Models", "slug_title": "artists-models", "date": "1998-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fShziFcoTl9W4MRxwnVr6yrUXL5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 594869, "title": "Rizin World Grand Prix 2017: Final Round", "original_title": "Rizin World Grand Prix 2017: Final Round", "slug_title": "rizin-world-grand-prix-2017-final-round", "date": "2017-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

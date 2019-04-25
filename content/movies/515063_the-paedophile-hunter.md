@@ -1,1 +1,0 @@
-{"tmdb_id": 515063, "title": "The Paedophile Hunter", "original_title": "The Paedophile Hunter", "slug_title": "the-paedophile-hunter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

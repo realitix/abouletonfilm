@@ -1,1 +1,0 @@
-{"tmdb_id": 32626, "title": "Anus Magillicutty", "original_title": "Anus Magillicutty", "slug_title": "anus-magillicutty", "date": "2003-04-15", "genre": "Romance / Drame / Com\u00e9die", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dLqZdW1mmTvqCGgvh4525bW6gu6.jpg", "actors": [], "comments": [], "recommandations_id": []}

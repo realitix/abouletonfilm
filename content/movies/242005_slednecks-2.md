@@ -1,1 +1,0 @@
-{"tmdb_id": 242005, "title": "Slednecks 2", "original_title": "Slednecks 2", "slug_title": "slednecks-2", "date": "1999-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7nqrq9RzIKWM18kLGu1IK1kVZjV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 447433, "title": "Mnemosyne", "original_title": "Mnemosyne", "slug_title": "mnemosyne", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cVjqW5iclK17y2wgC5iFdtc6q8K.jpg", "actors": [], "comments": [], "recommandations_id": []}

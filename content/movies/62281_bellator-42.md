@@ -1,1 +1,0 @@
-{"tmdb_id": 62281, "title": "Bellator 42", "original_title": "Bellator 42", "slug_title": "bellator-42", "date": "2011-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A8FlnwZh9mBsVg3JmRh2T1r5apA.jpg", "actors": [], "comments": [], "recommandations_id": []}

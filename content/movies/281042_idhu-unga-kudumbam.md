@@ -1,1 +1,0 @@
-{"tmdb_id": 281042, "title": "Idhu Unga Kudumbam", "original_title": "Idhu Unga Kudumbam", "slug_title": "idhu-unga-kudumbam", "date": "1989-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Raghuvaran ()", "Radhika Sarathkumar ()", "Urvashi ()"], "comments": [], "recommandations_id": []}

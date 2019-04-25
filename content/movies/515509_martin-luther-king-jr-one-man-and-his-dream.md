@@ -1,1 +1,0 @@
-{"tmdb_id": 515509, "title": "Martin Luther King Jr: One Man and His Dream", "original_title": "Martin Luther King Jr: One Man and His Dream", "slug_title": "martin-luther-king-jr-one-man-and-his-dream", "date": "2018-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

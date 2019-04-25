@@ -1,1 +1,0 @@
-{"tmdb_id": 320585, "title": "Computercide", "original_title": "Computercide", "slug_title": "computercide", "date": "1982-08-01", "genre": "Crime / Drame / Romance", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Cortese (Lisa Korter)", "Susan George (Lisa Korter)"], "comments": [], "recommandations_id": []}

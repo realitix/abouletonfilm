@@ -1,1 +1,0 @@
-{"tmdb_id": 211895, "title": "You Like It, I Love It", "original_title": "You Like It, I Love It", "slug_title": "you-like-it-i-love-it", "date": "2013-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ouKLyJ9WfcjBdoTlG3qPVSMniB3.jpg", "actors": [], "comments": [], "recommandations_id": []}

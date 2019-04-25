@@ -1,1 +1,0 @@
-{"tmdb_id": 243965, "title": "Mayan Renaissance", "original_title": "Mayan Renaissance", "slug_title": "mayan-renaissance", "date": "2012-05-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cXJbXmNsuTvYBYZGlrB8QSSqDLG.jpg", "actors": [], "comments": [], "recommandations_id": []}

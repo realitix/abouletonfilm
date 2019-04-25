@@ -1,1 +1,0 @@
-{"tmdb_id": 437495, "title": "All the world's a stage", "original_title": "All the world's a stage", "slug_title": "all-the-world-s-a-stage", "date": "2016-04-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Samuel West (Narrator (voice))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 476740, "title": "Hans Richter: Give Chance a Chance", "original_title": "Hans Richter: Give Chance a Chance", "slug_title": "hans-richter-give-chance-a-chance", "date": "1973-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 385570, "title": "Little Sticker", "original_title": "Little Sticker", "slug_title": "little-sticker", "date": "2016-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

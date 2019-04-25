@@ -1,1 +1,0 @@
-{"tmdb_id": 440945, "title": "Nickelodeon Favorites: Food With Friends", "original_title": "Nickelodeon Favorites: Food With Friends", "slug_title": "nickelodeon-favorites-food-with-friends", "date": "2011-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 402607, "title": "The Medic", "original_title": "The Medic", "slug_title": "the-medic", "date": "2011-05-19", "genre": "Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rRpRNFtR1NyQ4QTDRoIoUQDJcQN.jpg", "actors": ["Jeannot Kuenzel (Soldier)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 573170, "title": "Fun at the Couch", "original_title": "Fun at the Couch", "slug_title": "fun-at-the-couch", "date": "2009-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anna Song (Anna)", "Miosotis (Claribel)"], "comments": [], "recommandations_id": []}

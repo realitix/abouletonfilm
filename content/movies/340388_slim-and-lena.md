@@ -1,1 +1,0 @@
-{"tmdb_id": 340388, "title": "Slim and Lena", "original_title": "Slim and Lena", "slug_title": "slim-and-lena", "date": "2009-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 251226, "title": "Music Is My Drug", "original_title": "Music Is My Drug", "slug_title": "music-is-my-drug", "date": "1996-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rmg4XgqFP3u0m8inUWnGg1WY550.jpg", "actors": [], "comments": [], "recommandations_id": []}

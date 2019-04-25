@@ -1,1 +1,0 @@
-{"tmdb_id": 313050, "title": "Pericles on 31st Street", "original_title": "Pericles on 31st Street", "slug_title": "pericles-on-31st-street", "date": "1962-04-11", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

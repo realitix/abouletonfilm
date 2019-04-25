@@ -1,1 +1,0 @@
-{"tmdb_id": 555731, "title": "Chouquette et son as", "original_title": "Chouquette et son as", "slug_title": "chouquette-et-son-as", "date": "1920-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 58094, "title": "Anemic Cinema", "original_title": "An\u00e9mic cin\u00e9ma", "slug_title": "anemic-cinema", "date": "1926-01-01", "genre": "Documentaire", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iP5Xh5Ipnsjdxcu4bmcfkIuhrhq.jpg", "actors": [], "comments": [], "recommandations_id": [107011, 175461, 138752, 44473]}

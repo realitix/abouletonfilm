@@ -1,1 +1,0 @@
-{"tmdb_id": 504550, "title": "\u8001\u4e5d\u9580\u756a\u5916\u4e4b\u864e\u9aa8\u6885\u82b1", "original_title": "\u8001\u4e5d\u9580\u756a\u5916\u4e4b\u864e\u9aa8\u6885\u82b1", "slug_title": "lao-jiu-men-fan-wai-zhi-hu-gu-mei-hua", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

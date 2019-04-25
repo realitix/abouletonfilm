@@ -1,1 +1,0 @@
-{"tmdb_id": 236503, "title": "Dizzy Kitty", "original_title": "Dizzy Kitty", "slug_title": "dizzy-kitty", "date": "1941-05-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1OwHHBmjHsHzeBpevzAk8HH3kXl.jpg", "actors": [], "comments": [], "recommandations_id": []}

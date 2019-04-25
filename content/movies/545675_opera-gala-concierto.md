@@ -1,1 +1,0 @@
-{"tmdb_id": 545675, "title": "OPERA GALA - CONCIERTO", "original_title": "OPERA GALA - CONCIERTO", "slug_title": "opera-gala-concierto", "date": "2018-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yA32TvANPkjlPy3NNHzpkJNvAFf.jpg", "actors": [], "comments": [], "recommandations_id": []}

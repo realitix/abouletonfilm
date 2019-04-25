@@ -1,1 +1,0 @@
-{"tmdb_id": 281297, "title": "The Empty Center", "original_title": "Die Leere Mitte", "slug_title": "the-empty-center", "date": "1998-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c3CCI84RRWL0qAEHuexsda9VJc3.jpg", "actors": ["Dong Yang ()", "Huan Zhu ()"], "comments": [], "recommandations_id": []}

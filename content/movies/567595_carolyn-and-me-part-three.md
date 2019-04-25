@@ -1,1 +1,0 @@
-{"tmdb_id": 567595, "title": "Carolyn And Me: Part Three", "original_title": "Carolyn And Me: Part Three", "slug_title": "carolyn-and-me-part-three", "date": "1969-12-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qB3plpF3BhCey4iUyvDPZuTpbLt.jpg", "actors": [], "comments": [], "recommandations_id": []}

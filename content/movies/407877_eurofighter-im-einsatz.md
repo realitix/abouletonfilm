@@ -1,1 +1,0 @@
-{"tmdb_id": 407877, "title": "Eurofighter im Einsatz", "original_title": "Eurofighter im Einsatz", "slug_title": "eurofighter-im-einsatz", "date": "2016-07-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

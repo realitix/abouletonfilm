@@ -1,1 +1,0 @@
-{"tmdb_id": 276346, "title": "Cinema of Death", "original_title": "Cinema of Death", "slug_title": "cinema-of-death", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

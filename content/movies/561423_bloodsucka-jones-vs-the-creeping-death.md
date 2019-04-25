@@ -1,1 +1,0 @@
-{"tmdb_id": 561423, "title": "Bloodsucka Jones vs. The Creeping Death", "original_title": "Bloodsucka Jones vs. The Creeping Death", "slug_title": "bloodsucka-jones-vs-the-creeping-death", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

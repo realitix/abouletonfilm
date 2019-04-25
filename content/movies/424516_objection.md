@@ -1,1 +1,0 @@
-{"tmdb_id": 424516, "title": "Objection", "original_title": "Objection", "slug_title": "objection", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qHicyz7pU66ejyMHTrRrdeAuj7M.jpg", "actors": [], "comments": [], "recommandations_id": []}

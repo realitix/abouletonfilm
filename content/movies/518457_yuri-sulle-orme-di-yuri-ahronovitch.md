@@ -1,1 +1,0 @@
-{"tmdb_id": 518457, "title": "Yuri. Sulle orme di Yuri Ahronovitch", "original_title": "Yuri. Sulle orme di Yuri Ahronovitch", "slug_title": "yuri-sulle-orme-di-yuri-ahronovitch", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

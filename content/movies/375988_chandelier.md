@@ -1,1 +1,0 @@
-{"tmdb_id": 375988, "title": "Chandelier", "original_title": "Chandelier", "slug_title": "chandelier", "date": "2015-10-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Betsy Holt ()", "Johnathan Tchaikovsky (Brandon)"], "comments": [], "recommandations_id": []}

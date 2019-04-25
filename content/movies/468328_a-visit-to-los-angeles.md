@@ -1,1 +1,0 @@
-{"tmdb_id": 468328, "title": "A Visit to Los Angeles", "original_title": "A Visit to Los Angeles", "slug_title": "a-visit-to-los-angeles", "date": "1916-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

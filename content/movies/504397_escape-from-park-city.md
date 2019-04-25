@@ -1,1 +1,0 @@
-{"tmdb_id": 504397, "title": "Escape from Park City", "original_title": "Escape from Park City", "slug_title": "escape-from-park-city", "date": "2017-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

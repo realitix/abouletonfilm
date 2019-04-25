@@ -1,1 +1,0 @@
-{"tmdb_id": 526806, "title": "Yerma: Barren", "original_title": "Yerma: Barren", "slug_title": "yerma-barren", "date": "2017-04-06", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rebecca Grant ()", "Miriam D\u00edaz-Aroca ()", "Mundy Rieu Jr. ()", "Susan Brickell ()"], "comments": [], "recommandations_id": []}

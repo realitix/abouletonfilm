@@ -1,1 +1,0 @@
-{"tmdb_id": 289317, "title": "Yes, Ma'am", "original_title": "Sissignora", "slug_title": "yes-ma-am", "date": "1942-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mar\u00eda Denis ()", "Leonardo Cortese ()", "Emma Gramatica ()"], "comments": [], "recommandations_id": []}

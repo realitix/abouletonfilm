@@ -1,1 +1,0 @@
-{"tmdb_id": 424662, "title": "The Plague", "original_title": "The Plague", "slug_title": "the-plague", "date": "2006-02-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a6WJgwHaVlw3gNHal4Ukjdruxd8.jpg", "actors": [], "comments": [], "recommandations_id": []}

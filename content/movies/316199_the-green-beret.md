@@ -1,1 +1,0 @@
-{"tmdb_id": 316199, "title": "The Green Beret", "original_title": "The Green Beret", "slug_title": "the-green-beret", "date": "1968-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ogL9PMVZ1uwjD6Q6y2Kus9EALrF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 210751, "title": "Meriel the Ghost Girl", "original_title": "Meriel the Ghost Girl", "slug_title": "meriel-the-ghost-girl", "date": "1976-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Donald Pleasence ()"], "comments": [], "recommandations_id": []}

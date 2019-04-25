@@ -1,1 +1,0 @@
-{"tmdb_id": 236724, "title": "A-Hunting We Won't Go", "original_title": "A-Hunting We Won't Go", "slug_title": "a-hunting-we-won-t-go", "date": "1943-08-22", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

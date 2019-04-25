@@ -1,1 +1,0 @@
-{"tmdb_id": 416050, "title": "Patterns 3", "original_title": "Patterns 3", "slug_title": "patterns-3", "date": "2007-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y9TW03BcY1VEwVk9U0qkIDBhxTb.jpg", "actors": [], "comments": [], "recommandations_id": []}

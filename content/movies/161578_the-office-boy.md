@@ -1,1 +1,0 @@
-{"tmdb_id": 161578, "title": "The Office Boy", "original_title": "The Office Boy", "slug_title": "the-office-boy", "date": "1932-07-15", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

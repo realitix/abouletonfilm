@@ -1,1 +1,0 @@
-{"tmdb_id": 447929, "title": "Nightlight", "original_title": "Nightlight", "slug_title": "nightlight", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

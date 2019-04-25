@@ -1,1 +1,0 @@
-{"tmdb_id": 517927, "title": "It's Alright Michel", "original_title": "It's Alright Michel", "slug_title": "it-s-alright-michel", "date": "2017-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h1YzSihzdY7OjZ5qtpWFSsXihb3.jpg", "actors": [], "comments": [], "recommandations_id": []}

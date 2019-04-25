@@ -1,1 +1,0 @@
-{"tmdb_id": 129322, "title": "Culture Club - Live in Sydney", "original_title": "Culture Club - Live in Sydney", "slug_title": "culture-club-live-in-sydney", "date": "2006-05-16", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2rkb4b06072gUGXk6PWxLfDRiO4.jpg", "actors": [], "comments": [], "recommandations_id": []}

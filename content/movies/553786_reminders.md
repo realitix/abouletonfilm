@@ -1,1 +1,0 @@
-{"tmdb_id": 553786, "title": "Reminders", "original_title": "Notas para no olvidar", "slug_title": "reminders", "date": "2018-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iDkSaUUT8HQlE42rkYoYsnpUFdP.jpg", "actors": [], "comments": [], "recommandations_id": []}

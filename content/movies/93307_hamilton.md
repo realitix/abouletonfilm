@@ -1,1 +1,0 @@
-{"tmdb_id": 93307, "title": "Hamilton", "original_title": "Hamilton", "slug_title": "hamilton", "date": "2006-04-02", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bW8008cGWwiJGOaZ6lFmCD3xS3l.jpg", "actors": ["Christopher H. Myers (Joe)", "Stephanie Vizzi (Lena)"], "comments": [], "recommandations_id": []}

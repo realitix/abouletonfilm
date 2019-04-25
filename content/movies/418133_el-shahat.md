@@ -1,1 +1,0 @@
-{"tmdb_id": 418133, "title": "El Shahat", "original_title": "El Shahat", "slug_title": "el-shahat", "date": "1973-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

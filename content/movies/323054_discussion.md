@@ -1,1 +1,0 @@
-{"tmdb_id": 323054, "title": "Discussion", "original_title": "Discussion", "slug_title": "discussion", "date": "1895-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

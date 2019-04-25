@@ -1,1 +1,0 @@
-{"tmdb_id": 485237, "title": "Galvanize", "original_title": "Galvanize", "slug_title": "galvanize", "date": "2017-10-03", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ON0BXuN030bqPLhaNRolZ9akoa.jpg", "actors": [], "comments": [], "recommandations_id": []}

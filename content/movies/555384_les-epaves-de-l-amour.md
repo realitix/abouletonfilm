@@ -1,1 +1,0 @@
-{"tmdb_id": 555384, "title": "Les \u00e9paves de l'amour", "original_title": "Les \u00e9paves de l'amour", "slug_title": "les-epaves-de-l-amour", "date": "1917-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

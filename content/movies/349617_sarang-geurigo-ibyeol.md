@@ -1,1 +1,0 @@
-{"tmdb_id": 349617, "title": "\uc0ac\ub791 \uadf8\ub9ac\uace0 \uc774\ubcc4", "original_title": "\uc0ac\ub791 \uadf8\ub9ac\uace0 \uc774\ubcc4", "slug_title": "sarang-geurigo-ibyeol", "date": "1984-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

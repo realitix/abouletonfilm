@@ -1,1 +1,0 @@
-{"tmdb_id": 405474, "title": "Taqasim", "original_title": "\u062a\u0642\u0627\u0633\u064a\u0645", "slug_title": "taqasim", "date": "1999-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dLcTJnreMKZ3ZVo6geH9yMucZpV.jpg", "actors": [], "comments": [], "recommandations_id": []}

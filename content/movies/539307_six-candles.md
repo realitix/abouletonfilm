@@ -1,1 +1,0 @@
-{"tmdb_id": 539307, "title": "Six Candles", "original_title": "Six Candles", "slug_title": "six-candles", "date": "1960-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ukZREoSB07zX1hl2wHVGHVYOTmu.jpg", "actors": ["Stephen Murray (Narrator)"], "comments": [], "recommandations_id": []}

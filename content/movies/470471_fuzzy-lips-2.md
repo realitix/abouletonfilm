@@ -1,1 +1,0 @@
-{"tmdb_id": 470471, "title": "Fuzzy Lips 2", "original_title": "\u30d5\u30eb\u30a8\u30eb\u30af\u30c1\u30d3\u30eb", "slug_title": "fuzzy-lips-2", "date": "2014-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ou5A9tJCZgHBycEWVtBD8ARjzHl.jpg", "actors": [], "comments": [], "recommandations_id": []}

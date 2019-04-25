@@ -1,1 +1,0 @@
-{"tmdb_id": 237367, "title": "Mouse Mazurka", "original_title": "Mouse Mazurka", "slug_title": "mouse-mazurka", "date": "1949-06-11", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4FqY7BsK8mRqctBOKGWeWiicE6a.jpg", "actors": [], "comments": [], "recommandations_id": []}

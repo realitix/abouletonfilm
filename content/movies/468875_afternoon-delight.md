@@ -1,1 +1,0 @@
-{"tmdb_id": 468875, "title": "Afternoon Delight.", "original_title": "Afternoon Delight.", "slug_title": "afternoon-delight", "date": "2017-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vk4iOoXvvEGXMJW2O8FmFLtKZ2d.jpg", "actors": [], "comments": [], "recommandations_id": []}

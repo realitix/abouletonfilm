@@ -1,1 +1,0 @@
-{"tmdb_id": 63198, "title": "Executions", "original_title": "Executions", "slug_title": "executions", "date": "1995-10-27", "genre": "Documentaire / Histoire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nPwKYfqn2i7tDtNY8n8vaqxq2wx.jpg", "actors": [], "comments": [], "recommandations_id": []}

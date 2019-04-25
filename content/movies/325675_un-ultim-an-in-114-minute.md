@@ -1,1 +1,0 @@
-{"tmdb_id": 325675, "title": "Un ultim an in 114 minute", "original_title": "Un ultim an in 114 minute", "slug_title": "un-ultim-an-in-114-minute", "date": "2014-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 385793, "title": "Memories of War", "original_title": "Memories of War", "slug_title": "memories-of-war", "date": "1983-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/JIkh372CdhkRx6ZAxfVZeUwP3u.jpg", "actors": [], "comments": [], "recommandations_id": []}

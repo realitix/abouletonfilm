@@ -1,1 +1,0 @@
-{"tmdb_id": 474750, "title": "Marisol", "original_title": "Marisol", "slug_title": "marisol", "date": "2017-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v8ibDy2rexrDcMEsEQF82lSN1BA.jpg", "actors": ["Amanda Nicole Reyes (Marisol)"], "comments": [], "recommandations_id": []}

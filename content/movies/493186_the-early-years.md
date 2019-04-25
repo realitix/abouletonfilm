@@ -1,1 +1,0 @@
-{"tmdb_id": 493186, "title": "The Early Years", "original_title": "The Early Years", "slug_title": "the-early-years", "date": "2013-07-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

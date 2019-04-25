@@ -1,1 +1,0 @@
-{"tmdb_id": 469177, "title": "\u041f\u0440\u044f\u043d\u0438\u043a", "original_title": "\u041f\u0440\u044f\u043d\u0438\u043a", "slug_title": "prianik", "date": "1993-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5idAP194xC1gXoVnv7lJCuNZKBt.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 357764, "title": "Instant Cinema", "original_title": "Instant Cinema", "slug_title": "instant-cinema", "date": "1965-01-02", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ynCOqrixlciIX4J12Uu5DZG11R.jpg", "actors": [], "comments": [], "recommandations_id": []}

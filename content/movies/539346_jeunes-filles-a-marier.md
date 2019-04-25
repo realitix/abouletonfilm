@@ -1,1 +1,0 @@
-{"tmdb_id": 539346, "title": "Jeunes filles \u00e0 marier", "original_title": "Jeunes filles \u00e0 marier", "slug_title": "jeunes-filles-a-marier", "date": "1935-07-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

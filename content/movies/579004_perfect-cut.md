@@ -1,1 +1,0 @@
-{"tmdb_id": 579004, "title": "Perfect Cut", "original_title": "Perfect Cut", "slug_title": "perfect-cut", "date": "2019-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

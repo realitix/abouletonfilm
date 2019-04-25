@@ -1,1 +1,0 @@
-{"tmdb_id": 211364, "title": "Darling", "original_title": "Darling", "slug_title": "darling", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

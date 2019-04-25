@@ -1,1 +1,0 @@
-{"tmdb_id": 306946, "title": "Tribute to Larry", "original_title": "Tribute to Larry", "slug_title": "tribute-to-larry", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Finn (Rick)", "Victor Bevine (Larry)", "Jeanne Michaels (Christine Price)"], "comments": [], "recommandations_id": []}

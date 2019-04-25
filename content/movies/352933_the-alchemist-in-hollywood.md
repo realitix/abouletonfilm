@@ -1,1 +1,0 @@
-{"tmdb_id": 352933, "title": "The Alchemist in Hollywood", "original_title": "The Alchemist in Hollywood", "slug_title": "the-alchemist-in-hollywood", "date": "1940-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

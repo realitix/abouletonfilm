@@ -1,1 +1,0 @@
-{"tmdb_id": 310956, "title": "A303: Highway to the Sun", "original_title": "A303: Highway to the Sun", "slug_title": "a303-highway-to-the-sun", "date": "2011-05-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Fort ()"], "comments": [], "recommandations_id": []}

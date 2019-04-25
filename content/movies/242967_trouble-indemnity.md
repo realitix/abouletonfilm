@@ -1,1 +1,0 @@
-{"tmdb_id": 242967, "title": "Trouble Indemnity", "original_title": "Trouble Indemnity", "slug_title": "trouble-indemnity", "date": "1950-09-14", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

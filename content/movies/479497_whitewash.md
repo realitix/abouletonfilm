@@ -1,1 +1,0 @@
-{"tmdb_id": 479497, "title": "Whitewash", "original_title": "Whitewash", "slug_title": "whitewash", "date": "2016-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shakura S'Aida (Narrator (voice))"], "comments": [], "recommandations_id": []}

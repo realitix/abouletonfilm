@@ -1,1 +1,0 @@
-{"tmdb_id": 586189, "title": "Saddle Up", "original_title": "Saddle Up", "slug_title": "saddle-up", "date": "2016-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Mailander (Himself)", "Justin Lansing (Himself)"], "comments": [], "recommandations_id": []}

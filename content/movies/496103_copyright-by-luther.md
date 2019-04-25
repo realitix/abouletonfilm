@@ -1,1 +1,0 @@
-{"tmdb_id": 496103, "title": "Copyright by Luther", "original_title": "Copyright by Luther", "slug_title": "copyright-by-luther", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vc9pDr4yMHDVLVRpEkdS6ugOD85.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 108654, "title": "Freeway Speedway 3", "original_title": "Freeway Speedway 3", "slug_title": "freeway-speedway-3", "date": "1991-04-25", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qZaWgdoQfPztduU8f9rTt5vSCHZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

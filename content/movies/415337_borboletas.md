@@ -1,1 +1,0 @@
-{"tmdb_id": 415337, "title": "Borboletas", "original_title": "Borboletas", "slug_title": "borboletas", "date": "1995-01-02", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Yc8pKEPAPx7sGmXlFRGRlMzaKu.jpg", "actors": ["Wagner Moura ()", "Jairo Eleodoro ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 232421, "title": "Unclear Holocaust", "original_title": "Unclear Holocaust", "slug_title": "unclear-holocaust", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bfoQhqe3tu4r3E3c2dVg3pVu3aa.jpg", "actors": [], "comments": [], "recommandations_id": []}

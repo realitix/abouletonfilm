@@ -1,1 +1,0 @@
-{"tmdb_id": 339100, "title": "Cleopatra", "original_title": "Cleopatra", "slug_title": "cleopatra", "date": "2020-08-20", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nUa29nTfthVdtn4G46i7Wts84Oo.jpg", "actors": [], "comments": [], "recommandations_id": []}

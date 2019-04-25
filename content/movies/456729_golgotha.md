@@ -1,1 +1,0 @@
-{"tmdb_id": 456729, "title": "Golgotha", "original_title": "Golgotha", "slug_title": "golgotha", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gavin Downes (Adam)", "Abigail Smith (Sarah)"], "comments": [], "recommandations_id": []}

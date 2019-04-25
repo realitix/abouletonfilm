@@ -1,1 +1,0 @@
-{"tmdb_id": 236851, "title": "Inside Fighting China", "original_title": "Inside Fighting China", "slug_title": "inside-fighting-china", "date": "1942-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/re47vfnvroElrZ6nq3oi88z6u6g.jpg", "actors": [], "comments": [], "recommandations_id": []}

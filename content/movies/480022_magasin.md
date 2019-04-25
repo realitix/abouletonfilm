@@ -1,1 +1,0 @@
-{"tmdb_id": 480022, "title": "Magasin", "original_title": "Magasin", "slug_title": "magasin", "date": "2015-01-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9S1tf1LxCH8TYpNR6Jre6IdqkLd.jpg", "actors": [], "comments": [], "recommandations_id": []}

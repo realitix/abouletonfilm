@@ -1,1 +1,0 @@
-{"tmdb_id": 360933, "title": "Hammer Horror: A Fan's Guide", "original_title": "Hammer Horror: A Fan's Guide", "slug_title": "hammer-horror-a-fan-s-guide", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

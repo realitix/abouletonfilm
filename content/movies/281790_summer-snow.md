@@ -1,1 +1,0 @@
-{"tmdb_id": 281790, "title": "Summer Snow", "original_title": "Summer Snow", "slug_title": "summer-snow", "date": "2014-03-20", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luka Ledi\u0107 ()"], "comments": [], "recommandations_id": []}

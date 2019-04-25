@@ -1,1 +1,0 @@
-{"tmdb_id": 595537, "title": "Sweet Salty Wind", "original_title": "Viento dulce salado", "slug_title": "sweet-salty-wind", "date": "2019-04-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

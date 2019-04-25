@@ -1,1 +1,0 @@
-{"tmdb_id": 507617, "title": "The Year of Paper", "original_title": "The Year of Paper", "slug_title": "the-year-of-paper", "date": "2007-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5x5h9CQL7W2Dfh1H9HUsj8mvjMH.jpg", "actors": [], "comments": [], "recommandations_id": []}

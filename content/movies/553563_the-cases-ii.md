@@ -1,1 +1,0 @@
-{"tmdb_id": 553563, "title": "The Cases II", "original_title": "\u9b55\u7570", "slug_title": "the-cases-ii", "date": "2016-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7EygbhbvkoihQV4tGsoaPwSa0OI.jpg", "actors": ["Brandy Akiko ()", "Edmund Poon ()"], "comments": [], "recommandations_id": []}

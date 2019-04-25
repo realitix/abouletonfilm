@@ -1,1 +1,0 @@
-{"tmdb_id": 587905, "title": "De vliegende hond", "original_title": "De vliegende hond", "slug_title": "de-vliegende-hond", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

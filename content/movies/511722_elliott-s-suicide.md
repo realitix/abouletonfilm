@@ -1,1 +1,0 @@
-{"tmdb_id": 511722, "title": "Elliott's Suicide", "original_title": "Elliott's Suicide", "slug_title": "elliott-s-suicide", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yLfr8ARJhtdA5pVbF18GymHdOcm.jpg", "actors": [], "comments": [], "recommandations_id": []}

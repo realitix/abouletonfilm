@@ -1,1 +1,0 @@
-{"tmdb_id": 186086, "title": "Flesh Hell", "original_title": "Niku jigoku", "slug_title": "flesh-hell", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7zHD2yuzqub1rmpuIHFPirWJXeo.jpg", "actors": [], "comments": [], "recommandations_id": []}

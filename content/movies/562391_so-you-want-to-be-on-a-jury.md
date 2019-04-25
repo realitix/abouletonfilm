@@ -1,1 +1,0 @@
-{"tmdb_id": 562391, "title": "So You Want to Be on a Jury", "original_title": "So You Want to Be on a Jury", "slug_title": "so-you-want-to-be-on-a-jury", "date": "1955-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon ()"], "comments": [], "recommandations_id": []}

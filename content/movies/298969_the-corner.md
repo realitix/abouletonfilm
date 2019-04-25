@@ -1,1 +1,0 @@
-{"tmdb_id": 298969, "title": "The Corner", "original_title": "The Corner", "slug_title": "the-corner", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wUvMLZNvw7L3R9QvyS2yTDY0wr1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 323269, "title": "Please Judge Me", "original_title": "Please Judge Me", "slug_title": "please-judge-me", "date": "2014-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

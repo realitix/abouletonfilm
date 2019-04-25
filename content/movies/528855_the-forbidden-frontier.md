@@ -1,1 +1,0 @@
-{"tmdb_id": 528855, "title": "The Forbidden Frontier", "original_title": "The Forbidden Frontier", "slug_title": "the-forbidden-frontier", "date": "1937-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

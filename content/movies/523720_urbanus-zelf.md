@@ -1,1 +1,0 @@
-{"tmdb_id": 523720, "title": "Urbanus: Zelf!", "original_title": "Urbanus: Zelf!", "slug_title": "urbanus-zelf", "date": "2017-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/42uXWtfBh6n434kz6JcMXgjSQJx.jpg", "actors": [], "comments": [], "recommandations_id": []}

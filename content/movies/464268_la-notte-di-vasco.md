@@ -1,1 +1,0 @@
-{"tmdb_id": 464268, "title": "La Notte di Vasco", "original_title": "La Notte di Vasco", "slug_title": "la-notte-di-vasco", "date": "2017-07-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ah9ERO45byFEiIHVhCMY1rMW5YQ.jpg", "actors": ["Paolo Bonolis ()", "Vasco Rossi ()"], "comments": [], "recommandations_id": []}

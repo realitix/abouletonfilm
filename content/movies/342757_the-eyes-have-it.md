@@ -1,1 +1,0 @@
-{"tmdb_id": 342757, "title": "The Eyes Have It", "original_title": "The Eyes Have It", "slug_title": "the-eyes-have-it", "date": "1973-06-09", "genre": "Thriller", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3YR6mcNwtZbS9iGAPJVvA72XkP1.jpg", "actors": [], "comments": [], "recommandations_id": []}

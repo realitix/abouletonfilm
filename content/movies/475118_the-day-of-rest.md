@@ -1,1 +1,0 @@
-{"tmdb_id": 475118, "title": "The Day of Rest", "original_title": "The Day of Rest", "slug_title": "the-day-of-rest", "date": "1939-09-05", "genre": "Com\u00e9die", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Benchley (Joe Doakes)", "Sonny Bupp (Younger Son)", "Helen MacKellar (Mrs. Doakes)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 404193, "title": "The Outsider", "original_title": "The Outsider", "slug_title": "the-outsider", "date": "1994-01-01", "genre": "Horreur", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Herb Lichtenstein ()", "Kathryn Grady ()", "David David Katzman ()", "Rebecca Masternak ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 172634, "title": "Staatsgeheimnis Bankenrettung", "original_title": "Staatsgeheimnis Bankenrettung", "slug_title": "staatsgeheimnis-bankenrettung", "date": "2013-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

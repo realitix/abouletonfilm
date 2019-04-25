@@ -1,1 +1,0 @@
-{"tmdb_id": 388810, "title": "Together", "original_title": "Together", "slug_title": "together", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xkfLihOWuSdwzuh78EwmvJv9LJ.jpg", "actors": ["James Broughton ()"], "comments": [], "recommandations_id": []}

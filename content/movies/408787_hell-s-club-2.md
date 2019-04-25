@@ -1,1 +1,0 @@
-{"tmdb_id": 408787, "title": "Hell's Club 2", "original_title": "Hell's Club 2", "slug_title": "hell-s-club-2", "date": "2016-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

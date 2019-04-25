@@ -1,1 +1,0 @@
-{"tmdb_id": 237750, "title": "A Body Without Organs", "original_title": "A Body Without Organs", "slug_title": "a-body-without-organs", "date": "2012-04-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

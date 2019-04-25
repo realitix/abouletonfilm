@@ -1,1 +1,0 @@
-{"tmdb_id": 428071, "title": "Rio Turvo", "original_title": "Rio Turvo", "slug_title": "rio-turvo", "date": "2007-11-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

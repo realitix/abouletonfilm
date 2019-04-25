@@ -1,1 +1,0 @@
-{"tmdb_id": 442861, "title": "All Good Things", "original_title": "All Good Things", "slug_title": "all-good-things", "date": "2017-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

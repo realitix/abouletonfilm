@@ -1,1 +1,0 @@
-{"tmdb_id": 288379, "title": "S\u00e9miramis", "original_title": "S\u00e9miramis", "slug_title": "semiramis", "date": "1910-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stacia Napierkowska ()", "Paul Capellani ()", "Yvonne Mirval ()"], "comments": [], "recommandations_id": []}

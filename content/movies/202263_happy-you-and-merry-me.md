@@ -1,1 +1,0 @@
-{"tmdb_id": 202263, "title": "Happy You and Merry Me", "original_title": "Happy You and Merry Me", "slug_title": "happy-you-and-merry-me", "date": "1936-08-20", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

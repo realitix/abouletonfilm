@@ -1,1 +1,0 @@
-{"tmdb_id": 274366, "title": "Chihuly in the Hotshop", "original_title": "Chihuly in the Hotshop", "slug_title": "chihuly-in-the-hotshop", "date": "2008-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sJgkSwnXamK8Sxd9aEm2IJMEzca.jpg", "actors": [], "comments": [], "recommandations_id": []}

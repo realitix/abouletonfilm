@@ -1,1 +1,0 @@
-{"tmdb_id": 226882, "title": "Varian & Putzi: A 20th Century Tale", "original_title": "Varian & Putzi: A 20th Century Tale", "slug_title": "varian-putzi-a-20th-century-tale", "date": "2011-10-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

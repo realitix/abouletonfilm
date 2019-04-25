@@ -1,1 +1,0 @@
-{"tmdb_id": 320829, "title": "Paavo J\u00e4rvi Meets Elisabeth Leonskaja", "original_title": "Paavo J\u00e4rvi Meets Elisabeth Leonskaja", "slug_title": "paavo-jarvi-meets-elisabeth-leonskaja", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

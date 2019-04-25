@@ -1,1 +1,0 @@
-{"tmdb_id": 252851, "title": "How Wet Was My Ocean", "original_title": "How Wet Was My Ocean", "slug_title": "how-wet-was-my-ocean", "date": "1940-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 367874, "title": "Auction Kings", "original_title": "Auction Kings", "slug_title": "auction-kings", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 367874, "title": "Auction Kings", "original_title": "Auction Kings", "slug_title": "auction-kings", "date": "", "genre": [""], "score": "4.0/10", "synopsis": "American Reality TV", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

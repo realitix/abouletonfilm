@@ -1,1 +1,0 @@
-{"tmdb_id": 558213, "title": "Le plombier amoureux", "original_title": "Le plombier amoureux", "slug_title": "le-plombier-amoureux", "date": "1932-12-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

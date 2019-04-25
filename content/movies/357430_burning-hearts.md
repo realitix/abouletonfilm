@@ -1,1 +1,0 @@
-{"tmdb_id": 357430, "title": "Burning Hearts", "original_title": "Burning Hearts", "slug_title": "burning-hearts", "date": "2013-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q3v7FpChNiXfnqNy011AGpxB3hy.jpg", "actors": [], "comments": [], "recommandations_id": []}

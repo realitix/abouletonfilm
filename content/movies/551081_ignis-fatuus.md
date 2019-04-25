@@ -1,1 +1,0 @@
-{"tmdb_id": 551081, "title": "Ignis Fatuus", "original_title": "Ignis Fatuus", "slug_title": "ignis-fatuus", "date": "2012-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

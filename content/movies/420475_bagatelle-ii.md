@@ -1,1 +1,0 @@
-{"tmdb_id": 420475, "title": "Bagatelle II", "original_title": "Bagatelle II", "slug_title": "bagatelle-ii", "date": "2016-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wT6qnp4KkpqasaBIKhBBsyCRWa9.jpg", "actors": [], "comments": [], "recommandations_id": []}

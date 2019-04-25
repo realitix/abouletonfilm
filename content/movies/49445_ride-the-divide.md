@@ -1,1 +1,0 @@
-{"tmdb_id": 49445, "title": "Ride the Divide", "original_title": "Ride the Divide", "slug_title": "ride-the-divide", "date": "2010-04-15", "genre": "Aventure / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hJFONSIOGY64HabKqMlooyvjlCa.jpg", "actors": [], "comments": [], "recommandations_id": []}

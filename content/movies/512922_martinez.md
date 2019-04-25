@@ -1,1 +1,0 @@
-{"tmdb_id": 512922, "title": "Martinez", "original_title": "Martinez", "slug_title": "martinez", "date": "2019-12-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Francisco Reyes (Martinez)", "Humberto Busto ()"], "comments": [], "recommandations_id": []}

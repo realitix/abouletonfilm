@@ -1,1 +1,0 @@
-{"tmdb_id": 363045, "title": "Zum Greifen nah", "original_title": "Zum Greifen nah", "slug_title": "zum-greifen-nah", "date": "1992-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wolfgang Maria Bauer ()", "Anne-Marie Bubke ()"], "comments": [], "recommandations_id": []}

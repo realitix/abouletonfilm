@@ -1,1 +1,0 @@
-{"tmdb_id": 413962, "title": "The Man Who Makes the Difference", "original_title": "The Man Who Makes the Difference", "slug_title": "the-man-who-makes-the-difference", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Ford (Narrator)"], "comments": [], "recommandations_id": []}

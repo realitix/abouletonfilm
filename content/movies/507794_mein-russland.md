@@ -1,1 +1,0 @@
-{"tmdb_id": 507794, "title": "Mein Russland", "original_title": "Mein Russland", "slug_title": "mein-russland", "date": "2003-03-20", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andrea N\u00fcrnberger (Margit)", "Susanne Wuest ()"], "comments": [], "recommandations_id": []}

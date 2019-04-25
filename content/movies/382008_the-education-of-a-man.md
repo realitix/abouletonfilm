@@ -1,1 +1,0 @@
-{"tmdb_id": 382008, "title": "The Education of a Man", "original_title": "Muzhskoye vospitaniye", "slug_title": "the-education-of-a-man", "date": "1983-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b9NeHu5KW0vJ0Ddghj8xB7ABN13.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 321287, "title": "A Requiem For Bobby Fischer", "original_title": "A Requiem For Bobby Fischer", "slug_title": "a-requiem-for-bobby-fischer", "date": "2010-04-10", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d0eORtXDJWP5aQwro0z0I7NZTwR.jpg", "actors": [], "comments": [], "recommandations_id": []}

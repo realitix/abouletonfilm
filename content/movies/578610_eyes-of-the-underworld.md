@@ -1,1 +1,0 @@
-{"tmdb_id": 578610, "title": "Eyes of the Underworld", "original_title": "Eyes of the Underworld", "slug_title": "eyes-of-the-underworld", "date": "1929-04-28", "genre": "Drame / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bill Cady (Pat Doran)", "Sally Blane (Florence Hueston)"], "comments": [], "recommandations_id": []}

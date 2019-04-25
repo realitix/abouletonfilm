@@ -1,1 +1,0 @@
-{"tmdb_id": 165413, "title": "Happy Polo", "original_title": "Happy Polo", "slug_title": "happy-polo", "date": "1932-05-13", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 584141, "title": "It\u2019s Going To Be Beautiful", "original_title": "It\u2019s Going To Be Beautiful", "slug_title": "its-going-to-be-beautiful", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/UryTy54IduN2waCnxx4IiO6EG4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 204203, "title": "The Boy and the Bridge", "original_title": "The Boy and the Bridge", "slug_title": "the-boy-and-the-bridge", "date": "1959-07-27", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vrT5pnH3eN4FFTyxyAUJaioNg0I.jpg", "actors": [], "comments": [], "recommandations_id": []}

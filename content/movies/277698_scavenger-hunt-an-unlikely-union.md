@@ -1,1 +1,0 @@
-{"tmdb_id": 277698, "title": "Scavenger Hunt: An Unlikely Union", "original_title": "Scavenger Hunt: An Unlikely Union", "slug_title": "scavenger-hunt-an-unlikely-union", "date": "2012-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

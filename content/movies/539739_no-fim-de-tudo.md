@@ -1,1 +1,0 @@
-{"tmdb_id": 539739, "title": "No Fim de Tudo", "original_title": "No Fim de Tudo", "slug_title": "no-fim-de-tudo", "date": "2017-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qUzccSMeA1f2qvqtVsSvYzNs4wL.jpg", "actors": [], "comments": [], "recommandations_id": []}

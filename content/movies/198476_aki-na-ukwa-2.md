@@ -1,1 +1,0 @@
-{"tmdb_id": 198476, "title": "Aki Na Ukwa 2", "original_title": "Aki Na Ukwa 2", "slug_title": "aki-na-ukwa-2", "date": "2002-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chinedu Ikedieze (Aki)", "Osita Iheme (Popo)"], "comments": [], "recommandations_id": []}

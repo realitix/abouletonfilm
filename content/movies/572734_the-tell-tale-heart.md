@@ -1,1 +1,0 @@
-{"tmdb_id": 572734, "title": "The Tell Tale Heart", "original_title": "The Tell Tale Heart", "slug_title": "the-tell-tale-heart", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charles Sharman-Cox ()"], "comments": [], "recommandations_id": []}

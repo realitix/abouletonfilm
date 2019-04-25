@@ -1,1 +1,0 @@
-{"tmdb_id": 347728, "title": "In/Dividu", "original_title": "In/Dividu", "slug_title": "in-dividu", "date": "1999-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rVstrKnYAEOe9S3x0efbSTCcrW1.jpg", "actors": [], "comments": [], "recommandations_id": []}

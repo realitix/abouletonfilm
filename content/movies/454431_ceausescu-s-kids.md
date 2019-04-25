@@ -1,1 +1,0 @@
-{"tmdb_id": 454431, "title": "Ceau\u0219escu's Kids", "original_title": "Ceau\u0219escu's Kids", "slug_title": "ceausescu-s-kids", "date": "2004-08-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6gdRaa7LpBFCa1N5wVPqJbk7ODr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 306865, "title": "100 Favourite Sing-Along Songs", "original_title": "100 Favourite Sing-Along Songs", "slug_title": "100-favourite-sing-along-songs", "date": "2006-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eIXGhAJlwmu8iNmHS2hIUaagjzc.jpg", "actors": [], "comments": [], "recommandations_id": []}

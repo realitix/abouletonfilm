@@ -1,1 +1,0 @@
-{"tmdb_id": 483879, "title": "Nobody Loves Me", "original_title": "Nobody Loves Me", "slug_title": "nobody-loves-me", "date": "2017-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

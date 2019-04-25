@@ -1,1 +1,0 @@
-{"tmdb_id": 417131, "title": "Copyrette", "original_title": "Copyrette", "slug_title": "copyrette", "date": "2016-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ckaXrrax9ynmpnfQGwmrfGp4wbY.jpg", "actors": ["Sallie Harmsen ()", "Thomas Ryckewaert ()"], "comments": [], "recommandations_id": []}

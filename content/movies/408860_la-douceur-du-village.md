@@ -1,1 +1,0 @@
-{"tmdb_id": 408860, "title": "La douceur du village", "original_title": "La douceur du village", "slug_title": "la-douceur-du-village", "date": "1964-05-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

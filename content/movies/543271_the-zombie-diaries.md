@@ -1,1 +1,0 @@
-{"tmdb_id": 543271, "title": "The Zombie Diaries", "original_title": "The Zombie Diaries", "slug_title": "the-zombie-diaries", "date": "2017-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

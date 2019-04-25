@@ -1,1 +1,0 @@
-{"tmdb_id": 474184, "title": "PUR & Friends 2017 Live auf Schalke", "original_title": "PUR & Friends 2017 Live auf Schalke", "slug_title": "pur-friends-2017-live-auf-schalke", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

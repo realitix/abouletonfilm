@@ -1,1 +1,0 @@
-{"tmdb_id": 328428, "title": "Every Face Has a Name", "original_title": "Every Face Has a Name", "slug_title": "every-face-has-a-name", "date": "2015-02-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/77oPb1VDGdJwPgcs758UY8heJ94.jpg", "actors": [], "comments": [], "recommandations_id": []}

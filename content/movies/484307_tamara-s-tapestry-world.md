@@ -1,1 +1,0 @@
-{"tmdb_id": 484307, "title": "Tamara's Tapestry World", "original_title": "Tamara's Tapestry World", "slug_title": "tamara-s-tapestry-world", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

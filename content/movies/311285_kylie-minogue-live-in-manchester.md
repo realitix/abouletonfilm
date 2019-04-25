@@ -1,1 +1,0 @@
-{"tmdb_id": 311285, "title": "Kylie Minogue: Live in Manchester", "original_title": "Kylie Minogue: Live in Manchester", "slug_title": "kylie-minogue-live-in-manchester", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kylie Minogue ()"], "comments": [], "recommandations_id": []}

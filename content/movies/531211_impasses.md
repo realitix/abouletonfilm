@@ -1,1 +1,0 @@
-{"tmdb_id": 531211, "title": "Impasses", "original_title": "Impasses", "slug_title": "impasses", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m9e3AudTQvxZ0QypDcOIro5iA7I.jpg", "actors": [], "comments": [], "recommandations_id": []}

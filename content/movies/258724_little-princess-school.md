@@ -1,1 +1,0 @@
-{"tmdb_id": 258724, "title": "Little Princess School", "original_title": "Escola de Princesinhas", "slug_title": "little-princess-school", "date": "2008-01-01", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 554001, "title": "The Hills of Donegal", "original_title": "The Hills of Donegal", "slug_title": "the-hills-of-donegal", "date": "1947-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 213384, "title": "Guerilla Grannies", "original_title": "Guerilla Grannies", "slug_title": "guerilla-grannies", "date": "2012-10-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7HutHNv3XrSfSizg72Isu4gMpIP.jpg", "actors": [], "comments": [], "recommandations_id": []}

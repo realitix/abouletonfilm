@@ -1,1 +1,0 @@
-{"tmdb_id": 397644, "title": "Wives on Parade", "original_title": "\uc544\ub0b4\ub4e4\uc758 \ud589\uc9c4", "slug_title": "wives-on-parade", "date": "1974-05-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9eD8F5gC5CVM1zTCthwApZPSVhb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 224942, "title": "Rise: The movie", "original_title": "Rise: The movie", "slug_title": "rise-the-movie", "date": "2009-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x8wrP4QqgtC9Y3WW017kFEKP5fM.jpg", "actors": [], "comments": [], "recommandations_id": []}

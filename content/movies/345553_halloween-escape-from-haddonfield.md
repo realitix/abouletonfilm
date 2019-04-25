@@ -1,1 +1,0 @@
-{"tmdb_id": 345553, "title": "Halloween: Escape From Haddonfield", "original_title": "Halloween: Escape From Haddonfield", "slug_title": "halloween-escape-from-haddonfield", "date": "2000-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

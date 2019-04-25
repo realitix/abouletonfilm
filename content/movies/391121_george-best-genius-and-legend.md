@@ -1,1 +1,0 @@
-{"tmdb_id": 391121, "title": "George Best Genius and Legend", "original_title": "George Best Genius and Legend", "slug_title": "george-best-genius-and-legend", "date": "2007-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

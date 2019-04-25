@@ -1,1 +1,0 @@
-{"tmdb_id": 275331, "title": "The Hunters", "original_title": "The Hunters", "slug_title": "the-hunters", "date": "1957-01-01", "genre": "Documentaire", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jaNSu7XVCLc94ogmTnqFArTlOTL.jpg", "actors": ["John Marshall (Narrator)"], "comments": [], "recommandations_id": []}

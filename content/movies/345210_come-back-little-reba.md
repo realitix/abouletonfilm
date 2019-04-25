@@ -1,1 +1,0 @@
-{"tmdb_id": 345210, "title": "Come Back, Little Reba", "original_title": "Come Back, Little Reba", "slug_title": "come-back-little-reba", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

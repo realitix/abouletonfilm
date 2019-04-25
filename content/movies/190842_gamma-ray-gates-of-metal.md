@@ -1,1 +1,0 @@
-{"tmdb_id": 190842, "title": "Gamma Ray: Gates Of Metal", "original_title": "Gamma Ray: Gates Of Metal", "slug_title": "gamma-ray-gates-of-metal", "date": "2003-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sQrEa5AstrNX15eMjewel71Ln5y.jpg", "actors": [], "comments": [], "recommandations_id": []}

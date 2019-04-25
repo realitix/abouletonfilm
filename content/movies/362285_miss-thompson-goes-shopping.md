@@ -1,1 +1,0 @@
-{"tmdb_id": 362285, "title": "Miss Thompson Goes Shopping", "original_title": "Miss Thompson Goes Shopping", "slug_title": "miss-thompson-goes-shopping", "date": "1958-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

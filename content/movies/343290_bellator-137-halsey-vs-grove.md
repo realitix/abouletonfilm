@@ -1,1 +1,0 @@
-{"tmdb_id": 343290, "title": "Bellator 137: Halsey vs. Grove", "original_title": "Bellator 137: Halsey vs. Grove", "slug_title": "bellator-137-halsey-vs-grove", "date": "2015-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oVy3nR2CkSlWRr56OiEQ7G9jVcS.jpg", "actors": [], "comments": [], "recommandations_id": []}

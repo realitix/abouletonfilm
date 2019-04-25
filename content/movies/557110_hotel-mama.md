@@ -1,1 +1,0 @@
-{"tmdb_id": 557110, "title": "Hotel Mama", "original_title": "Hotel Mama", "slug_title": "hotel-mama", "date": "2017-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9uK3sAOrVYadliR4ehYuP8Ae9Is.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 328679, "title": "The Magic Cube", "original_title": "El cubo m\u00e1gico", "slug_title": "the-magic-cube", "date": "2006-12-22", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/81kC9OBf1Am2WqW0G6BYqNIf0bD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 506187, "title": "Party Wives", "original_title": "Party Wives", "slug_title": "party-wives", "date": "1988-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Laurel Canyon ()", "Bionca ()", "Bella Donna ()", "Ron Jeremy ()", "Jon Dough ()", "Marc Wallice ()"], "comments": [], "recommandations_id": []}

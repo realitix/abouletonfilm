@@ -1,1 +1,0 @@
-{"tmdb_id": 230733, "title": "A casa de Sandro", "original_title": "A casa de Sandro", "slug_title": "a-casa-de-sandro", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJvM3ZUdzjyyVNcJGTljMl5jAMX.jpg", "actors": [], "comments": [], "recommandations_id": []}

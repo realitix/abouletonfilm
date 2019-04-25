@@ -1,1 +1,0 @@
-{"tmdb_id": 283996, "title": "The Girl Who Hated Books", "original_title": "The Girl Who Hated Books", "slug_title": "the-girl-who-hated-books", "date": "2006-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bFjCdS1wBY3oXpeBG2400Ui9amG.jpg", "actors": [], "comments": [], "recommandations_id": []}

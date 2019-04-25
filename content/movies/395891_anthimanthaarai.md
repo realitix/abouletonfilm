@@ -1,1 +1,0 @@
-{"tmdb_id": 395891, "title": "Anthimanthaarai", "original_title": "Anthimanthaarai", "slug_title": "anthimanthaarai", "date": "1996-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a6rkVVcmbm8sTxbysqlPoVlnvIE.jpg", "actors": ["Jayasudha ()", "Vijayakumar ()", "Sanghavi ()"], "comments": [], "recommandations_id": []}

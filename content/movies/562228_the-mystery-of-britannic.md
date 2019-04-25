@@ -1,1 +1,0 @@
-{"tmdb_id": 562228, "title": "The Mystery of Britannic", "original_title": "The Mystery of Britannic", "slug_title": "the-mystery-of-britannic", "date": "", "genre": "Documentaire / Drame / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

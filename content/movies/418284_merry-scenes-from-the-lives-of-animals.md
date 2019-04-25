@@ -1,1 +1,0 @@
-{"tmdb_id": 418284, "title": "Merry Scenes from the Lives of Animals", "original_title": "Veselye stsenki iz zhizni zhivotnykh", "slug_title": "merry-scenes-from-the-lives-of-animals", "date": "1912-12-31", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

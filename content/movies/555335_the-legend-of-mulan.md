@@ -1,1 +1,0 @@
-{"tmdb_id": 555335, "title": "The Legend of Mulan", "original_title": "The Legend of Mulan", "slug_title": "the-legend-of-mulan", "date": "1998-01-01", "genre": "Animation / Familial / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Z9HCNedqDpiNmMCpGbJKqgZMNk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 592376, "title": "Pensionado", "original_title": "Pensionado", "slug_title": "pensionado", "date": "2016-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q8ALsnEwh0mtsQie8igydvli2fw.jpg", "actors": [], "comments": [], "recommandations_id": []}

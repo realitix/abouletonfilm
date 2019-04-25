@@ -1,1 +1,0 @@
-{"tmdb_id": 480836, "title": "Questions of Leadership", "original_title": "Questions of Leadership", "slug_title": "questions-of-leadership", "date": "1983-10-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556359, "title": "Croquette", "original_title": "Croquette", "slug_title": "croquette", "date": "1929-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

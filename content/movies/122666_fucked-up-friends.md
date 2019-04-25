@@ -1,1 +1,0 @@
-{"tmdb_id": 122666, "title": "Fucked Up Friends", "original_title": "Fucked Up Friends", "slug_title": "fucked-up-friends", "date": "2007-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vCGWFbXIi24U0aILcnKJXaCqTE5.jpg", "actors": [], "comments": [], "recommandations_id": []}

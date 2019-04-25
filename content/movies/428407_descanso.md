@@ -1,1 +1,0 @@
-{"tmdb_id": 428407, "title": "Descanso", "original_title": "Descanso", "slug_title": "descanso", "date": "2016-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rdPUEQsRBtpv4FOhN4FYZtIP7Fp.jpg", "actors": [], "comments": [], "recommandations_id": []}

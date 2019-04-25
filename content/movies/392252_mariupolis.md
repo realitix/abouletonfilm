@@ -1,1 +1,0 @@
-{"tmdb_id": 392252, "title": "Mariupolis", "original_title": "Mariupolis", "slug_title": "mariupolis", "date": "2016-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xwjQA0vfYW0IhcxWWvlxjeYCsYJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

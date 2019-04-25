@@ -1,1 +1,0 @@
-{"tmdb_id": 192182, "title": "When Worlds Collide", "original_title": "When Worlds Collide", "slug_title": "when-worlds-collide", "date": "2010-09-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f0I1jOBWnpMPc5qtAYeG46u6mZf.jpg", "actors": ["Ruben Martinez (Host)"], "comments": [], "recommandations_id": []}

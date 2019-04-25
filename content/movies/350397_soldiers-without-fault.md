@@ -1,1 +1,0 @@
-{"tmdb_id": 350397, "title": "Soldiers without Fault", "original_title": "\uc8c4\uc5c6\ub294 \ubcd1\uc0ac\ub4e4", "slug_title": "soldiers-without-fault", "date": "1990-03-17", "genre": "Guerre / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

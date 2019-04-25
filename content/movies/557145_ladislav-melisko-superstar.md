@@ -1,1 +1,0 @@
-{"tmdb_id": 557145, "title": "Ladislav Meli\u0161ko Superstar", "original_title": "Ladislav Meli\u0161ko Superstar", "slug_title": "ladislav-melisko-superstar", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

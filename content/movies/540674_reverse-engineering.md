@@ -1,1 +1,0 @@
-{"tmdb_id": 540674, "title": "Reverse engineering", "original_title": "Reverse engineering", "slug_title": "reverse-engineering", "date": "2013-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

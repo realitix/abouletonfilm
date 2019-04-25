@@ -1,1 +1,0 @@
-{"tmdb_id": 309189, "title": "Pyaar Ka Saagar", "original_title": "Pyaar Ka Saagar", "slug_title": "pyaar-ka-saagar", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

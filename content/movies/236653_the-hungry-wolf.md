@@ -1,1 +1,0 @@
-{"tmdb_id": 236653, "title": "The Hungry Wolf", "original_title": "The Hungry Wolf", "slug_title": "the-hungry-wolf", "date": "1942-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 341574, "title": "Journey to Jerusalem", "original_title": "Patuvane kam Yerusalim", "slug_title": "journey-to-jerusalem", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aFkhY1PL2mtOxPHlkgdN7j9oCu0.jpg", "actors": [], "comments": [], "recommandations_id": []}

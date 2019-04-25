@@ -1,1 +1,0 @@
-{"tmdb_id": 491874, "title": "Vision of the Fire Tree", "original_title": "Vision of the Fire Tree", "slug_title": "vision-of-the-fire-tree", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

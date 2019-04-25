@@ -1,1 +1,0 @@
-{"tmdb_id": 408141, "title": "Pulitzer", "original_title": "Pulitzer", "slug_title": "pulitzer", "date": "2015-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cF6fPBBNnp1ZtZaDS8JobG7PQT1.jpg", "actors": [], "comments": [], "recommandations_id": []}

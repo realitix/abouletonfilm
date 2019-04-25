@@ -1,1 +1,0 @@
-{"tmdb_id": 254265, "title": "Lost Cause", "original_title": "Lost Cause", "slug_title": "lost-cause", "date": "2014-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/grXgHpUK6n16JCx47qmC0QXUnRN.jpg", "actors": ["Dineta Williams-Trigg (Davina)", "Sandra E. Williams (Margo)"], "comments": [], "recommandations_id": []}

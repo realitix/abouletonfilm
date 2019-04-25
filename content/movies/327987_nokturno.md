@@ -1,1 +1,0 @@
-{"tmdb_id": 327987, "title": "Nokturno", "original_title": "Nokturno", "slug_title": "nokturno", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

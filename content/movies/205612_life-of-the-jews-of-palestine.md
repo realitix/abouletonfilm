@@ -1,1 +1,0 @@
-{"tmdb_id": 205612, "title": "Life of the Jews of Palestine", "original_title": "Life of the Jews of Palestine", "slug_title": "life-of-the-jews-of-palestine", "date": "1913-07-05", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 442555, "title": "Cirkus Summarum 2016", "original_title": "Cirkus Summarum 2016", "slug_title": "cirkus-summarum-2016", "date": "2016-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yjE9NtvkMCw6cYix3Cs1vMKfgV8.jpg", "actors": [], "comments": [], "recommandations_id": []}

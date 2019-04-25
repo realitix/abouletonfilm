@@ -1,1 +1,0 @@
-{"tmdb_id": 142225, "title": "Juan Diego: Messenger of Guadalupe", "original_title": "Juan Diego: Messenger of Guadalupe", "slug_title": "juan-diego-messenger-of-guadalupe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yjpYaz5bdbgTwIzlxe80zeTCKAZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

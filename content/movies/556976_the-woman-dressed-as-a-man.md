@@ -1,1 +1,0 @@
-{"tmdb_id": 556976, "title": "The Woman Dressed As a Man", "original_title": "La femme en homme", "slug_title": "the-woman-dressed-as-a-man", "date": "1932-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

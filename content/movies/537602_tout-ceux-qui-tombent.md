@@ -1,1 +1,0 @@
-{"tmdb_id": 537602, "title": "Tout ceux qui tombent", "original_title": "Tout ceux qui tombent", "slug_title": "tout-ceux-qui-tombent", "date": "1963-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

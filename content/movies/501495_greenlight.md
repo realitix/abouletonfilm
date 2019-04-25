@@ -1,1 +1,0 @@
-{"tmdb_id": 501495, "title": "Greenlight", "original_title": "Greenlight", "slug_title": "greenlight", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chase Williamson (Jack)", "Caroline Williams (Nancy)", "Chris Browning (Moesby)", "Shane Coffey (Sam)"], "comments": [], "recommandations_id": []}

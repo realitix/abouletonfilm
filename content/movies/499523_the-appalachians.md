@@ -1,1 +1,0 @@
-{"tmdb_id": 499523, "title": "The Appalachians", "original_title": "The Appalachians", "slug_title": "the-appalachians", "date": "2005-01-22", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J.W. Mahoney (Narrator)"], "comments": [], "recommandations_id": []}

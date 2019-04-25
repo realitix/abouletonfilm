@@ -1,1 +1,0 @@
-{"tmdb_id": 255345, "title": "Film House Fever", "original_title": "Film House Fever", "slug_title": "film-house-fever", "date": "1986-01-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3v7dzMvmCkpnhKW8Ma03PoEhhyA.jpg", "actors": ["Steve Buscemi ()", "Mark Boone Junior ()"], "comments": [], "recommandations_id": []}

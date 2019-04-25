@@ -1,1 +1,0 @@
-{"tmdb_id": 446566, "title": "Dia Estrelado", "original_title": "Dia Estrelado", "slug_title": "dia-estrelado", "date": "2011-04-06", "genre": "Animation / Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nM1omLIH0FBreTlJP2PuRY11LY6.jpg", "actors": [], "comments": [], "recommandations_id": []}

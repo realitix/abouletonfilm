@@ -1,1 +1,0 @@
-{"tmdb_id": 247636, "title": "Goodleburg", "original_title": "Goodleburg", "slug_title": "goodleburg", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

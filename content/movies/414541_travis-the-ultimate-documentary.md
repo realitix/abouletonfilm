@@ -1,1 +1,0 @@
-{"tmdb_id": 414541, "title": "Travis: The Ultimate Documentary", "original_title": "Travis: The Ultimate Documentary", "slug_title": "travis-the-ultimate-documentary", "date": "2013-10-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

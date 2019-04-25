@@ -1,1 +1,0 @@
-{"tmdb_id": 565228, "title": "La chavalanthrope", "original_title": "La chavalanthrope", "slug_title": "la-chavalanthrope", "date": "1972-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean-Pierre Marielle (Narrator)", "Jacques Dufilho (Actor)"], "comments": [], "recommandations_id": []}

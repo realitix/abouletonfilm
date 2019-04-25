@@ -1,1 +1,0 @@
-{"tmdb_id": 494385, "title": "The Shepherd", "original_title": "The Shepherd", "slug_title": "the-shepherd", "date": "2017-12-24", "genre": "Drame", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q4yiNROo7yyGSe13pEWez5d7jci.jpg", "actors": ["Aaron Himelstein (Simone)"], "comments": [], "recommandations_id": []}

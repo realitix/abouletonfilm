@@ -1,1 +1,0 @@
-{"tmdb_id": 455141, "title": "A Catastrophe in Hester Street", "original_title": "A Catastrophe in Hester Street", "slug_title": "a-catastrophe-in-hester-street", "date": "1904-01-29", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 557426, "title": "La complice", "original_title": "La complice", "slug_title": "la-complice", "date": "1933-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

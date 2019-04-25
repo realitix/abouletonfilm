@@ -1,1 +1,0 @@
-{"tmdb_id": 477111, "title": "Non nuotate in quel fiume 2: Lo scontro finale", "original_title": "Non nuotate in quel fiume 2: Lo scontro finale", "slug_title": "non-nuotate-in-quel-fiume-2-lo-scontro-finale", "date": "2017-09-20", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

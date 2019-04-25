@@ -1,1 +1,0 @@
-{"tmdb_id": 351607, "title": "The Snow Man", "original_title": "The Snow Man", "slug_title": "the-snow-man", "date": "1946-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

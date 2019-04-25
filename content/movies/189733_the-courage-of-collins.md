@@ -1,1 +1,0 @@
-{"tmdb_id": 189733, "title": "The Courage of Collins", "original_title": "The Courage of Collins", "slug_title": "the-courage-of-collins", "date": "1927-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edmund Cobb (Constable Collins)"], "comments": [], "recommandations_id": []}

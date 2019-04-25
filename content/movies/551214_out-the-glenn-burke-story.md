@@ -1,1 +1,0 @@
-{"tmdb_id": 551214, "title": "Out: The Glenn Burke Story", "original_title": "Out: The Glenn Burke Story", "slug_title": "out-the-glenn-burke-story", "date": "2010-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

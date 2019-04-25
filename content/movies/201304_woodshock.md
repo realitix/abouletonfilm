@@ -1,1 +1,0 @@
-{"tmdb_id": 201304, "title": "Woodshock", "original_title": "Woodshock", "slug_title": "woodshock", "date": "1985-01-01", "genre": "Documentaire / Musique", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hD4DCc8KiwTofQ3hgiTmHIeCVAy.jpg", "actors": ["Daniel Johnston (Himself)"], "comments": [], "recommandations_id": []}

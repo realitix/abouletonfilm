@@ -1,1 +1,0 @@
-{"tmdb_id": 565826, "title": "L'ombre et la nuit", "original_title": "L'ombre et la nuit", "slug_title": "l-ombre-et-la-nuit", "date": "1980-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ssulLPjNZEomvtpmeL5F1Qa854o.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 306337, "title": "Alapiranthavan", "original_title": "Alapiranthavan", "slug_title": "alapiranthavan", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 282193, "title": "Alma en pena", "original_title": "Alma en pena", "slug_title": "alma-en-pena", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Patricia Cercas ()", "Ana Cuerdo ()", "Agust\u00edn Gonz\u00e1lez ()", "Miguel \u00c1ngel Juan ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 469081, "title": "Exhale: Core Fusion: Yoga", "original_title": "Exhale: Core Fusion: Yoga", "slug_title": "exhale-core-fusion-yoga", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sJz0NfVtluy9o5p9bNOmPeKVYEa.jpg", "actors": [], "comments": [], "recommandations_id": []}

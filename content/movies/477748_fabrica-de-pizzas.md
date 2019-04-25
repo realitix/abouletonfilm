@@ -1,1 +1,0 @@
-{"tmdb_id": 477748, "title": "F\u00e1brica de Pizzas", "original_title": "F\u00e1brica de Pizzas", "slug_title": "fabrica-de-pizzas", "date": "2010-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ySNWKTT9aRG7PfN4i73JseAN2w.jpg", "actors": [], "comments": [], "recommandations_id": []}

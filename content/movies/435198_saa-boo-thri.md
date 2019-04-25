@@ -1,1 +1,0 @@
-{"tmdb_id": 435198, "title": "Saa Boo Thri", "original_title": "Saa Boo Thri", "slug_title": "saa-boo-thri", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

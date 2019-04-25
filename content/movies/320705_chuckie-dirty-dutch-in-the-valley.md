@@ -1,1 +1,0 @@
-{"tmdb_id": 320705, "title": "Chuckie - Dirty Dutch In the Valley", "original_title": "Chuckie - Dirty Dutch In the Valley", "slug_title": "chuckie-dirty-dutch-in-the-valley", "date": "2014-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

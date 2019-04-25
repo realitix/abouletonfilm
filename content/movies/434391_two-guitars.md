@@ -1,1 +1,0 @@
-{"tmdb_id": 434391, "title": "Two Guitars", "original_title": "Two Guitars", "slug_title": "two-guitars", "date": "2016-01-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tRJ0Ua5Sv3lsjKd1LX6tEZUifWj.jpg", "actors": ["Anhar Salem (Dancer)"], "comments": [], "recommandations_id": []}

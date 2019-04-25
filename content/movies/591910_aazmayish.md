@@ -1,1 +1,0 @@
-{"tmdb_id": 591910, "title": "Aazmayish", "original_title": "Aazmayish", "slug_title": "aazmayish", "date": "1995-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5V69KO5DvMDy5H36tRDVO1WFhxb.jpg", "actors": ["Dharmendra ()", "Mohnish Behl ()", "Prem Chopra ()"], "comments": [], "recommandations_id": []}

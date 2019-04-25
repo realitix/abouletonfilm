@@ -1,1 +1,0 @@
-{"tmdb_id": 311522, "title": "The Exchange", "original_title": "The Exchange", "slug_title": "the-exchange", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

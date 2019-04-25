@@ -1,1 +1,0 @@
-{"tmdb_id": 308056, "title": "Lootmaar", "original_title": "Lootmaar", "slug_title": "lootmaar", "date": "1980-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

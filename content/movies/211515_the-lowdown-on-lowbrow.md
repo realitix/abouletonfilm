@@ -1,1 +1,0 @@
-{"tmdb_id": 211515, "title": "The Lowdown on Lowbrow", "original_title": "The Lowdown on Lowbrow", "slug_title": "the-lowdown-on-lowbrow", "date": "2006-01-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h2WmejCCYCJD4yZmSPTmmw6hwyn.jpg", "actors": [], "comments": [], "recommandations_id": []}

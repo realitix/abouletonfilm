@@ -1,1 +1,0 @@
-{"tmdb_id": 358472, "title": "The Long Night Haul", "original_title": "The Long Night Haul", "slug_title": "the-long-night-haul", "date": "1956-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

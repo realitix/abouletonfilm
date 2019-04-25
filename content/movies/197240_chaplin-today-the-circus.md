@@ -1,1 +1,0 @@
-{"tmdb_id": 197240, "title": "Chaplin Today: The Circus", "original_title": "Chaplin Today: The Circus", "slug_title": "chaplin-today-the-circus", "date": "2003-05-25", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/leb8UY9nHG2qMy7UzPqSWo8cBj.jpg", "actors": [], "comments": [], "recommandations_id": []}

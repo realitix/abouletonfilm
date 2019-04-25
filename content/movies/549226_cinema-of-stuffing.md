@@ -1,1 +1,0 @@
-{"tmdb_id": 549226, "title": "Cinema of Stuffing", "original_title": "\u5265\u88fd\u306e\u6620\u753b", "slug_title": "cinema-of-stuffing", "date": "2010-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p9CKhYs51qIN8uCjnHQvifWaHkq.jpg", "actors": [], "comments": [], "recommandations_id": []}

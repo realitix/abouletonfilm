@@ -1,1 +1,0 @@
-{"tmdb_id": 308483, "title": "I Worked for Stalin", "original_title": "I Worked for Stalin", "slug_title": "i-worked-for-stalin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

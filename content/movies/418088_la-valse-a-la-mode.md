@@ -1,1 +1,0 @@
-{"tmdb_id": 418088, "title": "La valse \u00e0 la mode", "original_title": "La valse \u00e0 la mode", "slug_title": "la-valse-a-la-mode", "date": "1908-09-25", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maurice Chevalier ()"], "comments": [], "recommandations_id": []}

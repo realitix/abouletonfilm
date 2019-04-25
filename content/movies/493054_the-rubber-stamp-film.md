@@ -1,1 +1,0 @@
-{"tmdb_id": 493054, "title": "The Rubber Stamp Film", "original_title": "The Rubber Stamp Film", "slug_title": "the-rubber-stamp-film", "date": "1983-12-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

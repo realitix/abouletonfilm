@@ -1,1 +1,0 @@
-{"tmdb_id": 46796, "title": "Paddle to the Sea", "original_title": "Paddle to the Sea", "slug_title": "paddle-to-the-sea", "date": "1966-01-01", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cU9jnwelpIPiIJZ2rO6JS0jitKg.jpg", "actors": [], "comments": [], "recommandations_id": []}

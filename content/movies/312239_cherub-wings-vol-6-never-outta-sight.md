@@ -1,1 +1,0 @@
-{"tmdb_id": 312239, "title": "Cherub Wings: Vol. 6: Never Outta Sight", "original_title": "Cherub Wings: Vol. 6: Never Outta Sight", "slug_title": "cherub-wings-vol-6-never-outta-sight", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

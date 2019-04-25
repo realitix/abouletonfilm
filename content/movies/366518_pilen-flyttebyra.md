@@ -1,1 +1,0 @@
-{"tmdb_id": 366518, "title": "Pilen flyttebyr\u00e5", "original_title": "Pilen flyttebyr\u00e5", "slug_title": "pilen-flyttebyra", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

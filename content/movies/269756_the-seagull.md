@@ -1,1 +1,0 @@
-{"tmdb_id": 269756, "title": "The Seagull", "original_title": "Il gabbiano", "slug_title": "the-seagull", "date": "1977-04-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v9Fyly4hLdLcPU5u8lnXhr0xVNd.jpg", "actors": ["Remo Girone ()", "Laura Betti ()", "Pamela Villoresi ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 592872, "title": "Kurusu Serapio", "original_title": "Kurusu Serapio", "slug_title": "kurusu-serapio", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

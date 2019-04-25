@@ -1,1 +1,0 @@
-{"tmdb_id": 382067, "title": "Dinosaur Train: Dino-Mighty Music", "original_title": "Dinosaur Train: Dino-Mighty Music", "slug_title": "dinosaur-train-dino-mighty-music", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

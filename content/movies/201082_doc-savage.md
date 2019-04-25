@@ -1,1 +1,0 @@
-{"tmdb_id": 201082, "title": "Doc Savage", "original_title": "Doc Savage", "slug_title": "doc-savage", "date": "", "genre": "Action / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dwayne Johnson (Doc Savage)"], "comments": [], "recommandations_id": [462383, 333673, 312610, 146329]}

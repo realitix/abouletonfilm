@@ -1,1 +1,0 @@
-{"tmdb_id": 236907, "title": "Slightly Daffy", "original_title": "Slightly Daffy", "slug_title": "slightly-daffy", "date": "1944-06-16", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5d6OqtIFW5jprs5SAv4JNBikFSy.jpg", "actors": [], "comments": [], "recommandations_id": []}

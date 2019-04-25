@@ -1,1 +1,0 @@
-{"tmdb_id": 266768, "title": "NJPW Wrestling Dontaku 2014", "original_title": "NJPW Wrestling Dontaku 2014", "slug_title": "njpw-wrestling-dontaku-2014", "date": "2014-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hBq3fxEjJHhiCiNCJfymy5OYRO.jpg", "actors": [], "comments": [], "recommandations_id": []}

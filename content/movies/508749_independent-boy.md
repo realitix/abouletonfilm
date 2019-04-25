@@ -1,1 +1,0 @@
-{"tmdb_id": 508749, "title": "Independent Boy", "original_title": "Independent Boy", "slug_title": "independent-boy", "date": "2017-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iIUSiOaFUYibN8y7fJvRcKpTECM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 195200, "title": "Wash Day in Mexico", "original_title": "Wash Day in Mexico", "slug_title": "wash-day-in-mexico", "date": "1898-02-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

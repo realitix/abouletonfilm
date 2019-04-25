@@ -1,1 +1,0 @@
-{"tmdb_id": 299964, "title": "Mister Scrooge to See You", "original_title": "Mister Scrooge to See You", "slug_title": "mister-scrooge-to-see-you", "date": "2013-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nTeZaYWl5p8qlh7NFdBnYAwmzP9.jpg", "actors": [], "comments": [], "recommandations_id": []}

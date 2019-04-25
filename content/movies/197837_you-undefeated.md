@@ -1,1 +1,0 @@
-{"tmdb_id": 197837, "title": "You, Undefeated", "original_title": "Aparajita Tumi", "slug_title": "you-undefeated", "date": "2011-01-19", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ka5DkUIF06MTpssC1sWM1fsYXkE.jpg", "actors": [], "comments": [], "recommandations_id": []}

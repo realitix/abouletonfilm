@@ -1,1 +1,1 @@
-{"tmdb_id": 533779, "title": "Paleolito", "original_title": "Paleolito", "slug_title": "paleolito", "date": "2013-07-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 533779, "title": "Paleolito", "original_title": "Paleolito", "slug_title": "paleolito", "date": "2013-07-11", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

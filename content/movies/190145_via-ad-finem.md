@@ -1,1 +1,0 @@
-{"tmdb_id": 190145, "title": "Via Ad Finem", "original_title": "Via Ad Finem", "slug_title": "via-ad-finem", "date": "2012-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zq1QieAzgiT9PpKLHBnOoC9Z8PP.jpg", "actors": [], "comments": [], "recommandations_id": []}

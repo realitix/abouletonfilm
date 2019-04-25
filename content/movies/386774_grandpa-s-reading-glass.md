@@ -1,1 +1,0 @@
-{"tmdb_id": 386774, "title": "Grandpa's Reading Glass", "original_title": "Grandpa's Reading Glass", "slug_title": "grandpa-s-reading-glass", "date": "1902-07-09", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

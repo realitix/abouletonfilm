@@ -1,1 +1,0 @@
-{"tmdb_id": 441672, "title": "The Ramsay Downholers", "original_title": "The Ramsay Downholers", "slug_title": "the-ramsay-downholers", "date": "2011-12-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jason Cermak (Randy Fenwick)", "Alison Wandzura (Jamie)"], "comments": [], "recommandations_id": []}

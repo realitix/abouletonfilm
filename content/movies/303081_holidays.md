@@ -1,1 +1,0 @@
-{"tmdb_id": 303081, "title": "Holidays", "original_title": "Holidays", "slug_title": "holidays", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

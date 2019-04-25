@@ -1,1 +1,0 @@
-{"tmdb_id": 385913, "title": "Die russische Mafia", "original_title": "Die russische Mafia", "slug_title": "die-russische-mafia", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/esM02fxB5cmHhqMBXZtOKi8tqAz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 555419, "title": "La danseuse voil\u00e9e", "original_title": "La danseuse voil\u00e9e", "slug_title": "la-danseuse-voilee", "date": "1917-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

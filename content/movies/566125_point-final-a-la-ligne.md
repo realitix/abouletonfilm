@@ -1,1 +1,0 @@
-{"tmdb_id": 566125, "title": "Point final \u00e0 la ligne", "original_title": "Point final \u00e0 la ligne", "slug_title": "point-final-a-la-ligne", "date": "1981-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b3D8I7Oh2yAiux8mKKowQbJOdnx.jpg", "actors": [], "comments": [], "recommandations_id": []}

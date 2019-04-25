@@ -1,1 +1,0 @@
-{"tmdb_id": 425540, "title": "Knife in the Wife", "original_title": "N\u00f3z w wozie", "slug_title": "knife-in-the-wife", "date": "2014-05-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

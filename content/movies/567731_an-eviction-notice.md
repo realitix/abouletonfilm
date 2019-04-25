@@ -1,1 +1,0 @@
-{"tmdb_id": 567731, "title": "An Eviction Notice", "original_title": "An Eviction Notice", "slug_title": "an-eviction-notice", "date": "1995-02-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kevin Corrigan ()", "Matt  Molloy ()", "Parker Posey ()"], "comments": [], "recommandations_id": []}

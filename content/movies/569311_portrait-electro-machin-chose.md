@@ -1,1 +1,0 @@
-{"tmdb_id": 569311, "title": "Portrait Electro Machin Chose", "original_title": "Portrait Electro Machin Chose", "slug_title": "portrait-electro-machin-chose", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un court m\u00e9trage de Martial Raysse", "image": "/img/default-cover.png", "actors": ["Zouzou ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 595087, "title": "The Writer", "original_title": "The Writer", "slug_title": "the-writer", "date": "", "genre": "Horreur / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

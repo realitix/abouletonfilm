@@ -1,1 +1,0 @@
-{"tmdb_id": 51723, "title": "Razor Eaters", "original_title": "Razor Eaters", "slug_title": "razor-eaters", "date": "2003-07-13", "genre": "Crime / Thriller / Action", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/byRW9RyClAHuBe6ZUAesyjUVrvo.jpg", "actors": [], "comments": [], "recommandations_id": [17997, 4290]}

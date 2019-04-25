@@ -1,1 +1,0 @@
-{"tmdb_id": 352352, "title": "The Rise and Fall of the Russian Oligarchs", "original_title": "The Rise and Fall of the Russian Oligarchs", "slug_title": "the-rise-and-fall-of-the-russian-oligarchs", "date": "2006-01-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

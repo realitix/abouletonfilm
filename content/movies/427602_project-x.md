@@ -1,1 +1,0 @@
-{"tmdb_id": 427602, "title": "Project X", "original_title": "Project X", "slug_title": "project-x", "date": "2016-11-18", "genre": "Documentaire", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/HB5RjabrAYuXBmThk9t81Ctcqo.jpg", "actors": ["Rami Malek ()", "Michelle Williams ()"], "comments": [], "recommandations_id": [10563]}

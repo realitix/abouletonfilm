@@ -1,1 +1,0 @@
-{"tmdb_id": 265496, "title": "Bermuda Triangle Exposed", "original_title": "Bermuda Triangle Exposed", "slug_title": "bermuda-triangle-exposed", "date": "2011-03-21", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wPBVcrHCx5e3JjTSzisfo2ONSNa.jpg", "actors": [], "comments": [], "recommandations_id": []}

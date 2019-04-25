@@ -1,1 +1,0 @@
-{"tmdb_id": 407774, "title": "Wig'd Out", "original_title": "Wig'd Out", "slug_title": "wig-d-out", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

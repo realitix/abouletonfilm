@@ -1,1 +1,0 @@
-{"tmdb_id": 93161, "title": "Nawab Sirajuddaula", "original_title": "Nawab Sirajuddaula", "slug_title": "nawab-sirajuddaula", "date": "1967-02-06", "genre": "Guerre / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

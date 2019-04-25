@@ -1,1 +1,0 @@
-{"tmdb_id": 424450, "title": "Hidden River", "original_title": "R\u00edo escondido", "slug_title": "hidden-river", "date": "1999-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

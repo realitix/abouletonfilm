@@ -1,1 +1,0 @@
-{"tmdb_id": 54667, "title": "Ebba the Movie", "original_title": "Ebba the Movie", "slug_title": "ebba-the-movie", "date": "1982-05-14", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zs41eJROSpYPrmdaXjo8pH9LaY2.jpg", "actors": ["Joakim Th\u00e5str\u00f6m ()"], "comments": [], "recommandations_id": []}

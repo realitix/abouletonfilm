@@ -1,1 +1,0 @@
-{"tmdb_id": 50381, "title": "311 - Live at Floodfest 1993", "original_title": "311 - Live at Floodfest 1993", "slug_title": "311-live-at-floodfest-1993", "date": "1993-09-19", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xBxN5yNf3y9a61FV0z4mgvuavMq.jpg", "actors": [], "comments": [], "recommandations_id": []}

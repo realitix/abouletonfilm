@@ -1,1 +1,0 @@
-{"tmdb_id": 159671, "title": "Truck Tunes", "original_title": "Truck Tunes", "slug_title": "truck-tunes", "date": "2007-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4BUV2kFODagnCz0ffUg1oXc5dMC.jpg", "actors": ["Rob Gardner (Singer)"], "comments": [], "recommandations_id": []}

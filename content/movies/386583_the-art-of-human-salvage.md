@@ -1,1 +1,0 @@
-{"tmdb_id": 386583, "title": "The Art of Human Salvage", "original_title": "The Art of Human Salvage", "slug_title": "the-art-of-human-salvage", "date": "2015-04-01", "genre": "Action / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zoqq8XYlDCZWGiopza7yrGRjYut.jpg", "actors": [], "comments": [], "recommandations_id": []}

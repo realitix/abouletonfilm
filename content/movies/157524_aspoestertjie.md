@@ -1,1 +1,0 @@
-{"tmdb_id": 157524, "title": "Aspoestertjie", "original_title": "Aspoestertjie", "slug_title": "aspoestertjie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9DS4ycCvVVpeTvRJEX2klSKIyQW.jpg", "actors": [], "comments": [], "recommandations_id": []}

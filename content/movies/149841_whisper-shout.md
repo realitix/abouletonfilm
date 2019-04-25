@@ -1,1 +1,0 @@
-{"tmdb_id": 149841, "title": "whisper & SHOUT", "original_title": "fl\u00fcstern & SCHREIEN", "slug_title": "whisper-shout", "date": "1989-02-15", "genre": "Documentaire / Musique", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dpQ8wmEhP3HDUsRiwcFrXeGHe3E.jpg", "actors": [], "comments": [], "recommandations_id": []}

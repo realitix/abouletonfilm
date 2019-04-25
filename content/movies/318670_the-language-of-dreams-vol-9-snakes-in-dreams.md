@@ -1,1 +1,0 @@
-{"tmdb_id": 318670, "title": "The Language of Dreams: Vol. 9: Snakes in Dreams", "original_title": "The Language of Dreams: Vol. 9: Snakes in Dreams", "slug_title": "the-language-of-dreams-vol-9-snakes-in-dreams", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 577355, "title": "Coastal Village", "original_title": "Coastal Village", "slug_title": "coastal-village", "date": "1943-01-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

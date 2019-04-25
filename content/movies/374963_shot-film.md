@@ -1,1 +1,0 @@
-{"tmdb_id": 374963, "title": "Shot Film", "original_title": "Shot Film", "slug_title": "shot-film", "date": "2009-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

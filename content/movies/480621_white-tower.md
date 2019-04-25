@@ -1,1 +1,0 @@
-{"tmdb_id": 480621, "title": "White Tower", "original_title": "White Tower", "slug_title": "white-tower", "date": "2004-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

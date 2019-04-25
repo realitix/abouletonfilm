@@ -1,1 +1,0 @@
-{"tmdb_id": 461820, "title": "Bird Brain", "original_title": "Bird Brain", "slug_title": "bird-brain", "date": "2012-06-14", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wt1mPWWhZLGDqZP71Tk0UP8UGFg.jpg", "actors": [], "comments": [], "recommandations_id": []}

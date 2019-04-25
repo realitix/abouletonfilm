@@ -1,1 +1,0 @@
-{"tmdb_id": 553929, "title": "Easter Morning Raga", "original_title": "Easter Morning Raga", "slug_title": "easter-morning-raga", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

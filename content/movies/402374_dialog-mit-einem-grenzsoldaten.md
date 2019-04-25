@@ -1,1 +1,0 @@
-{"tmdb_id": 402374, "title": "Dialog mit einem Grenzsoldaten", "original_title": "Dialog mit einem Grenzsoldaten", "slug_title": "dialog-mit-einem-grenzsoldaten", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

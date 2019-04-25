@@ -1,1 +1,0 @@
-{"tmdb_id": 271399, "title": "Pongo's Rodeo", "original_title": "Pongo's Rodeo", "slug_title": "pongo-s-rodeo", "date": "1925-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

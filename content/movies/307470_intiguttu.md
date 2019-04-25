@@ -1,1 +1,1 @@
-{"tmdb_id": 307470, "title": "Intiguttu", "original_title": "Intiguttu", "slug_title": "intiguttu", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 307470, "title": "Intiguttu", "original_title": "Intiguttu", "slug_title": "intiguttu", "date": "1958-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No Overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

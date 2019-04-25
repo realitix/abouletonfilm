@@ -1,1 +1,0 @@
-{"tmdb_id": 300184, "title": "Rad Plaid", "original_title": "Rad Plaid", "slug_title": "rad-plaid", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xQTQJkqe9uSx76wfTN5MQhxlTQb.jpg", "actors": [], "comments": [], "recommandations_id": []}

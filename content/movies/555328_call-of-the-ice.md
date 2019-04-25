@@ -1,1 +1,0 @@
-{"tmdb_id": 555328, "title": "Call of the Ice", "original_title": "Call of the Ice", "slug_title": "call-of-the-ice", "date": "2016-10-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mike Magidson (Self)"], "comments": [], "recommandations_id": []}

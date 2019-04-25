@@ -1,1 +1,0 @@
-{"tmdb_id": 177091, "title": "Una Opera Prima", "original_title": "Una Opera Prima", "slug_title": "una-opera-prima", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tamara Monzonsillo (Greta)", "Michael Green (Elder McAvoy)"], "comments": [], "recommandations_id": []}

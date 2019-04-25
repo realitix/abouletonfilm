@@ -1,1 +1,0 @@
-{"tmdb_id": 315416, "title": "Achterbahn der Gef\u00fchle", "original_title": "Achterbahn der Gef\u00fchle", "slug_title": "achterbahn-der-gefuhle", "date": "1995-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

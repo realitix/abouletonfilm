@@ -1,1 +1,0 @@
-{"tmdb_id": 124727, "title": "Darkchylde", "original_title": "Darkchylde", "slug_title": "darkchylde", "date": "2013-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/axxfwOq0SxktgvinWs6ZGlJL5l9.jpg", "actors": [], "comments": [], "recommandations_id": []}

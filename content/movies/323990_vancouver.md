@@ -1,1 +1,0 @@
-{"tmdb_id": 323990, "title": "Vancouver", "original_title": "Vancouver", "slug_title": "vancouver", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

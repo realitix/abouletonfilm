@@ -1,1 +1,0 @@
-{"tmdb_id": 274737, "title": "The Vigil (for Kurt Cobain)", "original_title": "The Vigil (for Kurt Cobain)", "slug_title": "the-vigil-for-kurt-cobain", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6jbiZ4bqjikLyXcz1GBrpgyk3OP.jpg", "actors": [], "comments": [], "recommandations_id": []}

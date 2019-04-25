@@ -1,1 +1,0 @@
-{"tmdb_id": 257824, "title": "Living with Wolves", "original_title": "Living with Wolves", "slug_title": "living-with-wolves", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Erik Zimen (Erik Zimen)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 264198, "title": "NJPW Invasion Attack 2014", "original_title": "NJPW Invasion Attack 2014", "slug_title": "njpw-invasion-attack-2014", "date": "2014-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6aa062MSS0NgBOMoxwWMq7eJ2TO.jpg", "actors": [], "comments": [], "recommandations_id": []}

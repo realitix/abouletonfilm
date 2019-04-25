@@ -1,1 +1,0 @@
-{"tmdb_id": 299932, "title": "Kate Nash", "original_title": "Kate Nash", "slug_title": "kate-nash", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

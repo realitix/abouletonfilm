@@ -1,1 +1,0 @@
-{"tmdb_id": 445356, "title": "Au caf\u00e9 romand", "original_title": "Au caf\u00e9 romand", "slug_title": "au-cafe-romand", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

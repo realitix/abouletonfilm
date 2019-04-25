@@ -1,1 +1,0 @@
-{"tmdb_id": 546909, "title": "Commodores: In Las Vegas", "original_title": "Commodores: In Las Vegas", "slug_title": "commodores-in-las-vegas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

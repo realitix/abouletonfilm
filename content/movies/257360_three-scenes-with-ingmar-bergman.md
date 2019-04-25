@@ -1,1 +1,0 @@
-{"tmdb_id": 257360, "title": "Three Scenes with Ingmar Bergman", "original_title": "Tre Scener med Ingmar Bergman", "slug_title": "three-scenes-with-ingmar-bergman", "date": "1976-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

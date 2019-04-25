@@ -1,1 +1,0 @@
-{"tmdb_id": 401343, "title": "Jorge de Altinho - Ao VIvo", "original_title": "Jorge de Altinho - Ao VIvo", "slug_title": "jorge-de-altinho-ao-vivo", "date": "2005-12-07", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cHj8wZhLdWxs5KsUIflsVsESDlj.jpg", "actors": [], "comments": [], "recommandations_id": []}

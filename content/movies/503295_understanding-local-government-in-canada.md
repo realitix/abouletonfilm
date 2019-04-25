@@ -1,1 +1,0 @@
-{"tmdb_id": 503295, "title": "Understanding Local Government in Canada", "original_title": "Understanding Local Government in Canada", "slug_title": "understanding-local-government-in-canada", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

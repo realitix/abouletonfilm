@@ -1,1 +1,0 @@
-{"tmdb_id": 537689, "title": "Only Bound By My Imagination", "original_title": "Only Bound By My Imagination", "slug_title": "only-bound-by-my-imagination", "date": "2017-12-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s6w9NcFzzugkuXNk0DHXB2gYpki.jpg", "actors": [], "comments": [], "recommandations_id": []}

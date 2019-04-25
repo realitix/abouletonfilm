@@ -1,1 +1,0 @@
-{"tmdb_id": 402591, "title": "Marilyn, a su pesar", "original_title": "Marilyn, a su pesar", "slug_title": "marilyn-a-su-pesar", "date": "2012-06-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

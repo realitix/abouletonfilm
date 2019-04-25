@@ -1,1 +1,0 @@
-{"tmdb_id": 452478, "title": "Aokigahara: Suicide Forest", "original_title": "Aokigahara: Suicide Forest", "slug_title": "aokigahara-suicide-forest", "date": "2010-06-08", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Azusa Hayano (Azusa Hayano)"], "comments": [], "recommandations_id": []}

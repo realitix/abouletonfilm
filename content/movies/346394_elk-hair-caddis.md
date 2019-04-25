@@ -1,1 +1,0 @@
-{"tmdb_id": 346394, "title": "Elk Hair Caddis", "original_title": "Elk Hair Caddis", "slug_title": "elk-hair-caddis", "date": "2010-09-16", "genre": "Action / Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

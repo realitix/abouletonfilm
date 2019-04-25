@@ -1,1 +1,0 @@
-{"tmdb_id": 381513, "title": "praklawn", "original_title": "praklawn", "slug_title": "praklawn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iwSggs0yWlITm4SubsnML0Tm8Gr.jpg", "actors": [], "comments": [], "recommandations_id": []}

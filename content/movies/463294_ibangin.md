@@ -1,1 +1,0 @@
-{"tmdb_id": 463294, "title": "\uc774\ubc29\uc778", "original_title": "\uc774\ubc29\uc778", "slug_title": "ibangin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

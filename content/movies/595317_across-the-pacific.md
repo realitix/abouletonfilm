@@ -1,1 +1,0 @@
-{"tmdb_id": 595317, "title": "Across the Pacific", "original_title": "Across the Pacific", "slug_title": "across-the-pacific", "date": "1926-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pJfT0F66SJudcmM7CC1bzFrKvlw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 535221, "title": "Man in the Well", "original_title": "\u4e95\u91cc\u7684\u4eba", "slug_title": "man-in-the-well", "date": "2016-07-26", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/54tRwI8uRg4r3bYuLAO1QlruQ5G.jpg", "actors": ["Zhang Xiaoqian ()"], "comments": [], "recommandations_id": []}

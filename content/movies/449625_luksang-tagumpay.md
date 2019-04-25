@@ -1,1 +1,0 @@
-{"tmdb_id": 449625, "title": "Luksang Tagumpay", "original_title": "Luksang Tagumpay", "slug_title": "luksang-tagumpay", "date": "1956-06-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ujUwankZxEnA8wJ4o7O1rog0BMf.jpg", "actors": ["Jaime de la Rosa ()", "Delia Razon ()"], "comments": [], "recommandations_id": []}

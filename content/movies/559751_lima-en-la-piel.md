@@ -1,1 +1,0 @@
-{"tmdb_id": 559751, "title": "Lima en la piel", "original_title": "Lima en la piel", "slug_title": "lima-en-la-piel", "date": "2017-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/499OtErVP0h7gx7OBTjqHOKguei.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 231155, "title": "Bethl\u00e9em, une place", "original_title": "Bethl\u00e9em, une place", "slug_title": "bethleem-une-place", "date": "1897-10-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

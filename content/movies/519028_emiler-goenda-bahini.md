@@ -1,1 +1,0 @@
-{"tmdb_id": 519028, "title": "Emiler Goenda Bahini", "original_title": "Emiler Goenda Bahini", "slug_title": "emiler-goenda-bahini", "date": "", "genre": "Drame / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/plv7365psLdmTavv4xQyxb29DtH.jpg", "actors": [], "comments": [], "recommandations_id": []}

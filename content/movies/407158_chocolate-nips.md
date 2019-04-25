@@ -1,1 +1,0 @@
-{"tmdb_id": 407158, "title": "Chocolate Nips", "original_title": "Chocolate Nips", "slug_title": "chocolate-nips", "date": "2003-12-09", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tKkFlO9wPbFjjWuD8wIbhwvjUeF.jpg", "actors": [], "comments": [], "recommandations_id": []}

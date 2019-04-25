@@ -1,1 +1,0 @@
-{"tmdb_id": 428332, "title": "Claim Excerpts", "original_title": "Claim Excerpts", "slug_title": "claim-excerpts", "date": "1971-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vito Acconci (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 397913, "title": "Saliendo del cascar\u00f3n", "original_title": "Saliendo del cascar\u00f3n", "slug_title": "saliendo-del-cascaron", "date": "2015-11-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nyCYjyJuRMfDqKVUU1SC9KdlhHO.jpg", "actors": [], "comments": [], "recommandations_id": []}

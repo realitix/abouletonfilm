@@ -1,1 +1,0 @@
-{"tmdb_id": 229312, "title": "Turbonegro The ResErection", "original_title": "Turbonegro The ResErection", "slug_title": "turbonegro-the-reserection", "date": "2005-04-19", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hbk2y7CZmtfYW0EmlPwUWnX1pm8.jpg", "actors": [], "comments": [], "recommandations_id": []}

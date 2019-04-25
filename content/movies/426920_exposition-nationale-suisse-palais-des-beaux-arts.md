@@ -1,1 +1,0 @@
-{"tmdb_id": 426920, "title": "Exposition nationale suisse. Palais des beaux-arts", "original_title": "Exposition nationale suisse. Palais des beaux-arts", "slug_title": "exposition-nationale-suisse-palais-des-beaux-arts", "date": "1896-11-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 508436, "title": "Bachelor Girls", "original_title": "Bachelor Girls", "slug_title": "bachelor-girls", "date": "2016-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nG4pkGzyFqXF8vHkq68Hn1nuknw.jpg", "actors": [], "comments": [], "recommandations_id": []}

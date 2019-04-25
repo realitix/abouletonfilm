@@ -1,1 +1,0 @@
-{"tmdb_id": 314625, "title": "I Am the People", "original_title": "Je suis le peuple", "slug_title": "i-am-the-people", "date": "2014-10-24", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/et3KEajd3Ne932M9wfnfbFvKGdv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 513783, "title": "Fix and Release", "original_title": "Fix and Release", "slug_title": "fix-and-release", "date": "2017-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 292515, "title": "Wedding Band", "original_title": "Wedding Band", "slug_title": "wedding-band", "date": "1990-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4ja3lGcTJmtxR75CCHDF5qa4NbD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 454522, "title": "Under the Tonto Rim", "original_title": "Under the Tonto Rim", "slug_title": "under-the-tonto-rim", "date": "1928-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jNUfp2c3CzlpLy5TTb8rWPYml66.jpg", "actors": [], "comments": [], "recommandations_id": []}

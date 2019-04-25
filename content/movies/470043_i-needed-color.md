@@ -1,1 +1,0 @@
-{"tmdb_id": 470043, "title": "I Needed Color", "original_title": "I Needed Color", "slug_title": "i-needed-color", "date": "2017-07-25", "genre": "Documentaire", "score": "8.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sqwLWKFUITwN19TxjFU4yZp4P2w.jpg", "actors": ["Jim Carrey (as Himself)"], "comments": [], "recommandations_id": []}

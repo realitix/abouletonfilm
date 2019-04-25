@@ -1,1 +1,0 @@
-{"tmdb_id": 501087, "title": "Mad Fire, Mad Love", "original_title": "\u6012\u706b\u60c5\u7130", "slug_title": "mad-fire-mad-love", "date": "1939-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

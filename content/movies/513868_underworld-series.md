@@ -1,1 +1,0 @@
-{"tmdb_id": 513868, "title": "underworld series", "original_title": "underworld series", "slug_title": "underworld-series", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

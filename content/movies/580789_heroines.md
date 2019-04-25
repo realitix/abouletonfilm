@@ -1,1 +1,0 @@
-{"tmdb_id": 580789, "title": "Heroines", "original_title": "Heroines", "slug_title": "heroines", "date": "2018-10-05", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2WZnkVnda97hrvjY5Aadvfb4UMo.jpg", "actors": ["Anna Khaja (Regina)", "Sage Adler (Nina)"], "comments": [], "recommandations_id": []}

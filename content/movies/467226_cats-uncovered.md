@@ -1,1 +1,0 @@
-{"tmdb_id": 467226, "title": "Cats Uncovered", "original_title": "Cats Uncovered", "slug_title": "cats-uncovered", "date": "2016-02-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/upXpZWQEgjD2iEY79UCoCbapdCQ.jpg", "actors": ["Kelly Hunter (Narrate)"], "comments": [], "recommandations_id": []}

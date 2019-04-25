@@ -1,1 +1,0 @@
-{"tmdb_id": 236224, "title": "Stars and Stripes", "original_title": "Stars and Stripes", "slug_title": "stars-and-stripes", "date": "1939-11-13", "genre": "Musique / Animation", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2V6V3QU2vFHhbCaPtKsXCBZRMYs.jpg", "actors": [], "comments": [], "recommandations_id": [159245]}

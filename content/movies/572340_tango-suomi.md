@@ -1,1 +1,0 @@
-{"tmdb_id": 572340, "title": "Tango Suomi", "original_title": "Tango Suomi", "slug_title": "tango-suomi", "date": "2016-07-10", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uwFtMos75gylndAiWQVHL4NP1Qi.jpg", "actors": [], "comments": [], "recommandations_id": []}

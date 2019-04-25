@@ -1,1 +1,0 @@
-{"tmdb_id": 336489, "title": "Porgy And Bess - San Francisco", "original_title": "Porgy And Bess - San Francisco", "slug_title": "porgy-and-bess-san-francisco", "date": "2009-04-19", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/48T1PkCdVgAHrrwZUiQNObMdTni.jpg", "actors": [], "comments": [], "recommandations_id": []}

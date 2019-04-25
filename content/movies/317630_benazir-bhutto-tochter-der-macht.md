@@ -1,1 +1,0 @@
-{"tmdb_id": 317630, "title": "Benazir Bhutto - Tochter der Macht", "original_title": "Benazir Bhutto - Tochter der Macht", "slug_title": "benazir-bhutto-tochter-der-macht", "date": "2005-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

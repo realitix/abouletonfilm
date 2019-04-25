@@ -1,1 +1,0 @@
-{"tmdb_id": 325742, "title": "Skiing On My Mind", "original_title": "Skiing On My Mind", "slug_title": "skiing-on-my-mind", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

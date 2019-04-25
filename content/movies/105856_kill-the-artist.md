@@ -1,1 +1,0 @@
-{"tmdb_id": 105856, "title": "Kill the Artist", "original_title": "Kill the Artist", "slug_title": "kill-the-artist", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kvHZVuWYAncdznZxIt4o5bv730u.jpg", "actors": [], "comments": [], "recommandations_id": []}

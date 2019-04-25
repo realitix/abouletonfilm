@@ -1,1 +1,0 @@
-{"tmdb_id": 168407, "title": "Fatima's Coochee-Coochee Dance", "original_title": "Fatima's Coochee-Coochee Dance", "slug_title": "fatima-s-coochee-coochee-dance", "date": "1896-05-03", "genre": "", "score": "5.2/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fatima (herself)"], "comments": [], "recommandations_id": [178755, 196605, 196286, 196293]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 539332, "title": "La derni\u00e8re valse", "original_title": "La derni\u00e8re valse", "slug_title": "la-derniere-valse", "date": "1935-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 437695, "title": "8mm Film Notes on 16mm", "original_title": "8mm Film Notes on 16mm", "slug_title": "8mm-film-notes-on-16mm", "date": "1971-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gEpOsbuZWOzFz4ZAKg4i8tko3rd.jpg", "actors": [], "comments": [], "recommandations_id": []}

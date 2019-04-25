@@ -1,1 +1,0 @@
-{"tmdb_id": 362340, "title": "Qaqqat Alanngui", "original_title": "Qaqqat Alanngui", "slug_title": "qaqqat-alanngui", "date": "2011-07-04", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eY2jrViVy6CZa8YOTKkxpBuO2B3.jpg", "actors": [], "comments": [], "recommandations_id": []}

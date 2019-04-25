@@ -1,1 +1,0 @@
-{"tmdb_id": 314889, "title": "Occasional Coarse Language", "original_title": "Occasional Coarse Language", "slug_title": "occasional-coarse-language", "date": "1998-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/inFzLFzW9GKdEzlPik7bgugEB9K.jpg", "actors": [], "comments": [], "recommandations_id": []}

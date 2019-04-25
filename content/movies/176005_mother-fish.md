@@ -1,1 +1,0 @@
-{"tmdb_id": 176005, "title": "Mother Fish", "original_title": "Mother Fish", "slug_title": "mother-fish", "date": "2010-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r2Z6sBnn1m6EwYAru1TlFpdiMeU.jpg", "actors": ["Kathy Nguyen (Kim)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 568009, "title": "Mumbai Cutting", "original_title": "Mumbai Cutting", "slug_title": "mumbai-cutting", "date": "2008-04-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

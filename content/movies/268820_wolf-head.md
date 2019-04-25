@@ -1,1 +1,0 @@
-{"tmdb_id": 268820, "title": "Wolf Head", "original_title": "Wolf Head", "slug_title": "wolf-head", "date": "2012-01-01", "genre": "Action / Com\u00e9die / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tXnnl1R4IMe32kBS1xKEen2zpnL.jpg", "actors": [], "comments": [], "recommandations_id": []}

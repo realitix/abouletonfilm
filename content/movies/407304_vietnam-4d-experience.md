@@ -1,1 +1,0 @@
-{"tmdb_id": 407304, "title": "Vietnam 4D Experience", "original_title": "Vietnam 4D Experience", "slug_title": "vietnam-4d-experience", "date": "2015-06-19", "genre": "Science-Fiction / Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ztMdtZhuacJhDiqC6bY6YKyDwLW.jpg", "actors": [], "comments": [], "recommandations_id": []}

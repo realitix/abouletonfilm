@@ -1,1 +1,0 @@
-{"tmdb_id": 465523, "title": "Fire on Heimaey", "original_title": "Eldur \u00ed Heimaey", "slug_title": "fire-on-heimaey", "date": "1974-07-10", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fv1RbSlZePThACz3GXqA1Oksilx.jpg", "actors": [], "comments": [], "recommandations_id": []}

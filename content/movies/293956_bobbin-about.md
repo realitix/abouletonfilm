@@ -1,1 +1,0 @@
-{"tmdb_id": 293956, "title": "Bobbin About", "original_title": "Bobbin About", "slug_title": "bobbin-about", "date": "1933-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

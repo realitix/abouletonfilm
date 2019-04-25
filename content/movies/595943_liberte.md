@@ -1,1 +1,0 @@
-{"tmdb_id": 595943, "title": "Libert\u00e9", "original_title": "Libert\u00e9", "slug_title": "liberte", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

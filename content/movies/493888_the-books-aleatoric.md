@@ -1,1 +1,0 @@
-{"tmdb_id": 493888, "title": "The Books - Aleatoric", "original_title": "The Books - Aleatoric", "slug_title": "the-books-aleatoric", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9VscVgtf3cl7EsKkPiZlvVMUtjU.jpg", "actors": [], "comments": [], "recommandations_id": []}

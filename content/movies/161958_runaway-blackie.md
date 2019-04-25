@@ -1,1 +1,0 @@
-{"tmdb_id": 161958, "title": "Runaway Blackie", "original_title": "Runaway Blackie", "slug_title": "runaway-blackie", "date": "1933-04-06", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

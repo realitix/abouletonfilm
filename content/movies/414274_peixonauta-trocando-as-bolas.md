@@ -1,1 +1,0 @@
-{"tmdb_id": 414274, "title": "Peixonauta: Trocando as Bolas", "original_title": "Peixonauta: Trocando as Bolas", "slug_title": "peixonauta-trocando-as-bolas", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a92S85DaJMJK4mEfs1DeviHAbvv.jpg", "actors": [], "comments": [], "recommandations_id": []}

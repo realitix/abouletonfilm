@@ -1,1 +1,0 @@
-{"tmdb_id": 178866, "title": "Hard as Nails", "original_title": "Hard as Nails", "slug_title": "hard-as-nails", "date": "2007-05-01", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wZ2zcNwfel2VtLQS3rG7CmJCOiL.jpg", "actors": [], "comments": [], "recommandations_id": []}

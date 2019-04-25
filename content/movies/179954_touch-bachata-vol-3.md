@@ -1,1 +1,0 @@
-{"tmdb_id": 179954, "title": "Touch Bachata Vol 3", "original_title": "Touch Bachata Vol 3", "slug_title": "touch-bachata-vol-3", "date": "2010-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uJsykXaGJbI6TtZm4JZ2NrHm3NC.jpg", "actors": [], "comments": [], "recommandations_id": []}

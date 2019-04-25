@@ -1,1 +1,0 @@
-{"tmdb_id": 529169, "title": "Bermuda Triangle", "original_title": "Bermuda Triangle", "slug_title": "bermuda-triangle", "date": "", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ryan Reynolds ()"], "comments": [], "recommandations_id": []}

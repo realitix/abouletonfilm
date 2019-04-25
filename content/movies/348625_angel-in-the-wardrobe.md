@@ -1,1 +1,0 @@
-{"tmdb_id": 348625, "title": "Angel in the Wardrobe", "original_title": "Anio\u0142 w szafie", "slug_title": "angel-in-the-wardrobe", "date": "1988-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4UxPnkmaY9ZR1br6eWWuvWT0LRB.jpg", "actors": [], "comments": [], "recommandations_id": []}

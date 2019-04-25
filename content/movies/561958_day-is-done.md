@@ -1,1 +1,0 @@
-{"tmdb_id": 561958, "title": "Day Is Done", "original_title": "Day Is Done", "slug_title": "day-is-done", "date": "2006-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sGrP5NdLEe4x8mMMt6oF5Fe0cGI.jpg", "actors": [], "comments": [], "recommandations_id": []}

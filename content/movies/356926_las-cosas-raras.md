@@ -1,1 +1,0 @@
-{"tmdb_id": 356926, "title": "Las Cosas Raras", "original_title": "Las Cosas Raras", "slug_title": "las-cosas-raras", "date": "2014-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lk4VkAcKyi8tH6ToOWqCfasbwTv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 267098, "title": "Com\u00e9die d'\u00e9t\u00e9", "original_title": "Com\u00e9die d'\u00e9t\u00e9", "slug_title": "comedie-d-ete", "date": "1989-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fZ8yzkcZJtYWAiP7qNGQpeM8eyD.jpg", "actors": [], "comments": [], "recommandations_id": []}

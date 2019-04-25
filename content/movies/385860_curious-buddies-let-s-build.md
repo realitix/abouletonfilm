@@ -1,1 +1,0 @@
-{"tmdb_id": 385860, "title": "Curious Buddies - Let's Build", "original_title": "Curious Buddies - Let's Build", "slug_title": "curious-buddies-let-s-build", "date": "2005-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jOGu7PtRChgd8iJhGuuDhJ3RZDV.jpg", "actors": [], "comments": [], "recommandations_id": []}

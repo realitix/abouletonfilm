@@ -1,1 +1,0 @@
-{"tmdb_id": 449239, "title": "Waiting for the Sun", "original_title": "Waiting for the Sun", "slug_title": "waiting-for-the-sun", "date": "2017-03-19", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/45jp9JNfiySMcska6DaL0Prs8ic.jpg", "actors": [], "comments": [], "recommandations_id": []}

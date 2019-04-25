@@ -1,1 +1,0 @@
-{"tmdb_id": 303075, "title": "Haalappa", "original_title": "Haalappa", "slug_title": "haalappa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

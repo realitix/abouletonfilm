@@ -1,1 +1,0 @@
-{"tmdb_id": 86333, "title": "Change of Life", "original_title": "Change of Life", "slug_title": "change-of-life", "date": "2006-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sRYXJkj7mDEu9916g4OR6AuVWgd.jpg", "actors": [], "comments": [], "recommandations_id": []}

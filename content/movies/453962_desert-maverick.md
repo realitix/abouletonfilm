@@ -1,1 +1,0 @@
-{"tmdb_id": 453962, "title": "Desert Maverick", "original_title": "Desert Maverick", "slug_title": "desert-maverick", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 243307, "title": "A Place to Stand", "original_title": "A Place to Stand", "slug_title": "a-place-to-stand", "date": "1967-04-28", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3OrQdJbuRk5ZFdvJcbxfZlfxQjs.jpg", "actors": [], "comments": [], "recommandations_id": []}

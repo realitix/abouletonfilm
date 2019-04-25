@@ -1,1 +1,0 @@
-{"tmdb_id": 544655, "title": "Glenn Hughes: Live in Australia", "original_title": "Glenn Hughes: Live in Australia", "slug_title": "glenn-hughes-live-in-australia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Glenn Hughes (Himself)"], "comments": [], "recommandations_id": []}

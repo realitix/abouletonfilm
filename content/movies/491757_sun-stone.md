@@ -1,1 +1,0 @@
-{"tmdb_id": 491757, "title": "Sun Stone", "original_title": "Piedra de Sol", "slug_title": "sun-stone", "date": "2017-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ey1Q2YuPJQ8kRuhUQMfv2JcAPSW.jpg", "actors": [], "comments": [], "recommandations_id": []}

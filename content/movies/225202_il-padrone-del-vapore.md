@@ -1,1 +1,0 @@
-{"tmdb_id": 225202, "title": "Il padrone del vapore", "original_title": "Il padrone del vapore", "slug_title": "il-padrone-del-vapore", "date": "1951-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ciccio Barbi ()", "Ughetto Bertucci ()", "Riccardo Billi ()"], "comments": [], "recommandations_id": []}

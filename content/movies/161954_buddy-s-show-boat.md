@@ -1,1 +1,0 @@
-{"tmdb_id": 161954, "title": "Buddy's Show Boat", "original_title": "Buddy's Show Boat", "slug_title": "buddy-s-show-boat", "date": "1933-12-08", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uRGx7jwEvbZL2BMKMSTWgLYvj9c.jpg", "actors": [], "comments": [], "recommandations_id": []}

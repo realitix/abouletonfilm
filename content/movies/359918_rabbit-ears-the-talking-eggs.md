@@ -1,1 +1,0 @@
-{"tmdb_id": 359918, "title": "Rabbit Ears - The Talking Eggs", "original_title": "Rabbit Ears - The Talking Eggs", "slug_title": "rabbit-ears-the-talking-eggs", "date": "1991-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2D5MwookLTgEI5C4HBgpEQbrjMH.jpg", "actors": [], "comments": [], "recommandations_id": []}

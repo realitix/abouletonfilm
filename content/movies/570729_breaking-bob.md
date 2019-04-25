@@ -1,1 +1,0 @@
-{"tmdb_id": 570729, "title": "Breaking Bob", "original_title": "Breaking Bob", "slug_title": "breaking-bob", "date": "2018-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fbRKlVyFYkCd7T43a5hWBbvKUCQ.jpg", "actors": ["Bob Smiley (Himself)"], "comments": [], "recommandations_id": []}

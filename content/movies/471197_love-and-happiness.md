@@ -1,1 +1,0 @@
-{"tmdb_id": 471197, "title": "Love and Happiness", "original_title": "Love and Happiness", "slug_title": "love-and-happiness", "date": "1995-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

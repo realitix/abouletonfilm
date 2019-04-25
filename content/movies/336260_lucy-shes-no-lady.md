@@ -1,1 +1,0 @@
-{"tmdb_id": 336260, "title": "Lucy - She\u2019s No Lady!", "original_title": "Lucy - She\u2019s No Lady!", "slug_title": "lucy-shes-no-lady", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9okTQ63sZbPwsGMkVqGFQ0DLkkh.jpg", "actors": [], "comments": [], "recommandations_id": []}

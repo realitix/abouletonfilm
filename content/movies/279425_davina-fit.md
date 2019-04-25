@@ -1,1 +1,0 @@
-{"tmdb_id": 279425, "title": "Davina Fit", "original_title": "Davina Fit", "slug_title": "davina-fit", "date": "2009-12-07", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/znPM9Wpo5Y93xljCFHXnmV6S3Pk.jpg", "actors": ["Davina McCall (Herself)"], "comments": [], "recommandations_id": []}

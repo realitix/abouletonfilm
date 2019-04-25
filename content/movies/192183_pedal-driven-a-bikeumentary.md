@@ -1,1 +1,0 @@
-{"tmdb_id": 192183, "title": "Pedal-Driven: A Bikeumentary", "original_title": "Pedal-Driven: A Bikeumentary", "slug_title": "pedal-driven-a-bikeumentary", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

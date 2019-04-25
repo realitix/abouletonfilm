@@ -1,1 +1,0 @@
-{"tmdb_id": 530163, "title": "Boneyard Angel", "original_title": "Boneyard Angel", "slug_title": "boneyard-angel", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pAyS0JHllfAUrsP0ZR8gtEy47qz.jpg", "actors": [], "comments": [], "recommandations_id": []}

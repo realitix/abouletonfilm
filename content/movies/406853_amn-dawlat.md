@@ -1,1 +1,0 @@
-{"tmdb_id": 406853, "title": "Amn Dawlat", "original_title": "Amn Dawlat", "slug_title": "amn-dawlat", "date": "2011-11-05", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mK6EXSHjzmBfuAh4x4M113ax54X.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 592759, "title": "Quando una donna non dorme", "original_title": "Quando una donna non dorme", "slug_title": "quando-una-donna-non-dorme", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

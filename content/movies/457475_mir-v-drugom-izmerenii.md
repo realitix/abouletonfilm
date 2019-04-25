@@ -1,1 +1,0 @@
-{"tmdb_id": 457475, "title": "Mir v drugom izmerenii", "original_title": "Mir v drugom izmerenii", "slug_title": "mir-v-drugom-izmerenii", "date": "1990-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6rBlBEIRFwmjBGRlkGNv7UsVGUa.jpg", "actors": [], "comments": [], "recommandations_id": []}

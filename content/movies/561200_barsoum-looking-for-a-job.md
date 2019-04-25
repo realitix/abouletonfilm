@@ -1,1 +1,0 @@
-{"tmdb_id": 561200, "title": "Barsoum Looking for a Job", "original_title": "Barsoum Yabhas Aen Wazifa", "slug_title": "barsoum-looking-for-a-job", "date": "1923-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fawzi Mounib ()"], "comments": [], "recommandations_id": []}

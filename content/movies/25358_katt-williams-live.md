@@ -1,1 +1,0 @@
-{"tmdb_id": 25358, "title": "Katt Williams: Live", "original_title": "Katt Williams: Live", "slug_title": "katt-williams-live", "date": "2006-09-26", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dXOJvGID4azHRCTHGf0ksPFtQvj.jpg", "actors": ["Katt Williams (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 153477, "title": "Redlegs", "original_title": "Redlegs", "slug_title": "redlegs", "date": "2012-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eNRfKl0z82sO69o8RgKUi6NiPIq.jpg", "actors": ["Andrew Katz (Aaron)", "Evan Louison (Willie)", "Nathan Ramos (Marco)"], "comments": [], "recommandations_id": []}

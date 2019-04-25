@@ -1,1 +1,0 @@
-{"tmdb_id": 371225, "title": "Robot World", "original_title": "Reconnoiter", "slug_title": "robot-world", "date": "2015-09-13", "genre": "Thriller / Science-Fiction", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9WBfgkWK5hdoZeD49Sgo03DwmAb.jpg", "actors": ["Ian Rowe ()"], "comments": [], "recommandations_id": []}

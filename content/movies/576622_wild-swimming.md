@@ -1,1 +1,0 @@
-{"tmdb_id": 576622, "title": "Wild Swimming", "original_title": "Wild Swimming", "slug_title": "wild-swimming", "date": "2010-08-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hAXhI8eaDkeRsqi1WO6FrcVjvIf.jpg", "actors": ["Alice Roberts (Herself - Presenter)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 407830, "title": "A Little Dying", "original_title": "Umieranko", "slug_title": "a-little-dying", "date": "1984-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

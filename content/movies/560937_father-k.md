@@ -1,1 +1,0 @@
-{"tmdb_id": 560937, "title": "Father K", "original_title": "Father K", "slug_title": "father-k", "date": "2018-11-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lXlW8hUr81LG4mR71acxMBuKZz2.jpg", "actors": [], "comments": [], "recommandations_id": []}

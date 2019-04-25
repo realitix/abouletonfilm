@@ -1,1 +1,0 @@
-{"tmdb_id": 313827, "title": "TV 31-1 Minirama (Turn On-Turn Off)", "original_title": "TV 31-1 MINIRAMA (uklju\u010divanje-isklju\u010divanje)", "slug_title": "tv-31-1-minirama-turn-on-turn-off", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

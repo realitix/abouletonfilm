@@ -1,1 +1,0 @@
-{"tmdb_id": 174305, "title": "Strong to the Finich", "original_title": "Strong to the Finich", "slug_title": "strong-to-the-finich", "date": "1934-06-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3T0BAVovYXxEanYOgpgSvyuvGcP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 543129, "title": "O Emigrante", "original_title": "O Emigrante", "slug_title": "o-emigrante", "date": "2010-10-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/44HvpNSFYuijVGeOYxL4LVBkYrb.jpg", "actors": [], "comments": [], "recommandations_id": []}

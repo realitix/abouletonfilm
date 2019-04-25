@@ -1,1 +1,0 @@
-{"tmdb_id": 75328, "title": "Goldirocks", "original_title": "Goldirocks", "slug_title": "goldirocks", "date": "", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9U563cznnhFCcEuSKUCzqbleYwl.jpg", "actors": ["Sasha Ormond (Goldi)"], "comments": [], "recommandations_id": []}

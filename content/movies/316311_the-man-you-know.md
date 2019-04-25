@@ -1,1 +1,0 @@
-{"tmdb_id": 316311, "title": "The Man You Know", "original_title": "The Man You Know", "slug_title": "the-man-you-know", "date": "1984-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

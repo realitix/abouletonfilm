@@ -1,1 +1,0 @@
-{"tmdb_id": 414092, "title": "Dense Fear", "original_title": "Dense Fear", "slug_title": "dense-fear", "date": "2003-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/26zVJlG2wS31ofifSlzlvSC3qeK.jpg", "actors": [], "comments": [], "recommandations_id": []}

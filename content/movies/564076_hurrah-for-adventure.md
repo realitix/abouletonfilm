@@ -1,1 +1,0 @@
-{"tmdb_id": 564076, "title": "Hurrah for Adventure!", "original_title": "Des vacances en or", "slug_title": "hurrah-for-adventure", "date": "1970-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r8qrF638QMPjf05iqj4VVqBIGID.jpg", "actors": [], "comments": [], "recommandations_id": []}

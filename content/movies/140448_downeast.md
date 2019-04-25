@@ -1,1 +1,0 @@
-{"tmdb_id": 140448, "title": "Downeast", "original_title": "Downeast", "slug_title": "downeast", "date": "2012-06-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5bdRV0En0D8jgkXifpDKWz56HSt.jpg", "actors": [], "comments": [], "recommandations_id": []}

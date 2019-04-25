@@ -1,1 +1,0 @@
-{"tmdb_id": 313830, "title": "Anno Passato", "original_title": "A.P.", "slug_title": "anno-passato", "date": "1966-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j9rO3EjZMepTcQNyMQkHkUwPYTr.jpg", "actors": [], "comments": [], "recommandations_id": []}

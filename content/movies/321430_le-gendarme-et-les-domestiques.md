@@ -1,1 +1,0 @@
-{"tmdb_id": 321430, "title": "Le gendarme et les domestiques", "original_title": "Le gendarme et les domestiques", "slug_title": "le-gendarme-et-les-domestiques", "date": "1903-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

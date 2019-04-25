@@ -1,1 +1,0 @@
-{"tmdb_id": 98569, "title": "\u53cc\u57ce\u8ba1\u4e2d\u8ba1", "original_title": "\u53cc\u57ce\u8ba1\u4e2d\u8ba1", "slug_title": "shuang-cheng-ji-zhong-ji", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

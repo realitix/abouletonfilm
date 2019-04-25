@@ -1,1 +1,0 @@
-{"tmdb_id": 184014, "title": "Museum of Wearable Art", "original_title": "Museum of Wearable Art", "slug_title": "museum-of-wearable-art", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

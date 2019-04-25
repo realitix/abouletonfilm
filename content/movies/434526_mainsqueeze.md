@@ -1,1 +1,0 @@
-{"tmdb_id": 434526, "title": "Mainsqueeze", "original_title": "Mainsqueeze", "slug_title": "mainsqueeze", "date": "2015-01-24", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hRqATcJtIt1dke2XIcH2C73KlPk.jpg", "actors": ["Jon Rafman ((voice))"], "comments": [], "recommandations_id": []}

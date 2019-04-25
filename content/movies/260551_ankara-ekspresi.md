@@ -1,1 +1,0 @@
-{"tmdb_id": 260551, "title": "Ankara ekspresi", "original_title": "Ankara ekspresi", "slug_title": "ankara-ekspresi", "date": "1971-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rQ8e2H6he4MZcbqgNCJ1iySFboi.jpg", "actors": [], "comments": [], "recommandations_id": []}

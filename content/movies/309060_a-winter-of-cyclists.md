@@ -1,1 +1,0 @@
-{"tmdb_id": 309060, "title": "A Winter of Cyclists", "original_title": "A Winter of Cyclists", "slug_title": "a-winter-of-cyclists", "date": "2013-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

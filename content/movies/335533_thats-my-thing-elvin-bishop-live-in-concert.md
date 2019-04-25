@@ -1,1 +1,0 @@
-{"tmdb_id": 335533, "title": "That\u2019s My Thing: Elvin Bishop Live in Concert", "original_title": "That\u2019s My Thing: Elvin Bishop Live in Concert", "slug_title": "thats-my-thing-elvin-bishop-live-in-concert", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

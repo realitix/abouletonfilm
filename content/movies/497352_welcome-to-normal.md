@@ -1,1 +1,0 @@
-{"tmdb_id": 497352, "title": "Welcome to Normal", "original_title": "Welcome to Normal", "slug_title": "welcome-to-normal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

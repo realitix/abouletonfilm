@@ -1,1 +1,0 @@
-{"tmdb_id": 468839, "title": "Elis Island Tales", "original_title": "R\u00e9cits d'Ellis Island", "slug_title": "elis-island-tales", "date": "1980-07-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lqtH4ycya7KeGmsZFNsfFWZ3Cxe.jpg", "actors": [], "comments": [], "recommandations_id": []}

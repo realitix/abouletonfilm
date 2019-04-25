@@ -1,1 +1,0 @@
-{"tmdb_id": 329213, "title": "A Catalog of Anticipations", "original_title": "A Catalog of Anticipations", "slug_title": "a-catalog-of-anticipations", "date": "2008-01-19", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kYTdUL5W7rFplBeZqHrV3rYbgW9.jpg", "actors": [], "comments": [], "recommandations_id": []}

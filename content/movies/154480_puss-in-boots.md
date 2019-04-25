@@ -1,1 +1,0 @@
-{"tmdb_id": 154480, "title": "Puss in Boots", "original_title": "Puss in Boots", "slug_title": "puss-in-boots", "date": "1922-11-03", "genre": "Animation", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4vH2WvoGLtgj5dEQAovMt363ldx.jpg", "actors": [], "comments": [], "recommandations_id": []}

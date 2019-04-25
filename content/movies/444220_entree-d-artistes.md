@@ -1,1 +1,0 @@
-{"tmdb_id": 444220, "title": "Entr\u00e9e d'Artistes", "original_title": "Entr\u00e9e d'Artistes", "slug_title": "entree-d-artistes", "date": "2007-09-21", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/znzC7Somr1FZtPmeHWii1PNecQl.jpg", "actors": [], "comments": [], "recommandations_id": []}

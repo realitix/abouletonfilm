@@ -1,1 +1,0 @@
-{"tmdb_id": 383800, "title": "Saint Terrorism", "original_title": "Hijiri Terorizumu", "slug_title": "saint-terrorism", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/92MKtIFCtJbVnqBkroxKhjhNpnL.jpg", "actors": [], "comments": [], "recommandations_id": []}

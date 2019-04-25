@@ -1,1 +1,0 @@
-{"tmdb_id": 283358, "title": "Elmo the Fearless", "original_title": "Elmo the Fearless", "slug_title": "elmo-the-fearless", "date": "1920-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elmo Lincoln ()", "Louise Lorraine ()", "William N. Chapman ()"], "comments": [], "recommandations_id": []}

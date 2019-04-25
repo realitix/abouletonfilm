@@ -1,1 +1,0 @@
-{"tmdb_id": 340319, "title": "Die Haut der Musik", "original_title": "Die Haut der Musik", "slug_title": "die-haut-der-musik", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

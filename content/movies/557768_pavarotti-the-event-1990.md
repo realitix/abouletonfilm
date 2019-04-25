@@ -1,1 +1,0 @@
-{"tmdb_id": 557768, "title": "Pavarotti. The Event 1990", "original_title": "Pavarotti. The Event 1990", "slug_title": "pavarotti-the-event-1990", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3CX8ZsWmbanwWDLuezfCE3lYx65.jpg", "actors": [], "comments": [], "recommandations_id": []}

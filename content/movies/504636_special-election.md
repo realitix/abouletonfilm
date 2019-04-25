@@ -1,1 +1,0 @@
-{"tmdb_id": 504636, "title": "Special Election", "original_title": "Special Election", "slug_title": "special-election", "date": "2017-11-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emelia Benoit-Lavelle (Laura Greene)", "Lya Yanne (Dana)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 140708, "title": "So It Goes", "original_title": "Korsoteoria", "slug_title": "so-it-goes", "date": "2012-03-09", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7n0pkTdxtdrOBSNOJIHqUn8Fq5o.jpg", "actors": [], "comments": [], "recommandations_id": []}

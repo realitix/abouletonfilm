@@ -1,1 +1,0 @@
-{"tmdb_id": 345325, "title": "Farvel, Kabelv\u00e5g", "original_title": "Farvel, Kabelv\u00e5g", "slug_title": "farvel-kabelvag", "date": "2006-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["H\u00e5kon Brun ()", "Dag Kajander ()", "Britt Smedvig ()"], "comments": [], "recommandations_id": []}

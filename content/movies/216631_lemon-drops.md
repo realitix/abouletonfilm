@@ -1,1 +1,0 @@
-{"tmdb_id": 216631, "title": "Lemon Drops", "original_title": "Lemon Drops", "slug_title": "lemon-drops", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ond\u0159ej Binar ()", "Katka Puchova ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 312494, "title": "The Arc Angels: Live from the Alamo", "original_title": "The Arc Angels: Live from the Alamo", "slug_title": "the-arc-angels-live-from-the-alamo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

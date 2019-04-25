@@ -1,1 +1,0 @@
-{"tmdb_id": 510230, "title": "The Dangers Of The Zika Virus", "original_title": "The Dangers Of The Zika Virus", "slug_title": "the-dangers-of-the-zika-virus", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4n6dumKDtAvOFw1a0ppjEfoUGDo.jpg", "actors": [], "comments": [], "recommandations_id": []}

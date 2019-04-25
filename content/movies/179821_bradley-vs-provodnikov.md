@@ -1,1 +1,0 @@
-{"tmdb_id": 179821, "title": "Bradley vs. Provodnikov", "original_title": "Bradley vs. Provodnikov", "slug_title": "bradley-vs-provodnikov", "date": "2013-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jksXcyWURdXMcGgShL0aMSR7g8d.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 435826, "title": "Arabic Numeral Series 14", "original_title": "Arabic Numeral Series 14", "slug_title": "arabic-numeral-series-14", "date": "1982-01-18", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Uxkko9GGIMVl7bvl7s9PZt1U8P.jpg", "actors": [], "comments": [], "recommandations_id": []}

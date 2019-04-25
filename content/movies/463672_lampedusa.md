@@ -1,1 +1,0 @@
-{"tmdb_id": 463672, "title": "Lampedusa", "original_title": "Lampedusa", "slug_title": "lampedusa", "date": "2015-08-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lucien Castaing-Taylor ()", "Mariangela Ciccarello ()", "Joris Lachaise ()", "Carlo Signati ()"], "comments": [], "recommandations_id": []}

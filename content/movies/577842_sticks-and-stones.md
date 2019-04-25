@@ -1,1 +1,0 @@
-{"tmdb_id": 577842, "title": "Sticks and Stones", "original_title": "Sticks and Stones", "slug_title": "sticks-and-stones", "date": "1943-01-25", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dona Drake ()"], "comments": [], "recommandations_id": []}

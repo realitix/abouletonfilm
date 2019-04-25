@@ -1,1 +1,0 @@
-{"tmdb_id": 248382, "title": "Get Together", "original_title": "\u9017\u9663\u311f", "slug_title": "get-together", "date": "2013-02-08", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7KrNm5zuaLQtjiNjhnASHfgkBMo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 406968, "title": "Walt Curtis: The Peckerneck Poet", "original_title": "Walt Curtis: The Peckerneck Poet", "slug_title": "walt-curtis-the-peckerneck-poet", "date": "1997-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walt Curtis (himself)"], "comments": [], "recommandations_id": []}

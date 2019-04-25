@@ -1,1 +1,0 @@
-{"tmdb_id": 376711, "title": "Projet Zombie", "original_title": "Projet Zombie", "slug_title": "projet-zombie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Pas de Synopsis pour le moment", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

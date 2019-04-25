@@ -1,1 +1,0 @@
-{"tmdb_id": 546417, "title": "Centrefold", "original_title": "Centrefold", "slug_title": "centrefold", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

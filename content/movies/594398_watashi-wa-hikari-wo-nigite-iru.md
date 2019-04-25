@@ -1,1 +1,0 @@
-{"tmdb_id": 594398, "title": "WATASHI WA HIKARI WO NIGITE IRU", "original_title": "WATASHI WA HIKARI WO NIGITE IRU", "slug_title": "watashi-wa-hikari-wo-nigite-iru", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

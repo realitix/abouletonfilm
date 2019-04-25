@@ -1,1 +1,0 @@
-{"tmdb_id": 460685, "title": "Teacher's Room", "original_title": "Teacher's Room", "slug_title": "teacher-s-room", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

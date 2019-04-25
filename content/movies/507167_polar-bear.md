@@ -1,1 +1,0 @@
-{"tmdb_id": 507167, "title": "Polar Bear", "original_title": "Polar Bear", "slug_title": "polar-bear", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iDQ6jn9YAd0LL8cj0BRgNrun6tB.jpg", "actors": [], "comments": [], "recommandations_id": []}

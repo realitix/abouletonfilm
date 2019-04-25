@@ -1,1 +1,0 @@
-{"tmdb_id": 528573, "title": "Lucky Luke - De Sorte Bjerge", "original_title": "Lucky Luke - De Sorte Bjerge", "slug_title": "lucky-luke-de-sorte-bjerge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

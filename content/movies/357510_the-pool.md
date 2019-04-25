@@ -1,1 +1,0 @@
-{"tmdb_id": 357510, "title": "The Pool", "original_title": "The Pool", "slug_title": "the-pool", "date": "1991-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Donald MacLeary ()", "Jayne Parker ()"], "comments": [], "recommandations_id": []}

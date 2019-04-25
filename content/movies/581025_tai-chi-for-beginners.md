@@ -1,1 +1,0 @@
-{"tmdb_id": 581025, "title": "Tai Chi for Beginners", "original_title": "Tai Chi for Beginners", "slug_title": "tai-chi-for-beginners", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gaUIUSNyE2e5VMvTb2TPIFrBTao.jpg", "actors": [], "comments": [], "recommandations_id": []}

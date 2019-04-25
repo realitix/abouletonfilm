@@ -1,1 +1,1 @@
-{"tmdb_id": 584573, "title": "Yusuf yusuf", "original_title": "Yusuf yusuf", "slug_title": "yusuf-yusuf", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 584573, "title": "Yusuf yusuf", "original_title": "Yusuf yusuf", "slug_title": "yusuf-yusuf", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

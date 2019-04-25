@@ -1,1 +1,0 @@
-{"tmdb_id": 488868, "title": "The Stampede", "original_title": "The Stampede", "slug_title": "the-stampede", "date": "1911-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mary Pickford (Nello)", "Owen Moore (The Rancher's Son)"], "comments": [], "recommandations_id": []}

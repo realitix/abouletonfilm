@@ -1,1 +1,0 @@
-{"tmdb_id": 449144, "title": "Santera", "original_title": "Santera", "slug_title": "santera", "date": "1994-03-26", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/90OBrgU1UvO6XM1V26qbmsCSHR6.jpg", "actors": ["Irma Salcedo ()", "Irma Salcedo (Soledad)"], "comments": [], "recommandations_id": []}

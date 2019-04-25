@@ -1,1 +1,0 @@
-{"tmdb_id": 189446, "title": "When Naples Sings", "original_title": "Napoli che canta", "slug_title": "when-naples-sings", "date": "1926-04-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/53xmpw3cgAX52I7W7gSjygndMwi.jpg", "actors": [], "comments": [], "recommandations_id": []}

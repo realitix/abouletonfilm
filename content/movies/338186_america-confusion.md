@@ -1,1 +1,0 @@
-{"tmdb_id": 338186, "title": "America Confusion", "original_title": "America Confusion", "slug_title": "america-confusion", "date": "2015-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

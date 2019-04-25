@@ -1,1 +1,0 @@
-{"tmdb_id": 521789, "title": "Der Familientag", "original_title": "Der Familientag", "slug_title": "der-familientag", "date": "1965-05-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tilla Durieux (Amy)", "Elisabeth Flickenschildt (Agatha)", "Erla Prollius (Mary)"], "comments": [], "recommandations_id": []}

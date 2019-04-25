@@ -1,1 +1,0 @@
-{"tmdb_id": 398267, "title": "Meta Meta", "original_title": "Meta Meta", "slug_title": "meta-meta", "date": "1978-08-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oXSvnFgfUunbDkW6XTboXkv7kCQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

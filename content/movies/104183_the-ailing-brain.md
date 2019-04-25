@@ -1,1 +1,0 @@
-{"tmdb_id": 104183, "title": "The Ailing Brain", "original_title": "El Mal del Cerebro", "slug_title": "the-ailing-brain", "date": "2012-01-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kGxvFJYHGtp4v4DShCDFGVdbuD2.jpg", "actors": [], "comments": [], "recommandations_id": []}

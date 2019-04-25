@@ -1,1 +1,0 @@
-{"tmdb_id": 514869, "title": "The Mother Show", "original_title": "The Mother Show", "slug_title": "the-mother-show", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

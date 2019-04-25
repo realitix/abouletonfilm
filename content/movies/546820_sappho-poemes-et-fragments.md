@@ -1,1 +1,0 @@
-{"tmdb_id": 546820, "title": "Sappho : po\u00e8mes et fragments", "original_title": "Sappho : po\u00e8mes et fragments", "slug_title": "sappho-poemes-et-fragments", "date": "1992-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

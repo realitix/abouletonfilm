@@ -1,1 +1,0 @@
-{"tmdb_id": 235899, "title": "Moose on the Loose", "original_title": "Moose on the Loose", "slug_title": "moose-on-the-loose", "date": "1952-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

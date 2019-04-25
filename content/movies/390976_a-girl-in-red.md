@@ -1,1 +1,0 @@
-{"tmdb_id": 390976, "title": "A Girl in Red", "original_title": "Mergait\u0117 raudona suknaite", "slug_title": "a-girl-in-red", "date": "2005-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4vRMJAGDXCJ3uvxuucTDPM6yAlq.jpg", "actors": [], "comments": [], "recommandations_id": []}

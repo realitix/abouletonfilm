@@ -1,1 +1,0 @@
-{"tmdb_id": 544805, "title": "Dog's World", "original_title": "Dog's World", "slug_title": "dog-s-world", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

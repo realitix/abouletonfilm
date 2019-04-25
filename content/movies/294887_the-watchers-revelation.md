@@ -1,1 +1,0 @@
-{"tmdb_id": 294887, "title": "The Watchers: Revelation", "original_title": "The Watchers: Revelation", "slug_title": "the-watchers-revelation", "date": "2013-03-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pWVJJxGTG3fyowJzPb3vIc99f4A.jpg", "actors": [], "comments": [], "recommandations_id": []}

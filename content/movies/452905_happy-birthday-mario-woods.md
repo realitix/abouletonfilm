@@ -1,1 +1,0 @@
-{"tmdb_id": 452905, "title": "Happy Birthday Mario Woods", "original_title": "Happy Birthday Mario Woods", "slug_title": "happy-birthday-mario-woods", "date": "2017-04-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/78SY9Gm5f37JGm83bZx5tdjwSZ1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 536400, "title": "The Mayor's Race", "original_title": "The Mayor's Race", "slug_title": "the-mayor-s-race", "date": "2018-02-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h1nDW4VAmngEQ7tAOrwQtIXa4aM.jpg", "actors": ["Marvin Rees ()"], "comments": [], "recommandations_id": []}

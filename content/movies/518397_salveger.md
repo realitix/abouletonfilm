@@ -1,1 +1,0 @@
-{"tmdb_id": 518397, "title": "Salveger", "original_title": "Salveger", "slug_title": "salveger", "date": "", "genre": "Documentaire / Drame", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ahmet Ay (Ahmet)", "Rozerin Liyan Ay (Rozerin)"], "comments": [], "recommandations_id": []}

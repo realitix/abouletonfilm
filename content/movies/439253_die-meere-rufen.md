@@ -1,1 +1,0 @@
-{"tmdb_id": 439253, "title": "Die Meere rufen", "original_title": "Die Meere rufen", "slug_title": "die-meere-rufen", "date": "1951-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jlZLsYZ1CCozF1c6Zu0HlOuhB65.jpg", "actors": [], "comments": [], "recommandations_id": []}

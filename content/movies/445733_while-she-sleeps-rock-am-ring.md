@@ -1,1 +1,0 @@
-{"tmdb_id": 445733, "title": "While She Sleeps - Rock am Ring", "original_title": "While She Sleeps - Rock am Ring", "slug_title": "while-she-sleeps-rock-am-ring", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rNvcgkM6iG38Wf3PASqc8AgHwZg.jpg", "actors": [], "comments": [], "recommandations_id": []}

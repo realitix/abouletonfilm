@@ -1,1 +1,0 @@
-{"tmdb_id": 244599, "title": "Remembering Jean Gabin", "original_title": "Remembering Jean Gabin", "slug_title": "remembering-jean-gabin", "date": "1978-11-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

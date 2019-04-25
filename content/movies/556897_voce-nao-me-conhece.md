@@ -1,1 +1,0 @@
-{"tmdb_id": 556897, "title": "Voc\u00ea N\u00e3o Me Conhece", "original_title": "Voc\u00ea N\u00e3o Me Conhece", "slug_title": "voce-nao-me-conhece", "date": "2018-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

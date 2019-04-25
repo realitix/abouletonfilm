@@ -1,1 +1,0 @@
-{"tmdb_id": 349353, "title": "Hwimori", "original_title": "\ud718\ubaa8\ub9ac", "slug_title": "hwimori", "date": "1994-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

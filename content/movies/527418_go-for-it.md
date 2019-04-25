@@ -1,1 +1,0 @@
-{"tmdb_id": 527418, "title": "Go for It", "original_title": "Go for It", "slug_title": "go-for-it", "date": "1976-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ron Gans (Narrator)"], "comments": [], "recommandations_id": []}

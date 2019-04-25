@@ -1,1 +1,0 @@
-{"tmdb_id": 560698, "title": "Asandhimitta", "original_title": "Asandhimitta", "slug_title": "asandhimitta", "date": "2018-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lVjPOGt4X6Q4HCAbMxhkSIZnW0N.jpg", "actors": [], "comments": [], "recommandations_id": []}

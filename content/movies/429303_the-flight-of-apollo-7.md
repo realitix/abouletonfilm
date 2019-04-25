@@ -1,1 +1,0 @@
-{"tmdb_id": 429303, "title": "The Flight of Apollo 7", "original_title": "The Flight of Apollo 7", "slug_title": "the-flight-of-apollo-7", "date": "1968-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

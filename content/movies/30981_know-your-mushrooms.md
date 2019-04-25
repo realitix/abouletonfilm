@@ -1,1 +1,0 @@
-{"tmdb_id": 30981, "title": "Know Your Mushrooms", "original_title": "Know Your Mushrooms", "slug_title": "know-your-mushrooms", "date": "2009-05-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6wOvzVbwy5rNlt094BrQSDkOfyM.jpg", "actors": [], "comments": [], "recommandations_id": []}

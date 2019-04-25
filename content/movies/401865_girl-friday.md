@@ -1,1 +1,0 @@
-{"tmdb_id": 401865, "title": "Girl Friday", "original_title": "Girl Friday", "slug_title": "girl-friday", "date": "1994-12-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sAbdTOHiZNSPFNqQtqnHRX10XxS.jpg", "actors": ["Joanna Lumley (Presenter)"], "comments": [], "recommandations_id": []}

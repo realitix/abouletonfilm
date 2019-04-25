@@ -1,1 +1,0 @@
-{"tmdb_id": 574530, "title": "Tiziana", "original_title": "Tiziana", "slug_title": "tiziana", "date": "1967-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "Un reportage pour l'ORTF par Marcel Hanoun.", "image": "/img/default-cover.png", "actors": ["Tiziana Siffi ()"], "comments": [], "recommandations_id": []}

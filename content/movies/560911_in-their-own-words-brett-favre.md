@@ -1,1 +1,0 @@
-{"tmdb_id": 560911, "title": "In Their Own Words: Brett Favre", "original_title": "In Their Own Words: Brett Favre", "slug_title": "in-their-own-words-brett-favre", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lJAgqe2FyIvQqoF339bLNE6ph3G.jpg", "actors": [], "comments": [], "recommandations_id": []}

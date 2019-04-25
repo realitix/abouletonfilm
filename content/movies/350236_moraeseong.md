@@ -1,1 +1,0 @@
-{"tmdb_id": 350236, "title": "\ubaa8\ub798\uc131", "original_title": "\ubaa8\ub798\uc131", "slug_title": "moraeseong", "date": "1989-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

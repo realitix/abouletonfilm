@@ -1,1 +1,0 @@
-{"tmdb_id": 523361, "title": "American Experience: Building the Alaska Highway", "original_title": "American Experience: Building the Alaska Highway", "slug_title": "american-experience-building-the-alaska-highway", "date": "2005-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

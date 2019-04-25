@@ -1,1 +1,0 @@
-{"tmdb_id": 37107, "title": "Jack Dee Live Again", "original_title": "Jack Dee Live Again", "slug_title": "jack-dee-live-again", "date": "2005-10-01", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/to3p0ZLSAhlsmOSjh6uC3fVMs8I.jpg", "actors": ["Jack Dee (Himself)"], "comments": [], "recommandations_id": []}

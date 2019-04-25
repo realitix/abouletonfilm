@@ -1,1 +1,0 @@
-{"tmdb_id": 412189, "title": "The Arbitration", "original_title": "The Arbitration", "slug_title": "the-arbitration", "date": "2016-08-12", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qMnsPBgZV3bVdORQGlFw5yvfrJz.jpg", "actors": [], "comments": [], "recommandations_id": [347956, 411701, 268824, 403665]}

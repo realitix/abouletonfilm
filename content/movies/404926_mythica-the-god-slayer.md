@@ -1,1 +1,0 @@
-{"tmdb_id": 404926, "title": "Mythica: The God Slayer", "original_title": "Mythica: The God Slayer", "slug_title": "mythica-the-god-slayer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

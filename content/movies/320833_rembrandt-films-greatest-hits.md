@@ -1,1 +1,0 @@
-{"tmdb_id": 320833, "title": "Rembrandt Films': Greatest Hits", "original_title": "Rembrandt Films': Greatest Hits", "slug_title": "rembrandt-films-greatest-hits", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

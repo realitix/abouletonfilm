@@ -1,1 +1,0 @@
-{"tmdb_id": 412965, "title": "No Use Walkin' When You Can Stroll", "original_title": "No Use Walkin' When You Can Stroll", "slug_title": "no-use-walkin-when-you-can-stroll", "date": "1998-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

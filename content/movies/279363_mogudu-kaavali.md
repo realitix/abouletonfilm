@@ -1,1 +1,0 @@
-{"tmdb_id": 279363, "title": "Mogudu Kaavali", "original_title": "Mogudu Kaavali", "slug_title": "mogudu-kaavali", "date": "1980-11-14", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chiranjeevi ()", "Gayathri ()"], "comments": [], "recommandations_id": []}

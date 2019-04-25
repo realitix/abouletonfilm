@@ -1,1 +1,0 @@
-{"tmdb_id": 509947, "title": "No bailar\u00e1s solo", "original_title": "No bailar\u00e1s solo", "slug_title": "no-bailaras-solo", "date": "2014-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/freCZsuW2Y3ggeUYxSDrfUjoQLB.jpg", "actors": [], "comments": [], "recommandations_id": []}

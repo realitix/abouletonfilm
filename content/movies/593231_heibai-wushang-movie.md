@@ -1,1 +1,0 @@
-{"tmdb_id": 593231, "title": "Heibai Wushang Movie", "original_title": "Heibai Wushang Movie", "slug_title": "heibai-wushang-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

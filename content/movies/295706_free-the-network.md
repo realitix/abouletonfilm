@@ -1,1 +1,0 @@
-{"tmdb_id": 295706, "title": "Free the Network", "original_title": "Free the Network", "slug_title": "free-the-network", "date": "2012-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3RJzb47vk6E3YmcsgvaPUFmEpr2.jpg", "actors": [], "comments": [], "recommandations_id": []}

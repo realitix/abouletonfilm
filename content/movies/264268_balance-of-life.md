@@ -1,1 +1,0 @@
-{"tmdb_id": 264268, "title": "Balance of Life", "original_title": "Balance of Life", "slug_title": "balance-of-life", "date": "2012-10-11", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3R84itoAWkAzDfi8SszsKZO2Ey8.jpg", "actors": [], "comments": [], "recommandations_id": []}

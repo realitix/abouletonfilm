@@ -1,1 +1,0 @@
-{"tmdb_id": 456636, "title": "Hashti Tehran", "original_title": "Hashti Tehran", "slug_title": "hashti-tehran", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

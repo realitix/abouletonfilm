@@ -1,1 +1,0 @@
-{"tmdb_id": 450922, "title": "Hej natur", "original_title": "Hej natur", "slug_title": "hej-natur", "date": "1966-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 385859, "title": "Curioius Buddies - Let's Build", "original_title": "Curioius Buddies - Let's Build", "slug_title": "curioius-buddies-let-s-build", "date": "2005-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

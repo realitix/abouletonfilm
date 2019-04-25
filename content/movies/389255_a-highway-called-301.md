@@ -1,1 +1,0 @@
-{"tmdb_id": 389255, "title": "A Highway Called 301", "original_title": "A Highway Called 301", "slug_title": "a-highway-called-301", "date": "2011-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

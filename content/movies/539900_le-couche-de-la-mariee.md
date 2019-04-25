@@ -1,1 +1,0 @@
-{"tmdb_id": 539900, "title": "Le couch\u00e9 de la mari\u00e9e", "original_title": "Le couch\u00e9 de la mari\u00e9e", "slug_title": "le-couche-de-la-mariee", "date": "1934-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

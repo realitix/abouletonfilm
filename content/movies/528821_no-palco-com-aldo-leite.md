@@ -1,1 +1,0 @@
-{"tmdb_id": 528821, "title": "No Palco Com Aldo Leite", "original_title": "No Palco Com Aldo Leite", "slug_title": "no-palco-com-aldo-leite", "date": "2018-06-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kdbXrn9hnZ2fNkMt9awoqqCBfvJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

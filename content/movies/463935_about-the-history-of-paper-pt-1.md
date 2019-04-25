@@ -1,1 +1,0 @@
-{"tmdb_id": 463935, "title": "About the History of Paper, Pt. 1", "original_title": "About the History of Paper, Pt. 1", "slug_title": "about-the-history-of-paper-pt-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

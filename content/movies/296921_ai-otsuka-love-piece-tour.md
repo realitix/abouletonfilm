@@ -1,1 +1,0 @@
-{"tmdb_id": 296921, "title": "Ai Otsuka: Love Piece Tour", "original_title": "Ai Otsuka: Love Piece Tour", "slug_title": "ai-otsuka-love-piece-tour", "date": "2008-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/njhhbiJfvnC4kOEbvtFUz9JKJ9b.jpg", "actors": [], "comments": [], "recommandations_id": []}

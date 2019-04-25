@@ -1,1 +1,0 @@
-{"tmdb_id": 300337, "title": "Aansoo Aur Muskan", "original_title": "Aansoo Aur Muskan", "slug_title": "aansoo-aur-muskan", "date": "1979-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

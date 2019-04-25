@@ -1,1 +1,0 @@
-{"tmdb_id": 561499, "title": "Op\u00e9ration tonnerre", "original_title": "Op\u00e9ration tonnerre", "slug_title": "operation-tonnerre", "date": "1956-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/otppdMCZXYYJYi7OOtyBFQ3VvM1.jpg", "actors": [], "comments": [], "recommandations_id": []}

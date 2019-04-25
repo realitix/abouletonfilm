@@ -1,1 +1,0 @@
-{"tmdb_id": 478825, "title": "No Service", "original_title": "No Service", "slug_title": "no-service", "date": "2018-01-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9oOCMpudZXCmkB9axuzmS9tQOGP.jpg", "actors": [], "comments": [], "recommandations_id": []}

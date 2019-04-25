@@ -1,1 +1,0 @@
-{"tmdb_id": 530850, "title": "Mosque Mosaic", "original_title": "Mosque Mosaic", "slug_title": "mosque-mosaic", "date": "2015-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pbXxrJhfzbHW73IbaihXc1v3lvt.jpg", "actors": [], "comments": [], "recommandations_id": []}

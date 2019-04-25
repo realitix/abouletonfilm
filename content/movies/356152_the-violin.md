@@ -1,1 +1,0 @@
-{"tmdb_id": 356152, "title": "The Violin", "original_title": "The Violin", "slug_title": "the-violin", "date": "2015-05-01", "genre": "Histoire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p2zpZDUH0Y0jIV6aOrLhLwzkQSN.jpg", "actors": [], "comments": [], "recommandations_id": []}

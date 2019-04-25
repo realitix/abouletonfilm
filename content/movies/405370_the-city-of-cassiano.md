@@ -1,1 +1,0 @@
-{"tmdb_id": 405370, "title": "The City of Cassiano", "original_title": "A Cidade de Cassiano", "slug_title": "the-city-of-cassiano", "date": "1991-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

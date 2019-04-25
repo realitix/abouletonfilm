@@ -1,1 +1,0 @@
-{"tmdb_id": 340350, "title": "Broken Glass, Torn Film", "original_title": "Broken Glass, Torn Film", "slug_title": "broken-glass-torn-film", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

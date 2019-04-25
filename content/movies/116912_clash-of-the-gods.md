@@ -1,1 +1,0 @@
-{"tmdb_id": 116912, "title": "Clash of the Gods", "original_title": "Clash of the Gods", "slug_title": "clash-of-the-gods", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j7v6sefbw58SaQniOgqa3gAQjwI.jpg", "actors": [], "comments": [], "recommandations_id": []}

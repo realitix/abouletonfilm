@@ -1,1 +1,0 @@
-{"tmdb_id": 418696, "title": "Rooted in Peace", "original_title": "Rooted in Peace", "slug_title": "rooted-in-peace", "date": "2016-09-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/45vChqg0RdWC39U5UVFDcCSxZR6.jpg", "actors": [], "comments": [], "recommandations_id": []}

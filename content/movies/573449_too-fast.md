@@ -1,1 +1,0 @@
-{"tmdb_id": 573449, "title": "Too Fast", "original_title": "Too Fast", "slug_title": "too-fast", "date": "2006-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

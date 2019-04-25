@@ -1,1 +1,0 @@
-{"tmdb_id": 389516, "title": "Dreamco", "original_title": "Dreamco", "slug_title": "dreamco", "date": "2015-10-28", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2JG6pTR3Acqs09PQW7mjqjZaXfp.jpg", "actors": [], "comments": [], "recommandations_id": []}

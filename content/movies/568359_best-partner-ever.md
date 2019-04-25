@@ -1,1 +1,0 @@
-{"tmdb_id": 568359, "title": "Best Partner Ever", "original_title": "Best Partner Ever", "slug_title": "best-partner-ever", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7eugl2Du2V61Y3Ylm2ulvQIU5YU.jpg", "actors": [], "comments": [], "recommandations_id": []}

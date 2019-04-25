@@ -1,1 +1,0 @@
-{"tmdb_id": 326408, "title": "The Mutant Diaries: Unzipping My Genes", "original_title": "The Mutant Diaries: Unzipping My Genes", "slug_title": "the-mutant-diaries-unzipping-my-genes", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

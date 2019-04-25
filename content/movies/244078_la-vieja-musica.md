@@ -1,1 +1,0 @@
-{"tmdb_id": 244078, "title": "La vieja m\u00fasica", "original_title": "La vieja m\u00fasica", "slug_title": "la-vieja-musica", "date": "1985-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AroMS7KLFgJFGPQwqLbtxVuPjJg.jpg", "actors": ["Federico Luppi ()"], "comments": [], "recommandations_id": []}

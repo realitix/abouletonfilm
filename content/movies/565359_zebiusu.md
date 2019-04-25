@@ -1,1 +1,0 @@
-{"tmdb_id": 565359, "title": "\u30bc\u30d3\u30a6\u30b9", "original_title": "\u30bc\u30d3\u30a6\u30b9", "slug_title": "zebiusu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 278209, "title": "Judgment Day", "original_title": "Judgment Day", "slug_title": "judgment-day", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Suresh Gopi (Ramdas)", "R. Sarathkumar ()"], "comments": [], "recommandations_id": []}

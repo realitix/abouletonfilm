@@ -1,1 +1,0 @@
-{"tmdb_id": 462817, "title": "Terry Moore: Paradise Found", "original_title": "Terry Moore: Paradise Found", "slug_title": "terry-moore-paradise-found", "date": "2004-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Terry Moore (Himself)"], "comments": [], "recommandations_id": []}

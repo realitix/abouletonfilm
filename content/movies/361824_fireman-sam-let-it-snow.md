@@ -1,1 +1,0 @@
-{"tmdb_id": 361824, "title": "Fireman Sam - Let It Snow", "original_title": "Fireman Sam - Let It Snow", "slug_title": "fireman-sam-let-it-snow", "date": "2005-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mdmmjxumpjZ1PzSVaHrjwH9zKHn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 159555, "title": "Cruising for a Breeding", "original_title": "Cruising for a Breeding", "slug_title": "cruising-for-a-breeding", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

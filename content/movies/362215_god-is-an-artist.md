@@ -1,1 +1,0 @@
-{"tmdb_id": 362215, "title": "God is an Artist", "original_title": "God is an Artist", "slug_title": "god-is-an-artist", "date": "2015-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dbqDxa1Ri8LIi9mnzrFogo0auRN.jpg", "actors": [], "comments": [], "recommandations_id": []}

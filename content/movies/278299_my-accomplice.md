@@ -1,1 +1,0 @@
-{"tmdb_id": 278299, "title": "My Accomplice", "original_title": "My Accomplice", "slug_title": "my-accomplice", "date": "2013-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

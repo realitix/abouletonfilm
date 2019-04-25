@@ -1,1 +1,0 @@
-{"tmdb_id": 120448, "title": "Sarah Geronimo: In Motion The Concert", "original_title": "Sarah Geronimo: In Motion The Concert", "slug_title": "sarah-geronimo-in-motion-the-concert", "date": "2007-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sarah Geronimo (herself)"], "comments": [], "recommandations_id": []}

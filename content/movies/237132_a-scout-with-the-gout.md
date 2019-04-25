@@ -1,1 +1,0 @@
-{"tmdb_id": 237132, "title": "A Scout with the Gout", "original_title": "A Scout with the Gout", "slug_title": "a-scout-with-the-gout", "date": "1947-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dAALOIuJzmX3ZawVWV1UiaHfQKl.jpg", "actors": [], "comments": [], "recommandations_id": []}

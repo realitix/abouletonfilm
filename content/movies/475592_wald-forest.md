@@ -1,1 +1,0 @@
-{"tmdb_id": 475592, "title": "Wald Forest", "original_title": "Wald Forest", "slug_title": "wald-forest", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mWGDJLsBi5xFCGj8FXwK6gCFBsv.jpg", "actors": [], "comments": [], "recommandations_id": []}

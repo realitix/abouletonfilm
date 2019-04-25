@@ -1,1 +1,0 @@
-{"tmdb_id": 463124, "title": "Light, Shadow and Passion", "original_title": "Light, Shadow and Passion", "slug_title": "light-shadow-and-passion", "date": "2017-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 594629, "title": "La Tour Eiffel", "original_title": "La Tour Eiffel", "slug_title": "la-tour-eiffel", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 594629, "title": "La Tour Eiffel", "original_title": "La Tour Eiffel", "slug_title": "la-tour-eiffel", "date": "1991-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

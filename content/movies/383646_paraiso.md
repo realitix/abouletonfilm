@@ -1,1 +1,0 @@
-{"tmdb_id": 383646, "title": "Paraiso", "original_title": "Paraiso", "slug_title": "paraiso", "date": "1978-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

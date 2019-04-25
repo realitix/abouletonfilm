@@ -1,1 +1,0 @@
-{"tmdb_id": 291729, "title": "Sacred Cargo", "original_title": "Sacred Cargo", "slug_title": "sacred-cargo", "date": "1996-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Oleg Kapanets (Leon)"], "comments": [], "recommandations_id": []}

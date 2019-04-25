@@ -1,1 +1,0 @@
-{"tmdb_id": 349543, "title": "The Party", "original_title": "The Party", "slug_title": "the-party", "date": "1963-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

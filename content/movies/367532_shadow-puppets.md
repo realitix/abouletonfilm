@@ -1,1 +1,0 @@
-{"tmdb_id": 367532, "title": "Shadow Puppets", "original_title": "Shadow Puppets", "slug_title": "shadow-puppets", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

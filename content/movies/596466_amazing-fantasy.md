@@ -1,1 +1,0 @@
-{"tmdb_id": 596466, "title": "Amazing Fantasy", "original_title": "Amazing Fantasy", "slug_title": "amazing-fantasy", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

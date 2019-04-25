@@ -1,1 +1,0 @@
-{"tmdb_id": 524257, "title": "Face Mask", "original_title": "Face Mask", "slug_title": "face-mask", "date": "2018-05-14", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uRsKYmafh9zWcROtovkWSuZtQan.jpg", "actors": [], "comments": [], "recommandations_id": []}

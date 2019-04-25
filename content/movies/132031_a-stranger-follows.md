@@ -1,1 +1,0 @@
-{"tmdb_id": 132031, "title": "A Stranger Follows", "original_title": "A Stranger Follows", "slug_title": "a-stranger-follows", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

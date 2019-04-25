@@ -1,1 +1,0 @@
-{"tmdb_id": 258281, "title": "Year One", "original_title": "Anno uno", "slug_title": "year-one", "date": "1974-11-15", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uTX0mxEV4RSYyKR0nbVQo3vwLah.jpg", "actors": ["Luigi Vannucchi (Alcide De Gasperi)"], "comments": [], "recommandations_id": []}

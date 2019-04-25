@@ -1,1 +1,0 @@
-{"tmdb_id": 40340, "title": "Bowl of Oatmeal", "original_title": "Bowl of Oatmeal", "slug_title": "bowl-of-oatmeal", "date": "1996-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/741SQITvxfd4tu6aHWk5w3wLBIu.jpg", "actors": [], "comments": [], "recommandations_id": []}

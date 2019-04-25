@@ -1,1 +1,0 @@
-{"tmdb_id": 456668, "title": "Schifanosaurus Rex", "original_title": "Schifanosaurus Rex", "slug_title": "schifanosaurus-rex", "date": "2009-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

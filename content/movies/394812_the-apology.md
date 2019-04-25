@@ -1,1 +1,0 @@
-{"tmdb_id": 394812, "title": "The Apology", "original_title": "The Apology", "slug_title": "the-apology", "date": "2016-04-30", "genre": "Documentaire", "score": "2.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ec9Igl6H6yYez5Xox74zjzyalFd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 565883, "title": "Le divorcement", "original_title": "Le divorcement", "slug_title": "le-divorcement", "date": "1979-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6e9GjgfT1K0UopwVzMQjwD2h8yz.jpg", "actors": [], "comments": [], "recommandations_id": []}

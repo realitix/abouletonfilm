@@ -1,1 +1,0 @@
-{"tmdb_id": 588778, "title": "Of Roads", "original_title": "Om v\u00e4gar", "slug_title": "of-roads", "date": "2015-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

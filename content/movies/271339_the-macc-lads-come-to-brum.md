@@ -1,1 +1,0 @@
-{"tmdb_id": 271339, "title": "The Macc Lads: Come to Brum", "original_title": "The Macc Lads: Come to Brum", "slug_title": "the-macc-lads-come-to-brum", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 349241, "title": "Ivan the Mercenary", "original_title": "\uc6a9\ubcd1 \uc774\ubc18", "slug_title": "ivan-the-mercenary", "date": "1997-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

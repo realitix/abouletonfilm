@@ -1,1 +1,0 @@
-{"tmdb_id": 293186, "title": "Queen Valentine", "original_title": "Queen Valentine", "slug_title": "queen-valentine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

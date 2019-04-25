@@ -1,1 +1,0 @@
-{"tmdb_id": 523588, "title": "Hands Solo", "original_title": "Hands Solo", "slug_title": "hands-solo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tBxoRzbQP36raxahoQWsm0V9UaD.jpg", "actors": [], "comments": [], "recommandations_id": []}

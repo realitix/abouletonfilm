@@ -1,1 +1,0 @@
-{"tmdb_id": 335472, "title": "Fakenham Film", "original_title": "Fakenham Film", "slug_title": "fakenham-film", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 341562, "title": "The Story of Afanti", "original_title": "Afanti", "slug_title": "the-story-of-afanti", "date": "1980-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/33c9QxRrUNfpu18zyVrrisKsCSd.jpg", "actors": [], "comments": [], "recommandations_id": []}

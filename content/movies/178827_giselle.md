@@ -1,1 +1,0 @@
-{"tmdb_id": 178827, "title": "Giselle", "original_title": "Giselle", "slug_title": "giselle", "date": "1991-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Henning Kronstam (Director)", "Heidi Ryom (Giselle)"], "comments": [], "recommandations_id": []}

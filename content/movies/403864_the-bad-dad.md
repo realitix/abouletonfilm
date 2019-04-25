@@ -1,1 +1,0 @@
-{"tmdb_id": 403864, "title": "The Bad Dad", "original_title": "The Bad Dad", "slug_title": "the-bad-dad", "date": "2020-09-18", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 324125, "title": "Days Gone Not Forgotten", "original_title": "Days Gone Not Forgotten", "slug_title": "days-gone-not-forgotten", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

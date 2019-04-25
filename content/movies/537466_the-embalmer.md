@@ -1,1 +1,0 @@
-{"tmdb_id": 537466, "title": "The Embalmer", "original_title": "The Embalmer", "slug_title": "the-embalmer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rn1BSL9ALA4iiyf15EgjSTiVrEb.jpg", "actors": [], "comments": [], "recommandations_id": []}

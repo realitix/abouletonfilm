@@ -1,1 +1,0 @@
-{"tmdb_id": 200421, "title": "Land of Promise", "original_title": "L'Chayim Hadashim", "slug_title": "land-of-promise", "date": "1935-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 503744, "title": "Rock-a-Die Baby", "original_title": "Rock-a-Die Baby", "slug_title": "rock-a-die-baby", "date": "1975-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

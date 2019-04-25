@@ -1,1 +1,0 @@
-{"tmdb_id": 497489, "title": "Trumping Democracy", "original_title": "Trumping Democracy", "slug_title": "trumping-democracy", "date": "2017-12-05", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gfgT9PEnRsVMRw7oDV0W8RMeTcX.jpg", "actors": [], "comments": [], "recommandations_id": []}

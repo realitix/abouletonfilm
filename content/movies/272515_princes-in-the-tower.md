@@ -1,1 +1,0 @@
-{"tmdb_id": 272515, "title": "Princes in the Tower", "original_title": "Princes in the Tower", "slug_title": "princes-in-the-tower", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

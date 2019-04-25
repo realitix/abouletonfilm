@@ -1,1 +1,0 @@
-{"tmdb_id": 476526, "title": "Ghosting the Party", "original_title": "Ghosting the Party", "slug_title": "ghosting-the-party", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

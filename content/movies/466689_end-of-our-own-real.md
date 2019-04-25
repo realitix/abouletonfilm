@@ -1,1 +1,0 @@
-{"tmdb_id": 466689, "title": "End of Our Own Real", "original_title": "Asu naki machikado", "slug_title": "end-of-our-own-real", "date": "1997-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2DREa6sROwAyBNDzIYu27Y2mw0f.jpg", "actors": [], "comments": [], "recommandations_id": []}

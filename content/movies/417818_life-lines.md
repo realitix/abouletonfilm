@@ -1,1 +1,0 @@
-{"tmdb_id": 417818, "title": "Life Lines", "original_title": "Life Lines", "slug_title": "life-lines", "date": "2014-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e2yFNfrxUvsXurXcYaElzJaTpBD.jpg", "actors": ["Sophie C. Hopkins (Mori)"], "comments": [], "recommandations_id": []}

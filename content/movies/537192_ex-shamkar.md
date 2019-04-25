@@ -1,1 +1,0 @@
-{"tmdb_id": 537192, "title": "EX-Shamkar", "original_title": "EX-Shamkar", "slug_title": "ex-shamkar", "date": "2010-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8IjPY8PTWC1X3YwcXFgpbp2d0C.jpg", "actors": ["Rafik Boubker ()", "Said Bey ()", "Majdouline Idrissi ()"], "comments": [], "recommandations_id": []}

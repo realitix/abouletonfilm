@@ -1,1 +1,0 @@
-{"tmdb_id": 467518, "title": "Blue Suede Jew", "original_title": "Blue Suede Jew", "slug_title": "blue-suede-jew", "date": "2007-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 500356, "title": "Sisters!", "original_title": "Sisters!", "slug_title": "sisters", "date": "1974-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Ed6T7VWQY5AKikJJMifucbmrOT.jpg", "actors": [], "comments": [], "recommandations_id": []}

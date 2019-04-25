@@ -1,1 +1,0 @@
-{"tmdb_id": 391447, "title": "Still Lives", "original_title": "Still Lives", "slug_title": "still-lives", "date": "1999-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vJlbNLFV5yrkgfQtxIWhL3H8RNq.jpg", "actors": [], "comments": [], "recommandations_id": []}

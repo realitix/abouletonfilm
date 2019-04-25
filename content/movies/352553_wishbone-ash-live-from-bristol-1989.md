@@ -1,1 +1,0 @@
-{"tmdb_id": 352553, "title": "Wishbone Ash Live from Bristol 1989", "original_title": "Wishbone Ash Live from Bristol 1989", "slug_title": "wishbone-ash-live-from-bristol-1989", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 582963, "title": "Fragments of An Ecosystem", "original_title": "Fragments of An Ecosystem", "slug_title": "fragments-of-an-ecosystem", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

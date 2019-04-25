@@ -1,1 +1,0 @@
-{"tmdb_id": 350183, "title": "Pop Singer Jo Yong-pil", "original_title": "\uadf8 \uc0ac\ub791 \ud55c\uc774 \ub418\uc5b4", "slug_title": "pop-singer-jo-yong-pil", "date": "1981-02-05", "genre": "Drame / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yu Ji-in ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 307424, "title": "Halu Jenu", "original_title": "Halu Jenu", "slug_title": "halu-jenu", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

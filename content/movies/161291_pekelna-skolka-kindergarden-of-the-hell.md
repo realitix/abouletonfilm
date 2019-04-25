@@ -1,1 +1,0 @@
-{"tmdb_id": 161291, "title": "Pekeln\u00e1 \u0161kolka! (Kindergarden of the Hell)", "original_title": "Pekeln\u00e1 \u0161kolka! (Kindergarden of the Hell)", "slug_title": "pekelna-skolka-kindergarden-of-the-hell", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

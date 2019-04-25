@@ -1,1 +1,0 @@
-{"tmdb_id": 423401, "title": "The Elastic Dancer", "original_title": "The Elastic Dancer", "slug_title": "the-elastic-dancer", "date": "1933-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

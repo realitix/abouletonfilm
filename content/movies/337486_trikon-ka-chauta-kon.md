@@ -1,1 +1,0 @@
-{"tmdb_id": 337486, "title": "Trikon Ka Chauta Kon", "original_title": "Trikon Ka Chauta Kon", "slug_title": "trikon-ka-chauta-kon", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

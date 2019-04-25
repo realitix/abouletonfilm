@@ -1,1 +1,0 @@
-{"tmdb_id": 441290, "title": "Der verlorene Ball", "original_title": "Der verlorene Ball", "slug_title": "der-verlorene-ball", "date": "1959-09-19", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Erika Dunkelmann ()"], "comments": [], "recommandations_id": []}

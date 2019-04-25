@@ -1,1 +1,0 @@
-{"tmdb_id": 495194, "title": "Experiment I", "original_title": "Experiment I", "slug_title": "experiment-i", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lv4oYeEN8K0TW3LfO4eFdugFdAf.jpg", "actors": [], "comments": [], "recommandations_id": []}

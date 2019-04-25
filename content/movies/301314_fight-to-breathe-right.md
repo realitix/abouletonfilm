@@ -1,1 +1,0 @@
-{"tmdb_id": 301314, "title": "Fight To Breathe Right", "original_title": "Fight To Breathe Right", "slug_title": "fight-to-breathe-right", "date": "2013-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

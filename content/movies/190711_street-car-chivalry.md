@@ -1,1 +1,0 @@
-{"tmdb_id": 190711, "title": "Street Car Chivalry", "original_title": "Street Car Chivalry", "slug_title": "street-car-chivalry", "date": "1903-08-09", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

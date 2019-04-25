@@ -1,1 +1,0 @@
-{"tmdb_id": 189742, "title": "Whys and Otherwise", "original_title": "Whys and Otherwise", "slug_title": "whys-and-otherwise", "date": "1927-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

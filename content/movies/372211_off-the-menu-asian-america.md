@@ -1,1 +1,0 @@
-{"tmdb_id": 372211, "title": "Off the Menu: Asian America", "original_title": "Off the Menu: Asian America", "slug_title": "off-the-menu-asian-america", "date": "2015-12-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

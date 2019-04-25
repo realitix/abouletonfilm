@@ -1,1 +1,0 @@
-{"tmdb_id": 437497, "title": "La mirabile visione", "original_title": "La mirabile visione", "slug_title": "la-mirabile-visione", "date": "1921-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kl0fqCuPKhrEDrVIwZ2E45Vcita.jpg", "actors": [], "comments": [], "recommandations_id": []}

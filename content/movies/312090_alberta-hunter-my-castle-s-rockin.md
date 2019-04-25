@@ -1,1 +1,0 @@
-{"tmdb_id": 312090, "title": "Alberta Hunter: My Castle's Rockin'", "original_title": "Alberta Hunter: My Castle's Rockin'", "slug_title": "alberta-hunter-my-castle-s-rockin", "date": "2001-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

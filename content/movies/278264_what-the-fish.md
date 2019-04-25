@@ -1,1 +1,0 @@
-{"tmdb_id": 278264, "title": "What the Fish", "original_title": "What the Fish", "slug_title": "what-the-fish", "date": "2013-12-13", "genre": "", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iUwHm6nZR1VhxFrJ3VV2zAi6rDS.jpg", "actors": [], "comments": [], "recommandations_id": [353952, 161064, 488446, 390606]}

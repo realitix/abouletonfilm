@@ -1,1 +1,0 @@
-{"tmdb_id": 261991, "title": "The History of the Movie Trailer", "original_title": "The History of the Movie Trailer", "slug_title": "the-history-of-the-movie-trailer", "date": "2014-03-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John P. Hess ()"], "comments": [], "recommandations_id": []}

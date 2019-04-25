@@ -1,1 +1,0 @@
-{"tmdb_id": 480385, "title": "Der Gipfel - Performing G20", "original_title": "Der Gipfel - Performing G20", "slug_title": "der-gipfel-performing-g20", "date": "2017-10-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

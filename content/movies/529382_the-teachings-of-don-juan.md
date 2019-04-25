@@ -1,1 +1,0 @@
-{"tmdb_id": 529382, "title": "The Teachings of Don Juan", "original_title": "The Teachings of Don Juan", "slug_title": "the-teachings-of-don-juan", "date": "", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4tRT4o0hvaj9yPLT0kRC7kTZZqj.jpg", "actors": [], "comments": [], "recommandations_id": []}

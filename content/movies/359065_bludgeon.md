@@ -1,1 +1,0 @@
-{"tmdb_id": 359065, "title": "Bludgeon", "original_title": "Bludgeon", "slug_title": "bludgeon", "date": "2013-03-12", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/165rbs9R6zcL0eZn2vhqo18ooaM.jpg", "actors": ["Haley Madison (Quinn)"], "comments": [], "recommandations_id": []}

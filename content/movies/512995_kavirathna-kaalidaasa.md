@@ -1,1 +1,0 @@
-{"tmdb_id": 512995, "title": "Kavirathna Kaalidaasa", "original_title": "Kavirathna Kaalidaasa", "slug_title": "kavirathna-kaalidaasa", "date": "", "genre": "Drame / Histoire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dr. Rajkumar (Kalidasa)"], "comments": [], "recommandations_id": []}

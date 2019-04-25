@@ -1,1 +1,0 @@
-{"tmdb_id": 341856, "title": "A Little Off the Top", "original_title": "A Little Off the Top", "slug_title": "a-little-off-the-top", "date": "2012-03-14", "genre": "Horreur", "score": "6.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Nerman (Sylvio)", "Ingrid Falaise  (Ingrid Clifford)"], "comments": [], "recommandations_id": []}

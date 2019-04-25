@@ -1,1 +1,0 @@
-{"tmdb_id": 273976, "title": "Casting About", "original_title": "Casting About", "slug_title": "casting-about", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

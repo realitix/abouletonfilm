@@ -1,1 +1,0 @@
-{"tmdb_id": 223734, "title": "Morning", "original_title": "Morning", "slug_title": "morning", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oVMORsfrGpnGwGzU1WxQ3pAYh2f.jpg", "actors": [], "comments": [], "recommandations_id": []}

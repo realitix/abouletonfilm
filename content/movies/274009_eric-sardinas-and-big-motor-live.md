@@ -1,1 +1,0 @@
-{"tmdb_id": 274009, "title": "Eric Sardinas - And Big Motor Live", "original_title": "Eric Sardinas - And Big Motor Live", "slug_title": "eric-sardinas-and-big-motor-live", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

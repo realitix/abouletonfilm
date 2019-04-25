@@ -1,1 +1,0 @@
-{"tmdb_id": 264409, "title": "Bob Hope: Memories of World War II", "original_title": "Bob Hope: Memories of World War II", "slug_title": "bob-hope-memories-of-world-war-ii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 378410, "title": "The Divine Martial Arts of Dharma", "original_title": "\u9054\u6469\u795e\u529f", "slug_title": "the-divine-martial-arts-of-dharma", "date": "1978-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wEQOQ4eqaPrY8ZC2RENlDClovqc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 374160, "title": "Alice's Medicine Show", "original_title": "Alice's Medicine Show", "slug_title": "alice-s-medicine-show", "date": "1927-07-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lois Hardwick (Alice)"], "comments": [], "recommandations_id": []}

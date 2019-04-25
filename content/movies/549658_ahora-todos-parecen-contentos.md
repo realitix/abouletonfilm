@@ -1,1 +1,0 @@
-{"tmdb_id": 549658, "title": "Ahora todos parecen contentos", "original_title": "Ahora todos parecen contentos", "slug_title": "ahora-todos-parecen-contentos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

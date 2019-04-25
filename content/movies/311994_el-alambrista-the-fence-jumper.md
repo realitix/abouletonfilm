@@ -1,1 +1,0 @@
-{"tmdb_id": 311994, "title": "El Alambrista: The Fence Jumper", "original_title": "El Alambrista: The Fence Jumper", "slug_title": "el-alambrista-the-fence-jumper", "date": "2008-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

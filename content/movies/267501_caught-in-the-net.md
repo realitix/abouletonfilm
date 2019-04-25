@@ -1,1 +1,0 @@
-{"tmdb_id": 267501, "title": "Caught in the net", "original_title": "Caught in the net", "slug_title": "caught-in-the-net", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qB34bWM2PWq7GQJ4aOwJwRwaUOC.jpg", "actors": [], "comments": [], "recommandations_id": []}

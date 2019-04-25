@@ -1,1 +1,0 @@
-{"tmdb_id": 139472, "title": "Rock & Bop With The Doodlebops", "original_title": "Rock & Bop With The Doodlebops", "slug_title": "rock-bop-with-the-doodlebops", "date": "", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

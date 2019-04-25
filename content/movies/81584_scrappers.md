@@ -1,1 +1,0 @@
-{"tmdb_id": 81584, "title": "Scrappers", "original_title": "Scrappers", "slug_title": "scrappers", "date": "2010-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2QvKGI8y5T2HzPy31fLmgScmmEL.jpg", "actors": [], "comments": [], "recommandations_id": []}

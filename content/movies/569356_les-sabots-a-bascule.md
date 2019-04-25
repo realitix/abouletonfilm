@@ -1,1 +1,0 @@
-{"tmdb_id": 569356, "title": "Les sabots \u00e0 bascule", "original_title": "Les sabots \u00e0 bascule", "slug_title": "les-sabots-a-bascule", "date": "1990-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8uXtHSjMaZsVSzxo3AHBVeZaVCt.jpg", "actors": [], "comments": [], "recommandations_id": []}

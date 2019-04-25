@@ -1,1 +1,0 @@
-{"tmdb_id": 242142, "title": "Slimane", "original_title": "Slimane", "slug_title": "slimane", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/an1kaMjo7Sk9sC4sWze73R3t3d7.jpg", "actors": ["Moha Kezza ()", "Slimane Larhroti ()"], "comments": [], "recommandations_id": []}

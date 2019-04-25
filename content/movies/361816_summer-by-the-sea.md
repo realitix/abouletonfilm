@@ -1,1 +1,0 @@
-{"tmdb_id": 361816, "title": "Summer by the Sea", "original_title": "Les jeux de l\u2019\u00e9t\u00e9 et de la mer", "slug_title": "summer-by-the-sea", "date": "1931-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f20sDjgiK2uwKfEtbwFhip3GB6T.jpg", "actors": [], "comments": [], "recommandations_id": []}

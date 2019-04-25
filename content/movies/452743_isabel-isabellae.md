@@ -1,1 +1,0 @@
-{"tmdb_id": 452743, "title": "Isabel Isabellae", "original_title": "Isabel Isabellae", "slug_title": "isabel-isabellae", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marti\u00f1o Rivas ()", "Irene Escolar ()", "Tamar Novas ()"], "comments": [], "recommandations_id": []}

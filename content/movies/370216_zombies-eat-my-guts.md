@@ -1,1 +1,0 @@
-{"tmdb_id": 370216, "title": "Zombies Eat My Guts", "original_title": "Zombies Eat My Guts", "slug_title": "zombies-eat-my-guts", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h7Cdeqnhihq1SdsMdCQmg2SCdx8.jpg", "actors": [], "comments": [], "recommandations_id": []}

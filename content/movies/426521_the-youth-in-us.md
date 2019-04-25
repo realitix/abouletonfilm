@@ -1,1 +1,0 @@
-{"tmdb_id": 426521, "title": "The Youth In Us", "original_title": "The Youth In Us", "slug_title": "the-youth-in-us", "date": "2005-01-20", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lukas Haas ()", "Kelli Garner ()"], "comments": [], "recommandations_id": []}

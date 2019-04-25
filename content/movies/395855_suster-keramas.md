@@ -1,1 +1,0 @@
-{"tmdb_id": 395855, "title": "Suster keramas", "original_title": "Suster keramas", "slug_title": "suster-keramas", "date": "2009-05-03", "genre": "Com\u00e9die / Horreur", "score": "2.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lR6WfDj3u5BiztKWERt7PsO3iuQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

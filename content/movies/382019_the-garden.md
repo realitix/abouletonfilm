@@ -1,1 +1,0 @@
-{"tmdb_id": 382019, "title": "The Garden", "original_title": "\u0421\u0430\u0434", "slug_title": "the-garden", "date": "1983-04-01", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chin Go Pin ()", "Vitautas Paukshte ()", "Leonid Pleshakov ()", "Iosif Kavalerchik ()"], "comments": [], "recommandations_id": []}

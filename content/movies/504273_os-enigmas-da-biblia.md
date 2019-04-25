@@ -1,1 +1,0 @@
-{"tmdb_id": 504273, "title": "Os Enigmas da B\u00edblia", "original_title": "Os Enigmas da B\u00edblia", "slug_title": "os-enigmas-da-biblia", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

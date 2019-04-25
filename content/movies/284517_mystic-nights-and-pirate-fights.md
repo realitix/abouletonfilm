@@ -1,1 +1,0 @@
-{"tmdb_id": 284517, "title": "Mystic Nights and Pirate Fights", "original_title": "Mystic Nights and Pirate Fights", "slug_title": "mystic-nights-and-pirate-fights", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

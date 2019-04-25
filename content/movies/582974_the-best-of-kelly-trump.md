@@ -1,1 +1,0 @@
-{"tmdb_id": 582974, "title": "The Best of Kelly Trump", "original_title": "The Best of Kelly Trump", "slug_title": "the-best-of-kelly-trump", "date": "1996-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AbnFCp39SoLZ4lF1mzktoWFoTrv.jpg", "actors": ["Kelly Trump ()"], "comments": [], "recommandations_id": []}

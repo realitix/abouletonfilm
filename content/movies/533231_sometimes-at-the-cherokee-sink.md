@@ -1,1 +1,0 @@
-{"tmdb_id": 533231, "title": "Sometimes at the Cherokee Sink", "original_title": "Sometimes at the Cherokee Sink", "slug_title": "sometimes-at-the-cherokee-sink", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dfpB5CjAGyBezkbBmPRoEdM7X85.jpg", "actors": [], "comments": [], "recommandations_id": []}

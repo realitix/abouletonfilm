@@ -1,1 +1,0 @@
-{"tmdb_id": 317896, "title": "The Uyghurs", "original_title": "Les ouigours - minorit\u00e9 nationale", "slug_title": "the-uyghurs", "date": "1977-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xcNK7lVzEp9xKTDipr1gI4yxaVz.jpg", "actors": [], "comments": [], "recommandations_id": []}

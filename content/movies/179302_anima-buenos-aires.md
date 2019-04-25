@@ -1,1 +1,0 @@
-{"tmdb_id": 179302, "title": "\u00c1nima Buenos Aires", "original_title": "\u00c1nima Buenos Aires", "slug_title": "anima-buenos-aires", "date": "2012-05-02", "genre": "Animation", "score": "6.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gnWeNW45qFRcVKgLTO5CFcqCNWA.jpg", "actors": [], "comments": [], "recommandations_id": []}

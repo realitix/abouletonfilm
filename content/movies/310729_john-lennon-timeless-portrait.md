@@ -1,1 +1,0 @@
-{"tmdb_id": 310729, "title": "John Lennon: Timeless Portrait", "original_title": "John Lennon: Timeless Portrait", "slug_title": "john-lennon-timeless-portrait", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

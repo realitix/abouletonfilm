@@ -1,1 +1,0 @@
-{"tmdb_id": 508406, "title": "The Oven", "original_title": "The Oven", "slug_title": "the-oven", "date": "2017-08-18", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

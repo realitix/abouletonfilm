@@ -1,1 +1,0 @@
-{"tmdb_id": 582821, "title": "Travelling with Mark", "original_title": "Travelling with Mark", "slug_title": "travelling-with-mark", "date": "2003-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yNkSI1TFR7AE94MaDEvEKmHLhf0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 551781, "title": "Les passantes", "original_title": "Les passantes", "slug_title": "les-passantes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Le portait de plusieurs femmes.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

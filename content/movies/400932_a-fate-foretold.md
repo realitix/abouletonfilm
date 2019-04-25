@@ -1,1 +1,1 @@
-{"tmdb_id": 400932, "title": "A Fate Foretold", "original_title": "A Fate Foretold", "slug_title": "a-fate-foretold", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 400932, "title": "A Fate Foretold", "original_title": "A Fate Foretold", "slug_title": "a-fate-foretold", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A short film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

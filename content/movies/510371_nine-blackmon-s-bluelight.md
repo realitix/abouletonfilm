@@ -1,1 +1,0 @@
-{"tmdb_id": 510371, "title": "'Nine Blackmon's Bluelight'", "original_title": "'Nine Blackmon's Bluelight'", "slug_title": "nine-blackmon-s-bluelight", "date": "2015-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ebUotqngtJdQtIpgvddlN7pWoj.jpg", "actors": [], "comments": [], "recommandations_id": []}

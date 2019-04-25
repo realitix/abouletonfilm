@@ -1,1 +1,0 @@
-{"tmdb_id": 108064, "title": "\u00d6denwaldstetten", "original_title": "\u00d6denwaldstetten", "slug_title": "odenwaldstetten", "date": "1964-08-17", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/euSKePKo7GLlqoWpndNe0uPdtbP.jpg", "actors": [], "comments": [], "recommandations_id": []}

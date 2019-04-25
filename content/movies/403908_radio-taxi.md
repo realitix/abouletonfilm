@@ -1,1 +1,0 @@
-{"tmdb_id": 403908, "title": "Radio Taxi", "original_title": "Radio Taxi", "slug_title": "radio-taxi", "date": "2012-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ilsCE5enT2tCOofQy5MsmBoBJp.jpg", "actors": ["Toni Sevilla (Rafa)", "Llu\u00efsa Mallol (Reme)"], "comments": [], "recommandations_id": []}

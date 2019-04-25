@@ -1,1 +1,0 @@
-{"tmdb_id": 581033, "title": "Art From the Streets", "original_title": "Art From the Streets", "slug_title": "art-from-the-streets", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 78616, "title": "Nadodi Mannan", "original_title": "Nadodi Mannan", "slug_title": "nadodi-mannan", "date": "1995-09-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["R. Sarathkumar ()", "Meena ()", "Senthil ()", "Goundamani ()", "Vignesh ()", "Raghuvaran ()"], "comments": [], "recommandations_id": []}

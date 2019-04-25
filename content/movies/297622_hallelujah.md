@@ -1,1 +1,0 @@
-{"tmdb_id": 297622, "title": "Hallelujah", "original_title": "Hallelujah", "slug_title": "hallelujah", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 366434, "title": "Sa, 29. Juni/Arctic Circle", "original_title": "Sa, 29. Juni/Arctic Circle", "slug_title": "sa-29-juni-arctic-circle", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

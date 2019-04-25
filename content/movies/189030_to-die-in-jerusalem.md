@@ -1,1 +1,0 @@
-{"tmdb_id": 189030, "title": "To Die in Jerusalem", "original_title": "To Die in Jerusalem", "slug_title": "to-die-in-jerusalem", "date": "2007-10-27", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oxTafYiTVi4UQUTsgIpbAtSRw29.jpg", "actors": [], "comments": [], "recommandations_id": []}

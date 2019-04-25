@@ -1,1 +1,0 @@
-{"tmdb_id": 456277, "title": "Hombres de ley", "original_title": "Hombres de ley", "slug_title": "hombres-de-ley", "date": "1998-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6pApQAqx5SsnULKypmknLUqJiWs.jpg", "actors": ["Mario Almada ()"], "comments": [], "recommandations_id": []}

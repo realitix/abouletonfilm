@@ -1,1 +1,0 @@
-{"tmdb_id": 567734, "title": "La mort de Venise", "original_title": "La mort de Venise", "slug_title": "la-mort-de-venise", "date": "2013-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

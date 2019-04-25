@@ -1,1 +1,0 @@
-{"tmdb_id": 217505, "title": "Kongi's Harvest", "original_title": "Kongi's Harvest", "slug_title": "kongi-s-harvest", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wole Soyinka ()", "Rasidi Onikoyi ()"], "comments": [], "recommandations_id": []}

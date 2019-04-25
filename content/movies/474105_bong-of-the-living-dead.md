@@ -1,1 +1,0 @@
-{"tmdb_id": 474105, "title": "Bong of the Living Dead", "original_title": "Bong of the Living Dead", "slug_title": "bong-of-the-living-dead", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gdoxAUcOhoc3JaBhBnLTL6ns6CF.jpg", "actors": [], "comments": [], "recommandations_id": []}

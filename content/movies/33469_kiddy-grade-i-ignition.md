@@ -1,1 +1,0 @@
-{"tmdb_id": 33469, "title": "Kiddy Grade I: Ignition", "original_title": "Kiddy Grade I: Ignition", "slug_title": "kiddy-grade-i-ignition", "date": "2007-04-08", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iz4yy3ugrfFty426KvvcOnlSRxI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 526603, "title": "El inspector Gourmet", "original_title": "El inspector Gourmet", "slug_title": "el-inspector-gourmet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

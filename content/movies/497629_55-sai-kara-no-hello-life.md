@@ -1,1 +1,0 @@
-{"tmdb_id": 497629, "title": "55 Sai Kara No Hello Life", "original_title": "55\u6b73\u304b\u3089\u306e\u30cf\u30ed\u30fc\u30e9\u30a4\u30d5", "slug_title": "55-sai-kara-no-hello-life", "date": "2014-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 568340, "title": "Mountain", "original_title": "Mountain", "slug_title": "mountain", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

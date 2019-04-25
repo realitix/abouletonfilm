@@ -1,1 +1,0 @@
-{"tmdb_id": 371509, "title": "Kriegsbilder", "original_title": "Kriegsbilder", "slug_title": "kriegsbilder", "date": "1996-12-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Herbert Knaup (Jan Loy)", "Peter Franke ()", "\u00d6zay Fecht ()"], "comments": [], "recommandations_id": []}

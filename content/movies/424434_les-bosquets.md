@@ -1,1 +1,0 @@
-{"tmdb_id": 424434, "title": "Les bosquets", "original_title": "Les bosquets", "slug_title": "les-bosquets", "date": "2015-04-18", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

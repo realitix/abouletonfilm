@@ -1,1 +1,0 @@
-{"tmdb_id": 210093, "title": "Desire of the Innocent Blood", "original_title": "Desire of the Innocent Blood", "slug_title": "desire-of-the-innocent-blood", "date": "2002-07-26", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

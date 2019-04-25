@@ -1,1 +1,0 @@
-{"tmdb_id": 121469, "title": "Eastern Rises", "original_title": "Eastern Rises", "slug_title": "eastern-rises", "date": "2010-08-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/606i3We0xuknbRvVSdzdX4B9Vkh.jpg", "actors": [], "comments": [], "recommandations_id": []}

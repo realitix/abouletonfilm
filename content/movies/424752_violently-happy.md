@@ -1,1 +1,0 @@
-{"tmdb_id": 424752, "title": "Violently Happy", "original_title": "Violently Happy", "slug_title": "violently-happy", "date": "2016-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9p4HB7H1IIZbS77wvfswox034fG.jpg", "actors": [], "comments": [], "recommandations_id": []}

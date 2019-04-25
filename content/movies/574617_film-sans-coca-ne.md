@@ -1,1 +1,0 @@
-{"tmdb_id": 574617, "title": "Film sans Coca\u2014ne", "original_title": "Film sans Coca\u2014ne", "slug_title": "film-sans-coca-ne", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un film de Jakobois", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

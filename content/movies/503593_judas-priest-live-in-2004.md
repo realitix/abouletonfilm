@@ -1,1 +1,0 @@
-{"tmdb_id": 503593, "title": "Judas Priest - Live in 2004", "original_title": "Judas Priest - Live in 2004", "slug_title": "judas-priest-live-in-2004", "date": "2004-08-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

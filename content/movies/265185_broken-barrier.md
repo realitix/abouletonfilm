@@ -1,1 +1,0 @@
-{"tmdb_id": 265185, "title": "Broken Barrier", "original_title": "Broken Barrier", "slug_title": "broken-barrier", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3uir7vhZagweiQWXyZFMLf1rtAX.jpg", "actors": [], "comments": [], "recommandations_id": []}

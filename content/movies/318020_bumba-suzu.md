@@ -1,1 +1,0 @@
-{"tmdb_id": 318020, "title": "Bumba - Suzu", "original_title": "Bumba - Suzu", "slug_title": "bumba-suzu", "date": "2011-04-13", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6TCumT3Ft5B7ZYz3S7tHUFqudd1.jpg", "actors": [], "comments": [], "recommandations_id": []}

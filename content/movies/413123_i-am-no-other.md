@@ -1,1 +1,0 @@
-{"tmdb_id": 413123, "title": "I Am No Other", "original_title": "Ik Ben Geen Ander", "slug_title": "i-am-no-other", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/okyKXMQySkBZgKQPw5zkWCH6pr0.jpg", "actors": [], "comments": [], "recommandations_id": []}

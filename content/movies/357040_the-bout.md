@@ -1,1 +1,0 @@
-{"tmdb_id": 357040, "title": "The Bout", "original_title": "The Bout", "slug_title": "the-bout", "date": "1900-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

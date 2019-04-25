@@ -1,1 +1,0 @@
-{"tmdb_id": 389949, "title": "Cubic Centimeter", "original_title": "\u6625\u6210\u3064\u3080\u304e", "slug_title": "cubic-centimeter", "date": "2013-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5aF0PwnXTu8K9qDPVtqoPtKaEz0.jpg", "actors": [], "comments": [], "recommandations_id": []}

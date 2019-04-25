@@ -1,1 +1,0 @@
-{"tmdb_id": 387162, "title": "Onaka no Ookina Ouji-sama", "original_title": "Onaka no Ookina Ouji-sama", "slug_title": "onaka-no-ookina-ouji-sama", "date": "1975-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3nuxuejt11QKIKjkGgOi8c6XtFn.jpg", "actors": [], "comments": [], "recommandations_id": []}

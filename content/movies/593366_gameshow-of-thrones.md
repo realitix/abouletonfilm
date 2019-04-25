@@ -1,1 +1,0 @@
-{"tmdb_id": 593366, "title": "Gameshow Of Thrones", "original_title": "Gameshow Of Thrones", "slug_title": "gameshow-of-thrones", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

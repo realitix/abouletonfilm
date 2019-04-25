@@ -1,1 +1,0 @@
-{"tmdb_id": 349306, "title": "Come to Me", "original_title": "\ub098\uc5d0\uac8c \uc624\ub77c", "slug_title": "come-to-me", "date": "1996-03-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hexPqNl6t7br1dquBk5viEKXyn8.jpg", "actors": ["Park Sang-min ()"], "comments": [], "recommandations_id": []}

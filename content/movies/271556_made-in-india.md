@@ -1,1 +1,0 @@
-{"tmdb_id": 271556, "title": "Made in India", "original_title": "Made in India", "slug_title": "made-in-india", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3UY4HLEni90KIqBiEwx1duYY6EY.jpg", "actors": [], "comments": [], "recommandations_id": []}

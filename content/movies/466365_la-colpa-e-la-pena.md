@@ -1,1 +1,0 @@
-{"tmdb_id": 466365, "title": "La colpa e la pena", "original_title": "La colpa e la pena", "slug_title": "la-colpa-e-la-pena", "date": "1961-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alberto Maravalle ()", "Stefano Satta Flores ()", "Maria Pia Vaccarezza ()"], "comments": [], "recommandations_id": []}

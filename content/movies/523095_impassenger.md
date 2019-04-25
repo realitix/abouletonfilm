@@ -1,1 +1,0 @@
-{"tmdb_id": 523095, "title": "Impassenger", "original_title": "Impassenger", "slug_title": "impassenger", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

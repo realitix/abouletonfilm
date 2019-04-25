@@ -1,1 +1,0 @@
-{"tmdb_id": 380041, "title": "The Lions Are Free", "original_title": "The Lions Are Free", "slug_title": "the-lions-are-free", "date": "1969-01-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Adamson ()", "Virginia McKenna ()", "Bill Travers ()"], "comments": [], "recommandations_id": []}

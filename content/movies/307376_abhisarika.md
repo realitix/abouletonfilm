@@ -1,1 +1,0 @@
-{"tmdb_id": 307376, "title": "Abhisarika", "original_title": "Abhisarika", "slug_title": "abhisarika", "date": "1962-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

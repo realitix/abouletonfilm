@@ -1,1 +1,0 @@
-{"tmdb_id": 148492, "title": "Luiz Melodia - Convida ao Vivo", "original_title": "Luiz Melodia - Convida ao Vivo", "slug_title": "luiz-melodia-convida-ao-vivo", "date": "2015-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c9KC9ajOwijiheeFMBMj3ctAkrh.jpg", "actors": [], "comments": [], "recommandations_id": []}

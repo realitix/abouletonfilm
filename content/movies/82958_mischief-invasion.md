@@ -1,1 +1,0 @@
-{"tmdb_id": 82958, "title": "Mischief Invasion", "original_title": "Mischief Invasion", "slug_title": "mischief-invasion", "date": "2004-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z1JGfnoQJVMKpJI5N5XC8qqbNDQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

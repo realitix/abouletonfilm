@@ -1,1 +1,0 @@
-{"tmdb_id": 329268, "title": "Sweet Smell of Love", "original_title": "Booye Khoshe Eshgh", "slug_title": "sweet-smell-of-love", "date": "2017-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shohreh Aghdashloo ()"], "comments": [], "recommandations_id": []}

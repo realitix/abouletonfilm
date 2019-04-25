@@ -1,1 +1,0 @@
-{"tmdb_id": 391412, "title": "The Barrier", "original_title": "Szlaban", "slug_title": "the-barrier", "date": "1977-04-05", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xgxqvjZrj3fiG3XBaqgBAN9LgDh.jpg", "actors": [], "comments": [], "recommandations_id": []}

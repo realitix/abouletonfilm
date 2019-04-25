@@ -1,1 +1,0 @@
-{"tmdb_id": 526131, "title": "TWO ELEPHANTS", "original_title": "TWO ELEPHANTS", "slug_title": "two-elephants", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

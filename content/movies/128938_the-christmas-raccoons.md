@@ -1,1 +1,0 @@
-{"tmdb_id": 128938, "title": "The Christmas Raccoons", "original_title": "The Christmas Raccoons", "slug_title": "the-christmas-raccoons", "date": "1980-12-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mqfuf479VPA5FqEA14dUQTd0WFv.jpg", "actors": [], "comments": [], "recommandations_id": []}

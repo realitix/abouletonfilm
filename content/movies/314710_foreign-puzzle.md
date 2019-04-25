@@ -1,1 +1,0 @@
-{"tmdb_id": 314710, "title": "Foreign Puzzle", "original_title": "Foreign Puzzle", "slug_title": "foreign-puzzle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

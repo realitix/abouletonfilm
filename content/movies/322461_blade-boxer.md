@@ -1,1 +1,0 @@
-{"tmdb_id": 322461, "title": "Blade Boxer", "original_title": "Blade Boxer", "slug_title": "blade-boxer", "date": "1997-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/prQiBuSsG5X2eWOBhJj0vuWKoK1.jpg", "actors": [], "comments": [], "recommandations_id": []}

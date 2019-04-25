@@ -1,1 +1,0 @@
-{"tmdb_id": 379182, "title": "Toro Pink", "original_title": "Toro Pink", "slug_title": "toro-pink", "date": "1979-04-04", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ocST5b74FzvYqeYZympCHEaDQKQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

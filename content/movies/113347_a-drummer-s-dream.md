@@ -1,1 +1,0 @@
-{"tmdb_id": 113347, "title": "A Drummer's Dream", "original_title": "A Drummer's Dream", "slug_title": "a-drummer-s-dream", "date": "2010-01-01", "genre": "Musique / Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vTOdvQJxE7kLps2sqypWL2F3uga.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 320214, "title": "Malaria: Fever Wars", "original_title": "Malaria: Fever Wars", "slug_title": "malaria-fever-wars", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

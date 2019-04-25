@@ -1,1 +1,0 @@
-{"tmdb_id": 596236, "title": "Identities", "original_title": "Identities", "slug_title": "identities", "date": "1973-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

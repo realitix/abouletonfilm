@@ -1,1 +1,0 @@
-{"tmdb_id": 185200, "title": "Mad World", "original_title": "Mad World", "slug_title": "mad-world", "date": "2010-02-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fO08saolkZmle1P5kJLhAdYN4gH.jpg", "actors": ["Kaycee (Reporter)"], "comments": [], "recommandations_id": []}

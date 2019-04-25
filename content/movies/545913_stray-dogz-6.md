@@ -1,1 +1,0 @@
-{"tmdb_id": 545913, "title": "Stray Dogz 6", "original_title": "\u95c7\u91d1\u30c9\u30c3\u30b0\u30b96", "slug_title": "stray-dogz-6", "date": "2017-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yYmsIxMPuCJWZphALq6iQSgc8fq.jpg", "actors": [], "comments": [], "recommandations_id": []}

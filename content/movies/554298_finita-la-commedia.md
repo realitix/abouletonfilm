@@ -1,1 +1,0 @@
-{"tmdb_id": 554298, "title": "Finita La Commedia", "original_title": "Finita La Commedia", "slug_title": "finita-la-commedia", "date": "", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Assi Dayan (Beethoven)"], "comments": [], "recommandations_id": []}

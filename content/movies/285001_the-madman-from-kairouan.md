@@ -1,1 +1,0 @@
-{"tmdb_id": 285001, "title": "The Madman from Kairouan", "original_title": "Majnun al Kairouan", "slug_title": "the-madman-from-kairouan", "date": "1939-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mohieddine M'Rad ()"], "comments": [], "recommandations_id": []}

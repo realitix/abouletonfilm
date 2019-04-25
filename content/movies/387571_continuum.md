@@ -1,1 +1,0 @@
-{"tmdb_id": 387571, "title": "Continuum", "original_title": "Continuum", "slug_title": "continuum", "date": "1987-03-14", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1zV76U4hzQkRx3NCU9vOCIi79pi.jpg", "actors": [], "comments": [], "recommandations_id": []}

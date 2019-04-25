@@ -1,1 +1,0 @@
-{"tmdb_id": 354893, "title": "Journey To", "original_title": "Journey To", "slug_title": "journey-to", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

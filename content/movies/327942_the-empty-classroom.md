@@ -1,1 +1,0 @@
-{"tmdb_id": 327942, "title": "The Empty Classroom", "original_title": "El aula vac\u00eda", "slug_title": "the-empty-classroom", "date": "2015-12-31", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/651Zm8QZal4tVXXHvw4RPptxHbO.jpg", "actors": [], "comments": [], "recommandations_id": []}

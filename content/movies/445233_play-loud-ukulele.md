@@ -1,1 +1,0 @@
-{"tmdb_id": 445233, "title": "Play Loud Ukulele", "original_title": "Play Loud Ukulele", "slug_title": "play-loud-ukulele", "date": "2005-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bajAF7dedtkro0yu7Jus3ch942K.jpg", "actors": [], "comments": [], "recommandations_id": []}

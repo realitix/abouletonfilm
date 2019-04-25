@@ -1,1 +1,0 @@
-{"tmdb_id": 201894, "title": "Ojd\u00e5 en till", "original_title": "Ojd\u00e5 en till", "slug_title": "ojda-en-till", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dIL5BT3qhiLWR5x6Dt122xnPfpa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 406981, "title": "Deutsche Traktor-Legenden", "original_title": "Deutsche Traktor-Legenden", "slug_title": "deutsche-traktor-legenden", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pkgCbCRkkOfCgH5ZoMW4ciJw0HZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

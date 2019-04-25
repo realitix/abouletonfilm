@@ -1,1 +1,0 @@
-{"tmdb_id": 463832, "title": "Deux amis", "original_title": "Deux amis", "slug_title": "deux-amis", "date": "1946-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Francoeur (Prussian Officer)", "Henri Villemur (M. Sauvage)"], "comments": [], "recommandations_id": []}

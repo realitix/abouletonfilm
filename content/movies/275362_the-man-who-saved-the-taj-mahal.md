@@ -1,1 +1,0 @@
-{"tmdb_id": 275362, "title": "The Man Who Saved The Taj Mahal", "original_title": "The Man Who Saved The Taj Mahal", "slug_title": "the-man-who-saved-the-taj-mahal", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

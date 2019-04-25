@@ -1,1 +1,0 @@
-{"tmdb_id": 510203, "title": "Insect Dissection", "original_title": "Insect Dissection", "slug_title": "insect-dissection", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d3OhFEaSpUspMtY0crd7ysGkF35.jpg", "actors": [], "comments": [], "recommandations_id": []}

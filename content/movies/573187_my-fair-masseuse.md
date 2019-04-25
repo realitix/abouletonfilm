@@ -1,1 +1,0 @@
-{"tmdb_id": 573187, "title": "My Fair Masseuse", "original_title": "My Fair Masseuse", "slug_title": "my-fair-masseuse", "date": "1996-06-21", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ikue Otani (Moko)"], "comments": [], "recommandations_id": []}

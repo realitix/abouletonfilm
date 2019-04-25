@@ -1,1 +1,0 @@
-{"tmdb_id": 261435, "title": "Jalainur", "original_title": "Zha lai nuo er", "slug_title": "jalainur", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sSnjeZHtVRmJ0xUzbFA1O8cJxvd.jpg", "actors": ["Li Zhi-Zhong (Master Zhu)", "Liu Yuan-Sheng (Zhi-Zhong)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 367614, "title": "The Nose Job Jew", "original_title": "The Nose Job Jew", "slug_title": "the-nose-job-jew", "date": "2000-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

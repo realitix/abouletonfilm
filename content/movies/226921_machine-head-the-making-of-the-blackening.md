@@ -1,1 +1,0 @@
-{"tmdb_id": 226921, "title": "Machine Head The Making of The Blackening", "original_title": "Machine Head The Making of The Blackening", "slug_title": "machine-head-the-making-of-the-blackening", "date": "2007-03-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

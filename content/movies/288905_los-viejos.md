@@ -1,1 +1,0 @@
-{"tmdb_id": 288905, "title": "Los viejos", "original_title": "Los viejos", "slug_title": "los-viejos", "date": "2011-10-08", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u4ZXIKpSAWlwfR9ezxiCOuqsEGO.jpg", "actors": [], "comments": [], "recommandations_id": []}

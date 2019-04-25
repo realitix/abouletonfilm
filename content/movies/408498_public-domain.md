@@ -1,1 +1,0 @@
-{"tmdb_id": 408498, "title": "Public Domain", "original_title": "Dom\u00ednio P\u00fablico", "slug_title": "public-domain", "date": "2014-06-11", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vcdvF38DEEO2pZiQydsjvDt28dw.jpg", "actors": [], "comments": [], "recommandations_id": []}

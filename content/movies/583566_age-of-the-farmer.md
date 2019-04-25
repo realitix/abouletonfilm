@@ -1,1 +1,0 @@
-{"tmdb_id": 583566, "title": "Age of the Farmer", "original_title": "Age of the Farmer", "slug_title": "age-of-the-farmer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

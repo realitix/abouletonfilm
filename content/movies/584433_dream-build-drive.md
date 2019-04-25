@@ -1,1 +1,0 @@
-{"tmdb_id": 584433, "title": "Dream Build Drive", "original_title": "Dream Build Drive", "slug_title": "dream-build-drive", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

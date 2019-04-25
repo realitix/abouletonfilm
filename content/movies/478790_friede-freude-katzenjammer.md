@@ -1,1 +1,0 @@
-{"tmdb_id": 478790, "title": "Friede, Freude, Katzenjammer", "original_title": "Friede, Freude, Katzenjammer", "slug_title": "friede-freude-katzenjammer", "date": "1992-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

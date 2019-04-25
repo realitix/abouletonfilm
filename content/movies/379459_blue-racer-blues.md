@@ -1,1 +1,0 @@
-{"tmdb_id": 379459, "title": "Blue Racer Blues", "original_title": "Blue Racer Blues", "slug_title": "blue-racer-blues", "date": "1972-12-31", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry D. Mann (Blue Racer (voice))", "Tom Holland (Japanese Beetle (voice))"], "comments": [], "recommandations_id": []}

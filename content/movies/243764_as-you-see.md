@@ -1,1 +1,0 @@
-{"tmdb_id": 243764, "title": "As You See", "original_title": "Wie man sieht", "slug_title": "as-you-see", "date": "1986-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ybPhzQXDbifBza4xwrhGczANQTc.jpg", "actors": [], "comments": [], "recommandations_id": [157631]}

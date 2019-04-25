@@ -1,1 +1,0 @@
-{"tmdb_id": 582874, "title": "Just Great", "original_title": "C'est extra", "slug_title": "just-great", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["G\u00e9rard Depardieu ()", "Michel Houellebecq ()", "Luc Schwarz ()", "Maxime Lefrancois ()", "Mathieu Nicourt ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 313262, "title": "Golden Killah", "original_title": "Golden Killah", "slug_title": "golden-killah", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

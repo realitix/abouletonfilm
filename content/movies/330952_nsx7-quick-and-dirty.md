@@ -1,1 +1,0 @@
-{"tmdb_id": 330952, "title": "NSX7 - Quick and Dirty", "original_title": "NSX7 - Quick and Dirty", "slug_title": "nsx7-quick-and-dirty", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/toGE0HrpL3VxUJjsFEJf92Dbml3.jpg", "actors": [], "comments": [], "recommandations_id": []}

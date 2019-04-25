@@ -1,1 +1,0 @@
-{"tmdb_id": 113368, "title": "Wade in the Water, Children", "original_title": "Wade in the Water, Children", "slug_title": "wade-in-the-water-children", "date": "2007-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lIHEIiBL1O6SoZwwrY42T72qf8e.jpg", "actors": [], "comments": [], "recommandations_id": []}

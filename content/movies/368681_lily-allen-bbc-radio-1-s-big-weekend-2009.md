@@ -1,1 +1,0 @@
-{"tmdb_id": 368681, "title": "Lily Allen - BBC Radio 1's Big Weekend 2009", "original_title": "Lily Allen - BBC Radio 1's Big Weekend 2009", "slug_title": "lily-allen-bbc-radio-1-s-big-weekend-2009", "date": "2009-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

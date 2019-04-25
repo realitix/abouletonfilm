@@ -1,1 +1,0 @@
-{"tmdb_id": 292668, "title": "The Black Rose", "original_title": "\u9ed1\u73ab\u7470", "slug_title": "the-black-rose", "date": "1965-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cRI9S1lFjKLotlaioyPliXInXWt.jpg", "actors": ["Patrick Tse Yin ()", "Connie Chan Po-Chu ()"], "comments": [], "recommandations_id": []}

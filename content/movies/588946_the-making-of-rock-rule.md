@@ -1,1 +1,0 @@
-{"tmdb_id": 588946, "title": "The Making of Rock & Rule", "original_title": "The Making of Rock & Rule", "slug_title": "the-making-of-rock-rule", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

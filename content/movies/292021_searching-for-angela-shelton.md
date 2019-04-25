@@ -1,1 +1,0 @@
-{"tmdb_id": 292021, "title": "Searching for Angela Shelton", "original_title": "Searching for Angela Shelton", "slug_title": "searching-for-angela-shelton", "date": "2004-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dsctRJK9HNOuMsrNHfsQU0dApFR.jpg", "actors": [], "comments": [], "recommandations_id": []}

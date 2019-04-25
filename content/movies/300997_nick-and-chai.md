@@ -1,1 +1,0 @@
-{"tmdb_id": 300997, "title": "Nick and Chai", "original_title": "Nick and Chai", "slug_title": "nick-and-chai", "date": "2014-10-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o2xo6dNOWzj2RX2tGv5fbdWtfUg.jpg", "actors": [], "comments": [], "recommandations_id": []}

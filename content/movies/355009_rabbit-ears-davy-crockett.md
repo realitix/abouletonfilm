@@ -1,1 +1,0 @@
-{"tmdb_id": 355009, "title": "Rabbit Ears - Davy Crockett", "original_title": "Rabbit Ears - Davy Crockett", "slug_title": "rabbit-ears-davy-crockett", "date": "1991-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Oq1hcJyTXpjnOutC59xDi9OVvz.jpg", "actors": [], "comments": [], "recommandations_id": []}

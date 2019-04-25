@@ -1,1 +1,0 @@
-{"tmdb_id": 342020, "title": "The Impressionists", "original_title": "The Impressionists", "slug_title": "the-impressionists", "date": "2015-05-28", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7CulCDpWDED6FjRKIpowwzamhpX.jpg", "actors": ["Robert Lindsay ()"], "comments": [], "recommandations_id": []}

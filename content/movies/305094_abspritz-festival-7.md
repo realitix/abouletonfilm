@@ -1,1 +1,0 @@
-{"tmdb_id": 305094, "title": "Abspritz Festival 7", "original_title": "Abspritz Festival 7", "slug_title": "abspritz-festival-7", "date": "2005-01-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/suvOXqhLwli3YcriWIcuB9qXf66.jpg", "actors": [], "comments": [], "recommandations_id": []}

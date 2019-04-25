@@ -1,1 +1,0 @@
-{"tmdb_id": 356974, "title": "The Sea Shall Test Her", "original_title": "The Sea Shall Test Her", "slug_title": "the-sea-shall-test-her", "date": "1954-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

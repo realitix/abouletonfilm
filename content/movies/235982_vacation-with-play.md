@@ -1,1 +1,0 @@
-{"tmdb_id": 235982, "title": "Vacation with Play", "original_title": "Vacation with Play", "slug_title": "vacation-with-play", "date": "1951-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

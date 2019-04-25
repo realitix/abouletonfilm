@@ -1,1 +1,0 @@
-{"tmdb_id": 443047, "title": "Lessons of War", "original_title": "Lessons of War", "slug_title": "lessons-of-war", "date": "2015-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bytK12bTUrkoIsQ7fYyL3slrv6j.jpg", "actors": [], "comments": [], "recommandations_id": []}

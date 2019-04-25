@@ -1,1 +1,0 @@
-{"tmdb_id": 464073, "title": "Station to Station", "original_title": "Station to Station", "slug_title": "station-to-station", "date": "1995-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2r9eFFbYLOiA58RTmOsCiw2GBRs.jpg", "actors": [], "comments": [], "recommandations_id": []}

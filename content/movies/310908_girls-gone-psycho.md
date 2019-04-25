@@ -1,1 +1,0 @@
-{"tmdb_id": 310908, "title": "Girls Gone Psycho", "original_title": "Girls Gone Psycho", "slug_title": "girls-gone-psycho", "date": "2006-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amy Holt (Dylan Hapsburg)"], "comments": [], "recommandations_id": []}

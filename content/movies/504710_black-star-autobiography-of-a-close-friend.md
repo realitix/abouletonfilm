@@ -1,1 +1,0 @@
-{"tmdb_id": 504710, "title": "Black Star: Autobiography of a Close Friend", "original_title": "Black Star: Autobiography of a Close Friend", "slug_title": "black-star-autobiography-of-a-close-friend", "date": "1976-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

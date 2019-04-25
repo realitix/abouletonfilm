@@ -1,1 +1,0 @@
-{"tmdb_id": 125000, "title": "Impossible Dreams", "original_title": "Impossible Dreams", "slug_title": "impossible-dreams", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ori Yaniv (Daniel)", "Ayala Zilberman (Shiri)", "Dina Yakerson (Nerdy)", "Maor Haroosh (Shmendrik)"], "comments": [], "recommandations_id": []}

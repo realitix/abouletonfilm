@@ -1,1 +1,0 @@
-{"tmdb_id": 461021, "title": "Livland", "original_title": "Livland", "slug_title": "livland", "date": "2012-06-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jHTglangOAnc1Fkl4WmvIAvfIXn.jpg", "actors": [], "comments": [], "recommandations_id": []}

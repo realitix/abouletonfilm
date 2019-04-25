@@ -1,1 +1,0 @@
-{"tmdb_id": 515731, "title": "Don't Be Nice", "original_title": "Don't Be Nice", "slug_title": "don-t-be-nice", "date": "2018-04-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g8RzSiPAOx70M9czxpycV8KxbwQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

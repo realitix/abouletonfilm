@@ -1,1 +1,0 @@
-{"tmdb_id": 112819, "title": "Monopol - Pamp p\u00e5 paradis\u00f6n", "original_title": "Monopol - Pamp p\u00e5 paradis\u00f6n", "slug_title": "monopol-pamp-pa-paradison", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4iswzeE0B6cYBqUEOrlT5BrIRaz.jpg", "actors": [], "comments": [], "recommandations_id": []}

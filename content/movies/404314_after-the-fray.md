@@ -1,1 +1,0 @@
-{"tmdb_id": 404314, "title": "After The Fray", "original_title": "After The Fray", "slug_title": "after-the-fray", "date": "2015-07-09", "genre": "Science-Fiction / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/geM3EZSgL9VRMLpMiJTCkP10sN3.jpg", "actors": [], "comments": [], "recommandations_id": []}

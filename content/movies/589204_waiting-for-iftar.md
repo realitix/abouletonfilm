@@ -1,1 +1,0 @@
-{"tmdb_id": 589204, "title": "Waiting for Iftar", "original_title": "Ngabuburit", "slug_title": "waiting-for-iftar", "date": "2016-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aLqGQ0OWrHR7ITKxHWUmDiW6NMq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 408406, "title": "Beaver Trouble", "original_title": "Beaver Trouble", "slug_title": "beaver-trouble", "date": "1951-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

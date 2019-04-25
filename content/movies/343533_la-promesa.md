@@ -1,1 +1,0 @@
-{"tmdb_id": 343533, "title": "La promesa", "original_title": "La promesa", "slug_title": "la-promesa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

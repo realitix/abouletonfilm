@@ -1,1 +1,0 @@
-{"tmdb_id": 358256, "title": "Discipline", "original_title": "Discipline", "slug_title": "discipline", "date": "2011-04-13", "genre": "Thriller", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f1vz9AjLxitElKDeqnwqFulYFBx.jpg", "actors": ["Courtney Gains (Jack Baldwin)"], "comments": [], "recommandations_id": []}

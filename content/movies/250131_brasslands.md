@@ -1,1 +1,0 @@
-{"tmdb_id": 250131, "title": "Brasslands", "original_title": "Brasslands", "slug_title": "brasslands", "date": "2013-06-15", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ae0GWgHipG9gFIV7z5df0ROkMcw.jpg", "actors": [], "comments": [], "recommandations_id": []}

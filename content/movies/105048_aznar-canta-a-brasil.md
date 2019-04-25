@@ -1,1 +1,0 @@
-{"tmdb_id": 105048, "title": "Aznar canta a Brasil", "original_title": "Aznar canta a Brasil", "slug_title": "aznar-canta-a-brasil", "date": "2005-02-28", "genre": "Drame / Action / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dOOPhgVmv5sNg6ATu5ejWXhk0VT.jpg", "actors": [], "comments": [], "recommandations_id": []}

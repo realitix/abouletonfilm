@@ -1,1 +1,0 @@
-{"tmdb_id": 501394, "title": "Drafts and Fragments Straits of Magellan", "original_title": "Drafts and Fragments Straits of Magellan", "slug_title": "drafts-and-fragments-straits-of-magellan", "date": "1974-01-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

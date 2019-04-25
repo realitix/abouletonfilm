@@ -1,1 +1,0 @@
-{"tmdb_id": 403932, "title": "Baby Bubbles", "original_title": "Baby Bubbles", "slug_title": "baby-bubbles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

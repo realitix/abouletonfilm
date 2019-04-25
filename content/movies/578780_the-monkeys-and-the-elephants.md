@@ -1,1 +1,0 @@
-{"tmdb_id": 578780, "title": "The Monkeys and the Elephants", "original_title": "The Monkeys and the Elephants", "slug_title": "the-monkeys-and-the-elephants", "date": "2014-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o6IapcyLbcBMKwK9dV3sLJLbjpX.jpg", "actors": [], "comments": [], "recommandations_id": []}

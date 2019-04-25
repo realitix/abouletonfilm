@@ -1,1 +1,0 @@
-{"tmdb_id": 574656, "title": "Harvest of the Dead", "original_title": "Harvest of the Dead", "slug_title": "harvest-of-the-dead", "date": "2015-08-12", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pvJeSejbRjDv6cZdeD5KxNotiDi.jpg", "actors": [], "comments": [], "recommandations_id": []}

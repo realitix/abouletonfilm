@@ -1,1 +1,0 @@
-{"tmdb_id": 281082, "title": "(Tell Me Why): The Epistemology of Disco", "original_title": "(Tell Me Why): The Epistemology of Disco", "slug_title": "tell-me-why-the-epistemology-of-disco", "date": "1991-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

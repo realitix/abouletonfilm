@@ -1,1 +1,0 @@
-{"tmdb_id": 592670, "title": "A Bomb With No Name On It", "original_title": "A Bomb With No Name On It", "slug_title": "a-bomb-with-no-name-on-it", "date": "1976-01-01", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 308554, "title": "Seascape #1 Night, China Shenzhen 05", "original_title": "Seascape #1 Night, China Shenzhen 05", "slug_title": "seascape-1-night-china-shenzhen-05", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 143854, "title": "Bryan Adams Rock in Rio 2012", "original_title": "Bryan Adams Rock in Rio 2012", "slug_title": "bryan-adams-rock-in-rio-2012", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qpvZYQ29s3H633AzosPCoObpfzU.jpg", "actors": [], "comments": [], "recommandations_id": []}

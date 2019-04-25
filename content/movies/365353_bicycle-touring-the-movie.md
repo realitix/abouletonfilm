@@ -1,1 +1,0 @@
-{"tmdb_id": 365353, "title": "Bicycle Touring: The Movie", "original_title": "Bicycle Touring: The Movie", "slug_title": "bicycle-touring-the-movie", "date": "2015-03-14", "genre": "Aventure / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

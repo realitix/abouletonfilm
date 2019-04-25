@@ -1,1 +1,0 @@
-{"tmdb_id": 484928, "title": "Old Sawbones", "original_title": "Old Sawbones", "slug_title": "old-sawbones", "date": "1935-04-10", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Old Doc Clyde)"], "comments": [], "recommandations_id": []}

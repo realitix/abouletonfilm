@@ -1,1 +1,0 @@
-{"tmdb_id": 341751, "title": "L' uomo del passato", "original_title": "L' uomo del passato", "slug_title": "l-uomo-del-passato", "date": "2015-05-25", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stefano Simondo ()"], "comments": [], "recommandations_id": []}

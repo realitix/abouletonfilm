@@ -1,1 +1,0 @@
-{"tmdb_id": 64600, "title": "Phish: IT", "original_title": "Phish: IT", "slug_title": "phish-it", "date": "2003-08-02", "genre": "Musique", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hdnZHZ6lXZoNjdv8k1G6x57zLyY.jpg", "actors": ["Trey Anastasio ()"], "comments": [], "recommandations_id": []}

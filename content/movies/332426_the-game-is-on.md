@@ -1,1 +1,0 @@
-{"tmdb_id": 332426, "title": "The Game is On", "original_title": "The Game is On", "slug_title": "the-game-is-on", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

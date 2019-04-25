@@ -1,1 +1,0 @@
-{"tmdb_id": 432040, "title": "Christmas Goat", "original_title": "Bode de Natal", "slug_title": "christmas-goat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Clarissa Pinheiro (Mira)", "Pedro Wagner (Giba)", "Giordano Castro (Dedeco)", "D\u00e9bora Nascimento (Karla Karina)"], "comments": [], "recommandations_id": []}

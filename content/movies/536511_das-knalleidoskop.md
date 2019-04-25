@@ -1,1 +1,0 @@
-{"tmdb_id": 536511, "title": "Das Knalleidoskop", "original_title": "Das Knalleidoskop", "slug_title": "das-knalleidoskop", "date": "1959-06-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

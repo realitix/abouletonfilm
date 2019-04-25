@@ -1,1 +1,0 @@
-{"tmdb_id": 340410, "title": "Accidentes gloriosos", "original_title": "Accidentes gloriosos", "slug_title": "accidentes-gloriosos", "date": "2011-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/80AiEOXq7lgxIXag2xmHloWDTZr.jpg", "actors": ["Sof\u00eda Del Tuffo ()"], "comments": [], "recommandations_id": []}

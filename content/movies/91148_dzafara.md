@@ -1,1 +1,0 @@
-{"tmdb_id": 91148, "title": "Dzafara", "original_title": "\u0414\u0436\u0430\u0444\u0430\u0440\u0430", "slug_title": "dzafara", "date": "1951-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wlrRxa4EVyhEwSjIpoJx18qVOWT.jpg", "actors": [], "comments": [], "recommandations_id": []}

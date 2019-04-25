@@ -1,1 +1,0 @@
-{"tmdb_id": 333906, "title": "Tout peut arriver", "original_title": "Tout peut arriver", "slug_title": "tout-peut-arriver", "date": "1969-11-26", "genre": "Drame", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sXtx6p7nYxuOTBdCJMUgQjRaOgq.jpg", "actors": [], "comments": [], "recommandations_id": []}

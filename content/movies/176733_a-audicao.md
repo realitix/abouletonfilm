@@ -1,1 +1,0 @@
-{"tmdb_id": 176733, "title": "A Audi\u00e7\u00e3o", "original_title": "A Audi\u00e7\u00e3o", "slug_title": "a-audicao", "date": "2009-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yIwn8f1BcGoKdZt0kV44jRYvLeh.jpg", "actors": ["Jos\u00e9 Wallenstein ()"], "comments": [], "recommandations_id": []}

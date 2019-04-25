@@ -1,1 +1,0 @@
-{"tmdb_id": 573829, "title": "The Cricket", "original_title": "The Cricket", "slug_title": "the-cricket", "date": "1917-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

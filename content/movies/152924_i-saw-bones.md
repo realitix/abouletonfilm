@@ -1,1 +1,0 @@
-{"tmdb_id": 152924, "title": "I Saw Bones", "original_title": "I Saw Bones", "slug_title": "i-saw-bones", "date": "1999-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jEmnMX9DMBr9Dbti8emosfHKssZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

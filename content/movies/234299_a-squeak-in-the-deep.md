@@ -1,1 +1,0 @@
-{"tmdb_id": 234299, "title": "A Squeak in the Deep", "original_title": "A Squeak in the Deep", "slug_title": "a-squeak-in-the-deep", "date": "1966-07-18", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/or3gC6sDPv7P83WEexIjzzm50iR.jpg", "actors": [], "comments": [], "recommandations_id": []}

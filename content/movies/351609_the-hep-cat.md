@@ -1,1 +1,0 @@
-{"tmdb_id": 351609, "title": "The Hep Cat", "original_title": "The Hep Cat", "slug_title": "the-hep-cat", "date": "1946-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b05jyyJXl9OFq2uncDvvTHTb30R.jpg", "actors": ["Tom Morrison (Mighty Mouse (voice))"], "comments": [], "recommandations_id": []}

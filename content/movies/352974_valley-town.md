@@ -1,1 +1,0 @@
-{"tmdb_id": 352974, "title": "Valley Town", "original_title": "Valley Town", "slug_title": "valley-town", "date": "1940-08-04", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ray Collins (Mayor (voice))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 583325, "title": "Mon sang p\u00e9cheur ruisselle ardent", "original_title": "Mon sang p\u00e9cheur ruisselle ardent", "slug_title": "mon-sang-pecheur-ruisselle-ardent", "date": "1980-10-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

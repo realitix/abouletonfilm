@@ -1,1 +1,0 @@
-{"tmdb_id": 246682, "title": "Holland zingt Hazes", "original_title": "Holland zingt Hazes", "slug_title": "holland-zingt-hazes", "date": "2013-06-14", "genre": "Musique", "score": "3.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qBjhtcjlRpyNXB2x3x41ZJMQZ3z.jpg", "actors": [], "comments": [], "recommandations_id": []}

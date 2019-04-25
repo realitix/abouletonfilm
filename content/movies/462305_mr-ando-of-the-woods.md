@@ -1,1 +1,0 @@
-{"tmdb_id": 462305, "title": "Mr. Ando of the Woods", "original_title": "Mori No Ando", "slug_title": "mr-ando-of-the-woods", "date": "2006-01-01", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Takashi Taniguchi ()"], "comments": [], "recommandations_id": []}

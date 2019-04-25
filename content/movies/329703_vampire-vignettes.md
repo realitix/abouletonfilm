@@ -1,1 +1,0 @@
-{"tmdb_id": 329703, "title": "Vampire Vignettes", "original_title": "Vampire Vignettes", "slug_title": "vampire-vignettes", "date": "1999-01-08", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6NWiVRk9iQduDdiavAFfUOiliCF.jpg", "actors": [], "comments": [], "recommandations_id": []}

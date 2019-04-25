@@ -1,1 +1,0 @@
-{"tmdb_id": 112861, "title": "Nelson Freire", "original_title": "Nelson Freire", "slug_title": "nelson-freire", "date": "2003-05-02", "genre": "Documentaire / Musique", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3jRqvcZRqYcbLE8XQMgGmvgPQtv.jpg", "actors": [], "comments": [], "recommandations_id": []}

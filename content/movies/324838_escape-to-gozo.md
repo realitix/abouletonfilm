@@ -1,1 +1,0 @@
-{"tmdb_id": 324838, "title": "Escape to Gozo", "original_title": "Escape to Gozo", "slug_title": "escape-to-gozo", "date": "1963-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 588149, "title": "Horse Riders", "original_title": "Horse Riders", "slug_title": "horse-riders", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i2Lu9RvwmbbKjf1Mzoy9seWqwnr.jpg", "actors": [], "comments": [], "recommandations_id": []}

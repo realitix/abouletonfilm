@@ -1,1 +1,0 @@
-{"tmdb_id": 155930, "title": "Hurt So Good", "original_title": "Hurt So Good", "slug_title": "hurt-so-good", "date": "2012-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vUMshVu52zN3sXemUySF9YSB0sC.jpg", "actors": [], "comments": [], "recommandations_id": []}

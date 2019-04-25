@@ -1,1 +1,0 @@
-{"tmdb_id": 482516, "title": "New Media", "original_title": "New Media", "slug_title": "new-media", "date": "2011-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mgqLN34UOCzw2ot5Y6pD2FFPiiK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 568319, "title": "L'\u00eele aux oiseaux", "original_title": "L'\u00eele aux oiseaux", "slug_title": "l-ile-aux-oiseaux", "date": "1988-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

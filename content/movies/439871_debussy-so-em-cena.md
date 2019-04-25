@@ -1,1 +1,0 @@
-{"tmdb_id": 439871, "title": "Debussy S\u00f3 em Cena", "original_title": "Debussy S\u00f3 em Cena", "slug_title": "debussy-so-em-cena", "date": "2017-02-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Damien Luce ()", "Ath\u00e9na Alfonsi ()"], "comments": [], "recommandations_id": []}

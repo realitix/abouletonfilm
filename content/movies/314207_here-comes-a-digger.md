@@ -1,1 +1,0 @@
-{"tmdb_id": 314207, "title": "Here Comes A... Digger", "original_title": "Here Comes A... Digger", "slug_title": "here-comes-a-digger", "date": "2005-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dQ3O8ZUbJF26jHJomAKe0fvjslh.jpg", "actors": [], "comments": [], "recommandations_id": []}

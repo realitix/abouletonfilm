@@ -1,1 +1,0 @@
-{"tmdb_id": 306168, "title": "Il Ritorno d'Ulisse in Patria", "original_title": "Il Ritorno d'Ulisse in Patria", "slug_title": "il-ritorno-d-ulisse-in-patria", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

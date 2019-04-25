@@ -1,1 +1,0 @@
-{"tmdb_id": 464442, "title": "The Legend of King Midas", "original_title": "La l\u00e9gende de Midas", "slug_title": "the-legend-of-king-midas", "date": "1910-02-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

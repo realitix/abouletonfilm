@@ -1,1 +1,0 @@
-{"tmdb_id": 505448, "title": "The Secret Life of Snakes", "original_title": "The Secret Life of Snakes", "slug_title": "the-secret-life-of-snakes", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

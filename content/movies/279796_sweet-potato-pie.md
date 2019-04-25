@@ -1,1 +1,0 @@
-{"tmdb_id": 279796, "title": "Sweet Potato Pie", "original_title": "Sweet Potato Pie", "slug_title": "sweet-potato-pie", "date": "2004-07-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

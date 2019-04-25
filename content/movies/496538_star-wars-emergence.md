@@ -1,1 +1,0 @@
-{"tmdb_id": 496538, "title": "Star Wars: Emergence", "original_title": "Star Wars: Emergence", "slug_title": "star-wars-emergence", "date": "2016-05-04", "genre": "Science-Fiction / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gf4VMJpb9e59Z3Ns8T66Oqtclqo.jpg", "actors": [], "comments": [], "recommandations_id": []}

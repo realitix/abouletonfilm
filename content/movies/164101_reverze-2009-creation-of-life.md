@@ -1,1 +1,0 @@
-{"tmdb_id": 164101, "title": "Reverze 2009 - Creation of Life", "original_title": "Reverze 2009 - Creation of Life", "slug_title": "reverze-2009-creation-of-life", "date": "2009-01-30", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/46Gnr0CZrunjw78sBs97ecMrTWT.jpg", "actors": [], "comments": [], "recommandations_id": []}

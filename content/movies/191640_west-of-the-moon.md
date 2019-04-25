@@ -1,1 +1,0 @@
-{"tmdb_id": 191640, "title": "West of the Moon", "original_title": "West of the Moon", "slug_title": "west-of-the-moon", "date": "2010-07-20", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tn6mx6tUA4iQpBHSLZjhqJMzXCx.jpg", "actors": [], "comments": [], "recommandations_id": []}

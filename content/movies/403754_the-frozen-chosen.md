@@ -1,1 +1,0 @@
-{"tmdb_id": 403754, "title": "The Frozen Chosen", "original_title": "The Frozen Chosen", "slug_title": "the-frozen-chosen", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

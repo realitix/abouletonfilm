@@ -1,1 +1,0 @@
-{"tmdb_id": 276034, "title": "Sammy Davis, Jr.: One Cool Cat", "original_title": "Sammy Davis, Jr.: One Cool Cat", "slug_title": "sammy-davis-jr-one-cool-cat", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

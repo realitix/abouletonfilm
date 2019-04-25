@@ -1,1 +1,0 @@
-{"tmdb_id": 197722, "title": "Silly Symphonies Souvenirs", "original_title": "Silly Symphonies Souvenirs", "slug_title": "silly-symphonies-souvenirs", "date": "2001-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

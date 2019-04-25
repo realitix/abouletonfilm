@@ -1,1 +1,0 @@
-{"tmdb_id": 325532, "title": "Brice Marden", "original_title": "Brice Marden", "slug_title": "brice-marden", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

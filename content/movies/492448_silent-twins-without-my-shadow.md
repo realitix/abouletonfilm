@@ -1,1 +1,0 @@
-{"tmdb_id": 492448, "title": "Silent Twins: Without My Shadow", "original_title": "Silent Twins: Without My Shadow", "slug_title": "silent-twins-without-my-shadow", "date": "1994-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

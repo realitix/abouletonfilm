@@ -1,1 +1,0 @@
-{"tmdb_id": 350859, "title": "Salt Water Taffy", "original_title": "Salt Water Taffy", "slug_title": "salt-water-taffy", "date": "1930-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

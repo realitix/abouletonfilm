@@ -1,1 +1,0 @@
-{"tmdb_id": 313461, "title": "The Shushybye Dream Band Live on Tour", "original_title": "The Shushybye Dream Band Live on Tour", "slug_title": "the-shushybye-dream-band-live-on-tour", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

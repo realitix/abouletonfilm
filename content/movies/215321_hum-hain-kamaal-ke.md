@@ -1,1 +1,0 @@
-{"tmdb_id": 215321, "title": "Hum Hain Kamaal Ke", "original_title": "Hum Hain Kamaal Ke", "slug_title": "hum-hain-kamaal-ke", "date": "1993-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kader Khan ()", "Anupam Kher ()", "Aruna Irani ()"], "comments": [], "recommandations_id": []}

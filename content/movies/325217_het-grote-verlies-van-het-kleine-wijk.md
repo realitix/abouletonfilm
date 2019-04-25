@@ -1,1 +1,0 @@
-{"tmdb_id": 325217, "title": "Het grote verlies van Het Kleine Wijk", "original_title": "Het grote verlies van Het Kleine Wijk", "slug_title": "het-grote-verlies-van-het-kleine-wijk", "date": "2008-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

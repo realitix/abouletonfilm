@@ -1,1 +1,0 @@
-{"tmdb_id": 320538, "title": "The Beautiful Risk", "original_title": "Le beau risque", "slug_title": "the-beautiful-risk", "date": "2014-11-23", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kF3mSXMZoUxtzzoZtBASPBYb47y.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 520598, "title": "Cunt Dykula", "original_title": "Cunt Dykula", "slug_title": "cunt-dykula", "date": "1993-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lisa K\u00fchne (The Victim)", "Lup\u00e9 (Cunt Dykula)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 340853, "title": "Tap or Die", "original_title": "Tap or Die", "slug_title": "tap-or-die", "date": "2014-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oVkzuCqUZ8RwgfICHsgdpJH1byx.jpg", "actors": [], "comments": [], "recommandations_id": []}

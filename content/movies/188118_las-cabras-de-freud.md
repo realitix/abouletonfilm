@@ -1,1 +1,0 @@
-{"tmdb_id": 188118, "title": "Las cabras de Freud", "original_title": "Las cabras de Freud", "slug_title": "las-cabras-de-freud", "date": "1999-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Trist\u00e1n Ulloa ()"], "comments": [], "recommandations_id": []}

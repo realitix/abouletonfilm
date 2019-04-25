@@ -1,1 +1,0 @@
-{"tmdb_id": 592978, "title": "Seduce Live at The Emerald Theater", "original_title": "Seduce Live at The Emerald Theater", "slug_title": "seduce-live-at-the-emerald-theater", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

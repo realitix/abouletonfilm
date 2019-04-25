@@ -1,1 +1,0 @@
-{"tmdb_id": 280477, "title": "The House of Fools", "original_title": "Dom wariat\u00f3w", "slug_title": "the-house-of-fools", "date": "1985-09-10", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s75jcAPxkaoYwb6HkslehBZzJXC.jpg", "actors": [], "comments": [], "recommandations_id": []}

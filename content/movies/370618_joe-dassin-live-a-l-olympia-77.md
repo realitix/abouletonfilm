@@ -1,1 +1,0 @@
-{"tmdb_id": 370618, "title": "Joe Dassin  - Live A L'Olympia '77", "original_title": "Joe Dassin  - Live A L'Olympia '77", "slug_title": "joe-dassin-live-a-l-olympia-77", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1bZqPW5Uc5CVHBFAIiA1xSXb4qI.jpg", "actors": [], "comments": [], "recommandations_id": []}

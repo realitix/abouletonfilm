@@ -1,1 +1,0 @@
-{"tmdb_id": 590782, "title": "Boredom", "original_title": "Boredom", "slug_title": "boredom", "date": "2017-03-03", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fuXFoRm1J8zEPbzKOIMvA3LBSVx.jpg", "actors": ["Nick Cave ()"], "comments": [], "recommandations_id": []}

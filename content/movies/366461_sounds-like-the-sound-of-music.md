@@ -1,1 +1,0 @@
-{"tmdb_id": 366461, "title": "Sounds Like the Sound of Music", "original_title": "Sounds Like the Sound of Music", "slug_title": "sounds-like-the-sound-of-music", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

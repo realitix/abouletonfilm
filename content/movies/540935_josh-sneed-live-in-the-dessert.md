@@ -1,1 +1,0 @@
-{"tmdb_id": 540935, "title": "Josh Sneed: Live in the Dessert", "original_title": "Josh Sneed: Live in the Dessert", "slug_title": "josh-sneed-live-in-the-dessert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

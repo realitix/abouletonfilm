@@ -1,1 +1,0 @@
-{"tmdb_id": 272908, "title": "Virginia Lee Burton: A Sense of Place", "original_title": "Virginia Lee Burton: A Sense of Place", "slug_title": "virginia-lee-burton-a-sense-of-place", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 272751, "title": "Graduation Week", "original_title": "Graduation Week", "slug_title": "graduation-week", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

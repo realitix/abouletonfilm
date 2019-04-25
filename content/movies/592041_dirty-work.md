@@ -1,1 +1,0 @@
-{"tmdb_id": 592041, "title": "Dirty Work", "original_title": "Dirty Work", "slug_title": "dirty-work", "date": "2018-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/agQPlDHmR5jSwJj1XDHSNcDP25U.jpg", "actors": [], "comments": [], "recommandations_id": []}

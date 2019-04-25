@@ -1,1 +1,0 @@
-{"tmdb_id": 531919, "title": "T\u00fa tambi\u00e9n lo has vivido", "original_title": "T\u00fa tambi\u00e9n lo has vivido", "slug_title": "tu-tambien-lo-has-vivido", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

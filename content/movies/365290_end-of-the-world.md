@@ -1,1 +1,0 @@
-{"tmdb_id": 365290, "title": "End of the World", "original_title": "End of the World", "slug_title": "end-of-the-world", "date": "2002-03-02", "genre": "Animation", "score": "6.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

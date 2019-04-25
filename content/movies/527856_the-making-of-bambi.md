@@ -1,1 +1,0 @@
-{"tmdb_id": 527856, "title": "The Making of 'Bambi'", "original_title": "The Making of 'Bambi'", "slug_title": "the-making-of-bambi", "date": "1994-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

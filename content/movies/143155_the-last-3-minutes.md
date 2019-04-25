@@ -1,1 +1,0 @@
-{"tmdb_id": 143155, "title": "The Last 3 Minutes", "original_title": "The Last 3 Minutes", "slug_title": "the-last-3-minutes", "date": "2010-03-08", "genre": "Drame", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lMRJw46RKyGC9pVAXQFfEYsD6cL.jpg", "actors": [], "comments": [], "recommandations_id": []}

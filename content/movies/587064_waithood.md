@@ -1,1 +1,0 @@
-{"tmdb_id": 587064, "title": "Waithood", "original_title": "Waithood", "slug_title": "waithood", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

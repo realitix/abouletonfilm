@@ -1,1 +1,0 @@
-{"tmdb_id": 348685, "title": "Follow That Goblin", "original_title": "Follow That Goblin", "slug_title": "follow-that-goblin", "date": "1992-08-16", "genre": "Animation / Com\u00e9die / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g0KkPRtjQQFH1oUp3JHOoRAb7zq.jpg", "actors": [], "comments": [], "recommandations_id": []}

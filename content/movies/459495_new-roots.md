@@ -1,1 +1,0 @@
-{"tmdb_id": 459495, "title": "New Roots", "original_title": "New Roots", "slug_title": "new-roots", "date": "2015-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lsgU1r3B57cCfEKKkOEmWNdsx93.jpg", "actors": [], "comments": [], "recommandations_id": []}

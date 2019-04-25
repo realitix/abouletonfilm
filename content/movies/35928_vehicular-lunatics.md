@@ -1,1 +1,0 @@
-{"tmdb_id": 35928, "title": "Vehicular Lunatics", "original_title": "Vehicular Lunatics", "slug_title": "vehicular-lunatics", "date": "2006-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7yMKwp1ytxhENRHdFDszlr2NeEV.jpg", "actors": [], "comments": [], "recommandations_id": []}

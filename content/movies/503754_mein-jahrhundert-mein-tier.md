@@ -1,1 +1,0 @@
-{"tmdb_id": 503754, "title": "Mein Jahrhundert, mein Tier!", "original_title": "Mein Jahrhundert, mein Tier!", "slug_title": "mein-jahrhundert-mein-tier", "date": "2007-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 102436, "title": "Vietnam: Ghosts Of War", "original_title": "Vietnam: Ghosts Of War", "slug_title": "vietnam-ghosts-of-war", "date": "2004-03-18", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aELM20xieeSGiibrxM6QKwcJQpS.jpg", "actors": [], "comments": [], "recommandations_id": []}

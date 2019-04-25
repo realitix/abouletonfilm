@@ -1,1 +1,0 @@
-{"tmdb_id": 137138, "title": "Fotbollskr\u00f6nikan EM 2004", "original_title": "Fotbollskr\u00f6nikan EM 2004", "slug_title": "fotbollskronikan-em-2004", "date": "2004-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tHt4hP0mCc6ctTaKLk2OBR4cBO6.jpg", "actors": [], "comments": [], "recommandations_id": []}

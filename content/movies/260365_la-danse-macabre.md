@@ -1,1 +1,0 @@
-{"tmdb_id": 260365, "title": "La Danse Macabre", "original_title": "Taniec szkielet\u00f3w", "slug_title": "la-danse-macabre", "date": "1990-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t5gC2eJJ3qMUOQlUIvDqs4BpnKs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 153085, "title": "Alanis Morissette - Havoc and Bright Lights", "original_title": "Alanis Morissette - Havoc and Bright Lights", "slug_title": "alanis-morissette-havoc-and-bright-lights", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 209728, "title": "Simple Mind", "original_title": "Simple Mind", "slug_title": "simple-mind", "date": "2012-03-29", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o7GFegUspD0mGZ6Us5Q8aYFHTqf.jpg", "actors": ["Timothy J. Cox (Bob)", "Kristi McCarson (Samantha)"], "comments": [], "recommandations_id": []}

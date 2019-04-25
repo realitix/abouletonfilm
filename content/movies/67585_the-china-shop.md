@@ -1,1 +1,0 @@
-{"tmdb_id": 67585, "title": "The China Shop", "original_title": "The China Shop", "slug_title": "the-china-shop", "date": "1934-01-13", "genre": "Animation", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jpKtLIcANyDGmCtiXNzG1jGdQcl.jpg", "actors": [], "comments": [], "recommandations_id": [67586, 66829, 56009, 67584]}

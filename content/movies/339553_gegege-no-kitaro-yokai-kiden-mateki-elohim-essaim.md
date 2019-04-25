@@ -1,1 +1,0 @@
-{"tmdb_id": 339553, "title": "Gegege no Kitaro Yokai Kiden Mateki Elohim Essaim", "original_title": "Gegege no Kitaro Yokai Kiden Mateki Elohim Essaim", "slug_title": "gegege-no-kitaro-yokai-kiden-mateki-elohim-essaim", "date": "1987-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

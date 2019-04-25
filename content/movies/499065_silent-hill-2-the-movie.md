@@ -1,1 +1,0 @@
-{"tmdb_id": 499065, "title": "Silent Hill 2: The Movie", "original_title": "Silent Hill 2: The Movie", "slug_title": "silent-hill-2-the-movie", "date": "2012-09-03", "genre": "Horreur", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Jk8kbSGZVwzBAERAnlnQIDwkVS.jpg", "actors": [], "comments": [], "recommandations_id": []}

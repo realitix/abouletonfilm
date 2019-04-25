@@ -1,1 +1,0 @@
-{"tmdb_id": 314789, "title": "More Shorts For Cats", "original_title": "More Shorts For Cats", "slug_title": "more-shorts-for-cats", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 426585, "title": "Arme Eva", "original_title": "Arme Eva", "slug_title": "arme-eva", "date": "1914-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Erna Morena ()", "Emil Jannings ()", "Theodor Loos ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 558982, "title": "A Star to the Sun", "original_title": "Une \u00e9toile au soleil", "slug_title": "a-star-to-the-sun", "date": "1943-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/JRuJ3sGhYP3I29IpweDunj24Ll.jpg", "actors": [], "comments": [], "recommandations_id": []}

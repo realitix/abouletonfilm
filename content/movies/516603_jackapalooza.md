@@ -1,1 +1,0 @@
-{"tmdb_id": 516603, "title": "Jackapalooza!", "original_title": "Jackapalooza!", "slug_title": "jackapalooza", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/40HP5KoAKxnOrViv9DHGpThToMv.jpg", "actors": [], "comments": [], "recommandations_id": []}

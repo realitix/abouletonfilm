@@ -1,1 +1,0 @@
-{"tmdb_id": 588358, "title": "I have KIEL to tell", "original_title": "Ich habe KIEL zu erz\u00e4hlen", "slug_title": "i-have-kiel-to-tell", "date": "2018-11-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dieter Schultz (himself)"], "comments": [], "recommandations_id": []}

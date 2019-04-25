@@ -1,1 +1,0 @@
-{"tmdb_id": 303853, "title": "Caracas, dos o tres cosas", "original_title": "Caracas, dos o tres cosas", "slug_title": "caracas-dos-o-tres-cosas", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dmgLwwXkpqfqOcqVQw5OCa17qNU.jpg", "actors": [], "comments": [], "recommandations_id": []}

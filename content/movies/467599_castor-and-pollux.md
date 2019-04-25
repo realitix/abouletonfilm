@@ -1,1 +1,0 @@
-{"tmdb_id": 467599, "title": "Castor and Pollux", "original_title": "Castor and Pollux", "slug_title": "castor-and-pollux", "date": "1974-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

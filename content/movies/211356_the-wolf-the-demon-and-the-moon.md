@@ -1,1 +1,0 @@
-{"tmdb_id": 211356, "title": "The Wolf, the Demon, and the Moon", "original_title": "The Wolf, the Demon, and the Moon", "slug_title": "the-wolf-the-demon-and-the-moon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

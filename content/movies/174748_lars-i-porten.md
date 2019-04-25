@@ -1,1 +1,0 @@
-{"tmdb_id": 174748, "title": "Lars i porten", "original_title": "Lars i porten", "slug_title": "lars-i-porten", "date": "1984-12-30", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

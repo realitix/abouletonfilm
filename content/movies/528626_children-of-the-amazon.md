@@ -1,1 +1,0 @@
-{"tmdb_id": 528626, "title": "Children of the Amazon", "original_title": "Crian\u00e7as da Amaz\u00f4nia", "slug_title": "children-of-the-amazon", "date": "2008-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/25okzX0wkRbNvnZeFJzxSmNaZI1.jpg", "actors": [], "comments": [], "recommandations_id": []}

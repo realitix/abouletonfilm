@@ -1,1 +1,0 @@
-{"tmdb_id": 366321, "title": "Under the Yugoslav Sky", "original_title": "Pod jugoslovenskim nebom", "slug_title": "under-the-yugoslav-sky", "date": "1934-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8P6XWRTB00A6f8jQ3ngNiK2aY3v.jpg", "actors": [], "comments": [], "recommandations_id": []}

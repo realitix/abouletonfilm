@@ -1,1 +1,0 @@
-{"tmdb_id": 184502, "title": "213 - The Gang Project", "original_title": "213 - The Gang Project", "slug_title": "213-the-gang-project", "date": "2011-04-12", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ySNfh35REbPuAuTASHHNavnbSbV.jpg", "actors": ["Andre McGee ()"], "comments": [], "recommandations_id": []}

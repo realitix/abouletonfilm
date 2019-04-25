@@ -1,1 +1,0 @@
-{"tmdb_id": 511504, "title": "The Friends of Kwan Ming", "original_title": "The Friends of Kwan Ming", "slug_title": "the-friends-of-kwan-ming", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yvk0HYfUqg8UTC2CcuCEdwsyaE8.jpg", "actors": [], "comments": [], "recommandations_id": []}

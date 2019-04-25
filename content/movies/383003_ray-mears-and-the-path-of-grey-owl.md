@@ -1,1 +1,0 @@
-{"tmdb_id": 383003, "title": "Ray Mears and the Path of Grey Owl", "original_title": "Ray Mears and the Path of Grey Owl", "slug_title": "ray-mears-and-the-path-of-grey-owl", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ray Mears (Himself)"], "comments": [], "recommandations_id": []}

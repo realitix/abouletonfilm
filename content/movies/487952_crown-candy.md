@@ -1,1 +1,0 @@
-{"tmdb_id": 487952, "title": "Crown Candy", "original_title": "Crown Candy", "slug_title": "crown-candy", "date": "2016-10-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c9mOwpZ64VygoGD3SHr7NTS00B6.jpg", "actors": [], "comments": [], "recommandations_id": []}

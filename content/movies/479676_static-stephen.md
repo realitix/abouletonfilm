@@ -1,1 +1,0 @@
-{"tmdb_id": 479676, "title": "Static Stephen", "original_title": "Static Stephen", "slug_title": "static-stephen", "date": "2017-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/64Ql3NA0hpsrraOEBAe3cl7TJYk.jpg", "actors": [], "comments": [], "recommandations_id": []}

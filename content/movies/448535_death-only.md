@@ -1,1 +1,0 @@
-{"tmdb_id": 448535, "title": "Death Only", "original_title": "Jen smrt...", "slug_title": "death-only", "date": "1988-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 561300, "title": "With Landscape in Mind", "original_title": "With Landscape in Mind", "slug_title": "with-landscape-in-mind", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

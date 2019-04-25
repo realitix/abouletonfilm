@@ -1,1 +1,0 @@
-{"tmdb_id": 516924, "title": "Venedig, traumhaft billig", "original_title": "Venedig, traumhaft billig", "slug_title": "venedig-traumhaft-billig", "date": "1989-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

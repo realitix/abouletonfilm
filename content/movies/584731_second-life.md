@@ -1,1 +1,0 @@
-{"tmdb_id": 584731, "title": "Second life", "original_title": "Second life", "slug_title": "second-life", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

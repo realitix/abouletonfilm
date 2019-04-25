@@ -1,1 +1,0 @@
-{"tmdb_id": 416655, "title": "Self-Reflection", "original_title": "Self-Reflection", "slug_title": "self-reflection", "date": "2014-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6lVLAQEc3Dgbm3QOlVCoNPW3WlA.jpg", "actors": [], "comments": [], "recommandations_id": []}

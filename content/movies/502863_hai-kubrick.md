@@ -1,1 +1,0 @@
-{"tmdb_id": 502863, "title": "Hai-Kubrick", "original_title": "Hai-Kubrick", "slug_title": "hai-kubrick", "date": "1999-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

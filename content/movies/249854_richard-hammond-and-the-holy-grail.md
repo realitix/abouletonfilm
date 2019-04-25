@@ -1,1 +1,0 @@
-{"tmdb_id": 249854, "title": "Richard Hammond and the Holy Grail", "original_title": "Richard Hammond and the Holy Grail", "slug_title": "richard-hammond-and-the-holy-grail", "date": "2006-01-19", "genre": "Documentaire", "score": "4.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Hammond (Himself)"], "comments": [], "recommandations_id": []}

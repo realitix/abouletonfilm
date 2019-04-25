@@ -1,1 +1,1 @@
-{"tmdb_id": 509514, "title": "The Davied", "original_title": "The Davied", "slug_title": "the-davied", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 509514, "title": "The Davied", "original_title": "The Davied", "slug_title": "the-davied", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "IT IS DAWIT KASSAW FILEM", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

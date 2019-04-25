@@ -1,1 +1,0 @@
-{"tmdb_id": 49893, "title": "Korn: Live", "original_title": "Korn: Live", "slug_title": "korn-live", "date": "2002-01-01", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sVlsK99kKxkN5rITxypRIQr4J5k.jpg", "actors": ["Jonathan Davis (Himself)", "Korn ()"], "comments": [], "recommandations_id": []}

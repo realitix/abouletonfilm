@@ -1,1 +1,0 @@
-{"tmdb_id": 519447, "title": "Nazi UFO Conspiracy", "original_title": "Nazi UFO Conspiracy", "slug_title": "nazi-ufo-conspiracy", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

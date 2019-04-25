@@ -1,1 +1,0 @@
-{"tmdb_id": 84830, "title": "Good Night Good Morning", "original_title": "Good Night Good Morning", "slug_title": "good-night-good-morning", "date": "2010-10-28", "genre": "Drame / Thriller", "score": "3.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/38OpDYiKoIHMnGXpmCjRlRtXc0g.jpg", "actors": [], "comments": [], "recommandations_id": []}

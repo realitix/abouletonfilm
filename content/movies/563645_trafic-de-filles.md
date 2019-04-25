@@ -1,1 +1,0 @@
-{"tmdb_id": 563645, "title": "Trafic de filles", "original_title": "Trafic de filles", "slug_title": "trafic-de-filles", "date": "1969-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eynLfzJWSNleIEAIIpGpUHWdLaw.jpg", "actors": [], "comments": [], "recommandations_id": []}

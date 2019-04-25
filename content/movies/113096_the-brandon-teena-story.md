@@ -1,1 +1,0 @@
-{"tmdb_id": 113096, "title": "The Brandon Teena Story", "original_title": "The Brandon Teena Story", "slug_title": "the-brandon-teena-story", "date": "1998-09-23", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wzXOq82bZ6JkH7XNOYkDQPM5mO7.jpg", "actors": [], "comments": [], "recommandations_id": []}

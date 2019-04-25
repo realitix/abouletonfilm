@@ -1,1 +1,0 @@
-{"tmdb_id": 462377, "title": "Honor Student", "original_title": "Honor Student", "slug_title": "honor-student", "date": "2015-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/UhWgrYKeJ5GzqEGFMLxah05xue.jpg", "actors": [], "comments": [], "recommandations_id": []}

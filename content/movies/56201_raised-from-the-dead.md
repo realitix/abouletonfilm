@@ -1,1 +1,0 @@
-{"tmdb_id": 56201, "title": "Raised From The Dead", "original_title": "Raised From The Dead", "slug_title": "raised-from-the-dead", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hiipA12RwfQEsJSbHvaEFklBUKT.jpg", "actors": [], "comments": [], "recommandations_id": []}

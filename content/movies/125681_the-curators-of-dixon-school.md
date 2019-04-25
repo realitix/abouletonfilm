@@ -1,1 +1,0 @@
-{"tmdb_id": 125681, "title": "The Curators of Dixon School", "original_title": "The Curators of Dixon School", "slug_title": "the-curators-of-dixon-school", "date": "2012-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

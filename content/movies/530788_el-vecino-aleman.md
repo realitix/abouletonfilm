@@ -1,1 +1,0 @@
-{"tmdb_id": 530788, "title": "El Vecino Alem\u00e1n", "original_title": "El Vecino Alem\u00e1n", "slug_title": "el-vecino-aleman", "date": "", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kBU1uR3To3UZAnllZkjMXlNZj2j.jpg", "actors": [], "comments": [], "recommandations_id": []}

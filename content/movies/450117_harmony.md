@@ -1,1 +1,0 @@
-{"tmdb_id": 450117, "title": "Harmony", "original_title": "Garmonia", "slug_title": "harmony", "date": "2017-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

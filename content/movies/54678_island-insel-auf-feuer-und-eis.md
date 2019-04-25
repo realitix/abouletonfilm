@@ -1,1 +1,0 @@
-{"tmdb_id": 54678, "title": "Island - Insel auf Feuer und Eis", "original_title": "Island - Insel auf Feuer und Eis", "slug_title": "island-insel-auf-feuer-und-eis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

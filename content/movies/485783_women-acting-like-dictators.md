@@ -1,1 +1,0 @@
-{"tmdb_id": 485783, "title": "Women Acting Like Dictators", "original_title": "Women Acting Like Dictators", "slug_title": "women-acting-like-dictators", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 251297, "title": "38 Jansky Units", "original_title": "38 Jansky Units", "slug_title": "38-jansky-units", "date": "1982-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jon Krocker (Motorcyclist)"], "comments": [], "recommandations_id": []}

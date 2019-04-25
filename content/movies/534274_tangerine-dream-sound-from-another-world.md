@@ -1,1 +1,0 @@
-{"tmdb_id": 534274, "title": "Tangerine Dream: Sound from Another World", "original_title": "Tangerine Dream: Sound from Another World", "slug_title": "tangerine-dream-sound-from-another-world", "date": "2016-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

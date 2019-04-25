@@ -1,1 +1,0 @@
-{"tmdb_id": 425424, "title": "The House of Science", "original_title": "The House of Science", "slug_title": "the-house-of-science", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rglf5XJT0TwSqXyGK8nnQN8232m.jpg", "actors": [], "comments": [], "recommandations_id": []}

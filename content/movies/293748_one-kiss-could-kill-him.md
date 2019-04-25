@@ -1,1 +1,0 @@
-{"tmdb_id": 293748, "title": "One Kiss Could Kill Him", "original_title": "One Kiss Could Kill Him", "slug_title": "one-kiss-could-kill-him", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

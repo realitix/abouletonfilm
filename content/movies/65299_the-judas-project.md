@@ -1,1 +1,0 @@
-{"tmdb_id": 65299, "title": "The Judas Project", "original_title": "The Judas Project", "slug_title": "the-judas-project", "date": "1993-02-19", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kE1CandOLqTDKDOm8UzGU42AM0d.jpg", "actors": [], "comments": [], "recommandations_id": []}

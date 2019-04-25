@@ -1,1 +1,0 @@
-{"tmdb_id": 400904, "title": "The Closet", "original_title": "The Closet", "slug_title": "the-closet", "date": "2015-06-17", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x5GTqe6BRI0IPvQgHqwTK85fJA4.jpg", "actors": ["Dustin Gilstrap II (Dustin)"], "comments": [], "recommandations_id": []}

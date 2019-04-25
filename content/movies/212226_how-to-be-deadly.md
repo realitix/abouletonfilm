@@ -1,1 +1,0 @@
-{"tmdb_id": 212226, "title": "How To Be Deadly", "original_title": "How To Be Deadly", "slug_title": "how-to-be-deadly", "date": "2015-09-25", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aZmdwKPgOIxa6lpsAAhixG39xnn.jpg", "actors": [], "comments": [], "recommandations_id": []}

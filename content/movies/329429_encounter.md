@@ -1,1 +1,0 @@
-{"tmdb_id": 329429, "title": "Encounter", "original_title": "Sretanje", "slug_title": "encounter", "date": "1963-12-28", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yqXWq6Ly90YktdJgEEhN9uW5Kce.jpg", "actors": [], "comments": [], "recommandations_id": []}

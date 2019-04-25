@@ -1,1 +1,0 @@
-{"tmdb_id": 226794, "title": "Destination Earth", "original_title": "Destination Earth", "slug_title": "destination-earth", "date": "1956-01-01", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/goPY81sSTRcj7OKgyjBQMLpjvHL.jpg", "actors": [], "comments": [], "recommandations_id": []}

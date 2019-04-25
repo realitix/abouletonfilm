@@ -1,1 +1,0 @@
-{"tmdb_id": 596442, "title": "The Old Donkey", "original_title": "Lao lu t\u00f3u", "slug_title": "the-old-donkey", "date": "2010-10-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dDelckLldcNiqXDEserTYBFIM8P.jpg", "actors": [], "comments": [], "recommandations_id": []}

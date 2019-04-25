@@ -1,1 +1,0 @@
-{"tmdb_id": 324546, "title": "Desert Eagle", "original_title": "Desert Eagle", "slug_title": "desert-eagle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 590959, "title": "Camelia", "original_title": "Camelia", "slug_title": "camelia", "date": "1949-07-30", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rogelio de la Rosa ()", "Jaime Castellvi ()", "Tino De Lara ()", "Carmencita Palma ()", "Carmen Rosales ()"], "comments": [], "recommandations_id": []}

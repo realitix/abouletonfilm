@@ -1,1 +1,0 @@
-{"tmdb_id": 193846, "title": "Katchem Kate", "original_title": "Katchem Kate", "slug_title": "katchem-kate", "date": "1912-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mabel Normand (Katchem Kate)", "Fred Mace (Detective Agency Head)", "Jack Pickford (Money Thief at School)"], "comments": [], "recommandations_id": []}

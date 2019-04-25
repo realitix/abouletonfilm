@@ -1,1 +1,0 @@
-{"tmdb_id": 285436, "title": "No Place to Rest", "original_title": "No Place to Rest", "slug_title": "no-place-to-rest", "date": "2013-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/X0BH9oQV0uB2GTtrGxQXDNensT.jpg", "actors": [], "comments": [], "recommandations_id": []}

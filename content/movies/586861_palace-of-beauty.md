@@ -1,1 +1,0 @@
-{"tmdb_id": 586861, "title": "Palace of Beauty", "original_title": "Istana Kecantikan", "slug_title": "palace-of-beauty", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7wRKHLdWSPXenXdVcJCWRo62w5B.jpg", "actors": [], "comments": [], "recommandations_id": []}

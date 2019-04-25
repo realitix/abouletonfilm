@@ -1,1 +1,0 @@
-{"tmdb_id": 341030, "title": "Pandas: The Journey Home", "original_title": "Pandas: The Journey Home", "slug_title": "pandas-the-journey-home", "date": "2014-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eETCW8EFZOqAt8ECJcxZJMIfXA6.jpg", "actors": [], "comments": [], "recommandations_id": []}

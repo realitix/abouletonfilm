@@ -1,1 +1,0 @@
-{"tmdb_id": 158613, "title": "Mr. Vincent", "original_title": "Mr. Vincent", "slug_title": "mr-vincent", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

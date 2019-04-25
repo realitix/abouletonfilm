@@ -1,1 +1,0 @@
-{"tmdb_id": 144302, "title": "The Busters - Das Konzert f\u00fcr die Ewigkeit", "original_title": "The Busters - Das Konzert f\u00fcr die Ewigkeit", "slug_title": "the-busters-das-konzert-fur-die-ewigkeit", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

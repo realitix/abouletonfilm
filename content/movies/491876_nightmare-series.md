@@ -1,1 +1,0 @@
-{"tmdb_id": 491876, "title": "Nightmare Series", "original_title": "Nightmare Series", "slug_title": "nightmare-series", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

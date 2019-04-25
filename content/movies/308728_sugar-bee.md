@@ -1,1 +1,0 @@
-{"tmdb_id": 308728, "title": "Sugar Bee", "original_title": "Sugar Bee", "slug_title": "sugar-bee", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

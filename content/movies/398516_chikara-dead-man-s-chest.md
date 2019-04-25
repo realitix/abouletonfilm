@@ -1,1 +1,0 @@
-{"tmdb_id": 398516, "title": "CHIKARA Dead Man's Chest", "original_title": "CHIKARA Dead Man's Chest", "slug_title": "chikara-dead-man-s-chest", "date": "2016-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kQ5r7jU1LIKsbgyVnr0afbsvZbu.jpg", "actors": [], "comments": [], "recommandations_id": []}

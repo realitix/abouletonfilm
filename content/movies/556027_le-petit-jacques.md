@@ -1,1 +1,0 @@
-{"tmdb_id": 556027, "title": "Le petit Jacques", "original_title": "Le petit Jacques", "slug_title": "le-petit-jacques", "date": "1924-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

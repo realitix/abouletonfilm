@@ -1,1 +1,0 @@
-{"tmdb_id": 261105, "title": "Pertegaz: el hombre que visti\u00f3 a los cisnes", "original_title": "Pertegaz: el hombre que visti\u00f3 a los cisnes", "slug_title": "pertegaz-el-hombre-que-vistio-a-los-cisnes", "date": "2014-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 463895, "title": "Kamterrien", "original_title": "Kamterrien", "slug_title": "kamterrien", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

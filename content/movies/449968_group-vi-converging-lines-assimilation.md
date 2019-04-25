@@ -1,1 +1,0 @@
-{"tmdb_id": 449968, "title": "Group VI: Converging Lines/Assimilation", "original_title": "Group VI: Converging Lines/Assimilation", "slug_title": "group-vi-converging-lines-assimilation", "date": "1971-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

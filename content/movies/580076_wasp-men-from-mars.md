@@ -1,1 +1,0 @@
-{"tmdb_id": 580076, "title": "Wasp-Men From Mars", "original_title": "Wasp-Men From Mars", "slug_title": "wasp-men-from-mars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ashley Rose McKenna (Suzie)", "Diogo Hausen (James)", "Chris Markle (Timmy)"], "comments": [], "recommandations_id": []}

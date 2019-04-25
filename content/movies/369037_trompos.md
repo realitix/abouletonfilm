@@ -1,1 +1,0 @@
-{"tmdb_id": 369037, "title": "Trompos", "original_title": "Trompos", "slug_title": "trompos", "date": "1961-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l9fjPkiBxsX2yBy0jBGkHPlPC5F.jpg", "actors": [], "comments": [], "recommandations_id": []}

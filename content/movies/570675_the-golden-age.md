@@ -1,1 +1,0 @@
-{"tmdb_id": 570675, "title": "The Golden Age", "original_title": "The Golden Age", "slug_title": "the-golden-age", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 434101, "title": "Sostenu'to", "original_title": "Sostenu'to", "slug_title": "sostenu-to", "date": "1987-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6aY2cIOWdyxovLRGOOM4m5w2Dl2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 349377, "title": "\ub108\uc5d0\uac8c \ubc1b\uc740 \ud754\uc801", "original_title": "\ub108\uc5d0\uac8c \ubc1b\uc740 \ud754\uc801", "slug_title": "neoege-badeun-heunjeog", "date": "1899-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

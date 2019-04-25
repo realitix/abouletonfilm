@@ -1,1 +1,0 @@
-{"tmdb_id": 451086, "title": "Nervous Laughter", "original_title": "Nervous Laughter", "slug_title": "nervous-laughter", "date": "2017-04-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dkR6xJ9OfG6IsmKUbjuKALtjdAk.jpg", "actors": [], "comments": [], "recommandations_id": []}

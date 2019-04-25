@@ -1,1 +1,0 @@
-{"tmdb_id": 375901, "title": "Cross Connection", "original_title": "Cross Connection", "slug_title": "cross-connection", "date": "2014-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AtNtDKUGnh8VvTZmr9VikksbW4Q.jpg", "actors": ["B.N. Sharma ()", "Upasna Singh ()"], "comments": [], "recommandations_id": []}

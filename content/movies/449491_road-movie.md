@@ -1,1 +1,0 @@
-{"tmdb_id": 449491, "title": "Road Movie", "original_title": "Road Movie", "slug_title": "road-movie", "date": "2005-03-29", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

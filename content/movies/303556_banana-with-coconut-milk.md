@@ -1,1 +1,0 @@
-{"tmdb_id": 303556, "title": "Banana with Coconut Milk", "original_title": "Fa'alifu Fa'i", "slug_title": "banana-with-coconut-milk", "date": "2012-10-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jgI681iMpLZn8DFtrnjVwAOqv0n.jpg", "actors": [], "comments": [], "recommandations_id": []}

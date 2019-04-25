@@ -1,1 +1,0 @@
-{"tmdb_id": 398071, "title": "The Flying Duck", "original_title": "The Flying Duck", "slug_title": "the-flying-duck", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 160514, "title": "Ludovico Einaudi Live from home", "original_title": "Ludovico Einaudi Live from home", "slug_title": "ludovico-einaudi-live-from-home", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qAAHHkKAXlXLy2exxvHNHtZ1ZpI.jpg", "actors": [], "comments": [], "recommandations_id": []}

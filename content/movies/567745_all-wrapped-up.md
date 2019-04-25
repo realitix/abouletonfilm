@@ -1,1 +1,0 @@
-{"tmdb_id": 567745, "title": "All Wrapped Up", "original_title": "All Wrapped Up", "slug_title": "all-wrapped-up", "date": "2008-12-04", "genre": "Animation / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jZs9WmYzXYpqDC1SdgbnmJl5aCQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

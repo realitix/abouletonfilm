@@ -1,1 +1,0 @@
-{"tmdb_id": 345394, "title": "Den utvalgte", "original_title": "Den utvalgte", "slug_title": "den-utvalgte", "date": "2008-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Helene Bj\u00f8rnebye (Solveig)", "Janne Beate B\u00f8nes ()", "Even Rasmussen ()"], "comments": [], "recommandations_id": []}

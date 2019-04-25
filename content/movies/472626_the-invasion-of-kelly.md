@@ -1,1 +1,0 @@
-{"tmdb_id": 472626, "title": "The Invasion of Kelly", "original_title": "The Invasion of Kelly", "slug_title": "the-invasion-of-kelly", "date": "2017-08-18", "genre": "Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Almer Sutton (Himself)", "Jessica Drake (Mary)"], "comments": [], "recommandations_id": []}

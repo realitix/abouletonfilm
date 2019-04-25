@@ -1,1 +1,0 @@
-{"tmdb_id": 420435, "title": "Lourdes", "original_title": "Lourdes", "slug_title": "lourdes", "date": "1965-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

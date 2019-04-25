@@ -1,1 +1,0 @@
-{"tmdb_id": 478250, "title": "Guide to Radiation Therapy for Cancer Treatment", "original_title": "Guide to Radiation Therapy for Cancer Treatment", "slug_title": "guide-to-radiation-therapy-for-cancer-treatment", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

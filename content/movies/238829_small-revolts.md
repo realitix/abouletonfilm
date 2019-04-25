@@ -1,1 +1,0 @@
-{"tmdb_id": 238829, "title": "Small Revolts", "original_title": "Mikres Exegerseis", "slug_title": "small-revolts", "date": "2009-11-16", "genre": "Drame", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mCvEft5NEQ7k3gmXrQARvJfNhwb.jpg", "actors": ["Katia Yerou (Anna)"], "comments": [], "recommandations_id": []}

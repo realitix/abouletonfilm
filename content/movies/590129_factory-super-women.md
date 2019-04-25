@@ -1,1 +1,0 @@
-{"tmdb_id": 590129, "title": "Factory (Super)Women", "original_title": "Factory (Super)Women", "slug_title": "factory-super-women", "date": "2019-02-23", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kuvCIc3LfvYBdf9qv3Wm9DBcf6P.jpg", "actors": [], "comments": [], "recommandations_id": []}

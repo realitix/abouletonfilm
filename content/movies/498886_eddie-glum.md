@@ -1,1 +1,0 @@
-{"tmdb_id": 498886, "title": "Eddie Glum", "original_title": "Eddie Glum", "slug_title": "eddie-glum", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/57IqqI2duTVX3YAwBpnyyxkXu69.jpg", "actors": [], "comments": [], "recommandations_id": []}

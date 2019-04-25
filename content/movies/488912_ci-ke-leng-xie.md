@@ -1,1 +1,0 @@
-{"tmdb_id": 488912, "title": "\u523a\u5ba2\u51b7\u8840", "original_title": "\u523a\u5ba2\u51b7\u8840", "slug_title": "ci-ke-leng-xie", "date": "2017-10-12", "genre": "Action / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

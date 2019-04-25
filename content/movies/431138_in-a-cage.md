@@ -1,1 +1,0 @@
-{"tmdb_id": 431138, "title": "In a Cage", "original_title": "La cage", "slug_title": "in-a-cage", "date": "2016-10-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y6ICWeDLC3MTxnlrtarYQQv7XiV.jpg", "actors": ["Andr\u00e9 Minvielle ()"], "comments": [], "recommandations_id": []}

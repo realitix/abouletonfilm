@@ -1,1 +1,0 @@
-{"tmdb_id": 264732, "title": "God on My Side", "original_title": "God on My Side", "slug_title": "god-on-my-side", "date": "2006-11-02", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/olpnHSGywNLTbCLRKt1knV2lmty.jpg", "actors": [], "comments": [], "recommandations_id": []}

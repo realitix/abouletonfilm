@@ -1,1 +1,0 @@
-{"tmdb_id": 207698, "title": "La Cantina", "original_title": "La Cantina", "slug_title": "la-cantina", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

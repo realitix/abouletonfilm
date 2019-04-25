@@ -1,1 +1,0 @@
-{"tmdb_id": 419032, "title": "Jestem z\u0142y", "original_title": "Jestem z\u0142y", "slug_title": "jestem-zly", "date": "2001-05-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/on3x6vISa3Fy7NRxUsQicAuY6hN.jpg", "actors": [], "comments": [], "recommandations_id": []}

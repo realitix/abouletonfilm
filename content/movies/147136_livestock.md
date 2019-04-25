@@ -1,1 +1,0 @@
-{"tmdb_id": 147136, "title": "Livestock", "original_title": "Livestock", "slug_title": "livestock", "date": "2009-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2IfQf0kJIloQvNEsrTTMxaKayVg.jpg", "actors": [], "comments": [], "recommandations_id": []}

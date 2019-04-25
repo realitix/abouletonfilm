@@ -1,1 +1,0 @@
-{"tmdb_id": 540787, "title": "Returning", "original_title": "Returning", "slug_title": "returning", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zwxSyPtnGmEnWyir4Jh2u59CAw4.jpg", "actors": [], "comments": [], "recommandations_id": []}

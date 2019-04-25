@@ -1,1 +1,0 @@
-{"tmdb_id": 596811, "title": "Schnelles Gl\u00fcck", "original_title": "Schnelles Gl\u00fcck", "slug_title": "schnelles-gluck", "date": "1989-05-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gbtyW2oObbWb8LNmTpkRJjxg0cg.jpg", "actors": [], "comments": [], "recommandations_id": []}

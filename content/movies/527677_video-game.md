@@ -1,1 +1,0 @@
-{"tmdb_id": 527677, "title": "Video Game", "original_title": "\u9304\u5f71\u904a\u6232", "slug_title": "video-game", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

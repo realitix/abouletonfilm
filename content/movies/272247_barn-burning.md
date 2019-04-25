@@ -1,1 +1,0 @@
-{"tmdb_id": 272247, "title": "Barn Burning", "original_title": "Barn Burning", "slug_title": "barn-burning", "date": "1980-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z02mBo4LqNCgzXBBMBPjLoAnNDW.jpg", "actors": ["Tommy Lee Jones ()"], "comments": [], "recommandations_id": []}

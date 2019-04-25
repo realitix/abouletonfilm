@@ -1,1 +1,0 @@
-{"tmdb_id": 115439, "title": "At The Ballet", "original_title": "At The Ballet", "slug_title": "at-the-ballet", "date": "", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jDjpe7YxWl98uhOZRVb5TrSRlvE.jpg", "actors": ["Emma Fazzuoli (Ballerina)"], "comments": [], "recommandations_id": []}

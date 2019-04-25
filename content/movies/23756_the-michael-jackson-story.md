@@ -1,1 +1,0 @@
-{"tmdb_id": 23756, "title": "The Michael Jackson Story", "original_title": "The Michael Jackson Story", "slug_title": "the-michael-jackson-story", "date": "2009-01-01", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qCkumCsocrlkIGzrosTQg0VE0LB.jpg", "actors": [], "comments": [], "recommandations_id": []}

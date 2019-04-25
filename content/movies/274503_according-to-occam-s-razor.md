@@ -1,1 +1,0 @@
-{"tmdb_id": 274503, "title": "According to Occam's Razor", "original_title": "According to Occam's Razor", "slug_title": "according-to-occam-s-razor", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

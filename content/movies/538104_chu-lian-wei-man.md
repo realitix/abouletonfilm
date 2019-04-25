@@ -1,1 +1,0 @@
-{"tmdb_id": 538104, "title": "\u521d\u604b\u672a\u6ee1", "original_title": "\u521d\u604b\u672a\u6ee1", "slug_title": "chu-lian-wei-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5eAxavLdSu3v1Z0RvvJbL0fyrv2.jpg", "actors": [], "comments": [], "recommandations_id": []}

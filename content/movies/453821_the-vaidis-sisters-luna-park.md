@@ -1,1 +1,0 @@
-{"tmdb_id": 453821, "title": "The Vaidis Sisters, Luna Park", "original_title": "The Vaidis Sisters, Luna Park", "slug_title": "the-vaidis-sisters-luna-park", "date": "1903-10-22", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 340602, "title": "Two Worlds", "original_title": "\u0394\u03c5\u03bf \u039a\u03cc\u03c3\u03bc\u03bf\u03b9", "slug_title": "two-worlds", "date": "1949-05-16", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nNyZXOxzoxH7q8oyHyVlrzboLiI.jpg", "actors": [], "comments": [], "recommandations_id": []}

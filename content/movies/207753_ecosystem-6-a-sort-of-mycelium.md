@@ -1,1 +1,0 @@
-{"tmdb_id": 207753, "title": "Ecosystem 6 ~ A Sort of Mycelium", "original_title": "Ecosystem 6 ~ A Sort of Mycelium", "slug_title": "ecosystem-6-a-sort-of-mycelium", "date": "1989-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

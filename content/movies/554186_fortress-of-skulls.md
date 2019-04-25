@@ -1,1 +1,0 @@
-{"tmdb_id": 554186, "title": "Fortress of skulls", "original_title": "Fortress of skulls - \u9ad1\u9acf\u57ce\u306e\u4e03\u4eba", "slug_title": "fortress-of-skulls", "date": "", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/OvLsFsrX1jtbeaAfeocUqAUr8B.jpg", "actors": [], "comments": [], "recommandations_id": []}

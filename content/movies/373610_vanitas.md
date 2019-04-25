@@ -1,1 +1,0 @@
-{"tmdb_id": 373610, "title": "Vanitas", "original_title": "Vanitas", "slug_title": "vanitas", "date": "1977-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

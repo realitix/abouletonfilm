@@ -1,1 +1,0 @@
-{"tmdb_id": 428837, "title": "Cyclopean 3D: Life with a Beautiful Woman", "original_title": "Cyclopean 3D: Life with a Beautiful Woman", "slug_title": "cyclopean-3d-life-with-a-beautiful-woman", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

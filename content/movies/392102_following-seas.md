@@ -1,1 +1,0 @@
-{"tmdb_id": 392102, "title": "Following Seas", "original_title": "Following Seas", "slug_title": "following-seas", "date": "2016-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

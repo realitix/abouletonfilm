@@ -1,1 +1,0 @@
-{"tmdb_id": 327004, "title": "Finding Family", "original_title": "Finding Family", "slug_title": "finding-family", "date": "2013-08-17", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2sYGi4GfRP5SP1BnN5hq3LPfImY.jpg", "actors": [], "comments": [], "recommandations_id": []}

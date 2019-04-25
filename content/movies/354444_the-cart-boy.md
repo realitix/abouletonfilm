@@ -1,1 +1,0 @@
-{"tmdb_id": 354444, "title": "The Cart Boy", "original_title": "The Cart Boy", "slug_title": "the-cart-boy", "date": "1995-01-01", "genre": "", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6frttZ2GwmW0RiOeE5oDXSoY2fG.jpg", "actors": [], "comments": [], "recommandations_id": []}

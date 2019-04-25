@@ -1,1 +1,0 @@
-{"tmdb_id": 517002, "title": "The Invasion of Nintendo", "original_title": "The Invasion of Nintendo", "slug_title": "the-invasion-of-nintendo", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tRWsb1yJ4jVo9HIBLgEohZHW6vt.jpg", "actors": [], "comments": [], "recommandations_id": []}

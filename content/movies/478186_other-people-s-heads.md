@@ -1,1 +1,0 @@
-{"tmdb_id": 478186, "title": "Other people's heads", "original_title": "Other people's heads", "slug_title": "other-people-s-heads", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

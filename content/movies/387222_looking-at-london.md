@@ -1,1 +1,0 @@
-{"tmdb_id": 387222, "title": "Looking at London", "original_title": "Looking at London", "slug_title": "looking-at-london", "date": "1946-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bxpMGe6jVrjlftBA2PXwYsHm9mi.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

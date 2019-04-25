@@ -1,1 +1,0 @@
-{"tmdb_id": 424277, "title": "Annette", "original_title": "Annette", "slug_title": "annette", "date": "", "genre": "Romance / Drame / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9umfgEZqLvTGZDwHWEYSUZ3FuRv.jpg", "actors": ["Michelle Williams ()", "Adam Driver ()"], "comments": [], "recommandations_id": []}

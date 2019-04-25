@@ -1,1 +1,0 @@
-{"tmdb_id": 297579, "title": "The Beggar Maid", "original_title": "The Beggar Maid", "slug_title": "the-beggar-maid", "date": "1921-09-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/49kgqIj7f36YcMPksIe3TgX7d5h.jpg", "actors": ["Reginald Denny ()", "Mary Astor ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 118015, "title": "The Saddest Boy in the World", "original_title": "The Saddest Boy in the World", "slug_title": "the-saddest-boy-in-the-world", "date": "2006-04-28", "genre": "Drame", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nh6UYQTBmd81zC8caxlhZAnKwob.jpg", "actors": [], "comments": [], "recommandations_id": []}

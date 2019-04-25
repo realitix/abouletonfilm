@@ -1,1 +1,0 @@
-{"tmdb_id": 351130, "title": "What a Night", "original_title": "What a Night", "slug_title": "what-a-night", "date": "1935-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 456592, "title": "Koko Baffles the Bulls", "original_title": "Koko Baffles the Bulls", "slug_title": "koko-baffles-the-bulls", "date": "1926-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

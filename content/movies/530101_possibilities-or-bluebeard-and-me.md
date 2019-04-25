@@ -1,1 +1,0 @@
-{"tmdb_id": 530101, "title": "Possibilities, or Bluebeard and Me", "original_title": "Possibilities, or Bluebeard and Me", "slug_title": "possibilities-or-bluebeard-and-me", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

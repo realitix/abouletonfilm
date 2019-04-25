@@ -1,1 +1,0 @@
-{"tmdb_id": 50578, "title": "Amongst White Clouds", "original_title": "Amongst White Clouds", "slug_title": "amongst-white-clouds", "date": "2005-01-01", "genre": "Documentaire", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9G1oC9UddJufcfdQux8g7tvs2Bl.jpg", "actors": [], "comments": [], "recommandations_id": []}

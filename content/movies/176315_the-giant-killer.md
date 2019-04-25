@@ -1,1 +1,0 @@
-{"tmdb_id": 176315, "title": "The Giant Killer", "original_title": "The Giant Killer", "slug_title": "the-giant-killer", "date": "1924-10-14", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

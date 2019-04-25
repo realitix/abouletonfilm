@@ -1,1 +1,0 @@
-{"tmdb_id": 447981, "title": "International Street Art", "original_title": "International Street Art", "slug_title": "international-street-art", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p24wi6DH5kyV7ohiFz74kruwA7F.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 282162, "title": "Serbian Epics", "original_title": "Serbian Epics", "slug_title": "serbian-epics", "date": "1992-07-16", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 457060, "title": "Lea River Bridges", "original_title": "Lea River Bridges", "slug_title": "lea-river-bridges", "date": "2017-06-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/doDfkC344BmVGAHJRmAX8vscm8A.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 526146, "title": "Intruders", "original_title": "Intruders", "slug_title": "intruders", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

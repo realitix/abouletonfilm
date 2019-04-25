@@ -1,1 +1,0 @@
-{"tmdb_id": 590352, "title": "I'm Not Here", "original_title": "I'm Not Here", "slug_title": "i-m-not-here", "date": "1994-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

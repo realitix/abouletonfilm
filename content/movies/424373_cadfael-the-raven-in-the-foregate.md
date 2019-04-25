@@ -1,1 +1,0 @@
-{"tmdb_id": 424373, "title": "Cadfael: The Raven in the Foregate", "original_title": "Cadfael: The Raven in the Foregate", "slug_title": "cadfael-the-raven-in-the-foregate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/31KIY6iNjuXxAxfboT34o3AI29M.jpg", "actors": [], "comments": [], "recommandations_id": []}

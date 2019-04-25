@@ -1,1 +1,0 @@
-{"tmdb_id": 330643, "title": "The War After the War", "original_title": "Ha-Milhamah L'Aher Hamilhamah", "slug_title": "the-war-after-the-war", "date": "1969-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

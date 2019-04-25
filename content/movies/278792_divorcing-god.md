@@ -1,1 +1,0 @@
-{"tmdb_id": 278792, "title": "Divorcing God", "original_title": "Divorcing God", "slug_title": "divorcing-god", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

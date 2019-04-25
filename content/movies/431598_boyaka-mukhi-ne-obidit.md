@@ -1,1 +1,0 @@
-{"tmdb_id": 431598, "title": "Boyaka mukhi ne obidit", "original_title": "\u0411\u043e\u044f\u043a\u0430 \u043c\u0443\u0445\u0438 \u043d\u0435 \u043e\u0431\u0438\u0434\u0438\u0442", "slug_title": "boyaka-mukhi-ne-obidit", "date": "1993-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

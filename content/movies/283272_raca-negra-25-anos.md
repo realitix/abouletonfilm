@@ -1,1 +1,0 @@
-{"tmdb_id": 283272, "title": "Ra\u00e7a Negra: 25 Anos", "original_title": "Ra\u00e7a Negra: 25 Anos", "slug_title": "raca-negra-25-anos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pl6o8vNbQ7ILPn0Rmq85O3RJBYb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 62601, "title": "Death of a Nation", "original_title": "Death of a Nation", "slug_title": "death-of-a-nation", "date": "2010-06-27", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qqu6NUE23NNXlmZ5y33Anew5DNK.jpg", "actors": [], "comments": [], "recommandations_id": []}

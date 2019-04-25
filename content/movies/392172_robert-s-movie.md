@@ -1,1 +1,0 @@
-{"tmdb_id": 392172, "title": "Robert's Movie", "original_title": "Robert's Movie", "slug_title": "robert-s-movie", "date": "1992-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fBdKy41su6zukLt0Liv88aZTPdx.jpg", "actors": [], "comments": [], "recommandations_id": []}

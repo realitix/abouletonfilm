@@ -1,1 +1,0 @@
-{"tmdb_id": 506467, "title": "The Gifted", "original_title": "The Gifted", "slug_title": "the-gifted", "date": "", "genre": "Thriller / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cxXnL09LZOf07aC9kyBsR8BfuQj.jpg", "actors": ["Santana Boykin (Diner Patron)"], "comments": [], "recommandations_id": []}

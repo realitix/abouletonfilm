@@ -1,1 +1,0 @@
-{"tmdb_id": 370697, "title": "Babooska", "original_title": "Babooska", "slug_title": "babooska", "date": "2005-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hHlhVTEAuvidbEefLWQ0TLo5Djz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 279436, "title": "A.O. dal Giuba allo Scioa", "original_title": "A.O. dal Giuba allo Scioa", "slug_title": "a-o-dal-giuba-allo-scioa", "date": "1935-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

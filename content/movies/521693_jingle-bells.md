@@ -1,1 +1,0 @@
-{"tmdb_id": 521693, "title": "Jingle Bells", "original_title": "Jingle Bells", "slug_title": "jingle-bells", "date": "1950-01-01", "genre": "Musique", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

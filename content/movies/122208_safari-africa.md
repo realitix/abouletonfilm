@@ -1,1 +1,0 @@
-{"tmdb_id": 122208, "title": "Safari: Africa", "original_title": "Safari: Africa", "slug_title": "safari-africa", "date": "2011-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/57vuYlIbiN3PWcihkFNNnNq5uHG.jpg", "actors": ["Hunter Ellis (Speaker)"], "comments": [], "recommandations_id": []}

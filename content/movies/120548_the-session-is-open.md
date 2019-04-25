@@ -1,1 +1,0 @@
-{"tmdb_id": 120548, "title": "The Session Is Open", "original_title": "L'udienza \u00e8 aperta", "slug_title": "the-session-is-open", "date": "2006-08-31", "genre": "Documentaire / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eKzoUFbdCC0Dv3Ds2nk3MF0CliF.jpg", "actors": [], "comments": [], "recommandations_id": []}

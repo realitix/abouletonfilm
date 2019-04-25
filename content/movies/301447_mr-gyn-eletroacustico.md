@@ -1,1 +1,0 @@
-{"tmdb_id": 301447, "title": "Mr. Gyn - Eletroacustico", "original_title": "Mr. Gyn - Eletroacustico", "slug_title": "mr-gyn-eletroacustico", "date": "2007-07-12", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fS8Ndo7bj787huTtdb1H1Wdtl88.jpg", "actors": [], "comments": [], "recommandations_id": []}

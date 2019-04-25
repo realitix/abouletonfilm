@@ -1,1 +1,0 @@
-{"tmdb_id": 483991, "title": "The Great Smoke", "original_title": "The Great Smoke", "slug_title": "the-great-smoke", "date": "1984-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dq2AYUfUQ1FC45V1KOmmuRSp96E.jpg", "actors": [], "comments": [], "recommandations_id": []}

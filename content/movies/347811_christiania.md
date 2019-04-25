@@ -1,1 +1,0 @@
-{"tmdb_id": 347811, "title": "Christiania", "original_title": "Christiania", "slug_title": "christiania", "date": "2015-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A8m2ONURtyetxKyyDxsJwnpiRG3.jpg", "actors": [], "comments": [], "recommandations_id": []}

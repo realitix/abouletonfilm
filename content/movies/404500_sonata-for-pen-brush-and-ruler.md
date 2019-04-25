@@ -1,1 +1,0 @@
-{"tmdb_id": 404500, "title": "Sonata for Pen, Brush, and Ruler", "original_title": "Sonata for Pen, Brush, and Ruler", "slug_title": "sonata-for-pen-brush-and-ruler", "date": "1968-01-01", "genre": "Musique / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

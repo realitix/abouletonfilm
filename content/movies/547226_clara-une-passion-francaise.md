@@ -1,1 +1,0 @@
-{"tmdb_id": 547226, "title": "Clara, une passion fran\u00e7aise", "original_title": "Clara, une passion fran\u00e7aise", "slug_title": "clara-une-passion-francaise", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 267985, "title": "Strangers", "original_title": "Strangers", "slug_title": "strangers", "date": "2003-08-01", "genre": "Drame", "score": "5.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iB26DnGuGY8lWmHHiqBM8b6CI3w.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 428874, "title": "Amerikas Nationalparks -Yosemite", "original_title": "Amerikas Nationalparks -Yosemite", "slug_title": "amerikas-nationalparks-yosemite", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m2bXALWxtpYgqlPB78kOStZqvWH.jpg", "actors": [], "comments": [], "recommandations_id": []}

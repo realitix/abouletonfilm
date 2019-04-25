@@ -1,1 +1,0 @@
-{"tmdb_id": 328104, "title": "Sky above Srebrenica", "original_title": "Himmel \u00fcber Berlin", "slug_title": "sky-above-srebrenica", "date": "2012-06-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rh5fxzamKlQWF8TfNwhlL66PE2M.jpg", "actors": [], "comments": [], "recommandations_id": []}

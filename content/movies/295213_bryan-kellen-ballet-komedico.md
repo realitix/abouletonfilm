@@ -1,1 +1,0 @@
-{"tmdb_id": 295213, "title": "Bryan Kellen: Ballet Komedico", "original_title": "Bryan Kellen: Ballet Komedico", "slug_title": "bryan-kellen-ballet-komedico", "date": "2014-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

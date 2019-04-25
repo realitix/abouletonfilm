@@ -1,1 +1,0 @@
-{"tmdb_id": 452337, "title": "De Gelaarsde Kat", "original_title": "De Gelaarsde Kat", "slug_title": "de-gelaarsde-kat", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

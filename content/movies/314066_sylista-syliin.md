@@ -1,1 +1,0 @@
-{"tmdb_id": 314066, "title": "Sylist\u00e4 syliin", "original_title": "Sylist\u00e4 syliin", "slug_title": "sylista-syliin", "date": "2008-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

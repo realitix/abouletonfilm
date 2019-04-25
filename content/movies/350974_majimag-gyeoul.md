@@ -1,1 +1,0 @@
-{"tmdb_id": 350974, "title": "\ub9c8\uc9c0\ub9c9 \uaca8\uc6b8", "original_title": "\ub9c8\uc9c0\ub9c9 \uaca8\uc6b8", "slug_title": "majimag-gyeoul", "date": "1978-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 551067, "title": "Ginevra", "original_title": "Ginevra", "slug_title": "ginevra", "date": "1992-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 424986, "title": "A Revolution in Four Seasons", "original_title": "A Revolution in Four Seasons", "slug_title": "a-revolution-in-four-seasons", "date": "2016-04-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

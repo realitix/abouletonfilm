@@ -1,1 +1,0 @@
-{"tmdb_id": 273275, "title": "The Dancing Nig", "original_title": "The Dancing Nig", "slug_title": "the-dancing-nig", "date": "1907-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

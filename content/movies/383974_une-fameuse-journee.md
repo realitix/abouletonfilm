@@ -1,1 +1,0 @@
-{"tmdb_id": 383974, "title": "une fameuse journee", "original_title": "une fameuse journee", "slug_title": "une-fameuse-journee", "date": "2005-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4gV0JKlGTqiYMUaD12LWVhejHaz.jpg", "actors": [], "comments": [], "recommandations_id": []}

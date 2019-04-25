@@ -1,1 +1,0 @@
-{"tmdb_id": 512906, "title": "Shores of Light: Salento 1945-1947", "original_title": "Shores of Light: Salento 1945-1947", "slug_title": "shores-of-light-salento-1945-1947", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tkOBQFq0hIhXJGzg9GzefATp5t2.jpg", "actors": [], "comments": [], "recommandations_id": []}

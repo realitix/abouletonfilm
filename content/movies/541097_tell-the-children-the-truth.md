@@ -1,1 +1,0 @@
-{"tmdb_id": 541097, "title": "Tell the Children the Truth", "original_title": "Tell the Children the Truth", "slug_title": "tell-the-children-the-truth", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s0ZISPrAzKZHeH4Q5WLR4QgLZFF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 63884, "title": "Mike Epps: Funny Bidness", "original_title": "Mike Epps: Funny Bidness", "slug_title": "mike-epps-funny-bidness", "date": "2009-04-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fizWCwmtvo7JY8dImZRyu662eLf.jpg", "actors": [], "comments": [], "recommandations_id": []}

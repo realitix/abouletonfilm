@@ -1,1 +1,0 @@
-{"tmdb_id": 483653, "title": "\u03bc's New Year LoveLive! 2013", "original_title": "\u03bc's New Year LoveLive! 2013", "slug_title": "m-s-new-year-lovelive-2013", "date": "2013-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1N4vwM6gJwQNht4gj1o53vZZoJ6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 494183, "title": "Nuhr 2017 - Der Jahresr\u00fcckblick", "original_title": "Nuhr 2017 - Der Jahresr\u00fcckblick", "slug_title": "nuhr-2017-der-jahresruckblick", "date": "2017-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dieter Nuhr (Himself)"], "comments": [], "recommandations_id": []}

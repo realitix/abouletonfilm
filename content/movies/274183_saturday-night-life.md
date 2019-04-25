@@ -1,1 +1,0 @@
-{"tmdb_id": 274183, "title": "Saturday Night Life", "original_title": "Saturday Night Life", "slug_title": "saturday-night-life", "date": "2006-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

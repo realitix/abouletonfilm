@@ -1,1 +1,0 @@
-{"tmdb_id": 539809, "title": "The Story Behind 'The Man Who Laughs'", "original_title": "The Story Behind 'The Man Who Laughs'", "slug_title": "the-story-behind-the-man-who-laughs", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

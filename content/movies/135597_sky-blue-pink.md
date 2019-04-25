@@ -1,1 +1,0 @@
-{"tmdb_id": 135597, "title": "Sky Blue Pink", "original_title": "Sky Blue Pink", "slug_title": "sky-blue-pink", "date": "1968-01-03", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n7Hi1oi31pKk5qdJ79Av2i2XXD8.jpg", "actors": [], "comments": [], "recommandations_id": []}

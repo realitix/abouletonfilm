@@ -1,1 +1,0 @@
-{"tmdb_id": 276883, "title": "The Homestretch", "original_title": "The Homestretch", "slug_title": "the-homestretch", "date": "2014-06-19", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ekPwIFQpdycX8Ly3rVPIfkRey5g.jpg", "actors": [], "comments": [], "recommandations_id": []}

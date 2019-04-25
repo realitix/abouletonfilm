@@ -1,1 +1,0 @@
-{"tmdb_id": 471145, "title": "Le C\u0153ur du conflit", "original_title": "Le C\u0153ur du conflit", "slug_title": "le-coeur-du-conflit", "date": "2017-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mnEQQ6Cw0HPZOQv6zi52iJUbrDG.jpg", "actors": [], "comments": [], "recommandations_id": []}

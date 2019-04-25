@@ -1,1 +1,0 @@
-{"tmdb_id": 469303, "title": "Zumba Fitness: Basics", "original_title": "Zumba Fitness: Basics", "slug_title": "zumba-fitness-basics", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p4UcKSPRsPQqox5OwrQO4xcdTEj.jpg", "actors": [], "comments": [], "recommandations_id": []}

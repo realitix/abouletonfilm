@@ -1,1 +1,0 @@
-{"tmdb_id": 250358, "title": "Eugene Onegin", "original_title": "Eugene Onegin", "slug_title": "eugene-onegin", "date": "1988-07-21", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/32MY3EQ8tw7YwTY2Y8O1u142cVT.jpg", "actors": [], "comments": [], "recommandations_id": []}

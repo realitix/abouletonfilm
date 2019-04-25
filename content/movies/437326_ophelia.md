@@ -1,1 +1,0 @@
-{"tmdb_id": 437326, "title": "Ophelia", "original_title": "Ophelia", "slug_title": "ophelia", "date": "2013-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Audrey Bastien (Ophelia)", "Leo Castell (Simon)", "Django Desplain (Thomas)"], "comments": [], "recommandations_id": []}

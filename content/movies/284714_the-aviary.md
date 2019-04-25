@@ -1,1 +1,0 @@
-{"tmdb_id": 284714, "title": "The Aviary", "original_title": "The Aviary", "slug_title": "the-aviary", "date": "1955-12-31", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y4X9ADSI7ZnDpvJxczmR0IqzNbK.jpg", "actors": [], "comments": [], "recommandations_id": [383841, 285768, 262854, 152973]}

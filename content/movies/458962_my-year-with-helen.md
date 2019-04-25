@@ -1,1 +1,0 @@
-{"tmdb_id": 458962, "title": "My Year with Helen", "original_title": "My Year with Helen", "slug_title": "my-year-with-helen", "date": "2017-06-10", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aftSR0a9Hwh5zMyWZKx4NumbEHd.jpg", "actors": [], "comments": [], "recommandations_id": []}

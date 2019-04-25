@@ -1,1 +1,0 @@
-{"tmdb_id": 320179, "title": "Resistance", "original_title": "Resistance", "slug_title": "resistance", "date": "2015-01-01", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aKOxnQssaAfS7gtXLG8ggwDSCk5.jpg", "actors": [], "comments": [], "recommandations_id": [250539, 297600, 415818, 257063]}

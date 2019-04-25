@@ -1,1 +1,0 @@
-{"tmdb_id": 301134, "title": "Marnie Stern", "original_title": "Marnie Stern", "slug_title": "marnie-stern", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

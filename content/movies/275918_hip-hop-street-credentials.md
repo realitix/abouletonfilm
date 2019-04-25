@@ -1,1 +1,0 @@
-{"tmdb_id": 275918, "title": "Hip Hop Street Credentials", "original_title": "Hip Hop Street Credentials", "slug_title": "hip-hop-street-credentials", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 209068, "title": "The Secret World of Gold", "original_title": "The Secret World of Gold", "slug_title": "the-secret-world-of-gold", "date": "2013-04-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brian McKenna ()"], "comments": [], "recommandations_id": []}

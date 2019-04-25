@@ -1,1 +1,0 @@
-{"tmdb_id": 489247, "title": "Der erste Stein", "original_title": "Der erste Stein", "slug_title": "der-erste-stein", "date": "2014-06-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michel Diercks (Chris)", "Marie Meinzenbach (Lisa)"], "comments": [], "recommandations_id": []}

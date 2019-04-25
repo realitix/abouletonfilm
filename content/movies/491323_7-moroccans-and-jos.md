@@ -1,1 +1,0 @@
-{"tmdb_id": 491323, "title": "7 Moroccans and Jos", "original_title": "7 Marokkanen en Jos", "slug_title": "7-moroccans-and-jos", "date": "2017-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4aDlvxWqCav9ywiBBrg5rCcRwbj.jpg", "actors": [], "comments": [], "recommandations_id": []}

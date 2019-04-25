@@ -1,1 +1,0 @@
-{"tmdb_id": 587867, "title": "Turning Ten", "original_title": "Turning Ten", "slug_title": "turning-ten", "date": "2018-12-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sarrah Abdelrahman ()", "Sedky Sakhr ()", "Mariam Tamer ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 356308, "title": "Thrilling Drill", "original_title": "Thrilling Drill", "slug_title": "thrilling-drill", "date": "1920-12-14", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

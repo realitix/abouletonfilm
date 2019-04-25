@@ -1,1 +1,0 @@
-{"tmdb_id": 550123, "title": "Ketchup & Soya Sauce", "original_title": "Ketchup & Soya Sauce", "slug_title": "ketchup-soya-sauce", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kjDNXhDiGwmq7foWm3raZJdL7NT.jpg", "actors": [], "comments": [], "recommandations_id": []}

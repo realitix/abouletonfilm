@@ -1,1 +1,0 @@
-{"tmdb_id": 304421, "title": "La vita negli abissi del mare: Crostacei", "original_title": "La vita negli abissi del mare: Crostacei", "slug_title": "la-vita-negli-abissi-del-mare-crostacei", "date": "1914-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 79111, "title": "Chanchal", "original_title": "Chanchal", "slug_title": "chanchal", "date": "2008-08-10", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kUSHyf1gWz9UWO9c8EzKhMCtV8J.jpg", "actors": ["Gracy Singh (Chanchal)", "Armaan Shahabi ()"], "comments": [], "recommandations_id": []}

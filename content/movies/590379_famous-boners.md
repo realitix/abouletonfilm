@@ -1,1 +1,0 @@
-{"tmdb_id": 590379, "title": "Famous Boners", "original_title": "Famous Boners", "slug_title": "famous-boners", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

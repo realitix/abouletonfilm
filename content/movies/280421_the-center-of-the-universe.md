@@ -1,1 +1,0 @@
-{"tmdb_id": 280421, "title": "The Center of the Universe", "original_title": "The Center of the Universe", "slug_title": "the-center-of-the-universe", "date": "2006-02-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fU9i2krcKFgsgovKYm5TwFRaUF7.jpg", "actors": [], "comments": [], "recommandations_id": []}

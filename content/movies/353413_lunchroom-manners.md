@@ -1,1 +1,0 @@
-{"tmdb_id": 353413, "title": "Lunchroom Manners", "original_title": "Lunchroom Manners", "slug_title": "lunchroom-manners", "date": "1960-08-07", "genre": "Documentaire", "score": "2.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/utmYB0NF08clDAfpJS3kIIJXhIs.jpg", "actors": [], "comments": [], "recommandations_id": [205642]}

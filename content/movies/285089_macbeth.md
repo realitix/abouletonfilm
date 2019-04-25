@@ -1,1 +1,1 @@
-{"tmdb_id": 285089, "title": "Macbeth", "original_title": "Macbeth", "slug_title": "macbeth", "date": "1976-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 285089, "title": "Macbeth", "original_title": "Macbeth", "slug_title": "macbeth", "date": "1976-06-30", "genre": [""], "score": "0.0/10", "synopsis": "The full play.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

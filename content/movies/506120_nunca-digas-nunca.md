@@ -1,1 +1,0 @@
-{"tmdb_id": 506120, "title": "Nunca digas nunca", "original_title": "Nunca digas nunca", "slug_title": "nunca-digas-nunca", "date": "2014-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fhtL2ElEGH6oyTtqqbAa6sjF28.jpg", "actors": [], "comments": [], "recommandations_id": []}

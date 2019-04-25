@@ -1,1 +1,0 @@
-{"tmdb_id": 478195, "title": "Synchronous", "original_title": "Syncronico", "slug_title": "synchronous", "date": "2016-10-22", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

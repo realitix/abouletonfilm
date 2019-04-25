@@ -1,1 +1,0 @@
-{"tmdb_id": 593957, "title": "Son \u00c7ikis", "original_title": "Son \u00c7ikis", "slug_title": "son-cikis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gbVFrHRcUuW2za42hqQiiTeHgzf.jpg", "actors": [], "comments": [], "recommandations_id": []}

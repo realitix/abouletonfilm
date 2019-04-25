@@ -1,1 +1,0 @@
-{"tmdb_id": 143489, "title": "Vale Tudo Japan 1999", "original_title": "Vale Tudo Japan 1999", "slug_title": "vale-tudo-japan-1999", "date": "1999-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

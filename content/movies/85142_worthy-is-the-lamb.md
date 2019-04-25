@@ -1,1 +1,0 @@
-{"tmdb_id": 85142, "title": "Worthy is the Lamb", "original_title": "Worthy is the Lamb", "slug_title": "worthy-is-the-lamb", "date": "2004-01-01", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vtBv4FRickMMibr0HCZ4o6LDydC.jpg", "actors": [], "comments": [], "recommandations_id": []}

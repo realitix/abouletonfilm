@@ -1,1 +1,0 @@
-{"tmdb_id": 234724, "title": "Scouting for Trouble", "original_title": "Scouting for Trouble", "slug_title": "scouting-for-trouble", "date": "1960-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

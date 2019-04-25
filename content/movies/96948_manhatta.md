@@ -1,1 +1,0 @@
-{"tmdb_id": 96948, "title": "Manhatta", "original_title": "Manhatta", "slug_title": "manhatta", "date": "1921-01-01", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rU2itqOXDh8yjVm2J8ev2BO3Rgj.jpg", "actors": [], "comments": [], "recommandations_id": [190081, 146987, 184882, 183725]}

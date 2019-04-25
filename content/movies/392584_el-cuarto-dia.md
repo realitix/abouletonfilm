@@ -1,1 +1,0 @@
-{"tmdb_id": 392584, "title": "El Cuarto D\u00eda", "original_title": "El Cuarto D\u00eda", "slug_title": "el-cuarto-dia", "date": "2010-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/502vHStmpmoS3QKvPRO6yx8kQOp.jpg", "actors": [], "comments": [], "recommandations_id": []}

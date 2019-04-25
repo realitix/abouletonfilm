@@ -1,1 +1,0 @@
-{"tmdb_id": 559203, "title": "Les amours de Blanche Neige", "original_title": "Les amours de Blanche Neige", "slug_title": "les-amours-de-blanche-neige", "date": "1947-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

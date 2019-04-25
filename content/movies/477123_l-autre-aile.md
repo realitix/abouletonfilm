@@ -1,1 +1,0 @@
-{"tmdb_id": 477123, "title": "L'autre aile", "original_title": "L'autre aile", "slug_title": "l-autre-aile", "date": "1923-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

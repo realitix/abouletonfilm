@@ -1,1 +1,0 @@
-{"tmdb_id": 513651, "title": "Low Tide", "original_title": "Marea Baja", "slug_title": "low-tide", "date": "2010-10-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1W4pxKqjei0HYtVHi3FokENB3Ci.jpg", "actors": ["Nathalia Aragonese (Magdalena)", "Mario Horton (Tomas)"], "comments": [], "recommandations_id": []}

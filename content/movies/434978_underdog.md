@@ -1,1 +1,0 @@
-{"tmdb_id": 434978, "title": "Underdog", "original_title": "Underdog", "slug_title": "underdog", "date": "2016-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jA2YcCgLu0gwwOzLybgbeDi6Ckk.jpg", "actors": [], "comments": [], "recommandations_id": []}

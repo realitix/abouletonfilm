@@ -1,1 +1,0 @@
-{"tmdb_id": 566424, "title": "The Chainsmokers: Memories", "original_title": "The Chainsmokers: Memories", "slug_title": "the-chainsmokers-memories", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alex Pall (Himself)", "Andrew Taggart (Himself)"], "comments": [], "recommandations_id": []}

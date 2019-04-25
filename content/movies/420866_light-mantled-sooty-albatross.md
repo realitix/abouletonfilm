@@ -1,1 +1,0 @@
-{"tmdb_id": 420866, "title": "Light Mantled Sooty Albatross", "original_title": "Light Mantled Sooty Albatross", "slug_title": "light-mantled-sooty-albatross", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x7Q01OOv0rzpboVYUTCS7gRRNTT.jpg", "actors": [], "comments": [], "recommandations_id": []}

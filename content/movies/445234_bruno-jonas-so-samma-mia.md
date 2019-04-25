@@ -1,1 +1,0 @@
-{"tmdb_id": 445234, "title": "Bruno Jonas - So Samma mia", "original_title": "Bruno Jonas - So Samma mia", "slug_title": "bruno-jonas-so-samma-mia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wQQtTRIml80bS9msgAfkDcMH8Z5.jpg", "actors": ["Bruno Jonas ()"], "comments": [], "recommandations_id": []}

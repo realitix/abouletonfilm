@@ -1,1 +1,0 @@
-{"tmdb_id": 587654, "title": "Situs wie Jod iset ab ernit", "original_title": "Situs wie Jod iset ab ernit", "slug_title": "situs-wie-jod-iset-ab-ernit", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k118IGMm5m2LpSHXmAVKMGSiN6s.jpg", "actors": [], "comments": [], "recommandations_id": []}

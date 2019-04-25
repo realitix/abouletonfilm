@@ -1,1 +1,0 @@
-{"tmdb_id": 417283, "title": "Shallow", "original_title": "Shallow", "slug_title": "shallow", "date": "2012-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5kbuHMlV5e3R4ZCYxjYMoIKI6KN.jpg", "actors": ["Dan Stevens (Richard Dove)", "Emily Bruni (Amanda)"], "comments": [], "recommandations_id": []}

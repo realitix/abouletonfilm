@@ -1,1 +1,1 @@
-{"tmdb_id": 448818, "title": "Palla ghar", "original_title": "Palla ghar", "slug_title": "palla-ghar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 448818, "title": "Palla ghar", "original_title": "Palla ghar", "slug_title": "palla-ghar", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "I am going home", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

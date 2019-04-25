@@ -1,1 +1,0 @@
-{"tmdb_id": 482694, "title": "Thirty Souls", "original_title": "Trinta Lumes", "slug_title": "thirty-souls", "date": "2017-10-20", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/meICthw6GzORSJSpKhFDaCPYlvw.jpg", "actors": [], "comments": [], "recommandations_id": []}

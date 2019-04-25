@@ -1,1 +1,0 @@
-{"tmdb_id": 577620, "title": "I Am My Sister's Keeper", "original_title": "I Am My Sister's Keeper", "slug_title": "i-am-my-sister-s-keeper", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Laura Bailey ()"], "comments": [], "recommandations_id": []}

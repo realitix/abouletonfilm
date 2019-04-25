@@ -1,1 +1,0 @@
-{"tmdb_id": 399575, "title": "French & Saunders - Live", "original_title": "French & Saunders - Live", "slug_title": "french-saunders-live", "date": "2000-11-20", "genre": "Com\u00e9die", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jennifer Saunders (Various roles)", "Dawn French (Various roles)"], "comments": [], "recommandations_id": []}

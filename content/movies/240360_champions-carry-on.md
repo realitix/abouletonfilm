@@ -1,1 +1,0 @@
-{"tmdb_id": 240360, "title": "Champions Carry on", "original_title": "Champions Carry on", "slug_title": "champions-carry-on", "date": "1943-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

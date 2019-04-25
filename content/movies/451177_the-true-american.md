@@ -1,1 +1,0 @@
-{"tmdb_id": 451177, "title": "The True American", "original_title": "The True American", "slug_title": "the-true-american", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mark Ruffalo (Mark Stroman)", "Kumail Nanjiani (Rais Bhuiyan)", "Amy Adams ()"], "comments": [], "recommandations_id": []}

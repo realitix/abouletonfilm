@@ -1,1 +1,0 @@
-{"tmdb_id": 518326, "title": "Sacudete Las Penas", "original_title": "Sacudete Las Penas", "slug_title": "sacudete-las-penas", "date": "2018-04-27", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bq2MQCJTyCFdw8QraEMgBpuQvQ4.jpg", "actors": [], "comments": [], "recommandations_id": []}

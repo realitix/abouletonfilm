@@ -1,1 +1,0 @@
-{"tmdb_id": 428427, "title": "The Road Movie", "original_title": "\u0414\u043e\u0440\u043e\u0433\u0430", "slug_title": "the-road-movie", "date": "2017-03-03", "genre": "Documentaire", "score": "8.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2FUojuhiPXhQn2M1H87Ym8dAjr6.jpg", "actors": [], "comments": [], "recommandations_id": [264241]}

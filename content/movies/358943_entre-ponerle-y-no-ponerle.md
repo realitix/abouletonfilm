@@ -1,1 +1,0 @@
-{"tmdb_id": 358943, "title": "Entre Ponerle y No Ponerle", "original_title": "Entre Ponerle y No Ponerle", "slug_title": "entre-ponerle-y-no-ponerle", "date": "1971-06-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

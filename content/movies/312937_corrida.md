@@ -1,1 +1,0 @@
-{"tmdb_id": 312937, "title": "Corrida", "original_title": "Corrida", "slug_title": "corrida", "date": "2012-02-14", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qSBjCV1aIebg2Ds0iN5rffkJDdq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 61818, "title": "The Last Paradise", "original_title": "L'ultimo paradiso", "slug_title": "the-last-paradise", "date": "1955-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Z03iOEJXv9WTmBgLQ3lPfSPc86.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 405532, "title": "Joris Ivens Digital", "original_title": "Joris Ivens Digital", "slug_title": "joris-ivens-digital", "date": "2008-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

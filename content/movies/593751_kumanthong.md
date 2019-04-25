@@ -1,1 +1,0 @@
-{"tmdb_id": 593751, "title": "Kumanthong", "original_title": "Thi\u00ean Linh C\u00e1i", "slug_title": "kumanthong", "date": "2019-04-19", "genre": "Crime / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

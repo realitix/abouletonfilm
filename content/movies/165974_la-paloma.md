@@ -1,1 +1,0 @@
-{"tmdb_id": 165974, "title": "La paloma", "original_title": "La paloma", "slug_title": "la-paloma", "date": "1930-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 555523, "title": "Chignole", "original_title": "Chignole", "slug_title": "chignole", "date": "1919-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

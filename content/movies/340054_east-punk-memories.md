@@ -1,1 +1,0 @@
-{"tmdb_id": 340054, "title": "East Punk Memories", "original_title": "East Punk Memories", "slug_title": "east-punk-memories", "date": "2012-03-28", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

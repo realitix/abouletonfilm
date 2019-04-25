@@ -1,1 +1,0 @@
-{"tmdb_id": 303817, "title": "Target Practice of Atlantic Fleet, U.S. Navy", "original_title": "Target Practice of Atlantic Fleet, U.S. Navy", "slug_title": "target-practice-of-atlantic-fleet-u-s-navy", "date": "1912-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

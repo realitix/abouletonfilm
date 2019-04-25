@@ -1,1 +1,0 @@
-{"tmdb_id": 345589, "title": "Om Avstand", "original_title": "Om Avstand", "slug_title": "om-avstand", "date": "2010-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["S\u00f8lje Bergmann ()", "J\u00f8rgen Fjellheim ()", "Silje Underhaug Fosseli ()", "Henrik Rafaelsen ()"], "comments": [], "recommandations_id": []}

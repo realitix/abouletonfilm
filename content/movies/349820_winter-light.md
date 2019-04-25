@@ -1,1 +1,0 @@
-{"tmdb_id": 349820, "title": "Winter Light", "original_title": "Winter Light", "slug_title": "winter-light", "date": "1983-01-01", "genre": "Documentaire / Musique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/75CRoU8IYHTIk97yGNNCoJpCm2J.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 364085, "title": "Thao's Library", "original_title": "Thao's Library", "slug_title": "thao-s-library", "date": "2015-10-16", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ateO5rlXUt8I0fLiQi0tamS9TmX.jpg", "actors": [], "comments": [], "recommandations_id": []}

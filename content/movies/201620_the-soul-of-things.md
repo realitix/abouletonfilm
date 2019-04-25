@@ -1,1 +1,0 @@
-{"tmdb_id": 201620, "title": "The Soul of Things", "original_title": "The Soul of Things", "slug_title": "the-soul-of-things", "date": "2010-09-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yHdtBSXOky47SwB9NUi8l2ZY7oK.jpg", "actors": [], "comments": [], "recommandations_id": []}

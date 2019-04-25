@@ -1,1 +1,0 @@
-{"tmdb_id": 37051, "title": "K-1 World Grand Prix 2009 Final", "original_title": "K-1 World Grand Prix 2009 Final", "slug_title": "k-1-world-grand-prix-2009-final", "date": "", "genre": "", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2FWrJIx3tr3lOzkMYhX83vSFVpO.jpg", "actors": [], "comments": [], "recommandations_id": []}

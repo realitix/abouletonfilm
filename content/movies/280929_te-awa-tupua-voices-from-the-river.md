@@ -1,1 +1,0 @@
-{"tmdb_id": 280929, "title": "Te Awa Tupua - Voices from the River", "original_title": "Te Awa Tupua - Voices from the River", "slug_title": "te-awa-tupua-voices-from-the-river", "date": "2014-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

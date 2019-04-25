@@ -1,1 +1,0 @@
-{"tmdb_id": 312525, "title": "Maestros in Concert: U. Srinivas", "original_title": "Maestros in Concert: U. Srinivas", "slug_title": "maestros-in-concert-u-srinivas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

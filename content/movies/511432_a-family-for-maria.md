@@ -1,1 +1,0 @@
-{"tmdb_id": 511432, "title": "A Family For Maria", "original_title": "Une famille pour Maria", "slug_title": "a-family-for-maria", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

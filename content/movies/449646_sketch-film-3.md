@@ -1,1 +1,0 @@
-{"tmdb_id": 449646, "title": "Sketch Film #3", "original_title": "Sketch Film #3", "slug_title": "sketch-film-3", "date": "2006-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ngiKqssCGkfg4eWrJq55QrMOQud.jpg", "actors": [], "comments": [], "recommandations_id": []}

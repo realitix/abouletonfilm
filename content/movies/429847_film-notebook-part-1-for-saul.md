@@ -1,1 +1,0 @@
-{"tmdb_id": 429847, "title": "Film Notebook: Part 1 (For Saul)", "original_title": "Film Notebook: Part 1 (For Saul)", "slug_title": "film-notebook-part-1-for-saul", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Saul Levine (Himself)"], "comments": [], "recommandations_id": []}

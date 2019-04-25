@@ -1,1 +1,0 @@
-{"tmdb_id": 198014, "title": "Nick Jr: Celebrates Spring", "original_title": "Nick Jr: Celebrates Spring", "slug_title": "nick-jr-celebrates-spring", "date": "2004-03-02", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 188275, "title": "Kaivopuisto", "original_title": "Kaivopuisto", "slug_title": "kaivopuisto", "date": "2012-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

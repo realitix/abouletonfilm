@@ -1,1 +1,0 @@
-{"tmdb_id": 587068, "title": "Manchester United Season Review 2000-01", "original_title": "Manchester United Season Review 2000-01", "slug_title": "manchester-united-season-review-2000-01", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 555242, "title": "Kurdistan-Kurdistan", "original_title": "Kurdistan-Kurdistan", "slug_title": "kurdistan-kurdistan", "date": "2015-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Delil Dilanar (Delil)", "Egide Jamo (Egide)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 449438, "title": "Unarmed Verses", "original_title": "Unarmed Verses", "slug_title": "unarmed-verses", "date": "2017-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rCgQ6t5baIk1VRdz4ItcNE6q4HT.jpg", "actors": [], "comments": [], "recommandations_id": []}

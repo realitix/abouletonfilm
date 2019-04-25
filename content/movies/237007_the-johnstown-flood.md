@@ -1,1 +1,0 @@
-{"tmdb_id": 237007, "title": "The Johnstown Flood", "original_title": "The Johnstown Flood", "slug_title": "the-johnstown-flood", "date": "1946-06-27", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1SwX71qrnwPjPanFuKZJ5wlRv3P.jpg", "actors": [], "comments": [], "recommandations_id": []}

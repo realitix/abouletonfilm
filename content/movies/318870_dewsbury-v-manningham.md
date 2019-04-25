@@ -1,1 +1,0 @@
-{"tmdb_id": 318870, "title": "Dewsbury v Manningham", "original_title": "Dewsbury v Manningham", "slug_title": "dewsbury-v-manningham", "date": "1902-01-17", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

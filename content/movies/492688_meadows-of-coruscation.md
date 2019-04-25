@@ -1,1 +1,0 @@
-{"tmdb_id": 492688, "title": "Meadows of Coruscation", "original_title": "Meadows of Coruscation", "slug_title": "meadows-of-coruscation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zX1VQDEm0tyAPM6aMTIaDMWGRBF.jpg", "actors": [], "comments": [], "recommandations_id": []}

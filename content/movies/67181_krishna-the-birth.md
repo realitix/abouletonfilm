@@ -1,1 +1,0 @@
-{"tmdb_id": 67181, "title": "Krishna, The Birth", "original_title": "Krishna, The Birth", "slug_title": "krishna-the-birth", "date": "2006-08-16", "genre": "Animation / Drame / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

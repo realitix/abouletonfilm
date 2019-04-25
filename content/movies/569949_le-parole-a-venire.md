@@ -1,1 +1,0 @@
-{"tmdb_id": 569949, "title": "Le parole a venire", "original_title": "Le parole a venire", "slug_title": "le-parole-a-venire", "date": "1970-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

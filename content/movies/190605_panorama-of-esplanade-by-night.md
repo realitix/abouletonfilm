@@ -1,1 +1,0 @@
-{"tmdb_id": 190605, "title": "Panorama of Esplanade by Night", "original_title": "Panorama of Esplanade by Night", "slug_title": "panorama-of-esplanade-by-night", "date": "1901-11-11", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 278203, "title": "Kuttipattalam", "original_title": "Kuttipattalam", "slug_title": "kuttipattalam", "date": "2011-08-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Suresh Gopi ()"], "comments": [], "recommandations_id": []}

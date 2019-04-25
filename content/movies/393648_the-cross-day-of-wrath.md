@@ -1,1 +1,0 @@
-{"tmdb_id": 393648, "title": "The Cross (Day of Wrath)", "original_title": "The Cross (Day of Wrath)", "slug_title": "the-cross-day-of-wrath", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

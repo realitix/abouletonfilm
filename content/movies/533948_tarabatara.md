@@ -1,1 +1,0 @@
-{"tmdb_id": 533948, "title": "Tarabatara", "original_title": "Tarabatara", "slug_title": "tarabatara", "date": "2007-10-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

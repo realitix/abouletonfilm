@@ -1,1 +1,0 @@
-{"tmdb_id": 442035, "title": "Photography is Easy - Version 2", "original_title": "Photography is Easy - Version 2", "slug_title": "photography-is-easy-version-2", "date": "2010-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/80oVsRoQRlgUqhgMoX1eqbt4f3k.jpg", "actors": [], "comments": [], "recommandations_id": []}

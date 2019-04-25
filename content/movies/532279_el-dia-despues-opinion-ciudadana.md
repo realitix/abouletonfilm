@@ -1,1 +1,0 @@
-{"tmdb_id": 532279, "title": "El D\u00eda Despu\u00e9s: Opini\u00f3n Ciudadana", "original_title": "El D\u00eda Despu\u00e9s: Opini\u00f3n Ciudadana", "slug_title": "el-dia-despues-opinion-ciudadana", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

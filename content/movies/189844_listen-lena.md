@@ -1,1 +1,0 @@
-{"tmdb_id": 189844, "title": "Listen Lena", "original_title": "Listen Lena", "slug_title": "listen-lena", "date": "1927-02-12", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Al St. John (Al Adams)"], "comments": [], "recommandations_id": []}

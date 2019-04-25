@@ -1,1 +1,0 @@
-{"tmdb_id": 404130, "title": "Silken Web", "original_title": "\u0160\u00eblkovaja pautina", "slug_title": "silken-web", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

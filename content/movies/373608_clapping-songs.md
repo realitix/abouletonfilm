@@ -1,1 +1,0 @@
-{"tmdb_id": 373608, "title": "Clapping Songs", "original_title": "Clapping Songs", "slug_title": "clapping-songs", "date": "1979-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

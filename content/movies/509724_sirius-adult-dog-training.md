@@ -1,1 +1,0 @@
-{"tmdb_id": 509724, "title": "SIRIUS Adult Dog Training", "original_title": "SIRIUS Adult Dog Training", "slug_title": "sirius-adult-dog-training", "date": "2018-03-07", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/biJyhIXexVBbEJJmYBaDWjJdFYL.jpg", "actors": [], "comments": [], "recommandations_id": []}

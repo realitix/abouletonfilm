@@ -1,1 +1,0 @@
-{"tmdb_id": 188698, "title": "The Arrieta Method", "original_title": "El m\u00e9todo Arrieta", "slug_title": "the-arrieta-method", "date": "2013-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hjaxvPcE253Ok0Rl0nm1cTpyYPF.jpg", "actors": [], "comments": [], "recommandations_id": []}

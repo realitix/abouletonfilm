@@ -1,1 +1,0 @@
-{"tmdb_id": 362054, "title": "Enthusiasm", "original_title": "Enthusiasm", "slug_title": "enthusiasm", "date": "1979-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eebBVnL5SLiOZD2pNMV4R3erhXR.jpg", "actors": [], "comments": [], "recommandations_id": []}

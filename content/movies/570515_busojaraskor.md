@@ -1,1 +1,0 @@
-{"tmdb_id": 570515, "title": "Bus\u00f3j\u00e1r\u00e1skor", "original_title": "Bus\u00f3j\u00e1r\u00e1skor", "slug_title": "busojaraskor", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

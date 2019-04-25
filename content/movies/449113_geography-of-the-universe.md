@@ -1,1 +1,0 @@
-{"tmdb_id": 449113, "title": "Geography of the Universe", "original_title": "Geography of the Universe", "slug_title": "geography-of-the-universe", "date": "2014-11-26", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4CGwDLlHWlbDMEYSAjIIJjnJPpl.jpg", "actors": [], "comments": [], "recommandations_id": []}

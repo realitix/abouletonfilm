@@ -1,1 +1,0 @@
-{"tmdb_id": 499167, "title": "The Scourge", "original_title": "El Azote", "slug_title": "the-scourge", "date": "2017-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fmwWIs2pWNcLyQzQywv0KCi3kl6.jpg", "actors": [], "comments": [], "recommandations_id": []}

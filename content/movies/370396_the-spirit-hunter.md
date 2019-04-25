@@ -1,1 +1,0 @@
-{"tmdb_id": 370396, "title": "The Spirit Hunter", "original_title": "The Spirit Hunter", "slug_title": "the-spirit-hunter", "date": "2004-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

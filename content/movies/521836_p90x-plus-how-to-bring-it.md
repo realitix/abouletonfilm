@@ -1,1 +1,0 @@
-{"tmdb_id": 521836, "title": "P90X Plus - How To Bring It", "original_title": "P90X Plus - How To Bring It", "slug_title": "p90x-plus-how-to-bring-it", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3m6vhwaZ0hBaCNTaQwbUFDxB2mg.jpg", "actors": [], "comments": [], "recommandations_id": []}

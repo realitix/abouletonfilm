@@ -1,1 +1,0 @@
-{"tmdb_id": 390203, "title": "No Horse With a Name", "original_title": "No Horse With a Name", "slug_title": "no-horse-with-a-name", "date": "2016-04-01", "genre": "Western / Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joshua Turek (Johnnie)", "Travis Turek (Cole)"], "comments": [], "recommandations_id": []}

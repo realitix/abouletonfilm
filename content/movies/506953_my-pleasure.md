@@ -1,1 +1,0 @@
-{"tmdb_id": 506953, "title": "My Pleasure", "original_title": "My Pleasure", "slug_title": "my-pleasure", "date": "2017-02-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qF20F0NCF01Mhsfm0BpL5OoJcpG.jpg", "actors": [], "comments": [], "recommandations_id": []}

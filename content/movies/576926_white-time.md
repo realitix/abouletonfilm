@@ -1,1 +1,0 @@
-{"tmdb_id": 576926, "title": "White Time", "original_title": "White Time", "slug_title": "white-time", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ebFmpXhxpVkRHScKer56BIk6567.jpg", "actors": [], "comments": [], "recommandations_id": []}

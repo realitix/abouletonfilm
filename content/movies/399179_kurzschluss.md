@@ -1,1 +1,0 @@
-{"tmdb_id": 399179, "title": "Kurzschluss", "original_title": "Kurzschluss", "slug_title": "kurzschluss", "date": "2009-05-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zABke42lD4X7W5DIpfS2xFcfRNx.jpg", "actors": [], "comments": [], "recommandations_id": []}

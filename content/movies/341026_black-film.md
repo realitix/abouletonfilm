@@ -1,1 +1,0 @@
-{"tmdb_id": 341026, "title": "Black Film", "original_title": "Crni film", "slug_title": "black-film", "date": "1971-02-22", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7OyIGHjMvguSCMnL3lcY5ncofam.jpg", "actors": ["Zelimir Zilnik (Himself)"], "comments": [], "recommandations_id": []}

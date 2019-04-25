@@ -1,1 +1,0 @@
-{"tmdb_id": 506846, "title": "Caddy Shack-up", "original_title": "Caddy Shack-up", "slug_title": "caddy-shack-up", "date": "1986-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Krista Lane ()", "Tanya Foxx ()", "Paula Harlow ()", "Lorrie Lovett ()", "Steve Drake ()"], "comments": [], "recommandations_id": []}

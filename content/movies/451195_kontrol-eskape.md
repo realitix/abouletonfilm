@@ -1,1 +1,0 @@
-{"tmdb_id": 451195, "title": "Kontrol-Eskape", "original_title": "Kontrol-Eskape", "slug_title": "kontrol-eskape", "date": "", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 456441, "title": "Your Technocracy and Mine", "original_title": "Your Technocracy and Mine", "slug_title": "your-technocracy-and-mine", "date": "1933-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Benchley ()"], "comments": [], "recommandations_id": []}

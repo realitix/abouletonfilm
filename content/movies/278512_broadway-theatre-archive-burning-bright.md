@@ -1,1 +1,0 @@
-{"tmdb_id": 278512, "title": "Broadway Theatre Archive: Burning Bright", "original_title": "Broadway Theatre Archive: Burning Bright", "slug_title": "broadway-theatre-archive-burning-bright", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

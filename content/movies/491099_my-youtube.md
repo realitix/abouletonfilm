@@ -1,1 +1,1 @@
-{"tmdb_id": 491099, "title": "My Youtube", "original_title": "My Youtube", "slug_title": "my-youtube", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 491099, "title": "My Youtube", "original_title": "My Youtube", "slug_title": "my-youtube", "date": "", "genre": [""], "score": "8.0/10", "synopsis": "An homage to Guy Maddin's My Winnipeg", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

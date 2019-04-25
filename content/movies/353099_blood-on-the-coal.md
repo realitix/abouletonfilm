@@ -1,1 +1,0 @@
-{"tmdb_id": 353099, "title": "Blood on the Coal", "original_title": "Blood on the Coal", "slug_title": "blood-on-the-coal", "date": "2015-08-12", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/28AeII311MCMYWkRwTG2VjA7bGq.jpg", "actors": ["Jack Thompson (Narrator)"], "comments": [], "recommandations_id": []}

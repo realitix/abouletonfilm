@@ -1,1 +1,0 @@
-{"tmdb_id": 462679, "title": "Les Poissons", "original_title": "Les Poissons", "slug_title": "les-poissons", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

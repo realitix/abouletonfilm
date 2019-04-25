@@ -1,1 +1,0 @@
-{"tmdb_id": 432318, "title": "Men Seeking Women", "original_title": "Men Seeking Women", "slug_title": "men-seeking-women", "date": "2007-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

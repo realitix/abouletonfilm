@@ -1,1 +1,0 @@
-{"tmdb_id": 62222, "title": "Cracking the Da Vinci Code", "original_title": "Cracking the Da Vinci Code", "slug_title": "cracking-the-da-vinci-code", "date": "2004-11-02", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/msRM9usnayC32XjmV5dT6XKKsZ5.jpg", "actors": [], "comments": [], "recommandations_id": []}

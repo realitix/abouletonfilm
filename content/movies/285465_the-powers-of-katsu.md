@@ -1,1 +1,0 @@
-{"tmdb_id": 285465, "title": "The Powers of Katsu", "original_title": "The Powers of Katsu", "slug_title": "the-powers-of-katsu", "date": "2010-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oBtXjUre8eKEwcsABjg3mql2gky.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 569347, "title": "Les mannequins d'osier", "original_title": "Les mannequins d'osier", "slug_title": "les-mannequins-d-osier", "date": "1989-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kZ5IjtNI5FNCmM0fgvvuzz7qVk3.jpg", "actors": [], "comments": [], "recommandations_id": []}

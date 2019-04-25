@@ -1,1 +1,0 @@
-{"tmdb_id": 342786, "title": "Rubble Kings", "original_title": "Rubble Kings", "slug_title": "rubble-kings", "date": "2015-06-19", "genre": "Documentaire", "score": "7.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v3vO4e3ZXERgZt6EoJHWsRKGZCI.jpg", "actors": [], "comments": [], "recommandations_id": [333350]}

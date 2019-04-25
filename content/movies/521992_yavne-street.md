@@ -1,1 +1,1 @@
-{"tmdb_id": 521992, "title": "Yavne Street", "original_title": "Yavne Street", "slug_title": "yavne-street", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 521992, "title": "Yavne Street", "original_title": "Yavne Street", "slug_title": "yavne-street", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A film by David Perlov", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

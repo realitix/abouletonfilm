@@ -1,1 +1,0 @@
-{"tmdb_id": 388818, "title": "Dizzy Gillespie in Redondo", "original_title": "Dizzy Gillespie in Redondo", "slug_title": "dizzy-gillespie-in-redondo", "date": "1981-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ray Brown (Self)"], "comments": [], "recommandations_id": []}

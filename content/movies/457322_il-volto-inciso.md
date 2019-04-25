@@ -1,1 +1,0 @@
-{"tmdb_id": 457322, "title": "Il volto inciso", "original_title": "Il volto inciso", "slug_title": "il-volto-inciso", "date": "1984-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

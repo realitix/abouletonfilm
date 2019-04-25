@@ -1,1 +1,0 @@
-{"tmdb_id": 402587, "title": "American Pie", "original_title": "American Pie", "slug_title": "american-pie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

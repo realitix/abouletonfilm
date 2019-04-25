@@ -1,1 +1,0 @@
-{"tmdb_id": 539560, "title": "Mam'zelle Spahi", "original_title": "Mam'zelle Spahi", "slug_title": "mam-zelle-spahi", "date": "1934-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zaNYxtZWfGu9KELTqzBMO6zwU4U.jpg", "actors": [], "comments": [], "recommandations_id": []}

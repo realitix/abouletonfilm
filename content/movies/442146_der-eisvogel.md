@@ -1,1 +1,0 @@
-{"tmdb_id": 442146, "title": "Der Eisvogel", "original_title": "Der Eisvogel", "slug_title": "der-eisvogel", "date": "1980-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Axel von Ambesser (Sir Cecil)", "Alice Treff (Evelyn)", "Karl Sch\u00f6nb\u00f6ck (Hawkins)"], "comments": [], "recommandations_id": []}

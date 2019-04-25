@@ -1,1 +1,0 @@
-{"tmdb_id": 515545, "title": "Superbook: He is Risen! The Resurrection of Jesus", "original_title": "Superbook: He is Risen! The Resurrection of Jesus", "slug_title": "superbook-he-is-risen-the-resurrection-of-jesus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

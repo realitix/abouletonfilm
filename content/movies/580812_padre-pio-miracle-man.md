@@ -1,1 +1,0 @@
-{"tmdb_id": 580812, "title": "Padre Pio Miracle Man", "original_title": "Padre Pio Miracle Man", "slug_title": "padre-pio-miracle-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nDGPKIrASEveg7WT3fhGpWifbqM.jpg", "actors": [], "comments": [], "recommandations_id": []}

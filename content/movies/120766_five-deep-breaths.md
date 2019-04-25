@@ -1,1 +1,0 @@
-{"tmdb_id": 120766, "title": "Five Deep Breaths", "original_title": "Five Deep Breaths", "slug_title": "five-deep-breaths", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jamie Hector (Banny)", "Anslem Richardson (Mark)", "Curtiss Cook (Eric)", "Edrick Browne (Smoke)"], "comments": [], "recommandations_id": []}

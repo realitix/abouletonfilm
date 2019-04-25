@@ -1,1 +1,0 @@
-{"tmdb_id": 513404, "title": "When We Talk About KGB", "original_title": "A\u0161 u\u017e tave pakalb\u0117siu", "slug_title": "when-we-talk-about-kgb", "date": "2015-10-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ftRO5g2lpamBKaRLa4SBkLqyTVM.jpg", "actors": [], "comments": [], "recommandations_id": []}

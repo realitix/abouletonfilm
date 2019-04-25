@@ -1,1 +1,0 @@
-{"tmdb_id": 463667, "title": "Luntiang Paraiso", "original_title": "Luntiang Paraiso", "slug_title": "luntiang-paraiso", "date": "2017-07-01", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9IF7n7YkDm0vxeR92z7o9El5CQU.jpg", "actors": [], "comments": [], "recommandations_id": []}

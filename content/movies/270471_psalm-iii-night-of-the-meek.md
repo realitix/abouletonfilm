@@ -1,1 +1,0 @@
-{"tmdb_id": 270471, "title": "Psalm III: Night of the Meek", "original_title": "Psalm III: Night of the Meek", "slug_title": "psalm-iii-night-of-the-meek", "date": "2002-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kvIANVWRWJJOWx4NP9iTLSHpFr8.jpg", "actors": [], "comments": [], "recommandations_id": []}

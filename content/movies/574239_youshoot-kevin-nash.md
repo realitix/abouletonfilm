@@ -1,1 +1,0 @@
-{"tmdb_id": 574239, "title": "YouShoot: Kevin Nash", "original_title": "YouShoot: Kevin Nash", "slug_title": "youshoot-kevin-nash", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Kevin Nash (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 370792, "title": "Cabaret Crusades Trilogy", "original_title": "Cabaret Crusades Trilogy", "slug_title": "cabaret-crusades-trilogy", "date": "2013-12-01", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/45fcwaqWxudCpYku2Ko7PHV1WEg.jpg", "actors": [], "comments": [], "recommandations_id": []}

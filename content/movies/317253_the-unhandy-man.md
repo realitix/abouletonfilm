@@ -1,1 +1,0 @@
-{"tmdb_id": 317253, "title": "The Unhandy Man", "original_title": "The Unhandy Man", "slug_title": "the-unhandy-man", "date": "1970-01-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rqk4CY7wZMS4LW5VGqdEKVv1RpG.jpg", "actors": [], "comments": [], "recommandations_id": []}

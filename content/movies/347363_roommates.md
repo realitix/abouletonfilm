@@ -1,1 +1,0 @@
-{"tmdb_id": 347363, "title": "Roommates", "original_title": "Roommates", "slug_title": "roommates", "date": "2006-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eenhaxU1KL4aqHNg4ikzeEZJRih.jpg", "actors": ["Allari Naresh ()", "Navaneet Kaur ()"], "comments": [], "recommandations_id": []}

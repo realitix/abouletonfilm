@@ -1,1 +1,0 @@
-{"tmdb_id": 193395, "title": "U.S. Troops Landing at Daiquiri, Cuba", "original_title": "U.S. Troops Landing at Daiquiri, Cuba", "slug_title": "u-s-troops-landing-at-daiquiri-cuba", "date": "1898-08-01", "genre": "", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

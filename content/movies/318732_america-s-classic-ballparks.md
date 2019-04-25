@@ -1,1 +1,0 @@
-{"tmdb_id": 318732, "title": "America's Classic Ballparks", "original_title": "America's Classic Ballparks", "slug_title": "america-s-classic-ballparks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

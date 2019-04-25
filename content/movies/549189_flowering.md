@@ -1,1 +1,0 @@
-{"tmdb_id": 549189, "title": "Flowering", "original_title": "Flowering", "slug_title": "flowering", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 318810, "title": "What Ever Happened to Alice?", "original_title": "What Ever Happened to Alice?", "slug_title": "what-ever-happened-to-alice", "date": "2003-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

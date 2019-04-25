@@ -1,1 +1,0 @@
-{"tmdb_id": 540371, "title": "\u4e09\u7b11\u4e4b\u624d\u5b50\u4f73\u4eba", "original_title": "\u4e09\u7b11\u4e4b\u624d\u5b50\u4f73\u4eba", "slug_title": "san-xiao-zhi-cai-zi-jia-ren", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

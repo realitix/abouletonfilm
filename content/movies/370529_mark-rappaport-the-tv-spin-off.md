@@ -1,1 +1,0 @@
-{"tmdb_id": 370529, "title": "Mark Rappaport: The TV Spin-Off", "original_title": "Mark Rappaport: The TV Spin-Off", "slug_title": "mark-rappaport-the-tv-spin-off", "date": "1980-11-30", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rafJPSOWIQXpiNqKpS2TkMO0c5D.jpg", "actors": [], "comments": [], "recommandations_id": []}

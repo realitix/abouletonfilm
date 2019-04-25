@@ -1,1 +1,0 @@
-{"tmdb_id": 207374, "title": "Cowboys in India", "original_title": "Cowboys in India", "slug_title": "cowboys-in-india", "date": "2009-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

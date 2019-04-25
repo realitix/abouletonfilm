@@ -1,1 +1,0 @@
-{"tmdb_id": 519779, "title": "Half Widow", "original_title": "Half Widow", "slug_title": "half-widow", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f4nI3tzNQoyfpVBqBFLNQIySHFX.jpg", "actors": [], "comments": [], "recommandations_id": []}

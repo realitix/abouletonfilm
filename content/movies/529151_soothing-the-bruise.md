@@ -1,1 +1,0 @@
-{"tmdb_id": 529151, "title": "Soothing the Bruise", "original_title": "Soothing the Bruise", "slug_title": "soothing-the-bruise", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

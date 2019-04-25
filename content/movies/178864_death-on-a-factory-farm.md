@@ -1,1 +1,0 @@
-{"tmdb_id": 178864, "title": "Death on a Factory Farm", "original_title": "Death on a Factory Farm", "slug_title": "death-on-a-factory-farm", "date": "2009-03-16", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nI2ZyYOaz8nJ4QJDuu71UAZcM01.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 260265, "title": "What Is War?", "original_title": "\u00bfQu\u00e9 es la guerra?", "slug_title": "what-is-war", "date": "2013-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mUN4TZcb5euX2TtRAvusN2i261c.jpg", "actors": [], "comments": [], "recommandations_id": []}

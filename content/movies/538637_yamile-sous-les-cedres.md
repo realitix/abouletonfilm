@@ -1,1 +1,0 @@
-{"tmdb_id": 538637, "title": "Yamil\u00e9 sous les c\u00e8dres", "original_title": "Yamil\u00e9 sous les c\u00e8dres", "slug_title": "yamile-sous-les-cedres", "date": "1939-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hcm8ObmBKmX3hsxizg4Vjcxmx2r.jpg", "actors": [], "comments": [], "recommandations_id": []}

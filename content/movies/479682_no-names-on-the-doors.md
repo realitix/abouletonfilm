@@ -1,1 +1,0 @@
-{"tmdb_id": 479682, "title": "No Names on the Doors", "original_title": "\u05d0\u05d9\u05df \u05e9\u05de\u05d5\u05ea \u05e2\u05dc \u05d4\u05d3\u05dc\u05ea\u05d5\u05ea", "slug_title": "no-names-on-the-doors", "date": "1997-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

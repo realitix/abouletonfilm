@@ -1,1 +1,0 @@
-{"tmdb_id": 560201, "title": "A Good Friend Mom", "original_title": "A Good Friend Mom", "slug_title": "a-good-friend-mom", "date": "2018-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pdz9VaHJXxKuMDaKOvskuK8WGVc.jpg", "actors": [], "comments": [], "recommandations_id": []}

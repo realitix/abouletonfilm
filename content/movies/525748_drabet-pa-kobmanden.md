@@ -1,1 +1,0 @@
-{"tmdb_id": 525748, "title": "Drabet p\u00e5 k\u00f8bmanden", "original_title": "Drabet p\u00e5 k\u00f8bmanden", "slug_title": "drabet-pa-kobmanden", "date": "2018-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Line Gertsen (Herself)"], "comments": [], "recommandations_id": []}

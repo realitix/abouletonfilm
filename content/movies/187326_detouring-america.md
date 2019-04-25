@@ -1,1 +1,0 @@
-{"tmdb_id": 187326, "title": "Detouring America", "original_title": "Detouring America", "slug_title": "detouring-america", "date": "1939-08-23", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vrsnThX31mLqnSTHHzrrWG28941.jpg", "actors": [], "comments": [], "recommandations_id": []}

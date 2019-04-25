@@ -1,1 +1,0 @@
-{"tmdb_id": 556783, "title": "Pepeng Agimat", "original_title": "Pepeng Agimat", "slug_title": "pepeng-agimat", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramon Revilla Sr. ()", "Gloria Romero ()", "Rosemarie Gil ()"], "comments": [], "recommandations_id": []}

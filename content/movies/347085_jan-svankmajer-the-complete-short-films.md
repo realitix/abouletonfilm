@@ -1,1 +1,0 @@
-{"tmdb_id": 347085, "title": "Jan \u0160vankmajer: The Complete Short Films", "original_title": "Jan \u0160vankmajer: The Complete Short Films", "slug_title": "jan-svankmajer-the-complete-short-films", "date": "2007-05-28", "genre": "Animation / Horreur", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

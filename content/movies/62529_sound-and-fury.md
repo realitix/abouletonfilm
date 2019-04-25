@@ -1,1 +1,0 @@
-{"tmdb_id": 62529, "title": "Sound and Fury", "original_title": "Sound and Fury", "slug_title": "sound-and-fury", "date": "2000-10-29", "genre": "Documentaire", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oFnaBXNMeEzhNGlASDI4yjJkE9r.jpg", "actors": [], "comments": [], "recommandations_id": []}

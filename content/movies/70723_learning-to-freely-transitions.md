@@ -1,1 +1,0 @@
-{"tmdb_id": 70723, "title": "Learning to Freely - Transitions", "original_title": "Learning to Freely - Transitions", "slug_title": "learning-to-freely-transitions", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

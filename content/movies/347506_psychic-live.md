@@ -1,1 +1,0 @@
-{"tmdb_id": 347506, "title": "Psychic Live", "original_title": "Psychic Live", "slug_title": "psychic-live", "date": "2015-06-30", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y1sN7aZJaaGiAKCsN7YuQS2ggp8.jpg", "actors": [], "comments": [], "recommandations_id": []}

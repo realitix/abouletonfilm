@@ -1,1 +1,0 @@
-{"tmdb_id": 32145, "title": "Tempting Fate", "original_title": "Tempting Fate", "slug_title": "tempting-fate", "date": "1998-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ufKKzUL7FZmWzmjkgbPJ7cgPVq5.jpg", "actors": [], "comments": [], "recommandations_id": []}

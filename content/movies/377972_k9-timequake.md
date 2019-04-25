@@ -1,1 +1,0 @@
-{"tmdb_id": 377972, "title": "K9 Timequake", "original_title": "K9 Timequake", "slug_title": "k9-timequake", "date": "2017-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pvJPtmdERA9iDWICeAUQgU769Fm.jpg", "actors": ["John Leeson (K9)"], "comments": [], "recommandations_id": []}

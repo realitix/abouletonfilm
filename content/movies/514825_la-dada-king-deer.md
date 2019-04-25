@@ -1,1 +1,0 @@
-{"tmdb_id": 514825, "title": "La Dada - King Deer", "original_title": "La Dada \u2013 K\u00f6nig Hirsch", "slug_title": "la-dada-king-deer", "date": "2016-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

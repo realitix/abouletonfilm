@@ -1,1 +1,0 @@
-{"tmdb_id": 544698, "title": "Estigma", "original_title": "Estigma", "slug_title": "estigma", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

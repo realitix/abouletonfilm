@@ -1,1 +1,0 @@
-{"tmdb_id": 559315, "title": "Les dieux du dimanche", "original_title": "Les dieux du dimanche", "slug_title": "les-dieux-du-dimanche", "date": "1949-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cOB8bS1Fwb2PTa76WVb4kAMr4Mf.jpg", "actors": [], "comments": [], "recommandations_id": []}

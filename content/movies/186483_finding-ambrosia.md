@@ -1,1 +1,0 @@
-{"tmdb_id": 186483, "title": "Finding Ambrosia", "original_title": "Finding Ambrosia", "slug_title": "finding-ambrosia", "date": "2012-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alexander Cook (Old Man)", "Evan Konstantine (Young Man)", "Caitlin Rotman (Young Woman)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 477988, "title": "Adirake", "original_title": "Adirake", "slug_title": "adirake", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

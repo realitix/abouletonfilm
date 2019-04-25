@@ -1,1 +1,0 @@
-{"tmdb_id": 407748, "title": "Stations of the Cross", "original_title": "Stations of the Cross", "slug_title": "stations-of-the-cross", "date": "1990-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

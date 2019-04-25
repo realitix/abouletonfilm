@@ -1,1 +1,0 @@
-{"tmdb_id": 305774, "title": "Princesinha Sofia: O Banquete Encantado", "original_title": "Princesinha Sofia: O Banquete Encantado", "slug_title": "princesinha-sofia-o-banquete-encantado", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

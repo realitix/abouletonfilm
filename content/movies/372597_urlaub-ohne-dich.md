@@ -1,1 +1,0 @@
-{"tmdb_id": 372597, "title": "Urlaub ohne dich", "original_title": "Urlaub ohne dich", "slug_title": "urlaub-ohne-dich", "date": "1961-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ufZ3THk9VkzuWdJNUejCku0ijN.jpg", "actors": [], "comments": [], "recommandations_id": []}

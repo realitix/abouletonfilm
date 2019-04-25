@@ -1,1 +1,0 @@
-{"tmdb_id": 386504, "title": "Exploding Varmints Part 1", "original_title": "Exploding Varmints Part 1", "slug_title": "exploding-varmints-part-1", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/736OrY6Qcn6YHhxYfFHHDBFSrMr.jpg", "actors": [], "comments": [], "recommandations_id": []}

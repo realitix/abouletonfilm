@@ -1,1 +1,0 @@
-{"tmdb_id": 184576, "title": "Scrappy's Ghost Story", "original_title": "Scrappy's Ghost Story", "slug_title": "scrappy-s-ghost-story", "date": "1935-05-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

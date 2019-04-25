@@ -1,1 +1,0 @@
-{"tmdb_id": 504302, "title": "Ice Fever", "original_title": "Ice Fever", "slug_title": "ice-fever", "date": "2016-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 346081, "title": "Sardaarji", "original_title": "Sardaarji", "slug_title": "sardaarji", "date": "2015-06-26", "genre": "", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6AtqQwLypDKlYbfA5KsyWDIkKzU.jpg", "actors": [], "comments": [], "recommandations_id": [307472, 216969, 482890, 418359]}

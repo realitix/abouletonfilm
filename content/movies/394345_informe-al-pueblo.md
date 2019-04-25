@@ -1,1 +1,0 @@
-{"tmdb_id": 394345, "title": "Informe al pueblo", "original_title": "Informe al pueblo", "slug_title": "informe-al-pueblo", "date": "1948-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o9d0k8wJog8dALzgPF3G8FofJl0.jpg", "actors": [], "comments": [], "recommandations_id": []}

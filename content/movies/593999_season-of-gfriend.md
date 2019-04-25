@@ -1,1 +1,0 @@
-{"tmdb_id": 593999, "title": "Season of GFriend", "original_title": "Season of GFriend", "slug_title": "season-of-gfriend", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1YjBAKTRXqyzZ03qH2OLRQfsjWm.jpg", "actors": [], "comments": [], "recommandations_id": []}

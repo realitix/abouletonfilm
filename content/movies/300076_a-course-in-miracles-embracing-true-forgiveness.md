@@ -1,1 +1,0 @@
-{"tmdb_id": 300076, "title": "A Course in Miracles: Embracing True Forgiveness", "original_title": "A Course in Miracles: Embracing True Forgiveness", "slug_title": "a-course-in-miracles-embracing-true-forgiveness", "date": "2012-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

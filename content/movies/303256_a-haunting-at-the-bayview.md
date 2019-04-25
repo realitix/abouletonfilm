@@ -1,1 +1,0 @@
-{"tmdb_id": 303256, "title": "A Haunting At The Bayview", "original_title": "A Haunting At The Bayview", "slug_title": "a-haunting-at-the-bayview", "date": "2013-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

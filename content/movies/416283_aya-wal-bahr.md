@@ -1,1 +1,0 @@
-{"tmdb_id": 416283, "title": "Aya Wal Bahr", "original_title": "Aya Wal Bahr", "slug_title": "aya-wal-bahr", "date": "2015-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sFTYx8pEwz1iqqOfocCH4qhCUWB.jpg", "actors": [], "comments": [], "recommandations_id": []}

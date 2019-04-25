@@ -1,1 +1,0 @@
-{"tmdb_id": 387535, "title": "Terreno de juego", "original_title": "Terreno de juego", "slug_title": "terreno-de-juego", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

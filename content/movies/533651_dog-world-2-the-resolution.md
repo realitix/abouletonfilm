@@ -1,1 +1,0 @@
-{"tmdb_id": 533651, "title": "Dog World 2: The Resolution", "original_title": "Mundo Perro 2", "slug_title": "dog-world-2-the-resolution", "date": "2009-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kmBNJCu2MqYO2uK3QpEFliCIkOM.jpg", "actors": [], "comments": [], "recommandations_id": []}

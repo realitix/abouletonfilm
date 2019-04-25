@@ -1,1 +1,0 @@
-{"tmdb_id": 475514, "title": "Lollos 7: Laat jou bene bewe", "original_title": "Lollos 7: Laat jou bene bewe", "slug_title": "lollos-7-laat-jou-bene-bewe", "date": "2015-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h13jh5h0usqrYoPvwZUx1kB5aPy.jpg", "actors": [], "comments": [], "recommandations_id": []}

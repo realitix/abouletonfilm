@@ -1,1 +1,0 @@
-{"tmdb_id": 228343, "title": "Captivity Detective", "original_title": "Kankin Tantei - The Movie", "slug_title": "captivity-detective", "date": "2013-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nKqryAs4Zlu2iGRtwtmjOi34B31.jpg", "actors": [], "comments": [], "recommandations_id": []}

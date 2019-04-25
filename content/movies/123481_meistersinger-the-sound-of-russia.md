@@ -1,1 +1,0 @@
-{"tmdb_id": 123481, "title": "Meistersinger: The Sound of Russia", "original_title": "Meistersinger: The Sound of Russia", "slug_title": "meistersinger-the-sound-of-russia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

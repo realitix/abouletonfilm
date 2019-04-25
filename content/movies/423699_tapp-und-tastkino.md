@@ -1,1 +1,0 @@
-{"tmdb_id": 423699, "title": "TAPP und TASTKINO", "original_title": "TAPP und TASTKINO", "slug_title": "tapp-und-tastkino", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kY00emOv735mgpWGR70SG8N3zAV.jpg", "actors": [], "comments": [], "recommandations_id": []}

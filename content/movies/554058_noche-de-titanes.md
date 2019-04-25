@@ -1,1 +1,1 @@
-{"tmdb_id": 554058, "title": "Noche de Titanes", "original_title": "Noche de Titanes", "slug_title": "noche-de-titanes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 554058, "title": "Noche de Titanes", "original_title": "Noche de Titanes", "slug_title": "noche-de-titanes", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

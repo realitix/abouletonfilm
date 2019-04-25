@@ -1,1 +1,0 @@
-{"tmdb_id": 355897, "title": "Look at Me Again", "original_title": "Look at Me Again", "slug_title": "look-at-me-again", "date": "2010-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

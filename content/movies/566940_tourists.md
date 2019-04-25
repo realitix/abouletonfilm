@@ -1,1 +1,0 @@
-{"tmdb_id": 566940, "title": "Tourists", "original_title": "Turysci", "slug_title": "tourists", "date": "2017-08-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yRReEDZxWg1x11jb1supPclbU5S.jpg", "actors": [], "comments": [], "recommandations_id": []}

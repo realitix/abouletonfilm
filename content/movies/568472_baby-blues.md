@@ -1,1 +1,0 @@
-{"tmdb_id": 568472, "title": "Baby Blues", "original_title": "Baby Blues", "slug_title": "baby-blues", "date": "1988-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/veO8Glzya45TxErVttLEJjlH2Tz.jpg", "actors": [], "comments": [], "recommandations_id": []}

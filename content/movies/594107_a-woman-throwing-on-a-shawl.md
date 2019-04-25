@@ -1,1 +1,0 @@
-{"tmdb_id": 594107, "title": "A Woman Throwing on a Shawl", "original_title": "A Woman Throwing on a Shawl", "slug_title": "a-woman-throwing-on-a-shawl", "date": "1887-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8DXJ7FmzN2FRqWLmxcXvqphbHLV.jpg", "actors": [], "comments": [], "recommandations_id": []}

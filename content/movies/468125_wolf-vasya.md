@@ -1,1 +1,0 @@
-{"tmdb_id": 468125, "title": "Wolf Vasya", "original_title": "\u0412\u043e\u043b\u043a \u0412\u0430\u0441\u044f", "slug_title": "wolf-vasya", "date": "2016-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rikaH2nr5UNUHVPLU87eI37jZ52.jpg", "actors": [], "comments": [], "recommandations_id": []}

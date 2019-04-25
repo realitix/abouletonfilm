@@ -1,1 +1,0 @@
-{"tmdb_id": 292815, "title": "The Dragon Is the Frame", "original_title": "The Dragon Is the Frame", "slug_title": "the-dragon-is-the-frame", "date": "2014-09-05", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vYlwygXGAfTGZAQPjzWKUYLiAkZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

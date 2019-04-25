@@ -1,1 +1,0 @@
-{"tmdb_id": 577972, "title": "The White Album", "original_title": "The White Album", "slug_title": "the-white-album", "date": "2018-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

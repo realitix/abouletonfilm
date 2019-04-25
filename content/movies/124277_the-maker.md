@@ -1,1 +1,0 @@
-{"tmdb_id": 124277, "title": "The Maker", "original_title": "The Maker", "slug_title": "the-maker", "date": "2011-06-23", "genre": "Animation", "score": "7.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4geL2tHSHECuG0WjHYMxaUidiWa.jpg", "actors": [], "comments": [], "recommandations_id": [75825, 52803, 48520, 72801]}

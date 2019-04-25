@@ -1,1 +1,0 @@
-{"tmdb_id": 61103, "title": "Doro - F\u00fcr Immer", "original_title": "Doro - F\u00fcr Immer", "slug_title": "doro-fur-immer", "date": "2003-12-01", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zPRYDvD1Jsfc0prlS1nOBMduCex.jpg", "actors": ["Doro Pesch ()"], "comments": [], "recommandations_id": []}

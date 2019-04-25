@@ -1,1 +1,0 @@
-{"tmdb_id": 420561, "title": "Guide to Digital Cameras", "original_title": "Guide to Digital Cameras", "slug_title": "guide-to-digital-cameras", "date": "2005-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

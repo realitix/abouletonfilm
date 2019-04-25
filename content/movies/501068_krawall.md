@@ -1,1 +1,0 @@
-{"tmdb_id": 501068, "title": "Krawall", "original_title": "Krawall", "slug_title": "krawall", "date": "1970-11-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

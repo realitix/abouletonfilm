@@ -1,1 +1,0 @@
-{"tmdb_id": 497131, "title": "Junges Blut", "original_title": "Junges Blut", "slug_title": "junges-blut", "date": "1936-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

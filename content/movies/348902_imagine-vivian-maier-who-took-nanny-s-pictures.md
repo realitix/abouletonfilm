@@ -1,1 +1,0 @@
-{"tmdb_id": 348902, "title": "\"Imagine\" Vivian Maier: Who Took Nanny's Pictures?", "original_title": "\"Imagine\" Vivian Maier: Who Took Nanny's Pictures?", "slug_title": "imagine-vivian-maier-who-took-nanny-s-pictures", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

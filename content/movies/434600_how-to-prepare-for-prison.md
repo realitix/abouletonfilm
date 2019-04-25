@@ -1,1 +1,0 @@
-{"tmdb_id": 434600, "title": "How to Prepare for Prison", "original_title": "How to Prepare for Prison", "slug_title": "how-to-prepare-for-prison", "date": "2016-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r57MzOllGUKJ6wuVtolj1ADiM7z.jpg", "actors": [], "comments": [], "recommandations_id": []}

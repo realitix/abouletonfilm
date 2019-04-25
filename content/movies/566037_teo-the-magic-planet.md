@@ -1,1 +1,0 @@
-{"tmdb_id": 566037, "title": "Teo the Magic Planet", "original_title": "Teo the Magic Planet", "slug_title": "teo-the-magic-planet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4WDqgBkQiCiC2ija57Uh3GG654w.jpg", "actors": [], "comments": [], "recommandations_id": []}

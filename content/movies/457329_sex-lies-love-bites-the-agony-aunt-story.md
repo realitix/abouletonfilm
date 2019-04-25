@@ -1,1 +1,0 @@
-{"tmdb_id": 457329, "title": "Sex, Lies & Love Bites: The Agony Aunt Story", "original_title": "Sex, Lies & Love Bites: The Agony Aunt Story", "slug_title": "sex-lies-love-bites-the-agony-aunt-story", "date": "2015-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

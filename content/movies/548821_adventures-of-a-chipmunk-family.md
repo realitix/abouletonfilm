@@ -1,1 +1,0 @@
-{"tmdb_id": 548821, "title": "Adventures Of A Chipmunk Family", "original_title": "Adventures Of A Chipmunk Family", "slug_title": "adventures-of-a-chipmunk-family", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

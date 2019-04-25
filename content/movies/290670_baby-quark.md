@@ -1,1 +1,0 @@
-{"tmdb_id": 290670, "title": "Baby Quark", "original_title": "Baby Quark", "slug_title": "baby-quark", "date": "1987-12-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d5TX9jzfFb9GmrCzxDP1lKXUHvS.jpg", "actors": ["John Cleese ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 484664, "title": "Marlene", "original_title": "Marlene", "slug_title": "marlene", "date": "2018-03-31", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["August Schm\u00f6lzer (Boss)", "Eva Maria Marold (Kaiserin)", "David Miesmer (B\u00f6sewicht)"], "comments": [], "recommandations_id": []}

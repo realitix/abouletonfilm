@@ -1,1 +1,0 @@
-{"tmdb_id": 317554, "title": "Betty Boop: America's Sweetheart", "original_title": "Betty Boop: America's Sweetheart", "slug_title": "betty-boop-america-s-sweetheart", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

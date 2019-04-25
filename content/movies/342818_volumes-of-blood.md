@@ -1,1 +1,0 @@
-{"tmdb_id": 342818, "title": "Volumes of Blood", "original_title": "Volumes of Blood", "slug_title": "volumes-of-blood", "date": "2015-03-13", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9eZpKwyh0NKMmEp07TMxniJmnOQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

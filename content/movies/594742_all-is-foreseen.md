@@ -1,1 +1,0 @@
-{"tmdb_id": 594742, "title": "All Is Foreseen", "original_title": "All Is Foreseen", "slug_title": "all-is-foreseen", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e0kED4IkhgkpinMUHvNYL3aG8Q3.jpg", "actors": [], "comments": [], "recommandations_id": []}

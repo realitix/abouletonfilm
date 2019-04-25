@@ -1,1 +1,0 @@
-{"tmdb_id": 392577, "title": "Travestis Asesinas", "original_title": "Travestis Asesinas", "slug_title": "travestis-asesinas", "date": "2013-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gLcArWwJnWvjWLVV8Yj72ZvGqYb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 499969, "title": "Madness in the Desert", "original_title": "Madness in the Desert", "slug_title": "madness-in-the-desert", "date": "2004-06-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7j6hcgJGEjrQqL20lu53i7UM14f.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 511946, "title": "Der Vulkan Lebt", "original_title": "Der Vulkan Lebt", "slug_title": "der-vulkan-lebt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 270943, "title": "Golden Bird", "original_title": "Aranymad\u00e1r", "slug_title": "golden-bird", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1mIqSHOEVaf30ydtfmkG9KpKxsO.jpg", "actors": [], "comments": [], "recommandations_id": []}

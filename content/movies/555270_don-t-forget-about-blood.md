@@ -1,1 +1,0 @@
-{"tmdb_id": 555270, "title": "Don't Forget About Blood", "original_title": "Ne pozabi na kri", "slug_title": "don-t-forget-about-blood", "date": "1981-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

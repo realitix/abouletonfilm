@@ -1,1 +1,0 @@
-{"tmdb_id": 292110, "title": "Eternal Damn Nation", "original_title": "Eternal Damn Nation", "slug_title": "eternal-damn-nation", "date": "2014-03-19", "genre": "Thriller / Horreur / Action", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kggYCA9vOghDUlvpnE6QQIkOYzr.jpg", "actors": [], "comments": [], "recommandations_id": []}

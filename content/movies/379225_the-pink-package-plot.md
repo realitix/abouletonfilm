@@ -1,1 +1,0 @@
-{"tmdb_id": 379225, "title": "The Pink Package Plot", "original_title": "The Pink Package Plot", "slug_title": "the-pink-package-plot", "date": "1968-12-11", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/scmuOPEr5wH8t4T5oNNIgtgNsZU.jpg", "actors": [], "comments": [], "recommandations_id": []}

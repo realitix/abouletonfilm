@@ -1,1 +1,0 @@
-{"tmdb_id": 388499, "title": "Uma Visita Para Elizabeth Teixeira", "original_title": "Uma Visita Para Elizabeth Teixeira", "slug_title": "uma-visita-para-elizabeth-teixeira", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

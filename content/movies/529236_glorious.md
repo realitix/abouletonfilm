@@ -1,1 +1,0 @@
-{"tmdb_id": 529236, "title": "Glorious", "original_title": "Glorious", "slug_title": "glorious", "date": "2016-01-01", "genre": "Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4yfu8sQSCRWB9KCGqZKKpdjcqTc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 168163, "title": "Tough Bond", "original_title": "Tough Bond", "slug_title": "tough-bond", "date": "2013-02-13", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bwU9MxtLDR3VwCtrR5rVGkvb0W2.jpg", "actors": [], "comments": [], "recommandations_id": []}

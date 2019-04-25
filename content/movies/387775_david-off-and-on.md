@@ -1,1 +1,0 @@
-{"tmdb_id": 387775, "title": "David: Off and On", "original_title": "David: Off and On", "slug_title": "david-off-and-on", "date": "1972-10-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Martha Coolidge (Herself - interviewer)"], "comments": [], "recommandations_id": []}

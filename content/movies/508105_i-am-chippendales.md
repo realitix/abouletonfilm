@@ -1,1 +1,0 @@
-{"tmdb_id": 508105, "title": "I Am Chippendales", "original_title": "I Am Chippendales", "slug_title": "i-am-chippendales", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dev Patel (Steve Banerjee)", "Ben Stiller (Nick DeNoia)"], "comments": [], "recommandations_id": [509400, 460465, 155129, 453399]}

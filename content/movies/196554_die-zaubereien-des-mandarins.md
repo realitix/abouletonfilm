@@ -1,1 +1,0 @@
-{"tmdb_id": 196554, "title": "Die Zaubereien des Mandarins", "original_title": "Die Zaubereien des Mandarins", "slug_title": "die-zaubereien-des-mandarins", "date": "1909-05-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

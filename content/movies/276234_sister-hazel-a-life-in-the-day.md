@@ -1,1 +1,0 @@
-{"tmdb_id": 276234, "title": "Sister Hazel: A Life in the Day", "original_title": "Sister Hazel: A Life in the Day", "slug_title": "sister-hazel-a-life-in-the-day", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/trOojiKQu4Hfq6KC9h1ZkktgMyj.jpg", "actors": [], "comments": [], "recommandations_id": []}

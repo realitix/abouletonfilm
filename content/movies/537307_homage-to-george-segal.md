@@ -1,1 +1,0 @@
-{"tmdb_id": 537307, "title": "Homage to George Segal", "original_title": "Homenagem a George Segal", "slug_title": "homage-to-george-segal", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bp5yl0DoSrMQePzWUAhwRGxXEvs.jpg", "actors": [], "comments": [], "recommandations_id": []}

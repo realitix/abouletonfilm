@@ -1,1 +1,0 @@
-{"tmdb_id": 531514, "title": "How to Keep Slim", "original_title": "Tak na to?", "slug_title": "how-to-keep-slim", "date": "1963-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

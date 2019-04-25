@@ -1,1 +1,0 @@
-{"tmdb_id": 464837, "title": "Two Trams", "original_title": "\u0414\u0432\u0430 \u0442\u0440\u0430\u043c\u0432\u0430\u044f", "slug_title": "two-trams", "date": "2017-06-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w7KqA6bPqZhDQ0F8HIksN2gwr0I.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 473125, "title": "La casa delle vedove", "original_title": "La casa delle vedove", "slug_title": "la-casa-delle-vedove", "date": "1960-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

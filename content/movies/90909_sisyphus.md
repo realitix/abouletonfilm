@@ -1,1 +1,0 @@
-{"tmdb_id": 90909, "title": "Sisyphus", "original_title": "Sisyphus", "slug_title": "sisyphus", "date": "1974-10-01", "genre": "Animation", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1JpXYLgqHFCglYxtW6QNd9LgCKn.jpg", "actors": [], "comments": [], "recommandations_id": [85791, 175455, 174298, 190081]}

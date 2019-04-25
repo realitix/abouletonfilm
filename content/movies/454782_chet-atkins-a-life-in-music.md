@@ -1,1 +1,0 @@
-{"tmdb_id": 454782, "title": "Chet Atkins: A Life in Music", "original_title": "Chet Atkins: A Life in Music", "slug_title": "chet-atkins-a-life-in-music", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

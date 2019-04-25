@@ -1,1 +1,0 @@
-{"tmdb_id": 101543, "title": "Outpost", "original_title": "Outpost", "slug_title": "outpost", "date": "1944-08-15", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mel Blanc (Pvt. Snafu)", "Robert C. Bruce (Narrator (voice))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 203978, "title": "A True Story", "original_title": "Yek Dastan-e Vaghe'i", "slug_title": "a-true-story", "date": "1991-04-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cQdXiW5DizN6vupYXTgeMP8JEUs.jpg", "actors": [], "comments": [], "recommandations_id": []}

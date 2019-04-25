@@ -1,1 +1,0 @@
-{"tmdb_id": 591047, "title": "In the Middle of Dark", "original_title": "Au beau milieu du noir", "slug_title": "in-the-middle-of-dark", "date": "2018-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3HhPTX57wertL6ofW9ldRMRqqcY.jpg", "actors": [], "comments": [], "recommandations_id": []}

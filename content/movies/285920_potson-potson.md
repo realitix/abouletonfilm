@@ -1,1 +1,0 @@
-{"tmdb_id": 285920, "title": "Potson-Potson", "original_title": "Potson-Potson", "slug_title": "potson-potson", "date": "1990-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k5x26ohG3c9P7HyDgIcq1Pz50l3.jpg", "actors": [], "comments": [], "recommandations_id": []}

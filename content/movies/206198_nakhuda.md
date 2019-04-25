@@ -1,1 +1,0 @@
-{"tmdb_id": 206198, "title": "Nakhuda", "original_title": "Nakhuda", "slug_title": "nakhuda", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w8vV6W4uEaBlBLFX848a1g7Sf9R.jpg", "actors": [], "comments": [], "recommandations_id": []}

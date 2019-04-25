@@ -1,1 +1,0 @@
-{"tmdb_id": 414972, "title": "Werden Sie Deutscher", "original_title": "Werden Sie Deutscher", "slug_title": "werden-sie-deutscher", "date": "2013-03-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AcJH9d9Eqk0XVFmpKtjHV3iuzXV.jpg", "actors": [], "comments": [], "recommandations_id": []}

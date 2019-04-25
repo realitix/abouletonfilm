@@ -1,1 +1,0 @@
-{"tmdb_id": 371871, "title": "Bird in Hand", "original_title": "Bird in Hand", "slug_title": "bird-in-hand", "date": "2015-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andrew Westhoff (Andy)", "Mona Fox (Mona)", "Valerie Boucvalt (Val)", "Benjamin Boucvalt (Ben)"], "comments": [], "recommandations_id": []}

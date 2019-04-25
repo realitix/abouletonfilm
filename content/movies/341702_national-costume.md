@@ -1,1 +1,0 @@
-{"tmdb_id": 341702, "title": "National Costume", "original_title": "Narodna no\u0161a", "slug_title": "national-costume", "date": "1975-05-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yHA1DLSOM6XtgP5EUEo6IVXeXvv.jpg", "actors": [], "comments": [], "recommandations_id": []}

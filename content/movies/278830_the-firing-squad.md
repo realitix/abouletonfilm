@@ -1,1 +1,0 @@
-{"tmdb_id": 278830, "title": "The Firing Squad", "original_title": "The Firing Squad", "slug_title": "the-firing-squad", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

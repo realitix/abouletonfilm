@@ -1,1 +1,0 @@
-{"tmdb_id": 559209, "title": "La parade du rire", "original_title": "La parade du rire", "slug_title": "la-parade-du-rire", "date": "1948-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/41K6uhB5KlI6tGEFd3tFdkyXujg.jpg", "actors": [], "comments": [], "recommandations_id": []}

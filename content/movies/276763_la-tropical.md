@@ -1,1 +1,0 @@
-{"tmdb_id": 276763, "title": "La Tropical", "original_title": "La Tropical", "slug_title": "la-tropical", "date": "2002-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/awO7uhoAG1uNmOC90NPckca4iK5.jpg", "actors": [], "comments": [], "recommandations_id": []}

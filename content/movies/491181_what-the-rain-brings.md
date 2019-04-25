@@ -1,1 +1,0 @@
-{"tmdb_id": 491181, "title": "What the rain brings", "original_title": "Lo que trae la lluvia", "slug_title": "what-the-rain-brings", "date": "2007-02-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Olga Mu\u00f1oz (Olga)", "Antonio Guajardo (Antonio)", "Rosa Navarrete (Daughter)"], "comments": [], "recommandations_id": []}

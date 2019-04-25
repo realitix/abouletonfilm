@@ -1,1 +1,0 @@
-{"tmdb_id": 470843, "title": "Sinista Sinista", "original_title": "Sinista Sinista", "slug_title": "sinista-sinista", "date": "2017-07-22", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eMq4DDtWrR1FdtEorpAvT6yH6FA.jpg", "actors": ["\u00d6zg\u00fcr \u00d6zcan ()"], "comments": [], "recommandations_id": []}

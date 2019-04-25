@@ -1,1 +1,0 @@
-{"tmdb_id": 503274, "title": "Untitled 2 (The Last Jew of Edenbridge)", "original_title": "Untitled 2 (The Last Jew of Edenbridge)", "slug_title": "untitled-2-the-last-jew-of-edenbridge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

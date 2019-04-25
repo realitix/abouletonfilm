@@ -1,1 +1,0 @@
-{"tmdb_id": 339268, "title": "Untitled Buddy Cianci Biopic", "original_title": "Untitled Buddy Cianci Biopic", "slug_title": "untitled-buddy-cianci-biopic", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

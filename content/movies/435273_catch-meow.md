@@ -1,1 +1,0 @@
-{"tmdb_id": 435273, "title": "Catch Meow", "original_title": "Catch Meow", "slug_title": "catch-meow", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ga9MdYLFrTUuQ3aOcN6Up0Z1NwZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

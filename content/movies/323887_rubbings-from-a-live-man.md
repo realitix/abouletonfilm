@@ -1,1 +1,0 @@
-{"tmdb_id": 323887, "title": "Rubbings From A Live Man", "original_title": "Rubbings From A Live Man", "slug_title": "rubbings-from-a-live-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

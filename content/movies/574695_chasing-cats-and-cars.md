@@ -1,1 +1,0 @@
-{"tmdb_id": 574695, "title": "Chasing Cats and Cars", "original_title": "Chasing Cats and Cars", "slug_title": "chasing-cats-and-cars", "date": "2009-01-28", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

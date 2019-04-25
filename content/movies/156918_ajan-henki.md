@@ -1,1 +1,0 @@
-{"tmdb_id": 156918, "title": "Ajan henki", "original_title": "Ajan henki", "slug_title": "ajan-henki", "date": "2011-04-04", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lBmFkPjwO7RvrVFqcx94X2VJfYB.jpg", "actors": ["Annika Poij\u00e4rvi (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 436850, "title": "Portrait d'Erasmo Palma - Tarahumaras 87", "original_title": "Portrait d'Erasmo Palma - Tarahumaras 87", "slug_title": "portrait-d-erasmo-palma-tarahumaras-87", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

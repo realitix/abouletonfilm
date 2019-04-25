@@ -1,1 +1,0 @@
-{"tmdb_id": 189952, "title": "The Keystone 'Patrician'", "original_title": "The Keystone 'Patrician'", "slug_title": "the-keystone-patrician", "date": "1928-04-29", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 404275, "title": "Ron Taylor: Dr. Baseball", "original_title": "Ron Taylor: Dr. Baseball", "slug_title": "ron-taylor-dr-baseball", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h7EkCSYe9Z1GdMUDVjcP7z2V2sa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 547210, "title": "Produ\u00e7\u00e3o de Ouro: Treta de Fam\u00edlia", "original_title": "Produ\u00e7\u00e3o de Ouro: Treta de Fam\u00edlia", "slug_title": "producao-de-ouro-treta-de-familia", "date": "2018-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

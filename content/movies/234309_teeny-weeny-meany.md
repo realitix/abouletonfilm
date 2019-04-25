@@ -1,1 +1,0 @@
-{"tmdb_id": 234309, "title": "Teeny Weeny Meany", "original_title": "Teeny Weeny Meany", "slug_title": "teeny-weeny-meany", "date": "1966-07-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uosbZTQ3TUZOxc7QYN9g9woLh1A.jpg", "actors": [], "comments": [], "recommandations_id": []}

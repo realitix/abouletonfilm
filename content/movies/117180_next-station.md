@@ -1,1 +1,0 @@
-{"tmdb_id": 117180, "title": "Next Station", "original_title": "Pr\u00f3xima estaci\u00f3n", "slug_title": "next-station", "date": "2011-01-01", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fUg6ieYnVnE6rEwCSOLzLvhr6ci.jpg", "actors": ["Mabel del Pozo ()"], "comments": [], "recommandations_id": []}

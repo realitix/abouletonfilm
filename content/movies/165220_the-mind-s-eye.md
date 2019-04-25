@@ -1,1 +1,0 @@
-{"tmdb_id": 165220, "title": "The Mind's Eye", "original_title": "The Mind's Eye", "slug_title": "the-mind-s-eye", "date": "1990-02-07", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cw6ys63xeSw15if7FY5026Ckk13.jpg", "actors": [], "comments": [], "recommandations_id": []}

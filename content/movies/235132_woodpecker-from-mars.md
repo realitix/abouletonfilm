@@ -1,1 +1,0 @@
-{"tmdb_id": 235132, "title": "Woodpecker from Mars", "original_title": "Woodpecker from Mars", "slug_title": "woodpecker-from-mars", "date": "1956-07-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qGBSCS5X6SNX2RTe2ihsHvDQncM.jpg", "actors": [], "comments": [], "recommandations_id": []}

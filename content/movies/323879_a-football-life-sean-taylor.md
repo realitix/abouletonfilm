@@ -1,1 +1,0 @@
-{"tmdb_id": 323879, "title": "A Football Life: Sean Taylor", "original_title": "A Football Life: Sean Taylor", "slug_title": "a-football-life-sean-taylor", "date": "2014-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 471573, "title": "C\u00e1 Com os Meus Bot\u00f5es", "original_title": "C\u00e1 Com os Meus Bot\u00f5es", "slug_title": "ca-com-os-meus-botoes", "date": "2016-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j1gd6J5zuX0727lNdTsCzexQPu9.jpg", "actors": [], "comments": [], "recommandations_id": []}

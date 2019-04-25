@@ -1,1 +1,0 @@
-{"tmdb_id": 457774, "title": "A Challenge", "original_title": "\u3057\u3089\u3093\u3077\u308a", "slug_title": "a-challenge", "date": "1999-05-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2kgxzuO3XO0j23zS5hddXySsDvf.jpg", "actors": [], "comments": [], "recommandations_id": []}

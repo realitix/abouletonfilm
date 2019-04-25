@@ -1,1 +1,0 @@
-{"tmdb_id": 435195, "title": "How We Die", "original_title": "How We Die", "slug_title": "how-we-die", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

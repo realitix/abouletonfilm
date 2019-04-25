@@ -1,1 +1,0 @@
-{"tmdb_id": 310454, "title": "War and Love in Kabul", "original_title": "War and Love in Kabul", "slug_title": "war-and-love-in-kabul", "date": "2009-02-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4WoJUyK3kq3FPlOedyquywj9klY.jpg", "actors": [], "comments": [], "recommandations_id": []}

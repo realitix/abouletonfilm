@@ -1,1 +1,0 @@
-{"tmdb_id": 481654, "title": "Magenta - Chaos from the stage", "original_title": "Magenta - Chaos from the stage", "slug_title": "magenta-chaos-from-the-stage", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Whzm68M2NkuWzf6jQrMl5j8Pyq.jpg", "actors": [], "comments": [], "recommandations_id": []}

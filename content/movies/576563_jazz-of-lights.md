@@ -1,1 +1,0 @@
-{"tmdb_id": 576563, "title": "Jazz of Lights", "original_title": "Jazz of Lights", "slug_title": "jazz-of-lights", "date": "1954-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Moondog ()", "Ana\u00efs Nin ()"], "comments": [], "recommandations_id": []}

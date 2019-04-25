@@ -1,1 +1,0 @@
-{"tmdb_id": 455305, "title": "TED Cinema Experince", "original_title": "TED Cinema Experince", "slug_title": "ted-cinema-experince", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aS8HcqhFrgLOuvLMulL56qWViCp.jpg", "actors": [], "comments": [], "recommandations_id": []}

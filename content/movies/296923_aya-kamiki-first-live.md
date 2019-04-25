@@ -1,1 +1,0 @@
-{"tmdb_id": 296923, "title": "Aya Kamiki: First Live", "original_title": "Aya Kamiki: First Live", "slug_title": "aya-kamiki-first-live", "date": "2007-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Vs2uAQxUZIxgHrkdBuqRz5lQlL.jpg", "actors": [], "comments": [], "recommandations_id": []}

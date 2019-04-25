@@ -1,1 +1,0 @@
-{"tmdb_id": 489512, "title": "Love Song Dedication", "original_title": "Love Song Dedication", "slug_title": "love-song-dedication", "date": "", "genre": "Romance / Com\u00e9die / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

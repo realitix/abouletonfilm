@@ -1,1 +1,0 @@
-{"tmdb_id": 192080, "title": "NFL History of the Cleveland Browns", "original_title": "NFL History of the Cleveland Browns", "slug_title": "nfl-history-of-the-cleveland-browns", "date": "2008-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

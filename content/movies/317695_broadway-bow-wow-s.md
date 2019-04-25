@@ -1,1 +1,0 @@
-{"tmdb_id": 317695, "title": "Broadway Bow Wow's", "original_title": "Broadway Bow Wow's", "slug_title": "broadway-bow-wow-s", "date": "1954-08-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gHANr9w74v1cLR7OVAQpuJSham6.jpg", "actors": [], "comments": [], "recommandations_id": []}

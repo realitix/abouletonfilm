@@ -1,1 +1,0 @@
-{"tmdb_id": 219516, "title": "Bosko's Easter Eggs", "original_title": "Bosko's Easter Eggs", "slug_title": "bosko-s-easter-eggs", "date": "1937-03-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mlSgSvSZaxflnEOxgXUu69ulwWJ.jpg", "actors": ["Rochelle Hudson (Honey)"], "comments": [], "recommandations_id": []}

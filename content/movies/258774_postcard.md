@@ -1,1 +1,0 @@
-{"tmdb_id": 258774, "title": "Postcard", "original_title": "Postcard", "slug_title": "postcard", "date": "2014-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wlCl4nzqUEylo3yhizoTUPu7mws.jpg", "actors": ["Girish Kulkarni ()", "Sai Tamhankar ()", "Subodh Bhave ()"], "comments": [], "recommandations_id": []}

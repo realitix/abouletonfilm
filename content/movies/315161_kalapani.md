@@ -1,1 +1,0 @@
-{"tmdb_id": 315161, "title": "Kalapani", "original_title": "Kalapani", "slug_title": "kalapani", "date": "1958-02-23", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q6WYtNUXlAM676vQP0m6GLSIMih.jpg", "actors": ["Dev Anand (Karan Mehra)", "Madhubala (Asha)"], "comments": [], "recommandations_id": []}

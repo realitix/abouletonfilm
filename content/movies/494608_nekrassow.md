@@ -1,1 +1,0 @@
-{"tmdb_id": 494608, "title": "Nekrassow", "original_title": "Nekrassow", "slug_title": "nekrassow", "date": "1956-12-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kurt Mikulski (Der Obdachlose)", "Steffie Spira (Die Obdachlose)", "Franz Kutschera (Jules Palotin)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 401436, "title": "Die Barcarole", "original_title": "Die Barcarole", "slug_title": "die-barcarole", "date": "1923-07-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

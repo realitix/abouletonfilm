@@ -1,1 +1,0 @@
-{"tmdb_id": 561890, "title": "Waiting for the Flood", "original_title": "Teib\u00f4 Wa K\u00f4zui O Matte Iru", "slug_title": "waiting-for-the-flood", "date": "2005-02-14", "genre": "Myst\u00e8re / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mahiro Hattori ()", "Tar\u00f4 Iwai ()"], "comments": [], "recommandations_id": []}

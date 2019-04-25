@@ -1,1 +1,0 @@
-{"tmdb_id": 196968, "title": "Neptune's Rocking Horse", "original_title": "Neptune's Rocking Horse", "slug_title": "neptune-s-rocking-horse", "date": "1997-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

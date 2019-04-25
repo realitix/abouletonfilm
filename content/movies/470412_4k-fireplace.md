@@ -1,1 +1,0 @@
-{"tmdb_id": 470412, "title": "4K Fireplace", "original_title": "4K Fireplace", "slug_title": "4k-fireplace", "date": "2015-09-01", "genre": "Familial", "score": "8.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eRbGaoXTWKbGZV4ibQNJNCi0Szn.jpg", "actors": ["fireplace (himself)"], "comments": [], "recommandations_id": []}

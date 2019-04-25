@@ -1,1 +1,0 @@
-{"tmdb_id": 508127, "title": "Swimming with Lesbians", "original_title": "Swimming with Lesbians", "slug_title": "swimming-with-lesbians", "date": "2009-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uRLyEynCm3V4zKhNrTZFsxWCKtc.jpg", "actors": [], "comments": [], "recommandations_id": []}

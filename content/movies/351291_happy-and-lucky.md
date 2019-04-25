@@ -1,1 +1,0 @@
-{"tmdb_id": 351291, "title": "Happy and Lucky", "original_title": "Happy and Lucky", "slug_title": "happy-and-lucky", "date": "1938-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

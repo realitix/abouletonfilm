@@ -1,1 +1,0 @@
-{"tmdb_id": 503945, "title": "Feiertag", "original_title": "Feiertag", "slug_title": "feiertag", "date": "2002-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lb9T3TgkNQMFEK8M2SQ5mEHOydR.jpg", "actors": [], "comments": [], "recommandations_id": []}

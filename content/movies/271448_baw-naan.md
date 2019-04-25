@@ -1,1 +1,0 @@
-{"tmdb_id": 271448, "title": "Baw-Naan", "original_title": "Baw-Naan", "slug_title": "baw-naan", "date": "1984-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

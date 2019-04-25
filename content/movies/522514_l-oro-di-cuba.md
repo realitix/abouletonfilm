@@ -1,1 +1,0 @@
-{"tmdb_id": 522514, "title": "L'oro di Cuba", "original_title": "L'oro di Cuba", "slug_title": "l-oro-di-cuba", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kWtHw3JBV7VDCMEFW6pbGBUD5zc.jpg", "actors": [], "comments": [], "recommandations_id": []}

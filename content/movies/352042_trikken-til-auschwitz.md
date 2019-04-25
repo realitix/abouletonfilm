@@ -1,1 +1,0 @@
-{"tmdb_id": 352042, "title": "Trikken til Auschwitz", "original_title": "Trikken til Auschwitz", "slug_title": "trikken-til-auschwitz", "date": "2013-01-27", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/OL65kmO07QXY4NmkZkuwr9Z9bB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 310176, "title": "Leif Ove Andsnes: Ballad for Edvard Greig", "original_title": "Leif Ove Andsnes: Ballad for Edvard Greig", "slug_title": "leif-ove-andsnes-ballad-for-edvard-greig", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

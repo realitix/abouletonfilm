@@ -1,1 +1,0 @@
-{"tmdb_id": 292819, "title": "Poetry for Sale", "original_title": "Poetry for Sale", "slug_title": "poetry-for-sale", "date": "2014-09-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

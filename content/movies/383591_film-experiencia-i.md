@@ -1,1 +1,0 @@
-{"tmdb_id": 383591, "title": "Film Experiencia I", "original_title": "Film Experiencia I", "slug_title": "film-experiencia-i", "date": "1957-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

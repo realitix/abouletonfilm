@@ -1,1 +1,0 @@
-{"tmdb_id": 308043, "title": "Dabbu! Dabbu!! Dabbu!!!", "original_title": "Dabbu! Dabbu!! Dabbu!!!", "slug_title": "dabbu-dabbu-dabbu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

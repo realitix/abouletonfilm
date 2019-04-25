@@ -1,1 +1,0 @@
-{"tmdb_id": 573562, "title": "Under My Skin", "original_title": "Mit Haut und Haar", "slug_title": "under-my-skin", "date": "2000-02-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a951T71gdLAWLTIwaal0j7boG66.jpg", "actors": [], "comments": [], "recommandations_id": []}

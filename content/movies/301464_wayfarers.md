@@ -1,1 +1,0 @@
-{"tmdb_id": 301464, "title": "Wayfarers", "original_title": "Podorozhni", "slug_title": "wayfarers", "date": "2005-05-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ApOuCjCWfLY3U9neg6I4gfd3dic.jpg", "actors": [], "comments": [], "recommandations_id": []}

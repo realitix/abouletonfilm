@@ -1,1 +1,0 @@
-{"tmdb_id": 422889, "title": "The Seed", "original_title": "O Sporos", "slug_title": "the-seed", "date": "2015-09-19", "genre": "Science-Fiction / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2inI3UPKTFWNgrmgjFEmU6x3YUT.jpg", "actors": ["Youlika Skafida (Nala)"], "comments": [], "recommandations_id": []}

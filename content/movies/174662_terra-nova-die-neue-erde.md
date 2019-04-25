@@ -1,1 +1,0 @@
-{"tmdb_id": 174662, "title": "Terra Nova - Die neue Erde", "original_title": "Terra Nova - Die neue Erde", "slug_title": "terra-nova-die-neue-erde", "date": "2012-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2SKme22ls7pYwf9JNfYz11vn46d.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 446172, "title": "A helyseg kalapacsa", "original_title": "A helyseg kalapacsa", "slug_title": "a-helyseg-kalapacsa", "date": "1965-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qK9ZglTrmw9VPi1toysiumTcVx6.jpg", "actors": [], "comments": [], "recommandations_id": []}

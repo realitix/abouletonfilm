@@ -1,1 +1,0 @@
-{"tmdb_id": 426676, "title": "Nova: Volcano Under the City", "original_title": "Nova: Volcano Under the City", "slug_title": "nova-volcano-under-the-city", "date": "2006-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4FHV8FftwtA1SWK6wqwy1DIyZ3s.jpg", "actors": [], "comments": [], "recommandations_id": []}

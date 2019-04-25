@@ -1,1 +1,0 @@
-{"tmdb_id": 453808, "title": "Theatre Hats Off", "original_title": "Theatre Hats Off", "slug_title": "theatre-hats-off", "date": "1897-04-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

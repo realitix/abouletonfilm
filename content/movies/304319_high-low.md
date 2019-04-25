@@ -1,1 +1,1 @@
-{"tmdb_id": 304319, "title": "High/Low", "original_title": "High/Low", "slug_title": "high-low", "date": "2011-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 304319, "title": "High/Low", "original_title": "High/Low", "slug_title": "high-low", "date": "2011-03-31", "genre": [""], "score": "0.0/10", "synopsis": "Documentary about gambling in China.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

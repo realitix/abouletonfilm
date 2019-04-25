@@ -1,1 +1,0 @@
-{"tmdb_id": 276398, "title": "Old Man Bebo", "original_title": "Old Man Bebo", "slug_title": "old-man-bebo", "date": "2008-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/olMDjgFns6SPoBn4IEJ2KDy9Oht.jpg", "actors": [], "comments": [], "recommandations_id": []}

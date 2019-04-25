@@ -1,1 +1,0 @@
-{"tmdb_id": 244706, "title": "Portrait of Imogen", "original_title": "Portrait of Imogen", "slug_title": "portrait-of-imogen", "date": "1988-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qMimrv52bgZ1Lsu3bQ16Es7TxEC.jpg", "actors": [], "comments": [], "recommandations_id": []}

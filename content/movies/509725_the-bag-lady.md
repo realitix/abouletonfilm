@@ -1,1 +1,0 @@
-{"tmdb_id": 509725, "title": "The Bag Lady", "original_title": "The Bag Lady", "slug_title": "the-bag-lady", "date": "1985-01-01", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3BsNvBrUD9DPEDdxt79Ss5pg3uO.jpg", "actors": [], "comments": [], "recommandations_id": []}

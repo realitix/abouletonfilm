@@ -1,1 +1,0 @@
-{"tmdb_id": 355981, "title": "Camel Trophy 1992 - Guyana", "original_title": "Camel Trophy 1992 - Guyana", "slug_title": "camel-trophy-1992-guyana", "date": "1992-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cH9lvhqBy9KbgQ4zTfY8gQrOwe3.jpg", "actors": [], "comments": [], "recommandations_id": []}

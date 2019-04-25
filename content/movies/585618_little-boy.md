@@ -1,1 +1,0 @@
-{"tmdb_id": 585618, "title": "Little Boy", "original_title": "Little Boy", "slug_title": "little-boy", "date": "2018-06-14", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

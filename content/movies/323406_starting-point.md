@@ -1,1 +1,0 @@
-{"tmdb_id": 323406, "title": "Starting Point", "original_title": "Punkt wyjscia", "slug_title": "starting-point", "date": "2014-05-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pZ9dkVbtuDYgy2uBRsM4fyDyaJl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 467302, "title": "Balmoral", "original_title": "Balmoral", "slug_title": "balmoral", "date": "2009-09-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 595728, "title": "RainForest", "original_title": "RainForest", "slug_title": "rainforest", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

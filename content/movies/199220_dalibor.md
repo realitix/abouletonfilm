@@ -1,1 +1,0 @@
-{"tmdb_id": 199220, "title": "Dalibor", "original_title": "Dalibor", "slug_title": "dalibor", "date": "1956-05-01", "genre": "Musique / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8jASNVSJCe0rC8fQgM6R9VY57bq.jpg", "actors": [], "comments": [], "recommandations_id": []}

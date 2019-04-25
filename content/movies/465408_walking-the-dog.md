@@ -1,1 +1,0 @@
-{"tmdb_id": 465408, "title": "Walking the Dog", "original_title": "Walking the Dog", "slug_title": "walking-the-dog", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

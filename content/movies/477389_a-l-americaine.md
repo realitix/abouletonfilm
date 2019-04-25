@@ -1,1 +1,0 @@
-{"tmdb_id": 477389, "title": "A l'am\u00e9ricaine", "original_title": "A l'am\u00e9ricaine", "slug_title": "a-l-americaine", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

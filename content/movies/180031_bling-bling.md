@@ -1,1 +1,0 @@
-{"tmdb_id": 180031, "title": "Bling Bling", "original_title": "Bling Bling", "slug_title": "bling-bling", "date": "2002-11-12", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/njUY2X7CSspAhVewLuL8JJib2Hk.jpg", "actors": [], "comments": [], "recommandations_id": []}

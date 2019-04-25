@@ -1,1 +1,0 @@
-{"tmdb_id": 290776, "title": "Third Stone from the Sun", "original_title": "Third Stone from the Sun", "slug_title": "third-stone-from-the-sun", "date": "1995-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jeR9b8AUXqrGyfODeGmObRc32qo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 519167, "title": "Clarisse", "original_title": "Clarisse", "slug_title": "clarisse", "date": "2012-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 524126, "title": "The Creator of Universes", "original_title": "El Creador de Universos", "slug_title": "the-creator-of-universes", "date": "2017-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/75sSyY7LfvFrvd9lMhlllcwDa7w.jpg", "actors": [], "comments": [], "recommandations_id": []}

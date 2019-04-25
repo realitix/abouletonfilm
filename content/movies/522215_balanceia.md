@@ -1,1 +1,0 @@
-{"tmdb_id": 522215, "title": "Balanceia", "original_title": "Balanceia", "slug_title": "balanceia", "date": "2018-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dyyU1pDOALOAUXhuLI7xiD0iLt4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 577616, "title": "Das Bacchusfest", "original_title": "Das Bacchusfest", "slug_title": "das-bacchusfest", "date": "1953-11-06", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hermann Lenschau (Dr. Guido Wernig)", "Helmuth Rudolph (Felix Staufner)"], "comments": [], "recommandations_id": []}

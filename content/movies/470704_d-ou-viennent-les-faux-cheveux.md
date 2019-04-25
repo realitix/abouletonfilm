@@ -1,1 +1,0 @@
-{"tmdb_id": 470704, "title": "D'o\u00f9 viennent les faux cheveux", "original_title": "D'o\u00f9 viennent les faux cheveux", "slug_title": "d-ou-viennent-les-faux-cheveux", "date": "1909-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

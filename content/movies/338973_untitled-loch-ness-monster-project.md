@@ -1,1 +1,0 @@
-{"tmdb_id": 338973, "title": "Untitled Loch Ness Monster Project", "original_title": "Untitled Loch Ness Monster Project", "slug_title": "untitled-loch-ness-monster-project", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

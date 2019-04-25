@@ -1,1 +1,0 @@
-{"tmdb_id": 537596, "title": "La vida de Tito", "original_title": "La vida de Tito", "slug_title": "la-vida-de-tito", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

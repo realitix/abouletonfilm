@@ -1,1 +1,0 @@
-{"tmdb_id": 350986, "title": "\uaca8\uc6b8\ub85c \uac00\ub294 \ub9c8\ucc28", "original_title": "\uaca8\uc6b8\ub85c \uac00\ub294 \ub9c8\ucc28", "slug_title": "gyeoulro-ganeun-maca", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

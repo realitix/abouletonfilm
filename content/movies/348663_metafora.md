@@ -1,1 +1,0 @@
-{"tmdb_id": 348663, "title": "Met\u00e1fora", "original_title": "Met\u00e1fora", "slug_title": "metafora", "date": "2015-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g8L1yc5SN4da4xHsgYjBJPg6wXe.jpg", "actors": [], "comments": [], "recommandations_id": []}

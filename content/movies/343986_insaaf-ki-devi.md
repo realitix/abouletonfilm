@@ -1,1 +1,0 @@
-{"tmdb_id": 343986, "title": "Insaaf Ki Devi", "original_title": "Insaaf Ki Devi", "slug_title": "insaaf-ki-devi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7jo1PvfZNB7qqimRVccBUrBfpFf.jpg", "actors": [], "comments": [], "recommandations_id": []}

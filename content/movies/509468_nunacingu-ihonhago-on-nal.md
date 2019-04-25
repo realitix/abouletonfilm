@@ -1,1 +1,0 @@
-{"tmdb_id": 509468, "title": "\ub204\ub098\uce5c\uad6c-\uc774\ud63c\ud558\uace0 \uc628 \ub0a0", "original_title": "\ub204\ub098\uce5c\uad6c-\uc774\ud63c\ud558\uace0 \uc628 \ub0a0", "slug_title": "nunacingu-ihonhago-on-nal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

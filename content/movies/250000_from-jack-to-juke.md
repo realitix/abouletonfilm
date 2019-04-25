@@ -1,1 +1,0 @@
-{"tmdb_id": 250000, "title": "From Jack to Juke", "original_title": "From Jack to Juke", "slug_title": "from-jack-to-juke", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/slg8YFeKuiXjKtYx6ECDGRy2eOW.jpg", "actors": [], "comments": [], "recommandations_id": []}

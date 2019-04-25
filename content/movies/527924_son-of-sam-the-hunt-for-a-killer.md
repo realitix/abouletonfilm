@@ -1,1 +1,0 @@
-{"tmdb_id": 527924, "title": "Son Of Sam: The Hunt For A Killer", "original_title": "Son Of Sam: The Hunt For A Killer", "slug_title": "son-of-sam-the-hunt-for-a-killer", "date": "2017-08-05", "genre": "Crime / Documentaire / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

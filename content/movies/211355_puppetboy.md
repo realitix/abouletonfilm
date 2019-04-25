@@ -1,1 +1,0 @@
-{"tmdb_id": 211355, "title": "Puppetboy", "original_title": "Dockpojken", "slug_title": "puppetboy", "date": "2008-01-27", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l1wN9kHIlA81idz6gOgTwuATmiF.jpg", "actors": ["Johannes Nyholm ()"], "comments": [], "recommandations_id": []}

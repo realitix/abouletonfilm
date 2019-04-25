@@ -1,1 +1,0 @@
-{"tmdb_id": 533811, "title": "Pilates Bootcamp", "original_title": "Pilates Bootcamp", "slug_title": "pilates-bootcamp", "date": "2007-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jeQI8QGYHmJO8yRDFr8w41CncVW.jpg", "actors": ["Ann Crowther ()", "Georgina Crowther ()"], "comments": [], "recommandations_id": []}

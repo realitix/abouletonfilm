@@ -1,1 +1,0 @@
-{"tmdb_id": 162231, "title": "The Photograph", "original_title": "Zdjecie", "slug_title": "the-photograph", "date": "1968-01-25", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8bWjew3yVelEvprvBhOvby2mK7x.jpg", "actors": [], "comments": [], "recommandations_id": []}

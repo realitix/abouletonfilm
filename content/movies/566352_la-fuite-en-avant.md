@@ -1,1 +1,0 @@
-{"tmdb_id": 566352, "title": "La fuite en avant", "original_title": "La fuite en avant", "slug_title": "la-fuite-en-avant", "date": "1983-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

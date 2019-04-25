@@ -1,1 +1,0 @@
-{"tmdb_id": 427894, "title": "An Elephant on His Hands", "original_title": "An Elephant on His Hands", "slug_title": "an-elephant-on-his-hands", "date": "1920-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hughie Mack (Jonah Whale)", "Dot Farley ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 549286, "title": "Good Trip", "original_title": "Buen viaje", "slug_title": "good-trip", "date": "2008-05-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x5G5uXhnV7ctgWqv6L7fnGaPLeA.jpg", "actors": ["Soledad Gilmet (Sandra)"], "comments": [], "recommandations_id": []}

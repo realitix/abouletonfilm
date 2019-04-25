@@ -1,1 +1,0 @@
-{"tmdb_id": 530536, "title": "Abandoned Lands", "original_title": "Sybyenneeh syr", "slug_title": "abandoned-lands", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4nGGzhAkYY9OCigp0c7fgt4cAsV.jpg", "actors": [], "comments": [], "recommandations_id": []}

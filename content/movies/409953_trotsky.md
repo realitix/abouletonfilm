@@ -1,1 +1,0 @@
-{"tmdb_id": 409953, "title": "Trotsky", "original_title": "Trotsky", "slug_title": "trotsky", "date": "1967-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mA9FtrFuMv3CgOO0xD3eD4uDK9j.jpg", "actors": [], "comments": [], "recommandations_id": []}

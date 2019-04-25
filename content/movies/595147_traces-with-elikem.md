@@ -1,1 +1,0 @@
-{"tmdb_id": 595147, "title": "Traces with Elikem", "original_title": "Traces with Elikem", "slug_title": "traces-with-elikem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ub3qXD6aIOC0cM21IECVIyDkkqN.jpg", "actors": [], "comments": [], "recommandations_id": []}

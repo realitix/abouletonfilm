@@ -1,1 +1,0 @@
-{"tmdb_id": 434751, "title": "Amer & Nasser, Iraqi Brothers", "original_title": "Amer & Nasser, Iraqi Brothers", "slug_title": "amer-nasser-iraqi-brothers", "date": "2003-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

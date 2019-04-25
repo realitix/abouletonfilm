@@ -1,1 +1,0 @@
-{"tmdb_id": 113107, "title": "Rock 'N Learn: Nursery Rhymes", "original_title": "Rock 'N Learn: Nursery Rhymes", "slug_title": "rock-n-learn-nursery-rhymes", "date": "", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e2BPJlu57Mi5sz84o8qBl7GZLaM.jpg", "actors": [], "comments": [], "recommandations_id": []}

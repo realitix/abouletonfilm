@@ -1,1 +1,0 @@
-{"tmdb_id": 335401, "title": "Cecilia Bartoli: The Barcelona Concert", "original_title": "Cecilia Bartoli: The Barcelona Concert", "slug_title": "cecilia-bartoli-the-barcelona-concert", "date": "2008-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

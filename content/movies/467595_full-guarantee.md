@@ -1,1 +1,0 @@
-{"tmdb_id": 467595, "title": "Full Guarantee", "original_title": "Full Guarantee", "slug_title": "full-guarantee", "date": "2016-09-30", "genre": "Romance / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

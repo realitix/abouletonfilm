@@ -1,1 +1,0 @@
-{"tmdb_id": 340042, "title": "Book Club", "original_title": "Book Club", "slug_title": "book-club", "date": "2015-05-13", "genre": "Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nate Richard (Nate)", "Eric Bembenek (Eric)", "Alex Whited (Alex)", "Logan Overpeck (Logan)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 419007, "title": "Chocolate: The Bitter Truth", "original_title": "Chocolate: The Bitter Truth", "slug_title": "chocolate-the-bitter-truth", "date": "2010-04-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

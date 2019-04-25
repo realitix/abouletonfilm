@@ -1,1 +1,0 @@
-{"tmdb_id": 417088, "title": "Intrigues (V)", "original_title": "Intrigues (V)", "slug_title": "intrigues-v", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uJcyjAEFpUa6FlhxdF45RbAy3y9.jpg", "actors": [], "comments": [], "recommandations_id": []}

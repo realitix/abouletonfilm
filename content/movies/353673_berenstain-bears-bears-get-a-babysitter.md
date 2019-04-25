@@ -1,1 +1,0 @@
-{"tmdb_id": 353673, "title": "Berenstain Bears: Bears Get a Babysitter", "original_title": "Berenstain Bears: Bears Get a Babysitter", "slug_title": "berenstain-bears-bears-get-a-babysitter", "date": "2004-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

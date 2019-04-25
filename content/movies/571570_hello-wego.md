@@ -1,1 +1,0 @@
-{"tmdb_id": 571570, "title": "Hello WeGo!", "original_title": "\u30cf\u30ed\u30fc\u30a6\u30a3\u30fc\u30b4!", "slug_title": "hello-wego", "date": "2019-03-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oT6PEzlLPhsHkrXUXvGDBWTolPc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 309014, "title": "Warcry Omega", "original_title": "Warcry Omega", "slug_title": "warcry-omega", "date": "2012-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lLLzIm8HSgfcB57i5iVJl5UWVaf.jpg", "actors": [], "comments": [], "recommandations_id": []}

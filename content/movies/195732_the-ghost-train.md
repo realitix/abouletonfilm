@@ -1,1 +1,0 @@
-{"tmdb_id": 195732, "title": "The Ghost Train", "original_title": "The Ghost Train", "slug_title": "the-ghost-train", "date": "1903-01-21", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/12RZWgxp4o9aqWThfV36kqnWhMr.jpg", "actors": [], "comments": [], "recommandations_id": [184519, 184522, 77851, 162612]}

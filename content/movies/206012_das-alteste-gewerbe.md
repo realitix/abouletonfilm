@@ -1,1 +1,0 @@
-{"tmdb_id": 206012, "title": "Das \u00e4lteste Gewerbe", "original_title": "Das \u00e4lteste Gewerbe", "slug_title": "das-alteste-gewerbe", "date": "2010-11-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iyenAMuNlfbtrk4zASbxyMZRDS5.jpg", "actors": [], "comments": [], "recommandations_id": []}

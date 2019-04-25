@@ -1,1 +1,0 @@
-{"tmdb_id": 469840, "title": "Rigoletto", "original_title": "Rigoletto", "slug_title": "rigoletto", "date": "1955-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/44caDWelip7y9CtI1fuPRkpbhRu.jpg", "actors": ["Aldo Silvani ()", "Janet Vidor ()"], "comments": [], "recommandations_id": []}

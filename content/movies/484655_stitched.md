@@ -1,1 +1,0 @@
-{"tmdb_id": 484655, "title": "Stitched", "original_title": "Stitched", "slug_title": "stitched", "date": "2011-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/92H88ndkRo0tc6aLIW6eZJbyG2J.jpg", "actors": ["Tank Jones (Pruitt)"], "comments": [], "recommandations_id": []}

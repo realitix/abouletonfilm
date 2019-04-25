@@ -1,1 +1,0 @@
-{"tmdb_id": 489707, "title": "The Gods Obscure", "original_title": "The Gods Obscure", "slug_title": "the-gods-obscure", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

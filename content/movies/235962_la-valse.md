@@ -1,1 +1,0 @@
-{"tmdb_id": 235962, "title": "La valse", "original_title": "La valse", "slug_title": "la-valse", "date": "1951-11-12", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tanaquil Le Clerq (Dancer)", "Nicholas Magallanes (Dancer)"], "comments": [], "recommandations_id": []}

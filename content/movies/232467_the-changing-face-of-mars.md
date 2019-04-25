@@ -1,1 +1,0 @@
-{"tmdb_id": 232467, "title": "The Changing Face of Mars", "original_title": "The Changing Face of Mars", "slug_title": "the-changing-face-of-mars", "date": "2013-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xFtwSh91m8xdEtuSbHCk1czh5Lc.jpg", "actors": [], "comments": [], "recommandations_id": []}

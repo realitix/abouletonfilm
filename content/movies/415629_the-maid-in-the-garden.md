@@ -1,1 +1,0 @@
-{"tmdb_id": 415629, "title": "The Maid in the Garden", "original_title": "The Maid in the Garden", "slug_title": "the-maid-in-the-garden", "date": "1897-08-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

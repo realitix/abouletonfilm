@@ -1,1 +1,0 @@
-{"tmdb_id": 287109, "title": "Countdown", "original_title": "Odbrojavanje", "slug_title": "countdown", "date": "2014-08-16", "genre": "Drame", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rijad Gvozden (Mirza)"], "comments": [], "recommandations_id": []}

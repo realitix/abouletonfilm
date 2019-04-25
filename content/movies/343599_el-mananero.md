@@ -1,1 +1,0 @@
-{"tmdb_id": 343599, "title": "El ma\u00f1anero", "original_title": "El ma\u00f1anero", "slug_title": "el-mananero", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

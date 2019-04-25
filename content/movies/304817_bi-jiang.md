@@ -1,1 +1,0 @@
-{"tmdb_id": 304817, "title": "Bi Jiang", "original_title": "Bi Jiang", "slug_title": "bi-jiang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

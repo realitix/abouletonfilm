@@ -1,1 +1,0 @@
-{"tmdb_id": 524410, "title": "When Cousins Marry", "original_title": "When Cousins Marry", "slug_title": "when-cousins-marry", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

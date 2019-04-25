@@ -1,1 +1,0 @@
-{"tmdb_id": 589582, "title": "Dirty Bloody Hippies", "original_title": "Dirty Bloody Hippies", "slug_title": "dirty-bloody-hippies", "date": "2009-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xo01iS5PbHjhahHidFjkbqdbYVh.jpg", "actors": [], "comments": [], "recommandations_id": []}

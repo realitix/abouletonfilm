@@ -1,1 +1,0 @@
-{"tmdb_id": 445466, "title": "The Shitheads", "original_title": "The Shitheads", "slug_title": "the-shitheads", "date": "2018-12-31", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tracy Morgan ()", "Luke Wilson ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 470425, "title": "Shukranallah", "original_title": "Shukranallah", "slug_title": "shukranallah", "date": "2016-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uAsQbPzj2hWLihirPLZDT6EznUe.jpg", "actors": ["Salim Merchant ()", "Sulaiman Merchant ()"], "comments": [], "recommandations_id": []}

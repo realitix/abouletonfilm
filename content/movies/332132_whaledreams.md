@@ -1,1 +1,0 @@
-{"tmdb_id": 332132, "title": "Whaledreams", "original_title": "Whaledreams", "slug_title": "whaledreams", "date": "2006-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

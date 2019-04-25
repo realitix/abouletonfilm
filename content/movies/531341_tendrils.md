@@ -1,1 +1,0 @@
-{"tmdb_id": 531341, "title": "Tendrils", "original_title": "Tendrils", "slug_title": "tendrils", "date": "2017-11-21", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a33touS4IsLD4RxgUCTc0UIMCsC.jpg", "actors": [], "comments": [], "recommandations_id": []}

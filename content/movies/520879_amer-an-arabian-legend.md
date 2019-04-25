@@ -1,1 +1,0 @@
-{"tmdb_id": 520879, "title": "Amer: An Arabian Legend", "original_title": "Amer: An Arabian Legend", "slug_title": "amer-an-arabian-legend", "date": "2016-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

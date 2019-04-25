@@ -1,1 +1,0 @@
-{"tmdb_id": 396852, "title": "Automation House", "original_title": "Automation House", "slug_title": "automation-house", "date": "1972-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

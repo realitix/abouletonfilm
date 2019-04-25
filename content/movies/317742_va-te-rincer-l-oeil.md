@@ -1,1 +1,0 @@
-{"tmdb_id": 317742, "title": "Va te rincer l'oeil", "original_title": "Va te rincer l'oeil", "slug_title": "va-te-rincer-l-oeil", "date": "1981-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

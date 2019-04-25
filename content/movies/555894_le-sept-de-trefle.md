@@ -1,1 +1,0 @@
-{"tmdb_id": 555894, "title": "Le sept de tr\u00e8fle", "original_title": "Le sept de tr\u00e8fle", "slug_title": "le-sept-de-trefle", "date": "1921-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

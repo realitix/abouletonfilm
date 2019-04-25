@@ -1,1 +1,0 @@
-{"tmdb_id": 543242, "title": "Weed Killer", "original_title": "Weed Killer", "slug_title": "weed-killer", "date": "2017-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

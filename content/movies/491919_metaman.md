@@ -1,1 +1,0 @@
-{"tmdb_id": 491919, "title": "MetaMan", "original_title": "MetaMan", "slug_title": "metaman", "date": "2017-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3oDcfD9KhpuTUpGgGBvb6eraKM.jpg", "actors": [], "comments": [], "recommandations_id": []}

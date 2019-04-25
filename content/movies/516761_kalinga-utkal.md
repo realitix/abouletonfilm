@@ -1,1 +1,0 @@
-{"tmdb_id": 516761, "title": "Kalinga Utkal", "original_title": "Kalinga Utkal", "slug_title": "kalinga-utkal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bnOvjNDPsEpumy7lH9gTWTqgxnL.jpg", "actors": [], "comments": [], "recommandations_id": []}

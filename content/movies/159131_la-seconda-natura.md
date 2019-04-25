@@ -1,1 +1,0 @@
-{"tmdb_id": 159131, "title": "La seconda natura", "original_title": "La seconda natura", "slug_title": "la-seconda-natura", "date": "2012-11-30", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zRXvoOAy5ta5idFhJJCDAv6rsfO.jpg", "actors": [], "comments": [], "recommandations_id": []}

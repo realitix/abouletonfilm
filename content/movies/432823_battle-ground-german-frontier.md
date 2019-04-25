@@ -1,1 +1,0 @@
-{"tmdb_id": 432823, "title": "Battle Ground: German Frontier", "original_title": "Battle Ground: German Frontier", "slug_title": "battle-ground-german-frontier", "date": "2008-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jXHoz0tF5ygDKf7UqeCfA1yG0Ts.jpg", "actors": [], "comments": [], "recommandations_id": []}

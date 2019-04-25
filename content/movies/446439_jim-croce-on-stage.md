@@ -1,1 +1,0 @@
-{"tmdb_id": 446439, "title": "Jim Croce: On Stage", "original_title": "Jim Croce: On Stage", "slug_title": "jim-croce-on-stage", "date": "2011-10-06", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7YPabqt55Tnw6fJ0CgWWIoIMHNn.jpg", "actors": ["Jim Croce ()"], "comments": [], "recommandations_id": []}

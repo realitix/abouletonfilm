@@ -1,1 +1,0 @@
-{"tmdb_id": 201977, "title": "The Little Stranger", "original_title": "The Little Stranger", "slug_title": "the-little-stranger", "date": "1936-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rPOuUmKvca7HfE7pVTQvC3G1nGJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 392049, "title": "The Barber's Cut", "original_title": "The Barber's Cut", "slug_title": "the-barber-s-cut", "date": "2015-09-04", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alisa Arnah (Head 1)", "Lewis Georgeson (Head 2)", "David Whitford (Barber)"], "comments": [], "recommandations_id": []}

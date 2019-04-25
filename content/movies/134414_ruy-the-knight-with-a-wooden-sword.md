@@ -1,1 +1,0 @@
-{"tmdb_id": 134414, "title": "Ruy, the knight with a wooden sword", "original_title": "Ruy, the little Cid", "slug_title": "ruy-the-knight-with-a-wooden-sword", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tNn0138OTCCNLcWAkW9RsKabUqe.jpg", "actors": [], "comments": [], "recommandations_id": []}

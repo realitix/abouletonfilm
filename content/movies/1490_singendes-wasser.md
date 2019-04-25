@@ -1,1 +1,0 @@
-{"tmdb_id": 1490, "title": "Singendes Wasser", "original_title": "Singendes Wasser", "slug_title": "singendes-wasser", "date": "2007-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Schortie Scheumann (Ernst \"Enno\" Richter)", "Roger Ditter (Stimme)"], "comments": [], "recommandations_id": []}

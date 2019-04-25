@@ -1,1 +1,0 @@
-{"tmdb_id": 206322, "title": "Ars Electronica", "original_title": "Ars Electronica", "slug_title": "ars-electronica", "date": "1992-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xCpxVkrwmB1Pb8ouh3gVO1n6zCA.jpg", "actors": [], "comments": [], "recommandations_id": []}

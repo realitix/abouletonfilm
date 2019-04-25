@@ -1,1 +1,0 @@
-{"tmdb_id": 184360, "title": "Labor's Reward", "original_title": "Labor's Reward", "slug_title": "labor-s-reward", "date": "1925-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

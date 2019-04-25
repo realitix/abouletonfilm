@@ -1,1 +1,0 @@
-{"tmdb_id": 379657, "title": "Stairway to Stardom", "original_title": "Stairway to Stardom", "slug_title": "stairway-to-stardom", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nmQyXQjcm4WyreMQbLRp0Km65HK.jpg", "actors": [], "comments": [], "recommandations_id": []}

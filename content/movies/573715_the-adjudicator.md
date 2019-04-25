@@ -1,1 +1,0 @@
-{"tmdb_id": 573715, "title": "The Adjudicator", "original_title": "\u5ba1\u5224\u80051", "slug_title": "the-adjudicator", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nqNE8Jq9GNYm7Muo9jUGCf8KeaC.jpg", "actors": ["Terence Yin ()", "Sam Lee ()", "Chuan Fang ()"], "comments": [], "recommandations_id": []}

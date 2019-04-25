@@ -1,1 +1,0 @@
-{"tmdb_id": 272738, "title": "High Society: A Pot Boiler", "original_title": "High Society: A Pot Boiler", "slug_title": "high-society-a-pot-boiler", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wfXBvHZQBDptp39llL0u3BSWeDf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 563728, "title": "Top 10 Comic Book Heroes", "original_title": "Top 10 Comic Book Heroes", "slug_title": "top-10-comic-book-heroes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tEgyJlZfX5I9USIKarhj4rr9ESN.jpg", "actors": [], "comments": [], "recommandations_id": []}

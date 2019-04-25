@@ -1,1 +1,0 @@
-{"tmdb_id": 279189, "title": "The Horses of Fukushima", "original_title": "Matsuri no Uma", "slug_title": "the-horses-of-fukushima", "date": "2013-12-01", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pJaDDIfkQcWIGMef2SOwrfBRj5l.jpg", "actors": [], "comments": [], "recommandations_id": []}

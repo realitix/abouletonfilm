@@ -1,1 +1,0 @@
-{"tmdb_id": 489917, "title": "Should Husbands Marry?", "original_title": "Should Husbands Marry?", "slug_title": "should-husbands-marry", "date": "1947-11-13", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hugh Herbert (Hugh)"], "comments": [], "recommandations_id": []}

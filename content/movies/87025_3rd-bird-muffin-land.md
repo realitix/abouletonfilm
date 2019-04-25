@@ -1,1 +1,0 @@
-{"tmdb_id": 87025, "title": "3rd & Bird!: Muffin Land!", "original_title": "3rd & Bird!: Muffin Land!", "slug_title": "3rd-bird-muffin-land", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f8wMIAnGS4whnDb6XoB7d3ECHz2.jpg", "actors": [], "comments": [], "recommandations_id": []}

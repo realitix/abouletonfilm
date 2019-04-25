@@ -1,1 +1,0 @@
-{"tmdb_id": 412445, "title": "Somewhere", "original_title": "Somewhere", "slug_title": "somewhere", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

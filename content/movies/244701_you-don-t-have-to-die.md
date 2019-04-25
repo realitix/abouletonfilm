@@ -1,1 +1,0 @@
-{"tmdb_id": 244701, "title": "You Don't Have to Die", "original_title": "You Don't Have to Die", "slug_title": "you-don-t-have-to-die", "date": "1988-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 354112, "title": "Film(luster)", "original_title": "Film(luster)", "slug_title": "film-luster", "date": "1998-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1XO1xSDbUDs3HdNzQgHJ2QhLSmB.jpg", "actors": [], "comments": [], "recommandations_id": []}

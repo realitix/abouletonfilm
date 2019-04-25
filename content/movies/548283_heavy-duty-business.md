@@ -1,1 +1,0 @@
-{"tmdb_id": 548283, "title": "HEAVY DUTY BUSINESS", "original_title": "HEAVY DUTY BUSINESS", "slug_title": "heavy-duty-business", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rEBqqkpLnnVBrJJKB9C9JC5VNqy.jpg", "actors": [], "comments": [], "recommandations_id": []}

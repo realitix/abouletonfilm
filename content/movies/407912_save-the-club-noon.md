@@ -1,1 +1,0 @@
-{"tmdb_id": 407912, "title": "Save the Club Noon", "original_title": "Save the Club Noon", "slug_title": "save-the-club-noon", "date": "2013-11-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

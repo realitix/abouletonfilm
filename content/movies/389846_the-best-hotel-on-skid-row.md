@@ -1,1 +1,0 @@
-{"tmdb_id": 389846, "title": "The Best Hotel on Skid Row", "original_title": "The Best Hotel on Skid Row", "slug_title": "the-best-hotel-on-skid-row", "date": "1990-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charles Bukowski (Narrator)"], "comments": [], "recommandations_id": []}

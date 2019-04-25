@@ -1,1 +1,0 @@
-{"tmdb_id": 562120, "title": "Poor-Land", "original_title": "Bieda-Ziemia", "slug_title": "poor-land", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p1yLz5ixG030OD4KJYROoXOFKmx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 283756, "title": "Doctor, Lawyer, Indian Chief", "original_title": "Doctor, Lawyer, Indian Chief", "slug_title": "doctor-lawyer-indian-chief", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

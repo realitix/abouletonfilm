@@ -1,1 +1,0 @@
-{"tmdb_id": 373511, "title": "Giftige Gesch\u00e4fte", "original_title": "Giftige Gesch\u00e4fte", "slug_title": "giftige-geschafte", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xKgN4u6Vt304E8RWU1hvR0mFWJT.jpg", "actors": [], "comments": [], "recommandations_id": []}

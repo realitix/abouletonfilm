@@ -1,1 +1,0 @@
-{"tmdb_id": 211545, "title": "She Loves Me She Loves Me Not", "original_title": "She Loves Me She Loves Me Not", "slug_title": "she-loves-me-she-loves-me-not", "date": "2003-08-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

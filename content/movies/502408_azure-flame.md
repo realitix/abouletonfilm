@@ -1,1 +1,0 @@
-{"tmdb_id": 502408, "title": "Azure Flame", "original_title": "Azure Flame", "slug_title": "azure-flame", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mlondolozi Zondi ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 165978, "title": "Frauennot - Frauengl\u00fcck", "original_title": "Frauennot - Frauengl\u00fcck", "slug_title": "frauennot-frauengluck", "date": "1930-02-05", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pqkQ5geSzGkiZONPGchsIPKAkEY.jpg", "actors": [], "comments": [], "recommandations_id": []}

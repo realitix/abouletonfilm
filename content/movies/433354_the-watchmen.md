@@ -1,1 +1,0 @@
-{"tmdb_id": 433354, "title": "The Watchmen", "original_title": "The Watchmen", "slug_title": "the-watchmen", "date": "2017-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5hjcLRoK68oTwFRq07feVCASZnh.jpg", "actors": [], "comments": [], "recommandations_id": []}

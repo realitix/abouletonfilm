@@ -1,1 +1,0 @@
-{"tmdb_id": 99502, "title": "Back to the Square", "original_title": "Back to the Square", "slug_title": "back-to-the-square", "date": "2012-01-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/931RST86sgglOpR3qR5qi3oHN1t.jpg", "actors": [], "comments": [], "recommandations_id": []}

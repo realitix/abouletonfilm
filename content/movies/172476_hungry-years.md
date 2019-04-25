@@ -1,1 +1,0 @@
-{"tmdb_id": 172476, "title": "Hungry Years", "original_title": "Hungry Years", "slug_title": "hungry-years", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

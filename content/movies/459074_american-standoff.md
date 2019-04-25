@@ -1,1 +1,0 @@
-{"tmdb_id": 459074, "title": "American Standoff", "original_title": "American Standoff", "slug_title": "american-standoff", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

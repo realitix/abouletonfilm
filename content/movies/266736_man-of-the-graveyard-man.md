@@ -1,1 +1,0 @@
-{"tmdb_id": 266736, "title": "Man of the Graveyard Man", "original_title": "Man of the Graveyard Man", "slug_title": "man-of-the-graveyard-man", "date": "2009-04-26", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xwj5RwSssJAM4F7gSqTB2R86lfd.jpg", "actors": [], "comments": [], "recommandations_id": []}

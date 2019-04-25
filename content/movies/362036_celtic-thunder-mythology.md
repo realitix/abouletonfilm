@@ -1,1 +1,0 @@
-{"tmdb_id": 362036, "title": "Celtic Thunder - Mythology", "original_title": "Celtic Thunder - Mythology", "slug_title": "celtic-thunder-mythology", "date": "2013-02-19", "genre": "Musique", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nPISdlXBV1Pa2iWkzmHpV0TMtFv.jpg", "actors": [], "comments": [], "recommandations_id": []}

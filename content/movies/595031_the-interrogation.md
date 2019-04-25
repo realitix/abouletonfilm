@@ -1,1 +1,0 @@
-{"tmdb_id": 595031, "title": "The Interrogation", "original_title": "The Interrogation", "slug_title": "the-interrogation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["William Boyce (Jim)", "Conor Boucher (Larry)", "Ethan Asimakis (Ethan)", "Sebastian Kokalov (Sebkok)"], "comments": [], "recommandations_id": []}

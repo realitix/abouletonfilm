@@ -1,1 +1,0 @@
-{"tmdb_id": 304782, "title": "Ninu choodakka Nenundalenu", "original_title": "Ninu choodakka Nenundalenu", "slug_title": "ninu-choodakka-nenundalenu", "date": "2002-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 293090, "title": "A Margem da Linha", "original_title": "A Margem da Linha", "slug_title": "a-margem-da-linha", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Regina Silveira ()", "S\u00e9rgio Sister ()", "Jos\u00e9 Spaniol ()"], "comments": [], "recommandations_id": []}

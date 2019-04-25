@@ -1,1 +1,0 @@
-{"tmdb_id": 197656, "title": "Mama's Foot", "original_title": "Mama's Foot", "slug_title": "mama-s-foot", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

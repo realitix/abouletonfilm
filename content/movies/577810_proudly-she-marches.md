@@ -1,1 +1,0 @@
-{"tmdb_id": 577810, "title": "Proudly She Marches", "original_title": "Proudly She Marches", "slug_title": "proudly-she-marches", "date": "1943-01-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gudrun Parker ()", "Prince Bernhard of the Netherlands ()", "Queen Juliana ()"], "comments": [], "recommandations_id": []}

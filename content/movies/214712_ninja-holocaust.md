@@ -1,1 +1,0 @@
-{"tmdb_id": 214712, "title": "Ninja Holocaust", "original_title": "Ninja Holocaust", "slug_title": "ninja-holocaust", "date": "1985-01-18", "genre": "Action", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aDf7ChC379LU6aoFglQW1U5rsfQ.jpg", "actors": ["Michael Chan ()"], "comments": [], "recommandations_id": []}

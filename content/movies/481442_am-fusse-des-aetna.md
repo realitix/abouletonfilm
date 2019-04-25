@@ -1,1 +1,0 @@
-{"tmdb_id": 481442, "title": "Am Fu\u00dfe des Aetna", "original_title": "Am Fu\u00dfe des Aetna", "slug_title": "am-fusse-des-aetna", "date": "1927-07-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zxuRs6EcnO2r3YIKX4AVHukoldE.jpg", "actors": [], "comments": [], "recommandations_id": []}

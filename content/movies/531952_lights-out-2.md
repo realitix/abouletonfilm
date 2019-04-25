@@ -1,1 +1,0 @@
-{"tmdb_id": 531952, "title": "Lights Out 2", "original_title": "Lights Out 2", "slug_title": "lights-out-2", "date": "2020-12-31", "genre": "Horreur / Myst\u00e8re / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uUtWJsCXRW6QUlWXrv7vmR731SP.jpg", "actors": [], "comments": [], "recommandations_id": []}

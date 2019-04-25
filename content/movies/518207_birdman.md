@@ -1,1 +1,1 @@
-{"tmdb_id": 518207, "title": "birdman", "original_title": "birdman", "slug_title": "birdman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 518207, "title": "birdman", "original_title": "birdman", "slug_title": "birdman", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "this is about birdman", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

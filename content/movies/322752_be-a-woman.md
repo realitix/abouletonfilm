@@ -1,1 +1,0 @@
-{"tmdb_id": 322752, "title": "Be a Woman", "original_title": "Be a Woman", "slug_title": "be-a-woman", "date": "2011-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7fXlLKf2G53ju45C6M9feJDcTOY.jpg", "actors": [], "comments": [], "recommandations_id": []}

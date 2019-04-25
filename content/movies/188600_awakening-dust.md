@@ -1,1 +1,0 @@
-{"tmdb_id": 188600, "title": "Awakening Dust", "original_title": "Despertar el Polvo", "slug_title": "awakening-dust", "date": "2013-02-23", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ZtbccFizcBuJQbFuNos3sx7XlO.jpg", "actors": [], "comments": [], "recommandations_id": []}

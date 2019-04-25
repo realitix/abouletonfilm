@@ -1,1 +1,0 @@
-{"tmdb_id": 275190, "title": "X-Trial World Championship Review 2011", "original_title": "X-Trial World Championship Review 2011", "slug_title": "x-trial-world-championship-review-2011", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 462085, "title": "Death of the Sheik", "original_title": "Death of the Sheik", "slug_title": "death-of-the-sheik", "date": "2017-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qcjaUiGK9Q4CxeFl4vSETkqxlxt.jpg", "actors": [], "comments": [], "recommandations_id": []}

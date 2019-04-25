@@ -1,1 +1,0 @@
-{"tmdb_id": 47988, "title": "Doped Youth", "original_title": "Doped Youth", "slug_title": "doped-youth", "date": "2005-11-29", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fBA2lhmZhGWLlTM2bRQZ2pcREwt.jpg", "actors": [], "comments": [], "recommandations_id": []}

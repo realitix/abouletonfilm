@@ -1,1 +1,0 @@
-{"tmdb_id": 304631, "title": "Sanyasi Mera Naam", "original_title": "Sanyasi Mera Naam", "slug_title": "sanyasi-mera-naam", "date": "1999-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 473629, "title": "Don Pedro el Cruel", "original_title": "Don Pedro el Cruel", "slug_title": "don-pedro-el-cruel", "date": "1911-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rtroFOvvxWPzj2n5D3LcA2FDhGo.jpg", "actors": [], "comments": [], "recommandations_id": []}

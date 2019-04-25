@@ -1,1 +1,0 @@
-{"tmdb_id": 272350, "title": "The Gothfather", "original_title": "The Gothfather", "slug_title": "the-gothfather", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

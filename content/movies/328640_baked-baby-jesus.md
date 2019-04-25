@@ -1,1 +1,0 @@
-{"tmdb_id": 328640, "title": "Baked Baby Jesus", "original_title": "Baked Baby Jesus", "slug_title": "baked-baby-jesus", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lG5iQj7eZiGweSZMOdWDSAzSmP9.jpg", "actors": [], "comments": [], "recommandations_id": []}

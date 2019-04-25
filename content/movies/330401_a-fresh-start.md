@@ -1,1 +1,0 @@
-{"tmdb_id": 330401, "title": "A Fresh Start", "original_title": "A Fresh Start", "slug_title": "a-fresh-start", "date": "1920-07-20", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lige Conley ()", "Jimmie Adams ()", "Marvel Rea ()", "Frank J. Coleman ()"], "comments": [], "recommandations_id": []}

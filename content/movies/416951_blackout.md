@@ -1,1 +1,0 @@
-{"tmdb_id": 416951, "title": "Blackout", "original_title": "Blackout", "slug_title": "blackout", "date": "2015-07-14", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jH13IMZZlyk0f7G6eQLycn0JLgM.jpg", "actors": ["Charlie Durkin (Himself)"], "comments": [], "recommandations_id": []}

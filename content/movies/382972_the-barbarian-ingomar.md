@@ -1,1 +1,0 @@
-{"tmdb_id": 382972, "title": "The Barbarian - Ingomar", "original_title": "The Barbarian - Ingomar", "slug_title": "the-barbarian-ingomar", "date": "1908-10-13", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charles Inslee ()", "Harry Solter ()", "Mack Sennett (Barbarian)"], "comments": [], "recommandations_id": []}

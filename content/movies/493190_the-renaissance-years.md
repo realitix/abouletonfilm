@@ -1,1 +1,0 @@
-{"tmdb_id": 493190, "title": "The Renaissance Years", "original_title": "The Renaissance Years", "slug_title": "the-renaissance-years", "date": "2013-08-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

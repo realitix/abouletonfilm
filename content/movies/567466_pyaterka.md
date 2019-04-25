@@ -1,1 +1,0 @@
-{"tmdb_id": 567466, "title": "Pyaterka", "original_title": "\u041f\u044f\u0442\u0451\u0440\u043a\u0430", "slug_title": "pyaterka", "date": "2017-12-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nvDSs1yA6xiV7xbqUd1NeaNWUKA.jpg", "actors": [], "comments": [], "recommandations_id": []}

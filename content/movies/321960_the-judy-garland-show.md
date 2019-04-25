@@ -1,1 +1,0 @@
-{"tmdb_id": 321960, "title": "The Judy Garland Show", "original_title": "The Judy Garland Show", "slug_title": "the-judy-garland-show", "date": "1962-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pwYeT7MqvUlwzBvjT2sYeez4h0j.jpg", "actors": [], "comments": [], "recommandations_id": []}

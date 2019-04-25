@@ -1,1 +1,0 @@
-{"tmdb_id": 395263, "title": "Between Two Rivers", "original_title": "Between Two Rivers", "slug_title": "between-two-rivers", "date": "1960-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yOZR6q2CyOK2WcEkpBGgE3S959j.jpg", "actors": [], "comments": [], "recommandations_id": []}

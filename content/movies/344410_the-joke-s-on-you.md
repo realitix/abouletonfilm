@@ -1,1 +1,0 @@
-{"tmdb_id": 344410, "title": "The Joke's on You", "original_title": "The Joke's on You", "slug_title": "the-joke-s-on-you", "date": "1925-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Billy West (Hubby)", "Oliver Hardy (Wilbert Perkins)", "Ethelyn Gibson (Wifey)"], "comments": [], "recommandations_id": []}

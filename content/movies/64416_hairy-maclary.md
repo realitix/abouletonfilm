@@ -1,1 +1,0 @@
-{"tmdb_id": 64416, "title": "Hairy Maclary", "original_title": "Hairy Maclary", "slug_title": "hairy-maclary", "date": "2005-01-12", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/23vkhUL1aNIN1q5c9aoLAslFwGx.jpg", "actors": [], "comments": [], "recommandations_id": []}

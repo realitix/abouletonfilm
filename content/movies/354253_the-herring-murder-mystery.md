@@ -1,1 +1,0 @@
-{"tmdb_id": 354253, "title": "The Herring Murder Mystery", "original_title": "The Herring Murder Mystery", "slug_title": "the-herring-murder-mystery", "date": "1943-12-30", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

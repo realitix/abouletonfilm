@@ -1,1 +1,0 @@
-{"tmdb_id": 357549, "title": "Mein 37. Abenteuer", "original_title": "Mein 37. Abenteuer", "slug_title": "mein-37-abenteuer", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 243042, "title": "Time Stood Still", "original_title": "Time Stood Still", "slug_title": "time-stood-still", "date": "1956-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marvin Miller (Narrator)"], "comments": [], "recommandations_id": []}

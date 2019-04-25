@@ -1,1 +1,0 @@
-{"tmdb_id": 499939, "title": "Tom Mabe: Dysfunction Junction", "original_title": "Tom Mabe: Dysfunction Junction", "slug_title": "tom-mabe-dysfunction-junction", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

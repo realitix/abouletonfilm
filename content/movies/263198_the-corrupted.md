@@ -1,1 +1,0 @@
-{"tmdb_id": 263198, "title": "The Corrupted", "original_title": "The Corrupted", "slug_title": "the-corrupted", "date": "2010-05-07", "genre": "Horreur / Science-Fiction", "score": "2.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ZroWlAEaBmw10zCGjC7mpGPlU6.jpg", "actors": [], "comments": [], "recommandations_id": [28517, 28596]}

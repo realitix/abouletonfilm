@@ -1,1 +1,0 @@
-{"tmdb_id": 455751, "title": "Puthen Panam", "original_title": "Puthen Panam", "slug_title": "puthen-panam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6acmZoDKqY5uBvrGdX1LY8qqVrX.jpg", "actors": [], "comments": [], "recommandations_id": []}

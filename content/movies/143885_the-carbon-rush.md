@@ -1,1 +1,0 @@
-{"tmdb_id": 143885, "title": "The Carbon Rush", "original_title": "The Carbon Rush", "slug_title": "the-carbon-rush", "date": "2012-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ObtTo6c1lRtZ2ump2dVKrRV0Z0.jpg", "actors": ["Daryl Hannah (Narrator)"], "comments": [], "recommandations_id": []}

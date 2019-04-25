@@ -1,1 +1,0 @@
-{"tmdb_id": 262379, "title": "Sinehithi", "original_title": "Sinehithi", "slug_title": "sinehithi", "date": "1970-09-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "B. Saroja Devi ()", "Ravichandran ()", "Cho Ramaswamy ()"], "comments": [], "recommandations_id": []}

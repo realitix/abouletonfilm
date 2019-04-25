@@ -1,1 +1,0 @@
-{"tmdb_id": 567116, "title": "Fleurs: Between Us Two", "original_title": "Fleurs: Between Us Two", "slug_title": "fleurs-between-us-two", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

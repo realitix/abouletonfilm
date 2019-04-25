@@ -1,1 +1,0 @@
-{"tmdb_id": 45150, "title": "Troops", "original_title": "Troops", "slug_title": "troops", "date": "1997-01-01", "genre": "Com\u00e9die / Science-Fiction", "score": "7.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5XfaM1moeWXmvGrOBjoQjnfvoRW.jpg", "actors": [], "comments": [], "recommandations_id": [298914, 28105]}

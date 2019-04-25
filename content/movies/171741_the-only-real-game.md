@@ -1,1 +1,0 @@
-{"tmdb_id": 171741, "title": "The Only Real Game", "original_title": "The Only Real Game", "slug_title": "the-only-real-game", "date": "2013-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3grIhP6l94YSiJ0AZe5DX2ElYsf.jpg", "actors": [], "comments": [], "recommandations_id": []}

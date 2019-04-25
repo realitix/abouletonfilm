@@ -1,1 +1,0 @@
-{"tmdb_id": 510123, "title": "The Disappearance Of The PX-15", "original_title": "The Disappearance Of The PX-15", "slug_title": "the-disappearance-of-the-px-15", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tZtdcEyfxJ886Z2y8VPo1cabIYr.jpg", "actors": [], "comments": [], "recommandations_id": []}

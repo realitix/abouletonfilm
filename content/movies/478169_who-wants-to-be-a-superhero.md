@@ -1,1 +1,0 @@
-{"tmdb_id": 478169, "title": "Who wants to be a superhero?", "original_title": "Who wants to be a superhero?", "slug_title": "who-wants-to-be-a-superhero", "date": "2017-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n0ZCK0shJXsa5XEno0jOAAhDU3M.jpg", "actors": [], "comments": [], "recommandations_id": []}

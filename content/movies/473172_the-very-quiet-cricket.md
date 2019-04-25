@@ -1,1 +1,0 @@
-{"tmdb_id": 473172, "title": "The Very Quiet Cricket", "original_title": "The Very Quiet Cricket", "slug_title": "the-very-quiet-cricket", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

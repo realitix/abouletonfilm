@@ -1,1 +1,0 @@
-{"tmdb_id": 392203, "title": "Seeing-Space and Hearing-Space", "original_title": "Raumsehen und Raumh\u00f6ren", "slug_title": "seeing-space-and-hearing-space", "date": "1974-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1pL7gCHo2XmXnpCrPL5iUEeJLSU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 505221, "title": "An Uncivil War", "original_title": "An Uncivil War", "slug_title": "an-uncivil-war", "date": "", "genre": "Drame / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carey Mulligan (Gloria Steinem)"], "comments": [], "recommandations_id": []}

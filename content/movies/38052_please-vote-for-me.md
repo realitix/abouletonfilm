@@ -1,1 +1,0 @@
-{"tmdb_id": 38052, "title": "Please Vote for Me", "original_title": "Please Vote for Me", "slug_title": "please-vote-for-me", "date": "2007-01-01", "genre": "Documentaire", "score": "7.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r9g7jc3HY0yt4jrfsuR15N7vnlm.jpg", "actors": [], "comments": [], "recommandations_id": [54994]}

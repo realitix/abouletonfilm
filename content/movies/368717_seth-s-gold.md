@@ -1,1 +1,0 @@
-{"tmdb_id": 368717, "title": "Seth's Gold", "original_title": "Seth's Gold", "slug_title": "seth-s-gold", "date": "2015-02-17", "genre": "Western", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fxwYzOGEamkSKNARBMA6ZqMCrse.jpg", "actors": [], "comments": [], "recommandations_id": []}

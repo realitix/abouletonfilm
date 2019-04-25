@@ -1,1 +1,0 @@
-{"tmdb_id": 540144, "title": "Gardez le sourire", "original_title": "Gardez le sourire", "slug_title": "gardez-le-sourire", "date": "1934-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

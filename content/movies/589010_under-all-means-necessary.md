@@ -1,1 +1,0 @@
-{"tmdb_id": 589010, "title": "Under All Means Necessary", "original_title": "Under All Means Necessary", "slug_title": "under-all-means-necessary", "date": "2006-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 428938, "title": "Hipertermia", "original_title": "Hipertermia", "slug_title": "hipertermia", "date": "2013-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

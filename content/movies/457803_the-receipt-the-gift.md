@@ -1,1 +1,0 @@
-{"tmdb_id": 457803, "title": "The Receipt: The Gift", "original_title": "The Receipt: The Gift", "slug_title": "the-receipt-the-gift", "date": "2017-02-26", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

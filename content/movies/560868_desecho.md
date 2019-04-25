@@ -1,1 +1,0 @@
-{"tmdb_id": 560868, "title": "Desecho", "original_title": "Desecho", "slug_title": "desecho", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 411639, "title": "Zo\u00e9 Panoramas", "original_title": "Zo\u00e9 Panoramas", "slug_title": "zoe-panoramas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6bLXcqjUhZcEPBA3PChmIZlxXMO.jpg", "actors": [], "comments": [], "recommandations_id": []}

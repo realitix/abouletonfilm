@@ -1,1 +1,0 @@
-{"tmdb_id": 555486, "title": "Coeur de Fran\u00e7aise", "original_title": "Coeur de Fran\u00e7aise", "slug_title": "coeur-de-francaise", "date": "1916-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 469468, "title": "Drum Dream Girl", "original_title": "Drum Dream Girl", "slug_title": "drum-dream-girl", "date": "", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/QtfaVe0zjgCP9ngA39OiuwTTqc.jpg", "actors": [], "comments": [], "recommandations_id": []}

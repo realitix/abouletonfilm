@@ -1,1 +1,0 @@
-{"tmdb_id": 577204, "title": "Sleep Paralysis (A Short Film)", "original_title": "Sleep Paralysis (A Short Film)", "slug_title": "sleep-paralysis-a-short-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Isaak Remund (Aaron)"], "comments": [], "recommandations_id": []}

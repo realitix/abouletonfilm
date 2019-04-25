@@ -1,1 +1,0 @@
-{"tmdb_id": 256538, "title": "The Incomplete", "original_title": "Der Unfertige", "slug_title": "the-incomplete", "date": "2013-11-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yfYBu6LRZe3ArFeR8cTuEmaeZBD.jpg", "actors": ["Klaus Johannes Wolf ()"], "comments": [], "recommandations_id": []}

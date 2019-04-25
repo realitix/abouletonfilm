@@ -1,1 +1,0 @@
-{"tmdb_id": 464660, "title": "Life Dances On...", "original_title": "Life Dances On...", "slug_title": "life-dances-on", "date": "1980-07-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

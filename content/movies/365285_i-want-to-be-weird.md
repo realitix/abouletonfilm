@@ -1,1 +1,0 @@
-{"tmdb_id": 365285, "title": "I Want to Be Weird", "original_title": "I Want to Be Weird", "slug_title": "i-want-to-be-weird", "date": "2015-09-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kitty von-Sometime (Herself)"], "comments": [], "recommandations_id": []}

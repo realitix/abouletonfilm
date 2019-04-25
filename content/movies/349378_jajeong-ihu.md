@@ -1,1 +1,0 @@
-{"tmdb_id": 349378, "title": "\uc790\uc815 \uc774\ud6c4", "original_title": "\uc790\uc815 \uc774\ud6c4", "slug_title": "jajeong-ihu", "date": "1994-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

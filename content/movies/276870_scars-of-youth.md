@@ -1,1 +1,0 @@
-{"tmdb_id": 276870, "title": "Scars of Youth", "original_title": "Scars of Youth", "slug_title": "scars-of-youth", "date": "2008-09-14", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6tY6pfGolkyhzcWjQ7yNo5cLS9R.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 248383, "title": "Huntington's Dance", "original_title": "Huntington's Dance", "slug_title": "huntington-s-dance", "date": "", "genre": "Documentaire / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

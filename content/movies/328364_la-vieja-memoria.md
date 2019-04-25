@@ -1,1 +1,0 @@
-{"tmdb_id": 328364, "title": "La vieja memoria", "original_title": "La vieja memoria", "slug_title": "la-vieja-memoria", "date": "1979-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eVeUCu54hlCTNurthQe5x7MzRxe.jpg", "actors": [], "comments": [], "recommandations_id": []}

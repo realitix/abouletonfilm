@@ -1,1 +1,0 @@
-{"tmdb_id": 539388, "title": "A Man and His Woman", "original_title": "Un homme en or", "slug_title": "a-man-and-his-woman", "date": "1934-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

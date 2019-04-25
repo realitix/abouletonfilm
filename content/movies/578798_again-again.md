@@ -1,1 +1,1 @@
-{"tmdb_id": 578798, "title": "Again & Again", "original_title": "Again & Again", "slug_title": "again-again", "date": "2018-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 578798, "title": "Again & Again", "original_title": "Again & Again", "slug_title": "again-again", "date": "2018-05-07", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

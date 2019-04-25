@@ -1,1 +1,0 @@
-{"tmdb_id": 346073, "title": "Papa Mau", "original_title": "Papa Mau", "slug_title": "papa-mau", "date": "2010-10-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1T49EVotX4ALDQw8yqNJDUS7xZC.jpg", "actors": [], "comments": [], "recommandations_id": []}

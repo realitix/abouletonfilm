@@ -1,1 +1,0 @@
-{"tmdb_id": 379369, "title": "Memory Worked By Mirrors", "original_title": "Memory Worked By Mirrors", "slug_title": "memory-worked-by-mirrors", "date": "2011-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nMz7j54xh6UaugyxkM9e8EkrPNf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 315922, "title": "Sister Maria", "original_title": "M\u00e1ria n\u00f6v\u00e9r", "slug_title": "sister-maria", "date": "1937-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

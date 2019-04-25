@@ -1,1 +1,0 @@
-{"tmdb_id": 573939, "title": "Snow Dinosaur", "original_title": "\u0421\u043d\u0435\u0433\u043e\u0437\u0430\u0432\u0440", "slug_title": "snow-dinosaur", "date": "2018-03-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hIENUMKRWpKtd02O1wj0710Wp0v.jpg", "actors": [], "comments": [], "recommandations_id": []}

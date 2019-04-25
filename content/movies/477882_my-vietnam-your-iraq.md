@@ -1,1 +1,0 @@
-{"tmdb_id": 477882, "title": "My Vietnam, Your Iraq", "original_title": "My Vietnam, Your Iraq", "slug_title": "my-vietnam-your-iraq", "date": "2011-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 324937, "title": "The Border - Granica", "original_title": "The Border - Granica", "slug_title": "the-border-granica", "date": "2011-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

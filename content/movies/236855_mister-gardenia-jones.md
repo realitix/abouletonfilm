@@ -1,1 +1,0 @@
-{"tmdb_id": 236855, "title": "Mister Gardenia Jones", "original_title": "Mister Gardenia Jones", "slug_title": "mister-gardenia-jones", "date": "1942-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

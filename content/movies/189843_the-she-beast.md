@@ -1,1 +1,0 @@
-{"tmdb_id": 189843, "title": "The She Beast", "original_title": "The She Beast", "slug_title": "the-she-beast", "date": "1927-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

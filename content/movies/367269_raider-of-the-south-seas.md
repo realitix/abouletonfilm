@@ -1,1 +1,0 @@
-{"tmdb_id": 367269, "title": "Raider of the south seas", "original_title": "Raider of the south seas", "slug_title": "raider-of-the-south-seas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

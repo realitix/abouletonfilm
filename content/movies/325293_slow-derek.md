@@ -1,1 +1,0 @@
-{"tmdb_id": 325293, "title": "Slow Derek", "original_title": "Slow Derek", "slug_title": "slow-derek", "date": "2012-07-20", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ox4UEtvjqBFynKutrGW3ph2Uhe4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 269952, "title": "American Jesus", "original_title": "American Jesus", "slug_title": "american-jesus", "date": "2013-02-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mh9uZQhC2gEtoUTh6pYKlaC9SuY.jpg", "actors": [], "comments": [], "recommandations_id": []}

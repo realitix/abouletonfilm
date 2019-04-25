@@ -1,1 +1,0 @@
-{"tmdb_id": 566107, "title": "Nosferatu's Crush", "original_title": "Nosferatu's Crush", "slug_title": "nosferatu-s-crush", "date": "2006-08-07", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iPOg5Cc7tPGCFmWnjs4n9JZI3Gf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 504483, "title": "Secrets of Yuji Road Mimic", "original_title": "Secrets of Yuji Road Mimic", "slug_title": "secrets-of-yuji-road-mimic", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

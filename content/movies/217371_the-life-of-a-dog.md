@@ -1,1 +1,0 @@
-{"tmdb_id": 217371, "title": "The Life of a Dog", "original_title": "La vie d'un chien", "slug_title": "the-life-of-a-dog", "date": "2005-01-22", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fxLU7XAefU92u2aAhI6tjrOrvUY.jpg", "actors": ["Donovan Dutro ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 325231, "title": "Godzilla: Ancient Enemy - The M.U.T.O.S", "original_title": "Godzilla: Ancient Enemy - The M.U.T.O.S", "slug_title": "godzilla-ancient-enemy-the-m-u-t-o-s", "date": "2014-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

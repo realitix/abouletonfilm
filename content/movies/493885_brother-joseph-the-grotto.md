@@ -1,1 +1,0 @@
-{"tmdb_id": 493885, "title": "Brother Joseph & The Grotto", "original_title": "Brother Joseph & The Grotto", "slug_title": "brother-joseph-the-grotto", "date": "2013-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

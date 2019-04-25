@@ -1,1 +1,0 @@
-{"tmdb_id": 380862, "title": "Bomba Arienda", "original_title": "Bomba Arienda", "slug_title": "bomba-arienda", "date": "1985-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/965ezN3ShnAABA84EHUXcbOdq8i.jpg", "actors": [], "comments": [], "recommandations_id": []}

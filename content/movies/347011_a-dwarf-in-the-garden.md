@@ -1,1 +1,0 @@
-{"tmdb_id": 347011, "title": "A Dwarf in the Garden", "original_title": "Un Enano en el Jard\u00edn", "slug_title": "a-dwarf-in-the-garden", "date": "1981-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tQBU7ZZuIRBu2R25TPEF3fn37FL.jpg", "actors": [], "comments": [], "recommandations_id": []}

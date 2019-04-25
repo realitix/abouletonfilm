@@ -1,1 +1,0 @@
-{"tmdb_id": 556428, "title": "La veine", "original_title": "La veine", "slug_title": "la-veine", "date": "1928-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

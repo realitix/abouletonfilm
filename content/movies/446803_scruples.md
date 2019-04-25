@@ -1,1 +1,0 @@
-{"tmdb_id": 446803, "title": "Scruples", "original_title": "Scruples", "slug_title": "scruples", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 544318, "title": "Wahnsinn, das ganze Leben ist Wahnsinn", "original_title": "Wahnsinn, das ganze Leben ist Wahnsinn", "slug_title": "wahnsinn-das-ganze-leben-ist-wahnsinn", "date": "1979-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

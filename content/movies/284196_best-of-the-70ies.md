@@ -1,1 +1,0 @@
-{"tmdb_id": 284196, "title": "Best of the 70ies", "original_title": "Best of the 70ies", "slug_title": "best-of-the-70ies", "date": "1978-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xAIYmtjWM93KZhcKGQ9m7c9X2la.jpg", "actors": ["Patricia Rhomberg ()", "Sepp Gneissl ()"], "comments": [], "recommandations_id": []}

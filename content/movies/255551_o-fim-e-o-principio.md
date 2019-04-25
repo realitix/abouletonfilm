@@ -1,1 +1,0 @@
-{"tmdb_id": 255551, "title": "O Fim e o Princ\u00edpio", "original_title": "O Fim e o Princ\u00edpio", "slug_title": "o-fim-e-o-principio", "date": "2005-11-17", "genre": "Documentaire", "score": "4.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1dyUJkagmLoMfGT9fTEzNvDgOCr.jpg", "actors": [], "comments": [], "recommandations_id": []}

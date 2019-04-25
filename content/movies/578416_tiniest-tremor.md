@@ -1,1 +1,0 @@
-{"tmdb_id": 578416, "title": "Tiniest Tremor", "original_title": "Tiniest Tremor", "slug_title": "tiniest-tremor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9uYveLcxPLui8gk6nirbydQLscQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

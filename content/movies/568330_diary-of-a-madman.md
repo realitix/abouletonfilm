@@ -1,1 +1,0 @@
-{"tmdb_id": 568330, "title": "Diary of a Madman", "original_title": "Le journal d'un fou", "slug_title": "diary-of-a-madman", "date": "1987-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

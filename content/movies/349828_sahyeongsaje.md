@@ -1,1 +1,0 @@
-{"tmdb_id": 349828, "title": "\uc0ac\ud615\uc0ac\uc81c", "original_title": "\uc0ac\ud615\uc0ac\uc81c", "slug_title": "sahyeongsaje", "date": "1982-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

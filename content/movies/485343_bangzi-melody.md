@@ -1,1 +1,0 @@
-{"tmdb_id": 485343, "title": "Bangzi Melody", "original_title": "\u6751\u620f", "slug_title": "bangzi-melody", "date": "2017-06-16", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hojgRn4twcaQFj3voWoKINCy8km.jpg", "actors": [], "comments": [], "recommandations_id": []}

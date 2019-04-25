@@ -1,1 +1,0 @@
-{"tmdb_id": 60527, "title": "Javier Guzman: Bot", "original_title": "Javier Guzman: Bot", "slug_title": "javier-guzman-bot", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5mtcDpBiGi1UJNOzlaztuGyITqc.jpg", "actors": ["Javier Guzman ()"], "comments": [], "recommandations_id": []}

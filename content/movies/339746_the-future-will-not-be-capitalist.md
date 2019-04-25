@@ -1,1 +1,0 @@
-{"tmdb_id": 339746, "title": "The Future Will Not Be Capitalist", "original_title": "The Future Will Not Be Capitalist", "slug_title": "the-future-will-not-be-capitalist", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 266847, "title": "The Unburdening", "original_title": "L'all\u00e9gement", "slug_title": "the-unburdening", "date": "1983-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4AzLXHz7vgZbV0RREXfDIjLmzUm.jpg", "actors": [], "comments": [], "recommandations_id": []}

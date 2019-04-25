@@ -1,1 +1,0 @@
-{"tmdb_id": 543610, "title": "I Am Happy", "original_title": "Masaya Ako", "slug_title": "i-am-happy", "date": "2018-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y1bwQ4Qq6T4w3EPCUjknERJwVK0.jpg", "actors": [], "comments": [], "recommandations_id": []}

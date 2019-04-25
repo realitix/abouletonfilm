@@ -1,1 +1,0 @@
-{"tmdb_id": 507916, "title": "The Smiling Workman", "original_title": "The Smiling Workman", "slug_title": "the-smiling-workman", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un court film", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/grb9BBqR07QHROjVyYwroHo5iLz.jpg", "actors": [], "comments": [], "recommandations_id": []}

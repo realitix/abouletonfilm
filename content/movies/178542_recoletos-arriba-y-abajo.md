@@ -1,1 +1,0 @@
-{"tmdb_id": 178542, "title": "Recoletos (arriba y abajo)", "original_title": "Recoletos (arriba y abajo)", "slug_title": "recoletos-arriba-y-abajo", "date": "2012-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/26umC8PzfpDuC2TYmsjmV7iMol7.jpg", "actors": [], "comments": [], "recommandations_id": []}

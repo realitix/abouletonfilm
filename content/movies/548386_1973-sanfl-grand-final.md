@@ -1,1 +1,0 @@
-{"tmdb_id": 548386, "title": "1973 SANFL Grand Final", "original_title": "1973 SANFL Grand Final", "slug_title": "1973-sanfl-grand-final", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4yDKhMUGwmZsUCUyxo2GcLAXPD8.jpg", "actors": [], "comments": [], "recommandations_id": []}

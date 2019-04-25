@@ -1,1 +1,0 @@
-{"tmdb_id": 326399, "title": "Sexwork, Love & Mr Right", "original_title": "Sexwork, Love & Mr Right", "slug_title": "sexwork-love-mr-right", "date": "2013-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tpg94OWEZAbL4OPWkco9d1GhEMd.jpg", "actors": [], "comments": [], "recommandations_id": []}

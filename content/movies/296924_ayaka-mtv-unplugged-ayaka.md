@@ -1,1 +1,0 @@
-{"tmdb_id": 296924, "title": "AYAKA: MTV Unplugged ayaka", "original_title": "AYAKA: MTV Unplugged ayaka", "slug_title": "ayaka-mtv-unplugged-ayaka", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3NJ6awxyhASgS5Ec5Gk2SOodfnN.jpg", "actors": [], "comments": [], "recommandations_id": []}

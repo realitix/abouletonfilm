@@ -1,1 +1,0 @@
-{"tmdb_id": 481719, "title": "Ways + Means", "original_title": "Ways + Means", "slug_title": "ways-means", "date": "2017-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t2QFSgWvCCAxTXZ8eNkGNfUAeBN.jpg", "actors": [], "comments": [], "recommandations_id": []}

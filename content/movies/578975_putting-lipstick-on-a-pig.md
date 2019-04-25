@@ -1,1 +1,0 @@
-{"tmdb_id": 578975, "title": "Putting Lipstick on a Pig", "original_title": "Att sminka en gris", "slug_title": "putting-lipstick-on-a-pig", "date": "2018-03-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AjoFI2UuTKLUpH2a5PYDUcL3hHm.jpg", "actors": [], "comments": [], "recommandations_id": []}

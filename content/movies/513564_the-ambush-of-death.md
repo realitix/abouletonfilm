@@ -1,1 +1,0 @@
-{"tmdb_id": 513564, "title": "The Ambush of Death", "original_title": "L'agguato della Morte", "slug_title": "the-ambush-of-death", "date": "1919-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/IX0xLm1YpGsOzoqIRw0gTsNzS0.jpg", "actors": ["Amedeo Ciaffi ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 532978, "title": "Att bli med barn", "original_title": "Att bli med barn", "slug_title": "att-bli-med-barn", "date": "2010-02-01", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["G\u00f6ran Gillinger (Erik)", "Lisa Henni (Jonna)", "Johanna Wilson (Karin)"], "comments": [], "recommandations_id": []}

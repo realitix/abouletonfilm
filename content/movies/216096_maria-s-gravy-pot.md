@@ -1,1 +1,0 @@
-{"tmdb_id": 216096, "title": "Maria's Gravy Pot", "original_title": "Maria's Gravy Pot", "slug_title": "maria-s-gravy-pot", "date": "2010-03-27", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/76Cmy40rM2V5kfHIfj6G80IOltC.jpg", "actors": [], "comments": [], "recommandations_id": []}

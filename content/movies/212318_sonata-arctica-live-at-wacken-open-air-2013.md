@@ -1,1 +1,0 @@
-{"tmdb_id": 212318, "title": "Sonata Arctica: Live At Wacken Open Air 2013", "original_title": "Sonata Arctica: Live At Wacken Open Air 2013", "slug_title": "sonata-arctica-live-at-wacken-open-air-2013", "date": "2013-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

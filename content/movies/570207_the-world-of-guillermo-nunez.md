@@ -1,1 +1,0 @@
-{"tmdb_id": 570207, "title": "The World of Guillermo N\u00fa\u00f1ez", "original_title": "The World of Guillermo N\u00fa\u00f1ez", "slug_title": "the-world-of-guillermo-nunez", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 480346, "title": "Home Invasion", "original_title": "Home Invasion", "slug_title": "home-invasion", "date": "1997-11-10", "genre": "Com\u00e9die / T\u00e9l\u00e9film / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Penn Jillette (himself)", "Teller (himself)"], "comments": [], "recommandations_id": []}

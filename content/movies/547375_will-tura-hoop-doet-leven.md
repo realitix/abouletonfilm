@@ -1,1 +1,0 @@
-{"tmdb_id": 547375, "title": "Will Tura, hoop doet leven", "original_title": "Will Tura, hoop doet leven", "slug_title": "will-tura-hoop-doet-leven", "date": "2018-09-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tYPOeMqlTSnEBaoUuQLJhJHS1XT.jpg", "actors": [], "comments": [], "recommandations_id": []}

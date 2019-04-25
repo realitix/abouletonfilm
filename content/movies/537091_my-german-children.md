@@ -1,1 +1,0 @@
-{"tmdb_id": 537091, "title": "My German Children", "original_title": "My German Children", "slug_title": "my-german-children", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

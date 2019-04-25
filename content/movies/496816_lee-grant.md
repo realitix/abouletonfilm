@@ -1,1 +1,0 @@
-{"tmdb_id": 496816, "title": "Lee& Grant", "original_title": "Lee& Grant", "slug_title": "lee-grant", "date": "2011-07-06", "genre": "Documentaire / Guerre / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

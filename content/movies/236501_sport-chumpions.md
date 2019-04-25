@@ -1,1 +1,0 @@
-{"tmdb_id": 236501, "title": "Sport Chumpions", "original_title": "Sport Chumpions", "slug_title": "sport-chumpions", "date": "1941-08-15", "genre": "", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7JpsJHcV1wg1nlszTIIh9hqX8Tk.jpg", "actors": [], "comments": [], "recommandations_id": []}

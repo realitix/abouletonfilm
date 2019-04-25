@@ -1,1 +1,0 @@
-{"tmdb_id": 273314, "title": "Just Me and Mario", "original_title": "Just Me and Mario", "slug_title": "just-me-and-mario", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

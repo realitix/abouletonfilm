@@ -1,1 +1,0 @@
-{"tmdb_id": 589772, "title": "Die Helgoland in Vietnam", "original_title": "Die Helgoland in Vietnam", "slug_title": "die-helgoland-in-vietnam", "date": "1966-12-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

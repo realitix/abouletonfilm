@@ -1,1 +1,0 @@
-{"tmdb_id": 492441, "title": "\uc624\ub298 \ubb50\ud574?", "original_title": "\uc624\ub298 \ubb50\ud574?", "slug_title": "oneul-mweohae", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bae Seong-woo ()"], "comments": [], "recommandations_id": []}

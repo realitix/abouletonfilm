@@ -1,1 +1,0 @@
-{"tmdb_id": 246521, "title": "Hollywood Tours", "original_title": "Hollywood Tours", "slug_title": "hollywood-tours", "date": "2014-07-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Billynair Cruz (Tony Malo)", "Lucie Colomb (Kelly)"], "comments": [], "recommandations_id": []}

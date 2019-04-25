@@ -1,1 +1,0 @@
-{"tmdb_id": 414184, "title": "Hunting Lila", "original_title": "Hunting Lila", "slug_title": "hunting-lila", "date": "", "genre": "Science-Fiction", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sasha Lane (Lila)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 362667, "title": "The Strangler", "original_title": "The Strangler", "slug_title": "the-strangler", "date": "1930-01-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jf8cjzBpd6PrNzXAh6DNVbIoCZO.jpg", "actors": [], "comments": [], "recommandations_id": []}

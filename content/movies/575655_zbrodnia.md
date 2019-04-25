@@ -1,1 +1,0 @@
-{"tmdb_id": 575655, "title": "Zbrodnia", "original_title": "Zbrodnia", "slug_title": "zbrodnia", "date": "", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

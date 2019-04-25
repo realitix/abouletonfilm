@@ -1,1 +1,0 @@
-{"tmdb_id": 242738, "title": "The Baltic Love", "original_title": "Balti armastuslood", "slug_title": "the-baltic-love", "date": "1992-01-30", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i282kaSV3YfMSGIfoAKh3Rg2ytZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

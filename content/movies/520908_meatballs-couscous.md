@@ -1,1 +1,0 @@
-{"tmdb_id": 520908, "title": "Meatballs Couscous", "original_title": "Meatballs Couscous", "slug_title": "meatballs-couscous", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 345448, "title": "Englespill", "original_title": "Englespill", "slug_title": "englespill", "date": "2009-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ingemar Gundersen (Marcus)", "Gard Knudstad (Dad)", "Beate Rostin Wexelsen (Mum)"], "comments": [], "recommandations_id": []}

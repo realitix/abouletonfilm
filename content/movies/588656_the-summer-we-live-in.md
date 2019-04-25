@@ -1,1 +1,0 @@
-{"tmdb_id": 588656, "title": "The Summer We Live In", "original_title": "El verano que vivimos", "slug_title": "the-summer-we-live-in", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Blanca Su\u00e1rez (Isabel)", "Javier Rey ()", "Carlos Cuevas ()", "Guiomar Puerta ()"], "comments": [], "recommandations_id": []}

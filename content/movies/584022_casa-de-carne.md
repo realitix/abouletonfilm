@@ -1,1 +1,0 @@
-{"tmdb_id": 584022, "title": "Casa de Carne", "original_title": "Casa de Carne", "slug_title": "casa-de-carne", "date": "2019-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eyR9jSxmLkSGS2KtogBxXaZ3m9N.jpg", "actors": [], "comments": [], "recommandations_id": []}

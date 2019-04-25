@@ -1,1 +1,0 @@
-{"tmdb_id": 536254, "title": "Borodin Quartet: Concert; Master Class", "original_title": "Kvartet im. A.P.Borodina. Kontsert i master klass", "slug_title": "borodin-quartet-concert-master-class", "date": "2002-01-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

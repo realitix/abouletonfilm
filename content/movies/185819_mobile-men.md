@@ -1,1 +1,0 @@
-{"tmdb_id": 185819, "title": "Mobile Men", "original_title": "Mobile Men", "slug_title": "mobile-men", "date": "2008-10-22", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sYygSkhREBZet5PkMHFLihT19FG.jpg", "actors": ["Jaai Loongsu ()", "Nitipong Thinthupthai ()"], "comments": [], "recommandations_id": []}

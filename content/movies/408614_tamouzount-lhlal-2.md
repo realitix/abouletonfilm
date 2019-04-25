@@ -1,1 +1,0 @@
-{"tmdb_id": 408614, "title": "Tamouzount Lhlal 2", "original_title": "Tamouzount Lhlal 2", "slug_title": "tamouzount-lhlal-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Nassiri Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qiujYEEaZWiLoZb47mM48bnYuf3.jpg", "actors": [], "comments": [], "recommandations_id": []}

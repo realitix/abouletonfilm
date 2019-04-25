@@ -1,1 +1,0 @@
-{"tmdb_id": 444761, "title": "Black & White", "original_title": "Black & White", "slug_title": "black-white", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 422601, "title": "150th Battle of Pilot Knob", "original_title": "150th Battle of Pilot Knob", "slug_title": "150th-battle-of-pilot-knob", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

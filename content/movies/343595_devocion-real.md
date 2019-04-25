@@ -1,1 +1,0 @@
-{"tmdb_id": 343595, "title": "Devoci\u00f3n Real", "original_title": "Devoci\u00f3n Real", "slug_title": "devocion-real", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8qnlVP5N1sIXLaww1GZ7Dg7NeyB.jpg", "actors": [], "comments": [], "recommandations_id": []}

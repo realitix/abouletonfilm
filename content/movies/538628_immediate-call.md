@@ -1,1 +1,0 @@
-{"tmdb_id": 538628, "title": "Immediate Call", "original_title": "Rappel imm\u00e9diat", "slug_title": "immediate-call", "date": "1939-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/92wLrhKuaOMBNafCD3EjinmeunO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 469379, "title": "100 Years of Universal: The Carl Laemmle Era", "original_title": "100 Years of Universal: The Carl Laemmle Era", "slug_title": "100-years-of-universal-the-carl-laemmle-era", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

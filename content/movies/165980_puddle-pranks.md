@@ -1,1 +1,0 @@
-{"tmdb_id": 165980, "title": "Puddle Pranks", "original_title": "Puddle Pranks", "slug_title": "puddle-pranks", "date": "1930-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

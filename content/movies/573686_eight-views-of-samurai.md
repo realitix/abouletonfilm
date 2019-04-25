@@ -1,1 +1,0 @@
-{"tmdb_id": 573686, "title": "Eight Views of Samurai", "original_title": "Ronin hakkei", "slug_title": "eight-views-of-samurai", "date": "1958-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

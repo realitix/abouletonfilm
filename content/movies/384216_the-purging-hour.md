@@ -1,1 +1,0 @@
-{"tmdb_id": 384216, "title": "The Purging Hour", "original_title": "The Purging Hour", "slug_title": "the-purging-hour", "date": "2015-10-15", "genre": "Horreur", "score": "2.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cCZCgMmH2ajZiiQaNZGmDTfGwMf.jpg", "actors": [], "comments": [], "recommandations_id": [259668, 278771, 231384, 133535]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 588272, "title": "Gumby Essentials", "original_title": "Gumby Essentials", "slug_title": "gumby-essentials", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

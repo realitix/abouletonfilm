@@ -1,1 +1,0 @@
-{"tmdb_id": 529612, "title": "Seaworld", "original_title": "Seaworld", "slug_title": "seaworld", "date": "2016-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sdMz0LVJQhkLuDBtAFxOAZlP0Ay.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 541839, "title": "The Museum of Forgotten Triumphs", "original_title": "The Museum of Forgotten Triumphs", "slug_title": "the-museum-of-forgotten-triumphs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

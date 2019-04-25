@@ -1,1 +1,0 @@
-{"tmdb_id": 81487, "title": "Body Worlds", "original_title": "K\u00f6rperwelten", "slug_title": "body-worlds", "date": "1999-01-01", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3OSQqf2J1psVspPqD3fCMwMCvy8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 140930, "title": "Soul Purpose", "original_title": "Soul Purpose", "slug_title": "soul-purpose", "date": "2004-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zjyb1Hl28DdEhaShlO3h6OqXZfW.jpg", "actors": [], "comments": [], "recommandations_id": []}

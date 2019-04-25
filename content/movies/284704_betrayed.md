@@ -1,1 +1,0 @@
-{"tmdb_id": 284704, "title": "Betrayed", "original_title": "Betrayed", "slug_title": "betrayed", "date": "1982-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mary Millington ()"], "comments": [], "recommandations_id": []}

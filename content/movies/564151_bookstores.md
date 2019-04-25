@@ -1,1 +1,0 @@
-{"tmdb_id": 564151, "title": "BOOKSTORES", "original_title": "BOOKSTORES", "slug_title": "bookstores", "date": "2018-09-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

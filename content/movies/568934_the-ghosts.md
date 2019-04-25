@@ -1,1 +1,0 @@
-{"tmdb_id": 568934, "title": "The Ghosts", "original_title": "Les fant\u00f4mes", "slug_title": "the-ghosts", "date": "2018-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ji42aPlYNtekTt27rlyj1VPRvdH.jpg", "actors": [], "comments": [], "recommandations_id": []}

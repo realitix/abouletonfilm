@@ -1,1 +1,0 @@
-{"tmdb_id": 263410, "title": "Frammenti elettrici n. 5 - Africa", "original_title": "Frammenti elettrici n. 5 - Africa", "slug_title": "frammenti-elettrici-n-5-africa", "date": "2005-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 594028, "title": "Kavaludaari", "original_title": "Kavaludaari", "slug_title": "kavaludaari", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dNFH2FhOqpAOLvvHWbzrBcL1tTX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 310062, "title": "Pond & River", "original_title": "Pond & River", "slug_title": "pond-river", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

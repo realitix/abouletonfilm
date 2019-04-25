@@ -1,1 +1,0 @@
-{"tmdb_id": 582606, "title": "Domo Arigato", "original_title": "Domo Arigato", "slug_title": "domo-arigato", "date": "1990-08-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/84SX6npSGvfJPnmNVur7WV9dkam.jpg", "actors": ["Bonnie Sher (Tara)", "Jason Ledger (Doug)"], "comments": [], "recommandations_id": []}

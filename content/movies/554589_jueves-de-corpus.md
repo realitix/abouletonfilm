@@ -1,1 +1,0 @@
-{"tmdb_id": 554589, "title": "Jueves de Corpus", "original_title": "Jueves de Corpus", "slug_title": "jueves-de-corpus", "date": "1998-02-10", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uRnz93Ibs3faCr6FaciU9HiwimS.jpg", "actors": ["Mario Almada ()"], "comments": [], "recommandations_id": []}

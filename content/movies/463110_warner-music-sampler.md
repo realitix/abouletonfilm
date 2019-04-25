@@ -1,1 +1,0 @@
-{"tmdb_id": 463110, "title": "Warner Music Sampler", "original_title": "Warner Music Sampler", "slug_title": "warner-music-sampler", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Artistes divers.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Xa4L31nXbox6sehN2u4KYfZNxB.jpg", "actors": [], "comments": [], "recommandations_id": []}

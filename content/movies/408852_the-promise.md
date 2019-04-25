@@ -1,1 +1,0 @@
-{"tmdb_id": 408852, "title": "The Promise", "original_title": "The Promise", "slug_title": "the-promise", "date": "2013-10-16", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bQcCLu9SMvLrvkKbMH1LKBOAVNt.jpg", "actors": [], "comments": [], "recommandations_id": []}

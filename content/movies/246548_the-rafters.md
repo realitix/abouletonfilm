@@ -1,1 +1,0 @@
-{"tmdb_id": 246548, "title": "The Rafters", "original_title": "The Rafters", "slug_title": "the-rafters", "date": "2012-07-12", "genre": "Drame / Horreur", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marcella Plunkett (Rose)", "Killian Scott (Jonathan)"], "comments": [], "recommandations_id": []}

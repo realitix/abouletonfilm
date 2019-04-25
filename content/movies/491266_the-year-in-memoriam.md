@@ -1,1 +1,0 @@
-{"tmdb_id": 491266, "title": "The Year in Memoriam", "original_title": "The Year in Memoriam", "slug_title": "the-year-in-memoriam", "date": "2017-12-18", "genre": "T\u00e9l\u00e9film / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dolly Parton ()", "Brad Paisley ()", "Darius Ruckerand ()"], "comments": [], "recommandations_id": []}

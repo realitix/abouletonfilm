@@ -1,1 +1,0 @@
-{"tmdb_id": 80228, "title": "Kudaikul Mazhai", "original_title": "Kudaikul Mazhai", "slug_title": "kudaikul-mazhai", "date": "2004-09-03", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Parthiban (Venkatkrishnan)", "Madhumitha ()", "Sriman ()", "Deepa Venkat ()"], "comments": [], "recommandations_id": []}

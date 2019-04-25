@@ -1,1 +1,0 @@
-{"tmdb_id": 592939, "title": "Bow Bells", "original_title": "Bow Bells", "slug_title": "bow-bells", "date": "1954-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

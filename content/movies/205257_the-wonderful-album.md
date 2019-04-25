@@ -1,1 +1,0 @@
-{"tmdb_id": 205257, "title": "The Wonderful Album", "original_title": "L'album merveilleux", "slug_title": "the-wonderful-album", "date": "1905-09-29", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/65WmKlan68aDyzbO63dWoKCwAcr.jpg", "actors": [], "comments": [], "recommandations_id": [105716, 232582, 196144, 196283]}

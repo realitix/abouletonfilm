@@ -1,1 +1,0 @@
-{"tmdb_id": 565000, "title": "The Old Homestead", "original_title": "The Old Homestead", "slug_title": "the-old-homestead", "date": "1935-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mary Carlisle (Nancy Abbott)", "Lawrence Gray (Bob Shackleforth)", "Fuzzy Knight (Lem)"], "comments": [], "recommandations_id": []}

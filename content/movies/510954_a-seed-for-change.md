@@ -1,1 +1,0 @@
-{"tmdb_id": 510954, "title": "A seed for change", "original_title": "A seed for change", "slug_title": "a-seed-for-change", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lGqtUedsWZIqqL07g5sC50W0TwH.jpg", "actors": [], "comments": [], "recommandations_id": []}

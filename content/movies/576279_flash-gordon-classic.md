@@ -1,1 +1,0 @@
-{"tmdb_id": 576279, "title": "Flash Gordon Classic", "original_title": "Flash Gordon Classic", "slug_title": "flash-gordon-classic", "date": "2015-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ipoFYfesgPPQBEZMDUz3Cxk8x3V.jpg", "actors": [], "comments": [], "recommandations_id": []}

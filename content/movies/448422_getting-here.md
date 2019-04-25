@@ -1,1 +1,0 @@
-{"tmdb_id": 448422, "title": "Getting Here", "original_title": "Getting Here", "slug_title": "getting-here", "date": "2017-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lukasz Adamczyk (Himself)"], "comments": [], "recommandations_id": []}

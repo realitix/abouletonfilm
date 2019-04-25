@@ -1,1 +1,0 @@
-{"tmdb_id": 552977, "title": "The God Plant", "original_title": "The God Plant", "slug_title": "the-god-plant", "date": "2018-10-12", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kqbESzZfez0xWOIjY1gDh5R1SaL.jpg", "actors": [], "comments": [], "recommandations_id": []}

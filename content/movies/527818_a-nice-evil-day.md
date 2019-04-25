@@ -1,1 +1,0 @@
-{"tmdb_id": 527818, "title": "A Nice Evil Day", "original_title": "A Nice Evil Day", "slug_title": "a-nice-evil-day", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x3iDzxpwOUKwXhWiUi2K1BsHTSp.jpg", "actors": [], "comments": [], "recommandations_id": []}

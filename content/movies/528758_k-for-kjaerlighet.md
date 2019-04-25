@@ -1,1 +1,0 @@
-{"tmdb_id": 528758, "title": "K for Kj\u00e6rlighet", "original_title": "K for Kj\u00e6rlighet", "slug_title": "k-for-kjaerlighet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

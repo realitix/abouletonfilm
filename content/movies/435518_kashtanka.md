@@ -1,1 +1,0 @@
-{"tmdb_id": 435518, "title": "\u041a\u0430\u0448\u0442\u0430\u043d\u043a\u0430", "original_title": "\u041a\u0430\u0448\u0442\u0430\u043d\u043a\u0430", "slug_title": "kashtanka", "date": "2004-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

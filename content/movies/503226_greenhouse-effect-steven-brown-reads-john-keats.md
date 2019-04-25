@@ -1,1 +1,0 @@
-{"tmdb_id": 503226, "title": "Greenhouse Effect. Steven Brown Reads John Keats", "original_title": "Greenhouse Effect. Steven Brown Reads John Keats", "slug_title": "greenhouse-effect-steven-brown-reads-john-keats", "date": "1988-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

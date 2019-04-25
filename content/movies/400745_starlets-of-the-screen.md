@@ -1,1 +1,0 @@
-{"tmdb_id": 400745, "title": "Starlets of the Screen", "original_title": "Starlets of the Screen", "slug_title": "starlets-of-the-screen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 450872, "title": "15 Tage Fieber", "original_title": "15 Tage Fieber", "slug_title": "15-tage-fieber", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oHajQvJhpXUI8pDWxpcj5n7CRRh.jpg", "actors": [], "comments": [], "recommandations_id": []}

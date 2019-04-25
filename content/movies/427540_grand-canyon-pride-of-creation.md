@@ -1,1 +1,0 @@
-{"tmdb_id": 427540, "title": "Grand Canyon, Pride of Creation", "original_title": "Grand Canyon, Pride of Creation", "slug_title": "grand-canyon-pride-of-creation", "date": "1943-11-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James A. FitzPatrick (Narrator)"], "comments": [], "recommandations_id": []}

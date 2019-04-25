@@ -1,1 +1,0 @@
-{"tmdb_id": 559263, "title": "Le village perdu", "original_title": "Le village perdu", "slug_title": "le-village-perdu", "date": "1947-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4DoWEQ7iTULKNSfrPoy6gVXdn7J.jpg", "actors": [], "comments": [], "recommandations_id": []}

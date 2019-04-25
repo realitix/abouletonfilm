@@ -1,1 +1,0 @@
-{"tmdb_id": 478344, "title": "By Caravan through East Africa", "original_title": "Med b\u00e6rerkaravane gjennom \u00d8st-Afrika", "slug_title": "by-caravan-through-east-africa", "date": "1920-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

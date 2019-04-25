@@ -1,1 +1,0 @@
-{"tmdb_id": 496797, "title": "Hundra Svenska \u00c5r", "original_title": "Hundra Svenska \u00c5r", "slug_title": "hundra-svenska-ar", "date": "1999-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bCMWYCPxVL0i7KJMjSRS6F2ROjo.jpg", "actors": [], "comments": [], "recommandations_id": []}

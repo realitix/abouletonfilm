@@ -1,1 +1,0 @@
-{"tmdb_id": 340110, "title": "Fantoche", "original_title": "Fantoche", "slug_title": "fantoche", "date": "1977-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joaqu\u00edn Cordero ()", "Lilia Michel ()"], "comments": [], "recommandations_id": []}

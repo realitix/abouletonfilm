@@ -1,1 +1,0 @@
-{"tmdb_id": 592561, "title": "Patrimonium", "original_title": "Patrimonium", "slug_title": "patrimonium", "date": "2019-01-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jaO12JbHw4SBQ3FWGcmWQsiQ6xu.jpg", "actors": [], "comments": [], "recommandations_id": []}

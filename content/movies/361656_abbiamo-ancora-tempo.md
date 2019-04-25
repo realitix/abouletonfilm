@@ -1,1 +1,0 @@
-{"tmdb_id": 361656, "title": "Abbiamo ancora tempo.", "original_title": "Abbiamo ancora tempo.", "slug_title": "abbiamo-ancora-tempo", "date": "2011-01-01", "genre": "Horreur / Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Willy Stella (Carson)"], "comments": [], "recommandations_id": []}

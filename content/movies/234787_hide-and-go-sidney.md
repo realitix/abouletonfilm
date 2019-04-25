@@ -1,1 +1,0 @@
-{"tmdb_id": 234787, "title": "Hide and Go Sidney", "original_title": "Hide and Go Sidney", "slug_title": "hide-and-go-sidney", "date": "1959-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

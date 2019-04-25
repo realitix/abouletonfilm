@@ -1,1 +1,0 @@
-{"tmdb_id": 336032, "title": "The Old Jewish Cemetery", "original_title": "The Old Jewish Cemetery", "slug_title": "the-old-jewish-cemetery", "date": "2015-05-02", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oudWjIQLzWX1IsBZwc1rJ88FYva.jpg", "actors": [], "comments": [], "recommandations_id": []}

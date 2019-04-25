@@ -1,1 +1,0 @@
-{"tmdb_id": 171615, "title": "Black Briefs", "original_title": "Black Briefs", "slug_title": "black-briefs", "date": "2012-02-21", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4P3IkEBBcBE2hsN0xYCiniYRZBz.jpg", "actors": [], "comments": [], "recommandations_id": []}

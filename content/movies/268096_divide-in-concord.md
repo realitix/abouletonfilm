@@ -1,1 +1,0 @@
-{"tmdb_id": 268096, "title": "Divide In Concord", "original_title": "Divide In Concord", "slug_title": "divide-in-concord", "date": "2014-04-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uFyhtZnXe3jWQlTv2x95XEeg2sc.jpg", "actors": [], "comments": [], "recommandations_id": []}

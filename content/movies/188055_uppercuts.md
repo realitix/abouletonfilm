@@ -1,1 +1,0 @@
-{"tmdb_id": 188055, "title": "Uppercuts", "original_title": "Uppercuts", "slug_title": "uppercuts", "date": "1926-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

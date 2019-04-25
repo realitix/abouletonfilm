@@ -1,1 +1,0 @@
-{"tmdb_id": 205112, "title": "Freddie Hubbard - All Blues", "original_title": "Freddie Hubbard - All Blues", "slug_title": "freddie-hubbard-all-blues", "date": "1991-10-20", "genre": "Musique", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nM8khqc4NjYVn30bQHfbKIWCBLR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 137134, "title": "Fotbollskr\u00f6nikan VM 1990", "original_title": "Fotbollskr\u00f6nikan VM 1990", "slug_title": "fotbollskronikan-vm-1990", "date": "1990-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l2HxkyVIRu7k39eWypgeXbeWgqq.jpg", "actors": [], "comments": [], "recommandations_id": []}

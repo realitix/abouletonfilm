@@ -1,1 +1,0 @@
-{"tmdb_id": 375529, "title": "We Will Stand", "original_title": "We Will Stand", "slug_title": "we-will-stand", "date": "2015-09-25", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qyHSZyzOsjwT92E3qexKYuvTC9O.jpg", "actors": [], "comments": [], "recommandations_id": []}

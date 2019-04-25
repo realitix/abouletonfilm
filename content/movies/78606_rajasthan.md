@@ -1,1 +1,0 @@
-{"tmdb_id": 78606, "title": "Rajasthan", "original_title": "Rajasthan", "slug_title": "rajasthan", "date": "1999-05-01", "genre": "Romance", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["R. Sarathkumar ()", "Vijayashanti ()", "Manivannan ()", "Vadivelu ()", "Manjula Ghattamaneni (Terrorist)"], "comments": [], "recommandations_id": []}

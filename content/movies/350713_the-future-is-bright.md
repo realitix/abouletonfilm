@@ -1,1 +1,0 @@
-{"tmdb_id": 350713, "title": "The Future Is Bright", "original_title": "The Future Is Bright", "slug_title": "the-future-is-bright", "date": "2011-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5kp82O6eHhdsQmb2WpL9S7HHZjA.jpg", "actors": [], "comments": [], "recommandations_id": []}

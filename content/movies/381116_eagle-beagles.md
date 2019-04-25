@@ -1,1 +1,0 @@
-{"tmdb_id": 381116, "title": "Eagle Beagles", "original_title": "Eagle Beagles", "slug_title": "eagle-beagles", "date": "1975-05-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Holt (Dogfather (voice))", "Daws Butler (Pug / Louie (voice))"], "comments": [], "recommandations_id": []}

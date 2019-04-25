@@ -1,1 +1,0 @@
-{"tmdb_id": 349811, "title": "\ubcf5\ub9c8\uc804", "original_title": "\ubcf5\ub9c8\uc804", "slug_title": "bogmajeon", "date": "1983-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

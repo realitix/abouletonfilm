@@ -1,1 +1,0 @@
-{"tmdb_id": 303013, "title": "Mohabat Ka Paigham", "original_title": "Mohabat Ka Paigham", "slug_title": "mohabat-ka-paigham", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

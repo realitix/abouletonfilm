@@ -1,1 +1,0 @@
-{"tmdb_id": 263040, "title": "The Oompahs", "original_title": "The Oompahs", "slug_title": "the-oompahs", "date": "1952-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cfuMLs2pFwgQtMGGBIjnuYpqCXw.jpg", "actors": ["Marvin Miller (Narrator)"], "comments": [], "recommandations_id": []}

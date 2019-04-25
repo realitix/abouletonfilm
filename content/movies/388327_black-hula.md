@@ -1,1 +1,0 @@
-{"tmdb_id": 388327, "title": "Black Hula", "original_title": "Black Hula", "slug_title": "black-hula", "date": "1988-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

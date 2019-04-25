@@ -1,1 +1,0 @@
-{"tmdb_id": 361965, "title": "Prisoners", "original_title": "Prisoners", "slug_title": "prisoners", "date": "1971-04-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b1UrytnT7FbmJaLyUntNDTfjFDH.jpg", "actors": ["Edward Woodward ()", "Warren Mitchell ()"], "comments": [], "recommandations_id": []}

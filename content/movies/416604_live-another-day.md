@@ -1,1 +1,0 @@
-{"tmdb_id": 416604, "title": "Live Another Day", "original_title": "Live Another Day", "slug_title": "live-another-day", "date": "2016-09-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9DJYelFVtRuysESaoqBxtChllit.jpg", "actors": ["Jay Alix (Himself)"], "comments": [], "recommandations_id": []}

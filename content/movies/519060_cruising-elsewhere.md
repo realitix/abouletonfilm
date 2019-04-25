@@ -1,1 +1,0 @@
-{"tmdb_id": 519060, "title": "Cruising Elsewhere", "original_title": "Cruising Elsewhere", "slug_title": "cruising-elsewhere", "date": "2017-06-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/388b89tlYNHs3RFGfW0FhI2bN6e.jpg", "actors": [], "comments": [], "recommandations_id": []}

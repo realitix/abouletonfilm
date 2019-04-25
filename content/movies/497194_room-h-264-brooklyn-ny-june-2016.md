@@ -1,1 +1,0 @@
-{"tmdb_id": 497194, "title": "ROOM H.264: Brooklyn, NY, June 2016", "original_title": "ROOM H.264: Brooklyn, NY, June 2016", "slug_title": "room-h-264-brooklyn-ny-june-2016", "date": "2018-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

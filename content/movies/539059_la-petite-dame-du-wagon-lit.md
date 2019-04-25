@@ -1,1 +1,0 @@
-{"tmdb_id": 539059, "title": "La petite dame du wagon-lit", "original_title": "La petite dame du wagon-lit", "slug_title": "la-petite-dame-du-wagon-lit", "date": "1936-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7fPh5qJRHWOiA1xud4lYKUCwuom.jpg", "actors": [], "comments": [], "recommandations_id": []}

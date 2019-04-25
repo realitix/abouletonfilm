@@ -1,1 +1,0 @@
-{"tmdb_id": 310727, "title": "Ice Cream: Vol. 1", "original_title": "Ice Cream: Vol. 1", "slug_title": "ice-cream-vol-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

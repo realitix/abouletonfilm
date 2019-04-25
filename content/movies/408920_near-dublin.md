@@ -1,1 +1,0 @@
-{"tmdb_id": 408920, "title": "Near Dublin", "original_title": "Near Dublin", "slug_title": "near-dublin", "date": "1924-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stan Laurel (Con)", "Ena Gregory (The girl)", "James Finlayson (Brick merchant Sir Patrick)"], "comments": [], "recommandations_id": []}

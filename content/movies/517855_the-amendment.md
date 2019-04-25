@@ -1,1 +1,0 @@
-{"tmdb_id": 517855, "title": "The Amendment", "original_title": "The Amendment", "slug_title": "the-amendment", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yXJ77ag0hUd7eA1GX4Pe2DQLKMH.jpg", "actors": [], "comments": [], "recommandations_id": []}

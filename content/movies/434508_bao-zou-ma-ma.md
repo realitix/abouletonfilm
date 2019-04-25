@@ -1,1 +1,0 @@
-{"tmdb_id": 434508, "title": "Bao Zou Ma Ma", "original_title": "Bao Zou Ma Ma", "slug_title": "bao-zou-ma-ma", "date": "2012-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5XI25RQfFWhMfeOtkS5nSFLMI0j.jpg", "actors": ["Fang Qing-Zhuo (Chen Guixian)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 512000, "title": "The Forest Is Offended", "original_title": "The Forest Is Offended", "slug_title": "the-forest-is-offended", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

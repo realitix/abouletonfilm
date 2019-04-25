@@ -1,1 +1,0 @@
-{"tmdb_id": 49115, "title": "Oedipe - [N+1]", "original_title": "Oedipe - [N+1]", "slug_title": "oedipe-n-1", "date": "2003-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6btTkNtqHTsx6Xy1U7qhbRMv5u3.jpg", "actors": [], "comments": [], "recommandations_id": []}

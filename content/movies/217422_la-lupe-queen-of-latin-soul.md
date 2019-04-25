@@ -1,1 +1,0 @@
-{"tmdb_id": 217422, "title": "La Lupe: Queen of Latin Soul", "original_title": "La Lupe: Queen of Latin Soul", "slug_title": "la-lupe-queen-of-latin-soul", "date": "2007-06-05", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["America Ferrera (Herself)", "La Lupe (Herself)"], "comments": [], "recommandations_id": []}

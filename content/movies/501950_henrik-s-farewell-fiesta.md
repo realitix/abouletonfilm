@@ -1,1 +1,0 @@
-{"tmdb_id": 501950, "title": "Henrik's Farewell Fiesta", "original_title": "Henrik's Farewell Fiesta", "slug_title": "henrik-s-farewell-fiesta", "date": "2004-06-21", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Margot McCuaig (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 80817, "title": "Sharkman", "original_title": "Sharkman", "slug_title": "sharkman", "date": "2007-03-17", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mike Rutzen (itself)", "Christina Zenato (itself)", "Samuel Gruber (itself)"], "comments": [], "recommandations_id": []}

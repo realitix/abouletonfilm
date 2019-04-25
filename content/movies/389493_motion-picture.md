@@ -1,1 +1,0 @@
-{"tmdb_id": 389493, "title": "Motion Picture", "original_title": "Motion Picture", "slug_title": "motion-picture", "date": "1970-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mkYlkyTe4I1K9AxttDcNkUiXgUX.jpg", "actors": [], "comments": [], "recommandations_id": []}

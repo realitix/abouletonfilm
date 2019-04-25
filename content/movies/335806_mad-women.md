@@ -1,1 +1,0 @@
-{"tmdb_id": 335806, "title": "Mad Women", "original_title": "Mad Women", "slug_title": "mad-women", "date": "2015-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7GrJAFgdBu8jxgETjlGuX7u6QtH.jpg", "actors": [], "comments": [], "recommandations_id": []}

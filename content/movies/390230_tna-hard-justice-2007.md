@@ -1,1 +1,0 @@
-{"tmdb_id": 390230, "title": "TNA Hard Justice 2007", "original_title": "TNA Hard Justice 2007", "slug_title": "tna-hard-justice-2007", "date": "2007-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7tx8I3eVUkegxOUIuIJ8SIR9di3.jpg", "actors": [], "comments": [], "recommandations_id": []}

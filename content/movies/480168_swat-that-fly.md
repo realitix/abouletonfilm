@@ -1,1 +1,0 @@
-{"tmdb_id": 480168, "title": "Swat That Fly", "original_title": "Swat That Fly", "slug_title": "swat-that-fly", "date": "1921-10-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

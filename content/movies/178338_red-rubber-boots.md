@@ -1,1 +1,0 @@
-{"tmdb_id": 178338, "title": "Red Rubber Boots", "original_title": "Crvene gumene \u010dizme", "slug_title": "red-rubber-boots", "date": "2000-01-01", "genre": "Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5MfVNO6TaSPA2GoGNvfY9GsgYel.jpg", "actors": [], "comments": [], "recommandations_id": []}

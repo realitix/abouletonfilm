@@ -1,1 +1,0 @@
-{"tmdb_id": 519764, "title": "Wednesday", "original_title": "Wednesday", "slug_title": "wednesday", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3pXj6XrOBmv08Ci5JPKy98NQlOh.jpg", "actors": ["Eilidh Dewar (Eilidh)", "Chris Ross (Chris)"], "comments": [], "recommandations_id": []}

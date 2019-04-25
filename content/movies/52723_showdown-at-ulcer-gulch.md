@@ -1,1 +1,0 @@
-{"tmdb_id": 52723, "title": "Showdown at Ulcer Gulch", "original_title": "Showdown at Ulcer Gulch", "slug_title": "showdown-at-ulcer-gulch", "date": "1956-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Hope (Influential Man)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 294312, "title": "Mobilize", "original_title": "Mobilize", "slug_title": "mobilize", "date": "2014-07-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wSNReY8CFvd5z4RLWOtfZyx5sQB.jpg", "actors": [], "comments": [], "recommandations_id": []}

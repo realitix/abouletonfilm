@@ -1,1 +1,0 @@
-{"tmdb_id": 190868, "title": "Occupy Love", "original_title": "Occupy Love", "slug_title": "occupy-love", "date": "2013-05-03", "genre": "Documentaire / Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9SyW15ENgQ7ABItaG73wbLMwVvb.jpg", "actors": [], "comments": [], "recommandations_id": []}

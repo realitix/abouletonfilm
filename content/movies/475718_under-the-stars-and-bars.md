@@ -1,1 +1,0 @@
-{"tmdb_id": 475718, "title": "Under the Stars and Bars", "original_title": "Under the Stars and Bars", "slug_title": "under-the-stars-and-bars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

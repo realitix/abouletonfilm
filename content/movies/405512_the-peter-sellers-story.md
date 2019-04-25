@@ -1,1 +1,0 @@
-{"tmdb_id": 405512, "title": "The Peter Sellers Story", "original_title": "The Peter Sellers Story", "slug_title": "the-peter-sellers-story", "date": "1995-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

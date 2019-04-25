@@ -1,1 +1,0 @@
-{"tmdb_id": 582193, "title": "Reich Dance Redemption", "original_title": "Reich Dance Redemption", "slug_title": "reich-dance-redemption", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

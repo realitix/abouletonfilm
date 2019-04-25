@@ -1,1 +1,0 @@
-{"tmdb_id": 382376, "title": "Lucky Luke - Vogelvrij", "original_title": "Lucky Luke - Vogelvrij", "slug_title": "lucky-luke-vogelvrij", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/58zbXY0Y16Z34Cr5ismGzOl8D4C.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 587610, "title": "\u041a\u043b\u044f\u0442\u0432\u0430", "original_title": "\u041a\u043b\u044f\u0442\u0432\u0430", "slug_title": "kliatva", "date": "", "genre": "Drame / Guerre / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

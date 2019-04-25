@@ -1,1 +1,0 @@
-{"tmdb_id": 460647, "title": "For Juni", "original_title": "For Juni", "slug_title": "for-juni", "date": "2017-06-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f7fwOAdil35aLlPoNxEwD7nWsvp.jpg", "actors": ["Tallie Thayer (Riley)", "Lizzy Marsillo (Juni)"], "comments": [], "recommandations_id": []}

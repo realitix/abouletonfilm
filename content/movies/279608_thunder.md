@@ -1,1 +1,0 @@
-{"tmdb_id": 279608, "title": "Thunder", "original_title": "Thunder", "slug_title": "thunder", "date": "1982-07-11", "genre": "Animation / Fantastique / Myst\u00e8re", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k0iDi0wMU5X1yss3Na3K6gBCaa3.jpg", "actors": [], "comments": [], "recommandations_id": [132367, 247567, 144717, 222226]}

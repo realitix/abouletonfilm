@@ -1,1 +1,0 @@
-{"tmdb_id": 415011, "title": "Jack and Jill", "original_title": "Jack and Jill", "slug_title": "jack-and-jill", "date": "1954-06-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Uud4Ceden5VWEjSx6FWegVKrJD.jpg", "actors": [], "comments": [], "recommandations_id": []}

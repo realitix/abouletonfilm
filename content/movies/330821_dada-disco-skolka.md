@@ -1,1 +1,0 @@
-{"tmdb_id": 330821, "title": "D\u00e1da - Disco \u0161kolka", "original_title": "D\u00e1da - Disco \u0161kolka", "slug_title": "dada-disco-skolka", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Nsw0sWIVgU66VXSH5gFp2CV866.jpg", "actors": [], "comments": [], "recommandations_id": []}

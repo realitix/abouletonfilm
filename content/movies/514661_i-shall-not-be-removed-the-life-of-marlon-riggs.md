@@ -1,1 +1,0 @@
-{"tmdb_id": 514661, "title": "I Shall Not Be Removed: The Life of Marlon Riggs", "original_title": "I Shall Not Be Removed: The Life of Marlon Riggs", "slug_title": "i-shall-not-be-removed-the-life-of-marlon-riggs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 90680, "title": "Vida Maria", "original_title": "Vida Maria", "slug_title": "vida-maria", "date": "2007-03-23", "genre": "Animation / Drame", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/svwwDZXwRkf6UgP0fH7ytlMkkWY.jpg", "actors": ["M\u00e1rcio Ramos ()"], "comments": [], "recommandations_id": [79405]}

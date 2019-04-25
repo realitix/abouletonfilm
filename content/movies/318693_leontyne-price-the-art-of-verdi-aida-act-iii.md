@@ -1,1 +1,0 @@
-{"tmdb_id": 318693, "title": "Leontyne Price: The Art of Verdi: Aida: Act III", "original_title": "Leontyne Price: The Art of Verdi: Aida: Act III", "slug_title": "leontyne-price-the-art-of-verdi-aida-act-iii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

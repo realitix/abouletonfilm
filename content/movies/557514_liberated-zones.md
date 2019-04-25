@@ -1,1 +1,0 @@
-{"tmdb_id": 557514, "title": "Liberated Zones", "original_title": "Liberated Zones", "slug_title": "liberated-zones", "date": "2018-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iUkT2CcimQSzuhKpvdEm6HWeeKw.jpg", "actors": [], "comments": [], "recommandations_id": []}

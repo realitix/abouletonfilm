@@ -1,1 +1,0 @@
-{"tmdb_id": 321431, "title": "In the Cockpit: Red Star", "original_title": "In the Cockpit: Red Star", "slug_title": "in-the-cockpit-red-star", "date": "2007-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 277165, "title": "Hot Chicken", "original_title": "Hot Chicken", "slug_title": "hot-chicken", "date": "2014-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rNBlD2nkQx8618YuRmF3eX3nTG.jpg", "actors": [], "comments": [], "recommandations_id": []}

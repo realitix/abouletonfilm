@@ -1,1 +1,0 @@
-{"tmdb_id": 575029, "title": "Field-Trip", "original_title": "Field-Trip", "slug_title": "field-trip", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wqrYCsx8KIRJw7f9n0q9Adw8Z9i.jpg", "actors": [], "comments": [], "recommandations_id": []}

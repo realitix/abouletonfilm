@@ -1,1 +1,0 @@
-{"tmdb_id": 418883, "title": "Rogue Male", "original_title": "Rogue Male", "slug_title": "rogue-male", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oTTKIkBovNoH5svfNXYsURMrUTM.jpg", "actors": ["Benedict Cumberbatch ()"], "comments": [], "recommandations_id": [457232, 424853, 76545]}

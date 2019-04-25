@@ -1,1 +1,0 @@
-{"tmdb_id": 415437, "title": "La Bonne purge", "original_title": "La Bonne purge", "slug_title": "la-bonne-purge", "date": "1904-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charles Armand M\u00e9nard dit Dranem ()"], "comments": [], "recommandations_id": []}

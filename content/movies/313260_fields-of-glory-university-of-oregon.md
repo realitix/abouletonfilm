@@ -1,1 +1,0 @@
-{"tmdb_id": 313260, "title": "Fields of Glory: University of Oregon", "original_title": "Fields of Glory: University of Oregon", "slug_title": "fields-of-glory-university-of-oregon", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

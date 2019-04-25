@@ -1,1 +1,0 @@
-{"tmdb_id": 332579, "title": "Heroes Behind The Badge: Sacrifice & Survival", "original_title": "Heroes Behind The Badge: Sacrifice & Survival", "slug_title": "heroes-behind-the-badge-sacrifice-survival", "date": "2013-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

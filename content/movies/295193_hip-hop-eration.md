@@ -1,1 +1,0 @@
-{"tmdb_id": 295193, "title": "Hip Hop-eration", "original_title": "Hip Hop-eration", "slug_title": "hip-hop-eration", "date": "2014-09-25", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3UEWKXbrfGETML8FfENDz23Orro.jpg", "actors": [], "comments": [], "recommandations_id": []}

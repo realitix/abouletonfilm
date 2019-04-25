@@ -1,1 +1,0 @@
-{"tmdb_id": 56357, "title": "Project Snake: Low Budget Espionage", "original_title": "Project Snake: Low Budget Espionage", "slug_title": "project-snake-low-budget-espionage", "date": "2006-09-09", "genre": "Action / Com\u00e9die", "score": "5.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

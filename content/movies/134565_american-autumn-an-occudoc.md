@@ -1,1 +1,0 @@
-{"tmdb_id": 134565, "title": "American Autumn: An Occudoc", "original_title": "American Autumn: An Occudoc", "slug_title": "american-autumn-an-occudoc", "date": "2012-09-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tEHeLofKpj6GmDNByMw33Mw9cpl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 481929, "title": "Voluntad", "original_title": "Voluntad", "slug_title": "voluntad", "date": "1928-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 366560, "title": "This Was Intense", "original_title": "This Was Intense", "slug_title": "this-was-intense", "date": "2015-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zEIu7uGRxjI4kgiNsNIyZvQTtai.jpg", "actors": ["Armin van Buuren ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 292883, "title": "Memoirs of My Nervous Illness", "original_title": "Memoirs of My Nervous Illness", "slug_title": "memoirs-of-my-nervous-illness", "date": "2006-12-15", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c7c2gzB4PXAkDMH3cBEXMRucsM1.jpg", "actors": [], "comments": [], "recommandations_id": []}

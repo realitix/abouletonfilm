@@ -1,1 +1,0 @@
-{"tmdb_id": 234046, "title": "El carretero", "original_title": "El carretero", "slug_title": "el-carretero", "date": "1930-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carlos Gardel ()", "Arturo De Nava ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 352182, "title": "Rainy Days", "original_title": "Lietus dienas", "slug_title": "rainy-days", "date": "2014-08-22", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Aw63tGk1UfEGlqj3O8qOIXaXyac.jpg", "actors": [], "comments": [], "recommandations_id": []}

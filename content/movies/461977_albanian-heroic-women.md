@@ -1,1 +1,0 @@
-{"tmdb_id": 461977, "title": "Albanian Heroic Women", "original_title": "Gra heroike shqiptare p\u00ebrpara", "slug_title": "albanian-heroic-women", "date": "1967-06-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c7C0ujFlrUpwOY9v8AkBHMLdyvS.jpg", "actors": [], "comments": [], "recommandations_id": []}

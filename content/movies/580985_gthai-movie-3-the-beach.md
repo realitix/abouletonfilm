@@ -1,1 +1,0 @@
-{"tmdb_id": 580985, "title": "GThai Movie 3: The Beach", "original_title": "GThai Movie 3: The Beach", "slug_title": "gthai-movie-3-the-beach", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cTmJbjgr1Sj2ND9UaP3fHhPFWWl.jpg", "actors": [], "comments": [], "recommandations_id": []}

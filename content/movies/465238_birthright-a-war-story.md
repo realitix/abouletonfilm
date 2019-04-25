@@ -1,1 +1,0 @@
-{"tmdb_id": 465238, "title": "Birthright: A War Story", "original_title": "Birthright: A War Story", "slug_title": "birthright-a-war-story", "date": "2017-07-14", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m9fMdAqC86WjEf5Rkb2o8N3o1IL.jpg", "actors": [], "comments": [], "recommandations_id": []}

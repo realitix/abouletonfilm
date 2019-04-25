@@ -1,1 +1,0 @@
-{"tmdb_id": 304285, "title": "Kasam Durga Ki", "original_title": "Kasam Durga Ki", "slug_title": "kasam-durga-ki", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

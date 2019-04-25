@@ -1,1 +1,0 @@
-{"tmdb_id": 105141, "title": "Trouble Man", "original_title": "Trouble Man", "slug_title": "trouble-man", "date": "2010-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vB40XnEvtcffTk7cwNZ2CZRs010.jpg", "actors": [], "comments": [], "recommandations_id": []}

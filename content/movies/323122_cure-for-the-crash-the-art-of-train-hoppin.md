@@ -1,1 +1,0 @@
-{"tmdb_id": 323122, "title": "Cure for the Crash... the Art of Train Hoppin'", "original_title": "Cure for the Crash... the Art of Train Hoppin'", "slug_title": "cure-for-the-crash-the-art-of-train-hoppin", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

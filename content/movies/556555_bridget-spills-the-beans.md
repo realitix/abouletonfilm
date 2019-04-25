@@ -1,1 +1,0 @@
-{"tmdb_id": 556555, "title": "BRIDGET SPILLS THE BEANS", "original_title": "BRIDGET SPILLS THE BEANS", "slug_title": "bridget-spills-the-beans", "date": "2006-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nU7PbaPs5aJ2Y8nvB4h9sKIrWzz.jpg", "actors": [], "comments": [], "recommandations_id": []}

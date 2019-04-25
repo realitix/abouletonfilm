@@ -1,1 +1,0 @@
-{"tmdb_id": 475825, "title": "The Corridor", "original_title": "The Corridor", "slug_title": "the-corridor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

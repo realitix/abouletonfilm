@@ -1,1 +1,0 @@
-{"tmdb_id": 99034, "title": "Coal Rush", "original_title": "Coal Rush", "slug_title": "coal-rush", "date": "2012-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fPrSY4xGAuD2zMaXRwrym7sh3mu.jpg", "actors": [], "comments": [], "recommandations_id": []}

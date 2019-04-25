@@ -1,1 +1,0 @@
-{"tmdb_id": 419812, "title": "I Begin to Know You", "original_title": "I Begin to Know You", "slug_title": "i-begin-to-know-you", "date": "1992-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

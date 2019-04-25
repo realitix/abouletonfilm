@@ -1,1 +1,0 @@
-{"tmdb_id": 349516, "title": "\uc2e4\ub77d\uc6d0", "original_title": "\uc2e4\ub77d\uc6d0", "slug_title": "silragweon", "date": "1998-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

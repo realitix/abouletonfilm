@@ -1,1 +1,0 @@
-{"tmdb_id": 488910, "title": "Mr. & Ms. and the Bandstand Mystery", "original_title": "Mr. & Ms. and the Bandstand Mystery", "slug_title": "mr-ms-and-the-bandstand-mystery", "date": "1975-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

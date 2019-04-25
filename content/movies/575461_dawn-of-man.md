@@ -1,1 +1,0 @@
-{"tmdb_id": 575461, "title": "Dawn Of Man", "original_title": "Dawn Of Man", "slug_title": "dawn-of-man", "date": "2019-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["AJ Bowen ()", "Will Wallace ()", "Julia Silverman ()"], "comments": [], "recommandations_id": []}

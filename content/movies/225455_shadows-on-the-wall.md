@@ -1,1 +1,0 @@
-{"tmdb_id": 225455, "title": "Shadows on the Wall", "original_title": "Shadows on the Wall", "slug_title": "shadows-on-the-wall", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wilford Brimley ()", "Shelly Burmeister-Gaylord ()", "E.K. Gaylord II ()"], "comments": [], "recommandations_id": []}

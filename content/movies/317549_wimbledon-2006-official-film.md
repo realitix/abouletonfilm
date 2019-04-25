@@ -1,1 +1,0 @@
-{"tmdb_id": 317549, "title": "Wimbledon 2006 Official Film", "original_title": "Wimbledon 2006 Official Film", "slug_title": "wimbledon-2006-official-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

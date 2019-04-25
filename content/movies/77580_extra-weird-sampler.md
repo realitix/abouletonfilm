@@ -1,1 +1,0 @@
-{"tmdb_id": 77580, "title": "Extra Weird Sampler", "original_title": "Something Weird Video: Extra Weird Sampler", "slug_title": "extra-weird-sampler", "date": "2003-10-14", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qlMYn9JNzSfPBgv5N0hDZZJjEEd.jpg", "actors": [], "comments": [], "recommandations_id": []}

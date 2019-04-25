@@ -1,1 +1,0 @@
-{"tmdb_id": 230743, "title": "My Prairie Home", "original_title": "My Prairie Home", "slug_title": "my-prairie-home", "date": "2013-11-29", "genre": "Documentaire / Musique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8yyFONOMOCjDgxDEoENONpsNRat.jpg", "actors": ["Rae Spoon (Herself)"], "comments": [], "recommandations_id": []}

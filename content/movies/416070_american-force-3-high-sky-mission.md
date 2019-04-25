@@ -1,1 +1,0 @@
-{"tmdb_id": 416070, "title": "American Force 3: High Sky Mission", "original_title": "American Force 3: High Sky Mission", "slug_title": "american-force-3-high-sky-mission", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mike Abbott ()", "Arthur Garrett ()"], "comments": [], "recommandations_id": []}

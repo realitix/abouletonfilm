@@ -1,1 +1,0 @@
-{"tmdb_id": 555488, "title": "The Gold Chignon", "original_title": "Chignon d'or", "slug_title": "the-gold-chignon", "date": "1916-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

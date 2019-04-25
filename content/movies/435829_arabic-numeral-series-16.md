@@ -1,1 +1,0 @@
-{"tmdb_id": 435829, "title": "Arabic Numeral Series 16", "original_title": "Arabic Numeral Series 16", "slug_title": "arabic-numeral-series-16", "date": "1982-01-18", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h3pJTEUGPxLxINz3RFTRUrEazmp.jpg", "actors": [], "comments": [], "recommandations_id": []}

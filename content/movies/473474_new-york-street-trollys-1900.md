@@ -1,1 +1,0 @@
-{"tmdb_id": 473474, "title": "New York Street-Trollys 1900", "original_title": "New York Street-Trollys 1900", "slug_title": "new-york-street-trollys-1900", "date": "1999-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

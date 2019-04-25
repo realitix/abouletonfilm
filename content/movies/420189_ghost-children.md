@@ -1,1 +1,0 @@
-{"tmdb_id": 420189, "title": "Ghost Children", "original_title": "As crian\u00e7as fantasmas", "slug_title": "ghost-children", "date": "2016-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

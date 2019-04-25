@@ -1,1 +1,0 @@
-{"tmdb_id": 506218, "title": "Just Be There", "original_title": "Just Be There", "slug_title": "just-be-there", "date": "1973-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8KNViRrKq4sjxTkD5ixhCeCm241.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 552404, "title": "Salam - The First ****** Nobel Laureate", "original_title": "Salam - The First ****** Nobel Laureate", "slug_title": "salam-the-first-nobel-laureate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

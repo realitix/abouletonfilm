@@ -1,1 +1,0 @@
-{"tmdb_id": 313189, "title": "NBA Hardwood Classics: Courtside Comedy", "original_title": "NBA Hardwood Classics: Courtside Comedy", "slug_title": "nba-hardwood-classics-courtside-comedy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 382521, "title": "The Green Wave", "original_title": "The Green Wave", "slug_title": "the-green-wave", "date": "2011-02-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mkt9loeGCcbQkHWLK6iAegFx4El.jpg", "actors": [], "comments": [], "recommandations_id": []}

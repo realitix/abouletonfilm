@@ -1,1 +1,0 @@
-{"tmdb_id": 503959, "title": "Few Are Chosen", "original_title": "Few Are Chosen", "slug_title": "few-are-chosen", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mcLWbPFLqWW1Rs1QbEbp76ThghI.jpg", "actors": [], "comments": [], "recommandations_id": []}

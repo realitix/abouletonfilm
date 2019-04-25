@@ -1,1 +1,0 @@
-{"tmdb_id": 545352, "title": "Borta bra", "original_title": "Borta bra", "slug_title": "borta-bra", "date": "2008-01-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 559677, "title": "Hotbed of Sin", "original_title": "Bo\u00eete de nuit", "slug_title": "hotbed-of-sin", "date": "1951-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zLxIDdJ7I1GsQVsaYChjGbrD5cX.jpg", "actors": [], "comments": [], "recommandations_id": []}

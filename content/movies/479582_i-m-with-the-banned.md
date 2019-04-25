@@ -1,1 +1,0 @@
-{"tmdb_id": 479582, "title": "I'm With the Banned", "original_title": "I'm With the Banned", "slug_title": "i-m-with-the-banned", "date": "2017-10-14", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 396528, "title": "NFG the Movie", "original_title": "NFG the Movie", "slug_title": "nfg-the-movie", "date": "2016-04-20", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Y1ldJ9IYJVnZMe0tALsvWOE5yo.jpg", "actors": [], "comments": [], "recommandations_id": []}

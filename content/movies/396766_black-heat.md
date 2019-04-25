@@ -1,1 +1,0 @@
-{"tmdb_id": 396766, "title": "Black Heat", "original_title": "Black Heat", "slug_title": "black-heat", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

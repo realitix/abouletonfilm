@@ -1,1 +1,0 @@
-{"tmdb_id": 554019, "title": "Marcats per l'1 d'Octubre", "original_title": "Marcats per l'1 d'Octubre", "slug_title": "marcats-per-l-1-d-octubre", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Y9AJZUR454IJYf2GbJ5LFQ2MhQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

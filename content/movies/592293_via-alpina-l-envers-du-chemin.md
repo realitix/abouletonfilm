@@ -1,1 +1,0 @@
-{"tmdb_id": 592293, "title": "Via Alpina - L'envers du chemin", "original_title": "Via Alpina - L'envers du chemin", "slug_title": "via-alpina-l-envers-du-chemin", "date": "2017-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fih7ap0hwre8Z3PYdN0qg29LTTU.jpg", "actors": [], "comments": [], "recommandations_id": []}

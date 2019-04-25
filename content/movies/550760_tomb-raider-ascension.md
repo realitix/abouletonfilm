@@ -1,1 +1,0 @@
-{"tmdb_id": 550760, "title": "Tomb Raider Ascension", "original_title": "Tomb Raider Ascension", "slug_title": "tomb-raider-ascension", "date": "2007-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2pETYJzQv38CWzIUe5KAb9lYwux.jpg", "actors": [], "comments": [], "recommandations_id": []}

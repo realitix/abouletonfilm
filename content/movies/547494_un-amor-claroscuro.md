@@ -1,1 +1,0 @@
-{"tmdb_id": 547494, "title": "Un amor claroscuro", "original_title": "Un amor claroscuro", "slug_title": "un-amor-claroscuro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bruno Bergonzini ()", "Pascale Rocard ()", "Ricard Sales ()", "Quim Lecina ()"], "comments": [], "recommandations_id": []}

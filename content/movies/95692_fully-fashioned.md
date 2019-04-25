@@ -1,1 +1,0 @@
-{"tmdb_id": 95692, "title": "Fully Fashioned", "original_title": "Fully Fashioned", "slug_title": "fully-fashioned", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

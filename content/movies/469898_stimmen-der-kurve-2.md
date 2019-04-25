@@ -1,1 +1,0 @@
-{"tmdb_id": 469898, "title": "Stimmen der Kurve 2", "original_title": "Stimmen der Kurve 2", "slug_title": "stimmen-der-kurve-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

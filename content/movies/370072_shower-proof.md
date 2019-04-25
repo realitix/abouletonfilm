@@ -1,1 +1,0 @@
-{"tmdb_id": 370072, "title": "Shower Proof", "original_title": "Shower Proof", "slug_title": "shower-proof", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4XvsVHy8ywTodHgkzrMCLPDd1xP.jpg", "actors": [], "comments": [], "recommandations_id": []}

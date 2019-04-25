@@ -1,1 +1,0 @@
-{"tmdb_id": 130125, "title": "Pac-Man the Movie", "original_title": "Pac-Man the Movie", "slug_title": "pac-man-the-movie", "date": "2012-04-04", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6u4kqptsUudwS3s3ONw6AbBxPie.jpg", "actors": [], "comments": [], "recommandations_id": []}

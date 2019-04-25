@@ -1,1 +1,0 @@
-{"tmdb_id": 326406, "title": "Roughing It Up", "original_title": "Roughing It Up", "slug_title": "roughing-it-up", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

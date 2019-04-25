@@ -1,1 +1,0 @@
-{"tmdb_id": 196293, "title": "A Crazy Composer", "original_title": "Le compositeur toqu\u00e9", "slug_title": "a-crazy-composer", "date": "1905-05-23", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ngnUQX9Abkesfq72uvBF3uj4Es.jpg", "actors": [], "comments": [], "recommandations_id": [190727, 190636, 189810, 189268]}

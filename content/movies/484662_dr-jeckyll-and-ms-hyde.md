@@ -1,1 +1,0 @@
-{"tmdb_id": 484662, "title": "Dr. Jeckyll and Ms. Hyde", "original_title": "Dr. Jeckyll and Ms. Hyde", "slug_title": "dr-jeckyll-and-ms-hyde", "date": "1980-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

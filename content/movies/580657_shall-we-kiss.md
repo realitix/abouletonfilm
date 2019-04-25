@@ -1,1 +1,0 @@
-{"tmdb_id": 580657, "title": "Shall We Kiss?", "original_title": "On s\u2019embrasse?", "slug_title": "shall-we-kiss", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean-Luc Abel ()", "Alice Carel ()", "Marie Parouty ()"], "comments": [], "recommandations_id": []}

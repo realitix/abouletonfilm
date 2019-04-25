@@ -1,1 +1,0 @@
-{"tmdb_id": 540341, "title": "Prohibitas", "original_title": "Prohibitas", "slug_title": "prohibitas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Deb Foyster (Antoinete)", "Jordan Sanfrancesco (Satan)"], "comments": [], "recommandations_id": []}

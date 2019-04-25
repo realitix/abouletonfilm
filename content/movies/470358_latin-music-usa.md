@@ -1,1 +1,0 @@
-{"tmdb_id": 470358, "title": "Latin Music USA", "original_title": "Latin Music USA", "slug_title": "latin-music-usa", "date": "2009-10-12", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4rstOjLp1yuwrn9NotvpPWyWgDp.jpg", "actors": ["Jimmy Smits (Narrator)"], "comments": [], "recommandations_id": []}

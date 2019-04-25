@@ -1,1 +1,0 @@
-{"tmdb_id": 525817, "title": "The Street", "original_title": "The Street", "slug_title": "the-street", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

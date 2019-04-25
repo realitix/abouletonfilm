@@ -1,1 +1,0 @@
-{"tmdb_id": 376877, "title": "Faszination Afrika", "original_title": "Faszination Afrika", "slug_title": "faszination-afrika", "date": "2012-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/azdZM5mdzK8tcnOzLbXGiGgdXKa.jpg", "actors": [], "comments": [], "recommandations_id": []}

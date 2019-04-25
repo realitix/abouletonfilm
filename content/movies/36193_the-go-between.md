@@ -1,1 +1,0 @@
-{"tmdb_id": 36193, "title": "The Go-Between", "original_title": "The Go-Between", "slug_title": "the-go-between", "date": "1916-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

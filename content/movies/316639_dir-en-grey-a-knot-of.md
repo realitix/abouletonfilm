@@ -1,1 +1,0 @@
-{"tmdb_id": 316639, "title": "Dir En Grey: A Knot Of", "original_title": "Dir En Grey: A Knot Of", "slug_title": "dir-en-grey-a-knot-of", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iYWvAqGir5XGJBXRKOnoIqNXBCW.jpg", "actors": [], "comments": [], "recommandations_id": []}

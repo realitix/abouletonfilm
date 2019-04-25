@@ -1,1 +1,0 @@
-{"tmdb_id": 288230, "title": "The All American Rejects: Tournado", "original_title": "The All American Rejects: Tournado", "slug_title": "the-all-american-rejects-tournado", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

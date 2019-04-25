@@ -1,1 +1,0 @@
-{"tmdb_id": 473696, "title": "Charles Manson: The Man Who Killed the Sixties", "original_title": "Charles Manson: The Man Who Killed the Sixties", "slug_title": "charles-manson-the-man-who-killed-the-sixties", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

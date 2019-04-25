@@ -1,1 +1,0 @@
-{"tmdb_id": 173371, "title": "The Corpse", "original_title": "Le mort", "slug_title": "the-corpse", "date": "1936-01-30", "genre": "", "score": "1.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Q0UgXmd93fCdcvKJ11AC24p87s.jpg", "actors": [], "comments": [], "recommandations_id": []}

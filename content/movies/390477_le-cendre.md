@@ -1,1 +1,0 @@
-{"tmdb_id": 390477, "title": "Le cendre", "original_title": "Le cendre", "slug_title": "le-cendre", "date": "1986-03-30", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

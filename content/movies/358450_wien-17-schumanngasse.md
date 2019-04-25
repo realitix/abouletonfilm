@@ -1,1 +1,0 @@
-{"tmdb_id": 358450, "title": "Wien 17, Schumanngasse", "original_title": "Wien 17, Schumanngasse", "slug_title": "wien-17-schumanngasse", "date": "1967-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pgyFLNJtPpCqtiUhM643easSgBc.jpg", "actors": [], "comments": [], "recommandations_id": []}

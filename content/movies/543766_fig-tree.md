@@ -1,1 +1,0 @@
-{"tmdb_id": 543766, "title": "Fig Tree", "original_title": "Fig Tree", "slug_title": "fig-tree", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h3v5nZDbIDpZQK89JvkwtfVmZGC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 314785, "title": "King Kurt: Destination Zululand", "original_title": "King Kurt: Destination Zululand", "slug_title": "king-kurt-destination-zululand", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

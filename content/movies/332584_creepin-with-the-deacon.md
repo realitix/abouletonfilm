@@ -1,1 +1,0 @@
-{"tmdb_id": 332584, "title": "Creepin' with the Deacon", "original_title": "Creepin' with the Deacon", "slug_title": "creepin-with-the-deacon", "date": "2015-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

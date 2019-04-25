@@ -1,1 +1,0 @@
-{"tmdb_id": 567606, "title": "The Streets Belong to the People", "original_title": "The Streets Belong to the People", "slug_title": "the-streets-belong-to-the-people", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

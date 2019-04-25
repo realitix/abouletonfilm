@@ -1,1 +1,0 @@
-{"tmdb_id": 403067, "title": "You are Everything to Me", "original_title": "Ikaw ang Lahat sa Akin", "slug_title": "you-are-everything-to-me", "date": "1992-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sazOJ3Y7x8VsqoVtyGB4fIF4C3V.jpg", "actors": [], "comments": [], "recommandations_id": []}

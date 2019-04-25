@@ -1,1 +1,0 @@
-{"tmdb_id": 234385, "title": "Roadrunner a Go-Go", "original_title": "Roadrunner a Go-Go", "slug_title": "roadrunner-a-go-go", "date": "1965-02-01", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xQquHFm2ovlJwMU3DXp2POaHwcB.jpg", "actors": [], "comments": [], "recommandations_id": [234465, 234702, 234464, 234698]}

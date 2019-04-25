@@ -1,1 +1,0 @@
-{"tmdb_id": 345697, "title": "Mr. Right", "original_title": "Mr. Right", "slug_title": "mr-right", "date": "2005-09-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Annie Balliro (herself)", "Laurie Graff (herself)", "Leigh Jackson (herself)"], "comments": [], "recommandations_id": []}

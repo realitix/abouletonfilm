@@ -1,1 +1,0 @@
-{"tmdb_id": 436059, "title": "Soul Food", "original_title": "Soul Food", "slug_title": "soul-food", "date": "2017-01-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

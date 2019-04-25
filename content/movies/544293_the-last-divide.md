@@ -1,1 +1,0 @@
-{"tmdb_id": 544293, "title": "The Last Divide", "original_title": "The Last Divide", "slug_title": "the-last-divide", "date": "2018-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Colby Conrad ()", "Tia Andriani ()", "Phoebe Rex ()", "Holly Stevens ()"], "comments": [], "recommandations_id": []}

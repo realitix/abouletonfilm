@@ -1,1 +1,0 @@
-{"tmdb_id": 394489, "title": "The Rajini Effect", "original_title": "The Rajini Effect", "slug_title": "the-rajini-effect", "date": "2013-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/TB3r6W5NRVekTL3y0fqxQ0BT1i.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 534912, "title": "paint'o jazz", "original_title": "PANT'O'JAZZ", "slug_title": "paint-o-jazz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

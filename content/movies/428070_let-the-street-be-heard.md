@@ -1,1 +1,0 @@
-{"tmdb_id": 428070, "title": "Let the Street Be Heard", "original_title": "Let the Street Be Heard", "slug_title": "let-the-street-be-heard", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

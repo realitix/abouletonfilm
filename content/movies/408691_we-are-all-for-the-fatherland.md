@@ -1,1 +1,0 @@
-{"tmdb_id": 408691, "title": "We Are All for the Fatherland", "original_title": "We Are All for the Fatherland", "slug_title": "we-are-all-for-the-fatherland", "date": "1979-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cDeSENk1LQItBsL96GPq1uRLLrJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 569350, "title": "Cross-Cut\u2013A Blue Movie", "original_title": "Cross-Cut\u2013A Blue Movie", "slug_title": "cross-cut-a-blue-movie", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

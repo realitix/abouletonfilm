@@ -1,1 +1,0 @@
-{"tmdb_id": 248200, "title": "Ladybeard", "original_title": "Ladybeard", "slug_title": "ladybeard", "date": "2013-03-22", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2HSMVMwrlSIlaf3FN996pZfUmjB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 273958, "title": "Legend of the Serpent", "original_title": "Legend of the Serpent", "slug_title": "legend-of-the-serpent", "date": "2009-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lCCESx6yjttl4FywnKCIRycqbVj.jpg", "actors": [], "comments": [], "recommandations_id": []}

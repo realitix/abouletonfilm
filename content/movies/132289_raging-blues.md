@@ -1,1 +1,0 @@
-{"tmdb_id": 132289, "title": "Raging Blues", "original_title": "Raging Blues", "slug_title": "raging-blues", "date": "2008-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vNd3GbmDr5Z8bKLZdz3XKOjMKEp.jpg", "actors": [], "comments": [], "recommandations_id": []}

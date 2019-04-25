@@ -1,1 +1,0 @@
-{"tmdb_id": 518656, "title": "The Colour Merchant", "original_title": "The Colour Merchant", "slug_title": "the-colour-merchant", "date": "1998-09-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Cardiff (Interviewee)"], "comments": [], "recommandations_id": []}

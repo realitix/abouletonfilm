@@ -1,1 +1,0 @@
-{"tmdb_id": 551373, "title": "The Yukon Assignment", "original_title": "The Yukon Assignment", "slug_title": "the-yukon-assignment", "date": "2019-06-16", "genre": "Documentaire / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chris Lucas (Himself)", "Niall Lucas (Himself)"], "comments": [], "recommandations_id": []}

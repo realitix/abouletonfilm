@@ -1,1 +1,0 @@
-{"tmdb_id": 285924, "title": "Eviction Day", "original_title": "Eviction Day", "slug_title": "eviction-day", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

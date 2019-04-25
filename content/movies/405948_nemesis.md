@@ -1,1 +1,0 @@
-{"tmdb_id": 405948, "title": "N\u00e9mesis", "original_title": "N\u00e9mesis", "slug_title": "nemesis", "date": "2000-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joseph Alicea (Miguel)", "Francisco Cap\u00f3 ()"], "comments": [], "recommandations_id": []}

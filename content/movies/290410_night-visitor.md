@@ -1,1 +1,0 @@
-{"tmdb_id": 290410, "title": "Night Visitor", "original_title": "Nochnoy Gost'", "slug_title": "night-visitor", "date": "2011-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8WtEfYtubzLsg8JH277RIGjbccM.jpg", "actors": ["Olga Krasko ()", "Dmitriy Maryanov ()"], "comments": [], "recommandations_id": []}

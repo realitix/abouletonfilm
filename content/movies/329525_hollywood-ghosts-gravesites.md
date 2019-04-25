@@ -1,1 +1,0 @@
-{"tmdb_id": 329525, "title": "Hollywood Ghosts & Gravesites", "original_title": "Hollywood Ghosts & Gravesites", "slug_title": "hollywood-ghosts-gravesites", "date": "2003-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sWS78jJNhCVQuSw9G8jTjyYtDJn.jpg", "actors": [], "comments": [], "recommandations_id": []}

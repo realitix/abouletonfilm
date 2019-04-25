@@ -1,1 +1,0 @@
-{"tmdb_id": 466478, "title": "Josh's Suicide", "original_title": "Josh's Suicide", "slug_title": "josh-s-suicide", "date": "1911-10-12", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s1fkdRRDyHuA9KJrRy3ciK8wgMV.jpg", "actors": ["Fred Mace (Josh)", "Edward Dillon ()"], "comments": [], "recommandations_id": []}

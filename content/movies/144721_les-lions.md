@@ -1,1 +1,0 @@
-{"tmdb_id": 144721, "title": "Les lions", "original_title": "Les lions", "slug_title": "les-lions", "date": "1928-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Raymond Dandy ()", "Jean Gabin ()"], "comments": [], "recommandations_id": []}

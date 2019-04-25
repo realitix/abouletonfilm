@@ -1,1 +1,0 @@
-{"tmdb_id": 585099, "title": "\uac80\uc740 \ube44: \uc545\uc758 \uc5f0\ub300\uae30", "original_title": "\uac80\uc740 \ube44: \uc545\uc758 \uc5f0\ub300\uae30", "slug_title": "geomeun-bi-agyi-yeondaegi", "date": "2018-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

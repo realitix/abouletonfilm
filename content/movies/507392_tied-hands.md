@@ -1,1 +1,0 @@
-{"tmdb_id": 507392, "title": "Tied Hands", "original_title": "Tied Hands", "slug_title": "tied-hands", "date": "2006-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cUyf2DEFJEr0qBQut6UYQXp069R.jpg", "actors": [], "comments": [], "recommandations_id": []}

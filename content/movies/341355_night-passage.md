@@ -1,1 +1,0 @@
-{"tmdb_id": 341355, "title": "Night Passage", "original_title": "Night Passage", "slug_title": "night-passage", "date": "2004-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2i8DcW8biPRsLl4IAbzwJ4yjfYw.jpg", "actors": [], "comments": [], "recommandations_id": []}

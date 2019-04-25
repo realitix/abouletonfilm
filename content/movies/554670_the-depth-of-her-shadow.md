@@ -1,1 +1,0 @@
-{"tmdb_id": 554670, "title": "The Depth of Her Shadow", "original_title": "The Depth of Her Shadow", "slug_title": "the-depth-of-her-shadow", "date": "", "genre": "Horreur / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

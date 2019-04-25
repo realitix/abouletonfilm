@@ -1,1 +1,0 @@
-{"tmdb_id": 254315, "title": "Seven Days", "original_title": "Seven Days", "slug_title": "seven-days", "date": "1974-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ddxxrz3s9BRnEa1Fn24h7zcYnzt.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 313668, "title": "Bimyana", "original_title": "Bimyana", "slug_title": "bimyana", "date": "2014-12-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ro6IvdJfZdlAZSh3sndt9InkVv.jpg", "actors": ["Jiks Torres (Bimyana)"], "comments": [], "recommandations_id": []}

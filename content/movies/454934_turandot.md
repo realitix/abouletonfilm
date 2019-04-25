@@ -1,1 +1,0 @@
-{"tmdb_id": 454934, "title": "Turandot", "original_title": "Turandot", "slug_title": "turandot", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jeMR2zHuZfCgboe17Er7f3UDSzR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 569864, "title": "From the Abyss", "original_title": "Desde el abismo", "slug_title": "from-the-abyss", "date": "1980-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k8acysMqkaASlWKZOjdrSvRtkL2.jpg", "actors": [], "comments": [], "recommandations_id": []}

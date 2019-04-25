@@ -1,1 +1,0 @@
-{"tmdb_id": 521442, "title": "Plushies & Furries", "original_title": "Plushies & Furries", "slug_title": "plushies-furries", "date": "2002-08-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

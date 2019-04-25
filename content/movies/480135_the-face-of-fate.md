@@ -1,1 +1,0 @@
-{"tmdb_id": 480135, "title": "The Face of Fate", "original_title": "Litso sudby", "slug_title": "the-face-of-fate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mikhail Doronin ()"], "comments": [], "recommandations_id": []}

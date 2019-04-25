@@ -1,1 +1,0 @@
-{"tmdb_id": 254415, "title": "The New Audioscopiks", "original_title": "The New Audioscopiks", "slug_title": "the-new-audioscopiks", "date": "1938-01-16", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 405250, "title": "Harlem Wednesday", "original_title": "Harlem Wednesday", "slug_title": "harlem-wednesday", "date": "1958-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

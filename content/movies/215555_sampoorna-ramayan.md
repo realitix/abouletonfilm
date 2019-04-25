@@ -1,1 +1,0 @@
-{"tmdb_id": 215555, "title": "Sampoorna Ramayan", "original_title": "Sampoorna Ramayan", "slug_title": "sampoorna-ramayan", "date": "1961-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 489112, "title": "Red Scarf", "original_title": "Red Scarf", "slug_title": "red-scarf", "date": "", "genre": "Thriller / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5I9f3y2kGhStBespnXthGG98PdE.jpg", "actors": ["Khamly Philavong ()"], "comments": [], "recommandations_id": []}

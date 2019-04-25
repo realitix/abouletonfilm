@@ -1,1 +1,0 @@
-{"tmdb_id": 314593, "title": "Roma Termini", "original_title": "Roma Termini", "slug_title": "roma-termini", "date": "2014-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tpVQgeK6W4nCfFbgaFyldDzNTLM.jpg", "actors": [], "comments": [], "recommandations_id": []}

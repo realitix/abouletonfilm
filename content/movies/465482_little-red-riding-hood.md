@@ -1,1 +1,0 @@
-{"tmdb_id": 465482, "title": "Little Red Riding Hood", "original_title": "Le petit chaperon rouge", "slug_title": "little-red-riding-hood", "date": "1901-10-25", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

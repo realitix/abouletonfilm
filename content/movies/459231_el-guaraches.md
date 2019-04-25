@@ -1,1 +1,0 @@
-{"tmdb_id": 459231, "title": "El guaraches", "original_title": "El guaraches", "slug_title": "el-guaraches", "date": "2013-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

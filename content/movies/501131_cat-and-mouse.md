@@ -1,1 +1,0 @@
-{"tmdb_id": 501131, "title": "Cat and Mouse", "original_title": "Myszka i kotek", "slug_title": "cat-and-mouse", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5jMrYx2Chk8TR7zA4bNIyYxgW1a.jpg", "actors": [], "comments": [], "recommandations_id": []}

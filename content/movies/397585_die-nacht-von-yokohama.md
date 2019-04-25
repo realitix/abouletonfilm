@@ -1,1 +1,0 @@
-{"tmdb_id": 397585, "title": "Die Nacht von Yokohama", "original_title": "Die Nacht von Yokohama", "slug_title": "die-nacht-von-yokohama", "date": "2003-10-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

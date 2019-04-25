@@ -1,1 +1,0 @@
-{"tmdb_id": 409143, "title": "The Making of Rocky Road to Dublin", "original_title": "The Making of Rocky Road to Dublin", "slug_title": "the-making-of-rocky-road-to-dublin", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 105291, "title": "West Valley PTA", "original_title": "West Valley PTA", "slug_title": "west-valley-pta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

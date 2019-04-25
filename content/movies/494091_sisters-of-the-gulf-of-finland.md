@@ -1,1 +1,0 @@
-{"tmdb_id": 494091, "title": "Sisters of the Gulf of Finland", "original_title": "Suomenlahden sisaret", "slug_title": "sisters-of-the-gulf-of-finland", "date": "2009-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

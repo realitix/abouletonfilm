@@ -1,1 +1,1 @@
-{"tmdb_id": 557391, "title": "Criminal", "original_title": "Criminel", "slug_title": "criminal", "date": "1933-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 557391, "title": "Criminal", "original_title": "Criminel", "slug_title": "criminal", "date": "1933-01-06", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

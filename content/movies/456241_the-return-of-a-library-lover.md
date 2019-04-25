@@ -1,1 +1,0 @@
-{"tmdb_id": 456241, "title": "The Return of a Library Lover", "original_title": "The Return of a Library Lover", "slug_title": "the-return-of-a-library-lover", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

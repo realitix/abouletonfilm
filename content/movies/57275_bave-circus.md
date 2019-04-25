@@ -1,1 +1,0 @@
-{"tmdb_id": 57275, "title": "Bave Circus", "original_title": "Bave Circus", "slug_title": "bave-circus", "date": "2008-06-28", "genre": "Animation", "score": "3.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lFDq2kxdcSY3u2XUdV7JyvRoedc.jpg", "actors": [], "comments": [], "recommandations_id": []}

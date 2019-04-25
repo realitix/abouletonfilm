@@ -1,1 +1,0 @@
-{"tmdb_id": 358003, "title": "Jamie's Sugar Rush", "original_title": "Jamie's Sugar Rush", "slug_title": "jamie-s-sugar-rush", "date": "2015-09-03", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nen3aA6sR9hfuzKBHDxI2RcDbwk.jpg", "actors": ["Jamie Oliver (Himself)"], "comments": [], "recommandations_id": []}

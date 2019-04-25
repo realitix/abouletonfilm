@@ -1,1 +1,0 @@
-{"tmdb_id": 512844, "title": "Double Ghosts", "original_title": "Double Ghosts", "slug_title": "double-ghosts", "date": "2018-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wFhJynfMgjB85paVGvAYUTyv7a4.jpg", "actors": [], "comments": [], "recommandations_id": []}

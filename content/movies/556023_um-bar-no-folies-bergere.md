@@ -1,1 +1,0 @@
-{"tmdb_id": 556023, "title": "Um Bar no Folies-Berg\u00e8re", "original_title": "Um Bar no Folies-Berg\u00e8re", "slug_title": "um-bar-no-folies-bergere", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

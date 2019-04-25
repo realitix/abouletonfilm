@@ -1,1 +1,0 @@
-{"tmdb_id": 522770, "title": "Lemuria-Epic of Life", "original_title": "Lemuria-Epic of Life", "slug_title": "lemuria-epic-of-life", "date": "", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/llO1q1LeCdiOddjcV9zuGvI1NLi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 526597, "title": "Conversation with Boxing Gloves", "original_title": "Conversation with Boxing Gloves", "slug_title": "conversation-with-boxing-gloves", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

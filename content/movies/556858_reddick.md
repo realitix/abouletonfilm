@@ -1,1 +1,0 @@
-{"tmdb_id": 556858, "title": "Reddick", "original_title": "Reddick", "slug_title": "reddick", "date": "1971-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Donald Harron (Reddick)", "Don Borisenko (Gower)", "Gary McKeehan (Mark)"], "comments": [], "recommandations_id": []}

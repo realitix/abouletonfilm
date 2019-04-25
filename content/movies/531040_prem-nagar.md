@@ -1,1 +1,0 @@
-{"tmdb_id": 531040, "title": "Prem Nagar", "original_title": "Prem Nagar", "slug_title": "prem-nagar", "date": "1971-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fVpCW3Y9tZBLOp57UqZwD614vJr.jpg", "actors": ["Nageshwara Rao Akkineni ()", "Vanisri ()"], "comments": [], "recommandations_id": []}

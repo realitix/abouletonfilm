@@ -1,1 +1,0 @@
-{"tmdb_id": 204434, "title": "Feast of Death", "original_title": "Feast of Death", "slug_title": "feast-of-death", "date": "2001-09-09", "genre": "Documentaire / Crime", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b0i4FxbvArI541LiOQwaBRBRVip.jpg", "actors": ["James Ellroy (Himself)"], "comments": [], "recommandations_id": []}

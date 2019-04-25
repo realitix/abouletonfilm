@@ -1,1 +1,0 @@
-{"tmdb_id": 561051, "title": "Concord Woods", "original_title": "Concord Woods", "slug_title": "concord-woods", "date": "2014-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

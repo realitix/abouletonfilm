@@ -1,1 +1,0 @@
-{"tmdb_id": 277053, "title": "45 Fantastic Fights of the Century", "original_title": "45 Fantastic Fights of the Century", "slug_title": "45-fantastic-fights-of-the-century", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

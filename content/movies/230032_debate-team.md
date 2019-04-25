@@ -1,1 +1,0 @@
-{"tmdb_id": 230032, "title": "Debate Team", "original_title": "Debate Team", "slug_title": "debate-team", "date": "2008-10-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uhPwA6UUa9BOMxxJkQ4wpqwpQuS.jpg", "actors": [], "comments": [], "recommandations_id": []}

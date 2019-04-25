@@ -1,1 +1,0 @@
-{"tmdb_id": 234720, "title": "Stunt Men", "original_title": "Stunt Men", "slug_title": "stunt-men", "date": "1960-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

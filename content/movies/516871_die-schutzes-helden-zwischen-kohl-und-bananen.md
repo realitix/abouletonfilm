@@ -1,1 +1,0 @@
-{"tmdb_id": 516871, "title": "Die Sch\u00fctzes - Helden zwischen Kohl und Bananen", "original_title": "Die Sch\u00fctzes - Helden zwischen Kohl und Bananen", "slug_title": "die-schutzes-helden-zwischen-kohl-und-bananen", "date": "1994-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

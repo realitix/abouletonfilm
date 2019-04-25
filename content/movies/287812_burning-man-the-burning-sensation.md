@@ -1,1 +1,0 @@
-{"tmdb_id": 287812, "title": "Burning Man: The Burning Sensation", "original_title": "Burning Man: The Burning Sensation", "slug_title": "burning-man-the-burning-sensation", "date": "2002-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

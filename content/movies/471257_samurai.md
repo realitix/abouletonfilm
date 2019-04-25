@@ -1,1 +1,0 @@
-{"tmdb_id": 471257, "title": "SAMURAI", "original_title": "SAMURAI", "slug_title": "samurai", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dvYbAsiJXu0CF5Ewossw1B1yQ25.jpg", "actors": [], "comments": [], "recommandations_id": []}

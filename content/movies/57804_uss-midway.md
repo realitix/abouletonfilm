@@ -1,1 +1,0 @@
-{"tmdb_id": 57804, "title": "USS Midway", "original_title": "USS Midway", "slug_title": "uss-midway", "date": "2010-08-01", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

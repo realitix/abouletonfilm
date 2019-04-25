@@ -1,1 +1,0 @@
-{"tmdb_id": 523478, "title": "Meine Heimat mijn vaderland", "original_title": "Meine Heimat mijn vaderland", "slug_title": "meine-heimat-mijn-vaderland", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

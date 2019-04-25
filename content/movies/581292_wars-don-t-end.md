@@ -1,1 +1,0 @@
-{"tmdb_id": 581292, "title": "Wars Don't End", "original_title": "De u\u00f8nskede", "slug_title": "wars-don-t-end", "date": "2018-09-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Ljjj0sFbYO7lSNgrdfK5spWAqB.jpg", "actors": ["Liv Ullmann (Narrator (voice))"], "comments": [], "recommandations_id": []}

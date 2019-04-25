@@ -1,1 +1,0 @@
-{"tmdb_id": 483595, "title": "Er Conde Bond 007 y Pico", "original_title": "Er Conde Bond 007 y Pico", "slug_title": "er-conde-bond-007-y-pico", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

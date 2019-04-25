@@ -1,1 +1,0 @@
-{"tmdb_id": 492632, "title": "Bj\u00f6rk - Homogenic", "original_title": "Bj\u00f6rk - Homogenic", "slug_title": "bjork-homogenic", "date": "1997-09-22", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qiwV2y5UUPMQRYa49YDHp3Wje01.jpg", "actors": [], "comments": [], "recommandations_id": []}

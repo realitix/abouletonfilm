@@ -1,1 +1,0 @@
-{"tmdb_id": 252015, "title": "Pakistan zindabad: Longue vie au Pakistan", "original_title": "Pakistan zindabad: Longue vie au Pakistan", "slug_title": "pakistan-zindabad-longue-vie-au-pakistan", "date": "2007-08-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

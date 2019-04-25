@@ -1,1 +1,0 @@
-{"tmdb_id": 509402, "title": "Am\u00e9rica", "original_title": "Am\u00e9rica", "slug_title": "america", "date": "2018-03-01", "genre": "Documentaire / Documentaire / Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3KbKrmhTqPALd5Mi9IczsViivfi.jpg", "actors": [], "comments": [], "recommandations_id": []}

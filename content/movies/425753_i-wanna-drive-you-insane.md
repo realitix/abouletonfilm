@@ -1,1 +1,0 @@
-{"tmdb_id": 425753, "title": "I Wanna Drive You Insane", "original_title": "Kuruwasetaino", "slug_title": "i-wanna-drive-you-insane", "date": "1998-10-09", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tomoka Ashida ()", "Yoshimasa Ishibashi ()"], "comments": [], "recommandations_id": []}

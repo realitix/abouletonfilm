@@ -1,1 +1,0 @@
-{"tmdb_id": 548555, "title": "Hitler mon voisin", "original_title": "Hitler mon voisin", "slug_title": "hitler-mon-voisin", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

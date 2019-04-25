@@ -1,1 +1,0 @@
-{"tmdb_id": 164521, "title": "Dave Matthews Abbey Road", "original_title": "Dave Matthews Abbey Road", "slug_title": "dave-matthews-abbey-road", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ykqpGW2OxgubamguJ0kSABwxjMT.jpg", "actors": [], "comments": [], "recommandations_id": []}

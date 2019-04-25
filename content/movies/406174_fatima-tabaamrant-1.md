@@ -1,1 +1,0 @@
-{"tmdb_id": 406174, "title": "Fatima Tabaamrant 1", "original_title": "Fatima Tabaamrant 1", "slug_title": "fatima-tabaamrant-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Nakhi Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kjLftgFRYQdft5swjpgL608sbvc.jpg", "actors": [], "comments": [], "recommandations_id": []}

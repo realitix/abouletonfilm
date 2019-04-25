@@ -1,1 +1,0 @@
-{"tmdb_id": 316351, "title": "El Anzuelo", "original_title": "El Anzuelo", "slug_title": "el-anzuelo", "date": "1996-06-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aXK9p9g4lXV6bmmeWWimH8MZVUi.jpg", "actors": [], "comments": [], "recommandations_id": []}

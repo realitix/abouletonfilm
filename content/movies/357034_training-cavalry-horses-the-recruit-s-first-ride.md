@@ -1,1 +1,0 @@
-{"tmdb_id": 357034, "title": "Training Cavalry Horses: The Recruit's First Ride", "original_title": "Training Cavalry Horses: The Recruit's First Ride", "slug_title": "training-cavalry-horses-the-recruit-s-first-ride", "date": "1900-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

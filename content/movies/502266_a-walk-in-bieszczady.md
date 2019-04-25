@@ -1,1 +1,0 @@
-{"tmdb_id": 502266, "title": "A Walk in Bieszczady", "original_title": "Spacer w Bieszczadach", "slug_title": "a-walk-in-bieszczady", "date": "1958-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

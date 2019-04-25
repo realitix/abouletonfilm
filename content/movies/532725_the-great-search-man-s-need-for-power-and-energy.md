@@ -1,1 +1,0 @@
-{"tmdb_id": 532725, "title": "The Great Search: Man's Need for Power and Energy", "original_title": "The Great Search: Man's Need for Power and Energy", "slug_title": "the-great-search-man-s-need-for-power-and-energy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

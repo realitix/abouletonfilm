@@ -1,1 +1,0 @@
-{"tmdb_id": 423771, "title": "Rainbow Man", "original_title": "Rainbow Man", "slug_title": "rainbow-man", "date": "1929-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eddie Dowling (Rainbow Ryan)"], "comments": [], "recommandations_id": []}

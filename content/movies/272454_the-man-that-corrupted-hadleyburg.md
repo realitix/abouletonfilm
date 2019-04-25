@@ -1,1 +1,0 @@
-{"tmdb_id": 272454, "title": "The Man That Corrupted Hadleyburg", "original_title": "The Man That Corrupted Hadleyburg", "slug_title": "the-man-that-corrupted-hadleyburg", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

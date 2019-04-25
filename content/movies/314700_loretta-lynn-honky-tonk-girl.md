@@ -1,1 +1,0 @@
-{"tmdb_id": 314700, "title": "Loretta Lynn: Honky Tonk Girl", "original_title": "Loretta Lynn: Honky Tonk Girl", "slug_title": "loretta-lynn-honky-tonk-girl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

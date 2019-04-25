@@ -1,1 +1,0 @@
-{"tmdb_id": 182261, "title": "The Six Dollar Fifty Man", "original_title": "The Six Dollar Fifty Man", "slug_title": "the-six-dollar-fifty-man", "date": "2009-05-23", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5aDvVgN6oQSVZQ6OHRNoqON9F15.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 519468, "title": "Smack and Thistle", "original_title": "Smack and Thistle", "slug_title": "smack-and-thistle", "date": "1991-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charlie Caine ()", "Rosalind Bennett ()", "Patrick Malahide ()"], "comments": [], "recommandations_id": []}

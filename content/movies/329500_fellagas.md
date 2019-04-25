@@ -1,1 +1,1 @@
-{"tmdb_id": 329500, "title": "Fellagas", "original_title": "Fellagas", "slug_title": "fellagas", "date": "1971-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 329500, "title": "Fellagas", "original_title": "Fellagas", "slug_title": "fellagas", "date": "1971-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Omar Khlifi.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

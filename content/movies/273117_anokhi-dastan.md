@@ -1,1 +1,0 @@
-{"tmdb_id": 273117, "title": "Anokhi Dastan", "original_title": "Anokhi Dastan", "slug_title": "anokhi-dastan", "date": "1950-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

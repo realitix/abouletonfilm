@@ -1,1 +1,0 @@
-{"tmdb_id": 405180, "title": "Moose Jaws", "original_title": "Moose Jaws", "slug_title": "moose-jaws", "date": "", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xw3RihoqKLuq9ULe2G4EqaHxhlZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

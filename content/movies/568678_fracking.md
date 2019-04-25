@@ -1,1 +1,0 @@
-{"tmdb_id": 568678, "title": "Fracking", "original_title": "Fracking", "slug_title": "fracking", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

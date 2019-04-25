@@ -1,1 +1,0 @@
-{"tmdb_id": 504939, "title": "Only Acting", "original_title": "Only Acting", "slug_title": "only-acting", "date": "2018-02-12", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jamie Bulled ()", "Gus Lobban ()", "Sarah Midori Perry ()"], "comments": [], "recommandations_id": []}

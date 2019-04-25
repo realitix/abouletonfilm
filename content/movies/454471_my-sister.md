@@ -1,1 +1,0 @@
-{"tmdb_id": 454471, "title": "My Sister", "original_title": "My Sister", "slug_title": "my-sister", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k6JdF8mZA3TZwx6CDQvdatRWrk5.jpg", "actors": [], "comments": [], "recommandations_id": []}

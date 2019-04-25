@@ -1,1 +1,0 @@
-{"tmdb_id": 275621, "title": "O Di\u00e1rio de Nan\u00e1", "original_title": "O Di\u00e1rio de Nan\u00e1", "slug_title": "o-diario-de-nana", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

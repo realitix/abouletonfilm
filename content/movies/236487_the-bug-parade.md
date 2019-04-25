@@ -1,1 +1,0 @@
-{"tmdb_id": 236487, "title": "The Bug Parade", "original_title": "The Bug Parade", "slug_title": "the-bug-parade", "date": "1941-10-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3dVNvPymh0bGHeg3ccs33epJSaP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 590211, "title": "Silent Life", "original_title": "Silent Life", "slug_title": "silent-life", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wxE31WGfHb8Hhu0UUwgccFaFR3.jpg", "actors": [], "comments": [], "recommandations_id": []}

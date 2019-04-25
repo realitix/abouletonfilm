@@ -1,1 +1,0 @@
-{"tmdb_id": 219310, "title": "Climate Disaster", "original_title": "Climate Disaster", "slug_title": "climate-disaster", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

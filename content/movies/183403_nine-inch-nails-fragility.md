@@ -1,1 +1,0 @@
-{"tmdb_id": 183403, "title": "Nine Inch Nails: Fragility", "original_title": "Nine Inch Nails: Fragility", "slug_title": "nine-inch-nails-fragility", "date": "1999-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t8rBpJM3qgEFf4ipVc3eclv3WNq.jpg", "actors": [], "comments": [], "recommandations_id": []}

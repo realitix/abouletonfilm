@@ -1,1 +1,0 @@
-{"tmdb_id": 575791, "title": "Bring me the Head of Carmen M.", "original_title": "Bring me the Head of Carmen M.", "slug_title": "bring-me-the-head-of-carmen-m", "date": "2019-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nRCMvxEYahdwVVmQD8esHPywIrx.jpg", "actors": [], "comments": [], "recommandations_id": []}

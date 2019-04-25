@@ -1,1 +1,0 @@
-{"tmdb_id": 312205, "title": "The Life and Art of Ernst Ludwig Kirchner", "original_title": "The Life and Art of Ernst Ludwig Kirchner", "slug_title": "the-life-and-art-of-ernst-ludwig-kirchner", "date": "2000-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

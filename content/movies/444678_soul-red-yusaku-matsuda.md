@@ -1,1 +1,0 @@
-{"tmdb_id": 444678, "title": "SOUL RED Yusaku Matsuda", "original_title": "Soul Red: Matsuda Y\u00fbsaku", "slug_title": "soul-red-yusaku-matsuda", "date": "2009-11-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4aoxadHfkPG7kAze1jiXvdPOHtW.jpg", "actors": [], "comments": [], "recommandations_id": []}

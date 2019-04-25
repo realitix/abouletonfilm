@@ -1,1 +1,0 @@
-{"tmdb_id": 312204, "title": "The Gospel According to Jesus", "original_title": "The Gospel According to Jesus", "slug_title": "the-gospel-according-to-jesus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 535122, "title": "Hair I Go Again", "original_title": "Hair I Go Again", "slug_title": "hair-i-go-again", "date": "", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6555RpZDLHU4CEhQpeiqKslyEXX.jpg", "actors": [], "comments": [], "recommandations_id": []}

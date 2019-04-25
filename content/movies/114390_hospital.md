@@ -1,1 +1,0 @@
-{"tmdb_id": 114390, "title": "Hospital", "original_title": "Hospital", "slug_title": "hospital", "date": "1970-02-01", "genre": "Documentaire", "score": "5.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vK68biw4kZ88ujVWYyE9VwwcozH.jpg", "actors": [], "comments": [], "recommandations_id": []}

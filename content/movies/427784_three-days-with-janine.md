@@ -1,1 +1,0 @@
-{"tmdb_id": 427784, "title": "Three Days with Janine", "original_title": "Drei Tage mit Janine, Drei Tage mit John", "slug_title": "three-days-with-janine", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

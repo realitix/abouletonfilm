@@ -1,1 +1,0 @@
-{"tmdb_id": 394137, "title": "A Sting in the Tail", "original_title": "A Sting in the Tail", "slug_title": "a-sting-in-the-tail", "date": "1989-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bby5f78jmpXovqxLa338wIF0Jjt.jpg", "actors": [], "comments": [], "recommandations_id": []}

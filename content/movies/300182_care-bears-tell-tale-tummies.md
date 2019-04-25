@@ -1,1 +1,0 @@
-{"tmdb_id": 300182, "title": "Care Bears: Tell-Tale Tummies", "original_title": "Care Bears: Tell-Tale Tummies", "slug_title": "care-bears-tell-tale-tummies", "date": "2009-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iN0EXcGb1UvMqKI8rmKpPcmBDmj.jpg", "actors": [], "comments": [], "recommandations_id": []}

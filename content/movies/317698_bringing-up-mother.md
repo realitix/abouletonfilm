@@ -1,1 +1,0 @@
-{"tmdb_id": 317698, "title": "Bringing Up Mother", "original_title": "Bringing Up Mother", "slug_title": "bringing-up-mother", "date": "1954-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

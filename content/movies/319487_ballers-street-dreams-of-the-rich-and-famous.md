@@ -1,1 +1,0 @@
-{"tmdb_id": 319487, "title": "Ballers: Street Dreams of the Rich and Famous", "original_title": "Ballers: Street Dreams of the Rich and Famous", "slug_title": "ballers-street-dreams-of-the-rich-and-famous", "date": "2004-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

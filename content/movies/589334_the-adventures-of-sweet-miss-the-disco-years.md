@@ -1,1 +1,0 @@
-{"tmdb_id": 589334, "title": "The Adventures of Sweet Miss - The Disco Years", "original_title": "The Adventures of Sweet Miss - The Disco Years", "slug_title": "the-adventures-of-sweet-miss-the-disco-years", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

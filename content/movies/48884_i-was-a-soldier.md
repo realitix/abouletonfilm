@@ -1,1 +1,0 @@
-{"tmdb_id": 48884, "title": "I Was a Soldier", "original_title": "Bylem zolnierzem", "slug_title": "i-was-a-soldier", "date": "1971-06-01", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b6k6ArwoqnjSxc5eYdHpbx0HdYj.jpg", "actors": [], "comments": [], "recommandations_id": []}

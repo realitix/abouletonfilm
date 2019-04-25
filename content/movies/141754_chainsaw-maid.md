@@ -1,1 +1,0 @@
-{"tmdb_id": 141754, "title": "CHAINSAW MAID", "original_title": "CHAINSAW MAID", "slug_title": "chainsaw-maid", "date": "2007-12-09", "genre": "Animation / Horreur", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ertShWemeYDHYAYt3r4nxvfsSMR.jpg", "actors": [], "comments": [], "recommandations_id": [238671, 451692, 176438, 199766]}

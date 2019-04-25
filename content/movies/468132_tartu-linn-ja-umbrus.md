@@ -1,1 +1,0 @@
-{"tmdb_id": 468132, "title": "Tartu linn ja \u00fcmbrus", "original_title": "Tartu linn ja \u00fcmbrus", "slug_title": "tartu-linn-ja-umbrus", "date": "1912-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

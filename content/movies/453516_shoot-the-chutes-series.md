@@ -1,1 +1,0 @@
-{"tmdb_id": 453516, "title": "Shoot the Chutes Series", "original_title": "Shoot the Chutes Series", "slug_title": "shoot-the-chutes-series", "date": "1899-09-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

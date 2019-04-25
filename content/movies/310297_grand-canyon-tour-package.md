@@ -1,1 +1,0 @@
-{"tmdb_id": 310297, "title": "Grand Canyon Tour Package", "original_title": "Grand Canyon Tour Package", "slug_title": "grand-canyon-tour-package", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

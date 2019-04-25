@@ -1,1 +1,0 @@
-{"tmdb_id": 409609, "title": "Meandering", "original_title": "Meandering", "slug_title": "meandering", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

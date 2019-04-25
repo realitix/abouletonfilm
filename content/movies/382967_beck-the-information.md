@@ -1,1 +1,0 @@
-{"tmdb_id": 382967, "title": "Beck - The Information", "original_title": "Beck - The Information", "slug_title": "beck-the-information", "date": "2006-10-03", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jwjsNi5VYYrCw0G4cEoWiatNfaX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 309613, "title": "The Best of Funny Business: Vol. 4", "original_title": "The Best of Funny Business: Vol. 4", "slug_title": "the-best-of-funny-business-vol-4", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

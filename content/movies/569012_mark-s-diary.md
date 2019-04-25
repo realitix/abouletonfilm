@@ -1,1 +1,0 @@
-{"tmdb_id": 569012, "title": "Mark's Diary", "original_title": "Mark's Diary", "slug_title": "mark-s-diary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1AxJ9ci317dimtGgu1QoADnSlRS.jpg", "actors": [], "comments": [], "recommandations_id": []}

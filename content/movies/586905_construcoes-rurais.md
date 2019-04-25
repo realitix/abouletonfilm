@@ -1,1 +1,0 @@
-{"tmdb_id": 586905, "title": "Constru\u00e7\u00f5es Rurais", "original_title": "Constru\u00e7\u00f5es Rurais", "slug_title": "construcoes-rurais", "date": "1956-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/inOTAc1Cq5mXPx4wMbiRSAyGXQd.jpg", "actors": [], "comments": [], "recommandations_id": []}

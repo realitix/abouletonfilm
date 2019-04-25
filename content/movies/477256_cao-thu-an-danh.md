@@ -1,1 +1,0 @@
-{"tmdb_id": 477256, "title": "Cao Th\u1ee7 \u1ea8n Danh", "original_title": "Cao Th\u1ee7 \u1ea8n Danh", "slug_title": "cao-thu-an-danh", "date": "2016-05-27", "genre": "Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v17Y0Bf8HlHM33zxpLyBmxqZxf1.jpg", "actors": [], "comments": [], "recommandations_id": []}

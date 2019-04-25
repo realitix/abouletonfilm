@@ -1,1 +1,0 @@
-{"tmdb_id": 554941, "title": "Neptune", "original_title": "Neptun", "slug_title": "neptune", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

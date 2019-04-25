@@ -1,1 +1,0 @@
-{"tmdb_id": 560362, "title": "Rattlesnake", "original_title": "Rattlesnake", "slug_title": "rattlesnake", "date": "2019-12-31", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carmen Ejogo (mother)", "Theo Rossi ()", "Emma Greenwell ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 373424, "title": "Eine Insel wird geboren", "original_title": "Eine Insel wird geboren", "slug_title": "eine-insel-wird-geboren", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7kZtMV9mugqyAL3v2yQatyahqgg.jpg", "actors": [], "comments": [], "recommandations_id": []}

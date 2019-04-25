@@ -1,1 +1,0 @@
-{"tmdb_id": 409141, "title": "Everything is Love and Fear", "original_title": "Everything is Love and Fear", "slug_title": "everything-is-love-and-fear", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

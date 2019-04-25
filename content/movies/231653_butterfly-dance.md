@@ -1,1 +1,0 @@
-{"tmdb_id": 231653, "title": "Butterfly Dance", "original_title": "Butterfly Dance", "slug_title": "butterfly-dance", "date": "1897-10-30", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

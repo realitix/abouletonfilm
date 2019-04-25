@@ -1,1 +1,0 @@
-{"tmdb_id": 232675, "title": "Kong Frederik VIII's proklamation", "original_title": "Kong Frederik VIII's proklamation", "slug_title": "kong-frederik-viii-s-proklamation", "date": "1906-11-03", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 370537, "title": "A Cabinet for Daydreams", "original_title": "Kabinett f\u00f6r dagdr\u00f6mmar", "slug_title": "a-cabinet-for-daydreams", "date": "1970-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uuj59oFJjjgp9c6XNoGRtLfvGFH.jpg", "actors": [], "comments": [], "recommandations_id": []}

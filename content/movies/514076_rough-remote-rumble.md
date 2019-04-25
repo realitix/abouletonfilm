@@ -1,1 +1,0 @@
-{"tmdb_id": 514076, "title": "Rough Remote Rumble", "original_title": "Ronco Rumor Remoto", "slug_title": "rough-remote-rumble", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uz4gelsyD4oxzsW1n0H54k5okua.jpg", "actors": [], "comments": [], "recommandations_id": []}

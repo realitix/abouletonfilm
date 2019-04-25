@@ -1,1 +1,0 @@
-{"tmdb_id": 425387, "title": "Dr. Hawaii", "original_title": "Dr. Hawaii", "slug_title": "dr-hawaii", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/voT1CXzbcs35zUl9olCANiSVrYm.jpg", "actors": [], "comments": [], "recommandations_id": []}

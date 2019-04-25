@@ -1,1 +1,0 @@
-{"tmdb_id": 476965, "title": "Turusma: A Young Man's Journey to College", "original_title": "Turusma: A Young Man's Journey to College", "slug_title": "turusma-a-young-man-s-journey-to-college", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

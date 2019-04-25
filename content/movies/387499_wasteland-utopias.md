@@ -1,1 +1,0 @@
-{"tmdb_id": 387499, "title": "Wasteland Utopias", "original_title": "Wasteland Utopias", "slug_title": "wasteland-utopias", "date": "2010-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

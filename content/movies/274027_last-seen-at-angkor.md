@@ -1,1 +1,0 @@
-{"tmdb_id": 274027, "title": "Last Seen at Angkor", "original_title": "Last Seen at Angkor", "slug_title": "last-seen-at-angkor", "date": "2006-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

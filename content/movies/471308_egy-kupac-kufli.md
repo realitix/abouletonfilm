@@ -1,1 +1,0 @@
-{"tmdb_id": 471308, "title": "Egy kupac kufli", "original_title": "Egy kupac kufli", "slug_title": "egy-kupac-kufli", "date": "2017-08-17", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nHAuesXUUCURfOjDA7d00nVtqUg.jpg", "actors": [], "comments": [], "recommandations_id": []}

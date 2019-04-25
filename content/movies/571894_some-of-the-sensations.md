@@ -1,1 +1,0 @@
-{"tmdb_id": 571894, "title": "Some of the Sensations", "original_title": "Some of the Sensations", "slug_title": "some-of-the-sensations", "date": "2017-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

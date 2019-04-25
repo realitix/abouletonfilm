@@ -1,1 +1,0 @@
-{"tmdb_id": 560182, "title": "Nalai Manithan", "original_title": "Nalai Manithan", "slug_title": "nalai-manithan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ilUZVW6pdrfEEwBv6JqvUAFlBNd.jpg", "actors": ["Amala Akkineni ()", "Jaishankar ()"], "comments": [], "recommandations_id": []}

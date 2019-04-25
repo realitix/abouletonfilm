@@ -1,1 +1,0 @@
-{"tmdb_id": 551712, "title": "Flip About Flip", "original_title": "Flip About Flip", "slug_title": "flip-about-flip", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iyZ4CoUIx4CSTbyQcaNWbKJZ56x.jpg", "actors": [], "comments": [], "recommandations_id": []}

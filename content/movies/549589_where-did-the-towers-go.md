@@ -1,1 +1,0 @@
-{"tmdb_id": 549589, "title": "Where Did the Towers Go", "original_title": "Where Did the Towers Go", "slug_title": "where-did-the-towers-go", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

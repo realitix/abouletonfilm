@@ -1,1 +1,0 @@
-{"tmdb_id": 319331, "title": "Notas En Movimiento", "original_title": "Notas En Movimiento", "slug_title": "notas-en-movimiento", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

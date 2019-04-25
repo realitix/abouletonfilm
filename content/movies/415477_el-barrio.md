@@ -1,1 +1,0 @@
-{"tmdb_id": 415477, "title": "El barrio", "original_title": "El barrio", "slug_title": "el-barrio", "date": "1976-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

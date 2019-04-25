@@ -1,1 +1,0 @@
-{"tmdb_id": 529015, "title": "Der verbotene Weg", "original_title": "Der verbotene Weg", "slug_title": "der-verbotene-weg", "date": "1920-08-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lupu Pick (Amtsmann)", "Eugen Rex (Amtsdiener)", "Sophie Pagay ()"], "comments": [], "recommandations_id": []}

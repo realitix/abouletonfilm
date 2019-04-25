@@ -1,1 +1,0 @@
-{"tmdb_id": 473639, "title": "My Brain Made Me Do It", "original_title": "My Brain Made Me Do It", "slug_title": "my-brain-made-me-do-it", "date": "2016-03-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 506205, "title": "Bouncing Buns", "original_title": "Bouncing Buns", "slug_title": "bouncing-buns", "date": "1983-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stacey Donovan ()", "Sadie Mae ()", "Renee Summers ()", "Bridgette Royalle ()", "John Stagliano ()"], "comments": [], "recommandations_id": []}

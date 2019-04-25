@@ -1,1 +1,0 @@
-{"tmdb_id": 558893, "title": "Patrouille blanche", "original_title": "Patrouille blanche", "slug_title": "patrouille-blanche", "date": "1942-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qporbJJN31bBxy0aubNMeGEqpQV.jpg", "actors": [], "comments": [], "recommandations_id": []}

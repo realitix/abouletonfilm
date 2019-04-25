@@ -1,1 +1,0 @@
-{"tmdb_id": 303064, "title": "Eecharithra Inkennallu", "original_title": "Eecharithra Inkennallu", "slug_title": "eecharithra-inkennallu", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

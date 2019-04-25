@@ -1,1 +1,0 @@
-{"tmdb_id": 183504, "title": "Love Live Long", "original_title": "Love Live Long", "slug_title": "love-live-long", "date": "2008-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yoe0g46zSEDtoUa8N8JOlPM72jp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 392439, "title": "The Handmaidens of God", "original_title": "Le servantes du bon Dieu", "slug_title": "the-handmaidens-of-god", "date": "1978-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Xp5tJp4S2RwNIzGDbsEIpem2y6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 540011, "title": "Have a Nice Trip", "original_title": "Have a Nice Trip", "slug_title": "have-a-nice-trip", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zac Powell (Boy)", "Hannah Mathes (Girl)"], "comments": [], "recommandations_id": []}

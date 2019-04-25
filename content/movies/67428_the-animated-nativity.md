@@ -1,1 +1,0 @@
-{"tmdb_id": 67428, "title": "The Animated Nativity", "original_title": "The Animated Nativity", "slug_title": "the-animated-nativity", "date": "", "genre": "Animation / Familial", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gOv4DTCwl2t3UJKnTNM47K84OVh.jpg", "actors": [], "comments": [], "recommandations_id": []}

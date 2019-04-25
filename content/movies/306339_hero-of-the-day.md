@@ -1,1 +1,0 @@
-{"tmdb_id": 306339, "title": "Hero of the Day", "original_title": "Hero of the Day", "slug_title": "hero-of-the-day", "date": "2012-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

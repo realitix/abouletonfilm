@@ -1,1 +1,0 @@
-{"tmdb_id": 369554, "title": "Confidenze di un gatto", "original_title": "Confidenze di un gatto", "slug_title": "confidenze-di-un-gatto", "date": "1953-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

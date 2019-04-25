@@ -1,1 +1,0 @@
-{"tmdb_id": 390082, "title": "Wild Wild Ham", "original_title": "\u5e95\u306a\u3057\u30a6\u30a3\u30f3\u30ca\u30fc", "slug_title": "wild-wild-ham", "date": "2013-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4jNJ5zieBTBs3ydL6i5mGput9cs.jpg", "actors": [], "comments": [], "recommandations_id": []}

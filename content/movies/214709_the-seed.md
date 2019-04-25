@@ -1,1 +1,0 @@
-{"tmdb_id": 214709, "title": "The Seed", "original_title": "The Seed", "slug_title": "the-seed", "date": "2008-01-01", "genre": "Science-Fiction", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nIg0vI4ePr9ZBhiPUgkIFj4cnkC.jpg", "actors": ["Will Yun Lee (Ken Mercado)", "Peter Mensah ()"], "comments": [], "recommandations_id": []}

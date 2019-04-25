@@ -1,1 +1,0 @@
-{"tmdb_id": 316514, "title": "Penny Pals", "original_title": "Penny Pals", "slug_title": "penny-pals", "date": "1962-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

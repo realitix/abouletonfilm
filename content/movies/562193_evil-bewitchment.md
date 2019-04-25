@@ -1,1 +1,0 @@
-{"tmdb_id": 562193, "title": "Evil Bewitchment", "original_title": "\u7434\u9b54", "slug_title": "evil-bewitchment", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Halina Tam ()", "Fan Siu-Wong ()", "Ku Feng ()", "Leung Kar-Yan ()"], "comments": [], "recommandations_id": []}

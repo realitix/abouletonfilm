@@ -1,1 +1,0 @@
-{"tmdb_id": 419240, "title": "Treasure", "original_title": "Treasure", "slug_title": "treasure", "date": "1997-01-01", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lisa Falcone (Lacy Dunk)", "Christine Lydon (Elvie)"], "comments": [], "recommandations_id": []}

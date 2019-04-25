@@ -1,1 +1,0 @@
-{"tmdb_id": 478543, "title": "Life is a funny thing", "original_title": "Life is a funny thing", "slug_title": "life-is-a-funny-thing", "date": "2017-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wri6ptQ69lpUoSYgkrcVq3PSCU8.jpg", "actors": [], "comments": [], "recommandations_id": []}

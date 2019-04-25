@@ -1,1 +1,0 @@
-{"tmdb_id": 569474, "title": "37th Avenue & S.F. CA", "original_title": "37th Avenue & S.F. CA", "slug_title": "37th-avenue-s-f-ca", "date": "1967-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

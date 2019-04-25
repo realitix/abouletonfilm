@@ -1,1 +1,0 @@
-{"tmdb_id": 71155, "title": "College Conspiracy", "original_title": "College Conspiracy", "slug_title": "college-conspiracy", "date": "2011-05-14", "genre": "Documentaire", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/smjhkJlQsmQXT7xb5dqUwRFevBr.jpg", "actors": [], "comments": [], "recommandations_id": [935]}

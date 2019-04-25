@@ -1,1 +1,0 @@
-{"tmdb_id": 380549, "title": "Modelong Tanso", "original_title": "Modelong Tanso", "slug_title": "modelong-tanso", "date": "1979-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uZuDCIDC7IxINoPBlF1Tgbrg6gL.jpg", "actors": [], "comments": [], "recommandations_id": []}

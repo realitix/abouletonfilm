@@ -1,1 +1,0 @@
-{"tmdb_id": 239136, "title": "Blue Streak", "original_title": "Blue Streak", "slug_title": "blue-streak", "date": "1971-01-01", "genre": "Documentaire", "score": "3.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nigJu5BWwJM198F8ONKsh5EtLTe.jpg", "actors": [], "comments": [], "recommandations_id": []}

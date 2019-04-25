@@ -1,1 +1,0 @@
-{"tmdb_id": 414098, "title": "My Stinking Kid", "original_title": "Wo de Chou Haizi", "slug_title": "my-stinking-kid", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jIzoZu58dWtyHiDiVAgwu3C26P.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 515687, "title": "Right, Left, Right, Left", "original_title": "Right, Left, Right, Left", "slug_title": "right-left-right-left", "date": "2018-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

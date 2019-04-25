@@ -1,1 +1,0 @@
-{"tmdb_id": 484226, "title": "Sorrows", "original_title": "Sorrows", "slug_title": "sorrows", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

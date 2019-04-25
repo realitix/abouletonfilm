@@ -1,1 +1,0 @@
-{"tmdb_id": 242001, "title": "The Dark Side of Red Bull", "original_title": "The Dark Side of Red Bull", "slug_title": "the-dark-side-of-red-bull", "date": "2013-10-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5TQ096Cor7NbYRZBt0VLujhGnn8.jpg", "actors": [], "comments": [], "recommandations_id": []}

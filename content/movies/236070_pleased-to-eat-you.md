@@ -1,1 +1,0 @@
-{"tmdb_id": 236070, "title": "Pleased to Eat You", "original_title": "Pleased to Eat You", "slug_title": "pleased-to-eat-you", "date": "1950-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w3DD7bLJ0xSEOC4nVhEPkugt7U0.jpg", "actors": [], "comments": [], "recommandations_id": []}

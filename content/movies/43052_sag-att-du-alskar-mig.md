@@ -1,1 +1,0 @@
-{"tmdb_id": 43052, "title": "S\u00e4g att du \u00e4lskar mig", "original_title": "S\u00e4g att du \u00e4lskar mig", "slug_title": "sag-att-du-alskar-mig", "date": "2006-08-25", "genre": "Drame", "score": "4.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7j7DQDUy9iBImBXR67LIztfyAge.jpg", "actors": [], "comments": [], "recommandations_id": []}

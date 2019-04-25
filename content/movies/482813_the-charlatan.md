@@ -1,1 +1,0 @@
-{"tmdb_id": 482813, "title": "The Charlatan", "original_title": "Sharlatan", "slug_title": "the-charlatan", "date": "2004-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

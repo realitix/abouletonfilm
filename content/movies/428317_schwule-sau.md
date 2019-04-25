@@ -1,1 +1,0 @@
-{"tmdb_id": 428317, "title": "Schwule Sau!", "original_title": "Schwule Sau!", "slug_title": "schwule-sau", "date": "1992-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

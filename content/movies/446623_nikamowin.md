@@ -1,1 +1,0 @@
-{"tmdb_id": 446623, "title": "Nikamowin", "original_title": "Nikamowin", "slug_title": "nikamowin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

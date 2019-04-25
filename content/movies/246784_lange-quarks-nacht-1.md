@@ -1,1 +1,0 @@
-{"tmdb_id": 246784, "title": "Lange Quarks Nacht 1", "original_title": "Lange Quarks Nacht 1", "slug_title": "lange-quarks-nacht-1", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

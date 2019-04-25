@@ -1,1 +1,0 @@
-{"tmdb_id": 291673, "title": "Prison for Children", "original_title": "Prison for Children", "slug_title": "prison-for-children", "date": "1987-03-14", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

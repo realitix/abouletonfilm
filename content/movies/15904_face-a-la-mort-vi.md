@@ -1,1 +1,0 @@
-{"tmdb_id": 15904, "title": "Face \u00e0 la mort VI", "original_title": "Faces of Death VI", "slug_title": "face-a-la-mort-vi", "date": "1996-10-04", "genre": "", "score": "1.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mVFKvScTGUnY71FtmCenpsi78yb.jpg", "actors": ["Samuel Berkowitz ()"], "comments": [], "recommandations_id": []}

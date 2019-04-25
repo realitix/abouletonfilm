@@ -1,1 +1,0 @@
-{"tmdb_id": 236823, "title": "Adventure in the Bronx", "original_title": "Adventure in the Bronx", "slug_title": "adventure-in-the-bronx", "date": "1941-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Kieran (Narrator (voice))"], "comments": [], "recommandations_id": []}

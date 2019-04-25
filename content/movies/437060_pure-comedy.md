@@ -1,1 +1,0 @@
-{"tmdb_id": 437060, "title": "Pure Comedy", "original_title": "Pure Comedy", "slug_title": "pure-comedy", "date": "2017-01-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bJEwi0XdtB62xZov079310fTp48.jpg", "actors": ["Father John Misty (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 328841, "title": "Pierre Valli\u00e8res", "original_title": "Pierre Valli\u00e8res", "slug_title": "pierre-vallieres", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

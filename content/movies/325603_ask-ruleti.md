@@ -1,1 +1,0 @@
-{"tmdb_id": 325603, "title": "A\u015fk Ruleti", "original_title": "A\u015fk Ruleti", "slug_title": "ask-ruleti", "date": "2006-01-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Murat Serezli (Man)", "G\u00f6zde Sinem \u00d6zt\u00fcrk (Woman)"], "comments": [], "recommandations_id": []}

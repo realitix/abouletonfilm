@@ -1,1 +1,0 @@
-{"tmdb_id": 391073, "title": "Drowning Nut", "original_title": "Drowning Nut", "slug_title": "drowning-nut", "date": "2009-04-02", "genre": "Animation", "score": "3.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fxeGULtWRxKo9OjMhD5g5R5OOvE.jpg", "actors": [], "comments": [], "recommandations_id": [309911, 391223, 382874, 391071]}

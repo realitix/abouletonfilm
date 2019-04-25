@@ -1,1 +1,0 @@
-{"tmdb_id": 188625, "title": "Kapten Grogg bland vilda djur", "original_title": "Kapten Grogg bland vilda djur", "slug_title": "kapten-grogg-bland-vilda-djur", "date": "1919-03-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

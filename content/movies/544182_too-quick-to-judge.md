@@ -1,1 +1,0 @@
-{"tmdb_id": 544182, "title": "Too Quick to Judge", "original_title": "Too Quick to Judge", "slug_title": "too-quick-to-judge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Diana Von Gruning (Woman)", "Younes Mohamed (Man)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 555498, "title": "Les mouettes", "original_title": "Les mouettes", "slug_title": "les-mouettes", "date": "1917-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

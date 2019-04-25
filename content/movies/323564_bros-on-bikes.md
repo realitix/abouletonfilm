@@ -1,1 +1,0 @@
-{"tmdb_id": 323564, "title": "Bros on Bikes", "original_title": "Bros on Bikes", "slug_title": "bros-on-bikes", "date": "2012-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

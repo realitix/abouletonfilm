@@ -1,1 +1,0 @@
-{"tmdb_id": 334697, "title": "For Stan", "original_title": "For Stan", "slug_title": "for-stan", "date": "2009-04-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hM7ZTbOADzoDT1D8K8K3Ori1Xcq.jpg", "actors": ["Stan Brakhage (Himself)"], "comments": [], "recommandations_id": []}

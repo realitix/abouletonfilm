@@ -1,1 +1,0 @@
-{"tmdb_id": 415163, "title": "Amalimbo", "original_title": "Amalimbo", "slug_title": "amalimbo", "date": "2016-09-23", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eH6mJqFJgCI9IKW0no4YoEwI5PO.jpg", "actors": [], "comments": [], "recommandations_id": []}

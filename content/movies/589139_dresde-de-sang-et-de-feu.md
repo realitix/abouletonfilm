@@ -1,1 +1,0 @@
-{"tmdb_id": 589139, "title": "Dresde de sang et de feu", "original_title": "Dresde de sang et de feu", "slug_title": "dresde-de-sang-et-de-feu", "date": "2010-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

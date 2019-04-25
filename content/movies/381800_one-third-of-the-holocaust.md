@@ -1,1 +1,0 @@
-{"tmdb_id": 381800, "title": "One Third of the Holocaust", "original_title": "One Third of the Holocaust", "slug_title": "one-third-of-the-holocaust", "date": "2006-06-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

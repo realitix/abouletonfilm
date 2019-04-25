@@ -1,1 +1,0 @@
-{"tmdb_id": 458885, "title": "Les all\u00e9es sombres", "original_title": "Les all\u00e9es sombres", "slug_title": "les-allees-sombres", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

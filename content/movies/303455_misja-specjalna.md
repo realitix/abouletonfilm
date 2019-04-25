@@ -1,1 +1,0 @@
-{"tmdb_id": 303455, "title": "Misja specjalna", "original_title": "Misja specjalna", "slug_title": "misja-specjalna", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

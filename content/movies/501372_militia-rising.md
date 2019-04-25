@@ -1,1 +1,0 @@
-{"tmdb_id": 501372, "title": "Militia Rising", "original_title": "Militia Rising", "slug_title": "militia-rising", "date": "2012-10-24", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J.V. Martin (Narrator)"], "comments": [], "recommandations_id": []}

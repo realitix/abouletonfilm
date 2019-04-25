@@ -1,1 +1,0 @@
-{"tmdb_id": 312642, "title": "Morning Breath", "original_title": "Morning Breath", "slug_title": "morning-breath", "date": "2002-01-04", "genre": "Romance", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uLj2tud1QAIOVY7lKpaN9dMMwWk.jpg", "actors": [], "comments": [], "recommandations_id": []}

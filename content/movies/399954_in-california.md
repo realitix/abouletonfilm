@@ -1,1 +1,0 @@
-{"tmdb_id": 399954, "title": "In California", "original_title": "La Californie", "slug_title": "in-california", "date": "2015-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4nkwnC3lkaam0gM3cJTUiBW2H8i.jpg", "actors": [], "comments": [], "recommandations_id": []}

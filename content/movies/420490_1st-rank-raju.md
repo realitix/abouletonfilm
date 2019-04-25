@@ -1,1 +1,0 @@
-{"tmdb_id": 420490, "title": "1st Rank Raju", "original_title": "1st Rank Raju", "slug_title": "1st-rank-raju", "date": "2015-11-27", "genre": "Romance / Com\u00e9die / Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AfRsFLuOmxjCXMAhDKZ8x1gFoEA.jpg", "actors": [], "comments": [], "recommandations_id": []}

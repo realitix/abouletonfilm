@@ -1,1 +1,0 @@
-{"tmdb_id": 472956, "title": "Tekoha - Som da Terra", "original_title": "Tekoha - Som da Terra", "slug_title": "tekoha-som-da-terra", "date": "2017-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6t8ACUh1R8V6DsEoLHXVq2VjCss.jpg", "actors": [], "comments": [], "recommandations_id": []}

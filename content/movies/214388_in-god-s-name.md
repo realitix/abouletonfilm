@@ -1,1 +1,0 @@
-{"tmdb_id": 214388, "title": "In God's Name", "original_title": "In God's Name", "slug_title": "in-god-s-name", "date": "2007-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4zYSATICLkHaRkHW9o7eMKKZfzf.jpg", "actors": [], "comments": [], "recommandations_id": []}

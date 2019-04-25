@@ -1,1 +1,0 @@
-{"tmdb_id": 565536, "title": "Pahokee", "original_title": "Pahokee", "slug_title": "pahokee", "date": "2019-01-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w7xjWM3Nxbwbblf4aVHTzv3TJRj.jpg", "actors": [], "comments": [], "recommandations_id": []}

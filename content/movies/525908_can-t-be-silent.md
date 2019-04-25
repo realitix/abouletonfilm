@@ -1,1 +1,0 @@
-{"tmdb_id": 525908, "title": "Can't Be Silent", "original_title": "Can't Be Silent", "slug_title": "can-t-be-silent", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fGE7NiDctiYk3Wuj0s2D1CxGlZn.jpg", "actors": [], "comments": [], "recommandations_id": []}

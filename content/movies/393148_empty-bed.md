@@ -1,1 +1,0 @@
-{"tmdb_id": 393148, "title": "Empty Bed", "original_title": "Empty Bed", "slug_title": "empty-bed", "date": "2015-11-16", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hannah Beck (Gaylen)", "Julien Macki (Edward)"], "comments": [], "recommandations_id": []}

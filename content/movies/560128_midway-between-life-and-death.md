@@ -1,1 +1,0 @@
-{"tmdb_id": 560128, "title": "Midway Between Life and Death", "original_title": "Midway Tra La Vita e La Morte", "slug_title": "midway-between-life-and-death", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lz5uVr3l5mUAbE8bKNrd574UzPE.jpg", "actors": [], "comments": [], "recommandations_id": []}

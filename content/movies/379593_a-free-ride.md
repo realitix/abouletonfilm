@@ -1,1 +1,0 @@
-{"tmdb_id": 379593, "title": "A Free Ride", "original_title": "A Free Ride", "slug_title": "a-free-ride", "date": "1925-11-16", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Lake ()", "Olive Hasbrouck ()"], "comments": [], "recommandations_id": []}

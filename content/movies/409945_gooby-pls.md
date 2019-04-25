@@ -1,1 +1,0 @@
-{"tmdb_id": 409945, "title": "Gooby Pls", "original_title": "Gooby Pls", "slug_title": "gooby-pls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

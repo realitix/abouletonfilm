@@ -1,1 +1,0 @@
-{"tmdb_id": 568421, "title": "Vicente de Carvalho - Palavras ao Mar", "original_title": "Vicente de Carvalho - Palavras ao Mar", "slug_title": "vicente-de-carvalho-palavras-ao-mar", "date": "1945-12-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

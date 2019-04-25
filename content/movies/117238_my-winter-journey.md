@@ -1,1 +1,0 @@
-{"tmdb_id": 117238, "title": "My Winter Journey", "original_title": "Mon voyage d'hiver", "slug_title": "my-winter-journey", "date": "2003-11-19", "genre": "Drame", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xV9K9sX2IATfNDpefJgjXYNsh1a.jpg", "actors": [], "comments": [], "recommandations_id": [37142]}

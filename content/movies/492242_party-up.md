@@ -1,1 +1,0 @@
-{"tmdb_id": 492242, "title": "Party Up", "original_title": "Party Up", "slug_title": "party-up", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

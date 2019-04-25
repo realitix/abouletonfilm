@@ -1,1 +1,0 @@
-{"tmdb_id": 191636, "title": "The Lab\u00e8que way", "original_title": "The Lab\u00e8que way", "slug_title": "the-labeque-way", "date": "2012-10-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hMUdhMZsA8An6HdMuD4FlPN9H5H.jpg", "actors": [], "comments": [], "recommandations_id": []}

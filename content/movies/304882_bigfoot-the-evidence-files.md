@@ -1,1 +1,0 @@
-{"tmdb_id": 304882, "title": "Bigfoot: The Evidence Files", "original_title": "Bigfoot: The Evidence Files", "slug_title": "bigfoot-the-evidence-files", "date": "2014-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 550337, "title": "Dark Floors", "original_title": "Dark Floors", "slug_title": "dark-floors", "date": "2007-01-26", "genre": "Horreur", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ola Rapace ()", "James Cagnard ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 568280, "title": "Photograph - Woman", "original_title": "Photograph - Woman", "slug_title": "photograph-woman", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

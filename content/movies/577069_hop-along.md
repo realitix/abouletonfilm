@@ -1,1 +1,0 @@
-{"tmdb_id": 577069, "title": "Hop Along", "original_title": "Hop Along", "slug_title": "hop-along", "date": "1927-01-24", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Lake (Arthur)", "Nancy Drexel (Dorothy)", "Elsie Tarron ()", "George B. French (Professor Wise)"], "comments": [], "recommandations_id": []}

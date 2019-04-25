@@ -1,1 +1,0 @@
-{"tmdb_id": 243386, "title": "One-Eyed Men Are Kings", "original_title": "One-Eyed Men Are Kings", "slug_title": "one-eyed-men-are-kings", "date": "1974-10-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/32CxFPQw0eYB7Ete21oDOHuiHea.jpg", "actors": [], "comments": [], "recommandations_id": []}

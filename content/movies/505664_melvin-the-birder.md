@@ -1,1 +1,0 @@
-{"tmdb_id": 505664, "title": "Melvin The Birder", "original_title": "Melvin The Birder", "slug_title": "melvin-the-birder", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

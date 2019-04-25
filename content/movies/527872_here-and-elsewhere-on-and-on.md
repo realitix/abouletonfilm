@@ -1,1 +1,0 @@
-{"tmdb_id": 527872, "title": "Here and Elsewhere, On and On", "original_title": "Here and Elsewhere, On and On", "slug_title": "here-and-elsewhere-on-and-on", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 216093, "title": "Wild Bill's Run", "original_title": "Wild Bill's Run", "slug_title": "wild-bill-s-run", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gE8ZioZNktt4R2AEnxQhmYDtyA4.jpg", "actors": [], "comments": [], "recommandations_id": []}

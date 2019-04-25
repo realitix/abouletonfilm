@@ -1,1 +1,0 @@
-{"tmdb_id": 200907, "title": "The Door", "original_title": "The Door", "slug_title": "the-door", "date": "2008-07-11", "genre": "Drame", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kiGZEh3cM7JGNeJY460g3qaq1a7.jpg", "actors": ["Leonid Mykytenko (Priest)", "Igor Sigov ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 411704, "title": "Mulva lends a Hand", "original_title": "Mulva lends a Hand", "slug_title": "mulva-lends-a-hand", "date": "2016-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jxHlHkDr4VbOJCGcwXDfaRyIhAN.jpg", "actors": [], "comments": [], "recommandations_id": []}

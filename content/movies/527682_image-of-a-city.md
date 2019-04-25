@@ -1,1 +1,0 @@
-{"tmdb_id": 527682, "title": "Image of a City", "original_title": "\u57ce\u5e02\u5f71\u50cf", "slug_title": "image-of-a-city", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

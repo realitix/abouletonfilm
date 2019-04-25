@@ -1,1 +1,0 @@
-{"tmdb_id": 83373, "title": "Barbershop Punk", "original_title": "Barbershop Punk", "slug_title": "barbershop-punk", "date": "2011-11-11", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zifEsD9xwenNy1SuhQHpfKHudk0.jpg", "actors": [], "comments": [], "recommandations_id": [423197, 419289, 428140, 380683]}

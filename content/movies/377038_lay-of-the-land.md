@@ -1,1 +1,0 @@
-{"tmdb_id": 377038, "title": "Lay of the Land", "original_title": "Lay of the Land", "slug_title": "lay-of-the-land", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

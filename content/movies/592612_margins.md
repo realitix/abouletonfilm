@@ -1,1 +1,0 @@
-{"tmdb_id": 592612, "title": "Margins", "original_title": "Margins", "slug_title": "margins", "date": "2018-08-10", "genre": "Documentaire / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

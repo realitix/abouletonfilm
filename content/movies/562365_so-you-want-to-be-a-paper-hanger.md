@@ -1,1 +1,0 @@
-{"tmdb_id": 562365, "title": "So You Want to Be a Paper Hanger", "original_title": "So You Want to Be a Paper Hanger", "slug_title": "so-you-want-to-be-a-paper-hanger", "date": "1951-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon ()"], "comments": [], "recommandations_id": []}

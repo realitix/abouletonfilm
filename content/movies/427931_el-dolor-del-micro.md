@@ -1,1 +1,0 @@
-{"tmdb_id": 427931, "title": "El Dolor del Micro", "original_title": "El Dolor del Micro", "slug_title": "el-dolor-del-micro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/99O5w8RVnsajzul4iWFp6zQgdXx.jpg", "actors": [], "comments": [], "recommandations_id": []}

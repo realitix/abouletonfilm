@@ -1,1 +1,0 @@
-{"tmdb_id": 538611, "title": "Pour le maillot jaune", "original_title": "Pour le maillot jaune", "slug_title": "pour-le-maillot-jaune", "date": "1940-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Aj7irZ5OgatwUtOB8iOSJX4BczA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 560912, "title": "The Last Englishman", "original_title": "The Last Englishman", "slug_title": "the-last-englishman", "date": "1995-02-09", "genre": "Com\u00e9die / Guerre / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

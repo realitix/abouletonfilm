@@ -1,1 +1,0 @@
-{"tmdb_id": 50883, "title": "Dr\u00f8mmefiskeri i Alaska", "original_title": "Dr\u00f8mmefiskeri i Alaska", "slug_title": "drommefiskeri-i-alaska", "date": "2005-10-20", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xOhoOiTnU0zhKeY9KOeDDyin6Pf.jpg", "actors": [], "comments": [], "recommandations_id": []}

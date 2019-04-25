@@ -1,1 +1,0 @@
-{"tmdb_id": 411883, "title": "Famous For Being Famous", "original_title": "Famous For Being Famous", "slug_title": "famous-for-being-famous", "date": "2015-09-21", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i1ve6EBqexsCCEp4WSJq7kw2taj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 503533, "title": "Rastplatz", "original_title": "Rastplatz", "slug_title": "rastplatz", "date": "1975-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/llW8mNHSRAr9gtepTT8gAnMd6ri.jpg", "actors": [], "comments": [], "recommandations_id": []}

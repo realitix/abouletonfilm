@@ -1,1 +1,0 @@
-{"tmdb_id": 195976, "title": "Expert Bag Punching", "original_title": "Expert Bag Punching", "slug_title": "expert-bag-punching", "date": "1903-07-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

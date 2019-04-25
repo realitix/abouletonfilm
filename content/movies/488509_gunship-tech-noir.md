@@ -1,1 +1,0 @@
-{"tmdb_id": 488509, "title": "Gunship: Tech Noir", "original_title": "Gunship: Tech Noir", "slug_title": "gunship-tech-noir", "date": "2015-08-24", "genre": "Animation / Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8rDDoNsMGv7y9u5aBFFGPWjZCsz.jpg", "actors": [], "comments": [], "recommandations_id": []}

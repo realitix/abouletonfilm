@@ -1,1 +1,0 @@
-{"tmdb_id": 556392, "title": "Bonds of Honour", "original_title": "Le prince Jean", "slug_title": "bonds-of-honour", "date": "1929-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

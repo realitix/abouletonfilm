@@ -1,1 +1,0 @@
-{"tmdb_id": 581247, "title": "Running Blind", "original_title": "Running Blind", "slug_title": "running-blind", "date": "1979-01-05", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i1o3LLX9lYCeM3UGuz1Jk6kS68h.jpg", "actors": [], "comments": [], "recommandations_id": []}

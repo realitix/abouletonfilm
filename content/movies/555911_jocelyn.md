@@ -1,1 +1,0 @@
-{"tmdb_id": 555911, "title": "Jocelyn", "original_title": "Jocelyn", "slug_title": "jocelyn", "date": "1922-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

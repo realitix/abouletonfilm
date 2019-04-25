@@ -1,1 +1,0 @@
-{"tmdb_id": 363912, "title": "Centers", "original_title": "Centers", "slug_title": "centers", "date": "1971-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8gyypLZKErucOnSWX9zxLFMoi73.jpg", "actors": ["Vito Acconci (Self)"], "comments": [], "recommandations_id": []}

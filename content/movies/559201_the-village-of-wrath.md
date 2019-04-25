@@ -1,1 +1,0 @@
-{"tmdb_id": 559201, "title": "The Village of Wrath", "original_title": "Le village de la col\u00e8re", "slug_title": "the-village-of-wrath", "date": "1947-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2k7zidTxNoGcyIG9SPyqY1Qo78p.jpg", "actors": [], "comments": [], "recommandations_id": []}

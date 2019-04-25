@@ -1,1 +1,0 @@
-{"tmdb_id": 308249, "title": "Sandade Sandadi", "original_title": "Sandade Sandadi", "slug_title": "sandade-sandadi", "date": "2002-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yv7mmlSKWMZywxDpmtlFrT4GRXa.jpg", "actors": ["Jagapati Babu ()", "Rajendra Prasad ()"], "comments": [], "recommandations_id": []}

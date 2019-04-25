@@ -1,1 +1,0 @@
-{"tmdb_id": 446892, "title": "Pedra e Cal", "original_title": "Pedra e Cal", "slug_title": "pedra-e-cal", "date": "2016-03-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

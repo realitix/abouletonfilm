@@ -1,1 +1,0 @@
-{"tmdb_id": 362818, "title": "Trace of the Future According to Bartek Konopka", "original_title": "Une trace du futur selon Bartek Konopka", "slug_title": "trace-of-the-future-according-to-bartek-konopka", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

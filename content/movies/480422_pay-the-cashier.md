@@ -1,1 +1,0 @@
-{"tmdb_id": 480422, "title": "Pay the Cashier", "original_title": "Pay the Cashier", "slug_title": "pay-the-cashier", "date": "1926-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Parrott ()", "Ethel Broadhurst ()", "Mark Jones ()", "Gaylord Lloyd ()"], "comments": [], "recommandations_id": []}

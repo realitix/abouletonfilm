@@ -1,1 +1,0 @@
-{"tmdb_id": 458882, "title": "Joal Compass: Back to Me", "original_title": "Joal Compass: Back to Me", "slug_title": "joal-compass-back-to-me", "date": "2013-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/crdrx4mJGiWk2NIvpOZq44NJuf3.jpg", "actors": [], "comments": [], "recommandations_id": []}

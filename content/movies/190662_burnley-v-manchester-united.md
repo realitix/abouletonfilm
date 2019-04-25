@@ -1,1 +1,0 @@
-{"tmdb_id": 190662, "title": "Burnley v Manchester United", "original_title": "Burnley v Manchester United", "slug_title": "burnley-v-manchester-united", "date": "1902-12-10", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1RkmXN34UVVaziatV3JsRknDbaf.jpg", "actors": [], "comments": [], "recommandations_id": []}

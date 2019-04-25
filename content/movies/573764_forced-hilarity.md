@@ -1,1 +1,0 @@
-{"tmdb_id": 573764, "title": "Forced Hilarity", "original_title": "Forced Hilarity", "slug_title": "forced-hilarity", "date": "2001-02-28", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p785wMohqHHK5VVvT6T7yzsSkv7.jpg", "actors": ["Nick Frost ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 309254, "title": "The Beatles with Tony Sheridan", "original_title": "The Beatles with Tony Sheridan", "slug_title": "the-beatles-with-tony-sheridan", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

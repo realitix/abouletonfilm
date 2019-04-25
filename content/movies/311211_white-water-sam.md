@@ -1,1 +1,0 @@
-{"tmdb_id": 311211, "title": "White-Water Sam", "original_title": "White-Water Sam", "slug_title": "white-water-sam", "date": "1982-01-01", "genre": "Aventure / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8tHicBqWAi0IVCcwj0QBA46tD8V.jpg", "actors": ["Keith Larsen ()"], "comments": [], "recommandations_id": []}

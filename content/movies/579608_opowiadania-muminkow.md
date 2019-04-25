@@ -1,1 +1,0 @@
-{"tmdb_id": 579608, "title": "Opowiadania Mumink\u00f3w", "original_title": "Opowiadania Mumink\u00f3w", "slug_title": "opowiadania-muminkow", "date": "2008-01-01", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dHNvWCGqiWp3obf6EZiCviZHrYj.jpg", "actors": [], "comments": [], "recommandations_id": []}

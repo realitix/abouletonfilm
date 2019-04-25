@@ -1,1 +1,0 @@
-{"tmdb_id": 595284, "title": "God Said Give 'Em Drum Machines", "original_title": "God Said Give 'Em Drum Machines", "slug_title": "god-said-give-em-drum-machines", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

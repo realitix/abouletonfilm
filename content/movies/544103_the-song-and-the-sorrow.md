@@ -1,1 +1,0 @@
-{"tmdb_id": 544103, "title": "The Song and the Sorrow", "original_title": "The Song and the Sorrow", "slug_title": "the-song-and-the-sorrow", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Catherine MacLellan ()"], "comments": [], "recommandations_id": []}

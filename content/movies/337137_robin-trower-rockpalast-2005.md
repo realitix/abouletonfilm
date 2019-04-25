@@ -1,1 +1,0 @@
-{"tmdb_id": 337137, "title": "Robin Trower: Rockpalast 2005", "original_title": "Robin Trower: Rockpalast 2005", "slug_title": "robin-trower-rockpalast-2005", "date": "2005-03-09", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

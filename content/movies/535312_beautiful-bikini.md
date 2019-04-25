@@ -1,1 +1,0 @@
-{"tmdb_id": 535312, "title": "Beautiful Bikini", "original_title": "Beautiful Bikini", "slug_title": "beautiful-bikini", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ebThRdU1GiHqPYf3AXVBGJHZhY8.jpg", "actors": [], "comments": [], "recommandations_id": []}

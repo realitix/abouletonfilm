@@ -1,1 +1,0 @@
-{"tmdb_id": 338208, "title": "On Tour Exploring the Extraordinary Lapland", "original_title": "On Tour Exploring the Extraordinary Lapland", "slug_title": "on-tour-exploring-the-extraordinary-lapland", "date": "2015-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

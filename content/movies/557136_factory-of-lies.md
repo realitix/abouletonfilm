@@ -1,1 +1,0 @@
-{"tmdb_id": 557136, "title": "Factory of Lies", "original_title": "Factory of Lies", "slug_title": "factory-of-lies", "date": "2018-09-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

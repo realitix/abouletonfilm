@@ -1,1 +1,0 @@
-{"tmdb_id": 502716, "title": "The Heretic", "original_title": "The Heretic", "slug_title": "the-heretic", "date": "2018-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9LgcIUlEaH0DAhnYiH45CKe8GQq.jpg", "actors": ["Rob Bell (Himself)", "Pete Holmes (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 260456, "title": "Shipbreakers", "original_title": "Shipbreakers", "slug_title": "shipbreakers", "date": "2014-01-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

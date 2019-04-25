@@ -1,1 +1,0 @@
-{"tmdb_id": 569675, "title": "An Existential Affair", "original_title": "An Existential Affair", "slug_title": "an-existential-affair", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Hitbp758L7Vt3NeFr1IKLLnvtv.jpg", "actors": [], "comments": [], "recommandations_id": []}

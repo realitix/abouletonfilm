@@ -1,1 +1,0 @@
-{"tmdb_id": 424204, "title": "The Drag Queen's Ball", "original_title": "The Drag Queen's Ball", "slug_title": "the-drag-queen-s-ball", "date": "1970-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s7mE2kkmLiPmItyGV9JHUUsxQ1a.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 577021, "title": "Tomorrow. 31st of April, 1st of May 1970", "original_title": "Tomorrow. 31st of April, 1st of May 1970", "slug_title": "tomorrow-31st-of-april-1st-of-may-1970", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

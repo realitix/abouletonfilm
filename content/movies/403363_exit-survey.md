@@ -1,1 +1,0 @@
-{"tmdb_id": 403363, "title": "Exit Survey", "original_title": "Exit Survey", "slug_title": "exit-survey", "date": "2016-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Nfxw8nHSbcyeszPdT2VmI3c6CH.jpg", "actors": [], "comments": [], "recommandations_id": []}

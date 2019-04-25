@@ -1,1 +1,0 @@
-{"tmdb_id": 316295, "title": "A Film by Jackie Christianson", "original_title": "A Film by Jackie Christianson", "slug_title": "a-film-by-jackie-christianson", "date": "2013-08-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Clara Mamet (Narrator)"], "comments": [], "recommandations_id": []}

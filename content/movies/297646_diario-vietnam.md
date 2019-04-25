@@ -1,1 +1,0 @@
-{"tmdb_id": 297646, "title": "Diario Vietnam", "original_title": "Diario Vietnam", "slug_title": "diario-vietnam", "date": "2004-10-19", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9GahZV7MLbbTPHjXrzESzQmVbIS.jpg", "actors": ["Rafi Matos ()"], "comments": [], "recommandations_id": []}

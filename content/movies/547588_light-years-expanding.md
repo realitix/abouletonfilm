@@ -1,1 +1,0 @@
-{"tmdb_id": 547588, "title": "Light Years Expanding", "original_title": "Light Years Expanding", "slug_title": "light-years-expanding", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

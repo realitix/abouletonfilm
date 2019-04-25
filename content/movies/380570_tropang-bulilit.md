@@ -1,1 +1,0 @@
-{"tmdb_id": 380570, "title": "Tropang Bulilit", "original_title": "Tropang Bulilit", "slug_title": "tropang-bulilit", "date": "1981-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gNd3RYYrCVcFMFbKyIe9Sm0P39s.jpg", "actors": [], "comments": [], "recommandations_id": []}

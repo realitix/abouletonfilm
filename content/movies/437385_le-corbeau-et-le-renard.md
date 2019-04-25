@@ -1,1 +1,0 @@
-{"tmdb_id": 437385, "title": "Le Corbeau et le Renard", "original_title": "Le Corbeau et le Renard", "slug_title": "le-corbeau-et-le-renard", "date": "1968-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

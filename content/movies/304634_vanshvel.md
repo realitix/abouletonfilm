@@ -1,1 +1,0 @@
-{"tmdb_id": 304634, "title": "Vanshvel", "original_title": "Vanshvel", "slug_title": "vanshvel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

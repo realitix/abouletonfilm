@@ -1,1 +1,0 @@
-{"tmdb_id": 476731, "title": "A Lost Film", "original_title": "Um Filme Perdido", "slug_title": "a-lost-film", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

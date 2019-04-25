@@ -1,1 +1,0 @@
-{"tmdb_id": 400793, "title": "Attention to Detail Guides the Dreamer", "original_title": "Attention to Detail Guides the Dreamer", "slug_title": "attention-to-detail-guides-the-dreamer", "date": "2015-01-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

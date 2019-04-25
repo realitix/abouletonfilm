@@ -1,1 +1,0 @@
-{"tmdb_id": 457253, "title": "Demokratie in Gefahr", "original_title": "Demokratie in Gefahr", "slug_title": "demokratie-in-gefahr", "date": "1950-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

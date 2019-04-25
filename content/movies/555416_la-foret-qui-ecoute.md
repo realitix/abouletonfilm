@@ -1,1 +1,0 @@
-{"tmdb_id": 555416, "title": "La for\u00eat qui \u00e9coute", "original_title": "La for\u00eat qui \u00e9coute", "slug_title": "la-foret-qui-ecoute", "date": "1916-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

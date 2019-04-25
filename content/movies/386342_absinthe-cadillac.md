@@ -1,1 +1,0 @@
-{"tmdb_id": 386342, "title": "Absinthe Cadillac", "original_title": "Absinthe Cadillac", "slug_title": "absinthe-cadillac", "date": "2012-03-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cSSCRbT0rdAdrpTRvrWDdSInn77.jpg", "actors": [], "comments": [], "recommandations_id": []}

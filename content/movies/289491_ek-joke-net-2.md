@@ -1,1 +1,0 @@
-{"tmdb_id": 289491, "title": "Ek Joke Net 2", "original_title": "Ek Joke Net 2", "slug_title": "ek-joke-net-2", "date": "2014-05-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/417EuJfcYwVKI67FSXvQQpReI3o.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 557740, "title": "THE ACCOUNT OF ALEKS", "original_title": "THE ACCOUNT OF ALEKS", "slug_title": "the-account-of-aleks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

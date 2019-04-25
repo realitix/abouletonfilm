@@ -1,1 +1,1 @@
-{"tmdb_id": 198715, "title": "Kernseif", "original_title": "Kernseif", "slug_title": "kernseif", "date": "2005-01-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 198715, "title": "Kernseif", "original_title": "Kernseif", "slug_title": "kernseif", "date": "2005-01-02", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

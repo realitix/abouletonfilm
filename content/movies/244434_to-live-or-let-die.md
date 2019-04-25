@@ -1,1 +1,0 @@
-{"tmdb_id": 244434, "title": "To Live or Let Die", "original_title": "To Live or Let Die", "slug_title": "to-live-or-let-die", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

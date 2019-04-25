@@ -1,1 +1,0 @@
-{"tmdb_id": 390087, "title": "Darkeling", "original_title": "\u3084\u307f\u306e\u3051", "slug_title": "darkeling", "date": "2013-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gzsdnGia41Dh4hGpzZth7khbKq9.jpg", "actors": [], "comments": [], "recommandations_id": []}

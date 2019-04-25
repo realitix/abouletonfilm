@@ -1,1 +1,0 @@
-{"tmdb_id": 156390, "title": "Sinister Hands", "original_title": "Sinister Hands", "slug_title": "sinister-hands", "date": "1932-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rWY1Ae2nMsSHoXYIVHynqXo0sne.jpg", "actors": [], "comments": [], "recommandations_id": []}

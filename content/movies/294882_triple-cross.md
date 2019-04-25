@@ -1,1 +1,0 @@
-{"tmdb_id": 294882, "title": "Triple Cross", "original_title": "Triple Cross", "slug_title": "triple-cross", "date": "2005-12-16", "genre": "Drame / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5zmgrgSCJxo9f3DvEN0NJLGruQC.jpg", "actors": [], "comments": [], "recommandations_id": []}

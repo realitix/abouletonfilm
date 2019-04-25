@@ -1,1 +1,0 @@
-{"tmdb_id": 325673, "title": "Your Dark Hair Ihsan", "original_title": "Your Dark Hair Ihsan", "slug_title": "your-dark-hair-ihsan", "date": "2005-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

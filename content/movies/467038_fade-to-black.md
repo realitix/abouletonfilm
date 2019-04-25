@@ -1,1 +1,0 @@
-{"tmdb_id": 467038, "title": "Fade to Black", "original_title": "Fade to Black", "slug_title": "fade-to-black", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jNnxG1u7LWZCzbATB548h0kTgik.jpg", "actors": [], "comments": [], "recommandations_id": []}

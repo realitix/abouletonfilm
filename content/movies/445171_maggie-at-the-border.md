@@ -1,1 +1,0 @@
-{"tmdb_id": 445171, "title": "MAGGIE (at the border)", "original_title": "MAGGIE (at the border)", "slug_title": "maggie-at-the-border", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

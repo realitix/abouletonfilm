@@ -1,1 +1,0 @@
-{"tmdb_id": 275553, "title": "Ride for Lance", "original_title": "Ride for Lance", "slug_title": "ride-for-lance", "date": "2014-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

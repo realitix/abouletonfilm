@@ -1,1 +1,0 @@
-{"tmdb_id": 215857, "title": "The Fourth Sex", "original_title": "Le quatri\u00e8me sexe", "slug_title": "the-fourth-sex", "date": "1963-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o4PhWS7w4dmSUqL8p0nytL6T4mm.jpg", "actors": [], "comments": [], "recommandations_id": []}

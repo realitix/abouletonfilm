@@ -1,1 +1,0 @@
-{"tmdb_id": 258171, "title": "Volgend jaar in Holysloot", "original_title": "Volgend jaar in Holysloot", "slug_title": "volgend-jaar-in-holysloot", "date": "1983-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emile van Moerkerken (Blind Man / Narrator)"], "comments": [], "recommandations_id": []}

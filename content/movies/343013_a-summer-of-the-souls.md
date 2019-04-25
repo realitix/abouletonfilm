@@ -1,1 +1,0 @@
-{"tmdb_id": 343013, "title": "A summer of the souls", "original_title": "A summer of the souls", "slug_title": "a-summer-of-the-souls", "date": "2010-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qkavZc7A66F3ED17uxZLxbN8wZj.jpg", "actors": [], "comments": [], "recommandations_id": []}

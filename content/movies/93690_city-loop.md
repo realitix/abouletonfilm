@@ -1,1 +1,0 @@
-{"tmdb_id": 93690, "title": "City Loop", "original_title": "City Loop", "slug_title": "city-loop", "date": "2000-06-17", "genre": "Com\u00e9die / Romance", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lxBm7IKRaK7CLYBPQyeLEmvjzXh.jpg", "actors": [], "comments": [], "recommandations_id": []}

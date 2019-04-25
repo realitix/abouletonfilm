@@ -1,1 +1,0 @@
-{"tmdb_id": 334041, "title": "It's a Thing", "original_title": "It's a Thing", "slug_title": "it-s-a-thing", "date": "2015-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

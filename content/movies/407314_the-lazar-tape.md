@@ -1,1 +1,0 @@
-{"tmdb_id": 407314, "title": "The Lazar Tape", "original_title": "The Lazar Tape", "slug_title": "the-lazar-tape", "date": "1991-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6v23lZip0Yc5aCUmiJ0XtiPu3dp.jpg", "actors": ["Bob Lazar (Himself)"], "comments": [], "recommandations_id": []}

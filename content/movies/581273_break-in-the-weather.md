@@ -1,1 +1,0 @@
-{"tmdb_id": 581273, "title": "Break in the Weather", "original_title": "Break in the Weather", "slug_title": "break-in-the-weather", "date": "2016-01-01", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7AZfg5YUxOQzj9WE0rTGV4VpXhf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 442039, "title": "Help My Wife", "original_title": "Help My Wife", "slug_title": "help-my-wife", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

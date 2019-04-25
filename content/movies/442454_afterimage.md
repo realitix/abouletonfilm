@@ -1,1 +1,0 @@
-{"tmdb_id": 442454, "title": "Afterimage", "original_title": "Afterimage", "slug_title": "afterimage", "date": "2015-09-13", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kasey Pearl Lee ()", "Ian Tripp ()"], "comments": [], "recommandations_id": []}

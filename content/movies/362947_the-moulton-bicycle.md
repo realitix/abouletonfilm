@@ -1,1 +1,0 @@
-{"tmdb_id": 362947, "title": "The Moulton Bicycle", "original_title": "The Moulton Bicycle", "slug_title": "the-moulton-bicycle", "date": "1972-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mwBVEwitYBo5OFk5JDZXh9noNEx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 578701, "title": "Those Who Wish Me Dead", "original_title": "Those Who Wish Me Dead", "slug_title": "those-who-wish-me-dead", "date": "", "genre": "Thriller / Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Angelina Jolie ()"], "comments": [], "recommandations_id": []}

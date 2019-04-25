@@ -1,1 +1,0 @@
-{"tmdb_id": 334652, "title": "Moving Picture", "original_title": "Moving Picture", "slug_title": "moving-picture", "date": "1995-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h4UgB8DwENcXOIRfwcEH8FWMyEs.jpg", "actors": [], "comments": [], "recommandations_id": []}

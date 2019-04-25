@@ -1,1 +1,0 @@
-{"tmdb_id": 273811, "title": "Bob the Builder: Teamwork Time", "original_title": "Bob the Builder: Teamwork Time", "slug_title": "bob-the-builder-teamwork-time", "date": "2012-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

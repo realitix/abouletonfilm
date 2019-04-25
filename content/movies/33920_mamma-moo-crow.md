@@ -1,1 +1,0 @@
-{"tmdb_id": 33920, "title": "Mamma Moo & Crow", "original_title": "Mamma Mu & Kr\u00e5kan", "slug_title": "mamma-moo-crow", "date": "2008-09-19", "genre": "Familial", "score": "3.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u9hkCRAkOsFxY9f3K8owTbnjJRK.jpg", "actors": [], "comments": [], "recommandations_id": []}

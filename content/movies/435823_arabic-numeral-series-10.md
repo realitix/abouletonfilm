@@ -1,1 +1,0 @@
-{"tmdb_id": 435823, "title": "Arabic Numeral Series 10", "original_title": "Arabic Numeral Series 10", "slug_title": "arabic-numeral-series-10", "date": "1981-01-18", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o3DFZYPYzvvhUkAQwieKIUOMLlg.jpg", "actors": [], "comments": [], "recommandations_id": []}

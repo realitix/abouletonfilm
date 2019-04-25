@@ -1,1 +1,0 @@
-{"tmdb_id": 365487, "title": "Future June", "original_title": "Futuro Junho", "slug_title": "future-june", "date": "2015-10-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sIuw4KxNpaGBHWBeqrDq8MkotBf.jpg", "actors": [], "comments": [], "recommandations_id": []}

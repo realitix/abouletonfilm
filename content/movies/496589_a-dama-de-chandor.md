@@ -1,1 +1,0 @@
-{"tmdb_id": 496589, "title": "A Dama de Chandor", "original_title": "A Dama de Chandor", "slug_title": "a-dama-de-chandor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gC6fCYvKfjTwPowLePUpuWjaol.jpg", "actors": [], "comments": [], "recommandations_id": []}

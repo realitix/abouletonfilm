@@ -1,1 +1,0 @@
-{"tmdb_id": 498525, "title": "Un Moment Si Doux", "original_title": "Un Moment Si Doux", "slug_title": "un-moment-si-doux", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7AUcJ4RNcuaeyDXhWa4Qmr84hVD.jpg", "actors": ["Raymond Depardon (himself)"], "comments": [], "recommandations_id": []}

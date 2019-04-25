@@ -1,1 +1,0 @@
-{"tmdb_id": 512974, "title": "Famous Irish Americans", "original_title": "Famous Irish Americans", "slug_title": "famous-irish-americans", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

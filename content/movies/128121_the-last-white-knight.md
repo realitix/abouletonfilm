@@ -1,1 +1,0 @@
-{"tmdb_id": 128121, "title": "The Last White Knight", "original_title": "The Last White Knight", "slug_title": "the-last-white-knight", "date": "2012-09-11", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t8fnXV5jKsLXBWZuEiW4qrt3v8O.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 319819, "title": "Sumathi Yen Sundari", "original_title": "Sumathi Yen Sundari", "slug_title": "sumathi-yen-sundari", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

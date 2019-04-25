@@ -1,1 +1,0 @@
-{"tmdb_id": 527257, "title": "La Tribu de las 7 Islas", "original_title": "La Tribu de las 7 Islas", "slug_title": "la-tribu-de-las-7-islas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Abi\u00e1n de la Cruz ()", "Hiram Vega ()", "Cristo Quintana ()", "Paula Gar\u00f3 ()"], "comments": [], "recommandations_id": []}

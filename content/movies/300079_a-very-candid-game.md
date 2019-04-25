@@ -1,1 +1,0 @@
-{"tmdb_id": 300079, "title": "A Very Candid Game", "original_title": "A Very Candid Game", "slug_title": "a-very-candid-game", "date": "2013-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

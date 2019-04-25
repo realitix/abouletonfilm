@@ -1,1 +1,0 @@
-{"tmdb_id": 368220, "title": "America's All-Time Favorite Movies", "original_title": "America's All-Time Favorite Movies", "slug_title": "america-s-all-time-favorite-movies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

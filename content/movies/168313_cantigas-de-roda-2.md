@@ -1,1 +1,0 @@
-{"tmdb_id": 168313, "title": "Cantigas de Roda 2", "original_title": "Cantigas de Roda 2", "slug_title": "cantigas-de-roda-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iT7V2i2cSLV4IOGu62NVrN7PeBv.jpg", "actors": [], "comments": [], "recommandations_id": []}

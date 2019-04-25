@@ -1,1 +1,0 @@
-{"tmdb_id": 236493, "title": "The Cagey Canary", "original_title": "The Cagey Canary", "slug_title": "the-cagey-canary", "date": "1941-12-25", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4g0A6iwsEknIbllzDcc4sxikPxO.jpg", "actors": [], "comments": [], "recommandations_id": []}

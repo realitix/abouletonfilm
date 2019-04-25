@@ -1,1 +1,0 @@
-{"tmdb_id": 557948, "title": "The Forgiving", "original_title": "The Forgiving", "slug_title": "the-forgiving", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Gerard Healy (Avi Brickman)", "Jenna Kuna (Beth)", "Kathy Sanders (Clara)"], "comments": [], "recommandations_id": []}

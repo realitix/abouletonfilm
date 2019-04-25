@@ -1,1 +1,0 @@
-{"tmdb_id": 583182, "title": "Fr\u00fchst\u00fcck zu dritt", "original_title": "Fr\u00fchst\u00fcck zu dritt", "slug_title": "fruhstuck-zu-dritt", "date": "1988-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cZfjLIjLgTtiqSEQSJpBV2380E2.jpg", "actors": [], "comments": [], "recommandations_id": []}

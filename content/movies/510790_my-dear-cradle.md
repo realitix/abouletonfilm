@@ -1,1 +1,0 @@
-{"tmdb_id": 510790, "title": "My Dear Cradle", "original_title": "Moja draga kolevka", "slug_title": "my-dear-cradle", "date": "1924-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 388707, "title": "Atardecer", "original_title": "Atardecer", "slug_title": "atardecer", "date": "2015-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

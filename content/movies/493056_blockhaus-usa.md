@@ -1,1 +1,0 @@
-{"tmdb_id": 493056, "title": "Blockhaus USA", "original_title": "Blockhaus USA", "slug_title": "blockhaus-usa", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Catherine Erhardy ()", "Anna Karina ()", "G\u00e9rard Lecaillon ()"], "comments": [], "recommandations_id": []}

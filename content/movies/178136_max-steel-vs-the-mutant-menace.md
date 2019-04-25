@@ -1,1 +1,0 @@
-{"tmdb_id": 178136, "title": "Max Steel vs. the Mutant Menace", "original_title": "Max Steel vs. the Mutant Menace", "slug_title": "max-steel-vs-the-mutant-menace", "date": "2009-01-01", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c4KOHvz2yzgBPESn3WBHiQuQVyh.jpg", "actors": [], "comments": [], "recommandations_id": []}

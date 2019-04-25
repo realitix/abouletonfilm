@@ -1,1 +1,0 @@
-{"tmdb_id": 429083, "title": "Matriarchy", "original_title": "Mitriarhia", "slug_title": "matriarchy", "date": "2014-09-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hEyJctI8Cr80tGreHgWUh2cPOOZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

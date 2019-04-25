@@ -1,1 +1,0 @@
-{"tmdb_id": 413330, "title": "Empress Chung", "original_title": "\uc655\ud6c4\uc2ec\uccad", "slug_title": "empress-chung", "date": "2005-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6QLcsobo2PA5y4rqdf4MCCc72lk.jpg", "actors": [], "comments": [], "recommandations_id": []}

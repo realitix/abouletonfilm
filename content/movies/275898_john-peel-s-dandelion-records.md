@@ -1,1 +1,0 @@
-{"tmdb_id": 275898, "title": "John Peel's Dandelion Records", "original_title": "John Peel's Dandelion Records", "slug_title": "john-peel-s-dandelion-records", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

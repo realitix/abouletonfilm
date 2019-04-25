@@ -1,1 +1,0 @@
-{"tmdb_id": 174512, "title": "Red Hot Mamma", "original_title": "Red Hot Mamma", "slug_title": "red-hot-mamma", "date": "1934-02-01", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vXSq9eHKUSHFViea3AWS0zn6Lmk.jpg", "actors": ["Bonnie Poe (Betty Boop)"], "comments": [], "recommandations_id": []}

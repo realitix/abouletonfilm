@@ -1,1 +1,0 @@
-{"tmdb_id": 235971, "title": "Pilgrim Popeye", "original_title": "Pilgrim Popeye", "slug_title": "pilgrim-popeye", "date": "1951-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Mercer (Popeye/Nephews/Turkey (voice))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 302495, "title": "K. Michelle: The Rebellious Soul Musica", "original_title": "K. Michelle: The Rebellious Soul Musica", "slug_title": "k-michelle-the-rebellious-soul-musica", "date": "2014-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

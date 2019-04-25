@@ -1,1 +1,0 @@
-{"tmdb_id": 317195, "title": "Undead Sun", "original_title": "Undead Sun", "slug_title": "undead-sun", "date": "2014-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gJoB5k4hTaMTpHR6PErldEEPV9L.jpg", "actors": [], "comments": [], "recommandations_id": []}

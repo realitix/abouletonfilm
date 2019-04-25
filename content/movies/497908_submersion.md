@@ -1,1 +1,0 @@
-{"tmdb_id": 497908, "title": "Submersion", "original_title": "Submersion", "slug_title": "submersion", "date": "2017-10-23", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aHn4WeTaGkqnAmMcUxDXdyhbE8l.jpg", "actors": ["Micaelyn Theron (Young woman)"], "comments": [], "recommandations_id": []}

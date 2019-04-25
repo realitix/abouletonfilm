@@ -1,1 +1,0 @@
-{"tmdb_id": 545175, "title": "Barco - Do Outro Lado da Mem\u00f3ria", "original_title": "Barco - Do Outro Lado da Mem\u00f3ria", "slug_title": "barco-do-outro-lado-da-memoria", "date": "2017-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

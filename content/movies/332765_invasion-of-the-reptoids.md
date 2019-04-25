@@ -1,1 +1,0 @@
-{"tmdb_id": 332765, "title": "Invasion of the Reptoids", "original_title": "Invasion of the Reptoids", "slug_title": "invasion-of-the-reptoids", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bibG0pHyA8WFH5ROrCYtecbKx5O.jpg", "actors": [], "comments": [], "recommandations_id": []}

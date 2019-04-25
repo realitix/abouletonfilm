@@ -1,1 +1,0 @@
-{"tmdb_id": 140555, "title": "Lost and Sound", "original_title": "Lost and Sound", "slug_title": "lost-and-sound", "date": "2012-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

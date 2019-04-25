@@ -1,1 +1,0 @@
-{"tmdb_id": 63192, "title": "Filhos do T\u00e9dio", "original_title": "Filhos do T\u00e9dio", "slug_title": "filhos-do-tedio", "date": "2006-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f6dw9zhLmGKcVyAUeslgYRpzaYd.jpg", "actors": [], "comments": [], "recommandations_id": []}

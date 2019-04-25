@@ -1,1 +1,0 @@
-{"tmdb_id": 530438, "title": "The Modern Lives", "original_title": "The Modern Lives", "slug_title": "the-modern-lives", "date": "2018-03-28", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

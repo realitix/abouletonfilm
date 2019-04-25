@@ -1,1 +1,0 @@
-{"tmdb_id": 570592, "title": "Ende des Tunnels", "original_title": "Ende des Tunnels", "slug_title": "ende-des-tunnels", "date": "", "genre": "Drame / Thriller / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

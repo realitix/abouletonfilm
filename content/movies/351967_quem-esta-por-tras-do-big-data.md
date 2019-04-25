@@ -1,1 +1,0 @@
-{"tmdb_id": 351967, "title": "Quem est\u00e1 por tr\u00e1s do Big Data?", "original_title": "Quem est\u00e1 por tr\u00e1s do Big Data?", "slug_title": "quem-esta-por-tras-do-big-data", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

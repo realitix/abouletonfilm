@@ -1,1 +1,0 @@
-{"tmdb_id": 108653, "title": "Freeway Speedway 2", "original_title": "Freeway Speedway 2", "slug_title": "freeway-speedway-2", "date": "1990-07-06", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fLGE72kqGFW0vA5tXZUjd2eHh7z.jpg", "actors": [], "comments": [], "recommandations_id": []}

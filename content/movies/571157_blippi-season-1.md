@@ -1,1 +1,0 @@
-{"tmdb_id": 571157, "title": "Blippi Season 1", "original_title": "Blippi Season 1", "slug_title": "blippi-season-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hOSMOIqSc8lnu1FRmJTgIZWajxj.jpg", "actors": [], "comments": [], "recommandations_id": []}

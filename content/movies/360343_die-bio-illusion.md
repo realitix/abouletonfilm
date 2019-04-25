@@ -1,1 +1,0 @@
-{"tmdb_id": 360343, "title": "Die Bio-Illusion", "original_title": "Die Bio-Illusion", "slug_title": "die-bio-illusion", "date": "2014-06-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

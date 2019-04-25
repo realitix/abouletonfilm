@@ -1,1 +1,0 @@
-{"tmdb_id": 469476, "title": "Lot Lizard", "original_title": "Lot Lizard", "slug_title": "lot-lizard", "date": "2016-09-27", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qpKGeEyqFHcaGTE0ijGmyMZAvOP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 538095, "title": "Big Bridge", "original_title": "La m\u00e1xima longitud de un puente", "slug_title": "big-bridge", "date": "2018-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xSnvQPxW84QLGsVEKD35wcbebi9.jpg", "actors": [], "comments": [], "recommandations_id": []}

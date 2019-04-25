@@ -1,1 +1,0 @@
-{"tmdb_id": 254794, "title": "Beautiful Jim", "original_title": "Beautiful Jim", "slug_title": "beautiful-jim", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

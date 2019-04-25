@@ -1,1 +1,0 @@
-{"tmdb_id": 450816, "title": "ONE Championships 52: Throne of Tigers", "original_title": "ONE Championships 52: Throne of Tigers", "slug_title": "one-championships-52-throne-of-tigers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

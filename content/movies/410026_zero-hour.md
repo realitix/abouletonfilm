@@ -1,1 +1,0 @@
-{"tmdb_id": 410026, "title": "Zero Hour", "original_title": "Zero Hour", "slug_title": "zero-hour", "date": "2013-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aysQ76w3QQQN4eaOnOj6DnoD1vL.jpg", "actors": [], "comments": [], "recommandations_id": []}

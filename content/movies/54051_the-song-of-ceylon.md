@@ -1,1 +1,0 @@
-{"tmdb_id": 54051, "title": "The Song of Ceylon", "original_title": "The Song of Ceylon", "slug_title": "the-song-of-ceylon", "date": "1934-11-30", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [383841, 263125, 152973, 150933]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 470474, "title": "Isla del tesoro", "original_title": "Isla del tesoro", "slug_title": "isla-del-tesoro", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mtvewJHi5xxHtVZHGnAXHIRTcDW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 367265, "title": "A Night on Mount Edna", "original_title": "A Night on Mount Edna", "slug_title": "a-night-on-mount-edna", "date": "1990-12-14", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 540745, "title": "Modelo siqueiros", "original_title": "Modelo siqueiros", "slug_title": "modelo-siqueiros", "date": "2009-04-03", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yANCTlyac2pl6wm2hL4Ld5T3dMp.jpg", "actors": [], "comments": [], "recommandations_id": []}

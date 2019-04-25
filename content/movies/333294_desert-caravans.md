@@ -1,1 +1,1 @@
-{"tmdb_id": 333294, "title": "Desert Caravans", "original_title": "Sarebanan", "slug_title": "desert-caravans", "date": "1975-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 333294, "title": "Desert Caravans", "original_title": "Sarebanan", "slug_title": "desert-caravans", "date": "1975-01-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 419775, "title": "The Apothecary", "original_title": "The Apothecary", "slug_title": "the-apothecary", "date": "2013-11-03", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

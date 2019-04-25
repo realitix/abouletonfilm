@@ -1,1 +1,0 @@
-{"tmdb_id": 69915, "title": "Sikumi (On the Ice)", "original_title": "Sikumi (On the Ice)", "slug_title": "sikumi-on-the-ice", "date": "2008-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dbpyL4QwiL9BGdfEB2etR3ZsO92.jpg", "actors": [], "comments": [], "recommandations_id": [116152, 203091, 339438, 203087]}

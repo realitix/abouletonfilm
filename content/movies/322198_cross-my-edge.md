@@ -1,1 +1,0 @@
-{"tmdb_id": 322198, "title": "Cross My Edge", "original_title": "Cross My Edge", "slug_title": "cross-my-edge", "date": "2013-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

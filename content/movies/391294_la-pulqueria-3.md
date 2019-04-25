@@ -1,1 +1,0 @@
-{"tmdb_id": 391294, "title": "La pulquer\u00eda 3", "original_title": "La pulquer\u00eda 3", "slug_title": "la-pulqueria-3", "date": "1984-11-01", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Pr06Agkqv5KiUlEb7LBesHtoB7.jpg", "actors": [], "comments": [], "recommandations_id": []}

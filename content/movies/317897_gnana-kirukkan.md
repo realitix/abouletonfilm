@@ -1,1 +1,0 @@
-{"tmdb_id": 317897, "title": "Gnana Kirukkan", "original_title": "Gnana Kirukkan", "slug_title": "gnana-kirukkan", "date": "2014-11-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thambi Ramaiah ()", "Daniel Balaji ()", "Jega ()", "Archana Kavi ()", "Sushmitha ()"], "comments": [], "recommandations_id": []}

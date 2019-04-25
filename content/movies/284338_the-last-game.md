@@ -1,1 +1,0 @@
-{"tmdb_id": 284338, "title": "The Last Game", "original_title": "The Last Game", "slug_title": "the-last-game", "date": "2002-08-17", "genre": "Documentaire", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uR3Zcu04Cby9UDrWjninz0kOZQ1.jpg", "actors": ["Mike Pettine (Himself)"], "comments": [], "recommandations_id": []}

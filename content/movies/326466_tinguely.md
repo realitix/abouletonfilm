@@ -1,1 +1,0 @@
-{"tmdb_id": 326466, "title": "Tinguely", "original_title": "Tinguely", "slug_title": "tinguely", "date": "2011-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tHSRzNApcBrPRsuw3r4TcSeFkMA.jpg", "actors": [], "comments": [], "recommandations_id": []}

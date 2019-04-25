@@ -1,1 +1,0 @@
-{"tmdb_id": 383794, "title": "Land of the Heroes", "original_title": "Land of the Heroes", "slug_title": "land-of-the-heroes", "date": "2011-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dJEOLZl1vjTcwQOsJ29e9OiUiJ6.jpg", "actors": [], "comments": [], "recommandations_id": []}

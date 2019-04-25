@@ -1,1 +1,0 @@
-{"tmdb_id": 575762, "title": "Elar Char Adhyay", "original_title": "Elar Char Adhyay", "slug_title": "elar-char-adhyay", "date": "2012-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 316648, "title": "John Blackwell: Hudson Music Master Series", "original_title": "John Blackwell: Hudson Music Master Series", "slug_title": "john-blackwell-hudson-music-master-series", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 407407, "title": "The Little Hawk", "original_title": "Vanadzi\u0146\u0161", "slug_title": "the-little-hawk", "date": "1978-02-19", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vwPN08LfXpBIzuQIFlpzcnWYV5j.jpg", "actors": [], "comments": [], "recommandations_id": []}

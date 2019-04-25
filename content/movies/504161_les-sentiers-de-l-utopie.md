@@ -1,1 +1,0 @@
-{"tmdb_id": 504161, "title": "Les Sentiers de l'Utopie", "original_title": "Les Sentiers de l'Utopie", "slug_title": "les-sentiers-de-l-utopie", "date": "2012-08-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4tOaVEMj6Tu5vFE6HZMi8ivPgH.jpg", "actors": [], "comments": [], "recommandations_id": []}

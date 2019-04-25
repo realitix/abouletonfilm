@@ -1,1 +1,0 @@
-{"tmdb_id": 456677, "title": "Drapchi Elegy", "original_title": "Drapchi Elegy", "slug_title": "drapchi-elegy", "date": "2017-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Namdol Lhamo (Herself)"], "comments": [], "recommandations_id": []}

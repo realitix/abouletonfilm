@@ -1,1 +1,0 @@
-{"tmdb_id": 506444, "title": "3-0-3 Tango Fusion", "original_title": "3-0-3 Tango Fusion", "slug_title": "3-0-3-tango-fusion", "date": "2009-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zh0GX8QCEEHt6EFji8mOONop80G.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 151212, "title": "Roger Cicero Live at Montreux", "original_title": "Roger Cicero Live at Montreux", "slug_title": "roger-cicero-live-at-montreux", "date": "2010-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eiJpoU8CgkaxbgaKX79WOWaoOKw.jpg", "actors": [], "comments": [], "recommandations_id": []}

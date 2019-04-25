@@ -1,1 +1,0 @@
-{"tmdb_id": 155163, "title": "Palnati Yudham", "original_title": "Palnati Yudham", "slug_title": "palnati-yudham", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 592335, "title": "Indecent Beast", "original_title": "\u617e\u7378", "slug_title": "indecent-beast", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stuart Ong ()", "Gwok Yee-Lee ()", "Lui Lee ()", "Wong Yu ()", "Peter Yang Kwan ()"], "comments": [], "recommandations_id": []}

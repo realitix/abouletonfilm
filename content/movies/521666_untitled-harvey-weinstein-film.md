@@ -1,1 +1,0 @@
-{"tmdb_id": 521666, "title": "Untitled Harvey Weinstein Film", "original_title": "Untitled Harvey Weinstein Film", "slug_title": "untitled-harvey-weinstein-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

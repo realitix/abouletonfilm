@@ -1,1 +1,0 @@
-{"tmdb_id": 115436, "title": "Hason Raja", "original_title": "Hason Raja", "slug_title": "hason-raja", "date": "2017-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h42MhDjxVwJ1KlhXnawEUOagDtz.jpg", "actors": ["Mithun Chakraborty (Hason Raja)", "Raima Sen (Dilaram)"], "comments": [], "recommandations_id": []}

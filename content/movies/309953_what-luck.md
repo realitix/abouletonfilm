@@ -1,1 +1,0 @@
-{"tmdb_id": 309953, "title": "What Luck?", "original_title": "What Luck?", "slug_title": "what-luck", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iqqOOuMOxKSSpI4knm8LIWr684v.jpg", "actors": [], "comments": [], "recommandations_id": []}

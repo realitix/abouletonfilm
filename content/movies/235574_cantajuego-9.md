@@ -1,1 +1,0 @@
-{"tmdb_id": 235574, "title": "Cantajuego 9", "original_title": "Cantajuego 9", "slug_title": "cantajuego-9", "date": "2013-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j33eGatGVGOPPLYBcYm9hqM9HFb.jpg", "actors": [], "comments": [], "recommandations_id": []}

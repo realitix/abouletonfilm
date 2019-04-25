@@ -1,1 +1,0 @@
-{"tmdb_id": 353675, "title": "Berenstain Bears: Adventure and Fun For Everyone", "original_title": "Berenstain Bears: Adventure and Fun For Everyone", "slug_title": "berenstain-bears-adventure-and-fun-for-everyone", "date": "2003-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

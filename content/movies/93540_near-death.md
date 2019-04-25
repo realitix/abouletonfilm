@@ -1,1 +1,0 @@
-{"tmdb_id": 93540, "title": "Near Death", "original_title": "Near Death", "slug_title": "near-death", "date": "1989-10-07", "genre": "Documentaire", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5OqhDyF5JHHXquku5uAkWMMw9NG.jpg", "actors": [], "comments": [], "recommandations_id": [121455, 38845, 55462, 47802]}

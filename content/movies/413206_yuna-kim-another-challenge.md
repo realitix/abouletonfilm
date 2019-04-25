@@ -1,1 +1,0 @@
-{"tmdb_id": 413206, "title": "Yuna Kim, Another Challenge", "original_title": "\uae40\uc5f0\uc544 \ub610 \ub2e4\ub978 \ub3c4\uc804", "slug_title": "yuna-kim-another-challenge", "date": "2013-03-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yuna Kim ()"], "comments": [], "recommandations_id": []}

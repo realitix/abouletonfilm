@@ -1,1 +1,0 @@
-{"tmdb_id": 537589, "title": "The Area", "original_title": "The Area", "slug_title": "the-area", "date": "2018-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ie7zMOtTSzOGOXbptXKBQPAimH2.jpg", "actors": [], "comments": [], "recommandations_id": []}

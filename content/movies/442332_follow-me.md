@@ -1,1 +1,0 @@
-{"tmdb_id": 442332, "title": "Follow Me", "original_title": "Follow Me", "slug_title": "follow-me", "date": "2016-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g8EvUkhbNfNUDRV7SHUuvbszeC9.jpg", "actors": [], "comments": [], "recommandations_id": []}

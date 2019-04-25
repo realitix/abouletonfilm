@@ -1,1 +1,0 @@
-{"tmdb_id": 544118, "title": "Anschi und Michael", "original_title": "Anschi und Michael", "slug_title": "anschi-und-michael", "date": "1977-10-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

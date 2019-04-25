@@ -1,1 +1,0 @@
-{"tmdb_id": 323706, "title": "All American Wrestling: A Taste of Revenge", "original_title": "All American Wrestling: A Taste of Revenge", "slug_title": "all-american-wrestling-a-taste-of-revenge", "date": "2006-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

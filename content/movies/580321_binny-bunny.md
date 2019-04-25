@@ -1,1 +1,0 @@
-{"tmdb_id": 580321, "title": "Binny Bunny", "original_title": "Binny Bunny", "slug_title": "binny-bunny", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1kEdTavjHy5uGYeDrQhb1Ki7CmB.jpg", "actors": [], "comments": [], "recommandations_id": []}

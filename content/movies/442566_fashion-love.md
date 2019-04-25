@@ -1,1 +1,0 @@
-{"tmdb_id": 442566, "title": "Fashion Love", "original_title": "Fashion Love", "slug_title": "fashion-love", "date": "1984-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qe8051k52iNZR4KOQwr5ywHmiJE.jpg", "actors": ["Marina Hedman ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 119180, "title": "Scratch: All The Way Live", "original_title": "Scratch: All The Way Live", "slug_title": "scratch-all-the-way-live", "date": "2004-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zRkosLTzvZyKZTyxqC8fbBP7qRc.jpg", "actors": [], "comments": [], "recommandations_id": []}

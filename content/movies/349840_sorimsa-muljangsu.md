@@ -1,1 +1,0 @@
-{"tmdb_id": 349840, "title": "\uc18c\ub9bc\uc0ac \ubb3c\uc7a5\uc218", "original_title": "\uc18c\ub9bc\uc0ac \ubb3c\uc7a5\uc218", "slug_title": "sorimsa-muljangsu", "date": "1983-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

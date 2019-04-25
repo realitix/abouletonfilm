@@ -1,1 +1,0 @@
-{"tmdb_id": 535461, "title": "Khazor Vulgarian", "original_title": "Khazor Vulgarian", "slug_title": "khazor-vulgarian", "date": "1994-01-01", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AvukDSLr8VyhO2OdH3PGJt9LRt5.jpg", "actors": [], "comments": [], "recommandations_id": []}

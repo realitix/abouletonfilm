@@ -1,1 +1,0 @@
-{"tmdb_id": 98096, "title": "Live Music", "original_title": "Live Music", "slug_title": "live-music", "date": "2009-11-20", "genre": "Animation / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Steve Vai (Riff)", "Ann Marie Calhoun (Vanessa)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 81897, "title": "To Shoot an Elephant", "original_title": "To Shoot an Elephant", "slug_title": "to-shoot-an-elephant", "date": "2009-11-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vfyzXbjmAU5ZvsbZttCDFcK6ek.jpg", "actors": [], "comments": [], "recommandations_id": []}

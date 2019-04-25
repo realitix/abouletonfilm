@@ -1,1 +1,0 @@
-{"tmdb_id": 394990, "title": "Return of the Wolf", "original_title": "Return of the Wolf", "slug_title": "return-of-the-wolf", "date": "1999-04-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zGauSTEaplys0ZCqkzF5irZil3e.jpg", "actors": [], "comments": [], "recommandations_id": []}

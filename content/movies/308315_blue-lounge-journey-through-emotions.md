@@ -1,1 +1,0 @@
-{"tmdb_id": 308315, "title": "Blue Lounge: Journey Through Emotions", "original_title": "Blue Lounge: Journey Through Emotions", "slug_title": "blue-lounge-journey-through-emotions", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

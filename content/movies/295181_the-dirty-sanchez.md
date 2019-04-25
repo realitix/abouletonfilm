@@ -1,1 +1,0 @@
-{"tmdb_id": 295181, "title": "The Dirty Sanchez", "original_title": "The Dirty Sanchez", "slug_title": "the-dirty-sanchez", "date": "2013-10-25", "genre": "Horreur", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1qDdGiW5JpQpg1xGnTRkFxnynfX.jpg", "actors": ["Rob Romero (Dirty Sanchez)"], "comments": [], "recommandations_id": []}

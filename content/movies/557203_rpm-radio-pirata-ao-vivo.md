@@ -1,1 +1,0 @@
-{"tmdb_id": 557203, "title": "RPM: Radio Pirata ao Vivo", "original_title": "RPM: Radio Pirata ao Vivo", "slug_title": "rpm-radio-pirata-ao-vivo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xrAfoDFmQMNlqy7L0gh5nOFdAdH.jpg", "actors": [], "comments": [], "recommandations_id": []}

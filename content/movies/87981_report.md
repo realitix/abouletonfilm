@@ -1,1 +1,0 @@
-{"tmdb_id": 87981, "title": "Report", "original_title": "Report", "slug_title": "report", "date": "1967-12-27", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bjQsutYXhWOpgGPKLSC8r8O2fxp.jpg", "actors": [], "comments": [], "recommandations_id": [85479, 97035, 163336, 86811]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 362669, "title": "Gathering Moss", "original_title": "Gathering Moss", "slug_title": "gathering-moss", "date": "1933-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jf8cjzBpd6PrNzXAh6DNVbIoCZO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 319760, "title": "Laila Manju", "original_title": "Laila Manju", "slug_title": "laila-manju", "date": "1949-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

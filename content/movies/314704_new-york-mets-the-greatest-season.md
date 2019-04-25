@@ -1,1 +1,0 @@
-{"tmdb_id": 314704, "title": "New York Mets: The Greatest Season", "original_title": "New York Mets: The Greatest Season", "slug_title": "new-york-mets-the-greatest-season", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 557051, "title": "FUGU - A TASTE TO DIE FOR", "original_title": "FUGU - A TASTE TO DIE FOR", "slug_title": "fugu-a-taste-to-die-for", "date": "", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

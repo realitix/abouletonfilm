@@ -1,1 +1,0 @@
-{"tmdb_id": 272890, "title": "Viet Flakes", "original_title": "Viet Flakes", "slug_title": "viet-flakes", "date": "1965-01-01", "genre": "Guerre", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fV16MtMNdrGHibUqOsHd7CwHcxi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 333415, "title": "L\u00edngua Seca", "original_title": "L\u00edngua Seca", "slug_title": "lingua-seca", "date": "2014-11-14", "genre": "Romance / Action / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cau\u00e3 Reymond ()", "Nanda Costa ()"], "comments": [], "recommandations_id": []}

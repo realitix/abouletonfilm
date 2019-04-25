@@ -1,1 +1,0 @@
-{"tmdb_id": 375563, "title": "Arcadia", "original_title": "Arcadia", "slug_title": "arcadia", "date": "2010-04-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Simon Le Bon (Singer)", "Nick Rhodes (Musician)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 460852, "title": "A Boca do Cinema Paulista", "original_title": "A Boca do Cinema Paulista", "slug_title": "a-boca-do-cinema-paulista", "date": "1985-06-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/38SNxPtiDEB8uBEYaIDn3DI9QhD.jpg", "actors": [], "comments": [], "recommandations_id": []}

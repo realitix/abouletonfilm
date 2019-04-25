@@ -1,1 +1,0 @@
-{"tmdb_id": 190855, "title": "A Home Spun Hero", "original_title": "A Home Spun Hero", "slug_title": "a-home-spun-hero", "date": "1920-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bobby Vernon ()"], "comments": [], "recommandations_id": []}

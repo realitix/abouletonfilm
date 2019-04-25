@@ -1,1 +1,0 @@
-{"tmdb_id": 273913, "title": "Amy Alyson Fans", "original_title": "Amy Alyson Fans", "slug_title": "amy-alyson-fans", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

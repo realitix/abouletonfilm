@@ -1,1 +1,0 @@
-{"tmdb_id": 451338, "title": "Summoning", "original_title": "Summoning", "slug_title": "summoning", "date": "2017-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jNeQ3ilD0m1Vdk6zOhLAcZhKGao.jpg", "actors": [], "comments": [], "recommandations_id": []}

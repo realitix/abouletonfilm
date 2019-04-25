@@ -1,1 +1,0 @@
-{"tmdb_id": 68725, "title": "Point of Fear", "original_title": "Point of Fear", "slug_title": "point-of-fear", "date": "", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/31gVE3q7mndracy7KzAxfOZUNmY.jpg", "actors": [], "comments": [], "recommandations_id": []}

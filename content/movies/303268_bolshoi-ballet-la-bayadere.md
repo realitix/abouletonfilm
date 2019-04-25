@@ -1,1 +1,0 @@
-{"tmdb_id": 303268, "title": "Bolshoi Ballet: La Bayadere", "original_title": "Bolshoi Ballet: La Bayadere", "slug_title": "bolshoi-ballet-la-bayadere", "date": "2014-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

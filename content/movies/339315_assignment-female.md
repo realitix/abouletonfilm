@@ -1,1 +1,0 @@
-{"tmdb_id": 339315, "title": "Assignment: Female", "original_title": "Assignment: Female", "slug_title": "assignment-female", "date": "1966-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rVxrcnfXFbVhZ2fE3uKxnrWpGWs.jpg", "actors": [], "comments": [], "recommandations_id": []}

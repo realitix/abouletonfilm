@@ -1,1 +1,0 @@
-{"tmdb_id": 453924, "title": "\u0130nce Cumali", "original_title": "\u0130nce Cumali", "slug_title": "ince-cumali", "date": "1967-01-01", "genre": "Drame / Thriller / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kCfUTbhc6LBO41Df0qPuZy79JTw.jpg", "actors": [], "comments": [], "recommandations_id": []}

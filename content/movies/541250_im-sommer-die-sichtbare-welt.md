@@ -1,1 +1,0 @@
-{"tmdb_id": 541250, "title": "Im Sommer - Die sichtbare Welt", "original_title": "Im Sommer - Die sichtbare Welt", "slug_title": "im-sommer-die-sichtbare-welt", "date": "1992-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

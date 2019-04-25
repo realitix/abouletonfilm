@@ -1,1 +1,0 @@
-{"tmdb_id": 567283, "title": "The Golem", "original_title": "The Golem", "slug_title": "the-golem", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jn1CoSM0W1UTCF457OAuaY3k9Im.jpg", "actors": [], "comments": [], "recommandations_id": []}

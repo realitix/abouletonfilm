@@ -1,1 +1,0 @@
-{"tmdb_id": 293649, "title": "Hippopotamus", "original_title": "Hippopotamus", "slug_title": "hippopotamus", "date": "2014-11-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Arvanitidis (John Junior)", "Louis Scarano (John)", "Elti Fundo (Doctor)"], "comments": [], "recommandations_id": []}

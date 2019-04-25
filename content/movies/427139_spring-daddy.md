@@ -1,1 +1,0 @@
-{"tmdb_id": 427139, "title": "Spring Daddy", "original_title": "Yang chun lao ba", "slug_title": "spring-daddy", "date": "1985-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

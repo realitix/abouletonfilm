@@ -1,1 +1,0 @@
-{"tmdb_id": 411793, "title": "The Girl on the Wall", "original_title": "The Girl on the Wall", "slug_title": "the-girl-on-the-wall", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

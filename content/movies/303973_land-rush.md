@@ -1,1 +1,0 @@
-{"tmdb_id": 303973, "title": "Land Rush", "original_title": "Land Rush", "slug_title": "land-rush", "date": "2012-12-04", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

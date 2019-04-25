@@ -1,1 +1,0 @@
-{"tmdb_id": 306709, "title": "Merijntje Gijzen's Jeugd", "original_title": "Merijntje Gijzen's Jeugd", "slug_title": "merijntje-gijzen-s-jeugd", "date": "1936-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7g92LbHo7wp8IsEdsYSdEprEYRf.jpg", "actors": [], "comments": [], "recommandations_id": []}

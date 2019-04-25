@@ -1,1 +1,0 @@
-{"tmdb_id": 332214, "title": "Blood, Sweat, and Beer", "original_title": "Blood, Sweat, and Beer", "slug_title": "blood-sweat-and-beer", "date": "2015-03-01", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f5w487hsGTPzilkEtqiJAtqpwZU.jpg", "actors": [], "comments": [], "recommandations_id": []}

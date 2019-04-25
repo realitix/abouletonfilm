@@ -1,1 +1,0 @@
-{"tmdb_id": 374071, "title": "Power Jugs", "original_title": "Power Jugs", "slug_title": "power-jugs", "date": "2015-05-18", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gqeb2MyAFQlDOZqRXFGlXz7CnMD.jpg", "actors": [], "comments": [], "recommandations_id": []}

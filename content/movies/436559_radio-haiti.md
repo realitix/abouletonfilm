@@ -1,1 +1,0 @@
-{"tmdb_id": 436559, "title": "Radio Haiti", "original_title": "Radio Haiti", "slug_title": "radio-haiti", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kqTff5ZLGCwDf2LE3aQ9Sju7iLM.jpg", "actors": [], "comments": [], "recommandations_id": []}

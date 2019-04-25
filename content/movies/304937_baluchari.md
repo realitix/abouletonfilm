@@ -1,1 +1,0 @@
-{"tmdb_id": 304937, "title": "Baluchari", "original_title": "Baluchari", "slug_title": "baluchari", "date": "1968-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

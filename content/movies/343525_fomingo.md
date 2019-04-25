@@ -1,1 +1,0 @@
-{"tmdb_id": 343525, "title": "Fomingo", "original_title": "Fomingo", "slug_title": "fomingo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

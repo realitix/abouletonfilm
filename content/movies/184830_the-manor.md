@@ -1,1 +1,0 @@
-{"tmdb_id": 184830, "title": "The Manor", "original_title": "The Manor", "slug_title": "the-manor", "date": "2013-05-10", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nC16lPbeYCOUdG62EG3OnK6r3cT.jpg", "actors": [], "comments": [], "recommandations_id": []}

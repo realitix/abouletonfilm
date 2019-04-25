@@ -1,1 +1,0 @@
-{"tmdb_id": 326687, "title": "Hiroshima: Nuclear Apocalypse", "original_title": "Hiroshima: Nuclear Apocalypse", "slug_title": "hiroshima-nuclear-apocalypse", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

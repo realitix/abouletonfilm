@@ -1,1 +1,0 @@
-{"tmdb_id": 280051, "title": "Victory in the West", "original_title": "Sieg im Westen", "slug_title": "victory-in-the-west", "date": "1941-05-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xWssmdBoTyMV8YEsU3Qwnod8UD7.jpg", "actors": [], "comments": [], "recommandations_id": []}

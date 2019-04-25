@@ -1,1 +1,0 @@
-{"tmdb_id": 516317, "title": "Deserted", "original_title": "Nivut Golem", "slug_title": "deserted", "date": "2013-08-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yaara Pelzig (Dana)", "Moran Rosenblatt (Shiri)"], "comments": [], "recommandations_id": []}

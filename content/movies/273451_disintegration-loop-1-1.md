@@ -1,1 +1,0 @@
-{"tmdb_id": 273451, "title": "Disintegration Loop 1.1", "original_title": "Disintegration Loop 1.1", "slug_title": "disintegration-loop-1-1", "date": "2004-09-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iK3kYceib1GOAbk0gw7ZEvCue1Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

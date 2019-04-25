@@ -1,1 +1,0 @@
-{"tmdb_id": 575893, "title": "Tutto l'oro che c'\u00e8", "original_title": "Tutto l'oro che c'\u00e8", "slug_title": "tutto-l-oro-che-c-e", "date": "2019-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

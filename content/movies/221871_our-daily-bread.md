@@ -1,1 +1,0 @@
-{"tmdb_id": 221871, "title": "Our Daily Bread", "original_title": "Our Daily Bread", "slug_title": "our-daily-bread", "date": "2009-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3O2pXvUHnSmryC3F3dWqALPp5jv.jpg", "actors": [], "comments": [], "recommandations_id": []}

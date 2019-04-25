@@ -1,1 +1,0 @@
-{"tmdb_id": 466462, "title": "Seeing is Believing: Women Direct", "original_title": "Seeing is Believing: Women Direct", "slug_title": "seeing-is-believing-women-direct", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

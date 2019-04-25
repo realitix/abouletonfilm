@@ -1,1 +1,0 @@
-{"tmdb_id": 351276, "title": "The Dog and the Bone", "original_title": "The Dog and the Bone", "slug_title": "the-dog-and-the-bone", "date": "1937-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

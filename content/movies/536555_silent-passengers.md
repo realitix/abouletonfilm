@@ -1,1 +1,0 @@
-{"tmdb_id": 536555, "title": "Silent Passengers", "original_title": "Silent Passengers", "slug_title": "silent-passengers", "date": "2012-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b0qagxDVIFwumrjNMCoO7DjnI6C.jpg", "actors": [], "comments": [], "recommandations_id": []}

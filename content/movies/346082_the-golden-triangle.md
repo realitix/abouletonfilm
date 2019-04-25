@@ -1,1 +1,0 @@
-{"tmdb_id": 346082, "title": "The Golden Triangle", "original_title": "Tri\u00e2ngulo Dourado", "slug_title": "the-golden-triangle", "date": "2014-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h8AEh1arU4SvzPFhBLdBhKNSZaS.jpg", "actors": [], "comments": [], "recommandations_id": []}

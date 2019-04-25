@@ -1,1 +1,0 @@
-{"tmdb_id": 579173, "title": "Getting Dressed", "original_title": "Getting Dressed", "slug_title": "getting-dressed", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

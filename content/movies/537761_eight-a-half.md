@@ -1,1 +1,0 @@
-{"tmdb_id": 537761, "title": "Eight & a Half", "original_title": "Baat bou bun", "slug_title": "eight-a-half", "date": "", "genre": "Histoire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kbDD2Kr8G1zIbn6LqebY23zJrma.jpg", "actors": [], "comments": [], "recommandations_id": []}

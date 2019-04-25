@@ -1,1 +1,0 @@
-{"tmdb_id": 93293, "title": "HDNet Concerts Presents: Seal", "original_title": "HDNet Concerts Presents: Seal", "slug_title": "hdnet-concerts-presents-seal", "date": "2012-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Seal (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 293153, "title": "The Left Wing Gang", "original_title": "Blekingegade", "slug_title": "the-left-wing-gang", "date": "2009-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gA430Bob0GN6POvB8JOkJ4GGTEP.jpg", "actors": [], "comments": [], "recommandations_id": []}

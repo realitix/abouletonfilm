@@ -1,1 +1,0 @@
-{"tmdb_id": 266787, "title": "Karujaht P\u00e4rnumaal", "original_title": "Karujaht P\u00e4rnumaal", "slug_title": "karujaht-parnumaal", "date": "1914-02-26", "genre": "Com\u00e9die", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iE3zgTLffOfIWtIyK0QACE5eBfu.jpg", "actors": [], "comments": [], "recommandations_id": []}

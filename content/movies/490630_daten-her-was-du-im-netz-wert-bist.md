@@ -1,1 +1,0 @@
-{"tmdb_id": 490630, "title": "Daten her! Was Du im Netz wert bist ...", "original_title": "Daten her! Was Du im Netz wert bist ...", "slug_title": "daten-her-was-du-im-netz-wert-bist", "date": "2015-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

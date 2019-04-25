@@ -1,1 +1,0 @@
-{"tmdb_id": 259359, "title": "Phantasmagoria of defeat", "original_title": "Phantasmagoria of defeat", "slug_title": "phantasmagoria-of-defeat", "date": "2013-03-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

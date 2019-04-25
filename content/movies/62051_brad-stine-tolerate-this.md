@@ -1,1 +1,0 @@
-{"tmdb_id": 62051, "title": "Brad Stine - Tolerate This", "original_title": "Brad Stine - Tolerate This", "slug_title": "brad-stine-tolerate-this", "date": "2005-01-01", "genre": "Com\u00e9die", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/huCELcbBCMfBcm2JxlHNdRRTcb8.jpg", "actors": [], "comments": [], "recommandations_id": []}

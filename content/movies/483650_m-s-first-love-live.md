@@ -1,1 +1,0 @@
-{"tmdb_id": 483650, "title": "\u03bc's First Love Live!", "original_title": "\u03bc's First Love Live!", "slug_title": "m-s-first-love-live", "date": "2012-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mZHnncvWyfyj7aI3EQX0ga8JX07.jpg", "actors": [], "comments": [], "recommandations_id": []}

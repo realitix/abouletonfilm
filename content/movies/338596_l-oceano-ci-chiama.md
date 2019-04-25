@@ -1,1 +1,0 @@
-{"tmdb_id": 338596, "title": "L'oceano ci Chiama", "original_title": "L'oceano ci Chiama", "slug_title": "l-oceano-ci-chiama", "date": "1957-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

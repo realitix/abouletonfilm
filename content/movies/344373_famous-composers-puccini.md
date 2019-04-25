@@ -1,1 +1,0 @@
-{"tmdb_id": 344373, "title": "FAMOUS COMPOSERS: Puccini", "original_title": "FAMOUS COMPOSERS: Puccini", "slug_title": "famous-composers-puccini", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

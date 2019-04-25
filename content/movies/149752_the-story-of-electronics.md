@@ -1,1 +1,0 @@
-{"tmdb_id": 149752, "title": "The Story of Electronics", "original_title": "The Story of Electronics", "slug_title": "the-story-of-electronics", "date": "2010-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

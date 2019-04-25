@@ -1,1 +1,0 @@
-{"tmdb_id": 357762, "title": "Missing Close-ups", "original_title": "Missing Close-ups", "slug_title": "missing-close-ups", "date": "1965-01-02", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/odgTD9SDE1ixaW7yKzj2HTov0jV.jpg", "actors": [], "comments": [], "recommandations_id": []}

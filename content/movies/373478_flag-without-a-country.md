@@ -1,1 +1,0 @@
-{"tmdb_id": 373478, "title": "Flag Without a Country", "original_title": "Flag Without a Country", "slug_title": "flag-without-a-country", "date": "2015-10-02", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/37nH6b4P4xAcEFhb1gYKCstpyHf.jpg", "actors": [], "comments": [], "recommandations_id": []}

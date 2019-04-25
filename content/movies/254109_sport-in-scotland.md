@@ -1,1 +1,0 @@
-{"tmdb_id": 254109, "title": "Sport in Scotland", "original_title": "Sport in Scotland", "slug_title": "sport-in-scotland", "date": "1938-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James McKechnie (Commentator)"], "comments": [], "recommandations_id": []}

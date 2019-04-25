@@ -1,1 +1,0 @@
-{"tmdb_id": 476069, "title": "The Troublemaker", "original_title": "Der St\u00f6renfried", "slug_title": "the-troublemaker", "date": "1940-11-04", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

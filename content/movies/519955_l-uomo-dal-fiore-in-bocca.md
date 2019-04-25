@@ -1,1 +1,0 @@
-{"tmdb_id": 519955, "title": "L'uomo dal fiore in bocca", "original_title": "L'uomo dal fiore in bocca", "slug_title": "l-uomo-dal-fiore-in-bocca", "date": "1993-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michele Placido ()", "Antonino Bellomo ()", "Ernestina Chinova ()"], "comments": [], "recommandations_id": []}

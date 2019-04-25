@@ -1,1 +1,0 @@
-{"tmdb_id": 308321, "title": "1320: A West Coast Story", "original_title": "1320: A West Coast Story", "slug_title": "1320-a-west-coast-story", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

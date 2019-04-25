@@ -1,1 +1,0 @@
-{"tmdb_id": 301046, "title": "John's of 12th Street", "original_title": "John's of 12th Street", "slug_title": "john-s-of-12th-street", "date": "2014-11-16", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6cXQPj8EGCj71CoUZCfDmgwLpEl.jpg", "actors": [], "comments": [], "recommandations_id": []}

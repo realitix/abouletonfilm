@@ -1,1 +1,0 @@
-{"tmdb_id": 276342, "title": "Candido: Hands of Fire", "original_title": "Candido: Hands of Fire", "slug_title": "candido-hands-of-fire", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

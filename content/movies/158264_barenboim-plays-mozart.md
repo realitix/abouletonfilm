@@ -1,1 +1,0 @@
-{"tmdb_id": 158264, "title": "Barenboim plays Mozart", "original_title": "Barenboim plays Mozart", "slug_title": "barenboim-plays-mozart", "date": "2012-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bdy3QfAMDh83dSoMDCrQ6hGRka6.jpg", "actors": ["Daniel Barenboim ()"], "comments": [], "recommandations_id": []}

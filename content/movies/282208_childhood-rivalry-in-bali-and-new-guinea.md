@@ -1,1 +1,0 @@
-{"tmdb_id": 282208, "title": "Childhood Rivalry in Bali and New Guinea", "original_title": "Childhood Rivalry in Bali and New Guinea", "slug_title": "childhood-rivalry-in-bali-and-new-guinea", "date": "1952-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

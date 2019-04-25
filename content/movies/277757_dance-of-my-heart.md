@@ -1,1 +1,0 @@
-{"tmdb_id": 277757, "title": "Dance of My Heart", "original_title": "Dance of My Heart", "slug_title": "dance-of-my-heart", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

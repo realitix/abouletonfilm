@@ -1,1 +1,0 @@
-{"tmdb_id": 384968, "title": "Un drame dans les airs", "original_title": "Un drame dans les airs", "slug_title": "un-drame-dans-les-airs", "date": "1904-08-26", "genre": "Aventure", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

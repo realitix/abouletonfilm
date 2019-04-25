@@ -1,1 +1,0 @@
-{"tmdb_id": 77757, "title": "Coldplay: Pinkpop Festival", "original_title": "Coldplay: Pinkpop Festival", "slug_title": "coldplay-pinkpop-festival", "date": "2011-06-11", "genre": "Musique", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ex931rBiNAjnAssag2as1kNh5X.jpg", "actors": [], "comments": [], "recommandations_id": []}

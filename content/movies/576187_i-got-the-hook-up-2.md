@@ -1,1 +1,0 @@
-{"tmdb_id": 576187, "title": "I Got the Hook Up 2", "original_title": "I Got the Hook Up 2", "slug_title": "i-got-the-hook-up-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

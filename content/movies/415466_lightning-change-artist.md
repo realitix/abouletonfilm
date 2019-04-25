@@ -1,1 +1,0 @@
-{"tmdb_id": 415466, "title": "Lightning Change Artist", "original_title": "L'homme Prot\u00e9e", "slug_title": "lightning-change-artist", "date": "1899-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

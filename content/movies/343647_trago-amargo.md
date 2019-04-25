@@ -1,1 +1,1 @@
-{"tmdb_id": 343647, "title": "Trago amargo", "original_title": "Trago amargo", "slug_title": "trago-amargo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 343647, "title": "Trago amargo", "original_title": "Trago amargo", "slug_title": "trago-amargo", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "No overview.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 237380, "title": "The Door", "original_title": "The Door", "slug_title": "the-door", "date": "1968-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

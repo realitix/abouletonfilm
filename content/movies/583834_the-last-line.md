@@ -1,1 +1,0 @@
-{"tmdb_id": 583834, "title": "The Last Line", "original_title": "The Last Line", "slug_title": "the-last-line", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

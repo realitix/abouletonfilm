@@ -1,1 +1,0 @@
-{"tmdb_id": 567359, "title": "Llacunes", "original_title": "Llacunes", "slug_title": "llacunes", "date": "2015-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carla Sim\u00f3n (Narradora)"], "comments": [], "recommandations_id": []}

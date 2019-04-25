@@ -1,1 +1,0 @@
-{"tmdb_id": 169601, "title": "Eik Dasttak", "original_title": "Eik Dasttak", "slug_title": "eik-dasttak", "date": "2007-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

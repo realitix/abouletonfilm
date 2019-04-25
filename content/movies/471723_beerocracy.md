@@ -1,1 +1,0 @@
-{"tmdb_id": 471723, "title": "Beerocracy", "original_title": "Beerocracy", "slug_title": "beerocracy", "date": "2016-11-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oHiuvkvxOHJJMT9QLg53cPueC8E.jpg", "actors": [], "comments": [], "recommandations_id": []}

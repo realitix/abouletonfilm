@@ -1,1 +1,0 @@
-{"tmdb_id": 313396, "title": "Famous Authors: William Faulkner", "original_title": "Famous Authors: William Faulkner", "slug_title": "famous-authors-william-faulkner", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

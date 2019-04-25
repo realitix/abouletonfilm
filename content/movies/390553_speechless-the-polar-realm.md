@@ -1,1 +1,0 @@
-{"tmdb_id": 390553, "title": "Speechless: The Polar Realm", "original_title": "Speechless: The Polar Realm", "slug_title": "speechless-the-polar-realm", "date": "2015-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oXbxr5sawlGao8B5EfB0GaFqmAM.jpg", "actors": [], "comments": [], "recommandations_id": []}

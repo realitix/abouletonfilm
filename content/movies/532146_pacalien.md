@@ -1,1 +1,0 @@
-{"tmdb_id": 532146, "title": "PACALIEN", "original_title": "PACALIEN", "slug_title": "pacalien", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sfSynlIJJf9a2nfC9SnmBGa4jSy.jpg", "actors": ["Takumi Saito (Pacalien)"], "comments": [], "recommandations_id": []}

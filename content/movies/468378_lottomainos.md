@@ -1,1 +1,1 @@
-{"tmdb_id": 468378, "title": "Lottomainos", "original_title": "Lottomainos", "slug_title": "lottomainos", "date": "1978-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 468378, "title": "Lottomainos", "original_title": "Lottomainos", "slug_title": "lottomainos", "date": "1978-07-28", "genre": [""], "score": "0.0/10", "synopsis": "A film from 1978", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

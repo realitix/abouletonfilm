@@ -1,1 +1,0 @@
-{"tmdb_id": 556122, "title": "The Heirs of Uncle James", "original_title": "Les h\u00e9ritiers de l'oncle James", "slug_title": "the-heirs-of-uncle-james", "date": "1924-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

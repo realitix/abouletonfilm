@@ -1,1 +1,0 @@
-{"tmdb_id": 285262, "title": "Negus - Lee \"Scratch\" Perry", "original_title": "Negus - Lee \"Scratch\" Perry", "slug_title": "negus-lee-scratch-perry", "date": "2013-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lee \"Scratch\" Perry ()"], "comments": [], "recommandations_id": []}

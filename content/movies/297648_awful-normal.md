@@ -1,1 +1,0 @@
-{"tmdb_id": 297648, "title": "Awful Normal", "original_title": "Awful Normal", "slug_title": "awful-normal", "date": "2004-03-05", "genre": "Documentaire", "score": "8.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vBIC7Kf2IuHGnlwlaVItlFb1kLl.jpg", "actors": [], "comments": [], "recommandations_id": []}

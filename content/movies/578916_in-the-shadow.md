@@ -1,1 +1,0 @@
-{"tmdb_id": 578916, "title": "In the Shadow", "original_title": "\u00c0 l'ombre", "slug_title": "in-the-shadow", "date": "2006-09-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wbpitQtxT5x0vSE87WJxD29KvoO.jpg", "actors": [], "comments": [], "recommandations_id": []}

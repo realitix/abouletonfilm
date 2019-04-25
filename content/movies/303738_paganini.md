@@ -1,1 +1,0 @@
-{"tmdb_id": 303738, "title": "Paganini", "original_title": "Paganini", "slug_title": "paganini", "date": "1961-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fritz Eckhardt ()", "Gerd Frickh\u00f6ffer ()", "Topsy K\u00fcppers ()", "Walter Reyer ()"], "comments": [], "recommandations_id": []}

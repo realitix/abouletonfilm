@@ -1,1 +1,0 @@
-{"tmdb_id": 142133, "title": "The Chocolate Farmer", "original_title": "The Chocolate Farmer", "slug_title": "the-chocolate-farmer", "date": "2011-05-05", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uwkBGfhvFYVFsCeuZJlIgFxRcFb.jpg", "actors": [], "comments": [], "recommandations_id": []}

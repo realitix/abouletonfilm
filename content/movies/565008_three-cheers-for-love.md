@@ -1,1 +1,0 @@
-{"tmdb_id": 565008, "title": "Three Cheers for Love", "original_title": "Three Cheers for Love", "slug_title": "three-cheers-for-love", "date": "1936-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eleanore Whitney (Skippy Dormant)"], "comments": [], "recommandations_id": []}

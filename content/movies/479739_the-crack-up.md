@@ -1,1 +1,0 @@
-{"tmdb_id": 479739, "title": "The Crack-Up", "original_title": "The Crack-Up", "slug_title": "the-crack-up", "date": "2017-10-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zC1YidwyamM6nfjte7F5u5eE3ep.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 47202, "title": "Factory", "original_title": "Fabryka", "slug_title": "factory", "date": "1971-06-01", "genre": "Documentaire", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iIqb3VxRndYfgmdmPqXy6qzMl9r.jpg", "actors": [], "comments": [], "recommandations_id": [129877, 49112, 106030, 162755]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 234006, "title": "Our Baseball Game", "original_title": "Oira no yaky\u00fb", "slug_title": "our-baseball-game", "date": "1930-03-01", "genre": "Animation / Com\u00e9die / Fantastique", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4RooCo4yfWbV0WfF7zQHHzxAo7s.jpg", "actors": [], "comments": [], "recommandations_id": []}

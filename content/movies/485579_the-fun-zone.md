@@ -1,1 +1,0 @@
-{"tmdb_id": 485579, "title": "The Fun Zone", "original_title": "The Fun Zone", "slug_title": "the-fun-zone", "date": "1989-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

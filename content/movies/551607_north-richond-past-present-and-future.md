@@ -1,1 +1,0 @@
-{"tmdb_id": 551607, "title": "North Richond: Past, Present and Future", "original_title": "North Richond: Past, Present and Future", "slug_title": "north-richond-past-present-and-future", "date": "2016-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

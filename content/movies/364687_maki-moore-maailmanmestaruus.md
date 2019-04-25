@@ -1,1 +1,0 @@
-{"tmdb_id": 364687, "title": "M\u00e4ki Moore maailmanmestaruus", "original_title": "M\u00e4ki Moore maailmanmestaruus", "slug_title": "maki-moore-maailmanmestaruus", "date": "1962-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

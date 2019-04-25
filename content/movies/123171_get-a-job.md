@@ -1,1 +1,0 @@
-{"tmdb_id": 123171, "title": "Get a Job", "original_title": "Get a Job", "slug_title": "get-a-job", "date": "2011-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2U6NqXzdUJhezQvk8rbdsihbo89.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 54738, "title": "Ramble On", "original_title": "Ramble On", "slug_title": "ramble-on", "date": "2005-04-23", "genre": "Familial", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

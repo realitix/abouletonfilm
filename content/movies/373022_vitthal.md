@@ -1,1 +1,0 @@
-{"tmdb_id": 373022, "title": "Vitthal", "original_title": "Vitthal", "slug_title": "vitthal", "date": "2009-12-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ljaSt4BOhKPdwqPq3dejEvj22Z5.jpg", "actors": ["Aniket Rumade ()", "Chhaya Kadam ()", "Ashok Sawant ()"], "comments": [], "recommandations_id": []}

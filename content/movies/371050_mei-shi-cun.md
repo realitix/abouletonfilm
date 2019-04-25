@@ -1,1 +1,0 @@
-{"tmdb_id": 371050, "title": "Mei shi cun", "original_title": "Mei shi cun", "slug_title": "mei-shi-cun", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

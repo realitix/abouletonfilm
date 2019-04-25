@@ -1,1 +1,0 @@
-{"tmdb_id": 578908, "title": "Bad Trip", "original_title": "Bad Trip", "slug_title": "bad-trip", "date": "2019-10-25", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eric Andr\u00e9 ()", "LilRel Howery ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 527502, "title": "Happy Hour", "original_title": "\u6b61\u6a02\u6642\u5149", "slug_title": "happy-hour", "date": "2011-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xAxtd0s6eFTPuXC8odBaTtxPz2A.jpg", "actors": ["Ann Ho ()", "Ezio Ng ()"], "comments": [], "recommandations_id": []}

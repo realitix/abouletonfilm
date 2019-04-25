@@ -1,1 +1,0 @@
-{"tmdb_id": 425578, "title": "WATCHERS 10.2 - Anatomy of a Hoax", "original_title": "WATCHERS 10.2 - Anatomy of a Hoax", "slug_title": "watchers-10-2-anatomy-of-a-hoax", "date": "2016-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["L.A. Marzulli (Himself - Presenter)"], "comments": [], "recommandations_id": []}

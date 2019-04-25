@@ -1,1 +1,0 @@
-{"tmdb_id": 395485, "title": "Cat Sitter", "original_title": "Cat Sitter", "slug_title": "cat-sitter", "date": "2001-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yxYx49hMtDgCEHi0RECuHZi5zM3.jpg", "actors": [], "comments": [], "recommandations_id": []}

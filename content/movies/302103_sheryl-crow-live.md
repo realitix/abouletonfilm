@@ -1,1 +1,0 @@
-{"tmdb_id": 302103, "title": "Sheryl Crow Live", "original_title": "Sheryl Crow Live", "slug_title": "sheryl-crow-live", "date": "2008-07-08", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/obSGrqqPPH932HVgiYDYZwE9y6a.jpg", "actors": ["Sheryl Crow (Herself)"], "comments": [], "recommandations_id": []}

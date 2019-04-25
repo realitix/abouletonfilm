@@ -1,1 +1,0 @@
-{"tmdb_id": 508750, "title": "Hansens Taxi", "original_title": "Hansens Taxi", "slug_title": "hansens-taxi", "date": "2007-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 256782, "title": "The Full Package", "original_title": "The Full Package", "slug_title": "the-full-package", "date": "2008-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jake Ross (John)", "Rebecca Warden (Tiffany)"], "comments": [], "recommandations_id": []}

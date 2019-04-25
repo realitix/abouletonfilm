@@ -1,1 +1,0 @@
-{"tmdb_id": 572940, "title": "Last Night Forever 2", "original_title": "Last Night Forever 2", "slug_title": "last-night-forever-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marnisia Adjei Duah (Ali)"], "comments": [], "recommandations_id": []}

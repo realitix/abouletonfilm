@@ -1,1 +1,0 @@
-{"tmdb_id": 509818, "title": "Girls on Film: The First Date", "original_title": "Girls on Film: The First Date", "slug_title": "girls-on-film-the-first-date", "date": "2014-07-14", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qsGmVxVjzbxHwKg9Y7hs4Me6vwQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 470852, "title": "13 Most Beautiful: Jonas Mekas", "original_title": "13 Most Beautiful: Jonas Mekas", "slug_title": "13-most-beautiful-jonas-mekas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

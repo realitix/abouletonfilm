@@ -1,1 +1,0 @@
-{"tmdb_id": 282894, "title": "Daughters of China", "original_title": "Zhong Hua nu er", "slug_title": "daughters-of-china", "date": "1949-01-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/agcfTAvKwGGbOvqdCUiagcNz5Bg.jpg", "actors": ["Li Bo ()", "Defu Du ()", "Feng Jin ()"], "comments": [], "recommandations_id": []}

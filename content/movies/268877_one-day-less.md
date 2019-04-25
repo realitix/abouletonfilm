@@ -1,1 +1,0 @@
-{"tmdb_id": 268877, "title": "One Day Less", "original_title": "Un d\u00eda menos", "slug_title": "one-day-less", "date": "2009-10-04", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6HtF7nxmbmR5mbYyfRwpeT7eJF9.jpg", "actors": [], "comments": [], "recommandations_id": []}

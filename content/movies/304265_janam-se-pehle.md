@@ -1,1 +1,0 @@
-{"tmdb_id": 304265, "title": "Janam Se Pehle", "original_title": "Janam Se Pehle", "slug_title": "janam-se-pehle", "date": "1994-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

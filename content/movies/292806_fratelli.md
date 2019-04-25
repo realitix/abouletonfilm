@@ -1,1 +1,0 @@
-{"tmdb_id": 292806, "title": "Fratelli", "original_title": "Fratelli", "slug_title": "fratelli", "date": "2006-02-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

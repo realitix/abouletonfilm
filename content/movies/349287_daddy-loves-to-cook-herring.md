@@ -1,1 +1,0 @@
-{"tmdb_id": 349287, "title": "Daddy Loves to Cook Herring", "original_title": "\uc5b4\ub978\ub4e4\uc740 \uccad\uc5b4\ub97c \uad7d\ub294\ub2e4", "slug_title": "daddy-loves-to-cook-herring", "date": "1996-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

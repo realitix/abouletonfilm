@@ -1,1 +1,0 @@
-{"tmdb_id": 125439, "title": "Passe-Partout", "original_title": "Passe-Partout", "slug_title": "passe-partout", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

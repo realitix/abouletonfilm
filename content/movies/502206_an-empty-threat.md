@@ -1,1 +1,0 @@
-{"tmdb_id": 502206, "title": "An Empty Threat", "original_title": "An Empty Threat", "slug_title": "an-empty-threat", "date": "2018-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/exjqZze5HcGT2PtXnwfFDi6368r.jpg", "actors": [], "comments": [], "recommandations_id": []}

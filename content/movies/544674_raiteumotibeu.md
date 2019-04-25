@@ -1,1 +1,0 @@
-{"tmdb_id": 544674, "title": "\ub77c\uc774\ud2b8\ubaa8\ud2f0\ube0c", "original_title": "\ub77c\uc774\ud2b8\ubaa8\ud2f0\ube0c", "slug_title": "raiteumotibeu", "date": "2017-01-23", "genre": "Drame / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yoo Byung-Yong (Jaewoo)", "Park So-hee (Nayeon)"], "comments": [], "recommandations_id": []}

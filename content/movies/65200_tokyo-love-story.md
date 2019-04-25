@@ -1,1 +1,0 @@
-{"tmdb_id": 65200, "title": "Tokyo Love Story", "original_title": "Tokyo Love Story", "slug_title": "tokyo-love-story", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

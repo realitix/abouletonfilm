@@ -1,1 +1,0 @@
-{"tmdb_id": 441792, "title": "Tammelan sianteurastus", "original_title": "Tammelan sianteurastus", "slug_title": "tammelan-sianteurastus", "date": "1941-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 369539, "title": "Left On Purpose", "original_title": "Left On Purpose", "slug_title": "left-on-purpose", "date": "2015-11-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qmreLU1aeEbAF9zzhyshUuCtfMO.jpg", "actors": ["Andrew Hoffman ()"], "comments": [], "recommandations_id": []}

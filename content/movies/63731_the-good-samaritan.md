@@ -1,1 +1,0 @@
-{"tmdb_id": 63731, "title": "The Good Samaritan", "original_title": "The Good Samaritan", "slug_title": "the-good-samaritan", "date": "1989-06-01", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AaCxSADNOkMyMoVystVRXoaC24F.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 198530, "title": "Les filles \u00e0 papa", "original_title": "Abu el Banat", "slug_title": "les-filles-a-papa", "date": "1974-06-16", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/urGmi67uDZH0yzpsOCtKrzRLL3y.jpg", "actors": [], "comments": [], "recommandations_id": []}

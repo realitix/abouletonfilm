@@ -1,1 +1,0 @@
-{"tmdb_id": 467040, "title": "Grunwald: Walka 600-lecia", "original_title": "Grunwald: Walka 600-lecia", "slug_title": "grunwald-walka-600-lecia", "date": "2010-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9PMxBciLIVQIBYXHXLc57GajXrm.jpg", "actors": [], "comments": [], "recommandations_id": []}

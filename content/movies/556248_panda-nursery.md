@@ -1,1 +1,0 @@
-{"tmdb_id": 556248, "title": "Panda Nursery", "original_title": "Panda Nursery", "slug_title": "panda-nursery", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x4GTSDrtH3Uo4XzhAW7XKyhoLNG.jpg", "actors": [], "comments": [], "recommandations_id": []}

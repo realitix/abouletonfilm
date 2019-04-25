@@ -1,1 +1,0 @@
-{"tmdb_id": 342251, "title": "Austerity Measures", "original_title": "Austerity Measures", "slug_title": "austerity-measures", "date": "2012-05-29", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9CtTyYXJunOr0j4wuD6eRF1feo5.jpg", "actors": [], "comments": [], "recommandations_id": [220524, 263841, 260405, 360069]}

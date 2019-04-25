@@ -1,1 +1,0 @@
-{"tmdb_id": 539031, "title": "Attack of the Killer Backpacks", "original_title": "Attack of the Killer Backpacks", "slug_title": "attack-of-the-killer-backpacks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pJvBrp2fznYELFLBP1ewj4i56Gc.jpg", "actors": [], "comments": [], "recommandations_id": []}

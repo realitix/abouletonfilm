@@ -1,1 +1,0 @@
-{"tmdb_id": 509498, "title": "Bigfoot 4x4x4 In Action", "original_title": "Bigfoot 4x4x4 In Action", "slug_title": "bigfoot-4x4x4-in-action", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 576638, "title": "Doll It Up", "original_title": "Doll It Up", "slug_title": "doll-it-up", "date": "", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Timothy J. Cox (Gunther)"], "comments": [], "recommandations_id": []}

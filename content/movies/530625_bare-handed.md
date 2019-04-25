@@ -1,1 +1,0 @@
-{"tmdb_id": 530625, "title": "Bare-Handed", "original_title": "Bare-Handed", "slug_title": "bare-handed", "date": "2017-12-01", "genre": "Drame / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/szBvw25tT1FH1ZOnSId2yf62mbD.jpg", "actors": [], "comments": [], "recommandations_id": []}

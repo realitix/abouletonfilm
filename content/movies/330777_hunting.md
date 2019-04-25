@@ -1,1 +1,0 @@
-{"tmdb_id": 330777, "title": "Hunting", "original_title": "Hunting", "slug_title": "hunting", "date": "2010-11-02", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Megan Melnyk (Tina)"], "comments": [], "recommandations_id": []}

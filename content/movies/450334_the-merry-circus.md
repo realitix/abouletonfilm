@@ -1,1 +1,0 @@
-{"tmdb_id": 450334, "title": "The Merry Circus", "original_title": "Vesely cirkus", "slug_title": "the-merry-circus", "date": "1951-01-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jByQCyE0aRbSd4KXWmYomXpoK2S.jpg", "actors": [], "comments": [], "recommandations_id": []}

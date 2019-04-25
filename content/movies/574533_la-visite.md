@@ -1,1 +1,0 @@
-{"tmdb_id": 574533, "title": "La visite", "original_title": "La visite", "slug_title": "la-visite", "date": "2005-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cHQLvJyqkCIdAjg0gW7KtIb0TQ3.jpg", "actors": [], "comments": [], "recommandations_id": []}

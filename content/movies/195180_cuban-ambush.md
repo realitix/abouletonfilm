@@ -1,1 +1,0 @@
-{"tmdb_id": 195180, "title": "Cuban Ambush", "original_title": "Cuban Ambush", "slug_title": "cuban-ambush", "date": "1898-08-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 123238, "title": "Arusi Persian Wedding", "original_title": "Arusi Persian Wedding", "slug_title": "arusi-persian-wedding", "date": "2009-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

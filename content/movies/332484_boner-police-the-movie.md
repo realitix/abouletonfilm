@@ -1,1 +1,0 @@
-{"tmdb_id": 332484, "title": "Boner Police: The Movie", "original_title": "Boner Police: The Movie", "slug_title": "boner-police-the-movie", "date": "2012-05-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

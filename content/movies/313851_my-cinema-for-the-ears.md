@@ -1,1 +1,0 @@
-{"tmdb_id": 313851, "title": "My Cinema for the Ears", "original_title": "My Cinema for the Ears", "slug_title": "my-cinema-for-the-ears", "date": "2000-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 324704, "title": "A Killer Conversation", "original_title": "A Killer Conversation", "slug_title": "a-killer-conversation", "date": "2015-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 385663, "title": "The Nevermind", "original_title": "The Nevermind", "slug_title": "the-nevermind", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

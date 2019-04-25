@@ -1,1 +1,0 @@
-{"tmdb_id": 460716, "title": "Rouen, cinq minutes d'arr\u00eat", "original_title": "Rouen, cinq minutes d'arr\u00eat", "slug_title": "rouen-cinq-minutes-d-arret", "date": "1997-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karin Viard (Marguerite)"], "comments": [], "recommandations_id": []}

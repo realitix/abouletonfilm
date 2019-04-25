@@ -1,1 +1,0 @@
-{"tmdb_id": 513323, "title": "Drei Frauen aus Poddembice", "original_title": "Drei Frauen aus Poddembice", "slug_title": "drei-frauen-aus-poddembice", "date": "1994-09-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

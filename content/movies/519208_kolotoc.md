@@ -1,1 +1,1 @@
-{"tmdb_id": 519208, "title": "Koloto\u010d", "original_title": "Koloto\u010d", "slug_title": "kolotoc", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 519208, "title": "Koloto\u010d", "original_title": "Koloto\u010d", "slug_title": "kolotoc", "date": "2007-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

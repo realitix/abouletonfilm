@@ -1,1 +1,0 @@
-{"tmdb_id": 562880, "title": "Trafics dans l'ombre", "original_title": "Trafics dans l'ombre", "slug_title": "trafics-dans-l-ombre", "date": "1964-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ArsTn726oWYXZ2pfydUXwNvhq3q.jpg", "actors": [], "comments": [], "recommandations_id": []}

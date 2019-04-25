@@ -1,1 +1,0 @@
-{"tmdb_id": 426299, "title": "Doggy Love", "original_title": "Doggy Love", "slug_title": "doggy-love", "date": "2015-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jqfLIzvOvMPg0NqUihVgLB7f5wY.jpg", "actors": [], "comments": [], "recommandations_id": []}

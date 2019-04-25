@@ -1,1 +1,0 @@
-{"tmdb_id": 319934, "title": "We Built This City: Paris", "original_title": "We Built This City: Paris", "slug_title": "we-built-this-city-paris", "date": "2008-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 549509, "title": "The Brutalist", "original_title": "The Brutalist", "slug_title": "the-brutalist", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

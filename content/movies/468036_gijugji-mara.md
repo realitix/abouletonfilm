@@ -1,1 +1,0 @@
-{"tmdb_id": 468036, "title": "\uae30\uc8fd\uc9c0 \ub9c8\ub77c", "original_title": "\uae30\uc8fd\uc9c0 \ub9c8\ub77c", "slug_title": "gijugji-mara", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g7nknhjdUUYZ9bivr8xyMj4oiDp.jpg", "actors": [], "comments": [], "recommandations_id": []}

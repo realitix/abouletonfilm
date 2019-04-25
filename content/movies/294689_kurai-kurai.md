@@ -1,1 +1,0 @@
-{"tmdb_id": 294689, "title": "Kurai Kurai", "original_title": "Koeraaj Koeraaj", "slug_title": "kurai-kurai", "date": "2014-09-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iPbaCaNF91sBaPezJytKar29HQZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

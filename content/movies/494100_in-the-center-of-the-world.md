@@ -1,1 +1,0 @@
-{"tmdb_id": 494100, "title": "In the Center of the World", "original_title": "Im Mittelpunkt der Welt", "slug_title": "in-the-center-of-the-world", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

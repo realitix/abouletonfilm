@@ -1,1 +1,0 @@
-{"tmdb_id": 517943, "title": "Planeta \u010cesko", "original_title": "Planeta \u010cesko", "slug_title": "planeta-cesko", "date": "2018-03-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/67nmK3qjsQsvDllsRRa3Vo7LK5I.jpg", "actors": [], "comments": [], "recommandations_id": []}

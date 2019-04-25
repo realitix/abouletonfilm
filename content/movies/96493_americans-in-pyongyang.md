@@ -1,1 +1,0 @@
-{"tmdb_id": 96493, "title": "Americans in Pyongyang", "original_title": "Americans in Pyongyang", "slug_title": "americans-in-pyongyang", "date": "2008-09-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mNJ5EA5XcIEgvgEAvrX52pQWRH4.jpg", "actors": [], "comments": [], "recommandations_id": []}

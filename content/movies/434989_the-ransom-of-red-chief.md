@@ -1,1 +1,0 @@
-{"tmdb_id": 434989, "title": "The Ransom of Red Chief", "original_title": "The Ransom of Red Chief", "slug_title": "the-ransom-of-red-chief", "date": "1911-02-15", "genre": "Com\u00e9die / Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yale Boss (Red Chief - The Little Boy)"], "comments": [], "recommandations_id": []}

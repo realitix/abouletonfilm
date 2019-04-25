@@ -1,1 +1,0 @@
-{"tmdb_id": 289273, "title": "KLM Klassikere 2", "original_title": "KLM Klassikere 2", "slug_title": "klm-klassikere-2", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lfkWz2qk9oAP19Gl83kKCPw5yc7.jpg", "actors": [], "comments": [], "recommandations_id": []}

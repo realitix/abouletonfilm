@@ -1,1 +1,0 @@
-{"tmdb_id": 561652, "title": "Losing Alaska", "original_title": "Losing Alaska", "slug_title": "losing-alaska", "date": "2018-11-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fSTIyHVhK3ArEfXy4BlvvPlwVVT.jpg", "actors": [], "comments": [], "recommandations_id": []}

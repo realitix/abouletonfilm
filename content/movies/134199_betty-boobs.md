@@ -1,1 +1,0 @@
-{"tmdb_id": 134199, "title": "Betty Boobs", "original_title": "Betty Boobs", "slug_title": "betty-boobs", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3un3oficduEx5Ha7Wbj4rnJa3sV.jpg", "actors": ["Rocco Reed ()"], "comments": [], "recommandations_id": []}

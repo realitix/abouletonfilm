@@ -1,1 +1,0 @@
-{"tmdb_id": 492582, "title": "Giai \u0110i\u1ec7u", "original_title": "Giai \u0110i\u1ec7u", "slug_title": "giai-dieu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7uY10KknQJhFi3oVdGjjDnT9QXP.jpg", "actors": [], "comments": [], "recommandations_id": []}

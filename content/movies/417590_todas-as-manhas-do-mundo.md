@@ -1,1 +1,0 @@
-{"tmdb_id": 417590, "title": "Todas as Manh\u00e3s do Mundo", "original_title": "Todas as Manh\u00e3s do Mundo", "slug_title": "todas-as-manhas-do-mundo", "date": "2016-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1UanDaqScQkSe0TVa1dfmGMEaFP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 423989, "title": "Boo, Boo, Theme Song!", "original_title": "Boo, Boo, Theme Song!", "slug_title": "boo-boo-theme-song", "date": "1933-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

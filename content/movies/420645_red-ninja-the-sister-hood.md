@@ -1,1 +1,0 @@
-{"tmdb_id": 420645, "title": "Red Ninja the Sister Hood", "original_title": "Red Ninja the Sister Hood", "slug_title": "red-ninja-the-sister-hood", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uZaLZgRuXMU93mARF4fzZbvIRHV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 181562, "title": "Doodlebops: Superstars", "original_title": "Doodlebops: Superstars", "slug_title": "doodlebops-superstars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oZ89tZCvb7Sn0SuqPrZOnQzTqqP.jpg", "actors": [], "comments": [], "recommandations_id": []}

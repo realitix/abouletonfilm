@@ -1,1 +1,0 @@
-{"tmdb_id": 451229, "title": "Audition", "original_title": "Audition", "slug_title": "audition", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

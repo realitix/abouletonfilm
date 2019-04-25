@@ -1,1 +1,0 @@
-{"tmdb_id": 122876, "title": "The Well", "original_title": "Tcach", "slug_title": "the-well", "date": "2002-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

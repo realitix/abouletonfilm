@@ -1,1 +1,0 @@
-{"tmdb_id": 593777, "title": "RWBY: Volume 3", "original_title": "RWBY: Volume 3", "slug_title": "rwby-volume-3", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 286194, "title": "WWI: Finding the Lost Battalion", "original_title": "WWI: Finding the Lost Battalion", "slug_title": "wwi-finding-the-lost-battalion", "date": "2010-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Laurence Fox (Narrator)"], "comments": [], "recommandations_id": []}

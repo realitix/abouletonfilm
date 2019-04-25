@@ -1,1 +1,0 @@
-{"tmdb_id": 423947, "title": "Intensive Yoga", "original_title": "Intensive Yoga", "slug_title": "intensive-yoga", "date": "2006-02-20", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u4vI5Dtd8u5jE2aHMdlmEox0Yg5.jpg", "actors": [], "comments": [], "recommandations_id": []}

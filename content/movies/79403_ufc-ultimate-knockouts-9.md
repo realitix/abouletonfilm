@@ -1,1 +1,0 @@
-{"tmdb_id": 79403, "title": "UFC: Ultimate Knockouts 9", "original_title": "UFC: Ultimate Knockouts 9", "slug_title": "ufc-ultimate-knockouts-9", "date": "2011-11-11", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sxbuhT7PbDEbT19Jn4zYsAvGrya.jpg", "actors": [], "comments": [], "recommandations_id": []}

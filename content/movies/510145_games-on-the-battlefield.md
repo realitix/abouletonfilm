@@ -1,1 +1,0 @@
-{"tmdb_id": 510145, "title": "Games On The Battlefield", "original_title": "Games On The Battlefield", "slug_title": "games-on-the-battlefield", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yczJeTuhIZIrHn0fG2Gwt31lzOV.jpg", "actors": [], "comments": [], "recommandations_id": []}

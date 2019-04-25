@@ -1,1 +1,0 @@
-{"tmdb_id": 522373, "title": "Le jeune Ahmed", "original_title": "Le jeune Ahmed", "slug_title": "le-jeune-ahmed", "date": "2019-05-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

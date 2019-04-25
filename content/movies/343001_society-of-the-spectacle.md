@@ -1,1 +1,0 @@
-{"tmdb_id": 343001, "title": "Society Of The Spectacle", "original_title": "Society Of The Spectacle", "slug_title": "society-of-the-spectacle", "date": "2013-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rf809uXlmp230NwJdrN1abZJqj4.jpg", "actors": [], "comments": [], "recommandations_id": []}

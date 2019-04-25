@@ -1,1 +1,0 @@
-{"tmdb_id": 320206, "title": "Picture Perfect Pyramid", "original_title": "Picture Perfect Pyramid", "slug_title": "picture-perfect-pyramid", "date": "2013-11-21", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tQgt0jfgYNc6DJNBqyEC5O6Ni0w.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 196237, "title": "The Killers: Oxygen 2009", "original_title": "The Killers: Oxygen 2009", "slug_title": "the-killers-oxygen-2009", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

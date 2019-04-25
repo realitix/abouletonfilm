@@ -1,1 +1,0 @@
-{"tmdb_id": 273081, "title": "Sixty Cups of Coffee", "original_title": "Sixty Cups of Coffee", "slug_title": "sixty-cups-of-coffee", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

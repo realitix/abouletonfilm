@@ -1,1 +1,0 @@
-{"tmdb_id": 379134, "title": "Pink Posies", "original_title": "Pink Posies", "slug_title": "pink-posies", "date": "1967-04-25", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hGL7A46188orE9795zhsbZxPLi4.jpg", "actors": [], "comments": [], "recommandations_id": []}

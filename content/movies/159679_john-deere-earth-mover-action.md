@@ -1,1 +1,0 @@
-{"tmdb_id": 159679, "title": "John Deere Earth Mover Action", "original_title": "John Deere Earth Mover Action", "slug_title": "john-deere-earth-mover-action", "date": "2009-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/odx2eLMYgR1bqVDGvIRSvGbfRJK.jpg", "actors": [], "comments": [], "recommandations_id": []}

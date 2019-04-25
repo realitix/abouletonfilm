@@ -1,1 +1,0 @@
-{"tmdb_id": 332330, "title": "Haleys Hints", "original_title": "Haleys Hints", "slug_title": "haleys-hints", "date": "2002-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/69NQED6jEC5q36DZFJ0DPuAFnTc.jpg", "actors": [], "comments": [], "recommandations_id": []}

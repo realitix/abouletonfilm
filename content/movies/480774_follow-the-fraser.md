@@ -1,1 +1,0 @@
-{"tmdb_id": 480774, "title": "Follow The Fraser", "original_title": "Follow The Fraser", "slug_title": "follow-the-fraser", "date": "2017-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

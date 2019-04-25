@@ -1,1 +1,0 @@
-{"tmdb_id": 394371, "title": "K\u00e1t'a Kabanov\u00e1", "original_title": "K\u00e1t'a Kabanov\u00e1", "slug_title": "kat-a-kabanova", "date": "1988-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6MOxliVecWmtiDFz0xqUbTdywVm.jpg", "actors": [], "comments": [], "recommandations_id": []}

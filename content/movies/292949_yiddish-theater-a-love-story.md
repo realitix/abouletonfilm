@@ -1,1 +1,0 @@
-{"tmdb_id": 292949, "title": "Yiddish Theater: A Love Story", "original_title": "Yiddish Theater: A Love Story", "slug_title": "yiddish-theater-a-love-story", "date": "2006-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 416159, "title": "Puerto Rico Celebra 2", "original_title": "Puerto Rico Celebra 2", "slug_title": "puerto-rico-celebra-2", "date": "2016-11-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

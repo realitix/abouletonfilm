@@ -1,1 +1,0 @@
-{"tmdb_id": 578129, "title": "Adopci\u00f3n Mortal", "original_title": "Adopci\u00f3n Mortal", "slug_title": "adopcion-mortal", "date": "1997-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o0d3rYyOIlvE3f5666t1CZKHJPj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 66555, "title": "Super, Super Frank", "original_title": "Super, Super Frank", "slug_title": "super-super-frank", "date": "", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pGSJ56yzRIJWApZUaPWvpzZlfST.jpg", "actors": ["Frank Lampard (Himself)"], "comments": [], "recommandations_id": []}

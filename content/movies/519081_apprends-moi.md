@@ -1,1 +1,0 @@
-{"tmdb_id": 519081, "title": "Apprends-Moi", "original_title": "Apprends-Moi", "slug_title": "apprends-moi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

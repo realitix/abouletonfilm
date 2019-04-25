@@ -1,1 +1,0 @@
-{"tmdb_id": 239317, "title": "DADsDEAD", "original_title": "DADsDEAD", "slug_title": "dadsdead", "date": "2006-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pil7QGjEioyXPFLddSEbZwL53no.jpg", "actors": [], "comments": [], "recommandations_id": []}

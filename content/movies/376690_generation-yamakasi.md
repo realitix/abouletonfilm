@@ -1,1 +1,0 @@
-{"tmdb_id": 376690, "title": "G\u00e9n\u00e9ration Yamakasi", "original_title": "G\u00e9n\u00e9ration Yamakasi", "slug_title": "generation-yamakasi", "date": "2006-10-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vnLb9gGkTeSGK1qpvFsxcu0TEgl.jpg", "actors": [], "comments": [], "recommandations_id": []}

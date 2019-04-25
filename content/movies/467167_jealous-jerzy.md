@@ -1,1 +1,0 @@
-{"tmdb_id": 467167, "title": "Jealous Jerzy", "original_title": "Jealous Jerzy", "slug_title": "jealous-jerzy", "date": "2010-07-16", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zack Abramowitz (jerzy)", "Audrey Lorea (Thora)", "John Holloway (Terry)"], "comments": [], "recommandations_id": []}

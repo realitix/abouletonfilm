@@ -1,1 +1,0 @@
-{"tmdb_id": 435722, "title": "Teenage Bestsellers", "original_title": "Teenage Bestsellers", "slug_title": "teenage-bestsellers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bDChLrvpNhuuKoCsYMopHWOUpTl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 328007, "title": "Days of Democracy", "original_title": "Days of Democracy", "slug_title": "days-of-democracy", "date": "1996-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

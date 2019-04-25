@@ -1,1 +1,0 @@
-{"tmdb_id": 309735, "title": "Live at the Village Vanguard: Vol. 4", "original_title": "Live at the Village Vanguard: Vol. 4", "slug_title": "live-at-the-village-vanguard-vol-4", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

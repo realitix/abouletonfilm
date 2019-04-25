@@ -1,1 +1,0 @@
-{"tmdb_id": 423912, "title": "The Trainer", "original_title": "The Trainer", "slug_title": "the-trainer", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liam Neeson (John Moore)"], "comments": [], "recommandations_id": []}

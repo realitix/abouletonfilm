@@ -1,1 +1,0 @@
-{"tmdb_id": 478940, "title": "Tea Time", "original_title": "Tea Time", "slug_title": "tea-time", "date": "2010-12-30", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3AGVjQWl1dxC2NgDy6UZXTJcrt3.jpg", "actors": [], "comments": [], "recommandations_id": []}

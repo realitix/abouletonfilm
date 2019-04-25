@@ -1,1 +1,0 @@
-{"tmdb_id": 464770, "title": "Geek Girls", "original_title": "Geek Girls", "slug_title": "geek-girls", "date": "2017-07-30", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uyNAk6VkF1Ufjtnm4O9mKl2LPxc.jpg", "actors": [], "comments": [], "recommandations_id": []}

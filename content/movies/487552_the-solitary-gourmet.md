@@ -1,1 +1,0 @@
-{"tmdb_id": 487552, "title": "The Solitary Gourmet", "original_title": "The Solitary Gourmet", "slug_title": "the-solitary-gourmet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

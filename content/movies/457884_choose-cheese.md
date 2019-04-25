@@ -1,1 +1,0 @@
-{"tmdb_id": 457884, "title": "Choose Cheese", "original_title": "Choose Cheese", "slug_title": "choose-cheese", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

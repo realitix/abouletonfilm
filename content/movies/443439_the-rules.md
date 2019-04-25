@@ -1,1 +1,0 @@
-{"tmdb_id": 443439, "title": "The Rules", "original_title": "The Rules", "slug_title": "the-rules", "date": "2008-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9zJNnf842uNXTOMsjpcQR8X1Uap.jpg", "actors": ["Meeghan Holaway ()", "Diana Cignoni ()"], "comments": [], "recommandations_id": []}

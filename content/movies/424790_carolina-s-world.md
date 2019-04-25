@@ -1,1 +1,0 @@
-{"tmdb_id": 424790, "title": "Carolina's World", "original_title": "Carolina's World", "slug_title": "carolina-s-world", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

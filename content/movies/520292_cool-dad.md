@@ -1,1 +1,0 @@
-{"tmdb_id": 520292, "title": "\"Cool Dad\"", "original_title": "\"Cool Dad\"", "slug_title": "cool-dad", "date": "2017-03-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zMi4ZeHyl2O6AMwg0EHafn3Xmtd.jpg", "actors": [], "comments": [], "recommandations_id": []}

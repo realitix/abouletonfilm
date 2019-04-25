@@ -1,1 +1,0 @@
-{"tmdb_id": 509252, "title": "India's Partition: The Forgotten Story", "original_title": "India's Partition: The Forgotten Story", "slug_title": "india-s-partition-the-forgotten-story", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gurinder Chadha (Herself)"], "comments": [], "recommandations_id": []}

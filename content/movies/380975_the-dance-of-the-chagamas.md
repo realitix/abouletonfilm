@@ -1,1 +1,0 @@
-{"tmdb_id": 380975, "title": "The Dance of the Chagamas", "original_title": "Chagama Ondo", "slug_title": "the-dance-of-the-chagamas", "date": "1935-03-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uwmzAuGxDVzIgXxxnm6l4DL6pzq.jpg", "actors": [], "comments": [], "recommandations_id": []}

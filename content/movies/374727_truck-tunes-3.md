@@ -1,1 +1,0 @@
-{"tmdb_id": 374727, "title": "Truck Tunes 3", "original_title": "Truck Tunes 3", "slug_title": "truck-tunes-3", "date": "2015-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pFk83f8TdYPsdQYBPuwkqOrhqOQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

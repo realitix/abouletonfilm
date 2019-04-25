@@ -1,1 +1,0 @@
-{"tmdb_id": 451298, "title": "Spellbeamed", "original_title": "Spellbeamed", "slug_title": "spellbeamed", "date": "2011-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

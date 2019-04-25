@@ -1,1 +1,0 @@
-{"tmdb_id": 197369, "title": "Welcome to Dopeland", "original_title": "Welcome to Dopeland", "slug_title": "welcome-to-dopeland", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bXp4icauatSY36mrNjTQk5VobqE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 490917, "title": "Racing Blood", "original_title": "Racing Blood", "slug_title": "racing-blood", "date": "1954-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9N5QyfSPcX3CLeTJfrPJfDMlWzs.jpg", "actors": [], "comments": [], "recommandations_id": []}

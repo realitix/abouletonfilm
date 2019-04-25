@@ -1,1 +1,0 @@
-{"tmdb_id": 555958, "title": "Le filon du Bouif", "original_title": "Le filon du Bouif", "slug_title": "le-filon-du-bouif", "date": "1922-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

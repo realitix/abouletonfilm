@@ -1,1 +1,0 @@
-{"tmdb_id": 587557, "title": "Making a Meal of it", "original_title": "Making a Meal of it", "slug_title": "making-a-meal-of-it", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1T0DGvLPbUYxRMmtydb8UsbCbz.jpg", "actors": [], "comments": [], "recommandations_id": []}

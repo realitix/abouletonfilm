@@ -1,1 +1,0 @@
-{"tmdb_id": 386405, "title": "Bahag Kings", "original_title": "Bahag Kings", "slug_title": "bahag-kings", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wWFsVPOTLnGzXCckqynmX267Hz5.jpg", "actors": [], "comments": [], "recommandations_id": []}

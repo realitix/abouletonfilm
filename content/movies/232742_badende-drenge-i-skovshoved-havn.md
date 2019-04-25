@@ -1,1 +1,0 @@
-{"tmdb_id": 232742, "title": "Badende Drenge i Skovshoved Havn", "original_title": "Badende Drenge i Skovshoved Havn", "slug_title": "badende-drenge-i-skovshoved-havn", "date": "1907-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

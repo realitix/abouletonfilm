@@ -1,1 +1,0 @@
-{"tmdb_id": 592058, "title": "Paukot\u0101js", "original_title": "Paukot\u0101js", "slug_title": "paukotajs", "date": "2009-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8LYoiQEu0v18ziYZkX7ykhdhbgS.jpg", "actors": [], "comments": [], "recommandations_id": []}

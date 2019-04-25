@@ -1,1 +1,0 @@
-{"tmdb_id": 128467, "title": "Triplepatte", "original_title": "Triplepatte", "slug_title": "triplepatte", "date": "1922-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pierre Palau (Boucherot)", "Henri Debain (Robert)", "\u00c9dith J\u00e9hanne (Yvonne Herbelier)"], "comments": [], "recommandations_id": []}

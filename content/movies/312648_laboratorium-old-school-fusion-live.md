@@ -1,1 +1,0 @@
-{"tmdb_id": 312648, "title": "Laboratorium: Old School Fusion Live", "original_title": "Laboratorium: Old School Fusion Live", "slug_title": "laboratorium-old-school-fusion-live", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

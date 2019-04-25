@@ -1,1 +1,0 @@
-{"tmdb_id": 566033, "title": "Zahn um Zahn", "original_title": "Zahn um Zahn", "slug_title": "zahn-um-zahn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 65838, "title": "Jay-Z MTV Unplugged", "original_title": "Jay-Z MTV Unplugged", "slug_title": "jay-z-mtv-unplugged", "date": "2001-12-18", "genre": "Musique", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kxYmqWBKRyswlgo3fKtjuxTsPXG.jpg", "actors": [], "comments": [], "recommandations_id": []}

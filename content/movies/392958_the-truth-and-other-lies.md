@@ -1,1 +1,0 @@
-{"tmdb_id": 392958, "title": "The Truth and Other Lies", "original_title": "The Truth and Other Lies", "slug_title": "the-truth-and-other-lies", "date": "2019-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

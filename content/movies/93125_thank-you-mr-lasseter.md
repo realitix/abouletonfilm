@@ -1,1 +1,0 @@
-{"tmdb_id": 93125, "title": "Thank You, Mr. Lasseter", "original_title": "Lasseter-san, Arigato!", "slug_title": "thank-you-mr-lasseter", "date": "2003-11-01", "genre": "Documentaire / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xxmdzLzg4VKpagmylQuWXEgfuKB.jpg", "actors": [], "comments": [], "recommandations_id": []}

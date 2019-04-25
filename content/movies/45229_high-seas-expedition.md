@@ -1,1 +1,0 @@
-{"tmdb_id": 45229, "title": "High Seas Expedition", "original_title": "High Seas Expedition", "slug_title": "high-seas-expedition", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iA8m5axkGb4S5XeGLbvd9FGG6KV.jpg", "actors": [], "comments": [], "recommandations_id": []}

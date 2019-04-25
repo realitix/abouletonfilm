@@ -1,1 +1,0 @@
-{"tmdb_id": 473776, "title": "Fell, Jumped or Pushed", "original_title": "Fell, Jumped or Pushed", "slug_title": "fell-jumped-or-pushed", "date": "2016-10-20", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rEiqv3pSwjwBv4xBpvLULyC0CE5.jpg", "actors": [], "comments": [], "recommandations_id": []}

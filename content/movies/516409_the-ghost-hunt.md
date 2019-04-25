@@ -1,1 +1,0 @@
-{"tmdb_id": 516409, "title": "The Ghost Hunt", "original_title": "The Ghost Hunt", "slug_title": "the-ghost-hunt", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hvOEzXAHZAWeWAcIw0S3gdL3u10.jpg", "actors": [], "comments": [], "recommandations_id": []}

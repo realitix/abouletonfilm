@@ -1,1 +1,0 @@
-{"tmdb_id": 579511, "title": "Impfen \u2013 Pro und Contra", "original_title": "Impfen \u2013 Pro und Contra", "slug_title": "impfen-pro-und-contra", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

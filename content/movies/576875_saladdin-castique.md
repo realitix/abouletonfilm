@@ -1,1 +1,0 @@
-{"tmdb_id": 576875, "title": "Saladdin Castique", "original_title": "Saladdin Castique", "slug_title": "saladdin-castique", "date": "2018-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

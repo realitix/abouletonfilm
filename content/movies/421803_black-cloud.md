@@ -1,1 +1,0 @@
-{"tmdb_id": 421803, "title": "Black Cloud", "original_title": "Nuvem Negra", "slug_title": "black-cloud", "date": "2014-09-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

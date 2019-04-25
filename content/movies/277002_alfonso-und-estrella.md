@@ -1,1 +1,0 @@
-{"tmdb_id": 277002, "title": "Alfonso und Estrella", "original_title": "Alfonso und Estrella", "slug_title": "alfonso-und-estrella", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hwfVqjhPmWA9yatfrfIKIp97xbG.jpg", "actors": [], "comments": [], "recommandations_id": []}

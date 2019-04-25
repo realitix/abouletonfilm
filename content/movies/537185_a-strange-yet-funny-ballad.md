@@ -1,1 +1,0 @@
-{"tmdb_id": 537185, "title": "A Strange Yet Funny Ballad", "original_title": "Okashi-sa ni irodora reta kanashimi no bar\u0101do", "slug_title": "a-strange-yet-funny-ballad", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 272564, "title": "More School Stories", "original_title": "More School Stories", "slug_title": "more-school-stories", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

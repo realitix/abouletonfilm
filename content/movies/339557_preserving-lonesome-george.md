@@ -1,1 +1,0 @@
-{"tmdb_id": 339557, "title": "Preserving Lonesome George", "original_title": "Preserving Lonesome George", "slug_title": "preserving-lonesome-george", "date": "2015-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

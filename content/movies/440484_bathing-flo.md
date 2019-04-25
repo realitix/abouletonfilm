@@ -1,1 +1,0 @@
-{"tmdb_id": 440484, "title": "Bathing Flo", "original_title": "Bathing Flo", "slug_title": "bathing-flo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ellen Burstyn ()", "Lauren Lake ()"], "comments": [], "recommandations_id": []}

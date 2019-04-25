@@ -1,1 +1,0 @@
-{"tmdb_id": 235688, "title": "Rush Hour", "original_title": "Rush Hour", "slug_title": "rush-hour", "date": "1941-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3hxGO6PmqHWdBYEqOOQMkwU3jhr.jpg", "actors": [], "comments": [], "recommandations_id": []}

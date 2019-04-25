@@ -1,1 +1,0 @@
-{"tmdb_id": 354059, "title": "The Clarks: Still Live", "original_title": "The Clarks: Still Live", "slug_title": "the-clarks-still-live", "date": "2006-06-20", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

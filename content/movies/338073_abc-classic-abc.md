@@ -1,1 +1,0 @@
-{"tmdb_id": 338073, "title": "ABC (Classic ABC)", "original_title": "ABC (Classic ABC)", "slug_title": "abc-classic-abc", "date": "2005-05-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nKxNC0OMhH2lSvKGaTruEBgQMt1.jpg", "actors": [], "comments": [], "recommandations_id": []}

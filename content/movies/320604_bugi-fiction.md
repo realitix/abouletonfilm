@@ -1,1 +1,0 @@
-{"tmdb_id": 320604, "title": "Bugi Fiction", "original_title": "Bugi Fiction", "slug_title": "bugi-fiction", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

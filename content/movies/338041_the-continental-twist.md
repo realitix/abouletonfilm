@@ -1,1 +1,0 @@
-{"tmdb_id": 338041, "title": "The Continental Twist", "original_title": "The Continental Twist", "slug_title": "the-continental-twist", "date": "1961-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/54GrfhhZO2iB9P3tMvzsndgxjw3.jpg", "actors": [], "comments": [], "recommandations_id": []}

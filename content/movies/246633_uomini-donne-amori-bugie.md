@@ -1,1 +1,0 @@
-{"tmdb_id": 246633, "title": "Uomini & donne, amori & bugie", "original_title": "Uomini & donne, amori & bugie", "slug_title": "uomini-donne-amori-bugie", "date": "2003-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/my1ZCFgQu5Fu1G4sUUmQe4H8ViF.jpg", "actors": [], "comments": [], "recommandations_id": []}

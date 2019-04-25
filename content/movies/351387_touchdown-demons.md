@@ -1,1 +1,0 @@
-{"tmdb_id": 351387, "title": "Touchdown Demons", "original_title": "Touchdown Demons", "slug_title": "touchdown-demons", "date": "1940-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

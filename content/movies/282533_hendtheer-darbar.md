@@ -1,1 +1,0 @@
-{"tmdb_id": 282533, "title": "Hendtheer Darbar", "original_title": "Hendtheer Darbar", "slug_title": "hendtheer-darbar", "date": "2010-07-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramesh Aravind (Shivaram)", "Meena (Radha)", "Rangayana Raghu ()", "Sadhu Kokila ()"], "comments": [], "recommandations_id": []}

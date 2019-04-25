@@ -1,1 +1,0 @@
-{"tmdb_id": 586692, "title": "Bristi Tomake Dilam", "original_title": "Bristi Tomake Dilam", "slug_title": "bristi-tomake-dilam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eQDZq49C8lylwFDwsFPT5AtwEQQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

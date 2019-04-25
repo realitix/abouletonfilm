@@ -1,1 +1,0 @@
-{"tmdb_id": 478866, "title": "Wise Old Little Boy", "original_title": "Wise Old Little Boy", "slug_title": "wise-old-little-boy", "date": "2004-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yd70B9XnpgEpl322WE6i9wM2VAK.jpg", "actors": ["Phil Elverum ()", "Kyle Fields ()"], "comments": [], "recommandations_id": []}

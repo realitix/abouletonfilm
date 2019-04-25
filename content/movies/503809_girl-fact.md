@@ -1,1 +1,0 @@
-{"tmdb_id": 503809, "title": "Girl Fact", "original_title": "Girl Fact", "slug_title": "girl-fact", "date": "2017-04-29", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lsqptUwg91l7iu2kd70ubuE0Cu8.jpg", "actors": [], "comments": [], "recommandations_id": []}

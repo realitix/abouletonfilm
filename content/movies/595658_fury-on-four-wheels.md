@@ -1,1 +1,0 @@
-{"tmdb_id": 595658, "title": "Fury on Four Wheels", "original_title": "Fury on Four Wheels", "slug_title": "fury-on-four-wheels", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ytTCrPweRJZxNWtiOfJrunAcrGz.jpg", "actors": ["George Miller (Self)"], "comments": [], "recommandations_id": []}

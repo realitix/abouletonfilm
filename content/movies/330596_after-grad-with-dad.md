@@ -1,1 +1,0 @@
-{"tmdb_id": 330596, "title": "After Grad with Dad", "original_title": "After Grad with Dad", "slug_title": "after-grad-with-dad", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

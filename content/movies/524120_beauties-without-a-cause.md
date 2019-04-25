@@ -1,1 +1,0 @@
-{"tmdb_id": 524120, "title": "Beauties without a Cause", "original_title": "Beauties without a Cause", "slug_title": "beauties-without-a-cause", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lulu ()", "Teena ()", "Theresa ()", "Tommy ()"], "comments": [], "recommandations_id": []}

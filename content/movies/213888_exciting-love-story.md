@@ -1,1 +1,0 @@
-{"tmdb_id": 213888, "title": "Exciting Love Story", "original_title": "Uzbudljiva ljubavna pri\u010da", "slug_title": "exciting-love-story", "date": "1989-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8VWih8tSMI6pN3CMBpJG7kZDLM1.jpg", "actors": [], "comments": [], "recommandations_id": []}

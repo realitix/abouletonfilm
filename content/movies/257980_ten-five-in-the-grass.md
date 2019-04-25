@@ -1,1 +1,0 @@
-{"tmdb_id": 257980, "title": "Ten Five in the Grass", "original_title": "Ten Five in the Grass", "slug_title": "ten-five-in-the-grass", "date": "2012-05-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5N9FRTx2ctvnQ0UQZarqb9ZZcgF.jpg", "actors": [], "comments": [], "recommandations_id": []}

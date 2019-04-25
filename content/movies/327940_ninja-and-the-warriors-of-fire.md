@@ -1,1 +1,0 @@
-{"tmdb_id": 327940, "title": "Ninja and the Warriors of Fire", "original_title": "Ninja and the Warriors of Fire", "slug_title": "ninja-and-the-warriors-of-fire", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cauf1Hk5FNWsa4oy24hpR7s5tYR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 349622, "title": "\uc0ac\ub8e1\uc0ac", "original_title": "\uc0ac\ub8e1\uc0ac", "slug_title": "saryongsa", "date": "1983-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

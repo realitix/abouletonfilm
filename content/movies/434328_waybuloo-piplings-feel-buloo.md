@@ -1,1 +1,0 @@
-{"tmdb_id": 434328, "title": "Waybuloo - Piplings Feel Buloo!", "original_title": "Waybuloo - Piplings Feel Buloo!", "slug_title": "waybuloo-piplings-feel-buloo", "date": "2010-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w0kld36wzRVinJ3WmLLC6EnoLbE.jpg", "actors": [], "comments": [], "recommandations_id": []}

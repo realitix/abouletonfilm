@@ -1,1 +1,0 @@
-{"tmdb_id": 433351, "title": "Sahara Mosaic", "original_title": "Sahara Mosaic", "slug_title": "sahara-mosaic", "date": "2009-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rBI4v4LNnbZ6B53jdd0wISgxqrf.jpg", "actors": [], "comments": [], "recommandations_id": []}

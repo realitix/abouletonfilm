@@ -1,1 +1,0 @@
-{"tmdb_id": 279726, "title": "People from Space", "original_title": "People from Space", "slug_title": "people-from-space", "date": "1999-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

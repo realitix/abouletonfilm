@@ -1,1 +1,0 @@
-{"tmdb_id": 549567, "title": "Honey Bee", "original_title": "Honey Bee", "slug_title": "honey-bee", "date": "2018-11-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Julia Sarah Stone (Natalie \"Honey Bee\" Sorensen)", "Martha Plimpton ()"], "comments": [], "recommandations_id": []}

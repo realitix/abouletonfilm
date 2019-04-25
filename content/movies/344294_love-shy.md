@@ -1,1 +1,0 @@
-{"tmdb_id": 344294, "title": "Love Shy", "original_title": "Love Shy", "slug_title": "love-shy", "date": "1928-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jimmie Adams (Jimmie)", "Lorraine MacLean ()", "Billy Engle ()", "Eddie Baker ()", "Cliff Lancaster ()", "Georgia O'Dell ()"], "comments": [], "recommandations_id": []}

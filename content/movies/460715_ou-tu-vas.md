@@ -1,1 +1,0 @@
-{"tmdb_id": 460715, "title": "O\u00f9 tu vas", "original_title": "O\u00f9 tu vas", "slug_title": "ou-tu-vas", "date": "1997-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karin Viard (Nadine)"], "comments": [], "recommandations_id": []}

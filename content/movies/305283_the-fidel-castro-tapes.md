@@ -1,1 +1,0 @@
-{"tmdb_id": 305283, "title": "The Fidel Castro Tapes", "original_title": "The Fidel Castro Tapes", "slug_title": "the-fidel-castro-tapes", "date": "2014-06-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sMwhNz46UqzzB9VXB10cBUwmkPQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

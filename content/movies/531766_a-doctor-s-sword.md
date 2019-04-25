@@ -1,1 +1,0 @@
-{"tmdb_id": 531766, "title": "A Doctor's Sword", "original_title": "A Doctor's Sword", "slug_title": "a-doctor-s-sword", "date": "2015-08-07", "genre": "Documentaire / Animation / Guerre", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sVKlJqOVmcjbPUhOy9LwizP1ueb.jpg", "actors": [], "comments": [], "recommandations_id": []}

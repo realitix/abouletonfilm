@@ -1,1 +1,0 @@
-{"tmdb_id": 419991, "title": "Contrepied", "original_title": "Contrepied", "slug_title": "contrepied", "date": "1966-09-13", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AvViedPzSMmabGiOq9VoPz9UXY6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 523371, "title": "Patients Of A Saint", "original_title": "Patients Of A Saint", "slug_title": "patients-of-a-saint", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

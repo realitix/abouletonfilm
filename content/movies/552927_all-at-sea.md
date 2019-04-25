@@ -1,1 +1,0 @@
-{"tmdb_id": 552927, "title": "All at Sea", "original_title": "All at Sea", "slug_title": "all-at-sea", "date": "1919-11-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["'Snub' Pollard ()", "Mildred Davis ()", "Eddie Boland ()", "Sammy Brooks ()", "Charley Chase ()"], "comments": [], "recommandations_id": []}

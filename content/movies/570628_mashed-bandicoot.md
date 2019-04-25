@@ -1,1 +1,0 @@
-{"tmdb_id": 570628, "title": "Mashed Bandicoot", "original_title": "Mashed Bandicoot", "slug_title": "mashed-bandicoot", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

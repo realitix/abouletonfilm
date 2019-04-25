@@ -1,1 +1,0 @@
-{"tmdb_id": 472611, "title": "capablanca", "original_title": "capablanca", "slug_title": "capablanca", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y6Q9MkU52Ijfdk4Z3Fk9RkcJ8sI.jpg", "actors": ["Galina Belyaeva (Sashenka Mojaeva)"], "comments": [], "recommandations_id": []}

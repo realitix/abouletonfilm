@@ -1,1 +1,0 @@
-{"tmdb_id": 279512, "title": "Bharathamlo Arjunudu", "original_title": "Bharathamlo Arjunudu", "slug_title": "bharathamlo-arjunudu", "date": "1987-05-29", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Venkatesh ()", "Khushboo ()"], "comments": [], "recommandations_id": []}

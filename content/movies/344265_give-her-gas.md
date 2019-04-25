@@ -1,1 +1,0 @@
-{"tmdb_id": 344265, "title": "Give Her Gas", "original_title": "Give Her Gas", "slug_title": "give-her-gas", "date": "1918-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eddie Lyons ()", "Lee Moran ()", "Edith Roberts ()", "Magda Lane (Mrs. Gussle)", "Grace Marvin (Mrs. Whiffle)"], "comments": [], "recommandations_id": []}

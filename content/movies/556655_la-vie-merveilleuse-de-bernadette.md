@@ -1,1 +1,0 @@
-{"tmdb_id": 556655, "title": "La vie merveilleuse de Bernadette", "original_title": "La vie merveilleuse de Bernadette", "slug_title": "la-vie-merveilleuse-de-bernadette", "date": "1929-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

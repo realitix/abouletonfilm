@@ -1,1 +1,0 @@
-{"tmdb_id": 212238, "title": "MTV Apresenta - Seu Jorge", "original_title": "MTV Apresenta - Seu Jorge", "slug_title": "mtv-apresenta-seu-jorge", "date": "2004-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4ogIRxX4V97qYB18gBewVK2jBRM.jpg", "actors": [], "comments": [], "recommandations_id": []}

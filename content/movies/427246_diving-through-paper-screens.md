@@ -1,1 +1,0 @@
-{"tmdb_id": 427246, "title": "Diving Through Paper Screens", "original_title": "Diving Through Paper Screens", "slug_title": "diving-through-paper-screens", "date": "1899-09-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

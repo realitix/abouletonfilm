@@ -1,1 +1,0 @@
-{"tmdb_id": 324335, "title": "Y/Our Music", "original_title": "Y/Our Music", "slug_title": "y-our-music", "date": "2014-10-05", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2MxLWt50hLtrQmPIF9m3frFtjpI.jpg", "actors": [], "comments": [], "recommandations_id": []}

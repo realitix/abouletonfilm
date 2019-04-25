@@ -1,1 +1,0 @@
-{"tmdb_id": 292313, "title": "Terrorism: A World in Shadows", "original_title": "Terrorism: A World in Shadows", "slug_title": "terrorism-a-world-in-shadows", "date": "1997-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

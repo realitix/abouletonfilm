@@ -1,1 +1,0 @@
-{"tmdb_id": 302229, "title": "Think Tank Presents: Almanac", "original_title": "Think Tank Presents: Almanac", "slug_title": "think-tank-presents-almanac", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

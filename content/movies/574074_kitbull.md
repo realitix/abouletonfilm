@@ -1,1 +1,0 @@
-{"tmdb_id": 574074, "title": "Kitbull", "original_title": "Kitbull", "slug_title": "kitbull", "date": "2019-01-18", "genre": "Animation / Familial", "score": "8.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9yq4aMMEirIAbv9SSndXOwloOk5.jpg", "actors": [], "comments": [], "recommandations_id": [532953, 532952, 553903]}

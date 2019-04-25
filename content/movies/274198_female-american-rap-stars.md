@@ -1,1 +1,0 @@
-{"tmdb_id": 274198, "title": "Female American Rap Stars", "original_title": "Female American Rap Stars", "slug_title": "female-american-rap-stars", "date": "2004-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

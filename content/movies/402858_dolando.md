@@ -1,1 +1,0 @@
-{"tmdb_id": 402858, "title": "Dolando", "original_title": "Dolando", "slug_title": "dolando", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dolando Bernardini ()"], "comments": [], "recommandations_id": []}

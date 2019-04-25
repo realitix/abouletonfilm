@@ -1,1 +1,0 @@
-{"tmdb_id": 576052, "title": "Citizen Teklit", "original_title": "Citizen Teklit", "slug_title": "citizen-teklit", "date": "2015-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8E1AeY8bUgiwv7gJj1AP32FDuQ7.jpg", "actors": ["Teklit Guzay (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 57197, "title": "New Year's Concert 2005", "original_title": "New Year's Concert 2005", "slug_title": "new-year-s-concert-2005", "date": "2005-01-14", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dYjFqjSX0mBDFbbSX2Od6ElzI3X.jpg", "actors": [], "comments": [], "recommandations_id": []}

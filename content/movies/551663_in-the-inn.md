@@ -1,1 +1,0 @@
-{"tmdb_id": 551663, "title": "In the Inn", "original_title": "U kafani", "slug_title": "in-the-inn", "date": "1969-03-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

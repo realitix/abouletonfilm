@@ -1,1 +1,0 @@
-{"tmdb_id": 273255, "title": "La Blue Girl Volume 4", "original_title": "La Blue Girl Volume 4", "slug_title": "la-blue-girl-volume-4", "date": "1993-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/OBUbvGNr2NVE28b5bTmrcI1ppi.jpg", "actors": [], "comments": [], "recommandations_id": []}

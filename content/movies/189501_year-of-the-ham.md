@@ -1,1 +1,0 @@
-{"tmdb_id": 189501, "title": "Year of the Ham", "original_title": "Year of the Ham", "slug_title": "year-of-the-ham", "date": "2012-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

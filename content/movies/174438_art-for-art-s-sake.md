@@ -1,1 +1,0 @@
-{"tmdb_id": 174438, "title": "Art for Art's Sake", "original_title": "Art for Art's Sake", "slug_title": "art-for-art-s-sake", "date": "1934-05-10", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

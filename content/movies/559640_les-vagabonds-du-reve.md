@@ -1,1 +1,0 @@
-{"tmdb_id": 559640, "title": "Les vagabonds du r\u00eave", "original_title": "Les vagabonds du r\u00eave", "slug_title": "les-vagabonds-du-reve", "date": "1949-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7qDyBSZrra6rvsQ3ggE8ukI9JbP.jpg", "actors": [], "comments": [], "recommandations_id": []}

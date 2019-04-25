@@ -1,1 +1,0 @@
-{"tmdb_id": 174478, "title": "The Little Red Hen", "original_title": "The Little Red Hen", "slug_title": "the-little-red-hen", "date": "1934-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zNyKUyKd1wIALtu3HfSk4p9iKOA.jpg", "actors": [], "comments": [], "recommandations_id": []}

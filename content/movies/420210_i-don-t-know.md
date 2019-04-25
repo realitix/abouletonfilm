@@ -1,1 +1,0 @@
-{"tmdb_id": 420210, "title": "I Don't Know", "original_title": "Nie wiem", "slug_title": "i-don-t-know", "date": "1977-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8YkZkxsOMdSmdLcV4ffXy8MZs5U.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 302248, "title": "Raagrang", "original_title": "Raagrang", "slug_title": "raagrang", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

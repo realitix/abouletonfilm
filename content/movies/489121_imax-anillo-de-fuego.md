@@ -1,1 +1,0 @@
-{"tmdb_id": 489121, "title": "Imax - Anillo de fuego", "original_title": "Imax - Anillo de fuego", "slug_title": "imax-anillo-de-fuego", "date": "1991-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/avbcex4twkDbhmATQSzlI7t4aT1.jpg", "actors": [], "comments": [], "recommandations_id": []}

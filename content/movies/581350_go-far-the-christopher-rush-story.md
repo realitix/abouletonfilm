@@ -1,1 +1,0 @@
-{"tmdb_id": 581350, "title": "Go Far: The Christopher Rush Story", "original_title": "Go Far: The Christopher Rush Story", "slug_title": "go-far-the-christopher-rush-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gA4TqkplsvzZzHuocJ4guclFuoG.jpg", "actors": [], "comments": [], "recommandations_id": []}

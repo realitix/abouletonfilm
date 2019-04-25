@@ -1,1 +1,0 @@
-{"tmdb_id": 345271, "title": "Disa flytter til Japan", "original_title": "Disa flytter til Japan", "slug_title": "disa-flytter-til-japan", "date": "2003-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

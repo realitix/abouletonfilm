@@ -1,1 +1,0 @@
-{"tmdb_id": 362903, "title": "Elopement in France", "original_title": "Elopement in France", "slug_title": "elopement-in-france", "date": "1944-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

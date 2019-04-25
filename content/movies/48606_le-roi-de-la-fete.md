@@ -1,1 +1,0 @@
-{"tmdb_id": 48606, "title": "Le roi de la f\u00eate", "original_title": "Birthday Boy", "slug_title": "le-roi-de-la-fete", "date": "2004-06-08", "genre": "Animation", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hDDS6M20Oqpa4r20OY8prTXxScG.jpg", "actors": [], "comments": [], "recommandations_id": []}

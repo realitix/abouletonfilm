@@ -1,1 +1,0 @@
-{"tmdb_id": 331489, "title": "New Book", "original_title": "Nowa Ksiazka", "slug_title": "new-book", "date": "1975-06-30", "genre": "Animation", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bQyxexRSuZiac0UmTp6q1Pgv1XA.jpg", "actors": [], "comments": [], "recommandations_id": [126783, 315647, 183005, 125660]}

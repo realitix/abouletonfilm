@@ -1,1 +1,0 @@
-{"tmdb_id": 415429, "title": "Frostbitt", "original_title": "Frostbitt", "slug_title": "frostbitt", "date": "2014-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aX4NFc2YCtLIOHe7FLoXA8uAu22.jpg", "actors": [], "comments": [], "recommandations_id": []}

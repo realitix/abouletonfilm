@@ -1,1 +1,0 @@
-{"tmdb_id": 337229, "title": "El clavo", "original_title": "El clavo", "slug_title": "el-clavo", "date": "2000-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pedro Moreno ()", "Chuy Garcia ()", "Lupe Garcia ()", "Freddy Bojorquez ()"], "comments": [], "recommandations_id": []}

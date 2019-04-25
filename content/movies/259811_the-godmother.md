@@ -1,1 +1,0 @@
-{"tmdb_id": 259811, "title": "The Godmother", "original_title": "\u0397 \u03bd\u03bf\u03bd\u03ac", "slug_title": "the-godmother", "date": "2014-03-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vMuKcVbqXbpECoOxWdRoQ0zxLsj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 313306, "title": "Sing for Darfur", "original_title": "Sing for Darfur", "slug_title": "sing-for-darfur", "date": "2008-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Melina Matthews (Isabelle)"], "comments": [], "recommandations_id": []}

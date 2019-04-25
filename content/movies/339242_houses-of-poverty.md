@@ -1,1 +1,0 @@
-{"tmdb_id": 339242, "title": "Houses of Poverty", "original_title": "Les maisons de la mis\u00e8re", "slug_title": "houses-of-poverty", "date": "1936-05-07", "genre": "Documentaire / Drame", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dyhuDl9wQj2Pd766w9kTrgGUdup.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 177345, "title": "Equinox Black Holes", "original_title": "Equinox Black Holes", "slug_title": "equinox-black-holes", "date": "1997-11-04", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stephen Hawking ()", "Martin Rees ()"], "comments": [], "recommandations_id": []}

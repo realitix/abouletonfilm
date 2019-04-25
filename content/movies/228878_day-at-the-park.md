@@ -1,1 +1,0 @@
-{"tmdb_id": 228878, "title": "Day at the Park", "original_title": "Day at the Park", "slug_title": "day-at-the-park", "date": "1920-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

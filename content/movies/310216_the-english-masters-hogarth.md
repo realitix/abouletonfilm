@@ -1,1 +1,0 @@
-{"tmdb_id": 310216, "title": "The English Masters: Hogarth", "original_title": "The English Masters: Hogarth", "slug_title": "the-english-masters-hogarth", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cTf7ItN9ZOsAIlAmWb0l4Wy7nAN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 592147, "title": "Second Hand", "original_title": "Second Hand", "slug_title": "second-hand", "date": "2019-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

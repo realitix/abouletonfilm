@@ -1,1 +1,0 @@
-{"tmdb_id": 489329, "title": "Trick or Drink", "original_title": "Trick or Drink", "slug_title": "trick-or-drink", "date": "1983-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eVaeG8mcaY6r6GYsVC6uhaI8GQx.jpg", "actors": ["Vanalyne Green (Herself)"], "comments": [], "recommandations_id": []}

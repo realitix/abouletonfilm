@@ -1,1 +1,0 @@
-{"tmdb_id": 436509, "title": "Carcasse", "original_title": "Carcasse", "slug_title": "carcasse", "date": "2017-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ngBF0dITKAyehNsMpUR1Ismvoom.jpg", "actors": [], "comments": [], "recommandations_id": []}

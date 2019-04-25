@@ -1,1 +1,0 @@
-{"tmdb_id": 501233, "title": "A Gala Concert From Dresden", "original_title": "A Gala Concert From Dresden", "slug_title": "a-gala-concert-from-dresden", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xxMMGog6S1JD88swFbWbumyK7tx.jpg", "actors": [], "comments": [], "recommandations_id": []}

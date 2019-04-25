@@ -1,1 +1,0 @@
-{"tmdb_id": 580358, "title": "You Are Here", "original_title": "You Are Here", "slug_title": "you-are-here", "date": "2009-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

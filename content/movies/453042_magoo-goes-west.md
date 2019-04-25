@@ -1,1 +1,0 @@
-{"tmdb_id": 453042, "title": "Magoo Goes West", "original_title": "Magoo Goes West", "slug_title": "magoo-goes-west", "date": "1956-04-18", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Backus (Mr. Magoo (voice))", "Jerry Hausner (Waldo (voice))"], "comments": [], "recommandations_id": []}

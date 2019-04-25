@@ -1,1 +1,0 @@
-{"tmdb_id": 102825, "title": "Sc\u00e8nes d'enfants", "original_title": "Sc\u00e8nes d'enfants", "slug_title": "scenes-d-enfants", "date": "2002-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marie-Jos\u00e9e Lefebvre ()"], "comments": [], "recommandations_id": []}

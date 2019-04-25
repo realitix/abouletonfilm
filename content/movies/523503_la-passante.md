@@ -1,1 +1,0 @@
-{"tmdb_id": 523503, "title": "La passante", "original_title": "La passante", "slug_title": "la-passante", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Safi Faye ()"], "comments": [], "recommandations_id": []}

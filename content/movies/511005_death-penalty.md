@@ -1,1 +1,0 @@
-{"tmdb_id": 511005, "title": "Death Penalty", "original_title": "Pena de Muerte", "slug_title": "death-penalty", "date": "2012-03-11", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xalw2PDTsk56COyPDK4bEWH03sh.jpg", "actors": [], "comments": [], "recommandations_id": []}

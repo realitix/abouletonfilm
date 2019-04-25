@@ -1,1 +1,0 @@
-{"tmdb_id": 566934, "title": "Le voleur de feuilles", "original_title": "Le voleur de feuilles", "slug_title": "le-voleur-de-feuilles", "date": "1984-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/niDWx8ctPphISqihwjB0031a4xg.jpg", "actors": [], "comments": [], "recommandations_id": []}

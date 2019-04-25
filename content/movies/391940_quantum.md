@@ -1,1 +1,0 @@
-{"tmdb_id": 391940, "title": "Quantum.", "original_title": "Quantum.", "slug_title": "quantum", "date": "2015-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

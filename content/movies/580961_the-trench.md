@@ -1,1 +1,0 @@
-{"tmdb_id": 580961, "title": "The Trench", "original_title": "The Trench", "slug_title": "the-trench", "date": "", "genre": "Horreur / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/13HRIAhXE8KxALzhTSt16kLBSgK.jpg", "actors": [], "comments": [], "recommandations_id": []}

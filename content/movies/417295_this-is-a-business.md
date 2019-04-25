@@ -1,1 +1,0 @@
-{"tmdb_id": 417295, "title": "This Is a Business", "original_title": "This Is a Business", "slug_title": "this-is-a-business", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1zgnkqlPgF5DFeDPDZsmQRSiSrX.jpg", "actors": [], "comments": [], "recommandations_id": []}

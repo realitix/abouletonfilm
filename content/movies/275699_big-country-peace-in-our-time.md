@@ -1,1 +1,0 @@
-{"tmdb_id": 275699, "title": "Big Country: Peace in Our Time", "original_title": "Big Country: Peace in Our Time", "slug_title": "big-country-peace-in-our-time", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

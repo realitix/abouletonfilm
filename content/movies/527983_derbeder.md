@@ -1,1 +1,0 @@
-{"tmdb_id": 527983, "title": "Derbeder", "original_title": "Derbeder", "slug_title": "derbeder", "date": "1978-02-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8xEAmO1yZnPm4eOpGUOG4YQmMlo.jpg", "actors": ["Ferdi Tayfur ()", "Canan Perver ()"], "comments": [], "recommandations_id": []}

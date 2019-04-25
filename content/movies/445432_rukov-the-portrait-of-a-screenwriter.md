@@ -1,1 +1,0 @@
-{"tmdb_id": 445432, "title": "Rukov - the portrait of a screenwriter", "original_title": "Rukov - P\u00e5 sporet af den tabte tid", "slug_title": "rukov-the-portrait-of-a-screenwriter", "date": "", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

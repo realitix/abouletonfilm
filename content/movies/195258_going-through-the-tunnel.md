@@ -1,1 +1,0 @@
-{"tmdb_id": 195258, "title": "Going Through the Tunnel", "original_title": "Going Through the Tunnel", "slug_title": "going-through-the-tunnel", "date": "1898-02-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 451163, "title": "Les Grandes R\u00e9p\u00e9titions", "original_title": "Les Grandes R\u00e9p\u00e9titions", "slug_title": "les-grandes-repetitions", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/80LaXIFrJ8ZThB0tfeRuYSrADFr.jpg", "actors": [], "comments": [], "recommandations_id": []}

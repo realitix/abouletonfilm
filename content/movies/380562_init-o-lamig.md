@@ -1,1 +1,0 @@
-{"tmdb_id": 380562, "title": "Init O' Lamig", "original_title": "Init O' Lamig", "slug_title": "init-o-lamig", "date": "1981-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zoAmhPM7FmYEFVEWsiGsvqu2V5M.jpg", "actors": [], "comments": [], "recommandations_id": []}

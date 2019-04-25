@@ -1,1 +1,0 @@
-{"tmdb_id": 495877, "title": "Paul van Dyk: Global", "original_title": "Paul van Dyk: Global", "slug_title": "paul-van-dyk-global", "date": "2003-01-03", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8AuNh4lr6WSKfO0WdNNrEeJU7y5.jpg", "actors": [], "comments": [], "recommandations_id": []}

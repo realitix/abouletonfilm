@@ -1,1 +1,0 @@
-{"tmdb_id": 507394, "title": "The Wake", "original_title": "The Wake", "slug_title": "the-wake", "date": "2006-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pIo25iU9hjWd5QqVk1gmDOohsDt.jpg", "actors": [], "comments": [], "recommandations_id": []}

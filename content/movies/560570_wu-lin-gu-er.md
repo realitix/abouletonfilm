@@ -1,1 +1,0 @@
-{"tmdb_id": 560570, "title": "\u6b66\u6797\u5b64\u513f", "original_title": "\u6b66\u6797\u5b64\u513f", "slug_title": "wu-lin-gu-er", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aiaGvWDgTnnDP4AE9vEC1telmv2.jpg", "actors": [], "comments": [], "recommandations_id": []}

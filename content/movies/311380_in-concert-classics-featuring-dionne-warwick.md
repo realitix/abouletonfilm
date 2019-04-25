@@ -1,1 +1,0 @@
-{"tmdb_id": 311380, "title": "In Concert Classics Featuring Dionne Warwick", "original_title": "In Concert Classics Featuring Dionne Warwick", "slug_title": "in-concert-classics-featuring-dionne-warwick", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

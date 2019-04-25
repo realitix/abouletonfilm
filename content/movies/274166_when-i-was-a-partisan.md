@@ -1,1 +1,0 @@
-{"tmdb_id": 274166, "title": "When I Was a Partisan", "original_title": "Kai a\u0161 buvau partizanas", "slug_title": "when-i-was-a-partisan", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

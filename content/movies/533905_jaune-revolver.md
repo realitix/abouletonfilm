@@ -1,1 +1,0 @@
-{"tmdb_id": 533905, "title": "Jaune revolver", "original_title": "Jaune revolver", "slug_title": "jaune-revolver", "date": "1988-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yWq9S7PYaXwRTCkBC91jyXPJmxj.jpg", "actors": [], "comments": [], "recommandations_id": []}

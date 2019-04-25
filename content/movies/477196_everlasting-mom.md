@@ -1,1 +1,0 @@
-{"tmdb_id": 477196, "title": "Everlasting Mom", "original_title": "\u05d0\u05de\u05d0 \u05dc\u05e0\u05e6\u05d7", "slug_title": "everlasting-mom", "date": "2017-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5CHdX3NtnyyGPBiOTGbjzz6g2a5.jpg", "actors": ["Meira Nechemya ()"], "comments": [], "recommandations_id": []}

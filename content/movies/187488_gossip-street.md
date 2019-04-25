@@ -1,1 +1,0 @@
-{"tmdb_id": 187488, "title": "Gossip Street", "original_title": "Gossip Street", "slug_title": "gossip-street", "date": "1974-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aOe7mXtXJc1puJAW86XXM16Ijxm.jpg", "actors": ["Danny Lee Sau-Yin ()", "Bruce Le (Guest apperance)"], "comments": [], "recommandations_id": []}

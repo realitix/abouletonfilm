@@ -1,1 +1,0 @@
-{"tmdb_id": 156095, "title": "Hitlers Hantlangare - D\u00f6nitz", "original_title": "Hitlers Hantlangare - D\u00f6nitz", "slug_title": "hitlers-hantlangare-donitz", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pvzYDmW39cqdFShpE65hJDBGmA3.jpg", "actors": [], "comments": [], "recommandations_id": []}

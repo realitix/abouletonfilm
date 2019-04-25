@@ -1,1 +1,0 @@
-{"tmdb_id": 84272, "title": "Meerkats 3D", "original_title": "Meerkats 3D", "slug_title": "meerkats-3d", "date": "", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/omAob5mcfCplitfDD5Ln7ADEFaX.jpg", "actors": ["Emily Watson (Narrator)"], "comments": [], "recommandations_id": []}

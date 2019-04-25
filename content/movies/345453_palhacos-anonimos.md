@@ -1,1 +1,0 @@
-{"tmdb_id": 345453, "title": "Palha\u00e7os An\u00f4nimos", "original_title": "Palha\u00e7os An\u00f4nimos", "slug_title": "palhacos-anonimos", "date": "2015-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

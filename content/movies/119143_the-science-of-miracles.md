@@ -1,1 +1,0 @@
-{"tmdb_id": 119143, "title": "The Science of Miracles", "original_title": "The Science of Miracles", "slug_title": "the-science-of-miracles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zjLBzY37jwkvXRyjAgxQyx8uuAq.jpg", "actors": ["Gregg Braden (Gregg Braden)"], "comments": [], "recommandations_id": []}

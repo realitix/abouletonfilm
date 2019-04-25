@@ -1,1 +1,0 @@
-{"tmdb_id": 253104, "title": "Escape to Nowhere", "original_title": "Escape to Nowhere", "slug_title": "escape-to-nowhere", "date": "1961-06-11", "genre": "Guerre", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lwmVLQYmcxzql0aiPCdZ9rQ3gve.jpg", "actors": [], "comments": [], "recommandations_id": []}

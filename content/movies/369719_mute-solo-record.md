@@ -1,1 +1,0 @@
-{"tmdb_id": 369719, "title": "Mute/Solo/Record", "original_title": "Mute/Solo/Record", "slug_title": "mute-solo-record", "date": "2015-07-01", "genre": "Drame / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emily Lund (Katrina)", "Victor Krause (Sam)"], "comments": [], "recommandations_id": []}

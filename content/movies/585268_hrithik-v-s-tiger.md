@@ -1,1 +1,0 @@
-{"tmdb_id": 585268, "title": "Hrithik v/s Tiger", "original_title": "Hrithik v/s Tiger", "slug_title": "hrithik-v-s-tiger", "date": "2019-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hrithik Roshan ()", "Tiger Shroff ()", "Vaani Kapoor ()"], "comments": [], "recommandations_id": []}

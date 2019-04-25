@@ -1,1 +1,0 @@
-{"tmdb_id": 345673, "title": "Margaret Becker - Front Row", "original_title": "Margaret Becker - Front Row", "slug_title": "margaret-becker-front-row", "date": "1990-10-16", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1vL2ljpMtiecUiarnVOttp8pWym.jpg", "actors": [], "comments": [], "recommandations_id": []}

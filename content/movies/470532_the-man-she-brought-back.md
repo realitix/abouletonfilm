@@ -1,1 +1,0 @@
-{"tmdb_id": 470532, "title": "The Man She Brought Back", "original_title": "The Man She Brought Back", "slug_title": "the-man-she-brought-back", "date": "1924-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6LUIQH7oK8Hp8D4RkMQUXa59Phj.jpg", "actors": [], "comments": [], "recommandations_id": []}

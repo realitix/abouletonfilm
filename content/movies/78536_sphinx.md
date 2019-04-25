@@ -1,1 +1,0 @@
-{"tmdb_id": 78536, "title": "Sphinx", "original_title": "Sfinga", "slug_title": "sphinx", "date": "2011-04-13", "genre": "Aventure / Documentaire / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ijk1sCiDekwRuxBT7hQ6g4pK7N.jpg", "actors": ["Gregor Kresal (Filmmaker)"], "comments": [], "recommandations_id": []}

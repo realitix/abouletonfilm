@@ -1,1 +1,0 @@
-{"tmdb_id": 231768, "title": "Cutting Sugar Cane, Honolulu", "original_title": "Cutting Sugar Cane, Honolulu", "slug_title": "cutting-sugar-cane-honolulu", "date": "1901-10-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

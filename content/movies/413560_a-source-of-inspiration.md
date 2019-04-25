@@ -1,1 +1,0 @@
-{"tmdb_id": 413560, "title": "A Source of Inspiration", "original_title": "A Source of Inspiration", "slug_title": "a-source-of-inspiration", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

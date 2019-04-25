@@ -1,1 +1,0 @@
-{"tmdb_id": 370611, "title": "Coasting Scene at Montmorency Falls, Canada", "original_title": "Coasting Scene at Montmorency Falls, Canada", "slug_title": "coasting-scene-at-montmorency-falls-canada", "date": "1902-02-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

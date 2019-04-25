@@ -1,1 +1,0 @@
-{"tmdb_id": 65631, "title": "Victor Wooten: Groove Workshop", "original_title": "Victor Wooten: Groove Workshop", "slug_title": "victor-wooten-groove-workshop", "date": "2008-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Z6mtbzKEp5ZIj8TyQvMUcWSgUq.jpg", "actors": [], "comments": [], "recommandations_id": []}

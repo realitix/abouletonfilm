@@ -1,1 +1,0 @@
-{"tmdb_id": 511174, "title": "Doodle Film", "original_title": "Doodle Film", "slug_title": "doodle-film", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

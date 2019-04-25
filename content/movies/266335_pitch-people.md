@@ -1,1 +1,0 @@
-{"tmdb_id": 266335, "title": "Pitch People", "original_title": "Pitch People", "slug_title": "pitch-people", "date": "1999-10-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/FKSodaiHZ8b1OFaFvzcFQ1e2gJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

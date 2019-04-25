@@ -1,1 +1,0 @@
-{"tmdb_id": 392485, "title": "Trains and Cars", "original_title": "Trains and Cars", "slug_title": "trains-and-cars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

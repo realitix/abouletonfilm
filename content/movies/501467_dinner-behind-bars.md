@@ -1,1 +1,0 @@
-{"tmdb_id": 501467, "title": "Dinner Behind Bars", "original_title": "Dinner Behind Bars", "slug_title": "dinner-behind-bars", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yDrzo3z9BixBKc2JAKlwczr61T.jpg", "actors": [], "comments": [], "recommandations_id": []}

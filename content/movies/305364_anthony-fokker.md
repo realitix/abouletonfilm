@@ -1,1 +1,0 @@
-{"tmdb_id": 305364, "title": "Anthony Fokker", "original_title": "Anthony Fokker", "slug_title": "anthony-fokker", "date": "2014-10-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ckggykHeT6239ZBfE58vFSgUUGI.jpg", "actors": [], "comments": [], "recommandations_id": []}

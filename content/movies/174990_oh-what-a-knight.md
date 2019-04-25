@@ -1,1 +1,0 @@
-{"tmdb_id": 174990, "title": "Oh, What a Knight", "original_title": "Oh, What a Knight", "slug_title": "oh-what-a-knight", "date": "1919-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mack Swain (The Sheriff)"], "comments": [], "recommandations_id": []}

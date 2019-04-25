@@ -1,1 +1,0 @@
-{"tmdb_id": 436793, "title": "Kiriti Roy\u00a0", "original_title": "Kiriti Roy\u00a0", "slug_title": "kiriti-roy", "date": "2016-12-30", "genre": "Myst\u00e8re / Thriller", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ymIIzTd0IptNMwcc19vsXTfLcBu.jpg", "actors": [], "comments": [], "recommandations_id": []}

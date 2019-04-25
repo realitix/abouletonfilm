@@ -1,1 +1,0 @@
-{"tmdb_id": 488563, "title": "Des grandes journ\u00e9es d'temps", "original_title": "Des grandes journ\u00e9es d'temps", "slug_title": "des-grandes-journees-d-temps", "date": "2017-11-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

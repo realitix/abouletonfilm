@@ -1,1 +1,0 @@
-{"tmdb_id": 366429, "title": "Victoire Terminus, Kinshasa", "original_title": "Victoire Terminus, Kinshasa", "slug_title": "victoire-terminus-kinshasa", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

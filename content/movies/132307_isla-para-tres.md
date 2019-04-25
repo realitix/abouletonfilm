@@ -1,1 +1,0 @@
-{"tmdb_id": 132307, "title": "Isla para tres", "original_title": "Isla para tres", "slug_title": "isla-para-tres", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eduardo de la Pe\u00f1a ()", "Humberto Elizondo ()", "Alberto Rojas ()", "Azela Robinson ()"], "comments": [], "recommandations_id": []}

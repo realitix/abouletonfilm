@@ -1,1 +1,0 @@
-{"tmdb_id": 149725, "title": "Wild Women", "original_title": "Wild Women", "slug_title": "wild-women", "date": "1970-10-20", "genre": "Western", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fT3ir6i9VD8nhf2xcuE3F4PXl3N.jpg", "actors": ["Hugh O'Brian (Killian)", "Anne Francis (Jean Marshek)"], "comments": [], "recommandations_id": []}

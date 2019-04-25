@@ -1,1 +1,0 @@
-{"tmdb_id": 333940, "title": "Gentleman", "original_title": "Gentleman", "slug_title": "gentleman", "date": "1989-07-28", "genre": "Com\u00e9die / Action / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vvQhahvpub73M46RawfagAmSbqZ.jpg", "actors": ["Govinda ()", "Anuradha Patel ()"], "comments": [], "recommandations_id": []}

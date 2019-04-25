@@ -1,1 +1,0 @@
-{"tmdb_id": 335851, "title": "The Sea Fiend", "original_title": "The Sea Fiend", "slug_title": "the-sea-fiend", "date": "1936-04-14", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

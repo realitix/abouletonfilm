@@ -1,1 +1,0 @@
-{"tmdb_id": 593647, "title": "The Schoolmaster", "original_title": "The Schoolmaster", "slug_title": "the-schoolmaster", "date": "1990-08-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J\u00fcrgen Prochnow (Rozinsky)"], "comments": [], "recommandations_id": []}

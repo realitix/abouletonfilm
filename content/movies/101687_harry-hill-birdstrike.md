@@ -1,1 +1,0 @@
-{"tmdb_id": 101687, "title": "Harry Hill - Birdstrike!", "original_title": "Harry Hill - Birdstrike!", "slug_title": "harry-hill-birdstrike", "date": "2000-11-20", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Hill (Himself)"], "comments": [], "recommandations_id": []}

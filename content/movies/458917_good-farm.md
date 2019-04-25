@@ -1,1 +1,1 @@
-{"tmdb_id": 458917, "title": "Good Farm", "original_title": "Good Farm", "slug_title": "good-farm", "date": "2012-09-12", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 458917, "title": "Good Farm", "original_title": "Good Farm", "slug_title": "good-farm", "date": "2012-09-12", "genre": ["Documentaire"], "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

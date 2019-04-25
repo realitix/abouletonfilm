@@ -1,1 +1,0 @@
-{"tmdb_id": 377530, "title": "Where the Chocolate Mountains", "original_title": "Where the Chocolate Mountains", "slug_title": "where-the-chocolate-mountains", "date": "2015-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8A3JZaTIlKeoWUp4IqCRK2OALjZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

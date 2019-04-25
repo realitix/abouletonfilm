@@ -1,1 +1,0 @@
-{"tmdb_id": 357340, "title": "Mining Review 20th Year No 9", "original_title": "Mining Review 20th Year No 9", "slug_title": "mining-review-20th-year-no-9", "date": "1967-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

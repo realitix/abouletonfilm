@@ -1,1 +1,1 @@
-{"tmdb_id": 322353, "title": "Maze Le Lo", "original_title": "Maze Le Lo", "slug_title": "maze-le-lo", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 322353, "title": "Maze Le Lo", "original_title": "Maze Le Lo", "slug_title": "maze-le-lo", "date": "1975-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1975 Indian Film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

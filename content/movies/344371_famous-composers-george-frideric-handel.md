@@ -1,1 +1,0 @@
-{"tmdb_id": 344371, "title": "Famous Composers: George Frideric Handel", "original_title": "Famous Composers: George Frideric Handel", "slug_title": "famous-composers-george-frideric-handel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

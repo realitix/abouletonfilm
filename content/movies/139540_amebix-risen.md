@@ -1,1 +1,0 @@
-{"tmdb_id": 139540, "title": "Amebix Risen", "original_title": "Amebix Risen", "slug_title": "amebix-risen", "date": "2008-06-06", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cMB8MXbifryS4OHa75l0jHM8aTl.jpg", "actors": [], "comments": [], "recommandations_id": []}

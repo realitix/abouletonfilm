@@ -1,1 +1,0 @@
-{"tmdb_id": 297454, "title": "The Dead and the Damned 2", "original_title": "The Dead and the Damned 2", "slug_title": "the-dead-and-the-damned-2", "date": "2014-10-14", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q8hyUT2aQJSREBq5UKswMfPgWcb.jpg", "actors": [], "comments": [], "recommandations_id": []}

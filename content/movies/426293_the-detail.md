@@ -1,1 +1,0 @@
-{"tmdb_id": 426293, "title": "The Detail", "original_title": "Das Detail", "slug_title": "the-detail", "date": "2016-11-16", "genre": "Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

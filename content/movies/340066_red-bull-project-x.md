@@ -1,1 +1,0 @@
-{"tmdb_id": 340066, "title": "Red Bull Project X", "original_title": "Red Bull Project X", "slug_title": "red-bull-project-x", "date": "2012-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

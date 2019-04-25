@@ -1,1 +1,0 @@
-{"tmdb_id": 345074, "title": "Afraid to Love", "original_title": "Un Altro Giorno Ancora", "slug_title": "afraid-to-love", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

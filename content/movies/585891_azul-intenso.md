@@ -1,1 +1,0 @@
-{"tmdb_id": 585891, "title": "Azul intenso", "original_title": "Azul intenso", "slug_title": "azul-intenso", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

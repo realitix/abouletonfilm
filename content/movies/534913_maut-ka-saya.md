@@ -1,1 +1,0 @@
-{"tmdb_id": 534913, "title": "Maut Ka Saya", "original_title": "Maut Ka Saya", "slug_title": "maut-ka-saya", "date": "1982-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Geeta Behl ()", "Anil Dhawan ()", "Vijayendra Ghatge ()"], "comments": [], "recommandations_id": []}

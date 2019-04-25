@@ -1,1 +1,0 @@
-{"tmdb_id": 592367, "title": "Deochiul", "original_title": "Deochiul", "slug_title": "deochiul", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nTy1J8GniGVuBHDqdN8vOMM5jdL.jpg", "actors": [], "comments": [], "recommandations_id": []}

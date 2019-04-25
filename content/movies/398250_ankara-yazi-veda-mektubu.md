@@ -1,1 +1,0 @@
-{"tmdb_id": 398250, "title": "Ankara Yaz\u0131 : Veda Mektubu", "original_title": "Ankara Yaz\u0131 : Veda Mektubu", "slug_title": "ankara-yazi-veda-mektubu", "date": "2016-05-06", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kOjQbumAPjgigk8gLq3b6GtThWs.jpg", "actors": [], "comments": [], "recommandations_id": []}

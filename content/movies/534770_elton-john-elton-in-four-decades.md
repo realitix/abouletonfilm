@@ -1,1 +1,0 @@
-{"tmdb_id": 534770, "title": "Elton John - Elton in Four Decades", "original_title": "Elton John - Elton in Four Decades", "slug_title": "elton-john-elton-in-four-decades", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

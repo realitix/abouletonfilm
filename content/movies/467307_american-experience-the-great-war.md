@@ -1,1 +1,0 @@
-{"tmdb_id": 467307, "title": "American Experience: The Great War", "original_title": "American Experience: The Great War", "slug_title": "american-experience-the-great-war", "date": "2017-05-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

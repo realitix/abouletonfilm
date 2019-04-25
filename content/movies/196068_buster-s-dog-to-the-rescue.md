@@ -1,1 +1,0 @@
-{"tmdb_id": 196068, "title": "Buster's Dog to the Rescue", "original_title": "Buster's Dog to the Rescue", "slug_title": "buster-s-dog-to-the-rescue", "date": "1904-03-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

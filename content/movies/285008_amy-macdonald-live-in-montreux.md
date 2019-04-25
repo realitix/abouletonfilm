@@ -1,1 +1,0 @@
-{"tmdb_id": 285008, "title": "Amy Macdonald: Live in Montreux", "original_title": "Amy Macdonald: Live in Montreux", "slug_title": "amy-macdonald-live-in-montreux", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oUDFObJugrFu4k6ZnfItghlRtd6.jpg", "actors": [], "comments": [], "recommandations_id": []}

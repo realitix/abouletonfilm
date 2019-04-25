@@ -1,1 +1,0 @@
-{"tmdb_id": 389106, "title": "Dying Fetus: [2015] Hellfest", "original_title": "Dying Fetus: [2015] Hellfest", "slug_title": "dying-fetus-2015-hellfest", "date": "2015-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kMHj28zPzBy9NL0jpN6OPCt1lIF.jpg", "actors": [], "comments": [], "recommandations_id": []}

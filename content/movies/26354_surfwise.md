@@ -1,1 +1,0 @@
-{"tmdb_id": 26354, "title": "Surfwise", "original_title": "Surfwise", "slug_title": "surfwise", "date": "2007-01-01", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3oSnMMLorkctvXUOloNxHkSezaB.jpg", "actors": [], "comments": [], "recommandations_id": [285869, 85589, 297421, 297859]}

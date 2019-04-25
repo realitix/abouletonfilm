@@ -1,1 +1,0 @@
-{"tmdb_id": 458975, "title": "G.E.M.: G-Force", "original_title": "G.E.M.: G-Force", "slug_title": "g-e-m-g-force", "date": "2017-05-26", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6m8W5JQ6MYQUGeVs6ZwBnL0SDA1.jpg", "actors": ["G.E.M. (Herself)"], "comments": [], "recommandations_id": []}

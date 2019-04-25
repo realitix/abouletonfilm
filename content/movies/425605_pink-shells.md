@@ -1,1 +1,0 @@
-{"tmdb_id": 425605, "title": "Pink Shells", "original_title": "Pink Shells", "slug_title": "pink-shells", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

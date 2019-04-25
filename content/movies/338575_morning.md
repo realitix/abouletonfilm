@@ -1,1 +1,0 @@
-{"tmdb_id": 338575, "title": "Morning", "original_title": "Morning", "slug_title": "morning", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 558845, "title": "A Primeira Vez do Cinema Brasileiro", "original_title": "A Primeira Vez do Cinema Brasileiro", "slug_title": "a-primeira-vez-do-cinema-brasileiro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

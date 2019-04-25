@@ -1,1 +1,0 @@
-{"tmdb_id": 165470, "title": "Mild Cargo", "original_title": "Mild Cargo", "slug_title": "mild-cargo", "date": "1934-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

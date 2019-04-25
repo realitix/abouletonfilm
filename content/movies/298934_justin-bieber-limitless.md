@@ -1,1 +1,0 @@
-{"tmdb_id": 298934, "title": "Justin Bieber: Limitless", "original_title": "Justin Bieber: Limitless", "slug_title": "justin-bieber-limitless", "date": "2014-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

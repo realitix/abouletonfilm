@@ -1,1 +1,0 @@
-{"tmdb_id": 400595, "title": "Sweet Bitterness", "original_title": "Doce Amargo", "slug_title": "sweet-bitterness", "date": "1968-06-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Uyy7AINwgvud6AvjOL9fwzjCZw.jpg", "actors": [], "comments": [], "recommandations_id": []}

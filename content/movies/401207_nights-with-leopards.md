@@ -1,1 +1,0 @@
-{"tmdb_id": 401207, "title": "Nights With Leopards", "original_title": "Nights With Leopards", "slug_title": "nights-with-leopards", "date": "2002-06-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

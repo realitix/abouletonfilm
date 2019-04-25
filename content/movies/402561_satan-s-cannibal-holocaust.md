@@ -1,1 +1,0 @@
-{"tmdb_id": 402561, "title": "Satan's Cannibal Holocaust", "original_title": "Satan's Cannibal Holocaust", "slug_title": "satan-s-cannibal-holocaust", "date": "2007-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j3JlzYjb3YxAvSOUDUFZMDaW1Cc.jpg", "actors": [], "comments": [], "recommandations_id": []}

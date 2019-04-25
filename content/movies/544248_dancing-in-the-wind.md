@@ -1,1 +1,0 @@
-{"tmdb_id": 544248, "title": "Dancing in the Wind", "original_title": "\u7ea2\u6bdb\u7687\u5e1d", "slug_title": "dancing-in-the-wind", "date": "2018-07-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vHiSjJWXmlhIeQbzbp6QyXNJ4rn.jpg", "actors": [], "comments": [], "recommandations_id": []}

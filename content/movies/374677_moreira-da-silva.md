@@ -1,1 +1,0 @@
-{"tmdb_id": 374677, "title": "Moreira da Silva", "original_title": "Moreira da Silva", "slug_title": "moreira-da-silva", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ubCrYvy1uGA9nQh2T3rBY09kEi3.jpg", "actors": ["Moreira da Silva ()"], "comments": [], "recommandations_id": []}

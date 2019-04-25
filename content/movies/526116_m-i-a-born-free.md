@@ -1,1 +1,0 @@
-{"tmdb_id": 526116, "title": "M.I.A.: Born Free", "original_title": "M.I.A.: Born Free", "slug_title": "m-i-a-born-free", "date": "", "genre": "Musique / Crime / Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5DmGyb2QdpVuSgBCq0KhjZ0Tj61.jpg", "actors": [], "comments": [], "recommandations_id": []}

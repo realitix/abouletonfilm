@@ -1,1 +1,0 @@
-{"tmdb_id": 354354, "title": "The Five-Inch Bather", "original_title": "The Five-Inch Bather", "slug_title": "the-five-inch-bather", "date": "1942-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Massingham (The Bather)"], "comments": [], "recommandations_id": []}

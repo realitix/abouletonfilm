@@ -1,1 +1,0 @@
-{"tmdb_id": 337369, "title": "Chvrches : Live ZDF at Bauhaus", "original_title": "Chvrches : Live ZDF at Bauhaus", "slug_title": "chvrches-live-zdf-at-bauhaus", "date": "2013-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3nBOAUAB9XsQVxPnKpr3F6966pa.jpg", "actors": [], "comments": [], "recommandations_id": []}

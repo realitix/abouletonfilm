@@ -1,1 +1,0 @@
-{"tmdb_id": 485300, "title": "Qu\u00e9b\u00e9koisie", "original_title": "Qu\u00e9b\u00e9koisie", "slug_title": "quebekoisie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bpGV42oogfKGJGkbJQg6XHfwfNe.jpg", "actors": [], "comments": [], "recommandations_id": []}

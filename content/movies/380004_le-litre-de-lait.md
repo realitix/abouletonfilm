@@ -1,1 +1,0 @@
-{"tmdb_id": 380004, "title": "Le litre de lait", "original_title": "Le litre de lait", "slug_title": "le-litre-de-lait", "date": "2006-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

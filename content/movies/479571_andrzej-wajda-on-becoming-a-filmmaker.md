@@ -1,1 +1,0 @@
-{"tmdb_id": 479571, "title": "Andrzej Wajda: On Becoming a Filmmaker", "original_title": "Andrzej Wajda: On Becoming a Filmmaker", "slug_title": "andrzej-wajda-on-becoming-a-filmmaker", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

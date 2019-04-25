@@ -1,1 +1,0 @@
-{"tmdb_id": 524814, "title": "Natrium", "original_title": "Natrium", "slug_title": "natrium", "date": "2016-01-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

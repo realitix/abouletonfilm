@@ -1,1 +1,0 @@
-{"tmdb_id": 475462, "title": "Yo La Tengo at Sasquatch", "original_title": "Yo La Tengo at Sasquatch", "slug_title": "yo-la-tengo-at-sasquatch", "date": "2016-05-29", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3wS4p8TSH5MdBo0bbXVGWqLWV3p.jpg", "actors": [], "comments": [], "recommandations_id": []}

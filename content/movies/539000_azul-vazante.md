@@ -1,1 +1,0 @@
-{"tmdb_id": 539000, "title": "Azul Vazante", "original_title": "Azul Vazante", "slug_title": "azul-vazante", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k6Il2AEN9tGYGgmBK6mcJNegQUn.jpg", "actors": [], "comments": [], "recommandations_id": []}

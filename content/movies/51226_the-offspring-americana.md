@@ -1,1 +1,0 @@
-{"tmdb_id": 51226, "title": "The Offspring: Americana", "original_title": "The Offspring: Americana", "slug_title": "the-offspring-americana", "date": "1998-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hjBkcKrwMNRCkjIYw1cAF7GXWit.jpg", "actors": [], "comments": [], "recommandations_id": []}

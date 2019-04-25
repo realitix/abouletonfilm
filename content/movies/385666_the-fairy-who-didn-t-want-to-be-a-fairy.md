@@ -1,1 +1,0 @@
-{"tmdb_id": 385666, "title": "The Fairy Who Didn't Want to Be a Fairy", "original_title": "The Fairy Who Didn't Want to Be a Fairy", "slug_title": "the-fairy-who-didn-t-want-to-be-a-fairy", "date": "1992-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniel MacIvor (The Fairy)"], "comments": [], "recommandations_id": []}

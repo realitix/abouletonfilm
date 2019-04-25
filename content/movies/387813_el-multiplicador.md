@@ -1,1 +1,0 @@
-{"tmdb_id": 387813, "title": "El multiplicador", "original_title": "El multiplicador", "slug_title": "el-multiplicador", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

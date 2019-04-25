@@ -1,1 +1,0 @@
-{"tmdb_id": 577662, "title": "Kim Kerley: Do You Know Her?", "original_title": "Kim Kerley: Do You Know Her?", "slug_title": "kim-kerley-do-you-know-her", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dSDBAQNLWAq6LBIsKFeSq8RkoAC.jpg", "actors": [], "comments": [], "recommandations_id": []}

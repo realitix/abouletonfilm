@@ -1,1 +1,0 @@
-{"tmdb_id": 280454, "title": "Gas Monopoly", "original_title": "Gas Monopoly", "slug_title": "gas-monopoly", "date": "2011-11-20", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Martin Leidenfrost (himself)"], "comments": [], "recommandations_id": []}

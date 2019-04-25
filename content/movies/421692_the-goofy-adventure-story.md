@@ -1,1 +1,0 @@
-{"tmdb_id": 421692, "title": "The Goofy Adventure Story", "original_title": "The Goofy Adventure Story", "slug_title": "the-goofy-adventure-story", "date": "1957-03-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wIlQnBMXy6HOCc6oaEJoZAn9qA5.jpg", "actors": [], "comments": [], "recommandations_id": []}

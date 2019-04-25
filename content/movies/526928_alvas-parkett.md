@@ -1,1 +1,0 @@
-{"tmdb_id": 526928, "title": "Alvas parkett", "original_title": "Alvas parkett", "slug_title": "alvas-parkett", "date": "2006-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8E4ySpH6W5FUUrY5kHmWpR3NY65.jpg", "actors": ["Sanne Lindgren (Alva)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 160370, "title": "Bola Negra - El musical de Ciudad Ju\u00e1rez", "original_title": "Bola Negra - El musical de Ciudad Ju\u00e1rez", "slug_title": "bola-negra-el-musical-de-ciudad-juarez", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

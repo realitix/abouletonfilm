@@ -1,1 +1,0 @@
-{"tmdb_id": 413858, "title": "The Voice Inside", "original_title": "The Voice Inside", "slug_title": "the-voice-inside", "date": "2016-04-27", "genre": "Thriller / Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brianna Hildebrand (Grace)", "Eric Michael Cole (Zane)"], "comments": [], "recommandations_id": []}

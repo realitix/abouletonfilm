@@ -1,1 +1,0 @@
-{"tmdb_id": 235863, "title": "Drinks on the Mouse", "original_title": "Drinks on the Mouse", "slug_title": "drinks-on-the-mouse", "date": "1953-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

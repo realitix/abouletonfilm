@@ -1,1 +1,0 @@
-{"tmdb_id": 553294, "title": "Entre o Ver\u00e3o e o Outono", "original_title": "Entre o Ver\u00e3o e o Outono", "slug_title": "entre-o-verao-e-o-outono", "date": "2017-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2PUoCvnBu1uQQpKtRRuuXTStqSh.jpg", "actors": [], "comments": [], "recommandations_id": []}

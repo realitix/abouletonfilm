@@ -1,1 +1,0 @@
-{"tmdb_id": 189777, "title": "Faith Lessons on the promised LAND, Vol. 1", "original_title": "Faith Lessons on the promised LAND, Vol. 1", "slug_title": "faith-lessons-on-the-promised-land-vol-1", "date": "1998-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

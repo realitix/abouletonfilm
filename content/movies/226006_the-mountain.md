@@ -1,1 +1,0 @@
-{"tmdb_id": 226006, "title": "The Mountain", "original_title": "The Mountain", "slug_title": "the-mountain", "date": "2011-09-13", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f1yVnxkLSZj7AoIyEx6OrFI116D.jpg", "actors": ["Fadi Abi Samra ()"], "comments": [], "recommandations_id": []}

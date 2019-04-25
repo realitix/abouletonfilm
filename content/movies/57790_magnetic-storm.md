@@ -1,1 +1,0 @@
-{"tmdb_id": 57790, "title": "Magnetic Storm", "original_title": "Magnetic Storm", "slug_title": "magnetic-storm", "date": "2003-10-27", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Agztjq7cPm8lLeshKFbXPC1GaCO.jpg", "actors": [], "comments": [], "recommandations_id": []}

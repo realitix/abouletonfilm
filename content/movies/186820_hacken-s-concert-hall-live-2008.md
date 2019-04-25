@@ -1,1 +1,0 @@
-{"tmdb_id": 186820, "title": "Hacken's Concert Hall Live 2008", "original_title": "Hacken's Concert Hall Live 2008", "slug_title": "hacken-s-concert-hall-live-2008", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

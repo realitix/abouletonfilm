@@ -1,1 +1,0 @@
-{"tmdb_id": 140933, "title": "Work It Out", "original_title": "Work It Out", "slug_title": "work-it-out", "date": "2010-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

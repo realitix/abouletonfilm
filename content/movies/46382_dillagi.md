@@ -1,1 +1,0 @@
-{"tmdb_id": 46382, "title": "Dillagi", "original_title": "Dillagi", "slug_title": "dillagi", "date": "1978-01-01", "genre": "Drame / Romance", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/olRPyarXQjeLtRezl5l7DAKJjGB.jpg", "actors": ["Dharmendra ()", "Hema Malini ()"], "comments": [], "recommandations_id": []}

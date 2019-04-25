@@ -1,1 +1,0 @@
-{"tmdb_id": 235974, "title": "Destination Meat Ball", "original_title": "Destination Meat Ball", "slug_title": "destination-meat-ball", "date": "1951-12-23", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/diXavUVrhCk3DC0Vn1fx3NHfPka.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 419346, "title": "Three Fitted Flies", "original_title": "Tres moscas a medida", "slug_title": "three-fitted-flies", "date": "2015-10-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8EQYAPX5jpmnzQe8GtefBd4qSVM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 511515, "title": "John and Michael", "original_title": "John and Michael", "slug_title": "john-and-michael", "date": "2004-01-01", "genre": "Animation / Romance / Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brian Davis (Narrator)"], "comments": [], "recommandations_id": []}

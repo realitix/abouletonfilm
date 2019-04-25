@@ -1,1 +1,0 @@
-{"tmdb_id": 78753, "title": "Chinna Jamin", "original_title": "Chinna Jamin", "slug_title": "chinna-jamin", "date": "1993-08-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karthik Muthuraman ()", "Sukanya ()", "Vinita ()", "Goundamani ()", "Senthil ()", "Ganthimathi ()"], "comments": [], "recommandations_id": []}

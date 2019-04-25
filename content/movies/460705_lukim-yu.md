@@ -1,1 +1,0 @@
-{"tmdb_id": 460705, "title": "Lukim Yu", "original_title": "Lukim Yu", "slug_title": "lukim-yu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

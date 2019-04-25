@@ -1,1 +1,0 @@
-{"tmdb_id": 389252, "title": "Ghost: [2015] Stockholm, Sweden", "original_title": "Ghost: [2015] Stockholm, Sweden", "slug_title": "ghost-2015-stockholm-sweden", "date": "2015-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/izklh0akWACJLtNU3YotLCkMZyl.jpg", "actors": [], "comments": [], "recommandations_id": []}

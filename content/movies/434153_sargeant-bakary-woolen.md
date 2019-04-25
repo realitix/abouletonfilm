@@ -1,1 +1,0 @@
-{"tmdb_id": 434153, "title": "Sargeant Bakary Woolen", "original_title": "Le sergent Bakary Woolen", "slug_title": "sargeant-bakary-woolen", "date": "1966-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Moussa Diakit\u00e9 (Bakary Woolen)"], "comments": [], "recommandations_id": []}

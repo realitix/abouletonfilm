@@ -1,1 +1,0 @@
-{"tmdb_id": 336991, "title": "Lost Tales From Camp Blood", "original_title": "Lost Tales From Camp Blood", "slug_title": "lost-tales-from-camp-blood", "date": "2009-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nFHqoXGfaaJISsCh0ZKSj05EgTz.jpg", "actors": [], "comments": [], "recommandations_id": []}

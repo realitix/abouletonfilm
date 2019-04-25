@@ -1,1 +1,0 @@
-{"tmdb_id": 209037, "title": "Automania", "original_title": "Automania", "slug_title": "automania", "date": "1943-01-01", "genre": "Animation / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/slzVwwXG95AX5InkdH60yRC7kc0.jpg", "actors": [], "comments": [], "recommandations_id": []}

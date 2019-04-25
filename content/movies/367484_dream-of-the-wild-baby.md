@@ -1,1 +1,0 @@
-{"tmdb_id": 367484, "title": "Dream of the Wild Baby", "original_title": "Dream of the Wild Baby", "slug_title": "dream-of-the-wild-baby", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

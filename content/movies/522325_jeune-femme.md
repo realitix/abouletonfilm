@@ -1,1 +1,0 @@
-{"tmdb_id": 522325, "title": "Jeune Femme", "original_title": "Jeune Femme", "slug_title": "jeune-femme", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

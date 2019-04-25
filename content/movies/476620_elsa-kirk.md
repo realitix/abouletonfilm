@@ -1,1 +1,0 @@
-{"tmdb_id": 476620, "title": "Elsa Kirk", "original_title": "Elsa Kirk", "slug_title": "elsa-kirk", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

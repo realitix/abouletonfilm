@@ -1,1 +1,0 @@
-{"tmdb_id": 280103, "title": "Imperfect Three-Image Films", "original_title": "Imperfect Three-Image Films", "slug_title": "imperfect-three-image-films", "date": "1995-07-03", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yqSWcZSpaxMtF7azXO9swEuqlBv.jpg", "actors": [], "comments": [], "recommandations_id": []}

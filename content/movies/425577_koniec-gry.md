@@ -1,1 +1,0 @@
-{"tmdb_id": 425577, "title": "Koniec gry", "original_title": "Koniec gry", "slug_title": "koniec-gry", "date": "1992-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lemnfiHy0x2hOnSCe7ezkbRlxQk.jpg", "actors": ["Anna Romantowska ()", "January Brunov ()"], "comments": [], "recommandations_id": []}

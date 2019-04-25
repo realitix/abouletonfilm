@@ -1,1 +1,0 @@
-{"tmdb_id": 416570, "title": "Soweto, Times of Wrath", "original_title": "Soweto, Times of Wrath", "slug_title": "soweto-times-of-wrath", "date": "2016-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xnEascqgavQktw5mUr3yWjODzrQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

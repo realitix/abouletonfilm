@@ -1,1 +1,0 @@
-{"tmdb_id": 590975, "title": "School of Seduction - Three Stories From Russia", "original_title": "School of Seduction - Three Stories From Russia", "slug_title": "school-of-seduction-three-stories-from-russia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

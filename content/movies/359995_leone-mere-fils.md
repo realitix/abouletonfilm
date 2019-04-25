@@ -1,1 +1,0 @@
-{"tmdb_id": 359995, "title": "L\u00e9one, m\u00e8re & fils", "original_title": "L\u00e9one, m\u00e8re & fils", "slug_title": "leone-mere-fils", "date": "2015-09-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/op3DwfIRDMZnvAw0IOFz1cCyhK4.jpg", "actors": [], "comments": [], "recommandations_id": []}

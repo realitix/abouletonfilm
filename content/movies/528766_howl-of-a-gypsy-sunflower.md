@@ -1,1 +1,0 @@
-{"tmdb_id": 528766, "title": "Howl of a Gypsy Sunflower", "original_title": "Howl of a Gypsy Sunflower", "slug_title": "howl-of-a-gypsy-sunflower", "date": "2018-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qPzqJHyz9d8KQWznRDuaUu4Yi72.jpg", "actors": [], "comments": [], "recommandations_id": []}

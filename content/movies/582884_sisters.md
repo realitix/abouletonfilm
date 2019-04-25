@@ -1,1 +1,0 @@
-{"tmdb_id": 582884, "title": "Sisters", "original_title": "Soeurs", "slug_title": "sisters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Isabelle Adjani ()", "Ma\u00efwenn ()", "Rachida Brakni ()"], "comments": [], "recommandations_id": []}

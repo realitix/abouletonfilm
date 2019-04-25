@@ -1,1 +1,0 @@
-{"tmdb_id": 526625, "title": "American Folklore", "original_title": "American Folklore", "slug_title": "american-folklore", "date": "2018-04-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ehkzoLWjQamKiRHCVITHr3MjOiO.jpg", "actors": ["Brett Robinson (The HERO)"], "comments": [], "recommandations_id": []}

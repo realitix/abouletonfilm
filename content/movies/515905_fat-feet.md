@@ -1,1 +1,0 @@
-{"tmdb_id": 515905, "title": "Fat Feet", "original_title": "Fat Feet", "slug_title": "fat-feet", "date": "1966-04-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2GZ36DilGoFsThuZqBTZoJnBMHO.jpg", "actors": [], "comments": [], "recommandations_id": []}

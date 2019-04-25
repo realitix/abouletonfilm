@@ -1,1 +1,0 @@
-{"tmdb_id": 527446, "title": "Jinzu hitozuma no yuwaku", "original_title": "Jinzu hitozuma no yuwaku", "slug_title": "jinzu-hitozuma-no-yuwaku", "date": "2016-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Takemi Suzuki ()", "Mayu Tanaka ()"], "comments": [], "recommandations_id": []}

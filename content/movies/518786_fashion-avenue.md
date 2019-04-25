@@ -1,1 +1,0 @@
-{"tmdb_id": 518786, "title": "Fashion Avenue", "original_title": "Fashion Avenue", "slug_title": "fashion-avenue", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gZTyxND7qutNxyvau68Iq3hz1Wo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 547798, "title": "Duplicity", "original_title": "Duplicity", "slug_title": "duplicity", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

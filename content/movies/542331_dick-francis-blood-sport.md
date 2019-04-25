@@ -1,1 +1,0 @@
-{"tmdb_id": 542331, "title": "Dick Francis: Blood Sport", "original_title": "Dick Francis: Blood Sport", "slug_title": "dick-francis-blood-sport", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

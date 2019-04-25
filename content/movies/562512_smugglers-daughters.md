@@ -1,1 +1,0 @@
-{"tmdb_id": 562512, "title": "Smugglers' Daughters", "original_title": "Filles de fraudeurs", "slug_title": "smugglers-daughters", "date": "1963-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eqzsAAKIoG0bAcEHrUiopH4YNyD.jpg", "actors": [], "comments": [], "recommandations_id": []}

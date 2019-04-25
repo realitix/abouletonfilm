@@ -1,1 +1,0 @@
-{"tmdb_id": 362338, "title": "Hook N Shoot Revolution 4", "original_title": "Hook N Shoot Revolution 4", "slug_title": "hook-n-shoot-revolution-4", "date": "2008-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e1ozEJZeCgDtpFsRisFtFzr5BTw.jpg", "actors": [], "comments": [], "recommandations_id": []}

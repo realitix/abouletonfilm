@@ -1,1 +1,0 @@
-{"tmdb_id": 496887, "title": "Anime Drawing the Revolution", "original_title": "Anime Drawing the Revolution", "slug_title": "anime-drawing-the-revolution", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uwVyKioCCwaoluKDjH0K13dSkAA.jpg", "actors": [], "comments": [], "recommandations_id": []}

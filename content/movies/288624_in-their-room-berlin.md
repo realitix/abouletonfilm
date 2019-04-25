@@ -1,1 +1,0 @@
-{"tmdb_id": 288624, "title": "In Their Room: Berlin", "original_title": "In Their Room: Berlin", "slug_title": "in-their-room-berlin", "date": "2011-08-25", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5AmbAwAWi8kPqTexLcyJafd2lXe.jpg", "actors": [], "comments": [], "recommandations_id": []}

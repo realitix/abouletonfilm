@@ -1,1 +1,0 @@
-{"tmdb_id": 484943, "title": "The Peppery Salt", "original_title": "The Peppery Salt", "slug_title": "the-peppery-salt", "date": "1936-05-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy Clyde aka Captain Andy)"], "comments": [], "recommandations_id": []}

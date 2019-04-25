@@ -1,1 +1,0 @@
-{"tmdb_id": 566516, "title": "Si ma gueule vous pla\u00eet...", "original_title": "Si ma gueule vous pla\u00eet...", "slug_title": "si-ma-gueule-vous-plait", "date": "1981-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6KNbdOPwStDe4iK1Z3MxHIgfJbR.jpg", "actors": [], "comments": [], "recommandations_id": []}

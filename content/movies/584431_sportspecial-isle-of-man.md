@@ -1,1 +1,0 @@
-{"tmdb_id": 584431, "title": "Sportspecial: Isle of man", "original_title": "Sportspecial: Isle of man", "slug_title": "sportspecial-isle-of-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

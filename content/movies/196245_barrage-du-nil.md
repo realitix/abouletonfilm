@@ -1,1 +1,0 @@
-{"tmdb_id": 196245, "title": "Barrage du Nil", "original_title": "Barrage du Nil", "slug_title": "barrage-du-nil", "date": "1897-01-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8mFU7NcALdmcwy3yQoIzqQVCedL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 376936, "title": "Amos 'n' Andy: Anatomy of a Controversy", "original_title": "Amos 'n' Andy: Anatomy of a Controversy", "slug_title": "amos-n-andy-anatomy-of-a-controversy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

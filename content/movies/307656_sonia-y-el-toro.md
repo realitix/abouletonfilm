@@ -1,1 +1,0 @@
-{"tmdb_id": 307656, "title": "Sonia y el toro", "original_title": "Sonia y el toro", "slug_title": "sonia-y-el-toro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

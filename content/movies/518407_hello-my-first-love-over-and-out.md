@@ -1,1 +1,0 @@
-{"tmdb_id": 518407, "title": "Hello my first love, over and out", "original_title": "Hello cinta pertamaku, c\u00e2mbio e desligo", "slug_title": "hello-my-first-love-over-and-out", "date": "2018-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Agnes Geneva ()", "Mauro Soares ()"], "comments": [], "recommandations_id": []}

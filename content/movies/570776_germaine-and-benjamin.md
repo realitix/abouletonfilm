@@ -1,1 +1,0 @@
-{"tmdb_id": 570776, "title": "Germaine and Benjamin", "original_title": "Du fond du coeur", "slug_title": "germaine-and-benjamin", "date": "1994-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h2w1la5K33Obe7zbsEXN4eA0ZQj.jpg", "actors": [], "comments": [], "recommandations_id": []}

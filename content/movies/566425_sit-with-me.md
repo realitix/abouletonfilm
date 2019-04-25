@@ -1,1 +1,0 @@
-{"tmdb_id": 566425, "title": "Sit With Me", "original_title": "Sit With Me", "slug_title": "sit-with-me", "date": "2013-09-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Beatrice Chien (Old Woman)", "Darrell Britt (Markus)"], "comments": [], "recommandations_id": []}

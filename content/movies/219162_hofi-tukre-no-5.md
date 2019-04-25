@@ -1,1 +1,0 @@
-{"tmdb_id": 219162, "title": "Hofi t\u00fckre No.5", "original_title": "Hofi t\u00fckre No.5", "slug_title": "hofi-tukre-no-5", "date": "2006-01-01", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dER6LvSSTNuvkONcSIl3Gmt6oao.jpg", "actors": [], "comments": [], "recommandations_id": []}

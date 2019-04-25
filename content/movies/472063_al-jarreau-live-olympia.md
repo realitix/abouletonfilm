@@ -1,1 +1,0 @@
-{"tmdb_id": 472063, "title": "Al Jarreau - Live Olympia", "original_title": "Al Jarreau - Live Olympia", "slug_title": "al-jarreau-live-olympia", "date": "2015-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5VKrtnxp0bqNPphh6L0XHAkkkFz.jpg", "actors": [], "comments": [], "recommandations_id": []}

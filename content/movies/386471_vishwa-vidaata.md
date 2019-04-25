@@ -1,1 +1,0 @@
-{"tmdb_id": 386471, "title": "Vishwa Vidaata", "original_title": "Vishwa Vidaata", "slug_title": "vishwa-vidaata", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

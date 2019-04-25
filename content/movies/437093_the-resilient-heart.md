@@ -1,1 +1,0 @@
-{"tmdb_id": 437093, "title": "The Resilient Heart", "original_title": "The Resilient Heart", "slug_title": "the-resilient-heart", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qdXDBh0b83J1nvvVVAcjaXEzlV9.jpg", "actors": [], "comments": [], "recommandations_id": []}

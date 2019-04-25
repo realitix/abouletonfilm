@@ -1,1 +1,0 @@
-{"tmdb_id": 485485, "title": "Running Antelope", "original_title": "Tsahilj Yavaa Gerees", "slug_title": "running-antelope", "date": "1993-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vVJhDrAnE9NdMA5UV5t2PhwKHOH.jpg", "actors": [], "comments": [], "recommandations_id": []}

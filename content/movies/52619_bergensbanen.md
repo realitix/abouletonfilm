@@ -1,1 +1,0 @@
-{"tmdb_id": 52619, "title": "Bergensbanen", "original_title": "Bergensbanen", "slug_title": "bergensbanen", "date": "2009-11-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sep2TyF1XUyVJLr3Qja7KHafFcf.jpg", "actors": [], "comments": [], "recommandations_id": []}

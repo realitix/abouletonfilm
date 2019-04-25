@@ -1,1 +1,0 @@
-{"tmdb_id": 344526, "title": "Storm of the Dead", "original_title": "Storm of the Dead", "slug_title": "storm-of-the-dead", "date": "2006-09-02", "genre": "Horreur", "score": "1.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hyiNOJz9CWLNAwcprzLpydgMqre.jpg", "actors": [], "comments": [], "recommandations_id": [58695]}

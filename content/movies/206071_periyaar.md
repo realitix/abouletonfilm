@@ -1,1 +1,0 @@
-{"tmdb_id": 206071, "title": "Periyaar", "original_title": "Periyaar", "slug_title": "periyaar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

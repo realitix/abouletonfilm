@@ -1,1 +1,0 @@
-{"tmdb_id": 563616, "title": "The Crime of David Levinstein", "original_title": "Le crime de David Levinstein", "slug_title": "the-crime-of-david-levinstein", "date": "1968-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hrn5sLWB8dR8MSJl3VsD2A8UyMp.jpg", "actors": [], "comments": [], "recommandations_id": []}

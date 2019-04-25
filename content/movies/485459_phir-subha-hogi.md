@@ -1,1 +1,0 @@
-{"tmdb_id": 485459, "title": "Phir Subha Hogi", "original_title": "Phir Subha Hogi", "slug_title": "phir-subha-hogi", "date": "1958-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Raj Kapoor (Ram)", "Mala Sinha (Sohni)", "Rehman ()", "Kamal Kapoor ()"], "comments": [], "recommandations_id": []}

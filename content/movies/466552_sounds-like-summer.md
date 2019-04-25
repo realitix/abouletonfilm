@@ -1,1 +1,0 @@
-{"tmdb_id": 466552, "title": "Sounds Like Summer", "original_title": "Sounds Like Summer", "slug_title": "sounds-like-summer", "date": "2015-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Erika Spring Forster ()"], "comments": [], "recommandations_id": []}

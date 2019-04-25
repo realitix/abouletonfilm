@@ -1,1 +1,0 @@
-{"tmdb_id": 428307, "title": "I Bought a Rain Forest", "original_title": "I Bought a Rain Forest", "slug_title": "i-bought-a-rain-forest", "date": "2010-01-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/UmksKAlD51DKiHvvwfcshqTyXz.jpg", "actors": [], "comments": [], "recommandations_id": []}

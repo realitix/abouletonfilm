@@ -1,1 +1,0 @@
-{"tmdb_id": 516048, "title": "Le pain quotidien", "original_title": "Le pain quotidien", "slug_title": "le-pain-quotidien", "date": "1910-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Henri Duval (-)"], "comments": [], "recommandations_id": []}

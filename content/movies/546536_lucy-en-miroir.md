@@ -1,1 +1,0 @@
-{"tmdb_id": 546536, "title": "Lucy en Miroir", "original_title": "Lucy en Miroir", "slug_title": "lucy-en-miroir", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4q4kdrmMNNX47fRQUEAQTRwOlfc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 183475, "title": "Cab Calloway's Hi-De-Ho", "original_title": "Cab Calloway's Hi-De-Ho", "slug_title": "cab-calloway-s-hi-de-ho", "date": "1934-08-23", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/WQuVvdKSMQ6eSTQ6JQ1H0fFx5k.jpg", "actors": ["Cab Calloway ()"], "comments": [], "recommandations_id": []}

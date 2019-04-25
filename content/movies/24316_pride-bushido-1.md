@@ -1,1 +1,0 @@
-{"tmdb_id": 24316, "title": "Pride Bushido 1", "original_title": "Pride Bushido 1", "slug_title": "pride-bushido-1", "date": "2003-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oR5meelBRzaCHxq22cUcUkBIHIl.jpg", "actors": [], "comments": [], "recommandations_id": []}

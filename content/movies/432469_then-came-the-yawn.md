@@ -1,1 +1,0 @@
-{"tmdb_id": 432469, "title": "Then Came the Yawn", "original_title": "Then Came the Yawn", "slug_title": "then-came-the-yawn", "date": "1934-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

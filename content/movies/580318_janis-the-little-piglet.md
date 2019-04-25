@@ -1,1 +1,0 @@
-{"tmdb_id": 580318, "title": "Janis, the little piglet", "original_title": "Janis, the little piglet", "slug_title": "janis-the-little-piglet", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nIt6M06S69m2oh7VOglr2nrdOU3.jpg", "actors": [], "comments": [], "recommandations_id": []}

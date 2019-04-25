@@ -1,1 +1,0 @@
-{"tmdb_id": 337832, "title": "Frozen River", "original_title": "Frozen River", "slug_title": "frozen-river", "date": "1929-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oqtUklkkETJC0z3M3Em00SxWJ8Y.jpg", "actors": ["Rin-Tin-Tin ()"], "comments": [], "recommandations_id": []}

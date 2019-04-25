@@ -1,1 +1,0 @@
-{"tmdb_id": 307323, "title": "Balya Sakhi", "original_title": "Balya Sakhi", "slug_title": "balya-sakhi", "date": "1954-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

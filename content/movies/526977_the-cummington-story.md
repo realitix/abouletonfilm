@@ -1,1 +1,0 @@
-{"tmdb_id": 526977, "title": "The Cummington Story", "original_title": "The Cummington Story", "slug_title": "the-cummington-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

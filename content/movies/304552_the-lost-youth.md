@@ -1,1 +1,0 @@
-{"tmdb_id": 304552, "title": "The Lost Youth", "original_title": "The Lost Youth", "slug_title": "the-lost-youth", "date": "2013-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

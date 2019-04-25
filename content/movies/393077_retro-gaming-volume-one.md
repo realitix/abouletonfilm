@@ -1,1 +1,0 @@
-{"tmdb_id": 393077, "title": "Retro Gaming Volume One", "original_title": "Retro Gaming Volume One", "slug_title": "retro-gaming-volume-one", "date": "2005-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fwb0mTGIio0L5ZiHHnm9fsRJHAM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 541604, "title": "Evolution", "original_title": "Evolution", "slug_title": "evolution", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

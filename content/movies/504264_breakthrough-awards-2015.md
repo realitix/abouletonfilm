@@ -1,1 +1,0 @@
-{"tmdb_id": 504264, "title": "Breakthrough awards 2015", "original_title": "Breakthrough awards 2015", "slug_title": "breakthrough-awards-2015", "date": "2015-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lTewUQW2nXXDIdCnjmLmXuma1i0.jpg", "actors": [], "comments": [], "recommandations_id": []}

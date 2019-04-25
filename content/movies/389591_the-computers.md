@@ -1,1 +1,0 @@
-{"tmdb_id": 389591, "title": "The Computers", "original_title": "The Computers", "slug_title": "the-computers", "date": "2014-05-24", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sxCo9bzqvqjLDBpPUfDgsNgnYTQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

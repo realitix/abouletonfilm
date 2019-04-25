@@ -1,1 +1,0 @@
-{"tmdb_id": 232855, "title": "The Walk", "original_title": "The Walk", "slug_title": "the-walk", "date": "2007-11-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bzftzNGZ68lwadxFKbZIvcIn9tj.jpg", "actors": [], "comments": [], "recommandations_id": []}

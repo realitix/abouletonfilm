@@ -1,1 +1,0 @@
-{"tmdb_id": 351264, "title": "School Birds", "original_title": "School Birds", "slug_title": "school-birds", "date": "1937-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

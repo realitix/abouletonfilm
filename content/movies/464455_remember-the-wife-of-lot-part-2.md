@@ -1,1 +1,0 @@
-{"tmdb_id": 464455, "title": "Remember the Wife of Lot - Part 2", "original_title": "Remember the Wife of Lot - Part 2", "slug_title": "remember-the-wife-of-lot-part-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xaybeVWS3D4pQhqbl56ZdtoUg60.jpg", "actors": [], "comments": [], "recommandations_id": []}

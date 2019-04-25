@@ -1,1 +1,0 @@
-{"tmdb_id": 137640, "title": "The Stitcher", "original_title": "The Stitcher", "slug_title": "the-stitcher", "date": "2007-10-16", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sjYzS8Bl8NsSRwTZ3OOJgHDglew.jpg", "actors": ["Heather Surdukan ()"], "comments": [], "recommandations_id": []}

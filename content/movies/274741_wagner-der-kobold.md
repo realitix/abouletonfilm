@@ -1,1 +1,0 @@
-{"tmdb_id": 274741, "title": "Wagner: Der Kobold", "original_title": "Wagner: Der Kobold", "slug_title": "wagner-der-kobold", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

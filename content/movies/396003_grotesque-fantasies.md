@@ -1,1 +1,0 @@
-{"tmdb_id": 396003, "title": "Grotesque Fantasies", "original_title": "Grotesque Fantasies", "slug_title": "grotesque-fantasies", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g5KuvJpFUl4IQ8LpD6dYY8YABr0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 347891, "title": "Applause Please", "original_title": "Applause Please", "slug_title": "applause-please", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

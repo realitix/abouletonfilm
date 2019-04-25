@@ -1,1 +1,0 @@
-{"tmdb_id": 290957, "title": "Aline Barros - Som de Adoradores", "original_title": "Aline Barros - Som de Adoradores", "slug_title": "aline-barros-som-de-adoradores", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t4o2IwW6bnHsjc9GkPucmGT0BEl.jpg", "actors": [], "comments": [], "recommandations_id": []}

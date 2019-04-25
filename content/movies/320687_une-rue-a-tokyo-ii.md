@@ -1,1 +1,0 @@
-{"tmdb_id": 320687, "title": "Une rue \u00e0 Tokyo, [II]", "original_title": "Une rue \u00e0 Tokyo, [II]", "slug_title": "une-rue-a-tokyo-ii", "date": "1898-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

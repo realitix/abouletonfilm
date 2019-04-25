@@ -1,1 +1,0 @@
-{"tmdb_id": 200311, "title": "Much Ado About Something", "original_title": "Much Ado About Something", "slug_title": "much-ado-about-something", "date": "2001-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Rubbo (Himself)", "Mark Rylance (Himself)"], "comments": [], "recommandations_id": []}

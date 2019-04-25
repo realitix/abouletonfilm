@@ -1,1 +1,0 @@
-{"tmdb_id": 520101, "title": "Hombre Negro Sin Identificar", "original_title": "Hombre Negro Sin Identificar", "slug_title": "hombre-negro-sin-identificar", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zDCHTcPmV074Vo42SVkUAUAboP9.jpg", "actors": [], "comments": [], "recommandations_id": []}

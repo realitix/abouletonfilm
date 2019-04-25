@@ -1,1 +1,0 @@
-{"tmdb_id": 157574, "title": "The Temple of Love", "original_title": "The Temple of Love", "slug_title": "the-temple-of-love", "date": "1932-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

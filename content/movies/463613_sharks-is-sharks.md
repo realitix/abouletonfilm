@@ -1,1 +1,0 @@
-{"tmdb_id": 463613, "title": "Sharks Is Sharks", "original_title": "Sharks Is Sharks", "slug_title": "sharks-is-sharks", "date": "1917-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

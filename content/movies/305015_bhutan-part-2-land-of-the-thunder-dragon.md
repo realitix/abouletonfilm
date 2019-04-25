@@ -1,1 +1,0 @@
-{"tmdb_id": 305015, "title": "Bhutan - Part 2 - Land of the Thunder Dragon", "original_title": "Bhutan - Part 2 - Land of the Thunder Dragon", "slug_title": "bhutan-part-2-land-of-the-thunder-dragon", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

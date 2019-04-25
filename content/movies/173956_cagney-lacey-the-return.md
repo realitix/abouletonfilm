@@ -1,1 +1,0 @@
-{"tmdb_id": 173956, "title": "Cagney & Lacey: The Return", "original_title": "Cagney & Lacey: The Return", "slug_title": "cagney-lacey-the-return", "date": "1994-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9dO9c7frVG7WJeT2iy6xkiaosGy.jpg", "actors": [], "comments": [], "recommandations_id": []}

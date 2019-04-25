@@ -1,1 +1,0 @@
-{"tmdb_id": 375326, "title": "Dog Scents", "original_title": "Dog Scents", "slug_title": "dog-scents", "date": "1926-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p2MRkcpNnrqBEhILfkNJU4Dk3QP.jpg", "actors": [], "comments": [], "recommandations_id": []}

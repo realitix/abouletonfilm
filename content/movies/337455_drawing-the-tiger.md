@@ -1,1 +1,0 @@
-{"tmdb_id": 337455, "title": "Drawing the Tiger", "original_title": "Drawing the Tiger", "slug_title": "drawing-the-tiger", "date": "2015-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rM4JGHb9t4rGi5ceeic5zJ0V5q8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 409055, "title": "Histoire de Wahari", "original_title": "Histoire de Wahari", "slug_title": "histoire-de-wahari", "date": "1975-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 546910, "title": "Waiting for Giro", "original_title": "Waiting for Giro", "slug_title": "waiting-for-giro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 429654, "title": "A Sense of the End", "original_title": "A Sense of the End", "slug_title": "a-sense-of-the-end", "date": "1996-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

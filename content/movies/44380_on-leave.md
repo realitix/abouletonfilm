@@ -1,1 +1,0 @@
-{"tmdb_id": 44380, "title": "On Leave", "original_title": "Regila", "slug_title": "on-leave", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

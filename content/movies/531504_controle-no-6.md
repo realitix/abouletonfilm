@@ -1,1 +1,0 @@
-{"tmdb_id": 531504, "title": "Controle No. 6", "original_title": "Controle No. 6", "slug_title": "controle-no-6", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u7ZalOO3nTCHjMd31w2u0vhiisQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

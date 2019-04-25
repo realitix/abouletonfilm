@@ -1,1 +1,0 @@
-{"tmdb_id": 517956, "title": "Perman\u00eancia", "original_title": "Perman\u00eancia", "slug_title": "permanencia", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3IV0PKxR1Mr8cOancazTEwbnGm4.jpg", "actors": [], "comments": [], "recommandations_id": []}

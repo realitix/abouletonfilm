@@ -1,1 +1,0 @@
-{"tmdb_id": 205919, "title": "Baby Doll", "original_title": "Baby Doll", "slug_title": "baby-doll", "date": "1982-01-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7r7owaO1TQc2lXNCXPYSqYUYwVn.jpg", "actors": [], "comments": [], "recommandations_id": []}

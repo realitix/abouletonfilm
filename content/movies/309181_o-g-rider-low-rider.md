@@ -1,1 +1,0 @@
-{"tmdb_id": 309181, "title": "O.G. Rider: Low Rider", "original_title": "O.G. Rider: Low Rider", "slug_title": "o-g-rider-low-rider", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

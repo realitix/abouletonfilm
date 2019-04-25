@@ -1,1 +1,0 @@
-{"tmdb_id": 326062, "title": "Ice Saints", "original_title": "Ice Saints", "slug_title": "ice-saints", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v25uiBVobzAC9cJhM36jfSh92yA.jpg", "actors": [], "comments": [], "recommandations_id": []}

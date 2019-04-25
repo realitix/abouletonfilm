@@ -1,1 +1,0 @@
-{"tmdb_id": 579278, "title": "L'or des Younga", "original_title": "L'or des Younga", "slug_title": "l-or-des-younga", "date": "2006-01-02", "genre": "Drame / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

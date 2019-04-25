@@ -1,1 +1,0 @@
-{"tmdb_id": 503003, "title": "New York: The City of Tomorrow", "original_title": "New York: The City of Tomorrow", "slug_title": "new-york-the-city-of-tomorrow", "date": "2001-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 510784, "title": "La Universidad vota en contra", "original_title": "La Universidad vota en contra", "slug_title": "la-universidad-vota-en-contra", "date": "1968-07-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

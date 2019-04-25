@@ -1,1 +1,0 @@
-{"tmdb_id": 399161, "title": "SpiritMatters", "original_title": "SpiritMatters", "slug_title": "spiritmatters", "date": "1984-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pqex2E9qsdRhQ9RgdHOLAqlfurq.jpg", "actors": [], "comments": [], "recommandations_id": []}

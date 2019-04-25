@@ -1,1 +1,0 @@
-{"tmdb_id": 270027, "title": "Dananir", "original_title": "Dananir", "slug_title": "dananir", "date": "1940-09-29", "genre": "Drame / Musique / Romance", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/167i7Ui074IFggJpUiPDZlxx1TS.jpg", "actors": ["Ummu Kulthum (Dananir)", "Suleiman Naguib ()"], "comments": [], "recommandations_id": []}

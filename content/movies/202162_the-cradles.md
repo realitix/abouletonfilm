@@ -1,1 +1,0 @@
-{"tmdb_id": 202162, "title": "The Cradles", "original_title": "Les berceaux", "slug_title": "the-cradles", "date": "1935-01-01", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qMx3HEJ8YiveyQw92SWXEPovuez.jpg", "actors": [], "comments": [], "recommandations_id": []}

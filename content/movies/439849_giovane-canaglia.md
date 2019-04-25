@@ -1,1 +1,0 @@
-{"tmdb_id": 439849, "title": "Giovane canaglia", "original_title": "Giovane canaglia", "slug_title": "giovane-canaglia", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

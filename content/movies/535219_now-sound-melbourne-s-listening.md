@@ -1,1 +1,0 @@
-{"tmdb_id": 535219, "title": "Now Sound: Melbourne's Listening", "original_title": "Now Sound: Melbourne's Listening", "slug_title": "now-sound-melbourne-s-listening", "date": "2018-08-10", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

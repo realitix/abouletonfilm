@@ -1,1 +1,0 @@
-{"tmdb_id": 166047, "title": "Orquesta Club Virginia", "original_title": "Orquesta Club Virginia", "slug_title": "orquesta-club-virginia", "date": "1992-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3b9SBXBCcePXJZmvLNRpuGGmiaB.jpg", "actors": [], "comments": [], "recommandations_id": []}

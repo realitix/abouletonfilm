@@ -1,1 +1,0 @@
-{"tmdb_id": 358599, "title": "Paw Patrol: Meet Everest", "original_title": "Paw Patrol: Meet Everest", "slug_title": "paw-patrol-meet-everest", "date": "2015-09-01", "genre": "Familial / Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zGrMoS9zFpW6n5tASV7QzpvknFT.jpg", "actors": [], "comments": [], "recommandations_id": []}

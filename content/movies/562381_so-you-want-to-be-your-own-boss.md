@@ -1,1 +1,0 @@
-{"tmdb_id": 562381, "title": "So You Want to Be Your Own Boss", "original_title": "So You Want to Be Your Own Boss", "slug_title": "so-you-want-to-be-your-own-boss", "date": "1954-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon ()"], "comments": [], "recommandations_id": []}

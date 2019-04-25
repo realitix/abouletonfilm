@@ -1,1 +1,0 @@
-{"tmdb_id": 347327, "title": "Strengt hemmelig", "original_title": "Strengt hemmelig", "slug_title": "strengt-hemmelig", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z8VVGYufW4UQAR7wqSVXBIdiNQx.jpg", "actors": ["Benedicte Orvung (Benedicte Orvung)"], "comments": [], "recommandations_id": []}

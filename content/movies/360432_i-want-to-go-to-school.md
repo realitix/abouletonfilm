@@ -1,1 +1,0 @@
-{"tmdb_id": 360432, "title": "I Want to Go to School", "original_title": "I Want to Go to School", "slug_title": "i-want-to-go-to-school", "date": "1959-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

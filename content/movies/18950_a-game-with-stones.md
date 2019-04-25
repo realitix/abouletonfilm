@@ -1,1 +1,0 @@
-{"tmdb_id": 18950, "title": "A Game with Stones", "original_title": "Spiel mit Steinen", "slug_title": "a-game-with-stones", "date": "1965-07-01", "genre": "Animation", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k7VCDPXTrCCe7RQFCfTxtKQYo3u.jpg", "actors": [], "comments": [], "recommandations_id": [18954, 18953, 18952, 19006]}

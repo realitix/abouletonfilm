@@ -1,1 +1,0 @@
-{"tmdb_id": 538118, "title": "Love Me, Fear Me", "original_title": "Love Me, Fear Me", "slug_title": "love-me-fear-me", "date": "2018-01-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qzE3013IDE7aKuLAedCIek4jQbw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 269446, "title": "Platanito Show", "original_title": "Platanito Show", "slug_title": "platanito-show", "date": "2015-08-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lyZzwrP82iAfiO5sxxXGFokmNYL.jpg", "actors": ["Sergio Verduzco (Platanito)"], "comments": [], "recommandations_id": []}

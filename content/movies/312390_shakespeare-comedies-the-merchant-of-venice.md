@@ -1,1 +1,0 @@
-{"tmdb_id": 312390, "title": "Shakespeare Comedies: The Merchant of Venice", "original_title": "Shakespeare Comedies: The Merchant of Venice", "slug_title": "shakespeare-comedies-the-merchant-of-venice", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

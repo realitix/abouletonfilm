@@ -1,1 +1,0 @@
-{"tmdb_id": 316377, "title": "Real American Heroes: Caught on Tape", "original_title": "Real American Heroes: Caught on Tape", "slug_title": "real-american-heroes-caught-on-tape", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

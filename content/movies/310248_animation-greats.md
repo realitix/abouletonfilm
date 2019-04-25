@@ -1,1 +1,0 @@
-{"tmdb_id": 310248, "title": "Animation Greats", "original_title": "Animation Greats", "slug_title": "animation-greats", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ap4c9IKfUGSOlWJEDze5YGQWoP2.jpg", "actors": [], "comments": [], "recommandations_id": []}

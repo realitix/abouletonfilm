@@ -1,1 +1,0 @@
-{"tmdb_id": 473543, "title": "Lunch Time Heroes", "original_title": "Lunch Time Heroes", "slug_title": "lunch-time-heroes", "date": "2015-09-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lqTHf8EfLSXwUIajENXsBylp78p.jpg", "actors": [], "comments": [], "recommandations_id": []}

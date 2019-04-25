@@ -1,1 +1,1 @@
-{"tmdb_id": 570276, "title": "Leap Year", "original_title": "Leap Year", "slug_title": "leap-year", "date": "1916-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 570276, "title": "Leap Year", "original_title": "Leap Year", "slug_title": "leap-year", "date": "1916-05-22", "genre": [""], "score": "0.0/10", "synopsis": "Animated Short", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

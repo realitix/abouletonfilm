@@ -1,1 +1,0 @@
-{"tmdb_id": 560626, "title": "The LaMastas", "original_title": "The LaMastas", "slug_title": "the-lamastas", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rosemary Gore (Reporter)", "Peter Killy (Guy)", "Fred Norris (Fred)", "Paul Schulze ()", "Lauren V\u00e9lez ()"], "comments": [], "recommandations_id": []}

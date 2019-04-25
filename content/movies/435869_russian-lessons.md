@@ -1,1 +1,0 @@
-{"tmdb_id": 435869, "title": "Russian Lessons", "original_title": "Russian Lessons", "slug_title": "russian-lessons", "date": "2010-07-24", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gI9XLX08ZbT5tDfgKIelIviS0Ko.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 511585, "title": "The Mountain of SGaana", "original_title": "The Mountain of SGaana", "slug_title": "the-mountain-of-sgaana", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nWiqG7ULtbunRNmmr3wgRzD6hjY.jpg", "actors": [], "comments": [], "recommandations_id": []}

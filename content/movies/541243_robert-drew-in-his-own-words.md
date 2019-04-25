@@ -1,1 +1,0 @@
-{"tmdb_id": 541243, "title": "Robert Drew in His Own Words", "original_title": "Robert Drew in His Own Words", "slug_title": "robert-drew-in-his-own-words", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

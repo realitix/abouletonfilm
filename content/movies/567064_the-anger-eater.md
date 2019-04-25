@@ -1,1 +1,0 @@
-{"tmdb_id": 567064, "title": "The Anger Eater", "original_title": "The Anger Eater", "slug_title": "the-anger-eater", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Macon Blair (Bill)", "Alexie Gilmore (Liz)", "Michael Clomegah (Intercom Voice)"], "comments": [], "recommandations_id": []}

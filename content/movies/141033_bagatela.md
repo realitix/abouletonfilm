@@ -1,1 +1,0 @@
-{"tmdb_id": 141033, "title": "Bagatela", "original_title": "Bagatela", "slug_title": "bagatela", "date": "2009-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jzZOgShhU8dwtcda2B2wGajCXmp.jpg", "actors": [], "comments": [], "recommandations_id": []}

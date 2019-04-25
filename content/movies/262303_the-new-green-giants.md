@@ -1,1 +1,0 @@
-{"tmdb_id": 262303, "title": "The New Green Giants", "original_title": "The New Green Giants", "slug_title": "the-new-green-giants", "date": "2012-03-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

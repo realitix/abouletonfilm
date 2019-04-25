@@ -1,1 +1,0 @@
-{"tmdb_id": 299027, "title": "Hellblazer", "original_title": "Hellblazer", "slug_title": "hellblazer", "date": "2013-11-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8cEagefibLV26sSteQuuVV1XuYV.jpg", "actors": ["Robbie Allen (John Constantine)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 254385, "title": "Czechoslovakia on Parade", "original_title": "Czechoslovakia on Parade", "slug_title": "czechoslovakia-on-parade", "date": "1938-06-11", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James A. FitzPatrick (Narrator (voice))"], "comments": [], "recommandations_id": []}

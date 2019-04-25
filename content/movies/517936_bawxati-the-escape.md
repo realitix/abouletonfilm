@@ -1,1 +1,0 @@
-{"tmdb_id": 517936, "title": "Bawxati - The Escape", "original_title": "Bawxati - L harba", "slug_title": "bawxati-the-escape", "date": "2009-04-13", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/16yLnKNx2JW8ADd0N2zAsVPwZo.jpg", "actors": [], "comments": [], "recommandations_id": []}

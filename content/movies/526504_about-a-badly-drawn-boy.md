@@ -1,1 +1,0 @@
-{"tmdb_id": 526504, "title": "About a Badly Drawn Boy", "original_title": "About a Badly Drawn Boy", "slug_title": "about-a-badly-drawn-boy", "date": "2018-05-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Badly Drawn Boy (Himself)"], "comments": [], "recommandations_id": []}

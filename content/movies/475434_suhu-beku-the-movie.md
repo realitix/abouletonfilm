@@ -1,1 +1,0 @@
-{"tmdb_id": 475434, "title": "Suhu Beku: The Movie", "original_title": "Suhu Beku: The Movie", "slug_title": "suhu-beku-the-movie", "date": "2017-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cZtuaF2HAEVbgihXeAuPExojkmy.jpg", "actors": [], "comments": [], "recommandations_id": []}

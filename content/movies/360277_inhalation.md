@@ -1,1 +1,0 @@
-{"tmdb_id": 360277, "title": "Inhalation", "original_title": "Inhalation", "slug_title": "inhalation", "date": "2010-09-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3HNUC6Cwk62cix61BxdvfU4dCGg.jpg", "actors": ["Susan Lee Fong Zhi (Mei)", "Shun Yuan Chong (Seng)"], "comments": [], "recommandations_id": []}

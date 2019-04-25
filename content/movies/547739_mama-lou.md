@@ -1,1 +1,0 @@
-{"tmdb_id": 547739, "title": "Mama Lou", "original_title": "Mama Lou", "slug_title": "mama-lou", "date": "1994-01-01", "genre": "Animation / Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d6bsCqESiSgSGXWuyVbi2fohOgh.jpg", "actors": [], "comments": [], "recommandations_id": []}

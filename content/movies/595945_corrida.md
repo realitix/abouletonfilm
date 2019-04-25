@@ -1,1 +1,0 @@
-{"tmdb_id": 595945, "title": "Corrida", "original_title": "Corrida", "slug_title": "corrida", "date": "2017-12-12", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wBxZK8Ng4BB6uclffv64vVBEJaD.jpg", "actors": ["Daniela Vaillant (Menina)"], "comments": [], "recommandations_id": []}

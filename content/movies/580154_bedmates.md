@@ -1,1 +1,0 @@
-{"tmdb_id": 580154, "title": "Bedmates", "original_title": "Kaniig", "slug_title": "bedmates", "date": "2013-01-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cBOP0XFw8otXONvpwsoSVjcnPPb.jpg", "actors": [], "comments": [], "recommandations_id": []}

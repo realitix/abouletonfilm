@@ -1,1 +1,0 @@
-{"tmdb_id": 274575, "title": "Johann Strauss: Aschenbrodel", "original_title": "Johann Strauss: Aschenbrodel", "slug_title": "johann-strauss-aschenbrodel", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

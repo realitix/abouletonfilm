@@ -1,1 +1,0 @@
-{"tmdb_id": 496290, "title": "Barkley", "original_title": "Barkley", "slug_title": "barkley", "date": "2017-12-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qgqM6ZjYiUn88jmNgedPYWs5sBZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

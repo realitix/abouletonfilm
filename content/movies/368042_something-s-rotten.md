@@ -1,1 +1,0 @@
-{"tmdb_id": 368042, "title": "Something's rotten", "original_title": "Something's rotten", "slug_title": "something-s-rotten", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

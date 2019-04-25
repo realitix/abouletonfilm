@@ -1,1 +1,0 @@
-{"tmdb_id": 386016, "title": "BUBONG! Roofs of the World, UNITE!", "original_title": "BUBONG! Roofs of the World, UNITE!", "slug_title": "bubong-roofs-of-the-world-unite", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

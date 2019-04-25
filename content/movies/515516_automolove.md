@@ -1,1 +1,0 @@
-{"tmdb_id": 515516, "title": "Automolove", "original_title": "Automolove", "slug_title": "automolove", "date": "1992-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

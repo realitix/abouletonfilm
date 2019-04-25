@@ -1,1 +1,0 @@
-{"tmdb_id": 499960, "title": "Richard II", "original_title": "Richard II", "slug_title": "richard-ii", "date": "", "genre": "Histoire / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556632, "title": "Deux balles au coeur", "original_title": "Deux balles au coeur", "slug_title": "deux-balles-au-coeur", "date": "1929-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 515102, "title": "Liar Girl", "original_title": "Valehtelija", "slug_title": "liar-girl", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/19DmwD1bzfnA0VVasg6dPs0A3zB.jpg", "actors": [], "comments": [], "recommandations_id": []}

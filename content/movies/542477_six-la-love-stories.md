@@ -1,1 +1,0 @@
-{"tmdb_id": 542477, "title": "Six LA Love Stories", "original_title": "Six LA Love Stories", "slug_title": "six-la-love-stories", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xBR4J1LxYc36hosg6UCVGpRR9dL.jpg", "actors": [], "comments": [], "recommandations_id": []}

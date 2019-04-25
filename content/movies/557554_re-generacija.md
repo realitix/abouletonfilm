@@ -1,1 +1,0 @@
-{"tmdb_id": 557554, "title": "RE:GENERACIJA", "original_title": "RE:GENERACIJA", "slug_title": "re-generacija", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

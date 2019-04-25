@@ -1,1 +1,0 @@
-{"tmdb_id": 269481, "title": "Let Them Wear Towels", "original_title": "Let Them Wear Towels", "slug_title": "let-them-wear-towels", "date": "2013-07-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AtINGptZRUxCB0xMBsvw6mQSwOp.jpg", "actors": [], "comments": [], "recommandations_id": []}

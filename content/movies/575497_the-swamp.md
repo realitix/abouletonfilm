@@ -1,1 +1,0 @@
-{"tmdb_id": 575497, "title": "The Swamp", "original_title": "The Swamp", "slug_title": "the-swamp", "date": "2019-01-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

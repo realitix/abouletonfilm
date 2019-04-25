@@ -1,1 +1,0 @@
-{"tmdb_id": 271560, "title": "Miracle in the Land of Coffee", "original_title": "Miracle in the Land of Coffee", "slug_title": "miracle-in-the-land-of-coffee", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

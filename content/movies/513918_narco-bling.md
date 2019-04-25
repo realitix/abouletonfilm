@@ -1,1 +1,0 @@
-{"tmdb_id": 513918, "title": "Narco Bling", "original_title": "Narco Bling", "slug_title": "narco-bling", "date": "2012-01-01", "genre": "Documentaire", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b2y1eGnjWuTCGocsnzwC3vapDdm.jpg", "actors": ["Mariana van Zeller (Self)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 335884, "title": "Diary from the Revolution", "original_title": "Diary from the Revolution", "slug_title": "diary-from-the-revolution", "date": "2011-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sYUFOF9NKc6yuc0SbAb3jk79EZ3.jpg", "actors": [], "comments": [], "recommandations_id": []}

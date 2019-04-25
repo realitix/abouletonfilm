@@ -1,1 +1,0 @@
-{"tmdb_id": 580239, "title": "The Little Country Mouse", "original_title": "The Little Country Mouse", "slug_title": "the-little-country-mouse", "date": "1914-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

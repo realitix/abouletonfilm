@@ -1,1 +1,0 @@
-{"tmdb_id": 507972, "title": "Van Gogh's Ear", "original_title": "Van Gogh's Ear", "slug_title": "van-gogh-s-ear", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c1vJsENqJELlUkRnpaEWguTVdPc.jpg", "actors": [], "comments": [], "recommandations_id": []}

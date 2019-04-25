@@ -1,1 +1,0 @@
-{"tmdb_id": 274288, "title": "Team Qatar", "original_title": "Team Qatar", "slug_title": "team-qatar", "date": "2009-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aSo1Q7zrOMLHCTI75kqUpCWhLH3.jpg", "actors": [], "comments": [], "recommandations_id": []}

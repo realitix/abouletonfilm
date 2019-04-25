@@ -1,1 +1,0 @@
-{"tmdb_id": 26779, "title": "Legacy", "original_title": "Legacy", "slug_title": "legacy", "date": "2000-01-01", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1W9LEd3TCPWZItVOnrcw4AIugV3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 551667, "title": "Djurdja", "original_title": "\u0110ur\u0111a", "slug_title": "djurdja", "date": "1978-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["\u0110ur\u0111ica Bjedov (Herself)"], "comments": [], "recommandations_id": []}

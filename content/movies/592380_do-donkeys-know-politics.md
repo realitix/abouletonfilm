@@ -1,1 +1,0 @@
-{"tmdb_id": 592380, "title": "Do Donkeys Know Politics", "original_title": "Do Donkeys Know Politics", "slug_title": "do-donkeys-know-politics", "date": "2017-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lQsWQaOrnqr6K5o2FAoOc0WTs1Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

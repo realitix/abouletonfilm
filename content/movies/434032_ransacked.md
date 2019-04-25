@@ -1,1 +1,0 @@
-{"tmdb_id": 434032, "title": "Ransacked", "original_title": "Ransacked", "slug_title": "ransacked", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

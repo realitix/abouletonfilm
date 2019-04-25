@@ -1,1 +1,0 @@
-{"tmdb_id": 520399, "title": "Confessions of a Mime", "original_title": "Confessions of a Mime", "slug_title": "confessions-of-a-mime", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mads Koudal (Mime)"], "comments": [], "recommandations_id": []}

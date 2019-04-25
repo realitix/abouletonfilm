@@ -1,1 +1,0 @@
-{"tmdb_id": 489558, "title": "The Rain Collector", "original_title": "The Rain Collector", "slug_title": "the-rain-collector", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y3zmFoPC2pg0aSQ1eS3LVXT57dA.jpg", "actors": [], "comments": [], "recommandations_id": []}

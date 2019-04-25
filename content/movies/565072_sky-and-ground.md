@@ -1,1 +1,0 @@
-{"tmdb_id": 565072, "title": "Sky and Ground", "original_title": "Sky and Ground", "slug_title": "sky-and-ground", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

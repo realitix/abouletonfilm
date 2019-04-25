@@ -1,1 +1,0 @@
-{"tmdb_id": 288847, "title": "Apuesta Mortal", "original_title": "Apuesta Mortal", "slug_title": "apuesta-mortal", "date": "1997-03-03", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ra\u00fal Araiza ()", "Juan Gallardo ()", "Roberta d'Nero ()"], "comments": [], "recommandations_id": []}

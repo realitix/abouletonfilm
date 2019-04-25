@@ -1,1 +1,0 @@
-{"tmdb_id": 30705, "title": "Ka e Vitsen?", "original_title": "Ka e Vitsen?", "slug_title": "ka-e-vitsen", "date": "2007-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dEfYAg1lOIdcYWly5dpamZZ1EUX.jpg", "actors": ["Dagfinn Lyngb\u00f8 (Dagfinn Lyngb\u00f8)"], "comments": [], "recommandations_id": []}

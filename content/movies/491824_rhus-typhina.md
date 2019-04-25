@@ -1,1 +1,0 @@
-{"tmdb_id": 491824, "title": "Rhus Typhina", "original_title": "Rhus Typhina", "slug_title": "rhus-typhina", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

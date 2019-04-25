@@ -1,1 +1,0 @@
-{"tmdb_id": 392202, "title": "Touch Cinema", "original_title": "Touch Cinema", "slug_title": "touch-cinema", "date": "1968-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v409AFA1GmW8p17DLUXO6vYuDLv.jpg", "actors": [], "comments": [], "recommandations_id": []}

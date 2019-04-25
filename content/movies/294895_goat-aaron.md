@@ -1,1 +1,0 @@
-{"tmdb_id": 294895, "title": "Goat & Aaron", "original_title": "Goat & Aaron", "slug_title": "goat-aaron", "date": "2011-01-01", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeremy Levy (Goat)", "Ambrose Martos (Aaron)"], "comments": [], "recommandations_id": []}

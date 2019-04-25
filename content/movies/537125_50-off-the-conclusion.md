@@ -1,1 +1,0 @@
-{"tmdb_id": 537125, "title": "50% off the Conclusion", "original_title": "50% off the Conclusion", "slug_title": "50-off-the-conclusion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qVSaBm6zlQ9LWUBLP2ysnNOC6Av.jpg", "actors": [], "comments": [], "recommandations_id": []}

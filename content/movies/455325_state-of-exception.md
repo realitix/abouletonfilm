@@ -1,1 +1,0 @@
-{"tmdb_id": 455325, "title": "State of Exception", "original_title": "State of Exception", "slug_title": "state-of-exception", "date": "2017-04-29", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gXHT562Ek2cIwQKAvYT6xYloVZO.jpg", "actors": [], "comments": [], "recommandations_id": []}

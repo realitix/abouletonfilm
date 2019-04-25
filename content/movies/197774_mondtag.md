@@ -1,1 +1,0 @@
-{"tmdb_id": 197774, "title": "Mondtag", "original_title": "Mondtag", "slug_title": "mondtag", "date": "1973-05-27", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

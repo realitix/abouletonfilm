@@ -1,1 +1,1 @@
-{"tmdb_id": 544140, "title": "Kalte Heimat", "original_title": "Kalte Heimat", "slug_title": "kalte-heimat", "date": "1979-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 544140, "title": "Kalte Heimat", "original_title": "Kalte Heimat", "slug_title": "kalte-heimat", "date": "1979-10-25", "genre": [""], "score": "0.0/10", "synopsis": "German film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

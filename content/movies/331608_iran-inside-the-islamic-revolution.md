@@ -1,1 +1,0 @@
-{"tmdb_id": 331608, "title": "Iran: Inside the Islamic Revolution", "original_title": "Iran: Inside the Islamic Revolution", "slug_title": "iran-inside-the-islamic-revolution", "date": "1980-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 433980, "title": "Bogalusa Charm", "original_title": "Bogalusa Charm", "slug_title": "bogalusa-charm", "date": "2016-04-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cxgWmg9gpWMJA8zbLYZDCqUTYXT.jpg", "actors": [], "comments": [], "recommandations_id": []}

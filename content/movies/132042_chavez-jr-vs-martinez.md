@@ -1,1 +1,0 @@
-{"tmdb_id": 132042, "title": "Chavez Jr. vs Martinez", "original_title": "Chavez Jr. vs Martinez", "slug_title": "chavez-jr-vs-martinez", "date": "2012-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

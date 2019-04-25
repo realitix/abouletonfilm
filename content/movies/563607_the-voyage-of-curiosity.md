@@ -1,1 +1,0 @@
-{"tmdb_id": 563607, "title": "The Voyage of Curiosity", "original_title": "The Voyage of Curiosity", "slug_title": "the-voyage-of-curiosity", "date": "2017-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3zaJWgAZ8lmVRzhmTiI4Ot4xp5C.jpg", "actors": [], "comments": [], "recommandations_id": []}

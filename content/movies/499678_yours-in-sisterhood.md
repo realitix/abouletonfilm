@@ -1,1 +1,0 @@
-{"tmdb_id": 499678, "title": "Yours in Sisterhood", "original_title": "Yours in Sisterhood", "slug_title": "yours-in-sisterhood", "date": "2018-02-21", "genre": "Histoire / Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lUXp7uZAPu5yFEHXfKGRWrxs1sj.jpg", "actors": [], "comments": [], "recommandations_id": []}

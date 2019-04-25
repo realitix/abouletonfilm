@@ -1,1 +1,0 @@
-{"tmdb_id": 554092, "title": "The Shape of the Gaze", "original_title": "The Shape of the Gaze", "slug_title": "the-shape-of-the-gaze", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

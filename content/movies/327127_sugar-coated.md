@@ -1,1 +1,0 @@
-{"tmdb_id": 327127, "title": "Sugar Coated", "original_title": "Sugar Coated", "slug_title": "sugar-coated", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7MLmIOItwRV1RX7gDNttk2gZzUS.jpg", "actors": [], "comments": [], "recommandations_id": []}

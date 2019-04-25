@@ -1,1 +1,0 @@
-{"tmdb_id": 407819, "title": "We the Cats Shall Hep Ya", "original_title": "We the Cats Shall Hep Ya", "slug_title": "we-the-cats-shall-hep-ya", "date": "1945-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cab Calloway (Himself)"], "comments": [], "recommandations_id": []}

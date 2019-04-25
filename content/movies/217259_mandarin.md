@@ -1,1 +1,0 @@
-{"tmdb_id": 217259, "title": "Mandarin", "original_title": "Mandarin", "slug_title": "mandarin", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sinan Aydin ()", "Mehdi Bakirel ()"], "comments": [], "recommandations_id": []}

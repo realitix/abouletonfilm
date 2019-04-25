@@ -1,1 +1,0 @@
-{"tmdb_id": 596598, "title": "Miseria y nobleza", "original_title": "Miseria y nobleza", "slug_title": "miseria-y-nobleza", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Julia Taylor ()", "Anna Nova ()", "Coreena ()", "Rita Faltoyano ()", "Silvia Cristian ()"], "comments": [], "recommandations_id": []}

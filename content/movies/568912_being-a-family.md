@@ -1,1 +1,0 @@
-{"tmdb_id": 568912, "title": "Being a Family", "original_title": "Ser Familia", "slug_title": "being-a-family", "date": "2018-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hw65Yc9HOpkxuEwXsfJtcAEdrc1.jpg", "actors": [], "comments": [], "recommandations_id": []}

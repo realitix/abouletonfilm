@@ -1,1 +1,0 @@
-{"tmdb_id": 344338, "title": "The Drover's Wife", "original_title": "The Drover's Wife", "slug_title": "the-drover-s-wife", "date": "1984-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ba0nYwxL5EuvBkgmi0XO0sT6q8N.jpg", "actors": [], "comments": [], "recommandations_id": []}

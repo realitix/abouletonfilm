@@ -1,1 +1,0 @@
-{"tmdb_id": 332197, "title": "Absurd Person Singular", "original_title": "Absurd Person Singular", "slug_title": "absurd-person-singular", "date": "1985-10-23", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Baddeley ()", "Cheryl Campbell ()", "Maureen Lipman ()"], "comments": [], "recommandations_id": []}

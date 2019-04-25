@@ -1,1 +1,0 @@
-{"tmdb_id": 281879, "title": "Hesteomnibussen (\"Bussen\") Gennem Str\u00f8get", "original_title": "Hesteomnibussen (\"Bussen\") Gennem Str\u00f8get", "slug_title": "hesteomnibussen-bussen-gennem-stroget", "date": "1913-11-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

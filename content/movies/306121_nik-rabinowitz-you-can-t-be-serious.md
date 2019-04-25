@@ -1,1 +1,0 @@
-{"tmdb_id": 306121, "title": "Nik Rabinowitz: You Can't Be Serious", "original_title": "Nik Rabinowitz: You Can't Be Serious", "slug_title": "nik-rabinowitz-you-can-t-be-serious", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

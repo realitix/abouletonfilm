@@ -1,1 +1,0 @@
-{"tmdb_id": 255785, "title": "Letter from Waco", "original_title": "Letter from Waco", "slug_title": "letter-from-waco", "date": "1997-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

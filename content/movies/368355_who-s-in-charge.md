@@ -1,1 +1,0 @@
-{"tmdb_id": 368355, "title": "Who's in Charge", "original_title": "Who's in Charge", "slug_title": "who-s-in-charge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

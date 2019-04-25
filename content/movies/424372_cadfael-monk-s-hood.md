@@ -1,1 +1,0 @@
-{"tmdb_id": 424372, "title": "Cadfael: Monk's Hood", "original_title": "Cadfael: Monk's Hood", "slug_title": "cadfael-monk-s-hood", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hncCMGhXiSPnnuWYCS60fT0mqdF.jpg", "actors": [], "comments": [], "recommandations_id": []}

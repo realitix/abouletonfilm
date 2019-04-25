@@ -1,1 +1,0 @@
-{"tmdb_id": 97083, "title": "Hechizo lunar", "original_title": "Hechizo lunar", "slug_title": "hechizo-lunar", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fernando Aguilar ()", "Andrea Guardiola (Enfermera)", "Eduardo G\u00f3mez ()"], "comments": [], "recommandations_id": []}

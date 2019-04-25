@@ -1,1 +1,1 @@
-{"tmdb_id": 413015, "title": "Samh\u00e4llsjudo", "original_title": "Samh\u00e4llsjudo", "slug_title": "samhallsjudo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 413015, "title": "Samh\u00e4llsjudo", "original_title": "Samh\u00e4llsjudo", "slug_title": "samhallsjudo", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

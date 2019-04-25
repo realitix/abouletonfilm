@@ -1,1 +1,0 @@
-{"tmdb_id": 543552, "title": "TurboFire: HIIT 15", "original_title": "TurboFire: HIIT 15", "slug_title": "turbofire-hiit-15", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rl6qTyslPk4T9rQp237QRiAMvBN.jpg", "actors": [], "comments": [], "recommandations_id": []}

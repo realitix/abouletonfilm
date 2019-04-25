@@ -1,1 +1,0 @@
-{"tmdb_id": 260684, "title": "Maravilla, Un Luchador", "original_title": "Maravilla, Un Luchador", "slug_title": "maravilla-un-luchador", "date": "2014-05-29", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mNMF1HamAlZzF7XRsgsa8nObrSR.jpg", "actors": [], "comments": [], "recommandations_id": []}

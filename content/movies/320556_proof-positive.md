@@ -1,1 +1,0 @@
-{"tmdb_id": 320556, "title": "Proof Positive", "original_title": "Proof Positive", "slug_title": "proof-positive", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

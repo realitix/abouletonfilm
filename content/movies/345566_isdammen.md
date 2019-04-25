@@ -1,1 +1,0 @@
-{"tmdb_id": 345566, "title": "Isdammen", "original_title": "Isdammen", "slug_title": "isdammen", "date": "2010-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ragnar H\u00f8vik ()", "Egil Pedersen ((voice))"], "comments": [], "recommandations_id": []}

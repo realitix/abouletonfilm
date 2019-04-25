@@ -1,1 +1,0 @@
-{"tmdb_id": 516343, "title": "Mahou no Hiroba", "original_title": "\u9b54\u6cd5\u306e\u3072\u308d\u3070", "slug_title": "mahou-no-hiroba", "date": "2001-12-31", "genre": "Animation / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

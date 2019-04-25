@@ -1,1 +1,0 @@
-{"tmdb_id": 252616, "title": "A Gypsy Fiddler", "original_title": "A Gypsy Fiddler", "slug_title": "a-gypsy-fiddler", "date": "1933-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

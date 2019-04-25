@@ -1,1 +1,0 @@
-{"tmdb_id": 270084, "title": "Del blanco al negro", "original_title": "Del blanco al negro", "slug_title": "del-blanco-al-negro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Manuel Gancedo ()", "Alberto Lozano ()", "Isabel Pintor ()", "Alicia Cifredo ()"], "comments": [], "recommandations_id": []}

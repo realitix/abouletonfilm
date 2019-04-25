@@ -1,1 +1,0 @@
-{"tmdb_id": 303306, "title": "Showing Sydney", "original_title": "Showing Sydney", "slug_title": "showing-sydney", "date": "2013-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

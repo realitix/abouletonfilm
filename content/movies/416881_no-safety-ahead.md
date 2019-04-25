@@ -1,1 +1,0 @@
-{"tmdb_id": 416881, "title": "No Safety Ahead", "original_title": "No Safety Ahead", "slug_title": "no-safety-ahead", "date": "1959-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 474700, "title": "A Turma da Limpeza", "original_title": "A Turma da Limpeza", "slug_title": "a-turma-da-limpeza", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/30ghTr28u9YKPXQMsq9m1x8IONk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 295147, "title": "Money Machine", "original_title": "Money Machine", "slug_title": "money-machine", "date": "1929-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6WDE9ZWX8h0j85Cx6e07p13Hjz0.jpg", "actors": [], "comments": [], "recommandations_id": []}

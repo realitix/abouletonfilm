@@ -1,1 +1,0 @@
-{"tmdb_id": 534168, "title": "Da curva pra c\u00e1", "original_title": "Da curva pra c\u00e1", "slug_title": "da-curva-pra-ca", "date": "2018-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/96LQaT29xAYTe55eSDJ50p8ZBEC.jpg", "actors": [], "comments": [], "recommandations_id": []}

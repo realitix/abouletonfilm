@@ -1,1 +1,0 @@
-{"tmdb_id": 293431, "title": "Goodbye, Mr. Germ", "original_title": "Goodbye, Mr. Germ", "slug_title": "goodbye-mr-germ", "date": "1940-09-18", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Kirkwood (Dad)"], "comments": [], "recommandations_id": []}

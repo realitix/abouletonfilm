@@ -1,1 +1,0 @@
-{"tmdb_id": 314225, "title": "Spooky Kitaro", "original_title": "\u30b2\u30b2\u30b2\u306e\u9b3c\u592a\u90ce", "slug_title": "spooky-kitaro", "date": "1968-07-20", "genre": "Animation / Horreur", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zyN8CK3KCaaDCNMb2jY0qQqa8L.jpg", "actors": [], "comments": [], "recommandations_id": []}

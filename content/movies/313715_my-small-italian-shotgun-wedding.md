@@ -1,1 +1,0 @@
-{"tmdb_id": 313715, "title": "My Small Italian Shotgun Wedding", "original_title": "My Small Italian Shotgun Wedding", "slug_title": "my-small-italian-shotgun-wedding", "date": "2003-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

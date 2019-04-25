@@ -1,1 +1,0 @@
-{"tmdb_id": 354740, "title": "Making Sausages", "original_title": "Making Sausages", "slug_title": "making-sausages", "date": "1897-12-06", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

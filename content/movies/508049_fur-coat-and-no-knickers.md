@@ -1,1 +1,0 @@
-{"tmdb_id": 508049, "title": "Fur Coat and No Knickers", "original_title": "Fur Coat and No Knickers", "slug_title": "fur-coat-and-no-knickers", "date": "2009-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g5PcSAxjrXWTX5nex6b725kImEj.jpg", "actors": [], "comments": [], "recommandations_id": []}

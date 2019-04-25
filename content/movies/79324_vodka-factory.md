@@ -1,1 +1,0 @@
-{"tmdb_id": 79324, "title": "Vodka Factory", "original_title": "Vodkafabriken", "slug_title": "vodka-factory", "date": "2011-03-09", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pPobAnGT0qmrmoIiyJH6bmbY29X.jpg", "actors": [], "comments": [], "recommandations_id": []}

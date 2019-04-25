@@ -1,1 +1,0 @@
-{"tmdb_id": 164895, "title": "Cuesta abajo", "original_title": "Cuesta abajo", "slug_title": "cuesta-abajo", "date": "1935-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4OHuZsDb8ra8XVUOQuFTMcqhASy.jpg", "actors": ["Carlos Gardel (Carlos Acosta)"], "comments": [], "recommandations_id": []}

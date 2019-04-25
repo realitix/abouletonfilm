@@ -1,1 +1,0 @@
-{"tmdb_id": 515352, "title": "The Clerk", "original_title": "The Clerk", "slug_title": "the-clerk", "date": "1933-02-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charles Laughton (Phineas V. Lambert)"], "comments": [], "recommandations_id": []}

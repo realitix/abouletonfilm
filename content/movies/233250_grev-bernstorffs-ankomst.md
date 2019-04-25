@@ -1,1 +1,0 @@
-{"tmdb_id": 233250, "title": "Grev Bernstorffs Ankomst", "original_title": "Grev Bernstorffs Ankomst", "slug_title": "grev-bernstorffs-ankomst", "date": "1917-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

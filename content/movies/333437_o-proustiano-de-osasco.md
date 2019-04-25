@@ -1,1 +1,0 @@
-{"tmdb_id": 333437, "title": "O Proustiano de Osasco", "original_title": "O Proustiano de Osasco", "slug_title": "o-proustiano-de-osasco", "date": "2013-08-23", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

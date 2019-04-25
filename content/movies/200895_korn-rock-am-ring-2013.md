@@ -1,1 +1,0 @@
-{"tmdb_id": 200895, "title": "KoRn: Rock Am Ring 2013", "original_title": "KoRn: Rock Am Ring 2013", "slug_title": "korn-rock-am-ring-2013", "date": "2013-06-07", "genre": "Musique", "score": "8.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wVQch5MdY87uKwsoIyBLRQt7oND.jpg", "actors": [], "comments": [], "recommandations_id": [450015, 505321]}

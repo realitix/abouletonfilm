@@ -1,1 +1,0 @@
-{"tmdb_id": 539206, "title": "Voyage d'agr\u00e9ment", "original_title": "Voyage d'agr\u00e9ment", "slug_title": "voyage-d-agrement", "date": "1935-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o69HpeIPgusbBXTxDaRIx0VIuSu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 434749, "title": "Holy Sword", "original_title": "Son Savasci", "slug_title": "holy-sword", "date": "1982-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hheapXdaxjrRMQTRkURxCl0RX0J.jpg", "actors": [], "comments": [], "recommandations_id": []}

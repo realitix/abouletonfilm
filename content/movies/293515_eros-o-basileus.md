@@ -1,1 +1,0 @@
-{"tmdb_id": 293515, "title": "Eros, O Basileus", "original_title": "Eros, O Basileus", "slug_title": "eros-o-basileus", "date": "1967-04-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u5b02RzdF1CPb59UwGxytazElCn.jpg", "actors": ["Robert Beavers (Eros)"], "comments": [], "recommandations_id": []}

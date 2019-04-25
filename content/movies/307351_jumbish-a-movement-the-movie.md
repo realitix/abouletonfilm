@@ -1,1 +1,0 @@
-{"tmdb_id": 307351, "title": "Jumbish: A Movement - The Movie", "original_title": "Jumbish: A Movement - The Movie", "slug_title": "jumbish-a-movement-the-movie", "date": "1986-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

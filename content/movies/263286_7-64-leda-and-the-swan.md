@@ -1,1 +1,0 @@
-{"tmdb_id": 263286, "title": "7/64: Leda and the Swan", "original_title": "7/64: Leda mit dem Schwan", "slug_title": "7-64-leda-and-the-swan", "date": "1964-01-01", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bPYVDGB7sNQ7wjPQtIIKnOHILoB.jpg", "actors": [], "comments": [], "recommandations_id": []}

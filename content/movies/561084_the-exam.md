@@ -1,1 +1,0 @@
-{"tmdb_id": 561084, "title": "The Exam", "original_title": "The Exam", "slug_title": "the-exam", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

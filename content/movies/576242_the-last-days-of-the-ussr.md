@@ -1,1 +1,0 @@
-{"tmdb_id": 576242, "title": "The Last Days of the USSR", "original_title": "The Last Days of the USSR", "slug_title": "the-last-days-of-the-ussr", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

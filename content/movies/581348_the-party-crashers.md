@@ -1,1 +1,0 @@
-{"tmdb_id": 581348, "title": "The Party Crashers", "original_title": "The Party Crashers", "slug_title": "the-party-crashers", "date": "1998-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7r1tAqYVRq7oP307udYdJZ8dA0G.jpg", "actors": [], "comments": [], "recommandations_id": []}

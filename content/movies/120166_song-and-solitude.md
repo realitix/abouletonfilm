@@ -1,1 +1,0 @@
-{"tmdb_id": 120166, "title": "Song and Solitude", "original_title": "Song and Solitude", "slug_title": "song-and-solitude", "date": "2007-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2AJzH1ztbVd40Mu8JDjmL0CHRy7.jpg", "actors": [], "comments": [], "recommandations_id": []}

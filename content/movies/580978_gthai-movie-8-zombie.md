@@ -1,1 +1,0 @@
-{"tmdb_id": 580978, "title": "GThai Movie 8: Zombie", "original_title": "GThai Movie 8: Zombie", "slug_title": "gthai-movie-8-zombie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nhPvHQLlVxSDhpfWBFOhkNBMwW5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 428785, "title": "Obra Autorizada", "original_title": "Obra Autorizada", "slug_title": "obra-autorizada", "date": "2016-09-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b5fRn05fxaN4sm0M2QU8A0PkJ2K.jpg", "actors": [], "comments": [], "recommandations_id": []}

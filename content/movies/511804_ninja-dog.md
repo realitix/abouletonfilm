@@ -1,1 +1,0 @@
-{"tmdb_id": 511804, "title": "Ninja Dog", "original_title": "Ninja Dog", "slug_title": "ninja-dog", "date": "2014-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

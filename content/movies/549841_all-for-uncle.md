@@ -1,1 +1,0 @@
-{"tmdb_id": 549841, "title": "All for Uncle", "original_title": "All for Uncle", "slug_title": "all-for-uncle", "date": "1927-10-19", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charles King (Mike)", "Charles Dorety (Ike)", "Thelma Daniels ()"], "comments": [], "recommandations_id": []}

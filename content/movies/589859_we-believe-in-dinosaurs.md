@@ -1,1 +1,0 @@
-{"tmdb_id": 589859, "title": "We Believe in Dinosaurs", "original_title": "We Believe in Dinosaurs", "slug_title": "we-believe-in-dinosaurs", "date": "2019-04-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ap3nDoz5uSGJA3EKO2Bf5KtJfHF.jpg", "actors": [], "comments": [], "recommandations_id": []}

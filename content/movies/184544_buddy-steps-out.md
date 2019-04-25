@@ -1,1 +1,0 @@
-{"tmdb_id": 184544, "title": "Buddy Steps Out", "original_title": "Buddy Steps Out", "slug_title": "buddy-steps-out", "date": "1935-07-19", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3bTxlGH3f1FkmC0NQh5KpL4xiue.jpg", "actors": [], "comments": [], "recommandations_id": []}

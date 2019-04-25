@@ -1,1 +1,0 @@
-{"tmdb_id": 583570, "title": "Your Very Good Health", "original_title": "Your Very Good Health", "slug_title": "your-very-good-health", "date": "1948-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/biw0c2WhFsLRBttfHusk9HuVxjR.jpg", "actors": [], "comments": [], "recommandations_id": []}

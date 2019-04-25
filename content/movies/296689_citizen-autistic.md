@@ -1,1 +1,0 @@
-{"tmdb_id": 296689, "title": "Citizen Autistic", "original_title": "Citizen Autistic", "slug_title": "citizen-autistic", "date": "2013-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1IgG4Ghm6sMW9duXzgaoKKU9PSV.jpg", "actors": [], "comments": [], "recommandations_id": []}

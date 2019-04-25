@@ -1,1 +1,0 @@
-{"tmdb_id": 490122, "title": "Followed Back", "original_title": "Followed Back", "slug_title": "followed-back", "date": "2017-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

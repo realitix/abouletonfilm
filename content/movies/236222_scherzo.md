@@ -1,1 +1,0 @@
-{"tmdb_id": 236222, "title": "Scherzo", "original_title": "Scherzo", "slug_title": "scherzo", "date": "1939-11-13", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/krfm5ARTh4KAURBTYzx1ewfq6ZU.jpg", "actors": [], "comments": [], "recommandations_id": [184519, 77851, 162612, 184522]}

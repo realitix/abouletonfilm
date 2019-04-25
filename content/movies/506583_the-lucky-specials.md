@@ -1,1 +1,0 @@
-{"tmdb_id": 506583, "title": "The Lucky Specials", "original_title": "The Lucky Specials", "slug_title": "the-lucky-specials", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

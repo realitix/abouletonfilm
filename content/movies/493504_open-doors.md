@@ -1,1 +1,0 @@
-{"tmdb_id": 493504, "title": "Open Doors", "original_title": "\u00d6ppna d\u00f6rrar", "slug_title": "open-doors", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harriet Andersson (Gina)", "Sven Lindberg (Verner)", "Ulf Isenborg ()"], "comments": [], "recommandations_id": []}

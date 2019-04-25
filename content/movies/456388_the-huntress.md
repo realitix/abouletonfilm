@@ -1,1 +1,0 @@
-{"tmdb_id": 456388, "title": "The Huntress", "original_title": "The Huntress", "slug_title": "the-huntress", "date": "1923-08-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Colleen Moore (Bela)", "Lloyd Hughes (Sam Gladding)", "Russell Simpson (Big Jack Skinner)"], "comments": [], "recommandations_id": []}

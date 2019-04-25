@@ -1,1 +1,0 @@
-{"tmdb_id": 403708, "title": "Joseph's New Coat", "original_title": "Joseph's New Coat", "slug_title": "joseph-s-new-coat", "date": "1998-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AtxVTKI9aCDHsgvdP7aLkKLnL4K.jpg", "actors": [], "comments": [], "recommandations_id": []}

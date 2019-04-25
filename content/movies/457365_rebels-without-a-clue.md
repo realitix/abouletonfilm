@@ -1,1 +1,0 @@
-{"tmdb_id": 457365, "title": "Rebels Without a Clue", "original_title": "Rebels Without a Clue", "slug_title": "rebels-without-a-clue", "date": "2014-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jkwHJngEZCAbVvWxtpadFyDFBzn.jpg", "actors": [], "comments": [], "recommandations_id": []}

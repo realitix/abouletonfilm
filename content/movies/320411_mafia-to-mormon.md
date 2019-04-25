@@ -1,1 +1,0 @@
-{"tmdb_id": 320411, "title": "Mafia to Mormon", "original_title": "Mafia to Mormon", "slug_title": "mafia-to-mormon", "date": "2006-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ULyOU6ZaPUQjyZgfcEICmxOi7B.jpg", "actors": [], "comments": [], "recommandations_id": []}

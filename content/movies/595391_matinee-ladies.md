@@ -1,1 +1,0 @@
-{"tmdb_id": 595391, "title": "Matinee Ladies", "original_title": "Matinee Ladies", "slug_title": "matinee-ladies", "date": "1927-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Q4itVUJF5QPVQStLxyi6IyKWrC.jpg", "actors": [], "comments": [], "recommandations_id": []}

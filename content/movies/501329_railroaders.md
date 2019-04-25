@@ -1,1 +1,0 @@
-{"tmdb_id": 501329, "title": "Railroaders", "original_title": "Railroaders", "slug_title": "railroaders", "date": "1958-01-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Fi7xYPEgUBHrxdaAwchdrKdtNQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

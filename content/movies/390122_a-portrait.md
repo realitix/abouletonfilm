@@ -1,1 +1,0 @@
-{"tmdb_id": 390122, "title": "A Portrait", "original_title": "A Portrait", "slug_title": "a-portrait", "date": "2014-09-24", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nJB6yb1W0245XAurx4U1BIpBbtF.jpg", "actors": [], "comments": [], "recommandations_id": []}

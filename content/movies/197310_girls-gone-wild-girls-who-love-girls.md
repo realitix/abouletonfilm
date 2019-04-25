@@ -1,1 +1,0 @@
-{"tmdb_id": 197310, "title": "Girls Gone Wild: Girls Who Love Girls", "original_title": "Girls Gone Wild: Girls Who Love Girls", "slug_title": "girls-gone-wild-girls-who-love-girls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

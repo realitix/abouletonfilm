@@ -1,1 +1,0 @@
-{"tmdb_id": 382192, "title": "The Bridge Rising", "original_title": "The Bridge Rising", "slug_title": "the-bridge-rising", "date": "", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ovRalR4sAn9rzn84Zaj00PkBjO.jpg", "actors": [], "comments": [], "recommandations_id": []}

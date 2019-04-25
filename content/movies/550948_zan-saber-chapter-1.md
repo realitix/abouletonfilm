@@ -1,1 +1,0 @@
-{"tmdb_id": 550948, "title": "Zan Saber: Chapter 1", "original_title": "\u65ac\u30bb\u30a4\u30d0\u30fc \u7b2c\u58f1\u7ae0", "slug_title": "zan-saber-chapter-1", "date": "2006-11-20", "genre": "Action / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

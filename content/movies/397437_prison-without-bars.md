@@ -1,1 +1,0 @@
-{"tmdb_id": 397437, "title": "Prison Without Bars", "original_title": "Prison Without Bars", "slug_title": "prison-without-bars", "date": "1939-07-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nova Pilbeam ()", "Jill Esmond ()", "Sebastian Shaw ()", "Margaret Yarde ()"], "comments": [], "recommandations_id": []}

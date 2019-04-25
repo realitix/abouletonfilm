@@ -1,1 +1,0 @@
-{"tmdb_id": 346697, "title": "Sweet Relief", "original_title": "Sweet Relief", "slug_title": "sweet-relief", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

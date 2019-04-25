@@ -1,1 +1,0 @@
-{"tmdb_id": 563884, "title": "\u82b3\u821f", "original_title": "\u82b3\u821f", "slug_title": "fang-zhou", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hmsNTX7Jc6Up2RQTfmsG23O47cQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 277161, "title": "Read-n-See DVD Bible", "original_title": "Read-n-See DVD Bible", "slug_title": "read-n-see-dvd-bible", "date": "2006-11-07", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lBPGhmyqTAtsYcPwIXA0K2we5la.jpg", "actors": [], "comments": [], "recommandations_id": []}

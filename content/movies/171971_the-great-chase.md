@@ -1,1 +1,0 @@
-{"tmdb_id": 171971, "title": "The Great Chase", "original_title": "The Great Chase", "slug_title": "the-great-chase", "date": "1962-12-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o6JLKt0Y9Lcd31hJM1hu7qUmVV1.jpg", "actors": [], "comments": [], "recommandations_id": []}

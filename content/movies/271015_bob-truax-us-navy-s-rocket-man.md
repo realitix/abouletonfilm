@@ -1,1 +1,0 @@
-{"tmdb_id": 271015, "title": "Bob Truax: US Navy's Rocket Man", "original_title": "Bob Truax: US Navy's Rocket Man", "slug_title": "bob-truax-us-navy-s-rocket-man", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

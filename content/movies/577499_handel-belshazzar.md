@@ -1,1 +1,0 @@
-{"tmdb_id": 577499, "title": "Handel: Belshazzar", "original_title": "Handel: Belshazzar", "slug_title": "handel-belshazzar", "date": "2011-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4HNRvzNZ517wVxavNQUZRnR5ydP.jpg", "actors": ["Bejun Mehta ()"], "comments": [], "recommandations_id": []}

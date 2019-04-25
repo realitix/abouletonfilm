@@ -1,1 +1,0 @@
-{"tmdb_id": 168235, "title": "I, Pet Goat II", "original_title": "I, Pet Goat II", "slug_title": "i-pet-goat-ii", "date": "2012-03-15", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m40TfWZ0UuqeVaea1VHTNo0LkId.jpg", "actors": [], "comments": [], "recommandations_id": [48346, 183725]}

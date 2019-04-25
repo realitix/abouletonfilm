@@ -1,1 +1,0 @@
-{"tmdb_id": 189339, "title": "War Greatest Hits Live", "original_title": "War Greatest Hits Live", "slug_title": "war-greatest-hits-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qD0HfVb0obHtQTbD8kAHHOecJdM.jpg", "actors": [], "comments": [], "recommandations_id": []}

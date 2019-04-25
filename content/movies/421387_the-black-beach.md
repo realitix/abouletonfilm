@@ -1,1 +1,0 @@
-{"tmdb_id": 421387, "title": "The Black Beach", "original_title": "The Black Beach", "slug_title": "the-black-beach", "date": "1972-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

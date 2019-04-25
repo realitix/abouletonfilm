@@ -1,1 +1,0 @@
-{"tmdb_id": 537316, "title": "Company Buggers", "original_title": "\u66b4\u529b\u91d1\u8108", "slug_title": "company-buggers", "date": "1975-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/88af56Xq8d2cs8WgCb2ryknEKiW.jpg", "actors": [], "comments": [], "recommandations_id": []}

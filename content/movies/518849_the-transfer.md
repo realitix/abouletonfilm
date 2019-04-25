@@ -1,1 +1,0 @@
-{"tmdb_id": 518849, "title": "The Transfer", "original_title": "The Transfer", "slug_title": "the-transfer", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6n0T0RpC0TOTNCs1P2GfRpZ5SI7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 582839, "title": "Across the Hall", "original_title": "Across the Hall", "slug_title": "across-the-hall", "date": "1916-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 589699, "title": "Seagirl", "original_title": "\u6d77\u5973\u7d05\u77ed\u8932", "slug_title": "seagirl", "date": "1977-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lily Lan ()", "Feng Shih (Ho I-Fan)", "Chi-Min Chin ()", "Kou Feng (Tang Quei Chen)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 513922, "title": "LubaBen", "original_title": "LubaBen", "slug_title": "lubaben", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

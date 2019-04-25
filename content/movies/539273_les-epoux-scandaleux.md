@@ -1,1 +1,0 @@
-{"tmdb_id": 539273, "title": "Les \u00e9poux scandaleux", "original_title": "Les \u00e9poux scandaleux", "slug_title": "les-epoux-scandaleux", "date": "1935-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2IuLcstgk3UpKjk0l4atBHXEOwD.jpg", "actors": [], "comments": [], "recommandations_id": []}

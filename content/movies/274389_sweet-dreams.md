@@ -1,1 +1,0 @@
-{"tmdb_id": 274389, "title": "Sweet Dreams", "original_title": "Sweet Dreams", "slug_title": "sweet-dreams", "date": "2008-03-03", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qU58M6q5f9Eu2DWC3sGSD7BTebZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

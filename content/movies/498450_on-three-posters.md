@@ -1,1 +1,0 @@
-{"tmdb_id": 498450, "title": "On Three Posters", "original_title": "On Three Posters", "slug_title": "on-three-posters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

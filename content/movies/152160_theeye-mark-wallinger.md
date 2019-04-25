@@ -1,1 +1,0 @@
-{"tmdb_id": 152160, "title": "TheEYE: Mark Wallinger", "original_title": "TheEYE: Mark Wallinger", "slug_title": "theeye-mark-wallinger", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sUC30Ayd12fBv5mjQcn1gOKFnDM.jpg", "actors": [], "comments": [], "recommandations_id": []}

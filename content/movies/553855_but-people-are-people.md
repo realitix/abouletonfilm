@@ -1,1 +1,0 @@
-{"tmdb_id": 553855, "title": "But People Are People", "original_title": "A ljudi ko ljudi", "slug_title": "but-people-are-people", "date": "1979-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 583058, "title": "Bill Burr: One Night Stand", "original_title": "Bill Burr: One Night Stand", "slug_title": "bill-burr-one-night-stand", "date": "2005-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bill Burr (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 375976, "title": "Road Queen 34", "original_title": "Road Queen 34", "slug_title": "road-queen-34", "date": "2015-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cVLCIAnD0mmQcnyaOGeoTYdQ2SW.jpg", "actors": [], "comments": [], "recommandations_id": []}

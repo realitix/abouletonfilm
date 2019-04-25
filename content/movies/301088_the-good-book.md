@@ -1,1 +1,0 @@
-{"tmdb_id": 301088, "title": "The Good Book", "original_title": "The Good Book", "slug_title": "the-good-book", "date": "2014-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

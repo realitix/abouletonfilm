@@ -1,1 +1,0 @@
-{"tmdb_id": 326486, "title": "Anand Mahal", "original_title": "Anand Mahal", "slug_title": "anand-mahal", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

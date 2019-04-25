@@ -1,1 +1,0 @@
-{"tmdb_id": 447868, "title": "Langit sa piling mo", "original_title": "Langit sa piling mo", "slug_title": "langit-sa-piling-mo", "date": "1997-12-31", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eric Quizon (Enrico)", "Giselle Toengi (Felipa)", "Chanda Romero (Zenie)"], "comments": [], "recommandations_id": []}

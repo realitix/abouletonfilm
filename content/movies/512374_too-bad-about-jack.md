@@ -1,1 +1,0 @@
-{"tmdb_id": 512374, "title": "Too Bad About Jack", "original_title": "Too Bad About Jack", "slug_title": "too-bad-about-jack", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Christian ()", "Karen Black ()", "Joseph Campanella ()", "Lindsay Lombardi ()"], "comments": [], "recommandations_id": []}

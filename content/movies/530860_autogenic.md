@@ -1,1 +1,0 @@
-{"tmdb_id": 530860, "title": "Autogenic", "original_title": "Autogenic", "slug_title": "autogenic", "date": "2014-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4AxoZBEMWEDhLBDervYYSbgA9YZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

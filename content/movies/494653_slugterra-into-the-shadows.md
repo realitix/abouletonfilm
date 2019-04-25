@@ -1,1 +1,0 @@
-{"tmdb_id": 494653, "title": "Slugterra: Into The Shadows", "original_title": "Slugterra: Into The Shadows", "slug_title": "slugterra-into-the-shadows", "date": "2016-11-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fwcdoV9qBpEorDlCtqO6RFLIXtA.jpg", "actors": [], "comments": [], "recommandations_id": []}

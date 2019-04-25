@@ -1,1 +1,0 @@
-{"tmdb_id": 394987, "title": "Hyena's Blood", "original_title": "Hyena's Blood", "slug_title": "hyena-s-blood", "date": "2014-07-22", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k9MGP39sixPOgPW6j58t9dFanuG.jpg", "actors": [], "comments": [], "recommandations_id": []}

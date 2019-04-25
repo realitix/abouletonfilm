@@ -1,1 +1,0 @@
-{"tmdb_id": 154199, "title": "Snatched!", "original_title": "Snatched!", "slug_title": "snatched", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 393366, "title": "Laboratorio Val Del Omar", "original_title": "Laboratorio Val Del Omar", "slug_title": "laboratorio-val-del-omar", "date": "2010-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 332918, "title": "A Choice to Yield", "original_title": "A Choice to Yield", "slug_title": "a-choice-to-yield", "date": "2015-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

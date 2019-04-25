@@ -1,1 +1,0 @@
-{"tmdb_id": 311021, "title": "The Uncommon Making of Petulia", "original_title": "The Uncommon Making of Petulia", "slug_title": "the-uncommon-making-of-petulia", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

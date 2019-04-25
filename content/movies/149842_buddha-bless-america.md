@@ -1,1 +1,0 @@
-{"tmdb_id": 149842, "title": "Buddha Bless America", "original_title": "\u592a\u5e73\u5929\u570b", "slug_title": "buddha-bless-america", "date": "1996-07-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nYUG63KHZvz2oBwK301AOPs4gg8.jpg", "actors": [], "comments": [], "recommandations_id": []}

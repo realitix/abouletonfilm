@@ -1,1 +1,0 @@
-{"tmdb_id": 506506, "title": "Earthlight", "original_title": "Earthlight", "slug_title": "earthlight", "date": "2006-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ss3HHkq5fJoWEjOv2xPfO60Sk3e.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 500940, "title": "The Ants", "original_title": "Die Ameisen", "slug_title": "the-ants", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

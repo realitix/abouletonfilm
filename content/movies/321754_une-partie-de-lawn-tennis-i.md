@@ -1,1 +1,0 @@
-{"tmdb_id": 321754, "title": "Une partie de lawn-tennis, [I]", "original_title": "Une partie de lawn-tennis, [I]", "slug_title": "une-partie-de-lawn-tennis-i", "date": "1897-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

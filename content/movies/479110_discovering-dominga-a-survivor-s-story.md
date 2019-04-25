@@ -1,1 +1,0 @@
-{"tmdb_id": 479110, "title": "Discovering Dominga: A Survivor's Story", "original_title": "Discovering Dominga: A Survivor's Story", "slug_title": "discovering-dominga-a-survivor-s-story", "date": "", "genre": "Documentaire / Histoire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

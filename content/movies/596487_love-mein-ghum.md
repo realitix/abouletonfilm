@@ -1,1 +1,0 @@
-{"tmdb_id": 596487, "title": "Love Mein Ghum", "original_title": "Love Mein Ghum", "slug_title": "love-mein-ghum", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/amnLZRKpDCdfFuaCmQ4IAMPmKOs.jpg", "actors": [], "comments": [], "recommandations_id": []}

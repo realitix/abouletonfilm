@@ -1,1 +1,0 @@
-{"tmdb_id": 461623, "title": "The Earth Did Not Speak", "original_title": "La Tierra No Habl\u00f3", "slug_title": "the-earth-did-not-speak", "date": "2017-04-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kpbW1aCRaF8PZm2ZtGozSzpf8OB.jpg", "actors": [], "comments": [], "recommandations_id": []}

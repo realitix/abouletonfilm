@@ -1,1 +1,0 @@
-{"tmdb_id": 561078, "title": "Rainmaker", "original_title": "Rainmaker", "slug_title": "rainmaker", "date": "", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Katherine Cronyn (K)"], "comments": [], "recommandations_id": []}

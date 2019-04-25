@@ -1,1 +1,0 @@
-{"tmdb_id": 198494, "title": "Le groupe sanguin z\u00e9ro", "original_title": "Faktas", "slug_title": "le-groupe-sanguin-zero", "date": "1981-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o8NJmmAntTjUGAJDLdjqhOUrKPg.jpg", "actors": [], "comments": [], "recommandations_id": []}

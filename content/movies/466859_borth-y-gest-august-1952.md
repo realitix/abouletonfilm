@@ -1,1 +1,0 @@
-{"tmdb_id": 466859, "title": "Borth-y-Gest: August 1952", "original_title": "Borth-y-Gest: August 1952", "slug_title": "borth-y-gest-august-1952", "date": "1952-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rA1rmC6lZJHltuTf7H7Zqfft5A6.jpg", "actors": [], "comments": [], "recommandations_id": []}

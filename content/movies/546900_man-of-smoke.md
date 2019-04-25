@@ -1,1 +1,0 @@
-{"tmdb_id": 546900, "title": "Man of Smoke", "original_title": "\u010covek od dima", "slug_title": "man-of-smoke", "date": "2017-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Slobodan Stevanovi\u0107 (Himself)"], "comments": [], "recommandations_id": []}

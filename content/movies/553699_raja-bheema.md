@@ -1,1 +1,0 @@
-{"tmdb_id": 553699, "title": "Raja Bheema", "original_title": "Raja Bheema", "slug_title": "raja-bheema", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9h4BNMzX1RJ0e7gjVQHGpNpLdwP.jpg", "actors": ["Aarav Nafeez ()", "Ashima Narwal ()"], "comments": [], "recommandations_id": []}

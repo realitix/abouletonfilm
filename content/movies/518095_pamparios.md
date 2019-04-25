@@ -1,1 +1,0 @@
-{"tmdb_id": 518095, "title": "Pamparios", "original_title": "Pamparios", "slug_title": "pamparios", "date": "2018-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

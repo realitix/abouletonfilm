@@ -1,1 +1,0 @@
-{"tmdb_id": 218591, "title": "Denmark", "original_title": "Denmark", "slug_title": "denmark", "date": "2011-04-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xqN66RV7ghuxL0KK4xmCzCOfunb.jpg", "actors": [], "comments": [], "recommandations_id": []}

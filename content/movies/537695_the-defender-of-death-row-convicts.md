@@ -1,1 +1,0 @@
-{"tmdb_id": 537695, "title": "The Defender of Death-row Convicts", "original_title": "\u6b7b\u5211\u5f01\u8b77\u4eba", "slug_title": "the-defender-of-death-row-convicts", "date": "2012-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

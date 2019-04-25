@@ -1,1 +1,0 @@
-{"tmdb_id": 507102, "title": "Hot Laps", "original_title": "Hot Laps", "slug_title": "hot-laps", "date": "1993-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rO6K15uGBb2TyKAqj017MC3GCUj.jpg", "actors": ["Carmen Di Pietro ()", "Theo Connor ()"], "comments": [], "recommandations_id": []}

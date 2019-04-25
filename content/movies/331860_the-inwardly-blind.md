@@ -1,1 +1,0 @@
-{"tmdb_id": 331860, "title": "The Inwardly Blind", "original_title": "Kurdelan", "slug_title": "the-inwardly-blind", "date": "1982-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

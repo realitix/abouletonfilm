@@ -1,1 +1,0 @@
-{"tmdb_id": 526867, "title": "Hitchhiking: The Road to Rape", "original_title": "Hitchhiking: The Road to Rape", "slug_title": "hitchhiking-the-road-to-rape", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tfae2Fs7Cbp5yMg5uvMhmK2RjY.jpg", "actors": [], "comments": [], "recommandations_id": []}

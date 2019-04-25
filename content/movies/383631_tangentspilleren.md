@@ -1,1 +1,0 @@
-{"tmdb_id": 383631, "title": "Tangentspilleren", "original_title": "Tangentspilleren", "slug_title": "tangentspilleren", "date": "2013-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/giPwLr03Rp1GIOC1lrPVdF860Gl.jpg", "actors": [], "comments": [], "recommandations_id": []}

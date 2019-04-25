@@ -1,1 +1,0 @@
-{"tmdb_id": 563748, "title": "24 Variations on a Theme", "original_title": "24 Variations on a Theme", "slug_title": "24-variations-on-a-theme", "date": "1940-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

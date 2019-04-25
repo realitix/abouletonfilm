@@ -1,1 +1,0 @@
-{"tmdb_id": 423999, "title": "Reducing Creme", "original_title": "Reducing Creme", "slug_title": "reducing-creme", "date": "1934-05-19", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

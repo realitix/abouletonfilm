@@ -1,1 +1,0 @@
-{"tmdb_id": 460792, "title": "Mulheres da Boca", "original_title": "Mulheres da Boca", "slug_title": "mulheres-da-boca", "date": "1982-06-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/axJ07qhx1W2O5F35UPIt3XB9LTA.jpg", "actors": [], "comments": [], "recommandations_id": []}

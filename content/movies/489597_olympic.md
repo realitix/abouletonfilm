@@ -1,1 +1,1 @@
-{"tmdb_id": 489597, "title": "Olympic", "original_title": "Olympic", "slug_title": "olympic", "date": "2017-11-25", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 489597, "title": "Olympic", "original_title": "Olympic", "slug_title": "olympic", "date": "2017-11-25", "genre": ["Horreur"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

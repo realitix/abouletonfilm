@@ -1,1 +1,0 @@
-{"tmdb_id": 498029, "title": "Dance of the Daring", "original_title": "Dance of the Daring", "slug_title": "dance-of-the-daring", "date": "2015-10-27", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sWVN0c8ZB8ekPus7LZo9Mx8GqGN.jpg", "actors": [], "comments": [], "recommandations_id": []}

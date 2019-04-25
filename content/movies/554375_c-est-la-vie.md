@@ -1,1 +1,0 @@
-{"tmdb_id": 554375, "title": "C'est la Vie", "original_title": "C'est la Vie", "slug_title": "c-est-la-vie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Prochain long m\u00e9trage de Julien Rambaldi intitul\u00e9 \"C'est la vie\"", "image": "/img/default-cover.png", "actors": ["Josiane Balasko ()"], "comments": [], "recommandations_id": []}

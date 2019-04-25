@@ -1,1 +1,0 @@
-{"tmdb_id": 535013, "title": "Animals As Stupid As Men", "original_title": "B\u00eates... commes les hommes", "slug_title": "animals-as-stupid-as-men", "date": "1922-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

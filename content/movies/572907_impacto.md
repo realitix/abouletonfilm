@@ -1,1 +1,0 @@
-{"tmdb_id": 572907, "title": "Impacto", "original_title": "Impacto", "slug_title": "impacto", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2a7PKeFRPIbdHIRayKpJFkNJnnM.jpg", "actors": [], "comments": [], "recommandations_id": []}

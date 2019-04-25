@@ -1,1 +1,0 @@
-{"tmdb_id": 551505, "title": "I Heart You Cik Yah", "original_title": "I Heart You Cik Yah", "slug_title": "i-heart-you-cik-yah", "date": "2018-09-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kamal adli ()", "Siti Saleha ()", "Nasha Aziz ()", "Fezrul Khan ()"], "comments": [], "recommandations_id": []}

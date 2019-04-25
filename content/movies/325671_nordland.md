@@ -1,1 +1,0 @@
-{"tmdb_id": 325671, "title": "Nordland", "original_title": "Nordland", "slug_title": "nordland", "date": "2014-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lOFxfUXchAntw7916HRjOxZzCMT.jpg", "actors": [], "comments": [], "recommandations_id": []}

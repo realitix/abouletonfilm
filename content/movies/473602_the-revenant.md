@@ -1,1 +1,0 @@
-{"tmdb_id": 473602, "title": "The Revenant", "original_title": "The Revenant", "slug_title": "the-revenant", "date": "2012-12-23", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brianna McClellan (Elizabeth)"], "comments": [], "recommandations_id": []}

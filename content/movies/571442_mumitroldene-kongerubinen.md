@@ -1,1 +1,0 @@
-{"tmdb_id": 571442, "title": "Mumitroldene: Kongerubinen", "original_title": "Mumitroldene: Kongerubinen", "slug_title": "mumitroldene-kongerubinen", "date": "", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cypjeyihmIWccO5RLuuq8dAIHhD.jpg", "actors": [], "comments": [], "recommandations_id": []}

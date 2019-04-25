@@ -1,1 +1,0 @@
-{"tmdb_id": 336101, "title": "Don't You Be Afraid", "original_title": "Don't You Be Afraid", "slug_title": "don-t-you-be-afraid", "date": "2011-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

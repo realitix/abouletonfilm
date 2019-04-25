@@ -1,1 +1,0 @@
-{"tmdb_id": 163977, "title": "Kid in Hollywood", "original_title": "Kid in Hollywood", "slug_title": "kid-in-hollywood", "date": "1933-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7L5dp5Gm5Ys53kQ6UjKIjHQESC3.jpg", "actors": ["Shirley Temple ()"], "comments": [], "recommandations_id": []}

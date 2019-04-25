@@ -1,1 +1,0 @@
-{"tmdb_id": 184639, "title": "Time for Love", "original_title": "Time for Love", "slug_title": "time-for-love", "date": "1935-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jsRp9Qw05YFLeauKde6oxBZvBsw.jpg", "actors": [], "comments": [], "recommandations_id": []}

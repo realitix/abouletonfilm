@@ -1,1 +1,0 @@
-{"tmdb_id": 306309, "title": "Abrigos\u2026 At\u00e9 Quando?", "original_title": "Abrigos\u2026 At\u00e9 Quando?", "slug_title": "abrigos-ate-quando", "date": "2007-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tmTYDY4Y7fxGuhY4aM3eJEMKJco.jpg", "actors": [], "comments": [], "recommandations_id": []}

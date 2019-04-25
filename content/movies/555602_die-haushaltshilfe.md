@@ -1,1 +1,0 @@
-{"tmdb_id": 555602, "title": "Die Haushaltshilfe", "original_title": "Die Haushaltshilfe", "slug_title": "die-haushaltshilfe", "date": "2010-02-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

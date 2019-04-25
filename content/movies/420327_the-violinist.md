@@ -1,1 +1,0 @@
-{"tmdb_id": 420327, "title": "The Violinist", "original_title": "The Violinist", "slug_title": "the-violinist", "date": "2016-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3daGppVFBB7mOl9WBgUKRbTFyQt.jpg", "actors": [], "comments": [], "recommandations_id": []}

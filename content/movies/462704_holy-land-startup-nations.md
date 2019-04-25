@@ -1,1 +1,0 @@
-{"tmdb_id": 462704, "title": "Holy Land: Startup Nations", "original_title": "Holy Land: Startup Nations", "slug_title": "holy-land-startup-nations", "date": "2017-03-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r0OYCeknG3ISVBEWxkK2vtPi16D.jpg", "actors": [], "comments": [], "recommandations_id": []}

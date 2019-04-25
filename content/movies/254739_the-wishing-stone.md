@@ -1,1 +1,0 @@
-{"tmdb_id": 254739, "title": "The Wishing Stone", "original_title": "The Wishing Stone", "slug_title": "the-wishing-stone", "date": "1935-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

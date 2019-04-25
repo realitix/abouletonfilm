@@ -1,1 +1,0 @@
-{"tmdb_id": 564223, "title": "Fair and Muddy", "original_title": "Fair and Muddy", "slug_title": "fair-and-muddy", "date": "1928-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 309100, "title": "Boob Tube: Sex, TV & Ugly George", "original_title": "Boob Tube: Sex, TV & Ugly George", "slug_title": "boob-tube-sex-tv-ugly-george", "date": "2008-06-17", "genre": "", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t7JJK5zib1kXHP8SzTuZ66zKX2I.jpg", "actors": [], "comments": [], "recommandations_id": []}

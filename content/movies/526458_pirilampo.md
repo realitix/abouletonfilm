@@ -1,1 +1,0 @@
-{"tmdb_id": 526458, "title": "Pirilampo", "original_title": "Pirilampo", "slug_title": "pirilampo", "date": "2018-05-31", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vweHHzjh3onL1ZbQSVLayafLbOJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

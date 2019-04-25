@@ -1,1 +1,0 @@
-{"tmdb_id": 316378, "title": "Shakespeare's Globe Theatre Restored", "original_title": "Shakespeare's Globe Theatre Restored", "slug_title": "shakespeare-s-globe-theatre-restored", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

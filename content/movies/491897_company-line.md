@@ -1,1 +1,0 @@
-{"tmdb_id": 491897, "title": "Company Line", "original_title": "Company Line", "slug_title": "company-line", "date": "2009-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 138725, "title": "S\u00fcperT\u00fcrk", "original_title": "S\u00fcperT\u00fcrk", "slug_title": "superturk", "date": "2012-04-25", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zRlv74cmix4Ax2VfNS25doj3vWz.jpg", "actors": ["Tamer Karada\u011fl\u0131 (Ekber)"], "comments": [], "recommandations_id": []}

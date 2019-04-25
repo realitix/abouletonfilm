@@ -1,1 +1,0 @@
-{"tmdb_id": 213836, "title": "We Drivers", "original_title": "We Drivers", "slug_title": "we-drivers", "date": "1936-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

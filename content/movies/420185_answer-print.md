@@ -1,1 +1,0 @@
-{"tmdb_id": 420185, "title": "Answer Print", "original_title": "Answer Print", "slug_title": "answer-print", "date": "2016-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/siMY8MrDfYYS93ENZtpB1VISPjE.jpg", "actors": [], "comments": [], "recommandations_id": []}

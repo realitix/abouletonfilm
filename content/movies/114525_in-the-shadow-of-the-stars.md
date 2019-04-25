@@ -1,1 +1,0 @@
-{"tmdb_id": 114525, "title": "In the Shadow of the Stars", "original_title": "In the Shadow of the Stars", "slug_title": "in-the-shadow-of-the-stars", "date": "1991-08-14", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vsT35iAIINH4rZ3v91IZcFAhfHv.jpg", "actors": [], "comments": [], "recommandations_id": []}

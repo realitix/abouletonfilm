@@ -1,1 +1,0 @@
-{"tmdb_id": 195178, "title": "A Street Arab", "original_title": "A Street Arab", "slug_title": "a-street-arab", "date": "1898-05-20", "genre": "Documentaire", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8BhCY0xxiOtGTR4wOqyUjYensyF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 409539, "title": "If Only Cats Could Talk", "original_title": "If Only Cats Could Talk", "slug_title": "if-only-cats-could-talk", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

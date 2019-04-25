@@ -1,1 +1,0 @@
-{"tmdb_id": 595953, "title": "Power Meri", "original_title": "Power Meri", "slug_title": "power-meri", "date": "2018-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5TyFudjZQB1M92wet4sc8RLzTTK.jpg", "actors": [], "comments": [], "recommandations_id": []}

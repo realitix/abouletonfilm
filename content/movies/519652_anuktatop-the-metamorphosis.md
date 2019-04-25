@@ -1,1 +1,0 @@
-{"tmdb_id": 519652, "title": "Anuktatop: The Metamorphosis", "original_title": "Anuktatop: The Metamorphosis", "slug_title": "anuktatop-the-metamorphosis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5ZgLUW8ejNiTL708WxCgPPplC3Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

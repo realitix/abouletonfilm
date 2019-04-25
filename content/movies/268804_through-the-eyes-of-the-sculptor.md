@@ -1,1 +1,0 @@
-{"tmdb_id": 268804, "title": "Through the Eyes of the Sculptor", "original_title": "Through the Eyes of the Sculptor", "slug_title": "through-the-eyes-of-the-sculptor", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

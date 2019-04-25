@@ -1,1 +1,0 @@
-{"tmdb_id": 594830, "title": "UFC on ESPN+ 9: Dos Anjos vs. Lee", "original_title": "UFC on ESPN+ 9: Dos Anjos vs. Lee", "slug_title": "ufc-on-espn-9-dos-anjos-vs-lee", "date": "2019-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rafael dos Anjos ()", "Kevin Lee ()"], "comments": [], "recommandations_id": []}

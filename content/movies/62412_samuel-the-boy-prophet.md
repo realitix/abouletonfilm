@@ -1,1 +1,0 @@
-{"tmdb_id": 62412, "title": "Samuel the Boy Prophet", "original_title": "Samuel the Boy Prophet", "slug_title": "samuel-the-boy-prophet", "date": "1993-06-01", "genre": "Familial / Animation", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y5RewQDpQGKXR9fjzvdvApqPydj.jpg", "actors": [], "comments": [], "recommandations_id": []}

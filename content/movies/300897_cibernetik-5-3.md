@@ -1,1 +1,0 @@
-{"tmdb_id": 300897, "title": "Cibernetik 5.3", "original_title": "Cibernetik 5.3", "slug_title": "cibernetik-5-3", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oVdeOsIM85GPR9loWTsSkrn2pQh.jpg", "actors": [], "comments": [], "recommandations_id": []}

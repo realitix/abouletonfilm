@@ -1,1 +1,0 @@
-{"tmdb_id": 320692, "title": "Station du chemin de fer de Tokyo", "original_title": "Station du chemin de fer de Tokyo", "slug_title": "station-du-chemin-de-fer-de-tokyo", "date": "1898-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

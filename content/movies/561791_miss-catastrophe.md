@@ -1,1 +1,0 @@
-{"tmdb_id": 561791, "title": "Miss Catastrophe", "original_title": "Miss Catastrophe", "slug_title": "miss-catastrophe", "date": "1957-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f3xiAIZtdng67PG2Oz1ZCpjSyUu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 527421, "title": "School Rules: How They Help Us", "original_title": "School Rules: How They Help Us", "slug_title": "school-rules-how-they-help-us", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

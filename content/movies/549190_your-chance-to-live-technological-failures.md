@@ -1,1 +1,0 @@
-{"tmdb_id": 549190, "title": "Your Chance To Live: Technological Failures", "original_title": "Your Chance To Live: Technological Failures", "slug_title": "your-chance-to-live-technological-failures", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

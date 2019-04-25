@@ -1,1 +1,0 @@
-{"tmdb_id": 280037, "title": "Psycho Re-Mix", "original_title": "Psycho Re-Mix", "slug_title": "psycho-re-mix", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kyGSHA4Dn8l3fnmwnHAuIG5n4on.jpg", "actors": [], "comments": [], "recommandations_id": []}

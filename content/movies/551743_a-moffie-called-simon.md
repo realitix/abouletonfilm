@@ -1,1 +1,0 @@
-{"tmdb_id": 551743, "title": "A Moffie Called Simon", "original_title": "A Moffie Called Simon", "slug_title": "a-moffie-called-simon", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

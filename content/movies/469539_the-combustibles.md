@@ -1,1 +1,0 @@
-{"tmdb_id": 469539, "title": "The Combustibles", "original_title": "The Combustibles", "slug_title": "the-combustibles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

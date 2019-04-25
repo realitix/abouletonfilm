@@ -1,1 +1,0 @@
-{"tmdb_id": 446707, "title": "Paranoia", "original_title": "Paranoia", "slug_title": "paranoia", "date": "2007-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bXpGXvCvdTSPuHIBHXcBuCsL4jl.jpg", "actors": [], "comments": [], "recommandations_id": []}

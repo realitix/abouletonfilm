@@ -1,1 +1,0 @@
-{"tmdb_id": 256581, "title": "The Year of the Deer", "original_title": "L'ann\u00e9e du daim", "slug_title": "the-year-of-the-deer", "date": "1995-01-01", "genre": "Animation / Drame", "score": "6.2/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [256574, 213118, 256575, 256584]}

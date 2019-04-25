@@ -1,1 +1,0 @@
-{"tmdb_id": 543061, "title": "Balsamista", "original_title": "Balsamista", "slug_title": "balsamista", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

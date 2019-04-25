@@ -1,1 +1,0 @@
-{"tmdb_id": 574682, "title": "As a Fly Drawn to the Flame", "original_title": "Als een vlieg naar de vlam", "slug_title": "as-a-fly-drawn-to-the-flame", "date": "2007-01-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

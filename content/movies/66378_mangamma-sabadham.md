@@ -1,1 +1,0 @@
-{"tmdb_id": 66378, "title": "Mangamma Sabadham", "original_title": "Mangamma Sabadham", "slug_title": "mangamma-sabadham", "date": "1985-09-13", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kamal Haasan ()", "Madhavi ()", "Sujatha ()", "Sathyaraj ()", "Sukumari ()"], "comments": [], "recommandations_id": []}

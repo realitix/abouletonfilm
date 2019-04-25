@@ -1,1 +1,0 @@
-{"tmdb_id": 437022, "title": "Psychopath", "original_title": "Psychopath", "slug_title": "psychopath", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

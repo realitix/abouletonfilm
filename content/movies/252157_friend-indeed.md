@@ -1,1 +1,0 @@
-{"tmdb_id": 252157, "title": "Friend Indeed", "original_title": "Friend Indeed", "slug_title": "friend-indeed", "date": "1937-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator)", "Mary Gordon (Housekeeper)"], "comments": [], "recommandations_id": []}

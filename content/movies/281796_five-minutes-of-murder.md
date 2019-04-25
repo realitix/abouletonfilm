@@ -1,1 +1,0 @@
-{"tmdb_id": 281796, "title": "Five Minutes of Murder", "original_title": "\u00d6t perc gyilkoss\u00e1g", "slug_title": "five-minutes-of-murder", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

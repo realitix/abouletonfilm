@@ -1,1 +1,0 @@
-{"tmdb_id": 378315, "title": "Cheng Chin-i's Ghost Story", "original_title": "\u912d\u9032\u4e00\u7684\u9b3c\u6545\u4e8b", "slug_title": "cheng-chin-i-s-ghost-story", "date": "1990-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cheng Chin-i ()"], "comments": [], "recommandations_id": []}

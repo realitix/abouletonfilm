@@ -1,1 +1,0 @@
-{"tmdb_id": 455680, "title": "The Sandlot Journey", "original_title": "The Sandlot Journey", "slug_title": "the-sandlot-journey", "date": "2015-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

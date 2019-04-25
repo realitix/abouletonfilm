@@ -1,1 +1,0 @@
-{"tmdb_id": 195547, "title": "Esplanade des Invalides", "original_title": "Esplanade des Invalides", "slug_title": "esplanade-des-invalides", "date": "1900-05-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

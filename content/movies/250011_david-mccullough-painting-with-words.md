@@ -1,1 +1,0 @@
-{"tmdb_id": 250011, "title": "David McCullough: Painting with Words", "original_title": "David McCullough: Painting with Words", "slug_title": "david-mccullough-painting-with-words", "date": "2008-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David McCullough (Himself)"], "comments": [], "recommandations_id": []}

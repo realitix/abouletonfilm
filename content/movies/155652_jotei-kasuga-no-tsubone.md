@@ -1,1 +1,0 @@
-{"tmdb_id": 155652, "title": "Jotei: Kasuga no tsubone", "original_title": "Jotei: Kasuga no tsubone", "slug_title": "jotei-kasuga-no-tsubone", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sDqK0TwyplgpxOLGhOqlJdETCEf.jpg", "actors": [], "comments": [], "recommandations_id": []}

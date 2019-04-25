@@ -1,1 +1,0 @@
-{"tmdb_id": 524110, "title": "The Artifact Artist", "original_title": "The Artifact Artist", "slug_title": "the-artifact-artist", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oABneomQoOHM00w39TIYarU2JiK.jpg", "actors": [], "comments": [], "recommandations_id": []}

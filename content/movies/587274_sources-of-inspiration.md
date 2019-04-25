@@ -1,1 +1,0 @@
-{"tmdb_id": 587274, "title": "Sources of Inspiration", "original_title": "Sources d\u2019inspiration", "slug_title": "sources-of-inspiration", "date": "1968-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mamadou Som\u00e9 Coulibaly (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 368096, "title": "The Second Line", "original_title": "The Second Line", "slug_title": "the-second-line", "date": "2007-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

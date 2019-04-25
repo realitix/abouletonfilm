@@ -1,1 +1,0 @@
-{"tmdb_id": 280088, "title": "A Visit to Stan Brakhage", "original_title": "A Visit to Stan Brakhage", "slug_title": "a-visit-to-stan-brakhage", "date": "1966-07-03", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ykTIEhjA6VmFMBaaniPUeYifRCT.jpg", "actors": [], "comments": [], "recommandations_id": []}

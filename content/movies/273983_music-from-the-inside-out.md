@@ -1,1 +1,0 @@
-{"tmdb_id": 273983, "title": "Music from the Inside Out", "original_title": "Music from the Inside Out", "slug_title": "music-from-the-inside-out", "date": "2004-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

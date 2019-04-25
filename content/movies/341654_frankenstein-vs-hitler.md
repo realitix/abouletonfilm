@@ -1,1 +1,0 @@
-{"tmdb_id": 341654, "title": "Frankenstein Vs. Hitler", "original_title": "Frankenstein Vs. Hitler", "slug_title": "frankenstein-vs-hitler", "date": "2011-09-27", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yahuba Daly ()", "Tim Timkoko ()", "Dash Titan ()"], "comments": [], "recommandations_id": []}

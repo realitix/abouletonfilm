@@ -1,1 +1,0 @@
-{"tmdb_id": 398114, "title": "Now Eat My Script", "original_title": "Now Eat My Script", "slug_title": "now-eat-my-script", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

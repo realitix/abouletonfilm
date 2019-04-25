@@ -1,1 +1,0 @@
-{"tmdb_id": 426818, "title": "Pas de Trois", "original_title": "Pas de Trois", "slug_title": "pas-de-trois", "date": "1975-10-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 576025, "title": "Snow Job: The Media Hysteria of AIDS", "original_title": "Snow Job: The Media Hysteria of AIDS", "slug_title": "snow-job-the-media-hysteria-of-aids", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

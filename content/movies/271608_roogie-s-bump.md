@@ -1,1 +1,0 @@
-{"tmdb_id": 271608, "title": "Roogie's Bump", "original_title": "Roogie's Bump", "slug_title": "roogie-s-bump", "date": "1954-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eGHAvKMQLHRXihDcmxh13OrSAc3.jpg", "actors": [], "comments": [], "recommandations_id": []}

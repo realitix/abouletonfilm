@@ -1,1 +1,0 @@
-{"tmdb_id": 502785, "title": "Copy Paste Delete", "original_title": "Copy Paste Delete", "slug_title": "copy-paste-delete", "date": "2017-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vPHYYQIU1Bb8Ui7YSFmbaSgAx9x.jpg", "actors": [], "comments": [], "recommandations_id": []}

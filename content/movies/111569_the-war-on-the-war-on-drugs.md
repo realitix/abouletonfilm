@@ -1,1 +1,0 @@
-{"tmdb_id": 111569, "title": "The War on the War on Drugs", "original_title": "The War on the War on Drugs", "slug_title": "the-war-on-the-war-on-drugs", "date": "2002-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6NpZoRuOZCjMoeCKZ5CVZRpoBvR.jpg", "actors": [], "comments": [], "recommandations_id": []}

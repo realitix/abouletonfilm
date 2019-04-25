@@ -1,1 +1,0 @@
-{"tmdb_id": 472820, "title": "Elle et lui", "original_title": "Elle et lui", "slug_title": "elle-et-lui", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/orXbTfQUZrh0iZbwftReS6g25Du.jpg", "actors": ["Patricia Santos (Elle)", "Laura Levi ()"], "comments": [], "recommandations_id": []}

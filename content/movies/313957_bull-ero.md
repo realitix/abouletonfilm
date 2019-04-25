@@ -1,1 +1,0 @@
-{"tmdb_id": 313957, "title": "Bull-ero", "original_title": "Bull-ero", "slug_title": "bull-ero", "date": "1932-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

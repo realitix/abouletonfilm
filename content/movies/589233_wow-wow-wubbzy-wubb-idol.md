@@ -1,1 +1,0 @@
-{"tmdb_id": 589233, "title": "Wow Wow Wubbzy: Wubb Idol", "original_title": "Wow Wow Wubbzy: Wubb Idol", "slug_title": "wow-wow-wubbzy-wubb-idol", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

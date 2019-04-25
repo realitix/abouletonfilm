@@ -1,1 +1,0 @@
-{"tmdb_id": 393325, "title": "The Sorceress of Dirah", "original_title": "The Sorceress of Dirah", "slug_title": "the-sorceress-of-dirah", "date": "1992-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

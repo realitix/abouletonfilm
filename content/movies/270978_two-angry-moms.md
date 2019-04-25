@@ -1,1 +1,0 @@
-{"tmdb_id": 270978, "title": "Two Angry Moms", "original_title": "Two Angry Moms", "slug_title": "two-angry-moms", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 240376, "title": "50th Anniversary of Motion Pictures", "original_title": "50th Anniversary of Motion Pictures", "slug_title": "50th-anniversary-of-motion-pictures", "date": "1944-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

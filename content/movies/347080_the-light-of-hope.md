@@ -1,1 +1,0 @@
-{"tmdb_id": 347080, "title": "The Light of Hope", "original_title": "La luz de la esperanza", "slug_title": "the-light-of-hope", "date": "2005-07-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

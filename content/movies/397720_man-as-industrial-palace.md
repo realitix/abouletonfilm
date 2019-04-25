@@ -1,1 +1,0 @@
-{"tmdb_id": 397720, "title": "Man as Industrial Palace", "original_title": "Der Mensch als Industriepalast", "slug_title": "man-as-industrial-palace", "date": "2009-05-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kd0w51LATc0dQ77G81Y0nS1kne5.jpg", "actors": [], "comments": [], "recommandations_id": []}

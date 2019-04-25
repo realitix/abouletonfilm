@@ -1,1 +1,0 @@
-{"tmdb_id": 257622, "title": "The Servant's Shirt", "original_title": "Naukar Ki Kameez", "slug_title": "the-servant-s-shirt", "date": "1999-09-30", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ximCk7XTjjsRg9W0AEa6pBHlj56.jpg", "actors": ["Niraj Sah (Friend)"], "comments": [], "recommandations_id": []}

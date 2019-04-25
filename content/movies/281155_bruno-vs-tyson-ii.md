@@ -1,1 +1,0 @@
-{"tmdb_id": 281155, "title": "Bruno vs. Tyson II", "original_title": "Bruno vs. Tyson II", "slug_title": "bruno-vs-tyson-ii", "date": "1996-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3bOW6bvlkY7l3n4rkiVzvZ36GLv.jpg", "actors": [], "comments": [], "recommandations_id": []}

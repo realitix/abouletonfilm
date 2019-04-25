@@ -1,1 +1,0 @@
-{"tmdb_id": 489459, "title": "Quack Service", "original_title": "Quack Service", "slug_title": "quack-service", "date": "1943-09-03", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Una Merkel (Daffy)", "Gwen Kenyon (Dizzy)"], "comments": [], "recommandations_id": []}

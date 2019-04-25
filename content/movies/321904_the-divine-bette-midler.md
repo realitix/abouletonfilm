@@ -1,1 +1,0 @@
-{"tmdb_id": 321904, "title": "The Divine Bette Midler", "original_title": "The Divine Bette Midler", "slug_title": "the-divine-bette-midler", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yOkMn20qvi7o0gxyAX1ePOv4SPp.jpg", "actors": [], "comments": [], "recommandations_id": []}

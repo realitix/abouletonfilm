@@ -1,1 +1,0 @@
-{"tmdb_id": 46416, "title": "Pranali: The Tradition", "original_title": "Pranali: The Tradition", "slug_title": "pranali-the-tradition", "date": "2008-05-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sujata Sehgal (Pagli)"], "comments": [], "recommandations_id": []}

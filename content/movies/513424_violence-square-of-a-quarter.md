@@ -1,1 +1,0 @@
-{"tmdb_id": 513424, "title": "Violence: Square of a Quarter", "original_title": "Violence: Square of a Quarter", "slug_title": "violence-square-of-a-quarter", "date": "2017-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

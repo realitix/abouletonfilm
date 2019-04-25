@@ -1,1 +1,0 @@
-{"tmdb_id": 413931, "title": "\uae08\uc9c0\uc625\uc5fd", "original_title": "\uae08\uc9c0\uc625\uc5fd", "slug_title": "geumjiogyeob", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

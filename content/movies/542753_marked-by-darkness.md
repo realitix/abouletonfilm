@@ -1,1 +1,0 @@
-{"tmdb_id": 542753, "title": "Marked by Darkness", "original_title": "Pozna\u010den\u00ed tmou", "slug_title": "marked-by-darkness", "date": "1959-11-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

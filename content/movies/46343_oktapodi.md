@@ -1,1 +1,0 @@
-{"tmdb_id": 46343, "title": "Oktapodi", "original_title": "Oktapodi", "slug_title": "oktapodi", "date": "2007-01-01", "genre": "Animation", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/doxAMRIrjPzSotIXuDI80NvgGlA.jpg", "actors": [], "comments": [], "recommandations_id": [86118, 160332, 58515, 76028]}

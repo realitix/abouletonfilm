@@ -1,1 +1,0 @@
-{"tmdb_id": 555330, "title": "High School 911", "original_title": "High School 911", "slug_title": "high-school-911", "date": "2016-10-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wuExOn3zyThFRRaiGelZ1Uw50eZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

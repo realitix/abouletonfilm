@@ -1,1 +1,0 @@
-{"tmdb_id": 455507, "title": "The Other Side of the Wall", "original_title": "Al otro lado del muro", "slug_title": "the-other-side-of-the-wall", "date": "2017-03-19", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nJGectHLYOcqep2KKtciOBe2LMi.jpg", "actors": [], "comments": [], "recommandations_id": []}

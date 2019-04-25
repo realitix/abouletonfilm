@@ -1,1 +1,0 @@
-{"tmdb_id": 423552, "title": "A Mysterious Halloween", "original_title": "A Mysterious Halloween", "slug_title": "a-mysterious-halloween", "date": "2016-10-30", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6hREI2AwUtJtHModZxm4rLGTsql.jpg", "actors": [], "comments": [], "recommandations_id": []}

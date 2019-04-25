@@ -1,1 +1,0 @@
-{"tmdb_id": 369308, "title": "Cosmic Wave", "original_title": "Cosmic Wave", "slug_title": "cosmic-wave", "date": "1979-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 360960, "title": "Gotthard Graubner", "original_title": "Gotthard Graubner", "slug_title": "gotthard-graubner", "date": "2015-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8gFCdUZVdcDCxRmbRl0W582NJLl.jpg", "actors": [], "comments": [], "recommandations_id": []}

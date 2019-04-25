@@ -1,1 +1,0 @@
-{"tmdb_id": 463274, "title": "Castelo de Areia 3", "original_title": "Castelo de Areia 3", "slug_title": "castelo-de-areia-3", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pDJWsd1xnruIPRoDKQM4fGTsfCb.jpg", "actors": [], "comments": [], "recommandations_id": []}

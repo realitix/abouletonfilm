@@ -1,1 +1,0 @@
-{"tmdb_id": 476681, "title": "Loving Sophia", "original_title": "Le'ehov et Sophia", "slug_title": "loving-sophia", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

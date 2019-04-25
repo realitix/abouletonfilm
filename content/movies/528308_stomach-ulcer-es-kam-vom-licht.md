@@ -1,1 +1,0 @@
-{"tmdb_id": 528308, "title": "Stomach Ulcer - Es Kam vom Licht", "original_title": "Stomach Ulcer - Es Kam vom Licht", "slug_title": "stomach-ulcer-es-kam-vom-licht", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p6OM18SCNs5MTIGO4s7Q9GbCRnW.jpg", "actors": [], "comments": [], "recommandations_id": []}

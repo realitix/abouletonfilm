@@ -1,1 +1,0 @@
-{"tmdb_id": 357807, "title": "In the Dark", "original_title": "In the Dark", "slug_title": "in-the-dark", "date": "2013-01-01", "genre": "Romance / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

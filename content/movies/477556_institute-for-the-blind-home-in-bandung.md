@@ -1,1 +1,0 @@
-{"tmdb_id": 477556, "title": "Institute for the Blind Home in Bandung", "original_title": "Blindeninstituut en ooglijdersgasthuis te Bandoeng", "slug_title": "institute-for-the-blind-home-in-bandung", "date": "1913-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

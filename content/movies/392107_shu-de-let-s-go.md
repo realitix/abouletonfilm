@@ -1,1 +1,0 @@
-{"tmdb_id": 392107, "title": "SHU-DE! Let's Go", "original_title": "SHU-DE! Let's Go", "slug_title": "shu-de-let-s-go", "date": "2016-04-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shodekeh (Himself)"], "comments": [], "recommandations_id": []}

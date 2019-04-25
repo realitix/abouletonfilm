@@ -1,1 +1,0 @@
-{"tmdb_id": 536198, "title": "The Prodigal Son", "original_title": "L'enfant prodigue", "slug_title": "the-prodigal-son", "date": "1901-04-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

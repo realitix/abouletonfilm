@@ -1,1 +1,0 @@
-{"tmdb_id": 369837, "title": "La Bayadere", "original_title": "La Bayadere", "slug_title": "la-bayadere", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Teatro Alla Scala ()"], "comments": [], "recommandations_id": []}

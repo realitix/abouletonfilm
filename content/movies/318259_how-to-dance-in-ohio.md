@@ -1,1 +1,0 @@
-{"tmdb_id": 318259, "title": "How to Dance in Ohio", "original_title": "How to Dance in Ohio", "slug_title": "how-to-dance-in-ohio", "date": "2015-10-26", "genre": "Documentaire / Drame", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gcYgafRqi8YPIjNvLMUt3bzrP3w.jpg", "actors": [], "comments": [], "recommandations_id": []}

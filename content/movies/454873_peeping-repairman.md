@@ -1,1 +1,0 @@
-{"tmdb_id": 454873, "title": "Peeping Repairman", "original_title": "Peeping Repairman", "slug_title": "peeping-repairman", "date": "2010-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bryce Star ()", "John Jockson ()"], "comments": [], "recommandations_id": []}

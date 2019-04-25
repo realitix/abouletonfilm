@@ -1,1 +1,0 @@
-{"tmdb_id": 333500, "title": "The City in the Water", "original_title": "\ubb3c\uc18d\uc758 \ub3c4\uc2dc", "slug_title": "the-city-in-the-water", "date": "2015-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k8MtjRfGWxKhPpHGT2b0143kSSj.jpg", "actors": [], "comments": [], "recommandations_id": []}

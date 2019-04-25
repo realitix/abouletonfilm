@@ -1,1 +1,0 @@
-{"tmdb_id": 269435, "title": "Bundle of Joy", "original_title": "Bundle of Joy", "slug_title": "bundle-of-joy", "date": "2007-09-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

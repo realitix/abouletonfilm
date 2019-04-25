@@ -1,1 +1,0 @@
-{"tmdb_id": 151664, "title": "Sasneham Sumithra", "original_title": "Sasneham Sumithra", "slug_title": "sasneham-sumithra", "date": "2004-01-23", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

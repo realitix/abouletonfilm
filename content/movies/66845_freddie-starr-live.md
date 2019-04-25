@@ -1,1 +1,0 @@
-{"tmdb_id": 66845, "title": "Freddie Starr Live", "original_title": "Freddie Starr Live", "slug_title": "freddie-starr-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

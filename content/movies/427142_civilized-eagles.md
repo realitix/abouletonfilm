@@ -1,1 +1,0 @@
-{"tmdb_id": 427142, "title": "Civilized Eagles", "original_title": "\u00c1guilas civilizadas", "slug_title": "civilized-eagles", "date": "1927-08-31", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

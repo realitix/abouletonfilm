@@ -1,1 +1,0 @@
-{"tmdb_id": 488316, "title": "R\u00e9sistance", "original_title": "R\u00e9sistance", "slug_title": "resistance", "date": "2017-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

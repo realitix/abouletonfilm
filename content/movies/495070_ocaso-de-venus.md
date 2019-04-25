@@ -1,1 +1,0 @@
-{"tmdb_id": 495070, "title": "Ocaso de V\u00eanus", "original_title": "Ocaso de V\u00eanus", "slug_title": "ocaso-de-venus", "date": "2018-02-01", "genre": "Drame / Fantastique / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sergio Buchholz (Yosef von Kraemer)"], "comments": [], "recommandations_id": []}

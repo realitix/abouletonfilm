@@ -1,1 +1,0 @@
-{"tmdb_id": 513414, "title": "Strange Fruit", "original_title": "Strange Fruit", "slug_title": "strange-fruit", "date": "1969-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iVXa4dU2EqCmfOfCFtxuHdWHpZ5.jpg", "actors": [], "comments": [], "recommandations_id": []}

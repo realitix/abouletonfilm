@@ -1,1 +1,0 @@
-{"tmdb_id": 426833, "title": "The Shadow", "original_title": "The Shadow", "slug_title": "the-shadow", "date": "2015-11-11", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5kcklC167buAD4qc8iI9DFhSWt8.jpg", "actors": [], "comments": [], "recommandations_id": []}

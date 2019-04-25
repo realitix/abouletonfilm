@@ -1,1 +1,0 @@
-{"tmdb_id": 247617, "title": "Mas all\u00e1 del mall", "original_title": "Mas all\u00e1 del mall", "slug_title": "mas-alla-del-mall", "date": "2010-11-09", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4uvDpDox31zfjcq2bFtrHwPAKzI.jpg", "actors": [], "comments": [], "recommandations_id": []}

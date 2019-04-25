@@ -1,1 +1,0 @@
-{"tmdb_id": 343388, "title": "The Bashful Elephant", "original_title": "The Bashful Elephant", "slug_title": "the-bashful-elephant", "date": "1962-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

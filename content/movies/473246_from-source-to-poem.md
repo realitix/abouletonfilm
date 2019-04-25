@@ -1,1 +1,0 @@
-{"tmdb_id": 473246, "title": "From Source to Poem", "original_title": "From Source to Poem", "slug_title": "from-source-to-poem", "date": "2017-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rhk8B5MvjnW5S9QWxvAiNIyD4L3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 466303, "title": "Sandman", "original_title": "Sandman", "slug_title": "sandman", "date": "1973-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3SyJUsCH39jAWE5fB0EAV1c88cs.jpg", "actors": [], "comments": [], "recommandations_id": []}

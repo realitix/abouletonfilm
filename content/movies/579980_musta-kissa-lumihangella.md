@@ -1,1 +1,0 @@
-{"tmdb_id": 579980, "title": "Musta kissa lumihangella", "original_title": "Musta kissa lumihangella", "slug_title": "musta-kissa-lumihangella", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 212613, "title": "Mickey's Rescue", "original_title": "Mickey's Rescue", "slug_title": "mickey-s-rescue", "date": "1934-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mickey Rooney (Mickey McGuire)", "Hattie McDaniel (Maid)", "Billy Barty (Billy)"], "comments": [], "recommandations_id": []}

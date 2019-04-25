@@ -1,1 +1,0 @@
-{"tmdb_id": 579452, "title": "Mudda Mandaram", "original_title": "Mudda Mandaram", "slug_title": "mudda-mandaram", "date": "1981-09-11", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ygVIymuLLb9PnIeQntl3amzvnHQ.jpg", "actors": ["Pradeep ()", "poornima ()"], "comments": [], "recommandations_id": []}

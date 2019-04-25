@@ -1,1 +1,0 @@
-{"tmdb_id": 268428, "title": "Gypsies", "original_title": "Cig\u00e1nyok", "slug_title": "gypsies", "date": "1962-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/83VAP6bbqVVrH7uXzimbGjzbHoH.jpg", "actors": [], "comments": [], "recommandations_id": []}

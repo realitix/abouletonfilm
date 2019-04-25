@@ -1,1 +1,0 @@
-{"tmdb_id": 386710, "title": "Fantastic Cell", "original_title": "Fantastic Cell", "slug_title": "fantastic-cell", "date": "2003-09-15", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9AWyx37S6ePEKARo5h8lCmuzpU3.jpg", "actors": [], "comments": [], "recommandations_id": []}

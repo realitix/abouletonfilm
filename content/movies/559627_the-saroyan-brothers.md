@@ -1,1 +1,0 @@
-{"tmdb_id": 559627, "title": "The Saroyan Brothers", "original_title": "Saroyan Brothers", "slug_title": "the-saroyan-brothers", "date": "1969-06-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

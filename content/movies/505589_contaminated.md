@@ -1,1 +1,0 @@
-{"tmdb_id": 505589, "title": "Contaminated", "original_title": "Contaminated", "slug_title": "contaminated", "date": "", "genre": "Thriller / Action / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mf1QhpLhjXls3iI798TjlV79CVs.jpg", "actors": [], "comments": [], "recommandations_id": []}

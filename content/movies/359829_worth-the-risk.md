@@ -1,1 +1,0 @@
-{"tmdb_id": 359829, "title": "Worth the Risk?", "original_title": "Worth the Risk?", "slug_title": "worth-the-risk", "date": "1948-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nD301anMvc0EnVPjDQwUUDSOe7Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

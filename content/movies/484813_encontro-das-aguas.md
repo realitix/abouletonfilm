@@ -1,1 +1,0 @@
-{"tmdb_id": 484813, "title": "Encontro das \u00c1guas", "original_title": "Encontro das \u00c1guas", "slug_title": "encontro-das-aguas", "date": "2017-08-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

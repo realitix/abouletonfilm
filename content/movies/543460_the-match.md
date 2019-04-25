@@ -1,1 +1,0 @@
-{"tmdb_id": 543460, "title": "The Match", "original_title": "Utakmica", "slug_title": "the-match", "date": "1987-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dyntgNJCZsXNFdhe60IO2DfSfV1.jpg", "actors": [], "comments": [], "recommandations_id": []}

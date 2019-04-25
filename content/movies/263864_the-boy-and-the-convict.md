@@ -1,1 +1,0 @@
-{"tmdb_id": 263864, "title": "The Boy and the Convict", "original_title": "The Boy and the Convict", "slug_title": "the-boy-and-the-convict", "date": "1909-05-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 249380, "title": "Shangoul & Mangoul", "original_title": "Shangoul & Mangoul", "slug_title": "shangoul-mangoul", "date": "2000-10-13", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cIUMCmN00dHVWxmpezm7aEWqv0O.jpg", "actors": [], "comments": [], "recommandations_id": []}

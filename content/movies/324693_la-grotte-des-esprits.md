@@ -1,1 +1,0 @@
-{"tmdb_id": 324693, "title": "La grotte des esprits", "original_title": "La grotte des esprits", "slug_title": "la-grotte-des-esprits", "date": "1908-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

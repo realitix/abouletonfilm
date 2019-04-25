@@ -1,1 +1,0 @@
-{"tmdb_id": 293800, "title": "Deadly Lessons", "original_title": "Deadly Lessons", "slug_title": "deadly-lessons", "date": "2006-03-23", "genre": "", "score": "3.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A9ToFH2A2xljCX04cHTeHEbLRyk.jpg", "actors": ["Jon Voight (Dr. Crazx)"], "comments": [], "recommandations_id": []}

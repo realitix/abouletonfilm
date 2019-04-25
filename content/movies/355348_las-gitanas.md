@@ -1,1 +1,0 @@
-{"tmdb_id": 355348, "title": "Las Gitanas", "original_title": "Las Gitanas", "slug_title": "las-gitanas", "date": "2015-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

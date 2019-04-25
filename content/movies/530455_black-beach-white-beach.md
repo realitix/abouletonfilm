@@ -1,1 +1,0 @@
-{"tmdb_id": 530455, "title": "Black Beach White Beach", "original_title": "Black Beach White Beach", "slug_title": "black-beach-white-beach", "date": "2018-06-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3kNhkqcp74Zi3BeGvre35H9HK4F.jpg", "actors": [], "comments": [], "recommandations_id": []}

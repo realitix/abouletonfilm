@@ -1,1 +1,0 @@
-{"tmdb_id": 576480, "title": "Caterwaul", "original_title": "Caterwaul", "slug_title": "caterwaul", "date": "2016-06-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eYkQJWq7z0sdwQnX2Ve150xRAGt.jpg", "actors": ["Andrei Eunice Osano (Victim)", "Quennie Abuyuan (Friend)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 342603, "title": "Strings", "original_title": "Strings", "slug_title": "strings", "date": "2015-05-31", "genre": "Action / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bQhAlnmdcJUiz87mSWaheBdIUzs.jpg", "actors": [], "comments": [], "recommandations_id": []}

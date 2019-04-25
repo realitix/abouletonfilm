@@ -1,1 +1,0 @@
-{"tmdb_id": 448142, "title": "3 Minutes 12 Secondes Avant la Fin", "original_title": "3 Minutes 12 Secondes Avant la Fin", "slug_title": "3-minutes-12-secondes-avant-la-fin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r0jdvi1d2qPN0HhKTilpCVZ4rZA.jpg", "actors": [], "comments": [], "recommandations_id": []}

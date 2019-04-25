@@ -1,1 +1,0 @@
-{"tmdb_id": 516547, "title": "Den inre hamnen", "original_title": "Den inre hamnen", "slug_title": "den-inre-hamnen", "date": "1990-04-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3iQYZG0xhIhypzG9CmqN7AXVULH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 353724, "title": "As Can\u00e7\u00f5es da Maria 2", "original_title": "As Can\u00e7\u00f5es da Maria 2", "slug_title": "as-cancoes-da-maria-2", "date": "2012-10-29", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zFoo5K5fa4MiRpGFY8Ax5k6pRZq.jpg", "actors": [], "comments": [], "recommandations_id": []}

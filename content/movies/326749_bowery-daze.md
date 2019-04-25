@@ -1,1 +1,0 @@
-{"tmdb_id": 326749, "title": "Bowery Daze", "original_title": "Bowery Daze", "slug_title": "bowery-daze", "date": "1934-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

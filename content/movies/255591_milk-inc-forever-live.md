@@ -1,1 +1,0 @@
-{"tmdb_id": 255591, "title": "Milk Inc - Forever Live", "original_title": "Milk Inc - Forever Live", "slug_title": "milk-inc-forever-live", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dcY2ijbFZY33Bt7sp1KuOCWyGU6.jpg", "actors": [], "comments": [], "recommandations_id": []}

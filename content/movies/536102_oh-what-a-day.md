@@ -1,1 +1,0 @@
-{"tmdb_id": 536102, "title": "Oh! What a Day", "original_title": "Oh! What a Day", "slug_title": "oh-what-a-day", "date": "1918-08-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marcel Perez (Twede-Dan)", "Nilde Baracchi ()", "Thomas C. Regan ()", "William Slade ()"], "comments": [], "recommandations_id": []}

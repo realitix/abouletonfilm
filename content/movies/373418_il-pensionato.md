@@ -1,1 +1,0 @@
-{"tmdb_id": 373418, "title": "Il pensionato", "original_title": "Il pensionato", "slug_title": "il-pensionato", "date": "1955-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1uspvxyjiCIS4x1X8puRwfixsBQ.jpg", "actors": ["Piero Faconti ()", "Mary Valente ()"], "comments": [], "recommandations_id": []}

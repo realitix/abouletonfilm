@@ -1,1 +1,0 @@
-{"tmdb_id": 275174, "title": "Severe Kart Racing", "original_title": "Severe Kart Racing", "slug_title": "severe-kart-racing", "date": "2010-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

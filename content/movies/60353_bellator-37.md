@@ -1,1 +1,0 @@
-{"tmdb_id": 60353, "title": "Bellator 37", "original_title": "Bellator 37", "slug_title": "bellator-37", "date": "2011-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mhMjTaW2NjTMYXfNw6habNx0iih.jpg", "actors": [], "comments": [], "recommandations_id": []}

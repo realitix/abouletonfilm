@@ -1,1 +1,0 @@
-{"tmdb_id": 424984, "title": "Una historia que contar", "original_title": "Una historia que contar", "slug_title": "una-historia-que-contar", "date": "1998-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luis U. Ben\u00edtez ()", "Adolfo Llaurad\u00f3 ()", "Gretel Trujillo ()"], "comments": [], "recommandations_id": []}

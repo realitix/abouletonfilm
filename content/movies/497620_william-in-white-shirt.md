@@ -1,1 +1,0 @@
-{"tmdb_id": 497620, "title": "William In White Shirt", "original_title": "William In White Shirt", "slug_title": "william-in-white-shirt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rose Studd (Mom)", "Frank Studdhorse (William)"], "comments": [], "recommandations_id": []}

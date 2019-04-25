@@ -1,1 +1,0 @@
-{"tmdb_id": 489043, "title": "Historien om en moder", "original_title": "Historien om en moder", "slug_title": "historien-om-en-moder", "date": "1949-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

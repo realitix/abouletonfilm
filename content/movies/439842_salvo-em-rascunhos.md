@@ -1,1 +1,0 @@
-{"tmdb_id": 439842, "title": "Salvo em Rascunhos", "original_title": "Salvo em Rascunhos", "slug_title": "salvo-em-rascunhos", "date": "2017-02-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bebel Ribeiro ()", "Maria Fernanda Batalha ()", "Tatiana Ribeiro. ()"], "comments": [], "recommandations_id": []}

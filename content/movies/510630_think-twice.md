@@ -1,1 +1,0 @@
-{"tmdb_id": 510630, "title": "Think Twice", "original_title": "Think Twice", "slug_title": "think-twice", "date": "2016-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hrGqCRQpCi9YQQswOGYBaqcbiF.jpg", "actors": [], "comments": [], "recommandations_id": []}

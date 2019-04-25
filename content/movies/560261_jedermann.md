@@ -1,1 +1,0 @@
-{"tmdb_id": 560261, "title": "Jedermann", "original_title": "Jedermann", "slug_title": "jedermann", "date": "1916-09-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7fBszV80tJ72LPNAAm7Vz4YLs97.jpg", "actors": ["Werner Krauss (Death)", "Johanna Terwin (Buhlshaft)"], "comments": [], "recommandations_id": []}

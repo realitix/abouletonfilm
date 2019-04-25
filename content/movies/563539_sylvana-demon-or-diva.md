@@ -1,1 +1,0 @@
-{"tmdb_id": 563539, "title": "Sylvana, Demon or Diva", "original_title": "Sylvana, Demon or Diva", "slug_title": "sylvana-demon-or-diva", "date": "2018-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2YWoHS3D6Xdm5s0gmEcVfrjds5q.jpg", "actors": ["Sylvana Simons ()"], "comments": [], "recommandations_id": []}

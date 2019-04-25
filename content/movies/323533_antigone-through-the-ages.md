@@ -1,1 +1,0 @@
-{"tmdb_id": 323533, "title": "Antigone: Through the Ages", "original_title": "Antigone: Through the Ages", "slug_title": "antigone-through-the-ages", "date": "2014-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

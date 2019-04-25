@@ -1,1 +1,0 @@
-{"tmdb_id": 260397, "title": "Buried in Light", "original_title": "Buried in Light", "slug_title": "buried-in-light", "date": "1994-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hZy3lpGoH3pt6EYKb4G6ETnsp7l.jpg", "actors": [], "comments": [], "recommandations_id": []}

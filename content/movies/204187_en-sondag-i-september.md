@@ -1,1 +1,0 @@
-{"tmdb_id": 204187, "title": "En s\u00f6ndag i september", "original_title": "En s\u00f6ndag i september", "slug_title": "en-sondag-i-september", "date": "1963-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bTSG4Aao8Vkt4lHXLgTwHpZqbyC.jpg", "actors": [], "comments": [], "recommandations_id": []}

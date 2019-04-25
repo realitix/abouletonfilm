@@ -1,1 +1,0 @@
-{"tmdb_id": 41061, "title": "Mattie the Goose-boy", "original_title": "L\u00fadas Matyi", "slug_title": "mattie-the-goose-boy", "date": "1977-04-06", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vWnbTiDslZ9H3i4iU2x5TzpRkTv.jpg", "actors": [], "comments": [], "recommandations_id": [40993, 40987]}

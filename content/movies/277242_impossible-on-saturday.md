@@ -1,1 +1,0 @@
-{"tmdb_id": 277242, "title": "Impossible on Saturday", "original_title": "Pas question le samedi", "slug_title": "impossible-on-saturday", "date": "1965-01-20", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rGu8ZmAx8o4MGK4KXLsA0IRHOwj.jpg", "actors": [], "comments": [], "recommandations_id": []}

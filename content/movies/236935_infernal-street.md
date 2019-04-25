@@ -1,1 +1,0 @@
-{"tmdb_id": 236935, "title": "Infernal Street", "original_title": "Qi sha jie", "slug_title": "infernal-street", "date": "1973-09-13", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zMNyFcTskPpZB6rlJIoY8bmBTnV.jpg", "actors": ["Chang Feng ()", "Wan Hsi Chin ()", "Ho Wai-Hung ()"], "comments": [], "recommandations_id": []}

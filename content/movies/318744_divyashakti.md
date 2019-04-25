@@ -1,1 +1,0 @@
-{"tmdb_id": 318744, "title": "Divyashakti", "original_title": "Divyashakti", "slug_title": "divyashakti", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

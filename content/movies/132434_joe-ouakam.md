@@ -1,1 +1,0 @@
-{"tmdb_id": 132434, "title": "Joe Ouakam", "original_title": "Joe Ouakam", "slug_title": "joe-ouakam", "date": "2012-09-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

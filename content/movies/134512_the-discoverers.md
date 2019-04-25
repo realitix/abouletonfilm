@@ -1,1 +1,0 @@
-{"tmdb_id": 134512, "title": "The Discoverers", "original_title": "The Discoverers", "slug_title": "the-discoverers", "date": "1993-10-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5MRM7AULeyJ11SCDylv12V78T31.jpg", "actors": [], "comments": [], "recommandations_id": []}

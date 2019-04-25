@@ -1,1 +1,0 @@
-{"tmdb_id": 191438, "title": "A Vida de Rafi", "original_title": "A Vida de Rafi", "slug_title": "a-vida-de-rafi", "date": "2013-05-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xrNzgJNcvnRsdJvppbn3bK3Q2Ji.jpg", "actors": [], "comments": [], "recommandations_id": []}

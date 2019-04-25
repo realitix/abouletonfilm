@@ -1,1 +1,0 @@
-{"tmdb_id": 331683, "title": "Once Upon a Time in Beirut", "original_title": "Kanya Ya Ma Kan, Beyrouth", "slug_title": "once-upon-a-time-in-beirut", "date": "1995-01-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

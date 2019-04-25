@@ -1,1 +1,0 @@
-{"tmdb_id": 327520, "title": "Wasp Waist", "original_title": "Wasp Waist", "slug_title": "wasp-waist", "date": "2011-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Pynu8H8T6vbNcJwBLtGF7pWzzg.jpg", "actors": [], "comments": [], "recommandations_id": []}

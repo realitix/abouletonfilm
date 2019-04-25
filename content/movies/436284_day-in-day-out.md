@@ -1,1 +1,0 @@
-{"tmdb_id": 436284, "title": "Day in, Day Out", "original_title": "Jak Co Dzien", "slug_title": "day-in-day-out", "date": "1955-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

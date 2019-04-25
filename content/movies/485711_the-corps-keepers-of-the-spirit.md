@@ -1,1 +1,0 @@
-{"tmdb_id": 485711, "title": "The Corps: Keepers of the Spirit", "original_title": "The Corps: Keepers of the Spirit", "slug_title": "the-corps-keepers-of-the-spirit", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

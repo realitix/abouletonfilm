@@ -1,1 +1,0 @@
-{"tmdb_id": 87312, "title": "Soldiers Of Conscience", "original_title": "Soldiers Of Conscience", "slug_title": "soldiers-of-conscience", "date": "2007-01-01", "genre": "Documentaire / Guerre", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hLSvlvMoFRKGHE2Vmi8fCUnBrKF.jpg", "actors": [], "comments": [], "recommandations_id": []}

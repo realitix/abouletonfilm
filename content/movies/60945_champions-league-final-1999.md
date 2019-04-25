@@ -1,1 +1,0 @@
-{"tmdb_id": 60945, "title": "Champions League Final 1999", "original_title": "Champions League Final 1999", "slug_title": "champions-league-final-1999", "date": "", "genre": "", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/72PUwLlnmMHfOR8rI0yrrPnuV2K.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 343315, "title": "The Flask", "original_title": "The Flask", "slug_title": "the-flask", "date": "2011-01-01", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 402005, "title": "Bellator 152: Italy", "original_title": "Bellator 152: Italy", "slug_title": "bellator-152-italy", "date": "2016-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jrqJe4AKcyp6DZc8TPLdxTSwk92.jpg", "actors": [], "comments": [], "recommandations_id": []}

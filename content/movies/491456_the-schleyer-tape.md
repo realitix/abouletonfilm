@@ -1,1 +1,0 @@
-{"tmdb_id": 491456, "title": "The Schleyer Tape", "original_title": "Das Schleyer-Band", "slug_title": "the-schleyer-tape", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cZsQfEDHtLeRnv59lBvM19k8hwd.jpg", "actors": [], "comments": [], "recommandations_id": []}

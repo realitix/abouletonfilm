@@ -1,1 +1,0 @@
-{"tmdb_id": 319485, "title": "John Paul II Vol 3: 1992-1995: Witness to Peace", "original_title": "John Paul II Vol 3: 1992-1995: Witness to Peace", "slug_title": "john-paul-ii-vol-3-1992-1995-witness-to-peace", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

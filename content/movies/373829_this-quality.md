@@ -1,1 +1,0 @@
-{"tmdb_id": 373829, "title": "This Quality", "original_title": "This Quality", "slug_title": "this-quality", "date": "2010-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 374685, "title": "Atrophy", "original_title": "Atrophy", "slug_title": "atrophy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hU6DXPEEwNnFOIG925DaIlABzEN.jpg", "actors": [], "comments": [], "recommandations_id": []}

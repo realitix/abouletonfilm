@@ -1,1 +1,0 @@
-{"tmdb_id": 554437, "title": "Eat 'Em Alive", "original_title": "Eat 'Em Alive", "slug_title": "eat-em-alive", "date": "1933-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4vZG0fXQOLiRbVZmdvCGiuI8ZH1.jpg", "actors": ["Harold Austin (Himself)"], "comments": [], "recommandations_id": []}

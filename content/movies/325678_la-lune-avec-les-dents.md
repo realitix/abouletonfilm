@@ -1,1 +1,0 @@
-{"tmdb_id": 325678, "title": "La lune avec les dents", "original_title": "La lune avec les dents", "slug_title": "la-lune-avec-les-dents", "date": "1967-02-16", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/spWB5UyBMOa2vA5JHqwggTA64V5.jpg", "actors": [], "comments": [], "recommandations_id": []}

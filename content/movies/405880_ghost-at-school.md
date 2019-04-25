@@ -1,1 +1,0 @@
-{"tmdb_id": 405880, "title": "Ghost at School", "original_title": "Ghost at School", "slug_title": "ghost-at-school", "date": "2011-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/53JqO3c9AXPiPTFmIcy8r9nw5TB.jpg", "actors": [], "comments": [], "recommandations_id": []}

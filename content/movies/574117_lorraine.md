@@ -1,1 +1,1 @@
-{"tmdb_id": 574117, "title": "Lorraine", "original_title": "Lorraine", "slug_title": "lorraine", "date": "2018-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 574117, "title": "Lorraine", "original_title": "Lorraine", "slug_title": "lorraine", "date": "2018-02-03", "genre": [""], "score": "0.0/10", "synopsis": "A Short Film about love.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

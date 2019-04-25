@@ -1,1 +1,0 @@
-{"tmdb_id": 311341, "title": "Seriously Nuts: Xtreme Riders", "original_title": "Seriously Nuts: Xtreme Riders", "slug_title": "seriously-nuts-xtreme-riders", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

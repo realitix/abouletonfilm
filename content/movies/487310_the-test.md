@@ -1,1 +1,0 @@
-{"tmdb_id": 487310, "title": "The Test", "original_title": "The Test", "slug_title": "the-test", "date": "1909-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Billy Quirk (Harry)", "Mary Pickford (Bessie)"], "comments": [], "recommandations_id": []}

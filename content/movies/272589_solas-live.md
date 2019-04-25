@@ -1,1 +1,0 @@
-{"tmdb_id": 272589, "title": "Solas Live", "original_title": "Solas Live", "slug_title": "solas-live", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

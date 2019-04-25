@@ -1,1 +1,0 @@
-{"tmdb_id": 539043, "title": "La souris bleue", "original_title": "La souris bleue", "slug_title": "la-souris-bleue", "date": "1937-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iugM7uawxxORZE9GVJHUX3bkWEp.jpg", "actors": [], "comments": [], "recommandations_id": []}

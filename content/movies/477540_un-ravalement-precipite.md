@@ -1,1 +1,0 @@
-{"tmdb_id": 477540, "title": "Un ravalement pr\u00e9cipit\u00e9", "original_title": "Un ravalement pr\u00e9cipit\u00e9", "slug_title": "un-ravalement-precipite", "date": "1911-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

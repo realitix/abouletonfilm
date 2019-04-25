@@ -1,1 +1,0 @@
-{"tmdb_id": 357342, "title": "The First Adventures of Thud and Blunder", "original_title": "The First Adventures of Thud and Blunder", "slug_title": "the-first-adventures-of-thud-and-blunder", "date": "1964-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

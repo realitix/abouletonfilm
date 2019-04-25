@@ -1,1 +1,0 @@
-{"tmdb_id": 397571, "title": "Keechaka", "original_title": "Keechaka", "slug_title": "keechaka", "date": "2015-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yamini Bhaskar ()"], "comments": [], "recommandations_id": []}

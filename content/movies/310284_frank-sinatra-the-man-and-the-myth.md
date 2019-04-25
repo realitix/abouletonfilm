@@ -1,1 +1,0 @@
-{"tmdb_id": 310284, "title": "Frank Sinatra: The Man and the Myth", "original_title": "Frank Sinatra: The Man and the Myth", "slug_title": "frank-sinatra-the-man-and-the-myth", "date": "2004-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

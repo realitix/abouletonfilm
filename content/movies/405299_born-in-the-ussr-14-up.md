@@ -1,1 +1,0 @@
-{"tmdb_id": 405299, "title": "Born in the USSR: 14 Up", "original_title": "Born in the USSR: 14 Up", "slug_title": "born-in-the-ussr-14-up", "date": "1998-07-29", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nQog7lrDmxKMKfgdzuq0qkYnzMj.jpg", "actors": [], "comments": [], "recommandations_id": [182660]}

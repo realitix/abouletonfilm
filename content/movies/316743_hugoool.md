@@ -1,1 +1,0 @@
-{"tmdb_id": 316743, "title": "Hugoool!", "original_title": "Hugoool!", "slug_title": "hugoool", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hugo S\u00e1nchez ()", "Luis Garc\u00eda Postigo ()", "Carlos Albert ()", "David Pati\u00f1o ()", "Christian Martinoli ()"], "comments": [], "recommandations_id": []}

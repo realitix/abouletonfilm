@@ -1,1 +1,0 @@
-{"tmdb_id": 98406, "title": "The Dog Pound", "original_title": "La Perrera", "slug_title": "the-dog-pound", "date": "2006-05-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/joMLqSgicIBZpzxNmacoOUr2MfW.jpg", "actors": [], "comments": [], "recommandations_id": []}

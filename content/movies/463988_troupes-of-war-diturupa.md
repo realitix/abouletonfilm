@@ -1,1 +1,0 @@
-{"tmdb_id": 463988, "title": "Troupes of War: Diturupa", "original_title": "Troupes of War: Diturupa", "slug_title": "troupes-of-war-diturupa", "date": "2017-06-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qhJuRbi5ryeWbmq0ni7zrNBAXQw.jpg", "actors": [], "comments": [], "recommandations_id": []}

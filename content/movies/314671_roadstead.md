@@ -1,1 +1,0 @@
-{"tmdb_id": 314671, "title": "Roadstead", "original_title": "Rada", "slug_title": "roadstead", "date": "2014-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

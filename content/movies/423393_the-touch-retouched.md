@@ -1,1 +1,0 @@
-{"tmdb_id": 423393, "title": "The Touch Retouched", "original_title": "The Touch Retouched", "slug_title": "the-touch-retouched", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eUUbv9EYUh30vGEb3Mt5Z4YpsLW.jpg", "actors": [], "comments": [], "recommandations_id": []}

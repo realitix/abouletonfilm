@@ -1,1 +1,0 @@
-{"tmdb_id": 279694, "title": "My Necklace, Myself", "original_title": "My Necklace, Myself", "slug_title": "my-necklace-myself", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 519798, "title": "La Belle at the Movies", "original_title": "La Belle at the Movies", "slug_title": "la-belle-at-the-movies", "date": "2015-11-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

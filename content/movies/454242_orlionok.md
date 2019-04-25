@@ -1,1 +1,0 @@
-{"tmdb_id": 454242, "title": "\u041e\u0440\u043b\u0451\u043d\u043e\u043a", "original_title": "\u041e\u0440\u043b\u0451\u043d\u043e\u043a", "slug_title": "orlionok", "date": "1968-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9lCiKcdVUEHOnmcJihe9MSxaCNh.jpg", "actors": [], "comments": [], "recommandations_id": []}

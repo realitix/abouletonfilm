@@ -1,1 +1,0 @@
-{"tmdb_id": 273695, "title": "Stitched: The Film", "original_title": "Stitched: The Film", "slug_title": "stitched-the-film", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a4MBxbwCIZnICYmV49BXNRkTtRa.jpg", "actors": [], "comments": [], "recommandations_id": []}

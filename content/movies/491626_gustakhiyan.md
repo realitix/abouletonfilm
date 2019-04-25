@@ -1,1 +1,0 @@
-{"tmdb_id": 491626, "title": "Gustakhiyan", "original_title": "Gustakhiyan", "slug_title": "gustakhiyan", "date": "2018-12-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sushant Singh Rajput ()", "Priyanka Chopra ()", "Pooja Kumar ()"], "comments": [], "recommandations_id": [509400, 460465, 155129, 453399]}

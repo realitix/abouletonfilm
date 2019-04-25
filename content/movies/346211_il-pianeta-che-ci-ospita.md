@@ -1,1 +1,0 @@
-{"tmdb_id": 346211, "title": "Il pianeta che ci ospita", "original_title": "Il pianeta che ci ospita", "slug_title": "il-pianeta-che-ci-ospita", "date": "2015-04-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7J96uOIeu9bsjdjttCxKpsnteHA.jpg", "actors": [], "comments": [], "recommandations_id": []}

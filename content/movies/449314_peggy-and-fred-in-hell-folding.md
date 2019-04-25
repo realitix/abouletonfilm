@@ -1,1 +1,0 @@
-{"tmdb_id": 449314, "title": "Peggy and Fred in Hell: Folding", "original_title": "Peggy and Fred in Hell: Folding", "slug_title": "peggy-and-fred-in-hell-folding", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

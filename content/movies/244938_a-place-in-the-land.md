@@ -1,1 +1,0 @@
-{"tmdb_id": 244938, "title": "A Place in the Land", "original_title": "A Place in the Land", "slug_title": "a-place-in-the-land", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/76mJsX6ySgXJkSpnGUCOUyLB9ml.jpg", "actors": [], "comments": [], "recommandations_id": []}

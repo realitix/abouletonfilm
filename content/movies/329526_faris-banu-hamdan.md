@@ -1,1 +1,0 @@
-{"tmdb_id": 329526, "title": "Faris Banu Hamdan", "original_title": "Faris Banu Hamdan", "slug_title": "faris-banu-hamdan", "date": "1961-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

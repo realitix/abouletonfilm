@@ -1,1 +1,0 @@
-{"tmdb_id": 535907, "title": "Cl\u00e9mence", "original_title": "Cl\u00e9mence", "slug_title": "clemence", "date": "2007-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wCt0NVrYSbnu4Mw6jSxK8DzfaFL.jpg", "actors": [], "comments": [], "recommandations_id": []}

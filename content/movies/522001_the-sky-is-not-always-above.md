@@ -1,1 +1,0 @@
-{"tmdb_id": 522001, "title": "The Sky Is Not Always Above", "original_title": "The Sky Is Not Always Above", "slug_title": "the-sky-is-not-always-above", "date": "2006-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

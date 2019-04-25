@@ -1,1 +1,0 @@
-{"tmdb_id": 584332, "title": "Paper Chains", "original_title": "Paper Chains", "slug_title": "paper-chains", "date": "2018-07-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aVF1Fhba9WWjy8uywVwNXFVnFrH.jpg", "actors": ["Grace Czerwonka (Girl)", "Silas Camerer (Boy)"], "comments": [], "recommandations_id": []}

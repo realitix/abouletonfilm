@@ -1,1 +1,0 @@
-{"tmdb_id": 555985, "title": "Rouletabille chez les boh\u00e9miens", "original_title": "Rouletabille chez les boh\u00e9miens", "slug_title": "rouletabille-chez-les-bohemiens", "date": "1922-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

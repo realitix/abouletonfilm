@@ -1,1 +1,0 @@
-{"tmdb_id": 313342, "title": "Giornale della guerra d'Italia: N. 2", "original_title": "Giornale della guerra d'Italia: N. 2", "slug_title": "giornale-della-guerra-d-italia-n-2", "date": "1917-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

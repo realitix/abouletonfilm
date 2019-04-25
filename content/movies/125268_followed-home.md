@@ -1,1 +1,0 @@
-{"tmdb_id": 125268, "title": "Followed Home", "original_title": "Followed Home", "slug_title": "followed-home", "date": "2010-03-03", "genre": "", "score": "1.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qA56xmjnVCYXjIqiaOZxhKhS82n.jpg", "actors": [], "comments": [], "recommandations_id": []}

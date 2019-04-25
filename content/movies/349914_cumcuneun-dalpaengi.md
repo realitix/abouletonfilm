@@ -1,1 +1,0 @@
-{"tmdb_id": 349914, "title": "\ucda4\ucd94\ub294 \ub2ec\ud33d\uc774", "original_title": "\ucda4\ucd94\ub294 \ub2ec\ud33d\uc774", "slug_title": "cumcuneun-dalpaengi", "date": "1983-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

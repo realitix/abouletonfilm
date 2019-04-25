@@ -1,1 +1,0 @@
-{"tmdb_id": 396182, "title": "Seeding Fear", "original_title": "Seeding Fear", "slug_title": "seeding-fear", "date": "2015-07-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dLvmJRDAE2TEXZABme8wp9BOVIT.jpg", "actors": ["Michael White (Himself)"], "comments": [], "recommandations_id": []}

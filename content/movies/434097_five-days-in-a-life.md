@@ -1,1 +1,0 @@
-{"tmdb_id": 434097, "title": "Five Days in a Life", "original_title": "Cinq jours d'une vie", "slug_title": "five-days-in-a-life", "date": "1973-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Falaye Dabo ()", "Falaye Dabo ()", "Myriam Thiam ()"], "comments": [], "recommandations_id": []}

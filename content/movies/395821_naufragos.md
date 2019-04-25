@@ -1,1 +1,0 @@
-{"tmdb_id": 395821, "title": "N\u00e1ufragos", "original_title": "N\u00e1ufragos", "slug_title": "naufragos", "date": "2012-05-02", "genre": "Drame / Animation", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8vRVktgbpJ1HA2lxgqjhiV0XCMh.jpg", "actors": [], "comments": [], "recommandations_id": []}

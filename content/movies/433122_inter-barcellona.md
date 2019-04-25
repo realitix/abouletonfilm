@@ -1,1 +1,0 @@
-{"tmdb_id": 433122, "title": "Inter - Barcellona", "original_title": "Inter - Barcellona", "slug_title": "inter-barcellona", "date": "2010-04-20", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nl6Ry2XeM7L0Kpnh79Cu7hVWksl.jpg", "actors": [], "comments": [], "recommandations_id": []}

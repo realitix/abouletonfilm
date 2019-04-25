@@ -1,1 +1,0 @@
-{"tmdb_id": 466482, "title": "Temporary Slaraffenland", "original_title": "Temporary Slaraffenland", "slug_title": "temporary-slaraffenland", "date": "2009-09-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vwkQoO4Njf2jXNHcap0STt5bM4m.jpg", "actors": [], "comments": [], "recommandations_id": []}

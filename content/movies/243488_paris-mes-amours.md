@@ -1,1 +1,0 @@
-{"tmdb_id": 243488, "title": "Paris mes amours", "original_title": "Paris mes amours", "slug_title": "paris-mes-amours", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

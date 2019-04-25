@@ -1,1 +1,0 @@
-{"tmdb_id": 312588, "title": "History of World War I: America Goes Over", "original_title": "History of World War I: America Goes Over", "slug_title": "history-of-world-war-i-america-goes-over", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

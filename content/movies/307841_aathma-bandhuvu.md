@@ -1,1 +1,0 @@
-{"tmdb_id": 307841, "title": "Aathma Bandhuvu", "original_title": "Aathma Bandhuvu", "slug_title": "aathma-bandhuvu", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

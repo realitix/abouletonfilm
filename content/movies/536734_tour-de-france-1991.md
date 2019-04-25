@@ -1,1 +1,0 @@
-{"tmdb_id": 536734, "title": "Tour de France 1991", "original_title": "Tour de France 1991", "slug_title": "tour-de-france-1991", "date": "", "genre": "", "score": "0.0/10", "synopsis": "R\u00e9sum\u00e9 du Tour de France 1991", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

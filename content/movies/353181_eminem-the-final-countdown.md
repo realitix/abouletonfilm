@@ -1,1 +1,0 @@
-{"tmdb_id": 353181, "title": "Eminem: The Final Countdown", "original_title": "Eminem: The Final Countdown", "slug_title": "eminem-the-final-countdown", "date": "2005-12-03", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eminem (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 424918, "title": "Fishermen's Conversations", "original_title": "Fishermen's Conversations", "slug_title": "fishermen-s-conversations", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

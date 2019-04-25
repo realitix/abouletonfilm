@@ -1,1 +1,0 @@
-{"tmdb_id": 272758, "title": "Trampled By Turtles: Live at First Avenue", "original_title": "Trampled By Turtles: Live at First Avenue", "slug_title": "trampled-by-turtles-live-at-first-avenue", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

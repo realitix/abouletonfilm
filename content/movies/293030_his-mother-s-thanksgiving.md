@@ -1,1 +1,0 @@
-{"tmdb_id": 293030, "title": "His Mother's Thanksgiving", "original_title": "His Mother's Thanksgiving", "slug_title": "his-mother-s-thanksgiving", "date": "1910-11-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

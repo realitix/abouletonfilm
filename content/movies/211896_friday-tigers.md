@@ -1,1 +1,0 @@
-{"tmdb_id": 211896, "title": "Friday Tigers", "original_title": "Friday Tigers", "slug_title": "friday-tigers", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aidee Walker (Ana)", "Anysia Davies (Nellie)", "Matariki Whatarau (Adam)", "Simon Wolfgram (Mike)"], "comments": [], "recommandations_id": []}

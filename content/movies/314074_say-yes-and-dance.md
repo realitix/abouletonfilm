@@ -1,1 +1,0 @@
-{"tmdb_id": 314074, "title": "Say Yes and Dance", "original_title": "Sano kiitos ja tanssi", "slug_title": "say-yes-and-dance", "date": "2012-11-16", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

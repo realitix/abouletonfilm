@@ -1,1 +1,0 @@
-{"tmdb_id": 302818, "title": "Poverty, Inc.", "original_title": "Poverty, Inc.", "slug_title": "poverty-inc", "date": "2014-07-10", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h6SATW2bfGjjVaWJj43aFFqsFHG.jpg", "actors": [], "comments": [], "recommandations_id": [419289, 407897, 317945, 270648]}

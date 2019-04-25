@@ -1,1 +1,0 @@
-{"tmdb_id": 321633, "title": "How to be a Prince", "original_title": "How to be a Prince", "slug_title": "how-to-be-a-prince", "date": "2003-06-18", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x8D7ooDO0ITfV6bpOt1DOudgy1A.jpg", "actors": [], "comments": [], "recommandations_id": []}

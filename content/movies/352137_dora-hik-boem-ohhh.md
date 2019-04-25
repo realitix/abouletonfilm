@@ -1,1 +1,0 @@
-{"tmdb_id": 352137, "title": "Dora - Hik-Boem-Ohhh!", "original_title": "Dora - Hik-Boem-Ohhh!", "slug_title": "dora-hik-boem-ohhh", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7uPGsnUn2wxV0Zopn1IQLPxpBiW.jpg", "actors": [], "comments": [], "recommandations_id": []}

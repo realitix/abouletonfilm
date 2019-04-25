@@ -1,1 +1,0 @@
-{"tmdb_id": 302673, "title": "Relativity Redux", "original_title": "Relativity Redux", "slug_title": "relativity-redux", "date": "2013-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

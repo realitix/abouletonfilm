@@ -1,1 +1,0 @@
-{"tmdb_id": 10526, "title": "Cancer Vixen: A True Story", "original_title": "Cancer Vixen: A True Story", "slug_title": "cancer-vixen-a-true-story", "date": "2015-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cate Blanchett (n.a.)"], "comments": [], "recommandations_id": []}

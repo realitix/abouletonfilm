@@ -1,1 +1,0 @@
-{"tmdb_id": 412435, "title": "Penguin baywatch", "original_title": "Penguin baywatch", "slug_title": "penguin-baywatch", "date": "2000-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vmOxnhK01YL7hYApJaIaD7OOR0x.jpg", "actors": [], "comments": [], "recommandations_id": []}

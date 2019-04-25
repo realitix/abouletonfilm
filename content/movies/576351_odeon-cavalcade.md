@@ -1,1 +1,0 @@
-{"tmdb_id": 576351, "title": "Odeon Cavalcade", "original_title": "Odeon Cavalcade", "slug_title": "odeon-cavalcade", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

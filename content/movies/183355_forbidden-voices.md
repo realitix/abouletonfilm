@@ -1,1 +1,0 @@
-{"tmdb_id": 183355, "title": "Forbidden Voices", "original_title": "Forbidden Voices", "slug_title": "forbidden-voices", "date": "2012-05-10", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q8Q9WFSVr4knb4xpRap3xQXQZfq.jpg", "actors": ["Yoani S\u00e1nchez (Herself)"], "comments": [], "recommandations_id": []}

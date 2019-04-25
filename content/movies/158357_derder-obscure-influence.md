@@ -1,1 +1,0 @@
-{"tmdb_id": 158357, "title": "Derder Obscure Influence", "original_title": "Derder Obscure Influence", "slug_title": "derder-obscure-influence", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qRGSFUXICrhEGOWNZOZx7vvWBH9.jpg", "actors": [], "comments": [], "recommandations_id": []}

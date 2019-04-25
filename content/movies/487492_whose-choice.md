@@ -1,1 +1,0 @@
-{"tmdb_id": 487492, "title": "Whose Choice?", "original_title": "Whose Choice?", "slug_title": "whose-choice", "date": "1976-11-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anthea Meadows (Ann Mason)", "Peter Powell (Gynecologist)", "Johnnie Clarke (Boyfriend)"], "comments": [], "recommandations_id": []}

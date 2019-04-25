@@ -1,1 +1,0 @@
-{"tmdb_id": 197595, "title": "Bird Park", "original_title": "Bird Park", "slug_title": "bird-park", "date": "2013-03-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/827kFoDi7E3g237EYyIqoC2JMHl.jpg", "actors": ["George Young ()"], "comments": [], "recommandations_id": []}

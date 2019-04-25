@@ -1,1 +1,0 @@
-{"tmdb_id": 345354, "title": "Carrie: The Musical", "original_title": "Carrie: The Musical", "slug_title": "carrie-the-musical", "date": "1988-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

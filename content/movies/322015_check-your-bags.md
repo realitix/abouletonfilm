@@ -1,1 +1,0 @@
-{"tmdb_id": 322015, "title": "Check Your Bags", "original_title": "Check Your Bags", "slug_title": "check-your-bags", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

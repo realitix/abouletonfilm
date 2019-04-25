@@ -1,1 +1,0 @@
-{"tmdb_id": 388754, "title": "New Zealand - Home of Middle-earth - Part 3", "original_title": "New Zealand - Home of Middle-earth - Part 3", "slug_title": "new-zealand-home-of-middle-earth-part-3", "date": "2015-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

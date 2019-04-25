@@ -1,1 +1,0 @@
-{"tmdb_id": 343250, "title": "U bent mijn moeder", "original_title": "U bent mijn moeder", "slug_title": "u-bent-mijn-moeder", "date": "1984-08-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jBGyBZPrNoah4MZpuqWIPUhINBF.jpg", "actors": ["Joop Admiraal ()"], "comments": [], "recommandations_id": []}

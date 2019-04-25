@@ -1,1 +1,0 @@
-{"tmdb_id": 592866, "title": "DIE WIESE - EIN PARADIES NEBENAN", "original_title": "DIE WIESE - EIN PARADIES NEBENAN", "slug_title": "die-wiese-ein-paradies-nebenan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

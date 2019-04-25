@@ -1,1 +1,0 @@
-{"tmdb_id": 372525, "title": "This Is Her", "original_title": "This Is Her", "slug_title": "this-is-her", "date": "2008-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

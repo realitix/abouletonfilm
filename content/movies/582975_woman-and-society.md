@@ -1,1 +1,0 @@
-{"tmdb_id": 582975, "title": "Woman and Society", "original_title": "Nainen ja yhteiskunta", "slug_title": "woman-and-society", "date": "1968-02-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tytti Paavolainen (Narrator)", "Reima Kek\u00e4l\u00e4inen (Narrator)"], "comments": [], "recommandations_id": []}

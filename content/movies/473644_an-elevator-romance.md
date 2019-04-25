@@ -1,1 +1,0 @@
-{"tmdb_id": 473644, "title": "An Elevator Romance", "original_title": "An Elevator Romance", "slug_title": "an-elevator-romance", "date": "1911-04-27", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["William Garwood ()"], "comments": [], "recommandations_id": []}

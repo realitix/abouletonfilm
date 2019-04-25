@@ -1,1 +1,0 @@
-{"tmdb_id": 595181, "title": "Free Bullet", "original_title": "Free Bullet", "slug_title": "free-bullet", "date": "2015-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qTgRO1rO8hstWr24cEOWfqGKx9J.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 284778, "title": "Kozano\u011flu", "original_title": "Kozano\u011flu", "slug_title": "kozanoglu", "date": "1967-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Y\u0131lmaz G\u00fcney ()", "Suna Keskin ()", "Tuncer Necmioglu ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 426152, "title": "The World Has No Eyedea", "original_title": "The World Has No Eyedea", "slug_title": "the-world-has-no-eyedea", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Srndu3L1AFLZCukkuMTOLL85zG.jpg", "actors": [], "comments": [], "recommandations_id": []}

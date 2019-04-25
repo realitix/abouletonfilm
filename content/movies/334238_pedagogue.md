@@ -1,1 +1,0 @@
-{"tmdb_id": 334238, "title": "Pedagogue", "original_title": "Pedagogue", "slug_title": "pedagogue", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ZZT2HJuK7Y0K88Urq2qIa0DKmE.jpg", "actors": ["Neil Bartlett ()"], "comments": [], "recommandations_id": []}

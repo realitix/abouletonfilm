@@ -1,1 +1,0 @@
-{"tmdb_id": 51749, "title": "Veseli avtobuski 1", "original_title": "Veseli avtobuski 1", "slug_title": "veseli-avtobuski-1", "date": "2003-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A2lqIlMSb3vFqmgGOcNEU6vWhyq.jpg", "actors": [], "comments": [], "recommandations_id": []}

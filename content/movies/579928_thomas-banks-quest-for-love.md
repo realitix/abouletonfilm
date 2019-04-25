@@ -1,1 +1,0 @@
-{"tmdb_id": 579928, "title": "Thomas Banks' Quest for Love", "original_title": "Thomas Banks' Quest for Love", "slug_title": "thomas-banks-quest-for-love", "date": "2019-02-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

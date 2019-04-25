@@ -1,1 +1,0 @@
-{"tmdb_id": 67020, "title": "Jamiroquai: Rock in Rio 2008", "original_title": "Jamiroquai: Rock in Rio 2008", "slug_title": "jamiroquai-rock-in-rio-2008", "date": "2008-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6bRye5M1uqA1lT0tuTuqoZmY9VN.jpg", "actors": [], "comments": [], "recommandations_id": []}

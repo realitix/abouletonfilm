@@ -1,1 +1,0 @@
-{"tmdb_id": 176357, "title": "It's a Bear", "original_title": "It's a Bear", "slug_title": "it-s-a-bear", "date": "1924-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sunshine Sammy Morrison (Ernie (as Hal Roach's Rascals))"], "comments": [], "recommandations_id": []}

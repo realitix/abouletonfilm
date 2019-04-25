@@ -1,1 +1,0 @@
-{"tmdb_id": 350245, "title": "\uc678\uacc4\uc778\uacfc \ucf69\ucf69\uac15\uc2dc", "original_title": "\uc678\uacc4\uc778\uacfc \ucf69\ucf69\uac15\uc2dc", "slug_title": "oegyeingwa-kongkonggangsi", "date": "1989-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

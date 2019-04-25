@@ -1,1 +1,0 @@
-{"tmdb_id": 452786, "title": "Carolyn III", "original_title": "Carolyn III", "slug_title": "carolyn-iii", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nLeWdnyIVN5wLjTCL2dv2ED6XGu.jpg", "actors": ["Carolyn Carlson ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 516179, "title": "Valhalls Br\u00f6der", "original_title": "Valhalls Br\u00f6der", "slug_title": "valhalls-broder", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

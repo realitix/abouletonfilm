@@ -1,1 +1,0 @@
-{"tmdb_id": 532724, "title": "The Lunch Money", "original_title": "The Lunch Money", "slug_title": "the-lunch-money", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

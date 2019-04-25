@@ -1,1 +1,0 @@
-{"tmdb_id": 218635, "title": "Malam Seribu Bulan", "original_title": "Malam Seribu Bulan", "slug_title": "malam-seribu-bulan", "date": "2013-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tora Sudiro ()", "Kawakibi Mutaqien ()", "Oka Soemantaredja ()", "Dhea Imut ()"], "comments": [], "recommandations_id": []}

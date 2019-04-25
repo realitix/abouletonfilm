@@ -1,1 +1,0 @@
-{"tmdb_id": 81564, "title": "Dalton - Dalton var her", "original_title": "Dalton - Dalton var her", "slug_title": "dalton-dalton-var-her", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

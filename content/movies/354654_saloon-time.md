@@ -1,1 +1,0 @@
-{"tmdb_id": 354654, "title": "Saloon Time", "original_title": "Saloon Time", "slug_title": "saloon-time", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

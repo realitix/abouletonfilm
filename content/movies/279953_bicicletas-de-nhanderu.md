@@ -1,1 +1,0 @@
-{"tmdb_id": 279953, "title": "Bicicletas de Nhanderu", "original_title": "Bicicletas de Nhanderu", "slug_title": "bicicletas-de-nhanderu", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nzD179aIexvaSIiMxlsyCXzWY7t.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 39336, "title": "A Thousand Suns", "original_title": "A Thousand Suns", "slug_title": "a-thousand-suns", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ide1zt99EI37Wn9TmBhRkAmnOi0.jpg", "actors": [], "comments": [], "recommandations_id": []}

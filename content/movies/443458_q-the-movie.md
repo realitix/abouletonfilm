@@ -1,1 +1,0 @@
-{"tmdb_id": 443458, "title": "Q - The Movie", "original_title": "Q - The Movie", "slug_title": "q-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sXmjeWBlhxmkNrT7TACNzRHSSk9.jpg", "actors": [], "comments": [], "recommandations_id": []}

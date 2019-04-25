@@ -1,1 +1,0 @@
-{"tmdb_id": 218728, "title": "Prinzessin", "original_title": "Prinzessin", "slug_title": "prinzessin", "date": "2006-11-10", "genre": "Drame", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kxrRPy3KeHEfnKZ6Jipyoso3oG4.jpg", "actors": ["Caroline Peters (Marlene)", "Martin Kiefer (Daniel)"], "comments": [], "recommandations_id": []}

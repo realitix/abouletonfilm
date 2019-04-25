@@ -1,1 +1,0 @@
-{"tmdb_id": 465295, "title": "Stray Nightingale", "original_title": "Stray Nightingale", "slug_title": "stray-nightingale", "date": "2017-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

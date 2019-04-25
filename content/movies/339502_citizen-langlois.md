@@ -1,1 +1,0 @@
-{"tmdb_id": 339502, "title": "Citizen Langlois", "original_title": "Citizen Langlois", "slug_title": "citizen-langlois", "date": "1995-10-10", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qYxepwFXPfSMBHYZqgIBu3kbHjt.jpg", "actors": [], "comments": [], "recommandations_id": []}

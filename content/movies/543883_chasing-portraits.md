@@ -1,1 +1,0 @@
-{"tmdb_id": 543883, "title": "Chasing Portraits", "original_title": "Chasing Portraits", "slug_title": "chasing-portraits", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xuxr5xN1RX49ht9ogCCdaOn9c0F.jpg", "actors": [], "comments": [], "recommandations_id": []}

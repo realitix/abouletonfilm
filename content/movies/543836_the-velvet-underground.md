@@ -1,1 +1,0 @@
-{"tmdb_id": 543836, "title": "The Velvet Underground", "original_title": "The Velvet Underground", "slug_title": "the-velvet-underground", "date": "", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

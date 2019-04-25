@@ -1,1 +1,0 @@
-{"tmdb_id": 589287, "title": "Inshallah", "original_title": "Inshallah", "slug_title": "inshallah", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Salman Khan ()", "Alia Bhatt ()"], "comments": [], "recommandations_id": []}

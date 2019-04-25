@@ -1,1 +1,0 @@
-{"tmdb_id": 472142, "title": "The Heist", "original_title": "The Heist", "slug_title": "the-heist", "date": "2016-08-24", "genre": "Com\u00e9die / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cT6zci6lpXISeBsLwrds0ZwvxJB.jpg", "actors": [], "comments": [], "recommandations_id": []}

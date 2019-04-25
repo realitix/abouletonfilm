@@ -1,1 +1,0 @@
-{"tmdb_id": 565308, "title": "La grande frime", "original_title": "La grande frime", "slug_title": "la-grande-frime", "date": "1977-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rsfmTBcihgOwM49ehDTX3g0i2sS.jpg", "actors": [], "comments": [], "recommandations_id": []}

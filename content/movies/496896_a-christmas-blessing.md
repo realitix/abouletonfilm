@@ -1,1 +1,0 @@
-{"tmdb_id": 496896, "title": "A Christmas Blessing", "original_title": "A Christmas Blessing", "slug_title": "a-christmas-blessing", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/buTaHtGq9zKNLOMefjy5uu8aL0e.jpg", "actors": [], "comments": [], "recommandations_id": []}

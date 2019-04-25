@@ -1,1 +1,0 @@
-{"tmdb_id": 493997, "title": "Kowabon", "original_title": "Kowabon", "slug_title": "kowabon", "date": "2015-10-04", "genre": "Animation / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8l3fEYUVWsEeaJ68MqAFYnZdfH8.jpg", "actors": ["Fumino (Main Character)"], "comments": [], "recommandations_id": []}

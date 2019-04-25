@@ -1,1 +1,0 @@
-{"tmdb_id": 308057, "title": "Neerajanam", "original_title": "Neerajanam", "slug_title": "neerajanam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

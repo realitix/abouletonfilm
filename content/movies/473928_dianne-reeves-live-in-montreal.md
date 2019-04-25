@@ -1,1 +1,0 @@
-{"tmdb_id": 473928, "title": "Dianne Reeves: Live in Montreal", "original_title": "Dianne Reeves: Live in Montreal", "slug_title": "dianne-reeves-live-in-montreal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3lYiX8CvpDTAKx5HFKXSyPCEUIu.jpg", "actors": [], "comments": [], "recommandations_id": []}

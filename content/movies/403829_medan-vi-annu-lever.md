@@ -1,1 +1,0 @@
-{"tmdb_id": 403829, "title": "Medan vi \u00e4nnu lever", "original_title": "Medan vi \u00e4nnu lever", "slug_title": "medan-vi-annu-lever", "date": "1984-02-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

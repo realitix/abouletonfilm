@@ -1,1 +1,0 @@
-{"tmdb_id": 544088, "title": "The Capital Project", "original_title": "The Capital Project", "slug_title": "the-capital-project", "date": "2018-09-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

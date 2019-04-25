@@ -1,1 +1,0 @@
-{"tmdb_id": 312389, "title": "Scrap Yard", "original_title": "Scrap Yard", "slug_title": "scrap-yard", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

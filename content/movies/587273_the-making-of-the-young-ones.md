@@ -1,1 +1,0 @@
-{"tmdb_id": 587273, "title": "The Making of 'The Young Ones'", "original_title": "The Making of 'The Young Ones'", "slug_title": "the-making-of-the-young-ones", "date": "2007-10-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

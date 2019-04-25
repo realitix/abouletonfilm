@@ -1,1 +1,0 @@
-{"tmdb_id": 192797, "title": "D\u00e9fil\u00e9 de jeunes filles au lyc\u00e9e", "original_title": "D\u00e9fil\u00e9 de jeunes filles au lyc\u00e9e", "slug_title": "defile-de-jeunes-filles-au-lycee", "date": "1896-01-01", "genre": "", "score": "5.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [72696]}

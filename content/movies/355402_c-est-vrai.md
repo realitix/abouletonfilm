@@ -1,1 +1,0 @@
-{"tmdb_id": 355402, "title": "C'est vrai", "original_title": "C'est vrai", "slug_title": "c-est-vrai", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/agzjODjIuvo5yrnAHuu1XjDStwL.jpg", "actors": [], "comments": [], "recommandations_id": []}

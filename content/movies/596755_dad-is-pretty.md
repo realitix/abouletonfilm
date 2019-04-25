@@ -1,1 +1,0 @@
-{"tmdb_id": 596755, "title": "Dad Is Pretty", "original_title": "\uc544\ube60\ub294 \uc608\uc058\ub2e4", "slug_title": "dad-is-pretty", "date": "2018-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6zOSZqA5pgSZ8vx8LBWV4bDV2HK.jpg", "actors": [], "comments": [], "recommandations_id": []}

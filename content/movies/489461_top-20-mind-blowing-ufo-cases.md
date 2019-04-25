@@ -1,1 +1,0 @@
-{"tmdb_id": 489461, "title": "Top 20 Mind Blowing UFO Cases", "original_title": "Top 20 Mind Blowing UFO Cases", "slug_title": "top-20-mind-blowing-ufo-cases", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

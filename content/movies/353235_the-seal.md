@@ -1,1 +1,0 @@
-{"tmdb_id": 353235, "title": "The Seal", "original_title": "Pe\u010dat", "slug_title": "the-seal", "date": "1955-08-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p28my4i3ImTD8gyi9vdNqeDPyLy.jpg", "actors": ["Jovan \u0106irilov ()", "Mila Radosavljevi\u0107 ()"], "comments": [], "recommandations_id": []}

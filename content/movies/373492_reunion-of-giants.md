@@ -1,1 +1,0 @@
-{"tmdb_id": 373492, "title": "Reunion of Giants", "original_title": "Reunion of Giants", "slug_title": "reunion-of-giants", "date": "2015-11-11", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tI3GYvsCJHHvehmALG4olfWjXbC.jpg", "actors": [], "comments": [], "recommandations_id": []}

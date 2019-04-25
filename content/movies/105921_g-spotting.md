@@ -1,1 +1,0 @@
-{"tmdb_id": 105921, "title": "G-Spotting", "original_title": "G-Spotting", "slug_title": "g-spotting", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["S\u00e9gol\u00e8ne Hanotaux ()"], "comments": [], "recommandations_id": []}

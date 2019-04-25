@@ -1,1 +1,0 @@
-{"tmdb_id": 317595, "title": "The Grapes of Wrath: Seems Like Fate", "original_title": "The Grapes of Wrath: Seems Like Fate", "slug_title": "the-grapes-of-wrath-seems-like-fate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

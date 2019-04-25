@@ -1,1 +1,0 @@
-{"tmdb_id": 129902, "title": "Playing for Keeeps", "original_title": "Playing for Keeeps", "slug_title": "playing-for-keeeps", "date": "2011-01-01", "genre": "Drame / Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/agdfps9XQeetak4ZlROTAfi5Jb4.jpg", "actors": [], "comments": [], "recommandations_id": []}

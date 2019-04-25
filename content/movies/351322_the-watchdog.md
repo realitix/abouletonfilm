@@ -1,1 +1,0 @@
-{"tmdb_id": 351322, "title": "The Watchdog", "original_title": "The Watchdog", "slug_title": "the-watchdog", "date": "1939-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

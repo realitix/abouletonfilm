@@ -1,1 +1,0 @@
-{"tmdb_id": 379232, "title": "Pink Lemonade", "original_title": "Pink Lemonade", "slug_title": "pink-lemonade", "date": "1978-11-03", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4JpDCKhKmfDSDU8MmOzlhk8fEUU.jpg", "actors": [], "comments": [], "recommandations_id": []}

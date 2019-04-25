@@ -1,1 +1,0 @@
-{"tmdb_id": 596809, "title": "Bonjour studio!", "original_title": "Bonjour studio!", "slug_title": "bonjour-studio", "date": "2015-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sVeTFOBm0T5sJWrJ8KIr3pfJKDm.jpg", "actors": [], "comments": [], "recommandations_id": []}

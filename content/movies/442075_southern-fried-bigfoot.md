@@ -1,1 +1,0 @@
-{"tmdb_id": 442075, "title": "Southern Fried Bigfoot", "original_title": "Southern Fried Bigfoot", "slug_title": "southern-fried-bigfoot", "date": "2007-11-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ZuzKAPn0HmlDF5GZufJdiNa2IW.jpg", "actors": [], "comments": [], "recommandations_id": []}

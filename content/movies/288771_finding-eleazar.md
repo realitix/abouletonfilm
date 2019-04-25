@@ -1,1 +1,0 @@
-{"tmdb_id": 288771, "title": "Finding Eleazar", "original_title": "Finding Eleazar", "slug_title": "finding-eleazar", "date": "2004-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

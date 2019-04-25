@@ -1,1 +1,0 @@
-{"tmdb_id": 275899, "title": "Joseph Campbell: Sukhavati", "original_title": "Joseph Campbell: Sukhavati", "slug_title": "joseph-campbell-sukhavati", "date": "2005-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

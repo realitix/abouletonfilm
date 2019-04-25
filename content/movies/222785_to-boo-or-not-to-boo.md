@@ -1,1 +1,0 @@
-{"tmdb_id": 222785, "title": "To Boo or Not to Boo", "original_title": "To Boo or Not to Boo", "slug_title": "to-boo-or-not-to-boo", "date": "1951-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

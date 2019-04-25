@@ -1,1 +1,0 @@
-{"tmdb_id": 71165, "title": "The Holocaust on Trial", "original_title": "The Holocaust on Trial", "slug_title": "the-holocaust-on-trial", "date": "2000-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

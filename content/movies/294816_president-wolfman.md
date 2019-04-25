@@ -1,1 +1,0 @@
-{"tmdb_id": 294816, "title": "President Wolfman", "original_title": "President Wolfman", "slug_title": "president-wolfman", "date": "2012-09-28", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w3jhYtX1jQgGdp5MWJ6FCFVS6u0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 346223, "title": "\u5973\u795e\u8ddf\u6211\u8d70", "original_title": "\u5973\u795e\u8ddf\u6211\u8d70", "slug_title": "nu-shen-gen-wo-zou", "date": "2015-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uFzKseQQY8A903Cx6M8DL1X41ix.jpg", "actors": [], "comments": [], "recommandations_id": []}

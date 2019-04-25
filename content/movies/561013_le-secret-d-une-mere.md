@@ -1,1 +1,0 @@
-{"tmdb_id": 561013, "title": "Le secret d'une m\u00e8re", "original_title": "Le secret d'une m\u00e8re", "slug_title": "le-secret-d-une-mere", "date": "1952-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xc8JcLtOo4DA2J7CUHd4ssEBsin.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 220387, "title": "Blogumentary", "original_title": "Blogumentary", "slug_title": "blogumentary", "date": "2004-11-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

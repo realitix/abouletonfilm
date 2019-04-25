@@ -1,1 +1,0 @@
-{"tmdb_id": 433295, "title": "Winter Magic Around the World", "original_title": "Winter Magic Around the World", "slug_title": "winter-magic-around-the-world", "date": "1975-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hw6GfXrsT6GmIg6eAp1O5wMq98V.jpg", "actors": [], "comments": [], "recommandations_id": []}

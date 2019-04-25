@@ -1,1 +1,0 @@
-{"tmdb_id": 340731, "title": "Kuchh Kariye", "original_title": "Kuchh Kariye", "slug_title": "kuchh-kariye", "date": "2010-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shriya Saran (Alpana)"], "comments": [], "recommandations_id": []}

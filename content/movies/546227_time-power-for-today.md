@@ -1,1 +1,0 @@
-{"tmdb_id": 546227, "title": "Time Power for Today", "original_title": "Time Power for Today", "slug_title": "time-power-for-today", "date": "1994-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2DLqe7Oq2M3XhA1F4ZaST5jKDbZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

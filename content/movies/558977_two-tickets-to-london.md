@@ -1,1 +1,0 @@
-{"tmdb_id": 558977, "title": "Two Tickets to London", "original_title": "Two Tickets to London", "slug_title": "two-tickets-to-london", "date": "1943-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e4KXvKbSMMpfr69yLou0kzQgI5g.jpg", "actors": [], "comments": [], "recommandations_id": []}

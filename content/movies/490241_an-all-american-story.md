@@ -1,1 +1,0 @@
-{"tmdb_id": 490241, "title": "An All-American Story", "original_title": "An All-American Story", "slug_title": "an-all-american-story", "date": "1992-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

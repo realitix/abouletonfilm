@@ -1,1 +1,0 @@
-{"tmdb_id": 455447, "title": "Pakistan's Hidden Shame", "original_title": "Pakistan's Hidden Shame", "slug_title": "pakistan-s-hidden-shame", "date": "2014-01-01", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zKnuRUFy1sIh9N3XFnaMSO0hGmS.jpg", "actors": [], "comments": [], "recommandations_id": []}

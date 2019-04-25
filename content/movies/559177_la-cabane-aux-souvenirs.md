@@ -1,1 +1,0 @@
-{"tmdb_id": 559177, "title": "La cabane aux souvenirs", "original_title": "La cabane aux souvenirs", "slug_title": "la-cabane-aux-souvenirs", "date": "1947-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3NHa6aTae5pOqtAWE7BtBzspAhS.jpg", "actors": [], "comments": [], "recommandations_id": []}

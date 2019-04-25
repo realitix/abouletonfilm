@@ -1,1 +1,0 @@
-{"tmdb_id": 347417, "title": "Patience Labour", "original_title": "Terpenie trud", "slug_title": "patience-labour", "date": "1987-07-02", "genre": "Documentaire", "score": "4.7/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

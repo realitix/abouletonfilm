@@ -1,1 +1,0 @@
-{"tmdb_id": 556920, "title": "Un trou dans le mur", "original_title": "Un trou dans le mur", "slug_title": "un-trou-dans-le-mur", "date": "1930-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

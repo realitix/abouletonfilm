@@ -1,1 +1,0 @@
-{"tmdb_id": 378864, "title": "8th of March", "original_title": "8 Martie", "slug_title": "8th-of-march", "date": "2012-01-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i6pVHriXkz7ZAd5FPEfdMIFyEyT.jpg", "actors": [], "comments": [], "recommandations_id": []}

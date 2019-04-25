@@ -1,1 +1,0 @@
-{"tmdb_id": 360345, "title": "Doce Brasil Holand\u00eas", "original_title": "Doce Brasil Holand\u00eas", "slug_title": "doce-brasil-holandes", "date": "2010-04-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

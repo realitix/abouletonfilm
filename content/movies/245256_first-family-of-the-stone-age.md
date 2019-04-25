@@ -1,1 +1,0 @@
-{"tmdb_id": 245256, "title": "First Family of the Stone Age", "original_title": "First Family of the Stone Age", "slug_title": "first-family-of-the-stone-age", "date": "2005-03-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

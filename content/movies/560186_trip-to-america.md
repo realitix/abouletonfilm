@@ -1,1 +1,0 @@
-{"tmdb_id": 560186, "title": "Trip to America", "original_title": "Le voyage en Am\u00e9rique", "slug_title": "trip-to-america", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 538326, "title": "Hikikomori", "original_title": "Hikikomori", "slug_title": "hikikomori", "date": "2007-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/brgRARz2CzdSSaGfQfmXGLw4RG7.jpg", "actors": ["Adamo Rondoni ()", "Olivia Fontani ()"], "comments": [], "recommandations_id": []}

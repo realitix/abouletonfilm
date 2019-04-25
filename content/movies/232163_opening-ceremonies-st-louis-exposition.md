@@ -1,1 +1,0 @@
-{"tmdb_id": 232163, "title": "Opening Ceremonies, St. Louis Exposition", "original_title": "Opening Ceremonies, St. Louis Exposition", "slug_title": "opening-ceremonies-st-louis-exposition", "date": "1904-05-12", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

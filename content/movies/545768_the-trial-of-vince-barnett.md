@@ -1,1 +1,0 @@
-{"tmdb_id": 545768, "title": "The Trial of Vince Barnett", "original_title": "The Trial of Vince Barnett", "slug_title": "the-trial-of-vince-barnett", "date": "1933-03-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vince Barnett ()", "Max Davidson ()", "Bert Roach ()"], "comments": [], "recommandations_id": []}

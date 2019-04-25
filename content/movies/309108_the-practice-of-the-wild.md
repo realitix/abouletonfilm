@@ -1,1 +1,0 @@
-{"tmdb_id": 309108, "title": "The Practice of the Wild", "original_title": "The Practice of the Wild", "slug_title": "the-practice-of-the-wild", "date": "2010-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

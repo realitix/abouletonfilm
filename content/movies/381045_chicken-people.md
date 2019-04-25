@@ -1,1 +1,0 @@
-{"tmdb_id": 381045, "title": "Chicken People", "original_title": "Chicken People", "slug_title": "chicken-people", "date": "2016-03-13", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p1AcRC8goa48jzHZSUEshu2HHCr.jpg", "actors": [], "comments": [], "recommandations_id": [160494, 354677]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 415822, "title": "Persimmons Winning the Derby", "original_title": "Persimmons Winning the Derby", "slug_title": "persimmons-winning-the-derby", "date": "1896-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

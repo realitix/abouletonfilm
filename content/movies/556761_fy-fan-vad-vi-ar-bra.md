@@ -1,1 +1,0 @@
-{"tmdb_id": 556761, "title": "Fy fan vad vi \u00e4r bra", "original_title": "Fy fan vad vi \u00e4r bra", "slug_title": "fy-fan-vad-vi-ar-bra", "date": "2011-05-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Martin Borgs (Reporter)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 165046, "title": "Control Your Emotions", "original_title": "Control Your Emotions", "slug_title": "control-your-emotions", "date": "1950-01-01", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zls6xWhi41SntmjWMWty7Oyy6Fu.jpg", "actors": [], "comments": [], "recommandations_id": []}

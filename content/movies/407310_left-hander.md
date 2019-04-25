@@ -1,1 +1,0 @@
-{"tmdb_id": 407310, "title": "Left-Hander", "original_title": "\u041b\u0435\u0432\u0448\u0430", "slug_title": "left-hander", "date": "1964-07-22", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/icjq0mUryLCeTC7LYH0x0YvnYXp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 217244, "title": "Shabbat Hamalka", "original_title": "Shabbat Hamalka", "slug_title": "shabbat-hamalka", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mike Burstyn ()", "Dassi Hadari ()", "Raphael Klatchkin ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 23374, "title": "Before the Music Dies", "original_title": "Before the Music Dies", "slug_title": "before-the-music-dies", "date": "2006-11-02", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oRCeunSGjb3BuPoKyrH4dByElE1.jpg", "actors": [], "comments": [], "recommandations_id": []}

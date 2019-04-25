@@ -1,1 +1,0 @@
-{"tmdb_id": 381121, "title": "Medicur", "original_title": "Medicur", "slug_title": "medicur", "date": "1976-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Holt (Dogfather / Rocky McSnarl / Doctor (voice))"], "comments": [], "recommandations_id": []}

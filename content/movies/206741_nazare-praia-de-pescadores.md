@@ -1,1 +1,0 @@
-{"tmdb_id": 206741, "title": "Nazar\u00e9, Praia de Pescadores", "original_title": "Nazar\u00e9, Praia de Pescadores", "slug_title": "nazare-praia-de-pescadores", "date": "1929-01-22", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

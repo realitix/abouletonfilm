@@ -1,1 +1,0 @@
-{"tmdb_id": 318048, "title": "Rhythm and Poetry", "original_title": "Rhythm and Poetry", "slug_title": "rhythm-and-poetry", "date": "2007-09-25", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x7xb8xBta0GKRjCowff4Mvrt9rg.jpg", "actors": [], "comments": [], "recommandations_id": []}

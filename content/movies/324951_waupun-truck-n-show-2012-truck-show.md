@@ -1,1 +1,0 @@
-{"tmdb_id": 324951, "title": "Waupun Truck N' Show 2012 Truck Show", "original_title": "Waupun Truck N' Show 2012 Truck Show", "slug_title": "waupun-truck-n-show-2012-truck-show", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

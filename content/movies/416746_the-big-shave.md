@@ -1,1 +1,0 @@
-{"tmdb_id": 416746, "title": "The Big Shave", "original_title": "The Big Shave", "slug_title": "the-big-shave", "date": "2016-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9zC7tk16502Xh6wv3F0FX2gsVfJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

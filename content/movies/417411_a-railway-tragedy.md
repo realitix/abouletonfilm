@@ -1,1 +1,0 @@
-{"tmdb_id": 417411, "title": "A Railway Tragedy", "original_title": "A Railway Tragedy", "slug_title": "a-railway-tragedy", "date": "1904-01-22", "genre": "Crime", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ajRfKkhfYMrGyPsgvlHNVgv5MDc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 417292, "title": "POWs Pawns of War", "original_title": "POWs Pawns of War", "slug_title": "pows-pawns-of-war", "date": "1971-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ghBinsUoSqXmGqPtQZKixCxMhoP.jpg", "actors": [], "comments": [], "recommandations_id": []}

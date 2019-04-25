@@ -1,1 +1,0 @@
-{"tmdb_id": 384272, "title": "L\u00e1pis Azul", "original_title": "L\u00e1pis Azul", "slug_title": "lapis-azul", "date": "2012-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sbgMsEeRAf0pWI2EwS7Hw5yKEFe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 296264, "title": "Pink Pajamas", "original_title": "Pink Pajamas", "slug_title": "pink-pajamas", "date": "1964-12-25", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f753Og0AFylQWaBSIZciJRuKEN.jpg", "actors": [], "comments": [], "recommandations_id": []}

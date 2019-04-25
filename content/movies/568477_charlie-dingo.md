@@ -1,1 +1,0 @@
-{"tmdb_id": 568477, "title": "Charlie Dingo", "original_title": "Charlie Dingo", "slug_title": "charlie-dingo", "date": "1987-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wqBHus8XxHdcHeaKvf0vPxfSZAz.jpg", "actors": [], "comments": [], "recommandations_id": []}

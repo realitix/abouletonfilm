@@ -1,1 +1,0 @@
-{"tmdb_id": 512707, "title": "Ganryujima", "original_title": "Ganryujima", "slug_title": "ganryujima", "date": "2003-03-18", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nN6V4rlsHOKbbSybazwvzXQ0OnK.jpg", "actors": ["Masahiro Motoki (Musashi Miyamoto)"], "comments": [], "recommandations_id": []}

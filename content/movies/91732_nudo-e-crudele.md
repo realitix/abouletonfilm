@@ -1,1 +1,0 @@
-{"tmdb_id": 91732, "title": "Nudo e crudele", "original_title": "Nudo e crudele", "slug_title": "nudo-e-crudele", "date": "1984-08-04", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zVSxDHhZ6palxvhZvP1JNhCSOtl.jpg", "actors": [], "comments": [], "recommandations_id": []}

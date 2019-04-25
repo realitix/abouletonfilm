@@ -1,1 +1,0 @@
-{"tmdb_id": 519161, "title": "Piazza Mazzini", "original_title": "Piazza Mazzini", "slug_title": "piazza-mazzini", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nanni Moretti ()", "Patrizia Quaranta ()"], "comments": [], "recommandations_id": []}

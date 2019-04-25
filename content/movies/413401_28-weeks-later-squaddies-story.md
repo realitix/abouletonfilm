@@ -1,1 +1,0 @@
-{"tmdb_id": 413401, "title": "28 Weeks Later (Squaddies Story)", "original_title": "28 Weeks Later (Squaddies Story)", "slug_title": "28-weeks-later-squaddies-story", "date": "2007-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dylan Barnes (Billy)", "David Judge (Tommy)"], "comments": [], "recommandations_id": []}

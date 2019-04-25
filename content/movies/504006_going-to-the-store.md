@@ -1,1 +1,0 @@
-{"tmdb_id": 504006, "title": "Going to the Store", "original_title": "Going to the Store", "slug_title": "going-to-the-store", "date": "2011-08-27", "genre": "Musique / Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ctinCkKvCqY4z1B97n8lhyZH6Uu.jpg", "actors": [], "comments": [], "recommandations_id": []}

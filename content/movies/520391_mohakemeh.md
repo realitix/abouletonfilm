@@ -1,1 +1,0 @@
-{"tmdb_id": 520391, "title": "Mohakemeh", "original_title": "Mohakemeh", "slug_title": "mohakemeh", "date": "2003-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

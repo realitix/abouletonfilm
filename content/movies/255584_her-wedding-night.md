@@ -1,1 +1,0 @@
-{"tmdb_id": 255584, "title": "Her Wedding Night", "original_title": "Her Wedding Night", "slug_title": "her-wedding-night", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

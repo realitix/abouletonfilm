@@ -1,1 +1,0 @@
-{"tmdb_id": 495054, "title": "L'esecuzione", "original_title": "L'esecuzione", "slug_title": "l-esecuzione", "date": "", "genre": "Drame / Crime", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pasquale Fernandez (Giovanni)"], "comments": [], "recommandations_id": []}

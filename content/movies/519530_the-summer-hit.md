@@ -1,1 +1,0 @@
-{"tmdb_id": 519530, "title": "The Summer Hit", "original_title": "El Tema del Verano", "slug_title": "the-summer-hit", "date": "", "genre": "Science-Fiction / Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

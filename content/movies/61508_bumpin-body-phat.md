@@ -1,1 +1,0 @@
-{"tmdb_id": 61508, "title": "Bumpin' Body Phat", "original_title": "Bumpin' Body Phat", "slug_title": "bumpin-body-phat", "date": "2008-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Victoria Allure ()", "Secret ()", "Jesselle ()", "CJ Wright ()", "Red ()"], "comments": [], "recommandations_id": []}

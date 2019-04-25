@@ -1,1 +1,0 @@
-{"tmdb_id": 520817, "title": "Pleasure Faire", "original_title": "Pleasure Faire", "slug_title": "pleasure-faire", "date": "1964-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6r7J2G9kfPaU0Dkiu9jAaTqPLFZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

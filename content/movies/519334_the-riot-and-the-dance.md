@@ -1,1 +1,0 @@
-{"tmdb_id": 519334, "title": "The Riot and the Dance", "original_title": "The Riot and the Dance", "slug_title": "the-riot-and-the-dance", "date": "2018-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/feRTpbl5ZpwmuK1nqRCX5eu6gh9.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 473601, "title": "James Brother of Jesus", "original_title": "James Brother of Jesus", "slug_title": "james-brother-of-jesus", "date": "2004-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1rxC8N4Rlv6myH5dESuMKF1iO7m.jpg", "actors": [], "comments": [], "recommandations_id": []}

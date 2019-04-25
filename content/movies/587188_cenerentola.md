@@ -1,1 +1,0 @@
-{"tmdb_id": 587188, "title": "Cenerentola", "original_title": "Cenerentola", "slug_title": "cenerentola", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fedora Barbieri (Cenerentola (singing voice))"], "comments": [], "recommandations_id": []}

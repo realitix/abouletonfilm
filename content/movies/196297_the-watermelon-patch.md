@@ -1,1 +1,0 @@
-{"tmdb_id": 196297, "title": "The Watermelon Patch", "original_title": "The Watermelon Patch", "slug_title": "the-watermelon-patch", "date": "1905-10-23", "genre": "", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kAFr5zhkSHtuZIgZ9A4wFKjyOh9.jpg", "actors": [], "comments": [], "recommandations_id": []}

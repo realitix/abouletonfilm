@@ -1,1 +1,0 @@
-{"tmdb_id": 259740, "title": "Agonies", "original_title": "Angoroj", "slug_title": "agonies", "date": "1964-01-01", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michel Duc-Goninaz ()", "Raymond Schwartz (Komisaro)", "Gaston Waringhien (Rakontisto)"], "comments": [], "recommandations_id": []}

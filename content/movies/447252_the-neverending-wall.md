@@ -1,1 +1,0 @@
-{"tmdb_id": 447252, "title": "The Neverending Wall", "original_title": "The Neverending Wall", "slug_title": "the-neverending-wall", "date": "2016-12-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dq5X08qMKqgb4UhJ7LzagCyIE9S.jpg", "actors": [], "comments": [], "recommandations_id": []}

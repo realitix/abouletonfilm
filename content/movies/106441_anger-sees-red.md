@@ -1,1 +1,0 @@
-{"tmdb_id": 106441, "title": "Anger Sees Red", "original_title": "Anger Sees Red", "slug_title": "anger-sees-red", "date": "2004-01-01", "genre": "Fantastique", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6f1paitPgItho00uxIaDtakhRvI.jpg", "actors": [], "comments": [], "recommandations_id": [442223, 295999]}

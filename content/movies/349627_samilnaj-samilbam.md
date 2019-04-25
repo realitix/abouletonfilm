@@ -1,1 +1,0 @@
-{"tmdb_id": 349627, "title": "\uc0bc\uc77c\ub0ae \uc0bc\uc77c\ubc24", "original_title": "\uc0bc\uc77c\ub0ae \uc0bc\uc77c\ubc24", "slug_title": "samilnaj-samilbam", "date": "1983-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

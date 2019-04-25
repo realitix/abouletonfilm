@@ -1,1 +1,0 @@
-{"tmdb_id": 456746, "title": "Kumbha Mela", "original_title": "Kumbha Mela", "slug_title": "kumbha-mela", "date": "1989-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 329549, "title": "Lurking Terror", "original_title": "Lurking Terror", "slug_title": "lurking-terror", "date": "2002-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

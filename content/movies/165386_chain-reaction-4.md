@@ -1,1 +1,0 @@
-{"tmdb_id": 165386, "title": "Chain Reaction 4", "original_title": "Chain Reaction 4", "slug_title": "chain-reaction-4", "date": "2003-04-26", "genre": "Documentaire / Action", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6z9WYjHESfzGr86PdDuR7vZroX5.jpg", "actors": [], "comments": [], "recommandations_id": []}

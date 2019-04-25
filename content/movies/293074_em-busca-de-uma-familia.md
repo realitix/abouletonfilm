@@ -1,1 +1,0 @@
-{"tmdb_id": 293074, "title": "Em busca de uma Fam\u00edlia", "original_title": "Em busca de uma Fam\u00edlia", "slug_title": "em-busca-de-uma-familia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

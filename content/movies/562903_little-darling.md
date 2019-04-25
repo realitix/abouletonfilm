@@ -1,1 +1,0 @@
-{"tmdb_id": 562903, "title": "Little Darling", "original_title": "Little Darling", "slug_title": "little-darling", "date": "2014-08-14", "genre": "Animation / Romance", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ogef2OhRDEc5bgwkus6a6h3LLZn.jpg", "actors": [], "comments": [], "recommandations_id": []}

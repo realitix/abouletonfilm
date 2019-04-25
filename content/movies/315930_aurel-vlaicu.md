@@ -1,1 +1,0 @@
-{"tmdb_id": 315930, "title": "Aurel Vlaicu", "original_title": "Aurel Vlaicu", "slug_title": "aurel-vlaicu", "date": "1977-06-13", "genre": "Drame", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gfEbV7UE3d1PnswUdvpDNaIVPqc.jpg", "actors": [], "comments": [], "recommandations_id": []}

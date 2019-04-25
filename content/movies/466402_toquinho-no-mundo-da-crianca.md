@@ -1,1 +1,0 @@
-{"tmdb_id": 466402, "title": "Toquinho no mundo da crian\u00e7a", "original_title": "Toquinho no mundo da crian\u00e7a", "slug_title": "toquinho-no-mundo-da-crianca", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

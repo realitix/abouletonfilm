@@ -1,1 +1,0 @@
-{"tmdb_id": 387818, "title": "Throw Everything Into Play", "original_title": "Todo en juego", "slug_title": "throw-everything-into-play", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3VpJBE9musdivnNcluEJ6u2zF3h.jpg", "actors": [], "comments": [], "recommandations_id": []}

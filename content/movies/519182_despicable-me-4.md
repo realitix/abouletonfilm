@@ -1,1 +1,0 @@
-{"tmdb_id": 519182, "title": "Despicable Me 4", "original_title": "Despicable Me 4", "slug_title": "despicable-me-4", "date": "", "genre": "Animation / Familial / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a7aJ1gIrscAY40cacFFTfkjw1nY.jpg", "actors": [], "comments": [], "recommandations_id": []}

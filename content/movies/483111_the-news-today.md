@@ -1,1 +1,0 @@
-{"tmdb_id": 483111, "title": "The News Today", "original_title": "The News Today", "slug_title": "the-news-today", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cvgCCHNUxaYmP1ehP1Rb98vWpML.jpg", "actors": [], "comments": [], "recommandations_id": []}

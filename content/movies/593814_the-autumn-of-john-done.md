@@ -1,1 +1,0 @@
-{"tmdb_id": 593814, "title": "The Autumn of John Done", "original_title": "The Autumn of John Done", "slug_title": "the-autumn-of-john-done", "date": "2019-04-09", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sTItzCOGTnAEB9QFhGsde8fX4wC.jpg", "actors": ["Davide Roveda ()"], "comments": [], "recommandations_id": []}

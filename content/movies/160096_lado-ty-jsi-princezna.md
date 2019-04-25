@@ -1,1 +1,0 @@
-{"tmdb_id": 160096, "title": "L\u00e1\u010fo, ty jsi princezna!", "original_title": "L\u00e1\u010fo, ty jsi princezna!", "slug_title": "lado-ty-jsi-princezna", "date": "1979-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1vXeUuTsVIWbduvz6XyXUIYe710.jpg", "actors": [], "comments": [], "recommandations_id": []}

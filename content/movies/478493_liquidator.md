@@ -1,1 +1,0 @@
-{"tmdb_id": 478493, "title": "Liquidator", "original_title": "Liquidator", "slug_title": "liquidator", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

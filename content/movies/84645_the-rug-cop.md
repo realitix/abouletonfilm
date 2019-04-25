@@ -1,1 +1,0 @@
-{"tmdb_id": 84645, "title": "The Rug Cop", "original_title": "The Rug Cop", "slug_title": "the-rug-cop", "date": "2006-07-11", "genre": "Action / Com\u00e9die", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ekGzaYZtoO3AnMFj7y9OAjj7P3T.jpg", "actors": [], "comments": [], "recommandations_id": []}

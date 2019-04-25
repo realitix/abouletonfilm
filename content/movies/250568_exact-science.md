@@ -1,1 +1,0 @@
-{"tmdb_id": 250568, "title": "Exact Science", "original_title": "Exact Science", "slug_title": "exact-science", "date": "2003-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/30ari6ac47wlfLZRLZq5Mk7UfsO.jpg", "actors": [], "comments": [], "recommandations_id": []}

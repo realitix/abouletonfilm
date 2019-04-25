@@ -1,1 +1,0 @@
-{"tmdb_id": 328267, "title": "Espiral", "original_title": "Espiral", "slug_title": "espiral", "date": "2011-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vljr93CJcw9JUvX3sCgvkBs44LJ.jpg", "actors": ["Isabel Gu\u00e9ron ()", "Nelson Freitas ()", "T\u00e2nia Costa ()"], "comments": [], "recommandations_id": []}

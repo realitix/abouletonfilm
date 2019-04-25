@@ -1,1 +1,0 @@
-{"tmdb_id": 425597, "title": "Kontakt", "original_title": "Kontakt", "slug_title": "kontakt", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

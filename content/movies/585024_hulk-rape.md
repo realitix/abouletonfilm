@@ -1,1 +1,0 @@
-{"tmdb_id": 585024, "title": "Hulk Rape", "original_title": "Hulk Rape", "slug_title": "hulk-rape", "date": "2006-12-02", "genre": "Drame / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vnzRdwgYcEmbUd0wVPBM6kN25TH.jpg", "actors": ["Hulk (Himself)", "Matt Pompier (Hand)"], "comments": [], "recommandations_id": []}

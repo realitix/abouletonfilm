@@ -1,1 +1,0 @@
-{"tmdb_id": 219520, "title": "Zula Hula", "original_title": "Zula Hula", "slug_title": "zula-hula", "date": "1937-12-23", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Mercer (Grampy)", "Mae Questel (Betty Boop)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 284858, "title": "StreetPunk: The Movie", "original_title": "StreetPunk: The Movie", "slug_title": "streetpunk-the-movie", "date": "2000-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4w5MG0X81RcDOqUL0LXGRP5XBPk.jpg", "actors": [], "comments": [], "recommandations_id": []}

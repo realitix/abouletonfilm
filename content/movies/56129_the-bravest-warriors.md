@@ -1,1 +1,0 @@
-{"tmdb_id": 56129, "title": "The Bravest Warriors", "original_title": "The Bravest Warriors", "slug_title": "the-bravest-warriors", "date": "2009-11-20", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cuOXHDemHrCc9t2mjP2zfIdP7nA.jpg", "actors": [], "comments": [], "recommandations_id": []}

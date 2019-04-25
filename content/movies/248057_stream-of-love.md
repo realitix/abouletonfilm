@@ -1,1 +1,0 @@
-{"tmdb_id": 248057, "title": "Stream of Love", "original_title": "Szerelempatak", "slug_title": "stream-of-love", "date": "2013-11-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fWsR1fEZG6SrYR3EuQRWsUFNyQT.jpg", "actors": [], "comments": [], "recommandations_id": []}

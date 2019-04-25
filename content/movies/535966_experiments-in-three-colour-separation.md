@@ -1,1 +1,0 @@
-{"tmdb_id": 535966, "title": "Experiments in Three-Colour Separation", "original_title": "Experiments in Three-Colour Separation", "slug_title": "experiments-in-three-colour-separation", "date": "1980-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

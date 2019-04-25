@@ -1,1 +1,0 @@
-{"tmdb_id": 352313, "title": "Children of Japan", "original_title": "Children of Japan", "slug_title": "children-of-japan", "date": "1940-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

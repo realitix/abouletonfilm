@@ -1,1 +1,0 @@
-{"tmdb_id": 224652, "title": "Lunatic", "original_title": "Lunatic", "slug_title": "lunatic", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s2HTThaLZNljInWa8AU13YTRQ4w.jpg", "actors": [], "comments": [], "recommandations_id": []}

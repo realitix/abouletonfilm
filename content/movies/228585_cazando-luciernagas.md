@@ -1,1 +1,0 @@
-{"tmdb_id": 228585, "title": "Cazando luciernagas", "original_title": "Cazando luciernagas", "slug_title": "cazando-luciernagas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

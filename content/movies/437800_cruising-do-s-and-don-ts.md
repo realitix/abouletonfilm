@@ -1,1 +1,0 @@
-{"tmdb_id": 437800, "title": "Cruising Do's and Don'ts", "original_title": "Cruising Do's and Don'ts", "slug_title": "cruising-do-s-and-don-ts", "date": "2007-03-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/83E81NIvTvLLij7kKag88usKZK.jpg", "actors": [], "comments": [], "recommandations_id": []}

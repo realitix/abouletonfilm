@@ -1,1 +1,0 @@
-{"tmdb_id": 315242, "title": "Black Is Blue", "original_title": "Black Is Blue", "slug_title": "black-is-blue", "date": "2014-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/piNc4ePmzFFbHIcfrP4Mr1oeWzr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 520462, "title": "Run for the Roses", "original_title": "Run for the Roses", "slug_title": "run-for-the-roses", "date": "1977-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vera Miles (Clarissa Stewart)", "Stuart Whitman (Charlie)"], "comments": [], "recommandations_id": []}

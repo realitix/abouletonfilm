@@ -1,1 +1,0 @@
-{"tmdb_id": 588350, "title": "The Slider", "original_title": "The Slider", "slug_title": "the-slider", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

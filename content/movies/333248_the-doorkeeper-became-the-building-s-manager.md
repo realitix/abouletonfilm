@@ -1,1 +1,0 @@
-{"tmdb_id": 333248, "title": "The Doorkeeper Became the Building's Manager", "original_title": "Sahib al-Idara Bawab al-'Imara", "slug_title": "the-doorkeeper-became-the-building-s-manager", "date": "1985-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

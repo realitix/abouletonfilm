@@ -1,1 +1,0 @@
-{"tmdb_id": 537322, "title": "Bel Ragazzo", "original_title": "Bel Ragazzo", "slug_title": "bel-ragazzo", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Valerio Andrei (Valerio)"], "comments": [], "recommandations_id": []}

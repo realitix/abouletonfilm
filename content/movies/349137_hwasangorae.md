@@ -1,1 +1,0 @@
-{"tmdb_id": 349137, "title": "Hwasangorae", "original_title": "Hwasangorae", "slug_title": "hwasangorae", "date": "2014-10-23", "genre": "Aventure / Animation / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pyBijs2SifE3TgHuxXewbCaFl57.jpg", "actors": [], "comments": [], "recommandations_id": []}

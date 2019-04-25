@@ -1,1 +1,0 @@
-{"tmdb_id": 358859, "title": "The Event", "original_title": "\u0421\u043e\u0431\u044b\u0442\u0438\u0435", "slug_title": "the-event", "date": "2015-09-02", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fGgsODjc0An4nHBY7N97La3PGm2.jpg", "actors": [], "comments": [], "recommandations_id": []}

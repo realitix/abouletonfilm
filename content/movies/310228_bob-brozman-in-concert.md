@@ -1,1 +1,0 @@
-{"tmdb_id": 310228, "title": "Bob Brozman: In Concert", "original_title": "Bob Brozman: In Concert", "slug_title": "bob-brozman-in-concert", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

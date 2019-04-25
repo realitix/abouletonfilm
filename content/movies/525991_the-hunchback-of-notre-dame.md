@@ -1,1 +1,0 @@
-{"tmdb_id": 525991, "title": "The Hunchback of Notre Dame", "original_title": "The Hunchback of Notre Dame", "slug_title": "the-hunchback-of-notre-dame", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Idris Elba (Quasimodo)"], "comments": [], "recommandations_id": []}

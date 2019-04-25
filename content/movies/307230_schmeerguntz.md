@@ -1,1 +1,0 @@
-{"tmdb_id": 307230, "title": "Schmeerguntz", "original_title": "Schmeerguntz", "slug_title": "schmeerguntz", "date": "1965-03-01", "genre": "Com\u00e9die", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9CnOXU6WvnkuxuI0UBz74cZ5huJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 545700, "title": "Nature_Nature", "original_title": "Navara_Navara", "slug_title": "nature-nature", "date": "2018-08-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

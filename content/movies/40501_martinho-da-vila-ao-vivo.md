@@ -1,1 +1,0 @@
-{"tmdb_id": 40501, "title": "Martinho da Vila - Ao Vivo", "original_title": "Martinho da Vila - Ao Vivo", "slug_title": "martinho-da-vila-ao-vivo", "date": "2016-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mkOqxVUdNzfShuL9u6QTSrmqKHe.jpg", "actors": [], "comments": [], "recommandations_id": []}

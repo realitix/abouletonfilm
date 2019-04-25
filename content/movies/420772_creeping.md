@@ -1,1 +1,0 @@
-{"tmdb_id": 420772, "title": "Creeping", "original_title": "Creeping", "slug_title": "creeping", "date": "2015-08-17", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qPKToAKfMKe7A90k1088ObA1iZC.jpg", "actors": [], "comments": [], "recommandations_id": []}

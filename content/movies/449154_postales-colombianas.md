@@ -1,1 +1,0 @@
-{"tmdb_id": 449154, "title": "Postales Colombianas", "original_title": "Postales Colombianas", "slug_title": "postales-colombianas", "date": "2011-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iNY9bJNugcloFkAu2Yw7fSFIjzL.jpg", "actors": [], "comments": [], "recommandations_id": []}

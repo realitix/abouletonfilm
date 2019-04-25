@@ -1,1 +1,0 @@
-{"tmdb_id": 569528, "title": "The Season of Shadows and Flame", "original_title": "The Season of Shadows and Flame", "slug_title": "the-season-of-shadows-and-flame", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Reese Westhoff ()"], "comments": [], "recommandations_id": []}

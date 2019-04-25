@@ -1,1 +1,0 @@
-{"tmdb_id": 191568, "title": "The Inherited", "original_title": "The Inherited", "slug_title": "the-inherited", "date": "2009-08-14", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h7M0JEHBf8GsGp7pfefgILuHvLx.jpg", "actors": [], "comments": [], "recommandations_id": []}

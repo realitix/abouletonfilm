@@ -1,1 +1,0 @@
-{"tmdb_id": 523385, "title": "Al\u0131\u015f\u0131r\u0131m", "original_title": "Al\u0131\u015f\u0131r\u0131m", "slug_title": "alisirim", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9hVBRDIPZRDNmie6848qw0753Z3.jpg", "actors": [], "comments": [], "recommandations_id": []}

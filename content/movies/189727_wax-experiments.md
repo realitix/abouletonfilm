@@ -1,1 +1,0 @@
-{"tmdb_id": 189727, "title": "Wax Experiments", "original_title": "Wachsexperimente", "slug_title": "wax-experiments", "date": "1927-04-28", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wr2pdEMbVoapCF1ndtSmsJxDMp1.jpg", "actors": [], "comments": [], "recommandations_id": [256650, 142194, 166494, 203091]}

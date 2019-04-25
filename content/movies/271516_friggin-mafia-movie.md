@@ -1,1 +1,0 @@
-{"tmdb_id": 271516, "title": "Friggin' Mafia Movie", "original_title": "Friggin' Mafia Movie", "slug_title": "friggin-mafia-movie", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

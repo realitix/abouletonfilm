@@ -1,1 +1,0 @@
-{"tmdb_id": 430680, "title": "Historic Mexico City", "original_title": "Historic Mexico City", "slug_title": "historic-mexico-city", "date": "1935-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXkZH46ps9C7cqV8cl6SLVqpmKp.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

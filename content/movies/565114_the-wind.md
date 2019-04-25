@@ -1,1 +1,0 @@
-{"tmdb_id": 565114, "title": "The Wind", "original_title": "\u0412\u0435\u0442\u0435\u0440", "slug_title": "the-wind", "date": "2018-08-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cOvWNrvYncIuEmhqYmE04JF0bLn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 306540, "title": "Meu Pescador, Meu Velho", "original_title": "Meu Pescador, Meu Velho", "slug_title": "meu-pescador-meu-velho", "date": "2013-09-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ovY4z6bmRMJ4I9LehRnMzP0RMkG.jpg", "actors": [], "comments": [], "recommandations_id": []}

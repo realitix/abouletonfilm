@@ -1,1 +1,0 @@
-{"tmdb_id": 560133, "title": "Lif og daudi Henry Darger", "original_title": "Lif og daudi Henry Darger", "slug_title": "lif-og-daudi-henry-darger", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

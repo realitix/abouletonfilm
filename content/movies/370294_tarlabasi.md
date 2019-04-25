@@ -1,1 +1,0 @@
-{"tmdb_id": 370294, "title": "Tarlabasi", "original_title": "Tarlabasi", "slug_title": "tarlabasi", "date": "2014-09-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mywrbiDpkHDuXarZSxKatV143bF.jpg", "actors": ["Idil Kemer (herself)"], "comments": [], "recommandations_id": []}

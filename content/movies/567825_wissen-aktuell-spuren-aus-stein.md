@@ -1,1 +1,0 @@
-{"tmdb_id": 567825, "title": "Wissen Aktuell - Spuren aus Stein", "original_title": "Wissen Aktuell - Spuren aus Stein", "slug_title": "wissen-aktuell-spuren-aus-stein", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pYYWfBtx2HKkjHBqV8AnfXUZ4U4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 470691, "title": "Esmeralda", "original_title": "Esmeralda", "slug_title": "esmeralda", "date": "1905-12-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Denise Becker (Esmeralda)", "Henry Vorins (Quasimodo)"], "comments": [], "recommandations_id": []}

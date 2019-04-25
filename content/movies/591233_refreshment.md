@@ -1,1 +1,0 @@
-{"tmdb_id": 591233, "title": "Refreshment", "original_title": "Refreshment", "slug_title": "refreshment", "date": "2014-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rWhHfWhWjlhbMPV8zzs3Zv0PPGr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 533764, "title": "Forget Me, Mandoline", "original_title": "Oublie-moi, Mandoline", "slug_title": "forget-me-mandoline", "date": "1976-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eMaCjHMb06X0ypQDSwcyPGBM0DT.jpg", "actors": [], "comments": [], "recommandations_id": []}

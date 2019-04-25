@@ -1,1 +1,0 @@
-{"tmdb_id": 250363, "title": "Chicken and Futility", "original_title": "Chicken and Futility", "slug_title": "chicken-and-futility", "date": "2014-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1LN0fh7LUMbB7GKIdzYOoo6Nyaw.jpg", "actors": ["Donald Glover (The Boy)"], "comments": [], "recommandations_id": []}

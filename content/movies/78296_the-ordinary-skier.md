@@ -1,1 +1,0 @@
-{"tmdb_id": 78296, "title": "The Ordinary Skier", "original_title": "The Ordinary Skier", "slug_title": "the-ordinary-skier", "date": "2011-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/25iOsauUkEd1ibhFRy7UANgGD6x.jpg", "actors": [], "comments": [], "recommandations_id": []}

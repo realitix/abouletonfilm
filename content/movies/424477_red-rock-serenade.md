@@ -1,1 +1,0 @@
-{"tmdb_id": 424477, "title": "Red Rock Serenade", "original_title": "Red Rock Serenade", "slug_title": "red-rock-serenade", "date": "2014-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zJWbpxoYC6wuHKRFjTJSdI05dQL.jpg", "actors": [], "comments": [], "recommandations_id": []}

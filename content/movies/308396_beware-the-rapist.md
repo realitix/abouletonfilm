@@ -1,1 +1,0 @@
-{"tmdb_id": 308396, "title": "Beware The Rapist", "original_title": "Beware The Rapist", "slug_title": "beware-the-rapist", "date": "1979-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wqQBuHhTw7pjnOTohlv6JLAxPsP.jpg", "actors": [], "comments": [], "recommandations_id": []}

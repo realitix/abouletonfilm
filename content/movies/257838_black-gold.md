@@ -1,1 +1,0 @@
-{"tmdb_id": 257838, "title": "Black Gold", "original_title": "Black Gold", "slug_title": "black-gold", "date": "2014-02-25", "genre": "", "score": "5.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x0YJBz4UDy19OswKseqQZ5uqu4A.jpg", "actors": [], "comments": [], "recommandations_id": [380048, 380049, 380050, 380047]}

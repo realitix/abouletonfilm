@@ -1,1 +1,0 @@
-{"tmdb_id": 246659, "title": "Man with Pendulous Arms", "original_title": "L'homme aux bras ballants", "slug_title": "man-with-pendulous-arms", "date": "1997-01-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wIGDinSiJ8rvi6VJHgLblkiaI91.jpg", "actors": [], "comments": [], "recommandations_id": []}

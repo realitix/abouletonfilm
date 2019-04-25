@@ -1,1 +1,0 @@
-{"tmdb_id": 256464, "title": "Beauty Factory", "original_title": "Beauty Factory", "slug_title": "beauty-factory", "date": "2014-02-20", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nIALEJitueiwub3BCkltlVVnrXC.jpg", "actors": [], "comments": [], "recommandations_id": []}

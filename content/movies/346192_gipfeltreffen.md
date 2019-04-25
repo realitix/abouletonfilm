@@ -1,1 +1,0 @@
-{"tmdb_id": 346192, "title": "Gipfeltreffen", "original_title": "Gipfeltreffen", "slug_title": "gipfeltreffen", "date": "1985-06-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Claus Biederstaedt (Lars Andr\u00e9e)", "Ute Willing (Dorothea Lind)", "Karin Dor (Nadine)"], "comments": [], "recommandations_id": []}

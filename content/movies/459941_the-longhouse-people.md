@@ -1,1 +1,0 @@
-{"tmdb_id": 459941, "title": "The Longhouse People", "original_title": "The Longhouse People", "slug_title": "the-longhouse-people", "date": "1951-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

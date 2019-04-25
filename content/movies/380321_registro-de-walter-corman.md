@@ -1,1 +1,0 @@
-{"tmdb_id": 380321, "title": "Registro de Walter Corman", "original_title": "Registro de Walter Corman", "slug_title": "registro-de-walter-corman", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rMFATacwoNFUXHNpuub2TnSQrw2.jpg", "actors": [], "comments": [], "recommandations_id": []}

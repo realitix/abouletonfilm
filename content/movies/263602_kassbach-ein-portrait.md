@@ -1,1 +1,0 @@
-{"tmdb_id": 263602, "title": "Kassbach - Ein Portrait", "original_title": "Kassbach - Ein Portrait", "slug_title": "kassbach-ein-portrait", "date": "1979-02-23", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2aZWdcZ6cA4Hsk0OjrOToPfxt1H.jpg", "actors": [], "comments": [], "recommandations_id": []}

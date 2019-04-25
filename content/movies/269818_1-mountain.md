@@ -1,1 +1,0 @@
-{"tmdb_id": 269818, "title": "1 Mountain", "original_title": "1 Mountain", "slug_title": "1-mountain", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

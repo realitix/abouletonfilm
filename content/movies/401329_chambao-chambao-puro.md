@@ -1,1 +1,0 @@
-{"tmdb_id": 401329, "title": "Chambao - Chambao Puro", "original_title": "Chambao - Chambao Puro", "slug_title": "chambao-chambao-puro", "date": "2005-09-30", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kLKKsNbL62Mfa6azGMA4442BA5A.jpg", "actors": [], "comments": [], "recommandations_id": []}

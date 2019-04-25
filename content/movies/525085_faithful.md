@@ -1,1 +1,0 @@
-{"tmdb_id": 525085, "title": "Faithful", "original_title": "\u0412\u0435\u0440\u043d\u0430\u044f", "slug_title": "faithful", "date": "2008-10-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/KEdTjtW5wWPVs6SO68CjYJEZzu.jpg", "actors": [], "comments": [], "recommandations_id": []}

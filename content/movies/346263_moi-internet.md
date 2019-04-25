@@ -1,1 +1,0 @@
-{"tmdb_id": 346263, "title": "Moi, Internet", "original_title": "Moi, Internet", "slug_title": "moi-internet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

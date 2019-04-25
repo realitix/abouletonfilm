@@ -1,1 +1,0 @@
-{"tmdb_id": 359453, "title": "Wishes Fulfilled", "original_title": "Wishes Fulfilled", "slug_title": "wishes-fulfilled", "date": "2012-03-05", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mZcOX9clNdYLh3nSOWezzOIetwE.jpg", "actors": ["Wayne Dyer (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 335408, "title": "Bananaman", "original_title": "Bananaman", "slug_title": "bananaman", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oQ6EeDY9pN1bMizFAxxa5bjfWFx.jpg", "actors": [], "comments": [], "recommandations_id": []}

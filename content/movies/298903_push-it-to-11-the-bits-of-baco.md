@@ -1,1 +1,0 @@
-{"tmdb_id": 298903, "title": "Push It To 11: The Bits of Baco", "original_title": "Push It To 11: The Bits of Baco", "slug_title": "push-it-to-11-the-bits-of-baco", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

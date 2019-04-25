@@ -1,1 +1,0 @@
-{"tmdb_id": 570250, "title": "Crystal Cave", "original_title": "Crystal Cave", "slug_title": "crystal-cave", "date": "1996-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

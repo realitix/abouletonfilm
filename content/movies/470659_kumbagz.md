@@ -1,1 +1,0 @@
-{"tmdb_id": 470659, "title": "$kumbagz", "original_title": "$kumbagz", "slug_title": "kumbagz", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dlvbQaWv0cIubYt3kTITasJK09S.jpg", "actors": ["John Miller (Director, Writer)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 462751, "title": "Kurusu Rebelde", "original_title": "Kurusu Rebelde", "slug_title": "kurusu-rebelde", "date": "2017-06-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6B5bISWjOarCKuZ9WTRLi8yhB12.jpg", "actors": [], "comments": [], "recommandations_id": []}

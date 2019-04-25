@@ -1,1 +1,0 @@
-{"tmdb_id": 312512, "title": "Asteroid Trackers", "original_title": "Asteroid Trackers", "slug_title": "asteroid-trackers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

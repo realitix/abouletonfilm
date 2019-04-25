@@ -1,1 +1,0 @@
-{"tmdb_id": 235005, "title": "Cheese It, the Cat!", "original_title": "Cheese It, the Cat!", "slug_title": "cheese-it-the-cat", "date": "1957-05-03", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4w2i04qqzFoCvPILfpJjcB7tsvD.jpg", "actors": [], "comments": [], "recommandations_id": []}

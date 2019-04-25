@@ -1,1 +1,0 @@
-{"tmdb_id": 591544, "title": "Chop Off", "original_title": "Chop Off", "slug_title": "chop-off", "date": "2006-07-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/itv1Mq0zyLqYMotdLTUrL4tfWrZ.jpg", "actors": ["Kyle Lemon ()", "Corey Wilkins ()"], "comments": [], "recommandations_id": []}

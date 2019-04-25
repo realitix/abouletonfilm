@@ -1,1 +1,0 @@
-{"tmdb_id": 296486, "title": "Miss Spider's Sunny Patch Kids", "original_title": "Miss Spider's Sunny Patch Kids", "slug_title": "miss-spider-s-sunny-patch-kids", "date": "2003-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

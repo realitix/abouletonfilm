@@ -1,1 +1,0 @@
-{"tmdb_id": 312470, "title": "Belle & Sebastian: Step into My Office", "original_title": "Belle & Sebastian: Step into My Office", "slug_title": "belle-sebastian-step-into-my-office", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

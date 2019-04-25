@@ -1,1 +1,0 @@
-{"tmdb_id": 526277, "title": "Kun on tunteet", "original_title": "Kun on tunteet", "slug_title": "kun-on-tunteet", "date": "1954-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

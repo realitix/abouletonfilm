@@ -1,1 +1,0 @@
-{"tmdb_id": 70346, "title": "Filmhits for b\u00f8rn 2", "original_title": "Filmhits for b\u00f8rn 2", "slug_title": "filmhits-for-born-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dhegTkYxGrHXEMO88hY8EYW0H1O.jpg", "actors": [], "comments": [], "recommandations_id": []}

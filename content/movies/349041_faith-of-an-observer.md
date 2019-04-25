@@ -1,1 +1,0 @@
-{"tmdb_id": 349041, "title": "Faith of an Observer", "original_title": "Faith of an Observer", "slug_title": "faith-of-an-observer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

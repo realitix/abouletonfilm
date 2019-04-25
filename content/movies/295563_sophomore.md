@@ -1,1 +1,0 @@
-{"tmdb_id": 295563, "title": "Sophomore", "original_title": "Sophomore", "slug_title": "sophomore", "date": "2012-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wej56VZeKZWoiJvpaodUSVdJJFv.jpg", "actors": ["Patrick Warburton (Mr. McKee)", "Amanda Plummer (Miss Hutz)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 536514, "title": "Mein Bruder", "original_title": "Mein Bruder", "slug_title": "mein-bruder", "date": "1985-01-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3jhlez6BoPHYoucPU5zq56ecgFI.jpg", "actors": [], "comments": [], "recommandations_id": []}

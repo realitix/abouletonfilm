@@ -1,1 +1,0 @@
-{"tmdb_id": 350420, "title": "Best Friend", "original_title": "\ub2e8\uc9dd", "slug_title": "best-friend", "date": "1979-08-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ji Mi-ok ()", "Sa Mi-ja ()", "Park Yong-sik ()", "Yoo Myeong-sun ()"], "comments": [], "recommandations_id": []}

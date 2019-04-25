@@ -1,1 +1,0 @@
-{"tmdb_id": 482454, "title": "Lyubov: Love in Russian", "original_title": "Lyubov: k\u00e4rlek p\u00e5 ryska", "slug_title": "lyubov-love-in-russian", "date": "2017-11-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Svetlana Alexievich ()"], "comments": [], "recommandations_id": []}

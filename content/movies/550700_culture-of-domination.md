@@ -1,1 +1,0 @@
-{"tmdb_id": 550700, "title": "Culture of Domination", "original_title": "Culture of Domination", "slug_title": "culture-of-domination", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ei23wZIf1gkXf3q7TWKbCAINEY.jpg", "actors": [], "comments": [], "recommandations_id": []}

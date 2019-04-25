@@ -1,1 +1,0 @@
-{"tmdb_id": 563301, "title": "Supernatural Power", "original_title": "Supernatural Power", "slug_title": "supernatural-power", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

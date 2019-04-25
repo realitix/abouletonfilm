@@ -1,1 +1,0 @@
-{"tmdb_id": 499810, "title": "Death of the Master", "original_title": "La muerte del maestro", "slug_title": "death-of-the-master", "date": "2018-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yfLvfkIXfLnCFs6q9Bqy8Z5Zr1d.jpg", "actors": [], "comments": [], "recommandations_id": []}

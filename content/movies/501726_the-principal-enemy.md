@@ -1,1 +1,0 @@
-{"tmdb_id": 501726, "title": "The Principal Enemy", "original_title": "Jatun auka", "slug_title": "the-principal-enemy", "date": "1974-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qHfSBpBPkVPr6ZS1AelyUnWT88u.jpg", "actors": [], "comments": [], "recommandations_id": []}

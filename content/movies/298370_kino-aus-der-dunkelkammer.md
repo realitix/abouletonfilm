@@ -1,1 +1,0 @@
-{"tmdb_id": 298370, "title": "Kino aus der Dunkelkammer", "original_title": "Kino aus der Dunkelkammer", "slug_title": "kino-aus-der-dunkelkammer", "date": "2014-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

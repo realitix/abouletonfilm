@@ -1,1 +1,0 @@
-{"tmdb_id": 125346, "title": "Scrap Vessel", "original_title": "Scrap Vessel", "slug_title": "scrap-vessel", "date": "2009-10-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ckiIbFAJjg2aAMatS9mx7R52KLm.jpg", "actors": [], "comments": [], "recommandations_id": []}

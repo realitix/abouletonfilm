@@ -1,1 +1,0 @@
-{"tmdb_id": 280102, "title": "Quartet Number One", "original_title": "Quartet Number One", "slug_title": "quartet-number-one", "date": "1991-07-03", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/58PkJ9yBCGXa1o4oToDhJIus6nm.jpg", "actors": [], "comments": [], "recommandations_id": []}

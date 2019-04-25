@@ -1,1 +1,0 @@
-{"tmdb_id": 309723, "title": "The Dutch Masters: Van Dyck", "original_title": "The Dutch Masters: Van Dyck", "slug_title": "the-dutch-masters-van-dyck", "date": "2000-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kM3Z8hRoQlG03BLODNz14VhyZyN.jpg", "actors": [], "comments": [], "recommandations_id": []}

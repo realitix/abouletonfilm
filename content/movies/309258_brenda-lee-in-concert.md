@@ -1,1 +1,0 @@
-{"tmdb_id": 309258, "title": "Brenda Lee: In Concert", "original_title": "Brenda Lee: In Concert", "slug_title": "brenda-lee-in-concert", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

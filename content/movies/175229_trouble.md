@@ -1,1 +1,0 @@
-{"tmdb_id": 175229, "title": "Trouble", "original_title": "Trouble", "slug_title": "trouble", "date": "1920-03-08", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Al St. John ()"], "comments": [], "recommandations_id": []}

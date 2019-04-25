@@ -1,1 +1,0 @@
-{"tmdb_id": 384981, "title": "Down with the Dawn", "original_title": "Down with the Dawn", "slug_title": "down-with-the-dawn", "date": "2012-02-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fPiUfoQfJgtuTinGgzPe128ghmI.jpg", "actors": [], "comments": [], "recommandations_id": []}

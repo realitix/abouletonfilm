@@ -1,1 +1,0 @@
-{"tmdb_id": 261377, "title": "Thanga Surangam", "original_title": "Thanga Surangam", "slug_title": "thanga-surangam", "date": "1969-03-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sivaji Ganesan ()", "Bharathi Rao ()", "O. A. K. Thevar ()"], "comments": [], "recommandations_id": []}

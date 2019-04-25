@@ -1,1 +1,0 @@
-{"tmdb_id": 524154, "title": "One Two Zero", "original_title": "Raz dwa zero", "slug_title": "one-two-zero", "date": "2017-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dSxAMrAommehBn3w0jTjWkPNCs4.jpg", "actors": [], "comments": [], "recommandations_id": []}

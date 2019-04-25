@@ -1,1 +1,1 @@
-{"tmdb_id": 349939, "title": "\ud751\uc7a5\ubbf8", "original_title": "\ud751\uc7a5\ubbf8", "slug_title": "heugjangmi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 349939, "title": "\ud751\uc7a5\ubbf8", "original_title": "\ud751\uc7a5\ubbf8", "slug_title": "heugjangmi", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 387141, "title": "Metropolitan Museum", "original_title": "Metropolitan Museum", "slug_title": "metropolitan-museum", "date": "1993-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hlnZLLwTsdbBuQykZuShyBArCAE.jpg", "actors": [], "comments": [], "recommandations_id": []}

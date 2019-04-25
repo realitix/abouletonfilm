@@ -1,1 +1,0 @@
-{"tmdb_id": 595044, "title": "In Aquis Fundata", "original_title": "In Aquis Fundata", "slug_title": "in-aquis-fundata", "date": "2017-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ktTSpZcHx3tdJ0ApxNvlzqDEpCw.jpg", "actors": [], "comments": [], "recommandations_id": []}

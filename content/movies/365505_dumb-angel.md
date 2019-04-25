@@ -1,1 +1,0 @@
-{"tmdb_id": 365505, "title": "Dumb Angel", "original_title": "Dumb Angel", "slug_title": "dumb-angel", "date": "2005-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

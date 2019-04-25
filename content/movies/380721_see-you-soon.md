@@ -1,1 +1,0 @@
-{"tmdb_id": 380721, "title": "See You Soon", "original_title": "See You Soon", "slug_title": "see-you-soon", "date": "2014-10-29", "genre": "Horreur", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6k3wZxWn0YzV98u7iz82DjhHOMh.jpg", "actors": ["Lotta Losten ()"], "comments": [], "recommandations_id": [381420, 381294, 381419, 381423]}

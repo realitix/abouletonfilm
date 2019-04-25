@@ -1,1 +1,0 @@
-{"tmdb_id": 186223, "title": "Photonovela", "original_title": "Photonovela", "slug_title": "photonovela", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/66QOaJczPv093RBv9q18r9617Qb.jpg", "actors": [], "comments": [], "recommandations_id": []}

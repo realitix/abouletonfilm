@@ -1,1 +1,0 @@
-{"tmdb_id": 365517, "title": "The Hoffnung Palm Court Orchestra", "original_title": "The Hoffnung Palm Court Orchestra", "slug_title": "the-hoffnung-palm-court-orchestra", "date": "1965-01-01", "genre": "Musique / Animation / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

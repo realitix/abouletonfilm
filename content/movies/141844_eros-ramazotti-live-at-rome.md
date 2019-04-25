@@ -1,1 +1,0 @@
-{"tmdb_id": 141844, "title": "Eros Ramazotti : Live at Rome", "original_title": "Eros Ramazotti : Live at Rome", "slug_title": "eros-ramazotti-live-at-rome", "date": "2009-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aCgYqk7tQg95PPBpXei0q09OwiI.jpg", "actors": [], "comments": [], "recommandations_id": []}

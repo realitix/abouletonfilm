@@ -1,1 +1,0 @@
-{"tmdb_id": 297697, "title": "Hunting Deer in Sweden", "original_title": "Riffeljagt", "slug_title": "hunting-deer-in-sweden", "date": "2004-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tqRrNAPHItJaKoXVKHQA8tJunNb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 492446, "title": "Beyond Food", "original_title": "Beyond Food", "slug_title": "beyond-food", "date": "2017-07-01", "genre": "Documentaire", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vTpIdZ9WdVusGNgZVFH1BFIkIRy.jpg", "actors": ["Tomas Reyes (Narrator)"], "comments": [], "recommandations_id": []}

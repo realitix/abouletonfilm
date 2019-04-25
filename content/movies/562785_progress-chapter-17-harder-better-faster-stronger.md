@@ -1,1 +1,0 @@
-{"tmdb_id": 562785, "title": "PROGRESS CHAPTER 17: HARDER, BETTER, FASTER, STRONGER", "original_title": "PROGRESS CHAPTER 17: HARDER, BETTER, FASTER, STRONGER", "slug_title": "progress-chapter-17-harder-better-faster-stronger", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

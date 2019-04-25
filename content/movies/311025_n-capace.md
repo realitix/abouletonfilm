@@ -1,1 +1,0 @@
-{"tmdb_id": 311025, "title": "N-Capace", "original_title": "N-Capace", "slug_title": "n-capace", "date": "2014-11-24", "genre": "", "score": "5.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4gxFWyAOcMWrdHoS2tWMZxQcGzC.jpg", "actors": ["Eleonora Danco ()"], "comments": [], "recommandations_id": [73872, 56521]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 9939, "title": "The Chatroom", "original_title": "The Chatroom", "slug_title": "the-chatroom", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["GiGi Erneta (Lula)", "Brian Hooks (Max)"], "comments": [], "recommandations_id": []}

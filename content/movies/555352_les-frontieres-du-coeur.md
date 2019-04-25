@@ -1,1 +1,0 @@
-{"tmdb_id": 555352, "title": "Les fronti\u00e8res du coeur", "original_title": "Les fronti\u00e8res du coeur", "slug_title": "les-frontieres-du-coeur", "date": "1914-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

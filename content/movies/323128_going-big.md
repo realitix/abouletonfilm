@@ -1,1 +1,0 @@
-{"tmdb_id": 323128, "title": "Going Big", "original_title": "Going Big", "slug_title": "going-big", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

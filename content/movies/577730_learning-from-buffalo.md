@@ -1,1 +1,0 @@
-{"tmdb_id": 577730, "title": "Learning From Buffalo", "original_title": "Learning From Buffalo", "slug_title": "learning-from-buffalo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

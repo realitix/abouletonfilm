@@ -1,1 +1,0 @@
-{"tmdb_id": 394030, "title": "RPW: Live At The Cockpit 5", "original_title": "RPW: Live At The Cockpit 5", "slug_title": "rpw-live-at-the-cockpit-5", "date": "2016-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

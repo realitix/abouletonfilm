@@ -1,1 +1,0 @@
-{"tmdb_id": 271121, "title": "Coco and Drila", "original_title": "Coco and Drila", "slug_title": "coco-and-drila", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

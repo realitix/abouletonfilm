@@ -1,1 +1,0 @@
-{"tmdb_id": 581831, "title": "P.J. Funnybunny: A Very Cool Easter", "original_title": "P.J. Funnybunny: A Very Cool Easter", "slug_title": "p-j-funnybunny-a-very-cool-easter", "date": "1997-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

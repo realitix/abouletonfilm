@@ -1,1 +1,0 @@
-{"tmdb_id": 288803, "title": "Spanish A.B.C.", "original_title": "Spanish A.B.C.", "slug_title": "spanish-a-b-c", "date": "1938-05-05", "genre": "Documentaire", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tWS4fFoju9uSalXtdrydER7DUzU.jpg", "actors": ["G.C.T. Giles (Narrator)"], "comments": [], "recommandations_id": []}

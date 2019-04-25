@@ -1,1 +1,0 @@
-{"tmdb_id": 398820, "title": "Beautiful Relics", "original_title": "Beautiful Relics", "slug_title": "beautiful-relics", "date": "2015-04-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Y4pRe1L93NSSWIfXBXhpsFVGJo.jpg", "actors": [], "comments": [], "recommandations_id": []}

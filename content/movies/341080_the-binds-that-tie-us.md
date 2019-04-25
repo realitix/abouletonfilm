@@ -1,1 +1,0 @@
-{"tmdb_id": 341080, "title": "The Binds That Tie Us", "original_title": "The Binds That Tie Us", "slug_title": "the-binds-that-tie-us", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

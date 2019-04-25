@@ -1,1 +1,0 @@
-{"tmdb_id": 520450, "title": "Serengeti Rules", "original_title": "Serengeti Rules", "slug_title": "serengeti-rules", "date": "2018-04-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qtpyK1zlont0rRp6LsTbAEXoVSh.jpg", "actors": [], "comments": [], "recommandations_id": []}

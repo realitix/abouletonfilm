@@ -1,1 +1,0 @@
-{"tmdb_id": 22922, "title": "The Third Letter", "original_title": "The Third Letter", "slug_title": "the-third-letter", "date": "2010-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

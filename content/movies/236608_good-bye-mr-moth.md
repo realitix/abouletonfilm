@@ -1,1 +1,0 @@
-{"tmdb_id": 236608, "title": "Good-Bye Mr. Moth", "original_title": "Good-Bye Mr. Moth", "slug_title": "good-bye-mr-moth", "date": "1942-05-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Wd86ExSw5f6uiui4vWznXfTrp3.jpg", "actors": [], "comments": [], "recommandations_id": []}

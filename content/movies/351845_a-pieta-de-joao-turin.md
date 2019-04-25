@@ -1,1 +1,0 @@
-{"tmdb_id": 351845, "title": "A Piet\u00e1 de Jo\u00e3o Turin", "original_title": "A Piet\u00e1 de Jo\u00e3o Turin", "slug_title": "a-pieta-de-joao-turin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

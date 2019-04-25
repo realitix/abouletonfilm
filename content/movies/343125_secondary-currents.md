@@ -1,1 +1,0 @@
-{"tmdb_id": 343125, "title": "Secondary Currents", "original_title": "Secondary Currents", "slug_title": "secondary-currents", "date": "1982-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xXNwBiUtvYSyeOj1pUuF3nd3RXv.jpg", "actors": [], "comments": [], "recommandations_id": []}

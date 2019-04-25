@@ -1,1 +1,0 @@
-{"tmdb_id": 281340, "title": "M-Clan Sin Enchufe", "original_title": "M-Clan Sin Enchufe", "slug_title": "m-clan-sin-enchufe", "date": "2000-12-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kBSPfOtOov5ElpGJHIWKW4mxe7T.jpg", "actors": [], "comments": [], "recommandations_id": []}

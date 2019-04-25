@@ -1,1 +1,0 @@
-{"tmdb_id": 285781, "title": "Angels & Dust", "original_title": "Angels & Dust", "slug_title": "angels-dust", "date": "2013-01-01", "genre": "Aventure / Documentaire / Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dIm1jMi4KL2BPCOSEFVYdAF0wkh.jpg", "actors": [], "comments": [], "recommandations_id": []}

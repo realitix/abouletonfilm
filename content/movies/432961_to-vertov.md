@@ -1,1 +1,0 @@
-{"tmdb_id": 432961, "title": "To Vertov", "original_title": "An Vertov", "slug_title": "to-vertov", "date": "1998-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Qls0upv0eucncE8K8Q8huRiZpM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 526294, "title": "August Story", "original_title": "Bak yuet dik gu si", "slug_title": "august-story", "date": "2006-09-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mlZpldpIWwqG8UX4VnoAVfqrhyg.jpg", "actors": [], "comments": [], "recommandations_id": []}

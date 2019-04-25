@@ -1,1 +1,0 @@
-{"tmdb_id": 275808, "title": "Anne Murray: What a Wonderful World", "original_title": "Anne Murray: What a Wonderful World", "slug_title": "anne-murray-what-a-wonderful-world", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 259304, "title": "Good Game", "original_title": "Good Game", "slug_title": "good-game", "date": "2014-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oxTW4YG0CLGlH7D4pfpIAJ2Rxi8.jpg", "actors": [], "comments": [], "recommandations_id": []}

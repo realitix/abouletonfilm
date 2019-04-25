@@ -1,1 +1,0 @@
-{"tmdb_id": 501620, "title": "Shattered: Journey Into a Silent Past", "original_title": "Shattered: Journey Into a Silent Past", "slug_title": "shattered-journey-into-a-silent-past", "date": "2016-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

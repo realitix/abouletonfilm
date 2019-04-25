@@ -1,1 +1,0 @@
-{"tmdb_id": 474517, "title": "Kizuna: Taste of Aji Stone", "original_title": "Kizuna: Ajiishi no aji", "slug_title": "kizuna-taste-of-aji-stone", "date": "2012-01-01", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 277442, "title": "La Brecha", "original_title": "La Brecha", "slug_title": "la-brecha", "date": "2006-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zlm2fO2MxA0KKYqfLOBgDdwKjnM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 277888, "title": "John Huston War Stories", "original_title": "John Huston War Stories", "slug_title": "john-huston-war-stories", "date": "1999-09-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Qga61rras2ZzJQFFCCyOTco5As.jpg", "actors": [], "comments": [], "recommandations_id": []}

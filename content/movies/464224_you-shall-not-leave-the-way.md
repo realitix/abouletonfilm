@@ -1,1 +1,0 @@
-{"tmdb_id": 464224, "title": "You Shall Not Leave the Way!", "original_title": "You Shall Not Leave the Way!", "slug_title": "you-shall-not-leave-the-way", "date": "2011-07-02", "genre": "Drame / Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

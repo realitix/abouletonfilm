@@ -1,1 +1,0 @@
-{"tmdb_id": 236152, "title": "Window Shopping", "original_title": "Window Shopping", "slug_title": "window-shopping", "date": "1938-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

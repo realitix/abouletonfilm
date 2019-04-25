@@ -1,1 +1,0 @@
-{"tmdb_id": 415105, "title": "\u795d\u798f (Shukufuku)", "original_title": "\u795d\u798f (Shukufuku)", "slug_title": "zhu-fu-shukufuku", "date": "", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 425136, "title": "Bad Dads", "original_title": "Bad Dads", "slug_title": "bad-dads", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mVADO3VlLijthhqKvbzcBPv2EyX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 159760, "title": "Three Soldiers", "original_title": "Three Soldiers", "slug_title": "three-soldiers", "date": "2007-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Burka (Narration)"], "comments": [], "recommandations_id": []}

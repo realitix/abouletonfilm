@@ -1,1 +1,0 @@
-{"tmdb_id": 286697, "title": "Songs From the North", "original_title": "Songs From the North", "slug_title": "songs-from-the-north", "date": "2014-08-08", "genre": "", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nS8gWS9E46sx8QMihVaHDmhP0m4.jpg", "actors": [], "comments": [], "recommandations_id": []}

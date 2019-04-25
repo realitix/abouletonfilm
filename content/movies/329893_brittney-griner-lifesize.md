@@ -1,1 +1,0 @@
-{"tmdb_id": 329893, "title": "Brittney Griner: Lifesize", "original_title": "Brittney Griner: Lifesize", "slug_title": "brittney-griner-lifesize", "date": "2014-07-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

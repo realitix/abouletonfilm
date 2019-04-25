@@ -1,1 +1,0 @@
-{"tmdb_id": 71734, "title": "Drengene fra Angora", "original_title": "Drengene fra Angora", "slug_title": "drengene-fra-angora", "date": "2004-01-01", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fGTxNoyHWgww0K1MO4oyUccTdBw.jpg", "actors": [], "comments": [], "recommandations_id": []}

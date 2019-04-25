@@ -1,1 +1,0 @@
-{"tmdb_id": 498989, "title": "N\u00f3is por N\u00f3is", "original_title": "N\u00f3is por N\u00f3is", "slug_title": "nois-por-nois", "date": "2018-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2x2uqzP8LQItmBNWBjsgffWgNUV.jpg", "actors": [], "comments": [], "recommandations_id": []}

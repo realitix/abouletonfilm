@@ -1,1 +1,0 @@
-{"tmdb_id": 322028, "title": "Mendelssohn's Wedding March", "original_title": "Mendelssohn's Wedding March", "slug_title": "mendelssohn-s-wedding-march", "date": "1939-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

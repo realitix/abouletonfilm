@@ -1,1 +1,0 @@
-{"tmdb_id": 304894, "title": "Start With Nothing", "original_title": "Start With Nothing", "slug_title": "start-with-nothing", "date": "2014-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

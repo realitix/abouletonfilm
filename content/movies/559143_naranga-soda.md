@@ -1,1 +1,0 @@
-{"tmdb_id": 559143, "title": "Naranga Soda", "original_title": "\u0d28\u0d30\u0d02\u0d17 \u0d38\u0d4b\u0d21", "slug_title": "naranga-soda", "date": "", "genre": "Com\u00e9die / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

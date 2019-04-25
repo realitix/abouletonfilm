@@ -1,1 +1,0 @@
-{"tmdb_id": 143289, "title": "Rosa Tattooada", "original_title": "Rosa Tattooada", "slug_title": "rosa-tattooada", "date": "2011-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jFwsYRCM6LFnU4IkaTAHjytUtdm.jpg", "actors": [], "comments": [], "recommandations_id": []}

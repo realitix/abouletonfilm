@@ -1,1 +1,0 @@
-{"tmdb_id": 96294, "title": "Lucky Luke \u2014 Nitroglycerine", "original_title": "Lucky Luke \u2014 Nitroglycerine", "slug_title": "lucky-luke-nitroglycerine", "date": "2003-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f6AaqjtR0XGlkf9nWbglSvHpqmq.jpg", "actors": [], "comments": [], "recommandations_id": []}

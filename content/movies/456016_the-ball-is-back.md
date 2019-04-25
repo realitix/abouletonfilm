@@ -1,1 +1,0 @@
-{"tmdb_id": 456016, "title": "The Ball is Back", "original_title": "The Ball is Back", "slug_title": "the-ball-is-back", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Reggie Bannister ()", "Angus Scrimm ()", "Don Coscarelli ()"], "comments": [], "recommandations_id": []}

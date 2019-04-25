@@ -1,1 +1,0 @@
-{"tmdb_id": 161949, "title": "The Air Race", "original_title": "The Air Race", "slug_title": "the-air-race", "date": "1933-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 184437, "title": "Felix Monkeys with Magic", "original_title": "Felix Monkeys with Magic", "slug_title": "felix-monkeys-with-magic", "date": "1925-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

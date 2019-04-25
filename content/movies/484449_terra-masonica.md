@@ -1,1 +1,0 @@
-{"tmdb_id": 484449, "title": "Terra Masonica", "original_title": "Terra Masonica", "slug_title": "terra-masonica", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9MDhJldEorDSDbIrXGA0C6FeAuY.jpg", "actors": ["Chris Brooker (Narrator)"], "comments": [], "recommandations_id": []}

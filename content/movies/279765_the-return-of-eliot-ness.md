@@ -1,1 +1,0 @@
-{"tmdb_id": 279765, "title": "The Return of Eliot Ness", "original_title": "The Return of Eliot Ness", "slug_title": "the-return-of-eliot-ness", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/85MaOlY7Bj7Lneao8mmBPwYg7Vc.jpg", "actors": [], "comments": [], "recommandations_id": []}

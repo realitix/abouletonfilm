@@ -1,1 +1,0 @@
-{"tmdb_id": 428339, "title": "Fr\u00e4ulein Seifenschaum", "original_title": "Fr\u00e4ulein Seifenschaum", "slug_title": "fraulein-seifenschaum", "date": "1915-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernst Lubitsch ()"], "comments": [], "recommandations_id": []}

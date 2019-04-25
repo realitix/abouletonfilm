@@ -1,1 +1,0 @@
-{"tmdb_id": 497963, "title": "10 Minute Fix for Abs", "original_title": "10 Minute Fix for Abs", "slug_title": "10-minute-fix-for-abs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3oUcacO75SxMnyN7Sz2oCK1XcvO.jpg", "actors": [], "comments": [], "recommandations_id": []}

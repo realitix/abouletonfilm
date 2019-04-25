@@ -1,1 +1,0 @@
-{"tmdb_id": 354255, "title": "This Is Hormel", "original_title": "This Is Hormel", "slug_title": "this-is-hormel", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

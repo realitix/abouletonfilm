@@ -1,1 +1,0 @@
-{"tmdb_id": 110668, "title": "3rd & Bird: Bird's The Word", "original_title": "3rd & Bird: Bird's The Word", "slug_title": "3rd-bird-bird-s-the-word", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fD70oXonZlN6xpt6gaOg5d7qzpX.jpg", "actors": [], "comments": [], "recommandations_id": []}

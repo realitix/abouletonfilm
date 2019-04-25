@@ -1,1 +1,0 @@
-{"tmdb_id": 352866, "title": "And So They Live", "original_title": "And So They Live", "slug_title": "and-so-they-live", "date": "1940-08-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["House Jameson (Narrator)", "George Tiplady (Narrator)"], "comments": [], "recommandations_id": []}

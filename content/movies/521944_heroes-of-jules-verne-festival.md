@@ -1,1 +1,0 @@
-{"tmdb_id": 521944, "title": "Heroes of Jules Verne Festival", "original_title": "Heroes of Jules Verne Festival", "slug_title": "heroes-of-jules-verne-festival", "date": "2009-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

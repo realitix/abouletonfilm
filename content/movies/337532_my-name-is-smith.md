@@ -1,1 +1,0 @@
-{"tmdb_id": 337532, "title": "My Name Is Smith", "original_title": "My Name Is Smith", "slug_title": "my-name-is-smith", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

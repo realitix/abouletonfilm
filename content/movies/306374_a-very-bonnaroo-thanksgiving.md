@@ -1,1 +1,0 @@
-{"tmdb_id": 306374, "title": "A Very Bonnaroo Thanksgiving", "original_title": "A Very Bonnaroo Thanksgiving", "slug_title": "a-very-bonnaroo-thanksgiving", "date": "2014-11-27", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iz24sLIHkTiQXeFVDG8IaeWvDJL.jpg", "actors": [], "comments": [], "recommandations_id": []}

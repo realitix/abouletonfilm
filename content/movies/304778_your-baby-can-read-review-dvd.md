@@ -1,1 +1,0 @@
-{"tmdb_id": 304778, "title": "Your Baby Can Read! Review DVD", "original_title": "Your Baby Can Read! Review DVD", "slug_title": "your-baby-can-read-review-dvd", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ymyCci9LQjqPCMxGi1l2f8lQtFF.jpg", "actors": [], "comments": [], "recommandations_id": []}

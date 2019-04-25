@@ -1,1 +1,0 @@
-{"tmdb_id": 389598, "title": "Pepper Live", "original_title": "Pepper Live", "slug_title": "pepper-live", "date": "2008-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

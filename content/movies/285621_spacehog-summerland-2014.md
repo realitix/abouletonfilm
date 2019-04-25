@@ -1,1 +1,0 @@
-{"tmdb_id": 285621, "title": "Spacehog: Summerland 2014", "original_title": "Spacehog: Summerland 2014", "slug_title": "spacehog-summerland-2014", "date": "2014-06-26", "genre": "Musique", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ouKPAmG12gXz8Iwckk2xlDcS8y0.jpg", "actors": [], "comments": [], "recommandations_id": []}

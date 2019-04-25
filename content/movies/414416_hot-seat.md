@@ -1,1 +1,0 @@
-{"tmdb_id": 414416, "title": "Hot Seat", "original_title": "Hot Seat", "slug_title": "hot-seat", "date": "2008-04-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pKI0KpIjrYs07fUwTVwShhCcxMt.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 457368, "title": "Self-Made Paradise", "original_title": "Self-Made Paradise", "slug_title": "self-made-paradise", "date": "2008-01-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6SSuY1dE0U4iwtzzP87uj11iHdS.jpg", "actors": [], "comments": [], "recommandations_id": []}

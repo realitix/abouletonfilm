@@ -1,1 +1,0 @@
-{"tmdb_id": 201167, "title": "Pudgy Takes a Bow-Wow", "original_title": "Pudgy Takes a Bow-Wow", "slug_title": "pudgy-takes-a-bow-wow", "date": "1937-04-09", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fozY89pkkFHq3TNnjsYS6LzME3d.jpg", "actors": [], "comments": [], "recommandations_id": []}

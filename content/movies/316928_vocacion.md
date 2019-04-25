@@ -1,1 +1,0 @@
-{"tmdb_id": 316928, "title": "\u00bfVocaci\u00f3n?", "original_title": "\u00bfVocaci\u00f3n?", "slug_title": "vocacion", "date": "1938-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9F0XB50nhmxSwU2KdP2YBukMTX2.jpg", "actors": ["Rina Massardi (Eva Lauri)"], "comments": [], "recommandations_id": []}

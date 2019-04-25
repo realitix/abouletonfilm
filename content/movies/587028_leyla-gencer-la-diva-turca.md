@@ -1,1 +1,0 @@
-{"tmdb_id": 587028, "title": "Leyla Gencer: La Diva Turca", "original_title": "Leyla Gencer: La Diva Turca", "slug_title": "leyla-gencer-la-diva-turca", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jhf7l34cyhPvHv9Fmkeh6ojffUx.jpg", "actors": [], "comments": [], "recommandations_id": []}

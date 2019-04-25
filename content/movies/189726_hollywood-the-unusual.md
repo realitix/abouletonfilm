@@ -1,1 +1,0 @@
-{"tmdb_id": 189726, "title": "Hollywood the Unusual", "original_title": "Hollywood the Unusual", "slug_title": "hollywood-the-unusual", "date": "1927-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 595518, "title": "The Snow Wolf: A Winter's Tale", "original_title": "The Snow Wolf: A Winter's Tale", "slug_title": "the-snow-wolf-a-winter-s-tale", "date": "2018-12-27", "genre": "Documentaire / Drame", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emilia Fox (Narrator)"], "comments": [], "recommandations_id": []}

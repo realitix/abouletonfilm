@@ -1,1 +1,0 @@
-{"tmdb_id": 447336, "title": "Favela Funk Finl\u00e2ndia", "original_title": "Favela Funk Finl\u00e2ndia", "slug_title": "favela-funk-finlandia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

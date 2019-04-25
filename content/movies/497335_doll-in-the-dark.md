@@ -1,1 +1,0 @@
-{"tmdb_id": 497335, "title": "Doll in the Dark", "original_title": "Doll in the Dark", "slug_title": "doll-in-the-dark", "date": "2016-11-01", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s7Ftpvt9jgIcEgNmKwbk8iUZ2a4.jpg", "actors": [], "comments": [], "recommandations_id": []}

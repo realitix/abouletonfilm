@@ -1,1 +1,0 @@
-{"tmdb_id": 209537, "title": "Testamentet", "original_title": "Testamentet", "slug_title": "testamentet", "date": "2011-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AvYdbxrFZk25pszUIAdlLwzRsYM.jpg", "actors": [], "comments": [], "recommandations_id": []}

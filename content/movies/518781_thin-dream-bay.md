@@ -1,1 +1,0 @@
-{"tmdb_id": 518781, "title": "Thin Dream Bay", "original_title": "\u6d77\u6ee8\u8584\u68a6", "slug_title": "thin-dream-bay", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

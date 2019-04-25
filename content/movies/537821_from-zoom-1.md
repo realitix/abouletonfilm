@@ -1,1 +1,0 @@
-{"tmdb_id": 537821, "title": "from zoom #1", "original_title": "from zoom #1", "slug_title": "from-zoom-1", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/du6AsCOE0Hcq1LPNJ8Qs6HgnKYT.jpg", "actors": [], "comments": [], "recommandations_id": []}

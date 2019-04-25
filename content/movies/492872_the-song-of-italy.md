@@ -1,1 +1,0 @@
-{"tmdb_id": 492872, "title": "The Song of Italy", "original_title": "The Song of Italy", "slug_title": "the-song-of-italy", "date": "1967-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/apmGK4Dopjcgeqg2ndUU0oxiLuW.jpg", "actors": [], "comments": [], "recommandations_id": []}

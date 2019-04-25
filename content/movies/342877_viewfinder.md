@@ -1,1 +1,0 @@
-{"tmdb_id": 342877, "title": "Viewfinder", "original_title": "\uacbd", "slug_title": "viewfinder", "date": "2009-10-10", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/umpLzhYwXcrVDCE0giGcvCm1ElJ.jpg", "actors": ["Yang Eun-yong (Jeong-kyeong)", "Kong Ye-ji (Hoo-kyeong)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 386346, "title": "Canned Heat", "original_title": "Canned Heat", "slug_title": "canned-heat", "date": "2011-03-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ohjmDfvZOTBgGKu42yHumIqfq8X.jpg", "actors": [], "comments": [], "recommandations_id": []}

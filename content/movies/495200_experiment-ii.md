@@ -1,1 +1,0 @@
-{"tmdb_id": 495200, "title": "Experiment II", "original_title": "Experiment II", "slug_title": "experiment-ii", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zhTElRj2aZEorySu74pTSKEjLZu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 337983, "title": "The Famous Warner Bros. Dog Star", "original_title": "The Famous Warner Bros. Dog Star", "slug_title": "the-famous-warner-bros-dog-star", "date": "1928-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

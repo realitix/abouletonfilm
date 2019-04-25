@@ -1,1 +1,1 @@
-{"tmdb_id": 364650, "title": "Genius Erps", "original_title": "Genius Erps", "slug_title": "genius-erps", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 364650, "title": "Genius Erps", "original_title": "Genius Erps", "slug_title": "genius-erps", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A battle of thrown movie..", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

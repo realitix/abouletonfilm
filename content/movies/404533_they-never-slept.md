@@ -1,1 +1,0 @@
-{"tmdb_id": 404533, "title": "They Never Slept", "original_title": "They Never Slept", "slug_title": "they-never-slept", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

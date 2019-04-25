@@ -1,1 +1,0 @@
-{"tmdb_id": 549640, "title": "Tears of Chiwen", "original_title": "\u9e31\u543b\u4e4b\u6cea", "slug_title": "tears-of-chiwen", "date": "2018-09-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wfuA0WTvExEZG3XPeAQty6eMi2W.jpg", "actors": [], "comments": [], "recommandations_id": []}

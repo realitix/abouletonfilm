@@ -1,1 +1,0 @@
-{"tmdb_id": 530427, "title": "Terminus Brest", "original_title": "Vokzal - Bahnhof Brest", "slug_title": "terminus-brest", "date": "1994-02-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/21O3TTi8YJI62pt1qVvFnfMudot.jpg", "actors": [], "comments": [], "recommandations_id": []}

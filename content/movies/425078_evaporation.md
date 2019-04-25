@@ -1,1 +1,0 @@
-{"tmdb_id": 425078, "title": "Evaporation", "original_title": "Evaporation", "slug_title": "evaporation", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pPczdxTmIhqcDmBFn2FXIhpO0Ng.jpg", "actors": [], "comments": [], "recommandations_id": []}

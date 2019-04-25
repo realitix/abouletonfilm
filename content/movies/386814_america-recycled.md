@@ -1,1 +1,0 @@
-{"tmdb_id": 386814, "title": "America Recycled", "original_title": "America Recycled", "slug_title": "america-recycled", "date": "2016-03-10", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yHl3S4FqN0t0pVHEOvAZf8slQPL.jpg", "actors": [], "comments": [], "recommandations_id": []}

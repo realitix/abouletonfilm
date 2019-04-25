@@ -1,1 +1,0 @@
-{"tmdb_id": 517311, "title": "Summation of Force", "original_title": "Summation of Force", "slug_title": "summation-of-force", "date": "2017-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mZFpN7ZZckRE7bmB9JSOed8eQkf.jpg", "actors": [], "comments": [], "recommandations_id": []}

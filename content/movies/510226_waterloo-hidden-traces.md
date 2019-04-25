@@ -1,1 +1,0 @@
-{"tmdb_id": 510226, "title": "Waterloo: Hidden Traces", "original_title": "Waterloo: Hidden Traces", "slug_title": "waterloo-hidden-traces", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/baOYPFiZZLUwwp2WaRjKxBy7GaV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 194653, "title": "Animal Beatbox", "original_title": "Animal Beatbox", "slug_title": "animal-beatbox", "date": "2011-02-20", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hTIxWARromxXUYkdWxxbSl3uR87.jpg", "actors": [], "comments": [], "recommandations_id": []}

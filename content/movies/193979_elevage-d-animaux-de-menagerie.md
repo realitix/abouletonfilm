@@ -1,1 +1,0 @@
-{"tmdb_id": 193979, "title": "Elevage d'animaux de Menagerie", "original_title": "Elevage d'animaux de Menagerie", "slug_title": "elevage-d-animaux-de-menagerie", "date": "1910-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 506995, "title": "Der Granitkopp", "original_title": "Der Granitkopp", "slug_title": "der-granitkopp", "date": "1984-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sofie Engelke ()", "Jochen Nix ()", "Ingeborg Sch\u00f6ner ()"], "comments": [], "recommandations_id": []}

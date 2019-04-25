@@ -1,1 +1,0 @@
-{"tmdb_id": 257080, "title": "Left of Center", "original_title": "Left of Center", "slug_title": "left-of-center", "date": "2013-02-25", "genre": "Thriller", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/14imQZ3CHTGbrCzFkgBUPseGrjY.jpg", "actors": [], "comments": [], "recommandations_id": []}

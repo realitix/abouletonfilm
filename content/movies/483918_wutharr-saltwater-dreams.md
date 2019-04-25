@@ -1,1 +1,0 @@
-{"tmdb_id": 483918, "title": "Wutharr, Saltwater Dreams", "original_title": "Wutharr, Saltwater Dreams", "slug_title": "wutharr-saltwater-dreams", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ViwpbjkkX8S4Tj9UIXArLQB7bj.jpg", "actors": [], "comments": [], "recommandations_id": []}

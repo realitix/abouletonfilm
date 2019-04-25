@@ -1,1 +1,0 @@
-{"tmdb_id": 436570, "title": "Eat Lamb", "original_title": "Eat Lamb", "slug_title": "eat-lamb", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e4Fa5ZYHVCMyMPSCHcOUWOO0RDd.jpg", "actors": [], "comments": [], "recommandations_id": []}

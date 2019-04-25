@@ -1,1 +1,0 @@
-{"tmdb_id": 588791, "title": "Penny Black", "original_title": "Penny Black", "slug_title": "penny-black", "date": "2015-10-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rFZphshH75YQdMbceOBfEpnLvxP.jpg", "actors": [], "comments": [], "recommandations_id": []}

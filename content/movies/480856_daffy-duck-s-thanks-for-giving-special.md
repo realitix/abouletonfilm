@@ -1,1 +1,0 @@
-{"tmdb_id": 480856, "title": "Daffy Duck's Thanks-for-Giving Special", "original_title": "Daffy Duck's Thanks-for-Giving Special", "slug_title": "daffy-duck-s-thanks-for-giving-special", "date": "1980-11-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

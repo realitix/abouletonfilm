@@ -1,1 +1,0 @@
-{"tmdb_id": 97626, "title": "Canal Zone", "original_title": "Canal Zone", "slug_title": "canal-zone", "date": "1942-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sraZCdLBKijOfVxf0lC3NHLlMLa.jpg", "actors": [], "comments": [], "recommandations_id": []}

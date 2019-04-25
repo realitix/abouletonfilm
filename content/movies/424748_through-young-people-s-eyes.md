@@ -1,1 +1,0 @@
-{"tmdb_id": 424748, "title": "Through Young People's Eyes", "original_title": "Through Young People's Eyes", "slug_title": "through-young-people-s-eyes", "date": "1981-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

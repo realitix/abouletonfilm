@@ -1,1 +1,0 @@
-{"tmdb_id": 52876, "title": "Washington, You're Fired!", "original_title": "Washington, You're Fired!", "slug_title": "washington-you-re-fired", "date": "", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2AdZacEZEeg13U8DVh5fZ22GpGO.jpg", "actors": ["William Lewis ()"], "comments": [], "recommandations_id": []}

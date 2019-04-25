@@ -1,1 +1,0 @@
-{"tmdb_id": 275540, "title": "The Garden At The End Of The World", "original_title": "The Garden At The End Of The World", "slug_title": "the-garden-at-the-end-of-the-world", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 64599, "title": "Phish: Coral Sky", "original_title": "Phish: Coral Sky", "slug_title": "phish-coral-sky", "date": "1996-11-02", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eGJCPAXDR7ufZXJ2gygu3mbGoYk.jpg", "actors": ["Trey Anastasio ()"], "comments": [], "recommandations_id": []}

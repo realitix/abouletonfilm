@@ -1,1 +1,0 @@
-{"tmdb_id": 353255, "title": "Sodium Vapor", "original_title": "Sodium Vapor", "slug_title": "sodium-vapor", "date": "1986-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6eWegZaigqnlT5lKuJwUvC6LeNR.jpg", "actors": [], "comments": [], "recommandations_id": []}

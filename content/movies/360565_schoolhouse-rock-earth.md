@@ -1,1 +1,0 @@
-{"tmdb_id": 360565, "title": "Schoolhouse Rock! Earth", "original_title": "Schoolhouse Rock! Earth", "slug_title": "schoolhouse-rock-earth", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4TF47hIInAHD97H0c7ajhaFmLGe.jpg", "actors": [], "comments": [], "recommandations_id": []}

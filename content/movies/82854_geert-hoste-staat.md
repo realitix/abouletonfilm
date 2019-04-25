@@ -1,1 +1,0 @@
-{"tmdb_id": 82854, "title": "Geert Hoste: Staat", "original_title": "Geert Hoste: Staat", "slug_title": "geert-hoste-staat", "date": "2005-11-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mTNudpVMhrxvgC0NUBFslgC5LwL.jpg", "actors": ["Geert Hoste (Geert Hoste)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 187156, "title": "Jean-Luc Cinema Godard", "original_title": "Jean-Luc Cinema Godard", "slug_title": "jean-luc-cinema-godard", "date": "2009-09-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s6PNkOsj4DGonAdqB4L7NU9HZfq.jpg", "actors": [], "comments": [], "recommandations_id": []}

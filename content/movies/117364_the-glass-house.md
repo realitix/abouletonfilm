@@ -1,1 +1,0 @@
-{"tmdb_id": 117364, "title": "The Glass House", "original_title": "The Glass House", "slug_title": "the-glass-house", "date": "2009-06-20", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cNlRdSabkJDvfnrochUZHb7R5AZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

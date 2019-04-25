@@ -1,1 +1,0 @@
-{"tmdb_id": 365449, "title": "Beer Runners", "original_title": "Beer Runners", "slug_title": "beer-runners", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o0oXh0nlUpXWR4ctjPzkrsWNvMx.jpg", "actors": [], "comments": [], "recommandations_id": []}

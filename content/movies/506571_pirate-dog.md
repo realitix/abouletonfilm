@@ -1,1 +1,0 @@
-{"tmdb_id": 506571, "title": "Pirate Dog", "original_title": "Pirate Dog", "slug_title": "pirate-dog", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

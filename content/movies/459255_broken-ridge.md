@@ -1,1 +1,0 @@
-{"tmdb_id": 459255, "title": "Broken Ridge", "original_title": "Broken Ridge", "slug_title": "broken-ridge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/swAzIL7ALfDh9EUZO2NMKTcjjA9.jpg", "actors": ["John Cusack (Sheriff Cole Gunner)"], "comments": [], "recommandations_id": []}

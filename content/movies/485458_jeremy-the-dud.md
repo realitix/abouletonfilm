@@ -1,1 +1,0 @@
-{"tmdb_id": 485458, "title": "Jeremy the Dud", "original_title": "Jeremy the Dud", "slug_title": "jeremy-the-dud", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cNr4PpkwVDAg2QaCCj5iMRDZ2aS.jpg", "actors": [], "comments": [], "recommandations_id": []}

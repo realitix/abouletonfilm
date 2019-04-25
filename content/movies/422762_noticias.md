@@ -1,1 +1,0 @@
-{"tmdb_id": 422762, "title": "Noticias", "original_title": "Noticias", "slug_title": "noticias", "date": "2009-10-14", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rNbnLNmZbRkUcSUdPNcuan9DYKo.jpg", "actors": [], "comments": [], "recommandations_id": []}

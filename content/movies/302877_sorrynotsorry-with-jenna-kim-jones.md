@@ -1,1 +1,0 @@
-{"tmdb_id": 302877, "title": "#SorryNotSorry with Jenna Kim Jones", "original_title": "#SorryNotSorry with Jenna Kim Jones", "slug_title": "sorrynotsorry-with-jenna-kim-jones", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

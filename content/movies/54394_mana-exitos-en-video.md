@@ -1,1 +1,0 @@
-{"tmdb_id": 54394, "title": "Mana: Exitos En Video", "original_title": "Mana: Exitos En Video", "slug_title": "mana-exitos-en-video", "date": "2002-05-21", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4OpahY1LnG7F49yc3Hbi1iGUQae.jpg", "actors": [], "comments": [], "recommandations_id": []}

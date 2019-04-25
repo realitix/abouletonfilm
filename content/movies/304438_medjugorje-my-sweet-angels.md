@@ -1,1 +1,0 @@
-{"tmdb_id": 304438, "title": "Medjugorje-My sweet angels", "original_title": "Medjugorje-My sweet angels", "slug_title": "medjugorje-my-sweet-angels", "date": "2014-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

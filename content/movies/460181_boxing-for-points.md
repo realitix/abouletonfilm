@@ -1,1 +1,0 @@
-{"tmdb_id": 460181, "title": "Boxing for Points", "original_title": "Boxing for Points", "slug_title": "boxing-for-points", "date": "1897-10-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Private Darrin (Himself)", "Corporal Healy (Himself)"], "comments": [], "recommandations_id": []}

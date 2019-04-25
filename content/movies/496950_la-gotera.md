@@ -1,1 +1,0 @@
-{"tmdb_id": 496950, "title": "La Gotera", "original_title": "La Gotera", "slug_title": "la-gotera", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wZMMChJBzDKAkB10PdVPlLcaHYy.jpg", "actors": ["David Abajo ()", "Mariano Alameda ()"], "comments": [], "recommandations_id": []}

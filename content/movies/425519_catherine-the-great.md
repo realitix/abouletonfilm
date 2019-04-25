@@ -1,1 +1,0 @@
-{"tmdb_id": 425519, "title": "Catherine the Great", "original_title": "Catherine the Great", "slug_title": "catherine-the-great", "date": "", "genre": "Histoire / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

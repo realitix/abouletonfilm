@@ -1,1 +1,0 @@
-{"tmdb_id": 268432, "title": "Rock'em Sock'em 8", "original_title": "Rock'em Sock'em 8", "slug_title": "rock-em-sock-em-8", "date": "1996-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hX4tnf50iZ6KsRHmMUixS9wtwip.jpg", "actors": ["Don Cherry (Himself)"], "comments": [], "recommandations_id": []}

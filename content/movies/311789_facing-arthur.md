@@ -1,1 +1,0 @@
-{"tmdb_id": 311789, "title": "Facing Arthur", "original_title": "Facing Arthur", "slug_title": "facing-arthur", "date": "2002-04-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 70765, "title": "Rockabilly Ruhrpott", "original_title": "Rockabilly Ruhrpott", "slug_title": "rockabilly-ruhrpott", "date": "2010-11-21", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nYf5TKd4GSPTMAvT4HiZzSHIcOH.jpg", "actors": [], "comments": [], "recommandations_id": []}

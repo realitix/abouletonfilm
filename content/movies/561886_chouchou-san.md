@@ -1,1 +1,0 @@
-{"tmdb_id": 561886, "title": "Chouchou-san", "original_title": "Chouchou-san", "slug_title": "chouchou-san", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aoi Miyazaki (Chouchou)", "Atsushi Ito (Tanigawa Isaku)", "Sachiko Kurosawa (Matsuo Sada)"], "comments": [], "recommandations_id": []}

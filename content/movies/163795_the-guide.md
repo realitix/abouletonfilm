@@ -1,1 +1,0 @@
-{"tmdb_id": 163795, "title": "The Guide", "original_title": "\u039f \u039e\u03b5\u03bd\u03b1\u03b3\u03cc\u03c2", "slug_title": "the-guide", "date": "2011-04-27", "genre": "Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/duQnk1HgS5ynbYhReKnvAH0vj3A.jpg", "actors": [], "comments": [], "recommandations_id": []}

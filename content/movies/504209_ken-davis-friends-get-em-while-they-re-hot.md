@@ -1,1 +1,0 @@
-{"tmdb_id": 504209, "title": "Ken Davis & Friends: Get 'em While They're Hot!", "original_title": "Ken Davis & Friends: Get 'em While They're Hot!", "slug_title": "ken-davis-friends-get-em-while-they-re-hot", "date": "2009-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

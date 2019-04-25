@@ -1,1 +1,0 @@
-{"tmdb_id": 273273, "title": "Dancing Darkies", "original_title": "Dancing Darkies", "slug_title": "dancing-darkies", "date": "1896-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

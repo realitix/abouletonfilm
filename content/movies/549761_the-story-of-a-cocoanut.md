@@ -1,1 +1,0 @@
-{"tmdb_id": 549761, "title": "The Story of a Cocoanut", "original_title": "The Story of a Cocoanut", "slug_title": "the-story-of-a-cocoanut", "date": "1912-04-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

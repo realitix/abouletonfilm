@@ -1,1 +1,0 @@
-{"tmdb_id": 297132, "title": "About Love", "original_title": "About Love", "slug_title": "about-love", "date": "2006-04-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ainur Turgambayeva ()", "Kairat Machmetov ()", "Kanat Kuantay ()"], "comments": [], "recommandations_id": []}

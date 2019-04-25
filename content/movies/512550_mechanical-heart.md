@@ -1,1 +1,0 @@
-{"tmdb_id": 512550, "title": "Mechanical Heart", "original_title": "Mechanical Heart", "slug_title": "mechanical-heart", "date": "", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AdlWgOsAbJhprdp6F81Sg754JHo.jpg", "actors": [], "comments": [], "recommandations_id": []}

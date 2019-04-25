@@ -1,1 +1,0 @@
-{"tmdb_id": 428791, "title": "Erotic Ghost Story", "original_title": "\u9b3c\u53eb\u6625", "slug_title": "erotic-ghost-story", "date": "1993-01-01", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chan Wing-Chi ()", "Otomo Rena ()", "Lee Chung-Ling (Roy)", "Kuang-Yuan Wang ()"], "comments": [], "recommandations_id": []}

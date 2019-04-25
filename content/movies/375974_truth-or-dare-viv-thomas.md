@@ -1,1 +1,0 @@
-{"tmdb_id": 375974, "title": "Truth or Dare (Viv Thomas)", "original_title": "Truth or Dare (Viv Thomas)", "slug_title": "truth-or-dare-viv-thomas", "date": "2015-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uiLQjWyKzJJcq7E9pmrfNRvnUiU.jpg", "actors": [], "comments": [], "recommandations_id": []}

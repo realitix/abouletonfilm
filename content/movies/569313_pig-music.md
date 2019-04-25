@@ -1,1 +1,0 @@
-{"tmdb_id": 569313, "title": "Pig Music", "original_title": "Pig Music", "slug_title": "pig-music", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un court m\u00e9trage de Martial Raysse", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

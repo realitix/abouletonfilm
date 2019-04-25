@@ -1,1 +1,0 @@
-{"tmdb_id": 342219, "title": "The Dilemma", "original_title": "Liangnan", "slug_title": "the-dilemma", "date": "1919-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ding Yuanyi ()", "Guirong Bao ()", "Zhang Shengwu ()"], "comments": [], "recommandations_id": []}

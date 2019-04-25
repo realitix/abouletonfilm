@@ -1,1 +1,0 @@
-{"tmdb_id": 390745, "title": "Night School", "original_title": "Night School", "slug_title": "night-school", "date": "2016-04-15", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3acZx7TN4lPsQIOVQOduKt8hvJi.jpg", "actors": [], "comments": [], "recommandations_id": []}

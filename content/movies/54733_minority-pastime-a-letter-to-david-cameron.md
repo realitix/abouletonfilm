@@ -1,1 +1,0 @@
-{"tmdb_id": 54733, "title": "Minority Pastime - A Letter To David Cameron", "original_title": "Minority Pastime - A Letter To David Cameron", "slug_title": "minority-pastime-a-letter-to-david-cameron", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

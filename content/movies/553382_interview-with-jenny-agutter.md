@@ -1,1 +1,0 @@
-{"tmdb_id": 553382, "title": "Interview with Jenny Agutter", "original_title": "Entretien de Jenny Agutter", "slug_title": "interview-with-jenny-agutter", "date": "2008-09-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jenny Agutter (Interviewee)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 378961, "title": "Good Funk", "original_title": "Good Funk", "slug_title": "good-funk", "date": "2015-07-24", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uBkgaLBRUPRsBu0vuqFPty42NK4.jpg", "actors": [], "comments": [], "recommandations_id": []}

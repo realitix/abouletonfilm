@@ -1,1 +1,0 @@
-{"tmdb_id": 393376, "title": "The Nativity: Luke II", "original_title": "The Nativity: Luke II", "slug_title": "the-nativity-luke-ii", "date": "1986-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xt49j9Pgun5kcEnFwPk6MsMwIdi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 267403, "title": "The Meteor", "original_title": "The Meteor", "slug_title": "the-meteor", "date": "2014-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pCd6w2w5SHSuuV02TxSxJILvoWv.jpg", "actors": [], "comments": [], "recommandations_id": []}

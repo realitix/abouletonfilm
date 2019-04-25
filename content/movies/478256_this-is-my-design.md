@@ -1,1 +1,0 @@
-{"tmdb_id": 478256, "title": "This Is My Design", "original_title": "This Is My Design", "slug_title": "this-is-my-design", "date": "2014-09-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

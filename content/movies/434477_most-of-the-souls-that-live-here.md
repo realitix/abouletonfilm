@@ -1,1 +1,0 @@
-{"tmdb_id": 434477, "title": "Most of the Souls That Live Here", "original_title": "Az itt \u00e9l\u0151 lelkek nagy r\u00e9sze", "slug_title": "most-of-the-souls-that-live-here", "date": "2016-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

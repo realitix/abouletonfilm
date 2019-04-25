@@ -1,1 +1,0 @@
-{"tmdb_id": 402965, "title": "Gilad: Step Aerobics", "original_title": "Gilad: Step Aerobics", "slug_title": "gilad-step-aerobics", "date": "2005-04-19", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6zeAyM58gP9x0Mh5kfmOVtJCzRu.jpg", "actors": ["Gilad Janklowicz (Instructor)"], "comments": [], "recommandations_id": []}

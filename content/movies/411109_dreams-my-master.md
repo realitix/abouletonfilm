@@ -1,1 +1,0 @@
-{"tmdb_id": 411109, "title": "Dreams My Master", "original_title": "Dreams My Master", "slug_title": "dreams-my-master", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 461976, "title": "Girotondo", "original_title": "Girotondo", "slug_title": "girotondo", "date": "2017-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A0LUH4ezKYe7vkhYiLXa5vukrJi.jpg", "actors": ["Massimiliano Buzzanca ()", "Antonella Ponziani ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 510585, "title": "Passeurs", "original_title": "Passeurs", "slug_title": "passeurs", "date": "2015-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AtTOiEuNow1DPPWIoIFHhEbsn7G.jpg", "actors": [], "comments": [], "recommandations_id": []}

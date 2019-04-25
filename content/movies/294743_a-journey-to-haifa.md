@@ -1,1 +1,0 @@
-{"tmdb_id": 294743, "title": "A Journey to Haifa", "original_title": "A Journey to Haifa", "slug_title": "a-journey-to-haifa", "date": "2014-09-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/piC1YV4nOpr5XbVN6LFPJZabpX1.jpg", "actors": [], "comments": [], "recommandations_id": []}

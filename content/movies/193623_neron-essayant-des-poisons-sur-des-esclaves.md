@@ -1,1 +1,0 @@
-{"tmdb_id": 193623, "title": "N\u00e9ron essayant des poisons sur des esclaves", "original_title": "N\u00e9ron essayant des poisons sur des esclaves", "slug_title": "neron-essayant-des-poisons-sur-des-esclaves", "date": "1896-01-01", "genre": "Drame", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

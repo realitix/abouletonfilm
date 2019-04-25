@@ -1,1 +1,0 @@
-{"tmdb_id": 272821, "title": "Ll\u00e9vate mis amores", "original_title": "Ll\u00e9vate mis amores", "slug_title": "llevate-mis-amores", "date": "2014-11-20", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xBGYuXJHdY7MTNQdfslwdvUbYy9.jpg", "actors": [], "comments": [], "recommandations_id": []}

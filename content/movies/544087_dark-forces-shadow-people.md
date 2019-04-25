@@ -1,1 +1,0 @@
-{"tmdb_id": 544087, "title": "Dark Forces: Shadow People", "original_title": "Dark Forces: Shadow People", "slug_title": "dark-forces-shadow-people", "date": "2018-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q6PZMl2BQygnrifuFJt9au4YtVM.jpg", "actors": [], "comments": [], "recommandations_id": []}

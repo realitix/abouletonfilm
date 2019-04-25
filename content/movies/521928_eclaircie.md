@@ -1,1 +1,1 @@
-{"tmdb_id": 521928, "title": "\u00c9claircie", "original_title": "\u00c9claircie", "slug_title": "eclaircie", "date": "2013-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 521928, "title": "\u00c9claircie", "original_title": "\u00c9claircie", "slug_title": "eclaircie", "date": "2013-05-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

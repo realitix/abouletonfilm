@@ -1,1 +1,0 @@
-{"tmdb_id": 460182, "title": "Jeffries in His Training Quarters", "original_title": "Jeffries in His Training Quarters", "slug_title": "jeffries-in-his-training-quarters", "date": "1901-06-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James J. Jeffries ()"], "comments": [], "recommandations_id": []}

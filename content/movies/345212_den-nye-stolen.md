@@ -1,1 +1,0 @@
-{"tmdb_id": 345212, "title": "Den Nye Stolen", "original_title": "Den Nye Stolen", "slug_title": "den-nye-stolen", "date": "2000-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bernhard Arn\u00f8 ()", "Mathias Eckhoff ()", "Vigleik Johannesen ()"], "comments": [], "recommandations_id": []}

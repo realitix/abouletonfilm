@@ -1,1 +1,0 @@
-{"tmdb_id": 337824, "title": "The Arizona Kid", "original_title": "The Arizona Kid", "slug_title": "the-arizona-kid", "date": "1929-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Art Acord (Bill 'The Arizona Kid' Strong)"], "comments": [], "recommandations_id": []}

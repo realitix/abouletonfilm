@@ -1,1 +1,0 @@
-{"tmdb_id": 429769, "title": "Thee Nagar", "original_title": "Thee Nagar", "slug_title": "thee-nagar", "date": "2007-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karan ()", "Samiksha ()"], "comments": [], "recommandations_id": []}

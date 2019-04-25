@@ -1,1 +1,0 @@
-{"tmdb_id": 215709, "title": "Adam Lost His Apple", "original_title": "Adam Lost His Apple", "slug_title": "adam-lost-his-apple", "date": "1965-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dR0Hsw8OYLTNoqeKG7mTEyK8vVs.jpg", "actors": [], "comments": [], "recommandations_id": []}

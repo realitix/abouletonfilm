@@ -1,1 +1,0 @@
-{"tmdb_id": 384157, "title": "Valentina", "original_title": "Valentina", "slug_title": "valentina", "date": "2016-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mEi0jPTAFqXer0dXiusMzrThiBP.jpg", "actors": [], "comments": [], "recommandations_id": []}

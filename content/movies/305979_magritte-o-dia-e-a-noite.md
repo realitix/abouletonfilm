@@ -1,1 +1,0 @@
-{"tmdb_id": 305979, "title": "Magritte, o Dia e a Noite", "original_title": "Magritte, o Dia e a Noite", "slug_title": "magritte-o-dia-e-a-noite", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

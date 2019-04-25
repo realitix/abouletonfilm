@@ -1,1 +1,0 @@
-{"tmdb_id": 217382, "title": "The Absent Stone", "original_title": "La piedra ausente", "slug_title": "the-absent-stone", "date": "2013-07-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AqXt6rp76tGTFvNkZi3eTcUIiPk.jpg", "actors": [], "comments": [], "recommandations_id": []}

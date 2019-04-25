@@ -1,1 +1,0 @@
-{"tmdb_id": 238106, "title": "French Fries", "original_title": "Pommes Frites", "slug_title": "french-fries", "date": "2013-09-26", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qR1LFZeRzhWb0tcgMYJU9asfXHa.jpg", "actors": ["Jochem Myjer ()"], "comments": [], "recommandations_id": []}

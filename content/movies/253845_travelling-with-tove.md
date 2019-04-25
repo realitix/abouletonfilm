@@ -1,1 +1,0 @@
-{"tmdb_id": 253845, "title": "Travelling with Tove", "original_title": "Matkalla Toven kanssa", "slug_title": "travelling-with-tove", "date": "1993-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tove Jansson (Herself)", "Tuulikki Pietil\u00e4 (Herself)"], "comments": [], "recommandations_id": []}

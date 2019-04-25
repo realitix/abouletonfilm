@@ -1,1 +1,0 @@
-{"tmdb_id": 579425, "title": "Chasing Paper", "original_title": "Chasing Paper", "slug_title": "chasing-paper", "date": "2017-10-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

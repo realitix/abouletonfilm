@@ -1,1 +1,0 @@
-{"tmdb_id": 467948, "title": "Nothing Is Something", "original_title": "Nothing Is Something", "slug_title": "nothing-is-something", "date": "1966-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2iDMEVMPsUxDzcuIarxrt7ya3TH.jpg", "actors": [], "comments": [], "recommandations_id": []}

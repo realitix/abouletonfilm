@@ -1,1 +1,0 @@
-{"tmdb_id": 346147, "title": "Alternativa", "original_title": "Alternativa", "slug_title": "alternativa", "date": "1987-01-01", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

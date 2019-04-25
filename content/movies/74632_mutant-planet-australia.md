@@ -1,1 +1,0 @@
-{"tmdb_id": 74632, "title": "Mutant Planet: Australia", "original_title": "Mutant Planet: Australia", "slug_title": "mutant-planet-australia", "date": "2011-01-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

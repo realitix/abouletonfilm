@@ -1,1 +1,0 @@
-{"tmdb_id": 34532, "title": "The Making Of 'Butch Cassidy and the Sundance Kid'", "original_title": "The Making Of 'Butch Cassidy and the Sundance Kid'", "slug_title": "the-making-of-butch-cassidy-and-the-sundance-kid", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

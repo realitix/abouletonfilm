@@ -1,1 +1,0 @@
-{"tmdb_id": 202081, "title": "Cigarette Blues", "original_title": "Cigarette Blues", "slug_title": "cigarette-blues", "date": "1985-10-01", "genre": "Documentaire / Musique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q5URyjwpKbVNALr81DLJm6TpIOx.jpg", "actors": [], "comments": [], "recommandations_id": []}

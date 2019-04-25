@@ -1,1 +1,0 @@
-{"tmdb_id": 455707, "title": "Boujad: A Nest in the Heat", "original_title": "Boujad: A Nest in the Heat", "slug_title": "boujad-a-nest-in-the-heat", "date": "1992-05-02", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k3v7tM5ZRz30n83wGJTLYoAaTWw.jpg", "actors": [], "comments": [], "recommandations_id": []}

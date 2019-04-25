@@ -1,1 +1,0 @@
-{"tmdb_id": 468950, "title": "White Riot: London", "original_title": "White Riot: London", "slug_title": "white-riot-london", "date": "2017-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oHyfpxRUnYWpKE1h57CKYAzpi99.jpg", "actors": [], "comments": [], "recommandations_id": []}

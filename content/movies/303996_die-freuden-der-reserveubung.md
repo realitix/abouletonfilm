@@ -1,1 +1,0 @@
-{"tmdb_id": 303996, "title": "Die Freuden der Reserve\u00fcbung", "original_title": "Die Freuden der Reserve\u00fcbung", "slug_title": "die-freuden-der-reserveubung", "date": "1913-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Eichberg ()"], "comments": [], "recommandations_id": []}

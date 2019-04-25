@@ -1,1 +1,0 @@
-{"tmdb_id": 333958, "title": "Tel Aviv-Berlin", "original_title": "Tel Aviv-Berlin", "slug_title": "tel-aviv-berlin", "date": "1987-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zohar Aloni ()", "Yosef Carmon ()", "Anat Harpaz ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 233642, "title": "A Preferred List", "original_title": "A Preferred List", "slug_title": "a-preferred-list", "date": "1933-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

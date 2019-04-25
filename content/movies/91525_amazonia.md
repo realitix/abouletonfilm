@@ -1,1 +1,0 @@
-{"tmdb_id": 91525, "title": "Amazonia", "original_title": "Amazonia", "slug_title": "amazonia", "date": "2012-02-10", "genre": "Animation / Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/as2fxPH9hGNy9HAJ9jZkl5wtc9I.jpg", "actors": [], "comments": [], "recommandations_id": []}

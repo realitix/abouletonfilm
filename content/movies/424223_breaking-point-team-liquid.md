@@ -1,1 +1,0 @@
-{"tmdb_id": 424223, "title": "Breaking Point (Team Liquid)", "original_title": "Breaking Point (Team Liquid)", "slug_title": "breaking-point-team-liquid", "date": "2016-11-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xFt9c6xR7ldRxwgmf3MX9ysL13E.jpg", "actors": [], "comments": [], "recommandations_id": []}

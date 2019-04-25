@@ -1,1 +1,0 @@
-{"tmdb_id": 274661, "title": "Whitesnake: Music in Review", "original_title": "Whitesnake: Music in Review", "slug_title": "whitesnake-music-in-review", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

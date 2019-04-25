@@ -1,1 +1,0 @@
-{"tmdb_id": 327246, "title": "The Animals of Eden and After", "original_title": "The Animals of Eden and After", "slug_title": "the-animals-of-eden-and-after", "date": "1970-12-22", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

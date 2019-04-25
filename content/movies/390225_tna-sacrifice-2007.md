@@ -1,1 +1,0 @@
-{"tmdb_id": 390225, "title": "TNA Sacrifice 2007", "original_title": "TNA Sacrifice 2007", "slug_title": "tna-sacrifice-2007", "date": "2007-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9byhpxkRyWMOeTGcesPtNkslwTe.jpg", "actors": ["Traci Brooks (Ms. Brooks)"], "comments": [], "recommandations_id": []}

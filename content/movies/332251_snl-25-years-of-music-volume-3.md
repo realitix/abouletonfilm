@@ -1,1 +1,0 @@
-{"tmdb_id": 332251, "title": "SNL: 25 Years of Music Volume 3", "original_title": "SNL: 25 Years of Music Volume 3", "slug_title": "snl-25-years-of-music-volume-3", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lpgh9LW4vdFkiqT1DTUhdDq8bQS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 250687, "title": "The Home Electrical", "original_title": "The Home Electrical", "slug_title": "the-home-electrical", "date": "1915-01-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vvLgQXVGA08XxeyORLk0AO21iHA.jpg", "actors": [], "comments": [], "recommandations_id": []}

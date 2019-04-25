@@ -1,1 +1,0 @@
-{"tmdb_id": 113204, "title": "Clavo Colombiano", "original_title": "Clavo Colombiano", "slug_title": "clavo-colombiano", "date": "2001-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Agust\u00edn Bernal ()", "Luis Michel ()", "Flavio Peniche ()", "Julio Rasec ()"], "comments": [], "recommandations_id": []}

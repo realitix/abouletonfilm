@@ -1,1 +1,0 @@
-{"tmdb_id": 565209, "title": "Art and Seeing", "original_title": "Art and Seeing", "slug_title": "art-and-seeing", "date": "1953-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 490591, "title": "Holocaust Revisionism for Beginners", "original_title": "Holocaust Revisionism for Beginners", "slug_title": "holocaust-revisionism-for-beginners", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

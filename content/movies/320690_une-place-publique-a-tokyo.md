@@ -1,1 +1,0 @@
-{"tmdb_id": 320690, "title": "Une place publique \u00e0 Tokyo", "original_title": "Une place publique \u00e0 Tokyo", "slug_title": "une-place-publique-a-tokyo", "date": "1900-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

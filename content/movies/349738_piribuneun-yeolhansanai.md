@@ -1,1 +1,0 @@
-{"tmdb_id": 349738, "title": "\ud53c\ub9ac\ubd80\ub294 \uc5f4\ud55c\uc0ac\ub098\uc774", "original_title": "\ud53c\ub9ac\ubd80\ub294 \uc5f4\ud55c\uc0ac\ub098\uc774", "slug_title": "piribuneun-yeolhansanai", "date": "1984-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

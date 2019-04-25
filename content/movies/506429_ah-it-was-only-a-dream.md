@@ -1,1 +1,0 @@
-{"tmdb_id": 506429, "title": "Ah, It Was Only a Dream!", "original_title": "Ah, bje\u0161e samo san!", "slug_title": "ah-it-was-only-a-dream", "date": "1932-01-01", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

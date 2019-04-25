@@ -1,1 +1,0 @@
-{"tmdb_id": 569853, "title": "A Week in the Hole", "original_title": "A Week in the Hole", "slug_title": "a-week-in-the-hole", "date": "2001-11-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 578156, "title": "Elephants", "original_title": "Les \u00e9l\u00e9phants", "slug_title": "elephants", "date": "2014-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pmwhmdHaiTZEItRM5reUrJ7N7ru.jpg", "actors": [], "comments": [], "recommandations_id": []}

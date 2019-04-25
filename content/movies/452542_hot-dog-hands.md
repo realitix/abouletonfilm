@@ -1,1 +1,0 @@
-{"tmdb_id": 452542, "title": "Hot Dog Hands", "original_title": "Hot Dog Hands", "slug_title": "hot-dog-hands", "date": "2017-04-17", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7pZAKa7mWl6b4yjx6oOe1gNtIfh.jpg", "actors": [], "comments": [], "recommandations_id": []}

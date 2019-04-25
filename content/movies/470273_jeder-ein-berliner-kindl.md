@@ -1,1 +1,0 @@
-{"tmdb_id": 470273, "title": "Jeder ein Berliner Kindl", "original_title": "Jeder ein Berliner Kindl", "slug_title": "jeder-ein-berliner-kindl", "date": "1966-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7o2uBJqDuiVtwyGLfZRMDxbUiKR.jpg", "actors": [], "comments": [], "recommandations_id": []}

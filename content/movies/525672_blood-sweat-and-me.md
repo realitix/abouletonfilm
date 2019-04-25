@@ -1,1 +1,0 @@
-{"tmdb_id": 525672, "title": "Blood Sweat and Me", "original_title": "Blood Sweat and Me", "slug_title": "blood-sweat-and-me", "date": "2010-06-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

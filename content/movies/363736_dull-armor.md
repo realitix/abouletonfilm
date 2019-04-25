@@ -1,1 +1,0 @@
-{"tmdb_id": 363736, "title": "Dull Armor", "original_title": "Dull Armor", "slug_title": "dull-armor", "date": "2014-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/D4NfkZY49s4RsKTRxDlmqQk0Xz.jpg", "actors": [], "comments": [], "recommandations_id": []}

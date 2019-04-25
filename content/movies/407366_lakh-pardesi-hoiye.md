@@ -1,1 +1,0 @@
-{"tmdb_id": 407366, "title": "Lakh Pardesi Hoiye", "original_title": "Lakh Pardesi Hoiye", "slug_title": "lakh-pardesi-hoiye", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q5aCiQdQE8w2R3LDzODKfBQjSHW.jpg", "actors": [], "comments": [], "recommandations_id": []}

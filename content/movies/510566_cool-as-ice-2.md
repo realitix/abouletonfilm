@@ -1,1 +1,0 @@
-{"tmdb_id": 510566, "title": "Cool As Ice 2", "original_title": "Cool As Ice 2", "slug_title": "cool-as-ice-2", "date": "2014-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3VJUS83kJu5cpwyAnDq67AmG3MR.jpg", "actors": ["Nick Ducassi ()"], "comments": [], "recommandations_id": []}

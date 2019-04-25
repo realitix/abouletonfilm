@@ -1,1 +1,0 @@
-{"tmdb_id": 579970, "title": "Dawn Under Heaven", "original_title": "Dawn Under Heaven", "slug_title": "dawn-under-heaven", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

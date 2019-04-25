@@ -1,1 +1,0 @@
-{"tmdb_id": 272172, "title": "Bewaqoof", "original_title": "Bewaqoof", "slug_title": "bewaqoof", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

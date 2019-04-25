@@ -1,1 +1,0 @@
-{"tmdb_id": 329427, "title": "Back to the Brickworks", "original_title": "Back to the Brickworks", "slug_title": "back-to-the-brickworks", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

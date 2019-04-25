@@ -1,1 +1,0 @@
-{"tmdb_id": 50383, "title": "Mudvayne - Live Dosage 50", "original_title": "Mudvayne - Live Dosage 50", "slug_title": "mudvayne-live-dosage-50", "date": "2001-12-11", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eCR9UzFYxD2MBOKAdSvWW5IrN6L.jpg", "actors": ["Mudvayne ()"], "comments": [], "recommandations_id": []}

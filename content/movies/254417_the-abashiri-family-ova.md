@@ -1,1 +1,0 @@
-{"tmdb_id": 254417, "title": "The Abashiri Family OVA", "original_title": "Abashiri Ikka OVA", "slug_title": "the-abashiri-family-ova", "date": "1992-02-02", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mLuj6SshwGuzoAYgt5UiXi6OAZS.jpg", "actors": [], "comments": [], "recommandations_id": []}

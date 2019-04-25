@@ -1,1 +1,0 @@
-{"tmdb_id": 429349, "title": "Cities of North Africa: Tunis, Algiers, Rabat", "original_title": "Cities of North Africa: Tunis, Algiers, Rabat", "slug_title": "cities-of-north-africa-tunis-algiers-rabat", "date": "1936-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

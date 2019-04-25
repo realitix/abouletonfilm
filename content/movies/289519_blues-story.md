@@ -1,1 +1,0 @@
-{"tmdb_id": 289519, "title": "Blues Story", "original_title": "Blues Story", "slug_title": "blues-story", "date": "2003-11-01", "genre": "T\u00e9l\u00e9film / Musique / Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lHgskPCioTe8fkRzTqL5IlQSQBc.jpg", "actors": [], "comments": [], "recommandations_id": []}

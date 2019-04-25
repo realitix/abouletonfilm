@@ -1,1 +1,0 @@
-{"tmdb_id": 304439, "title": "Mountains in the Sun", "original_title": "Mountains in the Sun", "slug_title": "mountains-in-the-sun", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 354493, "title": "The New-Ark", "original_title": "The New-Ark", "slug_title": "the-new-ark", "date": "1968-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iiL7m3VLX4SHDqizOtG2EHThJm9.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 582717, "title": "Operaator K\u00f5ps marjametsas", "original_title": "Operaator K\u00f5ps marjametsas", "slug_title": "operaator-kops-marjametsas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

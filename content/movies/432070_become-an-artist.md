@@ -1,1 +1,0 @@
-{"tmdb_id": 432070, "title": "Become an Artist", "original_title": "Become an Artist", "slug_title": "become-an-artist", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Don Novello (Guido Sarducci)"], "comments": [], "recommandations_id": []}

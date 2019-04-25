@@ -1,1 +1,0 @@
-{"tmdb_id": 490113, "title": "Re-education", "original_title": "Die Umschulung", "slug_title": "re-education", "date": "1994-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

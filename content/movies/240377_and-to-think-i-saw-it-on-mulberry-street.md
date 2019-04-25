@@ -1,1 +1,0 @@
-{"tmdb_id": 240377, "title": "And to Think I Saw It on Mulberry Street", "original_title": "And to Think I Saw It on Mulberry Street", "slug_title": "and-to-think-i-saw-it-on-mulberry-street", "date": "1944-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

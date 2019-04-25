@@ -1,1 +1,0 @@
-{"tmdb_id": 374480, "title": "New Girl", "original_title": "New Girl", "slug_title": "new-girl", "date": "1970-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tkrm2k0rHuu2pYbvwdx3mFTXSDQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

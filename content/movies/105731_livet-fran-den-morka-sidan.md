@@ -1,1 +1,0 @@
-{"tmdb_id": 105731, "title": "Livet fr\u00e5n den m\u00f6rka sidan", "original_title": "Livet fr\u00e5n den m\u00f6rka sidan", "slug_title": "livet-fran-den-morka-sidan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/twjuFTTl1RWkGgXjFqzeIcDaIEv.jpg", "actors": [], "comments": [], "recommandations_id": []}

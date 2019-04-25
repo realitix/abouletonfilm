@@ -1,1 +1,0 @@
-{"tmdb_id": 22157, "title": "Mohandas", "original_title": "Mohandas", "slug_title": "mohandas", "date": "2009-09-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tWEQMxPHXdYJY7T5xcEaNn6He7.jpg", "actors": [], "comments": [], "recommandations_id": []}

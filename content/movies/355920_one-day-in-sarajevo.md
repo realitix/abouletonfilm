@@ -1,1 +1,0 @@
-{"tmdb_id": 355920, "title": "One Day in Sarajevo", "original_title": "Jedan dan u Sarajevu", "slug_title": "one-day-in-sarajevo", "date": "2015-08-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pI8fujPGspw5hhGU8wVCCNixG4c.jpg", "actors": [], "comments": [], "recommandations_id": []}

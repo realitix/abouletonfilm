@@ -1,1 +1,0 @@
-{"tmdb_id": 498280, "title": "Town Musicians of Bremen", "original_title": "Los 4 m\u00fasicos de Bremen", "slug_title": "town-musicians-of-bremen", "date": "1989-06-26", "genre": "Animation / Aventure / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

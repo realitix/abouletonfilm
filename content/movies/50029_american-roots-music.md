@@ -1,1 +1,0 @@
-{"tmdb_id": 50029, "title": "American Roots Music", "original_title": "American Roots Music", "slug_title": "american-roots-music", "date": "2001-01-01", "genre": "Musique / Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/XPmXmD92UvwcX2itaR9vBGW96d.jpg", "actors": [], "comments": [], "recommandations_id": []}

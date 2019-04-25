@@ -1,1 +1,0 @@
-{"tmdb_id": 506630, "title": "Vibrato", "original_title": "Vibrato", "slug_title": "vibrato", "date": "2017-10-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bHYqlaHTZGFNS0Lyyv6JvzQOuHk.jpg", "actors": [], "comments": [], "recommandations_id": []}

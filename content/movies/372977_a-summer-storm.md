@@ -1,1 +1,0 @@
-{"tmdb_id": 372977, "title": "A Summer Storm", "original_title": "Natsu no arashi", "slug_title": "a-summer-storm", "date": "1973-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1N6ePHwLtLgMRl9xPjyg3PmIjG1.jpg", "actors": ["Tatsumi Hijikata ()"], "comments": [], "recommandations_id": []}

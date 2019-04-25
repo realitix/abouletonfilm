@@ -1,1 +1,0 @@
-{"tmdb_id": 452811, "title": "Istanbul", "original_title": "Istanbul", "slug_title": "istanbul", "date": "2007-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i0qGPziPaQyISRt4mzU4FGlTguK.jpg", "actors": [], "comments": [], "recommandations_id": []}

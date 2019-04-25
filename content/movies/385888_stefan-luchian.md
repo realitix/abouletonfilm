@@ -1,1 +1,0 @@
-{"tmdb_id": 385888, "title": "Stefan Luchian", "original_title": "Stefan Luchian", "slug_title": "stefan-luchian", "date": "1981-04-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mPSqxrG8cYxyVG7WPGeaCjSkUdS.jpg", "actors": [], "comments": [], "recommandations_id": []}

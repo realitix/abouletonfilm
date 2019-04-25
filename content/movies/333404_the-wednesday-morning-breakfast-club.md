@@ -1,1 +1,0 @@
-{"tmdb_id": 333404, "title": "The Wednesday Morning Breakfast Club", "original_title": "The Wednesday Morning Breakfast Club", "slug_title": "the-wednesday-morning-breakfast-club", "date": "2013-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

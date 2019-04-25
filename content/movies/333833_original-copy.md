@@ -1,1 +1,0 @@
-{"tmdb_id": 333833, "title": "Original Copy", "original_title": "Original Copy", "slug_title": "original-copy", "date": "2015-04-26", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dajzROQCWmyb70yNfJjFfcKsrJj.jpg", "actors": [], "comments": [], "recommandations_id": []}

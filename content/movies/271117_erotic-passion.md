@@ -1,1 +1,0 @@
-{"tmdb_id": 271117, "title": "Erotic Passion", "original_title": "\u5f15\u90ce\u5165\u5ba4", "slug_title": "erotic-passion", "date": "1992-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lily Lee Lee-Lee (Tong Yan)", "Shum Wai (Shum Key)"], "comments": [], "recommandations_id": []}

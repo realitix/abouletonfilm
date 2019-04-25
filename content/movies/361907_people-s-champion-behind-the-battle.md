@@ -1,1 +1,0 @@
-{"tmdb_id": 361907, "title": "People's Champion: Behind the Battle", "original_title": "People's Champion: Behind the Battle", "slug_title": "people-s-champion-behind-the-battle", "date": "2011-05-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eli Porter (himself)"], "comments": [], "recommandations_id": []}

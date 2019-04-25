@@ -1,1 +1,0 @@
-{"tmdb_id": 541030, "title": "Azaadi Ki Ore", "original_title": "Azaadi Ki Ore", "slug_title": "azaadi-ki-ore", "date": "1986-08-01", "genre": "Documentaire / Com\u00e9die", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Uf4p2AKPRvJTEiqP9Mmixmk6GF.jpg", "actors": [], "comments": [], "recommandations_id": []}

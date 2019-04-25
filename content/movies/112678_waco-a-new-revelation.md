@@ -1,1 +1,0 @@
-{"tmdb_id": 112678, "title": "Waco: A New Revelation", "original_title": "Waco: A New Revelation", "slug_title": "waco-a-new-revelation", "date": "1999-10-07", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/of2LWjUqVLnOswZcnLH9J4g9lbS.jpg", "actors": [], "comments": [], "recommandations_id": []}

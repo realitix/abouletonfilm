@@ -1,1 +1,0 @@
-{"tmdb_id": 317606, "title": "The Dog Snatcher", "original_title": "The Dog Snatcher", "slug_title": "the-dog-snatcher", "date": "1952-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

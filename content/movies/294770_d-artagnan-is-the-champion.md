@@ -1,1 +1,0 @@
-{"tmdb_id": 294770, "title": "D'artagnan is the Champion", "original_title": "D'artagnan is the Champion", "slug_title": "d-artagnan-is-the-champion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gcQQyYCsriheBFP6o2O9jrd1U8p.jpg", "actors": [], "comments": [], "recommandations_id": []}

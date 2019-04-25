@@ -1,1 +1,0 @@
-{"tmdb_id": 476605, "title": "The Steel Mill Cafe", "original_title": "Buffet \u017deljezara", "slug_title": "the-steel-mill-cafe", "date": "2017-09-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rcOL6MLyhugpjCqBxb8jw3U8kIX.jpg", "actors": [], "comments": [], "recommandations_id": []}

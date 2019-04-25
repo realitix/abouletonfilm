@@ -1,1 +1,0 @@
-{"tmdb_id": 315548, "title": "El Verano Siguiente", "original_title": "El Verano Siguiente", "slug_title": "el-verano-siguiente", "date": "2014-03-06", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hfswfswSsaKkRsyKgcZKqAzdJCL.jpg", "actors": [], "comments": [], "recommandations_id": []}

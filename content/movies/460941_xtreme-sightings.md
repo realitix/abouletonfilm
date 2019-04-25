@@ -1,1 +1,0 @@
-{"tmdb_id": 460941, "title": "Xtreme Sightings", "original_title": "Xtreme Sightings", "slug_title": "xtreme-sightings", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

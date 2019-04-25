@@ -1,1 +1,0 @@
-{"tmdb_id": 119992, "title": "The Statue", "original_title": "La statue", "slug_title": "the-statue", "date": "1905-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2rLeCibyGRET3Ndi8lpuuPn21K3.jpg", "actors": [], "comments": [], "recommandations_id": [120012, 119980, 120010, 119988]}

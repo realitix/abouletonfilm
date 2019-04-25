@@ -1,1 +1,0 @@
-{"tmdb_id": 350493, "title": "\uc885\uc790\uace8", "original_title": "\uc885\uc790\uace8", "slug_title": "jongjagol", "date": "1990-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

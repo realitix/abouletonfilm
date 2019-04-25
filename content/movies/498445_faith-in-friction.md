@@ -1,1 +1,0 @@
-{"tmdb_id": 498445, "title": "Faith in Friction", "original_title": "Faith in Friction", "slug_title": "faith-in-friction", "date": "2017-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

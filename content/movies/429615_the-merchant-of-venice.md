@@ -1,1 +1,0 @@
-{"tmdb_id": 429615, "title": "The Merchant of Venice", "original_title": "The Merchant of Venice", "slug_title": "the-merchant-of-venice", "date": "1914-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

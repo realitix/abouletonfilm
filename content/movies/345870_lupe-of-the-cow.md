@@ -1,1 +1,0 @@
-{"tmdb_id": 345870, "title": "Lupe of the Cow", "original_title": "Lupe el de la vaca", "slug_title": "lupe-of-the-cow", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/egz09czDp8ktQvhrpLfbOgb0WB6.jpg", "actors": [], "comments": [], "recommandations_id": []}

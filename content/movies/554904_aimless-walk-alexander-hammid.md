@@ -1,1 +1,0 @@
-{"tmdb_id": 554904, "title": "Aimless Walk - Alexander Hammid", "original_title": "Aimless Walk - Alexander Hammid", "slug_title": "aimless-walk-alexander-hammid", "date": "1997-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xg1K41vGt5TYLvQJbVspRp2oGNM.jpg", "actors": [], "comments": [], "recommandations_id": []}

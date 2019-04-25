@@ -1,1 +1,0 @@
-{"tmdb_id": 412303, "title": "Happy Wedlock", "original_title": "\u5abd\u5abd\u8981\u6211\u5ac1", "slug_title": "happy-wedlock", "date": "1969-07-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Josephine Siao ()", "Nancy Sit Ka-Yin ()", "Kenneth Tsang ()", "Cheung Ching ()"], "comments": [], "recommandations_id": []}

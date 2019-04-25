@@ -1,1 +1,0 @@
-{"tmdb_id": 193631, "title": "Danse Tyrolienne", "original_title": "Danse Tyrolienne", "slug_title": "danse-tyrolienne", "date": "1896-10-18", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

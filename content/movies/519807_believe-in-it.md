@@ -1,1 +1,0 @@
-{"tmdb_id": 519807, "title": "Believe in It", "original_title": "Believe in It", "slug_title": "believe-in-it", "date": "2013-12-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

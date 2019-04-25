@@ -1,1 +1,0 @@
-{"tmdb_id": 417647, "title": "Claude Bez, le 13\u00e8me homme", "original_title": "Claude Bez, le 13\u00e8me homme", "slug_title": "claude-bez-le-13eme-homme", "date": "2016-05-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

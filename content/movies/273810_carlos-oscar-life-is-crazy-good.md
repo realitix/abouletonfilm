@@ -1,1 +1,0 @@
-{"tmdb_id": 273810, "title": "Carlos Oscar: Life is Crazy Good", "original_title": "Carlos Oscar: Life is Crazy Good", "slug_title": "carlos-oscar-life-is-crazy-good", "date": "2007-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

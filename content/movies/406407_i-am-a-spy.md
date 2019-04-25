@@ -1,1 +1,0 @@
-{"tmdb_id": 406407, "title": "I Am a Spy", "original_title": "I Am a Spy", "slug_title": "i-am-a-spy", "date": "2015-06-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7O2xvCGnhYGwXH4XxWPlxUCZuVG.jpg", "actors": [], "comments": [], "recommandations_id": []}

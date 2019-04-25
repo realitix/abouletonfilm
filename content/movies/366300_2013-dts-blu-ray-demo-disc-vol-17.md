@@ -1,1 +1,0 @@
-{"tmdb_id": 366300, "title": "2013 DTS Blu-Ray Demo Disc Vol.17", "original_title": "2013 DTS Blu-Ray Demo Disc Vol.17", "slug_title": "2013-dts-blu-ray-demo-disc-vol-17", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yaG0I7Czoa9XolFAG09j4CSOgKR.jpg", "actors": [], "comments": [], "recommandations_id": []}

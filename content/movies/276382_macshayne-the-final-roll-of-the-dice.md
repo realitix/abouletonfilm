@@ -1,1 +1,0 @@
-{"tmdb_id": 276382, "title": "MacShayne: The Final Roll of the Dice", "original_title": "MacShayne: The Final Roll of the Dice", "slug_title": "macshayne-the-final-roll-of-the-dice", "date": "1994-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

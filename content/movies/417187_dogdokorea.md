@@ -1,1 +1,0 @@
-{"tmdb_id": 417187, "title": "\ub3c5\ub3c4korea", "original_title": "\ub3c5\ub3c4korea", "slug_title": "dogdokorea", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

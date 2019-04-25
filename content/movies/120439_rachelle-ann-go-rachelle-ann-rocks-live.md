@@ -1,1 +1,0 @@
-{"tmdb_id": 120439, "title": "Rachelle Ann Go: Rachelle Ann Rocks Live!", "original_title": "Rachelle Ann Go: Rachelle Ann Rocks Live!", "slug_title": "rachelle-ann-go-rachelle-ann-rocks-live", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

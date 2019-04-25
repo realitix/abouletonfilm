@@ -1,1 +1,0 @@
-{"tmdb_id": 334807, "title": "Made in Yugoslavia", "original_title": "Made in Jugoslavija", "slug_title": "made-in-yugoslavia", "date": "1986-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ouvIbMc4gOzqZctn4i2A9wibVht.jpg", "actors": [], "comments": [], "recommandations_id": []}

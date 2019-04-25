@@ -1,1 +1,0 @@
-{"tmdb_id": 597106, "title": "\uc774\ud0c0\ubbf8 \uc900\uc758 \ubc14\ub2e4", "original_title": "\uc774\ud0c0\ubbf8 \uc900\uc758 \ubc14\ub2e4", "slug_title": "itami-junyi-bada", "date": "2019-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

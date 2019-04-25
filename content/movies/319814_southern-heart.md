@@ -1,1 +1,0 @@
-{"tmdb_id": 319814, "title": "Southern Heart", "original_title": "Southern Heart", "slug_title": "southern-heart", "date": "1999-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tlptR4SA5grSYn2Njekb1xcYJcP.jpg", "actors": [], "comments": [], "recommandations_id": []}

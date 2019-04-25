@@ -1,1 +1,0 @@
-{"tmdb_id": 570904, "title": "Extraordinaari", "original_title": "Extraordinaari", "slug_title": "extraordinaari", "date": "2015-06-25", "genre": "Drame / Familial / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5fLHsrvaDTQfEB1ktvZWazFtHzU.jpg", "actors": [], "comments": [], "recommandations_id": []}

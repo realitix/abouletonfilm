@@ -1,1 +1,0 @@
-{"tmdb_id": 337885, "title": "For Pete's Sake", "original_title": "For Pete's Sake", "slug_title": "for-pete-s-sake", "date": "1966-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yZtF2tOh1q2XZtPEinkXFv7S1MA.jpg", "actors": [], "comments": [], "recommandations_id": []}

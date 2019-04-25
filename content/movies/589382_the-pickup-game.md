@@ -1,1 +1,0 @@
-{"tmdb_id": 589382, "title": "The Pickup Game", "original_title": "The Pickup Game", "slug_title": "the-pickup-game", "date": "2019-04-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1qEx5LLAOOdYW4gZ8ua85PCmcdv.jpg", "actors": [], "comments": [], "recommandations_id": []}

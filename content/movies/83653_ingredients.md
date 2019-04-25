@@ -1,1 +1,0 @@
-{"tmdb_id": 83653, "title": "Ingredients", "original_title": "Ingredients", "slug_title": "ingredients", "date": "2009-06-06", "genre": "Documentaire", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ia3Oa8FgoUyXpZ9TC9F5wGwcM8o.jpg", "actors": [], "comments": [], "recommandations_id": []}

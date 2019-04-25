@@ -1,1 +1,0 @@
-{"tmdb_id": 509603, "title": "Afrique, land of trends", "original_title": "Afrique, terre de tendances", "slug_title": "afrique-land-of-trends", "date": "2012-11-11", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tdiCMcjfpYzSwaVBX0STody4P2d.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 539793, "title": "A Fly in the Ointment", "original_title": "Un fil \u00e0 la patte", "slug_title": "a-fly-in-the-ointment", "date": "1934-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

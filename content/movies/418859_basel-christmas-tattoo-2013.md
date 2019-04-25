@@ -1,1 +1,0 @@
-{"tmdb_id": 418859, "title": "Basel Christmas Tattoo 2013", "original_title": "Basel Christmas Tattoo 2013", "slug_title": "basel-christmas-tattoo-2013", "date": "2013-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7uY7iviothycYvDVkBYzjnkRN2s.jpg", "actors": [], "comments": [], "recommandations_id": []}

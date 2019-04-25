@@ -1,1 +1,1 @@
-{"tmdb_id": 542039, "title": "Vore King", "original_title": "Vore King", "slug_title": "vore-king", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 542039, "title": "Vore King", "original_title": "Vore King", "slug_title": "vore-king", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "The story of a man and his monsters.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

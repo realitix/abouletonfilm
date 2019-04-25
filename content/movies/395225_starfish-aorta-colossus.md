@@ -1,1 +1,0 @@
-{"tmdb_id": 395225, "title": "Starfish Aorta Colossus", "original_title": "Starfish Aorta Colossus", "slug_title": "starfish-aorta-colossus", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

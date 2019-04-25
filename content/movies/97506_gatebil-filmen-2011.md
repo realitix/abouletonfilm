@@ -1,1 +1,0 @@
-{"tmdb_id": 97506, "title": "Gatebil Filmen 2011", "original_title": "Gatebil Filmen 2011", "slug_title": "gatebil-filmen-2011", "date": "2011-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xmnfNbVEBNmAay4YPVUaJKqcaXt.jpg", "actors": ["Geir Schau (Glenn Rodney)"], "comments": [], "recommandations_id": []}

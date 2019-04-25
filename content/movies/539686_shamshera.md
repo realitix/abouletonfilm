@@ -1,1 +1,0 @@
-{"tmdb_id": 539686, "title": "Shamshera", "original_title": "Shamshera", "slug_title": "shamshera", "date": "2020-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sanjay Dutt ()", "Ranbir Kapoor ()", "Vaani Kapoor ()", "Abdul Quadir Amin ()"], "comments": [], "recommandations_id": []}

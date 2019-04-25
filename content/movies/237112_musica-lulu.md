@@ -1,1 +1,0 @@
-{"tmdb_id": 237112, "title": "Musica-Lulu", "original_title": "Musica-Lulu", "slug_title": "musica-lulu", "date": "1947-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Ov8mVPfO8rA0N4FADbZKGxLcVA.jpg", "actors": [], "comments": [], "recommandations_id": []}

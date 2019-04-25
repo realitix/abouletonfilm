@@ -1,1 +1,0 @@
-{"tmdb_id": 147711, "title": "Sch\u00f8t Happens", "original_title": "Sch\u00f8t Happens", "slug_title": "schot-happens", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hGoR3tMdIIAcf1BVxZlFRn93t1D.jpg", "actors": ["Michael Sch\u00f8t (Michael Sch\u00f8t)"], "comments": [], "recommandations_id": []}

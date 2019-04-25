@@ -1,1 +1,0 @@
-{"tmdb_id": 130982, "title": "The Monk And The Monkey", "original_title": "The Monk And The Monkey", "slug_title": "the-monk-and-the-monkey", "date": "2010-07-01", "genre": "Animation", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iy2h4T7KJ5pnBRjZFwFgVe1u1jt.jpg", "actors": [], "comments": [], "recommandations_id": []}

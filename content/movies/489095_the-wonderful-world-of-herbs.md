@@ -1,1 +1,0 @@
-{"tmdb_id": 489095, "title": "The Wonderful World of Herbs", "original_title": "The Wonderful World of Herbs", "slug_title": "the-wonderful-world-of-herbs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

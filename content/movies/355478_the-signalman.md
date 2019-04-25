@@ -1,1 +1,0 @@
-{"tmdb_id": 355478, "title": "The Signalman", "original_title": "O sinaleiro", "slug_title": "the-signalman", "date": "2015-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Zq52xepMeQOXkFcLzaUTpnFwOz.jpg", "actors": ["Fernando Teixeira ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 387176, "title": "A Donkey Got a Bit Sulky", "original_title": "Roba Chotto Suneta", "slug_title": "a-donkey-got-a-bit-sulky", "date": "1983-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r5muXksPDudPreybWJIZwOpzZIF.jpg", "actors": [], "comments": [], "recommandations_id": []}

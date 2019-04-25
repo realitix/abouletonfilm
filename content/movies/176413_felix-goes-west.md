@@ -1,1 +1,0 @@
-{"tmdb_id": 176413, "title": "Felix Goes West", "original_title": "Felix Goes West", "slug_title": "felix-goes-west", "date": "1924-08-11", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hmz2tomd4vKGpfTqgu3eVYXJDq5.jpg", "actors": [], "comments": [], "recommandations_id": []}

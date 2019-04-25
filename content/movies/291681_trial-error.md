@@ -1,1 +1,0 @@
-{"tmdb_id": 291681, "title": "Trial & Error", "original_title": "Trial & Error", "slug_title": "trial-error", "date": "1993-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 556663, "title": "Latin Quarter", "original_title": "Quartier latin", "slug_title": "latin-quarter", "date": "1929-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 556663, "title": "Latin Quarter", "original_title": "Quartier latin", "slug_title": "latin-quarter", "date": "1929-05-10", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

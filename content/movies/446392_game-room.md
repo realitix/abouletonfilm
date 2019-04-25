@@ -1,1 +1,0 @@
-{"tmdb_id": 446392, "title": "Game Room", "original_title": "Game Room", "slug_title": "game-room", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lara Deuber (Angel)", "Cary Deuber (Mother)", "Mark Deuber (Father)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 231356, "title": "La d\u00e9fense du drapeau", "original_title": "La d\u00e9fense du drapeau", "slug_title": "la-defense-du-drapeau", "date": "1897-08-31", "genre": "Histoire / Drame / Guerre", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

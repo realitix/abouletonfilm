@@ -1,1 +1,0 @@
-{"tmdb_id": 512991, "title": "Pr\u00edncipes no Ex\u00edlio", "original_title": "Pr\u00edncipes no Ex\u00edlio", "slug_title": "principes-no-exilio", "date": "2015-11-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5v0J3sogyvlep3M70vLaYGH9Nwz.jpg", "actors": [], "comments": [], "recommandations_id": []}

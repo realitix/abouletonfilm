@@ -1,1 +1,0 @@
-{"tmdb_id": 407752, "title": "Carnage in the Charnel House", "original_title": "Carnage in the Charnel House", "slug_title": "carnage-in-the-charnel-house", "date": "1991-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 555981, "title": "Moli\u00e8re, sa vie, son oeuvre", "original_title": "Moli\u00e8re, sa vie, son oeuvre", "slug_title": "moliere-sa-vie-son-oeuvre", "date": "1922-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

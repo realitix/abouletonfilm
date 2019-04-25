@@ -1,1 +1,0 @@
-{"tmdb_id": 274514, "title": "Vaat Bahar Jaay Nahi", "original_title": "Vaat Bahar Jaay Nahi", "slug_title": "vaat-bahar-jaay-nahi", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

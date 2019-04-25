@@ -1,1 +1,0 @@
-{"tmdb_id": 275401, "title": "No Mean Feat: The Mark Inglis Story", "original_title": "No Mean Feat: The Mark Inglis Story", "slug_title": "no-mean-feat-the-mark-inglis-story", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 194267, "title": "Cavalcade (Char du soleil)", "original_title": "Cavalcade (Char du soleil)", "slug_title": "cavalcade-char-du-soleil", "date": "1896-09-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

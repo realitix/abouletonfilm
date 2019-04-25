@@ -1,1 +1,0 @@
-{"tmdb_id": 243234, "title": "A Tribute to Dylan Thomas", "original_title": "A Tribute to Dylan Thomas", "slug_title": "a-tribute-to-dylan-thomas", "date": "1961-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Burton ()"], "comments": [], "recommandations_id": []}

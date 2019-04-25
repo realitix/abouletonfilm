@@ -1,1 +1,0 @@
-{"tmdb_id": 363798, "title": "Power & Control: LSD In The 60s", "original_title": "Power & Control: LSD In The 60s", "slug_title": "power-control-lsd-in-the-60s", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 124334, "title": "Eric Clapton: Acoustic Waltz", "original_title": "Eric Clapton: Acoustic Waltz", "slug_title": "eric-clapton-acoustic-waltz", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p8xvyFP5r6qWYuKOL7D07lh7vtE.jpg", "actors": [], "comments": [], "recommandations_id": []}

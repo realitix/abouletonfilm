@@ -1,1 +1,0 @@
-{"tmdb_id": 569780, "title": "A Jovem Democracia", "original_title": "A Jovem Democracia", "slug_title": "a-jovem-democracia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

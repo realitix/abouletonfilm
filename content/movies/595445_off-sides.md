@@ -1,1 +1,0 @@
-{"tmdb_id": 595445, "title": "Off Sides", "original_title": "Letn\u00ed hokej", "slug_title": "off-sides", "date": "2019-04-07", "genre": "Documentaire / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

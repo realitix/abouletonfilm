@@ -1,1 +1,0 @@
-{"tmdb_id": 409372, "title": "Haru no Ashioto", "original_title": "Haru no Ashioto", "slug_title": "haru-no-ashioto", "date": "2006-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pmGvOyHqbRcUJozZWgw0r9Wzw6l.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 37537, "title": "Harry Hill - First Class Scamp", "original_title": "Harry Hill - First Class Scamp", "slug_title": "harry-hill-first-class-scamp", "date": "1998-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p42WklmwkHGFno4GksJKEYTtkk0.jpg", "actors": [], "comments": [], "recommandations_id": []}

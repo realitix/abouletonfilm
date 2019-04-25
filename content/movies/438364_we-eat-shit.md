@@ -1,1 +1,0 @@
-{"tmdb_id": 438364, "title": "We Eat Shit", "original_title": "We Eat Shit", "slug_title": "we-eat-shit", "date": "2017-01-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fIPoiLOZIfJxprk1pLO4UXg2l20.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 282789, "title": "Call Of Booty: Modern Whorefare", "original_title": "Call Of Booty: Modern Whorefare", "slug_title": "call-of-booty-modern-whorefare", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

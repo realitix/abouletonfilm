@@ -1,1 +1,0 @@
-{"tmdb_id": 544317, "title": "Toilette", "original_title": "Toilette", "slug_title": "toilette", "date": "1979-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

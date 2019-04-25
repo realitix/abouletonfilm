@@ -1,1 +1,0 @@
-{"tmdb_id": 519936, "title": "Places I Haven't Been to", "original_title": "Mjesta na kojima nisam bio", "slug_title": "places-i-haven-t-been-to", "date": "2010-05-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

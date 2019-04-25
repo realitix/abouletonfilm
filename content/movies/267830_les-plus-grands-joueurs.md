@@ -1,1 +1,0 @@
-{"tmdb_id": 267830, "title": "Les Plus Grands Joueurs", "original_title": "Les Plus Grands Joueurs", "slug_title": "les-plus-grands-joueurs", "date": "1990-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9SQZjtiDoYs66rb5YZ8C5I7Hf9N.jpg", "actors": [], "comments": [], "recommandations_id": []}

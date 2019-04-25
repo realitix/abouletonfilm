@@ -1,1 +1,0 @@
-{"tmdb_id": 414266, "title": "Paratodos", "original_title": "Paratodos", "slug_title": "paratodos", "date": "2016-06-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4wPlFi52UbMx6JmwIsWjTYnL7tw.jpg", "actors": [], "comments": [], "recommandations_id": []}

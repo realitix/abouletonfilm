@@ -1,1 +1,0 @@
-{"tmdb_id": 535690, "title": "A Strange Woman", "original_title": "Yi dai yao ji", "slug_title": "a-strange-woman", "date": "1950-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bai Guang ()", "Yan Jun ()", "Huang He ()", "Kung Chiu-hsia ()", "Wang Yuen-lung ()"], "comments": [], "recommandations_id": []}

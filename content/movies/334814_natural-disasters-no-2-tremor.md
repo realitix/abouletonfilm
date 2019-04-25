@@ -1,1 +1,0 @@
-{"tmdb_id": 334814, "title": "Natural Disasters No. 2 Tremor", "original_title": "Natural Disasters No. 2 Tremor", "slug_title": "natural-disasters-no-2-tremor", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

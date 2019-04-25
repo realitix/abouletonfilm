@@ -1,1 +1,0 @@
-{"tmdb_id": 331772, "title": "Curra Urbana", "original_title": "Curra Urbana", "slug_title": "curra-urbana", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Guar\u00e1 Rodrigues ()", "\u00c9sio Magalh\u00e3es ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 594091, "title": "Memory Bucket", "original_title": "Memory Bucket", "slug_title": "memory-bucket", "date": "2003-11-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

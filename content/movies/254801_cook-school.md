@@ -1,1 +1,0 @@
-{"tmdb_id": 254801, "title": "Cook School", "original_title": "Cook School", "slug_title": "cook-school", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

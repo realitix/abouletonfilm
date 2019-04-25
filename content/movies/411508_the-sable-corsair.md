@@ -1,1 +1,0 @@
-{"tmdb_id": 411508, "title": "The Sable Corsair", "original_title": "The Sable Corsair", "slug_title": "the-sable-corsair", "date": "2016-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zpyPGctGF854yN6yiRCxBgONrqR.jpg", "actors": [], "comments": [], "recommandations_id": []}

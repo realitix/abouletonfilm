@@ -1,1 +1,0 @@
-{"tmdb_id": 309745, "title": "Color of the Cross 2: Resurrection", "original_title": "Color of the Cross 2: Resurrection", "slug_title": "color-of-the-cross-2-resurrection", "date": "2008-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

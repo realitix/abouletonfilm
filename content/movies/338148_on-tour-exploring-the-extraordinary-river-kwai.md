@@ -1,1 +1,0 @@
-{"tmdb_id": 338148, "title": "On Tour Exploring the Extraordinary River Kwai", "original_title": "On Tour Exploring the Extraordinary River Kwai", "slug_title": "on-tour-exploring-the-extraordinary-river-kwai", "date": "2015-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

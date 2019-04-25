@@ -1,1 +1,0 @@
-{"tmdb_id": 250774, "title": "Monarca", "original_title": "Monarca", "slug_title": "monarca", "date": "2011-06-03", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dsFL7oRlV9P4oj2r0BJQgP57s9N.jpg", "actors": [], "comments": [], "recommandations_id": []}

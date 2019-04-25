@@ -1,1 +1,0 @@
-{"tmdb_id": 224073, "title": "Body Count", "original_title": "Body Count", "slug_title": "body-count", "date": "1986-01-01", "genre": "Horreur / Thriller / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p42uBok9SMaFsYUYB0LAe6mj5ym.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 349835, "title": "\uc0bc\uad6d\uc5ec\ud55c", "original_title": "\uc0bc\uad6d\uc5ec\ud55c", "slug_title": "samgugyeohan", "date": "1982-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

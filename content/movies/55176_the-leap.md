@@ -1,1 +1,0 @@
-{"tmdb_id": 55176, "title": "The Leap", "original_title": "Springet", "slug_title": "the-leap", "date": "2005-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

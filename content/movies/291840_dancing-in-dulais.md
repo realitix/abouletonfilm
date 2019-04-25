@@ -1,1 +1,0 @@
-{"tmdb_id": 291840, "title": "Dancing in Dulais", "original_title": "Dancing in Dulais", "slug_title": "dancing-in-dulais", "date": "1986-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zzg8iEv9K97R8qOeQRPKEQ6CvYN.jpg", "actors": [], "comments": [], "recommandations_id": []}

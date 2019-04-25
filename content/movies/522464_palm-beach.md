@@ -1,1 +1,0 @@
-{"tmdb_id": 522464, "title": "Palm Beach", "original_title": "Palm Beach", "slug_title": "palm-beach", "date": "", "genre": "Com\u00e9die / Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard E. Grant ()", "Sam Neill ()", "Greta Scacchi ()", "Jacqueline McKenzie ()", "Bryan Brown ()"], "comments": [], "recommandations_id": []}

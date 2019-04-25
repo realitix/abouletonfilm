@@ -1,1 +1,0 @@
-{"tmdb_id": 156377, "title": "Let Them Chirp Awhile", "original_title": "Let Them Chirp Awhile", "slug_title": "let-them-chirp-awhile", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 588390, "title": "Daren Streblow", "original_title": "Daren Streblow", "slug_title": "daren-streblow", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

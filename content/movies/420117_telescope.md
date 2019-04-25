@@ -1,1 +1,0 @@
-{"tmdb_id": 420117, "title": "Telescope", "original_title": "Telescope", "slug_title": "telescope", "date": "2013-07-12", "genre": "Science-Fiction", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/DZntgeUYfa7XZdGn2Yv1ZJBKdP.jpg", "actors": [], "comments": [], "recommandations_id": []}

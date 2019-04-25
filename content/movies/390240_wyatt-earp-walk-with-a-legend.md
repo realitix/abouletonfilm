@@ -1,1 +1,0 @@
-{"tmdb_id": 390240, "title": "Wyatt Earp: Walk with a Legend", "original_title": "Wyatt Earp: Walk with a Legend", "slug_title": "wyatt-earp-walk-with-a-legend", "date": "1994-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

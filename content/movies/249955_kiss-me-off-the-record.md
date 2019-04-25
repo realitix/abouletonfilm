@@ -1,1 +1,0 @@
-{"tmdb_id": 249955, "title": "Kiss Me Off The Record", "original_title": "Kiss Me Off The Record", "slug_title": "kiss-me-off-the-record", "date": "2008-02-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iFQehPOw3FJniIErqt82Jqob6A3.jpg", "actors": [], "comments": [], "recommandations_id": []}

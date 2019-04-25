@@ -1,1 +1,0 @@
-{"tmdb_id": 309932, "title": "Giuseppe Verdi's Rigoletto Story", "original_title": "Giuseppe Verdi's Rigoletto Story", "slug_title": "giuseppe-verdi-s-rigoletto-story", "date": "2005-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

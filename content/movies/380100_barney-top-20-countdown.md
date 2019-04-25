@@ -1,1 +1,0 @@
-{"tmdb_id": 380100, "title": "Barney: Top 20 Countdown", "original_title": "Barney: Top 20 Countdown", "slug_title": "barney-top-20-countdown", "date": "2006-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nqAgwbRcwKOIyOGjASC2jss3df1.jpg", "actors": ["Jeff Ayers ()"], "comments": [], "recommandations_id": []}

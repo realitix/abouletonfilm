@@ -1,1 +1,0 @@
-{"tmdb_id": 88939, "title": "A Taste of Hell", "original_title": "A Taste of Hell", "slug_title": "a-taste-of-hell", "date": "1973-01-01", "genre": "Action / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xZ4bTd6hZjaFc4QaViBrVu3Jkd0.jpg", "actors": [], "comments": [], "recommandations_id": []}

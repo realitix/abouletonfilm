@@ -1,1 +1,0 @@
-{"tmdb_id": 298559, "title": "Red Hot Chili Peppers: Stadium Arcadium", "original_title": "Red Hot Chili Peppers: Stadium Arcadium", "slug_title": "red-hot-chili-peppers-stadium-arcadium", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

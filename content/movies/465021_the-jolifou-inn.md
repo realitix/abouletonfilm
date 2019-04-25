@@ -1,1 +1,0 @@
-{"tmdb_id": 465021, "title": "The Jolifou Inn", "original_title": "The Jolifou Inn", "slug_title": "the-jolifou-inn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

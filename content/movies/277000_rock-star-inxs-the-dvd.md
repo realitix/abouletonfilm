@@ -1,1 +1,0 @@
-{"tmdb_id": 277000, "title": "Rock Star: INXS - The DVD", "original_title": "Rock Star: INXS - The DVD", "slug_title": "rock-star-inxs-the-dvd", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3tMcMVFo8h5l5fL47MgI62NX9i9.jpg", "actors": [], "comments": [], "recommandations_id": []}

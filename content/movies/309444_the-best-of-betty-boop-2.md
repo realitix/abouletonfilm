@@ -1,1 +1,0 @@
-{"tmdb_id": 309444, "title": "The Best of Betty Boop 2", "original_title": "The Best of Betty Boop 2", "slug_title": "the-best-of-betty-boop-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 75439, "title": "La Isla", "original_title": "La Isla", "slug_title": "la-isla", "date": "2010-01-01", "genre": "Fantastique / Horreur / Myst\u00e8re", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pdeUgVNvj8zRlsYxrUnoO2mUt5B.jpg", "actors": [], "comments": [], "recommandations_id": []}

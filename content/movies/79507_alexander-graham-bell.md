@@ -1,1 +1,0 @@
-{"tmdb_id": 79507, "title": "Alexander Graham Bell", "original_title": "Alexander Graham Bell", "slug_title": "alexander-graham-bell", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ppgc3LxWTeALdC9mRR8WVPNANSQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

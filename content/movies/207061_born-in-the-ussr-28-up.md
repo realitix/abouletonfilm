@@ -1,1 +1,0 @@
-{"tmdb_id": 207061, "title": "Born in the USSR: 28 Up", "original_title": "Born in the USSR: 28 Up", "slug_title": "born-in-the-ussr-28-up", "date": "2012-05-27", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i4FkqudKHpXol1BGYWDE3nD7pXD.jpg", "actors": [], "comments": [], "recommandations_id": []}

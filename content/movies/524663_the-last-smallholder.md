@@ -1,1 +1,0 @@
-{"tmdb_id": 524663, "title": "The Last Smallholder", "original_title": "The Last Smallholder", "slug_title": "the-last-smallholder", "date": "2014-11-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8MpQj6c6579q2DIEBwbYCVmmX0Y.jpg", "actors": ["Carson Lee ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 526181, "title": "When the Beat Drops", "original_title": "When the Beat Drops", "slug_title": "when-the-beat-drops", "date": "2018-03-11", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pY98vi5NG4aEZdqUDFk2m7dgT5C.jpg", "actors": [], "comments": [], "recommandations_id": []}

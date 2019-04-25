@@ -1,1 +1,0 @@
-{"tmdb_id": 317486, "title": "Banda Girls: Who's Your Sugar Daddy?", "original_title": "Banda Girls: Who's Your Sugar Daddy?", "slug_title": "banda-girls-who-s-your-sugar-daddy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

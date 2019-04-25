@@ -1,1 +1,0 @@
-{"tmdb_id": 206173, "title": "Viva! Love", "original_title": "Viva! Love", "slug_title": "viva-love", "date": "2008-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jVPRCPrMAsD3NBWAihxg9qRGhL4.jpg", "actors": ["Kim Hae-sook (Bong-soon)", "Ki Joo-bong (Mr. Ha)"], "comments": [], "recommandations_id": []}

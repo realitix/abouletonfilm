@@ -1,1 +1,0 @@
-{"tmdb_id": 569634, "title": "I Am Still Alive", "original_title": "I Am Still Alive", "slug_title": "i-am-still-alive", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

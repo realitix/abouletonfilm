@@ -1,1 +1,0 @@
-{"tmdb_id": 561312, "title": "The Plan", "original_title": "The Plan", "slug_title": "the-plan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anant Nag (Jailor)", "Pramod Shetty (Police Officer)"], "comments": [], "recommandations_id": []}

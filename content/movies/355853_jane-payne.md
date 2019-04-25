@@ -1,1 +1,0 @@
-{"tmdb_id": 355853, "title": "Jane & Payne", "original_title": "Jane & Payne", "slug_title": "jane-payne", "date": "2014-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mKXwSTMIgP04l6KB2DTEn5bHh7u.jpg", "actors": [], "comments": [], "recommandations_id": []}

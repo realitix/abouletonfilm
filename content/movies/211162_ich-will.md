@@ -1,1 +1,0 @@
-{"tmdb_id": 211162, "title": "Ich will!", "original_title": "Ich will!", "slug_title": "ich-will", "date": "2008-04-29", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hklQ7AqHcxtQumaXU4PFpV6ROBo.jpg", "actors": [], "comments": [], "recommandations_id": []}

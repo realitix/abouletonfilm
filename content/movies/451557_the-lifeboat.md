@@ -1,1 +1,0 @@
-{"tmdb_id": 451557, "title": "The Lifeboat", "original_title": "The Lifeboat", "slug_title": "the-lifeboat", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anne Hathaway (Grace Winter)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 321892, "title": "The British Invasion: The 1960s and 1970s", "original_title": "The British Invasion: The 1960s and 1970s", "slug_title": "the-british-invasion-the-1960s-and-1970s", "date": "2005-11-08", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

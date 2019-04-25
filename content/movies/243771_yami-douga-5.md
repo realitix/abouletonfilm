@@ -1,1 +1,0 @@
-{"tmdb_id": 243771, "title": "Yami Douga 5", "original_title": "Yami Douga 5", "slug_title": "yami-douga-5", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fr9FWdLBYQDveWgyxhdrBoSfIdS.jpg", "actors": [], "comments": [], "recommandations_id": []}

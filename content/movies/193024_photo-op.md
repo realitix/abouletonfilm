@@ -1,1 +1,0 @@
-{"tmdb_id": 193024, "title": "Photo Op", "original_title": "Photo Op", "slug_title": "photo-op", "date": "1992-06-01", "genre": "Musique / Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/58Jwyrsj4X8TfLiiNGSc9pZekth.jpg", "actors": [], "comments": [], "recommandations_id": []}

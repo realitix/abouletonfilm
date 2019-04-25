@@ -1,1 +1,0 @@
-{"tmdb_id": 482225, "title": "Paulina", "original_title": "Paulina", "slug_title": "paulina", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 70038, "title": "Not Another Ski Movie", "original_title": "Not Another Ski Movie", "slug_title": "not-another-ski-movie", "date": "2004-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yhxaWVgOIb6101IK8UuJ0gQYTqz.jpg", "actors": ["Jon Olsson ()"], "comments": [], "recommandations_id": []}

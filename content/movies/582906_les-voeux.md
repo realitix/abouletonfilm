@@ -1,1 +1,0 @@
-{"tmdb_id": 582906, "title": "Les voeux", "original_title": "Les voeux", "slug_title": "les-voeux", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Camille Cottin ()", "Jean-Pierre Darroussin ()", "\u00c9ric Caravaca ()"], "comments": [], "recommandations_id": []}

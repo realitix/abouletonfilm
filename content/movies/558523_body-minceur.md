@@ -1,1 +1,0 @@
-{"tmdb_id": 558523, "title": "Body minceur", "original_title": "Body minceur", "slug_title": "body-minceur", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Film de nutrition", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

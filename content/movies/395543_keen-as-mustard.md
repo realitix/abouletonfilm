@@ -1,1 +1,0 @@
-{"tmdb_id": 395543, "title": "Keen as Mustard", "original_title": "Keen as Mustard", "slug_title": "keen-as-mustard", "date": "1989-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c9WF1v7Bn4VyrMjRP2V0XzEy6L7.jpg", "actors": [], "comments": [], "recommandations_id": []}

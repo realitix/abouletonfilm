@@ -1,1 +1,0 @@
-{"tmdb_id": 225318, "title": "Dislecksia: The Movie", "original_title": "Dislecksia: The Movie", "slug_title": "dislecksia-the-movie", "date": "2011-10-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5RaCGOse9tR0qemBOdv0WWsRB2x.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 199120, "title": "The Bucuresti Experiment", "original_title": "The Bucuresti Experiment", "slug_title": "the-bucuresti-experiment", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

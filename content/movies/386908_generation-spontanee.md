@@ -1,1 +1,0 @@
-{"tmdb_id": 386908, "title": "G\u00e9n\u00e9ration spontan\u00e9e", "original_title": "G\u00e9n\u00e9ration spontan\u00e9e", "slug_title": "generation-spontanee", "date": "1909-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

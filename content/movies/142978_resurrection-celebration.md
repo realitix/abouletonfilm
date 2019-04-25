@@ -1,1 +1,0 @@
-{"tmdb_id": 142978, "title": "Resurrection Celebration", "original_title": "Resurrection Celebration", "slug_title": "resurrection-celebration", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lmnw7vtQ8mlSamQ2Jmk8eiB5GF.jpg", "actors": [], "comments": [], "recommandations_id": []}

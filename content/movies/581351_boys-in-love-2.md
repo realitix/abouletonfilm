@@ -1,1 +1,0 @@
-{"tmdb_id": 581351, "title": "Boys in Love 2", "original_title": "Boys in Love 2", "slug_title": "boys-in-love-2", "date": "1998-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f0hH5T5Ps5L94td91BtudNZECqW.jpg", "actors": [], "comments": [], "recommandations_id": []}

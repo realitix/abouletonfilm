@@ -1,1 +1,0 @@
-{"tmdb_id": 360509, "title": "O Livro Multicolorido de Karnak", "original_title": "O Livro Multicolorido de Karnak", "slug_title": "o-livro-multicolorido-de-karnak", "date": "2006-10-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

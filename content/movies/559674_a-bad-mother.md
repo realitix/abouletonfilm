@@ -1,1 +1,0 @@
-{"tmdb_id": 559674, "title": "A Bad Mother", "original_title": "A Bad Mother", "slug_title": "a-bad-mother", "date": "2018-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uzbaHUSyX5CjyFvicXxmbhzSOq0.jpg", "actors": [], "comments": [], "recommandations_id": []}

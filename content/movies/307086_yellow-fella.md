@@ -1,1 +1,0 @@
-{"tmdb_id": 307086, "title": "Yellow Fella", "original_title": "Yellow Fella", "slug_title": "yellow-fella", "date": "2005-05-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6vWGMsqM6MDHeRwfUQtsGk8pFrL.jpg", "actors": ["Tom E. Lewis (Himself)"], "comments": [], "recommandations_id": []}

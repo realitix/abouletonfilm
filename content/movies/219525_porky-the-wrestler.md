@@ -1,1 +1,0 @@
-{"tmdb_id": 219525, "title": "Porky the Wrestler", "original_title": "Porky the Wrestler", "slug_title": "porky-the-wrestler", "date": "1937-01-08", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i62VfhDUWnnAYB6WfzljPyMrG1C.jpg", "actors": [], "comments": [], "recommandations_id": []}

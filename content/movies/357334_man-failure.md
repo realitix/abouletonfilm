@@ -1,1 +1,0 @@
-{"tmdb_id": 357334, "title": "Man Failure", "original_title": "Man Failure", "slug_title": "man-failure", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

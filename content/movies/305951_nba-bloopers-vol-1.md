@@ -1,1 +1,0 @@
-{"tmdb_id": 305951, "title": "NBA Bloopers Vol. 1", "original_title": "NBA Bloopers Vol. 1", "slug_title": "nba-bloopers-vol-1", "date": "2008-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

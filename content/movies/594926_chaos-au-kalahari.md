@@ -1,1 +1,0 @@
-{"tmdb_id": 594926, "title": "Chaos au Kalahari", "original_title": "Chaos au Kalahari", "slug_title": "chaos-au-kalahari", "date": "2015-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c3e8h8BZs1SFtrPdEPkz6WRrJfC.jpg", "actors": [], "comments": [], "recommandations_id": []}

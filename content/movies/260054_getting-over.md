@@ -1,1 +1,0 @@
-{"tmdb_id": 260054, "title": "Getting Over", "original_title": "Getting Over", "slug_title": "getting-over", "date": "1981-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xxKIhQDV0ZQIX2mzIxTxiq6gJw.jpg", "actors": [], "comments": [], "recommandations_id": []}

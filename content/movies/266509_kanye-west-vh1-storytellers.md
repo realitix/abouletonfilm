@@ -1,1 +1,0 @@
-{"tmdb_id": 266509, "title": "Kanye West - VH1 Storytellers", "original_title": "Kanye West - VH1 Storytellers", "slug_title": "kanye-west-vh1-storytellers", "date": "2009-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/LI2nS3G0PygDLNri8KyJJokMQ3.jpg", "actors": [], "comments": [], "recommandations_id": []}

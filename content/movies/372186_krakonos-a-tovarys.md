@@ -1,1 +1,0 @@
-{"tmdb_id": 372186, "title": "Krakonos a tovarys", "original_title": "Krakonos a tovarys", "slug_title": "krakonos-a-tovarys", "date": "1978-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

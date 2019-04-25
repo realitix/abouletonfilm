@@ -1,1 +1,0 @@
-{"tmdb_id": 480764, "title": "Body Beast - Bulk: Chest", "original_title": "Body Beast - Bulk: Chest", "slug_title": "body-beast-bulk-chest", "date": "2012-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lBpKM0Y99n3FCj8Hjc9UIw4ra3X.jpg", "actors": [], "comments": [], "recommandations_id": []}

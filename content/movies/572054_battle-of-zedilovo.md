@@ -1,1 +1,0 @@
-{"tmdb_id": 572054, "title": "Battle of \u017dedilovo", "original_title": "Bitka na \u017dedilovu", "slug_title": "battle-of-zedilovo", "date": "1913-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 344887, "title": "The Swing", "original_title": "Lisharsi", "slug_title": "the-swing", "date": "1976-01-02", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lJG8j0VVGu67BVexCPyJjgZdCSp.jpg", "actors": [], "comments": [], "recommandations_id": []}

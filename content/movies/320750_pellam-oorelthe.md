@@ -1,1 +1,0 @@
-{"tmdb_id": 320750, "title": "Pellam Oorelthe", "original_title": "Pellam Oorelthe", "slug_title": "pellam-oorelthe", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

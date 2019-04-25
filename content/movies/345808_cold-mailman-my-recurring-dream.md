@@ -1,1 +1,0 @@
-{"tmdb_id": 345808, "title": "Cold Mailman: My Recurring Dream", "original_title": "Cold Mailman: My Recurring Dream", "slug_title": "cold-mailman-my-recurring-dream", "date": "2013-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cold Mailman (Themselves)"], "comments": [], "recommandations_id": []}

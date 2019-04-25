@@ -1,1 +1,0 @@
-{"tmdb_id": 120176, "title": "The Wood Demon", "original_title": "The Wood Demon", "slug_title": "the-wood-demon", "date": "1974-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d4LBGUsgt9oiNlo21xm4diTMm5W.jpg", "actors": ["Ian Holm ()"], "comments": [], "recommandations_id": []}

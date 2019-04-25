@@ -1,1 +1,0 @@
-{"tmdb_id": 405540, "title": "Les Proies du Mal", "original_title": "Les Proies du Mal", "slug_title": "les-proies-du-mal", "date": "1982-02-10", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xu6dlQhN8lqIaggFfLqfWQn2Blf.jpg", "actors": [], "comments": [], "recommandations_id": []}

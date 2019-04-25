@@ -1,1 +1,0 @@
-{"tmdb_id": 368245, "title": "America: The Great Mississippi", "original_title": "America: The Great Mississippi", "slug_title": "america-the-great-mississippi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

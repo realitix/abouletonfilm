@@ -1,1 +1,0 @@
-{"tmdb_id": 379994, "title": "Every Day Is a Fish Day", "original_title": "H\u00f8ydepunkter", "slug_title": "every-day-is-a-fish-day", "date": "2007-08-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 326175, "title": "Arditan", "original_title": "Arditan", "slug_title": "arditan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Enrike Etxebarria ()"], "comments": [], "recommandations_id": []}
+{"tmdb_id": 326175, "title": "Arditan", "original_title": "Arditan", "slug_title": "arditan", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Enrike Etxebarria ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

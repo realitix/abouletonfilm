@@ -1,1 +1,0 @@
-{"tmdb_id": 531065, "title": "The Little Sisters", "original_title": "The Little Sisters", "slug_title": "the-little-sisters", "date": "1959-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

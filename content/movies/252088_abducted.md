@@ -1,1 +1,0 @@
-{"tmdb_id": 252088, "title": "Abducted", "original_title": "Abducted", "slug_title": "abducted", "date": "1972-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

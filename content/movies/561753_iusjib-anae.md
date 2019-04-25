@@ -1,1 +1,0 @@
-{"tmdb_id": 561753, "title": "\uc774\uc6c3\uc9d1 \uc544\ub0b4", "original_title": "\uc774\uc6c3\uc9d1 \uc544\ub0b4", "slug_title": "iusjib-anae", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

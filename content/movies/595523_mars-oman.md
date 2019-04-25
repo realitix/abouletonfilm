@@ -1,1 +1,0 @@
-{"tmdb_id": 595523, "title": "Mars, Oman", "original_title": "Mars, Oman", "slug_title": "mars-oman", "date": "2019-04-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uyMzj9ndsQ0mMNSQrtzlKeihtUH.jpg", "actors": [], "comments": [], "recommandations_id": []}

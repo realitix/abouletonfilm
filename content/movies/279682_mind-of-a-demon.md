@@ -1,1 +1,0 @@
-{"tmdb_id": 279682, "title": "Mind of a Demon", "original_title": "Mind of a Demon", "slug_title": "mind-of-a-demon", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

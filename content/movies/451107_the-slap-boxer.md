@@ -1,1 +1,0 @@
-{"tmdb_id": 451107, "title": "The Slap Boxer", "original_title": "The Slap Boxer", "slug_title": "the-slap-boxer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

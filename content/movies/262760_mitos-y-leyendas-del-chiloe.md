@@ -1,1 +1,0 @@
-{"tmdb_id": 262760, "title": "Mitos y leyendas del Chiloe", "original_title": "Mitos y leyendas del Chiloe", "slug_title": "mitos-y-leyendas-del-chiloe", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

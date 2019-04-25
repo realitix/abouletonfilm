@@ -1,1 +1,0 @@
-{"tmdb_id": 477180, "title": "Living with Pride: Ruth Ellis @ 100", "original_title": "Living with Pride: Ruth Ellis @ 100", "slug_title": "living-with-pride-ruth-ellis-100", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

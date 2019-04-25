@@ -1,1 +1,0 @@
-{"tmdb_id": 302088, "title": "The Rabbit Hunters", "original_title": "The Rabbit Hunters", "slug_title": "the-rabbit-hunters", "date": "2007-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fk1sv9IA34hmjvMIiGUH8A9WJ0Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

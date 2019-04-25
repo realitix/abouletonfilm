@@ -1,1 +1,0 @@
-{"tmdb_id": 572740, "title": "Jax in Love", "original_title": "Jax in Love", "slug_title": "jax-in-love", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rakefet Abergel (Jax)"], "comments": [], "recommandations_id": []}

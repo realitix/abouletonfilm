@@ -1,1 +1,0 @@
-{"tmdb_id": 585841, "title": "Happy Birthday!", "original_title": "\u0421 \u0434\u043d\u0435\u043c \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f!", "slug_title": "happy-birthday", "date": "1998-07-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

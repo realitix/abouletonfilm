@@ -1,1 +1,0 @@
-{"tmdb_id": 313121, "title": "Big Band: Tex Beneke, Gene Krupa & Jerry Wald", "original_title": "Big Band: Tex Beneke, Gene Krupa & Jerry Wald", "slug_title": "big-band-tex-beneke-gene-krupa-jerry-wald", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

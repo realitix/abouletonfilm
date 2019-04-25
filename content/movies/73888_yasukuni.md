@@ -1,1 +1,0 @@
-{"tmdb_id": 73888, "title": "Yasukuni", "original_title": "\u9756\u56fd", "slug_title": "yasukuni", "date": "2008-01-18", "genre": "", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Ss2NWZKENy42zAwk1Wz3DgHhrl.jpg", "actors": ["Naoharu Kariya (Himself)", "Junichiro Koizumi (Himself)"], "comments": [], "recommandations_id": []}

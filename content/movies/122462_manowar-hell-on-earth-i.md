@@ -1,1 +1,0 @@
-{"tmdb_id": 122462, "title": "Manowar: Hell on Earth I", "original_title": "Manowar: Hell on Earth I", "slug_title": "manowar-hell-on-earth-i", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ptgi8ZqeWJXyVNvsc8e1aR3u0QF.jpg", "actors": [], "comments": [], "recommandations_id": []}

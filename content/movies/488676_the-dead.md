@@ -1,1 +1,0 @@
-{"tmdb_id": 488676, "title": "The Dead", "original_title": "The Dead", "slug_title": "the-dead", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kLBm0o758tCAWRF28rdTiGYKVSD.jpg", "actors": [], "comments": [], "recommandations_id": []}

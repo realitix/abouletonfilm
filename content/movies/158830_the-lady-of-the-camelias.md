@@ -1,1 +1,0 @@
-{"tmdb_id": 158830, "title": "The Lady of the Camelias", "original_title": "La mujer de las camelias", "slug_title": "the-lady-of-the-camelias", "date": "1954-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hpFnZm5iQNL2KhOLPhZcoRPFo6C.jpg", "actors": [], "comments": [], "recommandations_id": []}

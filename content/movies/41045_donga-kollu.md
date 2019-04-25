@@ -1,1 +1,0 @@
-{"tmdb_id": 41045, "title": "Donga Kollu", "original_title": "Donga Kollu", "slug_title": "donga-kollu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eJCk9K2KntT9TsVI94bxbCvGwrB.jpg", "actors": [], "comments": [], "recommandations_id": []}

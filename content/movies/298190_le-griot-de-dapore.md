@@ -1,1 +1,0 @@
-{"tmdb_id": 298190, "title": "Le griot de Dapor\u00e9", "original_title": "Le griot de Dapor\u00e9", "slug_title": "le-griot-de-dapore", "date": "2006-10-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

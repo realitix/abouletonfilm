@@ -1,1 +1,0 @@
-{"tmdb_id": 582676, "title": "Lame Therapy", "original_title": "Giuoco Terapia", "slug_title": "lame-therapy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fBrgHuYmj17S7SA3CUwvgF0az5n.jpg", "actors": [], "comments": [], "recommandations_id": []}

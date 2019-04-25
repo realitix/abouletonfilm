@@ -1,1 +1,0 @@
-{"tmdb_id": 200317, "title": "Montand", "original_title": "Montand", "slug_title": "montand", "date": "1994-05-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2JQ5A3QWZn1TQZPurmpHeQjhHzz.jpg", "actors": ["Yves Montand (Himself)"], "comments": [], "recommandations_id": []}

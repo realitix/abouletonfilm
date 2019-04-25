@@ -1,1 +1,0 @@
-{"tmdb_id": 324714, "title": "DocoBANKSY", "original_title": "DocoBANKSY", "slug_title": "docobanksy", "date": "2014-10-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1M7nhqcbGpCiZLXlZVifi5rkbhe.jpg", "actors": [], "comments": [], "recommandations_id": []}

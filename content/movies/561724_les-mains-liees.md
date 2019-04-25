@@ -1,1 +1,0 @@
-{"tmdb_id": 561724, "title": "Les mains li\u00e9es", "original_title": "Les mains li\u00e9es", "slug_title": "les-mains-liees", "date": "1956-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5jt38l23wnBnlis3RIt6p0BpFle.jpg", "actors": [], "comments": [], "recommandations_id": []}

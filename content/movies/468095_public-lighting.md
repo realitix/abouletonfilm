@@ -1,1 +1,0 @@
-{"tmdb_id": 468095, "title": "Public Lighting", "original_title": "Public Lighting", "slug_title": "public-lighting", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x9ACyvQbg0Ze8liX26ufWKId13D.jpg", "actors": [], "comments": [], "recommandations_id": []}

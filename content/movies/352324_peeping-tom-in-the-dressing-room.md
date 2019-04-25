@@ -1,1 +1,0 @@
-{"tmdb_id": 352324, "title": "Peeping Tom in the Dressing Room", "original_title": "Peeping Tom in the Dressing Room", "slug_title": "peeping-tom-in-the-dressing-room", "date": "1905-05-08", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

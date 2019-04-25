@@ -1,1 +1,0 @@
-{"tmdb_id": 455465, "title": "The Blossom Man", "original_title": "Manga: Hanasaka-jijii", "slug_title": "the-blossom-man", "date": "1928-07-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2KnwcQyxWnp69P12zXxGBQjkech.jpg", "actors": [], "comments": [], "recommandations_id": []}

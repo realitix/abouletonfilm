@@ -1,1 +1,0 @@
-{"tmdb_id": 337312, "title": "To the Dairy", "original_title": "To the Dairy", "slug_title": "to-the-dairy", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/itMC9CMkq5cA0dJJfyMsrA13qtb.jpg", "actors": [], "comments": [], "recommandations_id": []}

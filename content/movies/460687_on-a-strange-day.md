@@ -1,1 +1,0 @@
-{"tmdb_id": 460687, "title": "On a Strange Day", "original_title": "On a Strange Day", "slug_title": "on-a-strange-day", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 243859, "title": "Ceritaku Ceritamu", "original_title": "Ceritaku Ceritamu", "slug_title": "ceritaku-ceritamu", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eBF4E6cTDSBijOjdLwbAu245Wqg.jpg", "actors": ["Ogy Ahmad Daud (Ana)"], "comments": [], "recommandations_id": []}

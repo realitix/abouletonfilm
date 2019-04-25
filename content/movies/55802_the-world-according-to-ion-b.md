@@ -1,1 +1,0 @@
-{"tmdb_id": 55802, "title": "The World According to Ion B.", "original_title": "Lumea vazuta de Ion B.", "slug_title": "the-world-according-to-ion-b", "date": "2009-12-17", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qRvqAyBVGYk95PqfW3FHhiPz0kL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 479801, "title": "The Ghost", "original_title": "The Ghost", "slug_title": "the-ghost", "date": "2017-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bellamy Bradley ()", "Jack Kross ()", "Ryan Bones ()"], "comments": [], "recommandations_id": []}

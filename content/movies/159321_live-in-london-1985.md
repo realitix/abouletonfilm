@@ -1,1 +1,0 @@
-{"tmdb_id": 159321, "title": "Live in London 1985", "original_title": "Live in London 1985", "slug_title": "live-in-london-1985", "date": "2005-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xfGpym0jfJuGGcV3FX5V6jeNnt6.jpg", "actors": [], "comments": [], "recommandations_id": []}

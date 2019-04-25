@@ -1,1 +1,0 @@
-{"tmdb_id": 385675, "title": "Hunters and Gatherers", "original_title": "Hunters and Gatherers", "slug_title": "hunters-and-gatherers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

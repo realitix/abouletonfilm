@@ -1,1 +1,0 @@
-{"tmdb_id": 458055, "title": "Alien Nation", "original_title": "Alien Nation", "slug_title": "alien-nation", "date": "", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

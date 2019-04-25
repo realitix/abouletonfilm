@@ -1,1 +1,0 @@
-{"tmdb_id": 548828, "title": "What Mary Jo Wanted", "original_title": "What Mary Jo Wanted", "slug_title": "what-mary-jo-wanted", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

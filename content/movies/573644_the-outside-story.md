@@ -1,1 +1,0 @@
-{"tmdb_id": 573644, "title": "The Outside Story", "original_title": "The Outside Story", "slug_title": "the-outside-story", "date": "2020-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brian Tyree Henry (Charles Young)"], "comments": [], "recommandations_id": []}

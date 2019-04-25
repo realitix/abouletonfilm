@@ -1,1 +1,0 @@
-{"tmdb_id": 453956, "title": "My Body is Political", "original_title": "Meu Corpo \u00e9 Pol\u00edtico", "slug_title": "my-body-is-political", "date": "2017-04-25", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/56J2uKUiYU5R7of2LGClujvEGGU.jpg", "actors": ["Linn da Quebrada ()"], "comments": [], "recommandations_id": []}

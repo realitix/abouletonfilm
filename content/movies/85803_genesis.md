@@ -1,1 +1,0 @@
-{"tmdb_id": 85803, "title": "Genesis", "original_title": "Souseiki", "slug_title": "genesis", "date": "1968-10-01", "genre": "Com\u00e9die / Animation", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zTnfuvmvLAhPxSNlEBuC5MtZW4q.jpg", "actors": ["Seiji Kobayashi (Narator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 444309, "title": "Dick Wakes Up", "original_title": "Dick Wakes Up", "slug_title": "dick-wakes-up", "date": "1954-01-01", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jZVruRqadT3czieIIOiKyfPUsW1.jpg", "actors": ["Ivor James (Dick / Judge / Imp)"], "comments": [], "recommandations_id": []}

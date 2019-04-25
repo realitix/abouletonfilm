@@ -1,1 +1,0 @@
-{"tmdb_id": 411766, "title": "Curious George Old McGeorgie had a farm", "original_title": "Curious George Old McGeorgie had a farm", "slug_title": "curious-george-old-mcgeorgie-had-a-farm", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

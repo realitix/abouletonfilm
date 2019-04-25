@@ -1,1 +1,0 @@
-{"tmdb_id": 498337, "title": "Clouded", "original_title": "Clouded", "slug_title": "clouded", "date": "2008-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

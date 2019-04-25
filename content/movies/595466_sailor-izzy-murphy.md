@@ -1,1 +1,0 @@
-{"tmdb_id": 595466, "title": "Sailor Izzy Murphy", "original_title": "Sailor Izzy Murphy", "slug_title": "sailor-izzy-murphy", "date": "1927-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zNa1qsDewYsq2MfuD6BtdoXYKI8.jpg", "actors": [], "comments": [], "recommandations_id": []}

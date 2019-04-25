@@ -1,1 +1,0 @@
-{"tmdb_id": 339985, "title": "Strange Days", "original_title": "D\u00edas Extra\u00f1os", "slug_title": "strange-days", "date": "2015-03-04", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/txCxexW5zpduV18ALY6sW2Ete0e.jpg", "actors": [], "comments": [], "recommandations_id": []}

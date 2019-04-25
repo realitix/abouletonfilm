@@ -1,1 +1,0 @@
-{"tmdb_id": 391953, "title": "Expedition Supersaurier", "original_title": "Expedition Supersaurier", "slug_title": "expedition-supersaurier", "date": "2014-11-23", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l1P5nzasrKCqxN8C9uR4aPk7TB3.jpg", "actors": [], "comments": [], "recommandations_id": []}

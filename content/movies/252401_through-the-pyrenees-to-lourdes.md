@@ -1,1 +1,0 @@
-{"tmdb_id": 252401, "title": "Through the Pyrenees to Lourdes", "original_title": "Through the Pyrenees to Lourdes", "slug_title": "through-the-pyrenees-to-lourdes", "date": "1937-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

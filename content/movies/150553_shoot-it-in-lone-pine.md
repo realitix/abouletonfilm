@@ -1,1 +1,0 @@
-{"tmdb_id": 150553, "title": "Shoot It in Lone Pine!", "original_title": "Shoot It in Lone Pine!", "slug_title": "shoot-it-in-lone-pine", "date": "2008-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chris Langley (Himself)"], "comments": [], "recommandations_id": []}

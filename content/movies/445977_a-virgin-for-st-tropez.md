@@ -1,1 +1,0 @@
-{"tmdb_id": 445977, "title": "A Virgin for St. Tropez", "original_title": "Une vierge pour Saint-Tropez", "slug_title": "a-virgin-for-st-tropez", "date": "1975-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gVVfqHjZyS725e7E4ujGdrzcVyA.jpg", "actors": [], "comments": [], "recommandations_id": []}

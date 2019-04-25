@@ -1,1 +1,0 @@
-{"tmdb_id": 587455, "title": "No Man Is an Island", "original_title": "No Man Is an Island", "slug_title": "no-man-is-an-island", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

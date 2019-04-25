@@ -1,1 +1,0 @@
-{"tmdb_id": 560667, "title": "An Alchemical Christmas Carol", "original_title": "An Alchemical Christmas Carol", "slug_title": "an-alchemical-christmas-carol", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 317827, "title": "History Special: 51 Amazing Facts About America", "original_title": "History Special: 51 Amazing Facts About America", "slug_title": "history-special-51-amazing-facts-about-america", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

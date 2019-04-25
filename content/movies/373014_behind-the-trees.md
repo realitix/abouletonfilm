@@ -1,1 +1,0 @@
-{"tmdb_id": 373014, "title": "Behind the Trees", "original_title": "Behind the Trees", "slug_title": "behind-the-trees", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

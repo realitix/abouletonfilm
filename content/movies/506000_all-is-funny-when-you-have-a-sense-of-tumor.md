@@ -1,1 +1,0 @@
-{"tmdb_id": 506000, "title": "All is funny when you have a sense of tumor", "original_title": "All is funny when you have a sense of tumor", "slug_title": "all-is-funny-when-you-have-a-sense-of-tumor", "date": "2018-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

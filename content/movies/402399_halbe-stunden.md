@@ -1,1 +1,0 @@
-{"tmdb_id": 402399, "title": "Halbe Stunden", "original_title": "Halbe Stunden", "slug_title": "halbe-stunden", "date": "2007-05-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/97Y83it057zS9NJ9Iwro97j4DHI.jpg", "actors": ["Cristin K\u00f6nig ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 243406, "title": "Doubletalk", "original_title": "Doubletalk", "slug_title": "doubletalk", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dick DeCoit ()", "Robert Picardo ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 441380, "title": "La buenota risa", "original_title": "La buenota risa", "slug_title": "la-buenota-risa", "date": "1997-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pedro Romo ()", "Pablo Ferrel ()", "Paco Ib\u00e1\u00f1ez ()"], "comments": [], "recommandations_id": []}

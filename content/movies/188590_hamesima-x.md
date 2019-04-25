@@ -1,1 +1,0 @@
-{"tmdb_id": 188590, "title": "Hamesima X", "original_title": "Hamesima X", "slug_title": "hamesima-x", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3pGMnTdvJ3sA5igi9lEEzFbnJkN.jpg", "actors": ["Yuval Ovadia ()", "Shalom Sharon Raginiano ()", "Danny Steg ()"], "comments": [], "recommandations_id": []}

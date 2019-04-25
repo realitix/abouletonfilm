@@ -1,1 +1,0 @@
-{"tmdb_id": 241591, "title": "Cinderella", "original_title": "Cinderella", "slug_title": "cinderella", "date": "1996-01-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qMDcvUAiCQGDwvFWL37LBiNbTrS.jpg", "actors": [], "comments": [], "recommandations_id": []}

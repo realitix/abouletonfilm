@@ -1,1 +1,0 @@
-{"tmdb_id": 459820, "title": "The Scribe", "original_title": "The Scribe", "slug_title": "the-scribe", "date": "2017-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

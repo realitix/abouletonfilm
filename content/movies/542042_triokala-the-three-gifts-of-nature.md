@@ -1,1 +1,0 @@
-{"tmdb_id": 542042, "title": "Triokala: The Three Gifts of Nature", "original_title": "Triokala", "slug_title": "triokala-the-three-gifts-of-nature", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hM1LUAYmlg1pZ3IGcEgWZhd5hMm.jpg", "actors": [], "comments": [], "recommandations_id": []}

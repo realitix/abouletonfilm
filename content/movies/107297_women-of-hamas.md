@@ -1,1 +1,0 @@
-{"tmdb_id": 107297, "title": "Women of Hamas", "original_title": "Nashot ha'chamas", "slug_title": "women-of-hamas", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mfhaleNl46kTx9dJCQJ7jCuL5BG.jpg", "actors": [], "comments": [], "recommandations_id": []}

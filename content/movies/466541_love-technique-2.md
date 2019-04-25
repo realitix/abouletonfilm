@@ -1,1 +1,0 @@
-{"tmdb_id": 466541, "title": "Love Technique 2", "original_title": "Zoku ai no tekunikku ai no koi", "slug_title": "love-technique-2", "date": "1971-03-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uIBQu2m7G57LGyJYUSZ9GO7sl7o.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 182516, "title": "The Corners", "original_title": "The Corners", "slug_title": "the-corners", "date": "2010-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

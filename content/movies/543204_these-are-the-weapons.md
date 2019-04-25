@@ -1,1 +1,0 @@
-{"tmdb_id": 543204, "title": "These Are the Weapons", "original_title": "Estas s\u00e3o as armas", "slug_title": "these-are-the-weapons", "date": "1978-09-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 348873, "title": "Catch of the Day", "original_title": "Catch of the Day", "slug_title": "catch-of-the-day", "date": "1990-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

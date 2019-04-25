@@ -1,1 +1,0 @@
-{"tmdb_id": 71415, "title": "K1 Award & MAX Korea 2009", "original_title": "K1 Award & MAX Korea 2009", "slug_title": "k1-award-max-korea-2009", "date": "", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qtgKMI4XnbsC868RgzZnVStO0gh.jpg", "actors": [], "comments": [], "recommandations_id": []}

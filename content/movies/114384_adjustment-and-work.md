@@ -1,1 +1,0 @@
-{"tmdb_id": 114384, "title": "Adjustment and Work", "original_title": "Adjustment and Work", "slug_title": "adjustment-and-work", "date": "1986-12-03", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/liIj6pSsecObLyw2WHQrjWuwm5Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

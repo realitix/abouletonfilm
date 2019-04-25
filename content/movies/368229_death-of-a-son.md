@@ -1,1 +1,0 @@
-{"tmdb_id": 368229, "title": "Death of a son", "original_title": "Death of a son", "slug_title": "death-of-a-son", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

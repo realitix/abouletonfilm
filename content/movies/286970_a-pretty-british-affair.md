@@ -1,1 +1,0 @@
-{"tmdb_id": 286970, "title": "A Pretty British Affair", "original_title": "A Pretty British Affair", "slug_title": "a-pretty-british-affair", "date": "1981-08-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Powell (Interviewee)", "Emeric Pressburger (Interviewee)"], "comments": [], "recommandations_id": []}

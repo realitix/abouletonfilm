@@ -1,1 +1,0 @@
-{"tmdb_id": 171504, "title": "Dos Palmas!!", "original_title": "Dos Palmas!!", "slug_title": "dos-palmas", "date": "2013-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fbGsBpj2hacMAk9bQWSwDgBzN5n.jpg", "actors": ["Arnold Taraborrelli ()"], "comments": [], "recommandations_id": []}

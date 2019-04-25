@@ -1,1 +1,0 @@
-{"tmdb_id": 274427, "title": "Grip Video Volume 2", "original_title": "Grip Video Volume 2", "slug_title": "grip-video-volume-2", "date": "2003-08-19", "genre": "Action / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1gvvZoy2LELhBW6AnDz2RZYlBtI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 379229, "title": "Pink Pictures", "original_title": "Pink Pictures", "slug_title": "pink-pictures", "date": "1978-10-21", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2IMSHSdpfgGzaBRurcTFFN8s44.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 452934, "title": "Give us our skeletons!", "original_title": "Oaivveskaldjut", "slug_title": "give-us-our-skeletons", "date": "1999-03-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

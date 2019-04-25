@@ -1,1 +1,0 @@
-{"tmdb_id": 451382, "title": "Alfred's Max Keyboard Complete", "original_title": "Alfred's Max Keyboard Complete", "slug_title": "alfred-s-max-keyboard-complete", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uLJgF4Q46I0iUTo32TADuSrYxGS.jpg", "actors": [], "comments": [], "recommandations_id": []}

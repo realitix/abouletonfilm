@@ -1,1 +1,0 @@
-{"tmdb_id": 400265, "title": "Statera", "original_title": "Statera", "slug_title": "statera", "date": "2016-05-26", "genre": "Crime / Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/us5QrzQh8yPN6N69zKNa4lVmq9h.jpg", "actors": ["Paco Roma (Alejandro)", "Mario Mi\u00f1ano (Miguel)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 499268, "title": "After the Exhibition", "original_title": "After the Exhibition", "slug_title": "after-the-exhibition", "date": "2018-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

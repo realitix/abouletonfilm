@@ -1,1 +1,0 @@
-{"tmdb_id": 340305, "title": "De Applausman", "original_title": "De Applausman", "slug_title": "de-applausman", "date": "2014-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y3I64X5PKFBfKLDS97bMGgZ9PGw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 591182, "title": "Rhino dollars", "original_title": "Rhino dollars", "slug_title": "rhino-dollars", "date": "2018-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ubiNEIFlfJXVBSYQe4aLwbXzXtN.jpg", "actors": [], "comments": [], "recommandations_id": []}

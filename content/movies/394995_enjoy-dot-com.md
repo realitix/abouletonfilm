@@ -1,1 +1,0 @@
-{"tmdb_id": 394995, "title": "Enjoy Dot Com", "original_title": "\uc5d4\uc870\uc774\ub2f7\ucef4", "slug_title": "enjoy-dot-com", "date": "2016-04-28", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8qEyEpB7DqOtuwrGYmjiiAsnoVx.jpg", "actors": [], "comments": [], "recommandations_id": []}

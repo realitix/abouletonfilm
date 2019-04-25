@@ -1,1 +1,0 @@
-{"tmdb_id": 317528, "title": "Sir Georg Solti: Beethoven: Symphony No. 7", "original_title": "Sir Georg Solti: Beethoven: Symphony No. 7", "slug_title": "sir-georg-solti-beethoven-symphony-no-7", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

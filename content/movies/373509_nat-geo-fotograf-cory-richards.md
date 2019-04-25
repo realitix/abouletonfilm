@@ -1,1 +1,0 @@
-{"tmdb_id": 373509, "title": "Nat Geo Fotograf Cory Richards", "original_title": "Nat Geo Fotograf Cory Richards", "slug_title": "nat-geo-fotograf-cory-richards", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bz12mA5pWUzE5dnarDVYhnOfQmt.jpg", "actors": [], "comments": [], "recommandations_id": []}

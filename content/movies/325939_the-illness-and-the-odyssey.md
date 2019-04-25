@@ -1,1 +1,0 @@
-{"tmdb_id": 325939, "title": "The Illness and the Odyssey", "original_title": "The Illness and the Odyssey", "slug_title": "the-illness-and-the-odyssey", "date": "2013-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

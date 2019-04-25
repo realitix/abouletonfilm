@@ -1,1 +1,0 @@
-{"tmdb_id": 535823, "title": "The View Never Changes", "original_title": "The View Never Changes", "slug_title": "the-view-never-changes", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tRIBZFTuZaAZ20zEWJuQvay1rfv.jpg", "actors": [], "comments": [], "recommandations_id": []}

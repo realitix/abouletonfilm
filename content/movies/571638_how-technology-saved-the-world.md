@@ -1,1 +1,0 @@
-{"tmdb_id": 571638, "title": "How Technology Saved the World", "original_title": "How Technology Saved the World", "slug_title": "how-technology-saved-the-world", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

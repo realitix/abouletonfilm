@@ -1,1 +1,0 @@
-{"tmdb_id": 384466, "title": "\u60c5\u9396\u5fc3\u6a13", "original_title": "\u60c5\u9396\u5fc3\u6a13", "slug_title": "qing-suo-xin-lou", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chin Feng ()", "Ti Yu-niang ()"], "comments": [], "recommandations_id": []}

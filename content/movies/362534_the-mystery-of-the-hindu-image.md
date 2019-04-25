@@ -1,1 +1,0 @@
-{"tmdb_id": 362534, "title": "The Mystery of the Hindu Image", "original_title": "The Mystery of the Hindu Image", "slug_title": "the-mystery-of-the-hindu-image", "date": "1914-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 426671, "title": "Nova: Hurricane!", "original_title": "Nova: Hurricane!", "slug_title": "nova-hurricane", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

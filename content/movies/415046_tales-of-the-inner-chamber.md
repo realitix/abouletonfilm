@@ -1,1 +1,0 @@
-{"tmdb_id": 415046, "title": "Tales of the Inner Chamber", "original_title": "\u00d4-oku emaki", "slug_title": "tales-of-the-inner-chamber", "date": "1968-11-16", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gPbFw8PL3XAEpDZcEg6SLUdwAxr.jpg", "actors": [], "comments": [], "recommandations_id": []}

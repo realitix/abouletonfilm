@@ -1,1 +1,0 @@
-{"tmdb_id": 445209, "title": "De stad die nooit rust", "original_title": "De stad die nooit rust", "slug_title": "de-stad-die-nooit-rust", "date": "1928-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3wBFcd59wOGWFI8IS8Sos3s4sXe.jpg", "actors": [], "comments": [], "recommandations_id": []}

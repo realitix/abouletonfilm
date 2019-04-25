@@ -1,1 +1,0 @@
-{"tmdb_id": 310878, "title": "Argent: Inside Argent", "original_title": "Argent: Inside Argent", "slug_title": "argent-inside-argent", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

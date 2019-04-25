@@ -1,1 +1,0 @@
-{"tmdb_id": 397483, "title": "Still Life", "original_title": "Still Life", "slug_title": "still-life", "date": "2015-10-01", "genre": "Romance / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kmWhcy8fPtD7Pqu3xDaW8Y0MLiv.jpg", "actors": ["Scott Hamm (Peter)"], "comments": [], "recommandations_id": []}

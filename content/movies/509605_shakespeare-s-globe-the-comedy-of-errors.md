@@ -1,1 +1,0 @@
-{"tmdb_id": 509605, "title": "Shakespeare's Globe: The Comedy of Errors", "original_title": "Shakespeare's Globe: The Comedy of Errors", "slug_title": "shakespeare-s-globe-the-comedy-of-errors", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

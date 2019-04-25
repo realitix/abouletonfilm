@@ -1,1 +1,0 @@
-{"tmdb_id": 412371, "title": "Passage", "original_title": "Passage", "slug_title": "passage", "date": "2008-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

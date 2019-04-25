@@ -1,1 +1,0 @@
-{"tmdb_id": 316198, "title": "Spanish Harlem", "original_title": "Spanish Harlem", "slug_title": "spanish-harlem", "date": "2008-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

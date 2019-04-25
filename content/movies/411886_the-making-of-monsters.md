@@ -1,1 +1,0 @@
-{"tmdb_id": 411886, "title": "The Making of Monsters", "original_title": "The Making of Monsters", "slug_title": "the-making-of-monsters", "date": "1991-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zgenzvJ09QuRaduURuBuQzmM4jy.jpg", "actors": ["Christopher Anderson ()"], "comments": [], "recommandations_id": []}

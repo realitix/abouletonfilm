@@ -1,1 +1,0 @@
-{"tmdb_id": 308513, "title": "Bryce Canyon and Zion National Parks", "original_title": "Bryce Canyon and Zion National Parks", "slug_title": "bryce-canyon-and-zion-national-parks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

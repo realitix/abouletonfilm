@@ -1,1 +1,0 @@
-{"tmdb_id": 537980, "title": "Digital Afterlives", "original_title": "Digital Afterlives", "slug_title": "digital-afterlives", "date": "2018-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 310000, "title": "Buffy Sainte-Marie: Up Where We Belong", "original_title": "Buffy Sainte-Marie: Up Where We Belong", "slug_title": "buffy-sainte-marie-up-where-we-belong", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

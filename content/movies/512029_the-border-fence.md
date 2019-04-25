@@ -1,1 +1,0 @@
-{"tmdb_id": 512029, "title": "The Border Fence", "original_title": "Die bauliche Ma\u00dfnahme", "slug_title": "the-border-fence", "date": "2018-09-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bIMMVHfU4eRiqR2TipxFF7dKORM.jpg", "actors": [], "comments": [], "recommandations_id": []}

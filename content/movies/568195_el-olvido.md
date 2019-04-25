@@ -1,1 +1,0 @@
-{"tmdb_id": 568195, "title": "El olvido", "original_title": "El olvido", "slug_title": "el-olvido", "date": "", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

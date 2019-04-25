@@ -1,1 +1,0 @@
-{"tmdb_id": 369467, "title": "SYNTHESIS: NASA DATA VISUALIZATIONS", "original_title": "SYNTHESIS: NASA DATA VISUALIZATIONS", "slug_title": "synthesis-nasa-data-visualizations", "date": "2015-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

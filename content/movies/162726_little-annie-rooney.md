@@ -1,1 +1,0 @@
-{"tmdb_id": 162726, "title": "Little Annie Rooney", "original_title": "Little Annie Rooney", "slug_title": "little-annie-rooney", "date": "1931-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 245755, "title": "Hue: A Matter of Colour", "original_title": "Hue: A Matter of Colour", "slug_title": "hue-a-matter-of-colour", "date": "2013-09-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cDp1tcBhY6TUpbfLsQLGlw7Etmm.jpg", "actors": [], "comments": [], "recommandations_id": []}

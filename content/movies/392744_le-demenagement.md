@@ -1,1 +1,0 @@
-{"tmdb_id": 392744, "title": "Le D\u00e9m\u00e9nagement", "original_title": "Le D\u00e9m\u00e9nagement", "slug_title": "le-demenagement", "date": "1993-03-30", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sami Frey (Un homme emm\u00e9nage)"], "comments": [], "recommandations_id": []}

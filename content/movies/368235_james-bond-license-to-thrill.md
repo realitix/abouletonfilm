@@ -1,1 +1,0 @@
-{"tmdb_id": 368235, "title": "James Bond: License to Thrill", "original_title": "James Bond: License to Thrill", "slug_title": "james-bond-license-to-thrill", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

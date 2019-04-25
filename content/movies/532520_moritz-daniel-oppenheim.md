@@ -1,1 +1,0 @@
-{"tmdb_id": 532520, "title": "Moritz Daniel Oppenheim", "original_title": "Moritz Daniel Oppenheim", "slug_title": "moritz-daniel-oppenheim", "date": "2016-12-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sPlbI7fGnPWoQANnqxffJA2T3N9.jpg", "actors": [], "comments": [], "recommandations_id": []}

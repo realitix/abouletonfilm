@@ -1,1 +1,0 @@
-{"tmdb_id": 573872, "title": "Islander", "original_title": "Islander", "slug_title": "islander", "date": "2018-08-08", "genre": "Musique / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kKjfliqnkLAJ50thVd2fwUWuLNk.jpg", "actors": ["Derek Pedr\u00f3s ()"], "comments": [], "recommandations_id": []}

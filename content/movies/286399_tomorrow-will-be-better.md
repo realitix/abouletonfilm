@@ -1,1 +1,0 @@
-{"tmdb_id": 286399, "title": "Tomorrow Will Be Better", "original_title": "Tomorrow Will Be Better", "slug_title": "tomorrow-will-be-better", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 538580, "title": "Les 3 tambours", "original_title": "Les 3 tambours", "slug_title": "les-3-tambours", "date": "1939-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e4DE7S0avR9v6l3RPqT2MEv5sA4.jpg", "actors": [], "comments": [], "recommandations_id": []}

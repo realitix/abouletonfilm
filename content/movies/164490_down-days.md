@@ -1,1 +1,0 @@
-{"tmdb_id": 164490, "title": "Down Days", "original_title": "Down Days", "slug_title": "down-days", "date": "2008-10-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/479PryYDSYhb6y0dprPwJ474CFi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 538543, "title": "The Woman of Monte Carlo", "original_title": "La signora di Montecarlo", "slug_title": "the-woman-of-monte-carlo", "date": "1938-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i3H7Ln58nalGUqHF7WJuEs7ywFr.jpg", "actors": [], "comments": [], "recommandations_id": []}

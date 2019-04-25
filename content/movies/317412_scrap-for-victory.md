@@ -1,1 +1,0 @@
-{"tmdb_id": 317412, "title": "Scrap for Victory", "original_title": "Scrap for Victory", "slug_title": "scrap-for-victory", "date": "1943-01-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iRtMrrSgtw3RaoJHE5y7IIDT30o.jpg", "actors": [], "comments": [], "recommandations_id": []}

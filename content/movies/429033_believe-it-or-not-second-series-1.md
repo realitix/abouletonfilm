@@ -1,1 +1,0 @@
-{"tmdb_id": 429033, "title": "Believe It or Not (Second Series) #1", "original_title": "Believe It or Not (Second Series) #1", "slug_title": "believe-it-or-not-second-series-1", "date": "1931-10-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert L. Ripley (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 270017, "title": "\uace0\uc9c4\uac10\ub798", "original_title": "\uace0\uc9c4\uac10\ub798", "slug_title": "gojingamrae", "date": "2014-02-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4DTVf9cfUmm1HHTEKF9509LKFMj.jpg", "actors": [], "comments": [], "recommandations_id": []}

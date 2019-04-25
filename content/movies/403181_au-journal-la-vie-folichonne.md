@@ -1,1 +1,0 @@
-{"tmdb_id": 403181, "title": "Au journal La Vie folichonne", "original_title": "Au journal La Vie folichonne", "slug_title": "au-journal-la-vie-folichonne", "date": "1936-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

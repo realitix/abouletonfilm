@@ -1,1 +1,0 @@
-{"tmdb_id": 556424, "title": "La grande passion", "original_title": "La grande passion", "slug_title": "la-grande-passion", "date": "1928-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

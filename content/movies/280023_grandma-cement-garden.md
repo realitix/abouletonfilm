@@ -1,1 +1,0 @@
-{"tmdb_id": 280023, "title": "Grandma - Cement Garden", "original_title": "\ud560\ub9e4 - \uc2dc\uba58\ud2b8\uc815\uc6d0", "slug_title": "grandma-cement-garden", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

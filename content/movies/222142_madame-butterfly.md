@@ -1,1 +1,0 @@
-{"tmdb_id": 222142, "title": "Madame Butterfly", "original_title": "Hu die fu ren", "slug_title": "madame-butterfly", "date": "2009-07-10", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rrnO20DabzeJ33qITqFLhBcuFUR.jpg", "actors": ["Pearlly Chua ()"], "comments": [], "recommandations_id": []}

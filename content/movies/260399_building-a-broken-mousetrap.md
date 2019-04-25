@@ -1,1 +1,0 @@
-{"tmdb_id": 260399, "title": "Building a Broken Mousetrap", "original_title": "Building a Broken Mousetrap", "slug_title": "building-a-broken-mousetrap", "date": "2006-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7iJ2H5rNWfX4GM2hUivEbyU0fve.jpg", "actors": [], "comments": [], "recommandations_id": []}

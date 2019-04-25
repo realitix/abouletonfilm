@@ -1,1 +1,0 @@
-{"tmdb_id": 273462, "title": "Accidental Accidents", "original_title": "Accidental Accidents", "slug_title": "accidental-accidents", "date": "1924-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charley Chase (Jimmy Jump)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 298810, "title": "Operation Rock the Troops", "original_title": "Operation Rock the Troops", "slug_title": "operation-rock-the-troops", "date": "2013-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

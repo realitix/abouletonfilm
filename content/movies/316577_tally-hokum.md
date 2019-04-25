@@ -1,1 +1,0 @@
-{"tmdb_id": 316577, "title": "Tally Hokum", "original_title": "Tally Hokum", "slug_title": "tally-hokum", "date": "1965-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

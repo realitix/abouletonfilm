@@ -1,1 +1,0 @@
-{"tmdb_id": 369954, "title": "Ginepro Fatto Uomo", "original_title": "Ginepro Fatto Uomo", "slug_title": "ginepro-fatto-uomo", "date": "1962-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6kesV5JapcrT3RBAN7YEzxpOd5W.jpg", "actors": [], "comments": [], "recommandations_id": []}

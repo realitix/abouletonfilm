@@ -1,1 +1,0 @@
-{"tmdb_id": 321395, "title": "Ways of Kung Fu", "original_title": "Ways of Kung Fu", "slug_title": "ways-of-kung-fu", "date": "1978-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jaDKTmyeVvn9uXdG1QL5386f4Gc.jpg", "actors": [], "comments": [], "recommandations_id": []}

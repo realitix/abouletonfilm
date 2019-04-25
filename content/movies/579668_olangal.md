@@ -1,1 +1,0 @@
-{"tmdb_id": 579668, "title": "Olangal", "original_title": "Olangal", "slug_title": "olangal", "date": "1982-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vM3Dhc8Q5I4KJVtPc3JyWcGmxFq.jpg", "actors": ["Amol Palekar ()", "Poornima Bhagyaraj ()"], "comments": [], "recommandations_id": []}

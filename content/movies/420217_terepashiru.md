@@ -1,1 +1,0 @@
-{"tmdb_id": 420217, "title": "Terepashiru", "original_title": "\u30c6\u30ec\u30d1\u30b7\u30eb", "slug_title": "terepashiru", "date": "", "genre": "Animation / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hoOqShbkL2LVCe7is03Ufizp7VE.jpg", "actors": [], "comments": [], "recommandations_id": []}

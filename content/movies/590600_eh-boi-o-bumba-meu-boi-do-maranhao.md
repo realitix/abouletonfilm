@@ -1,1 +1,0 @@
-{"tmdb_id": 590600, "title": "Eh! Boi: O Bumba-Meu-Boi do Maranh\u00e3o", "original_title": "Eh! Boi: O Bumba-Meu-Boi do Maranh\u00e3o", "slug_title": "eh-boi-o-bumba-meu-boi-do-maranhao", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

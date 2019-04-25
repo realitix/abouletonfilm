@@ -1,1 +1,0 @@
-{"tmdb_id": 175725, "title": "Skylarking", "original_title": "Skylarking", "slug_title": "skylarking", "date": "1923-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vfEscY6c8sW8dHTeXuBnrS14k9h.jpg", "actors": [], "comments": [], "recommandations_id": []}

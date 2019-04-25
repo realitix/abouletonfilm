@@ -1,1 +1,0 @@
-{"tmdb_id": 333789, "title": "The Fall of '57", "original_title": "Soghoot-e 57", "slug_title": "the-fall-of-57", "date": "1979-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 311711, "title": "Happy You're Alive", "original_title": "Happy You're Alive", "slug_title": "happy-you-re-alive", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

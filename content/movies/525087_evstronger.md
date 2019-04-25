@@ -1,1 +1,0 @@
-{"tmdb_id": 525087, "title": "Evstr\u00f6nger", "original_title": "Evstr\u00f6nger", "slug_title": "evstronger", "date": "2018-10-27", "genre": "Horreur / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gHzcNpLf3BQyX0uGrU3uKu4Qfj0.jpg", "actors": [], "comments": [], "recommandations_id": []}

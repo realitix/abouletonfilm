@@ -1,1 +1,0 @@
-{"tmdb_id": 192894, "title": "Bullethead", "original_title": "Bullethead", "slug_title": "bullethead", "date": "2002-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xytI1GaICnC973As6Tw2SicI4Hi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 214376, "title": "Sexteens", "original_title": "Sexteens", "slug_title": "sexteens", "date": "2006-04-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9yaOfMOo2UV5VWnu90TssINiFF4.jpg", "actors": ["Silvina Cornillon (Voice)", "Juan Pablo Zaramella (Voice)"], "comments": [], "recommandations_id": []}

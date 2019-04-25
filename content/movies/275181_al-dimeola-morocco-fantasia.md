@@ -1,1 +1,0 @@
-{"tmdb_id": 275181, "title": "Al DiMeola - Morocco Fantasia", "original_title": "Al DiMeola - Morocco Fantasia", "slug_title": "al-dimeola-morocco-fantasia", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

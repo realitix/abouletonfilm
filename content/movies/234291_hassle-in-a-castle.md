@@ -1,1 +1,0 @@
-{"tmdb_id": 234291, "title": "Hassle in a Castle", "original_title": "Hassle in a Castle", "slug_title": "hassle-in-a-castle", "date": "1966-03-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x6nc6toVBFbmXIcXjUxQvXUikIW.jpg", "actors": [], "comments": [], "recommandations_id": []}

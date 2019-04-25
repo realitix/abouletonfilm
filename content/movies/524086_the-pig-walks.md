@@ -1,1 +1,0 @@
-{"tmdb_id": 524086, "title": "The Pig Walks", "original_title": "The Pig Walks", "slug_title": "the-pig-walks", "date": "2002-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5brY3fRjWDuD1YuFbAVIbvdQWDl.jpg", "actors": [], "comments": [], "recommandations_id": []}

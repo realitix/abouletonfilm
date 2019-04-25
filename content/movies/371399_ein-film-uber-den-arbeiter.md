@@ -1,1 +1,0 @@
-{"tmdb_id": 371399, "title": "Ein Film \u00fcber den Arbeiter", "original_title": "Ein Film \u00fcber den Arbeiter", "slug_title": "ein-film-uber-den-arbeiter", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

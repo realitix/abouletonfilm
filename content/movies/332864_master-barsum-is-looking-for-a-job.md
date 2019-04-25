@@ -1,1 +1,0 @@
-{"tmdb_id": 332864, "title": "Master Barsum is Looking for a Job", "original_title": "al-Mu'alim Barsum Yabhath 'An Wazifa", "slug_title": "master-barsum-is-looking-for-a-job", "date": "1923-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

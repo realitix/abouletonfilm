@@ -1,1 +1,0 @@
-{"tmdb_id": 283914, "title": "UFO Rockpalast 2010", "original_title": "UFO Rockpalast 2010", "slug_title": "ufo-rockpalast-2010", "date": "1980-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yqlPmhArrzjjwVT4mflxaHNTN7N.jpg", "actors": [], "comments": [], "recommandations_id": []}

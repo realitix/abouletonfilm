@@ -1,1 +1,0 @@
-{"tmdb_id": 401266, "title": "What Have You Done to Solange?", "original_title": "What Have You Done to Solange?", "slug_title": "what-have-you-done-to-solange", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

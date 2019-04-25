@@ -1,1 +1,0 @@
-{"tmdb_id": 390017, "title": "A Girl's Tears", "original_title": "O lacrima de fata", "slug_title": "a-girl-s-tears", "date": "1980-03-26", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4FZIqmakCIpbCTBn9xtxdYNZ52q.jpg", "actors": [], "comments": [], "recommandations_id": []}

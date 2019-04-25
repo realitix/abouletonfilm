@@ -1,1 +1,0 @@
-{"tmdb_id": 532824, "title": "La Suora Giovane", "original_title": "La Suora Giovane", "slug_title": "la-suora-giovane", "date": "1965-02-19", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ksZBzb2bgLvRKMkuaUAcPx6zH5.jpg", "actors": ["Laura Efrikian (Serena)"], "comments": [], "recommandations_id": []}

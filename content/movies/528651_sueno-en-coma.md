@@ -1,1 +1,0 @@
-{"tmdb_id": 528651, "title": "Sue\u00f1o en coma", "original_title": "Sue\u00f1o en coma", "slug_title": "sueno-en-coma", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pablo Azar (Pablo)", "Paloma Quezada (Rosa)"], "comments": [], "recommandations_id": []}

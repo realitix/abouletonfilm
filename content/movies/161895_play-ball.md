@@ -1,1 +1,0 @@
-{"tmdb_id": 161895, "title": "Play Ball", "original_title": "Play Ball", "slug_title": "play-ball", "date": "1933-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

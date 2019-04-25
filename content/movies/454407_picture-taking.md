@@ -1,1 +1,0 @@
-{"tmdb_id": 454407, "title": "Picture Taking", "original_title": "Picture Taking", "slug_title": "picture-taking", "date": "2010-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ewm72hOSeETsLbRACOkipGhAVyj.jpg", "actors": [], "comments": [], "recommandations_id": []}

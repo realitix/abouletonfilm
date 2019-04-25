@@ -1,1 +1,0 @@
-{"tmdb_id": 556726, "title": "Le joker", "original_title": "Le joker", "slug_title": "le-joker", "date": "1930-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

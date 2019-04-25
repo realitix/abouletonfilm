@@ -1,1 +1,0 @@
-{"tmdb_id": 195887, "title": "Everton v Liverpool", "original_title": "Everton v Liverpool", "slug_title": "everton-v-liverpool", "date": "1902-05-22", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

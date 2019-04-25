@@ -1,1 +1,0 @@
-{"tmdb_id": 299660, "title": "Ditty Dot Comma", "original_title": "Ditty Dot Comma", "slug_title": "ditty-dot-comma", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i5wkAhvnHIQEMO9wxbIP5O1pTE8.jpg", "actors": [], "comments": [], "recommandations_id": []}

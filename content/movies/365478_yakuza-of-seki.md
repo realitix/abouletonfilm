@@ -1,1 +1,0 @@
-{"tmdb_id": 365478, "title": "Yakuza of Seki", "original_title": "\u95a2\u306e\u5f25\u592a\u3063\u307a", "slug_title": "yakuza-of-seki", "date": "1963-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5BCY9wiqBnnzVJrFKVMfwwRwj8G.jpg", "actors": [], "comments": [], "recommandations_id": []}

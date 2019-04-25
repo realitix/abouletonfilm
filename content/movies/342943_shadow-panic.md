@@ -1,1 +1,0 @@
-{"tmdb_id": 342943, "title": "Shadow Panic", "original_title": "Shadow Panic", "slug_title": "shadow-panic", "date": "1989-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4TTL2AhDcfBo51Cacfps7DrVELL.jpg", "actors": [], "comments": [], "recommandations_id": []}

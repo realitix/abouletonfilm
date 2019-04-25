@@ -1,1 +1,0 @@
-{"tmdb_id": 470240, "title": "Shadowland", "original_title": "Shadowland", "slug_title": "shadowland", "date": "2017-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 565812, "title": "22 Minute Hard Corps: Cold Start", "original_title": "22 Minute Hard Corps: Cold Start", "slug_title": "22-minute-hard-corps-cold-start", "date": "2016-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tony Horton ()"], "comments": [], "recommandations_id": []}

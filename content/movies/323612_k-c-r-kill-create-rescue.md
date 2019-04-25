@@ -1,1 +1,0 @@
-{"tmdb_id": 323612, "title": "K.C.R: Kill Create Rescue", "original_title": "K.C.R: Kill Create Rescue", "slug_title": "k-c-r-kill-create-rescue", "date": "2015-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

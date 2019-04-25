@@ -1,1 +1,0 @@
-{"tmdb_id": 383203, "title": "Ivan Runs Some Errands, Runs Amok", "original_title": "Ivan Runs Some Errands, Runs Amok", "slug_title": "ivan-runs-some-errands-runs-amok", "date": "2004-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ivan Dimitrov (Ivan)", "Thomas Mustache (Child)"], "comments": [], "recommandations_id": []}

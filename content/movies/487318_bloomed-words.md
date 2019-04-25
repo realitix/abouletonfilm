@@ -1,1 +1,0 @@
-{"tmdb_id": 487318, "title": "Bloomed Words", "original_title": "\u304a\u306f\u306a\u3057\u306e\u82b1", "slug_title": "bloomed-words", "date": "2007-03-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

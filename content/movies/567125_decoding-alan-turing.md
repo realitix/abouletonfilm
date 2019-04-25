@@ -1,1 +1,0 @@
-{"tmdb_id": 567125, "title": "Decoding Alan Turing", "original_title": "Decoding Alan Turing", "slug_title": "decoding-alan-turing", "date": "2009-06-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

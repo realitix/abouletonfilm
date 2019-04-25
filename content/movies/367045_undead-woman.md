@@ -1,1 +1,0 @@
-{"tmdb_id": 367045, "title": "Undead Woman", "original_title": "Undead Woman", "slug_title": "undead-woman", "date": "2015-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fXlNr8U2LQCWCMxLUQAzP5sXYVB.jpg", "actors": [], "comments": [], "recommandations_id": []}

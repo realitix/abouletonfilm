@@ -1,1 +1,0 @@
-{"tmdb_id": 498785, "title": "S\u00e9 Square", "original_title": "Pra\u00e7a da S\u00e9", "slug_title": "se-square", "date": "1974-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

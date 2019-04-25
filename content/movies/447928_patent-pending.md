@@ -1,1 +1,0 @@
-{"tmdb_id": 447928, "title": "Patent Pending", "original_title": "Patent Pending", "slug_title": "patent-pending", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

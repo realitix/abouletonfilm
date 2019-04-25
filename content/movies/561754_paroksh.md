@@ -1,1 +1,0 @@
-{"tmdb_id": 561754, "title": "Paroksh", "original_title": "Paroksh", "slug_title": "paroksh", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wAHrk7o0SW0VCEzrNZ7YHfM2df1.jpg", "actors": [], "comments": [], "recommandations_id": []}

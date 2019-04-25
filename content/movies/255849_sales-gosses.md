@@ -1,1 +1,0 @@
-{"tmdb_id": 255849, "title": "Sales Gosses", "original_title": "Sales Gosses", "slug_title": "sales-gosses", "date": "2013-05-23", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/atHI8NvAHdRD6GHZc66D80n5QMB.jpg", "actors": [], "comments": [], "recommandations_id": []}

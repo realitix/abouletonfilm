@@ -1,1 +1,0 @@
-{"tmdb_id": 272616, "title": "Journey Around My Room", "original_title": "Voyage autour de ma chambre", "slug_title": "journey-around-my-room", "date": "2008-02-05", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bJ5ordS0Njt3bfHk0nlvFmuwsOv.jpg", "actors": [], "comments": [], "recommandations_id": []}

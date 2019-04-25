@@ -1,1 +1,0 @@
-{"tmdb_id": 443204, "title": "Die englische Krankheit", "original_title": "Die englische Krankheit", "slug_title": "die-englische-krankheit", "date": "1941-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

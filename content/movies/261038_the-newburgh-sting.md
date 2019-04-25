@@ -1,1 +1,0 @@
-{"tmdb_id": 261038, "title": "The Newburgh Sting", "original_title": "The Newburgh Sting", "slug_title": "the-newburgh-sting", "date": "2014-04-20", "genre": "Documentaire", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g1OAYo8MVz08NquqdLYDJM0qP3C.jpg", "actors": [], "comments": [], "recommandations_id": []}

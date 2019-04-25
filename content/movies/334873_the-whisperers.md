@@ -1,1 +1,0 @@
-{"tmdb_id": 334873, "title": "The Whisperers", "original_title": "The Whisperers", "slug_title": "the-whisperers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vMl9MlfAEoZ6ssxvjKJJlfaCGTf.jpg", "actors": [], "comments": [], "recommandations_id": []}

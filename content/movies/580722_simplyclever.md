@@ -1,1 +1,0 @@
-{"tmdb_id": 580722, "title": "SIMPLYclever", "original_title": "SIMPLYclever", "slug_title": "simplyclever", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Franz M\u00fcller (Acting, Directing)", "Johannes K\u00fcrschner (Acting, Directing)"], "comments": [], "recommandations_id": []}

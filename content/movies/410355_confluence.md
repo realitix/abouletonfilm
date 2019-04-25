@@ -1,1 +1,0 @@
-{"tmdb_id": 410355, "title": "Confluence", "original_title": "Confluence", "slug_title": "confluence", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wgs5q6wNwiks8ZLsolAZ57XVtbw.jpg", "actors": [], "comments": [], "recommandations_id": []}

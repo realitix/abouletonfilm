@@ -1,1 +1,0 @@
-{"tmdb_id": 505327, "title": "Devil Wears a Suit", "original_title": "Devil Wears a Suit", "slug_title": "devil-wears-a-suit", "date": "2017-06-19", "genre": "Drame / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zxaohBrz3yuW5KROajX79SN9hsZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

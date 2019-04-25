@@ -1,1 +1,0 @@
-{"tmdb_id": 545605, "title": "Twenty-Two Hours", "original_title": "Twenty-Two Hours", "slug_title": "twenty-two-hours", "date": "2018-10-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Quiana Pontes ()", "Vanessa Silva ()", "Douglas Miranda ()"], "comments": [], "recommandations_id": []}

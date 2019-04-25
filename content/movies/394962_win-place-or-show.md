@@ -1,1 +1,0 @@
-{"tmdb_id": 394962, "title": "Win, Place, Or Show", "original_title": "Win, Place, Or Show", "slug_title": "win-place-or-show", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter LaCroix (Man 1)", "Barry W. Levy (Man 2)"], "comments": [], "recommandations_id": []}

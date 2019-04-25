@@ -1,1 +1,0 @@
-{"tmdb_id": 434907, "title": "Naked Hours", "original_title": "Goli sati", "slug_title": "naked-hours", "date": "2011-04-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2qGM5KZyzX29BoLuds0xHDxh3PS.jpg", "actors": ["Neven Aljinovi\u0107-Tot ()", "Ljubo Pauzin ()"], "comments": [], "recommandations_id": []}

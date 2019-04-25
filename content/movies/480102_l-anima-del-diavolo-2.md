@@ -1,1 +1,0 @@
-{"tmdb_id": 480102, "title": "L'Anima del Diavolo 2", "original_title": "L'Anima del Diavolo 2", "slug_title": "l-anima-del-diavolo-2", "date": "", "genre": "Fantastique / Horreur", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

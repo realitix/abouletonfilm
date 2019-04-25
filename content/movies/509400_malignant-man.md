@@ -1,1 +1,0 @@
-{"tmdb_id": 509400, "title": "Malignant Man", "original_title": "Malignant Man", "slug_title": "malignant-man", "date": "", "genre": "Horreur", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aeX4yzn286lA9ZFFxJ0rDeRdzjJ.jpg", "actors": [], "comments": [], "recommandations_id": [460465, 155129, 453399, 460458]}

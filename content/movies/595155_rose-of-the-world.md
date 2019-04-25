@@ -1,1 +1,0 @@
-{"tmdb_id": 595155, "title": "Rose of the World", "original_title": "Rose of the World", "slug_title": "rose-of-the-world", "date": "1925-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qFz9blhdWBWNx2JxqVRATsfV93N.jpg", "actors": [], "comments": [], "recommandations_id": []}

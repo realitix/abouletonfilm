@@ -1,1 +1,0 @@
-{"tmdb_id": 332633, "title": "CM Punk: Second City Saint", "original_title": "CM Punk: Second City Saint", "slug_title": "cm-punk-second-city-saint", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7yrcNGYRWJiNiFrKgltXe7PUNCX.jpg", "actors": [], "comments": [], "recommandations_id": []}

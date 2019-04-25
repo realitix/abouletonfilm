@@ -1,1 +1,0 @@
-{"tmdb_id": 270827, "title": "Jacqueline Kennedy's Asian Journey", "original_title": "Jacqueline Kennedy's Asian Journey", "slug_title": "jacqueline-kennedy-s-asian-journey", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

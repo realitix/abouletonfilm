@@ -1,1 +1,0 @@
-{"tmdb_id": 139230, "title": "The Return of the War Room", "original_title": "The Return of the War Room", "slug_title": "the-return-of-the-war-room", "date": "2008-10-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

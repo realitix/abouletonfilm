@@ -1,1 +1,0 @@
-{"tmdb_id": 294545, "title": "Rude Dude", "original_title": "Rude Dude", "slug_title": "rude-dude", "date": "2012-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c6QhJJfnCpjq2MUlwgGel1NqyXF.jpg", "actors": [], "comments": [], "recommandations_id": []}

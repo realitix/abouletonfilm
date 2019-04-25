@@ -1,1 +1,0 @@
-{"tmdb_id": 413941, "title": "The Visual Bible: The Book of Act", "original_title": "The Visual Bible: The Book of Act", "slug_title": "the-visual-bible-the-book-of-act", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

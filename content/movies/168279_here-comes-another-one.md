@@ -1,1 +1,0 @@
-{"tmdb_id": 168279, "title": "Here comes another one", "original_title": "Ha-Meticha Ha'Gdola", "slug_title": "here-comes-another-one", "date": "1984-07-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ro5eUpIAnwqJyvHvwb31jPURi7M.jpg", "actors": [], "comments": [], "recommandations_id": []}

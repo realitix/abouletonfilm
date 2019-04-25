@@ -1,1 +1,0 @@
-{"tmdb_id": 48510, "title": "The Chain", "original_title": "The Chain", "slug_title": "the-chain", "date": "1997-01-01", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cXiSvYe0vReaMxX70t3PTRtGive.jpg", "actors": [], "comments": [], "recommandations_id": []}

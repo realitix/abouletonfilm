@@ -1,1 +1,0 @@
-{"tmdb_id": 501335, "title": "The Big City", "original_title": "The Big City", "slug_title": "the-big-city", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ja9ElZBgrrNjSt12w67mXIEawEp.jpg", "actors": [], "comments": [], "recommandations_id": []}

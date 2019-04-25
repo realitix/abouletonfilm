@@ -1,1 +1,0 @@
-{"tmdb_id": 516571, "title": "Luchakali", "original_title": "Luchakali", "slug_title": "luchakali", "date": "2012-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

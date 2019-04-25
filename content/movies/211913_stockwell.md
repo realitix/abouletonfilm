@@ -1,1 +1,0 @@
-{"tmdb_id": 211913, "title": "Stockwell", "original_title": "Stockwell", "slug_title": "stockwell", "date": "2009-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

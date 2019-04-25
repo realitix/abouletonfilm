@@ -1,1 +1,0 @@
-{"tmdb_id": 243419, "title": "Youngstown Boys", "original_title": "Youngstown Boys", "slug_title": "youngstown-boys", "date": "2013-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Yax1tM7mZWqyjiqe7namz93y8y.jpg", "actors": ["Jim Tressel ()", "Maurice Clarett ()"], "comments": [], "recommandations_id": []}

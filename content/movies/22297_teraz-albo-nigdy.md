@@ -1,1 +1,0 @@
-{"tmdb_id": 22297, "title": "Teraz albo nigdy!", "original_title": "Teraz albo nigdy!", "slug_title": "teraz-albo-nigdy", "date": "2008-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

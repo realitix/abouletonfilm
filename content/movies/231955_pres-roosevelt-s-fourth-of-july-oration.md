@@ -1,1 +1,0 @@
-{"tmdb_id": 231955, "title": "Pres. Roosevelt's Fourth of July Oration", "original_title": "Pres. Roosevelt's Fourth of July Oration", "slug_title": "pres-roosevelt-s-fourth-of-july-oration", "date": "1903-07-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

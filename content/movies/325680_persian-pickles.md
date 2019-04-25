@@ -1,1 +1,0 @@
-{"tmdb_id": 325680, "title": "Persian Pickles", "original_title": "Persian Pickles", "slug_title": "persian-pickles", "date": "2012-01-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ri3DAPfAbSpkw63LVzkEqqFnJE.jpg", "actors": [], "comments": [], "recommandations_id": []}

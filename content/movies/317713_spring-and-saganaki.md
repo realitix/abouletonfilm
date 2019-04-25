@@ -1,1 +1,0 @@
-{"tmdb_id": 317713, "title": "Spring and Saganaki", "original_title": "Spring and Saganaki", "slug_title": "spring-and-saganaki", "date": "1958-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/69tcvTbZ9bYOIs1nQWASTn8XSfz.jpg", "actors": [], "comments": [], "recommandations_id": []}

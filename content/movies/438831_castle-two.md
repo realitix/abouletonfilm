@@ -1,1 +1,0 @@
-{"tmdb_id": 438831, "title": "Castle Two", "original_title": "Castle Two", "slug_title": "castle-two", "date": "1968-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

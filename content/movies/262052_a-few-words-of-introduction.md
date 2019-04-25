@@ -1,1 +1,0 @@
-{"tmdb_id": 262052, "title": "A Few Words of Introduction", "original_title": "\u00davodn\u00ed slovo pronese", "slug_title": "a-few-words-of-introduction", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

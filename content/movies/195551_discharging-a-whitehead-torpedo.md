@@ -1,1 +1,0 @@
-{"tmdb_id": 195551, "title": "Discharging a Whitehead Torpedo", "original_title": "Discharging a Whitehead Torpedo", "slug_title": "discharging-a-whitehead-torpedo", "date": "1900-05-21", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 511500, "title": "A Monster's Calling", "original_title": "A Monster's Calling", "slug_title": "a-monster-s-calling", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

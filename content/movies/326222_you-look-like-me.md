@@ -1,1 +1,0 @@
-{"tmdb_id": 326222, "title": "You Look Like Me", "original_title": "Tu ressembles \u00e0 moi", "slug_title": "you-look-like-me", "date": "2014-10-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/llmwr7bWsvj4uWwZ4McLPJVPJS1.jpg", "actors": [], "comments": [], "recommandations_id": []}

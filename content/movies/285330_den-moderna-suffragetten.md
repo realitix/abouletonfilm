@@ -1,1 +1,0 @@
-{"tmdb_id": 285330, "title": "Den moderna suffragetten", "original_title": "Den moderna suffragetten", "slug_title": "den-moderna-suffragetten", "date": "1913-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lili Ziedner ()", "Stina Berg ()", "William Larsson ()"], "comments": [], "recommandations_id": []}

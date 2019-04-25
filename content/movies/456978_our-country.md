@@ -1,1 +1,0 @@
-{"tmdb_id": 456978, "title": "Our Country", "original_title": "Our Country", "slug_title": "our-country", "date": "2003-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

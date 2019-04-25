@@ -1,1 +1,0 @@
-{"tmdb_id": 568422, "title": "The Typewriter", "original_title": "The Typewriter", "slug_title": "the-typewriter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Un homme \u00e9crit sur sa machine et pense \u00e0 de nouvelles id\u00e9es.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

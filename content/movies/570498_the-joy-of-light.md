@@ -1,1 +1,0 @@
-{"tmdb_id": 570498, "title": "The Joy of Light", "original_title": "A f\u00e9ny \u00f6r\u00f6me", "slug_title": "the-joy-of-light", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

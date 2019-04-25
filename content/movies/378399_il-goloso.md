@@ -1,1 +1,0 @@
-{"tmdb_id": 378399, "title": "Il goloso", "original_title": "Il goloso", "slug_title": "il-goloso", "date": "2008-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

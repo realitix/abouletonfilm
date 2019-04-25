@@ -1,1 +1,0 @@
-{"tmdb_id": 535300, "title": "Alex Velluto: Thirsty", "original_title": "Alex Velluto: Thirsty", "slug_title": "alex-velluto-thirsty", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

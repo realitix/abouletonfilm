@@ -1,1 +1,0 @@
-{"tmdb_id": 182591, "title": "Roll Up Your Sleeves", "original_title": "Roll Up Your Sleeves", "slug_title": "roll-up-your-sleeves", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rUHzZpFycgpxn9RSvc5NxBo2let.jpg", "actors": [], "comments": [], "recommandations_id": []}

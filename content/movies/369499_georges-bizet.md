@@ -1,1 +1,0 @@
-{"tmdb_id": 369499, "title": "Georges Bizet", "original_title": "Georges Bizet", "slug_title": "georges-bizet", "date": "1927-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

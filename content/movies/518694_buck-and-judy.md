@@ -1,1 +1,0 @@
-{"tmdb_id": 518694, "title": "Buck and Judy", "original_title": "Buck and Judy", "slug_title": "buck-and-judy", "date": "2008-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

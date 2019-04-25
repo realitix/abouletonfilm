@@ -1,1 +1,0 @@
-{"tmdb_id": 348157, "title": "Berdella", "original_title": "Berdella", "slug_title": "berdella", "date": "2009-09-10", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wA4tvyWUF4iM4kbpczlxE2wVcZV.jpg", "actors": [], "comments": [], "recommandations_id": []}

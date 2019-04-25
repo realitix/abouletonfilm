@@ -1,1 +1,0 @@
-{"tmdb_id": 222174, "title": "The Norwegian Solution", "original_title": "The Norwegian Solution", "slug_title": "the-norwegian-solution", "date": "2009-09-16", "genre": "Documentaire / Guerre", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lpUgDHSNKWcWjsFeAg3F6HiI3zs.jpg", "actors": [], "comments": [], "recommandations_id": []}

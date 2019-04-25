@@ -1,1 +1,0 @@
-{"tmdb_id": 484899, "title": "I Was Born Travelling", "original_title": "I Was Born Travelling", "slug_title": "i-was-born-travelling", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1BLBQu5RIDwaNSACD1Brhom4nTn.jpg", "actors": [], "comments": [], "recommandations_id": []}

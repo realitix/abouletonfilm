@@ -1,1 +1,0 @@
-{"tmdb_id": 316524, "title": "The Sheepish Wolf", "original_title": "The Sheepish Wolf", "slug_title": "the-sheepish-wolf", "date": "1963-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

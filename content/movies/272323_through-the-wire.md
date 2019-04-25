@@ -1,1 +1,0 @@
-{"tmdb_id": 272323, "title": "Through the Wire", "original_title": "Through the Wire", "slug_title": "through-the-wire", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

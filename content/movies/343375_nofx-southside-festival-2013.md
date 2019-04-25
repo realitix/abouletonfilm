@@ -1,1 +1,0 @@
-{"tmdb_id": 343375, "title": "NOFX Southside Festival 2013", "original_title": "NOFX Southside Festival 2013", "slug_title": "nofx-southside-festival-2013", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/glA9d3T02OJJDz8AUAGAocTjcxx.jpg", "actors": [], "comments": [], "recommandations_id": []}

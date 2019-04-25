@@ -1,1 +1,0 @@
-{"tmdb_id": 367635, "title": "Making of Highlander: The Series", "original_title": "Making of Highlander: The Series", "slug_title": "making-of-highlander-the-series", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

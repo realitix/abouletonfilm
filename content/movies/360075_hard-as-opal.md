@@ -1,1 +1,0 @@
-{"tmdb_id": 360075, "title": "Hard as Opal", "original_title": "Hard as Opal", "slug_title": "hard-as-opal", "date": "2015-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

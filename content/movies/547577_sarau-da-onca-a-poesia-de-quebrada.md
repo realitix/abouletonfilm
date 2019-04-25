@@ -1,1 +1,0 @@
-{"tmdb_id": 547577, "title": "Sarau da On\u00e7a - A Poesia de Quebrada", "original_title": "Sarau da On\u00e7a - A Poesia de Quebrada", "slug_title": "sarau-da-onca-a-poesia-de-quebrada", "date": "2017-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

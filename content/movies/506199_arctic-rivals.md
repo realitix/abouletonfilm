@@ -1,1 +1,0 @@
-{"tmdb_id": 506199, "title": "Arctic Rivals", "original_title": "Arctic Rivals", "slug_title": "arctic-rivals", "date": "1954-04-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Morrison (Willie the Walrus (voice))", "Ken Schoen (Walter (voice))"], "comments": [], "recommandations_id": []}

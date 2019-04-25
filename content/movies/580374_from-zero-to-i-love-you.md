@@ -1,1 +1,0 @@
-{"tmdb_id": 580374, "title": "From Zero to I Love You", "original_title": "From Zero to I Love You", "slug_title": "from-zero-to-i-love-you", "date": "2019-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/shTcBWdYjDjcjFyu3U6fXKzhaJU.jpg", "actors": [], "comments": [], "recommandations_id": []}

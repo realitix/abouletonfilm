@@ -1,1 +1,0 @@
-{"tmdb_id": 363910, "title": "I Want a Dog", "original_title": "I Want a Dog", "slug_title": "i-want-a-dog", "date": "2003-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yvNrjTeSPo3RwRW6kKFhcreMVF6.jpg", "actors": [], "comments": [], "recommandations_id": []}

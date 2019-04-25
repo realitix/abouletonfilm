@@ -1,1 +1,0 @@
-{"tmdb_id": 340786, "title": "The 70s Dimension", "original_title": "The 70s Dimension", "slug_title": "the-70s-dimension", "date": "2005-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jX9ztTom783uE9gwXzAsoAkBRaS.jpg", "actors": [], "comments": [], "recommandations_id": []}

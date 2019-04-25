@@ -1,1 +1,0 @@
-{"tmdb_id": 271317, "title": "Pick of the Past", "original_title": "Pick of the Past", "slug_title": "pick-of-the-past", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 82869, "title": "Earth Under Fire", "original_title": "Earth Under Fire", "slug_title": "earth-under-fire", "date": "", "genre": "Documentaire / Histoire", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ahGy3NCpZ6ETO3XFixRULcqIQc.jpg", "actors": [], "comments": [], "recommandations_id": []}

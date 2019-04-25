@@ -1,1 +1,0 @@
-{"tmdb_id": 224045, "title": "Cette fiesta est un fiasco", "original_title": "Fiesta Fiasco", "slug_title": "cette-fiesta-est-un-fiasco", "date": "1967-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vL32CG6BHTBTijoQudjlltOz5Pm.jpg", "actors": [], "comments": [], "recommandations_id": []}

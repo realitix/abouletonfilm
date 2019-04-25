@@ -1,1 +1,0 @@
-{"tmdb_id": 404605, "title": "I'm Not A Tourist, I Live Here", "original_title": "I'm Not A Tourist, I Live Here", "slug_title": "i-m-not-a-tourist-i-live-here", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

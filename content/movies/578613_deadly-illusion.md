@@ -1,1 +1,0 @@
-{"tmdb_id": 578613, "title": "Deadly Illusion", "original_title": "\u8840\u4ecd\u662f\u51b7", "slug_title": "deadly-illusion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carrie Ng ()", "Yu Rong-Guang ()", "Michael Chan ()", "Elvis Tsui ()"], "comments": [], "recommandations_id": []}

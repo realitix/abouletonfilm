@@ -1,1 +1,0 @@
-{"tmdb_id": 382372, "title": "Lucky Luke - Sarah Bernhardt", "original_title": "Lucky Luke - Sarah Bernhardt", "slug_title": "lucky-luke-sarah-bernhardt", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nS0kZI3CMAmMZICPHarVTjhvCmw.jpg", "actors": [], "comments": [], "recommandations_id": []}

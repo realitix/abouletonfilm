@@ -1,1 +1,0 @@
-{"tmdb_id": 138732, "title": "Zagor kara bela", "original_title": "Zagor kara bela", "slug_title": "zagor-kara-bela", "date": "1971-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r7hDlFzw7mdVYZ6DW5PPXJyDPtt.jpg", "actors": ["Levent \u00c7akir (Zagor)"], "comments": [], "recommandations_id": []}

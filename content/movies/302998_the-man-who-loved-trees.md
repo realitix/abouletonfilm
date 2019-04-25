@@ -1,1 +1,0 @@
-{"tmdb_id": 302998, "title": "The Man Who Loved Trees", "original_title": "The Man Who Loved Trees", "slug_title": "the-man-who-loved-trees", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

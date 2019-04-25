@@ -1,1 +1,1 @@
-{"tmdb_id": 327873, "title": "Daily Bread", "original_title": "Arzaq", "slug_title": "daily-bread", "date": "1995-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 327873, "title": "Daily Bread", "original_title": "Arzaq", "slug_title": "daily-bread", "date": "1995-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Taghrid Al-Asfuri.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 344654, "title": "Haitian Corner", "original_title": "Haitian Corner", "slug_title": "haitian-corner", "date": "1988-06-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lhtu3ETt6Qi56D1iaZjkzX5alSp.jpg", "actors": [], "comments": [], "recommandations_id": []}

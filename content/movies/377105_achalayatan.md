@@ -1,1 +1,0 @@
-{"tmdb_id": 377105, "title": "Achalayatan", "original_title": "Achalayatan", "slug_title": "achalayatan", "date": "2013-09-21", "genre": "Crime / Drame / Fantastique", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

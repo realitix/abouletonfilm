@@ -1,1 +1,0 @@
-{"tmdb_id": 473569, "title": "Proceedings of next year", "original_title": "\u0648\u0642\u0627\u0626\u0639 \u0627\u0644\u0639\u0627\u0645 \u0627\u0644\u0645\u0642\u0628\u0644 1985", "slug_title": "proceedings-of-next-year", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

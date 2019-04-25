@@ -1,1 +1,0 @@
-{"tmdb_id": 312305, "title": "Back to Ballin'", "original_title": "Back to Ballin'", "slug_title": "back-to-ballin", "date": "2003-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

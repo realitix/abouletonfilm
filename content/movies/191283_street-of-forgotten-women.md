@@ -1,1 +1,0 @@
-{"tmdb_id": 191283, "title": "Street of Forgotten Women", "original_title": "Street of Forgotten Women", "slug_title": "street-of-forgotten-women", "date": "1927-05-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

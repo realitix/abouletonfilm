@@ -1,1 +1,0 @@
-{"tmdb_id": 168283, "title": "Fire on the Mountain", "original_title": "Fire on the Mountain", "slug_title": "fire-on-the-mountain", "date": "1996-11-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3F6cnRfKnlpFqoqh3f24j24xF9B.jpg", "actors": [], "comments": [], "recommandations_id": []}

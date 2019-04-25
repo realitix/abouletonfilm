@@ -1,1 +1,0 @@
-{"tmdb_id": 428693, "title": "Travesty of a Mockery", "original_title": "Travesty of a Mockery", "slug_title": "travesty-of-a-mockery", "date": "1995-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z1nuPMzkDzPsIcliyhCEGH65EI1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 398497, "title": "Angela Aki Concert Tour", "original_title": "Angela Aki Concert Tour", "slug_title": "angela-aki-concert-tour", "date": "2008-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lZRH77Q5vt4xwCyTVhbevk6D9Wu.jpg", "actors": ["angela aki ()"], "comments": [], "recommandations_id": []}

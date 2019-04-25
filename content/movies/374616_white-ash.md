@@ -1,1 +1,0 @@
-{"tmdb_id": 374616, "title": "White Ash", "original_title": "White Ash", "slug_title": "white-ash", "date": "2014-09-07", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6glwYa7dc8SwFDDhqTmDPeOm9os.jpg", "actors": [], "comments": [], "recommandations_id": []}

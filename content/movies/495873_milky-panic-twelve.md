@@ -1,1 +1,0 @@
-{"tmdb_id": 495873, "title": "Milky Panic: Twelve", "original_title": "\u30df\u30eb\u30ad\u30fc\u30d1\u30cb\u30c3\u30af twelve", "slug_title": "milky-panic-twelve", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t55Wwc5aaFbVEMD8aXL3ChEYmHc.jpg", "actors": [], "comments": [], "recommandations_id": []}

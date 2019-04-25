@@ -1,1 +1,0 @@
-{"tmdb_id": 131858, "title": "Dope Case Pending", "original_title": "Dope Case Pending", "slug_title": "dope-case-pending", "date": "", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r9JsVxdjUNyq5ioCnDC642QN3nd.jpg", "actors": [], "comments": [], "recommandations_id": []}

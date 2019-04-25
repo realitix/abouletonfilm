@@ -1,1 +1,0 @@
-{"tmdb_id": 496769, "title": "Citizen Juling", "original_title": "Polamuang Juling", "slug_title": "citizen-juling", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sqFbnDkmnYIjZnCCIH4VVBjYYta.jpg", "actors": [], "comments": [], "recommandations_id": []}

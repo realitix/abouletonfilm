@@ -1,1 +1,0 @@
-{"tmdb_id": 283191, "title": "World Of Wax", "original_title": "World Of Wax", "slug_title": "world-of-wax", "date": "1962-05-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3OLBksKufpixfpezr8odaupjsgF.jpg", "actors": [], "comments": [], "recommandations_id": []}

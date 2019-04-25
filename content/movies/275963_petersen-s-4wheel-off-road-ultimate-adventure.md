@@ -1,1 +1,0 @@
-{"tmdb_id": 275963, "title": "Petersen's 4Wheel & Off-Road Ultimate Adventure", "original_title": "Petersen's 4Wheel & Off-Road Ultimate Adventure", "slug_title": "petersen-s-4wheel-off-road-ultimate-adventure", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

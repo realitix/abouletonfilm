@@ -1,1 +1,0 @@
-{"tmdb_id": 339862, "title": "Kutumba", "original_title": "Kutumba", "slug_title": "kutumba", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jwETB0cXEU7guw0wB97uCMXngZo.jpg", "actors": ["Upendra ()"], "comments": [], "recommandations_id": []}

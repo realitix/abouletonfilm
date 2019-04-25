@@ -1,1 +1,0 @@
-{"tmdb_id": 344091, "title": "Pickup's Tricks", "original_title": "Pickup's Tricks", "slug_title": "pickup-s-tricks", "date": "1973-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Allen Ginsberg ()", "Hibiscus ()", "The Cockettes ()"], "comments": [], "recommandations_id": []}

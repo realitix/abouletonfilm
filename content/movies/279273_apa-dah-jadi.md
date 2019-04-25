@@ -1,1 +1,0 @@
-{"tmdb_id": 279273, "title": "Apa Dah Jadi?", "original_title": "Apa Dah Jadi?", "slug_title": "apa-dah-jadi", "date": "2012-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jAbwBI4iJix3gmLlWj4PUtU14Tn.jpg", "actors": ["Farid Kamil ()", "Intan Ladyana ()"], "comments": [], "recommandations_id": []}

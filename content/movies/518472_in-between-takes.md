@@ -1,1 +1,0 @@
-{"tmdb_id": 518472, "title": "In Between Takes", "original_title": "\u041c\u0435\u0436\u0434\u0443 \u043a\u0430\u0434\u0440\u0430\u043c\u0438", "slug_title": "in-between-takes", "date": "2018-04-19", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

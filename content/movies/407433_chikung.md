@@ -1,1 +1,0 @@
-{"tmdb_id": 407433, "title": "Chikung", "original_title": "Chikung", "slug_title": "chikung", "date": "2016-07-27", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/liD0VDOdfGKR4QfGiBadb8zKO53.jpg", "actors": ["Cecep Arif Rahman (Unknown)", "Ta Ferri (Unknown)"], "comments": [], "recommandations_id": []}

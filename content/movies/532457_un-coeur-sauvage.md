@@ -1,1 +1,0 @@
-{"tmdb_id": 532457, "title": "Un coeur sauvage", "original_title": "Un coeur sauvage", "slug_title": "un-coeur-sauvage", "date": "2006-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edouard Collin (Mathan)", "Julien Alluguette (Fran\u00e7ois)", "Violaine Brebion (Virginie)"], "comments": [], "recommandations_id": []}

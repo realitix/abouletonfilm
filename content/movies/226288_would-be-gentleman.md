@@ -1,1 +1,0 @@
-{"tmdb_id": 226288, "title": "Would-Be Gentleman", "original_title": "Le bourgeois gentilhomme", "slug_title": "would-be-gentleman", "date": "1968-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nGahZ5LqL2gtAvpbKtwuw6irMZy.jpg", "actors": [], "comments": [], "recommandations_id": []}

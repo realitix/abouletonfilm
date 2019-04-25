@@ -1,1 +1,0 @@
-{"tmdb_id": 492123, "title": "Tykkimies Kauppalan viimeiset vaiheet", "original_title": "Tykkimies Kauppalan viimeiset vaiheet", "slug_title": "tykkimies-kauppalan-viimeiset-vaiheet", "date": "1977-09-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vesa-Matti Loiri (Kauppala)"], "comments": [], "recommandations_id": []}

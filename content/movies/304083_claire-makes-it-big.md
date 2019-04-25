@@ -1,1 +1,0 @@
-{"tmdb_id": 304083, "title": "Claire Makes It Big", "original_title": "Claire Makes It Big", "slug_title": "claire-makes-it-big", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 475053, "title": "We Summoned A Demon", "original_title": "We Summoned A Demon", "slug_title": "we-summoned-a-demon", "date": "2017-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zyEphimdmOdsXjQ4JfuFUKderSW.jpg", "actors": [], "comments": [], "recommandations_id": []}

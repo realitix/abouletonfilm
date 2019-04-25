@@ -1,1 +1,0 @@
-{"tmdb_id": 457623, "title": "Ein Weimarfilm", "original_title": "Ein Weimarfilm", "slug_title": "ein-weimarfilm", "date": "1977-09-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ieUTR60sWhztxk4HJeosaazn0il.jpg", "actors": [], "comments": [], "recommandations_id": []}

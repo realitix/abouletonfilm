@@ -1,1 +1,0 @@
-{"tmdb_id": 563723, "title": "Helicopters", "original_title": "\u0412\u0435\u0440\u0442\u043e\u043b\u0451\u0442\u044b", "slug_title": "helicopters", "date": "2018-09-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hqcLphi4AwkuVW4K1EgJhpfP2E6.jpg", "actors": [], "comments": [], "recommandations_id": []}

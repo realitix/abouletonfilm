@@ -1,1 +1,0 @@
-{"tmdb_id": 310181, "title": "Marianne Faithfull Sings Kurt Weill", "original_title": "Marianne Faithfull Sings Kurt Weill", "slug_title": "marianne-faithfull-sings-kurt-weill", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

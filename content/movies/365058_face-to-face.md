@@ -1,1 +1,0 @@
-{"tmdb_id": 365058, "title": "Face to Face", "original_title": "Twarz\u0105 w twarz", "slug_title": "face-to-face", "date": "1967-04-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

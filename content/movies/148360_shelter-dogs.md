@@ -1,1 +1,0 @@
-{"tmdb_id": 148360, "title": "Shelter Dogs", "original_title": "Shelter Dogs", "slug_title": "shelter-dogs", "date": "2003-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yQnzKt04qwuKIiTWPEZCmvbYIB2.jpg", "actors": [], "comments": [], "recommandations_id": []}

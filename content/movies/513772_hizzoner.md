@@ -1,1 +1,0 @@
-{"tmdb_id": 513772, "title": "Hizzoner", "original_title": "Hizzoner", "slug_title": "hizzoner", "date": "1933-11-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bert Lahr (Bert Lahr, Cop)", "James Melton ()", "Jimmy Wallington ()", "Loretta Sayers ()", "Fred Hillebrand ()"], "comments": [], "recommandations_id": []}

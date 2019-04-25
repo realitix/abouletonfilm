@@ -1,1 +1,0 @@
-{"tmdb_id": 570640, "title": "Une sacr\u00e9e chabine", "original_title": "Une sacr\u00e9e chabine", "slug_title": "une-sacree-chabine", "date": "1993-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

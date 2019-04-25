@@ -1,1 +1,0 @@
-{"tmdb_id": 347584, "title": "A tribo II", "original_title": "A tribo II", "slug_title": "a-tribo-ii", "date": "2009-11-07", "genre": "Horreur / Drame", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fiebpEMSVuYtZy5y6A128kJ9FPK.jpg", "actors": ["Roel Rein\u00e9 ()"], "comments": [], "recommandations_id": []}

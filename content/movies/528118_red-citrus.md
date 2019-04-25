@@ -1,1 +1,0 @@
-{"tmdb_id": 528118, "title": "Red Citrus", "original_title": "Red Citrus", "slug_title": "red-citrus", "date": "2020-05-29", "genre": "Com\u00e9die / Musique / Science-Fiction / Action / Horreur / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

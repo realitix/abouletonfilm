@@ -1,1 +1,0 @@
-{"tmdb_id": 451411, "title": "U-Boote am Feind", "original_title": "U-Boote am Feind", "slug_title": "u-boote-am-feind", "date": "1940-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

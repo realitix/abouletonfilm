@@ -1,1 +1,0 @@
-{"tmdb_id": 514210, "title": "Skin Baby", "original_title": "Skin Baby", "slug_title": "skin-baby", "date": "2018-02-02", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 106636, "title": "Tah Tien", "original_title": "Tah Tien", "slug_title": "tah-tien", "date": "1973-03-09", "genre": "Aventure / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eG4AdTLfrez8vKFAZZ1eOcAnFNe.jpg", "actors": ["Sombat Metanee ()"], "comments": [], "recommandations_id": []}

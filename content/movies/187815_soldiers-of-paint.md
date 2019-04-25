@@ -1,1 +1,0 @@
-{"tmdb_id": 187815, "title": "Soldiers of Paint", "original_title": "Soldiers of Paint", "slug_title": "soldiers-of-paint", "date": "2011-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hKa151TgraeK595AFSHVNfzTcOq.jpg", "actors": [], "comments": [], "recommandations_id": []}

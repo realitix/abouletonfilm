@@ -1,1 +1,0 @@
-{"tmdb_id": 563758, "title": "Ikki illa meint", "original_title": "Ikki illa meint", "slug_title": "ikki-illa-meint", "date": "2018-11-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mariann Hansen (Elinborg)", "Sissal Drews Hjaltalin (Marita)", "Niels Dampe (Morten)"], "comments": [], "recommandations_id": []}

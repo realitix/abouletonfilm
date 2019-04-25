@@ -1,1 +1,1 @@
-{"tmdb_id": 535026, "title": "Terre natale", "original_title": "Terre natale", "slug_title": "terre-natale", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 535026, "title": "Terre natale", "original_title": "Terre natale", "slug_title": "terre-natale", "date": "1996-01-01", "genre": [""], "score": "0.0/10", "synopsis": "(no summary)", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

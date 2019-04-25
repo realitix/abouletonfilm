@@ -1,1 +1,0 @@
-{"tmdb_id": 593998, "title": "Stranded", "original_title": "Stranded", "slug_title": "stranded", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jessy Mendiola ()", "Arjo Atayde ()"], "comments": [], "recommandations_id": []}

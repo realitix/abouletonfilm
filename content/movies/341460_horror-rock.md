@@ -1,1 +1,0 @@
-{"tmdb_id": 341460, "title": "Horror Rock", "original_title": "Horror Rock", "slug_title": "horror-rock", "date": "1989-01-01", "genre": "Documentaire / Musique", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/68taz98M9rxSJPfIWtbEdmJJRxk.jpg", "actors": [], "comments": [], "recommandations_id": []}

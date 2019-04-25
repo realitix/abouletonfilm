@@ -1,1 +1,0 @@
-{"tmdb_id": 426881, "title": "In der Fremde", "original_title": "In der Fremde", "slug_title": "in-der-fremde", "date": "1968-01-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1sOHbbDBSDhQnH51QKjEjOHZiQK.jpg", "actors": [], "comments": [], "recommandations_id": []}

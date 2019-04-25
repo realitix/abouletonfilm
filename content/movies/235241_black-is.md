@@ -1,1 +1,0 @@
-{"tmdb_id": 235241, "title": "Black Is", "original_title": "Black Is", "slug_title": "black-is", "date": "1965-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qUCgV3S3skz4tbhbc11loEZG1Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

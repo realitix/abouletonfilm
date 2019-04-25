@@ -1,1 +1,0 @@
-{"tmdb_id": 481227, "title": "Red Beads", "original_title": "\u60ac\u604b", "slug_title": "red-beads", "date": "1994-02-18", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fBGMA0mKx1hymp7CLgG10oZe0uP.jpg", "actors": ["Shi Ke ()"], "comments": [], "recommandations_id": []}

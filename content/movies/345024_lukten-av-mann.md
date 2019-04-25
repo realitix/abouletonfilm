@@ -1,1 +1,0 @@
-{"tmdb_id": 345024, "title": "Lukten av mann", "original_title": "Lukten av mann", "slug_title": "lukten-av-mann", "date": "1996-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 303037, "title": "Yadhavan", "original_title": "Yadhavan", "slug_title": "yadhavan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 274898, "title": "A Conversation with Fess Parker", "original_title": "A Conversation with Fess Parker", "slug_title": "a-conversation-with-fess-parker", "date": "2001-12-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leonard Maltin (Host)", "Fess Parker ()"], "comments": [], "recommandations_id": []}

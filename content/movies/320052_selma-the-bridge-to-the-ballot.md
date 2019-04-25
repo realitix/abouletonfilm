@@ -1,1 +1,0 @@
-{"tmdb_id": 320052, "title": "Selma: The Bridge To The Ballot", "original_title": "Selma: The Bridge To The Ballot", "slug_title": "selma-the-bridge-to-the-ballot", "date": "2015-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

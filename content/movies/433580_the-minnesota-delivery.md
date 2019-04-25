@@ -1,1 +1,0 @@
-{"tmdb_id": 433580, "title": "The Minnesota Delivery", "original_title": "The Minnesota Delivery", "slug_title": "the-minnesota-delivery", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ubfOKM3X11yorZxniEOVxmRaRD1.jpg", "actors": [], "comments": [], "recommandations_id": []}

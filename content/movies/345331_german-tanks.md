@@ -1,1 +1,0 @@
-{"tmdb_id": 345331, "title": "German Tanks", "original_title": "Deutsche Panzer", "slug_title": "german-tanks", "date": "1940-09-14", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Arjvi6KEvGqBOeF603StsF3ktwI.jpg", "actors": [], "comments": [], "recommandations_id": []}

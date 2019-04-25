@@ -1,1 +1,0 @@
-{"tmdb_id": 175862, "title": "Felix Goes A-Hunting", "original_title": "Felix Goes A-Hunting", "slug_title": "felix-goes-a-hunting", "date": "1923-12-14", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

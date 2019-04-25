@@ -1,1 +1,0 @@
-{"tmdb_id": 382628, "title": "An Eccentric Burglary", "original_title": "An Eccentric Burglary", "slug_title": "an-eccentric-burglary", "date": "1905-07-14", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 273617, "title": "The Dictator Hunter", "original_title": "The Dictator Hunter", "slug_title": "the-dictator-hunter", "date": "2007-09-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dkuusr2LPlrT5ew4bzXev7RSa7L.jpg", "actors": [], "comments": [], "recommandations_id": []}

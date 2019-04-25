@@ -1,1 +1,0 @@
-{"tmdb_id": 157641, "title": "Prison Images", "original_title": "Gef\u00e4ngnisbilder", "slug_title": "prison-images", "date": "2000-07-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cYLp3nPDXg1lT7Esebevp6K57tH.jpg", "actors": [], "comments": [], "recommandations_id": []}

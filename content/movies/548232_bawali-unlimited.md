@@ -1,1 +1,0 @@
-{"tmdb_id": 548232, "title": "Bawali Unlimited", "original_title": "Bawali Unlimited", "slug_title": "bawali-unlimited", "date": "2012-12-28", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Payel Sarkar ()", "Joy Mukherjee ()", "Sourav Nandy ()"], "comments": [], "recommandations_id": []}

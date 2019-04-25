@@ -1,1 +1,0 @@
-{"tmdb_id": 311920, "title": "Henry Ford: Tin Lizzy Tycoon", "original_title": "Henry Ford: Tin Lizzy Tycoon", "slug_title": "henry-ford-tin-lizzy-tycoon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

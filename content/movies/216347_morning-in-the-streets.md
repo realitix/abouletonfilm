@@ -1,1 +1,0 @@
-{"tmdb_id": 216347, "title": "Morning in the Streets", "original_title": "Morning in the Streets", "slug_title": "morning-in-the-streets", "date": "1959-03-25", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kzo5eDftkzqwnRTzDjPXWsXNa2S.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 322331, "title": "Dragon's Realm: The Search for the Forgotten Art", "original_title": "Dragon's Realm: The Search for the Forgotten Art", "slug_title": "dragon-s-realm-the-search-for-the-forgotten-art", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

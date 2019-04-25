@@ -1,1 +1,0 @@
-{"tmdb_id": 409734, "title": "Barabaniada", "original_title": "Barabaniada", "slug_title": "barabaniada", "date": "1993-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/70ttKGS7YcAqVUbyq2lrwCCEJmX.jpg", "actors": [], "comments": [], "recommandations_id": []}

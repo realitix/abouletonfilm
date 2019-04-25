@@ -1,1 +1,0 @@
-{"tmdb_id": 322635, "title": "Aatha Naan Paasayiten", "original_title": "Aatha Naan Paasayiten", "slug_title": "aatha-naan-paasayiten", "date": "1990-01-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arjun Sarja ()", "Bhanupriya ()", "Senthil ()"], "comments": [], "recommandations_id": []}

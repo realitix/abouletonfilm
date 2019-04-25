@@ -1,1 +1,0 @@
-{"tmdb_id": 453518, "title": "Loading a Vessel at Charleston, S.C.", "original_title": "Loading a Vessel at Charleston, S.C.", "slug_title": "loading-a-vessel-at-charleston-s-c", "date": "1902-04-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

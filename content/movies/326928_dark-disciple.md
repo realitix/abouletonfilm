@@ -1,1 +1,0 @@
-{"tmdb_id": 326928, "title": "Dark Disciple", "original_title": "Dark Disciple", "slug_title": "dark-disciple", "date": "2014-10-17", "genre": "Thriller", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eYvlvhjFYrL2Jh5vhVy8TsUjLwI.jpg", "actors": [], "comments": [], "recommandations_id": []}

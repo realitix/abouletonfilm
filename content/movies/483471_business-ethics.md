@@ -1,1 +1,0 @@
-{"tmdb_id": 483471, "title": "Business Ethics", "original_title": "Business Ethics", "slug_title": "business-ethics", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larenz Tate (Zachery Cranston)", "Sarah Carter (Veronica)"], "comments": [], "recommandations_id": []}

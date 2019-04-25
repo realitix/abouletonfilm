@@ -1,1 +1,0 @@
-{"tmdb_id": 379554, "title": "Immokalee U.S.A.", "original_title": "Immokalee U.S.A.", "slug_title": "immokalee-u-s-a", "date": "2008-05-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

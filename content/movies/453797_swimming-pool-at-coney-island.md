@@ -1,1 +1,0 @@
-{"tmdb_id": 453797, "title": "Swimming Pool at Coney Island", "original_title": "Swimming Pool at Coney Island", "slug_title": "swimming-pool-at-coney-island", "date": "1901-08-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

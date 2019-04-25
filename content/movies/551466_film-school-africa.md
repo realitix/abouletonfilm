@@ -1,1 +1,0 @@
-{"tmdb_id": 551466, "title": "Film School Africa", "original_title": "Film School Africa", "slug_title": "film-school-africa", "date": "2018-08-09", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/19utq8hohFymS54AyB3UQGphkUP.jpg", "actors": [], "comments": [], "recommandations_id": []}

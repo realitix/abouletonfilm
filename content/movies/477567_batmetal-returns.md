@@ -1,1 +1,0 @@
-{"tmdb_id": 477567, "title": "Batmetal Returns", "original_title": "Batmetal Returns", "slug_title": "batmetal-returns", "date": "2015-01-09", "genre": "Musique / Com\u00e9die", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/crNpFQSB4nrHsaT3HrMnTDcRp2c.jpg", "actors": [], "comments": [], "recommandations_id": []}

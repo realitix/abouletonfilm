@@ -1,1 +1,0 @@
-{"tmdb_id": 504911, "title": "Mere Players", "original_title": "Mere Players", "slug_title": "mere-players", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

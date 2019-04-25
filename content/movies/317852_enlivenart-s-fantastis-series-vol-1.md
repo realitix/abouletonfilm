@@ -1,1 +1,0 @@
-{"tmdb_id": 317852, "title": "EnlivenArt's Fantastis Series: Vol. 1", "original_title": "EnlivenArt's Fantastis Series: Vol. 1", "slug_title": "enlivenart-s-fantastis-series-vol-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

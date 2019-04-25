@@ -1,1 +1,0 @@
-{"tmdb_id": 262678, "title": "Patrons", "original_title": "Patrons", "slug_title": "patrons", "date": "2014-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

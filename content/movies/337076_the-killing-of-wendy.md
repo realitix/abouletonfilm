@@ -1,1 +1,0 @@
-{"tmdb_id": 337076, "title": "The Killing of Wendy", "original_title": "The Killing of Wendy", "slug_title": "the-killing-of-wendy", "date": "2015-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

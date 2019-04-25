@@ -1,1 +1,0 @@
-{"tmdb_id": 467756, "title": "Piazza Grande", "original_title": "Piazza Grande", "slug_title": "piazza-grande", "date": "2017-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hQq6WxCjuLkYzkDlAjoA5uHN1kS.jpg", "actors": [], "comments": [], "recommandations_id": []}

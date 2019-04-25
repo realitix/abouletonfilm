@@ -1,1 +1,0 @@
-{"tmdb_id": 479496, "title": "Black Mother Black Daughter", "original_title": "Black Mother Black Daughter", "slug_title": "black-mother-black-daughter", "date": "1989-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sylvia Hamilton (Narrator (voice))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 594519, "title": "Vappuhumua", "original_title": "Vappuhumua", "slug_title": "vappuhumua", "date": "1938-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

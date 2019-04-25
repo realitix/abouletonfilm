@@ -1,1 +1,0 @@
-{"tmdb_id": 474151, "title": "Seashore", "original_title": "Seashore", "slug_title": "seashore", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2wit6CbUuA291ICZcsRhcgIsgRz.jpg", "actors": [], "comments": [], "recommandations_id": []}

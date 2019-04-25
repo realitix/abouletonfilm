@@ -1,1 +1,0 @@
-{"tmdb_id": 296466, "title": "Mellodrama", "original_title": "Mellodrama", "slug_title": "mellodrama", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/64mY3mpmaATIMlhHMCXtIr4chlG.jpg", "actors": [], "comments": [], "recommandations_id": []}

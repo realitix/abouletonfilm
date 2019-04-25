@@ -1,1 +1,0 @@
-{"tmdb_id": 518549, "title": "Bar Yoga", "original_title": "Bar Yoga", "slug_title": "bar-yoga", "date": "1984-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 403200, "title": "Three Brave Frogs", "original_title": "\u86d9\u4e09\u52c7\u58eb", "slug_title": "three-brave-frogs", "date": "1933-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

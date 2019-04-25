@@ -1,1 +1,0 @@
-{"tmdb_id": 175327, "title": "Love's Labor Lost", "original_title": "Love's Labor Lost", "slug_title": "love-s-labor-lost", "date": "1920-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

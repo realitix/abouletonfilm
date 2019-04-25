@@ -1,1 +1,0 @@
-{"tmdb_id": 309102, "title": "Castle Ghosts of the British Isles", "original_title": "Castle Ghosts of the British Isles", "slug_title": "castle-ghosts-of-the-british-isles", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

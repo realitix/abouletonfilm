@@ -1,1 +1,0 @@
-{"tmdb_id": 64201, "title": "The Present", "original_title": "The Present", "slug_title": "the-present", "date": "2009-03-10", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/szVKEVFMSJzePlMagahuw32LJKg.jpg", "actors": [], "comments": [], "recommandations_id": []}

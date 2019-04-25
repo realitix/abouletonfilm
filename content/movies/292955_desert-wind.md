@@ -1,1 +1,0 @@
-{"tmdb_id": 292955, "title": "Desert Wind", "original_title": "Desert Wind", "slug_title": "desert-wind", "date": "2005-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

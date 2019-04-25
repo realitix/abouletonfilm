@@ -1,1 +1,0 @@
-{"tmdb_id": 220836, "title": "Canhead", "original_title": "Canhead", "slug_title": "canhead", "date": "1996-01-01", "genre": "Animation", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wiQYm25HWRkFD8NH3ZbMCtAfJD7.jpg", "actors": [], "comments": [], "recommandations_id": []}

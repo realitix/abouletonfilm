@@ -1,1 +1,0 @@
-{"tmdb_id": 143222, "title": "Guardians", "original_title": "Guardians", "slug_title": "guardians", "date": "2009-01-01", "genre": "Horreur", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6fkfJNIH4yus8ex53882gYmsiX0.jpg", "actors": ["Chris Bell ()", "Benjamin Budd ()", "Tylan Canady ()"], "comments": [], "recommandations_id": []}

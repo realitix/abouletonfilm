@@ -1,1 +1,0 @@
-{"tmdb_id": 462480, "title": "\u0421\u043a\u0440\u0438\u043f\u043a\u0430", "original_title": "\u0421\u043a\u0440\u0438\u043f\u043a\u0430", "slug_title": "skripka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 309235, "title": "Congo Bush Pilots", "original_title": "Congo Bush Pilots", "slug_title": "congo-bush-pilots", "date": "2008-09-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wKObmONblSvO16xbOT7CBB7Ayjy.jpg", "actors": [], "comments": [], "recommandations_id": []}

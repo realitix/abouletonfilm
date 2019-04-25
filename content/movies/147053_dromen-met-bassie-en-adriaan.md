@@ -1,1 +1,0 @@
-{"tmdb_id": 147053, "title": "Dromen met Bassie en Adriaan", "original_title": "Dromen met Bassie en Adriaan", "slug_title": "dromen-met-bassie-en-adriaan", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yCx1VO33E7v6VdXBeL8vq32iQPz.jpg", "actors": [], "comments": [], "recommandations_id": []}

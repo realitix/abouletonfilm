@@ -1,1 +1,0 @@
-{"tmdb_id": 470786, "title": "Battle at Honn\u00f4ji Temple", "original_title": "Honn\u00f4-ji gassen", "slug_title": "battle-at-honnoji-temple", "date": "1908-09-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ritoku Arashi (Mori Ranmaru)", "Fukunasuke Nakamura (Oda Nobunaga)"], "comments": [], "recommandations_id": []}

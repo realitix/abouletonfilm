@@ -1,1 +1,0 @@
-{"tmdb_id": 496084, "title": "Mr. White", "original_title": "Mr. White", "slug_title": "mr-white", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uYHVRVx1YcyrVTul7NUaODa14o6.jpg", "actors": [], "comments": [], "recommandations_id": []}

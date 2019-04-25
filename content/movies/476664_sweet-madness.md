@@ -1,1 +1,0 @@
-{"tmdb_id": 476664, "title": "Sweet Madness", "original_title": "Sweet Madness", "slug_title": "sweet-madness", "date": "2015-07-13", "genre": "Action / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oRaLk4tpbrbCr4ov5vMHaIMyXiI.jpg", "actors": [], "comments": [], "recommandations_id": []}

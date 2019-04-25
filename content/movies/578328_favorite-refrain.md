@@ -1,1 +1,0 @@
-{"tmdb_id": 578328, "title": "Favorite Refrain", "original_title": "Favorite Refrain", "slug_title": "favorite-refrain", "date": "2014-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vas76mzNxCuhKuwOMTBJUvHJgnS.jpg", "actors": [], "comments": [], "recommandations_id": []}

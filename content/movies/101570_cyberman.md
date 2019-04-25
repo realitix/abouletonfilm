@@ -1,1 +1,0 @@
-{"tmdb_id": 101570, "title": "Cyberman", "original_title": "Cyberman", "slug_title": "cyberman", "date": "2002-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Qy7BhOub0I7FLorHqivktQp9wl.jpg", "actors": [], "comments": [], "recommandations_id": []}

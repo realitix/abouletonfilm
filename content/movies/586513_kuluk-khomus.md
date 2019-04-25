@@ -1,1 +1,0 @@
-{"tmdb_id": 586513, "title": "\u041a\u04af\u043b\u04af\u043a \u0425\u043e\u043c\u0443\u0441", "original_title": "\u041a\u04af\u043b\u04af\u043a \u0425\u043e\u043c\u0443\u0441", "slug_title": "kuluk-khomus", "date": "2019-04-11", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

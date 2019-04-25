@@ -1,1 +1,0 @@
-{"tmdb_id": 596332, "title": "Blade: The Iron Cross", "original_title": "Blade: The Iron Cross", "slug_title": "blade-the-iron-cross", "date": "2020-02-14", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/diEqF0ewIr0hPBH1syCzpKitwBr.jpg", "actors": [], "comments": [], "recommandations_id": []}

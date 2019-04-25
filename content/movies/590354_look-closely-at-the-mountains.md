@@ -1,1 +1,0 @@
-{"tmdb_id": 590354, "title": "Look Closely at the Mountains", "original_title": "Olhe Bem As Montanhas", "slug_title": "look-closely-at-the-mountains", "date": "2018-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xKtdBbi7qQXlX9wzMmyeOP5QboS.jpg", "actors": [], "comments": [], "recommandations_id": []}

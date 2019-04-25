@@ -1,1 +1,0 @@
-{"tmdb_id": 416457, "title": "The Rosary", "original_title": "The Rosary", "slug_title": "the-rosary", "date": "1913-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Phillips Smalley (The Soldier)", "Lois Weber (The Soldier's Sweetheart)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 262488, "title": "The Misanthrope", "original_title": "The Misanthrope", "slug_title": "the-misanthrope", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xnZFJnOhhiZOHqdnpkp3ZeL2LQr.jpg", "actors": [], "comments": [], "recommandations_id": []}

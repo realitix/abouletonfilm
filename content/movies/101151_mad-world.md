@@ -1,1 +1,0 @@
-{"tmdb_id": 101151, "title": "Mad World", "original_title": "Mad World", "slug_title": "mad-world", "date": "2011-11-11", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 441362, "title": "Curtain of Eyes", "original_title": "Curtain of Eyes", "slug_title": "curtain-of-eyes", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

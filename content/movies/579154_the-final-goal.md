@@ -1,1 +1,0 @@
-{"tmdb_id": 579154, "title": "The Final Goal", "original_title": "The Final Goal", "slug_title": "the-final-goal", "date": "1995-01-10", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gNwgEzhQG4elHKEvoKjHWYn0A9K.jpg", "actors": ["Erik Estrada ()", "Steven Nijjar ()"], "comments": [], "recommandations_id": []}

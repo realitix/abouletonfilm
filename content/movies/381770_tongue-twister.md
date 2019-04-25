@@ -1,1 +1,0 @@
-{"tmdb_id": 381770, "title": "Tongue Twister", "original_title": "Tekerleme", "slug_title": "tongue-twister", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6uTCxyGh1v20IELypEAAYMhTPjs.jpg", "actors": ["Mustafa Irgat ()", "Ay\u015fe \u015eiir \u00d6ke ()"], "comments": [], "recommandations_id": []}

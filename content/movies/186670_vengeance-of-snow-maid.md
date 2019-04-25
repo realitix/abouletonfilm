@@ -1,1 +1,0 @@
-{"tmdb_id": 186670, "title": "Vengeance of Snow-Maid", "original_title": "Vengeance of Snow-Maid", "slug_title": "vengeance-of-snow-maid", "date": "1970-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lQHHjDBRa21e9ltXkiyK7Y9zwIc.jpg", "actors": ["Chen Chen (Snow Maid)"], "comments": [], "recommandations_id": []}

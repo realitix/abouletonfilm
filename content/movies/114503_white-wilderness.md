@@ -1,1 +1,0 @@
-{"tmdb_id": 114503, "title": "White Wilderness", "original_title": "White Wilderness", "slug_title": "white-wilderness", "date": "1958-08-12", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rSSzg9k5JL28xjCfqy1tvyzTLqf.jpg", "actors": [], "comments": [], "recommandations_id": []}

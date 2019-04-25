@@ -1,1 +1,0 @@
-{"tmdb_id": 475426, "title": "Zarr-Dos", "original_title": "Zarr-Dos", "slug_title": "zarr-dos", "date": "2017-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5eeLgnHiS88EhOTZfglTlNbG7hh.jpg", "actors": ["Bart Wasem (Giant Heads)"], "comments": [], "recommandations_id": []}

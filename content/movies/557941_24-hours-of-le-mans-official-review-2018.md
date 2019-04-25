@@ -1,1 +1,0 @@
-{"tmdb_id": 557941, "title": "24 Hours of Le Mans Official Review 2018", "original_title": "24 Hours of Le Mans Official Review 2018", "slug_title": "24-hours-of-le-mans-official-review-2018", "date": "2018-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

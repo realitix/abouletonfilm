@@ -1,1 +1,0 @@
-{"tmdb_id": 549731, "title": "Promise", "original_title": "Promise", "slug_title": "promise", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rebecca Callard (Sarah)", "Nabil Elouahabi (Abe)", "Lara Sawalha (Hajar)"], "comments": [], "recommandations_id": []}

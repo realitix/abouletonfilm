@@ -1,1 +1,0 @@
-{"tmdb_id": 435278, "title": "The Problem of the Wilderness", "original_title": "The Problem of the Wilderness", "slug_title": "the-problem-of-the-wilderness", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

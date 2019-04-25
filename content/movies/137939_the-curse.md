@@ -1,1 +1,0 @@
-{"tmdb_id": 137939, "title": "The Curse", "original_title": "The Curse", "slug_title": "the-curse", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aZ7viM5nJNoms0fQirNpr2UPzaP.jpg", "actors": ["Amy Laughlin (Frida)"], "comments": [], "recommandations_id": []}

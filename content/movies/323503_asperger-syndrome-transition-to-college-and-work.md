@@ -1,1 +1,0 @@
-{"tmdb_id": 323503, "title": "Asperger Syndrome: Transition to College and Work", "original_title": "Asperger Syndrome: Transition to College and Work", "slug_title": "asperger-syndrome-transition-to-college-and-work", "date": "2001-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

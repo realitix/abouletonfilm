@@ -1,1 +1,0 @@
-{"tmdb_id": 236593, "title": "Lights Out", "original_title": "Lights Out", "slug_title": "lights-out", "date": "1942-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

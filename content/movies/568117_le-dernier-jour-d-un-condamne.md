@@ -1,1 +1,0 @@
-{"tmdb_id": 568117, "title": "Le dernier jour d'un condamn\u00e9", "original_title": "Le dernier jour d'un condamn\u00e9", "slug_title": "le-dernier-jour-d-un-condamne", "date": "1985-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 357494, "title": "Night Sweat", "original_title": "Night Sweat", "slug_title": "night-sweat", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rCXzkNShPHu2RvGCPcjNrWUhZ0B.jpg", "actors": [], "comments": [], "recommandations_id": []}

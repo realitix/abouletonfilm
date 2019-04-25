@@ -1,1 +1,0 @@
-{"tmdb_id": 306646, "title": "The Table", "original_title": "The Table", "slug_title": "the-table", "date": "2013-07-27", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Isabelle Giroux ()", "Andr\u00e9 Nadeau (Patrick)", "Christian E. Roy (Martin)"], "comments": [], "recommandations_id": []}

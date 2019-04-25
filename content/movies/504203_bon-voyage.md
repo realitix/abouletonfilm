@@ -1,1 +1,0 @@
-{"tmdb_id": 504203, "title": "Bon Voyage", "original_title": "Bon Voyage", "slug_title": "bon-voyage", "date": "2012-08-02", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7HAt3BXRX7u7nFsgflSzoDyoOae.jpg", "actors": [], "comments": [], "recommandations_id": []}

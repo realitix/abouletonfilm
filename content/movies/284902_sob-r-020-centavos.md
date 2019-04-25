@@ -1,1 +1,0 @@
-{"tmdb_id": 284902, "title": "Sob R$ 0,20 Centavos", "original_title": "Sob R$ 0,20 Centavos", "slug_title": "sob-r-020-centavos", "date": "2013-08-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

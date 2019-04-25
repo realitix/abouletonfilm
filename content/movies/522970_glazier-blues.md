@@ -1,1 +1,0 @@
-{"tmdb_id": 522970, "title": "Glazier Blues", "original_title": "Steklarski blues", "slug_title": "glazier-blues", "date": "2001-11-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kIEXsSK5LpyQyVjbg4wy4fwJdl3.jpg", "actors": [], "comments": [], "recommandations_id": []}

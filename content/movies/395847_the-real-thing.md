@@ -1,1 +1,0 @@
-{"tmdb_id": 395847, "title": "The Real Thing", "original_title": "The Real Thing", "slug_title": "the-real-thing", "date": "2002-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gggpCGf6lTa3xitOMXDIQrVvLGO.jpg", "actors": ["Kate Fischer (Daisy Walker)"], "comments": [], "recommandations_id": []}

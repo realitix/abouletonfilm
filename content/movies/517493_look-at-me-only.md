@@ -1,1 +1,0 @@
-{"tmdb_id": 517493, "title": "Look At Me Only", "original_title": "Look At Me Only", "slug_title": "look-at-me-only", "date": "2016-08-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 520132, "title": "Wide Awake", "original_title": "Wide Awake", "slug_title": "wide-awake", "date": "2018-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 520132, "title": "Wide Awake", "original_title": "Wide Awake", "slug_title": "wide-awake", "date": "2018-04-21", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

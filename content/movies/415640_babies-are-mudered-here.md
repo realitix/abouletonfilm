@@ -1,1 +1,0 @@
-{"tmdb_id": 415640, "title": "Babies Are Mudered Here", "original_title": "Babies Are Mudered Here", "slug_title": "babies-are-mudered-here", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gRSQIoP3wPNakcMwXCYkWH08bFz.jpg", "actors": [], "comments": [], "recommandations_id": []}

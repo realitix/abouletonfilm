@@ -1,1 +1,0 @@
-{"tmdb_id": 450258, "title": "Marco Huck vs Mairis Briedis", "original_title": "Marco Huck vs Mairis Briedis", "slug_title": "marco-huck-vs-mairis-briedis", "date": "2017-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m62BeTBekkhs2Ukvt5zNTvoOJ0K.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 27111, "title": "Anthrax: White Noize", "original_title": "Anthrax: White Noize", "slug_title": "anthrax-white-noize", "date": "1990-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

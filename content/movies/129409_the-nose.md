@@ -1,1 +1,0 @@
-{"tmdb_id": 129409, "title": "The Nose", "original_title": "Le Nez", "slug_title": "the-nose", "date": "1963-01-01", "genre": "", "score": "6.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/meipbFPnUNqBPVCJfyU6qXUGEXv.jpg", "actors": [], "comments": [], "recommandations_id": [145283, 174298, 146211, 72208]}

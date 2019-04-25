@@ -1,1 +1,0 @@
-{"tmdb_id": 367483, "title": "Russian Stories", "original_title": "Russian Stories", "slug_title": "russian-stories", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

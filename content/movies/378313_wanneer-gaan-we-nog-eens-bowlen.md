@@ -1,1 +1,0 @@
-{"tmdb_id": 378313, "title": "Wanneer gaan we nog eens bowlen?", "original_title": "Wanneer gaan we nog eens bowlen?", "slug_title": "wanneer-gaan-we-nog-eens-bowlen", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

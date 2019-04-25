@@ -1,1 +1,0 @@
-{"tmdb_id": 589675, "title": "Dear, Can I Give You a Hand?", "original_title": "Dear, Can I Give You a Hand?", "slug_title": "dear-can-i-give-you-a-hand", "date": "2018-05-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

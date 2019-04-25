@@ -1,1 +1,0 @@
-{"tmdb_id": 498357, "title": "Diaghilev and the Ballets Russes", "original_title": "Diaghilev and the Ballets Russes", "slug_title": "diaghilev-and-the-ballets-russes", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

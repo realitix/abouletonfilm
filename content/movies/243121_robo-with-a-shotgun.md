@@ -1,1 +1,0 @@
-{"tmdb_id": 243121, "title": "Robo with a Shotgun", "original_title": "Robo with a Shotgun", "slug_title": "robo-with-a-shotgun", "date": "2012-02-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bQlxhH2mVHhKBh4r3RUfKkRKuEz.jpg", "actors": [], "comments": [], "recommandations_id": []}

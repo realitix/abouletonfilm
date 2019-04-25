@@ -1,1 +1,0 @@
-{"tmdb_id": 503313, "title": "Lisboa Cultural", "original_title": "Lisboa Cultural", "slug_title": "lisboa-cultural", "date": "1983-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

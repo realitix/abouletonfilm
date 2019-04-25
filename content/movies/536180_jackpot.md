@@ -1,1 +1,0 @@
-{"tmdb_id": 536180, "title": "Jackpot", "original_title": "Jackpot", "slug_title": "jackpot", "date": "2018-03-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ik9f1XgHpHTqfWAXidIZ6WJZbSl.jpg", "actors": [], "comments": [], "recommandations_id": []}

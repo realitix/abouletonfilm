@@ -1,1 +1,0 @@
-{"tmdb_id": 492460, "title": "Don't Cry for Me Sudan", "original_title": "\uc6b8\uc9c0\ub9c8 \ud1a4\uc988", "slug_title": "don-t-cry-for-me-sudan", "date": "2010-09-09", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7BFB7LlxJ2YG5SmRniA9nQ77GwJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 508248, "title": "The Lift", "original_title": "The Lift", "slug_title": "the-lift", "date": "2009-10-25", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yEtCzJr0ZM7ASia2GX6kp2fL68R.jpg", "actors": [], "comments": [], "recommandations_id": []}

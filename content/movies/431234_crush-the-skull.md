@@ -1,1 +1,0 @@
-{"tmdb_id": 431234, "title": "Crush the Skull", "original_title": "Crush the Skull", "slug_title": "crush-the-skull", "date": "2011-10-30", "genre": "Horreur / Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Michael Bost (Stranger)", "Chris Dinh (Austin)", "Tara Perry (Steph)"], "comments": [], "recommandations_id": []}

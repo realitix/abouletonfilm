@@ -1,1 +1,0 @@
-{"tmdb_id": 331734, "title": "The Noble \"D\"", "original_title": "The Noble \"D\"", "slug_title": "the-noble-d", "date": "2013-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

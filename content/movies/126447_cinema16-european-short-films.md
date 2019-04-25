@@ -1,1 +1,0 @@
-{"tmdb_id": 126447, "title": "Cinema16: European Short Films", "original_title": "Cinema16: European Short Films", "slug_title": "cinema16-european-short-films", "date": "2006-06-05", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/96lFL9LBMer5dYSRyl1y8wJOX2v.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 346696, "title": "Little Shop of Horrors", "original_title": "Little Shop of Horrors", "slug_title": "little-shop-of-horrors", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

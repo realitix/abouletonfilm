@@ -1,1 +1,0 @@
-{"tmdb_id": 499524, "title": "Zakaria", "original_title": "Zakaria", "slug_title": "zakaria", "date": "2013-10-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["C\u00e9lia Mazade ()", "Sa\u00efd Ahmama (Zakaria)"], "comments": [], "recommandations_id": []}

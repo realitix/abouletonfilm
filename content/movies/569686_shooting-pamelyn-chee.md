@@ -1,1 +1,0 @@
-{"tmdb_id": 569686, "title": "SHOOTING PAMELYN CHEE", "original_title": "SHOOTING PAMELYN CHEE", "slug_title": "shooting-pamelyn-chee", "date": "2010-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sx1YQMtfvG7raxGcrmyfRACW2Up.jpg", "actors": ["Pamelyn Chee (herself)"], "comments": [], "recommandations_id": []}

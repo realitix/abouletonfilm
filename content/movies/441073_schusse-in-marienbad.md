@@ -1,1 +1,0 @@
-{"tmdb_id": 441073, "title": "Sch\u00fcsse in Marienbad", "original_title": "Sch\u00fcsse in Marienbad", "slug_title": "schusse-in-marienbad", "date": "1973-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vvuDt5i4UF4jZuN89pd3L26hWO4.jpg", "actors": [], "comments": [], "recommandations_id": []}

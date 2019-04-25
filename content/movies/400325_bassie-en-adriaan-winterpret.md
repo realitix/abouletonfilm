@@ -1,1 +1,0 @@
-{"tmdb_id": 400325, "title": "Bassie en Adriaan Winterpret", "original_title": "Bassie en Adriaan Winterpret", "slug_title": "bassie-en-adriaan-winterpret", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tG0yaSXhEG5sN9FWOb5E8yg1Dpf.jpg", "actors": [], "comments": [], "recommandations_id": []}

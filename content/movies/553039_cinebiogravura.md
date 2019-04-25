@@ -1,1 +1,0 @@
-{"tmdb_id": 553039, "title": "Cinebiogravura", "original_title": "Cinebiogravura", "slug_title": "cinebiogravura", "date": "2017-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

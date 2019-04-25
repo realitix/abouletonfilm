@@ -1,1 +1,0 @@
-{"tmdb_id": 446137, "title": "Camouflage Self-Portrait", "original_title": "Camouflage Self-Portrait", "slug_title": "camouflage-self-portrait", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jo\u00e3o Pedro Rodrigues ()"], "comments": [], "recommandations_id": []}

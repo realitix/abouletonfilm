@@ -1,1 +1,0 @@
-{"tmdb_id": 516113, "title": "De Castigo", "original_title": "De Castigo", "slug_title": "de-castigo", "date": "2014-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xlqQhvFOw2MFpW6cIPiyylFhd3N.jpg", "actors": ["Lilian Blanc (Tia Guta)", "Max Huszar (Felipe)"], "comments": [], "recommandations_id": []}

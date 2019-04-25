@@ -1,1 +1,0 @@
-{"tmdb_id": 300205, "title": "Do You Like to Hurt People?", "original_title": "Do You Like to Hurt People?", "slug_title": "do-you-like-to-hurt-people", "date": "2014-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

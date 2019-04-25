@@ -1,1 +1,0 @@
-{"tmdb_id": 207920, "title": "Mithunam", "original_title": "Mithunam", "slug_title": "mithunam", "date": "2012-12-21", "genre": "Drame", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5VsJ0HqAa0LZWrzUdhz6bszOU4o.jpg", "actors": ["S. P. Balasubramaniam (Appadasu)", "Lakshmi (Buchchi)"], "comments": [], "recommandations_id": []}

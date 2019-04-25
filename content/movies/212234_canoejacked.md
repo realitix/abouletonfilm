@@ -1,1 +1,0 @@
-{"tmdb_id": 212234, "title": "Canoejacked", "original_title": "Canoejacked", "slug_title": "canoejacked", "date": "2012-09-13", "genre": "Action / Aventure", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jay Canavan (Guard)", "Mpho Koaho ()", "Al Sapienza ()", "Pat Thornton ()"], "comments": [], "recommandations_id": []}

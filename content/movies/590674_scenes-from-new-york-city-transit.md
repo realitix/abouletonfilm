@@ -1,1 +1,0 @@
-{"tmdb_id": 590674, "title": "Scenes From New York City Transit", "original_title": "Scenes From New York City Transit", "slug_title": "scenes-from-new-york-city-transit", "date": "1972-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

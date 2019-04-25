@@ -1,1 +1,0 @@
-{"tmdb_id": 528330, "title": "Das Weststadt Massaker", "original_title": "Das Weststadt Massaker", "slug_title": "das-weststadt-massaker", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fcrr9wnNo5SBUifBjWJdrStFxJO.jpg", "actors": [], "comments": [], "recommandations_id": []}

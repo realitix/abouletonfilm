@@ -1,1 +1,1 @@
-{"tmdb_id": 565795, "title": "Pourquoi?", "original_title": "Pourquoi?", "slug_title": "pourquoi", "date": "1977-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 565795, "title": "Pourquoi?", "original_title": "Pourquoi?", "slug_title": "pourquoi", "date": "1977-03-16", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

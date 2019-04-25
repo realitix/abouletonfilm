@@ -1,1 +1,0 @@
-{"tmdb_id": 569304, "title": "Jour apr\u00e8s jour", "original_title": "Jour apr\u00e8s jour", "slug_title": "jour-apres-jour", "date": "1989-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gclvNelXseC4HZ4fJf2bmJKG1Db.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 208175, "title": "Chicken or the Egg", "original_title": "Chicken or the Egg", "slug_title": "chicken-or-the-egg", "date": "2013-06-17", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5TQZMJkDS3tbqDeLuR53WrxWliC.jpg", "actors": [], "comments": [], "recommandations_id": []}

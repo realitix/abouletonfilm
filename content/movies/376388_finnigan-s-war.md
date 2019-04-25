@@ -1,1 +1,0 @@
-{"tmdb_id": 376388, "title": "Finnigan's War", "original_title": "Finnigan's War", "slug_title": "finnigan-s-war", "date": "2013-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

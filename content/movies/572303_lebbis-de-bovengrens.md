@@ -1,1 +1,0 @@
-{"tmdb_id": 572303, "title": "Lebbis: De Bovengrens", "original_title": "Lebbis: De Bovengrens", "slug_title": "lebbis-de-bovengrens", "date": "2018-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fRjNmJ9igPCawJg2cSFZJ2l3DoT.jpg", "actors": ["Hans Sibbel (Lebbis)"], "comments": [], "recommandations_id": []}

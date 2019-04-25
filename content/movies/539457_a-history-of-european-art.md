@@ -1,1 +1,0 @@
-{"tmdb_id": 539457, "title": "A History of European Art", "original_title": "A History of European Art", "slug_title": "a-history-of-european-art", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/noGC8GwW1Y4DruWFHH46DObwFN.jpg", "actors": [], "comments": [], "recommandations_id": []}

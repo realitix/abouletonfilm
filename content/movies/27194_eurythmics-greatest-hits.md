@@ -1,1 +1,0 @@
-{"tmdb_id": 27194, "title": "Eurythmics: Greatest Hits", "original_title": "Eurythmics: Greatest Hits", "slug_title": "eurythmics-greatest-hits", "date": "1991-05-28", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jnb3dZULtlVHvFXIiNRMktCgU9L.jpg", "actors": [], "comments": [], "recommandations_id": []}

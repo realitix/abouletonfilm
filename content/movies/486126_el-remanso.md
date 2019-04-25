@@ -1,1 +1,1 @@
-{"tmdb_id": 486126, "title": "El remanso", "original_title": "El remanso", "slug_title": "el-remanso", "date": "1922-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 486126, "title": "El remanso", "original_title": "El remanso", "slug_title": "el-remanso", "date": "1922-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A 1922 film.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

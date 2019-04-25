@@ -1,1 +1,0 @@
-{"tmdb_id": 551565, "title": "The Caretaker", "original_title": "The Caretaker", "slug_title": "the-caretaker", "date": "1981-06-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonathan Pryce (Mick)", "Warren Mitchell (Davies)", "Kenneth Cranham (Aston)"], "comments": [], "recommandations_id": []}

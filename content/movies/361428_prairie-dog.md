@@ -1,1 +1,0 @@
-{"tmdb_id": 361428, "title": "Prairie Dog", "original_title": "Prairie Dog", "slug_title": "prairie-dog", "date": "2015-01-30", "genre": "Drame / Aventure / Thriller / Horreur / Fantastique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tEZtFb2D0KAXe73h1P9IHbiOIiE.jpg", "actors": [], "comments": [], "recommandations_id": []}

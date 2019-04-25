@@ -1,1 +1,0 @@
-{"tmdb_id": 574250, "title": "YouShoot: Scott Hall", "original_title": "YouShoot: Scott Hall", "slug_title": "youshoot-scott-hall", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Scott Hall (Himself)"], "comments": [], "recommandations_id": []}

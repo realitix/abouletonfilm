@@ -1,1 +1,0 @@
-{"tmdb_id": 301406, "title": "Capoeira Documentary: Mestre Xuxo - Enjoy Yourself", "original_title": "Capoeira Documentary: Mestre Xuxo - Enjoy Yourself", "slug_title": "capoeira-documentary-mestre-xuxo-enjoy-yourself", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

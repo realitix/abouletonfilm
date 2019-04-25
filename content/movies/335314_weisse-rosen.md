@@ -1,1 +1,0 @@
-{"tmdb_id": 335314, "title": "Weisse Rosen", "original_title": "Weisse Rosen", "slug_title": "weisse-rosen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

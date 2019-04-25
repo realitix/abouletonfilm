@@ -1,1 +1,0 @@
-{"tmdb_id": 349961, "title": "\uae40\ub450\ud55c\uacfc \uc11c\ub300\ubb381\ubc88\uc9c0", "original_title": "\uae40\ub450\ud55c\uacfc \uc11c\ub300\ubb381\ubc88\uc9c0", "slug_title": "gimduhangwa-seodaemun1beonji", "date": "1981-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

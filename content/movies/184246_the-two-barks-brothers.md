@@ -1,1 +1,0 @@
-{"tmdb_id": 184246, "title": "The Two Barks Brothers", "original_title": "The Two Barks Brothers", "slug_title": "the-two-barks-brothers", "date": "1931-10-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

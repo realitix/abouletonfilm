@@ -1,1 +1,0 @@
-{"tmdb_id": 334566, "title": "Genevi\u00e8ve de Brabant", "original_title": "Genevi\u00e8ve de Brabant", "slug_title": "genevieve-de-brabant", "date": "1907-04-05", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

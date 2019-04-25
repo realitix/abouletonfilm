@@ -1,1 +1,0 @@
-{"tmdb_id": 249711, "title": "Skyhook", "original_title": "Skyhook", "slug_title": "skyhook", "date": "1958-01-12", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zxu6t1JkROCv68TS7kRgnjKCTKj.jpg", "actors": [], "comments": [], "recommandations_id": []}

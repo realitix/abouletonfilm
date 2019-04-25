@@ -1,1 +1,0 @@
-{"tmdb_id": 360625, "title": "White Film", "original_title": "White Film", "slug_title": "white-film", "date": "1978-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/knjpL0yaDjy8MxmqcpucXLwbmFD.jpg", "actors": [], "comments": [], "recommandations_id": []}

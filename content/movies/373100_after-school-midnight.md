@@ -1,1 +1,0 @@
-{"tmdb_id": 373100, "title": "After School Midnight", "original_title": "H\u00f4kago midnight", "slug_title": "after-school-midnight", "date": "2007-01-01", "genre": "Fantastique / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

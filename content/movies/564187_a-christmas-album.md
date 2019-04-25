@@ -1,1 +1,0 @@
-{"tmdb_id": 564187, "title": "A Christmas Album", "original_title": "A Christmas Album", "slug_title": "a-christmas-album", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Olga Sanchez ()", "Michael Tierno ()"], "comments": [], "recommandations_id": []}

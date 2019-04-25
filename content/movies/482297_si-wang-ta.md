@@ -1,1 +1,0 @@
-{"tmdb_id": 482297, "title": "Si wang ta", "original_title": "Si wang ta", "slug_title": "si-wang-ta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

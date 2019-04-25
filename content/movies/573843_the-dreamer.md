@@ -1,1 +1,0 @@
-{"tmdb_id": 573843, "title": "The Dreamer", "original_title": "The Dreamer", "slug_title": "the-dreamer", "date": "2018-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a5Wf5UEWb6p8jh2rRdvY6tQgmLR.jpg", "actors": [], "comments": [], "recommandations_id": []}

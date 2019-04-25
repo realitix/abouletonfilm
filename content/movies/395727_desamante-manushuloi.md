@@ -1,1 +1,0 @@
-{"tmdb_id": 395727, "title": "Desamante Manushuloi", "original_title": "Desamante Manushuloi", "slug_title": "desamante-manushuloi", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sobhan Babu ()", "S. V. Ranga Rao ()", "Anjali Devi ()"], "comments": [], "recommandations_id": []}

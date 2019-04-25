@@ -1,1 +1,0 @@
-{"tmdb_id": 319889, "title": "Real Wheels: Mega Truck Adventures", "original_title": "Real Wheels: Mega Truck Adventures", "slug_title": "real-wheels-mega-truck-adventures", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

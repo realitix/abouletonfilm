@@ -1,1 +1,0 @@
-{"tmdb_id": 436359, "title": "Fighting Through the Night", "original_title": "Combat au bout de la nuit", "slug_title": "fighting-through-the-night", "date": "2016-11-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rbpHiDZ0gb4y3r9gaVraloVmsBz.jpg", "actors": [], "comments": [], "recommandations_id": []}

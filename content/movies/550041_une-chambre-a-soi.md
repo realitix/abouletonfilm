@@ -1,1 +1,0 @@
-{"tmdb_id": 550041, "title": "Une chambre \u00e1 soi", "original_title": "Une chambre \u00e1 soi", "slug_title": "une-chambre-a-soi", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 437649, "title": "El cascabel de Zapir\u00f3n", "original_title": "El cascabel de Zapir\u00f3n", "slug_title": "el-cascabel-de-zapiron", "date": "1943-01-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

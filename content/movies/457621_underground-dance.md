@@ -1,1 +1,0 @@
-{"tmdb_id": 457621, "title": "Underground Dance", "original_title": "Underground Dance", "slug_title": "underground-dance", "date": "2015-10-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zp3xJw4UuDuyIZCmIF2McNX5yO3.jpg", "actors": [], "comments": [], "recommandations_id": []}

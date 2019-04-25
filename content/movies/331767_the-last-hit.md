@@ -1,1 +1,0 @@
-{"tmdb_id": 331767, "title": "The Last Hit", "original_title": "The Last Hit", "slug_title": "the-last-hit", "date": "2013-10-27", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5kYBG2MiK4NVoJOMCKVlJtPlHqP.jpg", "actors": ["Valentina Izarra (Assassin)"], "comments": [], "recommandations_id": []}

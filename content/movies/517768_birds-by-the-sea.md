@@ -1,1 +1,0 @@
-{"tmdb_id": 517768, "title": "Birds by the Sea", "original_title": "F\u00e5glar vid havet", "slug_title": "birds-by-the-sea", "date": "2008-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mkkKxAM8g43vipAgr5ycvddlWtx.jpg", "actors": [], "comments": [], "recommandations_id": []}

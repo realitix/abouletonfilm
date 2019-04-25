@@ -1,1 +1,0 @@
-{"tmdb_id": 331743, "title": "Packard: The Last Shift", "original_title": "Packard: The Last Shift", "slug_title": "packard-the-last-shift", "date": "2014-03-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Celeste Headlee (Narration)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 493791, "title": "Wind & Water", "original_title": "Wind & Water", "slug_title": "wind-water", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oWxVZRGRsUttPwNUGV6OHO6waJX.jpg", "actors": [], "comments": [], "recommandations_id": []}

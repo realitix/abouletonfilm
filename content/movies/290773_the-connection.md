@@ -1,1 +1,0 @@
-{"tmdb_id": 290773, "title": "The Connection", "original_title": "The Connection", "slug_title": "the-connection", "date": "2014-09-01", "genre": "Documentaire", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nXC7lio84kKCxFukcWwcmkhatP8.jpg", "actors": [], "comments": [], "recommandations_id": []}

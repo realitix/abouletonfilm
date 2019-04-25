@@ -1,1 +1,0 @@
-{"tmdb_id": 391833, "title": "Flip-Flop And Rock! Or... It's Ruff To Be Puff!", "original_title": "Flip-Flop And Rock! Or... It's Ruff To Be Puff!", "slug_title": "flip-flop-and-rock-or-it-s-ruff-to-be-puff", "date": "2006-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

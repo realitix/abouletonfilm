@@ -1,1 +1,0 @@
-{"tmdb_id": 186486, "title": "Tenacious D: Rock am Ring", "original_title": "Tenacious D: Rock am Ring", "slug_title": "tenacious-d-rock-am-ring", "date": "2012-06-01", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yttmFS2DyRMWynuJht1fyS3oLG8.jpg", "actors": [], "comments": [], "recommandations_id": []}

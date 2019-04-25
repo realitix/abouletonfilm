@@ -1,1 +1,0 @@
-{"tmdb_id": 574331, "title": "Paris Birth Film", "original_title": "Paris Birth Film", "slug_title": "paris-birth-film", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un court film de Robert Fulton", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

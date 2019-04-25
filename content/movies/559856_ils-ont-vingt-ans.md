@@ -1,1 +1,0 @@
-{"tmdb_id": 559856, "title": "Ils ont vingt ans", "original_title": "Ils ont vingt ans", "slug_title": "ils-ont-vingt-ans", "date": "1950-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ass7daWBQ8hUPcOM6D8EkW53zRD.jpg", "actors": [], "comments": [], "recommandations_id": []}

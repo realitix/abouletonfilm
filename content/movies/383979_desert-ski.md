@@ -1,1 +1,0 @@
-{"tmdb_id": 383979, "title": "Desert Ski", "original_title": "Duffel", "slug_title": "desert-ski", "date": "2007-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/exetTf90ltpKen6Jcaljk6RfACg.jpg", "actors": [], "comments": [], "recommandations_id": []}

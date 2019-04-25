@@ -1,1 +1,0 @@
-{"tmdb_id": 312059, "title": "Inside Creedence Clearwater Revival", "original_title": "Inside Creedence Clearwater Revival", "slug_title": "inside-creedence-clearwater-revival", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

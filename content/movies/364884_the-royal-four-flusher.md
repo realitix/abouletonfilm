@@ -1,1 +1,0 @@
-{"tmdb_id": 364884, "title": "The Royal Four-Flusher", "original_title": "The Royal Four-Flusher", "slug_title": "the-royal-four-flusher", "date": "1930-05-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edward Buzzell ()", "Doris Dawson ()", "Nora Swinburne ()"], "comments": [], "recommandations_id": []}

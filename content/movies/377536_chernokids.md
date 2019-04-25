@@ -1,1 +1,0 @@
-{"tmdb_id": 377536, "title": "Chernokids", "original_title": "Chernokids", "slug_title": "chernokids", "date": "2010-01-14", "genre": "Myst\u00e8re / Animation / Aventure", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/haAB9UWO4FasWkJCAVO4Z5GtPnh.jpg", "actors": [], "comments": [], "recommandations_id": []}

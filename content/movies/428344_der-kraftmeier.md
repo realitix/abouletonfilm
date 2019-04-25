@@ -1,1 +1,0 @@
-{"tmdb_id": 428344, "title": "Der Kraftmeier", "original_title": "Der Kraftmeier", "slug_title": "der-kraftmeier", "date": "1915-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernst Lubitsch (Stubenhocker)"], "comments": [], "recommandations_id": []}

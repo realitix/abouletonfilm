@@ -1,1 +1,0 @@
-{"tmdb_id": 500761, "title": "Vineyard III", "original_title": "Vineyard III", "slug_title": "vineyard-iii", "date": "1968-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/JnlYSw98qRq4zNRBRboLDCbvB3.jpg", "actors": [], "comments": [], "recommandations_id": []}

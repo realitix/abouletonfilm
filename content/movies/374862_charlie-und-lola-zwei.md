@@ -1,1 +1,0 @@
-{"tmdb_id": 374862, "title": "Charlie und Lola - Zwei", "original_title": "Charlie und Lola - Zwei", "slug_title": "charlie-und-lola-zwei", "date": "2005-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6WEKF58Dg0J94iDMiZQ4cZj3kCu.jpg", "actors": [], "comments": [], "recommandations_id": []}

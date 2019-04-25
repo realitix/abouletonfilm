@@ -1,1 +1,0 @@
-{"tmdb_id": 476684, "title": "Raise Your Kids on Seltzer", "original_title": "Raise Your Kids on Seltzer", "slug_title": "raise-your-kids-on-seltzer", "date": "2015-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

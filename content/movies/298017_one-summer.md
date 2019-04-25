@@ -1,1 +1,0 @@
-{"tmdb_id": 298017, "title": "One Summer", "original_title": "Yi Ge Xia Tian", "slug_title": "one-summer", "date": "2014-10-05", "genre": "Drame", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shi Chunling ()", "Feng Xizhi ()"], "comments": [], "recommandations_id": []}

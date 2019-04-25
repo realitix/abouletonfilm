@@ -1,1 +1,0 @@
-{"tmdb_id": 223323, "title": "Psychopath", "original_title": "Psychopath", "slug_title": "psychopath", "date": "1998-09-22", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yZRdWXzYpV9raUQYg55rEXTHEeO.jpg", "actors": ["M\u00e4dchen Amick (Rachel Dwyer)", "Chris Mulkey (Lennox)"], "comments": [], "recommandations_id": []}

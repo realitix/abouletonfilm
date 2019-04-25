@@ -1,1 +1,0 @@
-{"tmdb_id": 455557, "title": "Documentarist", "original_title": "Vaveragrogh", "slug_title": "documentarist", "date": "2003-04-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5j13nFzj4NF95Jzt8n2Y981XMTk.jpg", "actors": [], "comments": [], "recommandations_id": []}

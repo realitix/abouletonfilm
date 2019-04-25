@@ -1,1 +1,0 @@
-{"tmdb_id": 299237, "title": "The Good Life", "original_title": "The Good Life", "slug_title": "the-good-life", "date": "2013-03-10", "genre": "Thriller / Drame / Myst\u00e8re", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/igxljgD9JDmIO0CR8raTYadv2Eu.jpg", "actors": [], "comments": [], "recommandations_id": []}

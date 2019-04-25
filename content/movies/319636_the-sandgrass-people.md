@@ -1,1 +1,0 @@
-{"tmdb_id": 319636, "title": "The Sandgrass People", "original_title": "The Sandgrass People", "slug_title": "the-sandgrass-people", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/onfzHHG6XeSTWwfGTnXI5k8sDhC.jpg", "actors": [], "comments": [], "recommandations_id": []}

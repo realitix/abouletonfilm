@@ -1,1 +1,0 @@
-{"tmdb_id": 544290, "title": "Aliens With Knives", "original_title": "Aliens With Knives", "slug_title": "aliens-with-knives", "date": "2018-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Holly Stevens ()", "Bill Corkum ()", "Mark Palermo ()", "Sharleen Kalayi ()"], "comments": [], "recommandations_id": []}

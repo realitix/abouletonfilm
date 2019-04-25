@@ -1,1 +1,0 @@
-{"tmdb_id": 232165, "title": "High School Field Exercises, Missouri Commission", "original_title": "High School Field Exercises, Missouri Commission", "slug_title": "high-school-field-exercises-missouri-commission", "date": "1904-05-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

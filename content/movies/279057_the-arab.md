@@ -1,1 +1,0 @@
-{"tmdb_id": 279057, "title": "The Arab", "original_title": "The Arab", "slug_title": "the-arab", "date": "1924-07-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramon Novarro (Jamil Abdullah Azam)", "Alice Terry (Mary Hilbert)"], "comments": [], "recommandations_id": []}

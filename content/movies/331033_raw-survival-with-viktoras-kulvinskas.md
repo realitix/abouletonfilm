@@ -1,1 +1,0 @@
-{"tmdb_id": 331033, "title": "Raw Survival with Viktoras Kulvinskas", "original_title": "Raw Survival with Viktoras Kulvinskas", "slug_title": "raw-survival-with-viktoras-kulvinskas", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

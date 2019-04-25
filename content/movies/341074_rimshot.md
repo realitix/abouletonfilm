@@ -1,1 +1,0 @@
-{"tmdb_id": 341074, "title": "Rimshot", "original_title": "Rimshot", "slug_title": "rimshot", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

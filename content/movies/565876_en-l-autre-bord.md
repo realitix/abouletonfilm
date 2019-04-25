@@ -1,1 +1,0 @@
-{"tmdb_id": 565876, "title": "En l'autre bord", "original_title": "En l'autre bord", "slug_title": "en-l-autre-bord", "date": "1978-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t1cZ4WOKHvmWOZupmIx86m7hmqW.jpg", "actors": [], "comments": [], "recommandations_id": []}

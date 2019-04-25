@@ -1,1 +1,0 @@
-{"tmdb_id": 97286, "title": "Tell Me I'm Dreaming", "original_title": "Dis-Moi Que Je R\u00eave", "slug_title": "tell-me-i-m-dreaming", "date": "1998-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/72BbBaDecOAoYf5WgRx60Ko5Yo1.jpg", "actors": [], "comments": [], "recommandations_id": []}

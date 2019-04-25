@@ -1,1 +1,0 @@
-{"tmdb_id": 159559, "title": "The Sound of Light", "original_title": "Hikari no oto", "slug_title": "the-sound-of-light", "date": "2011-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1cHteMOz9nuYtaU58LoUcsU0a8y.jpg", "actors": [], "comments": [], "recommandations_id": []}

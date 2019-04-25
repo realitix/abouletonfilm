@@ -1,1 +1,0 @@
-{"tmdb_id": 272545, "title": "Longhaul", "original_title": "Longhaul", "slug_title": "longhaul", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 315606, "title": "The Little Mermaid", "original_title": "The Little Mermaid", "slug_title": "the-little-mermaid", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pGtFdNa4gWqPrbR6zfnQzHSd3HX.jpg", "actors": ["Richard Chamberlain (Narrator)"], "comments": [], "recommandations_id": []}

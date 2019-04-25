@@ -1,1 +1,0 @@
-{"tmdb_id": 424141, "title": "The King of Laurel Canyon", "original_title": "The King of Laurel Canyon", "slug_title": "the-king-of-laurel-canyon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o6uzns04GE9BrSiTxe9ZczwS2Oz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 112668, "title": "Guys With Kids", "original_title": "Guys With Kids", "slug_title": "guys-with-kids", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

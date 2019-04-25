@@ -1,1 +1,0 @@
-{"tmdb_id": 484446, "title": "Companion", "original_title": "Kaulayaw", "slug_title": "companion", "date": "2017-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gab Joves ()", "Amara Ui ()", "Felix Roco ()"], "comments": [], "recommandations_id": []}

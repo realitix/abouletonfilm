@@ -1,1 +1,0 @@
-{"tmdb_id": 547597, "title": "The Star Rover", "original_title": "The Star Rover", "slug_title": "the-star-rover", "date": "1920-11-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tAXftoy5MNs7VEl6VVq6Ofv55NR.jpg", "actors": [], "comments": [], "recommandations_id": []}

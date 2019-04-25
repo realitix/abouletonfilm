@@ -1,1 +1,0 @@
-{"tmdb_id": 567527, "title": "Calidris", "original_title": "Calidris", "slug_title": "calidris", "date": "2019-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

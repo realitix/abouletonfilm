@@ -1,1 +1,0 @@
-{"tmdb_id": 334719, "title": "Desert Dreams", "original_title": "Desert Dreams", "slug_title": "desert-dreams", "date": "2013-05-19", "genre": "Documentaire / Familial", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dFa3NXapvZeoFHlKQKaw0qFOnJ0.jpg", "actors": [], "comments": [], "recommandations_id": []}

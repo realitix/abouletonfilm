@@ -1,1 +1,0 @@
-{"tmdb_id": 236427, "title": "The Timid Toreador", "original_title": "The Timid Toreador", "slug_title": "the-timid-toreador", "date": "1940-12-20", "genre": "Animation / Com\u00e9die", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yV2LYz5jKnhTqs4o8OVX1e793wM.jpg", "actors": [], "comments": [], "recommandations_id": []}

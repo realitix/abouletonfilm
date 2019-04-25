@@ -1,1 +1,0 @@
-{"tmdb_id": 490841, "title": "Self Portrait", "original_title": "Self Portrait", "slug_title": "self-portrait", "date": "1989-01-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5pioyDFcbhN5UX82ePPrN3zlVYm.jpg", "actors": [], "comments": [], "recommandations_id": []}

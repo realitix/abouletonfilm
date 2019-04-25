@@ -1,1 +1,0 @@
-{"tmdb_id": 237848, "title": "Run of N.Y. Fire Department", "original_title": "Run of N.Y. Fire Department", "slug_title": "run-of-n-y-fire-department", "date": "1903-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

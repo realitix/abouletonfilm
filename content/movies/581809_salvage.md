@@ -1,1 +1,0 @@
-{"tmdb_id": 581809, "title": "Salvage", "original_title": "Salvage", "slug_title": "salvage", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Romaine Waite (Homeless Man)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 140512, "title": "The Ghost Cat of Otama Pond", "original_title": "Kaiby\u00f4 Otama-ga-ike", "slug_title": "the-ghost-cat-of-otama-pond", "date": "1960-07-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sm0c8rG4nQfOGqDBaJ0zZ2R35yE.jpg", "actors": [], "comments": [], "recommandations_id": []}

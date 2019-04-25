@@ -1,1 +1,0 @@
-{"tmdb_id": 174330, "title": "In God We Trust", "original_title": "In God We Trust", "slug_title": "in-god-we-trust", "date": "2013-04-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vuYoS4wqMh0Ul7pMkrdty120WJQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

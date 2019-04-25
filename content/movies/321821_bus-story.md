@@ -1,1 +1,0 @@
-{"tmdb_id": 321821, "title": "Bus Story", "original_title": "Bus Story", "slug_title": "bus-story", "date": "2014-06-10", "genre": "Animation", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AhoQjkHfSYpmN3sHFp9NZJbVyCn.jpg", "actors": [], "comments": [], "recommandations_id": [307697, 307695, 289024, 91512]}

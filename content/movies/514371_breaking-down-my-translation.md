@@ -1,1 +1,0 @@
-{"tmdb_id": 514371, "title": "Breaking Down My Translation", "original_title": "Breaking Down My Translation", "slug_title": "breaking-down-my-translation", "date": "2017-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Azara Meghie ()"], "comments": [], "recommandations_id": []}

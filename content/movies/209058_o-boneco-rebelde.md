@@ -1,1 +1,0 @@
-{"tmdb_id": 209058, "title": "O Boneco Rebelde", "original_title": "O Boneco Rebelde", "slug_title": "o-boneco-rebelde", "date": "1942-01-02", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v3N7AQAeqsCQzbmLAZuFAXhTynh.jpg", "actors": [], "comments": [], "recommandations_id": []}

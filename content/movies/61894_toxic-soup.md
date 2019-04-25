@@ -1,1 +1,0 @@
-{"tmdb_id": 61894, "title": "Toxic Soup", "original_title": "Toxic Soup", "slug_title": "toxic-soup", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kjISIUSkvJrynVphADa5EG42oCv.jpg", "actors": [], "comments": [], "recommandations_id": []}

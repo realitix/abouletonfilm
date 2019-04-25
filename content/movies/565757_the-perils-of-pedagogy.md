@@ -1,1 +1,0 @@
-{"tmdb_id": 565757, "title": "The Perils of Pedagogy", "original_title": "The Perils of Pedagogy", "slug_title": "the-perils-of-pedagogy", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

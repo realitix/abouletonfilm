@@ -1,1 +1,0 @@
-{"tmdb_id": 301669, "title": "Ave Maria", "original_title": "Ave Maria", "slug_title": "ave-maria", "date": "1999-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9MKaoFpcbmhckDr880AX6NerAQ7.jpg", "actors": ["Lyudmila Yefymenko ()", "Oleg Drach ()"], "comments": [], "recommandations_id": []}

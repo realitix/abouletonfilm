@@ -1,1 +1,0 @@
-{"tmdb_id": 414427, "title": "The Case", "original_title": "P\u0159\u00edpad", "slug_title": "the-case", "date": "2012-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cSEcw3VL371mxGmjmkmdbFbmNPC.jpg", "actors": [], "comments": [], "recommandations_id": []}

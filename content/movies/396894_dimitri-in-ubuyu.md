@@ -1,1 +1,0 @@
-{"tmdb_id": 396894, "title": "Dimitri in Ubuyu", "original_title": "Dimitri \u00e0 Ubuyu", "slug_title": "dimitri-in-ubuyu", "date": "2014-11-19", "genre": "Animation / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fNWI8quhMplkkL6CfPbsnOB5Rei.jpg", "actors": [], "comments": [], "recommandations_id": []}

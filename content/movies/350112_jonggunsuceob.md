@@ -1,1 +1,0 @@
-{"tmdb_id": 350112, "title": "\uc885\uad70\uc218\ucca9", "original_title": "\uc885\uad70\uc218\ucca9", "slug_title": "jonggunsuceob", "date": "1981-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

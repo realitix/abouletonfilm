@@ -1,1 +1,0 @@
-{"tmdb_id": 346017, "title": "Paris Jazzed Out", "original_title": "Paris Jazzed Out", "slug_title": "paris-jazzed-out", "date": "2010-10-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

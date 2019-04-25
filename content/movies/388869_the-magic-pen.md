@@ -1,1 +1,0 @@
-{"tmdb_id": 388869, "title": "The Magic Pen", "original_title": "Mahou no Pen", "slug_title": "the-magic-pen", "date": "1946-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rVxchtmRnqMiYiZn7T4LZhQ7yBK.jpg", "actors": [], "comments": [], "recommandations_id": []}

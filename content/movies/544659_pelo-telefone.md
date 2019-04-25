@@ -1,1 +1,0 @@
-{"tmdb_id": 544659, "title": "Pelo Telefone", "original_title": "Pelo Telefone", "slug_title": "pelo-telefone", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 380354, "title": "Be Fit & Dance!", "original_title": "Be Fit & Dance!", "slug_title": "be-fit-dance", "date": "2013-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5lDGXpwUJGUKr753xQNjPJic73M.jpg", "actors": ["Barbara Becker ()"], "comments": [], "recommandations_id": []}

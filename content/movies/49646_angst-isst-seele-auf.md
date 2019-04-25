@@ -1,1 +1,0 @@
-{"tmdb_id": 49646, "title": "Angst isst Seele auf", "original_title": "Angst isst Seele auf", "slug_title": "angst-isst-seele-auf", "date": "2002-10-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/atZ4mKNdOzL1gU9QGmiyBdiIkYt.jpg", "actors": ["Brigitte Mira (Emmi)"], "comments": [], "recommandations_id": []}

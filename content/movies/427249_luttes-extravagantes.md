@@ -1,1 +1,0 @@
-{"tmdb_id": 427249, "title": "Luttes extravagantes", "original_title": "Luttes extravagantes", "slug_title": "luttes-extravagantes", "date": "1899-11-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 520260, "title": "Gay Kid and Fat Chick", "original_title": "Gay Kid and Fat Chick", "slug_title": "gay-kid-and-fat-chick", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jaboukie Young-White ()", "Danielle Macdonald ()"], "comments": [], "recommandations_id": []}

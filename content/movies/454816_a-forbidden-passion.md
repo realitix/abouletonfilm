@@ -1,1 +1,0 @@
-{"tmdb_id": 454816, "title": "A Forbidden Passion", "original_title": "A Forbidden Passion", "slug_title": "a-forbidden-passion", "date": "2004-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ang Lee (Himself)"], "comments": [], "recommandations_id": []}

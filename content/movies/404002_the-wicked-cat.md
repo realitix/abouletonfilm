@@ -1,1 +1,0 @@
-{"tmdb_id": 404002, "title": "The Wicked Cat", "original_title": "The Wicked Cat", "slug_title": "the-wicked-cat", "date": "1922-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

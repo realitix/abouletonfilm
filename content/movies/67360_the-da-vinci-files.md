@@ -1,1 +1,0 @@
-{"tmdb_id": 67360, "title": "The Da Vinci Files", "original_title": "The Da Vinci Files", "slug_title": "the-da-vinci-files", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/14bVJCib5AjedQenINGpdPymyV6.jpg", "actors": [], "comments": [], "recommandations_id": []}

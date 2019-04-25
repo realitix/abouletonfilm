@@ -1,1 +1,0 @@
-{"tmdb_id": 575946, "title": "How Not To Meditate", "original_title": "How Not To Meditate", "slug_title": "how-not-to-meditate", "date": "2018-05-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/83zOY9edZX3ljQfDLl3H3BOtM2H.jpg", "actors": [], "comments": [], "recommandations_id": []}

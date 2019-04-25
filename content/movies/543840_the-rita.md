@@ -1,1 +1,0 @@
-{"tmdb_id": 543840, "title": "The Rita", "original_title": "The Rita", "slug_title": "the-rita", "date": "2018-05-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xWD0wmKfG0alVUMVcIiMIUbMfeh.jpg", "actors": ["Kelly Davis (Dancer)"], "comments": [], "recommandations_id": []}

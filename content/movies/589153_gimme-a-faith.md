@@ -1,1 +1,0 @@
-{"tmdb_id": 589153, "title": "Gimme a Faith", "original_title": "Gimme a Faith", "slug_title": "gimme-a-faith", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

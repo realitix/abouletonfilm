@@ -1,1 +1,0 @@
-{"tmdb_id": 372162, "title": "Somnambulicy", "original_title": "Somnambulicy", "slug_title": "somnambulicy", "date": "1953-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/13zmDs6nEZn5CaEneO9CBZP5GPp.jpg", "actors": [], "comments": [], "recommandations_id": []}

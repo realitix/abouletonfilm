@@ -1,1 +1,0 @@
-{"tmdb_id": 370373, "title": "The Girl Before", "original_title": "The Girl Before", "slug_title": "the-girl-before", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

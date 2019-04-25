@@ -1,1 +1,0 @@
-{"tmdb_id": 532144, "title": "Phish - 2015-09-06 - Commerce City, CO Webcast", "original_title": "Phish - 2015-09-06 - Commerce City, CO Webcast", "slug_title": "phish-2015-09-06-commerce-city-co-webcast", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

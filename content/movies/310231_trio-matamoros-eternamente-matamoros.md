@@ -1,1 +1,0 @@
-{"tmdb_id": 310231, "title": "Trio Matamoros: Eternamente Matamoros", "original_title": "Trio Matamoros: Eternamente Matamoros", "slug_title": "trio-matamoros-eternamente-matamoros", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

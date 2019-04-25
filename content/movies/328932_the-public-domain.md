@@ -1,1 +1,0 @@
-{"tmdb_id": 328932, "title": "The Public Domain", "original_title": "The Public Domain", "slug_title": "the-public-domain", "date": "2015-03-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emily Bridges (Linda Basili)"], "comments": [], "recommandations_id": []}

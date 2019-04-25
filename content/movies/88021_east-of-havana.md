@@ -1,1 +1,0 @@
-{"tmdb_id": 88021, "title": "East of Havana", "original_title": "East of Havana", "slug_title": "east-of-havana", "date": "2006-03-14", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aIzSFeq5A3OPbTnwNIOOmMmMxQa.jpg", "actors": [], "comments": [], "recommandations_id": []}

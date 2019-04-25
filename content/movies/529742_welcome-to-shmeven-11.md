@@ -1,1 +1,0 @@
-{"tmdb_id": 529742, "title": "Welcome To Shmeven 11", "original_title": "Welcome To Shmeven 11", "slug_title": "welcome-to-shmeven-11", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7jzXc0l2kEaPEilyPwyKS6MyvXM.jpg", "actors": [], "comments": [], "recommandations_id": []}

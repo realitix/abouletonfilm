@@ -1,1 +1,0 @@
-{"tmdb_id": 457055, "title": "Woman in a House", "original_title": "Woman in a House", "slug_title": "woman-in-a-house", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

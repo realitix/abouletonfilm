@@ -1,1 +1,0 @@
-{"tmdb_id": 292470, "title": "The Weir-Falcon Saga", "original_title": "The Weir-Falcon Saga", "slug_title": "the-weir-falcon-saga", "date": "1970-12-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fq1aRJoMhd6Kpz05Gq5ZiCXgNgI.jpg", "actors": [], "comments": [], "recommandations_id": []}

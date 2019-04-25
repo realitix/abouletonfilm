@@ -1,1 +1,0 @@
-{"tmdb_id": 415551, "title": "Life of an English Fireman", "original_title": "Life of an English Fireman", "slug_title": "life-of-an-english-fireman", "date": "1903-05-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

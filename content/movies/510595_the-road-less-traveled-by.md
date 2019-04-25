@@ -1,1 +1,0 @@
-{"tmdb_id": 510595, "title": "The Road Less Traveled By", "original_title": "The Road Less Traveled By", "slug_title": "the-road-less-traveled-by", "date": "2015-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kFhJHE80NDNzXtBMs0ZMRxNSkf5.jpg", "actors": [], "comments": [], "recommandations_id": []}

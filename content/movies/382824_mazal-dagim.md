@@ -1,1 +1,0 @@
-{"tmdb_id": 382824, "title": "Mazal Dagim", "original_title": "Mazal Dagim", "slug_title": "mazal-dagim", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

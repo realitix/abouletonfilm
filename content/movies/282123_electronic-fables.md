@@ -1,1 +1,0 @@
-{"tmdb_id": 282123, "title": "Electronic Fables", "original_title": "Electronic Fables", "slug_title": "electronic-fables", "date": "1965-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/viP4ZJSBk9c4tcbSWXGbCi3LLZR.jpg", "actors": [], "comments": [], "recommandations_id": []}

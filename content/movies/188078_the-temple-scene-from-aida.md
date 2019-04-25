@@ -1,1 +1,0 @@
-{"tmdb_id": 188078, "title": "The Temple Scene from 'Aida'", "original_title": "The Temple Scene from 'Aida'", "slug_title": "the-temple-scene-from-aida", "date": "1930-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

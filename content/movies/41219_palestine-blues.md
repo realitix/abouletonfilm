@@ -1,1 +1,0 @@
-{"tmdb_id": 41219, "title": "Palestine Blues", "original_title": "Palestine Blues", "slug_title": "palestine-blues", "date": "", "genre": "Documentaire / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vNNFx0JwGdBIsTf4ATz6cVduI6Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 219970, "title": "Hot Rod Girls Save the World", "original_title": "Hot Rod Girls Save the World", "slug_title": "hot-rod-girls-save-the-world", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wGzJK8jISy9hmoOAuUOrJAKIvQ2.jpg", "actors": [], "comments": [], "recommandations_id": []}

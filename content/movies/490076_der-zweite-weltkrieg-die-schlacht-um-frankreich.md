@@ -1,1 +1,0 @@
-{"tmdb_id": 490076, "title": "Der Zweite Weltkrieg - Die Schlacht um Frankreich", "original_title": "Der Zweite Weltkrieg - Die Schlacht um Frankreich", "slug_title": "der-zweite-weltkrieg-die-schlacht-um-frankreich", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

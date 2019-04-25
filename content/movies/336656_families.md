@@ -1,1 +1,0 @@
-{"tmdb_id": 336656, "title": "Families", "original_title": "Families", "slug_title": "families", "date": "2002-01-01", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m8hmRRW1XV42A0dEJQgTPugL9nU.jpg", "actors": [], "comments": [], "recommandations_id": []}

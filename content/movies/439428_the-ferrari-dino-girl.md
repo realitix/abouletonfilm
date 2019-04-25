@@ -1,1 +1,0 @@
-{"tmdb_id": 439428, "title": "The Ferrari Dino Girl", "original_title": "Holka Ferrari Dino", "slug_title": "the-ferrari-dino-girl", "date": "2009-01-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karel Roden ()", "Jan Buda\u0159 ()", "Jan N\u011bmec ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 427876, "title": "Jack of Hearts", "original_title": "Jack of Hearts", "slug_title": "jack-of-hearts", "date": "2013-11-27", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sabine Palfi ()", "Leon Clingman ()", "Candice D'Arcy ()", "Gary Green ()"], "comments": [], "recommandations_id": []}

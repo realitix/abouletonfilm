@@ -1,1 +1,0 @@
-{"tmdb_id": 561016, "title": "Les d\u00e9tectives du dimanche", "original_title": "Les d\u00e9tectives du dimanche", "slug_title": "les-detectives-du-dimanche", "date": "1953-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5362UCjlEZEy7zKjcynmMisdM4x.jpg", "actors": [], "comments": [], "recommandations_id": []}

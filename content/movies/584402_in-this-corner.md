@@ -1,1 +1,0 @@
-{"tmdb_id": 584402, "title": "In This Corner", "original_title": "In This Corner", "slug_title": "in-this-corner", "date": "1986-02-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Patrick Tierney (Ryan Shaw / Ryan Hughes)", "Robert Wisden (Terry Dunne)"], "comments": [], "recommandations_id": []}

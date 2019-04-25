@@ -1,1 +1,0 @@
-{"tmdb_id": 506944, "title": "Voltron: The End", "original_title": "Voltron: The End", "slug_title": "voltron-the-end", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

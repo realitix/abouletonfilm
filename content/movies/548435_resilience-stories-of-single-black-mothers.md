@@ -1,1 +1,0 @@
-{"tmdb_id": 548435, "title": "Resilience: Stories of Single Black Mothers", "original_title": "Resilience: Stories of Single Black Mothers", "slug_title": "resilience-stories-of-single-black-mothers", "date": "2010-08-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

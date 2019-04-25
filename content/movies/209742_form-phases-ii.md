@@ -1,1 +1,0 @@
-{"tmdb_id": 209742, "title": "Form Phases II", "original_title": "Form Phases II", "slug_title": "form-phases-ii", "date": "1953-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1EEs7K9W8hbxGUA7xpeA64QqGQt.jpg", "actors": [], "comments": [], "recommandations_id": []}

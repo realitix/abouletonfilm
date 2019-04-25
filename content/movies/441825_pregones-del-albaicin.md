@@ -1,1 +1,0 @@
-{"tmdb_id": 441825, "title": "Pregones del Albaic\u00edn", "original_title": "Pregones del Albaic\u00edn", "slug_title": "pregones-del-albaicin", "date": "1941-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gracia de Triana ()"], "comments": [], "recommandations_id": []}

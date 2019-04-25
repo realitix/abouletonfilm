@@ -1,1 +1,0 @@
-{"tmdb_id": 381731, "title": "Portrait", "original_title": "Portrait", "slug_title": "portrait", "date": "1983-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6noS2TMvCDW9CFS8RBMqVR9JAeY.jpg", "actors": [], "comments": [], "recommandations_id": []}

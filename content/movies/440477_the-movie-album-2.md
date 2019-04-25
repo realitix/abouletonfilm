@@ -1,1 +1,0 @@
-{"tmdb_id": 440477, "title": "The Movie Album #2", "original_title": "The Movie Album #2", "slug_title": "the-movie-album-2", "date": "1932-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Agghc1okQSBbrY6u3v8Mllbzls.jpg", "actors": [], "comments": [], "recommandations_id": []}

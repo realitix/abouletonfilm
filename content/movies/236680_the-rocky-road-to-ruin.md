@@ -1,1 +1,0 @@
-{"tmdb_id": 236680, "title": "The Rocky Road to Ruin", "original_title": "The Rocky Road to Ruin", "slug_title": "the-rocky-road-to-ruin", "date": "1943-10-21", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tLKxeshDSJaIVnOVKuKY79VZp1q.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 259842, "title": "Libertopia", "original_title": "Libertopia", "slug_title": "libertopia", "date": "2011-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

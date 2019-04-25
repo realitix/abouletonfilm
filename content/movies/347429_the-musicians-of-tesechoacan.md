@@ -1,1 +1,0 @@
-{"tmdb_id": 347429, "title": "The Musicians of Tesechoac\u00e1n", "original_title": "Los Soneros del Tesechoac\u00e1n", "slug_title": "the-musicians-of-tesechoacan", "date": "2009-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

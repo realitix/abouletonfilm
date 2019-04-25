@@ -1,1 +1,0 @@
-{"tmdb_id": 557857, "title": "Abandon", "original_title": "Abandon", "slug_title": "abandon", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

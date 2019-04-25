@@ -1,1 +1,0 @@
-{"tmdb_id": 351197, "title": "Comment les pauvres mangent \u00e0 Paris", "original_title": "Comment les pauvres mangent \u00e0 Paris", "slug_title": "comment-les-pauvres-mangent-a-paris", "date": "1910-07-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 561389, "title": "This Action Lies", "original_title": "This Action Lies", "slug_title": "this-action-lies", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 240325, "title": "The Odd Couple", "original_title": "The Odd Couple", "slug_title": "the-odd-couple", "date": "2011-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zokAeXuNi0dZj8XaJNCFWVmTdRZ.jpg", "actors": ["S. Luis Bocardo (Felix Unger)"], "comments": [], "recommandations_id": []}

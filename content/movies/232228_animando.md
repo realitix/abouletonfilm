@@ -1,1 +1,0 @@
-{"tmdb_id": 232228, "title": "Animando", "original_title": "Animando", "slug_title": "animando", "date": "1987-01-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bY8gHOgvp9molqKNNNO5SnxkyXj.jpg", "actors": [], "comments": [], "recommandations_id": []}

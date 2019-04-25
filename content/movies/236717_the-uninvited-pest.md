@@ -1,1 +1,0 @@
-{"tmdb_id": 236717, "title": "The Uninvited Pest", "original_title": "The Uninvited Pest", "slug_title": "the-uninvited-pest", "date": "1943-07-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cwUiD7q8XrwzA9BHmMDyNXtwTlq.jpg", "actors": [], "comments": [], "recommandations_id": []}

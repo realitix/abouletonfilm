@@ -1,1 +1,0 @@
-{"tmdb_id": 441074, "title": "FUNtastic Duo", "original_title": "FUNtastic Duo", "slug_title": "funtastic-duo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i4iVqrWSNUSfEaJu5FsWdWfgn9t.jpg", "actors": ["Aleksey Igudesman ()", "Hyung-Ki Joo ()"], "comments": [], "recommandations_id": []}

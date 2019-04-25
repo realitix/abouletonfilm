@@ -1,1 +1,0 @@
-{"tmdb_id": 261471, "title": "Anti-Corruption", "original_title": "Lian zheng feng bo", "slug_title": "anti-corruption", "date": "1975-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ffsSkLfBPfMYzWD3TcXKEIoL6Gq.jpg", "actors": [], "comments": [], "recommandations_id": []}

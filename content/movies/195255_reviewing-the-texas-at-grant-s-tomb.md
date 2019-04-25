@@ -1,1 +1,0 @@
-{"tmdb_id": 195255, "title": "Reviewing the 'Texas' at Grant's Tomb", "original_title": "Reviewing the 'Texas' at Grant's Tomb", "slug_title": "reviewing-the-texas-at-grant-s-tomb", "date": "1898-09-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

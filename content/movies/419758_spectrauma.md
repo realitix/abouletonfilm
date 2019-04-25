@@ -1,1 +1,0 @@
-{"tmdb_id": 419758, "title": "Spectrauma", "original_title": "Spectrauma", "slug_title": "spectrauma", "date": "", "genre": "Thriller / Horreur / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Trevor Nelson (Brett)", "Migina Tsai (Kimberly)", "Jessica Boone (Isabelle)"], "comments": [], "recommandations_id": []}

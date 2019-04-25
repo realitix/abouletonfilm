@@ -1,1 +1,0 @@
-{"tmdb_id": 305904, "title": "Paduvarahalli Pandavaru", "original_title": "Paduvarahalli Pandavaru", "slug_title": "paduvarahalli-pandavaru", "date": "1978-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

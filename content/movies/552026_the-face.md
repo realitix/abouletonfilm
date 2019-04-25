@@ -1,1 +1,0 @@
-{"tmdb_id": 552026, "title": "The Face", "original_title": "The Face", "slug_title": "the-face", "date": "2014-09-26", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ntumj1V8lmGL9KwCqzngELN43Rx.jpg", "actors": ["Rishabh Sharma ()", "Rimi Hazarika ()"], "comments": [], "recommandations_id": []}

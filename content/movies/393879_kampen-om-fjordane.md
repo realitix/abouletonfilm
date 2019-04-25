@@ -1,1 +1,0 @@
-{"tmdb_id": 393879, "title": "Kampen om fjordane", "original_title": "Kampen om fjordane", "slug_title": "kampen-om-fjordane", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1L6HHY84WXsW3IPOM6gsvkHutAk.jpg", "actors": [], "comments": [], "recommandations_id": []}

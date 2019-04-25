@@ -1,1 +1,0 @@
-{"tmdb_id": 471217, "title": "Get In Shape: Get Fit!", "original_title": "Get In Shape: Get Fit!", "slug_title": "get-in-shape-get-fit", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/37SAB9YdksdKE7JZrAaGSamAD6.jpg", "actors": [], "comments": [], "recommandations_id": []}

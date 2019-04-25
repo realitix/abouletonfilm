@@ -1,1 +1,0 @@
-{"tmdb_id": 276402, "title": "The Pointer Sisters Live in Concert", "original_title": "The Pointer Sisters Live in Concert", "slug_title": "the-pointer-sisters-live-in-concert", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

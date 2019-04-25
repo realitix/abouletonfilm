@@ -1,1 +1,0 @@
-{"tmdb_id": 122587, "title": "L'Antre De", "original_title": "L'Antre De", "slug_title": "l-antre-de", "date": "2002-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

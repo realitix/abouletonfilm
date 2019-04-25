@@ -1,1 +1,0 @@
-{"tmdb_id": 75318, "title": "Hood of the Living Dead", "original_title": "Hood of the Living Dead", "slug_title": "hood-of-the-living-dead", "date": "2005-01-01", "genre": "Horreur", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lCKDVx687AjAJBh6BLqwRiipOuV.jpg", "actors": [], "comments": [], "recommandations_id": []}

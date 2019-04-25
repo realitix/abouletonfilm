@@ -1,1 +1,0 @@
-{"tmdb_id": 593803, "title": "Prince of Paris", "original_title": "Pariisin prinssi", "slug_title": "prince-of-paris", "date": "2019-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 518615, "title": "Neues aus Schildershausen", "original_title": "Neues aus Schildershausen", "slug_title": "neues-aus-schildershausen", "date": "1985-04-30", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gernot Duda ()", "Heidrun Polack ()", "G\u00fcnter Strack ()"], "comments": [], "recommandations_id": []}

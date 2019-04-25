@@ -1,1 +1,0 @@
-{"tmdb_id": 436325, "title": "Killer Li Mo", "original_title": "\u6740\u624b\u79bb\u6cab", "slug_title": "killer-li-mo", "date": "2017-01-20", "genre": "Action / Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gLm0eHXUkA2II52QXrRVUwPkuRl.jpg", "actors": ["Pingbao Ning ()"], "comments": [], "recommandations_id": []}

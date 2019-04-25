@@ -1,1 +1,0 @@
-{"tmdb_id": 531434, "title": "The Call", "original_title": "The Call", "slug_title": "the-call", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vpO2huj4APlW7YKUzShBFjwkA5h.jpg", "actors": [], "comments": [], "recommandations_id": []}

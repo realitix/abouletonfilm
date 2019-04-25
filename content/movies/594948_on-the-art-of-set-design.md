@@ -1,1 +1,0 @@
-{"tmdb_id": 594948, "title": "On the Art of Set Design", "original_title": "On the Art of Set Design", "slug_title": "on-the-art-of-set-design", "date": "2019-04-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rebecca Clamp (Narrator (voice))"], "comments": [], "recommandations_id": []}

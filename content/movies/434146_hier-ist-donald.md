@@ -1,1 +1,0 @@
-{"tmdb_id": 434146, "title": "Hier ist Donald", "original_title": "Hier ist Donald", "slug_title": "hier-ist-donald", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dgwtVCpmb8YU8IRbVnuQft4KSYS.jpg", "actors": [], "comments": [], "recommandations_id": []}

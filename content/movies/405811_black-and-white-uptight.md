@@ -1,1 +1,0 @@
-{"tmdb_id": 405811, "title": "Black and White Uptight", "original_title": "Black and White Uptight", "slug_title": "black-and-white-uptight", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Culp (Host)"], "comments": [], "recommandations_id": []}

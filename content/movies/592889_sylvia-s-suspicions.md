@@ -1,1 +1,0 @@
-{"tmdb_id": 592889, "title": "Sylvia's Suspicions", "original_title": "Sylvia's Suspicions", "slug_title": "sylvia-s-suspicions", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

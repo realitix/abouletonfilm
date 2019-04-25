@@ -1,1 +1,0 @@
-{"tmdb_id": 471747, "title": "A Scattering of Stars", "original_title": "A Scattering of Stars", "slug_title": "a-scattering-of-stars", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chris Norman (Himself)"], "comments": [], "recommandations_id": []}

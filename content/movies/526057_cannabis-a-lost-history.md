@@ -1,1 +1,0 @@
-{"tmdb_id": 526057, "title": "Cannabis: A Lost History", "original_title": "Cannabis: A Lost History", "slug_title": "cannabis-a-lost-history", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d0JmMTguZrtDbQltV0jwZQhHvP8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 324345, "title": "The Seventh Fire", "original_title": "The Seventh Fire", "slug_title": "the-seventh-fire", "date": "2015-02-07", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q6xj84IwFgb0qND1Lf5NtcPnae0.jpg", "actors": [], "comments": [], "recommandations_id": [168771, 417257, 364306, 295962]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 528640, "title": "The Flower Lovers", "original_title": "Ljubitelji cvije\u0107a", "slug_title": "the-flower-lovers", "date": "1970-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/arpLErtGDQsyoqDyC5zw3fPBK2F.jpg", "actors": [], "comments": [], "recommandations_id": []}

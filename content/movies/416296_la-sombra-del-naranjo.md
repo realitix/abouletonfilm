@@ -1,1 +1,0 @@
-{"tmdb_id": 416296, "title": "La sombra del Naranjo", "original_title": "La sombra del Naranjo", "slug_title": "la-sombra-del-naranjo", "date": "2016-09-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bABtGQSHQgITuI3p3dfQXSKqBwX.jpg", "actors": [], "comments": [], "recommandations_id": []}

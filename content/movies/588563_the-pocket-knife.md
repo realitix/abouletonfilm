@@ -1,1 +1,0 @@
-{"tmdb_id": 588563, "title": "The Pocket-Knife", "original_title": "Scyzoryk", "slug_title": "the-pocket-knife", "date": "1961-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3t8VWQjyrG7UPGpJ6VisJ3jWNgU.jpg", "actors": [], "comments": [], "recommandations_id": []}

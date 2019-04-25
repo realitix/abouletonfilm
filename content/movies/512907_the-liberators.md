@@ -1,1 +1,0 @@
-{"tmdb_id": 512907, "title": "The Liberators", "original_title": "The Liberators", "slug_title": "the-liberators", "date": "", "genre": "Guerre / Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael B. Jordan ()"], "comments": [], "recommandations_id": []}

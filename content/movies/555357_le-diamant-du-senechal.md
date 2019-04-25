@@ -1,1 +1,0 @@
-{"tmdb_id": 555357, "title": "Le diamant du s\u00e9n\u00e9chal", "original_title": "Le diamant du s\u00e9n\u00e9chal", "slug_title": "le-diamant-du-senechal", "date": "1914-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

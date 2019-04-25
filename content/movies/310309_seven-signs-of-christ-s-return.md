@@ -1,1 +1,0 @@
-{"tmdb_id": 310309, "title": "Seven Signs of Christ's Return", "original_title": "Seven Signs of Christ's Return", "slug_title": "seven-signs-of-christ-s-return", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 299589, "title": "Croaker", "original_title": "Croaker", "slug_title": "croaker", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dHuhjYRJyIGVE8ER2sLA5xBzGZo.jpg", "actors": [], "comments": [], "recommandations_id": []}

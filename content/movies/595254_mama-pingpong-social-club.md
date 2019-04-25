@@ -1,1 +1,0 @@
-{"tmdb_id": 595254, "title": "Mama PingPong Social Club", "original_title": "Mama PingPong Social Club", "slug_title": "mama-pingpong-social-club", "date": "2018-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d45hDJVQbeidEwiJGWxmzSm78ab.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 499174, "title": "Invisible Hands", "original_title": "Invisible Hands", "slug_title": "invisible-hands", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5VUhf6NgxEUnQJTkTc7t462pFW0.jpg", "actors": [], "comments": [], "recommandations_id": []}

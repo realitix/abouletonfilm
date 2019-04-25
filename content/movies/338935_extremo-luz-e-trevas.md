@@ -1,1 +1,0 @@
-{"tmdb_id": 338935, "title": "Extremo - Luz e Trevas", "original_title": "Extremo - Luz e Trevas", "slug_title": "extremo-luz-e-trevas", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

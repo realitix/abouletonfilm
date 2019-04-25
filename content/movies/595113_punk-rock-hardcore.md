@@ -1,1 +1,0 @@
-{"tmdb_id": 595113, "title": "Punk Rock Hardcore", "original_title": "Punk Rock Hardcore", "slug_title": "punk-rock-hardcore", "date": "1995-01-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

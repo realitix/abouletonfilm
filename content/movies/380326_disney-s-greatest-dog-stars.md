@@ -1,1 +1,0 @@
-{"tmdb_id": 380326, "title": "Disney's Greatest Dog Stars", "original_title": "Disney's Greatest Dog Stars", "slug_title": "disney-s-greatest-dog-stars", "date": "1976-11-28", "genre": "Familial", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jNb2hDhAWWK3RAPYllQ0IjbZQXX.jpg", "actors": [], "comments": [], "recommandations_id": []}

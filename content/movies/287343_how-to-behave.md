@@ -1,1 +1,0 @@
-{"tmdb_id": 287343, "title": "How to Behave", "original_title": "How to Behave", "slug_title": "how-to-behave", "date": "1936-04-25", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lRsWEK1QHJsoXvfseHnYyKuqUZ4.jpg", "actors": ["Robert Benchley (Mr. Benchley)"], "comments": [], "recommandations_id": []}

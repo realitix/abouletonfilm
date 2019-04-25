@@ -1,1 +1,0 @@
-{"tmdb_id": 304958, "title": "Bilwa Mangala", "original_title": "Bilwa Mangala", "slug_title": "bilwa-mangala", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

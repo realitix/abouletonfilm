@@ -1,1 +1,0 @@
-{"tmdb_id": 453441, "title": "New Horizons", "original_title": "New Horizons", "slug_title": "new-horizons", "date": "2015-06-30", "genre": "", "score": "8.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 292733, "title": "Me yst\u00e4v\u00e4t hulivilit", "original_title": "Me yst\u00e4v\u00e4t hulivilit", "slug_title": "me-ystavat-hulivilit", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

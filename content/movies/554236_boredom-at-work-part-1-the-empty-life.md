@@ -1,1 +1,0 @@
-{"tmdb_id": 554236, "title": "Boredom at Work: Part 1 - The Empty Life", "original_title": "Boredom at Work: Part 1 - The Empty Life", "slug_title": "boredom-at-work-part-1-the-empty-life", "date": "1961-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

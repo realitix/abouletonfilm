@@ -1,1 +1,0 @@
-{"tmdb_id": 473869, "title": "Water from the Moon", "original_title": "Water from the Moon", "slug_title": "water-from-the-moon", "date": "2002-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nikki Tilroe ((puppets))"], "comments": [], "recommandations_id": []}

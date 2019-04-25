@@ -1,1 +1,0 @@
-{"tmdb_id": 579081, "title": "The Black Dove", "original_title": "The Black Dove", "slug_title": "the-black-dove", "date": "2016-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oadBkRLMncG2xRLHmGWAwN6hwV2.jpg", "actors": [], "comments": [], "recommandations_id": []}

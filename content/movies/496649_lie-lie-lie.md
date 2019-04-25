@@ -1,1 +1,0 @@
-{"tmdb_id": 496649, "title": "Lie Lie Lie", "original_title": "Lie Lie Lie", "slug_title": "lie-lie-lie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

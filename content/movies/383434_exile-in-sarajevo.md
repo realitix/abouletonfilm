@@ -1,1 +1,0 @@
-{"tmdb_id": 383434, "title": "Exile in Sarajevo", "original_title": "Exile in Sarajevo", "slug_title": "exile-in-sarajevo", "date": "1997-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vL0DSGMwCibqjVZ6QgLhvmOiOa8.jpg", "actors": [], "comments": [], "recommandations_id": []}

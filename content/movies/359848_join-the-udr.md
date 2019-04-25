@@ -1,1 +1,0 @@
-{"tmdb_id": 359848, "title": "Join the UDR", "original_title": "Join the UDR", "slug_title": "join-the-udr", "date": "1970-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nD301anMvc0EnVPjDQwUUDSOe7Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

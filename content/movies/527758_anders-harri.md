@@ -1,1 +1,0 @@
-{"tmdb_id": 527758, "title": "Anders & Harri", "original_title": "Anders & Harri", "slug_title": "anders-harri", "date": "2008-09-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hmOpZieHTyyrtHGgdHTAKVpPGsm.jpg", "actors": [], "comments": [], "recommandations_id": []}

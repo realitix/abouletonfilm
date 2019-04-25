@@ -1,1 +1,0 @@
-{"tmdb_id": 295797, "title": "Straight and Butch", "original_title": "Straight and Butch", "slug_title": "straight-and-butch", "date": "2010-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7FiASFwal7hc08AFJKxhCmZu445.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 563449, "title": "A Flor Azul", "original_title": "A Flor Azul", "slug_title": "a-flor-azul", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 528172, "title": "Views on Vermeer - 12 Short Stories", "original_title": "Views on Vermeer - 12 Short Stories", "slug_title": "views-on-vermeer-12-short-stories", "date": "2010-05-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

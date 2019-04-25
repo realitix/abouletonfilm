@@ -1,1 +1,0 @@
-{"tmdb_id": 507971, "title": "Hollywood Censored", "original_title": "Hollywood Censored", "slug_title": "hollywood-censored", "date": "2015-12-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Craig Detweiler ()", "Thomas Doherty ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 293116, "title": "A Few Cubic Meters of Love", "original_title": "Chand metre moka'ab eshgh", "slug_title": "a-few-cubic-meters-of-love", "date": "2014-02-04", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nCRY61E7rgDCjzEBr5IHmvhlByP.jpg", "actors": [], "comments": [], "recommandations_id": []}

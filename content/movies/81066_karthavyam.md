@@ -1,1 +1,0 @@
-{"tmdb_id": 81066, "title": "Karthavyam", "original_title": "Karthavyam", "slug_title": "karthavyam", "date": "1991-01-02", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sZ22Kdj0dVAwToGA48hxLhrvY7V.jpg", "actors": ["Vijayashanti ()"], "comments": [], "recommandations_id": []}

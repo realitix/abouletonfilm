@@ -1,1 +1,0 @@
-{"tmdb_id": 550871, "title": "Licentia Poetica", "original_title": "Licentia Poetica", "slug_title": "licentia-poetica", "date": "2018-09-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wwqHZu8x796xBsrFte4OgPKwafG.jpg", "actors": [], "comments": [], "recommandations_id": []}

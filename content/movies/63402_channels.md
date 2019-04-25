@@ -1,1 +1,0 @@
-{"tmdb_id": 63402, "title": "Channels", "original_title": "Channels", "slug_title": "channels", "date": "2008-01-01", "genre": "Drame / Romance", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

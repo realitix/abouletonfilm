@@ -1,1 +1,0 @@
-{"tmdb_id": 55852, "title": "Southern Comfort", "original_title": "Southern Comfort", "slug_title": "southern-comfort", "date": "2001-01-25", "genre": "Documentaire / Romance", "score": "7.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nydKoA9p6VDM5psKOwTtFRVetIr.jpg", "actors": [], "comments": [], "recommandations_id": []}

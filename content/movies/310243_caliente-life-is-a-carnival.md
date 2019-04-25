@@ -1,1 +1,0 @@
-{"tmdb_id": 310243, "title": "Caliente: Life Is a Carnival", "original_title": "Caliente: Life Is a Carnival", "slug_title": "caliente-life-is-a-carnival", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

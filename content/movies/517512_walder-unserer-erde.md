@@ -1,1 +1,0 @@
-{"tmdb_id": 517512, "title": "W\u00e4lder unserer Erde", "original_title": "W\u00e4lder unserer Erde", "slug_title": "walder-unserer-erde", "date": "2018-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

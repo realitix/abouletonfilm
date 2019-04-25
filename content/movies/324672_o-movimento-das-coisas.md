@@ -1,1 +1,0 @@
-{"tmdb_id": 324672, "title": "O Movimento das Coisas", "original_title": "O Movimento das Coisas", "slug_title": "o-movimento-das-coisas", "date": "1985-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aWEcTKJviYMOa7UdlbQyolW2Oqu.jpg", "actors": [], "comments": [], "recommandations_id": []}

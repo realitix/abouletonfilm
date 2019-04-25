@@ -1,1 +1,0 @@
-{"tmdb_id": 527667, "title": "Black Square", "original_title": "Black Square", "slug_title": "black-square", "date": "2017-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elena Kuzmina ()", "Olga Mandrikova Lanceray ()", "Mikalai Radziush ()"], "comments": [], "recommandations_id": []}

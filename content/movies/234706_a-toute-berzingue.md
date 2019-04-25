@@ -1,1 +1,0 @@
-{"tmdb_id": 234706, "title": "\u00c0 toute berzingue", "original_title": "Lickety-Splat", "slug_title": "a-toute-berzingue", "date": "1961-06-03", "genre": "", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1yEYhDFHeOPy0hKsEjxP6fVsA0t.jpg", "actors": [], "comments": [], "recommandations_id": [210823, 234751, 106931, 234759]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 558922, "title": "Naked Encounters", "original_title": "Naked Encounters", "slug_title": "naked-encounters", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rene Bond ()", "Sandy Carey ()", "Suzanne Fields ()", "Ric Lutze ()"], "comments": [], "recommandations_id": []}

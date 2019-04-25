@@ -1,1 +1,0 @@
-{"tmdb_id": 400501, "title": "Beehive", "original_title": "Kandu", "slug_title": "beehive", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jKh7L7XAg0a8Wdd3Rkmc3f15aMV.jpg", "actors": ["Behrouz Vossoughi ()", "Davoud Rashidi ()"], "comments": [], "recommandations_id": []}

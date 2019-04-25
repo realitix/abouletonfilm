@@ -1,1 +1,0 @@
-{"tmdb_id": 596331, "title": "Abbyson Living", "original_title": "Abbyson Living", "slug_title": "abbyson-living", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

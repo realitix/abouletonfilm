@@ -1,1 +1,0 @@
-{"tmdb_id": 453413, "title": "Headcheese", "original_title": "Headcheese", "slug_title": "headcheese", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A7ACmeyJL6XkxjG2YxfHbq2zHZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

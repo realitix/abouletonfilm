@@ -1,1 +1,0 @@
-{"tmdb_id": 378482, "title": "Stop Acting Now", "original_title": "Stop Acting Now", "slug_title": "stop-acting-now", "date": "2016-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o4qu5WbQJfJ0ju08VTDzuF5InHI.jpg", "actors": [], "comments": [], "recommandations_id": []}

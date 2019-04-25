@@ -1,1 +1,0 @@
-{"tmdb_id": 196346, "title": "Skil\u00f8b. Holmenkollen", "original_title": "Skil\u00f8b. Holmenkollen", "slug_title": "skilob-holmenkollen", "date": "1906-05-23", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

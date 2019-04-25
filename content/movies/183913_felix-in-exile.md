@@ -1,1 +1,0 @@
-{"tmdb_id": 183913, "title": "Felix in Exile", "original_title": "Felix in Exile", "slug_title": "felix-in-exile", "date": "1994-06-15", "genre": "Drame / Animation", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cOftNETL8xH04axyzu1TWVmNOwx.jpg", "actors": [], "comments": [], "recommandations_id": [154612, 162186, 166708, 166707]}

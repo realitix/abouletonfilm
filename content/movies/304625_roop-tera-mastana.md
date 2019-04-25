@@ -1,1 +1,0 @@
-{"tmdb_id": 304625, "title": "Roop Tera Mastana", "original_title": "Roop Tera Mastana", "slug_title": "roop-tera-mastana", "date": "1972-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

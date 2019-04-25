@@ -1,1 +1,0 @@
-{"tmdb_id": 531852, "title": "Eddie Bravo Invitational 13", "original_title": "Eddie Bravo Invitational 13", "slug_title": "eddie-bravo-invitational-13", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

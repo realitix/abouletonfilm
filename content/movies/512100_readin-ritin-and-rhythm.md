@@ -1,1 +1,0 @@
-{"tmdb_id": 512100, "title": "Readin', 'Ritin', and Rhythm", "original_title": "Readin', 'Ritin', and Rhythm", "slug_title": "readin-ritin-and-rhythm", "date": "1939-02-16", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Don Byas ()", "Lucky Millinder ()", "Frankie Newton ()"], "comments": [], "recommandations_id": []}

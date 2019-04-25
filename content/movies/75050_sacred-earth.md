@@ -1,1 +1,0 @@
-{"tmdb_id": 75050, "title": "Sacred Earth", "original_title": "Sacred Earth", "slug_title": "sacred-earth", "date": "2010-01-25", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l0bqBBiZzwYAUq8ELjS7rZp062B.jpg", "actors": [], "comments": [], "recommandations_id": []}

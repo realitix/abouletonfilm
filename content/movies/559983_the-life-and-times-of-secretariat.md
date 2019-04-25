@@ -1,1 +1,0 @@
-{"tmdb_id": 559983, "title": "The Life and Times of Secretariat", "original_title": "The Life and Times of Secretariat", "slug_title": "the-life-and-times-of-secretariat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

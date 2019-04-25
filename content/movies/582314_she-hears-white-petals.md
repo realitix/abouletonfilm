@@ -1,1 +1,0 @@
-{"tmdb_id": 582314, "title": "She Hears White Petals", "original_title": "She Hears White Petals", "slug_title": "she-hears-white-petals", "date": "2019-12-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

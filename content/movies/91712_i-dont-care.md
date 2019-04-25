@@ -1,1 +1,0 @@
-{"tmdb_id": 91712, "title": "I don\u00b4t Care", "original_title": "I don\u00b4t Care", "slug_title": "i-dont-care", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

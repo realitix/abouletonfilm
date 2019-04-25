@@ -1,1 +1,0 @@
-{"tmdb_id": 540038, "title": "At\u00e9 o Centro", "original_title": "At\u00e9 o Centro", "slug_title": "ate-o-centro", "date": "2017-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cb1Cy7ZT3GkuCckcdOjw9mR77za.jpg", "actors": [], "comments": [], "recommandations_id": []}

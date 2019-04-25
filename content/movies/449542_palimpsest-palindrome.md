@@ -1,1 +1,0 @@
-{"tmdb_id": 449542, "title": "Palimpsest Palindrome", "original_title": "Palimpsest Palindrome", "slug_title": "palimpsest-palindrome", "date": "1975-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ArX76MjwSy3bOBpA2oP1kN9R92E.jpg", "actors": [], "comments": [], "recommandations_id": []}

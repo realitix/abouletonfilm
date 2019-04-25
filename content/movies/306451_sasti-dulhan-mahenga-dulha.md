@@ -1,1 +1,0 @@
-{"tmdb_id": 306451, "title": "Sasti Dulhan Mahenga Dulha", "original_title": "Sasti Dulhan Mahenga Dulha", "slug_title": "sasti-dulhan-mahenga-dulha", "date": "1986-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

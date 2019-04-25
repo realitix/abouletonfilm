@@ -1,1 +1,0 @@
-{"tmdb_id": 556647, "title": "Instinct", "original_title": "L'instinct", "slug_title": "instinct", "date": "1930-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

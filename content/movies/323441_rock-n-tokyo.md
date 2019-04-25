@@ -1,1 +1,0 @@
-{"tmdb_id": 323441, "title": "Rock 'n Tokyo", "original_title": "Rock 'n Tokyo", "slug_title": "rock-n-tokyo", "date": "2007-01-24", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fNwqjJkWszF4AZov4qHVGRGa6w3.jpg", "actors": [], "comments": [], "recommandations_id": []}

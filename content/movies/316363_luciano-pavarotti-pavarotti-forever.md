@@ -1,1 +1,0 @@
-{"tmdb_id": 316363, "title": "Luciano Pavarotti: Pavarotti Forever", "original_title": "Luciano Pavarotti: Pavarotti Forever", "slug_title": "luciano-pavarotti-pavarotti-forever", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

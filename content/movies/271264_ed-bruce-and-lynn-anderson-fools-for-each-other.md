@@ -1,1 +1,0 @@
-{"tmdb_id": 271264, "title": "Ed Bruce and Lynn Anderson: Fools for Each Other", "original_title": "Ed Bruce and Lynn Anderson: Fools for Each Other", "slug_title": "ed-bruce-and-lynn-anderson-fools-for-each-other", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

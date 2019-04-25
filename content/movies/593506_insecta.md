@@ -1,1 +1,0 @@
-{"tmdb_id": 593506, "title": "Insecta", "original_title": "Insecta", "slug_title": "insecta", "date": "2016-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1g861lfixyx3T6SrHaIygFAfqrp.jpg", "actors": [], "comments": [], "recommandations_id": []}

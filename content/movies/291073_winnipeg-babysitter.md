@@ -1,1 +1,0 @@
-{"tmdb_id": 291073, "title": "Winnipeg Babysitter", "original_title": "Winnipeg Babysitter", "slug_title": "winnipeg-babysitter", "date": "2006-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8z9BPm12cD42ilC5ujeejAvtzpt.jpg", "actors": [], "comments": [], "recommandations_id": []}

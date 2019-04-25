@@ -1,1 +1,0 @@
-{"tmdb_id": 179468, "title": "HBO Boxing: Khan vs. Garcia", "original_title": "HBO Boxing: Khan vs. Garcia", "slug_title": "hbo-boxing-khan-vs-garcia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qzt7UtxCdcZLesVMy4VELn9bJGZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

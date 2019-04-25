@@ -1,1 +1,0 @@
-{"tmdb_id": 504134, "title": "Atomic Wounds", "original_title": "Atomic Wounds", "slug_title": "atomic-wounds", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yZNJWzMB050WudsIXGlusi3J3Uf.jpg", "actors": [], "comments": [], "recommandations_id": []}

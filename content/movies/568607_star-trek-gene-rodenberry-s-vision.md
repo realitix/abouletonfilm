@@ -1,1 +1,0 @@
-{"tmdb_id": 568607, "title": "Star Trek: Gene Rodenberry's Vision", "original_title": "Star Trek: Gene Rodenberry's Vision", "slug_title": "star-trek-gene-rodenberry-s-vision", "date": "2009-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

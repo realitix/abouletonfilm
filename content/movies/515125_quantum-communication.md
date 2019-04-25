@@ -1,1 +1,0 @@
-{"tmdb_id": 515125, "title": "Quantum Communication", "original_title": "Quantum Communication", "slug_title": "quantum-communication", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

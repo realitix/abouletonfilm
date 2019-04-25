@@ -1,1 +1,0 @@
-{"tmdb_id": 283847, "title": "Kwaheri", "original_title": "Kwaheri", "slug_title": "kwaheri", "date": "1964-12-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nhhlYGKeswrJJDKDB039eXBlVds.jpg", "actors": ["Les Tremayne (Narrator)"], "comments": [], "recommandations_id": []}

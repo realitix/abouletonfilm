@@ -1,1 +1,0 @@
-{"tmdb_id": 141318, "title": "Tea or Electricity", "original_title": "Th\u00e9 ou \u00e9lectricit\u00e9", "slug_title": "tea-or-electricity", "date": "2012-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sbpK8Ewn3ZWCENdaINHTEddLVJ3.jpg", "actors": [], "comments": [], "recommandations_id": []}

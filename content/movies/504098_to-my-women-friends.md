@@ -1,1 +1,0 @@
-{"tmdb_id": 504098, "title": "To My Women Friends", "original_title": "To My Women Friends", "slug_title": "to-my-women-friends", "date": "1993-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zSwsfG9Jxn6kXa6TtwEIykH70up.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 357738, "title": "Trinidad & Tobago", "original_title": "Trinidad & Tobago", "slug_title": "trinidad-tobago", "date": "1964-01-02", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

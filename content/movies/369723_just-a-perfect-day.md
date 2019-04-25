@@ -1,1 +1,0 @@
-{"tmdb_id": 369723, "title": "Just a perfect day", "original_title": "Just a perfect day", "slug_title": "just-a-perfect-day", "date": "2011-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uWU1dkSlEPOZApUOKGhyVeOFjaN.jpg", "actors": [], "comments": [], "recommandations_id": []}

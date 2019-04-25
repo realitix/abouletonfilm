@@ -1,1 +1,0 @@
-{"tmdb_id": 493307, "title": "Crocodile", "original_title": "Krokodill", "slug_title": "crocodile", "date": "2009-11-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5u8cm6rgy8livxSbM8GY1exMnHE.jpg", "actors": [], "comments": [], "recommandations_id": []}

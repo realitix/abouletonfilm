@@ -1,1 +1,0 @@
-{"tmdb_id": 54334, "title": "Auto B Good - Hitting the Road", "original_title": "Auto B Good - Hitting the Road", "slug_title": "auto-b-good-hitting-the-road", "date": "2005-02-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o0xDyPKNhB51yyhqCAqpjAi42gs.jpg", "actors": [], "comments": [], "recommandations_id": []}

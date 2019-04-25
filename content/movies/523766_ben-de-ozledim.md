@@ -1,1 +1,0 @@
-{"tmdb_id": 523766, "title": "Ben De \u00d6zledim", "original_title": "Ben De \u00d6zledim", "slug_title": "ben-de-ozledim", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nK3VJPIbLk1NpLqs6bTs2MSXdju.jpg", "actors": ["Ferdi Tayfur ()", "Banu Alkan ()"], "comments": [], "recommandations_id": []}

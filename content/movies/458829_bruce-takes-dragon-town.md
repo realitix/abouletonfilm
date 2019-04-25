@@ -1,1 +1,0 @@
-{"tmdb_id": 458829, "title": "Bruce Takes Dragon Town", "original_title": "Bruce Takes Dragon Town", "slug_title": "bruce-takes-dragon-town", "date": "2015-10-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eJUpuiwYUU7Ozrx2vo5PiflHUGG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 542581, "title": "The Cursed Seat", "original_title": "The Cursed Seat", "slug_title": "the-cursed-seat", "date": "2018-08-08", "genre": "Horreur", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hDtvm0bCaWFfz0hHt3gJVcpCN96.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 508336, "title": "Camera Threat", "original_title": "Camera Ka Darr", "slug_title": "camera-threat", "date": "", "genre": "Com\u00e9die / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8qQxaFD2YFxwKnQVokVxdTBfEOL.jpg", "actors": [], "comments": [], "recommandations_id": []}

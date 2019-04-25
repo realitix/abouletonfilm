@@ -1,1 +1,0 @@
-{"tmdb_id": 461686, "title": "Life Study", "original_title": "Life Study", "slug_title": "life-study", "date": "1973-01-25", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tommy Lee Jones (Gus)", "Bartholomew Miro Jr. (Angelo Corelli)", "Erika Peterson (Myrna Clement)"], "comments": [], "recommandations_id": []}

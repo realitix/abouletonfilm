@@ -1,1 +1,0 @@
-{"tmdb_id": 155572, "title": "Pretty Maids: It Comes Alive", "original_title": "Pretty Maids: It Comes Alive", "slug_title": "pretty-maids-it-comes-alive", "date": "2012-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zJWuwJCb9E48Hirg3PCC6UJGD2j.jpg", "actors": [], "comments": [], "recommandations_id": []}

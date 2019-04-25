@@ -1,1 +1,0 @@
-{"tmdb_id": 254740, "title": "Borrah Minevitch and His Harmonica Rascals", "original_title": "Borrah Minevitch and His Harmonica Rascals", "slug_title": "borrah-minevitch-and-his-harmonica-rascals", "date": "1935-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

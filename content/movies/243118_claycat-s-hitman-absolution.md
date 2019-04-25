@@ -1,1 +1,0 @@
-{"tmdb_id": 243118, "title": "Claycat's Hitman Absolution", "original_title": "Claycat's Hitman Absolution", "slug_title": "claycat-s-hitman-absolution", "date": "2012-10-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kJ2sUAJZ3SVAXPVXbDW9NwU9LPt.jpg", "actors": [], "comments": [], "recommandations_id": []}

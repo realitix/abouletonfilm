@@ -1,1 +1,0 @@
-{"tmdb_id": 376710, "title": "2nd War Hats", "original_title": "2nd War Hats", "slug_title": "2nd-war-hats", "date": "1986-01-01", "genre": "Guerre / Fantastique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pcr2Vrxh15RFj3eHWfFX62jadZH.jpg", "actors": [], "comments": [], "recommandations_id": [156532]}

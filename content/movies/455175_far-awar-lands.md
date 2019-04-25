@@ -1,1 +1,0 @@
-{"tmdb_id": 455175, "title": "Far Awar Lands", "original_title": "Far Awar Lands", "slug_title": "far-awar-lands", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

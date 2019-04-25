@@ -1,1 +1,0 @@
-{"tmdb_id": 243222, "title": "Big City Blues", "original_title": "Big City Blues", "slug_title": "big-city-blues", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

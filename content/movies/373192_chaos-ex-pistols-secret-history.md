@@ -1,1 +1,0 @@
-{"tmdb_id": 373192, "title": "Chaos! Ex Pistols Secret History", "original_title": "Chaos! Ex Pistols Secret History", "slug_title": "chaos-ex-pistols-secret-history", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

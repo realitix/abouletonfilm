@@ -1,1 +1,0 @@
-{"tmdb_id": 416760, "title": "Melendi  Directo a septiembre", "original_title": "Melendi  Directo a septiembre", "slug_title": "melendi-directo-a-septiembre", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mIaPQ6or7clslaZBoexeqgrRTCn.jpg", "actors": [], "comments": [], "recommandations_id": []}

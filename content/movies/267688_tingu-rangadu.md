@@ -1,1 +1,0 @@
-{"tmdb_id": 267688, "title": "Tingu Rangadu", "original_title": "Tingu Rangadu", "slug_title": "tingu-rangadu", "date": "1982-10-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chiranjeevi ()", "Geetha ()", "Nutan Prasad ()", "Kongara Jaggaiah ()", "Sowcar Janaki ()"], "comments": [], "recommandations_id": []}

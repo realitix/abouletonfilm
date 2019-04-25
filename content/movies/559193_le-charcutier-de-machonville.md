@@ -1,1 +1,0 @@
-{"tmdb_id": 559193, "title": "Le charcutier de Machonville", "original_title": "Le charcutier de Machonville", "slug_title": "le-charcutier-de-machonville", "date": "1947-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l5DjCfy6bdi0c4S1tvhD1HwFc1b.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 285993, "title": "Rastus in Zululand", "original_title": "Rastus in Zululand", "slug_title": "rastus-in-zululand", "date": "1910-01-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dohsvEAkhs8g6MYJFlMJmiEL4xK.jpg", "actors": [], "comments": [], "recommandations_id": []}

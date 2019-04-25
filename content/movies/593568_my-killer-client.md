@@ -1,1 +1,0 @@
-{"tmdb_id": 593568, "title": "My Killer Client", "original_title": "My Killer Client", "slug_title": "my-killer-client", "date": "2019-04-06", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nhr4RuOxULyBgKOtefN6V4ZWf9e.jpg", "actors": [], "comments": [], "recommandations_id": []}

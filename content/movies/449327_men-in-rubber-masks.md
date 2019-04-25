@@ -1,1 +1,0 @@
-{"tmdb_id": 449327, "title": "Men in Rubber Masks", "original_title": "Men in Rubber Masks", "slug_title": "men-in-rubber-masks", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

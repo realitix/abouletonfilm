@@ -1,1 +1,0 @@
-{"tmdb_id": 388178, "title": "The Goat Man", "original_title": "The Goat Man", "slug_title": "the-goat-man", "date": "1923-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

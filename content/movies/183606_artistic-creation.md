@@ -1,1 +1,0 @@
-{"tmdb_id": 183606, "title": "Artistic Creation", "original_title": "Artistic Creation", "slug_title": "artistic-creation", "date": "1901-01-01", "genre": "Com\u00e9die", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3rAsgDZV9U36aby95YdCTBW8Fp9.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 350113, "title": "\uc885\uc810", "original_title": "\uc885\uc810", "slug_title": "jongjeom", "date": "1981-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

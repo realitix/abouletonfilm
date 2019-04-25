@@ -1,1 +1,0 @@
-{"tmdb_id": 482258, "title": "My Mother's Rhapsody", "original_title": "\u8431\u5802\u95f2\u8bdd\u5f55", "slug_title": "my-mother-s-rhapsody", "date": "2011-08-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tOGeVvcsSJLHTWaNlFP0vZSwyec.jpg", "actors": [], "comments": [], "recommandations_id": []}

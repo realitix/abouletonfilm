@@ -1,1 +1,0 @@
-{"tmdb_id": 442754, "title": "Sweet Hawaiian Dreams", "original_title": "Sweet Hawaiian Dreams", "slug_title": "sweet-hawaiian-dreams", "date": "1941-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

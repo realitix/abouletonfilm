@@ -1,1 +1,0 @@
-{"tmdb_id": 512761, "title": "Call Her Ganda", "original_title": "Call Her Ganda", "slug_title": "call-her-ganda", "date": "2018-04-19", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rpjN2aGkVH4Lp5NuK1CO49JUV0V.jpg", "actors": [], "comments": [], "recommandations_id": []}

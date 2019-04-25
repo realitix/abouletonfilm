@@ -1,1 +1,0 @@
-{"tmdb_id": 356851, "title": "Idol Busters", "original_title": "Idol Busters", "slug_title": "idol-busters", "date": "1989-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x5Vp492YV9TpBHugIbzJTc7kv6k.jpg", "actors": [], "comments": [], "recommandations_id": []}

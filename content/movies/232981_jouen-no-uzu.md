@@ -1,1 +1,0 @@
-{"tmdb_id": 232981, "title": "Jouen no Uzu", "original_title": "Jouen no Uzu", "slug_title": "jouen-no-uzu", "date": "1964-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tgKkgFnzaBJI96Bg86kQVynYTJc.jpg", "actors": ["Ky\u00f4ko \u00d4gimachi ()", "Jir\u00f4 Arikawa ()"], "comments": [], "recommandations_id": []}

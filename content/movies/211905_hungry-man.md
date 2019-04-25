@@ -1,1 +1,0 @@
-{"tmdb_id": 211905, "title": "Hungry Man", "original_title": "Hungry Man", "slug_title": "hungry-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bFQ4tR3ijhxUW1utcBEnzPUzonk.jpg", "actors": [], "comments": [], "recommandations_id": []}

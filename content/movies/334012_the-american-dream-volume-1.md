@@ -1,1 +1,0 @@
-{"tmdb_id": 334012, "title": "The American Dream: Volume 1", "original_title": "The American Dream: Volume 1", "slug_title": "the-american-dream-volume-1", "date": "2011-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 133212, "title": "Desert Fox", "original_title": "Desert Fox", "slug_title": "desert-fox", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Guerre contre l'Irak", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

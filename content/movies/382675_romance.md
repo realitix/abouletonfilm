@@ -1,1 +1,0 @@
-{"tmdb_id": 382675, "title": "Romance", "original_title": "Romance", "slug_title": "romance", "date": "2004-07-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iq86dTM6A5YGGO2Lw9ZpOijOJzT.jpg", "actors": ["Veerle Baetens (Chantal)"], "comments": [], "recommandations_id": []}

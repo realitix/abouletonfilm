@@ -1,1 +1,0 @@
-{"tmdb_id": 594025, "title": "Life In Common", "original_title": "La vida en com\u00fan", "slug_title": "life-in-common", "date": "2019-04-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yVqN251ot6uBR1E2oHKnSoEsDMC.jpg", "actors": [], "comments": [], "recommandations_id": []}

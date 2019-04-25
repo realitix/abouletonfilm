@@ -1,1 +1,0 @@
-{"tmdb_id": 263348, "title": "When the Stars Were Red", "original_title": "Ked hviezdy boli cerven\u00e9", "slug_title": "when-the-stars-were-red", "date": "1991-09-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nHzXtIeozsFYeUWR1bBtgD9dxax.jpg", "actors": [], "comments": [], "recommandations_id": []}

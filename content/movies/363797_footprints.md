@@ -1,1 +1,0 @@
-{"tmdb_id": 363797, "title": "Footprints", "original_title": "Footprints", "slug_title": "footprints", "date": "1992-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

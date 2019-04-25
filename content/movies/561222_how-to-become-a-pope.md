@@ -1,1 +1,0 @@
-{"tmdb_id": 561222, "title": "How to Become a Pope?", "original_title": "How to Become a Pope?", "slug_title": "how-to-become-a-pope", "date": "2018-06-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

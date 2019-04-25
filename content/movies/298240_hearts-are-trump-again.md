@@ -1,1 +1,0 @@
-{"tmdb_id": 298240, "title": "Hearts Are Trump Again", "original_title": "Hearts Are Trump Again", "slug_title": "hearts-are-trump-again", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

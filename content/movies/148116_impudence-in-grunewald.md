@@ -1,1 +1,0 @@
-{"tmdb_id": 148116, "title": "Impudence in Grunewald", "original_title": "Impudenz Im Grunewald (Teil 1, Teil 2, Teil 3)", "slug_title": "impudence-in-grunewald", "date": "1969-12-31", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

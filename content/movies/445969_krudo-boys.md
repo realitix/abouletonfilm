@@ -1,1 +1,0 @@
-{"tmdb_id": 445969, "title": "Krudo Boys", "original_title": "Krudo Boys", "slug_title": "krudo-boys", "date": "2017-03-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tEcw0DtjEL0EG8YHR32dJzDoXp5.jpg", "actors": [], "comments": [], "recommandations_id": []}

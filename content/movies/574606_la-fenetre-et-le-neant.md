@@ -1,1 +1,0 @@
-{"tmdb_id": 574606, "title": "La fen\u00eatre et le n\u00e9ant", "original_title": "La fen\u00eatre et le n\u00e9ant", "slug_title": "la-fenetre-et-le-neant", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un film de Jakobois", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

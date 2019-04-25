@@ -1,1 +1,0 @@
-{"tmdb_id": 323750, "title": "Cartoons of Halas & Batchelor", "original_title": "Cartoons of Halas & Batchelor", "slug_title": "cartoons-of-halas-batchelor", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

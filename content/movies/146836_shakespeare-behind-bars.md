@@ -1,1 +1,0 @@
-{"tmdb_id": 146836, "title": "Shakespeare Behind Bars", "original_title": "Shakespeare Behind Bars", "slug_title": "shakespeare-behind-bars", "date": "2005-01-01", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8LTndtmqZJ5VMKPxmIFtxSGaaKC.jpg", "actors": [], "comments": [], "recommandations_id": []}

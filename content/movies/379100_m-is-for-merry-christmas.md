@@ -1,1 +1,0 @@
-{"tmdb_id": 379100, "title": "M is for Merry Christmas", "original_title": "M is for Merry Christmas", "slug_title": "m-is-for-merry-christmas", "date": "2013-10-23", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

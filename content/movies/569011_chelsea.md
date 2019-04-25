@@ -1,1 +1,0 @@
-{"tmdb_id": 569011, "title": "Chelsea", "original_title": "Chelsea", "slug_title": "chelsea", "date": "2017-06-26", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oXn051OGyDQ1A84z90hyzHrimrY.jpg", "actors": [], "comments": [], "recommandations_id": []}

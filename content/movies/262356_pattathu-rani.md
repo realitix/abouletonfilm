@@ -1,1 +1,0 @@
-{"tmdb_id": 262356, "title": "Pattathu Rani", "original_title": "Pattathu Rani", "slug_title": "pattathu-rani", "date": "1967-01-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "Bhanumathi ()"], "comments": [], "recommandations_id": []}

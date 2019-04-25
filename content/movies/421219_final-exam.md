@@ -1,1 +1,0 @@
-{"tmdb_id": 421219, "title": "Final Exam", "original_title": "Emtehan Nahaee", "slug_title": "final-exam", "date": "2016-10-15", "genre": "Drame", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/11jP9KZbnnXslFRxcFCBlpJ7dPE.jpg", "actors": ["Shahab Hosseini (Farhad)", "Leyla Zareh ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 410157, "title": "Simply Drums", "original_title": "Simply Drums", "slug_title": "simply-drums", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gO1AG6xQ2MZmA4qz2YkPY1bHnqA.jpg", "actors": [], "comments": [], "recommandations_id": []}

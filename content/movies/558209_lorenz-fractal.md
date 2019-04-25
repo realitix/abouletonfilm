@@ -1,1 +1,0 @@
-{"tmdb_id": 558209, "title": "Lorenz Fractal", "original_title": "Lorenz Fractal", "slug_title": "lorenz-fractal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

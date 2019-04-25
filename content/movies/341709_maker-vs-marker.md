@@ -1,1 +1,0 @@
-{"tmdb_id": 341709, "title": "Maker vs Marker", "original_title": "Maker vs Marker", "slug_title": "maker-vs-marker", "date": "2014-02-24", "genre": "Action / Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

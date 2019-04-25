@@ -1,1 +1,0 @@
-{"tmdb_id": 171887, "title": "Punching at the Sun", "original_title": "Punching at the Sun", "slug_title": "punching-at-the-sun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iXvyISjyRupPXQokf7Jw9sgbPOD.jpg", "actors": [], "comments": [], "recommandations_id": []}

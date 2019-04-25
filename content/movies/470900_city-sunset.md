@@ -1,1 +1,0 @@
-{"tmdb_id": 470900, "title": "City Sunset", "original_title": "City Sunset", "slug_title": "city-sunset", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

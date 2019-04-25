@@ -1,1 +1,0 @@
-{"tmdb_id": 259370, "title": "Haegeumni", "original_title": "Haegeumni", "slug_title": "haegeumni", "date": "2012-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

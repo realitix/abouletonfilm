@@ -1,1 +1,0 @@
-{"tmdb_id": 462673, "title": "Love before Bond", "original_title": "Love before Bond", "slug_title": "love-before-bond", "date": "2017-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

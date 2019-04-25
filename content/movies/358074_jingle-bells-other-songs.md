@@ -1,1 +1,0 @@
-{"tmdb_id": 358074, "title": "Jingle Bells & Other Songs", "original_title": "Jingle Bells & Other Songs", "slug_title": "jingle-bells-other-songs", "date": "1992-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pKThDDUSwDbNdVvcXfXpWgVS4S7.jpg", "actors": [], "comments": [], "recommandations_id": []}

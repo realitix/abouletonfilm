@@ -1,1 +1,0 @@
-{"tmdb_id": 511111, "title": "Return of the Poet", "original_title": "Poeti veradardze", "slug_title": "return-of-the-poet", "date": "2005-07-17", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXyunT4qNu64xq9QPEafOqIJm1N.jpg", "actors": [], "comments": [], "recommandations_id": []}

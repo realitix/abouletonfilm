@@ -1,1 +1,0 @@
-{"tmdb_id": 393548, "title": "Caught in a Trap", "original_title": "Caught in a Trap", "slug_title": "caught-in-a-trap", "date": "2008-12-26", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 297671, "title": "With Intent to Kill", "original_title": "With Intent to Kill", "slug_title": "with-intent-to-kill", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

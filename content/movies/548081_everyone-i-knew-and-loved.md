@@ -1,1 +1,0 @@
-{"tmdb_id": 548081, "title": "Everyone I Knew and Loved", "original_title": "Everyone I Knew and Loved", "slug_title": "everyone-i-knew-and-loved", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

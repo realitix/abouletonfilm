@@ -1,1 +1,0 @@
-{"tmdb_id": 321771, "title": "De boulevard van Scheveningen", "original_title": "De boulevard van Scheveningen", "slug_title": "de-boulevard-van-scheveningen", "date": "1898-01-28", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

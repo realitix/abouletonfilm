@@ -1,1 +1,0 @@
-{"tmdb_id": 567037, "title": "Nothing or Everything", "original_title": "Nothing or Everything", "slug_title": "nothing-or-everything", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/asHJZi4XGmrO5ta95J9uQoKHnRt.jpg", "actors": ["Kwon So-hyun ()", "Lee Yoo-young ()"], "comments": [], "recommandations_id": []}

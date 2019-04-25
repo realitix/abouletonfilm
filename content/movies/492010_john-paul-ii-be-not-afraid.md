@@ -1,1 +1,0 @@
-{"tmdb_id": 492010, "title": "John Paul II: Be Not Afraid", "original_title": "John Paul II: Be Not Afraid", "slug_title": "john-paul-ii-be-not-afraid", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/93Gv73DI2yXMYN0z9rf4z9ywKu.jpg", "actors": [], "comments": [], "recommandations_id": []}

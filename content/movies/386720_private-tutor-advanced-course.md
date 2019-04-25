@@ -1,1 +1,0 @@
-{"tmdb_id": 386720, "title": "Private Tutor Advanced Course", "original_title": "Private Tutor Advanced Course", "slug_title": "private-tutor-advanced-course", "date": "2016-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ii4Iqk04vV1LztKqfFNXo5U9IjF.jpg", "actors": [], "comments": [], "recommandations_id": []}

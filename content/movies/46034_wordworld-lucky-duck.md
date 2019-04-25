@@ -1,1 +1,0 @@
-{"tmdb_id": 46034, "title": "WordWorld: Lucky Duck", "original_title": "WordWorld: Lucky Duck", "slug_title": "wordworld-lucky-duck", "date": "2008-04-08", "genre": "Animation / Familial", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s8E9snM2U1k6UwAz60YW7UowR8R.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 438025, "title": "\"The Talk\" True Stories About the Birds & the Bees", "original_title": "\"The Talk\" True Stories About the Birds & the Bees", "slug_title": "the-talk-true-stories-about-the-birds-the-bees", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

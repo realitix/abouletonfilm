@@ -1,1 +1,0 @@
-{"tmdb_id": 401810, "title": "Sigi G\u00f6tz Collectors Item", "original_title": "Sigi G\u00f6tz Collectors Item", "slug_title": "sigi-gotz-collectors-item", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ulrich Mannes ()", "Bernd Brehmer ()"], "comments": [], "recommandations_id": []}

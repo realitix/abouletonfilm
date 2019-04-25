@@ -1,1 +1,0 @@
-{"tmdb_id": 138641, "title": "Il Divo At The Coliseum", "original_title": "Il Divo At The Coliseum", "slug_title": "il-divo-at-the-coliseum", "date": "2008-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lIJjPd3rsozEKQT5HjfZSr5mg5z.jpg", "actors": [], "comments": [], "recommandations_id": []}

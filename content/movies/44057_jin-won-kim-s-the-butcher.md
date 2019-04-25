@@ -1,1 +1,0 @@
-{"tmdb_id": 44057, "title": "Jin Won Kim's The Butcher", "original_title": "Jin Won Kim's The Butcher", "slug_title": "jin-won-kim-s-the-butcher", "date": "2009-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aAwEwn8Sx1MvO8RY3GvEuEbUixH.jpg", "actors": [], "comments": [], "recommandations_id": []}

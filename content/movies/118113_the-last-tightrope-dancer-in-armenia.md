@@ -1,1 +1,0 @@
-{"tmdb_id": 118113, "title": "The Last Tightrope Dancer in Armenia", "original_title": "The Last Tightrope Dancer in Armenia", "slug_title": "the-last-tightrope-dancer-in-armenia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

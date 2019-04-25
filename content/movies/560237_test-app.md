@@ -1,1 +1,1 @@
-{"tmdb_id": 560237, "title": "test app", "original_title": "test app", "slug_title": "test-app", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 560237, "title": "test app", "original_title": "test app", "slug_title": "test-app", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "test app hello world", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 311739, "title": "The Beverly Hillbillies Vol. 1: 10 Classic Episodes", "original_title": "The Beverly Hillbillies Vol. 1: 10 Classic Episodes", "slug_title": "the-beverly-hillbillies-vol-1-10-classic-episodes", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

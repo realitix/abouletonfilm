@@ -1,1 +1,0 @@
-{"tmdb_id": 508489, "title": "Family Curse", "original_title": "Family Curse", "slug_title": "family-curse", "date": "2017-07-20", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

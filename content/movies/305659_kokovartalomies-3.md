@@ -1,1 +1,0 @@
-{"tmdb_id": 305659, "title": "Kokovartalomies 3", "original_title": "Kokovartalomies 3", "slug_title": "kokovartalomies-3", "date": "2014-11-23", "genre": "Com\u00e9die", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n9eKhAqBTBmoNbrYYchu30MjWEs.jpg", "actors": ["Sami Hedberg (Himself)"], "comments": [], "recommandations_id": []}

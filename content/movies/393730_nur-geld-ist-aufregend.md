@@ -1,1 +1,0 @@
-{"tmdb_id": 393730, "title": "Nur Geld ist aufregend", "original_title": "Nur Geld ist aufregend", "slug_title": "nur-geld-ist-aufregend", "date": "1980-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 392515, "title": "Man's Hands", "original_title": "Las manos del hombre", "slug_title": "man-s-hands", "date": "1952-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/emAkMHFrTztnxhk9AAdBhnLxJKc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 535208, "title": "Biosphere", "original_title": "Biosphere", "slug_title": "biosphere", "date": "2018-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

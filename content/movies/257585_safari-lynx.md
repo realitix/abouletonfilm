@@ -1,1 +1,0 @@
-{"tmdb_id": 257585, "title": "Safari: Lynx", "original_title": "Safari: Lynx", "slug_title": "safari-lynx", "date": "2010-09-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/drRR45aaJtU7kTeQXlg32ACUTzZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

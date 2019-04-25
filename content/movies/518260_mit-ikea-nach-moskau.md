@@ -1,1 +1,0 @@
-{"tmdb_id": 518260, "title": "Mit Ikea nach Moskau", "original_title": "Mit Ikea nach Moskau", "slug_title": "mit-ikea-nach-moskau", "date": "2001-08-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dmsobaJPdTtt6CPlZYx1TCcQ1gJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

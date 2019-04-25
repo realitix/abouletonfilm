@@ -1,1 +1,0 @@
-{"tmdb_id": 567764, "title": "A Rousing Affair", "original_title": "Muramura nezumi j\u014dji", "slug_title": "a-rousing-affair", "date": "2017-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shion Akimoto ()", "Seki Manami ()"], "comments": [], "recommandations_id": []}

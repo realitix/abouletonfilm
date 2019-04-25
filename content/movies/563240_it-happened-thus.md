@@ -1,1 +1,0 @@
-{"tmdb_id": 563240, "title": "It Happened Thus", "original_title": "It Happened Thus", "slug_title": "it-happened-thus", "date": "1937-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

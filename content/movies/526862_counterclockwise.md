@@ -1,1 +1,0 @@
-{"tmdb_id": 526862, "title": "Counterclockwise", "original_title": "Counterclockwise", "slug_title": "counterclockwise", "date": "2009-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

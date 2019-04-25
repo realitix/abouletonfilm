@@ -1,1 +1,0 @@
-{"tmdb_id": 482308, "title": "Sincerity V", "original_title": "Sincerity V", "slug_title": "sincerity-v", "date": "1980-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tC6nIzgQh8pDTvZNi2PhOMP77HZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

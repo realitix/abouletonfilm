@@ -1,1 +1,0 @@
-{"tmdb_id": 511757, "title": "\"Now I Am Yours\"", "original_title": "\"Now I Am Yours\"", "slug_title": "now-i-am-yours", "date": "1993-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qiiCadSdeW4a2OIYj9lbYDuLgPT.jpg", "actors": ["Nina Danino ()"], "comments": [], "recommandations_id": []}

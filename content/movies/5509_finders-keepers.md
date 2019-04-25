@@ -1,1 +1,0 @@
-{"tmdb_id": 5509, "title": "Finders, Keepers", "original_title": "Finders, Keepers", "slug_title": "finders-keepers", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Mark Arnold (The Man)", "Jenifer Sparks (The Woman)"], "comments": [], "recommandations_id": []}

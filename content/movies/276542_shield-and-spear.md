@@ -1,1 +1,0 @@
-{"tmdb_id": 276542, "title": "Shield and Spear", "original_title": "Shield and Spear", "slug_title": "shield-and-spear", "date": "2014-06-13", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8CZaqScJQn7GU8KiHi4asUApc1N.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 510201, "title": "Valley of 10,000 Smokes", "original_title": "Valley of 10,000 Smokes", "slug_title": "valley-of-10000-smokes", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g6ZTmHrUyQJaQBSOpIi0x9WQw4L.jpg", "actors": [], "comments": [], "recommandations_id": []}

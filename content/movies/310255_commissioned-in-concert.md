@@ -1,1 +1,0 @@
-{"tmdb_id": 310255, "title": "Commissioned in Concert", "original_title": "Commissioned in Concert", "slug_title": "commissioned-in-concert", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

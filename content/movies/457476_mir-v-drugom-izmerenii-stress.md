@@ -1,1 +1,0 @@
-{"tmdb_id": 457476, "title": "Mir v drugom izmerenii. Stress", "original_title": "Mir v drugom izmerenii. Stress", "slug_title": "mir-v-drugom-izmerenii-stress", "date": "1993-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3c6F6IY4oYiOkprY4v5NjnDlJSh.jpg", "actors": [], "comments": [], "recommandations_id": []}

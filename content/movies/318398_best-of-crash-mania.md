@@ -1,1 +1,0 @@
-{"tmdb_id": 318398, "title": "Best of Crash Mania", "original_title": "Best of Crash Mania", "slug_title": "best-of-crash-mania", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

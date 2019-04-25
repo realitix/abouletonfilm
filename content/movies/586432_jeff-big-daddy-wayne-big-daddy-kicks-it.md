@@ -1,1 +1,0 @@
-{"tmdb_id": 586432, "title": "Jeff \"Big Daddy\" Wayne: Big Daddy Kicks It", "original_title": "Jeff \"Big Daddy\" Wayne: Big Daddy Kicks It", "slug_title": "jeff-big-daddy-wayne-big-daddy-kicks-it", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

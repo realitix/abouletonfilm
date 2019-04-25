@@ -1,1 +1,0 @@
-{"tmdb_id": 174082, "title": "The Plumber", "original_title": "The Plumber", "slug_title": "the-plumber", "date": "1914-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charles Murray (Hogan)"], "comments": [], "recommandations_id": []}

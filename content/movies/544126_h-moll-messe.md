@@ -1,1 +1,0 @@
-{"tmdb_id": 544126, "title": "H-Moll Messe", "original_title": "H-Moll Messe", "slug_title": "h-moll-messe", "date": "1978-10-20", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

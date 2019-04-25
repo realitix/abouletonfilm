@@ -1,1 +1,0 @@
-{"tmdb_id": 162594, "title": "Offers Herself as Bride for $10,000", "original_title": "Offers Herself as Bride for $10,000", "slug_title": "offers-herself-as-bride-for-10000", "date": "1931-04-15", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mary Clowes (Herself)"], "comments": [], "recommandations_id": []}

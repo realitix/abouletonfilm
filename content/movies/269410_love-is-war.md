@@ -1,1 +1,0 @@
-{"tmdb_id": 269410, "title": "Love Is War", "original_title": "Love Is War", "slug_title": "love-is-war", "date": "1970-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

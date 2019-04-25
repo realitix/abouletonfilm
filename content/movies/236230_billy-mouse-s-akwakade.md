@@ -1,1 +1,0 @@
-{"tmdb_id": 236230, "title": "Billy Mouse's Akwakade", "original_title": "Billy Mouse's Akwakade", "slug_title": "billy-mouse-s-akwakade", "date": "1939-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wodXkk5IoHbwtzXEG9LvwCKhBpt.jpg", "actors": [], "comments": [], "recommandations_id": []}

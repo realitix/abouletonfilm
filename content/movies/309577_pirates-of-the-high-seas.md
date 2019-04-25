@@ -1,1 +1,0 @@
-{"tmdb_id": 309577, "title": "Pirates of the High Seas", "original_title": "Pirates of the High Seas", "slug_title": "pirates-of-the-high-seas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

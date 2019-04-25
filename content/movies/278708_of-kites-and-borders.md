@@ -1,1 +1,0 @@
-{"tmdb_id": 278708, "title": "Of Kites and Borders", "original_title": "Of Kites and Borders", "slug_title": "of-kites-and-borders", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 513350, "title": "Venom And Eternity For Dummies", "original_title": "Venom And Eternity For Dummies", "slug_title": "venom-and-eternity-for-dummies", "date": "2012-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

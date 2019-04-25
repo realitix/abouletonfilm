@@ -1,1 +1,0 @@
-{"tmdb_id": 119977, "title": "The Cabbage-Patch Fairy", "original_title": "The Cabbage-Patch Fairy", "slug_title": "the-cabbage-patch-fairy", "date": "1900-01-01", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yvonne Serand ()"], "comments": [], "recommandations_id": [139231, 119959, 120026, 195630]}

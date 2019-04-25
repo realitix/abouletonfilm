@@ -1,1 +1,0 @@
-{"tmdb_id": 421684, "title": "Syndromes of Mimicry", "original_title": "Syndromes of Mimicry", "slug_title": "syndromes-of-mimicry", "date": "2016-06-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/28KvlF2tLR9VclZwUNPTHKxrpHW.jpg", "actors": [], "comments": [], "recommandations_id": []}

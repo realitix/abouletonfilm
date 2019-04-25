@@ -1,1 +1,0 @@
-{"tmdb_id": 404168, "title": "\u804a\u658b\u753b\u76ae", "original_title": "\u804a\u658b\u753b\u76ae", "slug_title": "liao-zhai-hua-pi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fx7yxEEykjPPSeaslk0eSaFI8Fy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 468410, "title": "L'et\u00e0 del ferro", "original_title": "L'et\u00e0 del ferro", "slug_title": "l-eta-del-ferro", "date": "1965-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s3abDSPxtRYjC5joZ4GWlziK6Qn.jpg", "actors": [], "comments": [], "recommandations_id": []}

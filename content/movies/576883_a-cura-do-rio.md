@@ -1,1 +1,0 @@
-{"tmdb_id": 576883, "title": "\u00c0 cura do rio", "original_title": "\u00c0 cura do rio", "slug_title": "a-cura-do-rio", "date": "2018-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cpQiC21MqzHes5iBP6G7OAukpkQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

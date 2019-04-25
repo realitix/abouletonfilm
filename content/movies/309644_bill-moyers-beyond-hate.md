@@ -1,1 +1,0 @@
-{"tmdb_id": 309644, "title": "Bill Moyers: Beyond Hate", "original_title": "Bill Moyers: Beyond Hate", "slug_title": "bill-moyers-beyond-hate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

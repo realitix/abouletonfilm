@@ -1,1 +1,0 @@
-{"tmdb_id": 296015, "title": "Songs For Alexis", "original_title": "Songs For Alexis", "slug_title": "songs-for-alexis", "date": "2014-11-27", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6UlvL3i9ep1YsfLCYEdnt9MOLwk.jpg", "actors": [], "comments": [], "recommandations_id": []}

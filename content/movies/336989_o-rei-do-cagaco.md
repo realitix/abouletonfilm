@@ -1,1 +1,0 @@
-{"tmdb_id": 336989, "title": "O Rei do Caga\u00e7o", "original_title": "O Rei do Caga\u00e7o", "slug_title": "o-rei-do-cagaco", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8PEQIwiOQchhGd3oHD5KF74uOX1.jpg", "actors": [], "comments": [], "recommandations_id": []}

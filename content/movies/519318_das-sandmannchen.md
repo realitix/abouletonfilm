@@ -1,1 +1,0 @@
-{"tmdb_id": 519318, "title": "Das Sandm\u00e4nnchen", "original_title": "Das Sandm\u00e4nnchen", "slug_title": "das-sandmannchen", "date": "1955-10-29", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alexa von Porembsky ()", "Nina von Porembsky ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 305018, "title": "Blood Moons: Decoding the Imminent Heavenly Signs", "original_title": "Blood Moons: Decoding the Imminent Heavenly Signs", "slug_title": "blood-moons-decoding-the-imminent-heavenly-signs", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

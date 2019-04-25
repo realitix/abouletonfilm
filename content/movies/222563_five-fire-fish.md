@@ -1,1 +1,0 @@
-{"tmdb_id": 222563, "title": "Five Fire Fish", "original_title": "Five Fire Fish", "slug_title": "five-fire-fish", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ametBLl9roRxhF7NU6gfDbDuA4k.jpg", "actors": [], "comments": [], "recommandations_id": []}

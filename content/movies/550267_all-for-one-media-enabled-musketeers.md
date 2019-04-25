@@ -1,1 +1,0 @@
-{"tmdb_id": 550267, "title": "All for One: Media Enabled Musketeers", "original_title": "All for One: Media Enabled Musketeers", "slug_title": "all-for-one-media-enabled-musketeers", "date": "2018-08-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

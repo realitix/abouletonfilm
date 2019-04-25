@@ -1,1 +1,0 @@
-{"tmdb_id": 431499, "title": "Amigos do Teodoro & Sampaio", "original_title": "Amigos do Teodoro & Sampaio", "slug_title": "amigos-do-teodoro-sampaio", "date": "2016-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a1UtYo2jijvuTqtMqskNoLDwAPI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 579465, "title": "Mystery in the Mist", "original_title": "\u7591\u9727\u516c\u5802", "slug_title": "mystery-in-the-mist", "date": "2019-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wvpkOaaPOAC1x2nVvw9Q87Dp8Pi.jpg", "actors": [], "comments": [], "recommandations_id": []}

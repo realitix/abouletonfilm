@@ -1,1 +1,0 @@
-{"tmdb_id": 258856, "title": "Benzedeiras de Minas", "original_title": "Benzedeiras de Minas", "slug_title": "benzedeiras-de-minas", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8OOd9A6VQg2ea3q4fIsgDzYRCHi.jpg", "actors": [], "comments": [], "recommandations_id": []}

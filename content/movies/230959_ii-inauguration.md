@@ -1,1 +1,0 @@
-{"tmdb_id": 230959, "title": "II. Inauguration", "original_title": "II. Inauguration", "slug_title": "ii-inauguration", "date": "1896-09-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yGtctf8x8bJxNYKosFsg7hfH1Zn.jpg", "actors": [], "comments": [], "recommandations_id": []}

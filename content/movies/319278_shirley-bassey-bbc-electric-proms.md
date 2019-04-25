@@ -1,1 +1,0 @@
-{"tmdb_id": 319278, "title": "Shirley Bassey BBC Electric Proms", "original_title": "Shirley Bassey BBC Electric Proms", "slug_title": "shirley-bassey-bbc-electric-proms", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yGkNYEqCLENqpApd1FFxBNbrY8J.jpg", "actors": [], "comments": [], "recommandations_id": []}

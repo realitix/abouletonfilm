@@ -1,1 +1,0 @@
-{"tmdb_id": 497694, "title": "\ucc29\ud55c \uc0c8\uc5c4\ub9c8", "original_title": "\ucc29\ud55c \uc0c8\uc5c4\ub9c8", "slug_title": "caghan-saeeomma", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

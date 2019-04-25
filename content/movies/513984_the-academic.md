@@ -1,1 +1,0 @@
-{"tmdb_id": 513984, "title": "the academic", "original_title": "the academic", "slug_title": "the-academic", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5mjGfCeFcGhA0nmfnHODKiylQ8f.jpg", "actors": [], "comments": [], "recommandations_id": []}

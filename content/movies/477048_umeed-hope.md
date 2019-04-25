@@ -1,1 +1,0 @@
-{"tmdb_id": 477048, "title": "Umeed: Hope", "original_title": "Umeed: Hope", "slug_title": "umeed-hope", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

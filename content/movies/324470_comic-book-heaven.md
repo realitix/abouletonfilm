@@ -1,1 +1,0 @@
-{"tmdb_id": 324470, "title": "Comic Book Heaven", "original_title": "Comic Book Heaven", "slug_title": "comic-book-heaven", "date": "2014-02-15", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9rZBnX3TighmZ7xcLuInTBu7MNM.jpg", "actors": ["Joe Leisner (Himself)"], "comments": [], "recommandations_id": []}

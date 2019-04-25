@@ -1,1 +1,0 @@
-{"tmdb_id": 290241, "title": "Women in Boxes", "original_title": "Women in Boxes", "slug_title": "women-in-boxes", "date": "2008-06-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w631qiqiouU4u6vFN0D2c6s3Mi2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 498199, "title": "Island Earth", "original_title": "Island Earth", "slug_title": "island-earth", "date": "2016-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fgcqPGwR9FEmCtu2m2XHDkTeuFe.jpg", "actors": [], "comments": [], "recommandations_id": []}

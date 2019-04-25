@@ -1,1 +1,0 @@
-{"tmdb_id": 507468, "title": "The Bearer of Sorrows", "original_title": "El Despenador", "slug_title": "the-bearer-of-sorrows", "date": "2019-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fczKoAVmPIFN53jtYK1B0o4FJ2.jpg", "actors": ["Patricio Contreras (Silisque)"], "comments": [], "recommandations_id": []}

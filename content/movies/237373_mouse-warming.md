@@ -1,1 +1,0 @@
-{"tmdb_id": 237373, "title": "Mouse-Warming", "original_title": "Mouse-Warming", "slug_title": "mouse-warming", "date": "1952-09-08", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pITwV12zqp0j22ZE4yksJIqsWTq.jpg", "actors": ["Mel Blanc (Claude Cat (voice))"], "comments": [], "recommandations_id": []}

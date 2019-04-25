@@ -1,1 +1,0 @@
-{"tmdb_id": 109672, "title": "El Roc\u00edo es Compartir", "original_title": "El Roc\u00edo es Compartir", "slug_title": "el-rocio-es-compartir", "date": "2012-05-04", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qHUK0w0j844wBmLqMfLLYuAIH2d.jpg", "actors": [], "comments": [], "recommandations_id": []}

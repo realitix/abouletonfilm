@@ -1,1 +1,0 @@
-{"tmdb_id": 510261, "title": "Colossal Squid", "original_title": "Colossal Squid", "slug_title": "colossal-squid", "date": "2008-08-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l8MlU0QOpq4UhAywttJd6f7G5xm.jpg", "actors": [], "comments": [], "recommandations_id": []}

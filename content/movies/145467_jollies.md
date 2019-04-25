@@ -1,1 +1,0 @@
-{"tmdb_id": 145467, "title": "Jollies", "original_title": "Jollies", "slug_title": "jollies", "date": "1990-12-31", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3t7ho3TVYmXDAlPg5XUC81Xoxh2.jpg", "actors": [], "comments": [], "recommandations_id": [383841, 260364, 250631, 352631]}

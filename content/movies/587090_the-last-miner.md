@@ -1,1 +1,0 @@
-{"tmdb_id": 587090, "title": "The Last Miner", "original_title": "The Last Miner", "slug_title": "the-last-miner", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aQfxStbtgJ24ei2cvkvWiVWYMbt.jpg", "actors": ["Jim Power (Himself)"], "comments": [], "recommandations_id": []}

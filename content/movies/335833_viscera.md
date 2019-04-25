@@ -1,1 +1,0 @@
-{"tmdb_id": 335833, "title": "Viscera", "original_title": "Viscera", "slug_title": "viscera", "date": "2014-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

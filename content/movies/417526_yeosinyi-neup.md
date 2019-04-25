@@ -1,1 +1,0 @@
-{"tmdb_id": 417526, "title": "\uc5ec\uc2e0\uc758 \ub2aa", "original_title": "\uc5ec\uc2e0\uc758 \ub2aa", "slug_title": "yeosinyi-neup", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

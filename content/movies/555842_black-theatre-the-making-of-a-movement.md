@@ -1,1 +1,0 @@
-{"tmdb_id": 555842, "title": "Black Theatre: The Making of a Movement", "original_title": "Black Theatre: The Making of a Movement", "slug_title": "black-theatre-the-making-of-a-movement", "date": "1978-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

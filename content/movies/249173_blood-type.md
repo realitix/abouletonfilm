@@ -1,1 +1,0 @@
-{"tmdb_id": 249173, "title": "Blood Type", "original_title": "Veregrupp", "slug_title": "blood-type", "date": "2013-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jSqXYerVOjpJgYp0Z1FzZQ9yEWn.jpg", "actors": [], "comments": [], "recommandations_id": []}

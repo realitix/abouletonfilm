@@ -1,1 +1,0 @@
-{"tmdb_id": 117459, "title": "Passion", "original_title": "Passion", "slug_title": "passion", "date": "1990-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xyKyNnQklNaw7h1NE5ATFD1IZ6z.jpg", "actors": [], "comments": [], "recommandations_id": []}

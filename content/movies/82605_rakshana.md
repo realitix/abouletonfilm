@@ -1,1 +1,0 @@
-{"tmdb_id": 82605, "title": "Rakshana", "original_title": "Rakshana", "slug_title": "rakshana", "date": "1993-02-18", "genre": "Action / Romance", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jDVSIZJlLteTpQWt9cnmveZWOXy.jpg", "actors": ["Nagarjuna Akkineni (A.C.P Bose)", "Shobana (Padma)"], "comments": [], "recommandations_id": []}

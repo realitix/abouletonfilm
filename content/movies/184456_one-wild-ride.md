@@ -1,1 +1,0 @@
-{"tmdb_id": 184456, "title": "One Wild Ride", "original_title": "One Wild Ride", "slug_title": "one-wild-ride", "date": "1925-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

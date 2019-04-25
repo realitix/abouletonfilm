@@ -1,1 +1,0 @@
-{"tmdb_id": 70797, "title": "K1 Romanex", "original_title": "K1 Romanex", "slug_title": "k1-romanex", "date": "", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1fKjP2Fixl5p06lNqRyKyiCWYfc.jpg", "actors": [], "comments": [], "recommandations_id": []}

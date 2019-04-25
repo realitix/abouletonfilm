@@ -1,1 +1,0 @@
-{"tmdb_id": 566758, "title": "Could You Eat Just a Little Bit of Shit", "original_title": "Could You Eat Just a Little Bit of Shit", "slug_title": "could-you-eat-just-a-little-bit-of-shit", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

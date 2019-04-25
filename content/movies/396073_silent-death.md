@@ -1,1 +1,0 @@
-{"tmdb_id": 396073, "title": "Silent Death", "original_title": "Sessiz \u00d6l\u00fcm", "slug_title": "silent-death", "date": "", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d5Ib9p0s8hs8eJGY6PVcTWkZjz8.jpg", "actors": ["J\u00fclide Kural ()"], "comments": [], "recommandations_id": []}

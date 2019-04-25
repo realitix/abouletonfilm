@@ -1,1 +1,0 @@
-{"tmdb_id": 266021, "title": "Kill Your Darling", "original_title": "Kill Your Darling", "slug_title": "kill-your-darling", "date": "2012-11-17", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

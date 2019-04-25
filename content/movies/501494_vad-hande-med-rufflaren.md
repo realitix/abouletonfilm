@@ -1,1 +1,0 @@
-{"tmdb_id": 501494, "title": "Vad h\u00e4nde med rufflaren?", "original_title": "Vad h\u00e4nde med rufflaren?", "slug_title": "vad-hande-med-rufflaren", "date": "2004-07-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

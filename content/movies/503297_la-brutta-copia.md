@@ -1,1 +1,0 @@
-{"tmdb_id": 503297, "title": "La brutta copia", "original_title": "La brutta copia", "slug_title": "la-brutta-copia", "date": "2013-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9p8jhF4DjXx1wkiRPa4ywAIHG2D.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 544063, "title": "Seest\u00fcck", "original_title": "Seest\u00fcck", "slug_title": "seestuck", "date": "2018-08-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Q3bMhMO9DgLAcQdWDaXjhY5EOv.jpg", "actors": ["Volker Koepp (Himself (voice))"], "comments": [], "recommandations_id": []}

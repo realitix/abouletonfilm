@@ -1,1 +1,0 @@
-{"tmdb_id": 356850, "title": "Pigface: Son Of A Glitch", "original_title": "Pigface: Son Of A Glitch", "slug_title": "pigface-son-of-a-glitch", "date": "2013-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

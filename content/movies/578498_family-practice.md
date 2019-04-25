@@ -1,1 +1,0 @@
-{"tmdb_id": 578498, "title": "Family Practice", "original_title": "Sohn meines Vaters", "slug_title": "family-practice", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

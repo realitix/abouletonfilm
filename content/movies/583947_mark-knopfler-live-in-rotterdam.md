@@ -1,1 +1,0 @@
-{"tmdb_id": 583947, "title": "Mark Knopfler Live In Rotterdam", "original_title": "Mark Knopfler Live In Rotterdam", "slug_title": "mark-knopfler-live-in-rotterdam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sZXaRSdgOowAteozUJ4utIOTzF8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 564663, "title": "Changa Revisited", "original_title": "Changa Revisited", "slug_title": "changa-revisited", "date": "2016-11-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9WjsdSVrbOW7MW0WMP0D54sJrtV.jpg", "actors": [], "comments": [], "recommandations_id": []}

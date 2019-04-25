@@ -1,1 +1,0 @@
-{"tmdb_id": 138215, "title": "El Huaso", "original_title": "El Huaso", "slug_title": "el-huaso", "date": "2012-10-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hContsSlUfzRwg1kGzisZPdbZTb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 376706, "title": "Pontormo and Punks at Santa Croce", "original_title": "Pontormo and Punks at Santa Croce", "slug_title": "pontormo-and-punks-at-santa-croce", "date": "1982-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

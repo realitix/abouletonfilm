@@ -1,1 +1,0 @@
-{"tmdb_id": 353530, "title": "Black Ice", "original_title": "Gololyod", "slug_title": "black-ice", "date": "2003-02-06", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tmaGfq7OYqwnMd3aFzYyfvSGF6.jpg", "actors": [], "comments": [], "recommandations_id": []}

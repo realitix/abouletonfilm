@@ -1,1 +1,0 @@
-{"tmdb_id": 199249, "title": "Continent perdu", "original_title": "Continente perduto", "slug_title": "continent-perdu", "date": "1955-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wHKI9jE95WOl2WojUPcCQGsagDo.jpg", "actors": [], "comments": [], "recommandations_id": []}

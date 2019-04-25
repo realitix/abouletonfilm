@@ -1,1 +1,0 @@
-{"tmdb_id": 589663, "title": "The Switch", "original_title": "The Switch", "slug_title": "the-switch", "date": "2019-03-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 358263, "title": "Little Red Hoodie", "original_title": "Little Red Hoodie", "slug_title": "little-red-hoodie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

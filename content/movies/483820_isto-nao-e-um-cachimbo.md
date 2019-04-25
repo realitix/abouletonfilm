@@ -1,1 +1,0 @@
-{"tmdb_id": 483820, "title": "Isto n\u00e3o \u00e9 um cachimbo", "original_title": "Isto n\u00e3o \u00e9 um cachimbo", "slug_title": "isto-nao-e-um-cachimbo", "date": "2016-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

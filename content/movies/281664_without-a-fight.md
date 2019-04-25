@@ -1,1 +1,0 @@
-{"tmdb_id": 281664, "title": "Without a Fight", "original_title": "Without a Fight", "slug_title": "without-a-fight", "date": "2012-04-06", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eDXdhNabmgVLdTAbc8OxVV5Mgqz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 297357, "title": "Latin Kingz", "original_title": "Latin Kingz", "slug_title": "latin-kingz", "date": "2003-03-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2C0SVopoHyG1W53gt6lcd6sLxEI.jpg", "actors": [], "comments": [], "recommandations_id": []}

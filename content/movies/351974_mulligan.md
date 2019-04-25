@@ -1,1 +1,0 @@
-{"tmdb_id": 351974, "title": "Mulligan", "original_title": "Mulligan", "slug_title": "mulligan", "date": "2012-12-31", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonathan Eliot (John Hanson)", "Dean Chekvala (Karl)", "Amy Sloan (Alice)", "Kaitlin Doubleday (Tinker)"], "comments": [], "recommandations_id": []}

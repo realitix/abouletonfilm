@@ -1,1 +1,0 @@
-{"tmdb_id": 485723, "title": "The Misogynists", "original_title": "The Misogynists", "slug_title": "the-misogynists", "date": "2017-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dylan Baker (Cameron)", "Christine M. Campbell (Alice)"], "comments": [], "recommandations_id": []}

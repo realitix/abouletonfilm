@@ -1,1 +1,0 @@
-{"tmdb_id": 182828, "title": "Ghetto Fights 4", "original_title": "Ghetto Fights 4", "slug_title": "ghetto-fights-4", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tb6TIxiEKdCmhIVouqFFh2872gm.jpg", "actors": [], "comments": [], "recommandations_id": []}

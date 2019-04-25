@@ -1,1 +1,0 @@
-{"tmdb_id": 285184, "title": "Mike and Stefani", "original_title": "Mike and Stefani", "slug_title": "mike-and-stefani", "date": "1955-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xGovKmORVrxXlIauEaOkwQSzP67.jpg", "actors": ["Mycola ()", "Stefani ()", "Ginga ()"], "comments": [], "recommandations_id": []}

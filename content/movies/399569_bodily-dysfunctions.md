@@ -1,1 +1,0 @@
-{"tmdb_id": 399569, "title": "Bodily Dysfunctions", "original_title": "Bodily Dysfunctions", "slug_title": "bodily-dysfunctions", "date": "2016-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3V8lCKPfYKrAD7Jvhqa8EP1JbiQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

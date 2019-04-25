@@ -1,1 +1,0 @@
-{"tmdb_id": 202282, "title": "Fish Tales", "original_title": "Fish Tales", "slug_title": "fish-tales", "date": "1936-05-22", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/crcGLbWywez1MYC8ve3u2oDMipP.jpg", "actors": [], "comments": [], "recommandations_id": [202050]}

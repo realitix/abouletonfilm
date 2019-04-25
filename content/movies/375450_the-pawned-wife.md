@@ -1,1 +1,0 @@
-{"tmdb_id": 375450, "title": "The Pawned Wife", "original_title": "\u5178\u59bb", "slug_title": "the-pawned-wife", "date": "1985-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jkuy5FMHJIz9SK4lW3pwdjfnx6Y.jpg", "actors": ["Lu Hsiao-Fen (Yin-hua)"], "comments": [], "recommandations_id": []}

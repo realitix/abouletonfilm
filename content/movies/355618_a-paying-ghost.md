@@ -1,1 +1,0 @@
-{"tmdb_id": 355618, "title": "A Paying Ghost", "original_title": "A Paying Ghost", "slug_title": "a-paying-ghost", "date": "2015-05-21", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1zMH20wOvwc7j3HyB4iAIlRvCYI.jpg", "actors": [], "comments": [], "recommandations_id": []}

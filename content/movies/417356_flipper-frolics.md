@@ -1,1 +1,0 @@
-{"tmdb_id": 417356, "title": "Flipper Frolics", "original_title": "Flipper Frolics", "slug_title": "flipper-frolics", "date": "1952-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

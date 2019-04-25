@@ -1,1 +1,0 @@
-{"tmdb_id": 516420, "title": "Freund Ripp", "original_title": "Freund Ripp", "slug_title": "freund-ripp", "date": "1923-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ilka Gr\u00fcning ()", "K\u00e4the Haack ()", "Harry Halm ()", "Hermann Picha ()", "Fritz Spira ()"], "comments": [], "recommandations_id": []}

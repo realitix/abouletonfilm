@@ -1,1 +1,0 @@
-{"tmdb_id": 494423, "title": "Ocean Bird (Washup)", "original_title": "Ocean Bird (Washup)", "slug_title": "ocean-bird-washup", "date": "1974-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cPrPsexnLrwYxR4ExmhwB81NN0Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

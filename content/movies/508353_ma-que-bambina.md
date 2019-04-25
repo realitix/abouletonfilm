@@ -1,1 +1,0 @@
-{"tmdb_id": 508353, "title": "Ma Qu\u00ea, Bambina!", "original_title": "Ma Qu\u00ea, Bambina!", "slug_title": "ma-que-bambina", "date": "1986-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adoniran Barbosa ()"], "comments": [], "recommandations_id": []}

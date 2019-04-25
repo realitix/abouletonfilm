@@ -1,1 +1,0 @@
-{"tmdb_id": 84674, "title": "My Crasy Life", "original_title": "My Crasy Life", "slug_title": "my-crasy-life", "date": "1992-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6KNpJWWyvtjvh8YV8G9TLYN9Hm2.jpg", "actors": ["Jerry Kaono (Sergeant)", "Richard Masur (Computer)"], "comments": [], "recommandations_id": []}

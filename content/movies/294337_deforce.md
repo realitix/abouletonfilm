@@ -1,1 +1,0 @@
-{"tmdb_id": 294337, "title": "Deforce", "original_title": "Deforce", "slug_title": "deforce", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

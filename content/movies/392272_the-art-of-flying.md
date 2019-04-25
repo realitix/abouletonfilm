@@ -1,1 +1,0 @@
-{"tmdb_id": 392272, "title": "The Art of Flying", "original_title": "The Art of Flying", "slug_title": "the-art-of-flying", "date": "2015-09-12", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4sOFPGInJ5SXHW09NNgX8UbclT9.jpg", "actors": [], "comments": [], "recommandations_id": []}

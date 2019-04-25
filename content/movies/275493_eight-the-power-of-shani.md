@@ -1,1 +1,0 @@
-{"tmdb_id": 275493, "title": "Eight: The Power of Shani", "original_title": "Eight: The Power of Shani", "slug_title": "eight-the-power-of-shani", "date": "2006-04-14", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l43aFyJDtF2nC4cyWdxjeJd7tDA.jpg", "actors": [], "comments": [], "recommandations_id": []}

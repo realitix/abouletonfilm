@@ -1,1 +1,0 @@
-{"tmdb_id": 495368, "title": "Keifuku-san", "original_title": "\u50be\u798f\u3055\u3093", "slug_title": "keifuku-san", "date": "2017-12-28", "genre": "Fantastique / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rFUyHtks5iqSCQJTgETIg0KMkTO.jpg", "actors": ["Yumiri Hanamori ()"], "comments": [], "recommandations_id": []}

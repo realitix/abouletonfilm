@@ -1,1 +1,0 @@
-{"tmdb_id": 584597, "title": "Since. Now. After.", "original_title": "Since. Now. After.", "slug_title": "since-now-after", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

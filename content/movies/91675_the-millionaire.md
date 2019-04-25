@@ -1,1 +1,0 @@
-{"tmdb_id": 91675, "title": "The Millionaire", "original_title": "\u041c\u0438\u043b\u043b\u0438\u043e\u043d\u0435\u0440", "slug_title": "the-millionaire", "date": "1963-01-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5esZZgEzPtYEm0Vj4l1xPdm5xxh.jpg", "actors": [], "comments": [], "recommandations_id": []}

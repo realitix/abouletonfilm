@@ -1,1 +1,0 @@
-{"tmdb_id": 194165, "title": "Yarmouth Fishing Boats Leaving Harbour", "original_title": "Yarmouth Fishing Boats Leaving Harbour", "slug_title": "yarmouth-fishing-boats-leaving-harbour", "date": "1896-05-17", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

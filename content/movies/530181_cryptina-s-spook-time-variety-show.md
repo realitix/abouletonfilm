@@ -1,1 +1,0 @@
-{"tmdb_id": 530181, "title": "Cryptina's Spook-Time Variety Show", "original_title": "Cryptina's Spook-Time Variety Show", "slug_title": "cryptina-s-spook-time-variety-show", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

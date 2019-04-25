@@ -1,1 +1,1 @@
-{"tmdb_id": 343648, "title": "Un fot\u00f3grafo", "original_title": "Un fot\u00f3grafo", "slug_title": "un-fotografo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 343648, "title": "Un fot\u00f3grafo", "original_title": "Un fot\u00f3grafo", "slug_title": "un-fotografo", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "No overview.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

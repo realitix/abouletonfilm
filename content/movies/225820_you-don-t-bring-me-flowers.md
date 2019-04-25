@@ -1,1 +1,0 @@
-{"tmdb_id": 225820, "title": "You Don't Bring Me Flowers", "original_title": "You Don't Bring Me Flowers", "slug_title": "you-don-t-bring-me-flowers", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wjrNeQLveVR4BGGExvvOuEgj3Mo.jpg", "actors": [], "comments": [], "recommandations_id": []}

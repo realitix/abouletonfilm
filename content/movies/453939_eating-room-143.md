@@ -1,1 +1,0 @@
-{"tmdb_id": 453939, "title": "Eating Room 143", "original_title": "Eating Room 143", "slug_title": "eating-room-143", "date": "2015-02-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Travis (Travis Bach)", "Jordan Van Horn (Jordan)", "Sean McIntyre (Sean)"], "comments": [], "recommandations_id": []}

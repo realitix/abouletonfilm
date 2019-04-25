@@ -1,1 +1,0 @@
-{"tmdb_id": 452104, "title": "Silenzi e parole", "original_title": "Silenzi e parole", "slug_title": "silenzi-e-parole", "date": "2017-04-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2fCfMNOS2hZounYdSO1Qh2Zu4YS.jpg", "actors": [], "comments": [], "recommandations_id": []}

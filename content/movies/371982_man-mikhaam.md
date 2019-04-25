@@ -1,1 +1,1 @@
-{"tmdb_id": 371982, "title": "Man Mikhaam", "original_title": "Man Mikhaam", "slug_title": "man-mikhaam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 371982, "title": "Man Mikhaam", "original_title": "Man Mikhaam", "slug_title": "man-mikhaam", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Persian (Iranian) Movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

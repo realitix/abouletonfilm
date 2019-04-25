@@ -1,1 +1,0 @@
-{"tmdb_id": 199357, "title": "The Bird Came C.O.D.", "original_title": "The Bird Came C.O.D.", "slug_title": "the-bird-came-c-o-d", "date": "1942-01-17", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jzwGPbGLjToLre5JEIse5rFZWtK.jpg", "actors": [], "comments": [], "recommandations_id": []}

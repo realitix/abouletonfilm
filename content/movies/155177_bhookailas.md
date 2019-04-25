@@ -1,1 +1,0 @@
-{"tmdb_id": 155177, "title": "Bhookailas", "original_title": "Bhookailas", "slug_title": "bhookailas", "date": "1958-03-26", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kp5UoGV0DirA1PGvGKScaDPtVtK.jpg", "actors": ["Nandamuri Taraka Rama Rao (ravanudu)"], "comments": [], "recommandations_id": []}

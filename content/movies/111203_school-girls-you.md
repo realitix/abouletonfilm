@@ -1,1 +1,0 @@
-{"tmdb_id": 111203, "title": "School, Girls & You!", "original_title": "School, Girls & You!", "slug_title": "school-girls-you", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tyImy3fADK6wn7W37q9mN91SF3W.jpg", "actors": [], "comments": [], "recommandations_id": []}

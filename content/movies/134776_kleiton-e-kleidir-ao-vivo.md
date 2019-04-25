@@ -1,1 +1,0 @@
-{"tmdb_id": 134776, "title": "Kleiton e Kleidir - Ao Vivo", "original_title": "Kleiton e Kleidir - Ao Vivo", "slug_title": "kleiton-e-kleidir-ao-vivo", "date": "2016-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rlNwPlf6MDeEYpoj0CvDDKjb7tZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

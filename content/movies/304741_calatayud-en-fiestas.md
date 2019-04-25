@@ -1,1 +1,0 @@
-{"tmdb_id": 304741, "title": "Calatayud en fiestas", "original_title": "Calatayud en fiestas", "slug_title": "calatayud-en-fiestas", "date": "1914-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

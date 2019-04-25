@@ -1,1 +1,0 @@
-{"tmdb_id": 393059, "title": "Apostasy", "original_title": "Apostasy", "slug_title": "apostasy", "date": "1979-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

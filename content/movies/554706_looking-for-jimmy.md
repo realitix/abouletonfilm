@@ -1,1 +1,0 @@
-{"tmdb_id": 554706, "title": "Looking for Jimmy", "original_title": "Looking for Jimmy", "slug_title": "looking-for-jimmy", "date": "2002-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pp8yYQfvlE10A4JiWyDY7entjnN.jpg", "actors": ["Emily Wagner (V.)", "Julie Delpy (Al)"], "comments": [], "recommandations_id": []}

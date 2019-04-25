@@ -1,1 +1,0 @@
-{"tmdb_id": 484507, "title": "The Fish", "original_title": "El pez", "slug_title": "the-fish", "date": "2017-09-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

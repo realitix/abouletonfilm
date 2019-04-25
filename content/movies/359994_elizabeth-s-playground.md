@@ -1,1 +1,0 @@
-{"tmdb_id": 359994, "title": "Elizabeth's Playground", "original_title": "Elizabeth's Playground", "slug_title": "elizabeth-s-playground", "date": "2015-01-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f9TXqDBpPmOYqYnf0WlgSwkoqxJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

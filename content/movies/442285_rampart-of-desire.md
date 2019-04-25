@@ -1,1 +1,0 @@
-{"tmdb_id": 442285, "title": "Rampart of Desire", "original_title": "Le rempart des B\u00e9guines", "slug_title": "rampart-of-desire", "date": "1972-09-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qe5bQXpfuLjFFZVDwYpXAhlEcgJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

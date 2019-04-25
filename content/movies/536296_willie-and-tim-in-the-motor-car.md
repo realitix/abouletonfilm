@@ -1,1 +1,0 @@
-{"tmdb_id": 536296, "title": "Willie and Tim in the Motor Car", "original_title": "Willie and Tim in the Motor Car", "slug_title": "willie-and-tim-in-the-motor-car", "date": "1905-08-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

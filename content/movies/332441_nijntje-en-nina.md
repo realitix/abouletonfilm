@@ -1,1 +1,0 @@
-{"tmdb_id": 332441, "title": "Nijntje en Nina", "original_title": "Nijntje en Nina", "slug_title": "nijntje-en-nina", "date": "2004-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kI1agvUd9IhVtYBuFnvh74O1FRI.jpg", "actors": [], "comments": [], "recommandations_id": []}

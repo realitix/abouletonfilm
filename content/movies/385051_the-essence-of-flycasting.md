@@ -1,1 +1,0 @@
-{"tmdb_id": 385051, "title": "The Essence of Flycasting", "original_title": "The Essence of Flycasting", "slug_title": "the-essence-of-flycasting", "date": "2003-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

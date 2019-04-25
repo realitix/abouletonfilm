@@ -1,1 +1,0 @@
-{"tmdb_id": 560845, "title": "O Caderno Rosa de Lori Lamby", "original_title": "O Caderno Rosa de Lori Lamby", "slug_title": "o-caderno-rosa-de-lori-lamby", "date": "2005-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Iara Jamra (Lori Lamby)"], "comments": [], "recommandations_id": []}

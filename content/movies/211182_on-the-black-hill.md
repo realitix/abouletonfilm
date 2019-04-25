@@ -1,1 +1,0 @@
-{"tmdb_id": 211182, "title": "On the Black Hill", "original_title": "On the Black Hill", "slug_title": "on-the-black-hill", "date": "1988-09-12", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/98YJk73CRANWxfkZstE6B59BrGx.jpg", "actors": [], "comments": [], "recommandations_id": [85942]}

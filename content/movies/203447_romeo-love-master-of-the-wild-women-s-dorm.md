@@ -1,1 +1,0 @@
-{"tmdb_id": 203447, "title": "Romeo: Love Master Of The Wild Women's Dorm", "original_title": "Romeo: Love Master Of The Wild Women's Dorm", "slug_title": "romeo-love-master-of-the-wild-women-s-dorm", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 247037, "title": "Curriculum vitae", "original_title": "Curriculum vitae", "slug_title": "curriculum-vitae", "date": "1987-01-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xUuloVX1DI3n8oyumEHOPHzbcLD.jpg", "actors": [], "comments": [], "recommandations_id": []}

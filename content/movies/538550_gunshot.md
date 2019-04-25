@@ -1,1 +1,0 @@
-{"tmdb_id": 538550, "title": "Gunshot", "original_title": "Coups de feu", "slug_title": "gunshot", "date": "1939-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AjXit8wJybi1zSHqOh2HlFiPWWt.jpg", "actors": [], "comments": [], "recommandations_id": []}

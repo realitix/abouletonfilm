@@ -1,1 +1,0 @@
-{"tmdb_id": 400876, "title": "Tiger Street", "original_title": "Tiger Street", "slug_title": "tiger-street", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

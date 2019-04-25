@@ -1,1 +1,0 @@
-{"tmdb_id": 281446, "title": "The Red Tail", "original_title": "The Red Tail", "slug_title": "the-red-tail", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hHxqMnw37GQsMzUjEMkZnSwsuxo.jpg", "actors": [], "comments": [], "recommandations_id": []}

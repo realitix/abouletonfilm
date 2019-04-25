@@ -1,1 +1,0 @@
-{"tmdb_id": 595579, "title": "Eat the Rainbow", "original_title": "Eat the Rainbow", "slug_title": "eat-the-rainbow", "date": "2019-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

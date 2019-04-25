@@ -1,1 +1,0 @@
-{"tmdb_id": 318254, "title": "Discover China: Bodacious Beijing", "original_title": "Discover China: Bodacious Beijing", "slug_title": "discover-china-bodacious-beijing", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

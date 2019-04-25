@@ -1,1 +1,0 @@
-{"tmdb_id": 401401, "title": "Amijima", "original_title": "Amijima", "slug_title": "amijima", "date": "2016-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sHJsrRVOxSjgWXtYVXbtEKqWhlQ.jpg", "actors": ["Guillermo del Pozo ()", "Bruce Nagaremono ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 174123, "title": "Pallesens radio", "original_title": "Pallesens radio", "slug_title": "pallesens-radio", "date": "1915-03-05", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

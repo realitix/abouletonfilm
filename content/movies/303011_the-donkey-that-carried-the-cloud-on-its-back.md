@@ -1,1 +1,0 @@
-{"tmdb_id": 303011, "title": "The Donkey that Carried the Cloud on its Back", "original_title": "The Donkey that Carried the Cloud on its Back", "slug_title": "the-donkey-that-carried-the-cloud-on-its-back", "date": "2015-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 241986, "title": "Art Popular - Sem Abuso", "original_title": "Art Popular - Sem Abuso", "slug_title": "art-popular-sem-abuso", "date": "2003-12-09", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/11jUoupssF8dd9avrFaMnRHSPJC.jpg", "actors": [], "comments": [], "recommandations_id": []}

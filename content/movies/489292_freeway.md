@@ -1,1 +1,0 @@
-{"tmdb_id": 489292, "title": "Freeway", "original_title": "\uc790\uc720\ub85c", "slug_title": "freeway", "date": "2017-10-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Jho71NI0jv8Uzg6SAM0AYhVjnN.jpg", "actors": ["Kim Jung-young (Yeo-jin)", "Lee Ji-ha (Ju-hee)"], "comments": [], "recommandations_id": []}

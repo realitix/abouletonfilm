@@ -1,1 +1,0 @@
-{"tmdb_id": 386895, "title": "Les couronnes - II - La couronne d'\u00e9pines", "original_title": "Les couronnes - II - La couronne d'\u00e9pines", "slug_title": "les-couronnes-ii-la-couronne-d-epines", "date": "1909-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

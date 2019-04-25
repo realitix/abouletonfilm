@@ -1,1 +1,0 @@
-{"tmdb_id": 386036, "title": "N\u00e4pp! sa Alfons", "original_title": "N\u00e4pp! sa Alfons", "slug_title": "napp-sa-alfons", "date": "2014-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fkd6Nq45KHPKeQ8fIAOMNamZ9cI.jpg", "actors": [], "comments": [], "recommandations_id": []}

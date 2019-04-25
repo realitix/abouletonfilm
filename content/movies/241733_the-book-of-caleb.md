@@ -1,1 +1,0 @@
-{"tmdb_id": 241733, "title": "The Book of Caleb", "original_title": "The Book of Caleb", "slug_title": "the-book-of-caleb", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

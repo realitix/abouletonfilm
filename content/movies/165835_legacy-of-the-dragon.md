@@ -1,1 +1,0 @@
-{"tmdb_id": 165835, "title": "Legacy of the Dragon", "original_title": "Legacy of the Dragon", "slug_title": "legacy-of-the-dragon", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hmRfNWNKvmPYo6leybCKvnEyGft.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 409225, "title": "Tibesti Too", "original_title": "Tibesti Too", "slug_title": "tibesti-too", "date": "1976-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

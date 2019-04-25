@@ -1,1 +1,0 @@
-{"tmdb_id": 331694, "title": "Fraggle Rock: The Movie", "original_title": "Fraggle Rock: The Movie", "slug_title": "fraggle-rock-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 344425, "title": "Mummy O'Mine", "original_title": "Mummy O'Mine", "slug_title": "mummy-o-mine", "date": "1926-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

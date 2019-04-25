@@ -1,1 +1,0 @@
-{"tmdb_id": 592088, "title": "B-ing B-ing", "original_title": "B-ing B-ing", "slug_title": "b-ing-b-ing", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

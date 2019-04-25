@@ -1,1 +1,0 @@
-{"tmdb_id": 331617, "title": "And Love Returned", "original_title": "Waada el hub", "slug_title": "and-love-returned", "date": "1961-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ahmed Mazhar ()", "Samia Gamal ()", "Mahmoud el-Meliguy ()"], "comments": [], "recommandations_id": []}

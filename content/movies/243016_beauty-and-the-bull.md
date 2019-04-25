@@ -1,1 +1,0 @@
-{"tmdb_id": 243016, "title": "Beauty and the Bull", "original_title": "Beauty and the Bull", "slug_title": "beauty-and-the-bull", "date": "1954-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marvin Miller (Narrator (voice))", "Bette Ford (Bette Ford)"], "comments": [], "recommandations_id": []}

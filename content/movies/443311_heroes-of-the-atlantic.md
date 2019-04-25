@@ -1,1 +1,0 @@
-{"tmdb_id": 443311, "title": "Heroes of the Atlantic", "original_title": "Heroes of the Atlantic", "slug_title": "heroes-of-the-atlantic", "date": "1941-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lorne Greene (Narrator (voice))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 334630, "title": "Memories of Oz", "original_title": "Memories of Oz", "slug_title": "memories-of-oz", "date": "2001-05-17", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y80m7zjkFcccm2DpzL3OOfZUy0K.jpg", "actors": ["John Waters (Himself)"], "comments": [], "recommandations_id": []}

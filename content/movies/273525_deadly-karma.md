@@ -1,1 +1,0 @@
-{"tmdb_id": 273525, "title": "Deadly Karma", "original_title": "Deadly Karma", "slug_title": "deadly-karma", "date": "2011-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

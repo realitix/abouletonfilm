@@ -1,1 +1,0 @@
-{"tmdb_id": 377174, "title": "Estaci\u00f3n Andamana", "original_title": "Estaci\u00f3n Andamana", "slug_title": "estacion-andamana", "date": "2015-01-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

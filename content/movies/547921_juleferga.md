@@ -1,1 +1,0 @@
-{"tmdb_id": 547921, "title": "Juleferg\u00e5", "original_title": "Juleferg\u00e5", "slug_title": "juleferga", "date": "1995-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q1YlWNiqDVjAWERjj3JupA0TF0s.jpg", "actors": ["The Brass Brothers ()"], "comments": [], "recommandations_id": []}

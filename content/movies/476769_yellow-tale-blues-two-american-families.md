@@ -1,1 +1,0 @@
-{"tmdb_id": 476769, "title": "Yellow Tale Blues: Two American Families", "original_title": "Yellow Tale Blues: Two American Families", "slug_title": "yellow-tale-blues-two-american-families", "date": "1991-06-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

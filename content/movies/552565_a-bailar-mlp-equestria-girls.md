@@ -1,1 +1,0 @@
-{"tmdb_id": 552565, "title": "A Bailar: MLP Equestria Girls", "original_title": "A Bailar: MLP Equestria Girls", "slug_title": "a-bailar-mlp-equestria-girls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iQjTWnVXXO9yy374lgI3RKN36Wn.jpg", "actors": [], "comments": [], "recommandations_id": []}

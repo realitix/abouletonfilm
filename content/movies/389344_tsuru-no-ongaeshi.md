@@ -1,1 +1,0 @@
-{"tmdb_id": 389344, "title": "Tsuru no Ongaeshi", "original_title": "Tsuru no Ongaeshi", "slug_title": "tsuru-no-ongaeshi", "date": "1965-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ydZXAB1zUAXTejI71j5Bek1YqYN.jpg", "actors": [], "comments": [], "recommandations_id": []}

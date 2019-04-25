@@ -1,1 +1,0 @@
-{"tmdb_id": 282632, "title": "Thayiya Madilu", "original_title": "Thayiya Madilu", "slug_title": "thayiya-madilu", "date": "2007-01-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shivaraj Kumar (Nandakumar)", "Rakshita ()", "Jayasudha ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 428496, "title": "The Name of the Wind", "original_title": "The Name of the Wind", "slug_title": "the-name-of-the-wind", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

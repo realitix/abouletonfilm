@@ -1,1 +1,0 @@
-{"tmdb_id": 489478, "title": "Cycles of the Mental Machine", "original_title": "Cycles of the Mental Machine", "slug_title": "cycles-of-the-mental-machine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

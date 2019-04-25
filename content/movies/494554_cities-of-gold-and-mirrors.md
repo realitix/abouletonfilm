@@ -1,1 +1,0 @@
-{"tmdb_id": 494554, "title": "Cities of Gold and Mirrors", "original_title": "Cities of Gold and Mirrors", "slug_title": "cities-of-gold-and-mirrors", "date": "2009-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fTSjiqMmMdlIJg56bSZwkNLfk7C.jpg", "actors": [], "comments": [], "recommandations_id": []}

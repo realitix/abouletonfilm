@@ -1,1 +1,0 @@
-{"tmdb_id": 292549, "title": "The Young Believers", "original_title": "The Young Believers", "slug_title": "the-young-believers", "date": "2012-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

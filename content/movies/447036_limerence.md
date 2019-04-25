@@ -1,1 +1,0 @@
-{"tmdb_id": 447036, "title": "Limerence", "original_title": "Limerence", "slug_title": "limerence", "date": "", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mTluPHdvzF72iAZ1Uz2mjj0Q0Nm.jpg", "actors": ["Jane Quynh ()"], "comments": [], "recommandations_id": []}

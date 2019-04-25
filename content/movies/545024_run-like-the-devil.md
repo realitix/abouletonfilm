@@ -1,1 +1,0 @@
-{"tmdb_id": 545024, "title": "Run Like the Devil", "original_title": "Run Like the Devil", "slug_title": "run-like-the-devil", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ApktZg1ZSnHDF4yINzaA0DjgakJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 364185, "title": "At\u00e9 a China", "original_title": "At\u00e9 a China", "slug_title": "ate-a-china", "date": "2015-10-02", "genre": "Animation / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dr0wVIevk2BtOdYXMvGL0kDFqeV.jpg", "actors": ["Mar\u00e3o (Narrador)"], "comments": [], "recommandations_id": []}

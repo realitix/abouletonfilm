@@ -1,1 +1,0 @@
-{"tmdb_id": 271247, "title": "A Green Chariot", "original_title": "A Green Chariot", "slug_title": "a-green-chariot", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

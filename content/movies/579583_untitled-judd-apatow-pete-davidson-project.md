@@ -1,1 +1,0 @@
-{"tmdb_id": 579583, "title": "Untitled Judd Apatow/Pete Davidson Project", "original_title": "Untitled Judd Apatow/Pete Davidson Project", "slug_title": "untitled-judd-apatow-pete-davidson-project", "date": "2020-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Davidson ()"], "comments": [], "recommandations_id": []}

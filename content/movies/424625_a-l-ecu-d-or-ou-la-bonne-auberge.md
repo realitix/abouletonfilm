@@ -1,1 +1,0 @@
-{"tmdb_id": 424625, "title": "A L'Ecu d'Or ou la Bonne Auberge", "original_title": "A L'Ecu d'Or ou la Bonne Auberge", "slug_title": "a-l-ecu-d-or-ou-la-bonne-auberge", "date": "1908-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

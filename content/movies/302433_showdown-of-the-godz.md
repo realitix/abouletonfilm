@@ -1,1 +1,0 @@
-{"tmdb_id": 302433, "title": "Showdown of the Godz", "original_title": "Showdown of the Godz", "slug_title": "showdown-of-the-godz", "date": "2014-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

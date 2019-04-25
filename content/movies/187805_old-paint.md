@@ -1,1 +1,0 @@
-{"tmdb_id": 187805, "title": "Old Paint", "original_title": "Old Paint", "slug_title": "old-paint", "date": "1969-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

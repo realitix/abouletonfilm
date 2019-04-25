@@ -1,1 +1,0 @@
-{"tmdb_id": 580973, "title": "Seduced by Evil", "original_title": "Seduced by Evil", "slug_title": "seduced-by-evil", "date": "2019-02-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4c52NkQ4tfUxlGuxsVILpxlt7vM.jpg", "actors": [], "comments": [], "recommandations_id": []}

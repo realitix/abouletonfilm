@@ -1,1 +1,0 @@
-{"tmdb_id": 469906, "title": "Hizukuri", "original_title": "\u706b\u3065\u304f\u308a", "slug_title": "hizukuri", "date": "2017-11-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nLZxVYieZkKIEf7ycEPOcxMIpGe.jpg", "actors": [], "comments": [], "recommandations_id": []}

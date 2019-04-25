@@ -1,1 +1,0 @@
-{"tmdb_id": 425383, "title": "Amateurs in Space", "original_title": "Amateurs in Space", "slug_title": "amateurs-in-space", "date": "2016-11-02", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fYRClQvwGj5gUe3XuKhDJJFrxVP.jpg", "actors": [], "comments": [], "recommandations_id": []}

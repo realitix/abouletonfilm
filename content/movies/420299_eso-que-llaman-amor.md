@@ -1,1 +1,0 @@
-{"tmdb_id": 420299, "title": "Eso que llaman amor", "original_title": "Eso que llaman amor", "slug_title": "eso-que-llaman-amor", "date": "2016-10-22", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qfgX3Z48e63XQy5XpL4BN1sFJ1d.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 337901, "title": "Playing to Win: A Relentless Pursuit to Save a Team", "original_title": "Playing to Win: A Relentless Pursuit to Save a Team", "slug_title": "playing-to-win-a-relentless-pursuit-to-save-a-team", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

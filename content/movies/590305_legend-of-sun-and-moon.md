@@ -1,1 +1,0 @@
-{"tmdb_id": 590305, "title": "Legend of Sun and Moon", "original_title": "Legend of Sun and Moon", "slug_title": "legend-of-sun-and-moon", "date": "", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dilraba Dilmurat (Chang'e)", "Shawn Dou (Hou Yi)"], "comments": [], "recommandations_id": []}

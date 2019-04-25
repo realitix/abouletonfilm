@@ -1,1 +1,0 @@
-{"tmdb_id": 577746, "title": "An diesen Abenden", "original_title": "An diesen Abenden", "slug_title": "an-diesen-abenden", "date": "1952-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Margarete Ghosta ()", "Reinhard Halbich ()", "Ferry Radax ()"], "comments": [], "recommandations_id": []}

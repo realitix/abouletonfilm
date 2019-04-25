@@ -1,1 +1,0 @@
-{"tmdb_id": 375967, "title": "Lesbian Love Stories 7:  Rivals", "original_title": "Lesbian Love Stories 7:  Rivals", "slug_title": "lesbian-love-stories-7-rivals", "date": "2015-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7N3vwfVfMpoqGVIgMsZHF2N4vjL.jpg", "actors": [], "comments": [], "recommandations_id": []}

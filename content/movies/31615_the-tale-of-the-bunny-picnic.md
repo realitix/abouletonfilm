@@ -1,1 +1,0 @@
-{"tmdb_id": 31615, "title": "The Tale of the Bunny Picnic", "original_title": "The Tale of the Bunny Picnic", "slug_title": "the-tale-of-the-bunny-picnic", "date": "1986-03-26", "genre": "Familial", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2CmRXM0SG7nzXNSteAJ9xAqjiOY.png", "actors": [], "comments": [], "recommandations_id": []}

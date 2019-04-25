@@ -1,1 +1,0 @@
-{"tmdb_id": 542999, "title": "Pete's a Pizza", "original_title": "Pete's a Pizza", "slug_title": "pete-s-a-pizza", "date": "2000-01-05", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pkJI0AQTvS4JSTHX1NnvBZka18y.jpg", "actors": ["Chevy Chase (Narrator)"], "comments": [], "recommandations_id": []}

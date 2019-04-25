@@ -1,1 +1,0 @@
-{"tmdb_id": 269314, "title": "Zauber der Natur", "original_title": "Zauber der Natur", "slug_title": "zauber-der-natur", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b4wJ2VZn88gjgcQsXxFHlMFrKxI.jpg", "actors": [], "comments": [], "recommandations_id": []}

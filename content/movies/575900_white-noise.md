@@ -1,1 +1,0 @@
-{"tmdb_id": 575900, "title": "White Noise", "original_title": "White Noise", "slug_title": "white-noise", "date": "2019-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 284908, "title": "Scooby-Doo! Spooky Games", "original_title": "Scooby-Doo! Spooky Games", "slug_title": "scooby-doo-spooky-games", "date": "2012-07-17", "genre": "Myst\u00e8re", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a8Z2GMyzczkY5dhDhetTKU2OQZg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 256900, "title": "Word on the Street", "original_title": "Word on the Street", "slug_title": "word-on-the-street", "date": "2008-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lw2VZf4sYLmi7MP6AwRpsRAskGx.jpg", "actors": [], "comments": [], "recommandations_id": []}

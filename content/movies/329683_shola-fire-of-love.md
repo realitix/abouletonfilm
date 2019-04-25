@@ -1,1 +1,0 @@
-{"tmdb_id": 329683, "title": "Shola: Fire of Love", "original_title": "Shola: Fire of Love", "slug_title": "shola-fire-of-love", "date": "2004-01-01", "genre": "Romance / Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pbbx71a3p3WpqtGpDGp4B2fOpPz.jpg", "actors": [], "comments": [], "recommandations_id": []}

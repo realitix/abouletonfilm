@@ -1,1 +1,0 @@
-{"tmdb_id": 175519, "title": "A Day with Thomas A. Edison", "original_title": "A Day with Thomas A. Edison", "slug_title": "a-day-with-thomas-a-edison", "date": "1922-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thomas A. Edison ()"], "comments": [], "recommandations_id": []}

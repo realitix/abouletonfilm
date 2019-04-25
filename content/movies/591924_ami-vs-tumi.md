@@ -1,1 +1,0 @@
-{"tmdb_id": 591924, "title": "Ami Vs Tumi", "original_title": "Ami Vs Tumi", "slug_title": "ami-vs-tumi", "date": "2018-04-21", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rahul Banerjee ()", "Priyanka Sarkar ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 209027, "title": "Scorned", "original_title": "Scorned", "slug_title": "scorned", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lydia Forson ()"], "comments": [], "recommandations_id": []}

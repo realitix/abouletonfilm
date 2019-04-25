@@ -1,1 +1,0 @@
-{"tmdb_id": 579890, "title": "Les tribulations de saint Antoine", "original_title": "Les tribulations de saint Antoine", "slug_title": "les-tribulations-de-saint-antoine", "date": "1984-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

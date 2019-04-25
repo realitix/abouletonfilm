@@ -1,1 +1,0 @@
-{"tmdb_id": 503084, "title": "Sulla poesia", "original_title": "Sulla poesia", "slug_title": "sulla-poesia", "date": "1984-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

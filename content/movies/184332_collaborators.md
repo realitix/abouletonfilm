@@ -1,1 +1,0 @@
-{"tmdb_id": 184332, "title": "Collaborators", "original_title": "Collaborators", "slug_title": "collaborators", "date": "2009-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Spike Jonze ()", "Lance Acord ()", "K.K. Barrett ()", "Catherine Keener (Herself)"], "comments": [], "recommandations_id": []}

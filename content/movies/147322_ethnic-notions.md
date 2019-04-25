@@ -1,1 +1,0 @@
-{"tmdb_id": 147322, "title": "Ethnic Notions", "original_title": "Ethnic Notions", "slug_title": "ethnic-notions", "date": "1986-12-05", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cj0hKvz38GM38wHOWaP9mYuEpdQ.jpg", "actors": ["Esther Rolle (Narrator)"], "comments": [], "recommandations_id": []}

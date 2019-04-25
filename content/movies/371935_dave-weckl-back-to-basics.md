@@ -1,1 +1,0 @@
-{"tmdb_id": 371935, "title": "Dave Weckl: Back to Basics", "original_title": "Dave Weckl: Back to Basics", "slug_title": "dave-weckl-back-to-basics", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8z8tPnsKVceAxLRLGJWprlGU0xu.jpg", "actors": [], "comments": [], "recommandations_id": []}

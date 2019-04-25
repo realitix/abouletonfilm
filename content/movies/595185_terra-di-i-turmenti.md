@@ -1,1 +1,0 @@
-{"tmdb_id": 595185, "title": "Terra di i Turmenti", "original_title": "Terra di i Turmenti", "slug_title": "terra-di-i-turmenti", "date": "2015-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t2YFlKU9S1zkBOejuFb7uI4UKhT.jpg", "actors": [], "comments": [], "recommandations_id": []}

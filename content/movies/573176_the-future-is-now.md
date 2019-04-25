@@ -1,1 +1,0 @@
-{"tmdb_id": 573176, "title": "The Future Is Now", "original_title": "The Future Is Now", "slug_title": "the-future-is-now", "date": "1955-09-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dwight Weist (Narrator)"], "comments": [], "recommandations_id": []}

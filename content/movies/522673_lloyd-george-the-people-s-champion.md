@@ -1,1 +1,0 @@
-{"tmdb_id": 522673, "title": "Lloyd George: The People's Champion", "original_title": "Lloyd George: The People's Champion", "slug_title": "lloyd-george-the-people-s-champion", "date": "2007-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Huw Edwards ()"], "comments": [], "recommandations_id": []}

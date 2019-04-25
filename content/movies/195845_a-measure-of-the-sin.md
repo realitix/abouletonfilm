@@ -1,1 +1,0 @@
-{"tmdb_id": 195845, "title": "A Measure Of The Sin", "original_title": "A Measure Of The Sin", "slug_title": "a-measure-of-the-sin", "date": "2013-04-25", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aqMxXm5Uxr0iT8TkhRFRZGxNXSY.jpg", "actors": [], "comments": [], "recommandations_id": []}

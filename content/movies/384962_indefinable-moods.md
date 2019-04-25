@@ -1,1 +1,0 @@
-{"tmdb_id": 384962, "title": "Indefinable Moods", "original_title": "Indefinable Moods", "slug_title": "indefinable-moods", "date": "2001-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eSfzI0LePJ14UUHioZRJhAjrYa5.jpg", "actors": [], "comments": [], "recommandations_id": []}

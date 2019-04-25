@@ -1,1 +1,0 @@
-{"tmdb_id": 276413, "title": "Jose's Story", "original_title": "Jose's Story", "slug_title": "jose-s-story", "date": "2013-01-01", "genre": "Aventure / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

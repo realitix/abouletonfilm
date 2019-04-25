@@ -1,1 +1,0 @@
-{"tmdb_id": 504174, "title": "The Forests of Tallas", "original_title": "The Forests of Tallas", "slug_title": "the-forests-of-tallas", "date": "2018-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zuecTA3mJm49zKjwemo3x31UTpb.jpg", "actors": ["Charlotte Karamyar ()"], "comments": [], "recommandations_id": []}

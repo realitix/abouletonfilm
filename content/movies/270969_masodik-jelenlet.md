@@ -1,1 +1,0 @@
-{"tmdb_id": 270969, "title": "M\u00e1sodik jelenl\u00e9t", "original_title": "M\u00e1sodik jelenl\u00e9t", "slug_title": "masodik-jelenlet", "date": "1978-01-01", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wg8NfunaqLWZOuYRDfFET4Bx8xv.jpg", "actors": [], "comments": [], "recommandations_id": []}

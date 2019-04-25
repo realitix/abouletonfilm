@@ -1,1 +1,0 @@
-{"tmdb_id": 304035, "title": "Jazz and the Philharmonic", "original_title": "Jazz and the Philharmonic", "slug_title": "jazz-and-the-philharmonic", "date": "2014-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

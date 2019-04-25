@@ -1,1 +1,0 @@
-{"tmdb_id": 274051, "title": "Greece: Journeys to the Gods", "original_title": "Greece: Journeys to the Gods", "slug_title": "greece-journeys-to-the-gods", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 442212, "title": "Zatoichi - The Making Of Darkness Is His Ally", "original_title": "Zatoichi - The Making Of Darkness Is His Ally", "slug_title": "zatoichi-the-making-of-darkness-is-his-ally", "date": "1989-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

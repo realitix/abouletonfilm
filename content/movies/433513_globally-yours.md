@@ -1,1 +1,0 @@
-{"tmdb_id": 433513, "title": "Globally Yours", "original_title": "N\u00e4gel mit K\u00f6pfen", "slug_title": "globally-yours", "date": "2013-05-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1YPoKrQFvhsgAKbjlqxPKG8BzTB.jpg", "actors": [], "comments": [], "recommandations_id": []}

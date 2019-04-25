@@ -1,1 +1,0 @@
-{"tmdb_id": 569591, "title": "Johnny Panic", "original_title": "Johnny Panic", "slug_title": "johnny-panic", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5MBmSurvgSPRj6NAEsLdom0qI13.jpg", "actors": [], "comments": [], "recommandations_id": []}

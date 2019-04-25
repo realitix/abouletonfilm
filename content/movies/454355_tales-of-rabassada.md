@@ -1,1 +1,0 @@
-{"tmdb_id": 454355, "title": "Tales of Rabassada", "original_title": "Tales of Rabassada", "slug_title": "tales-of-rabassada", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

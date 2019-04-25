@@ -1,1 +1,0 @@
-{"tmdb_id": 109654, "title": "Crayons of Askalan", "original_title": "Crayons of Askalan", "slug_title": "crayons-of-askalan", "date": "2011-06-30", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5tc9Zn8U96GkIzdsSNt2Qk4hqXN.jpg", "actors": ["Mohammad al Masri ()"], "comments": [], "recommandations_id": []}

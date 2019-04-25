@@ -1,1 +1,0 @@
-{"tmdb_id": 586913, "title": "Seanie & Flo", "original_title": "Seanie & Flo", "slug_title": "seanie-flo", "date": "2018-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Connors (Seanie)", "Ann Skelly (Flo)", "Aidan McArdle (Mr Lynch)", "Norma Sheahan ()"], "comments": [], "recommandations_id": []}

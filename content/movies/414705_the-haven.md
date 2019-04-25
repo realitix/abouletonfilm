@@ -1,1 +1,0 @@
-{"tmdb_id": 414705, "title": "The Haven", "original_title": "The Haven", "slug_title": "the-haven", "date": "2002-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8h1DV9Hx84ftsejIV7rAWGO16Ia.jpg", "actors": [], "comments": [], "recommandations_id": []}

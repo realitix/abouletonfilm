@@ -1,1 +1,0 @@
-{"tmdb_id": 235976, "title": "Party Smarty", "original_title": "Party Smarty", "slug_title": "party-smarty", "date": "1951-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

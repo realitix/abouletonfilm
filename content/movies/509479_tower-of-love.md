@@ -1,1 +1,0 @@
-{"tmdb_id": 509479, "title": "Tower Of Love", "original_title": "Tower Of Love", "slug_title": "tower-of-love", "date": "1974-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4MtzXSk7k5mP3v9zTo544vJzc2i.jpg", "actors": [], "comments": [], "recommandations_id": []}

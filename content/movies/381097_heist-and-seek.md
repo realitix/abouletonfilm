@@ -1,1 +1,0 @@
-{"tmdb_id": 381097, "title": "Heist and Seek", "original_title": "Heist and Seek", "slug_title": "heist-and-seek", "date": "1974-10-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Holt (Dogfather / Pug / Translator (voice))", "Daws Butler (Rocky / Sam Spaniel (voice))"], "comments": [], "recommandations_id": []}

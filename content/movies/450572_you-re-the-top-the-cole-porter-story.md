@@ -1,1 +1,0 @@
-{"tmdb_id": 450572, "title": "You're the Top: The Cole Porter Story", "original_title": "You're the Top: The Cole Porter Story", "slug_title": "you-re-the-top-the-cole-porter-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

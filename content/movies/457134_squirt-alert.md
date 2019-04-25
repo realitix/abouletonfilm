@@ -1,1 +1,0 @@
-{"tmdb_id": 457134, "title": "Squirt Alert", "original_title": "Squirt Alert", "slug_title": "squirt-alert", "date": "2015-10-21", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mbxFLddaExOqhow8fIPXBpAp01.jpg", "actors": ["Alena ()"], "comments": [], "recommandations_id": []}

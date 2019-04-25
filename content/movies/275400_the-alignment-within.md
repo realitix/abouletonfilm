@@ -1,1 +1,0 @@
-{"tmdb_id": 275400, "title": "The Alignment Within", "original_title": "The Alignment Within", "slug_title": "the-alignment-within", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

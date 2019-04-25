@@ -1,1 +1,0 @@
-{"tmdb_id": 118478, "title": "Perfect Film", "original_title": "Perfect Film", "slug_title": "perfect-film", "date": "1985-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gjadxgKlinQ7pB0Jg1uqRAtGZg5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 422063, "title": "Cruises", "original_title": "Cruises", "slug_title": "cruises", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wyQjPt8Az5JLUg6wNchrejkkGkI.jpg", "actors": [], "comments": [], "recommandations_id": []}

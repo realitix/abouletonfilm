@@ -1,1 +1,0 @@
-{"tmdb_id": 439118, "title": "Cardio Pilates", "original_title": "Cardio Pilates", "slug_title": "cardio-pilates", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ypRB3LHtmgVr3Y0LuL0UtdssJ5G.jpg", "actors": ["Ana Caban (Presenter)"], "comments": [], "recommandations_id": []}

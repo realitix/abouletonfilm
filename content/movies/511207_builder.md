@@ -1,1 +1,0 @@
-{"tmdb_id": 511207, "title": "Builder", "original_title": "Graditelj", "slug_title": "builder", "date": "1980-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fI5yK7X8HVGUCh5ErvNWbjpiOSP.jpg", "actors": [], "comments": [], "recommandations_id": []}

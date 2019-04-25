@@ -1,1 +1,0 @@
-{"tmdb_id": 254816, "title": "Jimbo Mathus: Finding Your Roots", "original_title": "Jimbo Mathus: Finding Your Roots", "slug_title": "jimbo-mathus-finding-your-roots", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

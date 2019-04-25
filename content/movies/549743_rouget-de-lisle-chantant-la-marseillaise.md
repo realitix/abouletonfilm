@@ -1,1 +1,0 @@
-{"tmdb_id": 549743, "title": "Rouget de Lisle chantant La Marseillaise", "original_title": "Rouget de Lisle chantant La Marseillaise", "slug_title": "rouget-de-lisle-chantant-la-marseillaise", "date": "1898-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

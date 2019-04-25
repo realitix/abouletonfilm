@@ -1,1 +1,0 @@
-{"tmdb_id": 331493, "title": "Light from the Darkroom", "original_title": "Light from the Darkroom", "slug_title": "light-from-the-darkroom", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oJbIQftqgWX94CwGHq2ojjX1FBp.jpg", "actors": [], "comments": [], "recommandations_id": []}

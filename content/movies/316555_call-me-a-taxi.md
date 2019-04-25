@@ -1,1 +1,0 @@
-{"tmdb_id": 316555, "title": "Call Me a Taxi", "original_title": "Call Me a Taxi", "slug_title": "call-me-a-taxi", "date": "1964-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

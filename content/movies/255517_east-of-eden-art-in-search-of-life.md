@@ -1,1 +1,0 @@
-{"tmdb_id": 255517, "title": "East of Eden: Art in Search of Life", "original_title": "East of Eden: Art in Search of Life", "slug_title": "east-of-eden-art-in-search-of-life", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

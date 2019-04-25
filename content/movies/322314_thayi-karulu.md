@@ -1,1 +1,0 @@
-{"tmdb_id": 322314, "title": "Thayi Karulu", "original_title": "Thayi Karulu", "slug_title": "thayi-karulu", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

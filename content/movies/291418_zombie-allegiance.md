@@ -1,1 +1,0 @@
-{"tmdb_id": 291418, "title": "Zombie Allegiance", "original_title": "Zombie Allegiance", "slug_title": "zombie-allegiance", "date": "2010-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

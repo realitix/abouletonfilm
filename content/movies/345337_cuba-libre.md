@@ -1,1 +1,0 @@
-{"tmdb_id": 345337, "title": "Cuba Libre", "original_title": "Cuba Libre", "slug_title": "cuba-libre", "date": "2013-10-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b6zxhqw5sLU6SKzyPurpnyOkKbZ.jpg", "actors": ["Wolfgang Danz ()", "Albert Serra ()"], "comments": [], "recommandations_id": []}

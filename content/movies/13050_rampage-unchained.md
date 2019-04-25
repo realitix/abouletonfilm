@@ -1,1 +1,0 @@
-{"tmdb_id": 13050, "title": "Rampage Unchained", "original_title": "Rampage Unchained", "slug_title": "rampage-unchained", "date": "2008-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 319411, "title": "Artists of the 20th Century: Man Ray", "original_title": "Artists of the 20th Century: Man Ray", "slug_title": "artists-of-the-20th-century-man-ray", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

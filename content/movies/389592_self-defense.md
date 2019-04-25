@@ -1,1 +1,0 @@
-{"tmdb_id": 389592, "title": "Self-defense", "original_title": "Autodefensa", "slug_title": "self-defense", "date": "2011-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cYwgiykI8O6RMzJZqEEPT4IIgLU.jpg", "actors": ["Oscar Riquelme (Direction)"], "comments": [], "recommandations_id": []}

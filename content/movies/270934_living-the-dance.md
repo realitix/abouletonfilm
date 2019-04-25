@@ -1,1 +1,0 @@
-{"tmdb_id": 270934, "title": "Living the Dance", "original_title": "Dans voor het leven", "slug_title": "living-the-dance", "date": "2011-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cYFrLEJkl4VVqJJmKSkC1bfA3de.jpg", "actors": [], "comments": [], "recommandations_id": []}

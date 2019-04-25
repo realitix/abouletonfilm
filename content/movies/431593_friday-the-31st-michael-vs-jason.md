@@ -1,1 +1,0 @@
-{"tmdb_id": 431593, "title": "Friday the 31st: Michael vs. Jason", "original_title": "Friday the 31st: Michael vs. Jason", "slug_title": "friday-the-31st-michael-vs-jason", "date": "", "genre": "Horreur", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

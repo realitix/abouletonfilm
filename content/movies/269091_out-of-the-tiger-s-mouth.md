@@ -1,1 +1,0 @@
-{"tmdb_id": 269091, "title": "Out of the Tiger's Mouth", "original_title": "Out of the Tiger's Mouth", "slug_title": "out-of-the-tiger-s-mouth", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

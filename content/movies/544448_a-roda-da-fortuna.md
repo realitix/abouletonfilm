@@ -1,1 +1,0 @@
-{"tmdb_id": 544448, "title": "A Roda da Fortuna", "original_title": "A Roda da Fortuna", "slug_title": "a-roda-da-fortuna", "date": "2018-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

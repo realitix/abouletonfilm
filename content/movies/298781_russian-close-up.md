@@ -1,1 +1,0 @@
-{"tmdb_id": 298781, "title": "Russian Close-Up", "original_title": "Russian Close-Up", "slug_title": "russian-close-up", "date": "1957-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/owpI9GiLGzNjuQJ6KwHAZTrsDuC.jpg", "actors": [], "comments": [], "recommandations_id": []}

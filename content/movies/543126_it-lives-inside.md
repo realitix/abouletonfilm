@@ -1,1 +1,0 @@
-{"tmdb_id": 543126, "title": "It Lives Inside", "original_title": "It Lives Inside", "slug_title": "it-lives-inside", "date": "2018-08-07", "genre": "Horreur", "score": "3.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zTIGZT0OMYLavX7vexRx72Zt8Ks.jpg", "actors": ["Rett Terrell ()", "Alissa Rose Ford ()"], "comments": [], "recommandations_id": []}

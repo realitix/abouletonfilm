@@ -1,1 +1,0 @@
-{"tmdb_id": 417269, "title": "Solaristics", "original_title": "Solaristics", "slug_title": "solaristics", "date": "2013-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rnFBWP8HxcRfuax3y95QtCwIhBf.jpg", "actors": [], "comments": [], "recommandations_id": []}

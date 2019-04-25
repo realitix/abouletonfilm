@@ -1,1 +1,0 @@
-{"tmdb_id": 505467, "title": "\u00d4 divin bovin", "original_title": "\u00d4 divin bovin", "slug_title": "o-divin-bovin", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fnfkPF7Pyzoby7CugjGG7ENAmyJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

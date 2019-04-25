@@ -1,1 +1,0 @@
-{"tmdb_id": 503460, "title": "Gli uccelli del cielo", "original_title": "Gli uccelli del cielo", "slug_title": "gli-uccelli-del-cielo", "date": "1969-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

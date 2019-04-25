@@ -1,1 +1,0 @@
-{"tmdb_id": 575051, "title": "Boyers & Rhinos", "original_title": "Boyers & Rhinos", "slug_title": "boyers-rhinos", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

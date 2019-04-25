@@ -1,1 +1,0 @@
-{"tmdb_id": 304209, "title": "Gharam Koon", "original_title": "Gharam Koon", "slug_title": "gharam-koon", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

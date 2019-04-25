@@ -1,1 +1,0 @@
-{"tmdb_id": 456379, "title": "The Red Shoes", "original_title": "The Red Shoes", "slug_title": "the-red-shoes", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hinOp4h5ZImLud6HFHSWK08Kpuc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 371480, "title": "4x4 Episodes of Singapore Art", "original_title": "4x4 Episodes of Singapore Art", "slug_title": "4x4-episodes-of-singapore-art", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

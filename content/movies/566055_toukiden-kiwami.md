@@ -1,1 +1,0 @@
-{"tmdb_id": 566055, "title": "Toukiden Kiwami", "original_title": "\u8a0e\u9b3c\u4f1d \u6975", "slug_title": "toukiden-kiwami", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3CjGdnU7fnxXy7QSjC4yH7GpZXp.jpg", "actors": [], "comments": [], "recommandations_id": []}

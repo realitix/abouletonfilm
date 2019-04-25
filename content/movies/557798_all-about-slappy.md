@@ -1,1 +1,0 @@
-{"tmdb_id": 557798, "title": "All about Slappy", "original_title": "All about Slappy", "slug_title": "all-about-slappy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

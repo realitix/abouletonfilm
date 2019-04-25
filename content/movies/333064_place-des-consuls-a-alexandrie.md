@@ -1,1 +1,0 @@
-{"tmdb_id": 333064, "title": "Place des Consuls \u00e0 Alexandrie", "original_title": "Place des Consuls \u00e0 Alexandrie", "slug_title": "place-des-consuls-a-alexandrie", "date": "1897-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 174161, "title": "The Little Teacher", "original_title": "The Little Teacher", "slug_title": "the-little-teacher", "date": "1915-06-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mabel Normand (The Little Teacher)", "Roscoe 'Fatty' Arbuckle (Fat Unruly Student)"], "comments": [], "recommandations_id": []}

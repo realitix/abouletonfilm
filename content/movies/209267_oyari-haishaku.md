@@ -1,1 +1,0 @@
-{"tmdb_id": 209267, "title": "Oyari Haishaku", "original_title": "\u5fa1\u9453\u62dd\u501f", "slug_title": "oyari-haishaku", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g4MhZx3un0IQw7Q5y7b4262caKx.jpg", "actors": ["Naoto Takenaka (Kotoji Akame)"], "comments": [], "recommandations_id": []}

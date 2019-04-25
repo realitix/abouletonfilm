@@ -1,1 +1,0 @@
-{"tmdb_id": 421075, "title": "Botticelli \u2013 Inferno", "original_title": "Botticelli \u2013 Inferno", "slug_title": "botticelli-inferno", "date": "2016-11-07", "genre": "Documentaire", "score": "8.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gEjRIkthFLJ61qboLLpJLW9LWfe.jpg", "actors": [], "comments": [], "recommandations_id": []}

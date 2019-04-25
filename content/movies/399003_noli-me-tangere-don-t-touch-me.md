@@ -1,1 +1,0 @@
-{"tmdb_id": 399003, "title": "Noli me tangere (Don't Touch Me)", "original_title": "Noli me tangere (Don't Touch Me)", "slug_title": "noli-me-tangere-don-t-touch-me", "date": "1983-05-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 289994, "title": "Panta Rhei", "original_title": "Panta Rhei", "slug_title": "panta-rhei", "date": "1951-01-01", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/czTuxnapwztH2UQNK0Bb4k7TCJq.jpg", "actors": [], "comments": [], "recommandations_id": [183718, 162451, 183728, 146815]}

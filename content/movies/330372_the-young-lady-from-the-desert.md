@@ -1,1 +1,0 @@
-{"tmdb_id": 330372, "title": "The Young Lady from the Desert", "original_title": "Ghadat el Sahara", "slug_title": "the-young-lady-from-the-desert", "date": "1929-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

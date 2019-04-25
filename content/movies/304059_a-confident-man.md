@@ -1,1 +1,0 @@
-{"tmdb_id": 304059, "title": "A Confident Man", "original_title": "A Confident Man", "slug_title": "a-confident-man", "date": "2013-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

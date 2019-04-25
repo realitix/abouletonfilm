@@ -1,1 +1,0 @@
-{"tmdb_id": 465580, "title": "POTSDAM_VON_OBEN", "original_title": "POTSDAM_VON_OBEN", "slug_title": "potsdam-von-oben", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

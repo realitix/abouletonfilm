@@ -1,1 +1,0 @@
-{"tmdb_id": 548034, "title": "Quarantine", "original_title": "Quarantine", "slug_title": "quarantine", "date": "2018-11-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7EsmEulikd65AS9JwVFKcU19CKF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 469085, "title": "Introduction to Humanities", "original_title": "Introduction to Humanities", "slug_title": "introduction-to-humanities", "date": "1972-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

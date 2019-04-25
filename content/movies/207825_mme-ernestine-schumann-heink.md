@@ -1,1 +1,0 @@
-{"tmdb_id": 207825, "title": "Mme. Ernestine Schumann-Heink", "original_title": "Mme. Ernestine Schumann-Heink", "slug_title": "mme-ernestine-schumann-heink", "date": "1927-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mme. Ernestine Schumann-Heink ()", "Josefin H. Vollmer ()"], "comments": [], "recommandations_id": []}

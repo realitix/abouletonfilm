@@ -1,1 +1,0 @@
-{"tmdb_id": 269962, "title": "Lecciones para Zafirah", "original_title": "Lecciones para Zafirah", "slug_title": "lecciones-para-zafirah", "date": "2011-02-24", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rxNQ7QtlPWoY4Ls5lGplC7e22Jh.jpg", "actors": [], "comments": [], "recommandations_id": []}

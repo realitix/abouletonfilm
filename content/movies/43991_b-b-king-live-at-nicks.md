@@ -1,1 +1,0 @@
-{"tmdb_id": 43991, "title": "B.B. King Live at Nicks", "original_title": "B.B. King Live at Nicks", "slug_title": "b-b-king-live-at-nicks", "date": "2001-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/elWLVN39qwd6aIacWpHdQcBInuU.jpg", "actors": ["B.B. King (Self)"], "comments": [], "recommandations_id": []}

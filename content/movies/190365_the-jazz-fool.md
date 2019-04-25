@@ -1,1 +1,0 @@
-{"tmdb_id": 190365, "title": "The Jazz Fool", "original_title": "The Jazz Fool", "slug_title": "the-jazz-fool", "date": "1929-10-14", "genre": "Animation", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/txdJydQvx3JVYydB22VzMIOmfQm.jpg", "actors": [], "comments": [], "recommandations_id": [155197, 190244, 166528, 190371]}

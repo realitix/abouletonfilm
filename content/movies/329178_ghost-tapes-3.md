@@ -1,1 +1,0 @@
-{"tmdb_id": 329178, "title": "Ghost Tapes 3", "original_title": "Ghost Tapes 3", "slug_title": "ghost-tapes-3", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 463661, "title": "Interven\u00e7\u00f5es Urbanas", "original_title": "Interven\u00e7\u00f5es Urbanas", "slug_title": "intervencoes-urbanas", "date": "2016-09-03", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dGjfCQ71gdzLdqxGJRa3wr5FlNO.jpg", "actors": [], "comments": [], "recommandations_id": []}

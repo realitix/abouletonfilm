@@ -1,1 +1,0 @@
-{"tmdb_id": 412899, "title": "The Face Beneath", "original_title": "The Face Beneath", "slug_title": "the-face-beneath", "date": "2016-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kIcvKiDMCJeabqfCBCyyqFGyEZB.jpg", "actors": [], "comments": [], "recommandations_id": []}

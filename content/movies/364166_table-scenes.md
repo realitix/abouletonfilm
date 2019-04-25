@@ -1,1 +1,0 @@
-{"tmdb_id": 364166, "title": "Table Scenes", "original_title": "Escenas de mesa", "slug_title": "table-scenes", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

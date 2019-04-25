@@ -1,1 +1,0 @@
-{"tmdb_id": 583945, "title": "Wilbur & Anto", "original_title": "Wilbur & Anto", "slug_title": "wilbur-anto", "date": "2004-05-14", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 567065, "title": "Sparky & Mikaela", "original_title": "Sparky & Mikaela", "slug_title": "sparky-mikaela", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mikaela Hoover (Mikaela)", "Joe Fria (Sparky)", "Gregg Henry (Mikaela's Dad)", "Sean Gunn (Dude)"], "comments": [], "recommandations_id": []}

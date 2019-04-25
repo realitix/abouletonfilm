@@ -1,1 +1,0 @@
-{"tmdb_id": 256080, "title": "Red Krokodil", "original_title": "Red Krokodil", "slug_title": "red-krokodil", "date": "2014-01-23", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m6477gHuxNzAp6EkARTA0NppZhZ.jpg", "actors": ["Brock Madson ()"], "comments": [], "recommandations_id": []}

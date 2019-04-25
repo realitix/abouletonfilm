@@ -1,1 +1,0 @@
-{"tmdb_id": 530897, "title": "Comme un poisson dans l'eau", "original_title": "Comme un poisson dans l'eau", "slug_title": "comme-un-poisson-dans-l-eau", "date": "2004-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

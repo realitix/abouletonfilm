@@ -1,1 +1,0 @@
-{"tmdb_id": 306186, "title": "There Are Strange Things Done in the Midnight Sun", "original_title": "There Are Strange Things Done in the Midnight Sun", "slug_title": "there-are-strange-things-done-in-the-midnight-sun", "date": "2012-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

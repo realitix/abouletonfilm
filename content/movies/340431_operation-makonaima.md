@@ -1,1 +1,0 @@
-{"tmdb_id": 340431, "title": "Operation Makonaima", "original_title": "Operation Makonaima", "slug_title": "operation-makonaima", "date": "1974-01-01", "genre": "Thriller / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/efEmeNT4Hq6jlAIzdWKlRshMBAC.jpg", "actors": [], "comments": [], "recommandations_id": []}

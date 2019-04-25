@@ -1,1 +1,0 @@
-{"tmdb_id": 303615, "title": "My Dog Acting Crazy", "original_title": "My Dog Acting Crazy", "slug_title": "my-dog-acting-crazy", "date": "2014-06-05", "genre": "Thriller / Com\u00e9die / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

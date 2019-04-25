@@ -1,1 +1,0 @@
-{"tmdb_id": 489307, "title": "Jongdal-ri", "original_title": "\uc885\ub2ec\ub9ac", "slug_title": "jongdal-ri", "date": "2017-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

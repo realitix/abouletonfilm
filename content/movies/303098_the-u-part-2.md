@@ -1,1 +1,0 @@
-{"tmdb_id": 303098, "title": "The U Part 2", "original_title": "The U Part 2", "slug_title": "the-u-part-2", "date": "2014-12-13", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rkMp8i4yenFRlP4oKrb5Fagzfk2.jpg", "actors": [], "comments": [], "recommandations_id": []}

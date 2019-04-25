@@ -1,1 +1,0 @@
-{"tmdb_id": 392957, "title": "Illuminations", "original_title": "Illuminations", "slug_title": "illuminations", "date": "1976-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n6p8oksa0nEHwGbT6faMajYxhDV.jpg", "actors": [], "comments": [], "recommandations_id": []}

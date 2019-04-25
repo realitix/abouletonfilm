@@ -1,1 +1,0 @@
-{"tmdb_id": 529622, "title": "Sea of Adventure", "original_title": "Sea of Adventure", "slug_title": "sea-of-adventure", "date": "1996-08-11", "genre": "Aventure / Drame / T\u00e9l\u00e9film", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Taylor (Jack)", "Alexis Jackson (Dinah)"], "comments": [], "recommandations_id": []}

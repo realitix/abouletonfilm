@@ -1,1 +1,0 @@
-{"tmdb_id": 251479, "title": "The Mona Lisa Curse", "original_title": "The Mona Lisa Curse", "slug_title": "the-mona-lisa-curse", "date": "2008-09-18", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8jEiRA3JHq8zQl3grwhE3JJVL5D.jpg", "actors": [], "comments": [], "recommandations_id": []}

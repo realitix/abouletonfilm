@@ -1,1 +1,0 @@
-{"tmdb_id": 319292, "title": "Lovely Andrea", "original_title": "Lovely Andrea", "slug_title": "lovely-andrea", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a1i6GEZeQgwfIOZ5GkVV9qVBlFn.jpg", "actors": [], "comments": [], "recommandations_id": []}

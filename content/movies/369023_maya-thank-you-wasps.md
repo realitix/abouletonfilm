@@ -1,1 +1,0 @@
-{"tmdb_id": 369023, "title": "Maya - Thank You Wasps", "original_title": "Maya - Thank You Wasps", "slug_title": "maya-thank-you-wasps", "date": "2012-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tKYvTKq1qHZ1siWWl6axM7Xho5s.jpg", "actors": [], "comments": [], "recommandations_id": []}

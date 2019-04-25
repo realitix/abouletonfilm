@@ -1,1 +1,0 @@
-{"tmdb_id": 386737, "title": "Ana Kurban Can Kurban", "original_title": "Ana Kurban Can Kurban", "slug_title": "ana-kurban-can-kurban", "date": "1975-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fatma Girik ()", "Ahmet Mekin ()"], "comments": [], "recommandations_id": []}

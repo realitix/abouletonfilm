@@ -1,1 +1,0 @@
-{"tmdb_id": 288529, "title": "Shanghai", "original_title": "Shanghai", "slug_title": "shanghai", "date": "1938-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Suisei Matsui ()"], "comments": [], "recommandations_id": []}

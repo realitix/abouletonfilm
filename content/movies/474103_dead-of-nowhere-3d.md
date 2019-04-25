@@ -1,1 +1,0 @@
-{"tmdb_id": 474103, "title": "Dead of Nowhere 3D", "original_title": "Dead of Nowhere 3D", "slug_title": "dead-of-nowhere-3d", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

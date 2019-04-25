@@ -1,1 +1,0 @@
-{"tmdb_id": 235426, "title": "Operation Diamond Racket", "original_title": "Operation Diamond Racket", "slug_title": "operation-diamond-racket", "date": "1978-01-01", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dr. Rajkumar ()"], "comments": [], "recommandations_id": []}

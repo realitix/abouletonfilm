@@ -1,1 +1,0 @@
-{"tmdb_id": 189416, "title": "Buy an Electric Refrigerator", "original_title": "Buy an Electric Refrigerator", "slug_title": "buy-an-electric-refrigerator", "date": "1926-04-28", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

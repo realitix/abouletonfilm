@@ -1,1 +1,0 @@
-{"tmdb_id": 414562, "title": "How Bowser Jr Almost Stole Christmas", "original_title": "How Bowser Jr Almost Stole Christmas", "slug_title": "how-bowser-jr-almost-stole-christmas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

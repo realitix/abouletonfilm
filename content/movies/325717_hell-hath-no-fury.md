@@ -1,1 +1,0 @@
-{"tmdb_id": 325717, "title": "Hell Hath No Fury", "original_title": "Hell Hath No Fury", "slug_title": "hell-hath-no-fury", "date": "2007-03-06", "genre": "Horreur", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oPaIpP0zBf7MY4UhTtYAJJQc9sW.jpg", "actors": [], "comments": [], "recommandations_id": []}

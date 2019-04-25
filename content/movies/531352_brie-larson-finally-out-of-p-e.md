@@ -1,1 +1,0 @@
-{"tmdb_id": 531352, "title": "Brie Larson: Finally Out of P.E.", "original_title": "Brie Larson: Finally Out of P.E.", "slug_title": "brie-larson-finally-out-of-p-e", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

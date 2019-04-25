@@ -1,1 +1,0 @@
-{"tmdb_id": 590114, "title": "E;ephant In The Room", "original_title": "E;ephant In The Room", "slug_title": "e-ephant-in-the-room", "date": "2016-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramsey Nouah (Himself)", "Zainab Sheriff (herslef)", "Michael bony bassey (himself)"], "comments": [], "recommandations_id": []}

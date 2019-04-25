@@ -1,1 +1,0 @@
-{"tmdb_id": 305222, "title": "Chandrakaantham", "original_title": "Chandrakaantham", "slug_title": "chandrakaantham", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 401511, "title": "Warm Broth", "original_title": "Warm Broth", "slug_title": "warm-broth", "date": "1988-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

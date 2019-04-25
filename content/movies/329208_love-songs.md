@@ -1,1 +1,0 @@
-{"tmdb_id": 329208, "title": "Love songs", "original_title": "\u30e9\u30d6\u30bd\u30f3\u30b0", "slug_title": "love-songs", "date": "1984-06-12", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ibqpQIPFrMZ2RcoqSWOwqYBaN51.jpg", "actors": [], "comments": [], "recommandations_id": []}

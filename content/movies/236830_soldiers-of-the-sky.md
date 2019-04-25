@@ -1,1 +1,0 @@
-{"tmdb_id": 236830, "title": "Soldiers of the Sky", "original_title": "Soldiers of the Sky", "slug_title": "soldiers-of-the-sky", "date": "1941-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

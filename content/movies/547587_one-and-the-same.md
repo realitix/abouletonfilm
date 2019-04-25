@@ -1,1 +1,0 @@
-{"tmdb_id": 547587, "title": "One and the Same", "original_title": "One and the Same", "slug_title": "one-and-the-same", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

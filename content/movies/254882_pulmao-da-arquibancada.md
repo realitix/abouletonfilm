@@ -1,1 +1,0 @@
-{"tmdb_id": 254882, "title": "Pulm\u00e3o da Arquibancada", "original_title": "Pulm\u00e3o da Arquibancada", "slug_title": "pulmao-da-arquibancada", "date": "2012-05-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mhQOEYJsp4jT71ilxLJRCZrNb4Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

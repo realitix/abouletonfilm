@@ -1,1 +1,0 @@
-{"tmdb_id": 534894, "title": "Dr. Jekyll and Mr. Hyde", "original_title": "Dr. Jekyll and Mr. Hyde", "slug_title": "dr-jekyll-and-mr-hyde", "date": "1934-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sheldon Lewis (Dr. Jekyll / Mr. Hyde)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 404296, "title": "Ukraine - The Masks of the Revolution", "original_title": "Ukraine - The Masks of the Revolution", "slug_title": "ukraine-the-masks-of-the-revolution", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 109947, "title": "Revelations of A Scaly Kind", "original_title": "Revelations of A Scaly Kind", "slug_title": "revelations-of-a-scaly-kind", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

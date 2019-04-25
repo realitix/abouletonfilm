@@ -1,1 +1,0 @@
-{"tmdb_id": 49829, "title": "The Passing", "original_title": "The Passing", "slug_title": "the-passing", "date": "1992-02-14", "genre": "", "score": "3.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kdEUor7Sqc4Mtl5hI3gqcJlgAZf.jpg", "actors": [], "comments": [], "recommandations_id": [162451, 117595, 118257, 203663]}

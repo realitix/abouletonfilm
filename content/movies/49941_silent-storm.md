@@ -1,1 +1,1 @@
-{"tmdb_id": 49941, "title": "Silent Storm", "original_title": "Stiller Sturm", "slug_title": "silent-storm", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 49941, "title": "Silent Storm", "original_title": "Stiller Sturm", "slug_title": "silent-storm", "date": "2001-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

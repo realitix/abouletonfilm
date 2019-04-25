@@ -1,1 +1,0 @@
-{"tmdb_id": 403599, "title": "Dolly Deadly", "original_title": "Dolly Deadly", "slug_title": "dolly-deadly", "date": "2016-08-23", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oKZExGgocDu8kS5zSTQBkr2wqsG.jpg", "actors": [], "comments": [], "recommandations_id": []}

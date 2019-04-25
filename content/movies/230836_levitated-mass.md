@@ -1,1 +1,0 @@
-{"tmdb_id": 230836, "title": "Levitated Mass", "original_title": "Levitated Mass", "slug_title": "levitated-mass", "date": "2013-06-20", "genre": "Histoire / Documentaire", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/klsDW3r6HWnbOt5bsG4dUbURyiu.jpg", "actors": [], "comments": [], "recommandations_id": []}

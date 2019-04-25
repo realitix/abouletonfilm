@@ -1,1 +1,0 @@
-{"tmdb_id": 439137, "title": "Fisico da Spiaggia", "original_title": "Fisico da Spiaggia", "slug_title": "fisico-da-spiaggia", "date": "2009-01-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

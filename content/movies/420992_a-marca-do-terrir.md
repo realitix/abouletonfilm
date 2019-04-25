@@ -1,1 +1,0 @@
-{"tmdb_id": 420992, "title": "A Marca do Terrir", "original_title": "A Marca do Terrir", "slug_title": "a-marca-do-terrir", "date": "2005-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uCzRDsPERDcUaP0Rbh5cNJiXNMP.jpg", "actors": [], "comments": [], "recommandations_id": []}

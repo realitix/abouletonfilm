@@ -1,1 +1,0 @@
-{"tmdb_id": 212847, "title": "Hi-Ho Mistahey!", "original_title": "Hi-Ho Mistahey!", "slug_title": "hi-ho-mistahey", "date": "2013-09-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lYcwsqUpZRceQMQOATomy1Z3MbB.jpg", "actors": [], "comments": [], "recommandations_id": []}

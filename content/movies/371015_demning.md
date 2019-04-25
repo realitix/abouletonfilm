@@ -1,1 +1,0 @@
-{"tmdb_id": 371015, "title": "Demning", "original_title": "Demning", "slug_title": "demning", "date": "2015-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kmwol16WHiJdLfNbZ4Px4IXNL0y.jpg", "actors": ["J\u00f8rgen Hausberg Nilsen (J)", "Joachim Kvamme (Jo)"], "comments": [], "recommandations_id": []}

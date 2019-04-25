@@ -1,1 +1,0 @@
-{"tmdb_id": 316890, "title": "Dog Lady", "original_title": "La mujer de los perros", "slug_title": "dog-lady", "date": "2015-01-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cslwQ5eMjLERvaRfG5HU6pS22j2.jpg", "actors": ["Ver\u00f3nica Llin\u00e1s ()"], "comments": [], "recommandations_id": []}

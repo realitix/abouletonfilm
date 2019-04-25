@@ -1,1 +1,0 @@
-{"tmdb_id": 493129, "title": "Would Jesus wear a sidearm?", "original_title": "Would Jesus wear a sidearm?", "slug_title": "would-jesus-wear-a-sidearm", "date": "2015-10-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

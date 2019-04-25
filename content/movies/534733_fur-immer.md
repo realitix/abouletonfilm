@@ -1,1 +1,0 @@
-{"tmdb_id": 534733, "title": "F\u00fcr immer", "original_title": "F\u00fcr immer", "slug_title": "fur-immer", "date": "2014-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6f46jjYyW44rIpuZUNVmKjNwheL.jpg", "actors": [], "comments": [], "recommandations_id": []}

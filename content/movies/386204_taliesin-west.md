@@ -1,1 +1,0 @@
-{"tmdb_id": 386204, "title": "Taliesin - West", "original_title": "Taliesin - West", "slug_title": "taliesin-west", "date": "1950-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eavV9l3gvmMRyb8lV9pk2qlPbM9.jpg", "actors": [], "comments": [], "recommandations_id": []}

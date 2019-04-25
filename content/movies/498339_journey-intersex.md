@@ -1,1 +1,0 @@
-{"tmdb_id": 498339, "title": "Journey Intersex", "original_title": "Journey Intersex", "slug_title": "journey-intersex", "date": "2001-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 279904, "title": "Trade Off", "original_title": "Trade Off", "slug_title": "trade-off", "date": "1995-04-29", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9lN2oH9XfvQLjBCB8G1rPkmQVZZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

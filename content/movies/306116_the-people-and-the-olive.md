@@ -1,1 +1,0 @@
-{"tmdb_id": 306116, "title": "The People and the Olive", "original_title": "The People and the Olive", "slug_title": "the-people-and-the-olive", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

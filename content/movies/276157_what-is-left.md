@@ -1,1 +1,0 @@
-{"tmdb_id": 276157, "title": "What Is Left?", "original_title": "What Is Left?", "slug_title": "what-is-left", "date": "2014-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qq72NLjoV8aw6YnCIPKkAhHWahj.jpg", "actors": [], "comments": [], "recommandations_id": []}

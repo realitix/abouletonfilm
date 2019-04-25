@@ -1,1 +1,0 @@
-{"tmdb_id": 386110, "title": "Hellman Rider", "original_title": "Hellman Rider", "slug_title": "hellman-rider", "date": "1989-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Monte Hellman (himself)"], "comments": [], "recommandations_id": []}

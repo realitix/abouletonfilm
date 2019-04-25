@@ -1,1 +1,0 @@
-{"tmdb_id": 493450, "title": "Faro Nell", "original_title": "Faro Nell", "slug_title": "faro-nell", "date": "1929-10-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Louise Fazenda (Faro Nell)"], "comments": [], "recommandations_id": []}

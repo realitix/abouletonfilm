@@ -1,1 +1,0 @@
-{"tmdb_id": 517276, "title": "Shaitaan", "original_title": "Shaitaan", "slug_title": "shaitaan", "date": "1974-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/38xAhCjGMwJpqTFETr0VxQkYCDv.jpg", "actors": ["Shatrughan Sinha (Inspector Ashok)", "Sharmila Tagore (Nisha)"], "comments": [], "recommandations_id": []}

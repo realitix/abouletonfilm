@@ -1,1 +1,0 @@
-{"tmdb_id": 495306, "title": "The Scarecrow", "original_title": "L'\u00e9pouvantail", "slug_title": "the-scarecrow", "date": "1921-01-01", "genre": "Fantastique / Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nina Star ()"], "comments": [], "recommandations_id": []}

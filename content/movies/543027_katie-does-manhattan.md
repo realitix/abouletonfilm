@@ -1,1 +1,0 @@
-{"tmdb_id": 543027, "title": "Katie Does Manhattan", "original_title": "Katie Does Manhattan", "slug_title": "katie-does-manhattan", "date": "2012-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sMXWJVOYbKms6LEjqDenUz1apVn.jpg", "actors": ["Katie Morgan (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 278330, "title": "Genesis 3D", "original_title": "Genesis 3D", "slug_title": "genesis-3d", "date": "2016-12-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pxj1QttJWEbKRbgOisuL0gQVpLc.jpg", "actors": [], "comments": [], "recommandations_id": []}

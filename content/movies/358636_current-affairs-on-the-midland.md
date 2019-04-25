@@ -1,1 +1,0 @@
-{"tmdb_id": 358636, "title": "Current Affairs on the Midland", "original_title": "Current Affairs on the Midland", "slug_title": "current-affairs-on-the-midland", "date": "1980-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 583849, "title": "Prowler", "original_title": "Prowler", "slug_title": "prowler", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lvcw6TvrRbZDKUWklUqzrnlJvdM.jpg", "actors": [], "comments": [], "recommandations_id": []}

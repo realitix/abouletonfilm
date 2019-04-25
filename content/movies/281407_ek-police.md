@@ -1,1 +1,0 @@
-{"tmdb_id": 281407, "title": "Ek Police", "original_title": "Ek Police", "slug_title": "ek-police", "date": "2008-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6JN9wJqLbwXvQCSXMvAGblntdbb.jpg", "actors": ["Nagababu ()", "Lakshana ()", "Gayathri Rao ()"], "comments": [], "recommandations_id": []}

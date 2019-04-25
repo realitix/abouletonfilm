@@ -1,1 +1,0 @@
-{"tmdb_id": 546156, "title": "The Invisible Cinema 3", "original_title": "The Invisible Cinema 3", "slug_title": "the-invisible-cinema-3", "date": "2018-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z9UG1zCh9nAd7Qk4Ul1LFM548em.jpg", "actors": [], "comments": [], "recommandations_id": []}

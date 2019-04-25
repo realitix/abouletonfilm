@@ -1,1 +1,0 @@
-{"tmdb_id": 383468, "title": "JACARELVIS E AMIGOS VOL 1", "original_title": "JACARELVIS E AMIGOS VOL 1", "slug_title": "jacarelvis-e-amigos-vol-1", "date": "", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/svhaMDkAWSDdVF0kNVvHlCTzR9.jpg", "actors": [], "comments": [], "recommandations_id": []}

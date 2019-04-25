@@ -1,1 +1,0 @@
-{"tmdb_id": 305370, "title": "Napoleon and Sally", "original_title": "Napoleon and Sally", "slug_title": "napoleon-and-sally", "date": "1916-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a1heCeN2JSJcp5y0a3vviGxlID1.jpg", "actors": ["Lillian Leighton ()"], "comments": [], "recommandations_id": []}

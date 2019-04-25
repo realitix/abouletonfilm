@@ -1,1 +1,0 @@
-{"tmdb_id": 485301, "title": "Soul of Rock", "original_title": "Soul of Rock", "slug_title": "soul-of-rock", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

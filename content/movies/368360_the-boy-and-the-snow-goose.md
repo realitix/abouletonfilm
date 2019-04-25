@@ -1,1 +1,0 @@
-{"tmdb_id": 368360, "title": "The Boy and the Snow Goose", "original_title": "The Boy and the Snow Goose", "slug_title": "the-boy-and-the-snow-goose", "date": "1984-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wr6pWPh5UYpK2bid6fDIdIpuolr.jpg", "actors": [], "comments": [], "recommandations_id": []}

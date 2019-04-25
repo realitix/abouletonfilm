@@ -1,1 +1,0 @@
-{"tmdb_id": 298362, "title": "Card Shark", "original_title": "Card Shark", "slug_title": "card-shark", "date": "2013-06-03", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tc4VIgZjpF1pJHjNvGjX5OVc4Ph.jpg", "actors": ["Drummond Money-Coutts (Himself)"], "comments": [], "recommandations_id": []}

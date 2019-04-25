@@ -1,1 +1,0 @@
-{"tmdb_id": 540316, "title": "Violettes imp\u00e9riales", "original_title": "Violettes imp\u00e9riales", "slug_title": "violettes-imperiales", "date": "1932-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wNE7zSYs55TEqdFFPxZHFiDH79p.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 509797, "title": "Changing Direction", "original_title": "Cambio de sentido", "slug_title": "changing-direction", "date": "2014-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zUPeZ1UKQoLUtzpqHpwDYpZQisx.jpg", "actors": [], "comments": [], "recommandations_id": []}

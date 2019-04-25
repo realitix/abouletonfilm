@@ -1,1 +1,0 @@
-{"tmdb_id": 133439, "title": "Beirut: The Last Home Movie", "original_title": "Beirut: The Last Home Movie", "slug_title": "beirut-the-last-home-movie", "date": "1987-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v2ROriS1RMiG9mEm5j6hvr7rjHf.jpg", "actors": [], "comments": [], "recommandations_id": []}

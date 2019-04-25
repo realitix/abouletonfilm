@@ -1,1 +1,0 @@
-{"tmdb_id": 262236, "title": "John Ford Goes to War", "original_title": "John Ford Goes to War", "slug_title": "john-ford-goes-to-war", "date": "2002-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fACk7m6Y5cmRBqdci5O7Zjgo36Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

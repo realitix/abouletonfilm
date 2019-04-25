@@ -1,1 +1,0 @@
-{"tmdb_id": 191281, "title": "A Dozen Socks", "original_title": "A Dozen Socks", "slug_title": "a-dozen-socks", "date": "1927-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alice Day ()", "Jack Dempsey ()", "Danny O'Shea ()"], "comments": [], "recommandations_id": []}

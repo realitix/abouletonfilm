@@ -1,1 +1,0 @@
-{"tmdb_id": 522075, "title": "Yogurt Lady", "original_title": "Yogurt Lady", "slug_title": "yogurt-lady", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kim Bo-Yeon ()", "Oh Gwang-rok ()"], "comments": [], "recommandations_id": []}

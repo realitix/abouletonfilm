@@ -1,1 +1,0 @@
-{"tmdb_id": 414345, "title": "Night Mail 2", "original_title": "Night Mail 2", "slug_title": "night-mail-2", "date": "1986-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x70eVbfmCjgwuWSWgLli8DaAPq3.jpg", "actors": [], "comments": [], "recommandations_id": []}

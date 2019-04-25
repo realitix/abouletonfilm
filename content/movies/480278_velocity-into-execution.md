@@ -1,1 +1,0 @@
-{"tmdb_id": 480278, "title": "Velocity Into Execution", "original_title": "Velocity Into Execution", "slug_title": "velocity-into-execution", "date": "2017-08-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AhSEDJaJdaVbt6rPwEirNSmegCH.jpg", "actors": [], "comments": [], "recommandations_id": []}

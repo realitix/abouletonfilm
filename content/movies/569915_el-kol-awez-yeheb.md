@@ -1,1 +1,0 @@
-{"tmdb_id": 569915, "title": "El Kol Awez Yeheb", "original_title": "El Kol Awez Yeheb", "slug_title": "el-kol-awez-yeheb", "date": "1975-03-24", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/19V7yHctkQWA889A1DstmkMychQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

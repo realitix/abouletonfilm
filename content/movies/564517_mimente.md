@@ -1,1 +1,0 @@
-{"tmdb_id": 564517, "title": "Mimente", "original_title": "Mimente", "slug_title": "mimente", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 559249, "title": "La carcasse et le tord-cou", "original_title": "La carcasse et le tord-cou", "slug_title": "la-carcasse-et-le-tord-cou", "date": "1948-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/piflsnnDSDMmHaWbFtzdgWXKHDD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 318802, "title": "Ultimate Combat 8: Retribution", "original_title": "Ultimate Combat 8: Retribution", "slug_title": "ultimate-combat-8-retribution", "date": "2004-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

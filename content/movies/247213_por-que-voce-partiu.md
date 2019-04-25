@@ -1,1 +1,0 @@
-{"tmdb_id": 247213, "title": "Por Que Voc\u00ea Partiu?", "original_title": "Por Que Voc\u00ea Partiu?", "slug_title": "por-que-voce-partiu", "date": "2013-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p9InIP4ieRwMxkV3GS0JLUX3iEQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

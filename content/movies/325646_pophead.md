@@ -1,1 +1,0 @@
-{"tmdb_id": 325646, "title": "POPHEAD", "original_title": "POPHEAD", "slug_title": "pophead", "date": "2015-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

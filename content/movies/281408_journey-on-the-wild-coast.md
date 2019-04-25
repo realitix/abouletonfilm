@@ -1,1 +1,0 @@
-{"tmdb_id": 281408, "title": "Journey on the Wild Coast", "original_title": "Journey on the Wild Coast", "slug_title": "journey-on-the-wild-coast", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

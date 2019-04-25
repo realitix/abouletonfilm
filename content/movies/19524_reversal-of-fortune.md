@@ -1,1 +1,0 @@
-{"tmdb_id": 19524, "title": "Reversal of Fortune", "original_title": "Reversal of Fortune", "slug_title": "reversal-of-fortune", "date": "2005-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p2ekmjDV9OSdSShzvRmlvp0CUnJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

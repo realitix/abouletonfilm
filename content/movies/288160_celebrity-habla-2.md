@@ -1,1 +1,0 @@
-{"tmdb_id": 288160, "title": "Celebrity Habla 2", "original_title": "Celebrity Habla 2", "slug_title": "celebrity-habla-2", "date": "2010-09-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rpUYCaVpj6DOGBKpfCN2KzGvqrd.jpg", "actors": [], "comments": [], "recommandations_id": []}

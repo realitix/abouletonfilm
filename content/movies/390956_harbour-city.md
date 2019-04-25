@@ -1,1 +1,0 @@
-{"tmdb_id": 390956, "title": "Harbour City", "original_title": "Harbour City", "slug_title": "harbour-city", "date": "2016-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ySTwwpgUfU1d8E43EbzJjOYXYub.jpg", "actors": [], "comments": [], "recommandations_id": []}

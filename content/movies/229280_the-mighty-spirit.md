@@ -1,1 +1,0 @@
-{"tmdb_id": 229280, "title": "The Mighty Spirit", "original_title": "Santo Forte", "slug_title": "the-mighty-spirit", "date": "1999-08-09", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iM3nMrGHzBb2e4JOYWmsodJazQE.jpg", "actors": [], "comments": [], "recommandations_id": []}

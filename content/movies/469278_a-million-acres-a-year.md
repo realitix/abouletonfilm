@@ -1,1 +1,0 @@
-{"tmdb_id": 469278, "title": "A Million Acres a Year", "original_title": "A Million Acres a Year", "slug_title": "a-million-acres-a-year", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dnl61bjYsWbqvZWE1FtQk0XGSEW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 552637, "title": "Penguin Rescue", "original_title": "Penguin Rescue", "slug_title": "penguin-rescue", "date": "2018-01-01", "genre": "Animation", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xuCWizaPbfEvrw7KuNAau5kJ53i.jpg", "actors": [], "comments": [], "recommandations_id": []}

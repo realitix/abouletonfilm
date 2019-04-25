@@ -1,1 +1,0 @@
-{"tmdb_id": 450255, "title": "The Science of Magic", "original_title": "The Science of Magic", "slug_title": "the-science-of-magic", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

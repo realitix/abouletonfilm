@@ -1,1 +1,0 @@
-{"tmdb_id": 574242, "title": "YouShoot: Amazing Kong", "original_title": "YouShoot: Amazing Kong", "slug_title": "youshoot-amazing-kong", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Kia Stevens (Herself)"], "comments": [], "recommandations_id": []}

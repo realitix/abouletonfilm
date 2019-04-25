@@ -1,1 +1,0 @@
-{"tmdb_id": 371155, "title": "Martial Arts Mayhem Vol. 2", "original_title": "Martial Arts Mayhem Vol. 2", "slug_title": "martial-arts-mayhem-vol-2", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

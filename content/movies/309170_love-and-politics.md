@@ -1,1 +1,0 @@
-{"tmdb_id": 309170, "title": "Love and Politics", "original_title": "Love and Politics", "slug_title": "love-and-politics", "date": "2011-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

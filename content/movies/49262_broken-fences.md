@@ -1,1 +1,0 @@
-{"tmdb_id": 49262, "title": "Broken Fences", "original_title": "Broken Fences", "slug_title": "broken-fences", "date": "2008-03-01", "genre": "Drame / Western", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/octIlWw6unZhn9XRy1OsYhaLCkj.jpg", "actors": [], "comments": [], "recommandations_id": []}

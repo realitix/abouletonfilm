@@ -1,1 +1,0 @@
-{"tmdb_id": 373407, "title": "Hotel Diaries: Dirty Pictures", "original_title": "Hotel Diaries: Dirty Pictures", "slug_title": "hotel-diaries-dirty-pictures", "date": "2007-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/20ux55ixP8Abeinlf1JYpYsJyel.jpg", "actors": [], "comments": [], "recommandations_id": []}

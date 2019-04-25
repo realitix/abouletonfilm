@@ -1,1 +1,0 @@
-{"tmdb_id": 365446, "title": "In Dependence", "original_title": "Yl\u00e4kerran Tuula", "slug_title": "in-dependence", "date": "2013-11-30", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gK42yuXZKx71g5tmfmeaNf6qpOQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

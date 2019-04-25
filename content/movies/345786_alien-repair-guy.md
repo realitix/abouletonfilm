@@ -1,1 +1,0 @@
-{"tmdb_id": 345786, "title": "Alien Repair Guy", "original_title": "Alien Repair Guy", "slug_title": "alien-repair-guy", "date": "2013-04-12", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harald Brenna ()", "Ivar Gafseth ()", "Hallbj\u00f8rn R\u00f8nning ()", "Tov Sletta ()"], "comments": [], "recommandations_id": []}

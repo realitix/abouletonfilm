@@ -1,1 +1,0 @@
-{"tmdb_id": 355012, "title": "Rabbit Ears - Finn McCoul", "original_title": "Rabbit Ears - Finn McCoul", "slug_title": "rabbit-ears-finn-mccoul", "date": "1991-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8dnbtlkXqkKiLQXcsYknlHACGeN.jpg", "actors": [], "comments": [], "recommandations_id": []}

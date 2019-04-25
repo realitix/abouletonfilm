@@ -1,1 +1,0 @@
-{"tmdb_id": 493478, "title": "Hooly Bible II", "original_title": "\u795e\u7ecf\u4e8c", "slug_title": "hooly-bible-ii", "date": "2016-11-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cVH2aUxZ09eXJ2k3B1TvDg4wqvo.jpg", "actors": [], "comments": [], "recommandations_id": []}

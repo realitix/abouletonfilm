@@ -1,1 +1,0 @@
-{"tmdb_id": 498871, "title": "Shamblin Shack", "original_title": "Shamblin Shack", "slug_title": "shamblin-shack", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zz1OQ2ozimdNTFBHVpJ3dx6Ky32.jpg", "actors": [], "comments": [], "recommandations_id": []}

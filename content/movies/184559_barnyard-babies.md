@@ -1,1 +1,0 @@
-{"tmdb_id": 184559, "title": "Barnyard Babies", "original_title": "Barnyard Babies", "slug_title": "barnyard-babies", "date": "1935-05-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sXNIiCxg8uLpjwgnPhUpnNPQwOn.jpg", "actors": [], "comments": [], "recommandations_id": []}

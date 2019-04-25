@@ -1,1 +1,0 @@
-{"tmdb_id": 421477, "title": "People from the Neretva River", "original_title": "Ljudi sa Neretve", "slug_title": "people-from-the-neretva-river", "date": "1967-09-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1LrfKwlZteb7nE0jn12n5s80Nqj.jpg", "actors": [], "comments": [], "recommandations_id": []}

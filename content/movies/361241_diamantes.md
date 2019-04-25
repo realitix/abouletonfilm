@@ -1,1 +1,0 @@
-{"tmdb_id": 361241, "title": "Diamantes", "original_title": "Diamantes", "slug_title": "diamantes", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eepDIWIgQLn4IvSaZPLJaD1MVIf.jpg", "actors": [], "comments": [], "recommandations_id": []}

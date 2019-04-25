@@ -1,1 +1,0 @@
-{"tmdb_id": 273526, "title": "Gaiking II", "original_title": "Gaiking II", "slug_title": "gaiking-ii", "date": "2011-02-01", "genre": "Action / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jHWTLThElPpm5FAn6P4T5lwiTGo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 387027, "title": "Java Journey", "original_title": "Java Journey", "slug_title": "java-journey", "date": "1939-03-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

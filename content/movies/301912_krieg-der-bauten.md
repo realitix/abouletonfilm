@@ -1,1 +1,0 @@
-{"tmdb_id": 301912, "title": "Krieg der Bauten", "original_title": "Krieg der Bauten", "slug_title": "krieg-der-bauten", "date": "2014-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tzYLfMebm4o1JBHs42yM8vSty4t.jpg", "actors": [], "comments": [], "recommandations_id": []}

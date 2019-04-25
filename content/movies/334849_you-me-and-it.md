@@ -1,1 +1,0 @@
-{"tmdb_id": 334849, "title": "You Me and It", "original_title": "You Me and It", "slug_title": "you-me-and-it", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qDgFV41g3W92Tu70Bf5JTSo23st.jpg", "actors": [], "comments": [], "recommandations_id": []}

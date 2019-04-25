@@ -1,1 +1,0 @@
-{"tmdb_id": 345930, "title": "Cockatoo", "original_title": "Cockatoo", "slug_title": "cockatoo", "date": "2012-09-14", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5VCi4n7shHZJEPGK1LcyDVToL5f.jpg", "actors": ["Matilda Brown ()", "Alan Dukes ()"], "comments": [], "recommandations_id": []}

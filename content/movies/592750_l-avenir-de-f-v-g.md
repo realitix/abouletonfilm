@@ -1,1 +1,0 @@
-{"tmdb_id": 592750, "title": "l'avenir? de F.v.G.?", "original_title": "l'avenir? de F.v.G.?", "slug_title": "l-avenir-de-f-v-g", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xq1BM9kkSdP3pEP71JJpamJSF3h.jpg", "actors": [], "comments": [], "recommandations_id": []}

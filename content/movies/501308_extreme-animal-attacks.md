@@ -1,1 +1,0 @@
-{"tmdb_id": 501308, "title": "Extreme Animal Attacks", "original_title": "Extreme Animal Attacks", "slug_title": "extreme-animal-attacks", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qmfDEHE0DDADleH2jmhTR0NkH3j.jpg", "actors": ["Sue McGregor ()"], "comments": [], "recommandations_id": []}

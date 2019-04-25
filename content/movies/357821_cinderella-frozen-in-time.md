@@ -1,1 +1,0 @@
-{"tmdb_id": 357821, "title": "Cinderella: Frozen in time", "original_title": "Cinderella: Frozen in time", "slug_title": "cinderella-frozen-in-time", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 574313, "title": "Ship Ahoy", "original_title": "Ship Ahoy", "slug_title": "ship-ahoy", "date": "1920-04-11", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Al St. John ()", "Iva Brown ()", "Ingram B. Pickett ()"], "comments": [], "recommandations_id": []}

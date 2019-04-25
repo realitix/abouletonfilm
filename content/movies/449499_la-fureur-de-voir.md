@@ -1,1 +1,0 @@
-{"tmdb_id": 449499, "title": "La fureur de voir", "original_title": "La fureur de voir", "slug_title": "la-fureur-de-voir", "date": "2017-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zC4RNAtsp2pepxIhnJ4QWis0RQu.jpg", "actors": [], "comments": [], "recommandations_id": []}

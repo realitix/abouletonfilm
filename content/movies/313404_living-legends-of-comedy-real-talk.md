@@ -1,1 +1,0 @@
-{"tmdb_id": 313404, "title": "Living Legends of Comedy: Real Talk", "original_title": "Living Legends of Comedy: Real Talk", "slug_title": "living-legends-of-comedy-real-talk", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

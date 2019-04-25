@@ -1,1 +1,0 @@
-{"tmdb_id": 473677, "title": "The Deformed", "original_title": "The Deformed", "slug_title": "the-deformed", "date": "1960-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["King Hu (Long Yusheng)", "Betty Loh Tih (Leng Shuxian)"], "comments": [], "recommandations_id": []}

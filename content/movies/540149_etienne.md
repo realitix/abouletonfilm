@@ -1,1 +1,0 @@
-{"tmdb_id": 540149, "title": "\u00c9tienne", "original_title": "\u00c9tienne", "slug_title": "etienne", "date": "1933-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yQYgiw5THTzfJdHyyO3zeYxtgNY.jpg", "actors": [], "comments": [], "recommandations_id": []}

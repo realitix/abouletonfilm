@@ -1,1 +1,0 @@
-{"tmdb_id": 291770, "title": "Mystery Magical Special", "original_title": "Mystery Magical Special", "slug_title": "mystery-magical-special", "date": "1986-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marc Summers (Marc)", "Lance Burton (Lance Burton)", "John Astin (John Astin)"], "comments": [], "recommandations_id": []}

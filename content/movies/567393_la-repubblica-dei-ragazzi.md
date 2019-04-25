@@ -1,1 +1,0 @@
-{"tmdb_id": 567393, "title": "La repubblica dei ragazzi", "original_title": "La repubblica dei ragazzi", "slug_title": "la-repubblica-dei-ragazzi", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2JwCJvzjQdRt4hswzhpq4NvwOzF.jpg", "actors": [], "comments": [], "recommandations_id": []}

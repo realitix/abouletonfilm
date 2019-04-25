@@ -1,1 +1,0 @@
-{"tmdb_id": 526837, "title": "World Champion", "original_title": "MISTRZ \u015aWIATA", "slug_title": "world-champion", "date": "2018-05-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jerzy G\u00f3rski ()"], "comments": [], "recommandations_id": []}

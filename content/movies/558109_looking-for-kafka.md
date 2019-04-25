@@ -1,1 +1,0 @@
-{"tmdb_id": 558109, "title": "Looking for Kafka", "original_title": "Looking for Kafka", "slug_title": "looking-for-kafka", "date": "2018-11-04", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Julia Roy ()", "Man-shu Jian ()", "Dagi Yugi ()", "J.C. Lin ()"], "comments": [], "recommandations_id": []}

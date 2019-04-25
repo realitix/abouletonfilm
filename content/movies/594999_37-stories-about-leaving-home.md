@@ -1,1 +1,0 @@
-{"tmdb_id": 594999, "title": "37 Stories About Leaving Home", "original_title": "37 Stories About Leaving Home", "slug_title": "37-stories-about-leaving-home", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 570788, "title": "The Moon", "original_title": "The Moon", "slug_title": "the-moon", "date": "2018-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sam Jimenez ()", "Kevin Skogen ()", "Tony Rodriguez ()", "Tyler Yeager ()", "Stephanie Duran ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 333871, "title": "Imba Means Sing", "original_title": "Imba Means Sing", "slug_title": "imba-means-sing", "date": "2015-12-04", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ejGO3fyrmeSnGN5E333c4SOLPVj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 432528, "title": "The Siege", "original_title": "The Siege", "slug_title": "the-siege", "date": "", "genre": "Thriller / Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

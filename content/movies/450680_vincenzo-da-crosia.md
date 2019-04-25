@@ -1,1 +1,0 @@
-{"tmdb_id": 450680, "title": "Vincenzo da Crosia", "original_title": "Vincenzo da Crosia", "slug_title": "vincenzo-da-crosia", "date": "2015-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xAPjgba5nH17T1dBEorORLonS6E.jpg", "actors": [], "comments": [], "recommandations_id": []}

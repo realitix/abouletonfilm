@@ -1,1 +1,0 @@
-{"tmdb_id": 362503, "title": "Bite of the Mummy", "original_title": "Bite of the Mummy", "slug_title": "bite-of-the-mummy", "date": "2016-10-17", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

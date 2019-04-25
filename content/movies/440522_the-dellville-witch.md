@@ -1,1 +1,0 @@
-{"tmdb_id": 440522, "title": "The Dellville Witch", "original_title": "The Dellville Witch", "slug_title": "the-dellville-witch", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

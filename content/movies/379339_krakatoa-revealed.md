@@ -1,1 +1,0 @@
-{"tmdb_id": 379339, "title": "Krakatoa Revealed", "original_title": "Krakatoa Revealed", "slug_title": "krakatoa-revealed", "date": "2006-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

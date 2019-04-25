@@ -1,1 +1,0 @@
-{"tmdb_id": 300899, "title": "Our Heritage", "original_title": "Nossos Tra\u00e7os", "slug_title": "our-heritage", "date": "2013-06-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["D\u00e9bora Sp\u00ednola ()", "Alb\u00e9rico Sp\u00ednola ()"], "comments": [], "recommandations_id": []}

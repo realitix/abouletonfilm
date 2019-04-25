@@ -1,1 +1,0 @@
-{"tmdb_id": 258632, "title": "Moments of Play", "original_title": "Det legende menneske", "slug_title": "moments-of-play", "date": "1986-09-12", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tgaiZQIk8uUIrzjfZc0C6TDarG8.jpg", "actors": [], "comments": [], "recommandations_id": []}

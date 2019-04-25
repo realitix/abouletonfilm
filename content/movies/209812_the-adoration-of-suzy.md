@@ -1,1 +1,0 @@
-{"tmdb_id": 209812, "title": "The Adoration of Suzy", "original_title": "The Adoration of Suzy", "slug_title": "the-adoration-of-suzy", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 129463, "title": "Fartfeber", "original_title": "Fartfeber", "slug_title": "fartfeber", "date": "1953-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hGee1OGiow7tdJYKwyt1G5eEckU.jpg", "actors": [], "comments": [], "recommandations_id": []}

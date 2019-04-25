@@ -1,1 +1,0 @@
-{"tmdb_id": 37589, "title": "Dust Devils", "original_title": "Dust Devils", "slug_title": "dust-devils", "date": "2003-05-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pfOFo84f3eoF3DtEBCaM9vmSPib.jpg", "actors": ["David Best (Himself)"], "comments": [], "recommandations_id": []}

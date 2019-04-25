@@ -1,1 +1,0 @@
-{"tmdb_id": 463509, "title": "Pitch Battle", "original_title": "Pitch Battle", "slug_title": "pitch-battle", "date": "2015-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

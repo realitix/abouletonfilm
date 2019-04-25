@@ -1,1 +1,0 @@
-{"tmdb_id": 188122, "title": "Kiddie Revue", "original_title": "Kiddie Revue", "slug_title": "kiddie-revue", "date": "1930-03-15", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Douglas Scott (Master of Ceremonies)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 410862, "title": "Barcelone et son parc", "original_title": "Barcelone et son parc", "slug_title": "barcelone-et-son-parc", "date": "1911-01-08", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 59221, "title": "Merlin of the Crystal Cave", "original_title": "Merlin of the Crystal Cave", "slug_title": "merlin-of-the-crystal-cave", "date": "1991-11-17", "genre": "Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

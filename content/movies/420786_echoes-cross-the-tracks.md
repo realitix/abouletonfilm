@@ -1,1 +1,0 @@
-{"tmdb_id": 420786, "title": "Echoes 'Cross the Tracks", "original_title": "Echoes 'Cross the Tracks", "slug_title": "echoes-cross-the-tracks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gn0eKSDzAJz1uiTmdG5FdU4bpCn.jpg", "actors": [], "comments": [], "recommandations_id": []}

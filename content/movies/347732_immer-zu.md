@@ -1,1 +1,0 @@
-{"tmdb_id": 347732, "title": "Immer Zu", "original_title": "Immer Zu", "slug_title": "immer-zu", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lUJooXEd2YurqdWMr8SBm6zFajI.jpg", "actors": [], "comments": [], "recommandations_id": []}

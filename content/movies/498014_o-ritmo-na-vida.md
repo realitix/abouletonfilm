@@ -1,1 +1,0 @@
-{"tmdb_id": 498014, "title": "O Ritmo na Vida", "original_title": "O Ritmo na Vida", "slug_title": "o-ritmo-na-vida", "date": "1968-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/djnui3uRekmFc5yDNqL0rYQUqWO.jpg", "actors": ["Lu\u00eds Filipe Costa ((voice))"], "comments": [], "recommandations_id": []}

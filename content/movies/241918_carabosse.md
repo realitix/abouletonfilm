@@ -1,1 +1,0 @@
-{"tmdb_id": 241918, "title": "Carabosse", "original_title": "Carabosse", "slug_title": "carabosse", "date": "1980-01-01", "genre": "Animation / Fantastique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aPda4bpRmF6yVWgvF3004LAILwK.jpg", "actors": [], "comments": [], "recommandations_id": []}

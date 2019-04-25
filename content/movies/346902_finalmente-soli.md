@@ -1,1 +1,0 @@
-{"tmdb_id": 346902, "title": "Finalmente soli!", "original_title": "Finalmente soli!", "slug_title": "finalmente-soli", "date": "1912-12-01", "genre": "Romance / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ieQFwyC3BCdBvWShMWHCuP19jPc.jpg", "actors": [], "comments": [], "recommandations_id": []}

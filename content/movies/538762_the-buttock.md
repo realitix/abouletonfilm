@@ -1,1 +1,0 @@
-{"tmdb_id": 538762, "title": "The Buttock", "original_title": "La fess\u00e9e", "slug_title": "the-buttock", "date": "1937-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sEFcyi5AYa49IAEHGibgszyKPEx.jpg", "actors": [], "comments": [], "recommandations_id": []}

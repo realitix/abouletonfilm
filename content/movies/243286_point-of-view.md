@@ -1,1 +1,0 @@
-{"tmdb_id": 243286, "title": "Point of View", "original_title": "Point of View", "slug_title": "point-of-view", "date": "1966-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

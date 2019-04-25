@@ -1,1 +1,0 @@
-{"tmdb_id": 353731, "title": "The Rainbow Kid", "original_title": "The Rainbow Kid", "slug_title": "the-rainbow-kid", "date": "2016-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nqSy1pble8hoMcWvA5dqJwEZK9L.jpg", "actors": [], "comments": [], "recommandations_id": []}

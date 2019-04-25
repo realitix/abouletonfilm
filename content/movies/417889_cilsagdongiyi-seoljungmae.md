@@ -1,1 +1,0 @@
-{"tmdb_id": 417889, "title": "\uce60\uc0ad\ub3d9\uc774\uc758 \uc124\uc911\ub9e4", "original_title": "\uce60\uc0ad\ub3d9\uc774\uc758 \uc124\uc911\ub9e4", "slug_title": "cilsagdongiyi-seoljungmae", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 291768, "title": "How Do You Feel?", "original_title": "How Do You Feel?", "slug_title": "how-do-you-feel", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mel Pate (Narrator)", "Kei Tekei ()", "Lloyd Ritter ()"], "comments": [], "recommandations_id": []}

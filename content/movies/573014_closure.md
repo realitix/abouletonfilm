@@ -1,1 +1,0 @@
-{"tmdb_id": 573014, "title": "Closure", "original_title": "Closure", "slug_title": "closure", "date": "2011-04-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matthew Thomas (Michael)"], "comments": [], "recommandations_id": []}

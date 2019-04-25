@@ -1,1 +1,0 @@
-{"tmdb_id": 581915, "title": "SIKSA. Stabat Mater Dolorosa", "original_title": "SIKSA. Stabat Mater Dolorosa", "slug_title": "siksa-stabat-mater-dolorosa", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qaoFmxfhRPwAd8KSnTppicyESwZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

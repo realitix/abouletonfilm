@@ -1,1 +1,0 @@
-{"tmdb_id": 290424, "title": "Source Of Living", "original_title": "Hanapbuhay", "slug_title": "source-of-living", "date": "2010-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/txsySBdOyg4oDKEdr2rfYrEaggq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 564445, "title": "Joyland", "original_title": "Joyland", "slug_title": "joyland", "date": "1929-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lupino Lane (Clerk)", "Wallace Lupino ()", "Muriel Evans ()"], "comments": [], "recommandations_id": []}

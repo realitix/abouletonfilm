@@ -1,1 +1,0 @@
-{"tmdb_id": 460629, "title": "Charlot (The Mutual Comedies)", "original_title": "Charlot (The Mutual Comedies)", "slug_title": "charlot-the-mutual-comedies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wOgTiYkFpmb7mr0PPgWoycLm72K.jpg", "actors": [], "comments": [], "recommandations_id": []}

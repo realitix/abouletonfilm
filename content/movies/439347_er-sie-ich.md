@@ -1,1 +1,0 @@
-{"tmdb_id": 439347, "title": "Er sie ich", "original_title": "Er sie ich", "slug_title": "er-sie-ich", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x4mk1lmlB42vRX9iigVknzqeYGX.jpg", "actors": [], "comments": [], "recommandations_id": []}

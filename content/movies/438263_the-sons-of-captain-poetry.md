@@ -1,1 +1,0 @@
-{"tmdb_id": 438263, "title": "The Sons of Captain Poetry", "original_title": "The Sons of Captain Poetry", "slug_title": "the-sons-of-captain-poetry", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jpfGKP9FLMT8kU4av36GWeTRvzc.jpg", "actors": [], "comments": [], "recommandations_id": []}

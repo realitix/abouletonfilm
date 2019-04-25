@@ -1,1 +1,0 @@
-{"tmdb_id": 341557, "title": "Wild Wild World", "original_title": "Wild Wild World", "slug_title": "wild-wild-world", "date": "1965-08-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gPRbkH4XKMv6Ow1eLEKu1wntXh7.jpg", "actors": ["Eddie Bracken (Narrator)"], "comments": [], "recommandations_id": []}

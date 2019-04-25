@@ -1,1 +1,0 @@
-{"tmdb_id": 432632, "title": "For Wendy", "original_title": "For Wendy", "slug_title": "for-wendy", "date": "2008-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Julian D'Addario (Joshua)", "Jade Black (Emma)", "Tristan Thorberg (Samuel)"], "comments": [], "recommandations_id": []}

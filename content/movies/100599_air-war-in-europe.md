@@ -1,1 +1,0 @@
-{"tmdb_id": 100599, "title": "Air War in Europe", "original_title": "Air War in Europe", "slug_title": "air-war-in-europe", "date": "1943-01-01", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rgzRp8zPQmnvhsVHeOjRWUb8TQQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

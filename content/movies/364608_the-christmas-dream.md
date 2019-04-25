@@ -1,1 +1,0 @@
-{"tmdb_id": 364608, "title": "The Christmas Dream", "original_title": "V\u00e1no\u010dn\u00ed sen", "slug_title": "the-christmas-dream", "date": "1946-01-01", "genre": "Animation / Fantastique", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x2htKNZy0lDlql5MOmlz9Rj1SVl.jpg", "actors": [], "comments": [], "recommandations_id": []}

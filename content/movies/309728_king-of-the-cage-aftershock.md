@@ -1,1 +1,0 @@
-{"tmdb_id": 309728, "title": "King of the Cage: Aftershock", "original_title": "King of the Cage: Aftershock", "slug_title": "king-of-the-cage-aftershock", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

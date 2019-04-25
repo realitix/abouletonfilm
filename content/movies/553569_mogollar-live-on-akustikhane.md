@@ -1,1 +1,0 @@
-{"tmdb_id": 553569, "title": "Mogollar Live On Akustikhane", "original_title": "Mogollar Live On Akustikhane", "slug_title": "mogollar-live-on-akustikhane", "date": "2012-02-14", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fySaDdN0hkReckuKKK1yYZVQQII.jpg", "actors": [], "comments": [], "recommandations_id": []}

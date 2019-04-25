@@ -1,1 +1,0 @@
-{"tmdb_id": 506348, "title": "Nobody's Perfect", "original_title": "Nobody's Perfect", "slug_title": "nobody-s-perfect", "date": "2002-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xK9myssjFwpa7WA3Zrp8RPg5m2q.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 72407, "title": "BBC Switch Live", "original_title": "BBC Switch Live", "slug_title": "bbc-switch-live", "date": "2009-11-15", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

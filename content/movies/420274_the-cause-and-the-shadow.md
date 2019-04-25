@@ -1,1 +1,0 @@
-{"tmdb_id": 420274, "title": "The Cause and the Shadow", "original_title": "A Causa e a Sombra", "slug_title": "the-cause-and-the-shadow", "date": "2015-12-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rivwAi6bPuHfAJ6IgJnSXp8xt5r.jpg", "actors": [], "comments": [], "recommandations_id": []}

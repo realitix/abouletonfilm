@@ -1,1 +1,0 @@
-{"tmdb_id": 527673, "title": "Boundary Revelation", "original_title": "\u908a\u57ce\u555f\u793a\u9304", "slug_title": "boundary-revelation", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

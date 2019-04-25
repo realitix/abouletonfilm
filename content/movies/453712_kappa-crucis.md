@@ -1,1 +1,0 @@
-{"tmdb_id": 453712, "title": "Kappa Crucis", "original_title": "Kappa Crucis", "slug_title": "kappa-crucis", "date": "2016-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cs5uwXVFvSVCkLESk7Z0tFHt6FB.jpg", "actors": [], "comments": [], "recommandations_id": []}

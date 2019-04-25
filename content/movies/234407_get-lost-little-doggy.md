@@ -1,1 +1,0 @@
-{"tmdb_id": 234407, "title": "Get Lost! Little Doggy", "original_title": "Get Lost! Little Doggy", "slug_title": "get-lost-little-doggy", "date": "1964-10-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7c3q6vZsVkrQMWM8Igw12TYiK3v.jpg", "actors": [], "comments": [], "recommandations_id": []}

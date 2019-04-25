@@ -1,1 +1,0 @@
-{"tmdb_id": 316146, "title": "Birth of The Franciscans", "original_title": "Birth of The Franciscans", "slug_title": "birth-of-the-franciscans", "date": "2014-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

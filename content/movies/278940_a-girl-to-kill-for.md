@@ -1,1 +1,0 @@
-{"tmdb_id": 278940, "title": "A Girl to Kill For", "original_title": "A Girl to Kill For", "slug_title": "a-girl-to-kill-for", "date": "1990-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vDVQuaOmINxDkC2LdL0KN90W8vS.jpg", "actors": [], "comments": [], "recommandations_id": []}

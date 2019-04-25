@@ -1,1 +1,0 @@
-{"tmdb_id": 354018, "title": "Dear Frances (in memoriam)", "original_title": "Dear Frances (in memoriam)", "slug_title": "dear-frances-in-memoriam", "date": "2003-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 589923, "title": "The Leader", "original_title": "The Leader", "slug_title": "the-leader", "date": "2012-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

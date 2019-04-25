@@ -1,1 +1,0 @@
-{"tmdb_id": 334785, "title": "Arsenio Lupin", "original_title": "Arsenio Lupin", "slug_title": "arsenio-lupin", "date": "1947-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Gb8dqbFf5RrWCLtzq1niVRVarA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 404792, "title": "The Krays: The Myth Behind the Legend", "original_title": "The Krays: The Myth Behind the Legend", "slug_title": "the-krays-the-myth-behind-the-legend", "date": "", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

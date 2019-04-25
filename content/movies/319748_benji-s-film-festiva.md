@@ -1,1 +1,0 @@
-{"tmdb_id": 319748, "title": "Benji's Film Festiva", "original_title": "Benji's Film Festiva", "slug_title": "benji-s-film-festiva", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

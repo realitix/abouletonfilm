@@ -1,1 +1,0 @@
-{"tmdb_id": 508904, "title": "Someone Loves Just Me", "original_title": "Someone Loves Just Me", "slug_title": "someone-loves-just-me", "date": "1990-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

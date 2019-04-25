@@ -1,1 +1,0 @@
-{"tmdb_id": 272041, "title": "Paris c'est joli", "original_title": "Paris c'est joli", "slug_title": "paris-c-est-joli", "date": "1974-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jo Anouma ()", "Inoussa Ousseini ()", "Charlotte Trench ()"], "comments": [], "recommandations_id": []}

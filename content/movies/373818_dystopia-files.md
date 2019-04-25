@@ -1,1 +1,0 @@
-{"tmdb_id": 373818, "title": "Dystopia Files", "original_title": "Dystopia Files", "slug_title": "dystopia-files", "date": "2010-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 565741, "title": "The Match: Tiger vs. Phil", "original_title": "The Match: Tiger vs. Phil", "slug_title": "the-match-tiger-vs-phil", "date": "2018-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

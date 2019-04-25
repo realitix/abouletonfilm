@@ -1,1 +1,0 @@
-{"tmdb_id": 233869, "title": "Unter Dampf - Saunalust in Deutschland", "original_title": "Unter Dampf - Saunalust in Deutschland", "slug_title": "unter-dampf-saunalust-in-deutschland", "date": "2010-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

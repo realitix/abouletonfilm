@@ -1,1 +1,0 @@
-{"tmdb_id": 146808, "title": "Scratch and Crow", "original_title": "Scratch and Crow", "slug_title": "scratch-and-crow", "date": "1995-07-02", "genre": "", "score": "4.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tJJR24ZMnVkYKOglnsu9RefYaFr.jpg", "actors": [], "comments": [], "recommandations_id": [189644, 49176, 154612, 148908]}

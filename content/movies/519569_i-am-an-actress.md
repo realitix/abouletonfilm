@@ -1,1 +1,0 @@
-{"tmdb_id": 519569, "title": "I Am an Actress", "original_title": "Je suis une actrice", "slug_title": "i-am-an-actress", "date": "2014-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sophie Faucher (Madame Renaud)", "Jade-Mariuka Robitaille (Mariloup)"], "comments": [], "recommandations_id": []}

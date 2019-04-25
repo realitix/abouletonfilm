@@ -1,1 +1,0 @@
-{"tmdb_id": 368028, "title": "Street Scene, San Diego", "original_title": "Street Scene, San Diego", "slug_title": "street-scene-san-diego", "date": "1898-02-12", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

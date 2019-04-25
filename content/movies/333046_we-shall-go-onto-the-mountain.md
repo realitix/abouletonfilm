@@ -1,1 +1,0 @@
-{"tmdb_id": 333046, "title": "We Shall Go Onto the Mountain", "original_title": "Nous irons sur la montagne", "slug_title": "we-shall-go-onto-the-mountain", "date": "1987-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

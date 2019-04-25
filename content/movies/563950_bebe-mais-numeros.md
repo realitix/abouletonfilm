@@ -1,1 +1,0 @@
-{"tmdb_id": 563950, "title": "Beb\u00ea Mais: N\u00fameros", "original_title": "Beb\u00ea Mais: N\u00fameros", "slug_title": "bebe-mais-numeros", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iNoZLrXeqx6v2EL4TBZ0ZUwZCMf.jpg", "actors": [], "comments": [], "recommandations_id": []}

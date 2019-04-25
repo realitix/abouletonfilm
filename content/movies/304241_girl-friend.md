@@ -1,1 +1,1 @@
-{"tmdb_id": 304241, "title": "Girl Friend", "original_title": "Girl Friend", "slug_title": "girl-friend", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 304241, "title": "Girl Friend", "original_title": "Girl Friend", "slug_title": "girl-friend", "date": "1960-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No Overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

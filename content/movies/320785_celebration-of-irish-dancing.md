@@ -1,1 +1,0 @@
-{"tmdb_id": 320785, "title": "Celebration of Irish Dancing", "original_title": "Celebration of Irish Dancing", "slug_title": "celebration-of-irish-dancing", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

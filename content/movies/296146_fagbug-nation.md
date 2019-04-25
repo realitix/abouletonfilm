@@ -1,1 +1,0 @@
-{"tmdb_id": 296146, "title": "Fagbug Nation", "original_title": "Fagbug Nation", "slug_title": "fagbug-nation", "date": "2014-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lWLKoZDrKogtx61x54sb67ywqW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 401506, "title": "Sch\u00fcsse in der Tiefe", "original_title": "Sch\u00fcsse in der Tiefe", "slug_title": "schusse-in-der-tiefe", "date": "1974-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hans Hass (himself)"], "comments": [], "recommandations_id": []}

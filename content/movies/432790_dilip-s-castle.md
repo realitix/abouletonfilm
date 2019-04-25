@@ -1,1 +1,0 @@
-{"tmdb_id": 432790, "title": "Dilip's Castle", "original_title": "Dilip's Castle", "slug_title": "dilip-s-castle", "date": "2014-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cpW62TVBG719op5dX4z1AfIaJyF.jpg", "actors": [], "comments": [], "recommandations_id": []}

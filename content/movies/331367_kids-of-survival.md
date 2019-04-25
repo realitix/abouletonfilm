@@ -1,1 +1,0 @@
-{"tmdb_id": 331367, "title": "Kids of Survival", "original_title": "Kids of Survival", "slug_title": "kids-of-survival", "date": "1996-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

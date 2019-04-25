@@ -1,1 +1,0 @@
-{"tmdb_id": 359778, "title": "Copenhagen Boogie", "original_title": "Copenhagen Boogie", "slug_title": "copenhagen-boogie", "date": "1949-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hYGi00JByyW1EcHaaKFeUd9ZDyi.jpg", "actors": [], "comments": [], "recommandations_id": []}

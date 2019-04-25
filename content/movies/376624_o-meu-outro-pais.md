@@ -1,1 +1,0 @@
-{"tmdb_id": 376624, "title": "O Meu Outro Pa\u00eds", "original_title": "O Meu Outro Pa\u00eds", "slug_title": "o-meu-outro-pais", "date": "2014-12-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

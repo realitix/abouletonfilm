@@ -1,1 +1,0 @@
-{"tmdb_id": 289244, "title": "2012 Baltimore Ravens: Super Bowl XLVII Champions", "original_title": "2012 Baltimore Ravens: Super Bowl XLVII Champions", "slug_title": "2012-baltimore-ravens-super-bowl-xlvii-champions", "date": "2013-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

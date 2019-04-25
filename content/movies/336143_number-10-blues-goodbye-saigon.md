@@ -1,1 +1,0 @@
-{"tmdb_id": 336143, "title": "Number 10 Blues Goodbye Saigon", "original_title": "Number 10 Blues Goodbye Saigon", "slug_title": "number-10-blues-goodbye-saigon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 341093, "title": "Woman Waiting", "original_title": "Woman Waiting", "slug_title": "woman-waiting", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

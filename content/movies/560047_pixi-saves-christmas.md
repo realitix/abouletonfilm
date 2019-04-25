@@ -1,1 +1,0 @@
-{"tmdb_id": 560047, "title": "Pixi Saves Christmas", "original_title": "Pixi Saves Christmas", "slug_title": "pixi-saves-christmas", "date": "2018-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3EdA0nRuZKu2z2IvydGx1Kc334V.jpg", "actors": [], "comments": [], "recommandations_id": []}

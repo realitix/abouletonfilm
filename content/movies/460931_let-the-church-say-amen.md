@@ -1,1 +1,0 @@
-{"tmdb_id": 460931, "title": "Let the Church Say Amen!", "original_title": "Let the Church Say Amen!", "slug_title": "let-the-church-say-amen", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

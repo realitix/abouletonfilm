@@ -1,1 +1,0 @@
-{"tmdb_id": 196624, "title": "L'abeille et la rose", "original_title": "L'abeille et la rose", "slug_title": "l-abeille-et-la-rose", "date": "1908-12-17", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [116363, 119961]}

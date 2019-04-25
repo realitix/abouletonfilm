@@ -1,1 +1,0 @@
-{"tmdb_id": 520870, "title": "Long Shot", "original_title": "Long Shot", "slug_title": "long-shot", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

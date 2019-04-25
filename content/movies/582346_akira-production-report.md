@@ -1,1 +1,0 @@
-{"tmdb_id": 582346, "title": "Akira - Production Report", "original_title": "Akira - Production Report", "slug_title": "akira-production-report", "date": "1991-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h747fnqQjquGw1No7hE4XH4bfEL.jpg", "actors": [], "comments": [], "recommandations_id": []}

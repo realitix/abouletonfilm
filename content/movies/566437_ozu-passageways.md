@@ -1,1 +1,0 @@
-{"tmdb_id": 566437, "title": "Ozu // Passageways", "original_title": "Ozu // Passageways", "slug_title": "ozu-passageways", "date": "2012-12-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dTIW73P7gbjhGvKjKk53DLH7QWq.jpg", "actors": [], "comments": [], "recommandations_id": []}

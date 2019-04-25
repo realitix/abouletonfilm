@@ -1,1 +1,0 @@
-{"tmdb_id": 585328, "title": "Youth Shall Be Served", "original_title": "Youth Shall Be Served", "slug_title": "youth-shall-be-served", "date": "1933-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

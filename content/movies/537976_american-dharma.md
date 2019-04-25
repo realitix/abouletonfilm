@@ -1,1 +1,0 @@
-{"tmdb_id": 537976, "title": "American Dharma", "original_title": "American Dharma", "slug_title": "american-dharma", "date": "2018-09-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ykk7ZOVxmy0robrHntPGbQ1bKBD.jpg", "actors": ["Stephen K. Bannon ()"], "comments": [], "recommandations_id": []}

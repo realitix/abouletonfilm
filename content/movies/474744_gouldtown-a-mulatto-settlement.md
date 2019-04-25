@@ -1,1 +1,0 @@
-{"tmdb_id": 474744, "title": "Gouldtown: A Mulatto Settlement", "original_title": "Gouldtown: A Mulatto Settlement", "slug_title": "gouldtown-a-mulatto-settlement", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

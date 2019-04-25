@@ -1,1 +1,0 @@
-{"tmdb_id": 505998, "title": "True Life Adventures", "original_title": "True Life Adventures", "slug_title": "true-life-adventures", "date": "2018-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

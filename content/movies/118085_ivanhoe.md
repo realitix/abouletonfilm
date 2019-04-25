@@ -1,1 +1,0 @@
-{"tmdb_id": 118085, "title": "Ivanhoe", "original_title": "Ivanhoe", "slug_title": "ivanhoe", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1j3KSToKShUnLLXyZW3Z7zmhWTd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 332582, "title": "Now Now: Jordy Smith", "original_title": "Now Now: Jordy Smith", "slug_title": "now-now-jordy-smith", "date": "2013-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

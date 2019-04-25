@@ -1,1 +1,0 @@
-{"tmdb_id": 504489, "title": "\ubc00\ud06c\ud0f1\ud06c \uc720\ubd80\ub140", "original_title": "\ubc00\ud06c\ud0f1\ud06c \uc720\ubd80\ub140", "slug_title": "milkeutaengkeu-yubunyeo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

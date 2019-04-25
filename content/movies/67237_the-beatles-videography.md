@@ -1,1 +1,0 @@
-{"tmdb_id": 67237, "title": "The Beatles Videography", "original_title": "The Beatles Videography", "slug_title": "the-beatles-videography", "date": "1994-01-29", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y5WXA2O0Eud1Xw0G32m1HPg0u3t.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 430586, "title": "The Invisible City: Kakuma", "original_title": "The Invisible City: Kakuma", "slug_title": "the-invisible-city-kakuma", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/84iwLMqtxNd8giOK8ONjlOSIRJa.jpg", "actors": [], "comments": [], "recommandations_id": []}

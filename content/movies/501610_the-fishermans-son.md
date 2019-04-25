@@ -1,1 +1,0 @@
-{"tmdb_id": 501610, "title": "The Fisherman\u2019s Son", "original_title": "The Fisherman\u2019s Son", "slug_title": "the-fishermans-son", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ttkUsMrLimLtZPjlbtd8J34xDwu.jpg", "actors": [], "comments": [], "recommandations_id": []}

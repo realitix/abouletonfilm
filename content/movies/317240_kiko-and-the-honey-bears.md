@@ -1,1 +1,0 @@
-{"tmdb_id": 317240, "title": "Kiko and the Honey Bears", "original_title": "Kiko and the Honey Bears", "slug_title": "kiko-and-the-honey-bears", "date": "1936-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 582342, "title": "Silicom Valley", "original_title": "Silicom Valley", "slug_title": "silicom-valley", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

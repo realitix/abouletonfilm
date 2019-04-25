@@ -1,1 +1,0 @@
-{"tmdb_id": 340869, "title": "Mi\u0161kais ateina ruduo", "original_title": "Mi\u0161kais ateina ruduo", "slug_title": "miskais-ateina-ruduo", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

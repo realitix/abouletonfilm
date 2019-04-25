@@ -1,1 +1,0 @@
-{"tmdb_id": 247641, "title": "Torre Bela", "original_title": "Torre Bela", "slug_title": "torre-bela", "date": "1975-08-06", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cxZuoV60e14bul4DKxHbhD9CTK0.jpg", "actors": [], "comments": [], "recommandations_id": []}

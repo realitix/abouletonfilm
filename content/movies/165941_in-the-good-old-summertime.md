@@ -1,1 +1,0 @@
-{"tmdb_id": 165941, "title": "In the Good Old Summertime", "original_title": "In the Good Old Summertime", "slug_title": "in-the-good-old-summertime", "date": "1930-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

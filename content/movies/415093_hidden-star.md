@@ -1,1 +1,0 @@
-{"tmdb_id": 415093, "title": "Hidden Star", "original_title": "Hidden Star", "slug_title": "hidden-star", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4QrvbLuRyv1ijpi9F9kfxTaeP3s.jpg", "actors": [], "comments": [], "recommandations_id": []}

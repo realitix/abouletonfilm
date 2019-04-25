@@ -1,1 +1,0 @@
-{"tmdb_id": 578195, "title": "Pohon Keramat", "original_title": "Pohon Keramat", "slug_title": "pohon-keramat", "date": "2015-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nLfGS3yDANrkzv98IjRZSMlxbdP.jpg", "actors": ["Afdhal Yusman ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 354727, "title": "Sighet, Sighet", "original_title": "Sighet, Sighet", "slug_title": "sighet-sighet", "date": "1967-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kP3x80I0Dg9XRZUi0XdPTbUmogG.jpg", "actors": ["Elie Wiesel (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 385973, "title": "Marcelo Moguilevsky: Buey Solo", "original_title": "Marcelo Moguilevsky: Buey Solo", "slug_title": "marcelo-moguilevsky-buey-solo", "date": "2012-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qjeZpryRDRHV892UU5NZ5YdgT2w.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 393949, "title": "Joe's Violin", "original_title": "Joe's Violin", "slug_title": "joe-s-violin", "date": "2016-04-14", "genre": "Documentaire", "score": "5.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eTkznzOCstYXM0OifpziWtLwjU3.jpg", "actors": [], "comments": [], "recommandations_id": [473278, 83581]}

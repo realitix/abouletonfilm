@@ -1,1 +1,0 @@
-{"tmdb_id": 137206, "title": "I Hate Toronto", "original_title": "I Hate Toronto", "slug_title": "i-hate-toronto", "date": "2012-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9sSUV3BxkPy56Q6N8NXeNWKoEcS.jpg", "actors": [], "comments": [], "recommandations_id": []}

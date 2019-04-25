@@ -1,1 +1,0 @@
-{"tmdb_id": 454739, "title": "AAAAA Motion Picture", "original_title": "AAAAA Motion Picture", "slug_title": "aaaaa-motion-picture", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

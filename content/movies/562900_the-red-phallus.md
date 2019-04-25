@@ -1,1 +1,0 @@
-{"tmdb_id": 562900, "title": "The Red Phallus", "original_title": "The Red Phallus", "slug_title": "the-red-phallus", "date": "2019-02-10", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2QmXhV89rSuzXiZB4Ij1MfFUoEW.jpg", "actors": [], "comments": [], "recommandations_id": []}

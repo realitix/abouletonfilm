@@ -1,1 +1,0 @@
-{"tmdb_id": 471885, "title": "The Snow Guardian", "original_title": "The Snow Guardian", "slug_title": "the-snow-guardian", "date": "2016-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Morgan Heim (Narrator)", "Billy Barr ()"], "comments": [], "recommandations_id": []}

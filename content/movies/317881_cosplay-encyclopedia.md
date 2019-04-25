@@ -1,1 +1,0 @@
-{"tmdb_id": 317881, "title": "Cosplay Encyclopedia", "original_title": "Cosplay Encyclopedia", "slug_title": "cosplay-encyclopedia", "date": "1996-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Y59mOsPIUZjgLMdbqy7e5TQMES.jpg", "actors": [], "comments": [], "recommandations_id": []}

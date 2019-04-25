@@ -1,1 +1,0 @@
-{"tmdb_id": 237005, "title": "A Feather in His Collar", "original_title": "A Feather in His Collar", "slug_title": "a-feather-in-his-collar", "date": "1946-08-06", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p64kK9e19Sgev2VlD56vUDxQ4vX.jpg", "actors": [], "comments": [], "recommandations_id": []}

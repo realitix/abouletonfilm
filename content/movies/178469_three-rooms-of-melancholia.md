@@ -1,1 +1,0 @@
-{"tmdb_id": 178469, "title": "Three Rooms of Melancholia", "original_title": "Melancholian 3 Huonetta", "slug_title": "three-rooms-of-melancholia", "date": "2004-12-28", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/medfk16dkIbrjmZl1z0SbmkEA07.jpg", "actors": [], "comments": [], "recommandations_id": [33417]}

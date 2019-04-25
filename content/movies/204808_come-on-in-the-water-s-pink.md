@@ -1,1 +1,0 @@
-{"tmdb_id": 204808, "title": "Come On In! The Water's Pink", "original_title": "Come On In! The Water's Pink", "slug_title": "come-on-in-the-water-s-pink", "date": "1968-04-10", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4izuJesN5y5wHiqthpI4ilVp4UI.jpg", "actors": [], "comments": [], "recommandations_id": []}

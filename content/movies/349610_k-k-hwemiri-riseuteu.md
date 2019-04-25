@@ -1,1 +1,0 @@
-{"tmdb_id": 349610, "title": "K.K. \ud6fc\ubbf8\ub9ac \ub9ac\uc2a4\ud2b8", "original_title": "K.K. \ud6fc\ubbf8\ub9ac \ub9ac\uc2a4\ud2b8", "slug_title": "k-k-hwemiri-riseuteu", "date": "1997-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

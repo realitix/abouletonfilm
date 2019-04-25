@@ -1,1 +1,0 @@
-{"tmdb_id": 489477, "title": "Symphonie D\u00e9chir\u00e9e", "original_title": "Symphonie D\u00e9chir\u00e9e", "slug_title": "symphonie-dechiree", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

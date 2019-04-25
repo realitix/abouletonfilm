@@ -1,1 +1,0 @@
-{"tmdb_id": 319692, "title": "Anthony Robbins: Love & Passion", "original_title": "Anthony Robbins: Love & Passion", "slug_title": "anthony-robbins-love-passion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

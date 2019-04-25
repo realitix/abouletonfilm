@@ -1,1 +1,0 @@
-{"tmdb_id": 561226, "title": "The Last Honey Hunter", "original_title": "The Last Honey Hunter", "slug_title": "the-last-honey-hunter", "date": "2017-12-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Msfnkvarrloelicl7svMQGwYYm.jpg", "actors": [], "comments": [], "recommandations_id": []}

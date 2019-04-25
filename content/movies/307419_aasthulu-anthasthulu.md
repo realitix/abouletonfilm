@@ -1,1 +1,0 @@
-{"tmdb_id": 307419, "title": "Aasthulu Anthasthulu", "original_title": "Aasthulu Anthasthulu", "slug_title": "aasthulu-anthasthulu", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

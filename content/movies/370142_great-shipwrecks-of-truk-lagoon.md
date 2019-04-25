@@ -1,1 +1,0 @@
-{"tmdb_id": 370142, "title": "Great Shipwrecks of Truk Lagoon", "original_title": "Great Shipwrecks of Truk Lagoon", "slug_title": "great-shipwrecks-of-truk-lagoon", "date": "1991-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

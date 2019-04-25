@@ -1,1 +1,0 @@
-{"tmdb_id": 433466, "title": "The Grey Area", "original_title": "The Grey Area", "slug_title": "the-grey-area", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

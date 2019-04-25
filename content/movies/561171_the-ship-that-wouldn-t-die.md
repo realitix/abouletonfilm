@@ -1,1 +1,0 @@
-{"tmdb_id": 561171, "title": "The Ship That Wouldn't Die", "original_title": "The Ship That Wouldn't Die", "slug_title": "the-ship-that-wouldn-t-die", "date": "1945-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John B. Kennedy (Himself / Narrator (voice))"], "comments": [], "recommandations_id": []}

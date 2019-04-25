@@ -1,1 +1,0 @@
-{"tmdb_id": 500456, "title": "Paulistas", "original_title": "Paulistas", "slug_title": "paulistas", "date": "2018-02-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1v0gHIESLptfAywsygLgVACxZiD.jpg", "actors": [], "comments": [], "recommandations_id": []}

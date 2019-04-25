@@ -1,1 +1,0 @@
-{"tmdb_id": 205595, "title": "The Vatican", "original_title": "The Vatican", "slug_title": "the-vatican", "date": "", "genre": "Thriller / Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 235012, "title": "Spree Lunch", "original_title": "Spree Lunch", "slug_title": "spree-lunch", "date": "1957-06-20", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wHxImxFhmcai3OiZhZONz6z3Ccx.jpg", "actors": [], "comments": [], "recommandations_id": [27831, 37358]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 366850, "title": "A Navajo Weaver", "original_title": "A Navajo Weaver", "slug_title": "a-navajo-weaver", "date": "1966-11-06", "genre": "", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b2NZ3Kp94Efvru5zCPlPtLBwZj1.jpg", "actors": [], "comments": [], "recommandations_id": [289849, 255211, 164609, 255219]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 318675, "title": "2008 U.S. Open: A Duel for the Ages", "original_title": "2008 U.S. Open: A Duel for the Ages", "slug_title": "2008-u-s-open-a-duel-for-the-ages", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

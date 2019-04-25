@@ -1,1 +1,0 @@
-{"tmdb_id": 281520, "title": "Rata nece biti!", "original_title": "Rata nece biti!", "slug_title": "rata-nece-biti", "date": "2008-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vF9hAWzxlnr0dXGlLm7wqwW1fOm.jpg", "actors": ["Mohamed Bektic ()", "Jasmina Mameledzhma ()"], "comments": [], "recommandations_id": []}

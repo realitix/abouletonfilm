@@ -1,1 +1,0 @@
-{"tmdb_id": 32003, "title": "The Caretaker", "original_title": "The Caretaker", "slug_title": "the-caretaker", "date": "2008-01-01", "genre": "Horreur", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mryE6EQ3SzssxBI6piDOuRETCpv.jpg", "actors": [], "comments": [], "recommandations_id": [168885]}

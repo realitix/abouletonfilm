@@ -1,1 +1,0 @@
-{"tmdb_id": 309113, "title": "The Rhythm of My Soul: Kentucky Roots Music", "original_title": "The Rhythm of My Soul: Kentucky Roots Music", "slug_title": "the-rhythm-of-my-soul-kentucky-roots-music", "date": "2006-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

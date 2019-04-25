@@ -1,1 +1,0 @@
-{"tmdb_id": 512284, "title": "Pashmy Dreams", "original_title": "Pashmy Dreams", "slug_title": "pashmy-dreams", "date": "2008-01-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gwyneth Paltrow (Gwyneth Paltrow)", "Daniele Savoca (Daniele)"], "comments": [], "recommandations_id": []}

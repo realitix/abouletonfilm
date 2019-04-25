@@ -1,1 +1,0 @@
-{"tmdb_id": 96816, "title": "Being Bradford Dillman", "original_title": "Being Bradford Dillman", "slug_title": "being-bradford-dillman", "date": "2011-10-16", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iCyq3ExGIj6IHwMOoLFq7Tt7X3y.jpg", "actors": [], "comments": [], "recommandations_id": []}

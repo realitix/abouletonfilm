@@ -1,1 +1,0 @@
-{"tmdb_id": 559686, "title": "Tomorrow We Get Divorced", "original_title": "Demain nous divor\u00e7ons", "slug_title": "tomorrow-we-get-divorced", "date": "1951-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/989czhvnOAKAYoWwEdhUWDDm7Bg.jpg", "actors": [], "comments": [], "recommandations_id": []}

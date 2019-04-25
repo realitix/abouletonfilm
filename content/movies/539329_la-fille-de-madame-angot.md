@@ -1,1 +1,0 @@
-{"tmdb_id": 539329, "title": "La fille de Madame Angot", "original_title": "La fille de Madame Angot", "slug_title": "la-fille-de-madame-angot", "date": "1935-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qG25OgxfTVy5Iyh7ozc5A0nWc3F.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 358968, "title": "The H-Bomb", "original_title": "The H-Bomb", "slug_title": "the-h-bomb", "date": "1956-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 358968, "title": "The H-Bomb", "original_title": "The H-Bomb", "slug_title": "the-h-bomb", "date": "1956-01-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

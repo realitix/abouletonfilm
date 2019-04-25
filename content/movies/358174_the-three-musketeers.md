@@ -1,1 +1,0 @@
-{"tmdb_id": 358174, "title": "The Three Musketeers", "original_title": "The Three Musketeers", "slug_title": "the-three-musketeers", "date": "1992-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nn188og1V7hd4OrgxO880y6vINy.jpg", "actors": [], "comments": [], "recommandations_id": []}

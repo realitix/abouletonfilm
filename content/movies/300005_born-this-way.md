@@ -1,1 +1,0 @@
-{"tmdb_id": 300005, "title": "Born this Way", "original_title": "Born this Way", "slug_title": "born-this-way", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

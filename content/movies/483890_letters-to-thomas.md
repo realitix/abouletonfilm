@@ -1,1 +1,0 @@
-{"tmdb_id": 483890, "title": "Letters to Thomas", "original_title": "Letters to Thomas", "slug_title": "letters-to-thomas", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Linklater (Himself)", "Caveh Zahedi (Himself)"], "comments": [], "recommandations_id": []}

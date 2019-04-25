@@ -1,1 +1,0 @@
-{"tmdb_id": 394375, "title": "Sharh\u00e9-Hal\u00e9 Shakhsi: M. Rankin", "original_title": "Sharh\u00e9-Hal\u00e9 Shakhsi: M. Rankin", "slug_title": "sharhe-hale-shakhsi-m-rankin", "date": "2008-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

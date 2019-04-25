@@ -1,1 +1,0 @@
-{"tmdb_id": 476297, "title": "The Traveler from the South", "original_title": "Mosafere jonub", "slug_title": "the-traveler-from-the-south", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k9fSdB3fUyOAbuynELuqM4GG1LS.jpg", "actors": [], "comments": [], "recommandations_id": []}

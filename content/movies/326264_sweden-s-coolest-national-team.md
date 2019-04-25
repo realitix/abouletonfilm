@@ -1,1 +1,0 @@
-{"tmdb_id": 326264, "title": "Sweden's Coolest National Team", "original_title": "Sveriges coolaste landslag", "slug_title": "sweden-s-coolest-national-team", "date": "2015-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 467658, "title": "Occupation", "original_title": "\u041e\u043a\u0443\u043f\u0430\u0446i\u044f", "slug_title": "occupation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/emlr9sbG2D4AxUqtFTDAfygOoPn.jpg", "actors": [], "comments": [], "recommandations_id": []}

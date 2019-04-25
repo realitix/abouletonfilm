@@ -1,1 +1,0 @@
-{"tmdb_id": 391732, "title": "Die Tricks der Planzen", "original_title": "Die Tricks der Planzen", "slug_title": "die-tricks-der-planzen", "date": "2010-04-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dWdvNP0XPGYFoV5qPquzm1YeVpd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 557881, "title": "Life of An Outcast", "original_title": "Life of An Outcast", "slug_title": "life-of-an-outcast", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oFtuogIlEKcydX0I1nXK9WtbgKx.jpg", "actors": [], "comments": [], "recommandations_id": []}

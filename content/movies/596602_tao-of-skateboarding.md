@@ -1,1 +1,0 @@
-{"tmdb_id": 596602, "title": "Tao of Skateboarding", "original_title": "Tao of Skateboarding", "slug_title": "tao-of-skateboarding", "date": "2003-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/psDor5ptdLXPbr9Srz7mmNFWWSe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 517199, "title": "Awesome Assets", "original_title": "Awesome Assets", "slug_title": "awesome-assets", "date": "1987-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

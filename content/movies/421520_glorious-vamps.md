@@ -1,1 +1,0 @@
-{"tmdb_id": 421520, "title": "Glorious Vamps", "original_title": "Glorious Vamps", "slug_title": "glorious-vamps", "date": "1930-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 289866, "title": "Romeo Misses a Payment", "original_title": "Romeo Misses a Payment", "slug_title": "romeo-misses-a-payment", "date": "2013-12-13", "genre": "Familial / Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

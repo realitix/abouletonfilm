@@ -1,1 +1,0 @@
-{"tmdb_id": 470792, "title": "Un alpino della settima", "original_title": "Un alpino della settima", "slug_title": "un-alpino-della-settima", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9K5OrLDxHyncGDWJASmTQHa0VSP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 473076, "title": "CTW 68 - Global Disturbance V", "original_title": "CTW 68 - Global Disturbance V", "slug_title": "ctw-68-global-disturbance-v", "date": "2012-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9VQLvTdaVr7Wymi1B18eoDxxsMt.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 537839, "title": "Spherical Space No. 1", "original_title": "Spherical Space No. 1", "slug_title": "spherical-space-no-1", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kWDMqyxk4aTX4GpkcVW1KTQSvcG.jpg", "actors": [], "comments": [], "recommandations_id": []}

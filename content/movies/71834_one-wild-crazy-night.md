@@ -1,1 +1,0 @@
-{"tmdb_id": 71834, "title": "One Wild & Crazy Night", "original_title": "One Wild & Crazy Night", "slug_title": "one-wild-crazy-night", "date": "2008-10-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2gkmgpD4UOyVq8utJ6UR0rhMMMz.jpg", "actors": [], "comments": [], "recommandations_id": []}

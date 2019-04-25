@@ -1,1 +1,0 @@
-{"tmdb_id": 49376, "title": "Free Agent", "original_title": "Free Agent", "slug_title": "free-agent", "date": "", "genre": "", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qQJoHZjiQ7ec1c5TFUVInrjWUAc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 378182, "title": "The Mighty Saturns", "original_title": "The Mighty Saturns", "slug_title": "the-mighty-saturns", "date": "2004-01-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/brSnsJXFapEniH0TyaBVZtshLGn.jpg", "actors": [], "comments": [], "recommandations_id": []}

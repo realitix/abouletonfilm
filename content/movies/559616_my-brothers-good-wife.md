@@ -1,1 +1,0 @@
-{"tmdb_id": 559616, "title": "My Brother\u2019s Good Wife", "original_title": "My Brother\u2019s Good Wife", "slug_title": "my-brothers-good-wife", "date": "2018-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/afaDltGawQWb6u1ZI3X73YAJvuK.jpg", "actors": [], "comments": [], "recommandations_id": []}

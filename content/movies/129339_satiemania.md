@@ -1,1 +1,0 @@
-{"tmdb_id": 129339, "title": "Satiemania", "original_title": "Satiemania", "slug_title": "satiemania", "date": "1978-09-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7SLSxRowUxTOcUNqKMDrxLEmutJ.jpg", "actors": [], "comments": [], "recommandations_id": [129394, 215160, 236063, 183718]}

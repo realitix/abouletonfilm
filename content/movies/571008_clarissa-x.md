@@ -1,1 +1,0 @@
-{"tmdb_id": 571008, "title": "Clarissa X", "original_title": "Clarissa X", "slug_title": "clarissa-x", "date": "", "genre": "Thriller / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lFN6sp1OacuJZMJkoAtOJ80F4O4.jpg", "actors": ["Ted Raimi ()"], "comments": [], "recommandations_id": []}

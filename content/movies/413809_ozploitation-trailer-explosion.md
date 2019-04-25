@@ -1,1 +1,0 @@
-{"tmdb_id": 413809, "title": "Ozploitation Trailer Explosion", "original_title": "Ozploitation Trailer Explosion", "slug_title": "ozploitation-trailer-explosion", "date": "2014-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/XRDNHT1a4iGF1juTjB3qSzTwFB.jpg", "actors": [], "comments": [], "recommandations_id": []}

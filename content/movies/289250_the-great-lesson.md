@@ -1,1 +1,0 @@
-{"tmdb_id": 289250, "title": "The Great Lesson", "original_title": "The Great Lesson", "slug_title": "the-great-lesson", "date": "2012-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

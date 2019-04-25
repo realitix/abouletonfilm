@@ -1,1 +1,0 @@
-{"tmdb_id": 530534, "title": "The Art of the Burlesque", "original_title": "The Art of the Burlesque", "slug_title": "the-art-of-the-burlesque", "date": "1950-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

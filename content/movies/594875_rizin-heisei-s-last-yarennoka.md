@@ -1,1 +1,0 @@
-{"tmdb_id": 594875, "title": "Rizin - Heisei's Last Yarennoka!", "original_title": "Rizin - Heisei's Last Yarennoka!", "slug_title": "rizin-heisei-s-last-yarennoka", "date": "2018-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

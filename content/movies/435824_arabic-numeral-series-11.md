@@ -1,1 +1,0 @@
-{"tmdb_id": 435824, "title": "Arabic Numeral Series 11", "original_title": "Arabic Numeral Series 11", "slug_title": "arabic-numeral-series-11", "date": "1981-01-18", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wYPL8G0ED9qDaymi8zQTnmFLocj.jpg", "actors": [], "comments": [], "recommandations_id": []}

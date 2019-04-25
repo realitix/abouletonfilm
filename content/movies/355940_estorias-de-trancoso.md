@@ -1,1 +1,0 @@
-{"tmdb_id": 355940, "title": "Est\u00f3rias de Trancoso", "original_title": "Est\u00f3rias de Trancoso", "slug_title": "estorias-de-trancoso", "date": "2007-11-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/agtxegse0KbSC8QyRX1wiQPnoeT.jpg", "actors": [], "comments": [], "recommandations_id": []}

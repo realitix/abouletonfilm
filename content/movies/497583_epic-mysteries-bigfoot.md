@@ -1,1 +1,0 @@
-{"tmdb_id": 497583, "title": "Epic Mysteries: Bigfoot", "original_title": "Epic Mysteries: Bigfoot", "slug_title": "epic-mysteries-bigfoot", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vsJlseoxi5LZnLIIakY3NaAuXvY.jpg", "actors": [], "comments": [], "recommandations_id": []}

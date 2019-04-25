@@ -1,1 +1,0 @@
-{"tmdb_id": 226906, "title": "The Hall-Room Girls", "original_title": "The Hall-Room Girls", "slug_title": "the-hall-room-girls", "date": "1913-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pearl White (Pearl)", "Chester Barnett (Chester)", "Joseph Belmont (Joe)"], "comments": [], "recommandations_id": []}

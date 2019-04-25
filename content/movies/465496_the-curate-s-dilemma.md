@@ -1,1 +1,0 @@
-{"tmdb_id": 465496, "title": "The Curate's Dilemma", "original_title": "The Curate's Dilemma", "slug_title": "the-curate-s-dilemma", "date": "1906-05-31", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 426153, "title": "10 Jahre Eurofighter", "original_title": "10 Jahre Eurofighter", "slug_title": "10-jahre-eurofighter", "date": "2006-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l7TKZeqO3oyktxEFf3EG8eiDoli.jpg", "actors": [], "comments": [], "recommandations_id": []}

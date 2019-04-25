@@ -1,1 +1,0 @@
-{"tmdb_id": 326135, "title": "Book of Lore", "original_title": "Book of Lore", "slug_title": "book-of-lore", "date": "2007-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ynSNvj54yobMfU7hYy4Jr5R6XLR.jpg", "actors": [], "comments": [], "recommandations_id": []}

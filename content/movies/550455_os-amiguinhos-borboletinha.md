@@ -1,1 +1,0 @@
-{"tmdb_id": 550455, "title": "Os Amiguinhos - Borboletinha", "original_title": "Os Amiguinhos - Borboletinha", "slug_title": "os-amiguinhos-borboletinha", "date": "2016-09-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aaJwtgwTmkRQatXn0ZN0V5hQSjm.jpg", "actors": [], "comments": [], "recommandations_id": []}

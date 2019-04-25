@@ -1,1 +1,0 @@
-{"tmdb_id": 483536, "title": "Listen, Baxter", "original_title": "Listen, Baxter", "slug_title": "listen-baxter", "date": "2015-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gpgt41mZFNErKinQ8vjQoqGBiGa.jpg", "actors": ["Jacob Riddle (Worker)"], "comments": [], "recommandations_id": []}

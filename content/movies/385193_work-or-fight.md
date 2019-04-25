@@ -1,1 +1,0 @@
-{"tmdb_id": 385193, "title": "Work or Fight", "original_title": "Work or Fight", "slug_title": "work-or-fight", "date": "1918-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

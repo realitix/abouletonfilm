@@ -1,1 +1,0 @@
-{"tmdb_id": 446780, "title": "The Nomadic Who?", "original_title": "The Nomadic Who?", "slug_title": "the-nomadic-who", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/368RGP9kaV7bxLndty9ThJaFaOn.jpg", "actors": [], "comments": [], "recommandations_id": []}

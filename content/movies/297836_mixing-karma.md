@@ -1,1 +1,0 @@
-{"tmdb_id": 297836, "title": "Mixing Karma", "original_title": "Mixing Karma", "slug_title": "mixing-karma", "date": "2009-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

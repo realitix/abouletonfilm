@@ -1,1 +1,0 @@
-{"tmdb_id": 424313, "title": "The Sandman", "original_title": "The Sandman", "slug_title": "the-sandman", "date": "2000-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mrGQpylyMtXX47pW0k7Jmp33EEa.jpg", "actors": [], "comments": [], "recommandations_id": []}

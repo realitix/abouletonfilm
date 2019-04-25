@@ -1,1 +1,0 @@
-{"tmdb_id": 520819, "title": "A Day's Work", "original_title": "A Day's Work", "slug_title": "a-day-s-work", "date": "2008-01-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

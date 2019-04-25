@@ -1,1 +1,0 @@
-{"tmdb_id": 515108, "title": "Battle for the light", "original_title": "Battle for the light", "slug_title": "battle-for-the-light", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

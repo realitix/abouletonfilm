@@ -1,1 +1,0 @@
-{"tmdb_id": 279446, "title": "Vivekananda", "original_title": "Vivekananda", "slug_title": "vivekananda", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 594212, "title": "A Car Moves By Water", "original_title": "\ub9f9\ubb3c\ub85c \uac00\ub294 \uc790\ub3d9\ucc28", "slug_title": "a-car-moves-by-water", "date": "1974-03-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shin Il-ryong ()", "Oh Su-mi ()"], "comments": [], "recommandations_id": []}

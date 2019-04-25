@@ -1,1 +1,0 @@
-{"tmdb_id": 325660, "title": "Troublemakers", "original_title": "Troublemakers", "slug_title": "troublemakers", "date": "1966-12-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xAZ4NXMLRdt7T2QiTrEg8gexWfx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 374137, "title": "Alice Plays Cupid", "original_title": "Alice Plays Cupid", "slug_title": "alice-plays-cupid", "date": "1925-10-14", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xmTeXzH1ymnEUQuQ4ejCImm68eq.jpg", "actors": ["Margie Gay (Alice)"], "comments": [], "recommandations_id": []}

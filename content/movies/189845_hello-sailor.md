@@ -1,1 +1,0 @@
-{"tmdb_id": 189845, "title": "Hello Sailor", "original_title": "Hello Sailor", "slug_title": "hello-sailor", "date": "1927-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lupino Lane (The Sailor)", "Wallace Lupino (The Sailor's Shipmate)"], "comments": [], "recommandations_id": []}

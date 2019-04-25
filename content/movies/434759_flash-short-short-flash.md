@@ -1,1 +1,0 @@
-{"tmdb_id": 434759, "title": "Flash Short/Short Flash", "original_title": "Flash Short/Short Flash", "slug_title": "flash-short-short-flash", "date": "2016-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

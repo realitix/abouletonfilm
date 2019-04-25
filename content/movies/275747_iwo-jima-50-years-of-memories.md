@@ -1,1 +1,0 @@
-{"tmdb_id": 275747, "title": "Iwo Jima: 50 Years of Memories", "original_title": "Iwo Jima: 50 Years of Memories", "slug_title": "iwo-jima-50-years-of-memories", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

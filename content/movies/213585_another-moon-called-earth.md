@@ -1,1 +1,0 @@
-{"tmdb_id": 213585, "title": "Another Moon Called Earth", "original_title": "Another Moon Called Earth", "slug_title": "another-moon-called-earth", "date": "1967-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

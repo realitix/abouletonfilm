@@ -1,1 +1,0 @@
-{"tmdb_id": 563238, "title": "Reality Check", "original_title": "Reality Check", "slug_title": "reality-check", "date": "2004-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A8o92pWoi2bdBaKSAgWV8qFy6z2.jpg", "actors": [], "comments": [], "recommandations_id": []}

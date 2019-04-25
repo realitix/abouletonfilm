@@ -1,1 +1,0 @@
-{"tmdb_id": 337833, "title": "Tiger Rose", "original_title": "Tiger Rose", "slug_title": "tiger-rose", "date": "1929-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3a75GllHpnUSBP05wrcyKs1PlRo.jpg", "actors": ["Rin-Tin-Tin ()", "Lupe V\u00e9lez ()"], "comments": [], "recommandations_id": []}

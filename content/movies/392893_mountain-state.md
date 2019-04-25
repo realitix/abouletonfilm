@@ -1,1 +1,0 @@
-{"tmdb_id": 392893, "title": "Mountain State", "original_title": "Mountain State", "slug_title": "mountain-state", "date": "2003-04-15", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/siABae3A0p55l5rKjG2RdSzR4M9.jpg", "actors": [], "comments": [], "recommandations_id": []}

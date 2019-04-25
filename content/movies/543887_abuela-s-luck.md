@@ -1,1 +1,0 @@
-{"tmdb_id": 543887, "title": "Abuela's Luck", "original_title": "Abuela's Luck", "slug_title": "abuela-s-luck", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cEvEdBwpuYne4DjdUB5t9gDxlLi.jpg", "actors": [], "comments": [], "recommandations_id": []}

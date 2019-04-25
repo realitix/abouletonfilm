@@ -1,1 +1,0 @@
-{"tmdb_id": 406776, "title": "Satie's \"Parade\"", "original_title": "\"Parade\"  de Satie", "slug_title": "satie-s-parade", "date": "2016-06-13", "genre": "Animation / Musique", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ntA0BZW5oH5Nw2LulqdU1sbKJAJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

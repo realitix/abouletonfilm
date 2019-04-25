@@ -1,1 +1,0 @@
-{"tmdb_id": 298495, "title": "Fine Feathers", "original_title": "Fine Feathers", "slug_title": "fine-feathers", "date": "1968-01-01", "genre": "Animation", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c7TieaFgpCq1fH0Qa9zZBH91dCP.jpg", "actors": [], "comments": [], "recommandations_id": []}

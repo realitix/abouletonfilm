@@ -1,1 +1,0 @@
-{"tmdb_id": 426501, "title": "La voix humaine", "original_title": "La voix humaine", "slug_title": "la-voix-humaine", "date": "1990-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dm5obn7I0IUa6kfDM7BUx4WfS7w.jpg", "actors": ["Julia Migenes (Une femme)"], "comments": [], "recommandations_id": []}

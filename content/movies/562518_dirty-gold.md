@@ -1,1 +1,0 @@
-{"tmdb_id": 562518, "title": "Dirty Gold", "original_title": "Dirty Gold", "slug_title": "dirty-gold", "date": "2014-05-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kathi Lynn Austin (Herself - Expert Commentator)", "J\u00e9r\u00f4me Sesquin (Himself - Host)"], "comments": [], "recommandations_id": []}

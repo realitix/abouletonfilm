@@ -1,1 +1,0 @@
-{"tmdb_id": 258912, "title": "Adhinetha", "original_title": "Adhinetha", "slug_title": "adhinetha", "date": "2009-04-24", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/unXHnvsox5Wsm3qtO7ROxHX7eMN.jpg", "actors": ["Jagapati Babu (Suribabu)", "Hamsha Nandini (Hamsa)"], "comments": [], "recommandations_id": []}

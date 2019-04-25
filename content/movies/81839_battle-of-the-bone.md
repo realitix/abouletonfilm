@@ -1,1 +1,0 @@
-{"tmdb_id": 81839, "title": "Battle of the Bone", "original_title": "Battle of the Bone", "slug_title": "battle-of-the-bone", "date": "2008-10-19", "genre": "Horreur / Action", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lXALv1rokcDfxfDhjQkWKMYgdnR.jpg", "actors": [], "comments": [], "recommandations_id": []}

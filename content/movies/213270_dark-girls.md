@@ -1,1 +1,0 @@
-{"tmdb_id": 213270, "title": "Dark Girls", "original_title": "Dark Girls", "slug_title": "dark-girls", "date": "2011-11-17", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vOlyRfoADSDID3GWRFIAmkmr6zh.jpg", "actors": [], "comments": [], "recommandations_id": [15450, 16710]}

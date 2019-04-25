@@ -1,1 +1,0 @@
-{"tmdb_id": 326763, "title": "Kangaroo Kid", "original_title": "Kangaroo Kid", "slug_title": "kangaroo-kid", "date": "1938-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

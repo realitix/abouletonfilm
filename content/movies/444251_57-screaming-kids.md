@@ -1,1 +1,0 @@
-{"tmdb_id": 444251, "title": "57 Screaming Kids", "original_title": "57 Screaming Kids", "slug_title": "57-screaming-kids", "date": "2001-05-15", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Screamin' Jay Hawkins (Himself (archive footage))"], "comments": [], "recommandations_id": []}

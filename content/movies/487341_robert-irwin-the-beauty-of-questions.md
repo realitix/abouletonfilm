@@ -1,1 +1,0 @@
-{"tmdb_id": 487341, "title": "Robert Irwin : the beauty of questions", "original_title": "Robert Irwin : the beauty of questions", "slug_title": "robert-irwin-the-beauty-of-questions", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Irwin (Self)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 394699, "title": "Trashy Town", "original_title": "Trashy Town", "slug_title": "trashy-town", "date": "1999-02-27", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/efgGEqRGdiayf4FpBOs6N4zb1KZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

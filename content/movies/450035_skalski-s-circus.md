@@ -1,1 +1,0 @@
-{"tmdb_id": 450035, "title": "Skalski's Circus", "original_title": "Cyrk Skalskiego", "slug_title": "skalski-s-circus", "date": "1986-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 231981, "title": "Rural Wagon Giving Mail to Branch, U.S.P.O.", "original_title": "Rural Wagon Giving Mail to Branch, U.S.P.O.", "slug_title": "rural-wagon-giving-mail-to-branch-u-s-p-o", "date": "1903-08-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

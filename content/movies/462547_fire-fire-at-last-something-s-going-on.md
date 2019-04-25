@@ -1,1 +1,0 @@
-{"tmdb_id": 462547, "title": "Fire, Fire, at Last Something's Going On", "original_title": "Pozar! Pozar! Cos nareszcie dzieje sie", "slug_title": "fire-fire-at-last-something-s-going-on", "date": "1967-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

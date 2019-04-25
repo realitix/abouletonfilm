@@ -1,1 +1,0 @@
-{"tmdb_id": 292866, "title": "Anthem for a Dying Breed", "original_title": "Anthem for a Dying Breed", "slug_title": "anthem-for-a-dying-breed", "date": "2012-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vNSRLaKmY6arbLR1eCI1zXT28yz.jpg", "actors": [], "comments": [], "recommandations_id": []}

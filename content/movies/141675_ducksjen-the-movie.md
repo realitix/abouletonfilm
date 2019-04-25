@@ -1,1 +1,0 @@
-{"tmdb_id": 141675, "title": "Ducksjen the Movie", "original_title": "Ducksjen the Movie", "slug_title": "ducksjen-the-movie", "date": "2010-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1XFnEQ8yn14HdWDzIXDtsXQVdjZ.jpg", "actors": ["Kasper H\u00e4ggstr\u00f8m (Himself)"], "comments": [], "recommandations_id": []}

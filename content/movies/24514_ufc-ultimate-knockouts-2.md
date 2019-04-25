@@ -1,1 +1,0 @@
-{"tmdb_id": 24514, "title": "UFC Ultimate Knockouts 2", "original_title": "UFC Ultimate Knockouts 2", "slug_title": "ufc-ultimate-knockouts-2", "date": "2003-12-16", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/44vfuSfC8KsGgpfl6SHRUt722rf.jpg", "actors": [], "comments": [], "recommandations_id": []}

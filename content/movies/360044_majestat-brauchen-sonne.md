@@ -1,1 +1,0 @@
-{"tmdb_id": 360044, "title": "Majest\u00e4t brauchen Sonne", "original_title": "Majest\u00e4t brauchen Sonne", "slug_title": "majestat-brauchen-sonne", "date": "1999-10-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mP8MogFjuMW6wgcxuGdIHTdJTF3.jpg", "actors": [], "comments": [], "recommandations_id": []}

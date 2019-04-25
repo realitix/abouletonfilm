@@ -1,1 +1,0 @@
-{"tmdb_id": 125927, "title": "The Anderson Monarchs", "original_title": "The Anderson Monarchs", "slug_title": "the-anderson-monarchs", "date": "2013-05-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kExBgy6TfaeP8T0OERTHKzcU4tL.jpg", "actors": [], "comments": [], "recommandations_id": []}

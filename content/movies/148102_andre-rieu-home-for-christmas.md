@@ -1,1 +1,0 @@
-{"tmdb_id": 148102, "title": "Andre Rieu: Home For Christmas", "original_title": "Andre Rieu: Home For Christmas", "slug_title": "andre-rieu-home-for-christmas", "date": "2012-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1UcdOc6lIzKC3tx6txagAR9bFcx.jpg", "actors": [], "comments": [], "recommandations_id": []}

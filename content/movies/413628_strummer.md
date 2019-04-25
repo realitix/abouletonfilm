@@ -1,1 +1,0 @@
-{"tmdb_id": 413628, "title": "Strummer", "original_title": "Strummer", "slug_title": "strummer", "date": "1993-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Strummer ()", "Sara Driver ()", "Jim Jarmusch ()"], "comments": [], "recommandations_id": []}

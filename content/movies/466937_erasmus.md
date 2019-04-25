@@ -1,1 +1,0 @@
-{"tmdb_id": 466937, "title": "Erasmus", "original_title": "Erasmus", "slug_title": "erasmus", "date": "2016-12-02", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qVI3xL9Yf7MnGiu12NwQT45CVvB.jpg", "actors": [], "comments": [], "recommandations_id": []}

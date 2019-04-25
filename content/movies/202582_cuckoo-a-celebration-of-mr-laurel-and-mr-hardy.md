@@ -1,1 +1,0 @@
-{"tmdb_id": 202582, "title": "Cuckoo: A Celebration of Mr. Laurel and Mr. Hardy", "original_title": "Cuckoo: A Celebration of Mr. Laurel and Mr. Hardy", "slug_title": "cuckoo-a-celebration-of-mr-laurel-and-mr-hardy", "date": "1974-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

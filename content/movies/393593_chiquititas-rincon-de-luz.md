@@ -1,1 +1,0 @@
-{"tmdb_id": 393593, "title": "Chiquititas: Rinc\u00f3n de Luz", "original_title": "Chiquititas: Rinc\u00f3n de Luz", "slug_title": "chiquititas-rincon-de-luz", "date": "2001-07-12", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qZQOh1oqqliH80xI2JmDxjwxeK8.jpg", "actors": [], "comments": [], "recommandations_id": []}

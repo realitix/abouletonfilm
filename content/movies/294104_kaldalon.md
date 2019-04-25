@@ -1,1 +1,0 @@
-{"tmdb_id": 294104, "title": "Kaldalon", "original_title": "Kaldalon", "slug_title": "kaldalon", "date": "1971-03-23", "genre": "", "score": "8.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jsULBTFmERHs20dfGecwhhxu0WA.jpg", "actors": [], "comments": [], "recommandations_id": [238623]}

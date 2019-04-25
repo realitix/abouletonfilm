@@ -1,1 +1,0 @@
-{"tmdb_id": 419075, "title": "Sam and Me", "original_title": "Sam and Me", "slug_title": "sam-and-me", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kHUYBIqjoAqEJewPsnzpDnvJW17.jpg", "actors": [], "comments": [], "recommandations_id": []}

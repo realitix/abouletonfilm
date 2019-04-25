@@ -1,1 +1,0 @@
-{"tmdb_id": 95649, "title": "Ramses", "original_title": "Ramses", "slug_title": "ramses", "date": "2002-10-17", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e334dzgnASm15TyQz4FYoVxc7Db.jpg", "actors": [], "comments": [], "recommandations_id": []}

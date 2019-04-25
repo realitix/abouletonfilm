@@ -1,1 +1,0 @@
-{"tmdb_id": 353047, "title": "Who the F*@% Is Frank Zappa?", "original_title": "Who the F*@% Is Frank Zappa?", "slug_title": "who-the-f-is-frank-zappa", "date": "", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frank Zappa (Himself)"], "comments": [], "recommandations_id": []}

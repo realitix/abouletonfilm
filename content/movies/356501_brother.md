@@ -1,1 +1,0 @@
-{"tmdb_id": 356501, "title": "Brother", "original_title": "Brother", "slug_title": "brother", "date": "2012-06-09", "genre": "Animation / Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

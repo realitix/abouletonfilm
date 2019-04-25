@@ -1,1 +1,0 @@
-{"tmdb_id": 236528, "title": "Officer Pooch", "original_title": "Officer Pooch", "slug_title": "officer-pooch", "date": "1941-09-06", "genre": "Animation / Com\u00e9die / Familial", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/owt9VMuKcTSxtnmTUtscykzhOXI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 252228, "title": "How to Dance the Shag", "original_title": "How to Dance the Shag", "slug_title": "how-to-dance-the-shag", "date": "1937-12-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Murray (Himself)"], "comments": [], "recommandations_id": []}

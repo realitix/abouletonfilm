@@ -1,1 +1,0 @@
-{"tmdb_id": 420715, "title": "Sur le quai", "original_title": "Sur le quai", "slug_title": "sur-le-quai", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vHdPZnDRjugUmfuBQXL6Q1teK2m.jpg", "actors": [], "comments": [], "recommandations_id": []}

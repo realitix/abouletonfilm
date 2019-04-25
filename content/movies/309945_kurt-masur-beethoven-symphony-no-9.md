@@ -1,1 +1,0 @@
-{"tmdb_id": 309945, "title": "Kurt Masur: Beethoven: Symphony No. 9", "original_title": "Kurt Masur: Beethoven: Symphony No. 9", "slug_title": "kurt-masur-beethoven-symphony-no-9", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

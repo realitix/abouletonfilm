@@ -1,1 +1,0 @@
-{"tmdb_id": 304256, "title": "Kinare Kinare", "original_title": "Kinare Kinare", "slug_title": "kinare-kinare", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5z4hYWMbBQhohb41N2GIrWEKxCi.jpg", "actors": ["Dev Anand ()", "Meena Kumari ()"], "comments": [], "recommandations_id": []}

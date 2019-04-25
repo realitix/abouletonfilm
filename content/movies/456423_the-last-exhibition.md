@@ -1,1 +1,0 @@
-{"tmdb_id": 456423, "title": "The Last Exhibition", "original_title": "The Last Exhibition", "slug_title": "the-last-exhibition", "date": "2016-05-01", "genre": "Science-Fiction / Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sGFfIRi0QMcowmo988JVJlEPE9k.jpg", "actors": [], "comments": [], "recommandations_id": []}

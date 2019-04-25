@@ -1,1 +1,0 @@
-{"tmdb_id": 351025, "title": "Burlesque", "original_title": "Burlesque", "slug_title": "burlesque", "date": "1932-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

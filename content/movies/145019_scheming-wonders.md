@@ -1,1 +1,0 @@
-{"tmdb_id": 145019, "title": "Scheming Wonders", "original_title": "\u8cca\u8056", "slug_title": "scheming-wonders", "date": "1991-08-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ebY6iLeae3PHA1jMxyRtlAqG3Ik.jpg", "actors": ["Conan Lee ()"], "comments": [], "recommandations_id": []}

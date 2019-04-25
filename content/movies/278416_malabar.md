@@ -1,1 +1,0 @@
-{"tmdb_id": 278416, "title": "Malabar", "original_title": "Malabar", "slug_title": "malabar", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

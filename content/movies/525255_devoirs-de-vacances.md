@@ -1,1 +1,0 @@
-{"tmdb_id": 525255, "title": "Devoirs de vacances", "original_title": "Devoirs de vacances", "slug_title": "devoirs-de-vacances", "date": "1920-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 338949, "title": "Metal Gear Solid", "original_title": "Metal Gear Solid", "slug_title": "metal-gear-solid", "date": "", "genre": "Science-Fiction / Action / Aventure / Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vmimYFu6g8U2n8J0n9djPmtAhJQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 339769, "title": "Bete & Deise", "original_title": "Bete & Deise", "slug_title": "bete-deise", "date": "2012-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nh414C63KxkPudNSdyi4vuqc6Ti.jpg", "actors": ["Bete Mendes (Herself)", "Deise Tigrona (Herself)"], "comments": [], "recommandations_id": []}

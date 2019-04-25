@@ -1,1 +1,0 @@
-{"tmdb_id": 49606, "title": "The Tangerine Dream", "original_title": "The Tangerine Dream", "slug_title": "the-tangerine-dream", "date": "2005-09-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dQNyCyg18iGDaE7OW0HG71gxBeF.jpg", "actors": [], "comments": [], "recommandations_id": []}

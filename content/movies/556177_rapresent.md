@@ -1,1 +1,0 @@
-{"tmdb_id": 556177, "title": "Rapresent", "original_title": "Rapresent", "slug_title": "rapresent", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/68O15FV7CIYXsbitO6nEHApd2iJ.jpg", "actors": ["Bojan Radanov (Himself)"], "comments": [], "recommandations_id": []}

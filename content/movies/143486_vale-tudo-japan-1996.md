@@ -1,1 +1,0 @@
-{"tmdb_id": 143486, "title": "Vale Tudo Japan 1996", "original_title": "Vale Tudo Japan 1996", "slug_title": "vale-tudo-japan-1996", "date": "1996-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gP3L4YOBuLBxq8pI1AT5DlWkwPd.jpg", "actors": [], "comments": [], "recommandations_id": []}

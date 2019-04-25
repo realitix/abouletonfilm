@@ -1,1 +1,0 @@
-{"tmdb_id": 351564, "title": "Raiding the Raiders", "original_title": "Raiding the Raiders", "slug_title": "raiding-the-raiders", "date": "1945-03-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sfUELsGzR4VCvpxqsHk3rdCm5N9.jpg", "actors": [], "comments": [], "recommandations_id": []}

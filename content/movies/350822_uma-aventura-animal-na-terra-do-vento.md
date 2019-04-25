@@ -1,1 +1,0 @@
-{"tmdb_id": 350822, "title": "Uma Aventura Animal na Terra do Vento", "original_title": "Uma Aventura Animal na Terra do Vento", "slug_title": "uma-aventura-animal-na-terra-do-vento", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

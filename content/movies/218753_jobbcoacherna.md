@@ -1,1 +1,0 @@
-{"tmdb_id": 218753, "title": "Jobbcoacherna", "original_title": "Jobbcoacherna", "slug_title": "jobbcoacherna", "date": "2010-08-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

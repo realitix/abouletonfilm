@@ -1,1 +1,0 @@
-{"tmdb_id": 389256, "title": "\u00c1kos - Andante", "original_title": "\u00c1kos - Andante", "slug_title": "akos-andante", "date": "2003-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gpF53TR7mQeuvvKLxNCxoaNo2V2.jpg", "actors": [], "comments": [], "recommandations_id": []}

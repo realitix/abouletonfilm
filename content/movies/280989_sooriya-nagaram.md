@@ -1,1 +1,0 @@
-{"tmdb_id": 280989, "title": "Sooriya Nagaram", "original_title": "Sooriya Nagaram", "slug_title": "sooriya-nagaram", "date": "2012-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4HGe2K9X95cIiaLSMbw6V9BShXD.jpg", "actors": ["P. S. Sridhar (Maari)"], "comments": [], "recommandations_id": []}

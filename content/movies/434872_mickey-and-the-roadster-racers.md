@@ -1,1 +1,0 @@
-{"tmdb_id": 434872, "title": "Mickey and the Roadster Racers", "original_title": "Mickey and the Roadster Racers", "slug_title": "mickey-and-the-roadster-racers", "date": "", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5me8B4yIwXERyivYiCxyGQboGhE.jpg", "actors": [], "comments": [], "recommandations_id": []}

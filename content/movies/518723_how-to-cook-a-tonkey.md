@@ -1,1 +1,0 @@
-{"tmdb_id": 518723, "title": "How to Cook a Tonkey", "original_title": "How to Cook a Tonkey", "slug_title": "how-to-cook-a-tonkey", "date": "2015-11-26", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gtJ2pSuu8f8I2dVYqmEpQT8A2fP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 444912, "title": "Hasta que se ponga el sol", "original_title": "Hasta que se ponga el sol", "slug_title": "hasta-que-se-ponga-el-sol", "date": "1973-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l60fX7Sy3nLBFY8kw52Muvs9JDG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 306679, "title": "Life for Sale", "original_title": "Life for Sale", "slug_title": "life-for-sale", "date": "2009-12-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

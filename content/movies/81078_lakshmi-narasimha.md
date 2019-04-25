@@ -1,1 +1,0 @@
-{"tmdb_id": 81078, "title": "Lakshmi Narasimha", "original_title": "Lakshmi Narasimha", "slug_title": "lakshmi-narasimha", "date": "2004-01-14", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xsoWVcFkdLP6ENDQkuIBaAuWMP6.jpg", "actors": [], "comments": [], "recommandations_id": []}

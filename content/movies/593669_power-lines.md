@@ -1,1 +1,0 @@
-{"tmdb_id": 593669, "title": "Power Lines", "original_title": "Power Lines", "slug_title": "power-lines", "date": "1944-04-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Norman Shelley (Commentator (voice))", "Alvar Liddell (Commentator (voice))"], "comments": [], "recommandations_id": []}

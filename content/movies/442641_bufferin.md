@@ -1,1 +1,0 @@
-{"tmdb_id": 442641, "title": "Bufferin", "original_title": "Bufferin", "slug_title": "bufferin", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gerard Malanga (Himself)"], "comments": [], "recommandations_id": []}

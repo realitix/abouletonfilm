@@ -1,1 +1,0 @@
-{"tmdb_id": 308482, "title": "Great Russian Composers: Nikolay Rimsky-Korsakov", "original_title": "Great Russian Composers: Nikolay Rimsky-Korsakov", "slug_title": "great-russian-composers-nikolay-rimsky-korsakov", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

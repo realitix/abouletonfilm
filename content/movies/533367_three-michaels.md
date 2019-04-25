@@ -1,1 +1,0 @@
-{"tmdb_id": 533367, "title": "Three Michaels", "original_title": "Three Michaels", "slug_title": "three-michaels", "date": "2018-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Connor Ratliff (Michael)", "Don Fanelli (Michael)", "Michael Kayne (Michael)"], "comments": [], "recommandations_id": []}

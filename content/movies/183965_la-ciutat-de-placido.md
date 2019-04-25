@@ -1,1 +1,0 @@
-{"tmdb_id": 183965, "title": "La ciutat de Pl\u00e1cido", "original_title": "La ciutat de Pl\u00e1cido", "slug_title": "la-ciutat-de-placido", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ztdZ3wb1SYlGT16RIePvYkmVNSX.jpg", "actors": [], "comments": [], "recommandations_id": []}

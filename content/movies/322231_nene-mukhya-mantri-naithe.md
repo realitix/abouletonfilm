@@ -1,1 +1,0 @@
-{"tmdb_id": 322231, "title": "Nene Mukhya Mantri Naithe", "original_title": "Nene Mukhya Mantri Naithe", "slug_title": "nene-mukhya-mantri-naithe", "date": "2009-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

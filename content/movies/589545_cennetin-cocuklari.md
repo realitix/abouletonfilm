@@ -1,1 +1,0 @@
-{"tmdb_id": 589545, "title": "Cennetin \u00c7ocuklar\u0131", "original_title": "Cennetin \u00c7ocuklar\u0131", "slug_title": "cennetin-cocuklari", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fmY5DO6uFDMcQ53ENjRaAN4SyIX.jpg", "actors": [], "comments": [], "recommandations_id": []}

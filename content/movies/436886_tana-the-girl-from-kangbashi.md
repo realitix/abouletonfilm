@@ -1,1 +1,0 @@
-{"tmdb_id": 436886, "title": "Tana - The Girl from Kangbashi", "original_title": "Tana - The Girl from Kangbashi", "slug_title": "tana-the-girl-from-kangbashi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cnV59XUKlWxt9ShrTsw6U9KttVB.jpg", "actors": [], "comments": [], "recommandations_id": []}

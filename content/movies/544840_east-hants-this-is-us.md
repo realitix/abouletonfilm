@@ -1,1 +1,0 @@
-{"tmdb_id": 544840, "title": "East Hants: This Is Us", "original_title": "East Hants: This Is Us", "slug_title": "east-hants-this-is-us", "date": "2018-09-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

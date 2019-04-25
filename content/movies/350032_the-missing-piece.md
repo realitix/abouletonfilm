@@ -1,1 +1,0 @@
-{"tmdb_id": 350032, "title": "The Missing Piece", "original_title": "The Missing Piece", "slug_title": "the-missing-piece", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hcmcWaLhDPj756wElTfTHq9s8d7.jpg", "actors": [], "comments": [], "recommandations_id": []}

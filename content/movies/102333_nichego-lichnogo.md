@@ -1,1 +1,0 @@
-{"tmdb_id": 102333, "title": "Nichego Lichnogo", "original_title": "Nichego Lichnogo", "slug_title": "nichego-lichnogo", "date": "2007-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8KKY17noS61MYRFBmwtX4VeqdIf.jpg", "actors": [], "comments": [], "recommandations_id": []}

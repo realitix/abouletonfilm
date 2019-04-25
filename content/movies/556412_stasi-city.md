@@ -1,1 +1,0 @@
-{"tmdb_id": 556412, "title": "Stasi City", "original_title": "Stasi City", "slug_title": "stasi-city", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/825F4d55q5Kcmu9CGuTkumTbYlK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 289274, "title": "Raja Huli", "original_title": "Raja Huli", "slug_title": "raja-huli", "date": "2013-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ayHYsDnyhFjsBjoPEUvyTb0NJn5.jpg", "actors": ["Yash (Raja Huli)", "Meghana Raj ()"], "comments": [], "recommandations_id": []}

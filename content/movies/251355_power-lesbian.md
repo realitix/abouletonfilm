@@ -1,1 +1,0 @@
-{"tmdb_id": 251355, "title": "Power Lesbian", "original_title": "Power Lesbian", "slug_title": "power-lesbian", "date": "2005-01-20", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

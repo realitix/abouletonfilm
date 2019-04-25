@@ -1,1 +1,0 @@
-{"tmdb_id": 83632, "title": "Arie Koomen: Uit", "original_title": "Arie Koomen: Uit", "slug_title": "arie-koomen-uit", "date": "2008-12-31", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/njHqCFM2bW4b2uJwsR4JlwxHqZO.jpg", "actors": ["Arie Koomen (Himself)"], "comments": [], "recommandations_id": []}

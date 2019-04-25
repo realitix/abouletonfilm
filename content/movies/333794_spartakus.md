@@ -1,1 +1,0 @@
-{"tmdb_id": 333794, "title": "Spartakus", "original_title": "Spartakus", "slug_title": "spartakus", "date": "1926-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

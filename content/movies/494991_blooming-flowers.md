@@ -1,1 +1,0 @@
-{"tmdb_id": 494991, "title": "Blooming Flowers", "original_title": "Blooming Flowers", "slug_title": "blooming-flowers", "date": "2013-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

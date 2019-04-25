@@ -1,1 +1,0 @@
-{"tmdb_id": 132648, "title": "Floored", "original_title": "Floored", "slug_title": "floored", "date": "2009-09-01", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cV8uS1uMpT6GRoDPYZnTEqt3Pwd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 535973, "title": "Untitled Big Hero 6 Sequel", "original_title": "Untitled Big Hero 6 Sequel", "slug_title": "untitled-big-hero-6-sequel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

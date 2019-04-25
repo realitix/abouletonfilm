@@ -1,1 +1,0 @@
-{"tmdb_id": 39265, "title": "Inju dai toshi", "original_title": "Inju dai toshi", "slug_title": "inju-dai-toshi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

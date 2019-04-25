@@ -1,1 +1,0 @@
-{"tmdb_id": 513995, "title": "Pour le soir", "original_title": "Pour le soir", "slug_title": "pour-le-soir", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

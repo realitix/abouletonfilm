@@ -1,1 +1,0 @@
-{"tmdb_id": 594728, "title": "kisoutan", "original_title": "\u5e30\u5de3\u8b5a", "slug_title": "kisoutan", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Nnwb3ufBCS0r63yM1szoWUZQ0p.jpg", "actors": [], "comments": [], "recommandations_id": []}

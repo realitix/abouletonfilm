@@ -1,1 +1,0 @@
-{"tmdb_id": 493780, "title": "Columns", "original_title": "Columns", "slug_title": "columns", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jALnVWtPmZC6mpAqFtWw3HJi1JO.jpg", "actors": [], "comments": [], "recommandations_id": []}

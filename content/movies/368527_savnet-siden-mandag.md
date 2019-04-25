@@ -1,1 +1,0 @@
-{"tmdb_id": 368527, "title": "Savnet siden mandag", "original_title": "Savnet siden mandag", "slug_title": "savnet-siden-mandag", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

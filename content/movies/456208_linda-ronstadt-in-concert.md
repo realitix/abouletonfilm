@@ -1,1 +1,0 @@
-{"tmdb_id": 456208, "title": "Linda Ronstadt in Concert", "original_title": "Linda Ronstadt in Concert", "slug_title": "linda-ronstadt-in-concert", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

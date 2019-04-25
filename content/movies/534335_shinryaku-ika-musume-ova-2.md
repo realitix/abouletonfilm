@@ -1,1 +1,0 @@
-{"tmdb_id": 534335, "title": "Shinryaku! Ika Musume - OVA 2", "original_title": "Shinryaku! Ika Musume - OVA 2", "slug_title": "shinryaku-ika-musume-ova-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

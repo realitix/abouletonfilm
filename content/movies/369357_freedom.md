@@ -1,1 +1,0 @@
-{"tmdb_id": 369357, "title": "Freedom", "original_title": "Freedom", "slug_title": "freedom", "date": "1970-12-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yyNlw22Bvjo9qcbbrVfdmMKXxjW.jpg", "actors": ["Yoko Ono (Woman)"], "comments": [], "recommandations_id": []}

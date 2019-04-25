@@ -1,1 +1,0 @@
-{"tmdb_id": 278282, "title": "Viva Pedro: The Life & Times of Pedro Almod\u00f3var", "original_title": "Viva Pedro: The Life & Times of Pedro Almod\u00f3var", "slug_title": "viva-pedro-the-life-times-of-pedro-almodovar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 571068, "title": "Memories of Chengdu", "original_title": "\u5173\u4e8e\u6210\u90fd\u7684\u8bb0\u5fc6", "slug_title": "memories-of-chengdu", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iWmZLLJGFxnZ1QuBWJJUZtRh0rS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556899, "title": "J\u00e9ssika", "original_title": "J\u00e9ssika", "slug_title": "jessika", "date": "2017-10-04", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q4huwucIMlHXnFMSc6pnIkeY5Qm.jpg", "actors": [], "comments": [], "recommandations_id": []}

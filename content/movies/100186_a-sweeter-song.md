@@ -1,1 +1,0 @@
-{"tmdb_id": 100186, "title": "A Sweeter Song", "original_title": "A Sweeter Song", "slug_title": "a-sweeter-song", "date": "", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9aY792IIEoJUc1oVYeSMdZm9mIn.jpg", "actors": [], "comments": [], "recommandations_id": []}

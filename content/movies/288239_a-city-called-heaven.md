@@ -1,1 +1,0 @@
-{"tmdb_id": 288239, "title": "A City Called Heaven", "original_title": "A City Called Heaven", "slug_title": "a-city-called-heaven", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

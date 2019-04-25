@@ -1,1 +1,0 @@
-{"tmdb_id": 586127, "title": "Rubbish", "original_title": "Rubbish", "slug_title": "rubbish", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uulce5YeC6jKeYexVMCYo77jmYq.jpg", "actors": [], "comments": [], "recommandations_id": []}

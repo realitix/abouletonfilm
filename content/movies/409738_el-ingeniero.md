@@ -1,1 +1,0 @@
-{"tmdb_id": 409738, "title": "El ingeniero", "original_title": "El ingeniero", "slug_title": "el-ingeniero", "date": "2012-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qjDO9ZRlPD6c4cRs9ah7QN2mPA4.jpg", "actors": [], "comments": [], "recommandations_id": []}

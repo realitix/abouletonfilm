@@ -1,1 +1,0 @@
-{"tmdb_id": 163954, "title": "The Song of Fame", "original_title": "The Song of Fame", "slug_title": "the-song-of-fame", "date": "1934-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ruth Etting ()"], "comments": [], "recommandations_id": []}

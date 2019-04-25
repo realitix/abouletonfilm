@@ -1,1 +1,0 @@
-{"tmdb_id": 87225, "title": "Al Mataha", "original_title": "Al Mataha", "slug_title": "al-mataha", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Film marocain", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dxgkccyFQLFkHcKchDu5WsZOxDM.jpg", "actors": [], "comments": [], "recommandations_id": []}

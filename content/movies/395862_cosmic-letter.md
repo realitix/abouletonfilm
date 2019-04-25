@@ -1,1 +1,0 @@
-{"tmdb_id": 395862, "title": "Cosmic Letter", "original_title": "Cosmic Letter", "slug_title": "cosmic-letter", "date": "1979-05-03", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1IWszhmOOd7uvDAwt0sgwYNu1lf.jpg", "actors": [], "comments": [], "recommandations_id": []}

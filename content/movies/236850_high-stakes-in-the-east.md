@@ -1,1 +1,0 @@
-{"tmdb_id": 236850, "title": "High Stakes in the East", "original_title": "High Stakes in the East", "slug_title": "high-stakes-in-the-east", "date": "1942-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9QYcAlDPwbW5p9yhgnRww6ppCEV.jpg", "actors": [], "comments": [], "recommandations_id": []}

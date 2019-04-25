@@ -1,1 +1,0 @@
-{"tmdb_id": 99597, "title": "Trivial Killer", "original_title": "Trivial Killer", "slug_title": "trivial-killer", "date": "1999-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

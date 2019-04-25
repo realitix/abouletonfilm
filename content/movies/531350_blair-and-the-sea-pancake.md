@@ -1,1 +1,0 @@
-{"tmdb_id": 531350, "title": "Blair and the Sea Pancake", "original_title": "Blair and the Sea Pancake", "slug_title": "blair-and-the-sea-pancake", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zKHCHSy5aUUXLDBCwI18hG3qr8V.jpg", "actors": [], "comments": [], "recommandations_id": []}

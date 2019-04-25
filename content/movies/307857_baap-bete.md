@@ -1,1 +1,0 @@
-{"tmdb_id": 307857, "title": "Baap Bete", "original_title": "Baap Bete", "slug_title": "baap-bete", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

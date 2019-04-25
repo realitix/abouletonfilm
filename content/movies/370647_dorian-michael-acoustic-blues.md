@@ -1,1 +1,0 @@
-{"tmdb_id": 370647, "title": "Dorian Michael: Acoustic Blues", "original_title": "Dorian Michael: Acoustic Blues", "slug_title": "dorian-michael-acoustic-blues", "date": "2003-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A20P9SaE1M2ayn6sv1M8dIzktIi.jpg", "actors": [], "comments": [], "recommandations_id": []}

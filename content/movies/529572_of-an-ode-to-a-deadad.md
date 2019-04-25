@@ -1,1 +1,0 @@
-{"tmdb_id": 529572, "title": "Of an Ode to a Deadad", "original_title": "Of an Ode to a Deadad", "slug_title": "of-an-ode-to-a-deadad", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

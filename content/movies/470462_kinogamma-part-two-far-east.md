@@ -1,1 +1,0 @@
-{"tmdb_id": 470462, "title": "Kinogamma Part Two: Far East", "original_title": "Kinogamma Part Two: Far East", "slug_title": "kinogamma-part-two-far-east", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

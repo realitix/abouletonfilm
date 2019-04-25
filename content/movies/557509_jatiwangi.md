@@ -1,1 +1,0 @@
-{"tmdb_id": 557509, "title": "Jatiwangi", "original_title": "Jatiwangi", "slug_title": "jatiwangi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/llEnaHH5WGnXG9EgXdetu0PxKOI.jpg", "actors": [], "comments": [], "recommandations_id": []}

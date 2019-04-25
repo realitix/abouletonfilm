@@ -1,1 +1,0 @@
-{"tmdb_id": 350237, "title": "\ubbf8\uc6cc\ud560 \uc218 \uc5c6\ub294 \ub108", "original_title": "\ubbf8\uc6cc\ud560 \uc218 \uc5c6\ub294 \ub108", "slug_title": "miweohal-su-eobsneun-neo", "date": "1981-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

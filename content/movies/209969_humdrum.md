@@ -1,1 +1,0 @@
-{"tmdb_id": 209969, "title": "Humdrum", "original_title": "Humdrum", "slug_title": "humdrum", "date": "1998-07-25", "genre": "Com\u00e9die / Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/klfPqmz7y53wqTIDGVcwfdKVofY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 382456, "title": "Natural History", "original_title": "\u535a\u7269\u8a8c", "slug_title": "natural-history", "date": "1985-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

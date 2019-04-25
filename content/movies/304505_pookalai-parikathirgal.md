@@ -1,1 +1,0 @@
-{"tmdb_id": 304505, "title": "Pookalai Parikathirgal", "original_title": "Pookalai Parikathirgal", "slug_title": "pookalai-parikathirgal", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

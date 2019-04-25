@@ -1,1 +1,0 @@
-{"tmdb_id": 589627, "title": "Esta es mi historia", "original_title": "Esta es mi historia", "slug_title": "esta-es-mi-historia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lolito Fernandez ()", "Rub\u00e9n Doblas Gundersen ()", "Alexby ()", "Grefg ()"], "comments": [], "recommandations_id": []}

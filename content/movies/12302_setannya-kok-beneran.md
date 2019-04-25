@@ -1,1 +1,0 @@
-{"tmdb_id": 12302, "title": "Setannya kok beneran?", "original_title": "Setannya kok beneran?", "slug_title": "setannya-kok-beneran", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Lo6DnPqDL8rAQZSslbeuUPD1CX.jpg", "actors": [], "comments": [], "recommandations_id": []}

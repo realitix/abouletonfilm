@@ -1,1 +1,0 @@
-{"tmdb_id": 567369, "title": "Kurts Fridrihsons", "original_title": "Kurts Fridrihsons", "slug_title": "kurts-fridrihsons", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rRFiebvGM9AKtD8JGuTFH10gkqF.jpg", "actors": [], "comments": [], "recommandations_id": []}

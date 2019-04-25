@@ -1,1 +1,0 @@
-{"tmdb_id": 474970, "title": "How to pick a Husband", "original_title": "How to pick a Husband", "slug_title": "how-to-pick-a-husband", "date": "1950-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

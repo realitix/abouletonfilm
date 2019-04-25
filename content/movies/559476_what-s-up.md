@@ -1,1 +1,0 @@
-{"tmdb_id": 559476, "title": "What's Up?", "original_title": "Was ist los", "slug_title": "what-s-up", "date": "1991-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

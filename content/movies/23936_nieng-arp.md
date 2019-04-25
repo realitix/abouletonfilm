@@ -1,1 +1,0 @@
-{"tmdb_id": 23936, "title": "Nieng Arp", "original_title": "Nieng Arp", "slug_title": "nieng-arp", "date": "2004-08-24", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f87ygMtYqWMYR7kKJ08A0nA6s17.jpg", "actors": ["Dan Monika ()", "Sovan Makar ()"], "comments": [], "recommandations_id": []}

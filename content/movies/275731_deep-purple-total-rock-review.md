@@ -1,1 +1,0 @@
-{"tmdb_id": 275731, "title": "Deep Purple: Total Rock Review", "original_title": "Deep Purple: Total Rock Review", "slug_title": "deep-purple-total-rock-review", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

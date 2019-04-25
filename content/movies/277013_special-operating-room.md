@@ -1,1 +1,0 @@
-{"tmdb_id": 277013, "title": "Special Operating Room", "original_title": "Special Operating Room", "slug_title": "special-operating-room", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

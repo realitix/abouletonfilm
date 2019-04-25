@@ -1,1 +1,0 @@
-{"tmdb_id": 376777, "title": "Paderborn - Der Dokufilm II", "original_title": "Paderborn - Der Dokufilm II", "slug_title": "paderborn-der-dokufilm-ii", "date": "2015-11-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Bpz9mJ40EvelN8tiHUp3CaxGP.jpg", "actors": [], "comments": [], "recommandations_id": []}

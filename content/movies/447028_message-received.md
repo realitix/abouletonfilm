@@ -1,1 +1,0 @@
-{"tmdb_id": 447028, "title": "Message Received", "original_title": "Message Received", "slug_title": "message-received", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8a2XMuMvHrRsJIWVPic3LgUkGbx.jpg", "actors": [], "comments": [], "recommandations_id": []}

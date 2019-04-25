@@ -1,1 +1,0 @@
-{"tmdb_id": 523242, "title": "Intimate Encounters: 20 Years On", "original_title": "Intimate Encounters: 20 Years On", "slug_title": "intimate-encounters-20-years-on", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

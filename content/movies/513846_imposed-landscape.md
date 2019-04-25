@@ -1,1 +1,0 @@
-{"tmdb_id": 513846, "title": "Imposed landscape", "original_title": "Paysage impos\u00e9", "slug_title": "imposed-landscape", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

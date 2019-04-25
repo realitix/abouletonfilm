@@ -1,1 +1,0 @@
-{"tmdb_id": 417379, "title": "Barney's Christmas Time", "original_title": "Barney's Christmas Time", "slug_title": "barney-s-christmas-time", "date": "2008-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/91vV6TW9X5rFAZYWArtlXJaEZJz.jpg", "actors": [], "comments": [], "recommandations_id": []}

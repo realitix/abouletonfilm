@@ -1,1 +1,0 @@
-{"tmdb_id": 405176, "title": "Larry's Kidney", "original_title": "Larry's Kidney", "slug_title": "larry-s-kidney", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zach Galifianakis ()", "Will Ferrell ()"], "comments": [], "recommandations_id": []}

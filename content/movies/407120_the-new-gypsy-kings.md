@@ -1,1 +1,0 @@
-{"tmdb_id": 407120, "title": "The New Gypsy Kings", "original_title": "The New Gypsy Kings", "slug_title": "the-new-gypsy-kings", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

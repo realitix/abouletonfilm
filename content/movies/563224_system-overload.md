@@ -1,1 +1,0 @@
-{"tmdb_id": 563224, "title": "System Overload", "original_title": "System Overload", "slug_title": "system-overload", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5YbOcw4mtEv4xBfrFUXoVRYMvOY.jpg", "actors": [], "comments": [], "recommandations_id": []}

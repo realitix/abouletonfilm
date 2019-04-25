@@ -1,1 +1,0 @@
-{"tmdb_id": 487632, "title": "Highlights of old Greek Cinema", "original_title": "Highlights of old Greek Cinema", "slug_title": "highlights-of-old-greek-cinema", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4sMumYoTnl5cy3YWIV67CO6LChY.jpg", "actors": [], "comments": [], "recommandations_id": []}

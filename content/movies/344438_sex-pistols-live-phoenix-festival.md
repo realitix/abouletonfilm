@@ -1,1 +1,0 @@
-{"tmdb_id": 344438, "title": "Sex Pistols Live - Phoenix Festival", "original_title": "Sex Pistols Live - Phoenix Festival", "slug_title": "sex-pistols-live-phoenix-festival", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

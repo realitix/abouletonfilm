@@ -1,1 +1,0 @@
-{"tmdb_id": 293031, "title": "The Greater Call", "original_title": "The Greater Call", "slug_title": "the-greater-call", "date": "1910-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alice Donovan ()"], "comments": [], "recommandations_id": []}

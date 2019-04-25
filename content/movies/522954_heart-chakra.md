@@ -1,1 +1,0 @@
-{"tmdb_id": 522954, "title": "Heart Chakra", "original_title": "Heart Chakra", "slug_title": "heart-chakra", "date": "2017-05-03", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 437884, "title": "100 Years of Wrigley Field", "original_title": "100 Years of Wrigley Field", "slug_title": "100-years-of-wrigley-field", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jS4jTs5EIf1sht48Eej9TxgPber.jpg", "actors": [], "comments": [], "recommandations_id": []}

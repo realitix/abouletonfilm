@@ -1,1 +1,0 @@
-{"tmdb_id": 418997, "title": "Glimpses", "original_title": "L'entr'aper\u00e7u", "slug_title": "glimpses", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jYAIYOc4pdkIlz7aROI2knSXAaP.jpg", "actors": [], "comments": [], "recommandations_id": []}

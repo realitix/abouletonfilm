@@ -1,1 +1,0 @@
-{"tmdb_id": 531554, "title": "What I Didn't Say to the Prince", "original_title": "Co jsem princi ne\u0159ekla", "slug_title": "what-i-didn-t-say-to-the-prince", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

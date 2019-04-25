@@ -1,1 +1,0 @@
-{"tmdb_id": 541134, "title": "The Good Nurse", "original_title": "The Good Nurse", "slug_title": "the-good-nurse", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eddie Redmayne (Charles Cullen)", "Jessica Chastain ()"], "comments": [], "recommandations_id": []}

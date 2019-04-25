@@ -1,1 +1,0 @@
-{"tmdb_id": 291480, "title": "Once I Dreamt Of Life", "original_title": "N\u00e4in unta el\u00e4m\u00e4st\u00e4", "slug_title": "once-i-dreamt-of-life", "date": "2014-03-28", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sz29VB9UlWQtG0AHaMEuzYrJozd.jpg", "actors": [], "comments": [], "recommandations_id": []}

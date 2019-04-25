@@ -1,1 +1,0 @@
-{"tmdb_id": 165214, "title": "Lohengrin", "original_title": "Lohengrin", "slug_title": "lohengrin", "date": "1990-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m86vxYgkVRrqcYBDrLnkPzsig98.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 168792, "title": "Age of Treason", "original_title": "Age of Treason", "slug_title": "age-of-treason", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 518828, "title": "Loveratory", "original_title": "Loveratory", "slug_title": "loveratory", "date": "", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

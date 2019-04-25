@@ -1,1 +1,0 @@
-{"tmdb_id": 579733, "title": "Animal Kingdom", "original_title": "Dyreriket", "slug_title": "animal-kingdom", "date": "2018-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Terje Biringvad (Asbj\u00f8rn)", "Sigmund Nyberg (Runar)", "Kaja Fiksdal (Mona)"], "comments": [], "recommandations_id": []}

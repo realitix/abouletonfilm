@@ -1,1 +1,0 @@
-{"tmdb_id": 397820, "title": "Nightmare Angel", "original_title": "Nightmare Angel", "slug_title": "nightmare-angel", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bill Moseley (Dr. William de Freis)", "Audrey Matson (Diana Weston)"], "comments": [], "recommandations_id": []}

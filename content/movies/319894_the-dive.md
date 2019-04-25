@@ -1,1 +1,0 @@
-{"tmdb_id": 319894, "title": "The Dive", "original_title": "The Dive", "slug_title": "the-dive", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

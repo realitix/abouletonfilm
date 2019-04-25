@@ -1,1 +1,0 @@
-{"tmdb_id": 195346, "title": "Fougere", "original_title": "Fougere", "slug_title": "fougere", "date": "1899-11-20", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v9EZ1cJ1qMlDdzTHpso7d7lPMVd.jpg", "actors": ["Eugenie Fougere (Herself)"], "comments": [], "recommandations_id": []}

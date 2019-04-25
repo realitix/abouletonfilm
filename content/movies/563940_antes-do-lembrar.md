@@ -1,1 +1,0 @@
-{"tmdb_id": 563940, "title": "Antes do Lembrar", "original_title": "Antes do Lembrar", "slug_title": "antes-do-lembrar", "date": "2017-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b5PPYnmQabkYWMWeHjaS7KdG8qG.jpg", "actors": [], "comments": [], "recommandations_id": []}

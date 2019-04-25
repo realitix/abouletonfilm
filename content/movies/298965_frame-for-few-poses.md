@@ -1,1 +1,0 @@
-{"tmdb_id": 298965, "title": "Frame for Few Poses", "original_title": "Ram za nekoliko poza", "slug_title": "frame-for-few-poses", "date": "1976-01-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/EfKMd1Lfr5rgW59FAFvHyjPWQR.jpg", "actors": [], "comments": [], "recommandations_id": []}

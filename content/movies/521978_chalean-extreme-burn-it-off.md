@@ -1,1 +1,0 @@
-{"tmdb_id": 521978, "title": "ChaLean Extreme - Burn It Off", "original_title": "ChaLean Extreme - Burn It Off", "slug_title": "chalean-extreme-burn-it-off", "date": "2009-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4wSKBj48IcTeoffKzmZ87zHseTw.jpg", "actors": [], "comments": [], "recommandations_id": []}

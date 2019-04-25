@@ -1,1 +1,0 @@
-{"tmdb_id": 60317, "title": "Bellator 2", "original_title": "Bellator 2", "slug_title": "bellator-2", "date": "2009-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rcQNyjIF0LwiUVNPI3Wl8Xsp3N9.jpg", "actors": [], "comments": [], "recommandations_id": []}

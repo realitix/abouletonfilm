@@ -1,1 +1,0 @@
-{"tmdb_id": 382970, "title": "A Smoked Husband", "original_title": "A Smoked Husband", "slug_title": "a-smoked-husband", "date": "1908-09-25", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John R. Cumpson ()", "Florence Lawrence ()", "Mack Sennett (Man in Top Hat)"], "comments": [], "recommandations_id": []}

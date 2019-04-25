@@ -1,1 +1,0 @@
-{"tmdb_id": 556050, "title": "Chourinette", "original_title": "Chourinette", "slug_title": "chourinette", "date": "1934-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

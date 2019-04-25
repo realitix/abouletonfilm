@@ -1,1 +1,0 @@
-{"tmdb_id": 575641, "title": "Taksi \u015eof\u00f6r\u00fc 1976", "original_title": "Taksi \u015eof\u00f6r\u00fc 1976", "slug_title": "taksi-soforu-1976", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1a6Vh6zl5XJ518wVCQUjo5D1k5h.jpg", "actors": [], "comments": [], "recommandations_id": []}

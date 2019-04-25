@@ -1,1 +1,0 @@
-{"tmdb_id": 553500, "title": "The Cage", "original_title": "The Cage", "slug_title": "the-cage", "date": "2018-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 480722, "title": "Screwball!", "original_title": "Screwball!", "slug_title": "screwball", "date": "2017-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uPaf5Dk2toh6JkZQscWVeuMehL8.jpg", "actors": [], "comments": [], "recommandations_id": []}

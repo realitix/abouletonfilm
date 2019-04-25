@@ -1,1 +1,0 @@
-{"tmdb_id": 451626, "title": "Sex and The Singer", "original_title": "\u6b32\u671b\u6b4c\u624b", "slug_title": "sex-and-the-singer", "date": "2014-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 432225, "title": "Mitatang", "original_title": "Mitatang", "slug_title": "mitatang", "date": "2016-12-25", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w1sMpmra3eygqzzW5eCapPYzBj4.jpg", "actors": [], "comments": [], "recommandations_id": []}

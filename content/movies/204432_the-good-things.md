@@ -1,1 +1,0 @@
-{"tmdb_id": 204432, "title": "The Good Things", "original_title": "The Good Things", "slug_title": "the-good-things", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

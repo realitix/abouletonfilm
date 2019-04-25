@@ -1,1 +1,0 @@
-{"tmdb_id": 410004, "title": "The Art of Losing", "original_title": "Die Kunst des Verlierens", "slug_title": "the-art-of-losing", "date": "2014-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/829osG82q4fXdhYtVOVK5wHjoQm.jpg", "actors": [], "comments": [], "recommandations_id": []}

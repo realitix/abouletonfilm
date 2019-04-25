@@ -1,1 +1,0 @@
-{"tmdb_id": 515822, "title": "Neuf et demi", "original_title": "Neuf et demi", "slug_title": "neuf-et-demi", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/68HfLoNqZvpCULLQvlwZAGoBqL6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 321688, "title": "Barque en mer", "original_title": "Barque en mer", "slug_title": "barque-en-mer", "date": "1896-05-15", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 581058, "title": "\uadf8\ub4e4\ub3c4 \uc6b0\ub9ac\ucc98\ub7fc", "original_title": "\uadf8\ub4e4\ub3c4 \uc6b0\ub9ac\ucc98\ub7fc", "slug_title": "geudeuldo-uriceoreom", "date": "1990-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

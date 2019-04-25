@@ -1,1 +1,0 @@
-{"tmdb_id": 300262, "title": "100 Miles from Hell", "original_title": "100 Miles from Hell", "slug_title": "100-miles-from-hell", "date": "2014-01-10", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

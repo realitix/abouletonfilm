@@ -1,1 +1,0 @@
-{"tmdb_id": 286559, "title": "Australia's Aborigines", "original_title": "Australia's Aborigines", "slug_title": "australia-s-aborigines", "date": "1988-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Kiley (Narrator)"], "comments": [], "recommandations_id": []}

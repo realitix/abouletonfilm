@@ -1,1 +1,0 @@
-{"tmdb_id": 478903, "title": "The Esoteric Birthday", "original_title": "El cumplea\u00f1os esot\u00e9rico", "slug_title": "the-esoteric-birthday", "date": "2015-09-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

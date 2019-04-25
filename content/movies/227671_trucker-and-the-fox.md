@@ -1,1 +1,0 @@
-{"tmdb_id": 227671, "title": "Trucker and the Fox", "original_title": "Trucker and the Fox", "slug_title": "trucker-and-the-fox", "date": "2013-10-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wFj1M2mkyMNIh0s1kd2KOkkH6Wn.jpg", "actors": [], "comments": [], "recommandations_id": []}

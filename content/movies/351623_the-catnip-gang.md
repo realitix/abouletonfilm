@@ -1,1 +1,0 @@
-{"tmdb_id": 351623, "title": "The Catnip Gang", "original_title": "The Catnip Gang", "slug_title": "the-catnip-gang", "date": "1949-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jmWMQyoobzXxgXZjOA0MxuHH0Az.jpg", "actors": [], "comments": [], "recommandations_id": []}

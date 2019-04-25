@@ -1,1 +1,0 @@
-{"tmdb_id": 514731, "title": "Hare Krishna Hello Radha", "original_title": "Hare Krishna Hello Radha", "slug_title": "hare-krishna-hello-radha", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/K3QpNe2SUYCpK0tG0uJ7NPO6cW.jpg", "actors": ["Sripriya ()"], "comments": [], "recommandations_id": []}

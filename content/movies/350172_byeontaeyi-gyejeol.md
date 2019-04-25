@@ -1,1 +1,0 @@
-{"tmdb_id": 350172, "title": "\ubcc0\ud0dc\uc758 \uacc4\uc808", "original_title": "\ubcc0\ud0dc\uc758 \uacc4\uc808", "slug_title": "byeontaeyi-gyejeol", "date": "1989-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

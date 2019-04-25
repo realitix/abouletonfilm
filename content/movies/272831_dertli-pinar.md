@@ -1,1 +1,0 @@
-{"tmdb_id": 272831, "title": "Dertli pinar", "original_title": "Dertli pinar", "slug_title": "dertli-pinar", "date": "1943-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nezihe Becerikli ()", "Suavi Ted\u00fc ()", "Handan Adal\u0131 ()"], "comments": [], "recommandations_id": []}

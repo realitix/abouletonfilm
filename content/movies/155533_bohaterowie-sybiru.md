@@ -1,1 +1,0 @@
-{"tmdb_id": 155533, "title": "Bohaterowie Sybiru", "original_title": "Bohaterowie Sybiru", "slug_title": "bohaterowie-sybiru", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vsqpCPj5849UhJlCNCZf0wPWwRC.jpg", "actors": [], "comments": [], "recommandations_id": []}

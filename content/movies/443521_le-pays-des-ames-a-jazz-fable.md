@@ -1,1 +1,0 @@
-{"tmdb_id": 443521, "title": "Le Pays des \u00c2mes (a jazz fable)", "original_title": "Le Pays des \u00c2mes (a jazz fable)", "slug_title": "le-pays-des-ames-a-jazz-fable", "date": "2011-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

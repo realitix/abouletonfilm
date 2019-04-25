@@ -1,1 +1,0 @@
-{"tmdb_id": 480255, "title": "Shopkins World Vacation", "original_title": "Shopkins - World Vacation", "slug_title": "shopkins-world-vacation", "date": "2017-10-05", "genre": "Animation / Familial", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xiyqUqxSSXOR7MydX2iKhaAoasp.jpg", "actors": [], "comments": [], "recommandations_id": []}

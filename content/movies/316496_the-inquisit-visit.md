@@ -1,1 +1,0 @@
-{"tmdb_id": 316496, "title": "The Inquisit Visit", "original_title": "The Inquisit Visit", "slug_title": "the-inquisit-visit", "date": "1961-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

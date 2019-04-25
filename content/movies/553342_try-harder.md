@@ -1,1 +1,0 @@
-{"tmdb_id": 553342, "title": "Try Harder", "original_title": "Try Harder", "slug_title": "try-harder", "date": "2015-11-03", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

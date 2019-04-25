@@ -1,1 +1,0 @@
-{"tmdb_id": 534785, "title": "My World", "original_title": "\u540a\u540a\u63c8", "slug_title": "my-world", "date": "2018-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 307435, "title": "Sollamal Thavikkiren", "original_title": "Sollamal Thavikkiren", "slug_title": "sollamal-thavikkiren", "date": "2008-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

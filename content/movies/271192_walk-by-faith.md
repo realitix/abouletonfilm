@@ -1,1 +1,0 @@
-{"tmdb_id": 271192, "title": "Walk By Faith", "original_title": "Walk By Faith", "slug_title": "walk-by-faith", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

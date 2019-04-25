@@ -1,1 +1,0 @@
-{"tmdb_id": 396376, "title": "Psychotown", "original_title": "Psychotown", "slug_title": "psychotown", "date": "2008-05-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nzAYaAl8Py1nCipjjktWeMRQfzR.jpg", "actors": [], "comments": [], "recommandations_id": []}

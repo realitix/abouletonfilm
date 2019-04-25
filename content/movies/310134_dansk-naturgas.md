@@ -1,1 +1,0 @@
-{"tmdb_id": 310134, "title": "Dansk Naturgas", "original_title": "Dansk Naturgas", "slug_title": "dansk-naturgas", "date": "1981-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8erCMwterGRxISwh7pO6Ausq8h7.jpg", "actors": [], "comments": [], "recommandations_id": []}

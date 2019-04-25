@@ -1,1 +1,0 @@
-{"tmdb_id": 527714, "title": "My Pretty Pony", "original_title": "My Pretty Pony", "slug_title": "my-pretty-pony", "date": "2017-08-04", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mateusz Broda (Boy)", "Marian Dzi\u0119dziel (Grandpa)"], "comments": [], "recommandations_id": []}

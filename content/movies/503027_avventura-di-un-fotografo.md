@@ -1,1 +1,0 @@
-{"tmdb_id": 503027, "title": "Avventura di un fotografo", "original_title": "Avventura di un fotografo", "slug_title": "avventura-di-un-fotografo", "date": "1983-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

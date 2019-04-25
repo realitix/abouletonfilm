@@ -1,1 +1,1 @@
-{"tmdb_id": 548729, "title": "Dead World", "original_title": "Dead World", "slug_title": "dead-world", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 548729, "title": "Dead World", "original_title": "Dead World", "slug_title": "dead-world", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Based on the graphic novels of the same name.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

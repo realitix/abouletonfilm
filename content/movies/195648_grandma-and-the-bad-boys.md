@@ -1,1 +1,0 @@
-{"tmdb_id": 195648, "title": "Grandma and the Bad Boys", "original_title": "Grandma and the Bad Boys", "slug_title": "grandma-and-the-bad-boys", "date": "1900-12-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

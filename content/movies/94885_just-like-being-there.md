@@ -1,1 +1,0 @@
-{"tmdb_id": 94885, "title": "Just Like Being There", "original_title": "Just Like Being There", "slug_title": "just-like-being-there", "date": "2012-03-09", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i2UsYIW0Y5CsNQwej7IN49kXdwe.jpg", "actors": [], "comments": [], "recommandations_id": []}

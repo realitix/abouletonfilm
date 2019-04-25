@@ -1,1 +1,0 @@
-{"tmdb_id": 473231, "title": "Singlehanders", "original_title": "Singlehanders", "slug_title": "singlehanders", "date": "1982-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y8S5oW63SY5AxIEOVDcqgqXPcg9.jpg", "actors": ["Cyril Byrne (Narrator)"], "comments": [], "recommandations_id": []}

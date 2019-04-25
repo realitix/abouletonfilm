@@ -1,1 +1,1 @@
-{"tmdb_id": 500255, "title": "Bloody Sin", "original_title": "Bloody Sin", "slug_title": "bloody-sin", "date": "", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 500255, "title": "Bloody Sin", "original_title": "Bloody Sin", "slug_title": "bloody-sin", "date": "", "genre": [""], "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 419020, "title": "Imposter", "original_title": "Imposter", "slug_title": "imposter", "date": "2016-10-01", "genre": "Thriller / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Philippa Domville ()", "Abigail Winter ()"], "comments": [], "recommandations_id": []}

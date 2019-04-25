@@ -1,1 +1,0 @@
-{"tmdb_id": 291734, "title": "Sammyville", "original_title": "Sammyville", "slug_title": "sammyville", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

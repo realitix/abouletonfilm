@@ -1,1 +1,0 @@
-{"tmdb_id": 550042, "title": "Afrikaner Blood", "original_title": "Afrikaner Blood", "slug_title": "afrikaner-blood", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tmx8ZIdbhsYZ4Hcd3zk7v3ycHYu.jpg", "actors": [], "comments": [], "recommandations_id": []}

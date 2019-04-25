@@ -1,1 +1,0 @@
-{"tmdb_id": 572664, "title": "Mice, a small story", "original_title": "Mice, a small story", "slug_title": "mice-a-small-story", "date": "2018-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cVjDIizsSFMx6h1dKFcYKSMiRuG.jpg", "actors": [], "comments": [], "recommandations_id": []}

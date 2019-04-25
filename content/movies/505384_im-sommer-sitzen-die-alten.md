@@ -1,1 +1,0 @@
-{"tmdb_id": 505384, "title": "Im Sommer Sitzen die Alten", "original_title": "Im Sommer Sitzen die Alten", "slug_title": "im-sommer-sitzen-die-alten", "date": "2009-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vjnZ9dObbf3e1RrAU1swnKMTl7g.jpg", "actors": [], "comments": [], "recommandations_id": []}

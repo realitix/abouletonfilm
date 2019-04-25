@@ -1,1 +1,0 @@
-{"tmdb_id": 350229, "title": "\ubb34\ub9bc \uc545\uc778\uc804", "original_title": "\ubb34\ub9bc \uc545\uc778\uc804", "slug_title": "murim-aginjeon", "date": "1980-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

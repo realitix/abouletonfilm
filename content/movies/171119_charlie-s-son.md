@@ -1,1 +1,0 @@
-{"tmdb_id": 171119, "title": "Charlie's Son", "original_title": "O Gios Tou Charlie", "slug_title": "charlie-s-son", "date": "2009-09-03", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8XFiNDo18IST59WQDzNL4ObUQW.jpg", "actors": [], "comments": [], "recommandations_id": []}

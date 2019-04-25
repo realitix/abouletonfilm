@@ -1,1 +1,0 @@
-{"tmdb_id": 82302, "title": "Morozko", "original_title": "\u041c\u043e\u0440\u043e\u0437\u043a\u043e", "slug_title": "morozko", "date": "2010-12-31", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dCHfXEcZ7oSILGripPV1zdn0FxD.jpg", "actors": [], "comments": [], "recommandations_id": []}

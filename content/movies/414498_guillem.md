@@ -1,1 +1,0 @@
-{"tmdb_id": 414498, "title": "Guillem", "original_title": "Guillem", "slug_title": "guillem", "date": "2003-04-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sylvie Guillem (Herself)"], "comments": [], "recommandations_id": []}

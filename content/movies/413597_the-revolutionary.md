@@ -1,1 +1,0 @@
-{"tmdb_id": 413597, "title": "The Revolutionary", "original_title": "Le R\u00e9volutionnaire", "slug_title": "the-revolutionary", "date": "1965-11-19", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cCitu0qPEJGQS0Ap6YEB0EziI4Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

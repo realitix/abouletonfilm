@@ -1,1 +1,0 @@
-{"tmdb_id": 498274, "title": "Looking Through the Pyramids", "original_title": "Looking Through the Pyramids", "slug_title": "looking-through-the-pyramids", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

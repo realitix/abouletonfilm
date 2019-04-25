@@ -1,1 +1,0 @@
-{"tmdb_id": 274251, "title": "Cobra Mist", "original_title": "Cobra Mist", "slug_title": "cobra-mist", "date": "2008-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/inIsgtlmBspXBXSeUQ5Ft4uMUOd.jpg", "actors": [], "comments": [], "recommandations_id": []}

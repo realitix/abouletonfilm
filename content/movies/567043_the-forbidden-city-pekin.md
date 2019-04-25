@@ -1,1 +1,0 @@
-{"tmdb_id": 567043, "title": "The Forbidden City, Pekin", "original_title": "The Forbidden City, Pekin", "slug_title": "the-forbidden-city-pekin", "date": "1903-08-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

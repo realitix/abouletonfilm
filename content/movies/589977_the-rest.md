@@ -1,1 +1,0 @@
-{"tmdb_id": 589977, "title": "The Rest", "original_title": "The Rest", "slug_title": "the-rest", "date": "2019-03-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ai Weiwei ()"], "comments": [], "recommandations_id": []}

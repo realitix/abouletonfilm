@@ -1,1 +1,0 @@
-{"tmdb_id": 392026, "title": "The Office Picnic", "original_title": "The Office Picnic", "slug_title": "the-office-picnic", "date": "1972-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5hrjFNFMeorKfrBllJvI0zyUZcE.jpg", "actors": [], "comments": [], "recommandations_id": []}

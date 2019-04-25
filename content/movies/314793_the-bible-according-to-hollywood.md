@@ -1,1 +1,0 @@
-{"tmdb_id": 314793, "title": "The Bible According to Hollywood", "original_title": "The Bible According to Hollywood", "slug_title": "the-bible-according-to-hollywood", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ojg69Zjxj4KqEmP5XgunaK91jHp.jpg", "actors": [], "comments": [], "recommandations_id": []}

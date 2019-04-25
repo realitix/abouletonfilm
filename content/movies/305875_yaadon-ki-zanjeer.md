@@ -1,1 +1,0 @@
-{"tmdb_id": 305875, "title": "Yaadon Ki Zanjeer", "original_title": "Yaadon Ki Zanjeer", "slug_title": "yaadon-ki-zanjeer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

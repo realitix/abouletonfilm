@@ -1,1 +1,0 @@
-{"tmdb_id": 299352, "title": "Deepak Chopra: Secrets of Enlightenment", "original_title": "Deepak Chopra: Secrets of Enlightenment", "slug_title": "deepak-chopra-secrets-of-enlightenment", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

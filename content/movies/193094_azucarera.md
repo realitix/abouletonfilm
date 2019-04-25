@@ -1,1 +1,0 @@
-{"tmdb_id": 193094, "title": "Azucarera", "original_title": "Azucarera", "slug_title": "azucarera", "date": "2013-05-04", "genre": "Familial / Musique", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cSDEAkGowyxeHOlUtLHZVUfvnaB.jpg", "actors": [], "comments": [], "recommandations_id": []}

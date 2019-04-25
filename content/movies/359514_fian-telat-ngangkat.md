@@ -1,1 +1,0 @@
-{"tmdb_id": 359514, "title": "fian telat ngangkat", "original_title": "fian telat ngangkat", "slug_title": "fian-telat-ngangkat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

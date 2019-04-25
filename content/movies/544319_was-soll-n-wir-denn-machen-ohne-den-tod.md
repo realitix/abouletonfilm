@@ -1,1 +1,0 @@
-{"tmdb_id": 544319, "title": "Was soll'n wir denn machen ohne den Tod", "original_title": "Was soll'n wir denn machen ohne den Tod", "slug_title": "was-soll-n-wir-denn-machen-ohne-den-tod", "date": "1980-04-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

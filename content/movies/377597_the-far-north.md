@@ -1,1 +1,0 @@
-{"tmdb_id": 377597, "title": "The Far North", "original_title": "The Far North", "slug_title": "the-far-north", "date": "1921-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

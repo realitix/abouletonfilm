@@ -1,1 +1,0 @@
-{"tmdb_id": 159629, "title": "The Cage", "original_title": "The Cage", "slug_title": "the-cage", "date": "1947-11-15", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ailUvgxmu1Aa3yLGNJhw60n9odu.jpg", "actors": [], "comments": [], "recommandations_id": []}

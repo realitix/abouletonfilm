@@ -1,1 +1,0 @@
-{"tmdb_id": 592754, "title": "Spitting", "original_title": "Spucken", "slug_title": "spitting", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aT6QTc7a1WX33E8BPsDRPDCIg2R.jpg", "actors": [], "comments": [], "recommandations_id": []}

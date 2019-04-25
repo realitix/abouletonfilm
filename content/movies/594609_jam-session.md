@@ -1,1 +1,0 @@
-{"tmdb_id": 594609, "title": "Jam Session", "original_title": "Jam Session", "slug_title": "jam-session", "date": "2005-04-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

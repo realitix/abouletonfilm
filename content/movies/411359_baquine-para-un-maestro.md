@@ -1,1 +1,0 @@
-{"tmdb_id": 411359, "title": "Baquin\u00e9 para un Maestro", "original_title": "Baquin\u00e9 para un Maestro", "slug_title": "baquine-para-un-maestro", "date": "1985-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

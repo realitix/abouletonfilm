@@ -1,1 +1,0 @@
-{"tmdb_id": 130403, "title": "Karagattakaran", "original_title": "Karagattakaran", "slug_title": "karagattakaran", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 568554, "title": "Neo-Night on the Bald Mountain", "original_title": "Neo-Night on the Bald Mountain", "slug_title": "neo-night-on-the-bald-mountain", "date": "1975-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

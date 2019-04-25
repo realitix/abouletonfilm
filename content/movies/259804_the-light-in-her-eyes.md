@@ -1,1 +1,0 @@
-{"tmdb_id": 259804, "title": "The Light in Her Eyes", "original_title": "The Light in Her Eyes", "slug_title": "the-light-in-her-eyes", "date": "2011-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d38Xvoo4rsbIXRtAmIkuP47PVXD.jpg", "actors": [], "comments": [], "recommandations_id": []}

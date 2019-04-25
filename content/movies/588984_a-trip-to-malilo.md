@@ -1,1 +1,0 @@
-{"tmdb_id": 588984, "title": "A Trip to Malilo", "original_title": "Dan Kembali Bermimpi", "slug_title": "a-trip-to-malilo", "date": "2018-11-30", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fOcSEUqqMKPY5wKVmWQ76MPAdTv.jpg", "actors": [], "comments": [], "recommandations_id": []}

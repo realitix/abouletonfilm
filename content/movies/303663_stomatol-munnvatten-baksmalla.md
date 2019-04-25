@@ -1,1 +1,0 @@
-{"tmdb_id": 303663, "title": "Stomatol munnvatten (Baksm\u00e4lla)", "original_title": "Stomatol munnvatten (Baksm\u00e4lla)", "slug_title": "stomatol-munnvatten-baksmalla", "date": "1926-11-16", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

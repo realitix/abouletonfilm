@@ -1,1 +1,0 @@
-{"tmdb_id": 275056, "title": "Cosmic Alchemy", "original_title": "Cosmic Alchemy", "slug_title": "cosmic-alchemy", "date": "2010-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/biRNLbS9rKlueVqNmaUaN2r4LXd.jpg", "actors": [], "comments": [], "recommandations_id": []}

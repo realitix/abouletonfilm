@@ -1,1 +1,0 @@
-{"tmdb_id": 595892, "title": "Cake Walk, Performed by Nouveau Cirque", "original_title": "Le cake-walk du Nouveau Cirque", "slug_title": "cake-walk-performed-by-nouveau-cirque", "date": "1905-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

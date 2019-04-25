@@ -1,1 +1,0 @@
-{"tmdb_id": 320608, "title": "Out of the Blue: A Film About Life and Football", "original_title": "Out of the Blue: A Film About Life and Football", "slug_title": "out-of-the-blue-a-film-about-life-and-football", "date": "2007-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

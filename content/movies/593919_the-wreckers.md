@@ -1,1 +1,0 @@
-{"tmdb_id": 593919, "title": "The Wreckers", "original_title": "The Wreckers", "slug_title": "the-wreckers", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

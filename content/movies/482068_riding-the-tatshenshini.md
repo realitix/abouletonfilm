@@ -1,1 +1,0 @@
-{"tmdb_id": 482068, "title": "Riding the Tatshenshini", "original_title": "Riding the Tatshenshini", "slug_title": "riding-the-tatshenshini", "date": "2017-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

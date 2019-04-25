@@ -1,1 +1,0 @@
-{"tmdb_id": 304149, "title": "The Pink Marble Egg", "original_title": "The Pink Marble Egg", "slug_title": "the-pink-marble-egg", "date": "2013-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9vbXIjSerRHILVvdnOdFTlTzbtF.jpg", "actors": [], "comments": [], "recommandations_id": []}

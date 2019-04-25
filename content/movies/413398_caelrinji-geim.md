@@ -1,1 +1,0 @@
-{"tmdb_id": 413398, "title": "\ucc4c\ub9b0\uc9c0 \uac8c\uc784", "original_title": "\ucc4c\ub9b0\uc9c0 \uac8c\uc784", "slug_title": "caelrinji-geim", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lKltDTD3q6bKw9B8lKgIp8QUScu.jpg", "actors": [], "comments": [], "recommandations_id": []}

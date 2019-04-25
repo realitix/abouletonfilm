@@ -1,1 +1,0 @@
-{"tmdb_id": 402837, "title": "A Smile Beneath", "original_title": "A Smile Beneath", "slug_title": "a-smile-beneath", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

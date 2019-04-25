@@ -1,1 +1,0 @@
-{"tmdb_id": 577206, "title": "Load Shedding", "original_title": "Load Shedding", "slug_title": "load-shedding", "date": "2015-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4I6IJwKxjY1HTEkfLmlp4aWoflT.jpg", "actors": [], "comments": [], "recommandations_id": []}

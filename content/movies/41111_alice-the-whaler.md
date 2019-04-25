@@ -1,1 +1,0 @@
-{"tmdb_id": 41111, "title": "Alice the Whaler", "original_title": "Alice the Whaler", "slug_title": "alice-the-whaler", "date": "1927-01-01", "genre": "Animation", "score": "3.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mJrgg1XZcmwqIBOU5KiPRp4RqJn.jpg", "actors": [], "comments": [], "recommandations_id": [38588, 40788]}

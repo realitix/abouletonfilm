@@ -1,1 +1,0 @@
-{"tmdb_id": 151622, "title": "Pentujengi Aarrejahdissa", "original_title": "Pentujengi Aarrejahdissa", "slug_title": "pentujengi-aarrejahdissa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A7JZvw0qAlYxsDanQyqBRZp64H4.jpg", "actors": [], "comments": [], "recommandations_id": []}

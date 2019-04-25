@@ -1,1 +1,0 @@
-{"tmdb_id": 563642, "title": "Pour des fusils perdus", "original_title": "Pour des fusils perdus", "slug_title": "pour-des-fusils-perdus", "date": "1967-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

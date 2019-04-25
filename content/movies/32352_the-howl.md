@@ -1,1 +1,0 @@
-{"tmdb_id": 32352, "title": "The Howl", "original_title": "L'urlo", "slug_title": "the-howl", "date": "1968-04-04", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zJl75mD8IliG06Me31Cwa4JgrJQ.jpg", "actors": ["Tina Aumont (Anita)", "Gigi Proietti (Coso)"], "comments": [], "recommandations_id": []}

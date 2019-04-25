@@ -1,1 +1,0 @@
-{"tmdb_id": 285631, "title": "Singapura: O Le\u00e3o Asi\u00e1tico", "original_title": "Singapura: O Le\u00e3o Asi\u00e1tico", "slug_title": "singapura-o-leao-asiatico", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

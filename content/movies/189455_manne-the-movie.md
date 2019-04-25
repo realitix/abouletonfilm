@@ -1,1 +1,0 @@
-{"tmdb_id": 189455, "title": "Manne - the Movie", "original_title": "Manne - the Movie", "slug_title": "manne-the-movie", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

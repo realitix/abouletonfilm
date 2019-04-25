@@ -1,1 +1,0 @@
-{"tmdb_id": 459648, "title": "The Riverbed", "original_title": "The Riverbed", "slug_title": "the-riverbed", "date": "1986-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sharon Bellanoff-Smith (Lucille)", "John Beuscher (Malcolm)", "Elaine C. Grove (Loretta)"], "comments": [], "recommandations_id": []}

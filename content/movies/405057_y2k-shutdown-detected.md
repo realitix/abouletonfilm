@@ -1,1 +1,0 @@
-{"tmdb_id": 405057, "title": "Y2K: Shutdown Detected", "original_title": "Y2K: Shutdown Detected", "slug_title": "y2k-shutdown-detected", "date": "1999-12-31", "genre": "Horreur / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qL7cP3Qwt8z32mCUEYr2RF83U6D.jpg", "actors": [], "comments": [], "recommandations_id": []}

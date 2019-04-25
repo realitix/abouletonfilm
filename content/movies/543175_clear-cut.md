@@ -1,1 +1,0 @@
-{"tmdb_id": 543175, "title": "Clear Cut", "original_title": "Clear Cut", "slug_title": "clear-cut", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tf54XynTzCz6aGMF8ANIhyoO5Hr.jpg", "actors": [], "comments": [], "recommandations_id": []}

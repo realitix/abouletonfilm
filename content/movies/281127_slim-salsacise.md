@@ -1,1 +1,0 @@
-{"tmdb_id": 281127, "title": "Slim & Salsacise", "original_title": "Slim & Salsacise", "slug_title": "slim-salsacise", "date": "2004-12-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w5Yka9PscOnzGq5JC9620oKedy3.jpg", "actors": ["Rosemary Conley (Herself)"], "comments": [], "recommandations_id": []}

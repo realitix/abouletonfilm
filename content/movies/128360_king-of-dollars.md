@@ -1,1 +1,0 @@
-{"tmdb_id": 128360, "title": "King of Dollars", "original_title": "Le roi des dollars", "slug_title": "king-of-dollars", "date": "1905-07-01", "genre": "Fantastique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qlEuCSROrGYX0wbwoqrX3ge7Tzi.jpg", "actors": [], "comments": [], "recommandations_id": [119961, 119959, 120026, 126829]}

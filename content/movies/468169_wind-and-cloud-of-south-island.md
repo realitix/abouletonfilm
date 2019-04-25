@@ -1,1 +1,0 @@
-{"tmdb_id": 468169, "title": "Wind and Cloud of South Island", "original_title": "Nan dao feng yun", "slug_title": "wind-and-cloud-of-south-island", "date": "1955-01-01", "genre": "Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4oP9NMQZ0S5XKX3UoKpxRuYUk8h.jpg", "actors": [], "comments": [], "recommandations_id": []}

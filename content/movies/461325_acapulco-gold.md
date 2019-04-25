@@ -1,1 +1,0 @@
-{"tmdb_id": 461325, "title": "Acapulco Gold", "original_title": "Acapulco Gold", "slug_title": "acapulco-gold", "date": "1973-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ewT1nvRjqhJQ8rHCD6rQQkHkpiT.jpg", "actors": [], "comments": [], "recommandations_id": []}

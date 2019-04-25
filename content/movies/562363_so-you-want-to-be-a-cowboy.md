@@ -1,1 +1,0 @@
-{"tmdb_id": 562363, "title": "So You Want to Be a Cowboy", "original_title": "So You Want to Be a Cowboy", "slug_title": "so-you-want-to-be-a-cowboy", "date": "1951-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon ()"], "comments": [], "recommandations_id": []}

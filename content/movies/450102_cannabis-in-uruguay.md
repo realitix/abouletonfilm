@@ -1,1 +1,0 @@
-{"tmdb_id": 450102, "title": "Cannabis in Uruguay", "original_title": "Cannabis in Uruguay", "slug_title": "cannabis-in-uruguay", "date": "2017-04-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aSEKh1KvmNVy2M9BUfd6PQahOWD.jpg", "actors": [], "comments": [], "recommandations_id": []}

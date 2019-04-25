@@ -1,1 +1,0 @@
-{"tmdb_id": 461233, "title": "NOT AND OR", "original_title": "NOT AND OR", "slug_title": "not-and-or", "date": "2014-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r2G9Uxlo754QksYEvbDY8MK5Zvd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 503232, "title": "Chronicles of Humanity: Redemption", "original_title": "Chronicles of Humanity: Redemption", "slug_title": "chronicles-of-humanity-redemption", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6jEePAmiYqGS9N61quLAkDUQ8G1.jpg", "actors": [], "comments": [], "recommandations_id": []}

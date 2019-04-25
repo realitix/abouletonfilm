@@ -1,1 +1,0 @@
-{"tmdb_id": 310258, "title": "Charles Mingus: Epitaph", "original_title": "Charles Mingus: Epitaph", "slug_title": "charles-mingus-epitaph", "date": "2009-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

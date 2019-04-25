@@ -1,1 +1,0 @@
-{"tmdb_id": 368238, "title": "A Long Walk To Forever", "original_title": "A Long Walk To Forever", "slug_title": "a-long-walk-to-forever", "date": "1987-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Denis Leary (Newt)", "Dana Nathan (Catherine)"], "comments": [], "recommandations_id": []}

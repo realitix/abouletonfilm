@@ -1,1 +1,0 @@
-{"tmdb_id": 477063, "title": "A Good Day to Die Hard: Making It Hard to Die", "original_title": "A Good Day to Die Hard: Making It Hard to Die", "slug_title": "a-good-day-to-die-hard-making-it-hard-to-die", "date": "2013-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

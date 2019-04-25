@@ -1,1 +1,0 @@
-{"tmdb_id": 329464, "title": "The Great Promise", "original_title": "Dim'at Ha'Nehamah Ha'Gedolah", "slug_title": "the-great-promise", "date": "1947-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Abraham Sofaer ()", "Alexander Sarner ()", "Dan Lustig ()"], "comments": [], "recommandations_id": []}

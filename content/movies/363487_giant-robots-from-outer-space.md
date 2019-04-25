@@ -1,1 +1,0 @@
-{"tmdb_id": 363487, "title": "Giant Robots From Outer Space", "original_title": "Giant Robots From Outer Space", "slug_title": "giant-robots-from-outer-space", "date": "2014-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/OuG8YvhZCQHgtgrX9Ag3yVN1Rl.jpg", "actors": [], "comments": [], "recommandations_id": []}

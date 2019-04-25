@@ -1,1 +1,0 @@
-{"tmdb_id": 315677, "title": "Songs of the Silly Symphonies", "original_title": "Songs of the Silly Symphonies", "slug_title": "songs-of-the-silly-symphonies", "date": "2001-01-05", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leonard Maltin ()", "Richard M. Sherman ()"], "comments": [], "recommandations_id": []}

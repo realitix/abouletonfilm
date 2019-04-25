@@ -1,1 +1,0 @@
-{"tmdb_id": 134688, "title": "D.L. Hughley: Reset", "original_title": "D.L. Hughley: Reset", "slug_title": "d-l-hughley-reset", "date": "2012-07-14", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aj7OGomMDXyYajweyrbqclMkg3h.jpg", "actors": ["D. L. Hughley (Himself)"], "comments": [], "recommandations_id": []}

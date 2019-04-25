@@ -1,1 +1,0 @@
-{"tmdb_id": 583714, "title": "Robokip", "original_title": "Robokip", "slug_title": "robokip", "date": "1993-11-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

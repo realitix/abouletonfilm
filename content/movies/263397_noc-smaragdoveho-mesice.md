@@ -1,1 +1,0 @@
-{"tmdb_id": 263397, "title": "Noc smaragdov\u00e9ho mes\u00edce", "original_title": "Noc smaragdov\u00e9ho mes\u00edce", "slug_title": "noc-smaragdoveho-mesice", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/47Axwk1krf4YmjwJa2YhGMHMmPJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

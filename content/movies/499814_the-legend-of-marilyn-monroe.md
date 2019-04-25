@@ -1,1 +1,0 @@
-{"tmdb_id": 499814, "title": "The Legend of Marilyn Monroe", "original_title": "The Legend of Marilyn Monroe", "slug_title": "the-legend-of-marilyn-monroe", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/utwkHZ6x4bjXBMrxGY79Ht7oBQV.jpg", "actors": [], "comments": [], "recommandations_id": []}

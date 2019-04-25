@@ -1,1 +1,0 @@
-{"tmdb_id": 359301, "title": "Westfalia", "original_title": "Westfalia", "slug_title": "westfalia", "date": "2014-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bj\u00f6rn Bugri (Willy)", "Fritz Roth (Dix)", "Julia Beerhold (Helga)"], "comments": [], "recommandations_id": []}

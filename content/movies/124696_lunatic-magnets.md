@@ -1,1 +1,0 @@
-{"tmdb_id": 124696, "title": "Lunatic Magnets", "original_title": "Lunatic Magnets", "slug_title": "lunatic-magnets", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jKDsmvd8tD7YhSp09Ei6CCWuy6e.jpg", "actors": [], "comments": [], "recommandations_id": []}

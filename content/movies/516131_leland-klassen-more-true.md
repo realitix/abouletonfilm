@@ -1,1 +1,0 @@
-{"tmdb_id": 516131, "title": "Leland Klassen: More True", "original_title": "Leland Klassen: More True", "slug_title": "leland-klassen-more-true", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 341783, "title": "Silicon;BootDrive", "original_title": "Silicon;BootDrive", "slug_title": "silicon-bootdrive", "date": "2013-09-10", "genre": "Thriller / Myst\u00e8re / Science-Fiction", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bartec Kuc ()", "Ken Lloyd ()", "Reon Kadena ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 589294, "title": "Keep on Running: 50 Years of Island Records", "original_title": "Keep on Running: 50 Years of Island Records", "slug_title": "keep-on-running-50-years-of-island-records", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

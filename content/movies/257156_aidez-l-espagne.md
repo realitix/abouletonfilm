@@ -1,1 +1,0 @@
-{"tmdb_id": 257156, "title": "Aidez l'Espagne", "original_title": "Aidez l'Espagne", "slug_title": "aidez-l-espagne", "date": "1969-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oBaPHEP8vIWRxc3tnqi880ZTQQ1.jpg", "actors": [], "comments": [], "recommandations_id": []}

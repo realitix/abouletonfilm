@@ -1,1 +1,0 @@
-{"tmdb_id": 421310, "title": "Truth for Ruth", "original_title": "Truth for Ruth", "slug_title": "truth-for-ruth", "date": "1972-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Curt McDowell ()", "Ted Davis ()"], "comments": [], "recommandations_id": []}

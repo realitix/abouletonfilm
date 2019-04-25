@@ -1,1 +1,0 @@
-{"tmdb_id": 586370, "title": "Journey Man", "original_title": "Journey Man", "slug_title": "journey-man", "date": "2002-11-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ifan Huw Dafydd ()"], "comments": [], "recommandations_id": []}

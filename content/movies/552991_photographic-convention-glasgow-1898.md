@@ -1,1 +1,0 @@
-{"tmdb_id": 552991, "title": "PHOTOGRAPHIC CONVENTION, GLASGOW 1898", "original_title": "PHOTOGRAPHIC CONVENTION, GLASGOW 1898", "slug_title": "photographic-convention-glasgow-1898", "date": "1898-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

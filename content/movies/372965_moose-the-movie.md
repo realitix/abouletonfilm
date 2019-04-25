@@ -1,1 +1,0 @@
-{"tmdb_id": 372965, "title": "Moose the Movie", "original_title": "Moose the Movie", "slug_title": "moose-the-movie", "date": "2015-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u5JqEIw5natweHIq5fLClqwmneH.jpg", "actors": [], "comments": [], "recommandations_id": []}

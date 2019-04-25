@@ -1,1 +1,0 @@
-{"tmdb_id": 349074, "title": "Lucy's Law", "original_title": "Lucy's Law", "slug_title": "lucy-s-law", "date": "2011-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/noQUtwL8b9WjbxJV8J0goWfm7ho.jpg", "actors": [], "comments": [], "recommandations_id": []}

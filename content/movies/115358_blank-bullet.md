@@ -1,1 +1,0 @@
-{"tmdb_id": 115358, "title": "Blank Bullet", "original_title": "Srak Srak", "slug_title": "blank-bullet", "date": "2010-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qQxPmx9Sp89BIbhquqqbDIDQqJL.jpg", "actors": ["Juli F\u00e0bregas ()", "Amos Lavi ()", "Liron Levo ()"], "comments": [], "recommandations_id": []}

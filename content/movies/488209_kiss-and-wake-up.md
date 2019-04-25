@@ -1,1 +1,0 @@
-{"tmdb_id": 488209, "title": "Kiss and Wake Up", "original_title": "Kiss and Wake Up", "slug_title": "kiss-and-wake-up", "date": "1942-10-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Johnny Downs ()"], "comments": [], "recommandations_id": []}

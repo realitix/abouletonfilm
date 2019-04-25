@@ -1,1 +1,0 @@
-{"tmdb_id": 243161, "title": "The Wetback Hound", "original_title": "The Wetback Hound", "slug_title": "the-wetback-hound", "date": "1957-06-19", "genre": "Familial", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7conkTVlaxpZi03bAMN58XnqR9C.jpg", "actors": [], "comments": [], "recommandations_id": []}

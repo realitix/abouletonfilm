@@ -1,1 +1,0 @@
-{"tmdb_id": 471666, "title": "Resident Evil: Keeper's Diary", "original_title": "Resident Evil: Keeper's Diary", "slug_title": "resident-evil-keeper-s-diary", "date": "2014-01-06", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["William Diaz (Dave Guerrero)"], "comments": [], "recommandations_id": []}

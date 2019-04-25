@@ -1,1 +1,0 @@
-{"tmdb_id": 179595, "title": "Remember the 80s", "original_title": "Remember the 80s", "slug_title": "remember-the-80s", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yqfoAHSYC38OS0lJU7WhG0Bmyib.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 573768, "title": "Submerge: Ni're Reborn", "original_title": "Submerge: Ni're Reborn", "slug_title": "submerge-ni-re-reborn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 414422, "title": "Galeria", "original_title": "Galeria", "slug_title": "galeria", "date": "2010-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bdoQojAKxB9SQ3l9432MeGlrO5O.jpg", "actors": [], "comments": [], "recommandations_id": []}

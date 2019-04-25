@@ -1,1 +1,0 @@
-{"tmdb_id": 505454, "title": "Raider in Canada: Portrait of Sean Martin", "original_title": "Raider in Canada: Portrait of Sean Martin", "slug_title": "raider-in-canada-portrait-of-sean-martin", "date": "1998-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Martin ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 372575, "title": "Die, Cheerleader, Die", "original_title": "Die, Cheerleader, Die", "slug_title": "die-cheerleader-die", "date": "2008-01-15", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/afoGnfyI3rezvemK1OFbsUAYOpB.jpg", "actors": ["Joey Bicicchi (Mike)"], "comments": [], "recommandations_id": []}

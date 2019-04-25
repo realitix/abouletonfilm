@@ -1,1 +1,0 @@
-{"tmdb_id": 438630, "title": "The Lure", "original_title": "The Lure", "slug_title": "the-lure", "date": "1914-08-24", "genre": "Drame / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James O'Neill ()", "Fraunie Fraunholz ((as Fraunie Fraunholtz))", "Kirah Markham ()", "Claire Whitney ()"], "comments": [], "recommandations_id": []}

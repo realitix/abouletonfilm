@@ -1,1 +1,0 @@
-{"tmdb_id": 391812, "title": "Satyricon: [2015] Hellfest", "original_title": "Satyricon: [2015] Hellfest", "slug_title": "satyricon-2015-hellfest", "date": "2015-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lWOgQw5wYF5PJDMEnP2NpDrAGRw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 288674, "title": "Space City", "original_title": "Space City", "slug_title": "space-city", "date": "2008-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/PmIqYkJBwZDLOdC0kjEe438sys.jpg", "actors": [], "comments": [], "recommandations_id": []}

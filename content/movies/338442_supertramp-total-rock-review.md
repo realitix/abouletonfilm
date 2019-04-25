@@ -1,1 +1,0 @@
-{"tmdb_id": 338442, "title": "Supertramp Total Rock Review", "original_title": "Supertramp Total Rock Review", "slug_title": "supertramp-total-rock-review", "date": "1977-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uzXCuDPmW6c5yAt5cr5FU7jdUlH.jpg", "actors": [], "comments": [], "recommandations_id": []}

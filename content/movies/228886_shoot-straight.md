@@ -1,1 +1,0 @@
-{"tmdb_id": 228886, "title": "Shoot Straight", "original_title": "Shoot Straight", "slug_title": "shoot-straight", "date": "1923-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Parrott ()", "Jobyna Ralston ()", "George Rowe ()"], "comments": [], "recommandations_id": []}

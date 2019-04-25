@@ -1,1 +1,0 @@
-{"tmdb_id": 339378, "title": "Il canale", "original_title": "Il canale", "slug_title": "il-canale", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ucVims72ZORs8EuI98yOJKecmx7.jpg", "actors": [], "comments": [], "recommandations_id": []}

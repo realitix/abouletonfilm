@@ -1,1 +1,0 @@
-{"tmdb_id": 556188, "title": "Bidhilipi", "original_title": "Bidhilipi", "slug_title": "bidhilipi", "date": "", "genre": "Drame / Musique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nk9zQmJOBPp22zgITtCDlCiR4lP.jpg", "actors": ["Ranjit Mallick ()", "Moushumi Chatterjee ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 456371, "title": "Coming Soon", "original_title": "Coming Soon", "slug_title": "coming-soon", "date": "1966-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

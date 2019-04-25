@@ -1,1 +1,0 @@
-{"tmdb_id": 303149, "title": "La Madre", "original_title": "La madre", "slug_title": "la-madre", "date": "2012-08-05", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/63t9jg8vFjQg89jET5n9J3LBTCp.jpg", "actors": ["Giovanna Daddi ()", "Dario Marconcini ()"], "comments": [], "recommandations_id": []}

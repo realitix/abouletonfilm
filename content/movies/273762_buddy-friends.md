@@ -1,1 +1,0 @@
-{"tmdb_id": 273762, "title": "Buddy Friends", "original_title": "Buddy Friends", "slug_title": "buddy-friends", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

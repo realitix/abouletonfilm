@@ -1,1 +1,0 @@
-{"tmdb_id": 567464, "title": "Let the Kid Play", "original_title": "B\u0131rak\u0131n \u00c7ocuk Oynas\u0131n", "slug_title": "let-the-kid-play", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3h7aPXa6F4lW3ABZv3ecPfTORBe.jpg", "actors": [], "comments": [], "recommandations_id": []}

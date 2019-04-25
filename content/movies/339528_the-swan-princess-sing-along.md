@@ -1,1 +1,0 @@
-{"tmdb_id": 339528, "title": "The Swan Princess: Sing Along", "original_title": "The Swan Princess: Sing Along", "slug_title": "the-swan-princess-sing-along", "date": "1998-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bxVstVKJsep63qbL5u8bLZLkhRJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

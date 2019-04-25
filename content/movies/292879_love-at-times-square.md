@@ -1,1 +1,0 @@
-{"tmdb_id": 292879, "title": "Love at Times Square", "original_title": "Love at Times Square", "slug_title": "love-at-times-square", "date": "2003-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 522686, "title": "17 A\u00f1os Juntos", "original_title": "17 A\u00f1os Juntos", "slug_title": "17-anos-juntos", "date": "2016-06-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4pLmufa4KBY1ePmReupOMBuc23x.jpg", "actors": [], "comments": [], "recommandations_id": []}

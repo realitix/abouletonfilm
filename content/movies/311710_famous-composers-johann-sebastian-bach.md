@@ -1,1 +1,0 @@
-{"tmdb_id": 311710, "title": "Famous Composers: Johann Sebastian Bach", "original_title": "Famous Composers: Johann Sebastian Bach", "slug_title": "famous-composers-johann-sebastian-bach", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

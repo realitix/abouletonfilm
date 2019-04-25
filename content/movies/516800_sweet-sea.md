@@ -1,1 +1,0 @@
-{"tmdb_id": 516800, "title": "Sweet Sea", "original_title": "Sweet Sea", "slug_title": "sweet-sea", "date": "1985-09-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

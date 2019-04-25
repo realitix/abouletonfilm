@@ -1,1 +1,0 @@
-{"tmdb_id": 539761, "title": "Cessez le feu", "original_title": "Cessez le feu", "slug_title": "cessez-le-feu", "date": "1934-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

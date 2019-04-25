@@ -1,1 +1,0 @@
-{"tmdb_id": 235822, "title": "Winner by a Hare", "original_title": "Winner by a Hare", "slug_title": "winner-by-a-hare", "date": "1953-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

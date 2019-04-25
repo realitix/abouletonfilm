@@ -1,1 +1,0 @@
-{"tmdb_id": 561433, "title": "Bees Extinction, Solving the Mystery", "original_title": "Bees Extinction, Solving the Mystery", "slug_title": "bees-extinction-solving-the-mystery", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

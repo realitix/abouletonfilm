@@ -1,1 +1,0 @@
-{"tmdb_id": 595179, "title": "Forgotten People of India", "original_title": "Forgotten People of India", "slug_title": "forgotten-people-of-india", "date": "2015-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cVMyornwnDmYEvZF6Gu8uQDO3DW.jpg", "actors": [], "comments": [], "recommandations_id": []}

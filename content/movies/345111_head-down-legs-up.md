@@ -1,1 +1,0 @@
-{"tmdb_id": 345111, "title": "Head Down... Legs Up", "original_title": "Testa in Gi\u00f9... Gambe in Aria", "slug_title": "head-down-legs-up", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pB5wXUMfzP8gvl57oSnugHsQLLo.jpg", "actors": ["Daniela Caroli ()"], "comments": [], "recommandations_id": []}

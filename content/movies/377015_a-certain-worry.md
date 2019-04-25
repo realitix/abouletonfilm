@@ -1,1 +1,0 @@
-{"tmdb_id": 377015, "title": "a certain worry", "original_title": "a certain worry", "slug_title": "a-certain-worry", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9cSAu70NxknARXdNr7UhaD3tjkV.jpg", "actors": [], "comments": [], "recommandations_id": []}

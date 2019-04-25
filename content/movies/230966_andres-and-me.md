@@ -1,1 +1,0 @@
-{"tmdb_id": 230966, "title": "Andres and Me", "original_title": "All'amore assente", "slug_title": "andres-and-me", "date": "2007-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g5iuflg1uh8pAwlFuxn4rqIaenJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

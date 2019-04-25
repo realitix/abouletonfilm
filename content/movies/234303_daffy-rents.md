@@ -1,1 +1,0 @@
-{"tmdb_id": 234303, "title": "Daffy Rents", "original_title": "Daffy Rents", "slug_title": "daffy-rents", "date": "1966-03-25", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2EgUunCRub9OU9nHy7zhYI1cYHe.jpg", "actors": [], "comments": [], "recommandations_id": [224056, 281560, 292750, 28182]}

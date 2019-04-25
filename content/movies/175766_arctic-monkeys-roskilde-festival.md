@@ -1,1 +1,0 @@
-{"tmdb_id": 175766, "title": "Arctic Monkeys: Roskilde Festival", "original_title": "Arctic Monkeys: Roskilde Festival", "slug_title": "arctic-monkeys-roskilde-festival", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fdi832lbtuey45iWERAT2vHuNEI.jpg", "actors": [], "comments": [], "recommandations_id": []}

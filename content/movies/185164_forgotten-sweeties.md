@@ -1,1 +1,0 @@
-{"tmdb_id": 185164, "title": "Forgotten Sweeties", "original_title": "Forgotten Sweeties", "slug_title": "forgotten-sweeties", "date": "1927-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charley Chase (Thurston)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 317710, "title": "Depth Study", "original_title": "Depth Study", "slug_title": "depth-study", "date": "1957-01-13", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Allen Swift (Economist / Communications Expert / Sociologist / Museum Curator / Wife / Bartender (voice))"], "comments": [], "recommandations_id": []}

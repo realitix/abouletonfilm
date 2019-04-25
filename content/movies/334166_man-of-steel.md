@@ -1,1 +1,0 @@
-{"tmdb_id": 334166, "title": "Man of Steel", "original_title": "Man of Steel", "slug_title": "man-of-steel", "date": "1967-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bOtv8uDNHiJhILNlrY8SoHKBhqa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 57639, "title": "Frolicking Fish", "original_title": "Frolicking Fish", "slug_title": "frolicking-fish", "date": "1930-05-08", "genre": "Animation", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8xc589uP4pS9DmBXiaiHJME5wgV.jpg", "actors": [], "comments": [], "recommandations_id": [51825, 51781, 236635, 237290]}

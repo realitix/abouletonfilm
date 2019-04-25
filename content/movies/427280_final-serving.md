@@ -1,1 +1,0 @@
-{"tmdb_id": 427280, "title": "Final Serving", "original_title": "Nachschlag", "slug_title": "final-serving", "date": "2013-11-22", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/98pXgrtfQ3QhhtndqWv7cWfvUrQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

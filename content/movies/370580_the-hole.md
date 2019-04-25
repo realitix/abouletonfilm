@@ -1,1 +1,1 @@
-{"tmdb_id": 370580, "title": "The hole", "original_title": "El forat", "slug_title": "the-hole", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 370580, "title": "The hole", "original_title": "El forat", "slug_title": "the-hole", "date": "2004-01-01", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

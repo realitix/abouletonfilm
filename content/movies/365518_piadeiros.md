@@ -1,1 +1,0 @@
-{"tmdb_id": 365518, "title": "Piadeiros", "original_title": "Piadeiros", "slug_title": "piadeiros", "date": "2015-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oxmCd801duEEawb5i4poerR4HCx.jpg", "actors": [], "comments": [], "recommandations_id": []}

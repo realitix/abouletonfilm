@@ -1,1 +1,0 @@
-{"tmdb_id": 342442, "title": "The Conceited General", "original_title": "\u9a84\u50b2\u7684\u5c06\u519b", "slug_title": "the-conceited-general", "date": "1956-05-08", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7UMo9ELRu3X57ffKjuphta7qyLf.jpg", "actors": [], "comments": [], "recommandations_id": []}

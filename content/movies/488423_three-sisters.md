@@ -1,1 +1,0 @@
-{"tmdb_id": 488423, "title": "Three Sisters", "original_title": "Three Sisters", "slug_title": "three-sisters", "date": "1911-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mary Pickford (Mary)", "Marion Sunshine (Florence)", "Vivian Prescott (Adele)", "Kate Bruce (The Mother)"], "comments": [], "recommandations_id": []}

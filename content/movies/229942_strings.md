@@ -1,1 +1,0 @@
-{"tmdb_id": 229942, "title": "Strings", "original_title": "Strings", "slug_title": "strings", "date": "2013-06-03", "genre": "Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2FCFxnDYskbPDmD6TEAAyXZYF1r.jpg", "actors": ["Jennifer Nash (Mother)", "Kathryn Rich (Electra)"], "comments": [], "recommandations_id": []}

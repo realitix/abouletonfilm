@@ -1,1 +1,0 @@
-{"tmdb_id": 351457, "title": "Bringing Home the Bacon", "original_title": "Bringing Home the Bacon", "slug_title": "bringing-home-the-bacon", "date": "1941-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

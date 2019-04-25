@@ -1,1 +1,0 @@
-{"tmdb_id": 292400, "title": "I Want to Betray My Husband", "original_title": "Voglio tradire mio marito", "slug_title": "i-want-to-betray-my-husband", "date": "1925-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Augusto Bandini ()", "Alex Bernard ()", "Oreste Bilancia ()"], "comments": [], "recommandations_id": []}

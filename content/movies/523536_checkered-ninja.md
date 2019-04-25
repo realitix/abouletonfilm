@@ -1,1 +1,0 @@
-{"tmdb_id": 523536, "title": "Checkered Ninja", "original_title": "Ternet Ninja", "slug_title": "checkered-ninja", "date": "2018-12-25", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/srMYvsmfLPUaKY3zF2sQmhv9AzY.jpg", "actors": [], "comments": [], "recommandations_id": []}

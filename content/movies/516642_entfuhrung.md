@@ -1,1 +1,0 @@
-{"tmdb_id": 516642, "title": "Entf\u00fchrung", "original_title": "Entf\u00fchrung", "slug_title": "entfuhrung", "date": "1976-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karl John (v. Weizsaecker)", "Hans Korte (Motta)", "Lutz Mackensy (Haeberli)", "Kurd Pieritz ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 78116, "title": "Mijn Enschede", "original_title": "Mijn Enschede", "slug_title": "mijn-enschede", "date": "2010-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/boPwAfQvLf6QXCWdVluTrJtjqRt.jpg", "actors": [], "comments": [], "recommandations_id": []}

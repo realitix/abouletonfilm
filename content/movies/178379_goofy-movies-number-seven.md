@@ -1,1 +1,0 @@
-{"tmdb_id": 178379, "title": "Goofy Movies Number Seven", "original_title": "Goofy Movies Number Seven", "slug_title": "goofy-movies-number-seven", "date": "1934-09-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator (voice))"], "comments": [], "recommandations_id": []}

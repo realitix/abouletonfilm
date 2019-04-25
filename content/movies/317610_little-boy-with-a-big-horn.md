@@ -1,1 +1,0 @@
-{"tmdb_id": 317610, "title": "Little Boy with a Big Horn", "original_title": "Little Boy with a Big Horn", "slug_title": "little-boy-with-a-big-horn", "date": "1953-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

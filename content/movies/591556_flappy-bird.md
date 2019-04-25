@@ -1,1 +1,0 @@
-{"tmdb_id": 591556, "title": "Flappy Bird", "original_title": "Flappy Bird", "slug_title": "flappy-bird", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e8KF9T6zFfrU62iiZdhLf0lYtBC.jpg", "actors": [], "comments": [], "recommandations_id": []}

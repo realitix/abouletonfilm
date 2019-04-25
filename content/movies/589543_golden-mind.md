@@ -1,1 +1,0 @@
-{"tmdb_id": 589543, "title": "Golden Mind", "original_title": "Golden Mind", "slug_title": "golden-mind", "date": "2013-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/twRsEYN95gaGJwYK0gKmjigI47w.jpg", "actors": [], "comments": [], "recommandations_id": []}

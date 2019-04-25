@@ -1,1 +1,0 @@
-{"tmdb_id": 368036, "title": "An Awkward Grace", "original_title": "An Awkward Grace", "slug_title": "an-awkward-grace", "date": "2012-11-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lMtMdhAgxh4FakjKub9a0E4MtjN.jpg", "actors": [], "comments": [], "recommandations_id": []}

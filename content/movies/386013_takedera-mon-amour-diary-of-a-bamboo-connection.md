@@ -1,1 +1,0 @@
-{"tmdb_id": 386013, "title": "Takedera mon amour: Diary of a Bamboo Connection", "original_title": "Takedera mon amour: Diary of a Bamboo Connection", "slug_title": "takedera-mon-amour-diary-of-a-bamboo-connection", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 313165, "title": "City2City", "original_title": "City2City", "slug_title": "city2city", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

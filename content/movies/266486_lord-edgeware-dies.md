@@ -1,1 +1,0 @@
-{"tmdb_id": 266486, "title": "Lord Edgeware Dies", "original_title": "Lord Edgeware Dies", "slug_title": "lord-edgeware-dies", "date": "2000-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

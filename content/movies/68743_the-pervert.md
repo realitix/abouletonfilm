@@ -1,1 +1,0 @@
-{"tmdb_id": 68743, "title": "The Pervert", "original_title": "The Pervert", "slug_title": "the-pervert", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

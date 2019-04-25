@@ -1,1 +1,0 @@
-{"tmdb_id": 318297, "title": "Rudy Maxa's World: Exotic Places: Turkey", "original_title": "Rudy Maxa's World: Exotic Places: Turkey", "slug_title": "rudy-maxa-s-world-exotic-places-turkey", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

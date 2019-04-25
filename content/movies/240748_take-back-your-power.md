@@ -1,1 +1,0 @@
-{"tmdb_id": 240748, "title": "Take Back Your Power", "original_title": "Take Back Your Power", "slug_title": "take-back-your-power", "date": "2013-09-05", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/he5Fpe9pMWEXA0KI6DKX2cHHAZ6.jpg", "actors": [], "comments": [], "recommandations_id": []}

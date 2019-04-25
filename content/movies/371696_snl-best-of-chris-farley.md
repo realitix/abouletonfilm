@@ -1,1 +1,0 @@
-{"tmdb_id": 371696, "title": "SNL Best of Chris Farley", "original_title": "SNL Best of Chris Farley", "slug_title": "snl-best-of-chris-farley", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

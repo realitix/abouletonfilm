@@ -1,1 +1,0 @@
-{"tmdb_id": 538757, "title": "Street Without Joy", "original_title": "La rue sans joie", "slug_title": "street-without-joy", "date": "1938-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z1XvK1uWnoZZsy40OJKnLG7IGLg.jpg", "actors": [], "comments": [], "recommandations_id": []}

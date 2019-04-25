@@ -1,1 +1,0 @@
-{"tmdb_id": 175395, "title": "The Rent Collector", "original_title": "The Rent Collector", "slug_title": "the-rent-collector", "date": "1921-05-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Semon (Larry, the Rent Collector)", "Oliver Hardy (The big boss)"], "comments": [], "recommandations_id": []}

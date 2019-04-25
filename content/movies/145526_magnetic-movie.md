@@ -1,1 +1,0 @@
-{"tmdb_id": 145526, "title": "Magnetic Movie", "original_title": "Magnetic Movie", "slug_title": "magnetic-movie", "date": "2009-01-19", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oxe9NiyraZylwYjEpt5VctZhrgv.jpg", "actors": [], "comments": [], "recommandations_id": []}

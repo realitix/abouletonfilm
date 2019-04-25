@@ -1,1 +1,0 @@
-{"tmdb_id": 327905, "title": "Chal Bhaag", "original_title": "Chal Bhaag", "slug_title": "chal-bhaag", "date": "2014-06-13", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kBOgzwD2Fp8rct6bPnuhuFo7G9p.jpg", "actors": ["Deepak Dobriyal (Tyagi Don)", "Samiksha Gaur ()"], "comments": [], "recommandations_id": []}

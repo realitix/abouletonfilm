@@ -1,1 +1,0 @@
-{"tmdb_id": 327659, "title": "Anthony Bourdain: A Cook's Tour- Europe", "original_title": "Anthony Bourdain: A Cook's Tour- Europe", "slug_title": "anthony-bourdain-a-cook-s-tour-europe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

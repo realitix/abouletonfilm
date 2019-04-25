@@ -1,1 +1,0 @@
-{"tmdb_id": 511573, "title": "Soup of the Day", "original_title": "Soup of the Day", "slug_title": "soup-of-the-day", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ueWBdY9eQeDYxevnofOmmvvT4xV.jpg", "actors": [], "comments": [], "recommandations_id": []}

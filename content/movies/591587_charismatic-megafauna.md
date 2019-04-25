@@ -1,1 +1,0 @@
-{"tmdb_id": 591587, "title": "Charismatic Megafauna", "original_title": "Charismatic Megafauna", "slug_title": "charismatic-megafauna", "date": "2019-03-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

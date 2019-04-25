@@ -1,1 +1,0 @@
-{"tmdb_id": 477852, "title": "The Queen of Spades", "original_title": "The Queen of Spades", "slug_title": "the-queen-of-spades", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lY9Kp0ciXj91kLPFgEIKfw50zAx.jpg", "actors": ["Misha Didyk (Hermann)"], "comments": [], "recommandations_id": []}

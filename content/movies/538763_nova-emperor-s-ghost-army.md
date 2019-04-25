@@ -1,1 +1,0 @@
-{"tmdb_id": 538763, "title": "Nova: Emperor's Ghost Army", "original_title": "Nova: Emperor's Ghost Army", "slug_title": "nova-emperor-s-ghost-army", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yriyNQ4rKVCwPuJpHBzMD5P3rFt.jpg", "actors": [], "comments": [], "recommandations_id": []}

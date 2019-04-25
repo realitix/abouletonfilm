@@ -1,1 +1,0 @@
-{"tmdb_id": 447685, "title": "The Green Fog", "original_title": "The Green Fog", "slug_title": "the-green-fog", "date": "2018-01-05", "genre": "Myst\u00e8re", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/viZmFdGEOspK72Szx3JfpMTzsW3.jpg", "actors": [], "comments": [], "recommandations_id": []}

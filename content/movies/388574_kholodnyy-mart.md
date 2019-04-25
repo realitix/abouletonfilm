@@ -1,1 +1,0 @@
-{"tmdb_id": 388574, "title": "Kholodnyy mart", "original_title": "Kholodnyy mart", "slug_title": "kholodnyy-mart", "date": "1987-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/78zbr20aecyO8sMkvgPkG1EMJr3.jpg", "actors": [], "comments": [], "recommandations_id": []}

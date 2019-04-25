@@ -1,1 +1,0 @@
-{"tmdb_id": 382688, "title": "Slaughterhouse: The Task Of Blood", "original_title": "Slaughterhouse: The Task Of Blood", "slug_title": "slaughterhouse-the-task-of-blood", "date": "2005-07-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

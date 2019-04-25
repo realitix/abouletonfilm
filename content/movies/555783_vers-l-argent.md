@@ -1,1 +1,1 @@
-{"tmdb_id": 555783, "title": "Vers l'argent", "original_title": "Vers l'argent", "slug_title": "vers-l-argent", "date": "1920-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 555783, "title": "Vers l'argent", "original_title": "Vers l'argent", "slug_title": "vers-l-argent", "date": "1920-07-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

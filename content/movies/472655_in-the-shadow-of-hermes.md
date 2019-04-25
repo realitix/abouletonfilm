@@ -1,1 +1,0 @@
-{"tmdb_id": 472655, "title": "In the Shadow of Hermes", "original_title": "I skuggan av Hermes", "slug_title": "in-the-shadow-of-hermes", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sfQ8ExcEVc4LvPJxXApJEXfXndK.jpg", "actors": [], "comments": [], "recommandations_id": []}

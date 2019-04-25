@@ -1,1 +1,0 @@
-{"tmdb_id": 577510, "title": "Farmer at War", "original_title": "Farmer at War", "slug_title": "farmer-at-war", "date": "1943-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

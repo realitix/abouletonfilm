@@ -1,1 +1,0 @@
-{"tmdb_id": 477453, "title": "Der Spion", "original_title": "Der Spion", "slug_title": "der-spion", "date": "1917-08-31", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ferdinand Bonn (Anzio)", "Conrad Veidt (Steinau)", "Leontine K\u00fchnberg (Else Bohl)"], "comments": [], "recommandations_id": []}

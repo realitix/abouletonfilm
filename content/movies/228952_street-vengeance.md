@@ -1,1 +1,0 @@
-{"tmdb_id": 228952, "title": "Street Vengeance", "original_title": "Street Vengeance", "slug_title": "street-vengeance", "date": "", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ed Zajac (Crazy Carl)", "Scott Fishkind (Ben St. Clair)"], "comments": [], "recommandations_id": []}

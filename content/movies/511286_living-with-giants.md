@@ -1,1 +1,0 @@
-{"tmdb_id": 511286, "title": "Living with Giants", "original_title": "Living with Giants", "slug_title": "living-with-giants", "date": "2016-05-04", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aMfYg4w95fYBdSbKgwsA2zkxZfD.jpg", "actors": [], "comments": [], "recommandations_id": []}

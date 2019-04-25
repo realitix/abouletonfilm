@@ -1,1 +1,0 @@
-{"tmdb_id": 328365, "title": "Rouch in Reverse", "original_title": "Rouch in Reverse", "slug_title": "rouch-in-reverse", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean Rouch (himself)", "Manthia Diawara (himself)"], "comments": [], "recommandations_id": []}

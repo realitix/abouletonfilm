@@ -1,1 +1,0 @@
-{"tmdb_id": 421240, "title": "Titans of the Earth", "original_title": "Titanen des Erdreichs", "slug_title": "titans-of-the-earth", "date": "2014-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zcjeoPzzgRxrdCHhp9kg6hojECW.jpg", "actors": [], "comments": [], "recommandations_id": []}

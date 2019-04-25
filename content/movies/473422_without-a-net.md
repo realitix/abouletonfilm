@@ -1,1 +1,0 @@
-{"tmdb_id": 473422, "title": "Without a Net", "original_title": "Without a Net", "slug_title": "without-a-net", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

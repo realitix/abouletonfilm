@@ -1,1 +1,0 @@
-{"tmdb_id": 394138, "title": "Blowing Hot and Cold", "original_title": "Blowing Hot and Cold", "slug_title": "blowing-hot-and-cold", "date": "1989-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jkxisPhJeLVVBdWA01Ba4X03TZH.jpg", "actors": [], "comments": [], "recommandations_id": []}

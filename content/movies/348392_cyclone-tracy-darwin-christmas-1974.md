@@ -1,1 +1,0 @@
-{"tmdb_id": 348392, "title": "Cyclone Tracy: Darwin, Christmas 1974", "original_title": "Cyclone Tracy: Darwin, Christmas 1974", "slug_title": "cyclone-tracy-darwin-christmas-1974", "date": "1975-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 298594, "title": "Sacred Ritual of Truth", "original_title": "Basal Banar", "slug_title": "sacred-ritual-of-truth", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w0gq8CJVzK0fPBUWku3kaYd6Lmw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 392173, "title": "Episodic Generation", "original_title": "Episodic Generation", "slug_title": "episodic-generation", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

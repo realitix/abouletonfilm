@@ -1,1 +1,0 @@
-{"tmdb_id": 522971, "title": "The Compromise", "original_title": "Het compromis", "slug_title": "the-compromise", "date": "1968-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vDm1oQ2FYz0LPGenpQFhzgwpnNF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 259314, "title": "Berlin Gala Concert", "original_title": "Berlin Gala Concert", "slug_title": "berlin-gala-concert", "date": "2010-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v8rYP9nIIrxXwpbPqNn8uk7LEvl.jpg", "actors": [], "comments": [], "recommandations_id": []}

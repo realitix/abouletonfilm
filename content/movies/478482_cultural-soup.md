@@ -1,1 +1,0 @@
-{"tmdb_id": 478482, "title": "Cultural Soup", "original_title": "Cultural Soup", "slug_title": "cultural-soup", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zf4FyW1OWNFm0uynEKndoY1KhPr.jpg", "actors": ["Paul McCarthy ()"], "comments": [], "recommandations_id": []}

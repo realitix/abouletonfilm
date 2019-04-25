@@ -1,1 +1,0 @@
-{"tmdb_id": 594718, "title": "\u0421\u043f\u0443\u0442\u043d\u0438\u043a", "original_title": "\u0421\u043f\u0443\u0442\u043d\u0438\u043a", "slug_title": "sputnik", "date": "", "genre": "Horreur / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

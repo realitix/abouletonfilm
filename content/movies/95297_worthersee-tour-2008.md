@@ -1,1 +1,0 @@
-{"tmdb_id": 95297, "title": "W\u00f6rthersee Tour 2008", "original_title": "W\u00f6rthersee Tour 2008", "slug_title": "worthersee-tour-2008", "date": "2008-04-06", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x4FYhprbY59BQ41pxnWiS9MLcm2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 589106, "title": "The Nine Mile Walk", "original_title": "The Nine Mile Walk", "slug_title": "the-nine-mile-walk", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

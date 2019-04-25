@@ -1,1 +1,0 @@
-{"tmdb_id": 596528, "title": "Detroit Hives", "original_title": "Detroit Hives", "slug_title": "detroit-hives", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

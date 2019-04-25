@@ -1,1 +1,0 @@
-{"tmdb_id": 587382, "title": "Bent in Motion", "original_title": "Bent in Motion", "slug_title": "bent-in-motion", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u7epMrxRJqrfqbRknE0RuSyBE2E.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 139548, "title": "ECW Anarchy Rulz 1999", "original_title": "ECW Anarchy Rulz 1999", "slug_title": "ecw-anarchy-rulz-1999", "date": "1999-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sw23D4E3Uj6WIR0Ql0dnCv7rC6P.jpg", "actors": [], "comments": [], "recommandations_id": []}

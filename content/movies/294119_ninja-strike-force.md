@@ -1,1 +1,0 @@
-{"tmdb_id": 294119, "title": "Ninja Strike Force", "original_title": "Ninja Strike Force", "slug_title": "ninja-strike-force", "date": "1988-01-01", "genre": "Action / Drame / Fantastique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gqCLDeUyvvVJfM50Zx4USgRSHQt.jpg", "actors": [], "comments": [], "recommandations_id": []}

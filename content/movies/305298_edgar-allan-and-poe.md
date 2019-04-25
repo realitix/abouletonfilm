@@ -1,1 +1,0 @@
-{"tmdb_id": 305298, "title": "Edgar, Allan and Poe", "original_title": "Edgar, Allan and Poe", "slug_title": "edgar-allan-and-poe", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

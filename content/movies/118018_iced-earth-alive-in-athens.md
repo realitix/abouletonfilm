@@ -1,1 +1,0 @@
-{"tmdb_id": 118018, "title": "Iced Earth: Alive in Athens", "original_title": "Iced Earth: Alive in Athens", "slug_title": "iced-earth-alive-in-athens", "date": "2006-10-30", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/avNYthx0YcTFBSHoyfEcYr5ceYa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 419008, "title": "Winter Journey", "original_title": "Voyage d'hiver", "slug_title": "winter-journey", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g9TrrZQPeQQwR2pDxtXiLLMvtwd.jpg", "actors": [], "comments": [], "recommandations_id": []}

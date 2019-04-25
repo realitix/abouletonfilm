@@ -1,1 +1,0 @@
-{"tmdb_id": 503514, "title": "Kentina", "original_title": "Kentina", "slug_title": "kentina", "date": "2010-01-01", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tony Adams (Bounty Hunter)", "Paul Adams (Sheriff)", "Spencer Austin (Garrett)"], "comments": [], "recommandations_id": []}

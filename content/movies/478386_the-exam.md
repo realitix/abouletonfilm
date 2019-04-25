@@ -1,1 +1,0 @@
-{"tmdb_id": 478386, "title": "The Exam", "original_title": "Emtehan", "slug_title": "the-exam", "date": "2002-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lx8dj39QL58VzFa967Na4ZOmvT5.jpg", "actors": [], "comments": [], "recommandations_id": []}

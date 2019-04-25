@@ -1,1 +1,0 @@
-{"tmdb_id": 331150, "title": "Wolf Hunting in Russia", "original_title": "Chasse aux loups en Russie", "slug_title": "wolf-hunting-in-russia", "date": "1910-04-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lz9XywVyAivo4F9J4r6o25cAeON.jpg", "actors": [], "comments": [], "recommandations_id": []}

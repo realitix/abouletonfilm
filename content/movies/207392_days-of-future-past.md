@@ -1,1 +1,0 @@
-{"tmdb_id": 207392, "title": "Days of Future Past", "original_title": "Days of Future Past", "slug_title": "days-of-future-past", "date": "2013-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 553952, "title": "Still Moving/Patti Smith", "original_title": "Still Moving/Patti Smith", "slug_title": "still-moving-patti-smith", "date": "1978-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Patti Smith (Herself)", "Robert Mapplethorpe (Himself)"], "comments": [], "recommandations_id": []}

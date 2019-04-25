@@ -1,1 +1,0 @@
-{"tmdb_id": 84949, "title": "Shadow Mask", "original_title": "Wu shen hei xia", "slug_title": "shadow-mask", "date": "2001-08-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fhiisFqDAsXJr497BRJVXjT97io.jpg", "actors": ["Fan Siu-Wong ()"], "comments": [], "recommandations_id": []}

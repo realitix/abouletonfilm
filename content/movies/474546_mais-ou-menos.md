@@ -1,1 +1,0 @@
-{"tmdb_id": 474546, "title": "Mais ou Menos", "original_title": "Mais ou Menos", "slug_title": "mais-ou-menos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

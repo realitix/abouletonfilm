@@ -1,1 +1,0 @@
-{"tmdb_id": 386919, "title": "Back to Nature", "original_title": "Back to Nature", "slug_title": "back-to-nature", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

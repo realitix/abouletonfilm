@@ -1,1 +1,0 @@
-{"tmdb_id": 419000, "title": "The Last Goodbye", "original_title": "Dernier adieu", "slug_title": "the-last-goodbye", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pfpPTfhgA0JMOBtQxcpfIhSZ5pd.jpg", "actors": [], "comments": [], "recommandations_id": []}

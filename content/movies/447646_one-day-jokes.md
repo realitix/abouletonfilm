@@ -1,1 +1,0 @@
-{"tmdb_id": 447646, "title": "One Day Jokes", "original_title": "One Day Jokes", "slug_title": "one-day-jokes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sreejith Vijay ()", "Rachana Narayanankutty ()", "Jagadish ()"], "comments": [], "recommandations_id": []}

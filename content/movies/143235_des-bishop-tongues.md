@@ -1,1 +1,0 @@
-{"tmdb_id": 143235, "title": "Des Bishop: Tongues", "original_title": "Des Bishop: Tongues", "slug_title": "des-bishop-tongues", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4hGU24nt7pd92MDxYYMdlK2Hl9u.jpg", "actors": [], "comments": [], "recommandations_id": []}

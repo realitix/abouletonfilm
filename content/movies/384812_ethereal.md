@@ -1,1 +1,0 @@
-{"tmdb_id": 384812, "title": "Ethereal", "original_title": "Ethereal", "slug_title": "ethereal", "date": "2014-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cQvYW6KJxvGrhC571oASXDzUyd7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 195093, "title": "S.S. 'Williamette' Leaving for Klondike", "original_title": "S.S. 'Williamette' Leaving for Klondike", "slug_title": "s-s-williamette-leaving-for-klondike", "date": "1897-10-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

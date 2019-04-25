@@ -1,1 +1,0 @@
-{"tmdb_id": 457817, "title": "Rock Video Girls 3", "original_title": "Rock Video Girls 3", "slug_title": "rock-video-girls-3", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oxMZejFrklbfmRs2A3QN6eh8QKZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

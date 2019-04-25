@@ -1,1 +1,0 @@
-{"tmdb_id": 400707, "title": "Dirty Model", "original_title": "Dirty Model", "slug_title": "dirty-model", "date": "2015-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dOgVp5ApbpRx8TBvdFTJ377hupU.jpg", "actors": [], "comments": [], "recommandations_id": []}

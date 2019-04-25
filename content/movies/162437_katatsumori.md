@@ -1,1 +1,0 @@
-{"tmdb_id": 162437, "title": "Katatsumori", "original_title": "\u304b\u305f\u3064\u3082\u308a", "slug_title": "katatsumori", "date": "1994-05-22", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4aVwPz2qENPIL1ANW7rBH7z8Xfr.jpg", "actors": [], "comments": [], "recommandations_id": []}

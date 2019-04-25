@@ -1,1 +1,0 @@
-{"tmdb_id": 253506, "title": "Get Krump", "original_title": "Get Krump", "slug_title": "get-krump", "date": "2005-03-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

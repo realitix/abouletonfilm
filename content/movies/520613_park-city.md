@@ -1,1 +1,0 @@
-{"tmdb_id": 520613, "title": "Park City", "original_title": "Park City", "slug_title": "park-city", "date": "2011-08-21", "genre": "Drame", "score": "9.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i5CnjQnEuhg4C4AEqoSgTOsXBXd.jpg", "actors": [], "comments": [], "recommandations_id": [520627, 520607, 520590, 520629]}

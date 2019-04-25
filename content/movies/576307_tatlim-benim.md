@@ -1,1 +1,0 @@
-{"tmdb_id": 576307, "title": "Tatlim benim", "original_title": "Tatlim benim", "slug_title": "tatlim-benim", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6tMQuPPit5Ldvb5kCyfwMssPnUg.jpg", "actors": [], "comments": [], "recommandations_id": []}

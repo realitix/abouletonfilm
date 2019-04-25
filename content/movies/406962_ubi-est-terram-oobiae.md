@@ -1,1 +1,0 @@
-{"tmdb_id": 406962, "title": "Ubi est terram oobiae?", "original_title": "Ubi est terram oobiae?", "slug_title": "ubi-est-terram-oobiae", "date": "1969-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uMSI4nLbohmoBhiMRd7lNNKUHBy.jpg", "actors": [], "comments": [], "recommandations_id": []}

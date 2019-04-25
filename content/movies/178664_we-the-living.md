@@ -1,1 +1,0 @@
-{"tmdb_id": 178664, "title": "We the Living", "original_title": "Noi Vivi", "slug_title": "we-the-living", "date": "1942-10-20", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fvErjVcgchlsi2nQPzCiA9bcTYa.jpg", "actors": [], "comments": [], "recommandations_id": []}

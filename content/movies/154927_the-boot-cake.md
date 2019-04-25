@@ -1,1 +1,0 @@
-{"tmdb_id": 154927, "title": "The Boot Cake", "original_title": "The Boot Cake", "slug_title": "the-boot-cake", "date": "2008-05-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/caXm6Mq6GzuUoaLLiFQqMosunWI.jpg", "actors": [], "comments": [], "recommandations_id": []}

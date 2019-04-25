@@ -1,1 +1,0 @@
-{"tmdb_id": 351921, "title": "The Teacher Who Defied Hitler", "original_title": "The Teacher Who Defied Hitler", "slug_title": "the-teacher-who-defied-hitler", "date": "2014-06-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

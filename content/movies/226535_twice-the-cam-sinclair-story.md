@@ -1,1 +1,0 @@
-{"tmdb_id": 226535, "title": "Twice: The Cam Sinclair Story", "original_title": "Twice: The Cam Sinclair Story", "slug_title": "twice-the-cam-sinclair-story", "date": "2012-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wXTHuDw4R7PQNfOb368Uqs6WTqV.jpg", "actors": [], "comments": [], "recommandations_id": []}

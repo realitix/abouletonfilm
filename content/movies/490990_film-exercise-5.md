@@ -1,1 +1,0 @@
-{"tmdb_id": 490990, "title": "Film Exercise 5", "original_title": "Film Exercise 5", "slug_title": "film-exercise-5", "date": "1944-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ybRMS5KobFkYsT63cq1dokrijsX.jpg", "actors": [], "comments": [], "recommandations_id": []}

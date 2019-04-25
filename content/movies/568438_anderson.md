@@ -1,1 +1,0 @@
-{"tmdb_id": 568438, "title": "Anderson", "original_title": "Anderson", "slug_title": "anderson", "date": "2017-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o2JsH4BQttXayWLhJH5xdhejJuR.jpg", "actors": [], "comments": [], "recommandations_id": []}

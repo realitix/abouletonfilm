@@ -1,1 +1,0 @@
-{"tmdb_id": 266727, "title": "Peasants", "original_title": "Krestyane", "slug_title": "peasants", "date": "1935-04-01", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rJcevNEVVN6sXS1a5XPaRTiwpkV.jpg", "actors": ["Nikolai Bogolyubov ()", "Pyotr Aleynikov ()"], "comments": [], "recommandations_id": []}

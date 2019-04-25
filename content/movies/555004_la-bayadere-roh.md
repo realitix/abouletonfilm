@@ -1,1 +1,0 @@
-{"tmdb_id": 555004, "title": "La Bayad\u00e8re - ROH", "original_title": "La Bayad\u00e8re - ROH", "slug_title": "la-bayadere-roh", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

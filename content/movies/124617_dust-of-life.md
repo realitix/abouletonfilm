@@ -1,1 +1,0 @@
-{"tmdb_id": 124617, "title": "Dust of Life", "original_title": "Poussi\u00e8res de vie", "slug_title": "dust-of-life", "date": "1995-01-18", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ookEtb5iZaQ6giaWlAp8qAkABuw.jpg", "actors": [], "comments": [], "recommandations_id": []}

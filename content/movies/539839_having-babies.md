@@ -1,1 +1,0 @@
-{"tmdb_id": 539839, "title": "Having Babies", "original_title": "Having Babies", "slug_title": "having-babies", "date": "1976-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

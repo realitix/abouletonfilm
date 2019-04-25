@@ -1,1 +1,0 @@
-{"tmdb_id": 202152, "title": "An Inconvenient Tax", "original_title": "An Inconvenient Tax", "slug_title": "an-inconvenient-tax", "date": "2011-04-15", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lTWJxlc6Q24NN3an1o9PUCssUZ3.jpg", "actors": [], "comments": [], "recommandations_id": []}

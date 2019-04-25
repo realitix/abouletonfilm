@@ -1,1 +1,0 @@
-{"tmdb_id": 211134, "title": "White Wash", "original_title": "White Wash", "slug_title": "white-wash", "date": "2011-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fzxC6u6rb4l9y2gHG2pDZcQai67.jpg", "actors": [], "comments": [], "recommandations_id": []}

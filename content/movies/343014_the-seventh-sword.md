@@ -1,1 +1,0 @@
-{"tmdb_id": 343014, "title": "The Seventh Sword", "original_title": "Le sette spade del vendicatore", "slug_title": "the-seventh-sword", "date": "1962-10-29", "genre": "Aventure / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bgXxPrlLvodvtRPYhs2kl7jt26V.jpg", "actors": [], "comments": [], "recommandations_id": []}

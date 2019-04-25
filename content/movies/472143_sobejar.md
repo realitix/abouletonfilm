@@ -1,1 +1,0 @@
-{"tmdb_id": 472143, "title": "Sobejar", "original_title": "Sobejar", "slug_title": "sobejar", "date": "2017-09-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qWJI0UNshftSLaxqU42tRBmQx7F.jpg", "actors": [], "comments": [], "recommandations_id": []}

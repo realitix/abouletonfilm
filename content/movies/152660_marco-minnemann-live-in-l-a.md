@@ -1,1 +1,0 @@
-{"tmdb_id": 152660, "title": "Marco Minnemann: Live in L.A.", "original_title": "Marco Minnemann: Live in L.A.", "slug_title": "marco-minnemann-live-in-l-a", "date": "2007-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aOLMx2hLMmphWbjBp4Spm9lPc3Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

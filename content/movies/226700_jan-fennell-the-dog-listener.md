@@ -1,1 +1,0 @@
-{"tmdb_id": 226700, "title": "Jan Fennell - The Dog Listener", "original_title": "Jan Fennell - The Dog Listener", "slug_title": "jan-fennell-the-dog-listener", "date": "2005-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jen Fennell ()"], "comments": [], "recommandations_id": []}

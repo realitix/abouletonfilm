@@ -1,1 +1,0 @@
-{"tmdb_id": 218123, "title": "Lumi\u00e8re", "original_title": "Lumi\u00e8re", "slug_title": "lumiere", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

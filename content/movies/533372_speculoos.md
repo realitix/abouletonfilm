@@ -1,1 +1,0 @@
-{"tmdb_id": 533372, "title": "Speculoos", "original_title": "Speculoos", "slug_title": "speculoos", "date": "2004-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

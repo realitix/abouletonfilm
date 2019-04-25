@@ -1,1 +1,0 @@
-{"tmdb_id": 567531, "title": "Super Erotic Super Heroines", "original_title": "Super Erotic Super Heroines", "slug_title": "super-erotic-super-heroines", "date": "2017-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 281074, "title": "Expurgation", "original_title": "Expurgation", "slug_title": "expurgation", "date": "2013-11-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p9bzYbihuxkU1p76MHFryS6dyPC.jpg", "actors": ["Karla Fuentes (Woman)", "Miguel Bulies (Charlie)"], "comments": [], "recommandations_id": []}

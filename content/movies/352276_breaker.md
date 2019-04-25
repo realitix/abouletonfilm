@@ -1,1 +1,0 @@
-{"tmdb_id": 352276, "title": "Breaker", "original_title": "Breaker", "slug_title": "breaker", "date": "2014-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Molly McIntyre (Woman)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 165932, "title": "Any Evening After Work", "original_title": "Any Evening After Work", "slug_title": "any-evening-after-work", "date": "1930-01-31", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tRXfzcyYoNn6UdhOqCyYraOPkyn.jpg", "actors": [], "comments": [], "recommandations_id": []}

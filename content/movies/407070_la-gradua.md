@@ -1,1 +1,0 @@
-{"tmdb_id": 407070, "title": "La Gradu\u00e1", "original_title": "La Gradu\u00e1", "slug_title": "la-gradua", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5twxLADObVAkqbOjpVRtkRXbsuY.jpg", "actors": ["Zahaira Curiel (Misiotis)", "Theodore Copeland (Travis)"], "comments": [], "recommandations_id": []}

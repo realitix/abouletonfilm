@@ -1,1 +1,0 @@
-{"tmdb_id": 466828, "title": "Creating Gender Inclusive Schools", "original_title": "Creating Gender Inclusive Schools", "slug_title": "creating-gender-inclusive-schools", "date": "2016-09-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

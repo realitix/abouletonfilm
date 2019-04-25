@@ -1,1 +1,0 @@
-{"tmdb_id": 302841, "title": "A Japanese Fantasy", "original_title": "Japon de fantaisie", "slug_title": "a-japanese-fantasy", "date": "1909-03-23", "genre": "Animation / Fantastique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/35fFlZBwke72QAEBliN8Ou6I4X1.jpg", "actors": [], "comments": [], "recommandations_id": []}

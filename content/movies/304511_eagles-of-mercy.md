@@ -1,1 +1,0 @@
-{"tmdb_id": 304511, "title": "Eagles of Mercy", "original_title": "Eagles of Mercy", "slug_title": "eagles-of-mercy", "date": "2014-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

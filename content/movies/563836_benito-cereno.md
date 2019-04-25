@@ -1,1 +1,0 @@
-{"tmdb_id": 563836, "title": "Benito Cereno", "original_title": "Benito Cereno", "slug_title": "benito-cereno", "date": "1971-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

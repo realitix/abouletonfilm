@@ -1,1 +1,0 @@
-{"tmdb_id": 47457, "title": "Krazy Kat, Bugologist", "original_title": "Krazy Kat, Bugologist", "slug_title": "krazy-kat-bugologist", "date": "1916-03-14", "genre": "Com\u00e9die / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1mXfKeKGril85m9clYgBmNPde5C.jpg", "actors": [], "comments": [], "recommandations_id": []}

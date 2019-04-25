@@ -1,1 +1,0 @@
-{"tmdb_id": 527801, "title": "A Talent For Trouble", "original_title": "A Talent For Trouble", "slug_title": "a-talent-for-trouble", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["N'Bushe Wright (Marissa Montez)", "Prodigy (Himself)"], "comments": [], "recommandations_id": []}

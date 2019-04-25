@@ -1,1 +1,0 @@
-{"tmdb_id": 498981, "title": "Dream Houses", "original_title": "Dream Houses", "slug_title": "dream-houses", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

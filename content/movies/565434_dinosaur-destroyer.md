@@ -1,1 +1,0 @@
-{"tmdb_id": 565434, "title": "Dinosaur Destroyer", "original_title": "Dinosaur Destroyer", "slug_title": "dinosaur-destroyer", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fdw8cLLFzAqtBnMmRf6ryckjihe.jpg", "actors": [], "comments": [], "recommandations_id": []}

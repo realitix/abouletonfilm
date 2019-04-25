@@ -1,1 +1,0 @@
-{"tmdb_id": 325022, "title": "Trace Adkins Live Country!", "original_title": "Trace Adkins Live Country!", "slug_title": "trace-adkins-live-country", "date": "2015-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

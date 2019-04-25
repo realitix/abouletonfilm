@@ -1,1 +1,0 @@
-{"tmdb_id": 454196, "title": "Ewir Amora Kelabi", "original_title": "Ewir Amora Kelabi", "slug_title": "ewir-amora-kelabi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4mMfnZqKCuBW2570qsRCCbybATo.jpg", "actors": [], "comments": [], "recommandations_id": []}

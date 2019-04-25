@@ -1,1 +1,0 @@
-{"tmdb_id": 540973, "title": "M\u00f3nica Naranjo: Stage", "original_title": "M\u00f3nica Naranjo: Stage", "slug_title": "monica-naranjo-stage", "date": "2009-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tbicueXT12dlR9OJPgKTvBol2Cw.jpg", "actors": [], "comments": [], "recommandations_id": []}

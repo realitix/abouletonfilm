@@ -1,1 +1,0 @@
-{"tmdb_id": 543953, "title": "Sean Bean on Waterloo", "original_title": "Sean Bean on Waterloo", "slug_title": "sean-bean-on-waterloo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 48835, "title": "Puppet", "original_title": "Puppet", "slug_title": "puppet", "date": "2010-11-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vwwsXhktVz0PdPavPdzYWnUdl4k.jpg", "actors": [], "comments": [], "recommandations_id": []}

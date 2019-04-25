@@ -1,1 +1,0 @@
-{"tmdb_id": 510167, "title": "Scanning The Pyramids", "original_title": "Scanning The Pyramids", "slug_title": "scanning-the-pyramids", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vo7oDKuwCLAYMrnnU4a8T57BBnk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 314740, "title": "Beatles: From the Beginning to the End", "original_title": "Beatles: From the Beginning to the End", "slug_title": "beatles-from-the-beginning-to-the-end", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 225366, "title": "The Opus", "original_title": "The Opus", "slug_title": "the-opus", "date": "2008-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Canfield ()", "Joe Vitale ()"], "comments": [], "recommandations_id": []}

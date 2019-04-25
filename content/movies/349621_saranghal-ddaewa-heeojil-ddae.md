@@ -1,1 +1,0 @@
-{"tmdb_id": 349621, "title": "\uc0ac\ub791\ud560 \ub54c\uc640 \ud5e4\uc5b4\uc9c8 \ub54c", "original_title": "\uc0ac\ub791\ud560 \ub54c\uc640 \ud5e4\uc5b4\uc9c8 \ub54c", "slug_title": "saranghal-ddaewa-heeojil-ddae", "date": "1983-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 293461, "title": "Monsterman", "original_title": "Monsterimies", "slug_title": "monsterman", "date": "2014-09-26", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oa4m9aK68kEDpnKTq8QQ0cLI3CJ.jpg", "actors": ["Mr. Lordi (Himself)"], "comments": [], "recommandations_id": []}

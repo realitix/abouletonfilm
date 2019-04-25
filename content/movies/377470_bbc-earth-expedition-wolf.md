@@ -1,1 +1,0 @@
-{"tmdb_id": 377470, "title": "BBC Earth - Expedition Wolf", "original_title": "BBC Earth - Expedition Wolf", "slug_title": "bbc-earth-expedition-wolf", "date": "2014-01-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4M9QUJNkeWYmQwoZm9K3UdVsY5i.jpg", "actors": [], "comments": [], "recommandations_id": []}

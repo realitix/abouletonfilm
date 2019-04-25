@@ -1,1 +1,0 @@
-{"tmdb_id": 411006, "title": "The Sixth Beatle", "original_title": "The Sixth Beatle", "slug_title": "the-sixth-beatle", "date": "2016-09-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

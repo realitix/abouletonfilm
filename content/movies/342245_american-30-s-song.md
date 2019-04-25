@@ -1,1 +1,0 @@
-{"tmdb_id": 342245, "title": "American 30's Song", "original_title": "American 30's Song", "slug_title": "american-30-s-song", "date": "1969-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fq1aRJoMhd6Kpz05Gq5ZiCXgNgI.jpg", "actors": [], "comments": [], "recommandations_id": []}

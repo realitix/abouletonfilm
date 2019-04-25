@@ -1,1 +1,0 @@
-{"tmdb_id": 302570, "title": "Mr. Hayashi", "original_title": "Mr. Hayashi", "slug_title": "mr-hayashi", "date": "1961-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2tLqzVCfOWiJ9o9wp7qXv4MNHBi.jpg", "actors": [], "comments": [], "recommandations_id": [152304, 162512, 237187, 145619]}

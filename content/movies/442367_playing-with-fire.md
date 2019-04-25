@@ -1,1 +1,0 @@
-{"tmdb_id": 442367, "title": "Playing with Fire", "original_title": "Leka med elden", "slug_title": "playing-with-fire", "date": "2004-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fgMkeILUu6ufjz9FA4ZFxvDOcQC.jpg", "actors": [], "comments": [], "recommandations_id": []}

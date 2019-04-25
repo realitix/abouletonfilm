@@ -1,1 +1,0 @@
-{"tmdb_id": 457579, "title": "Magizh Thirumeni", "original_title": "Magizh Thirumeni", "slug_title": "magizh-thirumeni", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

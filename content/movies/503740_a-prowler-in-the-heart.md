@@ -1,1 +1,0 @@
-{"tmdb_id": 503740, "title": "A Prowler in the Heart", "original_title": "A Prowler in the Heart", "slug_title": "a-prowler-in-the-heart", "date": "1973-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v04HVslkk40p929g77Gor98NdHt.jpg", "actors": [], "comments": [], "recommandations_id": []}

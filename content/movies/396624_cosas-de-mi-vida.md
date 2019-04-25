@@ -1,1 +1,0 @@
-{"tmdb_id": 396624, "title": "Cosas de mi vida", "original_title": "Cosas de mi vida", "slug_title": "cosas-de-mi-vida", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anselmo Aguascalientes (Himself)"], "comments": [], "recommandations_id": []}

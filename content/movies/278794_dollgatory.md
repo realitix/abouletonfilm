@@ -1,1 +1,0 @@
-{"tmdb_id": 278794, "title": "Dollgatory", "original_title": "Dollgatory", "slug_title": "dollgatory", "date": "2007-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

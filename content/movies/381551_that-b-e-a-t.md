@@ -1,1 +1,0 @@
-{"tmdb_id": 381551, "title": "That B.E.A.T.", "original_title": "That B.E.A.T.", "slug_title": "that-b-e-a-t", "date": "2013-01-18", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ysveviff8OvLLIPQe4lTUtTn2iX.jpg", "actors": [], "comments": [], "recommandations_id": []}

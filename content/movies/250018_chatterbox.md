@@ -1,1 +1,0 @@
-{"tmdb_id": 250018, "title": "Chatterbox", "original_title": "Za zui zi", "slug_title": "chatterbox", "date": "1993-09-08", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qS3XCZ3jDvr0o53DinZore5TKq9.jpg", "actors": ["Cao Cuifen ()", "Jia Zhao-Ji ()"], "comments": [], "recommandations_id": []}

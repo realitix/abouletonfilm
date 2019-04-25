@@ -1,1 +1,0 @@
-{"tmdb_id": 568538, "title": "La vie platin\u00e9e", "original_title": "La vie platin\u00e9e", "slug_title": "la-vie-platinee", "date": "1987-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4a8GUxrWQ6njKarp2SMoC2cqsxW.jpg", "actors": [], "comments": [], "recommandations_id": []}

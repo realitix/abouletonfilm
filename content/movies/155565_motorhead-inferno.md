@@ -1,1 +1,0 @@
-{"tmdb_id": 155565, "title": "Mot\u00f6rhead: Inferno", "original_title": "Mot\u00f6rhead: Inferno", "slug_title": "motorhead-inferno", "date": "2005-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3TcVBTf9jQP0MEeSYAuBsBz2VE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 462622, "title": "El Brujo", "original_title": "El Brujo", "slug_title": "el-brujo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean-Pierre L\u00e9aud ()"], "comments": [], "recommandations_id": []}

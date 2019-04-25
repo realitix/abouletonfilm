@@ -1,1 +1,0 @@
-{"tmdb_id": 227319, "title": "Berlin Job", "original_title": "Berlin Job", "slug_title": "berlin-job", "date": "2012-10-17", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hPNHaOIzeBh6uXOMK8AXLEV0UDA.jpg", "actors": [], "comments": [], "recommandations_id": []}

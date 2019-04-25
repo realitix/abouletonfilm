@@ -1,1 +1,0 @@
-{"tmdb_id": 290915, "title": "Two Dosas", "original_title": "Two Dosas", "slug_title": "two-dosas", "date": "2014-10-16", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8GRBIoFdaTn1Znqj6P4fizr0uKm.jpg", "actors": [], "comments": [], "recommandations_id": []}

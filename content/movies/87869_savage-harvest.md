@@ -1,1 +1,0 @@
-{"tmdb_id": 87869, "title": "Savage Harvest", "original_title": "Savage Harvest", "slug_title": "savage-harvest", "date": "1994-01-01", "genre": "Horreur", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4acKUS5CTfFTKLQU0zIByhWbmzo.jpg", "actors": [], "comments": [], "recommandations_id": []}

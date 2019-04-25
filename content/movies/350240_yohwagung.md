@@ -1,1 +1,0 @@
-{"tmdb_id": 350240, "title": "\uc694\ud654\uad81", "original_title": "\uc694\ud654\uad81", "slug_title": "yohwagung", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

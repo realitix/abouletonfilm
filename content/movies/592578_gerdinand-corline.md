@@ -1,1 +1,0 @@
-{"tmdb_id": 592578, "title": "Gerdinand & Corline", "original_title": "Gerdinand & Corline", "slug_title": "gerdinand-corline", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gNhFKHLmvUoD3mSrkK9gfTlqODN.jpg", "actors": [], "comments": [], "recommandations_id": []}

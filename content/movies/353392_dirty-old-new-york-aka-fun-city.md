@@ -1,1 +1,0 @@
-{"tmdb_id": 353392, "title": "Dirty Old New York aka Fun City", "original_title": "Dirty Old New York aka Fun City", "slug_title": "dirty-old-new-york-aka-fun-city", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

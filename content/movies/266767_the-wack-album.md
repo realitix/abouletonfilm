@@ -1,1 +1,0 @@
-{"tmdb_id": 266767, "title": "The Wack Album", "original_title": "The Wack Album", "slug_title": "the-wack-album", "date": "2013-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["The Lonely Island (The Lonely Island)"], "comments": [], "recommandations_id": []}

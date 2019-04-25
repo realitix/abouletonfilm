@@ -1,1 +1,0 @@
-{"tmdb_id": 245003, "title": "Lorenzo", "original_title": "Lorenzo", "slug_title": "lorenzo", "date": "2004-03-06", "genre": "Animation / Com\u00e9die / Familial", "score": "6.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ytgY5TJqXzer36kbGQZx4WVthxD.jpg", "actors": [], "comments": [], "recommandations_id": [352812, 105325, 197725, 76346]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 533519, "title": "Rise of the Robots", "original_title": "Rise of the Robots", "slug_title": "rise-of-the-robots", "date": "2016-02-24", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ztML4O2lRg7CujaOjbXnZPjylw5.jpg", "actors": [], "comments": [], "recommandations_id": []}

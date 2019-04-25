@@ -1,1 +1,0 @@
-{"tmdb_id": 53196, "title": "Before Flying Back to Earth", "original_title": "Pries parskrendant i zeme", "slug_title": "before-flying-back-to-earth", "date": "2005-10-10", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/crqGD0INH5irvjVlobLm7AH39Ez.jpg", "actors": [], "comments": [], "recommandations_id": []}

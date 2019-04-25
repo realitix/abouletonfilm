@@ -1,1 +1,0 @@
-{"tmdb_id": 537745, "title": "Night Of 100 Stars III", "original_title": "Night Of 100 Stars III", "slug_title": "night-of-100-stars-iii", "date": "1990-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

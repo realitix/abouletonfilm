@@ -1,1 +1,0 @@
-{"tmdb_id": 429190, "title": "D\u00eda de los muertos", "original_title": "D\u00eda de los muertos", "slug_title": "dia-de-los-muertos", "date": "2002-12-31", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aIcc8daE7zK6PIec4vcM9TQxnyx.jpg", "actors": [], "comments": [], "recommandations_id": []}

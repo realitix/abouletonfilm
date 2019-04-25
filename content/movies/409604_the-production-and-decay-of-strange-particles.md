@@ -1,1 +1,0 @@
-{"tmdb_id": 409604, "title": "The Production and Decay of Strange Particles", "original_title": "The Production and Decay of Strange Particles", "slug_title": "the-production-and-decay-of-strange-particles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

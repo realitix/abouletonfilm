@@ -1,1 +1,0 @@
-{"tmdb_id": 309384, "title": "Chaal Reverse Ma Jaiye", "original_title": "Chaal Reverse Ma Jaiye", "slug_title": "chaal-reverse-ma-jaiye", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

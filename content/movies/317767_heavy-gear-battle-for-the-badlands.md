@@ -1,1 +1,0 @@
-{"tmdb_id": 317767, "title": "Heavy Gear: Battle for the Badlands", "original_title": "Heavy Gear: Battle for the Badlands", "slug_title": "heavy-gear-battle-for-the-badlands", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

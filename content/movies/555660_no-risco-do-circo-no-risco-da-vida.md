@@ -1,1 +1,0 @@
-{"tmdb_id": 555660, "title": "No Risco do Circo, No Risco da Vida", "original_title": "No Risco do Circo, No Risco da Vida", "slug_title": "no-risco-do-circo-no-risco-da-vida", "date": "2016-08-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

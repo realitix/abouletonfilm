@@ -1,1 +1,0 @@
-{"tmdb_id": 556282, "title": "The Cradle of God", "original_title": "Le berceau de dieu", "slug_title": "the-cradle-of-god", "date": "1926-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

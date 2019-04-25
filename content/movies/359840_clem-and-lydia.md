@@ -1,1 +1,0 @@
-{"tmdb_id": 359840, "title": "Clem and Lydia", "original_title": "Clem and Lydia", "slug_title": "clem-and-lydia", "date": "2000-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nD301anMvc0EnVPjDQwUUDSOe7Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

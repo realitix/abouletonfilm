@@ -1,1 +1,0 @@
-{"tmdb_id": 293751, "title": "Nuptiae", "original_title": "Nuptiae", "slug_title": "nuptiae", "date": "1971-12-10", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vTnBVJ5Bs5Q6RHZQOWuycuKokPU.jpg", "actors": [], "comments": [], "recommandations_id": []}

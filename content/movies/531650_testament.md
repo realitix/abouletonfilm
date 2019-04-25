@@ -1,1 +1,0 @@
-{"tmdb_id": 531650, "title": "Testament", "original_title": "Testament", "slug_title": "testament", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7m67Ga83m8BEbxjbej3uHvmy66L.jpg", "actors": [], "comments": [], "recommandations_id": []}

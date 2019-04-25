@@ -1,1 +1,0 @@
-{"tmdb_id": 511566, "title": "Assembly", "original_title": "Assembly", "slug_title": "assembly", "date": "2012-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eJ7n7pb8CiBAWYSrUd7BFjdlOrO.jpg", "actors": [], "comments": [], "recommandations_id": []}

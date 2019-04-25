@@ -1,1 +1,0 @@
-{"tmdb_id": 565558, "title": "\u00c0 l'ombre d'un \u00e9t\u00e9", "original_title": "\u00c0 l'ombre d'un \u00e9t\u00e9", "slug_title": "a-l-ombre-d-un-ete", "date": "1980-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yJH7yRYepVzImVrWHMSZuYQmcql.jpg", "actors": [], "comments": [], "recommandations_id": []}

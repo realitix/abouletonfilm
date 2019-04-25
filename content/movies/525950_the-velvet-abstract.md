@@ -1,1 +1,0 @@
-{"tmdb_id": 525950, "title": "The Velvet Abstract", "original_title": "The Velvet Abstract", "slug_title": "the-velvet-abstract", "date": "2016-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4PYnTKripjmNyo0Z43GcM4atgL6.jpg", "actors": ["Tobias Menzies (Narrator)"], "comments": [], "recommandations_id": []}

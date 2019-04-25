@@ -1,1 +1,0 @@
-{"tmdb_id": 296616, "title": "Just Nuts", "original_title": "Just Nuts", "slug_title": "just-nuts", "date": "1915-04-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harold Lloyd (Willie Work)", "Jane Novak (The Pretty Girl)", "Roy Stewart (Willie's Rival)"], "comments": [], "recommandations_id": []}

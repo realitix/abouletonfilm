@@ -1,1 +1,0 @@
-{"tmdb_id": 115897, "title": "HEY - Woodstock 2004", "original_title": "HEY - Woodstock 2004", "slug_title": "hey-woodstock-2004", "date": "", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bcYid5ll1AdHrCHnJjTfbyKquwQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

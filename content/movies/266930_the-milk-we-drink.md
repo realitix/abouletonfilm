@@ -1,1 +1,0 @@
-{"tmdb_id": 266930, "title": "The Milk We Drink", "original_title": "The Milk We Drink", "slug_title": "the-milk-we-drink", "date": "1913-11-10", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roscoe 'Fatty' Arbuckle (The Dairy Farmer)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 575570, "title": "All at Se\u0336e\u0336a", "original_title": "All at Se\u0336e\u0336a", "slug_title": "all-at-seea", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f9vGgawr86hk7eXViZdzDjmrOYY.jpg", "actors": [], "comments": [], "recommandations_id": []}

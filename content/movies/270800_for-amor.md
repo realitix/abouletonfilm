@@ -1,1 +1,0 @@
-{"tmdb_id": 270800, "title": "For Amor", "original_title": "For Amor", "slug_title": "for-amor", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 84098, "title": "Anuranan", "original_title": "Anuranan", "slug_title": "anuranan", "date": "2006-11-28", "genre": "Drame / Romance", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sfTHKj97QKLJz4jM9bGpzx7eG3f.jpg", "actors": [], "comments": [], "recommandations_id": []}

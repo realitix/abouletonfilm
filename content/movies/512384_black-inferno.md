@@ -1,1 +1,0 @@
-{"tmdb_id": 512384, "title": "Black Inferno", "original_title": "Black Inferno", "slug_title": "black-inferno", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

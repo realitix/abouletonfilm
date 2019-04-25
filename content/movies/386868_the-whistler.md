@@ -1,1 +1,0 @@
-{"tmdb_id": 386868, "title": "The Whistler", "original_title": "The Whistler", "slug_title": "the-whistler", "date": "2013-10-31", "genre": "Horreur", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lYWkBpR5TdtPbbAunfStvLmPQEc.jpg", "actors": ["Kate Cobb (Kate)", "Joshua Schell (Mark)"], "comments": [], "recommandations_id": []}

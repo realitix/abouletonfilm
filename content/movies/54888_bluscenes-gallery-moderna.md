@@ -1,1 +1,0 @@
-{"tmdb_id": 54888, "title": "BluScenes: Gallery Moderna", "original_title": "BluScenes: Gallery Moderna", "slug_title": "bluscenes-gallery-moderna", "date": "2010-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3kFUVsAa2PJhjFxtE1K1AGw6ml6.jpg", "actors": [], "comments": [], "recommandations_id": []}

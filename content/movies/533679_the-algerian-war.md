@@ -1,1 +1,0 @@
-{"tmdb_id": 533679, "title": "The Algerian War", "original_title": "La guerre d'Alg\u00e9rie", "slug_title": "the-algerian-war", "date": "1972-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AvKQbMkBN1aB13yKNhsoeGtZVUF.jpg", "actors": [], "comments": [], "recommandations_id": []}

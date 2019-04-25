@@ -1,1 +1,0 @@
-{"tmdb_id": 541778, "title": "Why the Mid-East Bleeds", "original_title": "Why the Mid-East Bleeds", "slug_title": "why-the-mid-east-bleeds", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/30yN3mWsb3aO2GYZeivuvuHlHXF.jpg", "actors": [], "comments": [], "recommandations_id": []}

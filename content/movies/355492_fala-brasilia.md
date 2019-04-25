@@ -1,1 +1,0 @@
-{"tmdb_id": 355492, "title": "Fala Bras\u00edlia", "original_title": "Fala Bras\u00edlia", "slug_title": "fala-brasilia", "date": "1966-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6S1rZsJ1J3j8aH7E1aVGp7QN3qh.jpg", "actors": [], "comments": [], "recommandations_id": []}

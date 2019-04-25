@@ -1,1 +1,0 @@
-{"tmdb_id": 282044, "title": "Focus on Infinity", "original_title": "Focus on Infinity", "slug_title": "focus-on-infinity", "date": "2014-03-23", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4biFOL1sofgChckJSAwbjLrnzQX.jpg", "actors": [], "comments": [], "recommandations_id": []}

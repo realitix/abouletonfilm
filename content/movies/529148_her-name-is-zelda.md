@@ -1,1 +1,0 @@
-{"tmdb_id": 529148, "title": "Her Name Is Zelda", "original_title": "Her Name Is Zelda", "slug_title": "her-name-is-zelda", "date": "2004-06-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zelda Kaplan (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 473240, "title": "Return to the Forest", "original_title": "Return to the Forest", "slug_title": "return-to-the-forest", "date": "2013-04-25", "genre": "Documentaire / Aventure / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bVIPwQE3HpOPTJvLfjMhmmYVVhv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 555176, "title": "Haven's End", "original_title": "Haven's End", "slug_title": "haven-s-end", "date": "2018-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

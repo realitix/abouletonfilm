@@ -1,1 +1,0 @@
-{"tmdb_id": 594833, "title": "UFC on ESPN+ 11", "original_title": "UFC on ESPN+ 11", "slug_title": "ufc-on-espn-11", "date": "2019-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

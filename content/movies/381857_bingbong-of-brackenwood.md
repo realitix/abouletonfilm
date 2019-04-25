@@ -1,1 +1,0 @@
-{"tmdb_id": 381857, "title": "Bingbong of Brackenwood", "original_title": "Bingbong of Brackenwood", "slug_title": "bingbong-of-brackenwood", "date": "2006-10-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wMAUArd4V6DH5nFyTclH6p9gphC.jpg", "actors": [], "comments": [], "recommandations_id": []}

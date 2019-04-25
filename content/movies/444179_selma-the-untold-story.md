@@ -1,1 +1,0 @@
-{"tmdb_id": 444179, "title": "Selma: The Untold Story", "original_title": "Selma: The Untold Story", "slug_title": "selma-the-untold-story", "date": "2015-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fC4ns8c49qAgIrKAqkSgDMyH5o2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 214870, "title": "1 Giant Leap: What About Me?", "original_title": "1 Giant Leap: What About Me?", "slug_title": "1-giant-leap-what-about-me", "date": "2009-03-09", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ozPwQLlDfa21lPSxsWiSbP0msu0.jpg", "actors": [], "comments": [], "recommandations_id": []}

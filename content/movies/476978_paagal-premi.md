@@ -1,1 +1,0 @@
-{"tmdb_id": 476978, "title": "Paagal Premi", "original_title": "Paagal Premi", "slug_title": "paagal-premi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nL0dl2YWYmP7wRb8pKUAsc6uac8.jpg", "actors": [], "comments": [], "recommandations_id": []}

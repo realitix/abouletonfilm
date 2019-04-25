@@ -1,1 +1,0 @@
-{"tmdb_id": 79589, "title": "Thunder: At The End Of The Road", "original_title": "Thunder: At The End Of The Road", "slug_title": "thunder-at-the-end-of-the-road", "date": "2009-07-11", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xMiKsrA0WueFRy2nAbNtql6Ibi4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 501138, "title": "The Stuntman", "original_title": "Kaskader", "slug_title": "the-stuntman", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2VD4XaoO0NwsPL4iR4fbUzfWT1h.jpg", "actors": ["Roman K\u0142osowski (narrator)"], "comments": [], "recommandations_id": []}

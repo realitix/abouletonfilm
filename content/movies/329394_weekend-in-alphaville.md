@@ -1,1 +1,0 @@
-{"tmdb_id": 329394, "title": "Weekend in Alphaville", "original_title": "Weekend in Alphaville", "slug_title": "weekend-in-alphaville", "date": "2010-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 264803, "title": "The Hutterites", "original_title": "The Hutterites", "slug_title": "the-hutterites", "date": "1964-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zV1yTv41QXhDUQUrPacG48fEQ46.jpg", "actors": [], "comments": [], "recommandations_id": []}

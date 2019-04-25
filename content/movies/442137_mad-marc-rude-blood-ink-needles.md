@@ -1,1 +1,0 @@
-{"tmdb_id": 442137, "title": "Mad Marc Rude: Blood, Ink & Needles", "original_title": "Mad Marc Rude: Blood, Ink & Needles", "slug_title": "mad-marc-rude-blood-ink-needles", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zs3YTME87mmgBig5sO6d9Vv1k4p.jpg", "actors": [], "comments": [], "recommandations_id": []}

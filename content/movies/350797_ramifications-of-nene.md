@@ -1,1 +1,0 @@
-{"tmdb_id": 350797, "title": "Ramifications of NeNe", "original_title": "Ramifications of NeNe", "slug_title": "ramifications-of-nene", "date": "2015-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9w9GKsTdOAn4RnIOVV3c7jOQhyi.jpg", "actors": [], "comments": [], "recommandations_id": []}

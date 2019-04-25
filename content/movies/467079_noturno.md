@@ -1,1 +1,0 @@
-{"tmdb_id": 467079, "title": "Noturno", "original_title": "Noturno", "slug_title": "noturno", "date": "2008-01-01", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eduardo S\u00e1 ()", "Wladimir Santana ()", "Vin\u00edcius Campos ((Voz))", "Thiago Fidanza ((Voz))"], "comments": [], "recommandations_id": []}

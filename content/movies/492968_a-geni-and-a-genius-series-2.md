@@ -1,1 +1,0 @@
-{"tmdb_id": 492968, "title": "A Geni and a Genius (Series 2)", "original_title": "A Geni and a Genius (Series 2)", "slug_title": "a-geni-and-a-genius-series-2", "date": "1919-01-01", "genre": "Fantastique / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

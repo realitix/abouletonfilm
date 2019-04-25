@@ -1,1 +1,0 @@
-{"tmdb_id": 517775, "title": "De Profundis", "original_title": "De Profundis", "slug_title": "de-profundis", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qaHsa7AjF2DpqktEadjOkf0yCSa.jpg", "actors": [], "comments": [], "recommandations_id": []}

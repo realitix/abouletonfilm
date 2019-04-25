@@ -1,1 +1,0 @@
-{"tmdb_id": 222815, "title": "Do or Diet", "original_title": "Do or Diet", "slug_title": "do-or-diet", "date": "1953-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 333977, "title": "Touchia", "original_title": "Touchia", "slug_title": "touchia", "date": "1993-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 333977, "title": "Touchia", "original_title": "Touchia", "slug_title": "touchia", "date": "1993-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Mohammed Rachid Benhadj.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

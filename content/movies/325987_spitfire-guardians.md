@@ -1,1 +1,0 @@
-{"tmdb_id": 325987, "title": "Spitfire Guardians", "original_title": "Spitfire Guardians", "slug_title": "spitfire-guardians", "date": "2007-11-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y9kwVCf2SMKt3sdMT34XzZISygB.jpg", "actors": [], "comments": [], "recommandations_id": []}

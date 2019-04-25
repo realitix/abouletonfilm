@@ -1,1 +1,0 @@
-{"tmdb_id": 39579, "title": "Golf for Dummies", "original_title": "Golf for Dummies", "slug_title": "golf-for-dummies", "date": "2004-06-08", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nyxmJFTd28Ecs6mya6w1Y7ViMmE.jpg", "actors": ["Gary McCord (Himself)"], "comments": [], "recommandations_id": []}

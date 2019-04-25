@@ -1,1 +1,0 @@
-{"tmdb_id": 259476, "title": "La noche del pirata", "original_title": "La noche del pirata", "slug_title": "la-noche-del-pirata", "date": "2011-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wVeGO8gwrDMN4NlPQHMmosU7UWb.jpg", "actors": [], "comments": [], "recommandations_id": []}

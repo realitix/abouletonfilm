@@ -1,1 +1,0 @@
-{"tmdb_id": 248941, "title": "Isegrim & Reineke", "original_title": "Isegrim & Reineke", "slug_title": "isegrim-reineke", "date": "2004-05-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/faxNGns1i42K0RrOwZhb4ZYa4DD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 114053, "title": "I Only Wanted to Live", "original_title": "Volevo solo vivere", "slug_title": "i-only-wanted-to-live", "date": "2006-01-26", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uryTBWfHFxSFImKY1UzJceeoLYA.jpg", "actors": [], "comments": [], "recommandations_id": []}

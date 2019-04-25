@@ -1,1 +1,0 @@
-{"tmdb_id": 278663, "title": "Sweetzer", "original_title": "Sweetzer", "slug_title": "sweetzer", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

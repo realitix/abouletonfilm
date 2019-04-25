@@ -1,1 +1,0 @@
-{"tmdb_id": 593255, "title": "Gun Nation", "original_title": "Gun Nation", "slug_title": "gun-nation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

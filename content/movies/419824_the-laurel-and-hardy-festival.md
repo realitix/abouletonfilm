@@ -1,1 +1,0 @@
-{"tmdb_id": 419824, "title": "The Laurel and Hardy - Festival", "original_title": "The Laurel and Hardy - Festival", "slug_title": "the-laurel-and-hardy-festival", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9VWxO2vJW4JKvtPdqSRHNCTFb9d.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 586249, "title": "The Lost Head and the Bird", "original_title": "The Lost Head and the Bird", "slug_title": "the-lost-head-and-the-bird", "date": "2018-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

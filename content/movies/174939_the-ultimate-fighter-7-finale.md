@@ -1,1 +1,0 @@
-{"tmdb_id": 174939, "title": "The Ultimate Fighter 7 Finale", "original_title": "The Ultimate Fighter 7 Finale", "slug_title": "the-ultimate-fighter-7-finale", "date": "2008-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h1xXOKBdKLJIwIaQaSotMBsfzOb.jpg", "actors": [], "comments": [], "recommandations_id": []}

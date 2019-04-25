@@ -1,1 +1,0 @@
-{"tmdb_id": 383986, "title": "P\u00e8re total", "original_title": "P\u00e8re total", "slug_title": "pere-total", "date": "2007-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jJojCWlRBP5ZwozlnPEyMgaHqyY.jpg", "actors": [], "comments": [], "recommandations_id": []}

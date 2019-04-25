@@ -1,1 +1,0 @@
-{"tmdb_id": 49005, "title": "Ireland's Grand Slam Glory", "original_title": "Ireland's Grand Slam Glory", "slug_title": "ireland-s-grand-slam-glory", "date": "2009-04-30", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kWNhfLF1qhKKjhnHBTKwBDJZ0pg.jpg", "actors": [], "comments": [], "recommandations_id": []}

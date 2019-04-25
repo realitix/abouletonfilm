@@ -1,0 +1,1 @@
+{"tmdb_id": 597141, "title": "Ball im Savoy", "original_title": "Ball im Savoy", "slug_title": "ball-im-savoy", "date": "1935-04-11", "genre": [""], "score": "0.0/10", "synopsis": "Musical comedy set in a Grand Hotel.", "image": "/img/default-cover.png", "actors": ["Gitta Alpar ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

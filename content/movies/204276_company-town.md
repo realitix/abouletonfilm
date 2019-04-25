@@ -1,1 +1,0 @@
-{"tmdb_id": 204276, "title": "Company Town", "original_title": "Company Town", "slug_title": "company-town", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

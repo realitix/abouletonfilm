@@ -1,1 +1,0 @@
-{"tmdb_id": 253069, "title": "The Prodigy", "original_title": "The Prodigy", "slug_title": "the-prodigy", "date": "1999-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cwTKBxMS7kdpEdjd80gaBbPzxBy.jpg", "actors": [], "comments": [], "recommandations_id": []}

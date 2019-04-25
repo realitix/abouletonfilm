@@ -1,1 +1,0 @@
-{"tmdb_id": 319558, "title": "Sea Marks", "original_title": "Sea Marks", "slug_title": "sea-marks", "date": "1976-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

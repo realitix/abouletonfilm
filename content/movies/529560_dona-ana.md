@@ -1,1 +1,1 @@
-{"tmdb_id": 529560, "title": "Dona Ana", "original_title": "Dona Ana", "slug_title": "dona-ana", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 529560, "title": "Dona Ana", "original_title": "Dona Ana", "slug_title": "dona-ana", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

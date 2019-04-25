@@ -1,1 +1,0 @@
-{"tmdb_id": 552721, "title": "Family Circus", "original_title": "Family Circus", "slug_title": "family-circus", "date": "2001-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zjTj15eDzpbM7RK5ykBAWDdooFf.jpg", "actors": ["Jagapati Babu ()", "Roja Selvamani ()"], "comments": [], "recommandations_id": []}

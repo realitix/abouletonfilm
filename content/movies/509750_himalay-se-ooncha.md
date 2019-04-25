@@ -1,1 +1,0 @@
-{"tmdb_id": 509750, "title": "Himalay Se Ooncha", "original_title": "Himalay Se Ooncha", "slug_title": "himalay-se-ooncha", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

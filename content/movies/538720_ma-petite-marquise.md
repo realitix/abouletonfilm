@@ -1,1 +1,0 @@
-{"tmdb_id": 538720, "title": "Ma petite marquise", "original_title": "Ma petite marquise", "slug_title": "ma-petite-marquise", "date": "1937-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z8qfgRTQIpmuykhxSBCcLW4mn4a.jpg", "actors": [], "comments": [], "recommandations_id": []}

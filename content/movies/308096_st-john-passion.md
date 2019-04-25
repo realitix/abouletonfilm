@@ -1,1 +1,0 @@
-{"tmdb_id": 308096, "title": "St. John Passion", "original_title": "St. John Passion", "slug_title": "st-john-passion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

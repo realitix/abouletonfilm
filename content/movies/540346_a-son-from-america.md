@@ -1,1 +1,0 @@
-{"tmdb_id": 540346, "title": "A Son from America", "original_title": "Un fils d'Am\u00e9rique", "slug_title": "a-son-from-america", "date": "1932-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

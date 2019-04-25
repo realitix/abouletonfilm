@@ -1,1 +1,0 @@
-{"tmdb_id": 67206, "title": "Who Does She Think She Is", "original_title": "Who Does She Think She Is", "slug_title": "who-does-she-think-she-is", "date": "2008-08-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eWeGtgUQPsgMBWqubhmwHSh1MDQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

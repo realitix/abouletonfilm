@@ -1,1 +1,0 @@
-{"tmdb_id": 50617, "title": "Phantoms of Nabua", "original_title": "Phantoms of Nabua", "slug_title": "phantoms-of-nabua", "date": "2009-01-01", "genre": "", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e5ps0cSNnVraebWMvXNZ08mxHUS.jpg", "actors": [], "comments": [], "recommandations_id": [130922, 396710, 297248, 206796]}

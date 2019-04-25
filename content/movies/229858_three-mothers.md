@@ -1,1 +1,0 @@
-{"tmdb_id": 229858, "title": "Three Mothers", "original_title": "Three Mothers", "slug_title": "three-mothers", "date": "2008-09-17", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A1nMNYLD2c1BwW2T8x5lK2NMW1x.jpg", "actors": ["Jenna Wright (Rebecca)"], "comments": [], "recommandations_id": []}

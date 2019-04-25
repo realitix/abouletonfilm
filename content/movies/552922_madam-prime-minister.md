@@ -1,1 +1,0 @@
-{"tmdb_id": 552922, "title": "Madam Prime Minister", "original_title": "Madam Prime Minister", "slug_title": "madam-prime-minister", "date": "2018-10-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

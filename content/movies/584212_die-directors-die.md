@@ -1,1 +1,0 @@
-{"tmdb_id": 584212, "title": "Die! Directors, Die!", "original_title": "Shine! Shine! Shinema", "slug_title": "die-directors-die", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6RMtlPCzYR3Y474xI2Wja3EyusQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

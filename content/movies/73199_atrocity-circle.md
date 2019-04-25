@@ -1,1 +1,0 @@
-{"tmdb_id": 73199, "title": "Atrocity Circle", "original_title": "Atrocity Circle", "slug_title": "atrocity-circle", "date": "2005-05-05", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vPFv5YxsKMiyHUkM4SJvOlh31Um.jpg", "actors": [], "comments": [], "recommandations_id": []}

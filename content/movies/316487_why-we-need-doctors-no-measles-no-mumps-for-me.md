@@ -1,1 +1,0 @@
-{"tmdb_id": 316487, "title": "Why We Need Doctors: No Measles, No Mumps for Me", "original_title": "Why We Need Doctors: No Measles, No Mumps for Me", "slug_title": "why-we-need-doctors-no-measles-no-mumps-for-me", "date": "1981-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

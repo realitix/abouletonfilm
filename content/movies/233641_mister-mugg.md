@@ -1,1 +1,0 @@
-{"tmdb_id": 233641, "title": "Mister Mugg", "original_title": "Mister Mugg", "slug_title": "mister-mugg", "date": "1933-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

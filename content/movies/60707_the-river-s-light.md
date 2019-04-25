@@ -1,1 +1,0 @@
-{"tmdb_id": 60707, "title": "The River's Light", "original_title": "\u5ddd\u306e\u5149", "slug_title": "the-river-s-light", "date": "2009-06-06", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dBw9weWVPpulzwTyO1w1l7HUrZ9.jpg", "actors": [], "comments": [], "recommandations_id": []}

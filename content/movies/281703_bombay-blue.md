@@ -1,1 +1,0 @@
-{"tmdb_id": 281703, "title": "Bombay Blue", "original_title": "Bombay Blue", "slug_title": "bombay-blue", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

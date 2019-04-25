@@ -1,1 +1,0 @@
-{"tmdb_id": 455865, "title": "Walking", "original_title": "Walking", "slug_title": "walking", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 229635, "title": "Martina och jag", "original_title": "Martina och jag", "slug_title": "martina-och-jag", "date": "2009-05-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ljRMZXPjuCFoi84au85A3c3w1Th.jpg", "actors": [], "comments": [], "recommandations_id": []}

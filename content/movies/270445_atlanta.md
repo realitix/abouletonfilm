@@ -1,1 +1,0 @@
-{"tmdb_id": 270445, "title": "Atlanta", "original_title": "Atlanta", "slug_title": "atlanta", "date": "1996-01-01", "genre": "Com\u00e9die / Drame", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Kf2TxrrISn2IkzxFMCnlPueKQi.jpg", "actors": ["Miranda July ()"], "comments": [], "recommandations_id": []}

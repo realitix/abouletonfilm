@@ -1,1 +1,0 @@
-{"tmdb_id": 259408, "title": "The Sculpture 100", "original_title": "The Sculpture 100", "slug_title": "the-sculpture-100", "date": "2005-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jOsG32NRGAg36wll28wsKzyPUw0.jpg", "actors": [], "comments": [], "recommandations_id": []}

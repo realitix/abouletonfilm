@@ -1,1 +1,0 @@
-{"tmdb_id": 425121, "title": "Prison Town, USA", "original_title": "Prison Town, USA", "slug_title": "prison-town-usa", "date": "2007-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

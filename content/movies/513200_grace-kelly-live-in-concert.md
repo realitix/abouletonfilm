@@ -1,1 +1,0 @@
-{"tmdb_id": 513200, "title": "Grace & Kelly - Live in Concert", "original_title": "Grace & Kelly - Live in Concert", "slug_title": "grace-kelly-live-in-concert", "date": "2016-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Patricia Kelly ()"], "comments": [], "recommandations_id": []}

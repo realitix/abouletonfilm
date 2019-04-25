@@ -1,1 +1,0 @@
-{"tmdb_id": 310610, "title": "Comedy Jump Off: The Latino Invasion", "original_title": "Comedy Jump Off: The Latino Invasion", "slug_title": "comedy-jump-off-the-latino-invasion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 80926, "title": "Dubai Seenu", "original_title": "Dubai Seenu", "slug_title": "dubai-seenu", "date": "2007-06-07", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6fpxamtT24ktouD2EJYVjJbJZDt.jpg", "actors": ["Ravi Teja (Seenu)", "Nayanthara (Madhumati)"], "comments": [], "recommandations_id": []}

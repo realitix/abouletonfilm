@@ -1,1 +1,0 @@
-{"tmdb_id": 477171, "title": "Run, Tecato, Run", "original_title": "Run, Tecato, Run", "slug_title": "run-tecato-run", "date": "1979-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oqsgCaHhgXJ9FYk8EmZvEBubEk5.jpg", "actors": [], "comments": [], "recommandations_id": []}

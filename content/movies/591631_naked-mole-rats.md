@@ -1,1 +1,0 @@
-{"tmdb_id": 591631, "title": "Naked Mole Rats", "original_title": "Naked Mole Rats", "slug_title": "naked-mole-rats", "date": "2019-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

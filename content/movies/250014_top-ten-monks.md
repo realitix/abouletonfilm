@@ -1,1 +1,0 @@
-{"tmdb_id": 250014, "title": "Top Ten Monks", "original_title": "Top Ten Monks", "slug_title": "top-ten-monks", "date": "2010-12-22", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s3Cl5tylJMxfwxlTwfSyKD4fepy.jpg", "actors": [], "comments": [], "recommandations_id": []}

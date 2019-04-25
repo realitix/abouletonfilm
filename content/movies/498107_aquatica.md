@@ -1,1 +1,0 @@
-{"tmdb_id": 498107, "title": "Aquatica", "original_title": "Aquatica", "slug_title": "aquatica", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3O9KCr8cgIwM0O3ZpA8LPwmKb7p.jpg", "actors": [], "comments": [], "recommandations_id": []}

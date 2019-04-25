@@ -1,1 +1,0 @@
-{"tmdb_id": 558353, "title": "Superman - Teil1", "original_title": "Superman - Teil1", "slug_title": "superman-teil1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/79DPDmnJqgXEvH2jk2ns58U1awQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

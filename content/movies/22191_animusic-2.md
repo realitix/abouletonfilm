@@ -1,1 +1,0 @@
-{"tmdb_id": 22191, "title": "Animusic 2", "original_title": "Animusic 2", "slug_title": "animusic-2", "date": "2005-11-19", "genre": "Animation / Musique", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jwIx6So89g9FYoIIoBkIhETMPPy.jpg", "actors": [], "comments": [], "recommandations_id": [22188]}

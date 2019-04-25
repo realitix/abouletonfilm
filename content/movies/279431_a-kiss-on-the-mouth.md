@@ -1,1 +1,0 @@
-{"tmdb_id": 279431, "title": "A Kiss on the Mouth", "original_title": "Beijo na Boca", "slug_title": "a-kiss-on-the-mouth", "date": "1987-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

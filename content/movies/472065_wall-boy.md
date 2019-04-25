@@ -1,1 +1,0 @@
-{"tmdb_id": 472065, "title": "Wall Boy", "original_title": "Wall Boy", "slug_title": "wall-boy", "date": "2009-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4GtJCvPqXqV6hVZcPb7x9D4RAZZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

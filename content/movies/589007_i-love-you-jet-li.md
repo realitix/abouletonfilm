@@ -1,1 +1,0 @@
-{"tmdb_id": 589007, "title": "I Love You Jet Li", "original_title": "I Love You Jet Li", "slug_title": "i-love-you-jet-li", "date": "2005-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 429340, "title": "Elezione e incoronazione di S.S. Pio XI", "original_title": "Elezione e incoronazione di S.S. Pio XI", "slug_title": "elezione-e-incoronazione-di-s-s-pio-xi", "date": "1922-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

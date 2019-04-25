@@ -1,1 +1,1 @@
-{"tmdb_id": 555721, "title": "Mea culpa", "original_title": "Mea culpa", "slug_title": "mea-culpa", "date": "1921-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 555721, "title": "Mea culpa", "original_title": "Mea culpa", "slug_title": "mea-culpa", "date": "1921-10-28", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

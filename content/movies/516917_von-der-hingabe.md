@@ -1,1 +1,0 @@
-{"tmdb_id": 516917, "title": "Von der Hingabe", "original_title": "Von der Hingabe", "slug_title": "von-der-hingabe", "date": "2002-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anne Br\u00fcchert ()", "Nikolaus Hof ()"], "comments": [], "recommandations_id": []}

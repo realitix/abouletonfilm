@@ -1,1 +1,0 @@
-{"tmdb_id": 400804, "title": "Who Is Donald Trump?", "original_title": "Who Is Donald Trump?", "slug_title": "who-is-donald-trump", "date": "2015-12-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Donald Trump (Himself)"], "comments": [], "recommandations_id": []}

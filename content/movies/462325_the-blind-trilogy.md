@@ -1,1 +1,0 @@
-{"tmdb_id": 462325, "title": "The Blind Trilogy", "original_title": "The Blind Trilogy", "slug_title": "the-blind-trilogy", "date": "2004-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 231769, "title": "Bathing at Atlantic City", "original_title": "Bathing at Atlantic City", "slug_title": "bathing-at-atlantic-city", "date": "1901-08-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

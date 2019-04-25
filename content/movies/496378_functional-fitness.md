@@ -1,1 +1,0 @@
-{"tmdb_id": 496378, "title": "Functional Fitness", "original_title": "Functional Fitness", "slug_title": "functional-fitness", "date": "", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hQmsobeOqec9U0Zfq1utbycntde.jpg", "actors": [], "comments": [], "recommandations_id": [440590, 268824, 411701, 461698]}

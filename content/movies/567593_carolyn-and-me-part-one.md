@@ -1,1 +1,0 @@
-{"tmdb_id": 567593, "title": "Carolyn And Me: Part One", "original_title": "Carolyn And Me: Part One", "slug_title": "carolyn-and-me-part-one", "date": "1969-12-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4JrPHDWbGoYTRM7hLZGmKQVI0SM.jpg", "actors": [], "comments": [], "recommandations_id": []}

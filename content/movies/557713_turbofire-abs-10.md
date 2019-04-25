@@ -1,1 +1,0 @@
-{"tmdb_id": 557713, "title": "TurboFire: Abs 10", "original_title": "TurboFire: Abs 10", "slug_title": "turbofire-abs-10", "date": "2010-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1crU4qbZ6z63yKScoGlQU7S6Oiq.jpg", "actors": [], "comments": [], "recommandations_id": []}

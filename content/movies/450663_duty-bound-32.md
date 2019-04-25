@@ -1,1 +1,0 @@
-{"tmdb_id": 450663, "title": "Duty Bound 32", "original_title": "Duty Bound 32", "slug_title": "duty-bound-32", "date": "2015-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arny Donan ()", "Shane Hirch ()", "Lubos Koryz ()", "Milan Bernan ()", "Tibor Rysavy ()", "Damian Dickey ()"], "comments": [], "recommandations_id": []}

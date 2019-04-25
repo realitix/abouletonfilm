@@ -1,1 +1,0 @@
-{"tmdb_id": 451006, "title": "When I Stutter", "original_title": "When I Stutter", "slug_title": "when-i-stutter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

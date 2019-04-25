@@ -1,1 +1,0 @@
-{"tmdb_id": 274502, "title": "The Path of the Messiah", "original_title": "The Path of the Messiah", "slug_title": "the-path-of-the-messiah", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

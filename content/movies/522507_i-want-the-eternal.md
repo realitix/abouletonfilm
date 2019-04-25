@@ -1,1 +1,0 @@
-{"tmdb_id": 522507, "title": "I Want the Eternal", "original_title": "Quiero lo eterno", "slug_title": "i-want-the-eternal", "date": "2017-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hTPSObt8fsRS4yKuWywIyhHWSYT.jpg", "actors": [], "comments": [], "recommandations_id": []}

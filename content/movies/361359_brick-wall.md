@@ -1,1 +1,0 @@
-{"tmdb_id": 361359, "title": "Brick Wall", "original_title": "Brick Wall", "slug_title": "brick-wall", "date": "1975-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wRzQjgs8TcO41Pwi7KH4pmTbvyC.jpg", "actors": [], "comments": [], "recommandations_id": []}

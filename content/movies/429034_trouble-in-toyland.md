@@ -1,1 +1,0 @@
-{"tmdb_id": 429034, "title": "Trouble in Toyland", "original_title": "Trouble in Toyland", "slug_title": "trouble-in-toyland", "date": "1935-11-30", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dudley Clements (Santa Claus)", "Roy LeMay ()", "May Parish ()", "Dickie Larrimore ()"], "comments": [], "recommandations_id": []}

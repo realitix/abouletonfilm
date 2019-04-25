@@ -1,1 +1,0 @@
-{"tmdb_id": 346846, "title": "Le C\u0153ur d'Amos Klein", "original_title": "Le C\u0153ur d'Amos Klein", "slug_title": "le-coeur-d-amos-klein", "date": "2008-06-09", "genre": "Animation / Drame", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

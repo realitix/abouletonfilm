@@ -1,1 +1,0 @@
-{"tmdb_id": 519549, "title": "Road Kill Zoo", "original_title": "Road Kill Zoo", "slug_title": "road-kill-zoo", "date": "2014-07-20", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chandler Ryan (Abby)"], "comments": [], "recommandations_id": []}

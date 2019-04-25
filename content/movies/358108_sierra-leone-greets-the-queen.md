@@ -1,1 +1,0 @@
-{"tmdb_id": 358108, "title": "Sierra Leone Greets the Queen", "original_title": "Sierra Leone Greets the Queen", "slug_title": "sierra-leone-greets-the-queen", "date": "1962-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a3dCxv9v27DWPYpNJiYDBMALbFu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 335471, "title": "Resistance", "original_title": "Resistance", "slug_title": "resistance", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AiEu0L8niS0MjuajpYZFH5pDxmz.jpg", "actors": ["Stuart Brisley ()", "Marc Chaimowicz ()"], "comments": [], "recommandations_id": []}

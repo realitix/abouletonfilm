@@ -1,1 +1,0 @@
-{"tmdb_id": 76065, "title": "Suede - Lost in TV", "original_title": "Suede - Lost in TV", "slug_title": "suede-lost-in-tv", "date": "", "genre": "Musique", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6z1oqHGcft8w2OFpIzraGf0CWis.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 387675, "title": "Un air de famille", "original_title": "Un air de famille", "slug_title": "un-air-de-famille", "date": "1963-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jnMtzXpfJtZlI08AySFGz48Ly7M.jpg", "actors": [], "comments": [], "recommandations_id": []}

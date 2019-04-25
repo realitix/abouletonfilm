@@ -1,1 +1,0 @@
-{"tmdb_id": 263178, "title": "Rameses: Wrath Of God Or Man?", "original_title": "Rameses: Wrath Of God Or Man?", "slug_title": "rameses-wrath-of-god-or-man", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1RrwQytqTlzsfYCcu6MZUZTc3yj.jpg", "actors": [], "comments": [], "recommandations_id": []}

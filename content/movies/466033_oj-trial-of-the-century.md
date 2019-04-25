@@ -1,1 +1,0 @@
-{"tmdb_id": 466033, "title": "OJ: Trial of the Century", "original_title": "OJ: Trial of the Century", "slug_title": "oj-trial-of-the-century", "date": "2014-06-12", "genre": "Documentaire / T\u00e9l\u00e9film", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

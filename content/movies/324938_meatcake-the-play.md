@@ -1,1 +1,0 @@
-{"tmdb_id": 324938, "title": "Meatcake: The Play", "original_title": "Meatcake: The Play", "slug_title": "meatcake-the-play", "date": "2011-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

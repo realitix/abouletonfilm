@@ -1,1 +1,0 @@
-{"tmdb_id": 588728, "title": "Erich Von Stroheim", "original_title": "Erich Von Stroheim", "slug_title": "erich-von-stroheim", "date": "1979-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

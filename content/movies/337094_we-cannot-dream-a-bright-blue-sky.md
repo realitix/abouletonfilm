@@ -1,1 +1,0 @@
-{"tmdb_id": 337094, "title": "We Cannot Dream a Bright Blue Sky", "original_title": "Wir k\u00f6nnen nicht den hellen Himmel tr\u00e4umen", "slug_title": "we-cannot-dream-a-bright-blue-sky", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

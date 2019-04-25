@@ -1,1 +1,0 @@
-{"tmdb_id": 308240, "title": "Pithi Pili Ne Rang Rato", "original_title": "Pithi Pili Ne Rang Rato", "slug_title": "pithi-pili-ne-rang-rato", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

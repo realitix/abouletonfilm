@@ -1,1 +1,0 @@
-{"tmdb_id": 441831, "title": "Love Scars", "original_title": "Love Scars", "slug_title": "love-scars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jAL4RSIQ15V3TDTzHQ5qg2wjtfD.jpg", "actors": [], "comments": [], "recommandations_id": []}

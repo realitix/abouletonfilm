@@ -1,1 +1,0 @@
-{"tmdb_id": 423140, "title": "A Dance Film", "original_title": "A Dance Film", "slug_title": "a-dance-film", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ZbAwmzGFdszM8bpYrRSSuJfBSL.jpg", "actors": [], "comments": [], "recommandations_id": []}

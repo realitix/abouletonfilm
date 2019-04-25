@@ -1,1 +1,0 @@
-{"tmdb_id": 347013, "title": "Fractal Access Totems", "original_title": "Fractal Access Totems", "slug_title": "fractal-access-totems", "date": "2012-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3lPso8FKMS9Z3tcUxzw5pgkOAVV.jpg", "actors": [], "comments": [], "recommandations_id": []}

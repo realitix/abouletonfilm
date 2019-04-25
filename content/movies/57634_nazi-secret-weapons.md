@@ -1,1 +1,0 @@
-{"tmdb_id": 57634, "title": "Nazi Secret Weapons", "original_title": "Nazi Secret Weapons", "slug_title": "nazi-secret-weapons", "date": "2010-04-01", "genre": "Guerre / Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jt0SAvhCk3jPp9z0BnhDOKulqLc.jpg", "actors": [], "comments": [], "recommandations_id": []}

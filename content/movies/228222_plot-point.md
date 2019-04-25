@@ -1,1 +1,0 @@
-{"tmdb_id": 228222, "title": "Plot Point", "original_title": "Plot Point", "slug_title": "plot-point", "date": "2008-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8iPqdwu4bk58UHaduhuUjsWzJNO.jpg", "actors": [], "comments": [], "recommandations_id": []}

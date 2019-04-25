@@ -1,1 +1,0 @@
-{"tmdb_id": 529004, "title": "Die Puppe vom Lunapark", "original_title": "Die Puppe vom Lunapark", "slug_title": "die-puppe-vom-lunapark", "date": "1925-07-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Rilla ()", "Fritz Rasp ()", "Eugen Rex ()", "Jenny Jugo ()"], "comments": [], "recommandations_id": []}

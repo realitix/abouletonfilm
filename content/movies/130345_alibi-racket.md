@@ -1,1 +1,0 @@
-{"tmdb_id": 130345, "title": "Alibi Racket", "original_title": "Alibi Racket", "slug_title": "alibi-racket", "date": "1935-09-14", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8hTb6sW2FtKhc0lYzF6VJ8P8Qo6.jpg", "actors": ["Edward Norris (Joe Rinelli / Leo Rinelli)"], "comments": [], "recommandations_id": []}

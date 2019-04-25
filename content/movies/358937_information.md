@@ -1,1 +1,0 @@
-{"tmdb_id": 358937, "title": "Information", "original_title": "Information", "slug_title": "information", "date": "1966-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9biBggyQNcdPSXwalycCwHTnNUt.jpg", "actors": [], "comments": [], "recommandations_id": []}

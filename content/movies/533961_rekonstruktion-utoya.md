@@ -1,1 +1,0 @@
-{"tmdb_id": 533961, "title": "Rekonstruktion Ut\u00f8ya", "original_title": "Rekonstruktion Ut\u00f8ya", "slug_title": "rekonstruktion-utoya", "date": "2018-11-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/is55vq7CFo5Qo1wjsK7Ap7ibSJ4.jpg", "actors": [], "comments": [], "recommandations_id": []}

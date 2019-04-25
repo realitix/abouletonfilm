@@ -1,1 +1,0 @@
-{"tmdb_id": 371571, "title": "Die gleiche Strecke", "original_title": "Die gleiche Strecke", "slug_title": "die-gleiche-strecke", "date": "1961-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

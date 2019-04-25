@@ -1,1 +1,0 @@
-{"tmdb_id": 508346, "title": "War Stories", "original_title": "War Stories", "slug_title": "war-stories", "date": "2009-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/KwQcbtbZsskOPviJUiJu9JFWqS.jpg", "actors": [], "comments": [], "recommandations_id": []}

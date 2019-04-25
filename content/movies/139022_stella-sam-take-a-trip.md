@@ -1,1 +1,0 @@
-{"tmdb_id": 139022, "title": "Stella & Sam Take a Trip", "original_title": "Stella & Sam Take a Trip", "slug_title": "stella-sam-take-a-trip", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vM4t3phMJl5ndoy7dEbTPVz916o.jpg", "actors": [], "comments": [], "recommandations_id": []}

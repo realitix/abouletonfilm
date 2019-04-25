@@ -1,1 +1,1 @@
-{"tmdb_id": 322360, "title": "Na Jene Mon", "original_title": "Na Jene Mon", "slug_title": "na-jene-mon", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 322360, "title": "Na Jene Mon", "original_title": "Na Jene Mon", "slug_title": "na-jene-mon", "date": "2014-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bengali Film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

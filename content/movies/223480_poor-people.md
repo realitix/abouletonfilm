@@ -1,1 +1,0 @@
-{"tmdb_id": 223480, "title": "Poor People", "original_title": "Poor People", "slug_title": "poor-people", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 442823, "title": "Songs from an angel", "original_title": "Songs from an angel", "slug_title": "songs-from-an-angel", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rodney Price (Himself)"], "comments": [], "recommandations_id": []}

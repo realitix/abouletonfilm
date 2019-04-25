@@ -1,1 +1,0 @@
-{"tmdb_id": 309677, "title": "Asha Hi Asha", "original_title": "Asha Hi Asha", "slug_title": "asha-hi-asha", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

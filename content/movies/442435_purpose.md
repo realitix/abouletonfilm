@@ -1,1 +1,0 @@
-{"tmdb_id": 442435, "title": "Purpose", "original_title": "Purpose", "slug_title": "purpose", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

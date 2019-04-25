@@ -1,1 +1,0 @@
-{"tmdb_id": 565205, "title": "Miracles For Sale - Cheap!", "original_title": "Miracles For Sale - Cheap!", "slug_title": "miracles-for-sale-cheap", "date": "1955-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

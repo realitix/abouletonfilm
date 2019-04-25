@@ -1,1 +1,0 @@
-{"tmdb_id": 418208, "title": "\uc80a\uc740\uc5c4\ub9c8 : \ub514 \uc624\ub9ac\uc9c0\ub110", "original_title": "\uc80a\uc740\uc5c4\ub9c8 : \ub514 \uc624\ub9ac\uc9c0\ub110", "slug_title": "jeolmeuneomma-di-orijineol", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

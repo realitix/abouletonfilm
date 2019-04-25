@@ -1,1 +1,0 @@
-{"tmdb_id": 452687, "title": "Shape of a Surface", "original_title": "Shape of a Surface", "slug_title": "shape-of-a-surface", "date": "2017-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1iFiNiipxQUGMuhb1EqpOSssm50.jpg", "actors": [], "comments": [], "recommandations_id": []}

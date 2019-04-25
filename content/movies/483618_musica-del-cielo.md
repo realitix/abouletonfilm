@@ -1,1 +1,0 @@
-{"tmdb_id": 483618, "title": "M\u00fasica Del Cielo", "original_title": "M\u00fasica Del Cielo", "slug_title": "musica-del-cielo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oLANtt6AV2TYwH7I96JJQpZH3S0.jpg", "actors": [], "comments": [], "recommandations_id": []}

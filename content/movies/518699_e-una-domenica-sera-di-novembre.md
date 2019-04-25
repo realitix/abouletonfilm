@@ -1,1 +1,0 @@
-{"tmdb_id": 518699, "title": "\u00c8 una domenica sera di novembre", "original_title": "\u00c8 una domenica sera di novembre", "slug_title": "e-una-domenica-sera-di-novembre", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

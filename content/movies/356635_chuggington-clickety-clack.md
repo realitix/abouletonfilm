@@ -1,1 +1,0 @@
-{"tmdb_id": 356635, "title": "Chuggington: Clickety Clack", "original_title": "Chuggington: Clickety Clack", "slug_title": "chuggington-clickety-clack", "date": "2013-03-04", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ueJMtSYXj6SO8gXNB63JgPVMlMf.jpg", "actors": [], "comments": [], "recommandations_id": []}

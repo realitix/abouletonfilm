@@ -1,1 +1,0 @@
-{"tmdb_id": 443789, "title": "Harlem: Voices, Faces", "original_title": "Harlem: Voices, Faces", "slug_title": "harlem-voices-faces", "date": "1973-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xGldIgeiFjOfODWNVkwEtf1RIFi.jpg", "actors": [], "comments": [], "recommandations_id": []}

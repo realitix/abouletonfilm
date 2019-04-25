@@ -1,1 +1,0 @@
-{"tmdb_id": 473782, "title": "As Tr\u00eas Gra\u00e7as", "original_title": "As Tr\u00eas Gra\u00e7as", "slug_title": "as-tres-gracas", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uwIQYqVlUgIkd410YrBDRmXkpcQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

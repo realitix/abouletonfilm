@@ -1,1 +1,0 @@
-{"tmdb_id": 368027, "title": "Automobile Parade on the Coney Island Boulevard", "original_title": "Automobile Parade on the Coney Island Boulevard", "slug_title": "automobile-parade-on-the-coney-island-boulevard", "date": "1901-11-12", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

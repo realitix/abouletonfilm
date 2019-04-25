@@ -1,1 +1,0 @@
-{"tmdb_id": 136745, "title": "Made in Ash", "original_title": "A\u017e do mesta A\u0161", "slug_title": "made-in-ash", "date": "2012-06-29", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fQChjWm6bg5SKT1Iihm1CVZJ3Fy.jpg", "actors": [], "comments": [], "recommandations_id": []}

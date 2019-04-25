@@ -1,1 +1,0 @@
-{"tmdb_id": 171965, "title": "Char... the No Man's Island", "original_title": "...Moddhikhane Char", "slug_title": "char-the-no-man-s-island", "date": "2012-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/SIS6LON2mE7BzdwGAaTSacX1GW.jpg", "actors": [], "comments": [], "recommandations_id": []}

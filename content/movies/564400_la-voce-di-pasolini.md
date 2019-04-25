@@ -1,1 +1,0 @@
-{"tmdb_id": 564400, "title": "La voce di Pasolini", "original_title": "La voce di Pasolini", "slug_title": "la-voce-di-pasolini", "date": "", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4I8x5BsHtiUM8Laaqr0n9M1Y3rk.jpg", "actors": ["Toni Servillo (Voce)"], "comments": [], "recommandations_id": []}

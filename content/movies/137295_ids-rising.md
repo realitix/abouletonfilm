@@ -1,1 +1,0 @@
-{"tmdb_id": 137295, "title": "IDS Rising", "original_title": "IDS Rising", "slug_title": "ids-rising", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/he0tBqZpVYB3aMgo16BKABzil6T.jpg", "actors": [], "comments": [], "recommandations_id": []}

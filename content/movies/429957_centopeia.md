@@ -1,1 +1,0 @@
-{"tmdb_id": 429957, "title": "Centopeia", "original_title": "Centopeia", "slug_title": "centopeia", "date": "2010-01-15", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e3hDoThD3QRW03swLSNUudvDLqq.jpg", "actors": [], "comments": [], "recommandations_id": []}

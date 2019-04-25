@@ -1,1 +1,0 @@
-{"tmdb_id": 298431, "title": "Under the Influence", "original_title": "Under the Influence", "slug_title": "under-the-influence", "date": "2014-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

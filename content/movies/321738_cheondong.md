@@ -1,1 +1,0 @@
-{"tmdb_id": 321738, "title": "Cheondong", "original_title": "Cheondong", "slug_title": "cheondong", "date": "1973-11-21", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kim Sun-cheol ()", "Choi Chong-min ()", "Ha Yeong-su ()"], "comments": [], "recommandations_id": []}

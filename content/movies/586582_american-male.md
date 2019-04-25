@@ -1,1 +1,0 @@
-{"tmdb_id": 586582, "title": "American Male", "original_title": "American Male", "slug_title": "american-male", "date": "2016-09-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael John Madden ()", "Rob August ()", "Connor Williams ()"], "comments": [], "recommandations_id": []}

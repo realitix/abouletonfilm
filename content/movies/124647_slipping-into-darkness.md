@@ -1,1 +1,0 @@
-{"tmdb_id": 124647, "title": "Slipping Into Darkness", "original_title": "Slipping Into Darkness", "slug_title": "slipping-into-darkness", "date": "1988-01-01", "genre": "Thriller", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7htkxvLHlcxFQVI3ggGTDYj63VR.jpg", "actors": [], "comments": [], "recommandations_id": []}

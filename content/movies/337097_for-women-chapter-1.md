@@ -1,1 +1,0 @@
-{"tmdb_id": 337097, "title": "For Women, Chapter 1", "original_title": "F\u00fcr Frauen, 1. Kapitel", "slug_title": "for-women-chapter-1", "date": "1971-12-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qcam7As3Fk7T9JFxCngbL4sOE98.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 257817, "title": "Together It's Possible", "original_title": "Together It's Possible", "slug_title": "together-it-s-possible", "date": "2014-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

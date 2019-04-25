@@ -1,1 +1,0 @@
-{"tmdb_id": 320187, "title": "Animal Face-Off: Elephant vs. Rhino", "original_title": "Animal Face-Off: Elephant vs. Rhino", "slug_title": "animal-face-off-elephant-vs-rhino", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

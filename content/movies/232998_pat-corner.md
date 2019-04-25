@@ -1,1 +1,0 @@
-{"tmdb_id": 232998, "title": "Pat Corner", "original_title": "Pat Corner", "slug_title": "pat-corner", "date": "1909-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gudrun Kjerulf ()", "Viggo Larsen ()", "Elith Pio ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 321577, "title": "I Hate the Dawn", "original_title": "I Hate the Dawn", "slug_title": "i-hate-the-dawn", "date": "2014-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

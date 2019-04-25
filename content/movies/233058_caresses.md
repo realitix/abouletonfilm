@@ -1,1 +1,0 @@
-{"tmdb_id": 233058, "title": "Caresses", "original_title": "Aibu", "slug_title": "caresses", "date": "1965-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d4m7rs4zuDbv3sY7tHJuP3mNLV.jpg", "actors": ["Mari Takami ()", "Akira Sakamoto ()", "Akemi Ando ()"], "comments": [], "recommandations_id": []}

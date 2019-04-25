@@ -1,1 +1,0 @@
-{"tmdb_id": 582710, "title": "Lot 22, Concession 5", "original_title": "Lot 22, Concession 5", "slug_title": "lot-22-concession-5", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

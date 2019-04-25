@@ -1,1 +1,0 @@
-{"tmdb_id": 406985, "title": "American Hell", "original_title": "American Hell", "slug_title": "american-hell", "date": "2014-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xhMF6shwi1AEHs5s51uojlFM7Xc.jpg", "actors": [], "comments": [], "recommandations_id": []}

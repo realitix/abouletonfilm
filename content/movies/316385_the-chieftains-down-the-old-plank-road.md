@@ -1,1 +1,0 @@
-{"tmdb_id": 316385, "title": "The Chieftains: Down the Old Plank Road", "original_title": "The Chieftains: Down the Old Plank Road", "slug_title": "the-chieftains-down-the-old-plank-road", "date": "2010-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

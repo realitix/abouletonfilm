@@ -1,1 +1,0 @@
-{"tmdb_id": 502733, "title": "La favolosa storia", "original_title": "La favolosa storia", "slug_title": "la-favolosa-storia", "date": "1968-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

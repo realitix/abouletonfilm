@@ -1,1 +1,0 @@
-{"tmdb_id": 211916, "title": "Stripes", "original_title": "Stripes", "slug_title": "stripes", "date": "2005-02-02", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

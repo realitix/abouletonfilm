@@ -1,1 +1,0 @@
-{"tmdb_id": 569139, "title": "The Happiest Monster", "original_title": "The Happiest Monster", "slug_title": "the-happiest-monster", "date": "2006-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lgiqyxJ0PTHk01Py2IPbzU2QWNR.jpg", "actors": [], "comments": [], "recommandations_id": []}

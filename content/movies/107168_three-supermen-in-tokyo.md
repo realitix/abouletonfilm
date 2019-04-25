@@ -1,1 +1,0 @@
-{"tmdb_id": 107168, "title": "Three Supermen in Tokyo", "original_title": "Tre supermen a Tokio", "slug_title": "three-supermen-in-tokyo", "date": "1968-06-19", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Pix7YKjCleDTozjvSVQCSwgglh.jpg", "actors": [], "comments": [], "recommandations_id": []}

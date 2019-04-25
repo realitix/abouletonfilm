@@ -1,1 +1,0 @@
-{"tmdb_id": 521942, "title": "Kirk Fox: That Guy", "original_title": "Kirk Fox: That Guy", "slug_title": "kirk-fox-that-guy", "date": "2018-04-13", "genre": "Com\u00e9die", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r4LzkoOfpCwxb60Ld7wEztGSIu6.jpg", "actors": ["Kirk Fox (Himself)"], "comments": [], "recommandations_id": []}

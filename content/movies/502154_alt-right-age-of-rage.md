@@ -1,1 +1,0 @@
-{"tmdb_id": 502154, "title": "Alt-Right: Age of Rage", "original_title": "Alt-Right: Age of Rage", "slug_title": "alt-right-age-of-rage", "date": "2018-03-09", "genre": "Documentaire", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2AE60rfn58elDPfim1ZRu0Zj94t.jpg", "actors": [], "comments": [], "recommandations_id": []}

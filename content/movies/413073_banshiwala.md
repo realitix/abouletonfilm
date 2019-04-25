@@ -1,1 +1,0 @@
-{"tmdb_id": 413073, "title": "Banshiwala", "original_title": "Banshiwala", "slug_title": "banshiwala", "date": "2010-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qCI5Aivoj9gJcb4garY6VbThnTf.jpg", "actors": ["Shayan Munshi (Mridul)"], "comments": [], "recommandations_id": []}

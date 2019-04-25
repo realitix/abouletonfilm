@@ -1,1 +1,0 @@
-{"tmdb_id": 283325, "title": "Dumb Sagacity", "original_title": "Dumb Sagacity", "slug_title": "dumb-sagacity", "date": "1907-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gertie Potter ()"], "comments": [], "recommandations_id": []}

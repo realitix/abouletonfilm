@@ -1,1 +1,0 @@
-{"tmdb_id": 522172, "title": "Sweet Dreams", "original_title": "Sweet Dreams", "slug_title": "sweet-dreams", "date": "2010-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aJKf5oBqRE8lMXcaXodMKdcFrLX.jpg", "actors": [], "comments": [], "recommandations_id": []}

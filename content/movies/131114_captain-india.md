@@ -1,1 +1,0 @@
-{"tmdb_id": 131114, "title": "Captain India", "original_title": "Captain India", "slug_title": "captain-india", "date": "2012-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hpvncZCEqImx5tFBix9nKO9Jcuz.jpg", "actors": ["Yuvraj Singh (Veer)"], "comments": [], "recommandations_id": []}

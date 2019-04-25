@@ -1,1 +1,0 @@
-{"tmdb_id": 525046, "title": "Game Master Death Sushi", "original_title": "Game Master Death Sushi", "slug_title": "game-master-death-sushi", "date": "2018-05-27", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

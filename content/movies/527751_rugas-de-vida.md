@@ -1,1 +1,0 @@
-{"tmdb_id": 527751, "title": "Rugas de Vida", "original_title": "Rugas de Vida", "slug_title": "rugas-de-vida", "date": "2018-03-27", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uBG253nFUuoMayBpqpQuLNpVNdP.jpg", "actors": [], "comments": [], "recommandations_id": []}

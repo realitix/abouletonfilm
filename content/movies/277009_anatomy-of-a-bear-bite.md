@@ -1,1 +1,0 @@
-{"tmdb_id": 277009, "title": "Anatomy of a Bear Bite", "original_title": "Anatomy of a Bear Bite", "slug_title": "anatomy-of-a-bear-bite", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

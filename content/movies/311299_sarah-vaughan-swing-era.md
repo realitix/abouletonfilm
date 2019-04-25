@@ -1,1 +1,0 @@
-{"tmdb_id": 311299, "title": "Sarah Vaughan: Swing Era", "original_title": "Sarah Vaughan: Swing Era", "slug_title": "sarah-vaughan-swing-era", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 331021, "title": "The Rite of Mars: A Rock Opera", "original_title": "The Rite of Mars: A Rock Opera", "slug_title": "the-rite-of-mars-a-rock-opera", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

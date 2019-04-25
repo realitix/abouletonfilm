@@ -1,1 +1,0 @@
-{"tmdb_id": 136274, "title": "Little Voices", "original_title": "Peque\u00f1as Voces", "slug_title": "little-voices", "date": "2011-11-16", "genre": "Drame / Documentaire / Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sbDEo01SwebSwhZUXAlNOiULd7B.jpg", "actors": [], "comments": [], "recommandations_id": []}

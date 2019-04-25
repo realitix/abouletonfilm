@@ -1,1 +1,0 @@
-{"tmdb_id": 511505, "title": "Little Armadillos", "original_title": "Little Armadillos", "slug_title": "little-armadillos", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jsC3cz0vuUCjzyHBVFOSQrsII2W.jpg", "actors": [], "comments": [], "recommandations_id": []}

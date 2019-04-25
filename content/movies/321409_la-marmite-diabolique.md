@@ -1,1 +1,0 @@
-{"tmdb_id": 321409, "title": "La marmite diabolique", "original_title": "La marmite diabolique", "slug_title": "la-marmite-diabolique", "date": "1903-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fRRVfVFSb8qhkmhkf0Ql6ONIseb.jpg", "actors": [], "comments": [], "recommandations_id": []}

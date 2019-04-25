@@ -1,1 +1,0 @@
-{"tmdb_id": 566265, "title": "Summer Stages", "original_title": "Summer Stages", "slug_title": "summer-stages", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r1UnAdGIky0SfxsLZD4WunvKi4A.jpg", "actors": [], "comments": [], "recommandations_id": []}

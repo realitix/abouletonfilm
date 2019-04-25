@@ -1,1 +1,0 @@
-{"tmdb_id": 536129, "title": "Access: Sheffield DocFest", "original_title": "Access: Sheffield DocFest", "slug_title": "access-sheffield-docfest", "date": "2018-07-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2PmbG8KwK1R4hEZvUKqj60ty0l2.jpg", "actors": [], "comments": [], "recommandations_id": []}

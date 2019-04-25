@@ -1,1 +1,0 @@
-{"tmdb_id": 147406, "title": "The Wild Hearts", "original_title": "De vilde hjerter", "slug_title": "the-wild-hearts", "date": "2009-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k8CpvWKFMYVF1V0OZz5d5F8Ty2.jpg", "actors": [], "comments": [], "recommandations_id": []}

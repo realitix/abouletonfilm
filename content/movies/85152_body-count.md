@@ -1,1 +1,0 @@
-{"tmdb_id": 85152, "title": "Body Count", "original_title": "Body Count", "slug_title": "body-count", "date": "1987-01-01", "genre": "Horreur / Thriller", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/XUr1PDGrPoiPnSCQz2wOUOxuJG.jpg", "actors": [], "comments": [], "recommandations_id": []}

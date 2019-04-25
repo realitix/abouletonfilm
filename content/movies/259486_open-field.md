@@ -1,1 +1,0 @@
-{"tmdb_id": 259486, "title": "Open Field", "original_title": "Campo abierto", "slug_title": "open-field", "date": "2012-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4PpilYqOnaehs0aqxLvMfdzwJnK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 516137, "title": "Andrew Sleighter: Breakfast Stealer", "original_title": "Andrew Sleighter: Breakfast Stealer", "slug_title": "andrew-sleighter-breakfast-stealer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

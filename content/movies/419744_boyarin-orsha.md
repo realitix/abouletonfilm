@@ -1,1 +1,0 @@
-{"tmdb_id": 419744, "title": "Boyarin Orsha", "original_title": "Boyarin Orsha", "slug_title": "boyarin-orsha", "date": "1910-01-02", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pyotr Chardynin (Orsha)", "Andrej Gromov (Arsenij)", "Aleksandra Goncharova (Orsha's Daughter)"], "comments": [], "recommandations_id": []}

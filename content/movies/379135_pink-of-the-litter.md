@@ -1,1 +1,0 @@
-{"tmdb_id": 379135, "title": "Pink of the Litter", "original_title": "Pink of the Litter", "slug_title": "pink-of-the-litter", "date": "1967-05-17", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cyFTBFRjMMHxnsiOCqCg5PntK3A.jpg", "actors": [], "comments": [], "recommandations_id": []}

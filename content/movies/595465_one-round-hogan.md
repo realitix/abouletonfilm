@@ -1,1 +1,0 @@
-{"tmdb_id": 595465, "title": "One-Round Hogan", "original_title": "One-Round Hogan", "slug_title": "one-round-hogan", "date": "1927-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cTitIQE4z3rEJWPkiG1sYcbtGqI.jpg", "actors": [], "comments": [], "recommandations_id": []}

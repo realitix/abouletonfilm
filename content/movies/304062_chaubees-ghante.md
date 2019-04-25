@@ -1,1 +1,0 @@
-{"tmdb_id": 304062, "title": "Chaubees Ghante", "original_title": "Chaubees Ghante", "slug_title": "chaubees-ghante", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

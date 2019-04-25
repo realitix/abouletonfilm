@@ -1,1 +1,0 @@
-{"tmdb_id": 554809, "title": "Telefone", "original_title": "Telefone", "slug_title": "telefone", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jhonatas Pinhelli ()", "Jo\u00e3o Vitor Panda ()", "Vin\u00edcius Delm\u00f4nego ()"], "comments": [], "recommandations_id": []}

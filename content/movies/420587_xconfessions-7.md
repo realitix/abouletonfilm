@@ -1,1 +1,0 @@
-{"tmdb_id": 420587, "title": "XConfessions 7", "original_title": "XConfessions 7", "slug_title": "xconfessions-7", "date": "2016-09-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lBtzAlDfEl9Y187zjKLLcMCdedN.jpg", "actors": [], "comments": [], "recommandations_id": []}

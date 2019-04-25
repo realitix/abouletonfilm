@@ -1,1 +1,0 @@
-{"tmdb_id": 362432, "title": "Trucker", "original_title": "Trucker", "slug_title": "trucker", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

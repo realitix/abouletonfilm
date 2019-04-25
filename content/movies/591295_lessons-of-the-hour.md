@@ -1,1 +1,0 @@
-{"tmdb_id": 591295, "title": "Lessons of the Hour", "original_title": "Lessons of the Hour", "slug_title": "lessons-of-the-hour", "date": "2019-03-08", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kbdrtiycQbx767yU3bkbNBYK7k8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 222865, "title": "Hooky Spooky", "original_title": "Hooky Spooky", "slug_title": "hooky-spooky", "date": "1957-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Mercer (Spooky)", "Jack Mercer (Kangaroo)", "Mae Questel (Little Ghosts'Teacher)", "Cecil Roy (Casper)"], "comments": [], "recommandations_id": []}

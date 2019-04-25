@@ -1,1 +1,0 @@
-{"tmdb_id": 292838, "title": "Benzeduras", "original_title": "Benzeduras", "slug_title": "benzeduras", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z5FMfgyeFUPk0vEQR5iFPzVQfVy.jpg", "actors": [], "comments": [], "recommandations_id": []}

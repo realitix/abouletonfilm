@@ -1,1 +1,0 @@
-{"tmdb_id": 525944, "title": "Marisol: Sergio Leone's Madonna in the West", "original_title": "Marisol: Sergio Leone's Madonna in the West", "slug_title": "marisol-sergio-leone-s-madonna-in-the-west", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

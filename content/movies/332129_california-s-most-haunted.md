@@ -1,1 +1,0 @@
-{"tmdb_id": 332129, "title": "California's Most Haunted", "original_title": "California's Most Haunted", "slug_title": "california-s-most-haunted", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5VziQPs6CKBCbQl4wq9p7rzRDeM.jpg", "actors": [], "comments": [], "recommandations_id": []}

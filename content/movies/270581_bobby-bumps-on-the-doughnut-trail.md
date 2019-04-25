@@ -1,1 +1,0 @@
-{"tmdb_id": 270581, "title": "Bobby Bumps on the Doughnut Trail", "original_title": "Bobby Bumps on the Doughnut Trail", "slug_title": "bobby-bumps-on-the-doughnut-trail", "date": "1918-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

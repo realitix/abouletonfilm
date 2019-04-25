@@ -1,1 +1,0 @@
-{"tmdb_id": 379965, "title": "Dead Is Dead 2: The Incarnation", "original_title": "Dead Is Dead 2: The Incarnation", "slug_title": "dead-is-dead-2-the-incarnation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2gIQMzzupLuT5uHUAmQlJjqcMpJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

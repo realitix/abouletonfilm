@@ -1,1 +1,0 @@
-{"tmdb_id": 301178, "title": "Nee Nanna Gellare", "original_title": "Nee Nanna Gellare", "slug_title": "nee-nanna-gellare", "date": "1981-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

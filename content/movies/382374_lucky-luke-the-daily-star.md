@@ -1,1 +1,0 @@
-{"tmdb_id": 382374, "title": "Lucky Luke - The Daily Star", "original_title": "Lucky Luke - The Daily Star", "slug_title": "lucky-luke-the-daily-star", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/33y5P0a1o0IhmOq9RZmjFky0TDw.jpg", "actors": [], "comments": [], "recommandations_id": []}

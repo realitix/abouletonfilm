@@ -1,1 +1,0 @@
-{"tmdb_id": 537087, "title": "Wind Back", "original_title": "Wind Back", "slug_title": "wind-back", "date": "2018-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sy5FWxxtDYh3FzOxdNJdb9LM1Gk.jpg", "actors": [], "comments": [], "recommandations_id": []}

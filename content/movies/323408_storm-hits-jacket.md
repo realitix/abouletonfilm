@@ -1,1 +1,0 @@
-{"tmdb_id": 323408, "title": "Storm Hits Jacket", "original_title": "Storm Hits Jacket", "slug_title": "storm-hits-jacket", "date": "2014-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Tbp0qZeGLyjhceoDAE1S68P1xA.jpg", "actors": [], "comments": [], "recommandations_id": []}

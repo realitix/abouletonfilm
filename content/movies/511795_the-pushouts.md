@@ -1,1 +1,0 @@
-{"tmdb_id": 511795, "title": "The Pushouts", "original_title": "The Pushouts", "slug_title": "the-pushouts", "date": "2018-04-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/48yTAA8n2UJhvD5ltaqDM1YzBOK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 489406, "title": "Woman Wizard", "original_title": "Woman Wizard", "slug_title": "woman-wizard", "date": "2003-01-01", "genre": "Com\u00e9die", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Llewellyn (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 376077, "title": "Delinquent", "original_title": "Delinquent", "slug_title": "delinquent", "date": "1995-12-31", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

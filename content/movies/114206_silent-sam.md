@@ -1,1 +1,0 @@
-{"tmdb_id": 114206, "title": "Silent Sam", "original_title": "Silent Sam", "slug_title": "silent-sam", "date": "2009-01-01", "genre": "Action / Crime / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8qx4TDChlJ9bOhJDnmgt4D1W1IE.jpg", "actors": [], "comments": [], "recommandations_id": []}

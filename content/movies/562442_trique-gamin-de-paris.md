@@ -1,1 +1,0 @@
-{"tmdb_id": 562442, "title": "Trique, gamin de Paris", "original_title": "Trique, gamin de Paris", "slug_title": "trique-gamin-de-paris", "date": "1962-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

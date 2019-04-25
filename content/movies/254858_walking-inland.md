@@ -1,1 +1,0 @@
-{"tmdb_id": 254858, "title": "Walking Inland", "original_title": "Walking Inland", "slug_title": "walking-inland", "date": "2014-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

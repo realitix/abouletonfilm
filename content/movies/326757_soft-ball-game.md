@@ -1,1 +1,0 @@
-{"tmdb_id": 326757, "title": "Soft Ball Game", "original_title": "Soft Ball Game", "slug_title": "soft-ball-game", "date": "1936-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

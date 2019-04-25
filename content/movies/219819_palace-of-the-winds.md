@@ -1,1 +1,0 @@
-{"tmdb_id": 219819, "title": "Palace of the Winds", "original_title": "Palace of the Winds", "slug_title": "palace-of-the-winds", "date": "2009-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/29QMjgqjLOq0z9UEh0tolfMdC51.jpg", "actors": [], "comments": [], "recommandations_id": []}

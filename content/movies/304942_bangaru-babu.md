@@ -1,1 +1,0 @@
-{"tmdb_id": 304942, "title": "Bangaru Babu", "original_title": "Bangaru Babu", "slug_title": "bangaru-babu", "date": "1973-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

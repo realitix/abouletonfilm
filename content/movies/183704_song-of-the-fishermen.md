@@ -1,1 +1,0 @@
-{"tmdb_id": 183704, "title": "Song of the Fishermen", "original_title": "Yu guang qu", "slug_title": "song-of-the-fishermen", "date": "1934-04-06", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/abW6QOcZIu0cMIiQJuvhksoMnAb.jpg", "actors": [], "comments": [], "recommandations_id": []}

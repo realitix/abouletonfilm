@@ -1,1 +1,0 @@
-{"tmdb_id": 441229, "title": "Die Mahnung", "original_title": "Die Mahnung", "slug_title": "die-mahnung", "date": "1982-10-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1d9zKzFQZv7TI9m3po7ukVYLnjm.jpg", "actors": [], "comments": [], "recommandations_id": []}

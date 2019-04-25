@@ -1,1 +1,0 @@
-{"tmdb_id": 562904, "title": "Death Waits for No Man", "original_title": "Death Waits for No Man", "slug_title": "death-waits-for-no-man", "date": "2017-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

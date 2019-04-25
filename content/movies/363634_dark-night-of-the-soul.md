@@ -1,1 +1,0 @@
-{"tmdb_id": 363634, "title": "Dark Night of The Soul", "original_title": "Dark Night of The Soul", "slug_title": "dark-night-of-the-soul", "date": "2001-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tmyjHtlNoM4DWWDMpShXnT085lO.jpg", "actors": [], "comments": [], "recommandations_id": []}

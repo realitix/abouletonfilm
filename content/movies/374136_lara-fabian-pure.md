@@ -1,1 +1,0 @@
-{"tmdb_id": 374136, "title": "Lara Fabian - Pure", "original_title": "Lara Fabian - Pure", "slug_title": "lara-fabian-pure", "date": "1997-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vjLiNcYmG60XKytecde5zo3Wfcb.jpg", "actors": ["Lara Fabian (herself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 587537, "title": "Getting Together", "original_title": "Getting Together", "slug_title": "getting-together", "date": "1971-01-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

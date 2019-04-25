@@ -1,1 +1,0 @@
-{"tmdb_id": 257188, "title": "Rebirth: New Orleans", "original_title": "Rebirth: New Orleans", "slug_title": "rebirth-new-orleans", "date": "2013-10-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rAbfvNqoju3XhHfhYi80lKnd093.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 314181, "title": "Kannibal Kapers", "original_title": "Kannibal Kapers", "slug_title": "kannibal-kapers", "date": "1935-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

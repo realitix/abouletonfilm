@@ -1,1 +1,0 @@
-{"tmdb_id": 364885, "title": "Blondes Prefer Bonds", "original_title": "Blondes Prefer Bonds", "slug_title": "blondes-prefer-bonds", "date": "1931-05-14", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Louise Fazenda ()", "Arthur Hoyt ()", "Max Davidson ()"], "comments": [], "recommandations_id": []}

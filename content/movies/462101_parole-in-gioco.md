@@ -1,1 +1,0 @@
-{"tmdb_id": 462101, "title": "Parole in gioco", "original_title": "Parole in gioco", "slug_title": "parole-in-gioco", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

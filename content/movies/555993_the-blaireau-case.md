@@ -1,1 +1,0 @@
-{"tmdb_id": 555993, "title": "The Blaireau Case", "original_title": "L'affaire Blaireau", "slug_title": "the-blaireau-case", "date": "1923-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

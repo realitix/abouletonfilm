@@ -1,1 +1,0 @@
-{"tmdb_id": 479285, "title": "Making of Like Someone in Love", "original_title": "Making of Like Someone in Love", "slug_title": "making-of-like-someone-in-love", "date": "2012-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Abbas Kiarostami (Narrator)"], "comments": [], "recommandations_id": []}

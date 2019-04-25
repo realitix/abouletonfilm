@@ -1,1 +1,0 @@
-{"tmdb_id": 538545, "title": "The Reverse Diaries", "original_title": "The Reverse Diaries", "slug_title": "the-reverse-diaries", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

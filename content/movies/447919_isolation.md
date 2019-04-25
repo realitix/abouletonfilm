@@ -1,1 +1,0 @@
-{"tmdb_id": 447919, "title": "Isolation", "original_title": "Izolace", "slug_title": "isolation", "date": "1977-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

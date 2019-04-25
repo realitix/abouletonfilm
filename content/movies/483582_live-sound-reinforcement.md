@@ -1,1 +1,0 @@
-{"tmdb_id": 483582, "title": "Live Sound Reinforcement", "original_title": "Live Sound Reinforcement", "slug_title": "live-sound-reinforcement", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bS4pcD9ImRuCCqeMIKfKV71VeWW.jpg", "actors": [], "comments": [], "recommandations_id": []}

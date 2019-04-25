@@ -1,1 +1,0 @@
-{"tmdb_id": 256063, "title": "Peanut Butter Lips", "original_title": "Peanut Butter Lips", "slug_title": "peanut-butter-lips", "date": "2011-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mia Baker (Peanut Butter Girl)", "Arne Cunningham (Peanut Butter Boy)"], "comments": [], "recommandations_id": []}

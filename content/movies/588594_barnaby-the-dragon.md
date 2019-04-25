@@ -1,1 +1,0 @@
-{"tmdb_id": 588594, "title": "Barnaby the Dragon", "original_title": "Smok Barnaba", "slug_title": "barnaby-the-dragon", "date": "1977-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

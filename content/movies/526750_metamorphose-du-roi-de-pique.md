@@ -1,1 +1,0 @@
-{"tmdb_id": 526750, "title": "M\u00e9tamorphose du roi de pique", "original_title": "M\u00e9tamorphose du roi de pique", "slug_title": "metamorphose-du-roi-de-pique", "date": "1904-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

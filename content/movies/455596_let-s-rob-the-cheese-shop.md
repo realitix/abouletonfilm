@@ -1,1 +1,0 @@
-{"tmdb_id": 455596, "title": "Let's Rob the Cheese Shop", "original_title": "Let's Rob the Cheese Shop", "slug_title": "let-s-rob-the-cheese-shop", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b908f1nPv2EvpQPf7lQqEOWDsBh.jpg", "actors": [], "comments": [], "recommandations_id": []}

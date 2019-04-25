@@ -1,1 +1,0 @@
-{"tmdb_id": 548710, "title": "The Confession", "original_title": "The Confession", "slug_title": "the-confession", "date": "2017-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mFSwatzilVg6jklIjKhMPOWbzQN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 470946, "title": "Clockwise", "original_title": "Clockwise", "slug_title": "clockwise", "date": "2010-01-01", "genre": "Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dRomstN2Ag0qGNrSgwZThXtHVCu.jpg", "actors": [], "comments": [], "recommandations_id": []}

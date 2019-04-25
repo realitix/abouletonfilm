@@ -1,1 +1,0 @@
-{"tmdb_id": 269690, "title": "Karumpuli", "original_title": "Karumpuli", "slug_title": "karumpuli", "date": "2013-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xildH84WYkx2XCFj1k4LGYxAV1b.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 399156, "title": "Foit Yet Cleem Triavith", "original_title": "Foit Yet Cleem Triavith", "slug_title": "foit-yet-cleem-triavith", "date": "1987-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 196196, "title": "Wilmer X Live", "original_title": "Wilmer X Live", "slug_title": "wilmer-x-live", "date": "2005-03-23", "genre": "Musique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pY5KoYLut7OI2iS4YWQBuUAbtBx.jpg", "actors": [], "comments": [], "recommandations_id": []}

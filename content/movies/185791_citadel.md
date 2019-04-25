@@ -1,1 +1,0 @@
-{"tmdb_id": 185791, "title": "Citadel", "original_title": "Ciudadela", "slug_title": "citadel", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iUfQoOAhrzU3IotVonQb1TQbvTC.jpg", "actors": [], "comments": [], "recommandations_id": []}

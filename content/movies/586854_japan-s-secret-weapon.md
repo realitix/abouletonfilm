@@ -1,1 +1,0 @@
-{"tmdb_id": 586854, "title": "Japan's Secret Weapon", "original_title": "Japan's Secret Weapon", "slug_title": "japan-s-secret-weapon", "date": "2009-03-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w3LFAQ4ab2PRdmCEVZOfBpHmWMo.jpg", "actors": [], "comments": [], "recommandations_id": []}

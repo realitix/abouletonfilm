@@ -1,1 +1,0 @@
-{"tmdb_id": 512099, "title": "Phony Boy", "original_title": "Phony Boy", "slug_title": "phony-boy", "date": "1937-11-19", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

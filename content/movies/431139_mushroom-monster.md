@@ -1,1 +1,0 @@
-{"tmdb_id": 431139, "title": "Mushroom Monster", "original_title": "Mushroom Monster", "slug_title": "mushroom-monster", "date": "2013-06-01", "genre": "Familial / Animation / Action / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ousUCHySRv4vyfojdhk3XzP8B8s.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 467751, "title": "\u8d70\u51fa\u5c18\u57c3", "original_title": "\u8d70\u51fa\u5c18\u57c3", "slug_title": "zou-chu-chen-ai", "date": "2017-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7OAH6h5RnaAfHLLd5Y8LlGCWUd5.jpg", "actors": [], "comments": [], "recommandations_id": []}

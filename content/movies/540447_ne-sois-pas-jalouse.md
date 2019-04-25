@@ -1,1 +1,0 @@
-{"tmdb_id": 540447, "title": "Ne sois pas jalouse", "original_title": "Ne sois pas jalouse", "slug_title": "ne-sois-pas-jalouse", "date": "1933-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c9wbxr4XrJp2cDfJ3Vxw6ipXsb0.jpg", "actors": [], "comments": [], "recommandations_id": []}

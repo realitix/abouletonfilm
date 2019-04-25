@@ -1,1 +1,0 @@
-{"tmdb_id": 87286, "title": "smastadsliv live", "original_title": "smastadsliv live", "slug_title": "smastadsliv-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cGpLC0Px6PSBbvFJ056fM2kkoKW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 358533, "title": "Swim, Monkey, Swim!", "original_title": "\u6cf3\u3052\u3084\u6cf3\u3052", "slug_title": "swim-monkey-swim", "date": "1939-09-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vseBdjMo2mrv7tymjwe1cBTV4Wg.jpg", "actors": [], "comments": [], "recommandations_id": []}

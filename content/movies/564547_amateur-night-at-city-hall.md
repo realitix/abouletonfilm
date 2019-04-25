@@ -1,1 +1,0 @@
-{"tmdb_id": 564547, "title": "Amateur Night at City Hall", "original_title": "Amateur Night at City Hall", "slug_title": "amateur-night-at-city-hall", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 520653, "title": "A Horse Called Nijinsky", "original_title": "A Horse Called Nijinsky", "slug_title": "a-horse-called-nijinsky", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Orson Welles (Narrator)"], "comments": [], "recommandations_id": []}

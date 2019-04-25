@@ -1,1 +1,0 @@
-{"tmdb_id": 464602, "title": "Check the Gate:  Putting Beckett on Film", "original_title": "Check the Gate:  Putting Beckett on Film", "slug_title": "check-the-gate-putting-beckett-on-film", "date": "2003-02-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
