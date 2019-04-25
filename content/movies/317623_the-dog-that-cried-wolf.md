@@ -1,1 +1,0 @@
-{"tmdb_id": 317623, "title": "The Dog That Cried Wolf", "original_title": "The Dog That Cried Wolf", "slug_title": "the-dog-that-cried-wolf", "date": "1953-03-23", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iVw665m3ETJ69wqmbPvaWeLbD4c.jpg", "actors": [], "comments": [], "recommandations_id": []}

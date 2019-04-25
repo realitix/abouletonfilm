@@ -1,1 +1,0 @@
-{"tmdb_id": 384351, "title": "License to Operate", "original_title": "License to Operate", "slug_title": "license-to-operate", "date": "2015-05-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

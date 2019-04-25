@@ -1,1 +1,0 @@
-{"tmdb_id": 369162, "title": "The Stonecutter", "original_title": "The Stonecutter", "slug_title": "the-stonecutter", "date": "1960-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wftCYtEW7uhMCdiTUgQ0qq35xFe.jpg", "actors": ["George Ross (Narrator)"], "comments": [], "recommandations_id": []}

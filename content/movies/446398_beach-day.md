@@ -1,1 +1,0 @@
-{"tmdb_id": 446398, "title": "Beach Day", "original_title": "Beach Day", "slug_title": "beach-day", "date": "2017-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matt Stryker (Matt)", "Dalton Allen (Dalton)"], "comments": [], "recommandations_id": []}

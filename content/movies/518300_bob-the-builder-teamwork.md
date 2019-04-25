@@ -1,1 +1,0 @@
-{"tmdb_id": 518300, "title": "Bob the Builder: Teamwork!", "original_title": "Bob the Builder: Teamwork!", "slug_title": "bob-the-builder-teamwork", "date": "2009-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ommMA9ovrpf0lIAejMDVcToth7t.jpg", "actors": [], "comments": [], "recommandations_id": []}

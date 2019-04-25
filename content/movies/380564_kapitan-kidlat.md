@@ -1,1 +1,0 @@
-{"tmdb_id": 380564, "title": "Kapitan Kidlat", "original_title": "Kapitan Kidlat", "slug_title": "kapitan-kidlat", "date": "1981-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hA4MdncgoPpqgh15LKs8XBsUkWY.jpg", "actors": [], "comments": [], "recommandations_id": []}

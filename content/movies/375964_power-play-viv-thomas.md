@@ -1,1 +1,0 @@
-{"tmdb_id": 375964, "title": "Power Play (Viv Thomas)", "original_title": "Power Play (Viv Thomas)", "slug_title": "power-play-viv-thomas", "date": "2015-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/znHqtz20uDtD4vckyeQwbWZPEIg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 558970, "title": "Mahlia la m\u00e9tisse", "original_title": "Mahlia la m\u00e9tisse", "slug_title": "mahlia-la-metisse", "date": "1943-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ld8TiIHgYTDAhNiweQP8Op04pun.jpg", "actors": [], "comments": [], "recommandations_id": []}

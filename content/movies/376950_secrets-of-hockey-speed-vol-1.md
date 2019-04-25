@@ -1,1 +1,0 @@
-{"tmdb_id": 376950, "title": "Secrets of Hockey Speed Vol. 1", "original_title": "Secrets of Hockey Speed Vol. 1", "slug_title": "secrets-of-hockey-speed-vol-1", "date": "1995-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vk8mor5VbaCpQ1qzTZM32FS8C0L.jpg", "actors": [], "comments": [], "recommandations_id": []}

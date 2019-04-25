@@ -1,1 +1,0 @@
-{"tmdb_id": 594664, "title": "FloorLight", "original_title": "FloorLight", "slug_title": "floorlight", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/35BSD4hooHNWAz8p3fhUbxfLN7O.jpg", "actors": [], "comments": [], "recommandations_id": []}

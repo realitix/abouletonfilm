@@ -1,1 +1,0 @@
-{"tmdb_id": 76683, "title": "Manmadha", "original_title": "Manmadha", "slug_title": "manmadha", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

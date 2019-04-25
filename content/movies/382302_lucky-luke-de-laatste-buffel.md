@@ -1,1 +1,0 @@
-{"tmdb_id": 382302, "title": "Lucky Luke - De Laatste Buffel", "original_title": "Lucky Luke - De Laatste Buffel", "slug_title": "lucky-luke-de-laatste-buffel", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/99BLd7EaHsdirGeELr4CxncRUpi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 276620, "title": "Watermen", "original_title": "Watermen", "slug_title": "watermen", "date": "1968-06-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mNdPdtB6dMctizCNk8mXCmSxUI9.jpg", "actors": [], "comments": [], "recommandations_id": []}

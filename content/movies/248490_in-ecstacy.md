@@ -1,1 +1,0 @@
-{"tmdb_id": 248490, "title": "In Ecstacy", "original_title": "In Extase", "slug_title": "in-ecstacy", "date": "2013-06-26", "genre": "Musique / Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7cL5P7v3nlicRurzyiIP4cDqT3v.jpg", "actors": [], "comments": [], "recommandations_id": []}

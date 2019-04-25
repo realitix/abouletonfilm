@@ -1,1 +1,0 @@
-{"tmdb_id": 555324, "title": "Hellraiser: Resurrection", "original_title": "Hellraiser: Resurrection", "slug_title": "hellraiser-resurrection", "date": "2000-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

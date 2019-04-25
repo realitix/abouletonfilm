@@ -1,1 +1,0 @@
-{"tmdb_id": 495658, "title": "Poli: El potro se desboca", "original_title": "Poli: El potro se desboca", "slug_title": "poli-el-potro-se-desboca", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cYPDgi57MFqGEgbcGnoBb7CbVdU.jpg", "actors": [], "comments": [], "recommandations_id": []}

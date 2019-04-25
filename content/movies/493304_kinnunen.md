@@ -1,1 +1,0 @@
-{"tmdb_id": 493304, "title": "Kinnunen", "original_title": "Kinnunen", "slug_title": "kinnunen", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sesa Lehto (Juha Kinnunen)"], "comments": [], "recommandations_id": []}

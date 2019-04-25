@@ -1,1 +1,0 @@
-{"tmdb_id": 507063, "title": "Burning Rage", "original_title": "Burning Rage", "slug_title": "burning-rage", "date": "", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barbara Mandrell (Kate Bishop)", "Tom Wopat (Tom Silver)", "Bert Remsen (J.D. Moses)"], "comments": [], "recommandations_id": []}

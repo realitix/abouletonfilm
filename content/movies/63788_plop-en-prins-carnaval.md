@@ -1,1 +1,0 @@
-{"tmdb_id": 63788, "title": "Plop en Prins Carnaval", "original_title": "Plop en Prins Carnaval", "slug_title": "plop-en-prins-carnaval", "date": "2011-05-09", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3DCFqeLzHWitntV1kk74ahJZdh1.jpg", "actors": [], "comments": [], "recommandations_id": []}

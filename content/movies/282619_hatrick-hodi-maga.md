@@ -1,1 +1,0 @@
-{"tmdb_id": 282619, "title": "Hatrick Hodi Maga", "original_title": "Hatrick Hodi Maga", "slug_title": "hatrick-hodi-maga", "date": "2009-05-08", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shivaraj Kumar ()", "Manju Bhargavi ()", "Nicolette Bird ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 519968, "title": "Cry Havoc", "original_title": "Cry Havoc", "slug_title": "cry-havoc", "date": "2017-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

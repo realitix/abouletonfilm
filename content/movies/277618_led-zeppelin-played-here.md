@@ -1,1 +1,0 @@
-{"tmdb_id": 277618, "title": "Led Zeppelin Played Here", "original_title": "Led Zeppelin Played Here", "slug_title": "led-zeppelin-played-here", "date": "2013-12-20", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w2iMo9nfySmGti8lzJdGz0mzG6v.jpg", "actors": [], "comments": [], "recommandations_id": []}

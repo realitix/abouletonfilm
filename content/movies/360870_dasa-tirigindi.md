@@ -1,1 +1,0 @@
-{"tmdb_id": 360870, "title": "Dasa Tirigindi", "original_title": "\u0c26\u0c36 \u0c24\u0c3f\u0c30\u0c3f\u0c17\u0c3f\u0c02\u0c26\u0c3f", "slug_title": "dasa-tirigindi", "date": "2013-05-24", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sivaji Sontineni ()", "Sadha ()"], "comments": [], "recommandations_id": []}

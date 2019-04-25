@@ -1,1 +1,0 @@
-{"tmdb_id": 166504, "title": "Dixie Days", "original_title": "Dixie Days", "slug_title": "dixie-days", "date": "1930-03-29", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

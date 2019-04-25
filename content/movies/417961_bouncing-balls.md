@@ -1,1 +1,0 @@
-{"tmdb_id": 417961, "title": "Bouncing Balls", "original_title": "Bouncing Balls", "slug_title": "bouncing-balls", "date": "1969-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bruce Nauman ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 377265, "title": "The Goofy Gardener", "original_title": "The Goofy Gardener", "slug_title": "the-goofy-gardener", "date": "1957-08-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aMsOIZZjbIx1pJ9NNL7xqYekfwD.jpg", "actors": ["Dal McKennon ((vocalist))"], "comments": [], "recommandations_id": []}

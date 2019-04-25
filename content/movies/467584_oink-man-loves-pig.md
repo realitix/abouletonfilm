@@ -1,1 +1,0 @@
-{"tmdb_id": 467584, "title": "Oink: Man Loves Pig", "original_title": "Oink: Man Loves Pig", "slug_title": "oink-man-loves-pig", "date": "2017-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

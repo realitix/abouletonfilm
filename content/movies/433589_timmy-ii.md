@@ -1,1 +1,0 @@
-{"tmdb_id": 433589, "title": "Timmy II", "original_title": "Timmy II", "slug_title": "timmy-ii", "date": "2014-07-21", "genre": "Aventure / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d88Esnktmg7fJM71phbvOCfJ0il.jpg", "actors": [], "comments": [], "recommandations_id": []}

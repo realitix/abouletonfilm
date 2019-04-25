@@ -1,1 +1,0 @@
-{"tmdb_id": 329401, "title": "Mohammed", "original_title": "Mohammed", "slug_title": "mohammed", "date": "2014-10-14", "genre": "Com\u00e9die / Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qxTlZxDr3WwCThtqIvMfFEGc4Ey.jpg", "actors": [], "comments": [], "recommandations_id": []}

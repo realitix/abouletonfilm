@@ -1,1 +1,0 @@
-{"tmdb_id": 559276, "title": "One Night at the Tabarin", "original_title": "Une nuit \u00e0 Tabarin", "slug_title": "one-night-at-the-tabarin", "date": "1947-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qog6gTQpoie9CzWL0W0QoEtJhe4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 460924, "title": "The Black and the Green", "original_title": "The Black and the Green", "slug_title": "the-black-and-the-green", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e8BsXJnSRosr1R740RR73WNlB6c.jpg", "actors": [], "comments": [], "recommandations_id": []}

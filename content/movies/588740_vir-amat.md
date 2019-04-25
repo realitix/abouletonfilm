@@ -1,1 +1,0 @@
-{"tmdb_id": 588740, "title": "Vir Amat", "original_title": "Vir Amat", "slug_title": "vir-amat", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

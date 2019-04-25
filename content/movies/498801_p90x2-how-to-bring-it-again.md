@@ -1,1 +1,0 @@
-{"tmdb_id": 498801, "title": "P90X2: How to Bring It!...again!", "original_title": "P90X2: How to Bring It!...again!", "slug_title": "p90x2-how-to-bring-it-again", "date": "2013-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u0dI4XICrmuF3V9Og4QhKLYhyZI.jpg", "actors": [], "comments": [], "recommandations_id": []}

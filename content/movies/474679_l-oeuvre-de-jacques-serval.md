@@ -1,1 +1,0 @@
-{"tmdb_id": 474679, "title": "L'oeuvre de Jacques Serval", "original_title": "L'oeuvre de Jacques Serval", "slug_title": "l-oeuvre-de-jacques-serval", "date": "1909-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Capellani ()", "Stacia Napierkowska ()", "Louis Ravet ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 250693, "title": "Moving Art: Oceans", "original_title": "Moving Art: Oceans", "slug_title": "moving-art-oceans", "date": "2014-02-12", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pW1sKcfKrcqbYoEV9NKgRLDzVb9.jpg", "actors": [], "comments": [], "recommandations_id": [368667, 250692, 250691]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 237062, "title": "Quentin Quail", "original_title": "Quentin Quail", "slug_title": "quentin-quail", "date": "1946-03-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kcdnjb2y5J4efYcKbMqNOxNxlYs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 144264, "title": "TNA Against All Odds 2012", "original_title": "TNA Against All Odds 2012", "slug_title": "tna-against-all-odds-2012", "date": "2012-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jJmGU2zctji1znRXI3L7FLesMgr.jpg", "actors": [], "comments": [], "recommandations_id": []}

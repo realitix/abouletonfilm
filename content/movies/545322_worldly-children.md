@@ -1,1 +1,0 @@
-{"tmdb_id": 545322, "title": "Worldly Children", "original_title": "Sv\u011btsk\u00e9 d\u011bti", "slug_title": "worldly-children", "date": "1981-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 236089, "title": "Jingle, Jangle, Jungle", "original_title": "Jingle, Jangle, Jungle", "slug_title": "jingle-jangle-jungle", "date": "1950-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5me3aEGoRo6kS2SfHWVU2A2gzu2.jpg", "actors": [], "comments": [], "recommandations_id": []}

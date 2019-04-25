@@ -1,1 +1,0 @@
-{"tmdb_id": 516097, "title": "Im Tal der Rosen", "original_title": "Im Tal der Rosen", "slug_title": "im-tal-der-rosen", "date": "2015-05-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

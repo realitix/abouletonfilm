@@ -1,1 +1,0 @@
-{"tmdb_id": 504548, "title": "One Hundred Epiphanies (Not Zeitgeist)", "original_title": "One Hundred Epiphanies (Not Zeitgeist)", "slug_title": "one-hundred-epiphanies-not-zeitgeist", "date": "2012-05-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ryan Faulk (Narrator)"], "comments": [], "recommandations_id": []}

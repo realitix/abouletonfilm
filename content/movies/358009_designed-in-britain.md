@@ -1,1 +1,0 @@
-{"tmdb_id": 358009, "title": "Designed in Britain", "original_title": "Designed in Britain", "slug_title": "designed-in-britain", "date": "1959-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m2TsdvmYigfO6Rfi3fSWznrKuU7.jpg", "actors": [], "comments": [], "recommandations_id": []}

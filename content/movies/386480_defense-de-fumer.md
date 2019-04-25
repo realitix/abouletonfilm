@@ -1,1 +1,0 @@
-{"tmdb_id": 386480, "title": "D\u00e9fense de fumer", "original_title": "D\u00e9fense de fumer", "slug_title": "defense-de-fumer", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jYFugfbhHyk8u3kggLKvO1kdMkt.jpg", "actors": [], "comments": [], "recommandations_id": []}

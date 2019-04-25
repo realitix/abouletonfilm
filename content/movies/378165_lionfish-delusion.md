@@ -1,1 +1,0 @@
-{"tmdb_id": 378165, "title": "Lionfish Delusion", "original_title": "El delirio del pez le\u00f3n", "slug_title": "lionfish-delusion", "date": "2012-07-25", "genre": "Animation / Myst\u00e8re", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sBWIIAAOuXEDFtebrPh6bV3wK84.jpg", "actors": [], "comments": [], "recommandations_id": []}

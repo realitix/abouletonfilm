@@ -1,1 +1,0 @@
-{"tmdb_id": 207819, "title": "C\u00e9leste A\u00efda", "original_title": "C\u00e9leste A\u00efda", "slug_title": "celeste-aida", "date": "1927-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Giovanni Martinelli (Radames)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 574445, "title": "Static-X: Cannibal Killers Live", "original_title": "Static-X: Cannibal Killers Live", "slug_title": "static-x-cannibal-killers-live", "date": "2008-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7TAQtnOtCPosxeRlGyODP1EQV2u.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 262720, "title": "Teletubbies: Favorite Things", "original_title": "Teletubbies: Favorite Things", "slug_title": "teletubbies-favorite-things", "date": "2005-03-02", "genre": "Familial", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lH86gLUe43wqpc7xqjCqVDLD02K.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 123482, "title": "20 Years of Nuclear Blast", "original_title": "20 Years of Nuclear Blast", "slug_title": "20-years-of-nuclear-blast", "date": "2007-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xwDs0ebCwsoHN58iyEbeGGikaY4.jpg", "actors": [], "comments": [], "recommandations_id": []}

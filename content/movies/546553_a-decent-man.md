@@ -1,1 +1,0 @@
-{"tmdb_id": 546553, "title": "A Decent Man", "original_title": "Um om la locul lui", "slug_title": "a-decent-man", "date": "2018-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4vMOSfr3sa7cVW9LKIhpldZWJdc.jpg", "actors": ["Bogdan Dumitrache ()"], "comments": [], "recommandations_id": []}

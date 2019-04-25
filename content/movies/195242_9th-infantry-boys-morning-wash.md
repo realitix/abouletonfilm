@@ -1,1 +1,0 @@
-{"tmdb_id": 195242, "title": "9th Infantry Boys' Morning Wash", "original_title": "9th Infantry Boys' Morning Wash", "slug_title": "9th-infantry-boys-morning-wash", "date": "1898-05-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 398743, "title": "New Wave", "original_title": "New Wave", "slug_title": "new-wave", "date": "2015-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/spWddqTRH3bRL6b40pe5VEowQe1.jpg", "actors": [], "comments": [], "recommandations_id": []}

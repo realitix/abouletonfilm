@@ -1,1 +1,0 @@
-{"tmdb_id": 174985, "title": "Der Perser", "original_title": "Der Perser", "slug_title": "der-perser", "date": "1919-11-29", "genre": "", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6jLgPVEYEkOcurqHm1SG1gILem6.jpg", "actors": [], "comments": [], "recommandations_id": []}

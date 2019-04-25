@@ -1,1 +1,0 @@
-{"tmdb_id": 321285, "title": "Made in Poland", "original_title": "Made in Poland", "slug_title": "made-in-poland", "date": "2010-05-26", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j3YUaEkTNWGwaGN1f6jix51SgVw.jpg", "actors": ["Janusz Chabior (Wiktor)"], "comments": [], "recommandations_id": []}

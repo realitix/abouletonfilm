@@ -1,1 +1,0 @@
-{"tmdb_id": 466663, "title": "40 x 15: The Forty Years of the Directors' Fortnight", "original_title": "40 x 15: The Forty Years of the Directors' Fortnight", "slug_title": "40-x-15-the-forty-years-of-the-directors-fortnight", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 336976, "title": "Eit kj\u00e6rleiksbarn", "original_title": "Eit kj\u00e6rleiksbarn", "slug_title": "eit-kjaerleiksbarn", "date": "2015-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p98J7jDYeKaEc9VbrXYM1ToPTom.jpg", "actors": [], "comments": [], "recommandations_id": []}

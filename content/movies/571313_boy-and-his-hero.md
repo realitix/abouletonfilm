@@ -1,1 +1,0 @@
-{"tmdb_id": 571313, "title": "Boy and His Hero", "original_title": "Xiao nian yu ying xoing", "slug_title": "boy-and-his-hero", "date": "1993-06-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chin Lung ()", "Hsiao-Wu ()", "Zhoe-Jeh Kao ()", "Li-min Wang ()", "Chun-Cheng Yen ()"], "comments": [], "recommandations_id": []}

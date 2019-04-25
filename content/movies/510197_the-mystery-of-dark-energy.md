@@ -1,1 +1,0 @@
-{"tmdb_id": 510197, "title": "The Mystery of Dark Energy", "original_title": "The Mystery of Dark Energy", "slug_title": "the-mystery-of-dark-energy", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rbv6rdKADfSdqXD25k5kONtApV1.jpg", "actors": [], "comments": [], "recommandations_id": []}

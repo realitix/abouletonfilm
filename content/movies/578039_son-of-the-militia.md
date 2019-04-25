@@ -1,1 +1,0 @@
-{"tmdb_id": 578039, "title": "Son of the Militia", "original_title": "Son of the Militia", "slug_title": "son-of-the-militia", "date": "1958-03-07", "genre": "Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/djsaPhIonryEmy3silS2gf2VROQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

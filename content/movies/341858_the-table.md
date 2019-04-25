@@ -1,1 +1,0 @@
-{"tmdb_id": 341858, "title": "The Table", "original_title": "The Table", "slug_title": "the-table", "date": "2012-03-30", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matt Kawczynski ()", "Dan Homeijer ()", "Whitney Wellner ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 418357, "title": "Rip Rip Hooray!", "original_title": "Rip Rip Hooray!", "slug_title": "rip-rip-hooray", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Do7ZI4LgRgITagQ1baxpFlimJd.jpg", "actors": [], "comments": [], "recommandations_id": []}

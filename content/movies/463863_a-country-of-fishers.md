@@ -1,1 +1,0 @@
-{"tmdb_id": 463863, "title": "A Country Of Fishers", "original_title": "A Country Of Fishers", "slug_title": "a-country-of-fishers", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

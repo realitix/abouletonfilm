@@ -1,1 +1,0 @@
-{"tmdb_id": 389847, "title": "The Appointed", "original_title": "Hameyu'ad", "slug_title": "the-appointed", "date": "1990-03-25", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/13Q9vegCC7sfvjOIKvwnIrRVEzT.jpg", "actors": [], "comments": [], "recommandations_id": []}

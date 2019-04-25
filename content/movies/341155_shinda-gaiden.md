@@ -1,1 +1,0 @@
-{"tmdb_id": 341155, "title": "Shinda Gaiden", "original_title": "Shinda Gaiden", "slug_title": "shinda-gaiden", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

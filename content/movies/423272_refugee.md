@@ -1,1 +1,0 @@
-{"tmdb_id": 423272, "title": "Refugee", "original_title": "Refugee", "slug_title": "refugee", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

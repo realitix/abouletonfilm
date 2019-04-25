@@ -1,1 +1,0 @@
-{"tmdb_id": 209124, "title": "How Far Is Heaven", "original_title": "How Far Is Heaven", "slug_title": "how-far-is-heaven", "date": "2012-08-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oTsSAaG7cBha8pYAtH8HcQoABTk.jpg", "actors": [], "comments": [], "recommandations_id": []}

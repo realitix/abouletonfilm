@@ -1,1 +1,0 @@
-{"tmdb_id": 480180, "title": "Open House", "original_title": "Open House", "slug_title": "open-house", "date": "1953-06-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roy Halee (Terry Bear (voice))", "Philip A. Scheib (Terry Bear (voice))", "Doug Moye (Papa Bear (voice))"], "comments": [], "recommandations_id": []}

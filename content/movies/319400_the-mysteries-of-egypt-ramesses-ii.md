@@ -1,1 +1,0 @@
-{"tmdb_id": 319400, "title": "The Mysteries of Egypt: Ramesses II", "original_title": "The Mysteries of Egypt: Ramesses II", "slug_title": "the-mysteries-of-egypt-ramesses-ii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

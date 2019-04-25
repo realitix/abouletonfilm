@@ -1,1 +1,0 @@
-{"tmdb_id": 245964, "title": "Living Rights", "original_title": "Living Rights", "slug_title": "living-rights", "date": "2004-11-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fSQdsYgEwfhY65qFtvN5s3zToWH.jpg", "actors": [], "comments": [], "recommandations_id": []}

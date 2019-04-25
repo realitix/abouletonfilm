@@ -1,1 +1,0 @@
-{"tmdb_id": 450737, "title": "Espa\u00f1a - Malta", "original_title": "Espa\u00f1a - Malta", "slug_title": "espana-malta", "date": "1983-12-21", "genre": "T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2FAQHBVFGjgNpyyCyWc6ajJP7An.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 558242, "title": "Faire la mort", "original_title": "Faire la mort", "slug_title": "faire-la-mort", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "Faire l\u2019amour ou donner la mort devant une cam\u00e9ra, il y a peut-\u00eatre un probl\u00e8me\u2026", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

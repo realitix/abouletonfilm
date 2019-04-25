@@ -1,1 +1,0 @@
-{"tmdb_id": 312595, "title": "Homestar Runner: Strong Bad's Emails", "original_title": "Homestar Runner: Strong Bad's Emails", "slug_title": "homestar-runner-strong-bad-s-emails", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

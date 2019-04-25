@@ -1,1 +1,0 @@
-{"tmdb_id": 386887, "title": "Francis B. Griffin", "original_title": "Francis B. Griffin", "slug_title": "francis-b-griffin", "date": "2014-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iEUbgdejuPQwGuP6WiVTpCbSZVn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 494094, "title": "Corrida", "original_title": "Corrida", "slug_title": "corrida", "date": "1983-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rein Aren (Osvald Rass)", "Rita Raave (Ragne Rass)", "Sulev Luik (Tarmo)"], "comments": [], "recommandations_id": []}

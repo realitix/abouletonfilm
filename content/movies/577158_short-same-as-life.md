@@ -1,1 +1,0 @@
-{"tmdb_id": 577158, "title": "Short same as life", "original_title": "Short same as life", "slug_title": "short-same-as-life", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uQINvhQjbM2IMzsea6KSJYqBmQQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

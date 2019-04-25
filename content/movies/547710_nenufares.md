@@ -1,1 +1,0 @@
-{"tmdb_id": 547710, "title": "Nen\u00fafares", "original_title": "Nen\u00fafares", "slug_title": "nenufares", "date": "2018-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

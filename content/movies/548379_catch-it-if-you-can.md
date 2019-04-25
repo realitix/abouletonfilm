@@ -1,1 +1,0 @@
-{"tmdb_id": 548379, "title": "Catch It\u2026 If You Can", "original_title": "Catch It\u2026 If You Can", "slug_title": "catch-it-if-you-can", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

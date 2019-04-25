@@ -1,1 +1,0 @@
-{"tmdb_id": 386236, "title": "Kool Savas Tot oder Lebendig Live", "original_title": "Kool Savas Tot oder Lebendig Live", "slug_title": "kool-savas-tot-oder-lebendig-live", "date": "2008-06-06", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kool Savas (Rapper)"], "comments": [], "recommandations_id": []}

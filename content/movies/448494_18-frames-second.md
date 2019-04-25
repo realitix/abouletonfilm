@@ -1,1 +1,0 @@
-{"tmdb_id": 448494, "title": "18 Frames/Second", "original_title": "18 Bilder/Sek", "slug_title": "18-frames-second", "date": "2010-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gFjTwxSqaphXipm7biBZbD3GCvG.jpg", "actors": [], "comments": [], "recommandations_id": []}

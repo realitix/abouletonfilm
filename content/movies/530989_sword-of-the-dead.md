@@ -1,1 +1,0 @@
-{"tmdb_id": 530989, "title": "Sword of the Dead", "original_title": "Sword of the Dead", "slug_title": "sword-of-the-dead", "date": "2018-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a7DE9Astt39Gm03USGpANbug5nq.jpg", "actors": [], "comments": [], "recommandations_id": []}

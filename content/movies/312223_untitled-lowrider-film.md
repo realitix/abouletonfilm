@@ -1,1 +1,0 @@
-{"tmdb_id": 312223, "title": "Untitled Lowrider Film", "original_title": "Untitled Lowrider Film", "slug_title": "untitled-lowrider-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 237191, "title": "Dingbat Land", "original_title": "Dingbat Land", "slug_title": "dingbat-land", "date": "1949-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

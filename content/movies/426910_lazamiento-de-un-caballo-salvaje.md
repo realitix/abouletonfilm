@@ -1,1 +1,0 @@
-{"tmdb_id": 426910, "title": "Lazamiento de un caballo salvaje", "original_title": "Lazamiento de un caballo salvaje", "slug_title": "lazamiento-de-un-caballo-salvaje", "date": "1896-12-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

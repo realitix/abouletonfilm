@@ -1,1 +1,0 @@
-{"tmdb_id": 493218, "title": "Inside The Black Jersey", "original_title": "Inside The Black Jersey", "slug_title": "inside-the-black-jersey", "date": "2009-05-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

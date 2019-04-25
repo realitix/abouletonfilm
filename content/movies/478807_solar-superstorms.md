@@ -1,1 +1,0 @@
-{"tmdb_id": 478807, "title": "Solar Superstorms", "original_title": "Solar Superstorms", "slug_title": "solar-superstorms", "date": "2013-02-15", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AixRkolIm3jQPA9PdVlNoyX4Dly.jpg", "actors": [], "comments": [], "recommandations_id": []}

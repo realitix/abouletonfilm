@@ -1,1 +1,0 @@
-{"tmdb_id": 452701, "title": "Imagining Indians", "original_title": "Imagining Indians", "slug_title": "imagining-indians", "date": "1992-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 536738, "title": "Madness", "original_title": "Madness", "slug_title": "madness", "date": "2018-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aEBmnxZoJT8kLy8AnQu2hxGcifa.jpg", "actors": ["Ernania Rainha (Lucy)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 407629, "title": "Passage to Hell", "original_title": "Passage to Hell", "slug_title": "passage-to-hell", "date": "1988-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anthony East ()", "Philip Gordon ()", "David Light ()", "Don Wilson ()"], "comments": [], "recommandations_id": []}

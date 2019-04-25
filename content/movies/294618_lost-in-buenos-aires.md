@@ -1,1 +1,0 @@
-{"tmdb_id": 294618, "title": "Lost in Buenos Aires", "original_title": "Lost in Buenos Aires", "slug_title": "lost-in-buenos-aires", "date": "2011-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

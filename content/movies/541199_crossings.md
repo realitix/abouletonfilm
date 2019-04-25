@@ -1,1 +1,0 @@
-{"tmdb_id": 541199, "title": "Crossings", "original_title": "Crossings", "slug_title": "crossings", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/loLI7T9wGZd0oYEaJOWfbnHE34I.jpg", "actors": [], "comments": [], "recommandations_id": []}

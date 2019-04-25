@@ -1,1 +1,0 @@
-{"tmdb_id": 510944, "title": "Confine", "original_title": "Confine", "slug_title": "confine", "date": "", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8dcSKf3alRPp9BDb0JoGTg2pzv7.jpg", "actors": [], "comments": [], "recommandations_id": []}

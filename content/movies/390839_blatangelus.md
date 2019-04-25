@@ -1,1 +1,0 @@
-{"tmdb_id": 390839, "title": "Blatangelus", "original_title": "Blatt\u00e1ngelus", "slug_title": "blatangelus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jnL5ScSnVma8zcdnO0a6Ky2JaiC.jpg", "actors": [], "comments": [], "recommandations_id": []}

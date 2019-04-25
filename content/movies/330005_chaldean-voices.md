@@ -1,1 +1,0 @@
-{"tmdb_id": 330005, "title": "Chaldean Voices", "original_title": "Chaldean Voices", "slug_title": "chaldean-voices", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

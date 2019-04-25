@@ -1,1 +1,0 @@
-{"tmdb_id": 310850, "title": "The Best of Jazz on TDK '07", "original_title": "The Best of Jazz on TDK '07", "slug_title": "the-best-of-jazz-on-tdk-07", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

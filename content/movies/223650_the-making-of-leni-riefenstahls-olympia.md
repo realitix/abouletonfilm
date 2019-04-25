@@ -1,1 +1,0 @@
-{"tmdb_id": 223650, "title": "The Making of Leni Riefenstahl\u2019s Olympia", "original_title": "The Making of Leni Riefenstahl\u2019s Olympia", "slug_title": "the-making-of-leni-riefenstahls-olympia", "date": "1937-07-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

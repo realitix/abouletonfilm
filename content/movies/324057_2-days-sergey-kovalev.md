@@ -1,1 +1,0 @@
-{"tmdb_id": 324057, "title": "2 Days: Sergey Kovalev", "original_title": "2 Days: Sergey Kovalev", "slug_title": "2-days-sergey-kovalev", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

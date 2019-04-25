@@ -1,1 +1,0 @@
-{"tmdb_id": 349584, "title": "\ub0b4 \uc778\uc0dd\uc740 \ub098\uc758 \uac83", "original_title": "\ub0b4 \uc778\uc0dd\uc740 \ub098\uc758 \uac83", "slug_title": "nae-insaengeun-nayi-geos", "date": "1983-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 466104, "title": "The Blue Room", "original_title": "The Blue Room", "slug_title": "the-blue-room", "date": "2015-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/95d9jxh6p6T5iRdDE1EfiISwy9o.jpg", "actors": ["Alessandra Adlgasser ()", "Sean Reyes ()"], "comments": [], "recommandations_id": []}

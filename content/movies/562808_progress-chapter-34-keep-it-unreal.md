@@ -1,1 +1,0 @@
-{"tmdb_id": 562808, "title": "PROGRESS Chapter 34: Keep It Unreal", "original_title": "PROGRESS Chapter 34: Keep It Unreal", "slug_title": "progress-chapter-34-keep-it-unreal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 349586, "title": "\ub0b4\uac00 \ub9c8\uc9c0\ub9c9 \ubcf8 \ud765\ub0a8", "original_title": "\ub0b4\uac00 \ub9c8\uc9c0\ub9c9 \ubcf8 \ud765\ub0a8", "slug_title": "naega-majimag-bon-heungnam", "date": "1984-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

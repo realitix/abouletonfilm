@@ -1,1 +1,0 @@
-{"tmdb_id": 467944, "title": "Ambiman", "original_title": "Ambiman", "slug_title": "ambiman", "date": "1983-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

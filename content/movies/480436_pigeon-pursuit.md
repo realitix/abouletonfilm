@@ -1,1 +1,0 @@
-{"tmdb_id": 480436, "title": "Pigeon Pursuit", "original_title": "Pigeon Pursuit", "slug_title": "pigeon-pursuit", "date": "2010-10-11", "genre": "Action", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4UipxX2qphy64Oa84JgeFfiwWXa.jpg", "actors": [], "comments": [], "recommandations_id": []}

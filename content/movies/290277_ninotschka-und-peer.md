@@ -1,1 +1,0 @@
-{"tmdb_id": 290277, "title": "Ninotschka und Peer", "original_title": "Ninotschka und Peer", "slug_title": "ninotschka-und-peer", "date": "1962-11-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Binder ()", "Anita Kupsch ()"], "comments": [], "recommandations_id": []}

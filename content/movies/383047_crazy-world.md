@@ -1,1 +1,0 @@
-{"tmdb_id": 383047, "title": "Crazy World", "original_title": "\u99ac\u9e7f\u99ac\u9e7f\u99ac\u9e7f\u306a\u4e16\u754c", "slug_title": "crazy-world", "date": "1968-10-11", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dCeaeqKqvk84NnYhONDtqae8mIh.jpg", "actors": [], "comments": [], "recommandations_id": []}

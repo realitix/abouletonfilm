@@ -1,1 +1,0 @@
-{"tmdb_id": 556279, "title": "La maternelle", "original_title": "La maternelle", "slug_title": "la-maternelle", "date": "1925-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

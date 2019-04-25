@@ -1,1 +1,0 @@
-{"tmdb_id": 276560, "title": "The Craving Heart", "original_title": "The Craving Heart", "slug_title": "the-craving-heart", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

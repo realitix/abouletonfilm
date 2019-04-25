@@ -1,1 +1,0 @@
-{"tmdb_id": 575041, "title": "Pup Birth", "original_title": "Pup Birth", "slug_title": "pup-birth", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 477192, "title": "Roadside Attraction", "original_title": "Roadside Attraction", "slug_title": "roadside-attraction", "date": "2017-09-10", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pNJ4BOwC4DaNl9zWgyJK5G8tlAy.jpg", "actors": [], "comments": [], "recommandations_id": []}

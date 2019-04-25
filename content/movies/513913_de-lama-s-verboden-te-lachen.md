@@ -1,1 +1,0 @@
-{"tmdb_id": 513913, "title": "De Lama's - Verboden te lachen", "original_title": "De Lama's - Verboden te lachen", "slug_title": "de-lama-s-verboden-te-lachen", "date": "2007-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oNEiL7xcyUPvqlWDSVBPcDOHhil.jpg", "actors": [], "comments": [], "recommandations_id": []}

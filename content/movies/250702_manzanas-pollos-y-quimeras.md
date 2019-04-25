@@ -1,1 +1,0 @@
-{"tmdb_id": 250702, "title": "Manzanas, pollos y quimeras", "original_title": "Manzanas, pollos y quimeras", "slug_title": "manzanas-pollos-y-quimeras", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kHUQyZYIjrsjsPt3xbFNxFzgn5x.jpg", "actors": [], "comments": [], "recommandations_id": []}

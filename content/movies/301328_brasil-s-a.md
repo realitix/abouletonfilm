@@ -1,1 +1,0 @@
-{"tmdb_id": 301328, "title": "Brasil S/A", "original_title": "Brasil S/A", "slug_title": "brasil-s-a", "date": "2014-11-06", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kDtwmsaYtsYXAz0qW1TxYwlUObM.jpg", "actors": [], "comments": [], "recommandations_id": []}

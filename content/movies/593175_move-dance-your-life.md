@@ -1,1 +1,0 @@
-{"tmdb_id": 593175, "title": "Move! Dance Your Life", "original_title": "Move! Dance Your Life", "slug_title": "move-dance-your-life", "date": "2017-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/febzvMCMkkek3gHUNYpNmbzHviG.jpg", "actors": [], "comments": [], "recommandations_id": []}

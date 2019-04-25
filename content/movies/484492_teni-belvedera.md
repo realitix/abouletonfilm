@@ -1,1 +1,0 @@
-{"tmdb_id": 484492, "title": "Teni Belvedera", "original_title": "Teni Belvedera", "slug_title": "teni-belvedera", "date": "1927-06-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1cplB2Wfdgsbpcqqm1k6bA2PNHu.jpg", "actors": [], "comments": [], "recommandations_id": []}

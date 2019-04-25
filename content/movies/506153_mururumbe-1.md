@@ -1,1 +1,0 @@
-{"tmdb_id": 506153, "title": "Mururumbe 1", "original_title": "Mururumbe 1", "slug_title": "mururumbe-1", "date": "", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aHYDqGS79Tun8kMGEsqItkTt5Iq.jpg", "actors": [], "comments": [], "recommandations_id": []}

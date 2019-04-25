@@ -1,1 +1,0 @@
-{"tmdb_id": 271593, "title": "Hip Hop Life", "original_title": "Hip Hop Life", "slug_title": "hip-hop-life", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

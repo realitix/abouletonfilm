@@ -1,1 +1,0 @@
-{"tmdb_id": 211238, "title": "Soulmates", "original_title": "Soulmates", "slug_title": "soulmates", "date": "2008-06-08", "genre": "Com\u00e9die / Horreur", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cameron Sawyer (Barry)", "Cynthia Dane (Claudina)", "Shannon Lee Holmes (Jimmy Vega)"], "comments": [], "recommandations_id": []}

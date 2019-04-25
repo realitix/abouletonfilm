@@ -1,1 +1,0 @@
-{"tmdb_id": 593089, "title": "Taipeilove*", "original_title": "Taipeilove*", "slug_title": "taipeilove", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aGt3EdYP1alkiIvrAnPNId7wOJz.jpg", "actors": [], "comments": [], "recommandations_id": []}

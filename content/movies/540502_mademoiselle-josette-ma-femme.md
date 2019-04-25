@@ -1,1 +1,0 @@
-{"tmdb_id": 540502, "title": "Mademoiselle Josette, ma femme", "original_title": "Mademoiselle Josette, ma femme", "slug_title": "mademoiselle-josette-ma-femme", "date": "1933-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

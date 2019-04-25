@@ -1,1 +1,0 @@
-{"tmdb_id": 161486, "title": "Goering's Last Secret: Revealed", "original_title": "Goering's Last Secret: Revealed", "slug_title": "goering-s-last-secret-revealed", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

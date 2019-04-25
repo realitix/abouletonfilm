@@ -1,1 +1,0 @@
-{"tmdb_id": 325052, "title": "The Old Man and the Bird", "original_title": "The Old Man and the Bird", "slug_title": "the-old-man-and-the-bird", "date": "2015-02-10", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ktLGTXQsDPzZ6l8qi2tQNn26Yv9.jpg", "actors": [], "comments": [], "recommandations_id": []}

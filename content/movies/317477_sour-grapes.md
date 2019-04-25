@@ -1,1 +1,0 @@
-{"tmdb_id": 317477, "title": "Sour Grapes", "original_title": "Sour Grapes", "slug_title": "sour-grapes", "date": "1950-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

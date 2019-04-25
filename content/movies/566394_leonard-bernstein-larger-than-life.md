@@ -1,1 +1,0 @@
-{"tmdb_id": 566394, "title": "Leonard Bernstein: Larger Than Life", "original_title": "Leonard Bernstein: Larger Than Life", "slug_title": "leonard-bernstein-larger-than-life", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Georg W\u00fcbbolt (Director)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 436809, "title": "Japan in Paris in L.A.", "original_title": "Japan in Paris in L.A.", "slug_title": "japan-in-paris-in-l-a", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

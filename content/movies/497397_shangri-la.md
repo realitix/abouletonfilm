@@ -1,1 +1,0 @@
-{"tmdb_id": 497397, "title": "Shangri-La", "original_title": "Shangri-La", "slug_title": "shangri-la", "date": "1961-04-30", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sammy Petrillo (Sammy)"], "comments": [], "recommandations_id": []}

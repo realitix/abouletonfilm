@@ -1,1 +1,0 @@
-{"tmdb_id": 502660, "title": "Raagam Thaanam Pallavi", "original_title": "Raagam Thaanam Pallavi", "slug_title": "raagam-thaanam-pallavi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/67oTtnTOpT8483XCIV1fo99QDJg.jpg", "actors": [], "comments": [], "recommandations_id": []}

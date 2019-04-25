@@ -1,1 +1,0 @@
-{"tmdb_id": 314147, "title": "Pan Nov\u00e1k", "original_title": "Pan Nov\u00e1k", "slug_title": "pan-novak", "date": "1949-06-10", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4aLgd3zI59cEmFToaSU6X1APPUv.jpg", "actors": ["Jind\u0159ich Plachta (pan Nov\u00e1k)"], "comments": [], "recommandations_id": []}

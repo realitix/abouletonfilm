@@ -1,1 +1,0 @@
-{"tmdb_id": 163953, "title": "No Contest!", "original_title": "No Contest!", "slug_title": "no-contest", "date": "1934-10-06", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ruth Etting (Ruth)", "Charles Lawrence (Albertson)", "Elmer Brown (Johnny)", "Bert Matthews (Announcer)"], "comments": [], "recommandations_id": []}

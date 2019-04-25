@@ -1,1 +1,0 @@
-{"tmdb_id": 433224, "title": "Anxiety", "original_title": "Delhoreh", "slug_title": "anxiety", "date": "1962-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dvTZ4AXjmsoQCF7bgoWpVxT93ZK.jpg", "actors": [], "comments": [], "recommandations_id": []}

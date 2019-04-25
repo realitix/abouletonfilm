@@ -1,1 +1,0 @@
-{"tmdb_id": 503210, "title": "Return to Jurassic Park", "original_title": "Return to Jurassic Park", "slug_title": "return-to-jurassic-park", "date": "2011-02-05", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mPyu59cDdmMDDW9IOtfjVlM0THd.jpg", "actors": [], "comments": [], "recommandations_id": [20760]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 175239, "title": "All Dressed Up", "original_title": "All Dressed Up", "slug_title": "all-dressed-up", "date": "1920-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["'Snub' Pollard ()"], "comments": [], "recommandations_id": []}

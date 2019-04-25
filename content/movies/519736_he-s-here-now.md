@@ -1,1 +1,0 @@
-{"tmdb_id": 519736, "title": "He's Here Now", "original_title": "He's Here Now", "slug_title": "he-s-here-now", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Kyl1gPPB4R4kjM9W4TmFkigmwP.jpg", "actors": [], "comments": [], "recommandations_id": []}

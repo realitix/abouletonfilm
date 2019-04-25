@@ -1,1 +1,0 @@
-{"tmdb_id": 481624, "title": "3rd Degree", "original_title": "3rd Degree", "slug_title": "3rd-degree", "date": "1982-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mIj7YNgq7oMuFmxMBEGVa76KTKQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

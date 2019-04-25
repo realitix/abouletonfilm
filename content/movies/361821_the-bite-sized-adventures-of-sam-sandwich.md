@@ -1,1 +1,0 @@
-{"tmdb_id": 361821, "title": "The Bite-Sized Adventures of Sam Sandwich", "original_title": "The Bite-Sized Adventures of Sam Sandwich", "slug_title": "the-bite-sized-adventures-of-sam-sandwich", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 132456, "title": "Kurradu", "original_title": "Kurradu", "slug_title": "kurradu", "date": "2009-11-12", "genre": "Action / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/14c8RrtpJamME54lTtYytNBenBJ.jpg", "actors": ["Varun Sandesh ()", "Neha Sharma ()"], "comments": [], "recommandations_id": []}

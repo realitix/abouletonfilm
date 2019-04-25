@@ -1,1 +1,0 @@
-{"tmdb_id": 499633, "title": "The Cognitive Era", "original_title": "The Cognitive Era", "slug_title": "the-cognitive-era", "date": "2018-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lep2oWETFkP8i2yytmFw688dNXb.jpg", "actors": [], "comments": [], "recommandations_id": []}

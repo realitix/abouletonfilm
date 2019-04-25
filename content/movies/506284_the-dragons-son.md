@@ -1,1 +1,0 @@
-{"tmdb_id": 506284, "title": "The Dragon\u2019s Son", "original_title": "The Dragon\u2019s Son", "slug_title": "the-dragons-son", "date": "2013-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vM55QDnIadVguxUnrEyMR7stiQl.jpg", "actors": [], "comments": [], "recommandations_id": []}

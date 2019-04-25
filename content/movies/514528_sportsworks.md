@@ -1,1 +1,0 @@
-{"tmdb_id": 514528, "title": "SportsWorks", "original_title": "SportsWorks", "slug_title": "sportsworks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gB45b5dAUSjXlccfrJCTHrKuBRY.jpg", "actors": [], "comments": [], "recommandations_id": []}

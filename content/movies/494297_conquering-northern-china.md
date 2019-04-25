@@ -1,1 +1,0 @@
-{"tmdb_id": 494297, "title": "Conquering Northern China", "original_title": "Conquering Northern China", "slug_title": "conquering-northern-china", "date": "2017-12-14", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d7hP1mJR8wLeymcGKR14V1Nq4kW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 210896, "title": "The Callers", "original_title": "The Callers", "slug_title": "the-callers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

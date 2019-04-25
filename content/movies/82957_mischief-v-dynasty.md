@@ -1,1 +1,0 @@
-{"tmdb_id": 82957, "title": "Mischief V: Dynasty", "original_title": "Mischief V: Dynasty", "slug_title": "mischief-v-dynasty", "date": "2005-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tor75rEm6zIhWWA3COABZOGSCyW.jpg", "actors": [], "comments": [], "recommandations_id": []}

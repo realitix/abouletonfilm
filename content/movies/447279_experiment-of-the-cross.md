@@ -1,1 +1,0 @@
-{"tmdb_id": 447279, "title": "Experiment of the Cross", "original_title": "Experimentum crucis", "slug_title": "experiment-of-the-cross", "date": "1995-03-14", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fFi2nkuXF2DxzsTZw1sYcI08DMK.jpg", "actors": [], "comments": [], "recommandations_id": []}

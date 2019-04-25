@@ -1,1 +1,0 @@
-{"tmdb_id": 299892, "title": "Magpie House", "original_title": "Magpie House", "slug_title": "magpie-house", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

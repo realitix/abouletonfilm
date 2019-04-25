@@ -1,1 +1,0 @@
-{"tmdb_id": 38136, "title": "The End", "original_title": "The End", "slug_title": "the-end", "date": "2000-06-06", "genre": "Com\u00e9die / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5sv8OJiSweoPUZFgDezhTqVQzom.jpg", "actors": [], "comments": [], "recommandations_id": []}

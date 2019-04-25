@@ -1,1 +1,0 @@
-{"tmdb_id": 470311, "title": "Chocolate", "original_title": "Chocolate", "slug_title": "chocolate", "date": "2016-10-07", "genre": "Thriller / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bTdIshxZzpNxj1nEeBKzicoxrZ5.jpg", "actors": [], "comments": [], "recommandations_id": []}

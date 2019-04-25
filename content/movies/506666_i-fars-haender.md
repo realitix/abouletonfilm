@@ -1,1 +1,0 @@
-{"tmdb_id": 506666, "title": "I Fars H\u00e6nder", "original_title": "I Fars H\u00e6nder", "slug_title": "i-fars-haender", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

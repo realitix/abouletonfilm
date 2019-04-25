@@ -1,1 +1,0 @@
-{"tmdb_id": 540099, "title": "Vestibule (In 3 Episodes)", "original_title": "Vestibule (In 3 Episodes)", "slug_title": "vestibule-in-3-episodes", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w68qIqarBcoc59vn82Etw6d30QU.jpg", "actors": [], "comments": [], "recommandations_id": []}

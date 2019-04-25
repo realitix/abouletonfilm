@@ -1,1 +1,0 @@
-{"tmdb_id": 275541, "title": "Strong Bodies Fight", "original_title": "Strong Bodies Fight", "slug_title": "strong-bodies-fight", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

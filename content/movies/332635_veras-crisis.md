@@ -1,1 +1,0 @@
-{"tmdb_id": 332635, "title": "Vera\u2019s Crisis", "original_title": "Krizis Very", "slug_title": "veras-crisis", "date": "2008-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oSqobGvGrM0mWZHKn65mOrGYZqj.jpg", "actors": [], "comments": [], "recommandations_id": []}

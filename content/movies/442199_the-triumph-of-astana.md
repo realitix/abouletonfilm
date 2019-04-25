@@ -1,1 +1,0 @@
-{"tmdb_id": 442199, "title": "The Triumph of Astana", "original_title": "The Triumph of Astana", "slug_title": "the-triumph-of-astana", "date": "2010-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sMyN9ZViB3QfrYuYYxDBB1nh8mG.jpg", "actors": [], "comments": [], "recommandations_id": []}

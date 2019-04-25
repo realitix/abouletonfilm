@@ -1,1 +1,0 @@
-{"tmdb_id": 339118, "title": "Viaje a los limites del universo", "original_title": "Viaje a los limites del universo", "slug_title": "viaje-a-los-limites-del-universo", "date": "2008-05-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 467739, "title": "Thuy Nga Paris By Night 1", "original_title": "Thuy Nga Paris By Night 1", "slug_title": "thuy-nga-paris-by-night-1", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

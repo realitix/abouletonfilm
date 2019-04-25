@@ -1,1 +1,0 @@
-{"tmdb_id": 359376, "title": "JACK U CLOSING ULTRA MUSIC FESTIVAL MIAMI 2015", "original_title": "JACK U CLOSING ULTRA MUSIC FESTIVAL MIAMI 2015", "slug_title": "jack-u-closing-ultra-music-festival-miami-2015", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

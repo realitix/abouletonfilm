@@ -1,1 +1,0 @@
-{"tmdb_id": 523007, "title": "The Passenger", "original_title": "\u041f\u0430\u0441\u0441\u0430\u0436\u0438\u0440", "slug_title": "the-passenger", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

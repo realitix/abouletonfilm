@@ -1,1 +1,0 @@
-{"tmdb_id": 420780, "title": "NJPW King of Pro-Wresling 2016", "original_title": "NJPW King of Pro-Wresling 2016", "slug_title": "njpw-king-of-pro-wresling-2016", "date": "2016-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pVirQNTmfUm8oYEWuYMmTMm3DZj.jpg", "actors": [], "comments": [], "recommandations_id": []}

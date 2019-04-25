@@ -1,1 +1,0 @@
-{"tmdb_id": 254113, "title": "Scotland for Fitness", "original_title": "Scotland for Fitness", "slug_title": "scotland-for-fitness", "date": "1938-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sir Iain Colquhoun (Himself)"], "comments": [], "recommandations_id": []}

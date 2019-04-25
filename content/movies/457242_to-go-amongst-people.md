@@ -1,1 +1,0 @@
-{"tmdb_id": 457242, "title": "To Go Amongst People", "original_title": "Wej\u015b\u0107 mi\u0119dzy ludzi", "slug_title": "to-go-amongst-people", "date": "1973-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 424740, "title": "Anonymatograph", "original_title": "Anonymatograph", "slug_title": "anonymatograph", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

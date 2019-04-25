@@ -1,1 +1,0 @@
-{"tmdb_id": 188440, "title": "Third Prince Na Cha", "original_title": "Third Prince Na Cha", "slug_title": "third-prince-na-cha", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5FTgJF4VGKxO5AFgVitMHPGhlwR.jpg", "actors": [], "comments": [], "recommandations_id": []}

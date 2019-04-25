@@ -1,1 +1,0 @@
-{"tmdb_id": 512487, "title": "Lost Warrior", "original_title": "Lost Warrior", "slug_title": "lost-warrior", "date": "2018-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3TSt1ucVvofAhwYnr88UJmdO8Ks.jpg", "actors": [], "comments": [], "recommandations_id": []}

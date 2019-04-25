@@ -1,1 +1,0 @@
-{"tmdb_id": 352556, "title": "Yosemite: The Fate of Heaven", "original_title": "Yosemite: The Fate of Heaven", "slug_title": "yosemite-the-fate-of-heaven", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

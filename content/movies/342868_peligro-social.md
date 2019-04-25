@@ -1,1 +1,0 @@
-{"tmdb_id": 342868, "title": "Peligro Social", "original_title": "Peligro Social", "slug_title": "peligro-social", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

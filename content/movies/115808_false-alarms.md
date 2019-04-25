@@ -1,1 +1,0 @@
-{"tmdb_id": 115808, "title": "False Alarms", "original_title": "False Alarms", "slug_title": "false-alarms", "date": "1936-08-16", "genre": "Com\u00e9die", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Curly Howard (Curly)", "Moe Howard ()", "Larry Fine ()"], "comments": [], "recommandations_id": [50207, 115990, 115993, 115920]}

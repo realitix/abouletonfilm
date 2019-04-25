@@ -1,1 +1,0 @@
-{"tmdb_id": 245133, "title": "Alfama, a velha Lisboa", "original_title": "Alfama, a velha Lisboa", "slug_title": "alfama-a-velha-lisboa", "date": "1930-02-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

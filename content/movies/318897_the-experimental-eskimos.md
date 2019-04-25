@@ -1,1 +1,0 @@
-{"tmdb_id": 318897, "title": "The Experimental Eskimos", "original_title": "The Experimental Eskimos", "slug_title": "the-experimental-eskimos", "date": "2009-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

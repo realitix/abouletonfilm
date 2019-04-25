@@ -1,1 +1,0 @@
-{"tmdb_id": 561164, "title": "Shut Up & Dig", "original_title": "Shut Up & Dig", "slug_title": "shut-up-dig", "date": "2018-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Darvill (Ben)", "Vincenzo Nicoli (Kenny)"], "comments": [], "recommandations_id": []}

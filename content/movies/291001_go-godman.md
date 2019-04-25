@@ -1,1 +1,0 @@
-{"tmdb_id": 291001, "title": "Go! Godman", "original_title": "Ike! Goddoman", "slug_title": "go-godman", "date": "2008-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3rNttc5cG1MB04PT57msZUiQ35u.jpg", "actors": [], "comments": [], "recommandations_id": []}

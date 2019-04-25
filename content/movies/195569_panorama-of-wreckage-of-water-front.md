@@ -1,1 +1,0 @@
-{"tmdb_id": 195569, "title": "Panorama of Wreckage of Water Front", "original_title": "Panorama of Wreckage of Water Front", "slug_title": "panorama-of-wreckage-of-water-front", "date": "1900-09-21", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 241317, "title": "David Lean in Close-Up", "original_title": "David Lean in Close-Up", "slug_title": "david-lean-in-close-up", "date": "2009-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9FNfhEXMp4GWSZf6hwnAPuxScxD.jpg", "actors": ["Jonathan Ross (Host)"], "comments": [], "recommandations_id": []}

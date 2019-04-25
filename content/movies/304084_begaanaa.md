@@ -1,1 +1,0 @@
-{"tmdb_id": 304084, "title": "Begaanaa", "original_title": "Begaanaa", "slug_title": "begaanaa", "date": "1986-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

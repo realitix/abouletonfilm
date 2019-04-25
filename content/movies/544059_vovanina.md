@@ -1,1 +1,0 @@
-{"tmdb_id": 544059, "title": "VovaNina", "original_title": "\u0412\u043e\u0432\u0430\u041d\u0438\u043d\u0430", "slug_title": "vovanina", "date": "2017-12-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ejH7jRPKPUjDJ7ilAKBV8L8DXdO.jpg", "actors": [], "comments": [], "recommandations_id": []}

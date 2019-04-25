@@ -1,1 +1,0 @@
-{"tmdb_id": 428575, "title": "Death in the Terminal", "original_title": "Death in the Terminal", "slug_title": "death-in-the-terminal", "date": "2016-11-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eoTNIjLCw56J3g9BDbo7M45Sa6D.jpg", "actors": [], "comments": [], "recommandations_id": []}

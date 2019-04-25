@@ -1,1 +1,0 @@
-{"tmdb_id": 492877, "title": "The Town I Live In", "original_title": "The Town I Live In", "slug_title": "the-town-i-live-in", "date": "2017-09-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

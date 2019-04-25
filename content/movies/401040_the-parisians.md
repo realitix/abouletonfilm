@@ -1,1 +1,0 @@
-{"tmdb_id": 401040, "title": "The Parisians", "original_title": "The Parisians", "slug_title": "the-parisians", "date": "1897-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

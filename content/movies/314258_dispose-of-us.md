@@ -1,1 +1,0 @@
-{"tmdb_id": 314258, "title": "Dispose Of Us", "original_title": "Dispose Of Us", "slug_title": "dispose-of-us", "date": "2014-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ydHTusptExKVp95belBYFbG8n7z.jpg", "actors": ["Jodi Lynn Thomas (Anna)", "Alex Knight (Philip)"], "comments": [], "recommandations_id": []}

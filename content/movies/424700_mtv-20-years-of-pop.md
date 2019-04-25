@@ -1,1 +1,0 @@
-{"tmdb_id": 424700, "title": "MTV: 20 Years of Pop", "original_title": "MTV: 20 Years of Pop", "slug_title": "mtv-20-years-of-pop", "date": "2003-04-22", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nWyOeuuqfg7Z9ELonc7j4aiEMP4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 544241, "title": "Birth of the Pool", "original_title": "Birth of the Pool", "slug_title": "birth-of-the-pool", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

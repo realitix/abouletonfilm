@@ -1,1 +1,0 @@
-{"tmdb_id": 581454, "title": "Infiltration", "original_title": "Infiltration", "slug_title": "infiltration", "date": "", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ishwar Shaw (The Actor)"], "comments": [], "recommandations_id": []}

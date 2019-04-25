@@ -1,1 +1,0 @@
-{"tmdb_id": 476369, "title": "The Third Option", "original_title": "Die dritte Option", "slug_title": "the-third-option", "date": "2017-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Apn8OLc0byo0Lht1oFyFysgntwj.jpg", "actors": [], "comments": [], "recommandations_id": []}

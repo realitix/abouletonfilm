@@ -1,1 +1,0 @@
-{"tmdb_id": 519148, "title": "The Infinite Jest", "original_title": "La Broma Infinita", "slug_title": "the-infinite-jest", "date": "2011-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Ii1Xe4JfukF0c5gTSlTW36vj03.jpg", "actors": [], "comments": [], "recommandations_id": []}

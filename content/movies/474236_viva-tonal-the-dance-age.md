@@ -1,1 +1,0 @@
-{"tmdb_id": 474236, "title": "Viva Tonal: The Dance Age", "original_title": "Tiaowu shidai", "slug_title": "viva-tonal-the-dance-age", "date": "2003-09-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 380637, "title": "Still Point", "original_title": "Still Point", "slug_title": "still-point", "date": "1989-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Fu5omGlkBSQOdcyzs4E1uq919i.jpg", "actors": [], "comments": [], "recommandations_id": []}

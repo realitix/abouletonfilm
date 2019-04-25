@@ -1,1 +1,0 @@
-{"tmdb_id": 309016, "title": "Jack's Big Ass Show 4", "original_title": "Jack's Big Ass Show 4", "slug_title": "jack-s-big-ass-show-4", "date": "2006-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dUNLB4ETpEJffL0uYpbmoAeS9Bc.jpg", "actors": [], "comments": [], "recommandations_id": []}

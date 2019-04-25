@@ -1,1 +1,0 @@
-{"tmdb_id": 293884, "title": "World Record", "original_title": "R\u00e9cord mundial", "slug_title": "world-record", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

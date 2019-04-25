@@ -1,1 +1,0 @@
-{"tmdb_id": 502992, "title": "Policlinico in lotta", "original_title": "Policlinico in lotta", "slug_title": "policlinico-in-lotta", "date": "1973-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

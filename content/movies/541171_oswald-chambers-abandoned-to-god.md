@@ -1,1 +1,0 @@
-{"tmdb_id": 541171, "title": "Oswald Chambers - Abandoned to God", "original_title": "Oswald Chambers - Abandoned to God", "slug_title": "oswald-chambers-abandoned-to-god", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 56270, "title": "Rio Breaks", "original_title": "Rio Breaks", "slug_title": "rio-breaks", "date": "2009-09-21", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fSaMxu46FbLX3T4j3F2Q7YdkLn8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 497702, "title": "Street Hoopz", "original_title": "Street Hoopz", "slug_title": "street-hoopz", "date": "2017-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7w1jzCEphStrg2xsSNAkyU9zXAO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 537835, "title": "Etude aux allures", "original_title": "Etude aux allures", "slug_title": "etude-aux-allures", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xkPU3vjdikkpajkmzwIlt9TIWfG.jpg", "actors": [], "comments": [], "recommandations_id": []}

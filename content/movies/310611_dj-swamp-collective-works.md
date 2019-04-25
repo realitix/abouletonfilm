@@ -1,1 +1,0 @@
-{"tmdb_id": 310611, "title": "DJ Swamp: Collective Works", "original_title": "DJ Swamp: Collective Works", "slug_title": "dj-swamp-collective-works", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

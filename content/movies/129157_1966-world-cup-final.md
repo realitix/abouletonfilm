@@ -1,1 +1,0 @@
-{"tmdb_id": 129157, "title": "1966 World Cup Final", "original_title": "1966 World Cup Final", "slug_title": "1966-world-cup-final", "date": "1966-08-01", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l5sJkn6THF1AHvLyOiTHOZEs1Xp.jpg", "actors": [], "comments": [], "recommandations_id": []}

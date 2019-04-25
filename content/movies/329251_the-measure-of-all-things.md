@@ -1,1 +1,0 @@
-{"tmdb_id": 329251, "title": "The Measure of All Things", "original_title": "The Measure of All Things", "slug_title": "the-measure-of-all-things", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

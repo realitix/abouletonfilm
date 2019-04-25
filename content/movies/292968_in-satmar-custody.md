@@ -1,1 +1,0 @@
-{"tmdb_id": 292968, "title": "In Satmar Custody", "original_title": "In Satmar Custody", "slug_title": "in-satmar-custody", "date": "2005-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

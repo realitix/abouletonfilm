@@ -1,1 +1,0 @@
-{"tmdb_id": 469951, "title": "Bipedality", "original_title": "Bipedality", "slug_title": "bipedality", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AkFH55DsG6UCWGhUXXDpo2rQ3MX.jpg", "actors": ["Dean Kavanagh ()", "Julia Gelezova ()"], "comments": [], "recommandations_id": []}

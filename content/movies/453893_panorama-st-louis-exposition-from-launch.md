@@ -1,1 +1,0 @@
-{"tmdb_id": 453893, "title": "Panorama St. Louis Exposition from Launch", "original_title": "Panorama St. Louis Exposition from Launch", "slug_title": "panorama-st-louis-exposition-from-launch", "date": "1904-05-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

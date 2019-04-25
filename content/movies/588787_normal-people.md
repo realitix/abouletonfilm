@@ -1,1 +1,0 @@
-{"tmdb_id": 588787, "title": "Normal People", "original_title": "Normal People", "slug_title": "normal-people", "date": "2019-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liam Neeson (Tom)", "Lesley Manville (Joan)", "David Wilmot (Peter)", "Amit Shah (Steve)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 338505, "title": "Lifequest Mars: The Search for Life", "original_title": "Lifequest Mars: The Search for Life", "slug_title": "lifequest-mars-the-search-for-life", "date": "2003-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

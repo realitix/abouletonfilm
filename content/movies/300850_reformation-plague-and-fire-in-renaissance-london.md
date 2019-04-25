@@ -1,1 +1,0 @@
-{"tmdb_id": 300850, "title": "Reformation, Plague and Fire in Renaissance London", "original_title": "Reformation, Plague and Fire in Renaissance London", "slug_title": "reformation-plague-and-fire-in-renaissance-london", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

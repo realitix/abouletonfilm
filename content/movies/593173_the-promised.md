@@ -1,1 +1,0 @@
-{"tmdb_id": 593173, "title": "The Promised", "original_title": "La promsie", "slug_title": "the-promised", "date": "2017-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1PVyiuL8YQ9IMhmJk2FkX9Qp4zF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 295344, "title": "Jardines Colgantes", "original_title": "Jardines Colgantes", "slug_title": "jardines-colgantes", "date": "1993-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v8bwpSCWzzZt5TLYlVW2Pl0Jr7j.jpg", "actors": [], "comments": [], "recommandations_id": []}

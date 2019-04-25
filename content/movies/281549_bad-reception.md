@@ -1,1 +1,0 @@
-{"tmdb_id": 281549, "title": "Bad Reception", "original_title": "Bad Reception", "slug_title": "bad-reception", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

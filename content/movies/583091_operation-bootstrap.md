@@ -1,1 +1,0 @@
-{"tmdb_id": 583091, "title": "Operation Bootstrap", "original_title": "Operation Bootstrap", "slug_title": "operation-bootstrap", "date": "1968-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Hall (Himself)"], "comments": [], "recommandations_id": []}

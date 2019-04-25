@@ -1,1 +1,0 @@
-{"tmdb_id": 229006, "title": "Put Yourself in My Place", "original_title": "Put Yourself in My Place", "slug_title": "put-yourself-in-my-place", "date": "1974-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Judy Geeson (Joan, Mrs. Blake)", "Christian Roberts (Michael, Mr. Blake)"], "comments": [], "recommandations_id": []}

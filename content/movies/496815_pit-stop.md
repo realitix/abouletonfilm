@@ -1,1 +1,0 @@
-{"tmdb_id": 496815, "title": "Pit Stop", "original_title": "Pit Stop", "slug_title": "pit-stop", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

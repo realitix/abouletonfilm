@@ -1,1 +1,0 @@
-{"tmdb_id": 50310, "title": "Guster on Ice: Live From Portland, Maine", "original_title": "Guster on Ice: Live From Portland, Maine", "slug_title": "guster-on-ice-live-from-portland-maine", "date": "2004-09-14", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

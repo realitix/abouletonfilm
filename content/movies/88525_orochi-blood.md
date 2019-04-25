@@ -1,1 +1,0 @@
-{"tmdb_id": 88525, "title": "Orochi - Blood", "original_title": "Orochi", "slug_title": "orochi-blood", "date": "2008-09-20", "genre": "Drame / Fantastique / Horreur", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/crOJuu2BVbp9CY1Fri1bjrTKx28.jpg", "actors": [], "comments": [], "recommandations_id": [206719]}

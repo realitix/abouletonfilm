@@ -1,1 +1,0 @@
-{"tmdb_id": 422812, "title": "The Tire", "original_title": "\u0397 \u03a1\u03cc\u03b4\u03b1", "slug_title": "the-tire", "date": "1964-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Evangelos Kazan ()", "Christos Tsagas ()", "Dimitris Papanikolaou ()"], "comments": [], "recommandations_id": []}

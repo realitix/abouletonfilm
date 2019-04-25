@@ -1,1 +1,0 @@
-{"tmdb_id": 579125, "title": "George Bush Goes to Heaven", "original_title": "George Bush Goes to Heaven", "slug_title": "george-bush-goes-to-heaven", "date": "2006-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4wB2RDCYI0iCGeJGG0xvvpafWRH.jpg", "actors": [], "comments": [], "recommandations_id": []}

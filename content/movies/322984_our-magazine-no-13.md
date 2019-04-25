@@ -1,1 +1,0 @@
-{"tmdb_id": 322984, "title": "Our Magazine No. 13", "original_title": "Our Magazine No. 13", "slug_title": "our-magazine-no-13", "date": "1955-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

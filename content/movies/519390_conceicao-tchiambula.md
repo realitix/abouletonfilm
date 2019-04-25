@@ -1,1 +1,0 @@
-{"tmdb_id": 519390, "title": "Conceicao Tchiambula", "original_title": "Conceicao Tchiambula", "slug_title": "conceicao-tchiambula", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

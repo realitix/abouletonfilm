@@ -1,1 +1,0 @@
-{"tmdb_id": 347356, "title": "Fernando has Returned", "original_title": "Fernando ha vuelto", "slug_title": "fernando-has-returned", "date": "1998-03-21", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4L9g3OCE1Ga88ERrjZBjwYAPTgP.jpg", "actors": [], "comments": [], "recommandations_id": []}

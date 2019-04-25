@@ -1,1 +1,0 @@
-{"tmdb_id": 516827, "title": "American Dream", "original_title": "American Dream", "slug_title": "american-dream", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 171476, "title": "Hummer MOAB - Like Nothing Else", "original_title": "Hummer MOAB - Like Nothing Else", "slug_title": "hummer-moab-like-nothing-else", "date": "2006-04-09", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/icIF5GUvCMvEDWMWKkXsW7dx8u2.jpg", "actors": [], "comments": [], "recommandations_id": []}

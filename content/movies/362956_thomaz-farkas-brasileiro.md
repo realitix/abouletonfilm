@@ -1,1 +1,0 @@
-{"tmdb_id": 362956, "title": "Thomaz Farkas, Brasileiro", "original_title": "Thomaz Farkas, Brasileiro", "slug_title": "thomaz-farkas-brasileiro", "date": "2003-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thomaz Farkas (Ele mesmo)", "Walter Lima Jr. (Ele mesmo)"], "comments": [], "recommandations_id": []}

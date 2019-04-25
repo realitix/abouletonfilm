@@ -1,1 +1,0 @@
-{"tmdb_id": 143497, "title": "The Cut Ups", "original_title": "The Cut Ups", "slug_title": "the-cut-ups", "date": "1966-01-01", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oJecGPTk0qxPoM29oVtaiY8Q7L8.jpg", "actors": ["William S. Burroughs ()", "Brion Gysin ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 327570, "title": "Religions", "original_title": "Adian", "slug_title": "religions", "date": "1971-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w2fquDeh7JuPf9RN7LgVtyevmIP.jpg", "actors": [], "comments": [], "recommandations_id": []}

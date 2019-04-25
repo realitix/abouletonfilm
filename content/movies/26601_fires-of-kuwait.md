@@ -1,1 +1,0 @@
-{"tmdb_id": 26601, "title": "Fires of Kuwait", "original_title": "Fires of Kuwait", "slug_title": "fires-of-kuwait", "date": "1992-12-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fDztlsUdGxh7jpBEvxr632VRgpR.jpg", "actors": [], "comments": [], "recommandations_id": []}

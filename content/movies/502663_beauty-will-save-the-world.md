@@ -1,1 +1,0 @@
-{"tmdb_id": 502663, "title": "Beauty Will Save the World", "original_title": "Sk\u00f6nheten skall r\u00e4dda v\u00e4rlden", "slug_title": "beauty-will-save-the-world", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dzYzjRoRDksnkHP2dZw6wPbslQt.jpg", "actors": [], "comments": [], "recommandations_id": []}

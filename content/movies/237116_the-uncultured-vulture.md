@@ -1,1 +1,0 @@
-{"tmdb_id": 237116, "title": "The Uncultured Vulture", "original_title": "The Uncultured Vulture", "slug_title": "the-uncultured-vulture", "date": "1947-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 314447, "title": "Steadiness", "original_title": "Sitzfleisch", "slug_title": "steadiness", "date": "2014-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1TUZdlVZNZ9jGpTk8gzXDIAXwyz.jpg", "actors": [], "comments": [], "recommandations_id": []}

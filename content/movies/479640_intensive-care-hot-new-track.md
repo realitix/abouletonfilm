@@ -1,1 +1,0 @@
-{"tmdb_id": 479640, "title": "Intensive Care/Hot New Track", "original_title": "Intensive Care/Hot New Track", "slug_title": "intensive-care-hot-new-track", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

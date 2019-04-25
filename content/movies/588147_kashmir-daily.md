@@ -1,1 +1,0 @@
-{"tmdb_id": 588147, "title": "Kashmir Daily", "original_title": "Kashmir Daily", "slug_title": "kashmir-daily", "date": "2018-01-05", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zameer Ashai ()", "Shahid Gulfam ()", "Hussein Khan ()", "Sanam Chaudhry ()", "Mir Sarwar ()"], "comments": [], "recommandations_id": []}

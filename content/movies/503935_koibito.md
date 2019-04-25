@@ -1,1 +1,0 @@
-{"tmdb_id": 503935, "title": "Koibito", "original_title": "Koibito", "slug_title": "koibito", "date": "1951-02-08", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sgC4EXztMuD2MyuafNdwzfmCg7.jpg", "actors": ["Ry\u00f4 Ikebe ()", "Asami Kuji ()", "Koreya Senda ()"], "comments": [], "recommandations_id": []}

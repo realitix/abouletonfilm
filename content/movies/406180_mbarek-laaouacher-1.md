@@ -1,1 +1,0 @@
-{"tmdb_id": 406180, "title": "Mbarek Laaouacher 1", "original_title": "Mbarek Laaouacher 1", "slug_title": "mbarek-laaouacher-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Disco Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7kyqoLCBvEiq4GKD2QZpvd6fODv.jpg", "actors": [], "comments": [], "recommandations_id": []}

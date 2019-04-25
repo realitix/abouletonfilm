@@ -1,1 +1,0 @@
-{"tmdb_id": 308268, "title": "Namo Bhoothatma", "original_title": "Namo Bhoothatma", "slug_title": "namo-bhoothatma", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Iswarya Menon (Soumya)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 506012, "title": "The Goose Maid", "original_title": "Vajza me pata", "slug_title": "the-goose-maid", "date": "1975-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AaBF5ZaDW87m9zuWEB7EnXzh03D.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 267664, "title": "The Valley of Dolls", "original_title": "Im Tal der Puppen", "slug_title": "the-valley-of-dolls", "date": "2014-02-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iQaMtHwEc2RtsZglhs6EtySJ0MQ.jpg", "actors": ["Ayano Tsukimi (Herself)"], "comments": [], "recommandations_id": []}

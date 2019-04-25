@@ -1,1 +1,0 @@
-{"tmdb_id": 361578, "title": "Al Dente", "original_title": "Al Dente", "slug_title": "al-dente", "date": "2006-01-01", "genre": "Com\u00e9die / Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jukka Sillanpaa (Luigi Al Dente)", "Janne Lahti (Franco Farfalle)", "Janne Lahti (Marco Macaroni)"], "comments": [], "recommandations_id": []}

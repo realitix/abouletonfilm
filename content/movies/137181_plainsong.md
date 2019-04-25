@@ -1,1 +1,0 @@
-{"tmdb_id": 137181, "title": "Plainsong", "original_title": "Plainsong", "slug_title": "plainsong", "date": "2004-04-25", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bHNalmnb6ufDiQRfnKDE4rIlpSC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 580644, "title": "At Midnight Plays a Dance-Tune", "original_title": "At Midnight Plays a Dance-Tune", "slug_title": "at-midnight-plays-a-dance-tune", "date": "2018-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d0genrZEbGYhjt48KWc2tFAzvDd.jpg", "actors": [], "comments": [], "recommandations_id": []}

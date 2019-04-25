@@ -1,1 +1,0 @@
-{"tmdb_id": 303004, "title": "Alone Across Alaska: 1,000 Miles of Wilderness", "original_title": "Alone Across Alaska: 1,000 Miles of Wilderness", "slug_title": "alone-across-alaska-1000-miles-of-wilderness", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 236216, "title": "It's an Ill Wind", "original_title": "It's an Ill Wind", "slug_title": "it-s-an-ill-wind", "date": "1939-01-27", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mkiNjf2dF4f7FLvmOvhnipCVlAq.jpg", "actors": [], "comments": [], "recommandations_id": []}

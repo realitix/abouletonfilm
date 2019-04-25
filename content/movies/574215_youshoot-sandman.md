@@ -1,1 +1,0 @@
-{"tmdb_id": 574215, "title": "YouShoot: Sandman", "original_title": "YouShoot: Sandman", "slug_title": "youshoot-sandman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Jim Fullington (Himself)"], "comments": [], "recommandations_id": []}

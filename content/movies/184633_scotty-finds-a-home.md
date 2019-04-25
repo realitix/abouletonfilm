@@ -1,1 +1,0 @@
-{"tmdb_id": 184633, "title": "Scotty Finds a Home", "original_title": "Scotty Finds a Home", "slug_title": "scotty-finds-a-home", "date": "1935-08-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6DBLr5TaXVL2FOMkOBpQ5xv2rhT.jpg", "actors": [], "comments": [], "recommandations_id": []}

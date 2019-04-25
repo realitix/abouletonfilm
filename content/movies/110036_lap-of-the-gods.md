@@ -1,1 +1,0 @@
-{"tmdb_id": 110036, "title": "Lap of the Gods", "original_title": "Lap of the Gods", "slug_title": "lap-of-the-gods", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ysQcl4KDsEJUzjYBFa09L5hxJhZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 186761, "title": "[Rec] 2: En un mundo de infectados", "original_title": "[Rec] 2: En un mundo de infectados", "slug_title": "rec-2-en-un-mundo-de-infectados", "date": "2010-02-10", "genre": "", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

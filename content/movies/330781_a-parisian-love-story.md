@@ -1,1 +1,0 @@
-{"tmdb_id": 330781, "title": "A Parisian Love Story", "original_title": "Un amour \u00e0 Paris", "slug_title": "a-parisian-love-story", "date": "1987-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Catherine Wilkening ()", "Karim Allaoui ()", "Juliet Berto ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 311953, "title": "The Last Dining Table", "original_title": "The Last Dining Table", "slug_title": "the-last-dining-table", "date": "2008-03-19", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j6yvrnVEupOF9yXlbpPXnc9ZbSJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

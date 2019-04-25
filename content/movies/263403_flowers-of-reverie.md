@@ -1,1 +1,0 @@
-{"tmdb_id": 263403, "title": "Flowers of Reverie", "original_title": "Szirmok, vir\u00e1gok, koszor\u00fak", "slug_title": "flowers-of-reverie", "date": "1984-01-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uSfzDDnoLsVkVsseWPXWhzrJumf.jpg", "actors": [], "comments": [], "recommandations_id": []}

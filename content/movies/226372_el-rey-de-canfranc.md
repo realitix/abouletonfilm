@@ -1,1 +1,0 @@
-{"tmdb_id": 226372, "title": "El rey de Canfranc", "original_title": "El rey de Canfranc", "slug_title": "el-rey-de-canfranc", "date": "2013-10-11", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q9HPqfqIevLCDL3k8brm82jG0yZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

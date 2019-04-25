@@ -1,1 +1,0 @@
-{"tmdb_id": 309171, "title": "Bastoni: The Stick Handlers", "original_title": "Bastoni: The Stick Handlers", "slug_title": "bastoni-the-stick-handlers", "date": "2002-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jg1qFo1DO4uFB2UkfWnD1FYoIsL.jpg", "actors": [], "comments": [], "recommandations_id": []}

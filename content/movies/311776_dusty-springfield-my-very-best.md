@@ -1,1 +1,0 @@
-{"tmdb_id": 311776, "title": "Dusty Springfield: My Very Best", "original_title": "Dusty Springfield: My Very Best", "slug_title": "dusty-springfield-my-very-best", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

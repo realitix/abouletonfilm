@@ -1,1 +1,0 @@
-{"tmdb_id": 558247, "title": "Handling Ships", "original_title": "Handling Ships", "slug_title": "handling-ships", "date": "1945-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9VTIpl0aXEIo296w5qN7fBIAffw.jpg", "actors": [], "comments": [], "recommandations_id": []}

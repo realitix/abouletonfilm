@@ -1,1 +1,0 @@
-{"tmdb_id": 497478, "title": "Sales lady taking a contract with a body", "original_title": "Sales lady taking a contract with a body", "slug_title": "sales-lady-taking-a-contract-with-a-body", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

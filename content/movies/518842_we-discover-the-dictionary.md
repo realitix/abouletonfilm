@@ -1,1 +1,0 @@
-{"tmdb_id": 518842, "title": "We Discover the Dictionary", "original_title": "We Discover the Dictionary", "slug_title": "we-discover-the-dictionary", "date": "1963-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

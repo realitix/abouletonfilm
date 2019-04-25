@@ -1,1 +1,0 @@
-{"tmdb_id": 391388, "title": "Doctor Bridget", "original_title": "Doctor Bridget", "slug_title": "doctor-bridget", "date": "1912-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Bunny (Bridget the Cook)"], "comments": [], "recommandations_id": []}

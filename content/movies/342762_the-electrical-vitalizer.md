@@ -1,1 +1,0 @@
-{"tmdb_id": 342762, "title": "The Electrical Vitalizer", "original_title": "The Electrical Vitalizer", "slug_title": "the-electrical-vitalizer", "date": "1910-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

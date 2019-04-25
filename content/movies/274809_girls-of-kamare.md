@@ -1,1 +1,0 @@
-{"tmdb_id": 274809, "title": "Girls of Kamare", "original_title": "Les filles de Kamare", "slug_title": "girls-of-kamare", "date": "1974-07-17", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oJPIaFYNgW4Au5Twd4KFKCzP46.jpg", "actors": [], "comments": [], "recommandations_id": []}

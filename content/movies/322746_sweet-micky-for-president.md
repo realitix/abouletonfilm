@@ -1,1 +1,0 @@
-{"tmdb_id": 322746, "title": "Sweet Micky for President", "original_title": "Sweet Micky for President", "slug_title": "sweet-micky-for-president", "date": "2015-01-23", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jooBekUAzfRnMhGg78c5n1P0gQt.jpg", "actors": [], "comments": [], "recommandations_id": []}

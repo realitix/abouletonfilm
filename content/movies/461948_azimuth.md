@@ -1,1 +1,0 @@
-{"tmdb_id": 461948, "title": "Azimuth", "original_title": "Azimuth", "slug_title": "azimuth", "date": "2017-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7jqjibXRTN3NpOFg8wO9xn6umfn.jpg", "actors": [], "comments": [], "recommandations_id": []}

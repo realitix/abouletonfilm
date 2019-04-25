@@ -1,1 +1,1 @@
-{"tmdb_id": 529993, "title": "Edifice", "original_title": "Edifice", "slug_title": "edifice", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 529993, "title": "Edifice", "original_title": "Edifice", "slug_title": "edifice", "date": "2018-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Music Video for \u201eHUYGHEND\u201c.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

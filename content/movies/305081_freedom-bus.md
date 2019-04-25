@@ -1,1 +1,0 @@
-{"tmdb_id": 305081, "title": "Freedom Bus", "original_title": "Freedom Bus", "slug_title": "freedom-bus", "date": "2013-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7YN7giJXUZcF40jDJTiH0FaQc22.jpg", "actors": [], "comments": [], "recommandations_id": []}

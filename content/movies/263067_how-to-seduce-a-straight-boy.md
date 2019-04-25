@@ -1,1 +1,0 @@
-{"tmdb_id": 263067, "title": "How to Seduce a Straight Boy", "original_title": "How to Seduce a Straight Boy", "slug_title": "how-to-seduce-a-straight-boy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

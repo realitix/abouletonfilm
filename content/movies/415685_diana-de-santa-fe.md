@@ -1,1 +1,0 @@
-{"tmdb_id": 415685, "title": "Diana de Santa Fe", "original_title": "Diana de Santa Fe", "slug_title": "diana-de-santa-fe", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qcxKXjMTDD8JcVFfYK4oZ89zZfK.jpg", "actors": ["Diana Navarro Sanju\u00e1n (Herself)"], "comments": [], "recommandations_id": []}

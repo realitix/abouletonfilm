@@ -1,1 +1,0 @@
-{"tmdb_id": 593122, "title": "Hilos de sororidad", "original_title": "Hilos de sororidad", "slug_title": "hilos-de-sororidad", "date": "2019-04-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

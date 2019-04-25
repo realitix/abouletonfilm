@@ -1,1 +1,0 @@
-{"tmdb_id": 557775, "title": "#Ops - L'Evento", "original_title": "#Ops - L'Evento", "slug_title": "ops-l-evento", "date": "2018-11-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1H7e29QnKH9tkDBY85EDj9cKpti.jpg", "actors": [], "comments": [], "recommandations_id": []}

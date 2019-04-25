@@ -1,1 +1,0 @@
-{"tmdb_id": 483349, "title": "Jan Kounen - Int\u00e9grale courts m\u00e9trages", "original_title": "Jan Kounen - Int\u00e9grale courts m\u00e9trages", "slug_title": "jan-kounen-integrale-courts-metrages", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

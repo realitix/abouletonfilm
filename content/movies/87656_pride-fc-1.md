@@ -1,1 +1,0 @@
-{"tmdb_id": 87656, "title": "Pride FC 1", "original_title": "Pride FC 1", "slug_title": "pride-fc-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

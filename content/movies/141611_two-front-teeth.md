@@ -1,1 +1,0 @@
-{"tmdb_id": 141611, "title": "Two Front Teeth", "original_title": "Two Front Teeth", "slug_title": "two-front-teeth", "date": "2006-01-01", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kWS85fYaqOMZj7geemfdukl7ODH.jpg", "actors": [], "comments": [], "recommandations_id": []}

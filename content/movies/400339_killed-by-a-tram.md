@@ -1,1 +1,0 @@
-{"tmdb_id": 400339, "title": "Killed by a Tram", "original_title": "Gaud\u00ed asesinado por un tranv\u00eda", "slug_title": "killed-by-a-tram", "date": "1968-05-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9loYqQE5GzZX7XfNeaJeunqbWEd.jpg", "actors": [], "comments": [], "recommandations_id": []}

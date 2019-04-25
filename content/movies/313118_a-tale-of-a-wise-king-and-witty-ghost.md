@@ -1,1 +1,0 @@
-{"tmdb_id": 313118, "title": "A Tale of a Wise King and Witty Ghost", "original_title": "A Tale of a Wise King and Witty Ghost", "slug_title": "a-tale-of-a-wise-king-and-witty-ghost", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

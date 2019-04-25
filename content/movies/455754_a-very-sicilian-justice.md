@@ -1,1 +1,0 @@
-{"tmdb_id": 455754, "title": "A Very Sicilian Justice", "original_title": "A Very Sicilian Justice", "slug_title": "a-very-sicilian-justice", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

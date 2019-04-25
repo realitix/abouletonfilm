@@ -1,1 +1,0 @@
-{"tmdb_id": 530096, "title": "Oliver Twist", "original_title": "Oliver Twist", "slug_title": "oliver-twist", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ice Cube (Fagin)"], "comments": [], "recommandations_id": []}

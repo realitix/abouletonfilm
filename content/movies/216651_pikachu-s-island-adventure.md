@@ -1,1 +1,0 @@
-{"tmdb_id": 216651, "title": "Pikachu's Island Adventure", "original_title": "Pikachu's Island Adventure", "slug_title": "pikachu-s-island-adventure", "date": "2006-08-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zaITKTvcQInTctACEmIJBS9BMbl.jpg", "actors": [], "comments": [], "recommandations_id": []}

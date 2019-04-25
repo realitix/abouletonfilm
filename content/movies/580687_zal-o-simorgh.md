@@ -1,1 +1,0 @@
-{"tmdb_id": 580687, "title": "Zal o Simorgh", "original_title": "Zal o Simorgh", "slug_title": "zal-o-simorgh", "date": "1977-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sMTX6Lt0w2axO4t1bfNs5qJXmbN.jpg", "actors": [], "comments": [], "recommandations_id": []}

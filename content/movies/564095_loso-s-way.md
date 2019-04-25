@@ -1,1 +1,0 @@
-{"tmdb_id": 564095, "title": "Loso's Way", "original_title": "Loso's Way", "slug_title": "loso-s-way", "date": "2009-07-28", "genre": "Drame / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qni2dk0TBjYEUoNnsoaRjCvkEcp.jpg", "actors": ["Fabolous (Loso)"], "comments": [], "recommandations_id": []}

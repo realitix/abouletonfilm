@@ -1,1 +1,0 @@
-{"tmdb_id": 318296, "title": "Ronald Reagan: An American Legend", "original_title": "Ronald Reagan: An American Legend", "slug_title": "ronald-reagan-an-american-legend", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

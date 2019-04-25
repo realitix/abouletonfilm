@@ -1,1 +1,0 @@
-{"tmdb_id": 425395, "title": "Go Like This", "original_title": "Go Like This", "slug_title": "go-like-this", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o9y4MCXbrevwAQxIv5w7oYKmajO.jpg", "actors": [], "comments": [], "recommandations_id": []}

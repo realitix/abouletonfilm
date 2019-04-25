@@ -1,1 +1,0 @@
-{"tmdb_id": 353559, "title": "Basically, Johnny Moped", "original_title": "Basically, Johnny Moped", "slug_title": "basically-johnny-moped", "date": "2013-01-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jnhzkmSrteRvWqumONAMgu6FbBv.jpg", "actors": [], "comments": [], "recommandations_id": []}

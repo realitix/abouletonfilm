@@ -1,1 +1,0 @@
-{"tmdb_id": 545627, "title": "Fistful of Dirt", "original_title": "Fistful of Dirt", "slug_title": "fistful-of-dirt", "date": "2018-08-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Julio Gast\u00f3n Ramos (Yei)", "Dolores Pedro (Wanda)", "Modesto Lacen (Alicio)"], "comments": [], "recommandations_id": []}

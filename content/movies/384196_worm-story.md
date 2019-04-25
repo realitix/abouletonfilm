@@ -1,1 +1,0 @@
-{"tmdb_id": 384196, "title": "Worm Story", "original_title": "Mimizu Monogatari", "slug_title": "worm-story", "date": "1989-01-01", "genre": "Animation / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hTruAZCN55R88jhPzDs1El1xT2i.jpg", "actors": [], "comments": [], "recommandations_id": []}

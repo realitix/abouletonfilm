@@ -1,1 +1,0 @@
-{"tmdb_id": 388422, "title": "Kids from Nowhere", "original_title": "Los ni\u00f1os de la Cruz", "slug_title": "kids-from-nowhere", "date": "2016-10-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u8CVGC3VcFPBZcCJ2C0p4UDyZQB.jpg", "actors": [], "comments": [], "recommandations_id": []}

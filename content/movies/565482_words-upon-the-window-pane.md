@@ -1,1 +1,0 @@
-{"tmdb_id": 565482, "title": "Words Upon the Window Pane", "original_title": "Words Upon the Window Pane", "slug_title": "words-upon-the-window-pane", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Geraldine Chaplin ()", "Ian Richardson ()", "Jim Sheridan ()"], "comments": [], "recommandations_id": []}

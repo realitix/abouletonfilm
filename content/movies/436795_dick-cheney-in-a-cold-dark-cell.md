@@ -1,1 +1,0 @@
-{"tmdb_id": 436795, "title": "Dick Cheney in a Cold, Dark Cell", "original_title": "Dick Cheney in a Cold, Dark Cell", "slug_title": "dick-cheney-in-a-cold-dark-cell", "date": "2009-01-01", "genre": "Musique / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

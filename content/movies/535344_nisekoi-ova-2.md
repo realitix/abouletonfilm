@@ -1,1 +1,1 @@
-{"tmdb_id": 535344, "title": "Nisekoi OVA 2", "original_title": "Nisekoi OVA 2", "slug_title": "nisekoi-ova-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 535344, "title": "Nisekoi OVA 2", "original_title": "Nisekoi OVA 2", "slug_title": "nisekoi-ova-2", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 357742, "title": "Artwar: The Last Frontier", "original_title": "Artwar: The Last Frontier", "slug_title": "artwar-the-last-frontier", "date": "1993-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/avxWZrzY9vCScXdZxNXrFLUJrbW.jpg", "actors": [], "comments": [], "recommandations_id": []}

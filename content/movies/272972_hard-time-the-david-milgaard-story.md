@@ -1,1 +1,0 @@
-{"tmdb_id": 272972, "title": "Hard Time: The David Milgaard Story", "original_title": "Hard Time: The David Milgaard Story", "slug_title": "hard-time-the-david-milgaard-story", "date": "1999-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

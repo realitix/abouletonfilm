@@ -1,1 +1,0 @@
-{"tmdb_id": 351348, "title": "The Hitch-Hiker", "original_title": "The Hitch-Hiker", "slug_title": "the-hitch-hiker", "date": "1939-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Kay (Gandy Goose / Sourpuss (voice))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 481125, "title": "The Giant", "original_title": "The Giant", "slug_title": "the-giant", "date": "2017-06-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cTtdolQB8lET3QJmahds89wmktg.jpg", "actors": [], "comments": [], "recommandations_id": []}

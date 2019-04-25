@@ -1,1 +1,0 @@
-{"tmdb_id": 382552, "title": "Jiu-Jitsu Vs The World", "original_title": "Jiu-Jitsu Vs The World", "slug_title": "jiu-jitsu-vs-the-world", "date": "2015-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/heCHISie15S5hEKh9SGGG7Ekej3.jpg", "actors": [], "comments": [], "recommandations_id": []}

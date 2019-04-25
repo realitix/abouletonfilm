@@ -1,1 +1,0 @@
-{"tmdb_id": 303745, "title": "Maria Ada", "original_title": "Mar\u00eda Ad\u00e1", "slug_title": "maria-ada", "date": "2011-01-01", "genre": "Horreur / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ov3aeTBq0tkDI3MMO9OqHYD9Qum.jpg", "actors": [], "comments": [], "recommandations_id": []}

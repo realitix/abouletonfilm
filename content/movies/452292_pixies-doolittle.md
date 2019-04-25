@@ -1,1 +1,0 @@
-{"tmdb_id": 452292, "title": "Pixies: Doolittle", "original_title": "Pixies: Doolittle", "slug_title": "pixies-doolittle", "date": "2016-12-16", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bZvHl8EaNTpr91B5TP2OYxBeP5w.jpg", "actors": [], "comments": [], "recommandations_id": []}

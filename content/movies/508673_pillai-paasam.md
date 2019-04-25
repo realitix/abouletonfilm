@@ -1,1 +1,0 @@
-{"tmdb_id": 508673, "title": "Pillai Paasam", "original_title": "\u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8 \u0baa\u0bbe\u0b9a\u0bae\u0bcd", "slug_title": "pillai-paasam", "date": "1991-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sivakumar ()", "Ramki ()", "Rupini ()", "Sumithra ()"], "comments": [], "recommandations_id": []}

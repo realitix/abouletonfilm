@@ -1,1 +1,0 @@
-{"tmdb_id": 557031, "title": "Nuit d'Espagne", "original_title": "Nuit d'Espagne", "slug_title": "nuit-d-espagne", "date": "1932-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

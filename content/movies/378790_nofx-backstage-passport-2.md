@@ -1,1 +1,0 @@
-{"tmdb_id": 378790, "title": "NOFX Backstage Passport 2", "original_title": "NOFX Backstage Passport 2", "slug_title": "nofx-backstage-passport-2", "date": "2015-08-21", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/29LaP80JHqvaK230XtVwThAAa00.jpg", "actors": [], "comments": [], "recommandations_id": []}

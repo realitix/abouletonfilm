@@ -1,1 +1,0 @@
-{"tmdb_id": 484962, "title": "beyond the red lines - jenseits der roten linien", "original_title": "beyond the red lines - jenseits der roten linien", "slug_title": "beyond-the-red-lines-jenseits-der-roten-linien", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

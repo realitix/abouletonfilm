@@ -1,1 +1,0 @@
-{"tmdb_id": 162505, "title": "One Way or Another", "original_title": "De cierta manera", "slug_title": "one-way-or-another", "date": "1977-01-01", "genre": "Documentaire / Drame", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xe97ENEgHYtWk6LSZOuvl6xEk5B.jpg", "actors": [], "comments": [], "recommandations_id": []}

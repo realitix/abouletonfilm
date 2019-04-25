@@ -1,1 +1,0 @@
-{"tmdb_id": 506711, "title": "State of Mind", "original_title": "State of Mind", "slug_title": "state-of-mind", "date": "2007-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e4rLEocaQXHEQhNnP4Q4coIPKyr.jpg", "actors": [], "comments": [], "recommandations_id": []}

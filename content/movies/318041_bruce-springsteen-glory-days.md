@@ -1,1 +1,0 @@
-{"tmdb_id": 318041, "title": "Bruce Springsteen: Glory Days", "original_title": "Bruce Springsteen: Glory Days", "slug_title": "bruce-springsteen-glory-days", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mwCjBt7xOQ95Xt4RyvVQ8nNkkzC.jpg", "actors": [], "comments": [], "recommandations_id": []}

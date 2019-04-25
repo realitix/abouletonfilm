@@ -1,1 +1,0 @@
-{"tmdb_id": 310800, "title": "Lost Treasures of the Ancient World: The Celts", "original_title": "Lost Treasures of the Ancient World: The Celts", "slug_title": "lost-treasures-of-the-ancient-world-the-celts", "date": "2000-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

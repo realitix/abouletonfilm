@@ -1,1 +1,0 @@
-{"tmdb_id": 349076, "title": "Cosmonaut Polyakov", "original_title": "Cosmonaut Polyakov", "slug_title": "cosmonaut-polyakov", "date": "2007-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gkhU3ilnz2JCvqDeiXi3vJFOSLT.jpg", "actors": ["Dmitri Polyakov ()"], "comments": [], "recommandations_id": []}

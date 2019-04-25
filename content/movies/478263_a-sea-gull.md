@@ -1,1 +1,0 @@
-{"tmdb_id": 478263, "title": "A Sea Gull", "original_title": "\uac08\ub9e4\uae30", "slug_title": "a-sea-gull", "date": "1948-11-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tcjZ5PesjlnTcEqJx2hTFkIEief.jpg", "actors": [], "comments": [], "recommandations_id": []}

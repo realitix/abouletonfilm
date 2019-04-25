@@ -1,1 +1,0 @@
-{"tmdb_id": 595584, "title": "The Sour Solution II", "original_title": "The Sour Solution II", "slug_title": "the-sour-solution-ii", "date": "2019-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

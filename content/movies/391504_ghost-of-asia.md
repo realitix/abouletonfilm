@@ -1,1 +1,0 @@
-{"tmdb_id": 391504, "title": "Ghost of Asia", "original_title": "Ghost of Asia", "slug_title": "ghost-of-asia", "date": "2005-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A2R5yvm7HWdRr8pL1ioWfWiVCxi.jpg", "actors": ["Sakda Kaewbuadee ()"], "comments": [], "recommandations_id": []}

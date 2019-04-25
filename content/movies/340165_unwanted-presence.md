@@ -1,1 +1,0 @@
-{"tmdb_id": 340165, "title": "Unwanted Presence", "original_title": "Unwanted Presence", "slug_title": "unwanted-presence", "date": "2014-09-23", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cPvyZ8Zbkdxxjaqv9vW0nh2Spe8.jpg", "actors": [], "comments": [], "recommandations_id": []}

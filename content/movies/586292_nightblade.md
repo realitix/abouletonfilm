@@ -1,1 +1,0 @@
-{"tmdb_id": 586292, "title": "Nightblade", "original_title": "Nightblade", "slug_title": "nightblade", "date": "2016-10-01", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AvJEVCtMtEnrq0N7LZk5Zk3mKgZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 584286, "title": "Morden i Sandhamn 06 - I n\u00f6d och lust", "original_title": "Morden i Sandhamn 06 - I n\u00f6d och lust", "slug_title": "morden-i-sandhamn-06-i-nod-och-lust", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

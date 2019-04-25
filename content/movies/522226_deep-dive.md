@@ -1,1 +1,0 @@
-{"tmdb_id": 522226, "title": "Deep Dive", "original_title": "Deep Dive", "slug_title": "deep-dive", "date": "2018-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

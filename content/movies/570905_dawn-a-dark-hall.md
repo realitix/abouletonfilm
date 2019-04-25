@@ -1,1 +1,0 @@
-{"tmdb_id": 570905, "title": "dawn a dark hall", "original_title": "dawn a dark hall", "slug_title": "dawn-a-dark-hall", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 55973, "title": "Kikker & Vriendjes - Natuur", "original_title": "Kikker & Vriendjes - Natuur", "slug_title": "kikker-vriendjes-natuur", "date": "2009-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iNU6FHWI0Am7e7zCSRVEAl4vatu.jpg", "actors": [], "comments": [], "recommandations_id": []}

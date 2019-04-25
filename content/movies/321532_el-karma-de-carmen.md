@@ -1,1 +1,0 @@
-{"tmdb_id": 321532, "title": "El karma de Carmen", "original_title": "El karma de Carmen", "slug_title": "el-karma-de-carmen", "date": "2014-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bBbitWobrBLMGPQRTbYCdSr7V1w.jpg", "actors": [], "comments": [], "recommandations_id": []}

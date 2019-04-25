@@ -1,1 +1,0 @@
-{"tmdb_id": 307893, "title": "Donga Sachinollu", "original_title": "Donga Sachinollu", "slug_title": "donga-sachinollu", "date": "2008-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

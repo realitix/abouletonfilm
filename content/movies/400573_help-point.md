@@ -1,1 +1,0 @@
-{"tmdb_id": 400573, "title": "Help Point", "original_title": "Help Point", "slug_title": "help-point", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cian Barry (Jack)", "Ruta Gedmintas (Maya)", "John Thomson (Stephen)"], "comments": [], "recommandations_id": []}

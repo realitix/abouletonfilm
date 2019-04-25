@@ -1,1 +1,0 @@
-{"tmdb_id": 516923, "title": "Sin Dinero", "original_title": "Sin Dinero", "slug_title": "sin-dinero", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

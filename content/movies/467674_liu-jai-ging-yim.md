@@ -1,1 +1,0 @@
-{"tmdb_id": 467674, "title": "Liu jai ging yim", "original_title": "Liu jai ging yim", "slug_title": "liu-jai-ging-yim", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/QNlnIQ24d1whuAgCTeIOQHvWYP.jpg", "actors": [], "comments": [], "recommandations_id": []}

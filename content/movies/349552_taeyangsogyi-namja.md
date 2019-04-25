@@ -1,1 +1,0 @@
-{"tmdb_id": 349552, "title": "\ud0dc\uc591\uc18d\uc758 \ub0a8\uc790", "original_title": "\ud0dc\uc591\uc18d\uc758 \ub0a8\uc790", "slug_title": "taeyangsogyi-namja", "date": "1994-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 303034, "title": "The Verdict", "original_title": "Wyrok", "slug_title": "the-verdict", "date": "1962-01-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wienczys\u0142aw Gli\u0144ski (Redakteur Opera)", "Lidia Korsak\u00f3wna (Mother)", "Grzegorz Roman (Adas)"], "comments": [], "recommandations_id": []}

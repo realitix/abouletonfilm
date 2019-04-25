@@ -1,1 +1,0 @@
-{"tmdb_id": 485718, "title": "Den eviga staden", "original_title": "Den eviga staden", "slug_title": "den-eviga-staden", "date": "2007-01-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/EONDqwih7cnkpAP9IDpFmKlJBp.jpg", "actors": [], "comments": [], "recommandations_id": []}

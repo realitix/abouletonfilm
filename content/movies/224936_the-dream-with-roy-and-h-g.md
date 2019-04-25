@@ -1,1 +1,0 @@
-{"tmdb_id": 224936, "title": "The Dream with Roy and H.G.", "original_title": "The Dream with Roy and H.G.", "slug_title": "the-dream-with-roy-and-h-g", "date": "2000-09-14", "genre": "Com\u00e9die", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rypEdQYW9yGQwjBQZGCHRTUpGId.jpg", "actors": [], "comments": [], "recommandations_id": []}

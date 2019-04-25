@@ -1,1 +1,0 @@
-{"tmdb_id": 358229, "title": "Backyard Economy 1", "original_title": "Backyard Economy 1", "slug_title": "backyard-economy-1", "date": "1974-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vG0L3p4QE0oOzRSNiwe3NJHTKWr.jpg", "actors": [], "comments": [], "recommandations_id": []}

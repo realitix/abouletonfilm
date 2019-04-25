@@ -1,1 +1,0 @@
-{"tmdb_id": 579448, "title": "A Young Man's World", "original_title": "A Young Man's World", "slug_title": "a-young-man-s-world", "date": "2000-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f4pTjeHxNY5rsqKcdfpRvlCRoyY.jpg", "actors": [], "comments": [], "recommandations_id": []}

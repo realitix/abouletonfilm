@@ -1,1 +1,0 @@
-{"tmdb_id": 585387, "title": "Stapler", "original_title": "Stapler", "slug_title": "stapler", "date": "2016-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jZF8qRf99OdUxIfxgVvGe63WGRb.jpg", "actors": ["James Button ()", "Luke Davies ()"], "comments": [], "recommandations_id": []}

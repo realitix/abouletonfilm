@@ -1,1 +1,0 @@
-{"tmdb_id": 583641, "title": "Sex Robots and Us", "original_title": "Sex Robots and Us", "slug_title": "sex-robots-and-us", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 536542, "title": "Han Solo: Kloenke", "original_title": "Han Solo: Kloenke", "slug_title": "han-solo-kloenke", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r72POMg4n5m9FvxYMWTj3gfVW61.jpg", "actors": ["Han Coucke (Han Solo)"], "comments": [], "recommandations_id": []}

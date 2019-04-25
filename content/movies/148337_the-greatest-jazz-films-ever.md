@@ -1,1 +1,0 @@
-{"tmdb_id": 148337, "title": "The Greatest Jazz Films Ever", "original_title": "The Greatest Jazz Films Ever", "slug_title": "the-greatest-jazz-films-ever", "date": "1954-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rfiqeP9SP8OwL6nTG8ILnmwSVfR.jpg", "actors": [], "comments": [], "recommandations_id": []}

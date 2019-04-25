@@ -1,1 +1,0 @@
-{"tmdb_id": 97934, "title": "88 - pilgern auf japanisch", "original_title": "88 - pilgern auf japanisch", "slug_title": "88-pilgern-auf-japanisch", "date": "2008-11-10", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cAciJft0iUDFEoGQC0LrAKgwb4Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

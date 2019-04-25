@@ -1,1 +1,0 @@
-{"tmdb_id": 187529, "title": "The World's Racing", "original_title": "Il court, il court, le monde", "slug_title": "the-world-s-racing", "date": "1987-01-01", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean-Paul Dermont ()", "John Dobrynine ()"], "comments": [], "recommandations_id": []}

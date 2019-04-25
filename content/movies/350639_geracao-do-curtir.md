@@ -1,1 +1,0 @@
-{"tmdb_id": 350639, "title": "Gera\u00e7\u00e3o do 'Curtir'", "original_title": "Gera\u00e7\u00e3o do 'Curtir'", "slug_title": "geracao-do-curtir", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

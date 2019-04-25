@@ -1,1 +1,0 @@
-{"tmdb_id": 516238, "title": "Where The Wild Things Play", "original_title": "Where The Wild Things Play", "slug_title": "where-the-wild-things-play", "date": "2017-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

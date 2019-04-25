@@ -1,1 +1,0 @@
-{"tmdb_id": 535835, "title": "Where Should the Birds Fly?", "original_title": "Where Should the Birds Fly?", "slug_title": "where-should-the-birds-fly", "date": "2013-06-21", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jdy9Zv3iuHdO4sEBtfNdAuFBuiq.jpg", "actors": [], "comments": [], "recommandations_id": []}

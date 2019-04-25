@@ -1,1 +1,0 @@
-{"tmdb_id": 105964, "title": "Summer Pasture", "original_title": "Summer Pasture", "slug_title": "summer-pasture", "date": "2011-08-17", "genre": "Drame / Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xDZsvcPtL3q4ZFyD4xwv2AaeYfu.jpg", "actors": ["Locho ()", "Yama ()"], "comments": [], "recommandations_id": []}

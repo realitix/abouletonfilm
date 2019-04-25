@@ -1,1 +1,0 @@
-{"tmdb_id": 309176, "title": "Marilyn Manson: Birth of the Anti-Christ", "original_title": "Marilyn Manson: Birth of the Anti-Christ", "slug_title": "marilyn-manson-birth-of-the-anti-christ", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

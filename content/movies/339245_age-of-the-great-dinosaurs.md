@@ -1,1 +1,0 @@
-{"tmdb_id": 339245, "title": "Age of the Great Dinosaurs", "original_title": "Dai ky\u00f4ry\u00fb jidai", "slug_title": "age-of-the-great-dinosaurs", "date": "1979-10-07", "genre": "Animation", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/47kTJmX2br0cM9581KtGo22LU1o.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 563816, "title": "I am a foreigner too", "original_title": "I am a foreigner too", "slug_title": "i-am-a-foreigner-too", "date": "2018-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jqflJ98S35EMHKZFe1NOYItVa5o.jpg", "actors": [], "comments": [], "recommandations_id": []}

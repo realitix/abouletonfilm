@@ -1,1 +1,0 @@
-{"tmdb_id": 178327, "title": "Derek Jeter 3K", "original_title": "Derek Jeter 3K", "slug_title": "derek-jeter-3k", "date": "2011-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mEGtSLctG3EWO0RXuvim8NdhIKQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

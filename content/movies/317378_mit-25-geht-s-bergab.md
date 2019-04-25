@@ -1,1 +1,0 @@
-{"tmdb_id": 317378, "title": "Mit 25 geht's bergab", "original_title": "Mit 25 geht's bergab", "slug_title": "mit-25-geht-s-bergab", "date": "2006-03-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

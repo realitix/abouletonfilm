@@ -1,1 +1,0 @@
-{"tmdb_id": 308449, "title": "Buschow", "original_title": "Buschow", "slug_title": "buschow", "date": "2014-11-29", "genre": "Com\u00e9die / Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wolfram Schorlemmer (Er)", "Sophia Becker (Sie)"], "comments": [], "recommandations_id": []}

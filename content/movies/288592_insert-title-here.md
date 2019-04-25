@@ -1,1 +1,0 @@
-{"tmdb_id": 288592, "title": "Insert Title Here", "original_title": "Insert Title Here", "slug_title": "insert-title-here", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

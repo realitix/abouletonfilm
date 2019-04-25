@@ -1,1 +1,0 @@
-{"tmdb_id": 338417, "title": "Blind Melon: No Rain", "original_title": "Blind Melon: No Rain", "slug_title": "blind-melon-no-rain", "date": "1992-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

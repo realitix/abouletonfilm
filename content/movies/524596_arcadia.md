@@ -1,1 +1,0 @@
-{"tmdb_id": 524596, "title": "Arcadia", "original_title": "Arcadia", "slug_title": "arcadia", "date": "2017-09-03", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1cu9C2Ux6JMMV8d6F0oL1xbOf2y.jpg", "actors": ["Malcolm Ellul ()", "Ludwig Farrugia ()", "Henry Debono ()"], "comments": [], "recommandations_id": []}

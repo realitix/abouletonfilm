@@ -1,1 +1,0 @@
-{"tmdb_id": 471634, "title": "One of Many", "original_title": "One of Many", "slug_title": "one-of-many", "date": "1927-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aleksandra Kudriavtseva (A film-obsessed young girl)"], "comments": [], "recommandations_id": []}

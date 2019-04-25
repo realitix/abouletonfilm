@@ -1,1 +1,0 @@
-{"tmdb_id": 370568, "title": "Our Generation", "original_title": "Our Generation", "slug_title": "our-generation", "date": "2010-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jVFY5Jy6zzdHSnuCuowHc0jV8VQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

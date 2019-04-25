@@ -1,1 +1,0 @@
-{"tmdb_id": 417888, "title": "\u596a\u5e25", "original_title": "\u596a\u5e25", "slug_title": "duo-shuai", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

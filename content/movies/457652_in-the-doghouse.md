@@ -1,1 +1,0 @@
-{"tmdb_id": 457652, "title": "In the Doghouse", "original_title": "A perro flaco", "slug_title": "in-the-doghouse", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kf71opcPl4CK9yDQWrDTVU7BKlj.jpg", "actors": [], "comments": [], "recommandations_id": []}

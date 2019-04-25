@@ -1,1 +1,0 @@
-{"tmdb_id": 304480, "title": "Ekimmu the Dead Lust", "original_title": "Ekimmu the Dead Lust", "slug_title": "ekimmu-the-dead-lust", "date": "2014-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

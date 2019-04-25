@@ -1,1 +1,0 @@
-{"tmdb_id": 310189, "title": "Opus Dei: Decoding God's Work", "original_title": "Opus Dei: Decoding God's Work", "slug_title": "opus-dei-decoding-god-s-work", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

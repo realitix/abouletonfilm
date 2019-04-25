@@ -1,1 +1,0 @@
-{"tmdb_id": 592828, "title": "Mirror World", "original_title": "Mirror World", "slug_title": "mirror-world", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

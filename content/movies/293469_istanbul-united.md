@@ -1,1 +1,0 @@
-{"tmdb_id": 293469, "title": "Istanbul United", "original_title": "Istanbul United", "slug_title": "istanbul-united", "date": "2014-09-18", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jJSqj5w0swITQuQJJ2XGrEbhYKj.jpg", "actors": [], "comments": [], "recommandations_id": []}

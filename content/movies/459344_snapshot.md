@@ -1,1 +1,0 @@
-{"tmdb_id": 459344, "title": "Snapshot", "original_title": "Snapshot", "slug_title": "snapshot", "date": "2016-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pmJ7QFkJCIGqScQJYjRXlLAA8FJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

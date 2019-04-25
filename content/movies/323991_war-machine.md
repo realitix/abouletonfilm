@@ -1,1 +1,0 @@
-{"tmdb_id": 323991, "title": "War Machine", "original_title": "War Machine", "slug_title": "war-machine", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wMlIkZ5g6cKgeje5ObQLzpqK6jA.jpg", "actors": [], "comments": [], "recommandations_id": []}

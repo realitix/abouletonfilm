@@ -1,1 +1,0 @@
-{"tmdb_id": 29504, "title": "Demon Sex", "original_title": "Demon Sex", "slug_title": "demon-sex", "date": "2005-01-01", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tA65NaXYhHewBGyqH36rXwkxxt.jpg", "actors": ["Brinke Stevens (The Dragon Lady)"], "comments": [], "recommandations_id": []}

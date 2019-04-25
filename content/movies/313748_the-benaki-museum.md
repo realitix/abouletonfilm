@@ -1,1 +1,0 @@
-{"tmdb_id": 313748, "title": "The Benaki Museum", "original_title": "The Benaki Museum", "slug_title": "the-benaki-museum", "date": "2013-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1qD6DOvSI0fmQbmsKcxlVoo2A36.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 322822, "title": "Ophelia's Flowers", "original_title": "Ophelia's Flowers", "slug_title": "ophelia-s-flowers", "date": "1968-08-18", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kjyPmzE4SoVJYsuWlRaQNO15469.jpg", "actors": ["Lene Adler Petersen (Ophelia)"], "comments": [], "recommandations_id": []}

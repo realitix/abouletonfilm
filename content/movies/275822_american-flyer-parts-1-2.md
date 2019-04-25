@@ -1,1 +1,0 @@
-{"tmdb_id": 275822, "title": "American Flyer: Parts 1 & 2", "original_title": "American Flyer: Parts 1 & 2", "slug_title": "american-flyer-parts-1-2", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

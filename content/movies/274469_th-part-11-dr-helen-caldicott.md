@@ -1,1 +1,0 @@
-{"tmdb_id": 274469, "title": "Th (Part 11:  Dr. Helen Caldicott)", "original_title": "Th (Part 11:  Dr. Helen Caldicott)", "slug_title": "th-part-11-dr-helen-caldicott", "date": "2014-05-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

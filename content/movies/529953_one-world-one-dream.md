@@ -1,1 +1,0 @@
-{"tmdb_id": 529953, "title": "One World One Dream", "original_title": "\u4e00\u4e2d", "slug_title": "one-world-one-dream", "date": "2018-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

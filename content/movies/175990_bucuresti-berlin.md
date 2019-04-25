@@ -1,1 +1,0 @@
-{"tmdb_id": 175990, "title": "Bucure\u0219ti-Berlin", "original_title": "Bucure\u0219ti-Berlin", "slug_title": "bucuresti-berlin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 225173, "title": "L'amore canta", "original_title": "L'amore canta", "slug_title": "l-amore-canta", "date": "1941-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mar\u00eda Denis (Vera)", "Massimo Serato (Alberto)", "Jone Salinas (Rosa)"], "comments": [], "recommandations_id": []}

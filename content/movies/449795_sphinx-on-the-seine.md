@@ -1,1 +1,0 @@
-{"tmdb_id": 449795, "title": "Sphinx On The Seine", "original_title": "Sphinx On The Seine", "slug_title": "sphinx-on-the-seine", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s9WBHA4ziemLBPQyKRiAl1tu7mX.jpg", "actors": [], "comments": [], "recommandations_id": []}

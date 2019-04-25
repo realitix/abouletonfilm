@@ -1,1 +1,0 @@
-{"tmdb_id": 320402, "title": "Parvai Ondre Pothume", "original_title": "Parvai Ondre Pothume", "slug_title": "parvai-ondre-pothume", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

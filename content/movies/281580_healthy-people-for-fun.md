@@ -1,1 +1,0 @@
-{"tmdb_id": 281580, "title": "Healthy People for Fun", "original_title": "Zdravi ljudi za razonodu", "slug_title": "healthy-people-for-fun", "date": "1971-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3b0zOhm0P2Z2WyWbNnt0zdWjgb8.jpg", "actors": [], "comments": [], "recommandations_id": []}

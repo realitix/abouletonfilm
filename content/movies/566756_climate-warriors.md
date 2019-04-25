@@ -1,1 +1,0 @@
-{"tmdb_id": 566756, "title": "Climate Warriors", "original_title": "Climate Warriors", "slug_title": "climate-warriors", "date": "2018-12-06", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nigel Barber ()"], "comments": [], "recommandations_id": []}

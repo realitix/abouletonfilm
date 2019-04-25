@@ -1,1 +1,0 @@
-{"tmdb_id": 241414, "title": "Volcano: Nature's Inferno", "original_title": "Volcano: Nature's Inferno", "slug_title": "volcano-nature-s-inferno", "date": "1997-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zlg9DUGGJkU3ddMjV4rvGdVh4r8.jpg", "actors": [], "comments": [], "recommandations_id": []}

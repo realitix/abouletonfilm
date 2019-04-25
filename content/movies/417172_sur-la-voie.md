@@ -1,1 +1,0 @@
-{"tmdb_id": 417172, "title": "Sur la voie", "original_title": "Sur la voie", "slug_title": "sur-la-voie", "date": "1913-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

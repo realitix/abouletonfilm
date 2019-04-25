@@ -1,1 +1,0 @@
-{"tmdb_id": 167989, "title": "Hitlers Hidden Holocaust", "original_title": "Hitlers Hidden Holocaust", "slug_title": "hitlers-hidden-holocaust", "date": "2009-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oPlJxkV7IbSCeCL2fCBFB2nqvhh.jpg", "actors": [], "comments": [], "recommandations_id": []}

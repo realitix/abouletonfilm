@@ -1,1 +1,0 @@
-{"tmdb_id": 342092, "title": "About a Young Man", "original_title": "About a Young Man", "slug_title": "about-a-young-man", "date": "2014-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jhwzwYSMOC4y3hkh2PN4yqR5IQM.jpg", "actors": ["Simon Brostr\u00f6m ()"], "comments": [], "recommandations_id": []}

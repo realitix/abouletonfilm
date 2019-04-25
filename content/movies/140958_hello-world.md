@@ -1,1 +1,0 @@
-{"tmdb_id": 140958, "title": "Hello World", "original_title": "Hello World", "slug_title": "hello-world", "date": "2010-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dVVlptkEimLdC6QEwiXH3S8Az5W.jpg", "actors": [], "comments": [], "recommandations_id": []}

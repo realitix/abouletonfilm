@@ -1,1 +1,0 @@
-{"tmdb_id": 539826, "title": "Professeur Cupidon", "original_title": "Professeur Cupidon", "slug_title": "professeur-cupidon", "date": "1933-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

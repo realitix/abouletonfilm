@@ -1,1 +1,0 @@
-{"tmdb_id": 466764, "title": "Kielings kalte Welt", "original_title": "Kielings kalte Welt", "slug_title": "kielings-kalte-welt", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

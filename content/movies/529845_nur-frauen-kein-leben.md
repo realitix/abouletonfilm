@@ -1,1 +1,0 @@
-{"tmdb_id": 529845, "title": "Nur Frauen, kein Leben", "original_title": "Nur Frauen, kein Leben", "slug_title": "nur-frauen-kein-leben", "date": "1986-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

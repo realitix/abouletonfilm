@@ -1,1 +1,0 @@
-{"tmdb_id": 522727, "title": "Takida - Live!", "original_title": "Takida - Live!", "slug_title": "takida-live", "date": "2010-05-19", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3BJFw1eVAd02saYsF1C9P0jDTsZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

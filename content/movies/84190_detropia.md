@@ -1,1 +1,0 @@
-{"tmdb_id": 84190, "title": "Detropia", "original_title": "Detropia", "slug_title": "detropia", "date": "2012-09-07", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qVMBzeK3Nb2gUTNZZ5MD0fQRSJn.jpg", "actors": [], "comments": [], "recommandations_id": [411011, 315882, 381043, 220075]}

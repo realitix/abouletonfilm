@@ -1,1 +1,0 @@
-{"tmdb_id": 453290, "title": "Wrestling with Chyna", "original_title": "Wrestling with Chyna", "slug_title": "wrestling-with-chyna", "date": "2017-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chyna (Herself)"], "comments": [], "recommandations_id": []}

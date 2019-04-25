@@ -1,1 +1,0 @@
-{"tmdb_id": 304045, "title": "Devil's Farm", "original_title": "Devil's Farm", "slug_title": "devil-s-farm", "date": "2013-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

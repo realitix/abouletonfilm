@@ -1,1 +1,0 @@
-{"tmdb_id": 434901, "title": "Disarming", "original_title": "Disarming", "slug_title": "disarming", "date": "2013-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

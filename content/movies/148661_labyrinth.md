@@ -1,1 +1,0 @@
-{"tmdb_id": 148661, "title": "Labyrinth", "original_title": "Labirynt", "slug_title": "labyrinth", "date": "1963-12-31", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iVXiHnHb64Y1jtljDlMeLw28Umf.jpg", "actors": [], "comments": [], "recommandations_id": [144674, 129394, 190081, 148936]}

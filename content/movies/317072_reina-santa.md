@@ -1,1 +1,0 @@
-{"tmdb_id": 317072, "title": "Reina santa", "original_title": "Reina santa", "slug_title": "reina-santa", "date": "1947-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AwtKvOCpFiGRDYkxZCJSwtZxptl.jpg", "actors": [], "comments": [], "recommandations_id": []}

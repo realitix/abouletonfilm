@@ -1,1 +1,0 @@
-{"tmdb_id": 274084, "title": "Moonwalkers: The Men Of Apollo", "original_title": "Moonwalkers: The Men Of Apollo", "slug_title": "moonwalkers-the-men-of-apollo", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

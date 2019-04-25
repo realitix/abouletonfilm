@@ -1,1 +1,0 @@
-{"tmdb_id": 353256, "title": "Agi Bagi", "original_title": "Agi Bagi", "slug_title": "agi-bagi", "date": "2015-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Agnieszka Mrozi\u0144ska (Bagingas)", "Jaros\u0142aw Boberek (Bumbly, ZeeBee, Chief)", "Ewelina Kordy (Bodjo, Agingas)"], "comments": [], "recommandations_id": []}

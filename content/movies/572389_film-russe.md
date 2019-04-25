@@ -1,1 +1,0 @@
-{"tmdb_id": 572389, "title": "Film russe", "original_title": "Film russe", "slug_title": "film-russe", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "Film russe est un court-m\u00e9trage r\u00e9alis\u00e9 par Erwin Huppert.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

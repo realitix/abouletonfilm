@@ -1,1 +1,0 @@
-{"tmdb_id": 465060, "title": "Chirita \u00een provincie", "original_title": "Chirita \u00een provincie", "slug_title": "chirita-in-provincie", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tamara Buciuceanu-Botez (Coana Chirita)"], "comments": [], "recommandations_id": []}

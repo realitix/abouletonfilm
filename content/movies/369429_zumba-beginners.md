@@ -1,1 +1,0 @@
-{"tmdb_id": 369429, "title": "Zumba Beginners", "original_title": "Zumba Beginners", "slug_title": "zumba-beginners", "date": "2004-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sH31gpg0VwLLKDs9XpI5tRc9NyH.jpg", "actors": ["Beto Perez (instructor)"], "comments": [], "recommandations_id": []}

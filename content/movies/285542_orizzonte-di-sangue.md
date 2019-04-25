@@ -1,1 +1,0 @@
-{"tmdb_id": 285542, "title": "Orizzonte di sangue", "original_title": "Orizzonte di sangue", "slug_title": "orizzonte-di-sangue", "date": "1942-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luisa Ferida ()", "Osvaldo Valenti ()", "Valentina Cortese ()"], "comments": [], "recommandations_id": []}

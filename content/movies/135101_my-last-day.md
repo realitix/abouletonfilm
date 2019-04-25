@@ -1,1 +1,0 @@
-{"tmdb_id": 135101, "title": "My Last Day", "original_title": "My Last Day", "slug_title": "my-last-day", "date": "2011-04-21", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3npItY7xTXY2K4kEoFYczrDkj7.jpg", "actors": [], "comments": [], "recommandations_id": []}

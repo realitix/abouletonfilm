@@ -1,1 +1,0 @@
-{"tmdb_id": 534426, "title": "Don't Make Trouble!", "original_title": "Pas d'histoires!", "slug_title": "don-t-make-trouble", "date": "2001-01-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3LxzCUQGOK8aCj14YBr16C3Sbmy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 342785, "title": "A Football Life: Quarterback Joe Namath", "original_title": "A Football Life: Quarterback Joe Namath", "slug_title": "a-football-life-quarterback-joe-namath", "date": "2015-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

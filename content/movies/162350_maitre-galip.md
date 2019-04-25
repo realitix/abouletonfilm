@@ -1,1 +1,0 @@
-{"tmdb_id": 162350, "title": "Ma\u00eetre Galip", "original_title": "Ma\u00eetre Galip", "slug_title": "maitre-galip", "date": "1964-01-01", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p8clcro5FnoK7UdQgdzcSpIphH1.jpg", "actors": ["Andr\u00e9 Reybaz (Narrator)"], "comments": [], "recommandations_id": []}

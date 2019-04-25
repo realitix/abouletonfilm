@@ -1,1 +1,0 @@
-{"tmdb_id": 546925, "title": "Puppy Party", "original_title": "Puppy Party", "slug_title": "puppy-party", "date": "2009-02-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wfSwQU69vsnpetXU9omHPBzR2X4.jpg", "actors": [], "comments": [], "recommandations_id": []}

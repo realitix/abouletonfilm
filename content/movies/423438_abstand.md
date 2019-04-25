@@ -1,1 +1,0 @@
-{"tmdb_id": 423438, "title": "Abstand", "original_title": "Abstand", "slug_title": "abstand", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 542537, "title": "au bord de la rivi\u00e8re", "original_title": "au bord de la rivi\u00e8re", "slug_title": "au-bord-de-la-riviere", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vZVfDyGlCZ2px24GcyO96CfQub2.jpg", "actors": [], "comments": [], "recommandations_id": []}

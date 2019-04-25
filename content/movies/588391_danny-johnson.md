@@ -1,1 +1,0 @@
-{"tmdb_id": 588391, "title": "Danny Johnson", "original_title": "Danny Johnson", "slug_title": "danny-johnson", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

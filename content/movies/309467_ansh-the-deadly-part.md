@@ -1,1 +1,0 @@
-{"tmdb_id": 309467, "title": "Ansh: The Deadly Part", "original_title": "Ansh: The Deadly Part", "slug_title": "ansh-the-deadly-part", "date": "2002-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

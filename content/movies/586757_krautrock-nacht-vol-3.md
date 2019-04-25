@@ -1,1 +1,0 @@
-{"tmdb_id": 586757, "title": "Krautrock Nacht Vol 3", "original_title": "Krautrock Nacht Vol 3", "slug_title": "krautrock-nacht-vol-3", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xoRnPs4VviGr9AxxGs3E8aDpGb4.jpg", "actors": [], "comments": [], "recommandations_id": []}

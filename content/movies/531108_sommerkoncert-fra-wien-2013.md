@@ -1,1 +1,0 @@
-{"tmdb_id": 531108, "title": "Sommerkoncert fra Wien 2013", "original_title": "Sommerkoncert fra Wien 2013", "slug_title": "sommerkoncert-fra-wien-2013", "date": "2013-07-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aMJh7TDFwXO8X3A1riAcO5D1Axs.jpg", "actors": [], "comments": [], "recommandations_id": []}

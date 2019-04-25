@@ -1,1 +1,0 @@
-{"tmdb_id": 59206, "title": "LennoNYC", "original_title": "LennoNYC", "slug_title": "lennonyc", "date": "2010-09-25", "genre": "Documentaire", "score": "7.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g3KP7DuYuHzGRA4avwrNPouRxdk.jpg", "actors": ["John Lennon (Himself)", "Yoko Ono (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 119225, "title": "La Ley del Cholo III", "original_title": "La Ley del Cholo III", "slug_title": "la-ley-del-cholo-iii", "date": "2003-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luis Gatica ()", "Flavio Peniche ()", "Hugo Stiglitz ()"], "comments": [], "recommandations_id": []}

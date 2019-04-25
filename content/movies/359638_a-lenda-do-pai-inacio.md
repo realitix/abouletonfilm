@@ -1,1 +1,0 @@
-{"tmdb_id": 359638, "title": "A Lenda do Pai In\u00e1cio", "original_title": "A Lenda do Pai In\u00e1cio", "slug_title": "a-lenda-do-pai-inacio", "date": "1987-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n7BRgD9gGWdFg2k8kAURTCzdIbe.jpg", "actors": [], "comments": [], "recommandations_id": []}

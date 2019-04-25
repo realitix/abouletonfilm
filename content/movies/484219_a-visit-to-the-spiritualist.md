@@ -1,1 +1,0 @@
-{"tmdb_id": 484219, "title": "A Visit to the Spiritualist", "original_title": "A Visit to the Spiritualist", "slug_title": "a-visit-to-the-spiritualist", "date": "1899-12-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

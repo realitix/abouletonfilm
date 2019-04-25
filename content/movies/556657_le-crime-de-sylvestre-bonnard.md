@@ -1,1 +1,0 @@
-{"tmdb_id": 556657, "title": "Le crime de Sylvestre Bonnard", "original_title": "Le crime de Sylvestre Bonnard", "slug_title": "le-crime-de-sylvestre-bonnard", "date": "1931-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

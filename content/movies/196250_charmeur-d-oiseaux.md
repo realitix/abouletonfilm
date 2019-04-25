@@ -1,1 +1,0 @@
-{"tmdb_id": 196250, "title": "Charmeur d'oiseaux", "original_title": "Charmeur d'oiseaux", "slug_title": "charmeur-d-oiseaux", "date": "1897-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y77Crk75TccjutUkwO4zOMKrJpY.jpg", "actors": [], "comments": [], "recommandations_id": []}

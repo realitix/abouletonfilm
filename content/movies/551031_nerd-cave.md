@@ -1,1 +1,0 @@
-{"tmdb_id": 551031, "title": "Nerd Cave", "original_title": "Nerd Cave", "slug_title": "nerd-cave", "date": "2017-09-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zVUPoUz5sAfzzEEFM1RFcBTGQeA.jpg", "actors": [], "comments": [], "recommandations_id": []}

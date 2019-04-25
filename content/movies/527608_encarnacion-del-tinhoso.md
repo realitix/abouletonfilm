@@ -1,1 +1,0 @@
-{"tmdb_id": 527608, "title": "Encarnacion Del Tinhoso", "original_title": "Encarnacion Del Tinhoso", "slug_title": "encarnacion-del-tinhoso", "date": "2009-06-11", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/24gUhcHuMsb49dsi6wuSPtSjuHf.jpg", "actors": [], "comments": [], "recommandations_id": []}

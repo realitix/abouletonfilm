@@ -1,1 +1,0 @@
-{"tmdb_id": 590267, "title": "Lincoln: Trial by Fire", "original_title": "Lincoln: Trial by Fire", "slug_title": "lincoln-trial-by-fire", "date": "1974-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ePbL5OnvT0dyJhmgmt0rF5s9BO6.jpg", "actors": [], "comments": [], "recommandations_id": []}

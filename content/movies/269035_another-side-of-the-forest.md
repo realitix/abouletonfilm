@@ -1,1 +1,0 @@
-{"tmdb_id": 269035, "title": "Another Side of the Forest", "original_title": "Another Side of the Forest", "slug_title": "another-side-of-the-forest", "date": "1974-05-10", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Bw6CG0BiNmiyzeZa1BVjgW05xO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 317948, "title": "Geek War", "original_title": "Geek War", "slug_title": "geek-war", "date": "2010-02-28", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dSAOcqg0Eble0XGSuiOVBMyOo9Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 457673, "title": "Kolejarskie slowo", "original_title": "Kolejarskie slowo", "slug_title": "kolejarskie-slowo", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 457673, "title": "Kolejarskie slowo", "original_title": "Kolejarskie slowo", "slug_title": "kolejarskie-slowo", "date": "", "genre": [""], "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

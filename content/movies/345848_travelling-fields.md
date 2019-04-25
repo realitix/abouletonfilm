@@ -1,1 +1,0 @@
-{"tmdb_id": 345848, "title": "Travelling Fields", "original_title": "Travelling Fields", "slug_title": "travelling-fields", "date": "2010-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4zuFrYik13KEE0aBHQ9pncvFkMx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 115945, "title": "The Road from Elephant Pass", "original_title": "Alimankada", "slug_title": "the-road-from-elephant-pass", "date": "2009-11-22", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7vgaEDCzCos8HvQlSO14Ihqvr6A.jpg", "actors": [], "comments": [], "recommandations_id": []}

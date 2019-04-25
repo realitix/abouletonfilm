@@ -1,1 +1,0 @@
-{"tmdb_id": 583168, "title": "Someone", "original_title": "Someone", "slug_title": "someone", "date": "1968-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

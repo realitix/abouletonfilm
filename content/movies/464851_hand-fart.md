@@ -1,1 +1,0 @@
-{"tmdb_id": 464851, "title": "Hand Fart", "original_title": "Hand Fart", "slug_title": "hand-fart", "date": "2016-04-24", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z62eS3D4WKppibGUsmvGGNMCKyM.jpg", "actors": [], "comments": [], "recommandations_id": []}

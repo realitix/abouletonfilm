@@ -1,1 +1,0 @@
-{"tmdb_id": 266089, "title": "We Live in Prague", "original_title": "\u017dijeme v Praze", "slug_title": "we-live-in-prague", "date": "1934-01-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/awsNNXJaHgj8qje1fibnyLedcXN.jpg", "actors": [], "comments": [], "recommandations_id": []}

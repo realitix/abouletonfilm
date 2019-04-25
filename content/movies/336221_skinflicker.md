@@ -1,1 +1,0 @@
-{"tmdb_id": 336221, "title": "Skinflicker", "original_title": "Skinflicker", "slug_title": "skinflicker", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

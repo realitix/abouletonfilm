@@ -1,1 +1,0 @@
-{"tmdb_id": 395245, "title": "Wicked Witch", "original_title": "Wicked Witch", "slug_title": "wicked-witch", "date": "1940-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

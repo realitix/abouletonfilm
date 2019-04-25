@@ -1,1 +1,0 @@
-{"tmdb_id": 353638, "title": "Nuestros picaros abuelos volumen 5", "original_title": "Nuestros picaros abuelos volumen 5", "slug_title": "nuestros-picaros-abuelos-volumen-5", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

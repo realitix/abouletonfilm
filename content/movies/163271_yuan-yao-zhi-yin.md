@@ -1,1 +1,0 @@
-{"tmdb_id": 163271, "title": "\u7de3\u9080\u77e5\u97f3", "original_title": "\u7de3\u9080\u77e5\u97f3", "slug_title": "yuan-yao-zhi-yin", "date": "2006-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A1kA6G4vZ4xtuG7eYeMkxcmRgs7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 249048, "title": "In the Meantime", "original_title": "In the Meantime", "slug_title": "in-the-meantime", "date": "2013-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eRLKR5FV4ideoKOJzyGOLYPZSHs.jpg", "actors": ["Kali Hawk (Jazz)", "Darrin Henson (Kwame)"], "comments": [], "recommandations_id": []}

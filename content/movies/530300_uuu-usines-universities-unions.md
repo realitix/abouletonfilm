@@ -1,1 +1,0 @@
-{"tmdb_id": 530300, "title": "UUU: Usines, Universities, Unions", "original_title": "UUU: Usines, Universities, Unions", "slug_title": "uuu-usines-universities-unions", "date": "1968-06-06", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

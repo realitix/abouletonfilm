@@ -1,1 +1,0 @@
-{"tmdb_id": 446573, "title": "Confessions of a Suburban Girl", "original_title": "Confessions of a Suburban Girl", "slug_title": "confessions-of-a-suburban-girl", "date": "1992-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 543235, "title": "Going to the Mountain", "original_title": "Going to the Mountain", "slug_title": "going-to-the-mountain", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

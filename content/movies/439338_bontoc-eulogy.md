@@ -1,1 +1,0 @@
-{"tmdb_id": 439338, "title": "Bontoc Eulogy", "original_title": "Bontoc Eulogy", "slug_title": "bontoc-eulogy", "date": "1995-03-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/doRiWqKdOVAJ2ayckIQ9aZ4rgUX.jpg", "actors": ["Marlon Fuentes (Narrator)"], "comments": [], "recommandations_id": []}

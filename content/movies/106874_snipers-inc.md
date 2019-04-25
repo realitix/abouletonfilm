@@ -1,1 +1,0 @@
-{"tmdb_id": 106874, "title": "Snipers, Inc.", "original_title": "Snipers, Inc.", "slug_title": "snipers-inc", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

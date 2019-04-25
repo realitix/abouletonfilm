@@ -1,1 +1,0 @@
-{"tmdb_id": 479827, "title": "A Look Into the 23rd Century", "original_title": "A Look Into the 23rd Century", "slug_title": "a-look-into-the-23rd-century", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jenny Agutter (Herself/Jessica)", "Michael York (Himself/Logan 5)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 310678, "title": "The Adventures of Dot", "original_title": "The Adventures of Dot", "slug_title": "the-adventures-of-dot", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

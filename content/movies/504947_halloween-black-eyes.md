@@ -1,1 +1,0 @@
-{"tmdb_id": 504947, "title": "Halloween: Black Eyes", "original_title": "Halloween: Black Eyes", "slug_title": "halloween-black-eyes", "date": "2010-02-13", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eMyWJ4h5oQ0PjHhQgYGiTCvNzPG.jpg", "actors": [], "comments": [], "recommandations_id": []}

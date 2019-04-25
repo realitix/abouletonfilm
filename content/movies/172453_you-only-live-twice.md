@@ -1,1 +1,0 @@
-{"tmdb_id": 172453, "title": "You Only Live Twice", "original_title": "You Only Live Twice", "slug_title": "you-only-live-twice", "date": "2007-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zBPnQPvrBbsGm8Z6wV8RtIbSg7n.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 188380, "title": "The Lost Dream", "original_title": "The Lost Dream", "slug_title": "the-lost-dream", "date": "1949-03-18", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e7xs24bt8LbpPHRodZUPEdVQK3.jpg", "actors": [], "comments": [], "recommandations_id": []}

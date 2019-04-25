@@ -1,1 +1,0 @@
-{"tmdb_id": 261336, "title": "Viva Cuba Libre: Rap Is War", "original_title": "Viva Cuba Libre: Rap Is War", "slug_title": "viva-cuba-libre-rap-is-war", "date": "2013-03-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

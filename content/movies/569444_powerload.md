@@ -1,1 +1,0 @@
-{"tmdb_id": 569444, "title": "Powerload", "original_title": "Powerload", "slug_title": "powerload", "date": "2013-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8pHBj3PlurBBZ7eW1MflNQzctV8.jpg", "actors": [], "comments": [], "recommandations_id": []}

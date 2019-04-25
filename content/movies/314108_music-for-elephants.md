@@ -1,1 +1,0 @@
-{"tmdb_id": 314108, "title": "Music for Elephants", "original_title": "Music for Elephants", "slug_title": "music-for-elephants", "date": "2014-12-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cazxBdVnrDgGHhN4rPm6Indz3fF.jpg", "actors": ["Paul Barton (Himself)"], "comments": [], "recommandations_id": []}

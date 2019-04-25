@@ -1,1 +1,0 @@
-{"tmdb_id": 218790, "title": "My Name Is Maria", "original_title": "My Name Is Maria", "slug_title": "my-name-is-maria", "date": "2009-05-31", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Cu6OfU2bcFmRSABAo11K4T9h2l.jpg", "actors": ["Miranda Espinoza (Maria (voice))"], "comments": [], "recommandations_id": []}

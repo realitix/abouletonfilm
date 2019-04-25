@@ -1,1 +1,0 @@
-{"tmdb_id": 337996, "title": "Naughty Dallas", "original_title": "Naughty Dallas", "slug_title": "naughty-dallas", "date": "1964-05-19", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gZnN2xLeSJBA8Rjk0tUEnD5FzSY.jpg", "actors": [], "comments": [], "recommandations_id": []}

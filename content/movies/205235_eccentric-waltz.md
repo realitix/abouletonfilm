@@ -1,1 +1,0 @@
-{"tmdb_id": 205235, "title": "Eccentric Waltz", "original_title": "Valse excentrique", "slug_title": "eccentric-waltz", "date": "1903-07-03", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3J46boy1mxOBMItqMZWQ1Oi6FRC.jpg", "actors": [], "comments": [], "recommandations_id": []}

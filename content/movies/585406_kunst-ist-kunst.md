@@ -1,1 +1,0 @@
-{"tmdb_id": 585406, "title": "Kunst ist Kunst", "original_title": "Kunst ist Kunst", "slug_title": "kunst-ist-kunst", "date": "1959-09-27", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernst Stankovski (Mike Ellis)", "Heinz Schacht (William)", "Charles Regnier (Paul Weldon)"], "comments": [], "recommandations_id": []}

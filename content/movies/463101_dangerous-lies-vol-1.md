@@ -1,1 +1,0 @@
-{"tmdb_id": 463101, "title": "Dangerous Lies Vol. 1", "original_title": "Dangerous Lies Vol. 1", "slug_title": "dangerous-lies-vol-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fX80NQ5ZLYrCC0ZdYkBPpZgrVQ7.jpg", "actors": [], "comments": [], "recommandations_id": []}

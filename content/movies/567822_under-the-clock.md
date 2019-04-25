@@ -1,1 +1,0 @@
-{"tmdb_id": 567822, "title": "Under the Clock", "original_title": "Under the Clock", "slug_title": "under-the-clock", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

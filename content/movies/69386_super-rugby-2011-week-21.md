@@ -1,1 +1,0 @@
-{"tmdb_id": 69386, "title": "Super Rugby 2011 Week 21", "original_title": "Super Rugby 2011 Week 21", "slug_title": "super-rugby-2011-week-21", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ynBQKYaPTv8ySgEdDAq6Nj7cMdf.jpg", "actors": [], "comments": [], "recommandations_id": []}

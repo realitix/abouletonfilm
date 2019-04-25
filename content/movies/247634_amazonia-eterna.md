@@ -1,1 +1,0 @@
-{"tmdb_id": 247634, "title": "Amaz\u00f4nia Eterna", "original_title": "Amaz\u00f4nia Eterna", "slug_title": "amazonia-eterna", "date": "2012-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yh3GsMjczvRghZhMs5EhZLp1KIv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 281276, "title": "Looking for the Perfect Beat", "original_title": "Looking for the Perfect Beat", "slug_title": "looking-for-the-perfect-beat", "date": "2014-07-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

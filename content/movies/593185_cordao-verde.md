@@ -1,1 +1,0 @@
-{"tmdb_id": 593185, "title": "Cord\u00e3o Verde", "original_title": "Cord\u00e3o Verde", "slug_title": "cordao-verde", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

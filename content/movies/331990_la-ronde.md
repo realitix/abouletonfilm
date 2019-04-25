@@ -1,1 +1,0 @@
-{"tmdb_id": 331990, "title": "La Ronde", "original_title": "La Ronde", "slug_title": "la-ronde", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

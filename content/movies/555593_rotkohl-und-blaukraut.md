@@ -1,1 +1,0 @@
-{"tmdb_id": 555593, "title": "Rotkohl und Blaukraut", "original_title": "Rotkohl und Blaukraut", "slug_title": "rotkohl-und-blaukraut", "date": "2011-02-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

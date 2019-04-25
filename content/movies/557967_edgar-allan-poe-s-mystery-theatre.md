@@ -1,1 +1,0 @@
-{"tmdb_id": 557967, "title": "Edgar Allan Poe's Mystery Theatre", "original_title": "Edgar Allan Poe's Mystery Theatre", "slug_title": "edgar-allan-poe-s-mystery-theatre", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["B. Paul McClain (Edgar Allan Poe)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 361645, "title": "Australia Daze", "original_title": "Australia Daze", "slug_title": "australia-daze", "date": "1988-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a1OJrJayeRVpGTBjJLVdMz0tfOe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 127375, "title": "America's Most Haunted Inns", "original_title": "America's Most Haunted Inns", "slug_title": "america-s-most-haunted-inns", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ot3rZczeByeJhIRhVuHY0C7S6Hr.jpg", "actors": [], "comments": [], "recommandations_id": []}

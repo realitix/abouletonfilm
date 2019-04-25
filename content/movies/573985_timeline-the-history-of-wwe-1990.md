@@ -1,1 +1,0 @@
-{"tmdb_id": 573985, "title": "Timeline: The History of WWE 1990", "original_title": "Timeline: The History of WWE 1990", "slug_title": "timeline-the-history-of-wwe-1990", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bruce Prichard (Himself)", "Sean Oliver (Himself)"], "comments": [], "recommandations_id": []}

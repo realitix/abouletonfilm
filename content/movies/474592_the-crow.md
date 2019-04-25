@@ -1,1 +1,0 @@
-{"tmdb_id": 474592, "title": "The Crow", "original_title": "The Crow", "slug_title": "the-crow", "date": "", "genre": "Romance / Action / Crime / Thriller / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/debZpbmLqfzNaysG1LZ1feCiIbg.jpg", "actors": [], "comments": [], "recommandations_id": []}

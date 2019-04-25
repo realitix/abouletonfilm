@@ -1,1 +1,0 @@
-{"tmdb_id": 133273, "title": "Diary Of A Cheating Woman", "original_title": "Diary Of A Cheating Woman", "slug_title": "diary-of-a-cheating-woman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x6tjj5MJCk2bRt4wKgf4EYwItVo.jpg", "actors": [], "comments": [], "recommandations_id": []}

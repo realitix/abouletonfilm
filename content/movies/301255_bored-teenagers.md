@@ -1,1 +1,0 @@
-{"tmdb_id": 301255, "title": "Bored Teenagers", "original_title": "Brennende Langeweile", "slug_title": "bored-teenagers", "date": "1978-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9CDa603f8KZ48smcSePkKelS8ho.jpg", "actors": [], "comments": [], "recommandations_id": []}

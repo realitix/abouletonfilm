@@ -1,1 +1,0 @@
-{"tmdb_id": 449868, "title": "Summer Rain", "original_title": "Sommarlek", "slug_title": "summer-rain", "date": "2004-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i5Qr9jVIgx7QDp8vSxn8kZwQHfS.jpg", "actors": ["Anna \u00c5hlander (Girl)"], "comments": [], "recommandations_id": []}

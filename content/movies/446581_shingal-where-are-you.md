@@ -1,1 +1,0 @@
-{"tmdb_id": 446581, "title": "Shingal, Where Are You?", "original_title": "Kani Shingal?", "slug_title": "shingal-where-are-you", "date": "2016-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

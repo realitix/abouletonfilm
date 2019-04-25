@@ -1,1 +1,0 @@
-{"tmdb_id": 314519, "title": "Almost Heaven", "original_title": "Almost Heaven", "slug_title": "almost-heaven", "date": "2014-06-17", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

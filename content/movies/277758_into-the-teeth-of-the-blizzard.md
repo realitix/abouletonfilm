@@ -1,1 +1,0 @@
-{"tmdb_id": 277758, "title": "Into the Teeth of the Blizzard", "original_title": "Into the Teeth of the Blizzard", "slug_title": "into-the-teeth-of-the-blizzard", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

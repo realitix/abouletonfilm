@@ -1,1 +1,0 @@
-{"tmdb_id": 506418, "title": "Proximity", "original_title": "Proximity", "slug_title": "proximity", "date": "2017-08-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bT8S51bzeQYsJWuYRoCBIJ71GF0.jpg", "actors": [], "comments": [], "recommandations_id": []}

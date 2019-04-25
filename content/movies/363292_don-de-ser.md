@@ -1,1 +1,0 @@
-{"tmdb_id": 363292, "title": "Don de ser", "original_title": "Don de ser", "slug_title": "don-de-ser", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

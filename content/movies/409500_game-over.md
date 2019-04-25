@@ -1,1 +1,0 @@
-{"tmdb_id": 409500, "title": "Game Over", "original_title": "Game Over", "slug_title": "game-over", "date": "2006-04-04", "genre": "Action / Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/asSR8qWRWPo3zR8q1OmiKBhDgcw.jpg", "actors": ["Andre McCoy (Victor Knox)"], "comments": [], "recommandations_id": []}

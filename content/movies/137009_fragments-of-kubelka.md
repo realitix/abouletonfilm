@@ -1,1 +1,0 @@
-{"tmdb_id": 137009, "title": "Fragments of Kubelka", "original_title": "Fragments of Kubelka", "slug_title": "fragments-of-kubelka", "date": "2012-01-29", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ugBSLfVu8pXkbQy5MH1edQpJ4u3.jpg", "actors": ["Peter Kubelka (Himself)"], "comments": [], "recommandations_id": []}

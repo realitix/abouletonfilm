@@ -1,1 +1,0 @@
-{"tmdb_id": 276412, "title": "Big Dogs / Little Dogs", "original_title": "Big Dogs / Little Dogs", "slug_title": "big-dogs-little-dogs", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

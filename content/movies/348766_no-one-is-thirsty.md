@@ -1,1 +1,0 @@
-{"tmdb_id": 348766, "title": "No One Is Thirsty", "original_title": "No One Is Thirsty", "slug_title": "no-one-is-thirsty", "date": "2015-03-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ogZf8jxL2xyEoQXcmPqZebuq3j3.jpg", "actors": [], "comments": [], "recommandations_id": []}

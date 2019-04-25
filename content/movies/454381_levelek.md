@@ -1,1 +1,1 @@
-{"tmdb_id": 454381, "title": "Levelek", "original_title": "Levelek", "slug_title": "levelek", "date": "2005-04-21", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 454381, "title": "Levelek", "original_title": "Levelek", "slug_title": "levelek", "date": "2005-04-21", "genre": ["Animation"], "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

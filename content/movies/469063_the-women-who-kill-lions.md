@@ -1,1 +1,0 @@
-{"tmdb_id": 469063, "title": "The Women Who Kill Lions", "original_title": "The Women Who Kill Lions", "slug_title": "the-women-who-kill-lions", "date": "", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4EqLjhPcYvXooLb7fEKCjqzZf8p.jpg", "actors": [], "comments": [], "recommandations_id": [428601, 452235]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 441983, "title": "Wild Lilly", "original_title": "Wild Lilly", "slug_title": "wild-lilly", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

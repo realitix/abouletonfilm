@@ -1,1 +1,0 @@
-{"tmdb_id": 523184, "title": "[CENSORED]", "original_title": "[CENSORED]", "slug_title": "censored", "date": "2018-06-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/joW7MYfY3uXKsG4KcBAg8aiVCcK.jpg", "actors": ["Sari Braithwaite (Narrator)"], "comments": [], "recommandations_id": []}

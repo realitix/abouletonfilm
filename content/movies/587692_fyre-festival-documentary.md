@@ -1,1 +1,0 @@
-{"tmdb_id": 587692, "title": "Fyre Festival Documentary", "original_title": "Fyre Festival Documentary", "slug_title": "fyre-festival-documentary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pmxoux8zekfcrHF353DB0ORbtcu.jpg", "actors": [], "comments": [], "recommandations_id": []}

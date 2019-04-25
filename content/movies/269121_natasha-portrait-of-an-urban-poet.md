@@ -1,1 +1,0 @@
-{"tmdb_id": 269121, "title": "Natasha - Portrait of an Urban Poet", "original_title": "Natasha - Portrait of an Urban Poet", "slug_title": "natasha-portrait-of-an-urban-poet", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

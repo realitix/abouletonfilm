@@ -1,1 +1,0 @@
-{"tmdb_id": 595085, "title": "Aki and Peter", "original_title": "Aki and Peter", "slug_title": "aki-and-peter", "date": "2018-05-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

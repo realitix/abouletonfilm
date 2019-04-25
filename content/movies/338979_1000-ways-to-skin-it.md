@@ -1,1 +1,0 @@
-{"tmdb_id": 338979, "title": "1000 Ways to Skin It", "original_title": "1000 Ways to Skin It", "slug_title": "1000-ways-to-skin-it", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

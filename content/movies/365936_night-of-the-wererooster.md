@@ -1,1 +1,0 @@
-{"tmdb_id": 365936, "title": "Night of the Wererooster", "original_title": "Night of the Wererooster", "slug_title": "night-of-the-wererooster", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fXEfY6agPjJLe0ol3Bn7SIh2sl5.jpg", "actors": [], "comments": [], "recommandations_id": []}

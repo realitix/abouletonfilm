@@ -1,1 +1,0 @@
-{"tmdb_id": 320271, "title": "The Mask and Destiny", "original_title": "Shuzenji monogatari", "slug_title": "the-mask-and-destiny", "date": "1957-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xfEuiXM6wF06TzjwNfhxzPGXxQz.jpg", "actors": [], "comments": [], "recommandations_id": []}

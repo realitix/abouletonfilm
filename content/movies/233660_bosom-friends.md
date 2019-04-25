@@ -1,1 +1,0 @@
-{"tmdb_id": 233660, "title": "Bosom Friends", "original_title": "Bosom Friends", "slug_title": "bosom-friends", "date": "1934-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

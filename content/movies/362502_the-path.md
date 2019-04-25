@@ -1,1 +1,0 @@
-{"tmdb_id": 362502, "title": "The Path", "original_title": "The Path", "slug_title": "the-path", "date": "1960-01-01", "genre": "Drame", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJNegJHVOV4puCGHvH6GSCgBcMl.jpg", "actors": [], "comments": [], "recommandations_id": []}

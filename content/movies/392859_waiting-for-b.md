@@ -1,1 +1,0 @@
-{"tmdb_id": 392859, "title": "Waiting for B", "original_title": "Waiting for B.", "slug_title": "waiting-for-b", "date": "2015-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oJnd16YtbIESPWcETElJVc7cHna.jpg", "actors": [], "comments": [], "recommandations_id": []}

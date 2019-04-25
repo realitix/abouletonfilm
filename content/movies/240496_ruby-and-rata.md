@@ -1,1 +1,0 @@
-{"tmdb_id": 240496, "title": "Ruby and Rata", "original_title": "Ruby and Rata", "slug_title": "ruby-and-rata", "date": "1990-09-10", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5t7EKORgEPCcf0LJ2b90ZE4wGTt.jpg", "actors": [], "comments": [], "recommandations_id": []}

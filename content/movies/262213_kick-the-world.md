@@ -1,1 +1,0 @@
-{"tmdb_id": 262213, "title": "Kick the World", "original_title": "Kick the World", "slug_title": "kick-the-world", "date": "1974-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Q1a058XJwygjMrZOCVbnHoHxm6.jpg", "actors": [], "comments": [], "recommandations_id": []}

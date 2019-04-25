@@ -1,1 +1,0 @@
-{"tmdb_id": 303067, "title": "Ekameva", "original_title": "Ekameva", "slug_title": "ekameva", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

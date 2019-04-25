@@ -1,1 +1,0 @@
-{"tmdb_id": 201048, "title": "Winston", "original_title": "Winston", "slug_title": "winston", "date": "1987-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

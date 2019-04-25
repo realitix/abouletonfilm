@@ -1,1 +1,0 @@
-{"tmdb_id": 468379, "title": "Maya De Bij - De Lieve Wesp", "original_title": "Maya De Bij - De Lieve Wesp", "slug_title": "maya-de-bij-de-lieve-wesp", "date": "2014-08-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Vx0aVkMuL8scKNpnGNrEUBn4mM.jpg", "actors": [], "comments": [], "recommandations_id": []}

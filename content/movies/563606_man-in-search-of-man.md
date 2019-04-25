@@ -1,1 +1,0 @@
-{"tmdb_id": 563606, "title": "Man in Search of Man", "original_title": "Man in Search of Man", "slug_title": "man-in-search-of-man", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

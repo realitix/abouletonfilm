@@ -1,1 +1,0 @@
-{"tmdb_id": 236172, "title": "Pipe Dreams", "original_title": "Pipe Dreams", "slug_title": "pipe-dreams", "date": "1938-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sXRCaJ5bBihsvD80NhwdScpwN0Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

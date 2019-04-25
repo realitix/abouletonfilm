@@ -1,1 +1,0 @@
-{"tmdb_id": 387178, "title": "3 Minuten Heroes", "original_title": "3 Minuten Heroes", "slug_title": "3-minuten-heroes", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

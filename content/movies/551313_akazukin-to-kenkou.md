@@ -1,1 +1,0 @@
-{"tmdb_id": 551313, "title": "Akazukin to Kenkou", "original_title": "\u8d64\u305a\u304d\u3093\u3068\u5065\u5eb7", "slug_title": "akazukin-to-kenkou", "date": "2007-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

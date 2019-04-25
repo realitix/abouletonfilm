@@ -1,1 +1,0 @@
-{"tmdb_id": 284849, "title": "Namboothiri Yuvavu At 43", "original_title": "Namboothiri Yuvavu At 43", "slug_title": "namboothiri-yuvavu-at-43", "date": "2014-06-03", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fnIDkk0oHFRIVcJXLyPszZtO0KF.jpg", "actors": [], "comments": [], "recommandations_id": []}

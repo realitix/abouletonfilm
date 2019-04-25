@@ -1,1 +1,0 @@
-{"tmdb_id": 521303, "title": "Fight for Justice: David & Me", "original_title": "Fight for Justice: David & Me", "slug_title": "fight-for-justice-david-me", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/68pJXKMedJPW0LlxLpe6ZS2Lx3H.jpg", "actors": [], "comments": [], "recommandations_id": []}

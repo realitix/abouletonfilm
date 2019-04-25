@@ -1,1 +1,0 @@
-{"tmdb_id": 236120, "title": "A Place Called Robertson", "original_title": "A Place Called Robertson", "slug_title": "a-place-called-robertson", "date": "2013-03-13", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kcnuvVsMM6ncLLV38erxjYD9R6a.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 85912, "title": "Oasis: Direct from Manchester", "original_title": "Oasis: Direct from Manchester", "slug_title": "oasis-direct-from-manchester", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6rs2mM2fBY2Wz65H1D4yQ8InzzT.jpg", "actors": [], "comments": [], "recommandations_id": []}

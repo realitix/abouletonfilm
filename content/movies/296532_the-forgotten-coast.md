@@ -1,1 +1,0 @@
-{"tmdb_id": 296532, "title": "The Forgotten Coast", "original_title": "The Forgotten Coast", "slug_title": "the-forgotten-coast", "date": "2007-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

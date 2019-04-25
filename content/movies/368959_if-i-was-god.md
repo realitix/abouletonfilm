@@ -1,1 +1,0 @@
-{"tmdb_id": 368959, "title": "If I Was God", "original_title": "If I Was God", "slug_title": "if-i-was-god", "date": "2015-06-15", "genre": "Animation", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aT18hfJcrIm0iXXJvfj5MLevW2x.jpg", "actors": [], "comments": [], "recommandations_id": []}

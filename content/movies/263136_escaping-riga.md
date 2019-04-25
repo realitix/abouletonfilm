@@ -1,1 +1,0 @@
-{"tmdb_id": 263136, "title": "Escaping Riga", "original_title": "Escaping Riga", "slug_title": "escaping-riga", "date": "2014-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y2U0kH1sEOBegelb1lwHHZ0YmDc.jpg", "actors": [], "comments": [], "recommandations_id": []}

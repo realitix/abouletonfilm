@@ -1,1 +1,0 @@
-{"tmdb_id": 323485, "title": "New Blood Rising", "original_title": "New Blood Rising", "slug_title": "new-blood-rising", "date": "2014-02-18", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

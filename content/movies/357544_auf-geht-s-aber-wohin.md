@@ -1,1 +1,0 @@
-{"tmdb_id": 357544, "title": "Auf geht's - aber wohin?", "original_title": "Auf geht's - aber wohin?", "slug_title": "auf-geht-s-aber-wohin", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

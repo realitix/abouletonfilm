@@ -1,1 +1,0 @@
-{"tmdb_id": 555214, "title": "Beware, The Waxing Moon", "original_title": "Beware, The Waxing Moon", "slug_title": "beware-the-waxing-moon", "date": "2017-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kristen Cubbage ()", "Jeremiah Wood ()", "Carter McGhinnis ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 282613, "title": "Endocrinology 2 of 2", "original_title": "Endocrinology 2 of 2", "slug_title": "endocrinology-2-of-2", "date": "2014-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wPaTAgabBymFaLtifWRQCriv2Uh.jpg", "actors": [], "comments": [], "recommandations_id": []}

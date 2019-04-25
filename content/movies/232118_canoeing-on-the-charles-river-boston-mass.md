@@ -1,1 +1,0 @@
-{"tmdb_id": 232118, "title": "Canoeing on the Charles River, Boston, Mass.", "original_title": "Canoeing on the Charles River, Boston, Mass.", "slug_title": "canoeing-on-the-charles-river-boston-mass", "date": "1904-07-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

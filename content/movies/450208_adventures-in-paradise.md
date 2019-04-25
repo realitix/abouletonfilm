@@ -1,1 +1,0 @@
-{"tmdb_id": 450208, "title": "Adventures in Paradise", "original_title": "Adventures in Paradise", "slug_title": "adventures-in-paradise", "date": "1982-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8dFzB7RkHZpdsmZpMPN2Rp1H2qw.jpg", "actors": [], "comments": [], "recommandations_id": []}

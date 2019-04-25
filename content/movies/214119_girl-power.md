@@ -1,1 +1,0 @@
-{"tmdb_id": 214119, "title": "Girl Power", "original_title": "Girl Power", "slug_title": "girl-power", "date": "1993-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dP492XckuxXaYYOgdr4R5BX5GBf.jpg", "actors": ["Sadie Benning ()"], "comments": [], "recommandations_id": []}

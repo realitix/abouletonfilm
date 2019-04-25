@@ -1,1 +1,0 @@
-{"tmdb_id": 440795, "title": "Recording", "original_title": "Recording", "slug_title": "recording", "date": "", "genre": "Romance / Drame", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rebecca Shoptaw (Sam)", "Michaela Murphy (Cassidy)"], "comments": [], "recommandations_id": []}

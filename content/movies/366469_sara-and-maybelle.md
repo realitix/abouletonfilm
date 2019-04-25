@@ -1,1 +1,0 @@
-{"tmdb_id": 366469, "title": "Sara and Maybelle", "original_title": "Sara and Maybelle", "slug_title": "sara-and-maybelle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 457059, "title": "Paying Mr. McGetty", "original_title": "Paying Mr. McGetty", "slug_title": "paying-mr-mcgetty", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

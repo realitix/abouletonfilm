@@ -1,1 +1,0 @@
-{"tmdb_id": 331904, "title": "Dik Trom en het circus", "original_title": "Dik Trom en het circus", "slug_title": "dik-trom-en-het-circus", "date": "1960-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q7CHHyH5RqJ9UibvIWDayiWh0jh.jpg", "actors": [], "comments": [], "recommandations_id": []}

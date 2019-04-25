@@ -1,1 +1,0 @@
-{"tmdb_id": 472959, "title": "Beast of Whitehall", "original_title": "Beast of Whitehall", "slug_title": "beast-of-whitehall", "date": "2016-04-02", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ryjyhtOADcqvDh14pfa0kTmdqtS.jpg", "actors": [], "comments": [], "recommandations_id": []}

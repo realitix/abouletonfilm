@@ -1,1 +1,0 @@
-{"tmdb_id": 79422, "title": "Esoterica", "original_title": "Esoterica", "slug_title": "esoterica", "date": "2010-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jvG9jxiwdYSRZw0umqEvEFYrZ2Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

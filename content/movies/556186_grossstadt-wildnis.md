@@ -1,1 +1,0 @@
-{"tmdb_id": 556186, "title": "Gro\u00dfstadt Wildnis", "original_title": "Gro\u00dfstadt Wildnis", "slug_title": "grossstadt-wildnis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

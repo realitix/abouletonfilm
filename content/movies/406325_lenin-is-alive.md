@@ -1,1 +1,0 @@
-{"tmdb_id": 406325, "title": "Lenin Is Alive", "original_title": "Zhivoy Lenin", "slug_title": "lenin-is-alive", "date": "1958-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4YRU16Y6mJOtkgMQ96sjFTpnBO6.jpg", "actors": [], "comments": [], "recommandations_id": []}

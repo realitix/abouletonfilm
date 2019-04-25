@@ -1,1 +1,0 @@
-{"tmdb_id": 556350, "title": "In Order to Rule", "original_title": "Pour r\u00e9gner", "slug_title": "in-order-to-rule", "date": "1926-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

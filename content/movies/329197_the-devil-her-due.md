@@ -1,1 +1,0 @@
-{"tmdb_id": 329197, "title": "The Devil Her Due", "original_title": "The Devil Her Due", "slug_title": "the-devil-her-due", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

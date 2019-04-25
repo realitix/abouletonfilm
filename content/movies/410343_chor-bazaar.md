@@ -1,1 +1,0 @@
-{"tmdb_id": 410343, "title": "Chor Bazaar", "original_title": "Chor Bazaar", "slug_title": "chor-bazaar", "date": "1954-01-01", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wbzl1f5LeShFF93PjlU2U5lWPrY.jpg", "actors": ["Shammi Kapoor ()"], "comments": [], "recommandations_id": []}

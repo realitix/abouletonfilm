@@ -1,1 +1,0 @@
-{"tmdb_id": 187993, "title": "Halloween", "original_title": "Halloween", "slug_title": "halloween", "date": "1931-05-01", "genre": "Horreur / Com\u00e9die / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iNKjTif2jlnjkhqc2oVKri9QkLU.jpg", "actors": [], "comments": [], "recommandations_id": []}

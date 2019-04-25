@@ -1,1 +1,0 @@
-{"tmdb_id": 284042, "title": "Demon Beast Invasion Volume 3", "original_title": "Demon Beast Invasion Volume 3", "slug_title": "demon-beast-invasion-volume-3", "date": "1991-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lipfvjLBJa39HyVuba41KiJ2cVI.jpg", "actors": [], "comments": [], "recommandations_id": []}

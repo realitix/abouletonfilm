@@ -1,1 +1,0 @@
-{"tmdb_id": 319893, "title": "Searching for Asian America", "original_title": "Searching for Asian America", "slug_title": "searching-for-asian-america", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

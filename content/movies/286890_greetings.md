@@ -1,1 +1,0 @@
-{"tmdb_id": 286890, "title": "Greetings", "original_title": "Greetings", "slug_title": "greetings", "date": "2007-10-23", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f4mKEpGxC6SdoBnOyxWaGUlJKP2.jpg", "actors": ["Kenneth Colley (Ken)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 507444, "title": "Isolamento", "original_title": "Isolamento", "slug_title": "isolamento", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Penelope Goranson (Mom)", "Michael Rennie (Son)", "Michael Harvey (Dad)"], "comments": [], "recommandations_id": []}

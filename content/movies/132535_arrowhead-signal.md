@@ -1,1 +1,0 @@
-{"tmdb_id": 132535, "title": "Arrowhead Signal", "original_title": "Arrowhead Signal", "slug_title": "arrowhead-signal", "date": "2012-09-09", "genre": "Science-Fiction", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hBqG6GF6Zjkh9pOkOibWzX957mz.jpg", "actors": ["Ryan Stevens (Kye)"], "comments": [], "recommandations_id": []}

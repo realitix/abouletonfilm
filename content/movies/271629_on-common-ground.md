@@ -1,1 +1,0 @@
-{"tmdb_id": 271629, "title": "On Common Ground", "original_title": "On Common Ground", "slug_title": "on-common-ground", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

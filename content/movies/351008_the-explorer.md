@@ -1,1 +1,0 @@
-{"tmdb_id": 351008, "title": "The Explorer", "original_title": "The Explorer", "slug_title": "the-explorer", "date": "1931-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

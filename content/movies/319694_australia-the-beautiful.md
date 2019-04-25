@@ -1,1 +1,0 @@
-{"tmdb_id": 319694, "title": "Australia the Beautiful", "original_title": "Australia the Beautiful", "slug_title": "australia-the-beautiful", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

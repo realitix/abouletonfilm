@@ -1,1 +1,0 @@
-{"tmdb_id": 192050, "title": "Her Nephews from Labrador", "original_title": "Her Nephews from Labrador", "slug_title": "her-nephews-from-labrador", "date": "1913-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Billy Noel ()", "Ed Brady ()", "Victory Bateman ()", "Eugene Moore ()"], "comments": [], "recommandations_id": []}

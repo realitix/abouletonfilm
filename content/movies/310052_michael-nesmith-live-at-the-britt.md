@@ -1,1 +1,0 @@
-{"tmdb_id": 310052, "title": "Michael Nesmith: Live at the Britt", "original_title": "Michael Nesmith: Live at the Britt", "slug_title": "michael-nesmith-live-at-the-britt", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

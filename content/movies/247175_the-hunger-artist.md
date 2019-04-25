@@ -1,1 +1,0 @@
-{"tmdb_id": 247175, "title": "The Hunger Artist", "original_title": "The Hunger Artist", "slug_title": "the-hunger-artist", "date": "2002-06-06", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6flrxmwj60dYi9hESYJP3336UKc.jpg", "actors": [], "comments": [], "recommandations_id": []}

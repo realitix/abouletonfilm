@@ -1,1 +1,0 @@
-{"tmdb_id": 284790, "title": "The Amateurist", "original_title": "The Amateurist", "slug_title": "the-amateurist", "date": "1998-01-01", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fhbPr1OX4QfbClToag13KcZLcG0.jpg", "actors": ["Miranda July ()"], "comments": [], "recommandations_id": []}

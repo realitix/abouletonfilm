@@ -1,1 +1,0 @@
-{"tmdb_id": 290293, "title": "A Sweet Song", "original_title": "A Sweet Song", "slug_title": "a-sweet-song", "date": "2014-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

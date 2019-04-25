@@ -1,1 +1,0 @@
-{"tmdb_id": 259977, "title": "Vampire Girls", "original_title": "Kyuuketsu gaaruzu", "slug_title": "vampire-girls", "date": "2011-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qa1z1IPzbdvhNSt2czJF9ORvGaI.jpg", "actors": [], "comments": [], "recommandations_id": []}

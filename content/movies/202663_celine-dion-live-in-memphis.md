@@ -1,1 +1,0 @@
-{"tmdb_id": 202663, "title": "C\u00e9line Dion: Live in Memphis", "original_title": "C\u00e9line Dion: Live in Memphis", "slug_title": "celine-dion-live-in-memphis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t8J9ckgiXOUB1jcN3Iv9yVmF6hk.jpg", "actors": [], "comments": [], "recommandations_id": []}

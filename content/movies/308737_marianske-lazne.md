@@ -1,1 +1,0 @@
-{"tmdb_id": 308737, "title": "Marianske Lazne", "original_title": "Marianske Lazne", "slug_title": "marianske-lazne", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

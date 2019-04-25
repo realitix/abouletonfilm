@@ -1,1 +1,0 @@
-{"tmdb_id": 193097, "title": "Naked Africa", "original_title": "Naked Africa", "slug_title": "naked-africa", "date": "1957-08-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e83YnFYNQ4vJeTqyWu5XPEGdEWo.jpg", "actors": [], "comments": [], "recommandations_id": []}

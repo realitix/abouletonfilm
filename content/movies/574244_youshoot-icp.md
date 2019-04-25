@@ -1,1 +1,0 @@
-{"tmdb_id": 574244, "title": "YouShoot: ICP", "original_title": "YouShoot: ICP", "slug_title": "youshoot-icp", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Violent J (Himself)", "Shaggy 2 Dope (Himself)"], "comments": [], "recommandations_id": []}

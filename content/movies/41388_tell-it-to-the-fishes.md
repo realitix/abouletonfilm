@@ -1,1 +1,0 @@
-{"tmdb_id": 41388, "title": "Tell It to the Fishes", "original_title": "Tell It to the Fishes", "slug_title": "tell-it-to-the-fishes", "date": "2006-01-01", "genre": "", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dNMS11TTNB8nVvCGCQ8aM8JS4Hv.jpg", "actors": [], "comments": [], "recommandations_id": []}

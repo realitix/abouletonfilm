@@ -1,1 +1,0 @@
-{"tmdb_id": 588142, "title": "The Bark Beetle of \u0160umava", "original_title": "Le Typographe de \u0160umava", "slug_title": "the-bark-beetle-of-sumava", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4SnEmmOHkVX2gipGOGPk5ySIKAr.jpg", "actors": [], "comments": [], "recommandations_id": []}

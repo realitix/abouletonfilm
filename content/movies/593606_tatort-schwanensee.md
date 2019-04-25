@@ -1,1 +1,0 @@
-{"tmdb_id": 593606, "title": "Tatort: Schwanensee", "original_title": "Tatort: Schwanensee", "slug_title": "tatort-schwanensee", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

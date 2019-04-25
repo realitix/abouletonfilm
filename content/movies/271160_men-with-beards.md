@@ -1,1 +1,0 @@
-{"tmdb_id": 271160, "title": "Men with Beards", "original_title": "Men with Beards", "slug_title": "men-with-beards", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l1BMlfskOmQ2M3oaBunLQF2S3Si.jpg", "actors": [], "comments": [], "recommandations_id": []}

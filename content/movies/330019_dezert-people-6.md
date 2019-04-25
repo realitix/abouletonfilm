@@ -1,1 +1,0 @@
-{"tmdb_id": 330019, "title": "Dezert People 6", "original_title": "Dezert People 6", "slug_title": "dezert-people-6", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

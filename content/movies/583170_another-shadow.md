@@ -1,1 +1,0 @@
-{"tmdb_id": 583170, "title": "Another Shadow", "original_title": "Tzel Acher", "slug_title": "another-shadow", "date": "1976-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/90CJgmUeGGZpj7PgLr2draRI9k9.jpg", "actors": [], "comments": [], "recommandations_id": []}

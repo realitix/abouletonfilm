@@ -1,1 +1,0 @@
-{"tmdb_id": 51501, "title": "Stripper Academy", "original_title": "Stripper Academy", "slug_title": "stripper-academy", "date": "2007-04-29", "genre": "Com\u00e9die", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/21TaoOd2Rosjeeq6B5fVUNca8YA.jpg", "actors": ["Richard Tyson (Mr. VIP)"], "comments": [], "recommandations_id": []}

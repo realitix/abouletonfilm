@@ -1,1 +1,0 @@
-{"tmdb_id": 517279, "title": "Rebellious Essence", "original_title": "Uporni duh", "slug_title": "rebellious-essence", "date": "2017-09-14", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8YtKlHe9QDu1Np26iDoAdN7KV5f.jpg", "actors": ["Ana \u010cigon (All cats (voice))"], "comments": [], "recommandations_id": []}

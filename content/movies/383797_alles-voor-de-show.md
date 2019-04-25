@@ -1,1 +1,0 @@
-{"tmdb_id": 383797, "title": "Alles voor de Show", "original_title": "Alles voor de Show", "slug_title": "alles-voor-de-show", "date": "2011-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eUBOQ1Q0IWSu1tM9UIa9GysnoaR.jpg", "actors": [], "comments": [], "recommandations_id": []}

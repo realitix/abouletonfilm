@@ -1,1 +1,0 @@
-{"tmdb_id": 523395, "title": "Journal of Love", "original_title": "Journal of Love", "slug_title": "journal-of-love", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rene Bond (Lorna)", "Andy Bellamy (Vera)"], "comments": [], "recommandations_id": []}

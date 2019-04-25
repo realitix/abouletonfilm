@@ -1,1 +1,0 @@
-{"tmdb_id": 531853, "title": "Eddie Bravo Invitational 14 \"The Absolutes\"", "original_title": "Eddie Bravo Invitational 14 \"The Absolutes\"", "slug_title": "eddie-bravo-invitational-14-the-absolutes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

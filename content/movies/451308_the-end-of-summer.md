@@ -1,1 +1,0 @@
-{"tmdb_id": 451308, "title": "The End Of Summer", "original_title": "The End Of Summer", "slug_title": "the-end-of-summer", "date": "1959-04-20", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zZePhmVH4TXNxiBr1l9EccUbBhZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

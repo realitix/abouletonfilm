@@ -1,1 +1,0 @@
-{"tmdb_id": 146647, "title": "The Last Knit", "original_title": "Kutoja", "slug_title": "the-last-knit", "date": "2005-01-01", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kaDM0P6qWQFpdRBUUijTiGEHzs3.jpg", "actors": [], "comments": [], "recommandations_id": [73968, 344454, 160329]}

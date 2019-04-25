@@ -1,1 +1,0 @@
-{"tmdb_id": 129334, "title": "FLAPJACK - Live w Dwojce", "original_title": "FLAPJACK - Live w Dwojce", "slug_title": "flapjack-live-w-dwojce", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/onYRYLuBNQoVpDssyVkZNtiu7Rq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 295350, "title": "Desi Kattey", "original_title": "Desi Kattey", "slug_title": "desi-kattey", "date": "2014-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rwmQgCFrXtS5ui18IXGnnuIrqgE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 594876, "title": "Rizin 15 - Yokohama", "original_title": "Rizin 15 - Yokohama", "slug_title": "rizin-15-yokohama", "date": "2019-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u6UfzDeNP4LhmskdgCGeWS9WBLl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 204414, "title": "Le Occasioni di Rosa", "original_title": "Le Occasioni di Rosa", "slug_title": "le-occasioni-di-rosa", "date": "1981-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

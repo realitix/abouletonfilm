@@ -1,1 +1,0 @@
-{"tmdb_id": 393986, "title": "RPW: Summer Sizzler 2014", "original_title": "RPW: Summer Sizzler 2014", "slug_title": "rpw-summer-sizzler-2014", "date": "2014-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hLv1oqYpbXYaORWPt0PbFtlSiWv.jpg", "actors": [], "comments": [], "recommandations_id": []}

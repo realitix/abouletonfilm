@@ -1,1 +1,0 @@
-{"tmdb_id": 96184, "title": "Nachtspuren", "original_title": "Nachtspuren", "slug_title": "nachtspuren", "date": "2009-01-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3LlAHURqNQnl7dXSf8p6tPRvrPL.jpg", "actors": ["Stefanie Narbe (Mirja)", "Nova Meierhenrich (Kathrin)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 511454, "title": "Food on the Go", "original_title": "E il cibo va", "slug_title": "food-on-the-go", "date": "2017-09-26", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xeo15wDWjs3SVnbFh66jv50z0yt.jpg", "actors": ["Mercedes Cordova (Mercedes Cordova)"], "comments": [], "recommandations_id": []}

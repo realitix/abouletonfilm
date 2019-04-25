@@ -1,1 +1,0 @@
-{"tmdb_id": 60735, "title": "The Moomin Characters", "original_title": "The Moomin Characters", "slug_title": "the-moomin-characters", "date": "1990-01-01", "genre": "", "score": "9.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qnL2Kx0ol1dEKUsIq5cQrcRG599.jpg", "actors": [], "comments": [], "recommandations_id": [61889, 60708, 62688, 1412]}

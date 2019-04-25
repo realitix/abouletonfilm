@@ -1,1 +1,0 @@
-{"tmdb_id": 503459, "title": "Checchella", "original_title": "Checchella", "slug_title": "checchella", "date": "1969-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

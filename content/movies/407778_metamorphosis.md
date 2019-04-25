@@ -1,1 +1,0 @@
-{"tmdb_id": 407778, "title": "Metamorphosis", "original_title": "Metamorfoza", "slug_title": "metamorphosis", "date": "1964-01-01", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sTcPBngMplk0r7ovK4at1yHTfqd.jpg", "actors": [], "comments": [], "recommandations_id": []}

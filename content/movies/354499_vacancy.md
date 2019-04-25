@@ -1,1 +1,0 @@
-{"tmdb_id": 354499, "title": "Vacancy", "original_title": "Vacancy", "slug_title": "vacancy", "date": "1999-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sFjWHcOi4BysDMUdxajFmBt3FGK.jpg", "actors": [], "comments": [], "recommandations_id": []}

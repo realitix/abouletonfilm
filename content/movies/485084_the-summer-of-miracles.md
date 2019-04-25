@@ -1,1 +1,0 @@
-{"tmdb_id": 485084, "title": "The Summer of Miracles", "original_title": "Athisayangalude Venal", "slug_title": "the-summer-of-miracles", "date": "2017-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4VcDx4bbSfg1XHwkjRdXqlHTV8Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

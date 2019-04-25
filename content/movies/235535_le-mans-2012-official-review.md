@@ -1,1 +1,0 @@
-{"tmdb_id": 235535, "title": "Le Mans 2012 - Official Review", "original_title": "Le Mans 2012 - Official Review", "slug_title": "le-mans-2012-official-review", "date": "2012-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cGJkJabBeazCRmkfwkVLGiecXLn.jpg", "actors": [], "comments": [], "recommandations_id": []}

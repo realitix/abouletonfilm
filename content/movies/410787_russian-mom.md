@@ -1,1 +1,0 @@
-{"tmdb_id": 410787, "title": "Russian Mom", "original_title": "Russian Mom", "slug_title": "russian-mom", "date": "2016-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xugewOot0MdGxtE2f0FbNKviUF6.jpg", "actors": [], "comments": [], "recommandations_id": []}

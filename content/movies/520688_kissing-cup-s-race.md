@@ -1,1 +1,0 @@
-{"tmdb_id": 520688, "title": "Kissing Cup's Race", "original_title": "Kissing Cup's Race", "slug_title": "kissing-cup-s-race", "date": "1920-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

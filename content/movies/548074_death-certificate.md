@@ -1,1 +1,0 @@
-{"tmdb_id": 548074, "title": "Death Certificate", "original_title": "Death Certificate", "slug_title": "death-certificate", "date": "", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/51IFBxMIaV1IV153z7Wxe2pqs3i.jpg", "actors": ["Rajaditya Banerjee (Ramlakhan)"], "comments": [], "recommandations_id": []}

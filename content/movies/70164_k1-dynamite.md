@@ -1,1 +1,0 @@
-{"tmdb_id": 70164, "title": "K1 Dynamite!!", "original_title": "K1 Dynamite!!", "slug_title": "k1-dynamite", "date": "2009-12-31", "genre": "Action / Com\u00e9die", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pW1Yl4dP5QbJeUxG6pSZg6rIJrM.jpg", "actors": [], "comments": [], "recommandations_id": []}

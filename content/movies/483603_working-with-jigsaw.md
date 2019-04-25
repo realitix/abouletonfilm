@@ -1,1 +1,0 @@
-{"tmdb_id": 483603, "title": "Working with Jigsaw", "original_title": "Working with Jigsaw", "slug_title": "working-with-jigsaw", "date": "2016-10-10", "genre": "Com\u00e9die", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wL3CAaKdBBXwshpgduHKxnC4D4k.jpg", "actors": [], "comments": [], "recommandations_id": []}

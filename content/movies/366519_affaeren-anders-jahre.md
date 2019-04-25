@@ -1,1 +1,0 @@
-{"tmdb_id": 366519, "title": "Aff\u00e6ren Anders Jahre", "original_title": "Aff\u00e6ren Anders Jahre", "slug_title": "affaeren-anders-jahre", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

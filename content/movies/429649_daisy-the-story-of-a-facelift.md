@@ -1,1 +1,0 @@
-{"tmdb_id": 429649, "title": "Daisy: The Story of a Facelift", "original_title": "Daisy: The Story of a Facelift", "slug_title": "daisy-the-story-of-a-facelift", "date": "1982-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

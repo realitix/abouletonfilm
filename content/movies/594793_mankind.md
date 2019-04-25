@@ -1,1 +1,0 @@
-{"tmdb_id": 594793, "title": "Mankind", "original_title": "Mankind", "slug_title": "mankind", "date": "2019-03-30", "genre": "Drame / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bfUUO8gkqFEknezrMWjd4mXoJuX.jpg", "actors": ["Ricky Nixon (Will)", "Alexis Gregory (Evan)"], "comments": [], "recommandations_id": []}

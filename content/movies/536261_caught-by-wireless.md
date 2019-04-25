@@ -1,1 +1,0 @@
-{"tmdb_id": 536261, "title": "Caught by Wireless", "original_title": "Caught by Wireless", "slug_title": "caught-by-wireless", "date": "1908-03-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["D.W. Griffith (Paddy)"], "comments": [], "recommandations_id": []}

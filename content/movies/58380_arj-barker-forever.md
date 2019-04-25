@@ -1,1 +1,0 @@
-{"tmdb_id": 58380, "title": "Arj Barker: Forever", "original_title": "Arj Barker: Forever", "slug_title": "arj-barker-forever", "date": "2010-08-18", "genre": "Com\u00e9die", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2tOk5YUL9NwG7GuiW7nQ1Bj3pOU.jpg", "actors": ["Arj Barker (Himself)"], "comments": [], "recommandations_id": []}

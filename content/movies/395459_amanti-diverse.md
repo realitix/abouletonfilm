@@ -1,1 +1,0 @@
-{"tmdb_id": 395459, "title": "Amanti Diverse", "original_title": "Amanti Diverse", "slug_title": "amanti-diverse", "date": "2001-04-30", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xwZFRhpEXe4bgyrkopDUIUz2Kka.jpg", "actors": ["Valentine Demy ()", "Interpreti Vari ()"], "comments": [], "recommandations_id": []}

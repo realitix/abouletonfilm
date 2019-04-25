@@ -1,1 +1,0 @@
-{"tmdb_id": 442514, "title": "A Maid for Each", "original_title": "A Maid for Each", "slug_title": "a-maid-for-each", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

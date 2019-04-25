@@ -1,1 +1,0 @@
-{"tmdb_id": 470503, "title": "Guns N' Roses Live Era", "original_title": "Guns N' Roses Live Era", "slug_title": "guns-n-roses-live-era", "date": "1993-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 537747, "title": "I'm Your Number One Fan", "original_title": "I'm Your Number One Fan", "slug_title": "i-m-your-number-one-fan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

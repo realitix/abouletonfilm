@@ -1,1 +1,0 @@
-{"tmdb_id": 317763, "title": "Frank Vignola's Gypsy Jazz Jam", "original_title": "Frank Vignola's Gypsy Jazz Jam", "slug_title": "frank-vignola-s-gypsy-jazz-jam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

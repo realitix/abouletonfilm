@@ -1,1 +1,0 @@
-{"tmdb_id": 107372, "title": "Hard Bastard", "original_title": "Tian long lan", "slug_title": "hard-bastard", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6pB0YiBpLG5djMXX6elXV95fp4H.jpg", "actors": [], "comments": [], "recommandations_id": []}

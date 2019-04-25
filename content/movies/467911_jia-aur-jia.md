@@ -1,1 +1,0 @@
-{"tmdb_id": 467911, "title": "Jia aur Jia", "original_title": "Jia aur Jia", "slug_title": "jia-aur-jia", "date": "2017-10-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/daKZ9wiEhuAGZ9czRcsBwi3LifK.jpg", "actors": ["Kalki Koechlin (Jia)", "Richa Chadda (Jia)"], "comments": [], "recommandations_id": []}

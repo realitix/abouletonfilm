@@ -1,1 +1,0 @@
-{"tmdb_id": 437494, "title": "The Wall (Le Mur)", "original_title": "The Wall (Le Mur)", "slug_title": "the-wall-le-mur", "date": "2015-06-03", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8v8xJtQzw0BLqY9IgJvw6LHCtPM.jpg", "actors": [], "comments": [], "recommandations_id": []}

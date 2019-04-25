@@ -1,1 +1,0 @@
-{"tmdb_id": 392276, "title": "El gato mont\u00e9s", "original_title": "El gato mont\u00e9s", "slug_title": "el-gato-montes", "date": "1936-03-06", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1IzQ7SLMk4QSVnAWnCWer7K6R7G.jpg", "actors": [], "comments": [], "recommandations_id": []}

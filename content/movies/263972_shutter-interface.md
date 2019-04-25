@@ -1,1 +1,0 @@
-{"tmdb_id": 263972, "title": "Shutter Interface", "original_title": "Shutter Interface", "slug_title": "shutter-interface", "date": "1975-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1gn8njmW3EgMLYGLadGqWEIi5Q6.jpg", "actors": [], "comments": [], "recommandations_id": []}

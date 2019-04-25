@@ -1,1 +1,0 @@
-{"tmdb_id": 477344, "title": "Victoire \u00e0 ses nerfs", "original_title": "Victoire \u00e0 ses nerfs", "slug_title": "victoire-a-ses-nerfs", "date": "1907-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

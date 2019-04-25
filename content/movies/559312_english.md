@@ -1,1 +1,1 @@
-{"tmdb_id": 559312, "title": "English", "original_title": "Great", "slug_title": "english", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 559312, "title": "English", "original_title": "Great", "slug_title": "english", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "I love In Movies World's", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

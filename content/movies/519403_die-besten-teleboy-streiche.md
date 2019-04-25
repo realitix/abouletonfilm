@@ -1,1 +1,0 @@
-{"tmdb_id": 519403, "title": "Die besten Teleboy Streiche", "original_title": "Die besten Teleboy Streiche", "slug_title": "die-besten-teleboy-streiche", "date": "2018-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 555246, "title": "Twelve Pole", "original_title": "Twelve Pole", "slug_title": "twelve-pole", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2VJCCRRy8VqqtKSzgIzrllgZpTq.jpg", "actors": [], "comments": [], "recommandations_id": []}

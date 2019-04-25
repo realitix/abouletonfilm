@@ -1,1 +1,0 @@
-{"tmdb_id": 35214, "title": "Na Ghar Ke Na Ghaat Ke", "original_title": "Na Ghar Ke Na Ghaat Ke", "slug_title": "na-ghar-ke-na-ghaat-ke", "date": "2010-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bwLznlSVG9GaAXTKmNSVCHDqb0u.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 318248, "title": "Brum: Crazy Chair Chase and Other Stories", "original_title": "Brum: Crazy Chair Chase and Other Stories", "slug_title": "brum-crazy-chair-chase-and-other-stories", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

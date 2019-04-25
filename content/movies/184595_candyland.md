@@ -1,1 +1,0 @@
-{"tmdb_id": 184595, "title": "Candyland", "original_title": "Candyland", "slug_title": "candyland", "date": "1935-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pcSpoyA8lMLK3WhEwQUEws1Hf99.jpg", "actors": [], "comments": [], "recommandations_id": []}

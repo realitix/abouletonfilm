@@ -1,1 +1,0 @@
-{"tmdb_id": 415996, "title": "\ud64d\uae38\ub3d9 2084", "original_title": "\ud64d\uae38\ub3d9 2084", "slug_title": "honggildong-2084", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2AocS2zvq3t0XJHuatrVsFSzHKy.jpg", "actors": [], "comments": [], "recommandations_id": []}

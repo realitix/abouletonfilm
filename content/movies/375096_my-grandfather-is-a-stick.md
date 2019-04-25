@@ -1,1 +1,0 @@
-{"tmdb_id": 375096, "title": "My grandfather is a stick", "original_title": "Min bedstefar er en stok", "slug_title": "my-grandfather-is-a-stick", "date": "1968-10-14", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/16lFl6ZJgbJkMpLXpL79PpaBjBm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556095, "title": "L'h\u00e9ritage de cent millions", "original_title": "L'h\u00e9ritage de cent millions", "slug_title": "l-heritage-de-cent-millions", "date": "1924-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

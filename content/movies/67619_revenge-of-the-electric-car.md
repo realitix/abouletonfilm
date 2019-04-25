@@ -1,1 +1,0 @@
-{"tmdb_id": 67619, "title": "Revenge of the Electric Car", "original_title": "Revenge of the Electric Car", "slug_title": "revenge-of-the-electric-car", "date": "2011-10-21", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/khKJr4yvlwTzXxpmcGnJ8BWRpA3.jpg", "actors": [], "comments": [], "recommandations_id": []}

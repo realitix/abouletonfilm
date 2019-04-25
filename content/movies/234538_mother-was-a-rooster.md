@@ -1,1 +1,0 @@
-{"tmdb_id": 234538, "title": "Mother Was a Rooster", "original_title": "Mother Was a Rooster", "slug_title": "mother-was-a-rooster", "date": "1962-10-20", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/DhK0wJwASBhC3PMDlnWHMzAKuO.jpg", "actors": [], "comments": [], "recommandations_id": []}

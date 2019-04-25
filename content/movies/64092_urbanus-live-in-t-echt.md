@@ -1,1 +1,0 @@
-{"tmdb_id": 64092, "title": "Urbanus - Live & in 't echt", "original_title": "Urbanus - Live & in 't echt", "slug_title": "urbanus-live-in-t-echt", "date": "2005-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dw9Mlx5eGBFOXQXBPtPB2rbjtjP.jpg", "actors": ["Urbanus (actor)"], "comments": [], "recommandations_id": []}

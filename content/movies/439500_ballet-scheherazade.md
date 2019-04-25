@@ -1,1 +1,0 @@
-{"tmdb_id": 439500, "title": "Ballet Scheherazade", "original_title": "Ballet Scheherazade", "slug_title": "ballet-scheherazade", "date": "2017-02-05", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/efqLbzD0vaqIWTM3XVhqwKCFcrJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

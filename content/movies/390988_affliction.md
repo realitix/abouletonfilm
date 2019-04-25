@@ -1,1 +1,0 @@
-{"tmdb_id": 390988, "title": "Affliction", "original_title": "Affliction", "slug_title": "affliction", "date": "2015-09-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n9Z8sr2qyZSDSjJEsw9Pomovmq2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 345282, "title": "Xercise", "original_title": "Xercise", "slug_title": "xercise", "date": "2003-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jon Andreas Bjerk ()", "Christian Nordal ()"], "comments": [], "recommandations_id": []}

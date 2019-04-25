@@ -1,1 +1,0 @@
-{"tmdb_id": 376396, "title": "New Pompidou", "original_title": "New Pompidou", "slug_title": "new-pompidou", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

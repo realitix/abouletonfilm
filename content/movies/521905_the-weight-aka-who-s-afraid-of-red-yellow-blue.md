@@ -1,1 +1,0 @@
-{"tmdb_id": 521905, "title": "The Weight (AKA Who's Afraid of Red Yellow & Blue)", "original_title": "Het gewicht (AKA Who's Afraid of Red Yellow & Blue)", "slug_title": "the-weight-aka-who-s-afraid-of-red-yellow-blue", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

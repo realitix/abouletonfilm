@@ -1,1 +1,0 @@
-{"tmdb_id": 271471, "title": "Keep Smiling", "original_title": "Keep Smiling", "slug_title": "keep-smiling", "date": "1928-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jimmy Aubrey (Oscar Hatch)", "Al Thompson (Hardboiled Haggerty)"], "comments": [], "recommandations_id": []}

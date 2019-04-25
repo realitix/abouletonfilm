@@ -1,1 +1,0 @@
-{"tmdb_id": 551818, "title": "Let's Go Mets", "original_title": "Let's Go Mets", "slug_title": "let-s-go-mets", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wo0OvtaYjswZxpbyfaa8FowMwII.jpg", "actors": ["Joe Piscopo (Himself)"], "comments": [], "recommandations_id": []}

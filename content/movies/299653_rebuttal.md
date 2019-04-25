@@ -1,1 +1,0 @@
-{"tmdb_id": 299653, "title": "Rebuttal", "original_title": "Rebuttal", "slug_title": "rebuttal", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

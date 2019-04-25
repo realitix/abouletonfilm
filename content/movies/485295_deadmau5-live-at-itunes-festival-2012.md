@@ -1,1 +1,0 @@
-{"tmdb_id": 485295, "title": "Deadmau5 Live at iTunes Festival 2012", "original_title": "Deadmau5 Live at iTunes Festival 2012", "slug_title": "deadmau5-live-at-itunes-festival-2012", "date": "2012-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joel Zimmerman (Deadmau5)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 410733, "title": "Red Maria 2", "original_title": "Red Maria 2", "slug_title": "red-maria-2", "date": "2015-09-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

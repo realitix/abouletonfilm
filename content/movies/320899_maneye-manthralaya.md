@@ -1,1 +1,0 @@
-{"tmdb_id": 320899, "title": "Maneye Manthralaya", "original_title": "Maneye Manthralaya", "slug_title": "maneye-manthralaya", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 558504, "title": "OPERA MORTEM", "original_title": "OPERA MORTEM", "slug_title": "opera-mortem", "date": "1975-11-02", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

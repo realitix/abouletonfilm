@@ -1,1 +1,0 @@
-{"tmdb_id": 462044, "title": "American Nightmare", "original_title": "American Nightmare", "slug_title": "american-nightmare", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r1jq52RBs7RvB5BGl5poBxqLY0A.jpg", "actors": [], "comments": [], "recommandations_id": []}

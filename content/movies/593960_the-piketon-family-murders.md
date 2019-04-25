@@ -1,1 +1,0 @@
-{"tmdb_id": 593960, "title": "The Piketon Family Murders", "original_title": "The Piketon Family Murders", "slug_title": "the-piketon-family-murders", "date": "2019-03-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3fl0gc07d7JFusb1v1gZwNRCYvq.jpg", "actors": [], "comments": [], "recommandations_id": []}

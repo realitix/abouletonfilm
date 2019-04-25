@@ -1,1 +1,0 @@
-{"tmdb_id": 582457, "title": "Flattened", "original_title": "Ponchada", "slug_title": "flattened", "date": "1994-01-01", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/86hguhbY6P67F4cTl1Uk1MecyoE.jpg", "actors": ["Lisa Owen (She)", "Jes\u00fas Ochoa (He)"], "comments": [], "recommandations_id": []}

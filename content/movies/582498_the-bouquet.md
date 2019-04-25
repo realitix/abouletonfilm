@@ -1,1 +1,0 @@
-{"tmdb_id": 582498, "title": "The Bouquet", "original_title": "Buket", "slug_title": "the-bouquet", "date": "1966-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

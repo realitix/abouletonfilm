@@ -1,1 +1,0 @@
-{"tmdb_id": 401587, "title": "Invitation to Dance", "original_title": "Invitation to Dance", "slug_title": "invitation-to-dance", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

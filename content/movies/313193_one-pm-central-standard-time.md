@@ -1,1 +1,0 @@
-{"tmdb_id": 313193, "title": "One PM Central Standard Time", "original_title": "One PM Central Standard Time", "slug_title": "one-pm-central-standard-time", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 174258, "title": "A Little Bird Told Me", "original_title": "A Little Bird Told Me", "slug_title": "a-little-bird-told-me", "date": "1934-09-06", "genre": "Animation", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qXPIMrTeNBZ4hFgUl1VbLbPDgiA.jpg", "actors": [], "comments": [], "recommandations_id": []}

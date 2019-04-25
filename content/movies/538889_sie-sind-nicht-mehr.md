@@ -1,1 +1,0 @@
-{"tmdb_id": 538889, "title": "Sie sind nicht mehr", "original_title": "Sie sind nicht mehr", "slug_title": "sie-sind-nicht-mehr", "date": "1951-01-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

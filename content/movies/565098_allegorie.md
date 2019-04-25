@@ -1,1 +1,1 @@
-{"tmdb_id": 565098, "title": "All\u00e9gorie", "original_title": "All\u00e9gorie", "slug_title": "allegorie", "date": "1975-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 565098, "title": "All\u00e9gorie", "original_title": "All\u00e9gorie", "slug_title": "allegorie", "date": "1975-11-05", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

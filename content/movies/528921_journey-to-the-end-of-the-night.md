@@ -1,1 +1,0 @@
-{"tmdb_id": 528921, "title": "Journey to the End of the Night", "original_title": "Voyage au bout de la nuit", "slug_title": "journey-to-the-end-of-the-night", "date": "1990-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4SrNzOJLm58xzJwEwQcrmytSwzH.jpg", "actors": [], "comments": [], "recommandations_id": []}

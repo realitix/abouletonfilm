@@ -1,1 +1,0 @@
-{"tmdb_id": 412364, "title": "Enjoy Yourself", "original_title": "Enjoy Yourself", "slug_title": "enjoy-yourself", "date": "2013-04-20", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

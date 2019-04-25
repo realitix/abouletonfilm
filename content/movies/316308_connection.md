@@ -1,1 +1,0 @@
-{"tmdb_id": 316308, "title": "Connection", "original_title": "Connection", "slug_title": "connection", "date": "1981-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tUK7GrKD4sljjiXxyqSlclRILpH.jpg", "actors": [], "comments": [], "recommandations_id": []}

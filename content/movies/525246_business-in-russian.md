@@ -1,1 +1,0 @@
-{"tmdb_id": 525246, "title": "Business in Russian", "original_title": "\u0411\u0438\u0437\u043d\u0435\u0441 \u043f\u043e-\u0440\u0443\u0441\u0441\u043a\u0438", "slug_title": "business-in-russian", "date": "2011-06-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

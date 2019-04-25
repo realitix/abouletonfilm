@@ -1,1 +1,0 @@
-{"tmdb_id": 515689, "title": "Dead World", "original_title": "Dead World", "slug_title": "dead-world", "date": "2016-09-16", "genre": "Horreur / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 310463, "title": "The Removers", "original_title": "The Removers", "slug_title": "the-removers", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

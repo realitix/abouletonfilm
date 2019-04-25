@@ -1,1 +1,0 @@
-{"tmdb_id": 568772, "title": "Brief Candle", "original_title": "Brief Candle", "slug_title": "brief-candle", "date": "2013-10-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lj9Kx5RQyVx8iQrg7xISvK1BtzS.jpg", "actors": ["Dorotea Saykaly ()"], "comments": [], "recommandations_id": []}

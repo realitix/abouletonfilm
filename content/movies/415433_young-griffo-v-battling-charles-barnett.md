@@ -1,1 +1,0 @@
-{"tmdb_id": 415433, "title": "Young Griffo v. Battling Charles Barnett", "original_title": "Young Griffo v. Battling Charles Barnett", "slug_title": "young-griffo-v-battling-charles-barnett", "date": "1895-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

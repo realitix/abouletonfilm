@@ -1,1 +1,0 @@
-{"tmdb_id": 502940, "title": "Graveyard Rot", "original_title": "Graveyard Rot", "slug_title": "graveyard-rot", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fWHZqteDAMysLExwyuYYR4yRBAz.jpg", "actors": [], "comments": [], "recommandations_id": []}

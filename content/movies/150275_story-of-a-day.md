@@ -1,1 +1,0 @@
-{"tmdb_id": 150275, "title": "Story of a day", "original_title": "Historia de un d\u00eda", "slug_title": "story-of-a-day", "date": "2009-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gVl84sL6BHxENB9i4Je8Y6miPHG.jpg", "actors": [], "comments": [], "recommandations_id": []}

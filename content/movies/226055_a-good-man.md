@@ -1,1 +1,0 @@
-{"tmdb_id": 226055, "title": "A Good Man", "original_title": "A Good Man", "slug_title": "a-good-man", "date": "2009-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zseDtT1uAH7vW7rDuzBqPJCBHoz.jpg", "actors": [], "comments": [], "recommandations_id": []}

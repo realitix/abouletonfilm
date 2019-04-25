@@ -1,1 +1,0 @@
-{"tmdb_id": 329497, "title": "Forbidden Zone", "original_title": "Zone interdite", "slug_title": "forbidden-zone", "date": "1974-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sid Ahmed Agoumi ()", "Sa\u00efd Helmi ()"], "comments": [], "recommandations_id": []}

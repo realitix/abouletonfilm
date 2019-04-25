@@ -1,1 +1,0 @@
-{"tmdb_id": 364597, "title": "Caminho de Volta", "original_title": "Caminho de Volta", "slug_title": "caminho-de-volta", "date": "2015-10-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

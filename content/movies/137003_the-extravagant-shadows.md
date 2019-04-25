@@ -1,1 +1,0 @@
-{"tmdb_id": 137003, "title": "The Extravagant Shadows", "original_title": "The Extravagant Shadows", "slug_title": "the-extravagant-shadows", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kObf14AGiPNAE7jwkVCOsa30vjE.jpg", "actors": [], "comments": [], "recommandations_id": []}

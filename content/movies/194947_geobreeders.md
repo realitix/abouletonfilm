@@ -1,1 +1,0 @@
-{"tmdb_id": 194947, "title": "Geobreeders", "original_title": "Geobreeders", "slug_title": "geobreeders", "date": "1998-05-21", "genre": "Action / Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rrqyLraoROYakE5jObwlQl85CSy.jpg", "actors": [], "comments": [], "recommandations_id": []}

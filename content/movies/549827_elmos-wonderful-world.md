@@ -1,1 +1,0 @@
-{"tmdb_id": 549827, "title": "Elmo\u2019s Wonderful World", "original_title": "Elmo\u2019s Wonderful World", "slug_title": "elmos-wonderful-world", "date": "2017-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4skgruJxwNWz2xbFW4bPFyL1odB.jpg", "actors": [], "comments": [], "recommandations_id": []}

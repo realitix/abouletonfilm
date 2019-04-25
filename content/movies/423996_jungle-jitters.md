@@ -1,1 +1,0 @@
-{"tmdb_id": 423996, "title": "Jungle Jitters", "original_title": "Jungle Jitters", "slug_title": "jungle-jitters", "date": "1934-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

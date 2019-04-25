@@ -1,1 +1,0 @@
-{"tmdb_id": 404790, "title": "Colmillo blanco", "original_title": "Colmillo blanco", "slug_title": "colmillo-blanco", "date": "", "genre": "Animation / Aventure / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jaimz Woolvett ()", "Ken Blackburn ()"], "comments": [], "recommandations_id": []}

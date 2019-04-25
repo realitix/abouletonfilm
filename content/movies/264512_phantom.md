@@ -1,1 +1,0 @@
-{"tmdb_id": 264512, "title": "Phantom", "original_title": "Phantom", "slug_title": "phantom", "date": "2013-07-01", "genre": "Drame", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/claHyyq8EduPmWRMkz96qxXsnet.jpg", "actors": ["Yuki Fujita (Woman)", "Masato Tsujioka (Man)"], "comments": [], "recommandations_id": []}

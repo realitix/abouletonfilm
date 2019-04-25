@@ -1,1 +1,0 @@
-{"tmdb_id": 177526, "title": "Confessor: Live in Norway", "original_title": "Confessor: Live in Norway", "slug_title": "confessor-live-in-norway", "date": "2006-09-18", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zeWfgcrAlWuk6RkhfyJTYX6vU8F.jpg", "actors": [], "comments": [], "recommandations_id": []}

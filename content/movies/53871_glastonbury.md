@@ -1,1 +1,0 @@
-{"tmdb_id": 53871, "title": "Glastonbury", "original_title": "Glastonbury", "slug_title": "glastonbury", "date": "2006-04-13", "genre": "Musique / Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5zaaqJwW0Ldfp3uaEWSqduEHB9g.jpg", "actors": [], "comments": [], "recommandations_id": [83015, 31, 84109, 43488]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 441673, "title": "The Ginger Effect", "original_title": "The Ginger Effect", "slug_title": "the-ginger-effect", "date": "1986-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4wCulZdLrkS0zB1sdau40NairCJ.jpg", "actors": ["Ginger Lynn Allen (Ginger)"], "comments": [], "recommandations_id": []}

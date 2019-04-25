@@ -1,1 +1,0 @@
-{"tmdb_id": 309453, "title": "The Kid Makes the Picture", "original_title": "The Kid Makes the Picture", "slug_title": "the-kid-makes-the-picture", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

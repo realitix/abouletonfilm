@@ -1,1 +1,0 @@
-{"tmdb_id": 298182, "title": "Black Fly", "original_title": "Black Fly", "slug_title": "black-fly", "date": "2014-09-27", "genre": "Thriller", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/miKAVaFtYyvym7NQ6KyNgTTZFu5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 419237, "title": "Stories in Song", "original_title": "Stories in Song", "slug_title": "stories-in-song", "date": "1928-03-31", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adele Rowland (Herself - Singer)", "Mildred Brown (Herself - Pianist)"], "comments": [], "recommandations_id": []}

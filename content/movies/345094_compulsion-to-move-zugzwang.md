@@ -1,1 +1,0 @@
-{"tmdb_id": 345094, "title": "Compulsion to Move - Zugzwang", "original_title": "Obbligo di Giocare - Zugzwang", "slug_title": "compulsion-to-move-zugzwang", "date": "1990-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

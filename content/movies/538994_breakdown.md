@@ -1,1 +1,0 @@
-{"tmdb_id": 538994, "title": "Breakdown", "original_title": "Breakdown", "slug_title": "breakdown", "date": "2017-07-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zKFMS0okknyneu8KBNsCqnbbOF2.jpg", "actors": ["Savannah Leigh (Louise)", "Richard L. Ulrich (Jeff)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 313191, "title": "Old Time Comedy Classics: Vol. 6", "original_title": "Old Time Comedy Classics: Vol. 6", "slug_title": "old-time-comedy-classics-vol-6", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

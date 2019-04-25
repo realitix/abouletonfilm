@@ -1,1 +1,0 @@
-{"tmdb_id": 310705, "title": "Ben Carson", "original_title": "Ben Carson", "slug_title": "ben-carson", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

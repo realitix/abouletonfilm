@@ -1,1 +1,0 @@
-{"tmdb_id": 534622, "title": "Vertige d'une rencontre", "original_title": "Vertige d'une rencontre", "slug_title": "vertige-d-une-rencontre", "date": "2010-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mJhT4uqah4KnVY1LcD3rvVfaVBd.jpg", "actors": [], "comments": [], "recommandations_id": []}

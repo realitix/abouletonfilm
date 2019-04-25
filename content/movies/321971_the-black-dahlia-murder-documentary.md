@@ -1,1 +1,0 @@
-{"tmdb_id": 321971, "title": "The Black Dahlia Murder: Documentary", "original_title": "The Black Dahlia Murder: Documentary", "slug_title": "the-black-dahlia-murder-documentary", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

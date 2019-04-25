@@ -1,1 +1,0 @@
-{"tmdb_id": 473751, "title": "I Dreamed I Searched for You in Heaven", "original_title": "I Dreamed I Searched for You in Heaven", "slug_title": "i-dreamed-i-searched-for-you-in-heaven", "date": "2012-05-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

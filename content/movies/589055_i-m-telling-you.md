@@ -1,1 +1,0 @@
-{"tmdb_id": 589055, "title": "I'm Telling You", "original_title": "I'm Telling You", "slug_title": "i-m-telling-you", "date": "2016-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

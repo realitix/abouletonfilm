@@ -1,1 +1,0 @@
-{"tmdb_id": 336443, "title": "The Miners' Film", "original_title": "The Miners' Film", "slug_title": "the-miners-film", "date": "1975-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

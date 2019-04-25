@@ -1,1 +1,0 @@
-{"tmdb_id": 250245, "title": "The Cosmonaut Cover-Up", "original_title": "The Cosmonaut Cover-Up", "slug_title": "the-cosmonaut-cover-up", "date": "1999-08-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

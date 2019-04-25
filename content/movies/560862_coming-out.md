@@ -1,1 +1,0 @@
-{"tmdb_id": 560862, "title": "Coming Out", "original_title": "Coming Out", "slug_title": "coming-out", "date": "1996-06-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/65aph5CkAFVEJjWyydJ0daIRHB6.jpg", "actors": ["Markus Oeffinger (Andreas H\u00fcbner)"], "comments": [], "recommandations_id": []}

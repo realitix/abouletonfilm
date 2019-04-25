@@ -1,1 +1,0 @@
-{"tmdb_id": 379921, "title": "Of und der Mond", "original_title": "Of und der Mond", "slug_title": "of-und-der-mond", "date": "1956-03-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry W\u00fcstenhagen (Of)", "K\u00e4the Haack ()", "Ernst Jacobi ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 546390, "title": "The White Arrow", "original_title": "The White Arrow", "slug_title": "the-white-arrow", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Kroft (Himself)"], "comments": [], "recommandations_id": []}

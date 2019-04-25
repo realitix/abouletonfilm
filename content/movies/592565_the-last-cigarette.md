@@ -1,1 +1,0 @@
-{"tmdb_id": 592565, "title": "The Last Cigarette", "original_title": "The Last Cigarette", "slug_title": "the-last-cigarette", "date": "1999-12-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

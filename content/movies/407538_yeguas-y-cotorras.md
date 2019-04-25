@@ -1,1 +1,0 @@
-{"tmdb_id": 407538, "title": "Yeguas y cotorras", "original_title": "Yeguas y cotorras", "slug_title": "yeguas-y-cotorras", "date": "2012-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bf6tAVWfpYADeb86o2GSdCbNWjD.jpg", "actors": [], "comments": [], "recommandations_id": []}

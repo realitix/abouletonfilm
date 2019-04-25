@@ -1,1 +1,0 @@
-{"tmdb_id": 334951, "title": "Mickey Cucchiella: Short Stories", "original_title": "Mickey Cucchiella: Short Stories", "slug_title": "mickey-cucchiella-short-stories", "date": "2015-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 565472, "title": "Translatina", "original_title": "Translatina", "slug_title": "translatina", "date": "2010-07-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yxz2wgKL56QLfGHYCcoVw8ox8lS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 531496, "title": "Man Under Water", "original_title": "\u010clov\u011bk pod vodou", "slug_title": "man-under-water", "date": "1961-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

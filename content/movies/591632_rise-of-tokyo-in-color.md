@@ -1,1 +1,0 @@
-{"tmdb_id": 591632, "title": "Rise of Tokyo in Color", "original_title": "Rise of Tokyo in Color", "slug_title": "rise-of-tokyo-in-color", "date": "2018-06-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

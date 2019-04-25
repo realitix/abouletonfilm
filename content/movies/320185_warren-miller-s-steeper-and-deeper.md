@@ -1,1 +1,0 @@
-{"tmdb_id": 320185, "title": "Warren Miller's Steeper and Deeper", "original_title": "Warren Miller's Steeper and Deeper", "slug_title": "warren-miller-s-steeper-and-deeper", "date": "2015-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

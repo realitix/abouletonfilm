@@ -1,1 +1,0 @@
-{"tmdb_id": 212097, "title": "Cotillion", "original_title": "Cotillion", "slug_title": "cotillion", "date": "1938-12-31", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/atz6Jk7NxbW5DCx4qp2pVF1QoMf.jpg", "actors": [], "comments": [], "recommandations_id": [163102, 154818, 147199, 147721]}

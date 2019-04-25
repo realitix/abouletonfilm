@@ -1,1 +1,0 @@
-{"tmdb_id": 481693, "title": "Islenos, a Root of America", "original_title": "Islenos, a Root of America", "slug_title": "islenos-a-root-of-america", "date": "2017-10-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jr Rodriguez (Self)"], "comments": [], "recommandations_id": []}

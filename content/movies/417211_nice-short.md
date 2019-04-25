@@ -1,1 +1,0 @@
-{"tmdb_id": 417211, "title": "Nice Short", "original_title": "Nice Short", "slug_title": "nice-short", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

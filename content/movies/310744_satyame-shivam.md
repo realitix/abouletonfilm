@@ -1,1 +1,0 @@
-{"tmdb_id": 310744, "title": "Satyame Shivam", "original_title": "Satyame Shivam", "slug_title": "satyame-shivam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

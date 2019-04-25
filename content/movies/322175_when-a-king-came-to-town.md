@@ -1,1 +1,0 @@
-{"tmdb_id": 322175, "title": "When a King Came to Town", "original_title": "When a King Came to Town", "slug_title": "when-a-king-came-to-town", "date": "2010-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

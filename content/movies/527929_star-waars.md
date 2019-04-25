@@ -1,1 +1,0 @@
-{"tmdb_id": 527929, "title": "Star Waars!", "original_title": "\u30b9\u30bf\u30fc\u30a6\u30a9\u30fc\u30ba", "slug_title": "star-waars", "date": "1978-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5eyFnJWGManv3BZE9pE6GbneCMj.jpg", "actors": [], "comments": [], "recommandations_id": []}

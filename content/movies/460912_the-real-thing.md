@@ -1,1 +1,0 @@
-{"tmdb_id": 460912, "title": "The Real Thing", "original_title": "The Real Thing", "slug_title": "the-real-thing", "date": "2017-06-29", "genre": "Horreur / Drame / Fantastique / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6O6kLyZxusnWxAPULXIfiIdVXDm.jpg", "actors": [], "comments": [], "recommandations_id": []}

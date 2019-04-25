@@ -1,1 +1,0 @@
-{"tmdb_id": 532380, "title": "Urda/Bone", "original_title": "Urda/Bone", "slug_title": "urda-bone", "date": "2003-09-25", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/metAdRvSRwAiNxbgvIxANsQDBFo.jpg", "actors": ["Ingrid Veninger ()", "Charles Officer ()"], "comments": [], "recommandations_id": []}

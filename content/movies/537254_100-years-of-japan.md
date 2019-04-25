@@ -1,1 +1,0 @@
-{"tmdb_id": 537254, "title": "100 Years of Japan", "original_title": "\u65e5\u672c\u767e\u5e74", "slug_title": "100-years-of-japan", "date": "1974-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dsDMwntAeq8YaiAVSclrtPYWAjw.jpg", "actors": [], "comments": [], "recommandations_id": []}

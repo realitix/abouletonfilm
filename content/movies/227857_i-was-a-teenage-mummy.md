@@ -1,1 +1,0 @@
-{"tmdb_id": 227857, "title": "I Was a Teenage Mummy", "original_title": "I Was a Teenage Mummy", "slug_title": "i-was-a-teenage-mummy", "date": "1962-07-15", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tMAFNGMWa8B67Lfo1HWSIzpVJqR.jpg", "actors": [], "comments": [], "recommandations_id": []}

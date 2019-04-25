@@ -1,1 +1,0 @@
-{"tmdb_id": 415648, "title": "Sweet Lavender", "original_title": "Sweet Lavender", "slug_title": "sweet-lavender", "date": "1915-10-01", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

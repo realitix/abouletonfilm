@@ -1,1 +1,0 @@
-{"tmdb_id": 321077, "title": "Loving Care", "original_title": "Loving Care", "slug_title": "loving-care", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Janine Antoni ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 534422, "title": "Sharp Edges", "original_title": "Sharp Edges", "slug_title": "sharp-edges", "date": "1986-12-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iYQu8MzXvbhsRaUeEMmthEX62UX.jpg", "actors": ["Tonya Harding (Herself)"], "comments": [], "recommandations_id": []}

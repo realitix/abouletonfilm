@@ -1,1 +1,0 @@
-{"tmdb_id": 384810, "title": "Tomar el escenario", "original_title": "Tomar el escenario", "slug_title": "tomar-el-escenario", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bKc5mcNsNzsvAWN5FdlznF0HvWE.jpg", "actors": [], "comments": [], "recommandations_id": []}

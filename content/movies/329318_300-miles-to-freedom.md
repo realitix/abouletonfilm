@@ -1,1 +1,0 @@
-{"tmdb_id": 329318, "title": "300 Miles to Freedom", "original_title": "300 Miles to Freedom", "slug_title": "300-miles-to-freedom", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

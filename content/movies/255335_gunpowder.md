@@ -1,1 +1,0 @@
-{"tmdb_id": 255335, "title": "Gunpowder", "original_title": "Gunpowder", "slug_title": "gunpowder", "date": "1986-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3wlgo3zCPn38Gl6opSdrc7coh6Q.jpg", "actors": ["Debra Burton ()", "Anthony Crewe ()"], "comments": [], "recommandations_id": []}

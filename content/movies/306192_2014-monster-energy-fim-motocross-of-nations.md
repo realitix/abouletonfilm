@@ -1,1 +1,0 @@
-{"tmdb_id": 306192, "title": "2014 Monster Energy FIM Motocross of Nations", "original_title": "2014 Monster Energy FIM Motocross of Nations", "slug_title": "2014-monster-energy-fim-motocross-of-nations", "date": "2014-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

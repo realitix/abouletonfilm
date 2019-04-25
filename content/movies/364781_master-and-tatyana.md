@@ -1,1 +1,0 @@
-{"tmdb_id": 364781, "title": "Master and Tatyana", "original_title": "Meistras Ir Tatjana", "slug_title": "master-and-tatyana", "date": "2015-10-16", "genre": "Documentaire / Drame", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cZAb1Tr8AHDjQ4L0e8hQChyoHEo.jpg", "actors": [], "comments": [], "recommandations_id": []}

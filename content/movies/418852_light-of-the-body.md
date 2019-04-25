@@ -1,1 +1,0 @@
-{"tmdb_id": 418852, "title": "Light of the Body", "original_title": "Light of the Body", "slug_title": "light-of-the-body", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p1Mrt3opDEBOGHZAcObmsfz745k.jpg", "actors": [], "comments": [], "recommandations_id": []}

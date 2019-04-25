@@ -1,1 +1,0 @@
-{"tmdb_id": 594388, "title": "Bud's Songs Time", "original_title": "Bud's Songs Time", "slug_title": "bud-s-songs-time", "date": "2012-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7B33Acs9ZqbcBmhRR06b71eU05B.jpg", "actors": ["Mauro Castro ()"], "comments": [], "recommandations_id": []}

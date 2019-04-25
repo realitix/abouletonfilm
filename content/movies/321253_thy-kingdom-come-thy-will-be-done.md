@@ -1,1 +1,0 @@
-{"tmdb_id": 321253, "title": "Thy Kingdom Come ... Thy Will Be Done", "original_title": "Thy Kingdom Come ... Thy Will Be Done", "slug_title": "thy-kingdom-come-thy-will-be-done", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

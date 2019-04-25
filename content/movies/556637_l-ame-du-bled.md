@@ -1,1 +1,0 @@
-{"tmdb_id": 556637, "title": "L'\u00e2me du bled", "original_title": "L'\u00e2me du bled", "slug_title": "l-ame-du-bled", "date": "1929-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

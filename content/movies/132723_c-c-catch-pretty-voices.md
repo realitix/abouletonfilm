@@ -1,1 +1,0 @@
-{"tmdb_id": 132723, "title": "C.C.Catch - Pretty Voices", "original_title": "C.C.Catch - Pretty Voices", "slug_title": "c-c-catch-pretty-voices", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Jev8fg4rxMtz2VfNR3TXWtUJe.jpg", "actors": [], "comments": [], "recommandations_id": []}

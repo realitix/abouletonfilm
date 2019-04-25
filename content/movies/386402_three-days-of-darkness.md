@@ -1,1 +1,0 @@
-{"tmdb_id": 386402, "title": "Three Days of Darkness", "original_title": "Three Days of Darkness", "slug_title": "three-days-of-darkness", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

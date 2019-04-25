@@ -1,1 +1,0 @@
-{"tmdb_id": 379130, "title": "Full Disclosure", "original_title": "Full Disclosure", "slug_title": "full-disclosure", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

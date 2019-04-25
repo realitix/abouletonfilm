@@ -1,1 +1,0 @@
-{"tmdb_id": 418789, "title": "Of The Sea", "original_title": "Of The Sea", "slug_title": "of-the-sea", "date": "2016-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z3337f25b6Gzo1pSty1BnpzoaBU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 345084, "title": "Behind the Plain", "original_title": "Dietro la Pianura", "slug_title": "behind-the-plain", "date": "1994-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

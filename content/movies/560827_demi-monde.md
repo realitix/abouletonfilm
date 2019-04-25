@@ -1,1 +1,0 @@
-{"tmdb_id": 560827, "title": "Demi Monde", "original_title": "Demi Monde", "slug_title": "demi-monde", "date": "2013-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

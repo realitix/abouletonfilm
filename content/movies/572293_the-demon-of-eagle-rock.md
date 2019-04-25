@@ -1,1 +1,0 @@
-{"tmdb_id": 572293, "title": "The Demon of Eagle Rock", "original_title": "The Demon of Eagle Rock", "slug_title": "the-demon-of-eagle-rock", "date": "2018-08-07", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fU7TaIpFjd2I18UOe9T9HZNxsth.jpg", "actors": [], "comments": [], "recommandations_id": []}

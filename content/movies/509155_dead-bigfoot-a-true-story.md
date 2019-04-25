@@ -1,1 +1,0 @@
-{"tmdb_id": 509155, "title": "Dead Bigfoot: A True Story", "original_title": "Dead Bigfoot: A True Story", "slug_title": "dead-bigfoot-a-true-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

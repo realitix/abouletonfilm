@@ -1,1 +1,0 @@
-{"tmdb_id": 466439, "title": "O Pr\u00f3logo", "original_title": "O Pr\u00f3logo", "slug_title": "o-prologo", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u2r0L2mvZGgjpFvmgndtkxnu26j.jpg", "actors": ["Guilherme Preto ()"], "comments": [], "recommandations_id": []}

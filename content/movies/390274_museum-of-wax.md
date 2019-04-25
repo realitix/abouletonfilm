@@ -1,1 +1,0 @@
-{"tmdb_id": 390274, "title": "Museum of Wax", "original_title": "Museum of Wax", "slug_title": "museum-of-wax", "date": "1987-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/83xh9m4HbEmv8cQnUXw7IYtxkK5.jpg", "actors": [], "comments": [], "recommandations_id": []}

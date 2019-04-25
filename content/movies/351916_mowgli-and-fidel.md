@@ -1,1 +1,0 @@
-{"tmdb_id": 351916, "title": "Mowgli and Fidel", "original_title": "Mowgli en Fidel", "slug_title": "mowgli-and-fidel", "date": "2010-09-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lcD0E8upDrVwLtwvpBrCWCxiYDl.jpg", "actors": ["Robert de Hoog ()", "Teun Kuilboer ()"], "comments": [], "recommandations_id": []}

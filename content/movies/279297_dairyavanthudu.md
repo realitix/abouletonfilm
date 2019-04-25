@@ -1,1 +1,0 @@
-{"tmdb_id": 279297, "title": "Dairyavanthudu", "original_title": "Dairyavanthudu", "slug_title": "dairyavanthudu", "date": "1986-11-26", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chiranjeevi ()", "Vijayashanti ()"], "comments": [], "recommandations_id": []}

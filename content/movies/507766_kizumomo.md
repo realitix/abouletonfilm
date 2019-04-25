@@ -1,1 +1,0 @@
-{"tmdb_id": 507766, "title": "Kizumomo.", "original_title": "Kizumomo.", "slug_title": "kizumomo", "date": "2008-09-06", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qSjGOrs8TNWXPw1MGdIPoKKONJQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

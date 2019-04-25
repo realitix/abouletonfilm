@@ -1,1 +1,0 @@
-{"tmdb_id": 441394, "title": "Mods, Rockers and Bank Holiday Mayhem", "original_title": "Mods, Rockers and Bank Holiday Mayhem", "slug_title": "mods-rockers-and-bank-holiday-mayhem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

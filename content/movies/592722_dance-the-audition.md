@@ -1,1 +1,0 @@
-{"tmdb_id": 592722, "title": "Dance, The Audition", "original_title": "Dance, The Audition", "slug_title": "dance-the-audition", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4JxgLWjpYFmtaEEnICaUKk8ZHOp.jpg", "actors": [], "comments": [], "recommandations_id": []}

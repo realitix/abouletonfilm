@@ -1,1 +1,0 @@
-{"tmdb_id": 355118, "title": "Oil's Well That Ends Well", "original_title": "Oil's Well That Ends Well", "slug_title": "oil-s-well-that-ends-well", "date": "1949-08-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leon Errol (Leon Errol)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 396012, "title": "Un mill\u00f3n de hostias", "original_title": "Un mill\u00f3n de hostias", "slug_title": "un-millon-de-hostias", "date": "2016-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wZi5YsiaW3S1tEB4IAMjawt6aBc.jpg", "actors": [], "comments": [], "recommandations_id": []}

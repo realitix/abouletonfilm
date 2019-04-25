@@ -1,1 +1,0 @@
-{"tmdb_id": 69212, "title": "Yodok Stories", "original_title": "Yodok Stories", "slug_title": "yodok-stories", "date": "2008-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/amQweUjtyx6fPYvG5h0uyYo2NPb.jpg", "actors": [], "comments": [], "recommandations_id": []}

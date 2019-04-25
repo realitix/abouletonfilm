@@ -1,1 +1,0 @@
-{"tmdb_id": 595080, "title": "Rebobinando", "original_title": "Rebobinando", "slug_title": "rebobinando", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mwNafzadNA4pTuMkGO2mIz8PQj7.jpg", "actors": [], "comments": [], "recommandations_id": []}

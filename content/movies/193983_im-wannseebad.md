@@ -1,1 +1,0 @@
-{"tmdb_id": 193983, "title": "Im Wannseebad.", "original_title": "Im Wannseebad.", "slug_title": "im-wannseebad", "date": "1910-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

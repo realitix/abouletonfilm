@@ -1,1 +1,0 @@
-{"tmdb_id": 558160, "title": "Suddenly the Light", "original_title": "Suddenly the Light", "slug_title": "suddenly-the-light", "date": "1979-10-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7pduUHc4MBKZ2wWB3kZkskWwOHL.jpg", "actors": ["Beverly Oliver (Beverly Oliver)"], "comments": [], "recommandations_id": []}

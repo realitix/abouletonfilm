@@ -1,1 +1,0 @@
-{"tmdb_id": 271519, "title": "B-17 Flying Legend", "original_title": "B-17 Flying Legend", "slug_title": "b-17-flying-legend", "date": "2007-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wnO7SnSPp8YOYYreB1Op8qVvvOQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 265987, "title": "Waterville", "original_title": "Waterville", "slug_title": "waterville", "date": "2003-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

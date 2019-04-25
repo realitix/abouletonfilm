@@ -1,1 +1,0 @@
-{"tmdb_id": 282583, "title": "Belli Modagalu", "original_title": "Belli Modagalu", "slug_title": "belli-modagalu", "date": "1992-08-12", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramesh Aravind ()", "Malashri ()", "Doddanna ()", "Avinash ()", "Jayanthi ()", "Ramakrishna ()"], "comments": [], "recommandations_id": []}

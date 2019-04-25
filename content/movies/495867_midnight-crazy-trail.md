@@ -1,1 +1,0 @@
-{"tmdb_id": 495867, "title": "Midnight Crazy Trail", "original_title": "Midnight Crazy Trail", "slug_title": "midnight-crazy-trail", "date": "2018-03-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pHvPAk9F0Vv6ym1exaYa5pwSjyA.jpg", "actors": [], "comments": [], "recommandations_id": []}

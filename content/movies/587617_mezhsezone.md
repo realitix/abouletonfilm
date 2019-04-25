@@ -1,1 +1,0 @@
-{"tmdb_id": 587617, "title": "\u041c\u0435\u0436\u0441\u0435\u0437\u043e\u043d\u044c\u0435", "original_title": "\u041c\u0435\u0436\u0441\u0435\u0437\u043e\u043d\u044c\u0435", "slug_title": "mezhsezone", "date": "", "genre": "Crime / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

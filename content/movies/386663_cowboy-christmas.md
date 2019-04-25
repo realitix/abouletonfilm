@@ -1,1 +1,0 @@
-{"tmdb_id": 386663, "title": "Cowboy Christmas", "original_title": "Cowboy Christmas", "slug_title": "cowboy-christmas", "date": "2014-11-08", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1vOAGaR7EFxNXORzD40XKkAsegz.jpg", "actors": [], "comments": [], "recommandations_id": []}

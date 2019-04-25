@@ -1,1 +1,0 @@
-{"tmdb_id": 362972, "title": "What Is Royal Trux?", "original_title": "What Is Royal Trux?", "slug_title": "what-is-royal-trux", "date": "1990-06-04", "genre": "Musique / Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m99VAbGMwyMcmJCcKYz7layl5qd.jpg", "actors": [], "comments": [], "recommandations_id": []}

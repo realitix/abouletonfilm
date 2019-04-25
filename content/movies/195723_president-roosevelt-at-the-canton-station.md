@@ -1,1 +1,0 @@
-{"tmdb_id": 195723, "title": "President Roosevelt at the Canton Station", "original_title": "President Roosevelt at the Canton Station", "slug_title": "president-roosevelt-at-the-canton-station", "date": "1901-10-21", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

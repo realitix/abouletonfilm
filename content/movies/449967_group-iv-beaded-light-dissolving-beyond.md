@@ -1,1 +1,0 @@
-{"tmdb_id": 449967, "title": "Group IV: Beaded Light/Dissolving/Beyond", "original_title": "Group IV: Beaded Light/Dissolving/Beyond", "slug_title": "group-iv-beaded-light-dissolving-beyond", "date": "1970-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

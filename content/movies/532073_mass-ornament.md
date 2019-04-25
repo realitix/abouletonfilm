@@ -1,1 +1,0 @@
-{"tmdb_id": 532073, "title": "Mass Ornament", "original_title": "Mass Ornament", "slug_title": "mass-ornament", "date": "2009-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yfAnK8xzqSeHnCPTk8eUEr2wMhH.jpg", "actors": [], "comments": [], "recommandations_id": []}

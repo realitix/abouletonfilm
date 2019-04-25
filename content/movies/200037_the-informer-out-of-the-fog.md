@@ -1,1 +1,0 @@
-{"tmdb_id": 200037, "title": "The Informer: Out of the Fog", "original_title": "The Informer: Out of the Fog", "slug_title": "the-informer-out-of-the-fog", "date": "2006-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

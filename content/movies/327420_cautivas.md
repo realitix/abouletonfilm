@@ -1,1 +1,0 @@
-{"tmdb_id": 327420, "title": "Cautivas", "original_title": "Cautivas", "slug_title": "cautivas", "date": "2011-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

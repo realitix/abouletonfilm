@@ -1,1 +1,0 @@
-{"tmdb_id": 467942, "title": "Always on Sunday", "original_title": "Always on Sunday", "slug_title": "always-on-sunday", "date": "1962-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

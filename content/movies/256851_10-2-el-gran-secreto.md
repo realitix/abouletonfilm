@@ -1,1 +1,0 @@
-{"tmdb_id": 256851, "title": "10+2: el gran secreto", "original_title": "10+2: el gran secreto", "slug_title": "10-2-el-gran-secreto", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dxBPHrXDaczCM0Qmb8UqWh1qcZI.jpg", "actors": [], "comments": [], "recommandations_id": []}

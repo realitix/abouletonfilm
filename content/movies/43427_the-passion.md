@@ -1,1 +1,0 @@
-{"tmdb_id": 43427, "title": "The Passion", "original_title": "The Passion", "slug_title": "the-passion", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

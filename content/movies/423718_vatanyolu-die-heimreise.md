@@ -1,1 +1,0 @@
-{"tmdb_id": 423718, "title": "Vatanyolu \u2013 Die Heimreise", "original_title": "Vatanyolu \u2013 Die Heimreise", "slug_title": "vatanyolu-die-heimreise", "date": "1989-05-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jale Arikan (Selvi)", "Hans W. Hamacher (Herr Stolze)"], "comments": [], "recommandations_id": []}

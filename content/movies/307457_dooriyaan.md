@@ -1,1 +1,0 @@
-{"tmdb_id": 307457, "title": "Dooriyaan", "original_title": "Dooriyaan", "slug_title": "dooriyaan", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

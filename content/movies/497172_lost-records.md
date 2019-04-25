@@ -1,1 +1,0 @@
-{"tmdb_id": 497172, "title": "Lost Records", "original_title": "Lost Records", "slug_title": "lost-records", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9vwM74i7pMFoViIKZWxqGEzeyin.jpg", "actors": ["Nuno Costa Santos (Nuno)"], "comments": [], "recommandations_id": []}

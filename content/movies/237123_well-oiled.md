@@ -1,1 +1,0 @@
-{"tmdb_id": 237123, "title": "Well Oiled", "original_title": "Well Oiled", "slug_title": "well-oiled", "date": "1947-06-29", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3hlsbIUy30djBYvu0lMP5dXuzRQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

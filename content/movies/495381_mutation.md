@@ -1,1 +1,0 @@
-{"tmdb_id": 495381, "title": "Mutation", "original_title": "Mutatio", "slug_title": "mutation", "date": "2011-03-01", "genre": "Animation / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lzOp5lgIx41UsD9YUBH1kdjHXFk.jpg", "actors": [], "comments": [], "recommandations_id": []}

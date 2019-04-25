@@ -1,1 +1,0 @@
-{"tmdb_id": 234061, "title": "Rosas de Oto\u00f1o", "original_title": "Rosas de Oto\u00f1o", "slug_title": "rosas-de-otono", "date": "1930-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carlos Gardel ()"], "comments": [], "recommandations_id": []}

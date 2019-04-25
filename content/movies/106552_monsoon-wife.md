@@ -1,1 +1,0 @@
-{"tmdb_id": 106552, "title": "Monsoon Wife", "original_title": "Monsoon Wife", "slug_title": "monsoon-wife", "date": "", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/30d4g5qXLXPP6y76dIp6j2JHlGZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

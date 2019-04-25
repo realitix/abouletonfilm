@@ -1,1 +1,0 @@
-{"tmdb_id": 516976, "title": "The Lever and the River", "original_title": "Le bras de levier et la rivi\u00e8re", "slug_title": "the-lever-and-the-river", "date": "1973-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

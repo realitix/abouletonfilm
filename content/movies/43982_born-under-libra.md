@@ -1,1 +1,0 @@
-{"tmdb_id": 43982, "title": "Born Under Libra", "original_title": "Motevalede mahe mehr", "slug_title": "born-under-libra", "date": "2001-01-01", "genre": "Drame", "score": "8.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

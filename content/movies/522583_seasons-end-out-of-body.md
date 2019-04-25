@@ -1,1 +1,0 @@
-{"tmdb_id": 522583, "title": "Seasons End: Out of Body", "original_title": "Seasons End: Out of Body", "slug_title": "seasons-end-out-of-body", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

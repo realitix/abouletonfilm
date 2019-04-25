@@ -1,1 +1,0 @@
-{"tmdb_id": 504784, "title": "Entre los Barras Bravas", "original_title": "Entre los Barras Bravas", "slug_title": "entre-los-barras-bravas", "date": "2011-02-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mVXsCcGq86HHA37SDoVNpMhOGRE.jpg", "actors": [], "comments": [], "recommandations_id": []}

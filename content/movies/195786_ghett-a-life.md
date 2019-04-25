@@ -1,1 +1,0 @@
-{"tmdb_id": 195786, "title": "Ghett'a Life", "original_title": "Ghett'a Life", "slug_title": "ghett-a-life", "date": "2011-12-02", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qLDjmmhZJlTwiNKtwCYU4gSreVo.jpg", "actors": ["winston bell (Manuel)", "kevoy burton (Derrick)"], "comments": [], "recommandations_id": []}

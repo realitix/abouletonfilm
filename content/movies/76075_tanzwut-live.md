@@ -1,1 +1,0 @@
-{"tmdb_id": 76075, "title": "Tanzwut - Live", "original_title": "Tanzwut - Live", "slug_title": "tanzwut-live", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3kdqOjaHwx1NgmWfikHtnol8fYK.jpg", "actors": [], "comments": [], "recommandations_id": []}

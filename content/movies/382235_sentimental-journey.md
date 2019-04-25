@@ -1,1 +1,0 @@
-{"tmdb_id": 382235, "title": "Sentimental Journey", "original_title": "Sentimental Journey", "slug_title": "sentimental-journey", "date": "2003-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jIEwiDhKH1Gj0oHLZbtmBU8j0yU.jpg", "actors": [], "comments": [], "recommandations_id": []}

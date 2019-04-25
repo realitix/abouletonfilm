@@ -1,1 +1,0 @@
-{"tmdb_id": 410495, "title": "Fighters", "original_title": "Luchadoras", "slug_title": "fighters", "date": "2009-09-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4mGaZxxxhvFLAF6GtgUhxX0jdfU.jpg", "actors": [], "comments": [], "recommandations_id": []}

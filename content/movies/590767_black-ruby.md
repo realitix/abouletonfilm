@@ -1,1 +1,0 @@
-{"tmdb_id": 590767, "title": "Black Ruby", "original_title": "Black Ruby", "slug_title": "black-ruby", "date": "2019-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wIQ80wQAvoSDe1HWN2ibiWtyvqF.jpg", "actors": [], "comments": [], "recommandations_id": []}

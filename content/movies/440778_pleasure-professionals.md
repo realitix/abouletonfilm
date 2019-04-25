@@ -1,1 +1,0 @@
-{"tmdb_id": 440778, "title": "Pleasure Professionals", "original_title": "Pleasure Professionals", "slug_title": "pleasure-professionals", "date": "2013-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8QbYenIEtxfjZtiyLz7B9kpO7wY.jpg", "actors": [], "comments": [], "recommandations_id": []}

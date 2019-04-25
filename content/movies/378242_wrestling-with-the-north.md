@@ -1,1 +1,0 @@
-{"tmdb_id": 378242, "title": "Wrestling with the North", "original_title": "Wrestling with the North", "slug_title": "wrestling-with-the-north", "date": "2004-03-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andrew Lee (Narrator)"], "comments": [], "recommandations_id": []}

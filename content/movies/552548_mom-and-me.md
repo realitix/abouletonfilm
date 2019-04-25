@@ -1,1 +1,0 @@
-{"tmdb_id": 552548, "title": "Mom and Me", "original_title": "Mom and Me", "slug_title": "mom-and-me", "date": "2015-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

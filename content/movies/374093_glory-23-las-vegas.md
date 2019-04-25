@@ -1,1 +1,0 @@
-{"tmdb_id": 374093, "title": "Glory 23: Las Vegas", "original_title": "Glory 23: Las Vegas", "slug_title": "glory-23-las-vegas", "date": "2015-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nieky Holzken ()", "Raymond Daniels ()", "Dustin Jacoby ()", "Casey Greene ()"], "comments": [], "recommandations_id": []}

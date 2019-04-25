@@ -1,1 +1,0 @@
-{"tmdb_id": 570997, "title": "Circuit Carole", "original_title": "Circuit Carole", "slug_title": "circuit-carole", "date": "1995-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9m3mrbnosbwJVlfMwbOji6wOtOO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 160336, "title": "Buongiorno", "original_title": "Buongiorno", "slug_title": "buongiorno", "date": "2006-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

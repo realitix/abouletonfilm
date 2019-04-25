@@ -1,1 +1,0 @@
-{"tmdb_id": 494226, "title": "Merry Xmas", "original_title": "Merry Xmas", "slug_title": "merry-xmas", "date": "2015-04-19", "genre": "Familial / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hZygd8ivbKo4yZPBuT63OFNQxcB.jpg", "actors": [], "comments": [], "recommandations_id": []}

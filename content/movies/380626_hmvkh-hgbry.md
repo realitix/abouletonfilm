@@ -1,1 +1,0 @@
-{"tmdb_id": 380626, "title": "\u05d4\u05de\u05d5\u05d7 \u05d4\u05d2\u05d1\u05e8\u05d9", "original_title": "\u05d4\u05de\u05d5\u05d7 \u05d4\u05d2\u05d1\u05e8\u05d9", "slug_title": "hmvkh-hgbry", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

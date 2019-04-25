@@ -1,1 +1,0 @@
-{"tmdb_id": 472824, "title": "The Ship Angelica", "original_title": "Kashtee-ye Angelica", "slug_title": "the-ship-angelica", "date": "1989-01-01", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/foQifaJQIwmqozXuhAU07pshhFV.jpg", "actors": [], "comments": [], "recommandations_id": []}

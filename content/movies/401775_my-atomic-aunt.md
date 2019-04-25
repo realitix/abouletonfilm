@@ -1,1 +1,0 @@
-{"tmdb_id": 401775, "title": "My Atomic Aunt", "original_title": "My Atomic Aunt", "slug_title": "my-atomic-aunt", "date": "2013-03-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cz540fohLbBAvJmN1t21PM4RDgn.jpg", "actors": [], "comments": [], "recommandations_id": []}

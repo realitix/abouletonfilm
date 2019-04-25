@@ -1,1 +1,0 @@
-{"tmdb_id": 385618, "title": "Little Egypt", "original_title": "Little Egypt", "slug_title": "little-egypt", "date": "1896-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

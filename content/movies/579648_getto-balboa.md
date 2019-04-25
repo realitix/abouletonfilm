@@ -1,1 +1,0 @@
-{"tmdb_id": 579648, "title": "Gett\u00f3 Balboa", "original_title": "Gett\u00f3 Balboa", "slug_title": "getto-balboa", "date": "2018-08-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

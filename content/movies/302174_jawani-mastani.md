@@ -1,1 +1,0 @@
-{"tmdb_id": 302174, "title": "Jawani Mastani", "original_title": "Jawani Mastani", "slug_title": "jawani-mastani", "date": "1972-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

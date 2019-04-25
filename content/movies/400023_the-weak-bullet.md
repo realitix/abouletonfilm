@@ -1,1 +1,0 @@
-{"tmdb_id": 400023, "title": "The Weak Bullet", "original_title": "The Weak Bullet", "slug_title": "the-weak-bullet", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ie2yl19NsibOUAU34PRbBgz1dsi.jpg", "actors": [], "comments": [], "recommandations_id": []}

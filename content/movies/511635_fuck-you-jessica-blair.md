@@ -1,1 +1,0 @@
-{"tmdb_id": 511635, "title": "Fuck You Jessica Blair", "original_title": "Fuck You Jessica Blair", "slug_title": "fuck-you-jessica-blair", "date": "2017-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/skuzFfchWY7ligUsoypQt3pG6yD.jpg", "actors": [], "comments": [], "recommandations_id": []}

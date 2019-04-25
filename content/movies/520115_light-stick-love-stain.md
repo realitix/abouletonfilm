@@ -1,1 +1,0 @@
-{"tmdb_id": 520115, "title": "Light Stick, Love Stain", "original_title": "Light Stick, Love Stain", "slug_title": "light-stick-love-stain", "date": "2018-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

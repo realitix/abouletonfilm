@@ -1,1 +1,0 @@
-{"tmdb_id": 237313, "title": "The Big Flame Up", "original_title": "The Big Flame Up", "slug_title": "the-big-flame-up", "date": "1949-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f9YoYJ3SobOcUiS2cwt88R7adQJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 586999, "title": "Spider-Man: At Rent's End", "original_title": "Spider-Man: At Rent's End", "slug_title": "spider-man-at-rent-s-end", "date": "2019-02-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xP8LdEeBH9IxaOp6STXMtRuDVGZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

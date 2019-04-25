@@ -1,1 +1,0 @@
-{"tmdb_id": 460861, "title": "Untitled Phantom of the Opera Film", "original_title": "Untitled Phantom of the Opera Film", "slug_title": "untitled-phantom-of-the-opera-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 382632, "title": "The Broker's Athletic Typewriter", "original_title": "The Broker's Athletic Typewriter", "slug_title": "the-broker-s-athletic-typewriter", "date": "1905-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

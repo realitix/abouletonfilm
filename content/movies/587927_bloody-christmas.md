@@ -1,1 +1,0 @@
-{"tmdb_id": 587927, "title": "Bloody Christmas", "original_title": "Bloody Christmas", "slug_title": "bloody-christmas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Steve Montague (Santa)"], "comments": [], "recommandations_id": []}

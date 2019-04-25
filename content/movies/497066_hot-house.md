@@ -1,1 +1,0 @@
-{"tmdb_id": 497066, "title": "Hot House", "original_title": "Hot House", "slug_title": "hot-house", "date": "1977-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3wtecv7TBPlGSzII9TV2FX8rThJ.jpg", "actors": ["Jack Wrangler (Larry)", "Roger (Carl)"], "comments": [], "recommandations_id": []}

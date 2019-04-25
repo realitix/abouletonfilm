@@ -1,1 +1,0 @@
-{"tmdb_id": 532298, "title": "The Madman", "original_title": "Le fou", "slug_title": "the-madman", "date": "1970-10-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2g4yi11zreiaDJa32keJaUmNxfr.jpg", "actors": ["Fran\u00e7ois Simon (George Plond)"], "comments": [], "recommandations_id": []}

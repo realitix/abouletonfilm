@@ -1,1 +1,0 @@
-{"tmdb_id": 346396, "title": "Det r\u00f8de eplet", "original_title": "Det r\u00f8de eplet", "slug_title": "det-rode-eplet", "date": "2013-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t4KxYCjySDXvinLMQan0L2lDJbY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 565177, "title": "Call of Duty", "original_title": "Call of Duty", "slug_title": "call-of-duty", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Adaptation cin\u00e9matographique des jeux Call of Duty", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

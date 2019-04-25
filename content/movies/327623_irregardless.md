@@ -1,1 +1,0 @@
-{"tmdb_id": 327623, "title": "Irregardless", "original_title": "Irregardless", "slug_title": "irregardless", "date": "2014-02-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tRFwEsyi1h3Idu1ooVhMlCMgTOP.jpg", "actors": ["Chad Rook (Zane)", "Ken Lawson (Walter)"], "comments": [], "recommandations_id": []}

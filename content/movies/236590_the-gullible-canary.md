@@ -1,1 +1,0 @@
-{"tmdb_id": 236590, "title": "The Gullible Canary", "original_title": "The Gullible Canary", "slug_title": "the-gullible-canary", "date": "1942-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

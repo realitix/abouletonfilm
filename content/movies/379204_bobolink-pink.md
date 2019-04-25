@@ -1,1 +1,0 @@
-{"tmdb_id": 379204, "title": "Bobolink Pink", "original_title": "Bobolink Pink", "slug_title": "bobolink-pink", "date": "1975-12-30", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7FW3BZ0kj6QTcyil7ChKeoA9wNl.jpg", "actors": [], "comments": [], "recommandations_id": []}

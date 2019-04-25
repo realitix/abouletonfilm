@@ -1,1 +1,0 @@
-{"tmdb_id": 411278, "title": "Passfire", "original_title": "Passfire", "slug_title": "passfire", "date": "2016-08-08", "genre": "Documentaire / Histoire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vgZ9qh2ciZryvJ0KAXqngH6L2YD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 201160, "title": "We Did It", "original_title": "We Did It", "slug_title": "we-did-it", "date": "1936-04-24", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rLFTQVqXO4JMNdHepCQmukI65vz.jpg", "actors": [], "comments": [], "recommandations_id": []}

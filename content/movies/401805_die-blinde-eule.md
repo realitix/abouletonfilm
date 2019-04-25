@@ -1,1 +1,0 @@
-{"tmdb_id": 401805, "title": "Die blinde Eule", "original_title": "Die blinde Eule", "slug_title": "die-blinde-eule", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

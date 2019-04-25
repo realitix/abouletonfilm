@@ -1,1 +1,0 @@
-{"tmdb_id": 564674, "title": "Zimbo Ka Beta", "original_title": "Zimbo Ka Beta", "slug_title": "zimbo-ka-beta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

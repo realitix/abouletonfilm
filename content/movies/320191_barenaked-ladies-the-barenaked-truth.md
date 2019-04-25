@@ -1,1 +1,0 @@
-{"tmdb_id": 320191, "title": "Barenaked Ladies: The Barenaked Truth", "original_title": "Barenaked Ladies: The Barenaked Truth", "slug_title": "barenaked-ladies-the-barenaked-truth", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

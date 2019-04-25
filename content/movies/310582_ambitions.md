@@ -1,1 +1,0 @@
-{"tmdb_id": 310582, "title": "Ambitions", "original_title": "Ambitions", "slug_title": "ambitions", "date": "2014-12-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mHthBtrLZCDtdFi69IFdrVIuqV9.jpg", "actors": [], "comments": [], "recommandations_id": []}

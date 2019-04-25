@@ -1,1 +1,0 @@
-{"tmdb_id": 574230, "title": "YouShoot: HTM2", "original_title": "YouShoot: HTM2", "slug_title": "youshoot-htm2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "The Honky Tonk Man (Himself)"], "comments": [], "recommandations_id": []}

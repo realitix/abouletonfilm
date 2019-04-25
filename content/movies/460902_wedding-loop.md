@@ -1,1 +1,0 @@
-{"tmdb_id": 460902, "title": "Wedding Loop", "original_title": "Wedding Loop", "slug_title": "wedding-loop", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

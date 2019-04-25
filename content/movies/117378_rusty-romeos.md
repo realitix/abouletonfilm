@@ -1,1 +1,0 @@
-{"tmdb_id": 117378, "title": "Rusty Romeos", "original_title": "Rusty Romeos", "slug_title": "rusty-romeos", "date": "1957-10-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Fine (Larry)", "Joe Besser (Joe)"], "comments": [], "recommandations_id": []}

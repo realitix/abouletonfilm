@@ -1,1 +1,0 @@
-{"tmdb_id": 559336, "title": "Allan Harmon", "original_title": "Allan Harmon", "slug_title": "allan-harmon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

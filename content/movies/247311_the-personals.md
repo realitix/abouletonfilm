@@ -1,1 +1,0 @@
-{"tmdb_id": 247311, "title": "The Personals", "original_title": "The Personals", "slug_title": "the-personals", "date": "1982-10-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wGYPvGVHsrTkYMTgD2lRaCBVhTx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 388725, "title": "9 Days: From My Window in Aleppo", "original_title": "9 Days: From My Window in Aleppo", "slug_title": "9-days-from-my-window-in-aleppo", "date": "2016-01-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

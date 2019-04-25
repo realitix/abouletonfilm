@@ -1,1 +1,0 @@
-{"tmdb_id": 187548, "title": "Hua yang de nian hua", "original_title": "Hua yang de nian hua", "slug_title": "hua-yang-de-nian-hua", "date": "2001-02-12", "genre": "", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4a9Sn2HdOWYvO3Kv4soXLDoGqnq.jpg", "actors": [], "comments": [], "recommandations_id": []}

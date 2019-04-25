@@ -1,1 +1,0 @@
-{"tmdb_id": 592751, "title": "Industrial zone", "original_title": "Zone industrielle", "slug_title": "industrial-zone", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xqVgjtr7aM0QYglnhH5KPCAIF0e.jpg", "actors": [], "comments": [], "recommandations_id": []}

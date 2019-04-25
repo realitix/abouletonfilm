@@ -1,1 +1,0 @@
-{"tmdb_id": 527430, "title": "Outra Memoria", "original_title": "Outra Memoria", "slug_title": "outra-memoria", "date": "2006-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2A44Qig8aXcAy8XXKh8UyhfNQpL.jpg", "actors": [], "comments": [], "recommandations_id": []}

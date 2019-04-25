@@ -1,1 +1,0 @@
-{"tmdb_id": 517287, "title": "Waiting for Waldemar", "original_title": "Waiting for Waldemar", "slug_title": "waiting-for-waldemar", "date": "2017-04-23", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6GJERPL1yiJVOjXQQx7HJTW9yNq.jpg", "actors": [], "comments": [], "recommandations_id": []}

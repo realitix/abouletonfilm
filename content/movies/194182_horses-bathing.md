@@ -1,1 +1,0 @@
-{"tmdb_id": 194182, "title": "Horses Bathing", "original_title": "Baignade de Chevaux", "slug_title": "horses-bathing", "date": "1896-05-17", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lLKpcfl8jPwS1uy9Ai8IVNWmzkR.jpg", "actors": [], "comments": [], "recommandations_id": []}

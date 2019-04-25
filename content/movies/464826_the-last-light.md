@@ -1,1 +1,0 @@
-{"tmdb_id": 464826, "title": "The Last Light", "original_title": "The Last Light", "slug_title": "the-last-light", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jC9q5ep6Y2dZsoZHvZ5xM2LffiT.jpg", "actors": [], "comments": [], "recommandations_id": []}

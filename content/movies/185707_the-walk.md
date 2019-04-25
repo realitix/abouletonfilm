@@ -1,1 +1,0 @@
-{"tmdb_id": 185707, "title": "The Walk", "original_title": "Paseo", "slug_title": "the-walk", "date": "2009-10-23", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yTIFzZMLV3stIlhWdfH7l7fDkAZ.jpg", "actors": ["Gabriela Aguilera ()", "Roberto Far\u00edas ()"], "comments": [], "recommandations_id": []}

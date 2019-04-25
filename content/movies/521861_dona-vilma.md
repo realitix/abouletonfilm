@@ -1,1 +1,0 @@
-{"tmdb_id": 521861, "title": "Dona Vilma", "original_title": "Dona Vilma", "slug_title": "dona-vilma", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mKDbrj2Mj3lwV9YG4JFMWKWjCwe.jpg", "actors": [], "comments": [], "recommandations_id": []}

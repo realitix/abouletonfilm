@@ -1,1 +1,0 @@
-{"tmdb_id": 292547, "title": "The Young and the Dead", "original_title": "The Young and the Dead", "slug_title": "the-young-and-the-dead", "date": "2000-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2eILTBBDu8nFdHalHzTxrh9p3oA.jpg", "actors": [], "comments": [], "recommandations_id": []}

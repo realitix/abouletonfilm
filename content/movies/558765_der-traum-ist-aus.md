@@ -1,1 +1,0 @@
-{"tmdb_id": 558765, "title": "Der Traum ist aus", "original_title": "Der Traum ist aus", "slug_title": "der-traum-ist-aus", "date": "2001-02-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gS2Cvud6mHHtU6RTNJuyL5vbu0x.jpg", "actors": [], "comments": [], "recommandations_id": []}

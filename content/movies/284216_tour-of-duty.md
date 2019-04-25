@@ -1,1 +1,0 @@
-{"tmdb_id": 284216, "title": "Tour of Duty", "original_title": "\uac70\ubbf8\uc758 \ub545", "slug_title": "tour-of-duty", "date": "2012-10-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qWCNvy0z8MZ5jX9qgZb8oij3aB4.jpg", "actors": [], "comments": [], "recommandations_id": []}

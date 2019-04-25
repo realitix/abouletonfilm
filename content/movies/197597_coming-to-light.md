@@ -1,1 +1,0 @@
-{"tmdb_id": 197597, "title": "Coming to Light", "original_title": "Coming to Light", "slug_title": "coming-to-light", "date": "2001-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iwxTA25nbDCeznzQ6DyUQv9dMsO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 568410, "title": "Cryptotrip", "original_title": "Cryptotrip", "slug_title": "cryptotrip", "date": "2012-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r1bhh2kUi7zHgw7o3BhTPD82ir4.jpg", "actors": [], "comments": [], "recommandations_id": []}

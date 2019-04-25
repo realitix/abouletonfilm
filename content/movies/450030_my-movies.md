@@ -1,1 +1,0 @@
-{"tmdb_id": 450030, "title": "My movies", "original_title": "My movies", "slug_title": "my-movies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

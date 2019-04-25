@@ -1,1 +1,0 @@
-{"tmdb_id": 296773, "title": "Puppensex", "original_title": "Puppensex", "slug_title": "puppensex", "date": "2005-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fRhH34o6kByvfNL1O9NJeY6N3sC.jpg", "actors": ["Jana Bach ()", "Sahra March ()", "Tina Twain ()"], "comments": [], "recommandations_id": []}

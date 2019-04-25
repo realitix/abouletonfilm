@@ -1,1 +1,0 @@
-{"tmdb_id": 225996, "title": "Ben David: Broken Sky", "original_title": "Ben David: Broken Sky", "slug_title": "ben-david-broken-sky", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 513395, "title": "I'll Build It Myself", "original_title": "I'll Build It Myself", "slug_title": "i-ll-build-it-myself", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

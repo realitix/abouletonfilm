@@ -1,1 +1,0 @@
-{"tmdb_id": 339544, "title": "Music While We Work", "original_title": "Music While We Work", "slug_title": "music-while-we-work", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jvWAquybwKUP4TdsuBxdaKVMhTm.jpg", "actors": [], "comments": [], "recommandations_id": []}

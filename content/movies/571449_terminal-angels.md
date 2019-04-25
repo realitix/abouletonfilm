@@ -1,1 +1,0 @@
-{"tmdb_id": 571449, "title": "TERMINAL ANGELS", "original_title": "TERMINAL ANGELS", "slug_title": "terminal-angels", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

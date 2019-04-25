@@ -1,1 +1,0 @@
-{"tmdb_id": 367577, "title": "Plowman's Lunch", "original_title": "Plowman's Lunch", "slug_title": "plowman-s-lunch", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3RRHaNO499n7UGI8Y87lXStzsuH.jpg", "actors": [], "comments": [], "recommandations_id": []}

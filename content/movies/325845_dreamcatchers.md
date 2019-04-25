@@ -1,1 +1,0 @@
-{"tmdb_id": 325845, "title": "Dreamcatchers", "original_title": "Dreamcatchers", "slug_title": "dreamcatchers", "date": "2013-12-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Salvatore Bellomo (Himself)", "Eddie Dark (Himself)", "Jean Le Boucher (Himself)"], "comments": [], "recommandations_id": []}

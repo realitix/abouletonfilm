@@ -1,1 +1,0 @@
-{"tmdb_id": 541939, "title": "Colors of Memory ( Min\u0101-ye Shahr-e Kh\u0101moush )", "original_title": "Colors of Memory ( Min\u0101-ye Shahr-e Kh\u0101moush )", "slug_title": "colors-of-memory-mina-ye-shahr-e-khamoush", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 279080, "title": "MySelf Ghaint", "original_title": "MySelf Ghaint", "slug_title": "myself-ghaint", "date": "2014-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sCYLAAQF4uejELJmo5NwsFNx3np.jpg", "actors": [], "comments": [], "recommandations_id": []}

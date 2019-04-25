@@ -1,1 +1,0 @@
-{"tmdb_id": 571673, "title": "Sankt Paulis Starke Frauen - Reeperbahner*innen", "original_title": "Sankt Paulis Starke Frauen - Reeperbahner*innen", "slug_title": "sankt-paulis-starke-frauen-reeperbahner-innen", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

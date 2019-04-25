@@ -1,1 +1,0 @@
-{"tmdb_id": 367788, "title": "15 Minute Death", "original_title": "15 Minute Death", "slug_title": "15-minute-death", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

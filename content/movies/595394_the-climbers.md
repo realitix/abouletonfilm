@@ -1,1 +1,0 @@
-{"tmdb_id": 595394, "title": "The Climbers", "original_title": "The Climbers", "slug_title": "the-climbers", "date": "1927-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

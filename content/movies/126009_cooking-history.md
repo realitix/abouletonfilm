@@ -1,1 +1,0 @@
-{"tmdb_id": 126009, "title": "Cooking History", "original_title": "Ako sa varia dejiny", "slug_title": "cooking-history", "date": "2009-07-02", "genre": "", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rxtuoF59Vr3Ew29iacX9AIlMuBG.jpg", "actors": [], "comments": [], "recommandations_id": []}

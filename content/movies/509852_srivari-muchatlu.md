@@ -1,1 +1,0 @@
-{"tmdb_id": 509852, "title": "Srivari Muchatlu", "original_title": "Srivari Muchatlu", "slug_title": "srivari-muchatlu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kDfWgyNDxOFt6Z2xsLhKwwdfiN0.jpg", "actors": [], "comments": [], "recommandations_id": []}

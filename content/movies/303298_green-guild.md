@@ -1,1 +1,0 @@
-{"tmdb_id": 303298, "title": "Green Guild", "original_title": "Green Guild", "slug_title": "green-guild", "date": "2011-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

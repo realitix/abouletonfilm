@@ -1,1 +1,0 @@
-{"tmdb_id": 458788, "title": "Luciano, una vita bruciata", "original_title": "Luciano, una vita bruciata", "slug_title": "luciano-una-vita-bruciata", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 489465, "title": "Atal-Matal", "original_title": "Atal-Matal", "slug_title": "atal-matal", "date": "1974-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

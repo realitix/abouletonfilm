@@ -1,1 +1,0 @@
-{"tmdb_id": 546226, "title": "Dear Coward on the Moon", "original_title": "Dear Coward on the Moon", "slug_title": "dear-coward-on-the-moon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

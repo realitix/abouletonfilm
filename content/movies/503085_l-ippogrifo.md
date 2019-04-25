@@ -1,1 +1,0 @@
-{"tmdb_id": 503085, "title": "L'ippogrifo", "original_title": "L'ippogrifo", "slug_title": "l-ippogrifo", "date": "1974-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

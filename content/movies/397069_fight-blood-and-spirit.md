@@ -1,1 +1,0 @@
-{"tmdb_id": 397069, "title": "Fight, Blood and Spirit", "original_title": "Fight, Blood and Spirit", "slug_title": "fight-blood-and-spirit", "date": "2015-06-03", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/syjQYcC2JTDrfFIQuk3BrIta7Fu.jpg", "actors": [], "comments": [], "recommandations_id": []}

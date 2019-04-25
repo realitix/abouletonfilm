@@ -1,1 +1,0 @@
-{"tmdb_id": 570501, "title": "Nights on the Boulevard", "original_title": "K\u00f6r\u00fati est\u00e9k", "slug_title": "nights-on-the-boulevard", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

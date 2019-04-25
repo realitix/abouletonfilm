@@ -1,1 +1,0 @@
-{"tmdb_id": 539371, "title": "Et moi, j'te dis qu'elle t'a fait de l'oeil", "original_title": "Et moi, j'te dis qu'elle t'a fait de l'oeil", "slug_title": "et-moi-j-te-dis-qu-elle-t-a-fait-de-l-oeil", "date": "1935-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 409286, "title": "So You Want to Be in Politics", "original_title": "So You Want to Be in Politics", "slug_title": "so-you-want-to-be-in-politics", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 324987, "title": "The Light At Walden", "original_title": "The Light At Walden", "slug_title": "the-light-at-walden", "date": "2014-10-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tHYDrDxBdGLesyaxDQVSoMxEv.jpg", "actors": [], "comments": [], "recommandations_id": []}

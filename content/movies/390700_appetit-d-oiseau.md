@@ -1,1 +1,0 @@
-{"tmdb_id": 390700, "title": "App\u00e9tit d'oiseau", "original_title": "App\u00e9tit d'oiseau", "slug_title": "appetit-d-oiseau", "date": "1966-06-06", "genre": "Animation / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mCJRGqMPUdAyfy5xj92UIPmlmnz.jpg", "actors": [], "comments": [], "recommandations_id": []}

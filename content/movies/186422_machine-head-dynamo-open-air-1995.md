@@ -1,1 +1,0 @@
-{"tmdb_id": 186422, "title": "Machine Head: Dynamo Open Air 1995", "original_title": "Machine Head: Dynamo Open Air 1995", "slug_title": "machine-head-dynamo-open-air-1995", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 343006, "title": "La selva oscura", "original_title": "La selva oscura", "slug_title": "la-selva-oscura", "date": "1994-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wGPTld8n7jUIwB9P37J4tlQEA83.jpg", "actors": [], "comments": [], "recommandations_id": []}

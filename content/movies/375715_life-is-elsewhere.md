@@ -1,1 +1,0 @@
-{"tmdb_id": 375715, "title": "Life Is Elsewhere", "original_title": "Life Is Elsewhere", "slug_title": "life-is-elsewhere", "date": "2013-03-31", "genre": "Aventure / Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ezr3qHSeFznX3yss0RLxbhzZrHi.jpg", "actors": [], "comments": [], "recommandations_id": []}

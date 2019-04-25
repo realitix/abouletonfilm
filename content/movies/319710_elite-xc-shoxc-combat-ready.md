@@ -1,1 +1,0 @@
-{"tmdb_id": 319710, "title": "Elite XC: ShoXC: Combat Ready", "original_title": "Elite XC: ShoXC: Combat Ready", "slug_title": "elite-xc-shoxc-combat-ready", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

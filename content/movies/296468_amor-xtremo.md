@@ -1,1 +1,0 @@
-{"tmdb_id": 296468, "title": "Amor Xtremo", "original_title": "Amor Xtremo", "slug_title": "amor-xtremo", "date": "2006-08-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ttDO60Dj7toWl9btU6NG062NCs.jpg", "actors": [], "comments": [], "recommandations_id": []}

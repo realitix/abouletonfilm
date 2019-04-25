@@ -1,1 +1,0 @@
-{"tmdb_id": 466109, "title": "Aids: A Priest's Testament", "original_title": "Aids: A Priest's Testament", "slug_title": "aids-a-priest-s-testament", "date": "1987-07-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bernard Lynch (Himself)"], "comments": [], "recommandations_id": []}

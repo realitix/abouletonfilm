@@ -1,1 +1,0 @@
-{"tmdb_id": 537399, "title": "Cage Warriors 95", "original_title": "Cage Warriors 95", "slug_title": "cage-warriors-95", "date": "2018-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ghrcN8zzSZg68Iu28SX61ZoPx8p.jpg", "actors": [], "comments": [], "recommandations_id": []}

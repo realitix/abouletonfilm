@@ -1,1 +1,0 @@
-{"tmdb_id": 549820, "title": "Americans All", "original_title": "Americans All", "slug_title": "americans-all", "date": "1943-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mWJxNRo1S4cNgQPBBATwQhAlf2Z.jpg", "actors": ["Julien Bryan (Narrator)"], "comments": [], "recommandations_id": []}

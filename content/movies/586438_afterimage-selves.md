@@ -1,1 +1,0 @@
-{"tmdb_id": 586438, "title": "Afterimage Selves", "original_title": "Afterimage Selves", "slug_title": "afterimage-selves", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

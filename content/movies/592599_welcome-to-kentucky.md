@@ -1,1 +1,0 @@
-{"tmdb_id": 592599, "title": "Welcome to Kentucky", "original_title": "Welcome to Kentucky", "slug_title": "welcome-to-kentucky", "date": "2004-04-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kLkocoiCIAw21i7UuwqhfXoUksQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

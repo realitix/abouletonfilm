@@ -1,1 +1,0 @@
-{"tmdb_id": 368083, "title": "Alias: Slayer", "original_title": "Alias: Slayer", "slug_title": "alias-slayer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

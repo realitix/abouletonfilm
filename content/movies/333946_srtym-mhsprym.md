@@ -1,1 +1,0 @@
-{"tmdb_id": 333946, "title": "\u05e1\u05e8\u05d8\u05d9\u05dd \u05de\u05d4\u05e1\u05e4\u05e8\u05d9\u05dd", "original_title": "\u05e1\u05e8\u05d8\u05d9\u05dd \u05de\u05d4\u05e1\u05e4\u05e8\u05d9\u05dd", "slug_title": "srtym-mhsprym", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

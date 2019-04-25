@@ -1,1 +1,0 @@
-{"tmdb_id": 481938, "title": "The Wind", "original_title": "\u0412\u0435\u0442\u0435\u0440", "slug_title": "the-wind", "date": "1959-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 158480, "title": "Train Crazy Kids", "original_title": "Train Crazy Kids", "slug_title": "train-crazy-kids", "date": "2008-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jkk60zGajxtWMHfxdiDJzXDANP6.jpg", "actors": ["Steve Pool (Self)"], "comments": [], "recommandations_id": []}

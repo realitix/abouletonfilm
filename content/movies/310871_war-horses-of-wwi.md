@@ -1,1 +1,0 @@
-{"tmdb_id": 310871, "title": "War Horses of WWI", "original_title": "War Horses of WWI", "slug_title": "war-horses-of-wwi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

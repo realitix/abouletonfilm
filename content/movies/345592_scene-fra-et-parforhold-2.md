@@ -1,1 +1,0 @@
-{"tmdb_id": 345592, "title": "Scene fra et parforhold #2", "original_title": "Scene fra et parforhold #2", "slug_title": "scene-fra-et-parforhold-2", "date": "2010-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marie Blokhus (Hun)", "Frank Kjos\u00e5s (Han)"], "comments": [], "recommandations_id": []}

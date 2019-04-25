@@ -1,1 +1,0 @@
-{"tmdb_id": 307313, "title": "Anne Frank: The Missing Chapter", "original_title": "Anne Frank: The Missing Chapter", "slug_title": "anne-frank-the-missing-chapter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 163969, "title": "Farewell", "original_title": "Farewell", "slug_title": "farewell", "date": "2009-11-22", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wPViTLNJYXXCwnK02fwmKlA2JpI.jpg", "actors": ["Poppy Elliott (Narrator)"], "comments": [], "recommandations_id": []}

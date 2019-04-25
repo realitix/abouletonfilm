@@ -1,1 +1,0 @@
-{"tmdb_id": 467301, "title": "Hostage: The Bachar Tapes (English Version)", "original_title": "Hostage: The Bachar Tapes (English Version)", "slug_title": "hostage-the-bachar-tapes-english-version", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

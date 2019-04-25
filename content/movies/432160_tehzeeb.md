@@ -1,1 +1,0 @@
-{"tmdb_id": 432160, "title": "Tehzeeb", "original_title": "Tehzeeb", "slug_title": "tehzeeb", "date": "2015-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ih91JRSn32YaXw9NJ9DpAGt8zkJ.jpg", "actors": ["Hiftu Quasem (Tehzeeb)", "Javed Khan (Rizwan)"], "comments": [], "recommandations_id": []}

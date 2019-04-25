@@ -1,1 +1,0 @@
-{"tmdb_id": 530851, "title": "Downtown", "original_title": "Downtown", "slug_title": "downtown", "date": "2014-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7MLk7rsK6SvkfjUoRYgJyRL47tt.jpg", "actors": [], "comments": [], "recommandations_id": []}

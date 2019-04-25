@@ -1,1 +1,0 @@
-{"tmdb_id": 304071, "title": "Anjane Mein", "original_title": "Anjane Mein", "slug_title": "anjane-mein", "date": "1978-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

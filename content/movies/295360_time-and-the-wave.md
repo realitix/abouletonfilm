@@ -1,1 +1,0 @@
-{"tmdb_id": 295360, "title": "Time and the Wave", "original_title": "Time and the Wave", "slug_title": "time-and-the-wave", "date": "2013-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

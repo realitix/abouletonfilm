@@ -1,1 +1,0 @@
-{"tmdb_id": 318669, "title": "Pacios - as fotos da memoria", "original_title": "Pacios - as fotos da memoria", "slug_title": "pacios-as-fotos-da-memoria", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 502057, "title": "Dark Streets", "original_title": "Dark Streets", "slug_title": "dark-streets", "date": "1929-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g3RRSqYjnC0NdqrR6nO9pBxwJeW.jpg", "actors": [], "comments": [], "recommandations_id": []}

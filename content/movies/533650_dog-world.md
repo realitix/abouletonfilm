@@ -1,1 +1,0 @@
-{"tmdb_id": 533650, "title": "Dog World", "original_title": "Dog World", "slug_title": "dog-world", "date": "2008-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r5abZmBpSu2KpSvv6LvOGZbTuJe.jpg", "actors": [], "comments": [], "recommandations_id": []}

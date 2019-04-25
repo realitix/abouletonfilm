@@ -1,1 +1,0 @@
-{"tmdb_id": 570970, "title": "O Sat\u00e9lite", "original_title": "O Sat\u00e9lite", "slug_title": "o-satelite", "date": "2018-10-21", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uttSwgSTuXL1r4fiC0OlXIYcGWv.jpg", "actors": [], "comments": [], "recommandations_id": []}

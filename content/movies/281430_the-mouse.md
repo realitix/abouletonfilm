@@ -1,1 +1,0 @@
-{"tmdb_id": 281430, "title": "The Mouse", "original_title": "The Mouse", "slug_title": "the-mouse", "date": "1997-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

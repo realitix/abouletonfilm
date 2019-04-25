@@ -1,1 +1,0 @@
-{"tmdb_id": 190633, "title": "Photographing a Country Couple", "original_title": "Photographing a Country Couple", "slug_title": "photographing-a-country-couple", "date": "1901-08-11", "genre": "", "score": "3.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [190618, 189061, 193396, 190600]}

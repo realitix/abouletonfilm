@@ -1,1 +1,0 @@
-{"tmdb_id": 539610, "title": "La hora de la merienda", "original_title": "La hora de la merienda", "slug_title": "la-hora-de-la-merienda", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eTxJZsccuviFNG7otJRvpcxZs0O.jpg", "actors": [], "comments": [], "recommandations_id": []}

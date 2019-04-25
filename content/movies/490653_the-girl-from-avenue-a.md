@@ -1,1 +1,0 @@
-{"tmdb_id": 490653, "title": "The Girl from Avenue A", "original_title": "The Girl from Avenue A", "slug_title": "the-girl-from-avenue-a", "date": "1940-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4A3umPbwTsE8wOOQjcN5GUVgTGZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

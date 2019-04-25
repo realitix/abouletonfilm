@@ -1,1 +1,0 @@
-{"tmdb_id": 324270, "title": "For the Record", "original_title": "For the Record", "slug_title": "for-the-record", "date": "2015-03-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pQnXR9N31ZrnfwgU7m3KuAmdSIp.jpg", "actors": [], "comments": [], "recommandations_id": []}

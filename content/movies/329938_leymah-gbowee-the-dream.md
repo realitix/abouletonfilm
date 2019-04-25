@@ -1,1 +1,0 @@
-{"tmdb_id": 329938, "title": "Leymah Gbowee: The Dream", "original_title": "Leymah Gbowee: The Dream", "slug_title": "leymah-gbowee-the-dream", "date": "2014-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

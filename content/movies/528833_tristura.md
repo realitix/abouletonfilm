@@ -1,1 +1,0 @@
-{"tmdb_id": 528833, "title": "Tristura", "original_title": "Tristura", "slug_title": "tristura", "date": "2018-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 596753, "title": "Call Me Sis", "original_title": "\ubbf8\uc560\uc5b8\ub2c8\ub77c\uace0 \ubd88\ub7ec\uc918", "slug_title": "call-me-sis", "date": "2018-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cho Joo-kyoung ()", "Lee Joo-ah ()"], "comments": [], "recommandations_id": []}

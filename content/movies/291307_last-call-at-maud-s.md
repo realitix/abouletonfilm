@@ -1,1 +1,0 @@
-{"tmdb_id": 291307, "title": "Last Call at Maud's", "original_title": "Last Call at Maud's", "slug_title": "last-call-at-maud-s", "date": "1993-02-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nEFbDD4zJdyKBTNo26TU13xxHrl.jpg", "actors": [], "comments": [], "recommandations_id": []}

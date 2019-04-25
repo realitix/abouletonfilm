@@ -1,1 +1,0 @@
-{"tmdb_id": 545987, "title": "The Mexican Footage", "original_title": "The Mexican Footage", "slug_title": "the-mexican-footage", "date": "1964-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

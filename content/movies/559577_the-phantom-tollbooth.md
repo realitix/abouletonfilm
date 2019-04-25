@@ -1,1 +1,0 @@
-{"tmdb_id": 559577, "title": "The Phantom Tollbooth", "original_title": "The Phantom Tollbooth", "slug_title": "the-phantom-tollbooth", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

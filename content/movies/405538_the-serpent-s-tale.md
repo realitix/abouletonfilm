@@ -1,1 +1,0 @@
-{"tmdb_id": 405538, "title": "The Serpent's Tale", "original_title": "Karanl\u0131k Sular", "slug_title": "the-serpent-s-tale", "date": "1995-08-25", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nyrJWdYLZMJdWXN2zPwcbjofgAu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 506771, "title": "The Deputy's Double Cross", "original_title": "The Deputy's Double Cross", "slug_title": "the-deputy-s-double-cross", "date": "1922-01-07", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

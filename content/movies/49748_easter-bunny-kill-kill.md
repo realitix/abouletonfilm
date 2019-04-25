@@ -1,1 +1,0 @@
-{"tmdb_id": 49748, "title": "Easter Bunny Kill! Kill!", "original_title": "Easter Bunny Kill! Kill!", "slug_title": "easter-bunny-kill-kill", "date": "2006-01-01", "genre": "Horreur / Thriller", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jaXLHpdC5QtERr396464gnJQZt6.jpg", "actors": [], "comments": [], "recommandations_id": []}

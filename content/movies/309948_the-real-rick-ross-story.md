@@ -1,1 +1,0 @@
-{"tmdb_id": 309948, "title": "The Real Rick Ross Story", "original_title": "The Real Rick Ross Story", "slug_title": "the-real-rick-ross-story", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

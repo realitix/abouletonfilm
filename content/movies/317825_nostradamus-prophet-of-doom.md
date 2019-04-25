@@ -1,1 +1,0 @@
-{"tmdb_id": 317825, "title": "Nostradamus: Prophet of Doom", "original_title": "Nostradamus: Prophet of Doom", "slug_title": "nostradamus-prophet-of-doom", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

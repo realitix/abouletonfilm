@@ -1,1 +1,0 @@
-{"tmdb_id": 342334, "title": "Three Cities", "original_title": "Three Cities", "slug_title": "three-cities", "date": "1943-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hRlklerrzH9QWJY7CrJab2cvu4W.jpg", "actors": [], "comments": [], "recommandations_id": []}

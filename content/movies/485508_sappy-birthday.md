@@ -1,1 +1,0 @@
-{"tmdb_id": 485508, "title": "Sappy Birthday", "original_title": "Sappy Birthday", "slug_title": "sappy-birthday", "date": "1942-02-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy 'Hole-in-One' Clyde)"], "comments": [], "recommandations_id": []}

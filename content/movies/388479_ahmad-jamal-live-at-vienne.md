@@ -1,1 +1,0 @@
-{"tmdb_id": 388479, "title": "Ahmad Jamal - Live at Vienne", "original_title": "Ahmad Jamal - Live at Vienne", "slug_title": "ahmad-jamal-live-at-vienne", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1TqTNCbn7qOLuHJb88o75KQ2QDp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556661, "title": "Mon b\u00e9guin", "original_title": "Mon b\u00e9guin", "slug_title": "mon-beguin", "date": "1931-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

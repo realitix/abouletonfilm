@@ -1,1 +1,0 @@
-{"tmdb_id": 403194, "title": "The Homeland of Electricity", "original_title": "Rodina electrichestva", "slug_title": "the-homeland-of-electricity", "date": "1967-06-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rEnOxex6cA0gxB4lMBdVluhNP6W.jpg", "actors": [], "comments": [], "recommandations_id": []}

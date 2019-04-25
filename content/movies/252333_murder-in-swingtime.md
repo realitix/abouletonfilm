@@ -1,1 +1,0 @@
-{"tmdb_id": 252333, "title": "Murder in Swingtime", "original_title": "Murder in Swingtime", "slug_title": "murder-in-swingtime", "date": "1937-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

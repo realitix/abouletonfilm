@@ -1,1 +1,0 @@
-{"tmdb_id": 182221, "title": "Xuehaizi", "original_title": "\u96ea\u5b69\u5b50", "slug_title": "xuehaizi", "date": "1980-01-01", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8rWIBpgHfo92R93mrBw7ZopekP2.jpg", "actors": [], "comments": [], "recommandations_id": []}

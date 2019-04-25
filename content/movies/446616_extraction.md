@@ -1,1 +1,0 @@
-{"tmdb_id": 446616, "title": "Extraction", "original_title": "Extraction", "slug_title": "extraction", "date": "2015-12-31", "genre": "Action / Crime / Thriller", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p3x6iskULfI7ukTYYEv4CrIMhsj.jpg", "actors": [], "comments": [], "recommandations_id": []}

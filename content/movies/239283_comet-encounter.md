@@ -1,1 +1,0 @@
-{"tmdb_id": 239283, "title": "Comet Encounter", "original_title": "Comet Encounter", "slug_title": "comet-encounter", "date": "2013-11-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uEbAta0DofuOdNWdPmDikYd1OXK.jpg", "actors": [], "comments": [], "recommandations_id": []}

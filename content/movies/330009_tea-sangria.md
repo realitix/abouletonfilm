@@ -1,1 +1,0 @@
-{"tmdb_id": 330009, "title": "Tea & Sangria", "original_title": "Tea & Sangria", "slug_title": "tea-sangria", "date": "2015-04-16", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 580448, "title": "Funeral Procession of Grand Duke Guillaume IV", "original_title": "Trauerzug f\u00fcr Gro\u00dfherzog Wilhelm IV", "slug_title": "funeral-procession-of-grand-duke-guillaume-iv", "date": "1912-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 521241, "title": "Style Wars 2", "original_title": "Style Wars 2", "slug_title": "style-wars-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ellohbnMYgKq18JSqTp8KaYViLA.jpg", "actors": [], "comments": [], "recommandations_id": []}

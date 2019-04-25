@@ -1,1 +1,0 @@
-{"tmdb_id": 530970, "title": "Tremble", "original_title": "Tremble", "slug_title": "tremble", "date": "2018-06-18", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g3I4C5xpB9Lhji2k7ZYp2yeZ7F7.jpg", "actors": ["Ahmad Eid (The guy)"], "comments": [], "recommandations_id": []}

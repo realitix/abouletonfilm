@@ -1,1 +1,0 @@
-{"tmdb_id": 211128, "title": "Chile Picante", "original_title": "Chile Picante", "slug_title": "chile-picante", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9D0lekYQ8vzwmMrktRaEtV7foWT.jpg", "actors": [], "comments": [], "recommandations_id": []}

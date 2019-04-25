@@ -1,1 +1,0 @@
-{"tmdb_id": 185368, "title": "Hello There", "original_title": "Hello There", "slug_title": "hello-there", "date": "1995-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dCFxauzu0bkiKeeEpp0YeNEsqjH.jpg", "actors": ["Ron Lynch ()"], "comments": [], "recommandations_id": []}

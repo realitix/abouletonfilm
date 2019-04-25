@@ -1,1 +1,0 @@
-{"tmdb_id": 473305, "title": "Tulp aves Amsterdam", "original_title": "Tulp aves Amsterdam", "slug_title": "tulp-aves-amsterdam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gesine Cukrowski ()", "Chiara Schoras ()", "Daan Schuurmans ()", "Beat Marti ()"], "comments": [], "recommandations_id": []}

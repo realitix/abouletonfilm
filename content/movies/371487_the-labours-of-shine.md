@@ -1,1 +1,0 @@
-{"tmdb_id": 371487, "title": "The Labours of Shine", "original_title": "The Labours of Shine", "slug_title": "the-labours-of-shine", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

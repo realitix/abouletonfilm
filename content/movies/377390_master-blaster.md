@@ -1,1 +1,0 @@
-{"tmdb_id": 377390, "title": "Master Blaster", "original_title": "Master Blaster", "slug_title": "master-blaster", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6XePV11H9oRNLpTvDUrPTVXUMVA.jpg", "actors": [], "comments": [], "recommandations_id": []}

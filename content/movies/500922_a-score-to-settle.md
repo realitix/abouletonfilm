@@ -1,1 +1,0 @@
-{"tmdb_id": 500922, "title": "A Score to Settle", "original_title": "A Score to Settle", "slug_title": "a-score-to-settle", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicolas Cage ()"], "comments": [], "recommandations_id": []}

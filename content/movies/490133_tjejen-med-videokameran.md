@@ -1,1 +1,0 @@
-{"tmdb_id": 490133, "title": "Tjejen med videokameran", "original_title": "Tjejen med videokameran", "slug_title": "tjejen-med-videokameran", "date": "2005-12-02", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sofia Pekkari (Frida)", "Josefin Ljungman (Sabrina)"], "comments": [], "recommandations_id": []}

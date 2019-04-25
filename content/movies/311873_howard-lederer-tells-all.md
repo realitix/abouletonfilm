@@ -1,1 +1,0 @@
-{"tmdb_id": 311873, "title": "Howard Lederer: Tells All", "original_title": "Howard Lederer: Tells All", "slug_title": "howard-lederer-tells-all", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

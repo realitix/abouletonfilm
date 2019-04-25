@@ -1,1 +1,0 @@
-{"tmdb_id": 411740, "title": "Los espejismos de Mandr\u00e1gora Luna", "original_title": "Los espejismos de Mandr\u00e1gora Luna", "slug_title": "los-espejismos-de-mandragora-luna", "date": "1987-01-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 430084, "title": "The Living Word", "original_title": "The Living Word", "slug_title": "the-living-word", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

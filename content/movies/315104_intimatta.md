@@ -1,1 +1,0 @@
-{"tmdb_id": 315104, "title": "Intimatta", "original_title": "Intimatta", "slug_title": "intimatta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

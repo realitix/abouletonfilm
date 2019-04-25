@@ -1,1 +1,0 @@
-{"tmdb_id": 371001, "title": "Refleksy", "original_title": "Refleksy", "slug_title": "refleksy", "date": "1979-06-01", "genre": "Animation", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ynS6XGGl5laRl1Aps3YrqtxLGxv.jpg", "actors": [], "comments": [], "recommandations_id": [154653, 257049, 211021, 454523]}

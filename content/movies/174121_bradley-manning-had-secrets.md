@@ -1,1 +1,0 @@
-{"tmdb_id": 174121, "title": "Bradley Manning Had Secrets", "original_title": "Bradley Manning Had Secrets", "slug_title": "bradley-manning-had-secrets", "date": "2012-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4xFPCSiT84djmnAETs11ZU3iaQI.jpg", "actors": [], "comments": [], "recommandations_id": []}

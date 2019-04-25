@@ -1,1 +1,0 @@
-{"tmdb_id": 491343, "title": "Headin' for a Weddin'", "original_title": "Headin' for a Weddin'", "slug_title": "headin-for-a-weddin", "date": "1946-08-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barbara Jo Allen (Vera Vague (as Vera Vague))"], "comments": [], "recommandations_id": []}

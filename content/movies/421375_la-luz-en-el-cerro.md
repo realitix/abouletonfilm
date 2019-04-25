@@ -1,1 +1,0 @@
-{"tmdb_id": 421375, "title": "La luz en el cerro", "original_title": "La luz en el cerro", "slug_title": "la-luz-en-el-cerro", "date": "2016-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yF54hKtdFCpQxkujS8nJzZNwCwL.jpg", "actors": [], "comments": [], "recommandations_id": []}

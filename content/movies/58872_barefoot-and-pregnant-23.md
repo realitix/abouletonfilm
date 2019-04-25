@@ -1,1 +1,0 @@
-{"tmdb_id": 58872, "title": "Barefoot And Pregnant # 23", "original_title": "Barefoot And Pregnant # 23", "slug_title": "barefoot-and-pregnant-23", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qGJ336trI2rQ7t9JcDhJOsHkBdG.jpg", "actors": [], "comments": [], "recommandations_id": []}

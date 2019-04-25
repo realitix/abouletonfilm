@@ -1,1 +1,0 @@
-{"tmdb_id": 503357, "title": "Skin and Bone", "original_title": "Skin and Bone", "slug_title": "skin-and-bone", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j8hB1qc4ZFa6t9I1mWBuO7HctYv.jpg", "actors": [], "comments": [], "recommandations_id": []}

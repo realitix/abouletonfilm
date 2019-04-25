@@ -1,1 +1,0 @@
-{"tmdb_id": 81413, "title": "Ware Tier", "original_title": "Ware Tier", "slug_title": "ware-tier", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vcidG4WE6ad8pHQVZdME3dwtzKJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

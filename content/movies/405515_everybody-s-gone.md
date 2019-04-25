@@ -1,1 +1,0 @@
-{"tmdb_id": 405515, "title": "Everybody's Gone", "original_title": "Vse ushli", "slug_title": "everybody-s-gone", "date": "2013-03-28", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5NVExSQXaytYZjGG3vvCDZukgS9.jpg", "actors": [], "comments": [], "recommandations_id": []}

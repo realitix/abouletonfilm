@@ -1,1 +1,0 @@
-{"tmdb_id": 556358, "title": "Cousine de France", "original_title": "Cousine de France", "slug_title": "cousine-de-france", "date": "1927-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

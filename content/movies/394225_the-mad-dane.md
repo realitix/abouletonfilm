@@ -1,1 +1,0 @@
-{"tmdb_id": 394225, "title": "The Mad Dane", "original_title": "Den gale dansker", "slug_title": "the-mad-dane", "date": "1969-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5uXHsB6Uso9hHwsRAUkW9jKowhW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 275249, "title": "Maracan\u00e1", "original_title": "Maracan\u00e1", "slug_title": "maracana", "date": "2014-03-12", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gJIBOsblVJKOLaNWScwEJhw994u.jpg", "actors": [], "comments": [], "recommandations_id": []}

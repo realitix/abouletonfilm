@@ -1,1 +1,0 @@
-{"tmdb_id": 533334, "title": "Tragica alba a Dongo", "original_title": "Tragica alba a Dongo", "slug_title": "tragica-alba-a-dongo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

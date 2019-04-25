@@ -1,1 +1,0 @@
-{"tmdb_id": 227559, "title": "Hummingbird", "original_title": "Hummingbird", "slug_title": "hummingbird", "date": "2004-04-20", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/it82dNgd802ccv6tsnaZmKizWOG.jpg", "actors": [], "comments": [], "recommandations_id": []}

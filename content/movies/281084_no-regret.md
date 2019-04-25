@@ -1,1 +1,0 @@
-{"tmdb_id": 281084, "title": "No Regret", "original_title": "No Regret", "slug_title": "no-regret", "date": "1993-06-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1qWnAo7Kz20vVG9oOaNwc2ak8sm.jpg", "actors": [], "comments": [], "recommandations_id": []}

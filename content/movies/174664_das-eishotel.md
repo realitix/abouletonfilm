@@ -1,1 +1,0 @@
-{"tmdb_id": 174664, "title": "Das Eishotel", "original_title": "Das Eishotel", "slug_title": "das-eishotel", "date": "2012-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aNFkbeWdZ6RmrVxya3EO576jsQZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

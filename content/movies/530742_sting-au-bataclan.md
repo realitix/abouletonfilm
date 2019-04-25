@@ -1,1 +1,0 @@
-{"tmdb_id": 530742, "title": "Sting au Bataclan", "original_title": "Sting au Bataclan", "slug_title": "sting-au-bataclan", "date": "2016-11-13", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sting (HimSelf)"], "comments": [], "recommandations_id": []}

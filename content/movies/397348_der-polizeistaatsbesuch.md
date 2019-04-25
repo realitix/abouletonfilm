@@ -1,1 +1,0 @@
-{"tmdb_id": 397348, "title": "Der Polizeistaatsbesuch", "original_title": "Der Polizeistaatsbesuch", "slug_title": "der-polizeistaatsbesuch", "date": "1967-07-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/no1ARI7bj5zrlnqzNELvQJPNF8s.jpg", "actors": [], "comments": [], "recommandations_id": []}

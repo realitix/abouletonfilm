@@ -1,1 +1,0 @@
-{"tmdb_id": 327777, "title": "Ali in Wonderland", "original_title": "Ali au pays des mirages", "slug_title": "ali-in-wonderland", "date": "1981-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

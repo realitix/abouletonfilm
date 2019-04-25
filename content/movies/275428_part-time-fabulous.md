@@ -1,1 +1,0 @@
-{"tmdb_id": 275428, "title": "Part Time Fabulous", "original_title": "Part Time Fabulous", "slug_title": "part-time-fabulous", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

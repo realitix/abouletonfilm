@@ -1,1 +1,0 @@
-{"tmdb_id": 333955, "title": "Taxi of Love", "original_title": "Taxi el gharam", "slug_title": "taxi-of-love", "date": "1954-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mahmoud el-Meliguy ()", "Hassan Fayek ()", "Abdel Aziz Mahmoud ()"], "comments": [], "recommandations_id": []}

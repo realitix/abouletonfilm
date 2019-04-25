@@ -1,1 +1,0 @@
-{"tmdb_id": 227562, "title": "National Geographic: Predators at War Survivor", "original_title": "National Geographic: Predators at War Survivor", "slug_title": "national-geographic-predators-at-war-survivor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

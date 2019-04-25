@@ -1,1 +1,0 @@
-{"tmdb_id": 463793, "title": "Water Spell", "original_title": "\u6c34\u5492", "slug_title": "water-spell", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yOiXwgrrYMurBLM2mofJqwuDiDx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 240951, "title": "Analog Goose", "original_title": "Analog Goose", "slug_title": "analog-goose", "date": "2013-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yOBAo8b79NA47xxvtvVRCj9kfnh.jpg", "actors": ["Andrew Bujalski ()"], "comments": [], "recommandations_id": []}

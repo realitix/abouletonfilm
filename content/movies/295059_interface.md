@@ -1,1 +1,0 @@
-{"tmdb_id": 295059, "title": "Interface", "original_title": "Schnittstelle", "slug_title": "interface", "date": "1995-11-08", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rhzs3okhavXK092EcVB1zEezEjw.jpg", "actors": ["Harun Farocki ()"], "comments": [], "recommandations_id": []}

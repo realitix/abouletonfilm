@@ -1,1 +1,0 @@
-{"tmdb_id": 308382, "title": "The Night Juicer", "original_title": "The Night Juicer", "slug_title": "the-night-juicer", "date": "2014-10-25", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/isWJLgtFW7HTlMzRyaOdvTHNaPS.jpg", "actors": [], "comments": [], "recommandations_id": []}

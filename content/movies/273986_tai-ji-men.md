@@ -1,1 +1,0 @@
-{"tmdb_id": 273986, "title": "Tai ji men", "original_title": "Tai ji men", "slug_title": "tai-ji-men", "date": "1968-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

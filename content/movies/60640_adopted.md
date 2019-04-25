@@ -1,1 +1,0 @@
-{"tmdb_id": 60640, "title": "Adopted", "original_title": "Adopted", "slug_title": "adopted", "date": "2008-12-04", "genre": "Com\u00e9die / Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nNif45u2VDXfSd8MQi9yhQ9EeTf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 159696, "title": "The Little Pest", "original_title": "The Little Pest", "slug_title": "the-little-pest", "date": "1931-08-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yFEtp5OyDrEq4kHESGju3vFAoXW.jpg", "actors": [], "comments": [], "recommandations_id": []}

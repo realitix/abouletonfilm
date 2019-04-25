@@ -1,1 +1,0 @@
-{"tmdb_id": 428155, "title": "Ravel's Brain", "original_title": "Ravel's Brain", "slug_title": "ravel-s-brain", "date": "2001-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jgnDepEysBSP8QZGlZGHUc3Y0jk.jpg", "actors": ["Thierry Costa (Maurice Ravel)"], "comments": [], "recommandations_id": []}

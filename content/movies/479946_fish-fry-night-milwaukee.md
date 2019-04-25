@@ -1,1 +1,0 @@
-{"tmdb_id": 479946, "title": "Fish Fry Night Milwaukee", "original_title": "Fish Fry Night Milwaukee", "slug_title": "fish-fry-night-milwaukee", "date": "2009-10-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dewey Gill ()"], "comments": [], "recommandations_id": []}

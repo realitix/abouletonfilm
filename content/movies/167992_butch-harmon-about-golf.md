@@ -1,1 +1,0 @@
-{"tmdb_id": 167992, "title": "Butch Harmon About Golf", "original_title": "Butch Harmon About Golf", "slug_title": "butch-harmon-about-golf", "date": "2012-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ovEww78xS3SXHnJvIKfhsVXVVQX.jpg", "actors": [], "comments": [], "recommandations_id": []}

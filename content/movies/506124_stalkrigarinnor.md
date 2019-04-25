@@ -1,1 +1,0 @@
-{"tmdb_id": 506124, "title": "St\u00e5lkrigarinnor", "original_title": "St\u00e5lkrigarinnor", "slug_title": "stalkrigarinnor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mhHQHFuP2ymXH0TyEYHyWyhHVIF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 319758, "title": "Kula Gothralu", "original_title": "Kula Gothralu", "slug_title": "kula-gothralu", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

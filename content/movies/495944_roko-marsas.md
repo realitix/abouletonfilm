@@ -1,1 +1,0 @@
-{"tmdb_id": 495944, "title": "Roko mar\u0161as", "original_title": "Roko mar\u0161as", "slug_title": "roko-marsas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

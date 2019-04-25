@@ -1,1 +1,0 @@
-{"tmdb_id": 398335, "title": "FNS Music Festival", "original_title": "FNS Music Festival", "slug_title": "fns-music-festival", "date": "2011-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cV6y6ab49jNgNww5Epq95TPBRjg.jpg", "actors": [], "comments": [], "recommandations_id": []}

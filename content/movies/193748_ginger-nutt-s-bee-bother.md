@@ -1,1 +1,0 @@
-{"tmdb_id": 193748, "title": "Ginger Nutt's Bee-Bother", "original_title": "Ginger Nutt's Bee-Bother", "slug_title": "ginger-nutt-s-bee-bother", "date": "1949-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tZrcbIKlbLdJW5B3OwTbklz6M37.jpg", "actors": [], "comments": [], "recommandations_id": []}

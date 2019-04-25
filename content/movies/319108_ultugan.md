@@ -1,1 +1,0 @@
-{"tmdb_id": 319108, "title": "Ultugan", "original_title": "Ultugan", "slug_title": "ultugan", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

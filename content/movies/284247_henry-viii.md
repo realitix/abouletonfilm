@@ -1,1 +1,0 @@
-{"tmdb_id": 284247, "title": "Henry VIII", "original_title": "Henry VIII", "slug_title": "henry-viii", "date": "1911-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Bourchier ()", "Herbert Beerbohm Tree ()", "Violet Vanbrugh ()"], "comments": [], "recommandations_id": []}

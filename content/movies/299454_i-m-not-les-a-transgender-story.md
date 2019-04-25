@@ -1,1 +1,0 @@
-{"tmdb_id": 299454, "title": "I'm Not Les: A Transgender Story", "original_title": "I'm Not Les: A Transgender Story", "slug_title": "i-m-not-les-a-transgender-story", "date": "2012-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

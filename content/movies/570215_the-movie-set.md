@@ -1,1 +1,0 @@
-{"tmdb_id": 570215, "title": "The Movie Set", "original_title": "The Movie Set", "slug_title": "the-movie-set", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

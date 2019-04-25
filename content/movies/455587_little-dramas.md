@@ -1,1 +1,0 @@
-{"tmdb_id": 455587, "title": "Little Dramas", "original_title": "Ma\u0142e dramaty", "slug_title": "little-dramas", "date": "1960-03-14", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iDpkUmYtfWzF4xRY1pA6cLzjUEt.jpg", "actors": [], "comments": [], "recommandations_id": []}

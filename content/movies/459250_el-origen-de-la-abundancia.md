@@ -1,1 +1,0 @@
-{"tmdb_id": 459250, "title": "El Origen de la Abundancia", "original_title": "El Origen de la Abundancia", "slug_title": "el-origen-de-la-abundancia", "date": "2015-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

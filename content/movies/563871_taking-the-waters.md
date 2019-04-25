@@ -1,1 +1,0 @@
-{"tmdb_id": 563871, "title": "Taking the Waters", "original_title": "Taking the Waters", "slug_title": "taking-the-waters", "date": "2018-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

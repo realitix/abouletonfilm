@@ -1,1 +1,0 @@
-{"tmdb_id": 530677, "title": "Maned & Macho", "original_title": "\u06cc\u0627\u0644 \u0648 \u06a9\u0648\u067e\u0627\u0644", "slug_title": "maned-macho", "date": "2017-11-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pb0Jp8Q524gv9Jg949YLmWAM1ox.jpg", "actors": [], "comments": [], "recommandations_id": []}

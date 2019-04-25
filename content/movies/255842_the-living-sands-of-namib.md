@@ -1,1 +1,0 @@
-{"tmdb_id": 255842, "title": "The Living Sands of Namib", "original_title": "The Living Sands of Namib", "slug_title": "the-living-sands-of-namib", "date": "1978-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Burgess Meredith (Narrator (voice))"], "comments": [], "recommandations_id": []}

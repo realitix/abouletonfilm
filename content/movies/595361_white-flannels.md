@@ -1,1 +1,0 @@
-{"tmdb_id": 595361, "title": "White Flannels", "original_title": "White Flannels", "slug_title": "white-flannels", "date": "1927-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hhGCnEO9szoYt99nR9BJlnFEaMH.jpg", "actors": [], "comments": [], "recommandations_id": []}

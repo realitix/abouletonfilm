@@ -1,1 +1,0 @@
-{"tmdb_id": 123205, "title": "13 Months of Sunshine", "original_title": "13 Months of Sunshine", "slug_title": "13-months-of-sunshine", "date": "2007-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1uwMbOXYimpud6jigHbqdicJSSM.jpg", "actors": [], "comments": [], "recommandations_id": []}

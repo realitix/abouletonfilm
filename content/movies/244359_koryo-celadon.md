@@ -1,1 +1,0 @@
-{"tmdb_id": 244359, "title": "Koryo Celadon", "original_title": "Koryo Celadon", "slug_title": "koryo-celadon", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

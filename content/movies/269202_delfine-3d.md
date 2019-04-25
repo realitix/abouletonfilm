@@ -1,1 +1,0 @@
-{"tmdb_id": 269202, "title": "Delfine 3D", "original_title": "Delfine 3D", "slug_title": "delfine-3d", "date": "2014-01-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qEG4IYk5ReC9KmGzl0afyZX8SOp.jpg", "actors": [], "comments": [], "recommandations_id": []}

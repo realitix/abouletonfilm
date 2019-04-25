@@ -1,1 +1,0 @@
-{"tmdb_id": 459501, "title": "Thunder and Hurricane", "original_title": "Thunder and Hurricane", "slug_title": "thunder-and-hurricane", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hgQRJIV1s8NjWxu6D08eAjIRaGF.jpg", "actors": [], "comments": [], "recommandations_id": []}

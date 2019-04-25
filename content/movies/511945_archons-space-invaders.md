@@ -1,1 +1,0 @@
-{"tmdb_id": 511945, "title": "ARCHONS... SPACE INVADERS", "original_title": "ARCHONS... SPACE INVADERS", "slug_title": "archons-space-invaders", "date": "2011-06-26", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Nichols (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 253225, "title": "Shadowland: Edge Of Night", "original_title": "Shadowland: Edge Of Night", "slug_title": "shadowland-edge-of-night", "date": "2009-02-28", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lQmrJrzUIhTwayZyTVBRmYodNMk.jpg", "actors": [], "comments": [], "recommandations_id": []}

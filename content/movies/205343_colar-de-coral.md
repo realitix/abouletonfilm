@@ -1,1 +1,0 @@
-{"tmdb_id": 205343, "title": "Colar de Coral", "original_title": "Colar de Coral", "slug_title": "colar-de-coral", "date": "1952-03-19", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mary Gon\u00e7alves ()", "Elizabeth Henreid ()", "Douglas Michalany ()"], "comments": [], "recommandations_id": []}

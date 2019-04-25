@@ -1,1 +1,0 @@
-{"tmdb_id": 186266, "title": "The Two Faces of Auschwitz", "original_title": "Album(s) d'Auschwitz", "slug_title": "the-two-faces-of-auschwitz", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vdPsp6QGe0pk6vxw1CgVBpCdV8A.jpg", "actors": [], "comments": [], "recommandations_id": []}

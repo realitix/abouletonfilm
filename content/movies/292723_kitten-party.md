@@ -1,1 +1,0 @@
-{"tmdb_id": 292723, "title": "Kitten Party", "original_title": "Kitten Party", "slug_title": "kitten-party", "date": "2010-10-12", "genre": "Familial", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/83f5FQzgc2AQnUKCl4oxFi6LZzt.jpg", "actors": [], "comments": [], "recommandations_id": []}

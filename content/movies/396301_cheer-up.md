@@ -1,1 +1,0 @@
-{"tmdb_id": 396301, "title": "Cheer Up", "original_title": "Cheer Up", "slug_title": "cheer-up", "date": "2016-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ii1jtMq3hJtFbZXXxiL3BTKdu6G.jpg", "actors": [], "comments": [], "recommandations_id": []}

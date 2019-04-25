@@ -1,1 +1,0 @@
-{"tmdb_id": 421544, "title": "A Strange Adventure", "original_title": "A Strange Adventure", "slug_title": "a-strange-adventure", "date": "1917-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

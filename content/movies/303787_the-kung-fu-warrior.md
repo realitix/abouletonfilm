@@ -1,1 +1,0 @@
-{"tmdb_id": 303787, "title": "The Kung Fu Warrior", "original_title": "Chu cu chuo tou fa cu cai", "slug_title": "the-kung-fu-warrior", "date": "1980-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vEDwSjCIXACAYb7q7ONpPYcSRBU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 493298, "title": "Adda: Calcutta, Kolkata", "original_title": "Adda: Calcutta, Kolkata", "slug_title": "adda-calcutta-kolkata", "date": "2011-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sKKI18KOOrfCCYHxPrjMMVNuLZo.jpg", "actors": [], "comments": [], "recommandations_id": []}

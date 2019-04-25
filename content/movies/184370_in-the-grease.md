@@ -1,1 +1,0 @@
-{"tmdb_id": 184370, "title": "In the Grease", "original_title": "In the Grease", "slug_title": "in-the-grease", "date": "1925-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Finlayson ()"], "comments": [], "recommandations_id": []}

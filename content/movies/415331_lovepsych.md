@@ -1,1 +1,0 @@
-{"tmdb_id": 415331, "title": "Lovepsych", "original_title": "Lovepsych", "slug_title": "lovepsych", "date": "2014-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6l9RLXDc3fHy3xbvQCEuNwLrUPE.jpg", "actors": [], "comments": [], "recommandations_id": []}

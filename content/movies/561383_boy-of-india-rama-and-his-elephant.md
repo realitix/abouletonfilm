@@ -1,1 +1,0 @@
-{"tmdb_id": 561383, "title": "Boy Of India: Rama And His Elephant", "original_title": "Boy Of India: Rama And His Elephant", "slug_title": "boy-of-india-rama-and-his-elephant", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

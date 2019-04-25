@@ -1,1 +1,0 @@
-{"tmdb_id": 450876, "title": "Aliena Kadabra", "original_title": "Aliena Kadabra", "slug_title": "aliena-kadabra", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

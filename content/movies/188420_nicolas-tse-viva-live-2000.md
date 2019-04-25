@@ -1,1 +1,0 @@
-{"tmdb_id": 188420, "title": "Nicolas Tse Viva Live 2000", "original_title": "Nicolas Tse Viva Live 2000", "slug_title": "nicolas-tse-viva-live-2000", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

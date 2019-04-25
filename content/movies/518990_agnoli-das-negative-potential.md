@@ -1,1 +1,0 @@
-{"tmdb_id": 518990, "title": "Agnoli - Das negative Potential", "original_title": "Agnoli - Das negative Potential", "slug_title": "agnoli-das-negative-potential", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Johannes Agnoli ()", "Christoph Burgmer ()"], "comments": [], "recommandations_id": []}

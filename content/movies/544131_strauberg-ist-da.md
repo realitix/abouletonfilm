@@ -1,1 +1,0 @@
-{"tmdb_id": 544131, "title": "Strauberg ist da", "original_title": "Strauberg ist da", "slug_title": "strauberg-ist-da", "date": "1978-02-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Theodor Kotulla ()", "Bernadette Lafont ()", "Michel Piccoli ()"], "comments": [], "recommandations_id": []}

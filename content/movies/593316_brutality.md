@@ -1,1 +1,0 @@
-{"tmdb_id": 593316, "title": "Brutality", "original_title": "Brutality", "slug_title": "brutality", "date": "2018-11-27", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

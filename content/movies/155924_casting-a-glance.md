@@ -1,1 +1,0 @@
-{"tmdb_id": 155924, "title": "casting a glance", "original_title": "casting a glance", "slug_title": "casting-a-glance", "date": "2007-01-06", "genre": "Documentaire", "score": "7.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/GHZsrX33IsC0OzUwhGsfllvkCw.jpg", "actors": [], "comments": [], "recommandations_id": [162445, 44570, 128312]}

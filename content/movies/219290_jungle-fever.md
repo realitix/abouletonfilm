@@ -1,1 +1,0 @@
-{"tmdb_id": 219290, "title": "Jungle Fever", "original_title": "Jungle Fever", "slug_title": "jungle-fever", "date": "1994-09-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 516838, "title": "Bob the Buck", "original_title": "Bob the Buck", "slug_title": "bob-the-buck", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Wanek ()", "Jon McGlocklin ()", "Eddie Doucette ()", "Terry Stotts ()"], "comments": [], "recommandations_id": []}

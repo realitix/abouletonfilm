@@ -1,1 +1,0 @@
-{"tmdb_id": 561986, "title": "Where the Poppies Grow: The Lakehead at War", "original_title": "Where the Poppies Grow: The Lakehead at War", "slug_title": "where-the-poppies-grow-the-lakehead-at-war", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

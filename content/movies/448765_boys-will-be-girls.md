@@ -1,1 +1,0 @@
-{"tmdb_id": 448765, "title": "Boys Will Be Girls", "original_title": "Boys Will Be Girls", "slug_title": "boys-will-be-girls", "date": "1936-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leslie Fuller (Bill Jenkins)"], "comments": [], "recommandations_id": []}

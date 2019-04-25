@@ -1,1 +1,0 @@
-{"tmdb_id": 374712, "title": "TNA - Against All Odds 2010", "original_title": "TNA - Against All Odds 2010", "slug_title": "tna-against-all-odds-2010", "date": "2010-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zpQCbMclL4SsjM5xGRlw55YLh37.jpg", "actors": [], "comments": [], "recommandations_id": []}

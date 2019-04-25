@@ -1,1 +1,0 @@
-{"tmdb_id": 593124, "title": "Amai ase", "original_title": "\u7518\u3044\u6c57", "slug_title": "amai-ase", "date": "1964-09-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Machiko Ky\u014d ()", "Keiji Sada ()", "Junko Ikeuchi ()", "Miyuki Kuwano ()", "Eitar\u00f4 Ozawa ()"], "comments": [], "recommandations_id": []}

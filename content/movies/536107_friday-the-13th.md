@@ -1,1 +1,0 @@
-{"tmdb_id": 536107, "title": "Friday the 13th", "original_title": "Friday the 13th", "slug_title": "friday-the-13th", "date": "1923-02-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marcel Perez (Tweedy)"], "comments": [], "recommandations_id": []}

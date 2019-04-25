@@ -1,1 +1,0 @@
-{"tmdb_id": 518117, "title": "A Part Of Me", "original_title": "A Part Of Me", "slug_title": "a-part-of-me", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f9IJ7cp8pds75QYa17bCgm5NNZT.jpg", "actors": [], "comments": [], "recommandations_id": []}

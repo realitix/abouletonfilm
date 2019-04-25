@@ -1,1 +1,0 @@
-{"tmdb_id": 360070, "title": "In Girum Imus Nocte", "original_title": "In Girum Imus Nocte", "slug_title": "in-girum-imus-nocte", "date": "2015-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tCLVb94ed4jDeNtcbpfAPPW7UWj.jpg", "actors": [], "comments": [], "recommandations_id": []}

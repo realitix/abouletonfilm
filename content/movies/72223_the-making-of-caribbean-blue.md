@@ -1,1 +1,0 @@
-{"tmdb_id": 72223, "title": "The Making of Caribbean Blue", "original_title": "The Making of Caribbean Blue", "slug_title": "the-making-of-caribbean-blue", "date": "2009-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

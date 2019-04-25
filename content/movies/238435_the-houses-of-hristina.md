@@ -1,1 +1,0 @@
-{"tmdb_id": 238435, "title": "The Houses of Hristina", "original_title": "The Houses of Hristina", "slug_title": "the-houses-of-hristina", "date": "2007-11-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iHw5dcikYFYxD56zmptAlJn3lkf.jpg", "actors": [], "comments": [], "recommandations_id": []}

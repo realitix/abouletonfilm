@@ -1,1 +1,0 @@
-{"tmdb_id": 88078, "title": "Four Jacks", "original_title": "Four Jacks", "slug_title": "four-jacks", "date": "2001-08-07", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fb4o7DCiPvCyPZrc1tlp7yaF6bH.jpg", "actors": ["Stephen Pease ()", "Lachy Hulme ()", "Tommy Dysart ()"], "comments": [], "recommandations_id": []}

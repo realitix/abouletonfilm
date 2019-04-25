@@ -1,1 +1,0 @@
-{"tmdb_id": 515623, "title": "The Traffic Separating Device", "original_title": "Sp\u00e5rviddshinder", "slug_title": "the-traffic-separating-device", "date": "2018-04-02", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5VKOBtVsC0GEVe7WPBKxXU61uxU.jpg", "actors": [], "comments": [], "recommandations_id": []}

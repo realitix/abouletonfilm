@@ -1,1 +1,0 @@
-{"tmdb_id": 209700, "title": "Gunderson's", "original_title": "Gunderson's", "slug_title": "gunderson-s", "date": "", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Azulay (Max)", "Timothy J. Cox (Principal Cox)", "Dan Azulay (Dr. Grossman)"], "comments": [], "recommandations_id": []}

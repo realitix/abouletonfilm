@@ -1,1 +1,0 @@
-{"tmdb_id": 156217, "title": "Bi Maxx, Volume 36", "original_title": "Bi Maxx, Volume 36", "slug_title": "bi-maxx-volume-36", "date": "2010-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yb7Y7yfdCZjQalsbPxJ3pKGs8Xo.jpg", "actors": ["Kira Black ()", "Jennifer B. ()"], "comments": [], "recommandations_id": []}

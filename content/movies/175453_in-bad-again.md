@@ -1,1 +1,0 @@
-{"tmdb_id": 175453, "title": "In Bad Again", "original_title": "In Bad Again", "slug_title": "in-bad-again", "date": "1921-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

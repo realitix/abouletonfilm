@@ -1,1 +1,0 @@
-{"tmdb_id": 311511, "title": "Resham Dankh", "original_title": "Resham Dankh", "slug_title": "resham-dankh", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

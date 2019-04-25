@@ -1,1 +1,0 @@
-{"tmdb_id": 536957, "title": "Die Herren der Spiele", "original_title": "Die Herren der Spiele", "slug_title": "die-herren-der-spiele", "date": "2012-05-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8TdP922kiz6mLsdWJb0VFSuimZO.jpg", "actors": [], "comments": [], "recommandations_id": []}

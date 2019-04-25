@@ -1,1 +1,0 @@
-{"tmdb_id": 548847, "title": "Uromania", "original_title": "Uromania", "slug_title": "uromania", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/epHrVrNyYW0t3BHmzeSoC46fj9x.jpg", "actors": ["Beate ()", "Elvira ()", "Biggi ()", "Karina ()"], "comments": [], "recommandations_id": []}

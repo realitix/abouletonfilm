@@ -1,1 +1,0 @@
-{"tmdb_id": 136830, "title": "Jak se \u0161evcem \u0161ili \u010derti", "original_title": "Jak se \u0161evcem \u0161ili \u010derti", "slug_title": "jak-se-sevcem-sili-certi", "date": "1975-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

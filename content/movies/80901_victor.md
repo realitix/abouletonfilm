@@ -1,1 +1,0 @@
-{"tmdb_id": 80901, "title": "Victor", "original_title": "Victor", "slug_title": "victor", "date": "2008-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1MplQJ2KN90rOrr4JkSa3DjGpzL.jpg", "actors": ["Mark Lutz ()", "Ron Lea ()", "Peter MacNeill ()"], "comments": [], "recommandations_id": []}

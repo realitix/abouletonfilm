@@ -1,1 +1,0 @@
-{"tmdb_id": 553765, "title": "Novos Horizontes", "original_title": "Novos Horizontes", "slug_title": "novos-horizontes", "date": "1934-07-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

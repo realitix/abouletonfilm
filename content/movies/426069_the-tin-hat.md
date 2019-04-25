@@ -1,1 +1,0 @@
-{"tmdb_id": 426069, "title": "The Tin Hat", "original_title": "The Tin Hat", "slug_title": "the-tin-hat", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/O4c78qiDFcGBqAdZjQGRnyIfYl.jpg", "actors": [], "comments": [], "recommandations_id": []}

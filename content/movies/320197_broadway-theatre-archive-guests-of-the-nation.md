@@ -1,1 +1,0 @@
-{"tmdb_id": 320197, "title": "Broadway Theatre Archive: Guests of the Nation", "original_title": "Broadway Theatre Archive: Guests of the Nation", "slug_title": "broadway-theatre-archive-guests-of-the-nation", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

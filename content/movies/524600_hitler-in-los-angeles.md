@@ -1,1 +1,0 @@
-{"tmdb_id": 524600, "title": "Hitler in Los Angeles", "original_title": "Hitler in Los Angeles", "slug_title": "hitler-in-los-angeles", "date": "", "genre": "Histoire / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

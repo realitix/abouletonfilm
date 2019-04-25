@@ -1,1 +1,0 @@
-{"tmdb_id": 464963, "title": "Photographic Memory", "original_title": "Photographic Memory", "slug_title": "photographic-memory", "date": "2012-07-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vGvX9HloL5DPqLnaaaScZuHARGu.jpg", "actors": [], "comments": [], "recommandations_id": []}

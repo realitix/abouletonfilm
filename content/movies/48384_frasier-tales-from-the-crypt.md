@@ -1,1 +1,0 @@
-{"tmdb_id": 48384, "title": "Frasier-Tales From the Crypt", "original_title": "Frasier-Tales From the Crypt", "slug_title": "frasier-tales-from-the-crypt", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kelsey Grammer (Frasier Crane)"], "comments": [], "recommandations_id": []}

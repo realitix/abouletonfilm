@@ -1,1 +1,0 @@
-{"tmdb_id": 380584, "title": "Atsay Killer: Buti Nga Sa'yo", "original_title": "Atsay Killer: Buti Nga Sa'yo", "slug_title": "atsay-killer-buti-nga-sa-yo", "date": "1984-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jkiMR1CS7HJr1KTxRVCTA8923bl.jpg", "actors": [], "comments": [], "recommandations_id": []}

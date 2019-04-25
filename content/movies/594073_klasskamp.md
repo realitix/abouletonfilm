@@ -1,1 +1,0 @@
-{"tmdb_id": 594073, "title": "Klasskamp", "original_title": "Klasskamp", "slug_title": "klasskamp", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniel Gille ()", "Julia Gronowitz ()"], "comments": [], "recommandations_id": []}

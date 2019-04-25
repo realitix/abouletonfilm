@@ -1,1 +1,0 @@
-{"tmdb_id": 391794, "title": "Butch Harmon's Ultimate Golf", "original_title": "Butch Harmon's Ultimate Golf", "slug_title": "butch-harmon-s-ultimate-golf", "date": "2006-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

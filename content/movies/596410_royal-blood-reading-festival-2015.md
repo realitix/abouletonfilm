@@ -1,1 +1,0 @@
-{"tmdb_id": 596410, "title": "Royal Blood Reading Festival 2015", "original_title": "Royal Blood Reading Festival 2015", "slug_title": "royal-blood-reading-festival-2015", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cDZX4B21jANtfkYGiiWQTH92JHa.jpg", "actors": [], "comments": [], "recommandations_id": []}

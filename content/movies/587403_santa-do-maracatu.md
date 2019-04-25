@@ -1,1 +1,0 @@
-{"tmdb_id": 587403, "title": "Santa do Maracatu", "original_title": "Santa do Maracatu", "slug_title": "santa-do-maracatu", "date": "1980-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

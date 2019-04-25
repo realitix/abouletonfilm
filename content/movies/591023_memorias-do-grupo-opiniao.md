@@ -1,1 +1,0 @@
-{"tmdb_id": 591023, "title": "Mem\u00f3rias do Grupo Opini\u00e3o", "original_title": "Mem\u00f3rias do Grupo Opini\u00e3o", "slug_title": "memorias-do-grupo-opiniao", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

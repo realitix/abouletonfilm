@@ -1,1 +1,0 @@
-{"tmdb_id": 149416, "title": "Stanley Pickle", "original_title": "Stanley Pickle", "slug_title": "stanley-pickle", "date": "2010-06-06", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4ZtXejQZsoDND5bDRLBpQhaC57h.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 509120, "title": "Our Lips Are Sealed", "original_title": "Our Lips Are Sealed", "slug_title": "our-lips-are-sealed", "date": "2012-08-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/anxjruLeZOim9AzcDcAW60vEQHB.jpg", "actors": [], "comments": [], "recommandations_id": []}

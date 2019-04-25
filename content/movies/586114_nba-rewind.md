@@ -1,1 +1,0 @@
-{"tmdb_id": 586114, "title": "NBA rewind", "original_title": "NBA rewind", "slug_title": "nba-rewind", "date": "1994-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5m3Mvu2VRh7VOm7SVxOx8JiRWzR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 65878, "title": "Fishing Platform", "original_title": "Jermal", "slug_title": "fishing-platform", "date": "2009-03-15", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uDd9YVipt9kHDPuvUXrtHoLhgI8.jpg", "actors": ["Didi Petet ()"], "comments": [], "recommandations_id": []}

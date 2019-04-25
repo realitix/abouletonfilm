@@ -1,1 +1,0 @@
-{"tmdb_id": 313122, "title": "Brian Setzer: The Guitar of Brian Setzer", "original_title": "Brian Setzer: The Guitar of Brian Setzer", "slug_title": "brian-setzer-the-guitar-of-brian-setzer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

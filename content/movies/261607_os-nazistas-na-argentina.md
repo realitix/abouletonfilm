@@ -1,1 +1,0 @@
-{"tmdb_id": 261607, "title": "Os Nazistas na Argentina", "original_title": "Os Nazistas na Argentina", "slug_title": "os-nazistas-na-argentina", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

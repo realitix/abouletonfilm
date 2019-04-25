@@ -1,1 +1,0 @@
-{"tmdb_id": 384745, "title": "Logik des Gef\u00fchls", "original_title": "Logik des Gef\u00fchls", "slug_title": "logik-des-gefuhls", "date": "1982-10-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bruno Ganz ()", "Klaus Hoffmann ()", "R\u00fcdiger Vogler ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 250804, "title": "The 72 Desperate Rebels", "original_title": "Qi shi er sha xing", "slug_title": "the-72-desperate-rebels", "date": "1978-01-02", "genre": "Action", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o6InjtUfWByXJACLDS5ypIUbwsf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 369494, "title": "Die erfrischende Pause", "original_title": "Die erfrischende Pause", "slug_title": "die-erfrischende-pause", "date": "1939-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

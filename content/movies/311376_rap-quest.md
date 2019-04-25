@@ -1,1 +1,0 @@
-{"tmdb_id": 311376, "title": "Rap Quest", "original_title": "Rap Quest", "slug_title": "rap-quest", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

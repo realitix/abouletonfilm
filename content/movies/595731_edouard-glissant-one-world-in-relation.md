@@ -1,1 +1,0 @@
-{"tmdb_id": 595731, "title": "\u00c9douard Glissant: One World in Relation", "original_title": "\u00c9douard Glissant: One World in Relation", "slug_title": "edouard-glissant-one-world-in-relation", "date": "2009-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

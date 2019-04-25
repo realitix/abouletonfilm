@@ -1,1 +1,0 @@
-{"tmdb_id": 331593, "title": "Middle-earth: There and Back Again", "original_title": "Middle-earth: There and Back Again", "slug_title": "middle-earth-there-and-back-again", "date": "2014-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

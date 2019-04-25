@@ -1,1 +1,0 @@
-{"tmdb_id": 318444, "title": "My World of Opera: Dame Kiri Te Kanawa", "original_title": "My World of Opera: Dame Kiri Te Kanawa", "slug_title": "my-world-of-opera-dame-kiri-te-kanawa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

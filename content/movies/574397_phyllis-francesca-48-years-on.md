@@ -1,1 +1,0 @@
-{"tmdb_id": 574397, "title": "Phyllis & Francesca 48 Years On", "original_title": "Phyllis & Francesca 48 Years On", "slug_title": "phyllis-francesca-48-years-on", "date": "2018-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 269191, "title": "Puberun", "original_title": "Puberun", "slug_title": "puberun", "date": "1960-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nFxxK2w6EAIYojoxaaoNMLdaqJx.jpg", "actors": [], "comments": [], "recommandations_id": []}

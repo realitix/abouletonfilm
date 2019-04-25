@@ -1,1 +1,0 @@
-{"tmdb_id": 569339, "title": "The Valerie Solanas Incident", "original_title": "The Valerie Solanas Incident", "slug_title": "the-valerie-solanas-incident", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

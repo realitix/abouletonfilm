@@ -1,1 +1,0 @@
-{"tmdb_id": 235692, "title": "Cryptic Plasm", "original_title": "Cryptic Plasm", "slug_title": "cryptic-plasm", "date": "2013-11-07", "genre": "Horreur / Fantastique / Science-Fiction", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nLDfEsH416u1m7T9nN5pvPDVYgL.jpg", "actors": [], "comments": [], "recommandations_id": []}

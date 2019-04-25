@@ -1,1 +1,0 @@
-{"tmdb_id": 264416, "title": "The Stone River", "original_title": "The Stone River", "slug_title": "the-stone-river", "date": "2013-11-10", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5nsKW2KlgTyKksJMTjgNeqXEehP.jpg", "actors": [], "comments": [], "recommandations_id": []}

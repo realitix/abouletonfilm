@@ -1,1 +1,0 @@
-{"tmdb_id": 343681, "title": "Dvd Studio 100: dierenplezier", "original_title": "Dvd Studio 100: dierenplezier", "slug_title": "dvd-studio-100-dierenplezier", "date": "2007-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rmQt1JU1B7MSJSM3uk1XiGNg7Jv.jpg", "actors": [], "comments": [], "recommandations_id": []}

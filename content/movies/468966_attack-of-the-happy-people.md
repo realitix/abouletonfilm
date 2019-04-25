@@ -1,1 +1,0 @@
-{"tmdb_id": 468966, "title": "Attack of the Happy People", "original_title": "Attack of the Happy People", "slug_title": "attack-of-the-happy-people", "date": "2003-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

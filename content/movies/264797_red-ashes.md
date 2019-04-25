@@ -1,1 +1,0 @@
-{"tmdb_id": 264797, "title": "Red Ashes", "original_title": "Red Ashes", "slug_title": "red-ashes", "date": "2013-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

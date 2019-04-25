@@ -1,1 +1,0 @@
-{"tmdb_id": 374153, "title": "Alice's Knaughty Knight", "original_title": "Alice's Knaughty Knight", "slug_title": "alice-s-knaughty-knight", "date": "1927-05-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lois Hardwick (Alice)"], "comments": [], "recommandations_id": []}

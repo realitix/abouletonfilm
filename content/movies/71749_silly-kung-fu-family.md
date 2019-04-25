@@ -1,1 +1,0 @@
-{"tmdb_id": 71749, "title": "Silly Kung Fu Family", "original_title": "Silly Kung Fu Family", "slug_title": "silly-kung-fu-family", "date": "2007-05-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tV3908JvIGhE5aoZaFOSRkzyhDi.jpg", "actors": [], "comments": [], "recommandations_id": []}

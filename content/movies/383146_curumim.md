@@ -1,1 +1,0 @@
-{"tmdb_id": 383146, "title": "Curumim", "original_title": "Curumim", "slug_title": "curumim", "date": "2016-02-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lQ0DvBESc2pNHmoV4PyA0XRdNfb.jpg", "actors": [], "comments": [], "recommandations_id": []}

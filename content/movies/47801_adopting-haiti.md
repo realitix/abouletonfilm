@@ -1,1 +1,0 @@
-{"tmdb_id": 47801, "title": "Adopting Haiti", "original_title": "Adopting Haiti", "slug_title": "adopting-haiti", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nuWnbK0pwko6j2v2Rb6fFny1PHN.jpg", "actors": [], "comments": [], "recommandations_id": []}

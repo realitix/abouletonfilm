@@ -1,1 +1,0 @@
-{"tmdb_id": 304767, "title": "At the Opera", "original_title": "En la opera", "slug_title": "at-the-opera", "date": "2010-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gl96wKJ4YogKuvAfy32uYdT2N5i.jpg", "actors": [], "comments": [], "recommandations_id": []}

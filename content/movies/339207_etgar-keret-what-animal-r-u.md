@@ -1,1 +1,0 @@
-{"tmdb_id": 339207, "title": "Etgar Keret What Animal R U?", "original_title": "Etgar Keret What Animal R U?", "slug_title": "etgar-keret-what-animal-r-u", "date": "2013-10-05", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

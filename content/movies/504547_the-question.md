@@ -1,1 +1,0 @@
-{"tmdb_id": 504547, "title": "The Question", "original_title": "The Question", "slug_title": "the-question", "date": "2017-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Zgj7nqgZR0c7zgef62i1UChskp.jpg", "actors": [], "comments": [], "recommandations_id": []}

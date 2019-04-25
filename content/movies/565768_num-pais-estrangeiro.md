@@ -1,1 +1,0 @@
-{"tmdb_id": 565768, "title": "Num Pa\u00eds Estrangeiro", "original_title": "Num Pa\u00eds Estrangeiro", "slug_title": "num-pais-estrangeiro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3rHjFIlwg5SLzvd6uL86YbolUzh.jpg", "actors": [], "comments": [], "recommandations_id": []}

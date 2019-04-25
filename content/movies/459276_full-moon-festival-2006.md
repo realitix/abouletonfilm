@@ -1,1 +1,0 @@
-{"tmdb_id": 459276, "title": "Full Moon Festival 2006", "original_title": "Full Moon Festival 2006", "slug_title": "full-moon-festival-2006", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 580206, "title": "Otra mujer", "original_title": "Otra mujer", "slug_title": "otra-mujer", "date": "1986-02-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c9V2LCfdfeIfdKOkzhFRbF7HkY1.jpg", "actors": [], "comments": [], "recommandations_id": []}

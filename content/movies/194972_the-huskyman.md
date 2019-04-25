@@ -1,1 +1,0 @@
-{"tmdb_id": 194972, "title": "The Huskyman", "original_title": "Der Husky Mann", "slug_title": "the-huskyman", "date": "2013-01-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qUFzJgODOMU01iS9Pob4hdKFeFW.jpg", "actors": [], "comments": [], "recommandations_id": []}

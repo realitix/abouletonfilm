@@ -1,1 +1,0 @@
-{"tmdb_id": 587405, "title": "Repossessed", "original_title": "Repossessed", "slug_title": "repossessed", "date": "2006-01-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter McCarthy (Himself)", "Alex Cox (Himself)", "Jonathan Wacks (Himself)"], "comments": [], "recommandations_id": []}

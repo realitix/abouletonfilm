@@ -1,1 +1,0 @@
-{"tmdb_id": 289395, "title": "Mojados: Through The Night", "original_title": "Mojados: Through The Night", "slug_title": "mojados-through-the-night", "date": "2004-03-12", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iRbBQWmTpQxCljgFzCdcMNR0cqw.jpg", "actors": [], "comments": [], "recommandations_id": []}

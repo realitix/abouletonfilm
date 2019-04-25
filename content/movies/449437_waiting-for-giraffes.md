@@ -1,1 +1,0 @@
-{"tmdb_id": 449437, "title": "Waiting For Giraffes", "original_title": "Waiting For Giraffes", "slug_title": "waiting-for-giraffes", "date": "2016-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aR1texewJCcOHbJLcJ9G5v1HCjR.jpg", "actors": [], "comments": [], "recommandations_id": []}

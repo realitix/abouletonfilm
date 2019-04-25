@@ -1,1 +1,0 @@
-{"tmdb_id": 463596, "title": "Att vara zigarne", "original_title": "Att vara zigarne", "slug_title": "att-vara-zigarne", "date": "1970-12-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tdX5Y34GEKAVjVfkoviNCTFZEqN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 190623, "title": "University Procession on Degree Day, Birmingham", "original_title": "University Procession on Degree Day, Birmingham", "slug_title": "university-procession-on-degree-day-birmingham", "date": "1901-07-06", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

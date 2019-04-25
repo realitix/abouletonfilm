@@ -1,1 +1,0 @@
-{"tmdb_id": 568024, "title": "Ed, Edd n Eddy\u2019s Jingle Jingle Jangle", "original_title": "Ed, Edd n Eddy\u2019s Jingle Jingle Jangle", "slug_title": "ed-edd-n-eddys-jingle-jingle-jangle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

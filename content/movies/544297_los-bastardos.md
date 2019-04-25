@@ -1,1 +1,0 @@
-{"tmdb_id": 544297, "title": "Los Bastardos", "original_title": "Los Bastardos", "slug_title": "los-bastardos", "date": "2018-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rgFFM0quAKUXSFW9UgNJuPpx6Iw.jpg", "actors": [], "comments": [], "recommandations_id": []}

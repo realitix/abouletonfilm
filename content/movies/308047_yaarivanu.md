@@ -1,1 +1,0 @@
-{"tmdb_id": 308047, "title": "Yaarivanu", "original_title": "Yaarivanu", "slug_title": "yaarivanu", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

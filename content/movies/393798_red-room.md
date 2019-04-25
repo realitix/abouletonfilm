@@ -1,1 +1,0 @@
-{"tmdb_id": 393798, "title": "Red Room", "original_title": "Red Room", "slug_title": "red-room", "date": "1992-04-20", "genre": "Thriller / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b7NUouuGuhoIqUGTeTeCbVy69AW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 484221, "title": "Are You Afraid Yet?", "original_title": "Are You Afraid Yet?", "slug_title": "are-you-afraid-yet", "date": "2017-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

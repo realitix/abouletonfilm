@@ -1,1 +1,0 @@
-{"tmdb_id": 260123, "title": "Mars Baby", "original_title": "\u706b\u661f\u5b9d\u8d1d\u4e4b\u706b\u661f\u6ca1\u4e8b", "slug_title": "mars-baby", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 122341, "title": "Pine Flat", "original_title": "Pine Flat", "slug_title": "pine-flat", "date": "2006-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/37WAktfV3A1Qy4Sny2pp6dWxdoA.jpg", "actors": [], "comments": [], "recommandations_id": []}

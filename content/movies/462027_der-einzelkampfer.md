@@ -1,1 +1,0 @@
-{"tmdb_id": 462027, "title": "Der Einzelk\u00e4mpfer", "original_title": "Der Einzelk\u00e4mpfer", "slug_title": "der-einzelkampfer", "date": "2017-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

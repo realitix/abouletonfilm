@@ -1,1 +1,0 @@
-{"tmdb_id": 305233, "title": "Love Market", "original_title": "Love Market", "slug_title": "love-market", "date": "2009-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

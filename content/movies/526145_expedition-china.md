@@ -1,1 +1,0 @@
-{"tmdb_id": 526145, "title": "Expedition China", "original_title": "Expedition China", "slug_title": "expedition-china", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f0eR5MbFRRfgIKnaewDXJOhYMLm.jpg", "actors": ["Maggie Q ()"], "comments": [], "recommandations_id": []}

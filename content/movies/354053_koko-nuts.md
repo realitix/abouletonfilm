@@ -1,1 +1,0 @@
-{"tmdb_id": 354053, "title": "Koko Nuts", "original_title": "Koko Nuts", "slug_title": "koko-nuts", "date": "1925-10-15", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1eYYLJnhp5icQXkWtKzkwAa8Zuk.jpg", "actors": ["Max Fleischer (Himself)"], "comments": [], "recommandations_id": []}

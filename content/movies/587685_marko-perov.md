@@ -1,1 +1,0 @@
-{"tmdb_id": 587685, "title": "Marko Perov", "original_title": "Marko Perov", "slug_title": "marko-perov", "date": "1975-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 502238, "title": "Otonojyousi", "original_title": "Otonojyousi", "slug_title": "otonojyousi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

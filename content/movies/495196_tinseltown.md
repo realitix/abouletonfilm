@@ -1,1 +1,0 @@
-{"tmdb_id": 495196, "title": "Tinseltown", "original_title": "Tinseltown", "slug_title": "tinseltown", "date": "2016-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

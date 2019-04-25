@@ -1,1 +1,0 @@
-{"tmdb_id": 503466, "title": "Winterfarbe II", "original_title": "Winterfarbe II", "slug_title": "winterfarbe-ii", "date": "1973-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tnTcRYdHjjYgEW2kJ7DZxYeYt7z.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 581841, "title": "A Time for Witches", "original_title": "Pora na czarownice", "slug_title": "a-time-for-witches", "date": "1993-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

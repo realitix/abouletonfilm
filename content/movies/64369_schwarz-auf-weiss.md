@@ -1,1 +1,0 @@
-{"tmdb_id": 64369, "title": "Schwarz auf Weiss", "original_title": "Schwarz auf Weiss", "slug_title": "schwarz-auf-weiss", "date": "2009-10-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jogmoVkmuW3MMLdZV8MvJ8OeRCN.jpg", "actors": [], "comments": [], "recommandations_id": []}

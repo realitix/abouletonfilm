@@ -1,1 +1,0 @@
-{"tmdb_id": 353518, "title": "Lolla Palooza Brasil 2014.Melhores Momentos 1", "original_title": "Lolla Palooza Brasil 2014.Melhores Momentos 1", "slug_title": "lolla-palooza-brasil-2014-melhores-momentos-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 42956, "title": "Beethoven - Symphony No. 9", "original_title": "Beethoven - Symphony No. 9", "slug_title": "beethoven-symphony-no-9", "date": "1968-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Herbert von Karajan (Himself)"], "comments": [], "recommandations_id": []}

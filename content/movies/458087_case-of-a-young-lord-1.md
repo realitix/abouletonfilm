@@ -1,1 +1,0 @@
-{"tmdb_id": 458087, "title": "Case of a Young Lord 1", "original_title": "Case of a Young Lord 1", "slug_title": "case-of-a-young-lord-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8sxHGLY8KbK1ZQDlVmZhBUsHne0.jpg", "actors": [], "comments": [], "recommandations_id": []}

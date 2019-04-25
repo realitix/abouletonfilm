@@ -1,1 +1,0 @@
-{"tmdb_id": 411621, "title": "The Denver Dude", "original_title": "The Denver Dude", "slug_title": "the-denver-dude", "date": "1927-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/abYIfyKpeesTQdGOkXYxGWdfDnG.jpg", "actors": [], "comments": [], "recommandations_id": []}

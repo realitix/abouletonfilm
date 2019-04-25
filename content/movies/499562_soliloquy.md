@@ -1,1 +1,0 @@
-{"tmdb_id": 499562, "title": "Soliloquy", "original_title": "Soliloquy", "slug_title": "soliloquy", "date": "1967-01-01", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eXl02ch3jLdjixQF1sb6zEym3vA.jpg", "actors": ["Joan Adler (face)", "Leena Komppa (voice)"], "comments": [], "recommandations_id": []}

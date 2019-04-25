@@ -1,1 +1,0 @@
-{"tmdb_id": 577081, "title": "Khartoum Offside", "original_title": "Oufsaiyed Elkhortoum", "slug_title": "khartoum-offside", "date": "2019-02-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9MmL9H2y0XEK7jCxWozCXCNsvpi.jpg", "actors": [], "comments": [], "recommandations_id": []}

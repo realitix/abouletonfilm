@@ -1,1 +1,0 @@
-{"tmdb_id": 88682, "title": "Natascha: The Girl in the Cellar", "original_title": "Natascha Kampusch - 3096 Tage Gefangenschaft", "slug_title": "natascha-the-girl-in-the-cellar", "date": "2010-03-20", "genre": "Documentaire", "score": "6.1/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Natascha Kampusch (herself)"], "comments": [], "recommandations_id": []}

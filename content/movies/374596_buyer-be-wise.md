@@ -1,1 +1,0 @@
-{"tmdb_id": 374596, "title": "Buyer Be Wise", "original_title": "Buyer Be Wise", "slug_title": "buyer-be-wise", "date": "1982-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kQqm9nylCnx22F16QNaYLQQO9Sr.jpg", "actors": [], "comments": [], "recommandations_id": []}

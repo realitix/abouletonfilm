@@ -1,1 +1,0 @@
-{"tmdb_id": 183232, "title": "Hot Love: J\u00f6rg Buttgereits Super 8-Filme", "original_title": "Hot Love: J\u00f6rg Buttgereits Super 8-Filme", "slug_title": "hot-love-jorg-buttgereits-super-8-filme", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

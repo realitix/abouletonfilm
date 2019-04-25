@@ -1,1 +1,0 @@
-{"tmdb_id": 535967, "title": "Video Selfportrait", "original_title": "Video Selfportrait", "slug_title": "video-selfportrait", "date": "1971-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

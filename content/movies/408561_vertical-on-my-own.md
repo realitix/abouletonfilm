@@ -1,1 +1,0 @@
-{"tmdb_id": 408561, "title": "vertical on my own", "original_title": "vertical on my own", "slug_title": "vertical-on-my-own", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tHWmq56EaaW82z8SHx672oIeuwD.jpg", "actors": [], "comments": [], "recommandations_id": []}

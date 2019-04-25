@@ -1,1 +1,0 @@
-{"tmdb_id": 559634, "title": "My Daughter's Lover", "original_title": "My Daughter's Lover", "slug_title": "my-daughter-s-lover", "date": "2018-10-05", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7FdCTBVLPE4D7jZ0kCY2zwSMUHC.jpg", "actors": [], "comments": [], "recommandations_id": []}

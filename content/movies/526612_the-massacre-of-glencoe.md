@@ -1,1 +1,0 @@
-{"tmdb_id": 526612, "title": "The Massacre of Glencoe", "original_title": "The Massacre of Glencoe", "slug_title": "the-massacre-of-glencoe", "date": "1971-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kZFMEEf913KfXOMXwnBQxW8OsQE.jpg", "actors": [], "comments": [], "recommandations_id": []}

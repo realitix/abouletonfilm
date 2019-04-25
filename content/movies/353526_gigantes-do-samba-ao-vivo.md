@@ -1,1 +1,0 @@
-{"tmdb_id": 353526, "title": "Gigantes do Samba Ao Vivo", "original_title": "Gigantes do Samba Ao Vivo", "slug_title": "gigantes-do-samba-ao-vivo", "date": "2014-05-20", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vlzWLapwP2F1kxLHveJv5m4KEPv.jpg", "actors": [], "comments": [], "recommandations_id": []}

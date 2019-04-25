@@ -1,1 +1,0 @@
-{"tmdb_id": 260380, "title": "Prison of Women", "original_title": "Ret\u00e9n de mujeres", "slug_title": "prison-of-women", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1hu9ie8CG4RDzAWbYTecLnk6tdX.jpg", "actors": [], "comments": [], "recommandations_id": []}

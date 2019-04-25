@@ -1,1 +1,0 @@
-{"tmdb_id": 194176, "title": "La noche avanza", "original_title": "La noche avanza", "slug_title": "la-noche-avanza", "date": "1952-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ki293gTpfFw9SXIeVbT2FgQ1pe.jpg", "actors": [], "comments": [], "recommandations_id": []}

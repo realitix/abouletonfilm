@@ -1,1 +1,0 @@
-{"tmdb_id": 292588, "title": "Genghis Khan", "original_title": "Genghis Khan", "slug_title": "genghis-khan", "date": "1998-05-23", "genre": "Guerre / Aventure / Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dkGuBCXDx2tsd0scFwSgVpX1EkD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 528380, "title": "Hauntings Across America", "original_title": "Hauntings Across America", "slug_title": "hauntings-across-america", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

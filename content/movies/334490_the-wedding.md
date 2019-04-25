@@ -1,1 +1,0 @@
-{"tmdb_id": 334490, "title": "The Wedding", "original_title": "El zowaje", "slug_title": "the-wedding", "date": "1933-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mahmoud el-Meliguy ()", "Fatma Rouchdi ()"], "comments": [], "recommandations_id": []}

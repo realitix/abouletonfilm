@@ -1,1 +1,0 @@
-{"tmdb_id": 109958, "title": "Die Mongolettes", "original_title": "Die Mongolettes", "slug_title": "die-mongolettes", "date": "2012-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

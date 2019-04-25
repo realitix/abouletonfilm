@@ -1,1 +1,0 @@
-{"tmdb_id": 349770, "title": "\ub300\ud559\uc584\uac1c", "original_title": "\ub300\ud559\uc584\uac1c", "slug_title": "daehagyalgae", "date": "1982-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

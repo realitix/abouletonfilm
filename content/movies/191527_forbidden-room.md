@@ -1,1 +1,0 @@
-{"tmdb_id": 191527, "title": "Forbidden Room", "original_title": "Forbidden Room", "slug_title": "forbidden-room", "date": "2013-01-01", "genre": "Animation", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nzSeBeA8DE78E2ZtPAeRW95rhgv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 468924, "title": "Rhine River", "original_title": "Rheinstrom", "slug_title": "rhine-river", "date": "1966-03-29", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ca17dMAM58tXGy3n14ZF5Zcxm4x.jpg", "actors": ["Robert Wolfgang Schnell (Narrator (voice))"], "comments": [], "recommandations_id": []}

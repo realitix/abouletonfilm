@@ -1,1 +1,0 @@
-{"tmdb_id": 389009, "title": "Zwartziek", "original_title": "Zwartziek", "slug_title": "zwartziek", "date": "1975-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

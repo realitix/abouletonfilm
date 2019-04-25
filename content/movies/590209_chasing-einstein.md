@@ -1,1 +1,0 @@
-{"tmdb_id": 590209, "title": "Chasing Einstein", "original_title": "Chasing Einstein", "slug_title": "chasing-einstein", "date": "2019-03-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/arg6iSh9LHbLBiHj5oXhlUsRxGE.jpg", "actors": [], "comments": [], "recommandations_id": []}

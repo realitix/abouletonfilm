@@ -1,1 +1,0 @@
-{"tmdb_id": 490670, "title": "Taxi Meter", "original_title": "Taxi Metr", "slug_title": "taxi-meter", "date": "1967-12-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vv9LAWRRpkS8OkbVCRZjlUTYMMX.jpg", "actors": [], "comments": [], "recommandations_id": []}

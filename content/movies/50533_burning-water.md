@@ -1,1 +1,0 @@
-{"tmdb_id": 50533, "title": "Burning Water", "original_title": "Burning Water", "slug_title": "burning-water", "date": "2010-09-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

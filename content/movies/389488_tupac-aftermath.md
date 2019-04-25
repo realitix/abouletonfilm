@@ -1,1 +1,0 @@
-{"tmdb_id": 389488, "title": "Tupac - Aftermath", "original_title": "Tupac - Aftermath", "slug_title": "tupac-aftermath", "date": "2013-10-03", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ptkwhRGgwG5lFMRgYzpYBG6yKOr.jpg", "actors": ["Robert Pavlovich (Narrator)"], "comments": [], "recommandations_id": []}

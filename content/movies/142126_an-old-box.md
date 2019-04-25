@@ -1,1 +1,0 @@
-{"tmdb_id": 142126, "title": "An Old Box", "original_title": "Une Vieille Bo\u00eete", "slug_title": "an-old-box", "date": "1975-01-01", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i4El2e4aYSaOqDS3MJo8YBErMpj.jpg", "actors": [], "comments": [], "recommandations_id": []}

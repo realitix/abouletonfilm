@@ -1,1 +1,0 @@
-{"tmdb_id": 310572, "title": "The Rainbow Fish", "original_title": "The Rainbow Fish", "slug_title": "the-rainbow-fish", "date": "1997-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 305316, "title": "Some Thing Else", "original_title": "Some Thing Else", "slug_title": "some-thing-else", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wTZyLR6qvFgFMosqpSlEJwHtgka.jpg", "actors": [], "comments": [], "recommandations_id": []}

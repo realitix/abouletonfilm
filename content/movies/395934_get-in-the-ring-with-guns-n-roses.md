@@ -1,1 +1,0 @@
-{"tmdb_id": 395934, "title": "Get in the Ring with Guns N' Roses", "original_title": "Get in the Ring with Guns N' Roses", "slug_title": "get-in-the-ring-with-guns-n-roses", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

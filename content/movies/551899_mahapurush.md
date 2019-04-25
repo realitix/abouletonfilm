@@ -1,1 +1,0 @@
-{"tmdb_id": 551899, "title": "Mahapurush", "original_title": "Mahapurush", "slug_title": "mahapurush", "date": "2014-08-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xHWMxR6ok34UipTUnYDnx8cHS07.jpg", "actors": ["Brajen Bora ()", "Dinesh Das ()", "Gayatri Mahanta ()"], "comments": [], "recommandations_id": []}

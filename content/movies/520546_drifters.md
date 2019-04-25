@@ -1,1 +1,0 @@
-{"tmdb_id": 520546, "title": "Drifters", "original_title": "Drifters", "slug_title": "drifters", "date": "2018-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6k4gDN2DSR843ruHivXoFTGsy8h.jpg", "actors": [], "comments": [], "recommandations_id": []}

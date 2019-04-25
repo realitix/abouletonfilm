@@ -1,1 +1,0 @@
-{"tmdb_id": 219490, "title": "Glove Taps", "original_title": "Glove Taps", "slug_title": "glove-taps", "date": "1937-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4HOZQU9b1STG0mhw858OLxZqufJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

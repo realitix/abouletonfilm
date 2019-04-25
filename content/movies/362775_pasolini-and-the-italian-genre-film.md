@@ -1,1 +1,0 @@
-{"tmdb_id": 362775, "title": "Pasolini and the Italian Genre Film", "original_title": "Pasolini and the Italian Genre Film", "slug_title": "pasolini-and-the-italian-genre-film", "date": "2009-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

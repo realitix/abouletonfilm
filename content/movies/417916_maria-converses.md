@@ -1,1 +1,0 @@
-{"tmdb_id": 417916, "title": "Maria converses", "original_title": "Mar\u00eda conversa", "slug_title": "maria-converses", "date": "2016-09-23", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Blanca Portillo ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 522529, "title": "The Feminist on Cellblock Y", "original_title": "The Feminist on Cellblock Y", "slug_title": "the-feminist-on-cellblock-y", "date": "2018-04-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Edmond Vargas (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 437181, "title": "Our Friends from \u0141odz", "original_title": "Nasze znajome z \u0141odzi", "slug_title": "our-friends-from-lodz", "date": "1972-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

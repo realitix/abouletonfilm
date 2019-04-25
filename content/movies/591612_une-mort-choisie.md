@@ -1,1 +1,0 @@
-{"tmdb_id": 591612, "title": "Une mort choisie", "original_title": "Une mort choisie", "slug_title": "une-mort-choisie", "date": "2018-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yUiCCqtQPUhfCl3IUUX8mmhKBkY.jpg", "actors": [], "comments": [], "recommandations_id": []}

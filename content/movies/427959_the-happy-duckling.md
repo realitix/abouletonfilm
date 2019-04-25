@@ -1,1 +1,0 @@
-{"tmdb_id": 427959, "title": "The Happy Duckling", "original_title": "The Happy Duckling", "slug_title": "the-happy-duckling", "date": "2009-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p0VfgXJrmGdIhdwEzRnsU9ijI1w.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 466585, "title": "The Queen's Mother in Law", "original_title": "The Queen's Mother in Law", "slug_title": "the-queen-s-mother-in-law", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

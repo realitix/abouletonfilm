@@ -1,1 +1,0 @@
-{"tmdb_id": 555489, "title": "Muse: The resistance 5.1", "original_title": "Muse: The resistance 5.1", "slug_title": "muse-the-resistance-5-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/80Go2N9aRfCVsItyrdHZChY3tn9.jpg", "actors": [], "comments": [], "recommandations_id": []}

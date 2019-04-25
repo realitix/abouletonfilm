@@ -1,1 +1,0 @@
-{"tmdb_id": 297724, "title": "Edward Ruscha", "original_title": "Edward Ruscha", "slug_title": "edward-ruscha", "date": "1979-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

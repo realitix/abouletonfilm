@@ -1,1 +1,0 @@
-{"tmdb_id": 216501, "title": "Film ist mehr als Film", "original_title": "Film ist mehr als Film", "slug_title": "film-ist-mehr-als-film", "date": "1996-10-23", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iztFSAWhTuOH2mwtXNOo2KUwEs4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 527579, "title": "Das Profundezas", "original_title": "Das Profundezas", "slug_title": "das-profundezas", "date": "2013-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zQV49UfifW5xhg17uACTmRDqA4d.jpg", "actors": [], "comments": [], "recommandations_id": []}

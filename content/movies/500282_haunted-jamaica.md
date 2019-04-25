@@ -1,1 +1,0 @@
-{"tmdb_id": 500282, "title": "Haunted Jamaica", "original_title": "Haunted Jamaica", "slug_title": "haunted-jamaica", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gsj4JrzqFXpi28Cu1yV0Y2QVO0L.jpg", "actors": [], "comments": [], "recommandations_id": []}

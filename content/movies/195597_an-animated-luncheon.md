@@ -1,1 +1,0 @@
-{"tmdb_id": 195597, "title": "An Animated Luncheon", "original_title": "An Animated Luncheon", "slug_title": "an-animated-luncheon", "date": "1900-02-01", "genre": "Fantastique / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/obMCG5OnoS26CgX9TSY5hPR0ETP.jpg", "actors": [], "comments": [], "recommandations_id": []}

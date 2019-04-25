@@ -1,1 +1,0 @@
-{"tmdb_id": 310426, "title": "Only Love Knows", "original_title": "Only Love Knows", "slug_title": "only-love-knows", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

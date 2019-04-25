@@ -1,1 +1,0 @@
-{"tmdb_id": 593674, "title": "Shesh Theke Shuru", "original_title": "Shesh Theke Shuru", "slug_title": "shesh-theke-shuru", "date": "2018-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Samadarshi Dutta ()", "Ridhima Ghosh ()"], "comments": [], "recommandations_id": []}

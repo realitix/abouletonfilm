@@ -1,1 +1,0 @@
-{"tmdb_id": 70716, "title": "Mando Diao: The Malevolence", "original_title": "Mando Diao: The Malevolence", "slug_title": "mando-diao-the-malevolence", "date": "2009-10-09", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jmAXfAPqZmTlyRuLC7w9QSOnzSW.jpg", "actors": [], "comments": [], "recommandations_id": []}

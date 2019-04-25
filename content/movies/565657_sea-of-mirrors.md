@@ -1,1 +1,0 @@
-{"tmdb_id": 565657, "title": "Sea of Mirrors", "original_title": "Sea of Mirrors", "slug_title": "sea-of-mirrors", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2yZqLkbV2oUuWRJSjTBwTvYdhM2.jpg", "actors": ["Toru Uchikado (Nat Nakamura)"], "comments": [], "recommandations_id": []}

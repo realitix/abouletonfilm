@@ -1,1 +1,0 @@
-{"tmdb_id": 480424, "title": "Exploring England with Will Rogers", "original_title": "Exploring England with Will Rogers", "slug_title": "exploring-england-with-will-rogers", "date": "1927-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Will Rogers ()"], "comments": [], "recommandations_id": []}

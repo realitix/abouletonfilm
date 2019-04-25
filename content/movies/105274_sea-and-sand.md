@@ -1,1 +1,0 @@
-{"tmdb_id": 105274, "title": "Sea and Sand", "original_title": "Sea and Sand", "slug_title": "sea-and-sand", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

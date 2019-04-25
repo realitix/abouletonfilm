@@ -1,1 +1,0 @@
-{"tmdb_id": 332907, "title": "Capture Device", "original_title": "Capture Device", "slug_title": "capture-device", "date": "2009-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wakQc3CgJWW5zHBIvkcWyIbHngX.jpg", "actors": [], "comments": [], "recommandations_id": []}

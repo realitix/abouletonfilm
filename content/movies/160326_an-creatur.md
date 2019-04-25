@@ -1,1 +1,0 @@
-{"tmdb_id": 160326, "title": "An Cr\u00e9at\u00far", "original_title": "An Cr\u00e9at\u00far", "slug_title": "an-creatur", "date": "2007-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

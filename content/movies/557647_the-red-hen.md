@@ -1,1 +1,0 @@
-{"tmdb_id": 557647, "title": "The Red Hen", "original_title": "The Red Hen", "slug_title": "the-red-hen", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

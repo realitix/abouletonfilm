@@ -1,1 +1,0 @@
-{"tmdb_id": 540455, "title": "Monsieur de Pourceaugnac", "original_title": "Monsieur de Pourceaugnac", "slug_title": "monsieur-de-pourceaugnac", "date": "1932-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

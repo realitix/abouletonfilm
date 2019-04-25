@@ -1,1 +1,0 @@
-{"tmdb_id": 325312, "title": "Tom Wallisch: Good Company", "original_title": "Tom Wallisch: Good Company", "slug_title": "tom-wallisch-good-company", "date": "2015-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

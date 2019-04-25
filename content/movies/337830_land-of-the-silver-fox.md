@@ -1,1 +1,0 @@
-{"tmdb_id": 337830, "title": "Land of the Silver Fox", "original_title": "Land of the Silver Fox", "slug_title": "land-of-the-silver-fox", "date": "1928-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/reaDNwFgDJkOHDa28Fo8DUSUMCS.jpg", "actors": ["Rin-Tin-Tin ()"], "comments": [], "recommandations_id": []}

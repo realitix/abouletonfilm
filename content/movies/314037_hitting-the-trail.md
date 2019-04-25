@@ -1,1 +1,0 @@
-{"tmdb_id": 314037, "title": "Hitting the Trail", "original_title": "Hitting the Trail", "slug_title": "hitting-the-trail", "date": "1927-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

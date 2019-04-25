@@ -1,1 +1,0 @@
-{"tmdb_id": 556022, "title": "Le cousin Pons", "original_title": "Le cousin Pons", "slug_title": "le-cousin-pons", "date": "1924-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

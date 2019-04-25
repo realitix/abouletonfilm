@@ -1,1 +1,0 @@
-{"tmdb_id": 343819, "title": "Dood van een sandwichman", "original_title": "Dood van een sandwichman", "slug_title": "dood-van-een-sandwichman", "date": "1971-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vb1Ftby94U9k5800MDG178ZIbbJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

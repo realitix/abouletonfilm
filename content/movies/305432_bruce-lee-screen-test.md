@@ -1,1 +1,0 @@
-{"tmdb_id": 305432, "title": "Bruce Lee: Screen Test", "original_title": "Bruce Lee: Screen Test", "slug_title": "bruce-lee-screen-test", "date": "1965-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dNNCpvd0Qrpw3VIBD387d0EMSZb.jpg", "actors": [], "comments": [], "recommandations_id": []}

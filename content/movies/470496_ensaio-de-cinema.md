@@ -1,1 +1,0 @@
-{"tmdb_id": 470496, "title": "Ensaio de Cinema", "original_title": "Ensaio de Cinema", "slug_title": "ensaio-de-cinema", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

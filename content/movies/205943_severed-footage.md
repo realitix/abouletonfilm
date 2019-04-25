@@ -1,1 +1,0 @@
-{"tmdb_id": 205943, "title": "Severed Footage", "original_title": "Severed Footage", "slug_title": "severed-footage", "date": "2013-08-20", "genre": "Horreur / Thriller / Myst\u00e8re", "score": "3.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7y1C9FK4WnDybrrltFEJok6dTfe.jpg", "actors": [], "comments": [], "recommandations_id": [369763]}

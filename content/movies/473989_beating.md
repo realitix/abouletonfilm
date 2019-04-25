@@ -1,1 +1,0 @@
-{"tmdb_id": 473989, "title": "Beating", "original_title": "Beating", "slug_title": "beating", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6IHLzmvKc5hsAFJlymn97nQs7ZZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

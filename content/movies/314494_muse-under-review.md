@@ -1,1 +1,0 @@
-{"tmdb_id": 314494, "title": "Muse Under Review", "original_title": "Muse Under Review", "slug_title": "muse-under-review", "date": "2009-01-01", "genre": "Documentaire / Musique", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uhsTQXQU5Jhv7gdok9gGP0rdxNO.jpg", "actors": [], "comments": [], "recommandations_id": []}

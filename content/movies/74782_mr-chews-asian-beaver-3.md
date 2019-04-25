@@ -1,1 +1,0 @@
-{"tmdb_id": 74782, "title": "Mr Chews Asian Beaver 3", "original_title": "Mr Chews Asian Beaver 3", "slug_title": "mr-chews-asian-beaver-3", "date": "2006-01-01", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2OztvZH7Y8fuwgDfO9uozm8DJS6.jpg", "actors": [], "comments": [], "recommandations_id": []}

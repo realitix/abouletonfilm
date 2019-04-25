@@ -1,1 +1,0 @@
-{"tmdb_id": 320782, "title": "Bon Jovi: Rock Case Studies", "original_title": "Bon Jovi: Rock Case Studies", "slug_title": "bon-jovi-rock-case-studies", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

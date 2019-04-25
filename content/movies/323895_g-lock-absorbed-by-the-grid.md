@@ -1,1 +1,0 @@
-{"tmdb_id": 323895, "title": "G-Lock - Absorbed by the Grid", "original_title": "G-Lock - Absorbed by the Grid", "slug_title": "g-lock-absorbed-by-the-grid", "date": "1997-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 205368, "title": "Control Domination", "original_title": "Control Domination", "slug_title": "control-domination", "date": "1993-07-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9YpRirxaZhXK2eYzs1ehLiirpes.jpg", "actors": [], "comments": [], "recommandations_id": []}

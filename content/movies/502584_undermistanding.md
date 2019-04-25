@@ -1,1 +1,0 @@
-{"tmdb_id": 502584, "title": "UNDERMISTANDING", "original_title": "UNDERMISTANDING", "slug_title": "undermistanding", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

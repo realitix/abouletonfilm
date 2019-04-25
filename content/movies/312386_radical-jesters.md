@@ -1,1 +1,0 @@
-{"tmdb_id": 312386, "title": "Radical Jesters", "original_title": "Radical Jesters", "slug_title": "radical-jesters", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nDc3TEnzAQY81CxEIrnlEeQGOuV.jpg", "actors": [], "comments": [], "recommandations_id": []}

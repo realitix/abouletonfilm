@@ -1,1 +1,0 @@
-{"tmdb_id": 538506, "title": "The Rebel", "original_title": "Le r\u00e9volt\u00e9", "slug_title": "the-rebel", "date": "1938-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6gAOoVcR9UlzMaLPRwuswAgs3eh.jpg", "actors": [], "comments": [], "recommandations_id": []}

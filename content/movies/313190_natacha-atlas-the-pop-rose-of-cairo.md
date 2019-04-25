@@ -1,1 +1,0 @@
-{"tmdb_id": 313190, "title": "Natacha Atlas: The Pop Rose of Cairo", "original_title": "Natacha Atlas: The Pop Rose of Cairo", "slug_title": "natacha-atlas-the-pop-rose-of-cairo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

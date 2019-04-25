@@ -1,1 +1,0 @@
-{"tmdb_id": 454031, "title": "Tampoon", "original_title": "Tampoon", "slug_title": "tampoon", "date": "2015-12-11", "genre": "Horreur / Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nI775mRl9RUsFxcbjEjrWJmSDKW.jpg", "actors": [], "comments": [], "recommandations_id": []}

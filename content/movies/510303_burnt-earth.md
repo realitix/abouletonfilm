@@ -1,1 +1,0 @@
-{"tmdb_id": 510303, "title": "Burnt Earth", "original_title": "Terres br\u00fbl\u00e9es", "slug_title": "burnt-earth", "date": "1934-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mwjIzOrwecKZk1K0BU7tY64lXYn.jpg", "actors": ["Paul Werrie ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 559357, "title": "Suffragette Demonstration in London (June 1910)", "original_title": "Suffragette Demonstration in London (June 1910)", "slug_title": "suffragette-demonstration-in-london-june-1910", "date": "1910-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

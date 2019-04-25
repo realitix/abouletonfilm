@@ -1,1 +1,0 @@
-{"tmdb_id": 228465, "title": "The Cure", "original_title": "The Cure", "slug_title": "the-cure", "date": "1924-11-15", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n00Mm4qli3AqrBAA49R8FplUXSa.jpg", "actors": ["Max Fleischer (Himself)"], "comments": [], "recommandations_id": []}

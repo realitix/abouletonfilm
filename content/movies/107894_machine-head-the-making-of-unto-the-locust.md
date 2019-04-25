@@ -1,1 +1,0 @@
-{"tmdb_id": 107894, "title": "Machine Head - The Making of unto the Locust", "original_title": "Machine Head - The Making of unto the Locust", "slug_title": "machine-head-the-making-of-unto-the-locust", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

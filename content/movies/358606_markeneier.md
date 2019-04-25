@@ -1,1 +1,0 @@
-{"tmdb_id": 358606, "title": "Markeneier", "original_title": "Markeneier", "slug_title": "markeneier", "date": "1967-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vyFrmb3hLeX4ITltPrasfY35Dqz.jpg", "actors": [], "comments": [], "recommandations_id": []}

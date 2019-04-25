@@ -1,1 +1,0 @@
-{"tmdb_id": 558900, "title": "Nursery Rhyme Of A Madman", "original_title": "Nursery Rhyme Of A Madman", "slug_title": "nursery-rhyme-of-a-madman", "date": "2018-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bkWrWniXarbYf6ZjjX7oeUZpKcL.jpg", "actors": [], "comments": [], "recommandations_id": []}

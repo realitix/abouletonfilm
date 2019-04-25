@@ -1,1 +1,0 @@
-{"tmdb_id": 367244, "title": "Benoni & Rosa", "original_title": "Benoni & Rosa", "slug_title": "benoni-rosa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

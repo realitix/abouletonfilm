@@ -1,1 +1,0 @@
-{"tmdb_id": 469174, "title": "The Burning Mountain", "original_title": "The Burning Mountain", "slug_title": "the-burning-mountain", "date": "2014-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x47KG7fSIhsr3EwZ1ZjhJ52ObVU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 76984, "title": "Bernard", "original_title": "Bernard", "slug_title": "bernard", "date": "2006-08-06", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s5WYI5CNGtskyZJcjDCWOI5qu0W.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 67501, "title": "Summer", "original_title": "Summer", "slug_title": "summer", "date": "1930-01-16", "genre": "Animation", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h3GDqIEYlUA3lWXYuOUDm2azo64.jpg", "actors": [], "comments": [], "recommandations_id": [67175, 67602, 66829, 93627]}

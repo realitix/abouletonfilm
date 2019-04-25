@@ -1,1 +1,0 @@
-{"tmdb_id": 259788, "title": "Ja schastlivaya", "original_title": "Ja schastlivaya", "slug_title": "ja-schastlivaya", "date": "2010-10-19", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hV0zua2zLxnXsUGmAf0wsmB0DtY.jpg", "actors": [], "comments": [], "recommandations_id": []}

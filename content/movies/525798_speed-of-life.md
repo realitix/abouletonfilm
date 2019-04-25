@@ -1,1 +1,0 @@
-{"tmdb_id": 525798, "title": "Speed Of Life", "original_title": "Speed Of Life", "slug_title": "speed-of-life", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ann Dowd ()", "Jeff Perry ()", "Allison Tolman ()"], "comments": [], "recommandations_id": []}

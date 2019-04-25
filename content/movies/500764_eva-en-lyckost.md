@@ -1,1 +1,0 @@
-{"tmdb_id": 500764, "title": "Eva - en lyckost", "original_title": "Eva - en lyckost", "slug_title": "eva-en-lyckost", "date": "2017-03-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eva Eastwood (Eva Eastwood)", "Nils \u00d6stergren (Narrator)"], "comments": [], "recommandations_id": []}

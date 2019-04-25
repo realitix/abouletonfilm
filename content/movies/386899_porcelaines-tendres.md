@@ -1,1 +1,0 @@
-{"tmdb_id": 386899, "title": "Porcelaines tendres", "original_title": "Porcelaines tendres", "slug_title": "porcelaines-tendres", "date": "1909-08-24", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eK6NmrJpazLxiGddaxz47vU2kgp.jpg", "actors": [], "comments": [], "recommandations_id": []}

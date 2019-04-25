@@ -1,1 +1,0 @@
-{"tmdb_id": 440470, "title": "Thrills of Yesterday", "original_title": "Thrills of Yesterday", "slug_title": "thrills-of-yesterday", "date": "1931-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Agghc1okQSBbrY6u3v8Mllbzls.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 350317, "title": "\uc740\ube5b \ub9bd\uc2a4\ud2f1", "original_title": "\uc740\ube5b \ub9bd\uc2a4\ud2f1", "slug_title": "eunbic-ribseutig", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

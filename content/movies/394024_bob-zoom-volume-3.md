@@ -1,1 +1,0 @@
-{"tmdb_id": 394024, "title": "Bob Zoom - Volume 3", "original_title": "Bob Zoom - Volume 3", "slug_title": "bob-zoom-volume-3", "date": "2015-04-22", "genre": "Familial / Musique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sVaKgTfF6K0oRkA2exhKB6snAWz.jpg", "actors": [], "comments": [], "recommandations_id": []}

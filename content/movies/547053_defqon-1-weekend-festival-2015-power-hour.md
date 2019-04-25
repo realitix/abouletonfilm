@@ -1,1 +1,0 @@
-{"tmdb_id": 547053, "title": "Defqon.1 Weekend Festival 2015   POWER HOUR", "original_title": "Defqon.1 Weekend Festival 2015   POWER HOUR", "slug_title": "defqon-1-weekend-festival-2015-power-hour", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

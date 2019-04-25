@@ -1,1 +1,0 @@
-{"tmdb_id": 461312, "title": "Dream, Girl", "original_title": "Dream, Girl", "slug_title": "dream-girl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 309645, "title": "Caged Combat: Vol. 2: Kiev, Ukraine", "original_title": "Caged Combat: Vol. 2: Kiev, Ukraine", "slug_title": "caged-combat-vol-2-kiev-ukraine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

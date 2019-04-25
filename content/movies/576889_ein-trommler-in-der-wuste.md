@@ -1,1 +1,0 @@
-{"tmdb_id": 576889, "title": "Ein Trommler in der W\u00fcste", "original_title": "Ein Trommler in der W\u00fcste", "slug_title": "ein-trommler-in-der-wuste", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

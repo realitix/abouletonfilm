@@ -1,1 +1,0 @@
-{"tmdb_id": 351352, "title": "What Happens at Night", "original_title": "What Happens at Night", "slug_title": "what-happens-at-night", "date": "1939-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

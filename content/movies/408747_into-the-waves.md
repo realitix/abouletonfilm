@@ -1,1 +1,0 @@
-{"tmdb_id": 408747, "title": "Into the Waves", "original_title": "Into the Waves", "slug_title": "into-the-waves", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

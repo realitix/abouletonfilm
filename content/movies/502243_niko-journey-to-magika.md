@@ -1,1 +1,0 @@
-{"tmdb_id": 502243, "title": "Niko: Journey to Magika", "original_title": "Niko: Journey to Magika", "slug_title": "niko-journey-to-magika", "date": "2014-12-12", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s2bwHT25eTmw2pafRspK2hrYau1.jpg", "actors": [], "comments": [], "recommandations_id": []}

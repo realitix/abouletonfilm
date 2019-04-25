@@ -1,1 +1,0 @@
-{"tmdb_id": 561918, "title": "Fred Klett: One of Ten", "original_title": "Fred Klett: One of Ten", "slug_title": "fred-klett-one-of-ten", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/52YLMB5hCDrsoBZEQI9709kGGmq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 297583, "title": "Blondie: Live at CBGB 1977", "original_title": "Blondie: Live at CBGB 1977", "slug_title": "blondie-live-at-cbgb-1977", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/81ZqvZool5DCbTeKjFyMM9k1nk9.jpg", "actors": [], "comments": [], "recommandations_id": []}

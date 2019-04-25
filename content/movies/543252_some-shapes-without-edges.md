@@ -1,1 +1,0 @@
-{"tmdb_id": 543252, "title": "Some Shapes Without Edges", "original_title": "Some Shapes Without Edges", "slug_title": "some-shapes-without-edges", "date": "2016-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wPKacGQKxZ12nyjQLVdHuboRHzA.jpg", "actors": [], "comments": [], "recommandations_id": []}

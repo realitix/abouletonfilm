@@ -1,1 +1,0 @@
-{"tmdb_id": 255936, "title": "Hasta la victoria siempre", "original_title": "Hasta la victoria siempre", "slug_title": "hasta-la-victoria-siempre", "date": "1967-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ApeTl3vPWLBfXeAzIzAzYfelO33.jpg", "actors": [], "comments": [], "recommandations_id": []}

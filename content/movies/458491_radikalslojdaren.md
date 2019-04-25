@@ -1,1 +1,0 @@
-{"tmdb_id": 458491, "title": "Radikalsl\u00f6jdaren", "original_title": "Radikalsl\u00f6jdaren", "slug_title": "radikalslojdaren", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

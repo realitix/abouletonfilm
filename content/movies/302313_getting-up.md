@@ -1,1 +1,0 @@
-{"tmdb_id": 302313, "title": "Getting Up", "original_title": "Getting Up", "slug_title": "getting-up", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

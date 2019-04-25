@@ -1,1 +1,0 @@
-{"tmdb_id": 241976, "title": "Slednecks 4: White Knuckle Extreme", "original_title": "Slednecks 4: White Knuckle Extreme", "slug_title": "slednecks-4-white-knuckle-extreme", "date": "2001-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

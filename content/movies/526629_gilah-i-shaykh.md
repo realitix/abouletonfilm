@@ -1,1 +1,0 @@
-{"tmdb_id": 526629, "title": "Gilah-i shaykh", "original_title": "Gilah-i shaykh", "slug_title": "gilah-i-shaykh", "date": "2006-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Salim Shaheen ()"], "comments": [], "recommandations_id": []}

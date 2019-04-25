@@ -1,1 +1,0 @@
-{"tmdb_id": 562370, "title": "So You Want to Go to a Convention", "original_title": "So You Want to Go to a Convention", "slug_title": "so-you-want-to-go-to-a-convention", "date": "1952-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon ()"], "comments": [], "recommandations_id": []}

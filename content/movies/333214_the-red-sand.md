@@ -1,1 +1,0 @@
-{"tmdb_id": 333214, "title": "The Red Sand", "original_title": "The Red Sand", "slug_title": "the-red-sand", "date": "1967-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

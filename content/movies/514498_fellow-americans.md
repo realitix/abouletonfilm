@@ -1,1 +1,0 @@
-{"tmdb_id": 514498, "title": "Fellow Americans", "original_title": "Fellow Americans", "slug_title": "fellow-americans", "date": "1942-03-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Stewart (Narrator (voice))"], "comments": [], "recommandations_id": []}

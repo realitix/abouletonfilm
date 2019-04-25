@@ -1,1 +1,0 @@
-{"tmdb_id": 353445, "title": "The Sport Parade: Snow Thrills", "original_title": "The Sport Parade: Snow Thrills", "slug_title": "the-sport-parade-snow-thrills", "date": "1945-01-01", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

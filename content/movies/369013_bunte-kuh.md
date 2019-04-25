@@ -1,1 +1,0 @@
-{"tmdb_id": 369013, "title": "Bunte Kuh", "original_title": "Bunte Kuh", "slug_title": "bunte-kuh", "date": "2015-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/32V6Z99cKHRoekF4r92ftrc0Hta.jpg", "actors": [], "comments": [], "recommandations_id": []}

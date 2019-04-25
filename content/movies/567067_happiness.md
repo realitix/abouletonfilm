@@ -1,1 +1,0 @@
-{"tmdb_id": 567067, "title": "Happiness", "original_title": "Happiness", "slug_title": "happiness", "date": "2006-06-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wcI29WMb4KE5EW468EMddgEQCqI.jpg", "actors": ["El\u017cbieta Czy\u017cewska (Iwona)"], "comments": [], "recommandations_id": []}

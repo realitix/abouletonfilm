@@ -1,1 +1,0 @@
-{"tmdb_id": 496543, "title": "Playing in the Park", "original_title": "Playing in the Park", "slug_title": "playing-in-the-park", "date": "1929-01-01", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Af4YVMThSKe4Bnk2N9Dhacs2FBA.jpg", "actors": [], "comments": [], "recommandations_id": []}

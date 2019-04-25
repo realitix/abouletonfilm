@@ -1,1 +1,0 @@
-{"tmdb_id": 149850, "title": "Der Frankfurter Auschwitz-Prozess", "original_title": "Der Frankfurter Auschwitz-Prozess", "slug_title": "der-frankfurter-auschwitz-prozess", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8cY24YKrId0Tm3k1xlYLXKnyIYx.jpg", "actors": [], "comments": [], "recommandations_id": []}

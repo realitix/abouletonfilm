@@ -1,1 +1,0 @@
-{"tmdb_id": 378620, "title": "Verbatim: The Ferguson Case", "original_title": "Verbatim: The Ferguson Case", "slug_title": "verbatim-the-ferguson-case", "date": "2015-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Jq8ONqrRc8703tpwDwNlC0duyG.jpg", "actors": [], "comments": [], "recommandations_id": []}

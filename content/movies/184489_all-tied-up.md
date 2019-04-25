@@ -1,1 +1,0 @@
-{"tmdb_id": 184489, "title": "All Tied Up", "original_title": "All Tied Up", "slug_title": "all-tied-up", "date": "1925-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

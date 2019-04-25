@@ -1,1 +1,0 @@
-{"tmdb_id": 234932, "title": "Kremilek a Vochomurka", "original_title": "Kremilek a Vochomurka", "slug_title": "kremilek-a-vochomurka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

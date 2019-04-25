@@ -1,1 +1,0 @@
-{"tmdb_id": 482170, "title": "Gone Fish'n", "original_title": "Gone Fish'n", "slug_title": "gone-fish-n", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

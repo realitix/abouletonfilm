@@ -1,1 +1,0 @@
-{"tmdb_id": 224166, "title": "Sacred Steel: Live Blessings", "original_title": "Sacred Steel: Live Blessings", "slug_title": "sacred-steel-live-blessings", "date": "2006-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ap5pS1Mvo1lSSSRO02vplHmTunK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 355286, "title": "A French Honeymoon", "original_title": "A French Honeymoon", "slug_title": "a-french-honeymoon", "date": "1964-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

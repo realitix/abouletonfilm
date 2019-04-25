@@ -1,1 +1,0 @@
-{"tmdb_id": 570891, "title": "Song of Canal Head", "original_title": "\u6e20\u9996\u6b22\u6b4c", "slug_title": "song-of-canal-head", "date": "2018-04-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l0a5Xc2GPmWuuUWVFlFAWNUqn3Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

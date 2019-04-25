@@ -1,1 +1,0 @@
-{"tmdb_id": 497057, "title": "Bandhanam", "original_title": "\u0d2c\u0d28\u0d4d\u0d27\u0d28\u0d02", "slug_title": "bandhanam", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pvEcjOqLceuHUYTKZyRTyYQUqwe.jpg", "actors": ["Sukumaran ()", "Shuba ()"], "comments": [], "recommandations_id": []}

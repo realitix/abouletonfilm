@@ -1,1 +1,0 @@
-{"tmdb_id": 240821, "title": "Albatross", "original_title": "Albatrosse", "slug_title": "albatross", "date": "2013-12-03", "genre": "Drame", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/CLPaiAnnZv3BpBnhC9UZ8hD8aD.jpg", "actors": ["Constantin Al Khafaji (Leo\u0161)"], "comments": [], "recommandations_id": []}

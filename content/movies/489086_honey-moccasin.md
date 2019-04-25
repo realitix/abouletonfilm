@@ -1,1 +1,0 @@
-{"tmdb_id": 489086, "title": "Honey Moccasin", "original_title": "Honey Moccasin", "slug_title": "honey-moccasin", "date": "1998-01-01", "genre": "Com\u00e9die / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vO4rVIoLpQH4UOGh4YLlhviInkc.jpg", "actors": [], "comments": [], "recommandations_id": []}

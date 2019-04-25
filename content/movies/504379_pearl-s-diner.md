@@ -1,1 +1,0 @@
-{"tmdb_id": 504379, "title": "Pearl's Diner", "original_title": "Pearl's Diner", "slug_title": "pearl-s-diner", "date": "1992-02-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rsFHS10IWtGqvNL4HO79OfISZFh.jpg", "actors": [], "comments": [], "recommandations_id": []}

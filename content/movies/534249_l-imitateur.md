@@ -1,1 +1,0 @@
-{"tmdb_id": 534249, "title": "L'imitateur", "original_title": "L'imitateur", "slug_title": "l-imitateur", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

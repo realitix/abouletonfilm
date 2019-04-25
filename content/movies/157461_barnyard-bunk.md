@@ -1,1 +1,0 @@
-{"tmdb_id": 157461, "title": "Barnyard Bunk", "original_title": "Barnyard Bunk", "slug_title": "barnyard-bunk", "date": "1932-09-15", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j3lMOso8VMFSMx287y5Rq70HK4Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

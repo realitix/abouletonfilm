@@ -1,1 +1,0 @@
-{"tmdb_id": 375193, "title": "Egy \u00e9v Jap\u00e1nban", "original_title": "Egy \u00e9v Jap\u00e1nban", "slug_title": "egy-ev-japanban", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

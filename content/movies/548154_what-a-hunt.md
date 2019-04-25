@@ -1,1 +1,0 @@
-{"tmdb_id": 548154, "title": "What a hunt!", "original_title": "What a hunt!", "slug_title": "what-a-hunt", "date": "2013-11-24", "genre": "Com\u00e9die / Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

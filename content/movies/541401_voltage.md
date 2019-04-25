@@ -1,1 +1,0 @@
-{"tmdb_id": 541401, "title": "Voltage", "original_title": "Voltage", "slug_title": "voltage", "date": "2018-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alina Schaller ()", "Lukas Matuschek ()"], "comments": [], "recommandations_id": []}

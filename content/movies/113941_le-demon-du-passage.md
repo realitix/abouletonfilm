@@ -1,1 +1,0 @@
-{"tmdb_id": 113941, "title": "Le d\u00e9mon du passage", "original_title": "Le d\u00e9mon du passage", "slug_title": "le-demon-du-passage", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 535156, "title": "Maanaadu", "original_title": "\u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bc1", "slug_title": "maanaadu", "date": "", "genre": "Thriller / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ogqzERarrPbKypBFNL08Y3auvGS.jpg", "actors": ["Silambarasan ()"], "comments": [], "recommandations_id": []}

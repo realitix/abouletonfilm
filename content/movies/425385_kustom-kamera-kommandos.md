@@ -1,1 +1,0 @@
-{"tmdb_id": 425385, "title": "Kustom Kamera Kommandos", "original_title": "Kustom Kamera Kommandos", "slug_title": "kustom-kamera-kommandos", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yQkLw0lau7qLWgDvm1c86t4O9ls.jpg", "actors": [], "comments": [], "recommandations_id": []}

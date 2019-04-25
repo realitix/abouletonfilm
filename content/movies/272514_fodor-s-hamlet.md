@@ -1,1 +1,0 @@
-{"tmdb_id": 272514, "title": "Fodor's Hamlet", "original_title": "Fodor's Hamlet", "slug_title": "fodor-s-hamlet", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uxz65aDQ7Kz4lmd20tpFvELkatL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 368282, "title": "How to Judge a Character by the face", "original_title": "How to Judge a Character by the face", "slug_title": "how-to-judge-a-character-by-the-face", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

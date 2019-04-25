@@ -1,1 +1,0 @@
-{"tmdb_id": 367626, "title": "Blood in the Night", "original_title": "Blood in the Night", "slug_title": "blood-in-the-night", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

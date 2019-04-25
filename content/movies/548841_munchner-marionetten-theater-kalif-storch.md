@@ -1,1 +1,0 @@
-{"tmdb_id": 548841, "title": "M\u00fcnchner Marionetten Theater - Kalif Storch", "original_title": "M\u00fcnchner Marionetten Theater - Kalif Storch", "slug_title": "munchner-marionetten-theater-kalif-storch", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

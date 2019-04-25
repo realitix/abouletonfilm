@@ -1,1 +1,0 @@
-{"tmdb_id": 329831, "title": "Behind the Red Carpet", "original_title": "Behind the Red Carpet", "slug_title": "behind-the-red-carpet", "date": "2014-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/22LV4OcuRHeD2Ly9RYIh0VYDAJq.jpg", "actors": [], "comments": [], "recommandations_id": []}

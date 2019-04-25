@@ -1,1 +1,0 @@
-{"tmdb_id": 440786, "title": "28.IV.81 (Bedouin Spark)", "original_title": "28.IV.81 (Bedouin Spark)", "slug_title": "28-iv-81-bedouin-spark", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

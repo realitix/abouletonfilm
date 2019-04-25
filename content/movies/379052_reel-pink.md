@@ -1,1 +1,0 @@
-{"tmdb_id": 379052, "title": "Reel Pink", "original_title": "Reel Pink", "slug_title": "reel-pink", "date": "1965-11-16", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m1auIUtFm1o0O5rvEaozRXy75oH.jpg", "actors": [], "comments": [], "recommandations_id": []}

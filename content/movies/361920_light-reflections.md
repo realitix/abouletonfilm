@@ -1,1 +1,0 @@
-{"tmdb_id": 361920, "title": "Light Reflections", "original_title": "Light Reflections", "slug_title": "light-reflections", "date": "1949-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7iw8QGBXd7K3lxyltTIpwdf3sTi.jpg", "actors": [], "comments": [], "recommandations_id": []}

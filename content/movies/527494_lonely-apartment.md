@@ -1,1 +1,0 @@
-{"tmdb_id": 527494, "title": "Lonely Apartment", "original_title": "\u9580\u5167\u770b", "slug_title": "lonely-apartment", "date": "2009-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bawANTeNngUDLyIeSsJJyKulTuK.jpg", "actors": ["Howard Chan (Howard)", "Ann Ho (Ann Ho)"], "comments": [], "recommandations_id": []}

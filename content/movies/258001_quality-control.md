@@ -1,1 +1,0 @@
-{"tmdb_id": 258001, "title": "Quality Control", "original_title": "Quality Control", "slug_title": "quality-control", "date": "2011-01-30", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vM3E1YWCvSpPYvNeUymYhZU4qL3.jpg", "actors": [], "comments": [], "recommandations_id": []}

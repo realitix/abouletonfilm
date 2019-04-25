@@ -1,1 +1,0 @@
-{"tmdb_id": 452785, "title": "Carolyn II", "original_title": "Carolyn II", "slug_title": "carolyn-ii", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carolyn Carlson ()"], "comments": [], "recommandations_id": []}

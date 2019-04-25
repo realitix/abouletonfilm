@@ -1,1 +1,0 @@
-{"tmdb_id": 408329, "title": "La meravigliosa favola di Biancaneve", "original_title": "La meravigliosa favola di Biancaneve", "slug_title": "la-meravigliosa-favola-di-biancaneve", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 442844, "title": "Idea di un'isola", "original_title": "Idea di un'isola", "slug_title": "idea-di-un-isola", "date": "1967-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Corrado Gaipa (Narrator (voice))"], "comments": [], "recommandations_id": []}

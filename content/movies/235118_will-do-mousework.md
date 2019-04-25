@@ -1,1 +1,0 @@
-{"tmdb_id": 235118, "title": "Will Do Mousework", "original_title": "Will Do Mousework", "slug_title": "will-do-mousework", "date": "1956-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

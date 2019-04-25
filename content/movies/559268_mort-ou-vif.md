@@ -1,1 +1,0 @@
-{"tmdb_id": 559268, "title": "Mort ou vif", "original_title": "Mort ou vif", "slug_title": "mort-ou-vif", "date": "1948-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nLYWcDSlMgXjE0BgeFrrAWQVxd2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 551291, "title": "Scars Of Nanking", "original_title": "Scars Of Nanking", "slug_title": "scars-of-nanking", "date": "2017-12-12", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bDJSN6aFtmiqhVQY659sWEDBbA8.jpg", "actors": [], "comments": [], "recommandations_id": []}

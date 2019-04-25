@@ -1,1 +1,0 @@
-{"tmdb_id": 565314, "title": "Films Directed by Women in the Silent Era", "original_title": "Films Directed by Women in the Silent Era", "slug_title": "films-directed-by-women-in-the-silent-era", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

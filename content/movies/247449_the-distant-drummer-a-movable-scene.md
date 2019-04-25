@@ -1,1 +1,0 @@
-{"tmdb_id": 247449, "title": "The Distant Drummer: A Movable Scene", "original_title": "The Distant Drummer: A Movable Scene", "slug_title": "the-distant-drummer-a-movable-scene", "date": "1970-01-01", "genre": "Documentaire", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Mitchum (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 283484, "title": "The Eskimo", "original_title": "The Eskimo", "slug_title": "the-eskimo", "date": "1916-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

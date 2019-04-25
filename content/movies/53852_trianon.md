@@ -1,1 +1,0 @@
-{"tmdb_id": 53852, "title": "Trianon", "original_title": "Trianon", "slug_title": "trianon", "date": "2005-06-04", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x2ikMhUT1A6jUyQaNkKR4PssrRw.jpg", "actors": [], "comments": [], "recommandations_id": []}

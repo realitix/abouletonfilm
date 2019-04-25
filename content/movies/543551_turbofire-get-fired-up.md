@@ -1,1 +1,0 @@
-{"tmdb_id": 543551, "title": "TurboFire - Get Fired Up", "original_title": "TurboFire - Get Fired Up", "slug_title": "turbofire-get-fired-up", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rl6qTyslPk4T9rQp237QRiAMvBN.jpg", "actors": [], "comments": [], "recommandations_id": []}

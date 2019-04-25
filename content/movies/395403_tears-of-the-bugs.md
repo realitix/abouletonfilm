@@ -1,1 +1,0 @@
-{"tmdb_id": 395403, "title": "Tears of the Bugs", "original_title": "Tears of the Bugs", "slug_title": "tears-of-the-bugs", "date": "2016-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h0cPvOdpQdHaRjpDg8LISe0zl8o.jpg", "actors": [], "comments": [], "recommandations_id": []}

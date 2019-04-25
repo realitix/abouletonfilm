@@ -1,1 +1,0 @@
-{"tmdb_id": 549362, "title": "Supermoon", "original_title": "\uc288\ud37c\ubb38", "slug_title": "supermoon", "date": "2018-10-21", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

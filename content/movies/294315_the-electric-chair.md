@@ -1,1 +1,0 @@
-{"tmdb_id": 294315, "title": "The Electric Chair", "original_title": "The Electric Chair", "slug_title": "the-electric-chair", "date": "1985-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eIDqLLuXqs0jIGLEfhU82VILmQ3.jpg", "actors": [], "comments": [], "recommandations_id": []}

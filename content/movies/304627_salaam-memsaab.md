@@ -1,1 +1,0 @@
-{"tmdb_id": 304627, "title": "Salaam Memsaab", "original_title": "Salaam Memsaab", "slug_title": "salaam-memsaab", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

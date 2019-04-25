@@ -1,1 +1,0 @@
-{"tmdb_id": 351558, "title": "The Two Barbers", "original_title": "The Two Barbers", "slug_title": "the-two-barbers", "date": "1944-09-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aLGo0QWvkYYYx669ZdqKcMSmoSg.jpg", "actors": [], "comments": [], "recommandations_id": []}

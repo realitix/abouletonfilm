@@ -1,1 +1,0 @@
-{"tmdb_id": 356775, "title": "Zero Degree", "original_title": "Zero Degree", "slug_title": "zero-degree", "date": "2015-02-06", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ZK0labwZcxi0a955OFmvAzyu31.jpg", "actors": [], "comments": [], "recommandations_id": []}

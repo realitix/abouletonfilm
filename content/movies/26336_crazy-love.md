@@ -1,1 +1,0 @@
-{"tmdb_id": 26336, "title": "Crazy Love", "original_title": "Crazy Love", "slug_title": "crazy-love", "date": "2007-11-22", "genre": "Documentaire / Romance", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ipQ8SZe6aIFnTI8uoWRXfQH4eYT.jpg", "actors": [], "comments": [], "recommandations_id": [239155, 78527, 84193, 302694]}

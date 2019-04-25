@@ -1,1 +1,0 @@
-{"tmdb_id": 327117, "title": "Between Me", "original_title": "Between Me", "slug_title": "between-me", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

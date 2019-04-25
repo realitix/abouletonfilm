@@ -1,1 +1,0 @@
-{"tmdb_id": 189389, "title": "Kodo - One Earth Tour Special", "original_title": "Kodo - One Earth Tour Special", "slug_title": "kodo-one-earth-tour-special", "date": "2004-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Bte4byRF2vWNOw9GaotIjsgRRD.jpg", "actors": [], "comments": [], "recommandations_id": []}

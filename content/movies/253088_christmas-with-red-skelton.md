@@ -1,1 +1,0 @@
-{"tmdb_id": 253088, "title": "Christmas With Red Skelton", "original_title": "Christmas With Red Skelton", "slug_title": "christmas-with-red-skelton", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

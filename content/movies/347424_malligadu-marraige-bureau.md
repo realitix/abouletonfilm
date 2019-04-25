@@ -1,1 +1,0 @@
-{"tmdb_id": 347424, "title": "Malligadu Marraige Bureau", "original_title": "Malligadu Marraige Bureau", "slug_title": "malligadu-marraige-bureau", "date": "2014-07-08", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Srikanth Meka ()", "Manochitra ()", "Brahmanandam ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556788, "title": "Kapitan Inggo", "original_title": "Kapitan Inggo", "slug_title": "kapitan-inggo", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramon Revilla Sr. ()", "Marissa Delgado ()", "Susan Valdez-LeGoff ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 340006, "title": "Real Madrid FC Vs Juventus FC", "original_title": "Real Madrid FC Vs Juventus FC", "slug_title": "real-madrid-fc-vs-juventus-fc", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

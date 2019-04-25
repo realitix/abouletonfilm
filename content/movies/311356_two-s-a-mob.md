@@ -1,1 +1,0 @@
-{"tmdb_id": 311356, "title": "Two's a Mob", "original_title": "Two's a Mob", "slug_title": "two-s-a-mob", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 372766, "title": "Eve of Adha", "original_title": "Eve of Adha", "slug_title": "eve-of-adha", "date": "2001-01-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Myles Conti (Adam)", "Freya Neilsen (Eve)"], "comments": [], "recommandations_id": []}

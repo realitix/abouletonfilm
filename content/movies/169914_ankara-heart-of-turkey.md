@@ -1,1 +1,0 @@
-{"tmdb_id": 169914, "title": "Ankara - Heart of Turkey", "original_title": "Ankara - serdtse Turtsii", "slug_title": "ankara-heart-of-turkey", "date": "1934-02-19", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

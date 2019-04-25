@@ -1,1 +1,0 @@
-{"tmdb_id": 479951, "title": "Fist of Fury", "original_title": "Fist of Fury", "slug_title": "fist-of-fury", "date": "2002-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Donnie Yen (Chen-Jun)", "Joey Meng (Yumi)"], "comments": [], "recommandations_id": []}

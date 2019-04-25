@@ -1,1 +1,0 @@
-{"tmdb_id": 432339, "title": "Os d\u00edas afogaods", "original_title": "Os d\u00edas afogaods", "slug_title": "os-dias-afogaods", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

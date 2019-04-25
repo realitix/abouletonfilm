@@ -1,1 +1,0 @@
-{"tmdb_id": 119961, "title": "At the Club", "original_title": "Au cabaret", "slug_title": "at-the-club", "date": "1899-01-01", "genre": "Com\u00e9die", "score": "3.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sfHtPb0TGELIUGVfqN4BUYGDtmf.jpg", "actors": [], "comments": [], "recommandations_id": [119959, 119958, 189599, 119948]}

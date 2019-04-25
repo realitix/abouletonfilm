@@ -1,1 +1,0 @@
-{"tmdb_id": 322184, "title": "Devil In The Detail", "original_title": "Devil In The Detail", "slug_title": "devil-in-the-detail", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

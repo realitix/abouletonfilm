@@ -1,1 +1,0 @@
-{"tmdb_id": 476817, "title": "La noche eterna", "original_title": "La noche eterna", "slug_title": "la-noche-eterna", "date": "1991-05-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

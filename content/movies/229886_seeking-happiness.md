@@ -1,1 +1,0 @@
-{"tmdb_id": 229886, "title": "Seeking Happiness", "original_title": "Gl\u00fccksformeln", "slug_title": "seeking-happiness", "date": "2011-04-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Z8NC8ccRVk5kbtX9tGfJajLqIk.jpg", "actors": [], "comments": [], "recommandations_id": []}

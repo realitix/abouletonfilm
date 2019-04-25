@@ -1,1 +1,0 @@
-{"tmdb_id": 491726, "title": "Light Licks: Detour", "original_title": "Light Licks: Detour", "slug_title": "light-licks-detour", "date": "2002-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iz7HH0QRF7SRlUANYf8BJ2pDdMK.jpg", "actors": [], "comments": [], "recommandations_id": []}

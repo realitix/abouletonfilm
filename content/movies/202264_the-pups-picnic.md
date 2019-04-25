@@ -1,1 +1,0 @@
-{"tmdb_id": 202264, "title": "The Pups' Picnic", "original_title": "The Pups' Picnic", "slug_title": "the-pups-picnic", "date": "1936-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7pa05ju2ELGCZTAvTKvBctTqwdh.jpg", "actors": [], "comments": [], "recommandations_id": []}

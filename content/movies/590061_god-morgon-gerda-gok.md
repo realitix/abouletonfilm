@@ -1,1 +1,0 @@
-{"tmdb_id": 590061, "title": "God morgon, Gerda G\u00f6k", "original_title": "God morgon, Gerda G\u00f6k", "slug_title": "god-morgon-gerda-gok", "date": "1988-11-19", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bKa44cUbDrMGXqTrV6ZVbKIEDNA.jpg", "actors": [], "comments": [], "recommandations_id": []}

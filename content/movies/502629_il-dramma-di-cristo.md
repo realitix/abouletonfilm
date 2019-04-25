@@ -1,1 +1,0 @@
-{"tmdb_id": 502629, "title": "Il dramma di Cristo", "original_title": "Il dramma di Cristo", "slug_title": "il-dramma-di-cristo", "date": "1948-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

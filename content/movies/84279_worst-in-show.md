@@ -1,1 +1,0 @@
-{"tmdb_id": 84279, "title": "Worst In Show", "original_title": "Worst In Show", "slug_title": "worst-in-show", "date": "2011-01-31", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tZ8sGHOC0NDEeEEP9hoeeiCfAP8.jpg", "actors": [], "comments": [], "recommandations_id": []}

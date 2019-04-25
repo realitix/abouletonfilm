@@ -1,1 +1,0 @@
-{"tmdb_id": 393622, "title": "The Shocks", "original_title": "Za shokkusu: sekai no mokugekisha", "slug_title": "the-shocks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

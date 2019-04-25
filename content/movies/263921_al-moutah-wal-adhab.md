@@ -1,1 +1,0 @@
-{"tmdb_id": 263921, "title": "al-Mout\u2019ah wal-\u2019adh\u00e2b", "original_title": "al-Mout\u2019ah wal-\u2019adh\u00e2b", "slug_title": "al-moutah-wal-adhab", "date": "1971-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

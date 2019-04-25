@@ -1,1 +1,0 @@
-{"tmdb_id": 498724, "title": "The Knots that Bind are the Knots that Fray", "original_title": "The Knots that Bind are the Knots that Fray", "slug_title": "the-knots-that-bind-are-the-knots-that-fray", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 531204, "title": "American History of the Wild West", "original_title": "American History of the Wild West", "slug_title": "american-history-of-the-wild-west", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

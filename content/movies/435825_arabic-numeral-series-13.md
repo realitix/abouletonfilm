@@ -1,1 +1,0 @@
-{"tmdb_id": 435825, "title": "Arabic Numeral Series 13", "original_title": "Arabic Numeral Series 13", "slug_title": "arabic-numeral-series-13", "date": "1981-01-18", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5St5vuuoyoyAktLHwA1SCAtdkpq.jpg", "actors": [], "comments": [], "recommandations_id": []}

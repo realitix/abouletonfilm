@@ -1,1 +1,0 @@
-{"tmdb_id": 419001, "title": "Hong Kong Song", "original_title": "Hong Kong Song", "slug_title": "hong-kong-song", "date": "1989-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uQOir9P26FjqOZbrjFI9d7KjzQK.jpg", "actors": [], "comments": [], "recommandations_id": []}

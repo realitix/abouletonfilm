@@ -1,1 +1,0 @@
-{"tmdb_id": 394748, "title": "Akado Suzunosuke vs. the One-Legged Devil", "original_title": "Akad\u00f4 Suzunosuke: Ippon ashi no majin", "slug_title": "akado-suzunosuke-vs-the-one-legged-devil", "date": "1957-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shoji Umewaka ()"], "comments": [], "recommandations_id": []}

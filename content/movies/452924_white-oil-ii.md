@@ -1,1 +1,0 @@
-{"tmdb_id": 452924, "title": "White Oil II", "original_title": "White Oil II", "slug_title": "white-oil-ii", "date": "2017-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

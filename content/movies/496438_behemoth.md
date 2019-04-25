@@ -1,1 +1,0 @@
-{"tmdb_id": 496438, "title": "Behemoth", "original_title": "Behemoth", "slug_title": "behemoth", "date": "2003-06-05", "genre": "Horreur", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g8tFtU5JRBKlbZCtOW3uogiyJe7.jpg", "actors": ["Rafael Rezende (Crucificado)", "S\u00e9rgio Ugeda (Orador)"], "comments": [], "recommandations_id": []}

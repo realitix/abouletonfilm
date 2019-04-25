@@ -1,1 +1,0 @@
-{"tmdb_id": 495051, "title": "Beam Me Up, Sasha !", "original_title": "Beam Me Up, Sasha !", "slug_title": "beam-me-up-sasha", "date": "2014-05-10", "genre": "Science-Fiction / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nzfOkYCw5DDSERzKuKiuPJUMEyc.jpg", "actors": [], "comments": [], "recommandations_id": []}

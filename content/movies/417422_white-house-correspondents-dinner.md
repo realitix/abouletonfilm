@@ -1,1 +1,0 @@
-{"tmdb_id": 417422, "title": "White House Correspondents Dinner", "original_title": "2011 White House Correspondents Dinner", "slug_title": "white-house-correspondents-dinner", "date": "2011-04-30", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barack Obama (Barack Obama)"], "comments": [], "recommandations_id": []}

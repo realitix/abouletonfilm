@@ -1,1 +1,0 @@
-{"tmdb_id": 569998, "title": "Since Adam was a Boy", "original_title": "Since Adam was a Boy", "slug_title": "since-adam-was-a-boy", "date": "2006-04-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hKCBjAt6bPh4ZgQyCglEyU6J3Bt.jpg", "actors": [], "comments": [], "recommandations_id": []}

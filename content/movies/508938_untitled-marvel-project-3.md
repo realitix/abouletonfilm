@@ -1,1 +1,0 @@
-{"tmdb_id": 508938, "title": "Untitled Marvel Project (3)", "original_title": "Untitled Marvel Project (3)", "slug_title": "untitled-marvel-project-3", "date": "2021-11-06", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

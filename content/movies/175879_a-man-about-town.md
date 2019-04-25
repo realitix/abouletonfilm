@@ -1,1 +1,0 @@
-{"tmdb_id": 175879, "title": "A Man About Town", "original_title": "A Man About Town", "slug_title": "a-man-about-town", "date": "1923-09-15", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qQ4YzGEGzOtLK1EtE9ZgaqlI5Pq.jpg", "actors": ["Stan Laurel ()", "James Finlayson ()"], "comments": [], "recommandations_id": []}

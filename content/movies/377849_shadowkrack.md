@@ -1,1 +1,0 @@
-{"tmdb_id": 377849, "title": "Shadowkrack", "original_title": "Shadowkrack", "slug_title": "shadowkrack", "date": "1984-01-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ddpvdKwuu2D9kFl0J5ckP3VPV7h.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 312645, "title": "The Navy SEAL Burnout PT Challenge", "original_title": "The Navy SEAL Burnout PT Challenge", "slug_title": "the-navy-seal-burnout-pt-challenge", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

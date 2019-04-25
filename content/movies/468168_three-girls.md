@@ -1,1 +1,0 @@
-{"tmdb_id": 468168, "title": "Three Girls", "original_title": "Li ren xing", "slug_title": "three-girls", "date": "1949-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9PzFimuHnZUzptti0RnLooWkchR.jpg", "actors": [], "comments": [], "recommandations_id": []}

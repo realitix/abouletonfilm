@@ -1,1 +1,0 @@
-{"tmdb_id": 561017, "title": "Woman Are Angels", "original_title": "Les femmes sont des anges", "slug_title": "woman-are-angels", "date": "1952-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Ue9iay6d6wWOleTLyV0mxEmxHm.jpg", "actors": [], "comments": [], "recommandations_id": []}

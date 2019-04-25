@@ -1,1 +1,0 @@
-{"tmdb_id": 194053, "title": "L'Hotel hant\u00e9", "original_title": "L'Hotel hant\u00e9", "slug_title": "l-hotel-hante", "date": "1909-05-16", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 451699, "title": "The Great Fortune", "original_title": "Das gro\u00dfe Gl\u00fcck", "slug_title": "the-great-fortune", "date": "2016-05-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6NC1NnueQvHvsmZHdpx7DsyfX85.jpg", "actors": [], "comments": [], "recommandations_id": []}

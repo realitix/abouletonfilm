@@ -1,1 +1,0 @@
-{"tmdb_id": 411238, "title": "Fred Levine's Big Boats & Busy Harbors", "original_title": "Fred Levine's Big Boats & Busy Harbors", "slug_title": "fred-levine-s-big-boats-busy-harbors", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

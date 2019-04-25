@@ -1,1 +1,0 @@
-{"tmdb_id": 435277, "title": "Underwear", "original_title": "Underwear", "slug_title": "underwear", "date": "2009-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

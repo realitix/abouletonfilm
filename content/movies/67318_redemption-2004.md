@@ -1,1 +1,0 @@
-{"tmdb_id": 67318, "title": "Redemption 2004", "original_title": "Redemption 2004", "slug_title": "redemption-2004", "date": "2004-04-19", "genre": "Drame / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ahNLQmyCUJJf5pVnnJxXSFqp5SL.jpg", "actors": [], "comments": [], "recommandations_id": []}

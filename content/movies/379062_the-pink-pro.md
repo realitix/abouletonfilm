@@ -1,1 +1,0 @@
-{"tmdb_id": 379062, "title": "The Pink Pro", "original_title": "The Pink Pro", "slug_title": "the-pink-pro", "date": "1976-04-11", "genre": "Animation", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/YagC9Ej18hObuFs2xgdHEwTaJB.jpg", "actors": [], "comments": [], "recommandations_id": [379205, 379066, 379195, 379041]}

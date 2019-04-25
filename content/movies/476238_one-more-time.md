@@ -1,1 +1,0 @@
-{"tmdb_id": 476238, "title": "One More Time", "original_title": "One More Time", "slug_title": "one-more-time", "date": "1968-01-01", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qujJc3Pt2c5Ruqeux8a0KvqPF4U.jpg", "actors": [], "comments": [], "recommandations_id": []}

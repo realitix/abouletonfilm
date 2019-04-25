@@ -1,1 +1,0 @@
-{"tmdb_id": 202480, "title": "Wintercourse", "original_title": "Wintercourse", "slug_title": "wintercourse", "date": "1962-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rj2fVQE7UFwuXsLQmOoZqoBg33Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

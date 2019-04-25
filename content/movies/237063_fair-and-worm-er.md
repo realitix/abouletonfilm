@@ -1,1 +1,0 @@
-{"tmdb_id": 237063, "title": "Fair and Worm-er", "original_title": "Fair and Worm-er", "slug_title": "fair-and-worm-er", "date": "1946-09-27", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qBhzZ8QQIaSOdA9QEyZBH4VN2d4.jpg", "actors": [], "comments": [], "recommandations_id": []}

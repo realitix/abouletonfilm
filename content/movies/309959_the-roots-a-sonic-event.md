@@ -1,1 +1,0 @@
-{"tmdb_id": 309959, "title": "The Roots: A Sonic Event", "original_title": "The Roots: A Sonic Event", "slug_title": "the-roots-a-sonic-event", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

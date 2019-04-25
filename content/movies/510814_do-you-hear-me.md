@@ -1,1 +1,0 @@
-{"tmdb_id": 510814, "title": "Do You Hear Me?", "original_title": "\u010cuje\u0161 li me?", "slug_title": "do-you-hear-me", "date": "1965-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 462098, "title": "Vantawhite Pages Almanac Issue 1: The Black Square", "original_title": "Vantawhite Pages Almanac Issue 1: The Black Square", "slug_title": "vantawhite-pages-almanac-issue-1-the-black-square", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

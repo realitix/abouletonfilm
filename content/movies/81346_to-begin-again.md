@@ -1,1 +1,0 @@
-{"tmdb_id": 81346, "title": "To Begin Again", "original_title": "Volver a empezar", "slug_title": "to-begin-again", "date": "1982-03-01", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dkYUZM3ODPvv4JhFxi1gshdPKN.jpg", "actors": [], "comments": [], "recommandations_id": [72585, 91288, 258607, 368432]}

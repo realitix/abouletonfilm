@@ -1,1 +1,0 @@
-{"tmdb_id": 309336, "title": "S\u00e3o Jo\u00e3o da Cruz", "original_title": "S\u00e3o Jo\u00e3o da Cruz", "slug_title": "sao-joao-da-cruz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leonardo Defilippis ()", "Patti Defilippis ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 244878, "title": "A Time for Justice", "original_title": "A Time for Justice", "slug_title": "a-time-for-justice", "date": "1994-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gZCO29GrJfJYKeI2AGhLgtHktiF.jpg", "actors": [], "comments": [], "recommandations_id": []}

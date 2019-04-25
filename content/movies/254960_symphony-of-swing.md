@@ -1,1 +1,0 @@
-{"tmdb_id": 254960, "title": "Symphony of Swing", "original_title": "Symphony of Swing", "slug_title": "symphony-of-swing", "date": "1939-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

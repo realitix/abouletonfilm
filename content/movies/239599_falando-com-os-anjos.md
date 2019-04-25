@@ -1,1 +1,0 @@
-{"tmdb_id": 239599, "title": "Falando com os Anjos", "original_title": "Falando com os Anjos", "slug_title": "falando-com-os-anjos", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

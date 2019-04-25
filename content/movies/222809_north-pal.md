@@ -1,1 +1,0 @@
-{"tmdb_id": 222809, "title": "North Pal", "original_title": "North Pal", "slug_title": "north-pal", "date": "1953-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

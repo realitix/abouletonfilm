@@ -1,1 +1,0 @@
-{"tmdb_id": 522010, "title": "GIRL IN SUITCASE", "original_title": "M\u00e4dchen in Koffer", "slug_title": "girl-in-suitcase", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sophia Ito (SABETH)", "Denis Schmidt (SASCHA)", "Oliver Moumouris (MIKE)"], "comments": [], "recommandations_id": []}

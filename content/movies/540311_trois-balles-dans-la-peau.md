@@ -1,1 +1,0 @@
-{"tmdb_id": 540311, "title": "Trois balles dans la peau", "original_title": "Trois balles dans la peau", "slug_title": "trois-balles-dans-la-peau", "date": "1934-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

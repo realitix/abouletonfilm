@@ -1,1 +1,0 @@
-{"tmdb_id": 542683, "title": "BTS SUMMER PACKAGE VOL.4 2018", "original_title": "BTS SUMMER PACKAGE VOL.4 2018", "slug_title": "bts-summer-package-vol-4-2018", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5oAkOi6AvTS9DissBMNyXPsqpcn.jpg", "actors": [], "comments": [], "recommandations_id": []}

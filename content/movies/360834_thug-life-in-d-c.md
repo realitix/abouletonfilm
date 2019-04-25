@@ -1,1 +1,0 @@
-{"tmdb_id": 360834, "title": "Thug Life in D.C.", "original_title": "Thug Life in D.C.", "slug_title": "thug-life-in-d-c", "date": "1998-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pOA9QdyvKHujuYUItHUDjSTwFBA.jpg", "actors": [], "comments": [], "recommandations_id": []}

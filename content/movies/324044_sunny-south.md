@@ -1,1 +1,0 @@
-{"tmdb_id": 324044, "title": "Sunny South", "original_title": "Sunny South", "slug_title": "sunny-south", "date": "1931-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

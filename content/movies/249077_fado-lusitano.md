@@ -1,1 +1,0 @@
-{"tmdb_id": 249077, "title": "Fado Lusitano", "original_title": "Fado Lusitano", "slug_title": "fado-lusitano", "date": "1994-01-01", "genre": "Animation / Histoire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["M\u00e1rio Viegas (narrator)"], "comments": [], "recommandations_id": []}

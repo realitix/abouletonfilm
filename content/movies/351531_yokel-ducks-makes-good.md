@@ -1,1 +1,0 @@
-{"tmdb_id": 351531, "title": "Yokel Ducks Makes Good", "original_title": "Yokel Ducks Makes Good", "slug_title": "yokel-ducks-makes-good", "date": "1943-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

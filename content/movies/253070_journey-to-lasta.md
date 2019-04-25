@@ -1,1 +1,0 @@
-{"tmdb_id": 253070, "title": "Journey to Lasta", "original_title": "Journey to Lasta", "slug_title": "journey-to-lasta", "date": "2004-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

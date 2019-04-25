@@ -1,1 +1,0 @@
-{"tmdb_id": 329615, "title": "Terapia do Sexo", "original_title": "Terapia do Sexo", "slug_title": "terapia-do-sexo", "date": "1978-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i0mx6FZn0wMWpSvF7DAR706KAHx.jpg", "actors": [], "comments": [], "recommandations_id": []}

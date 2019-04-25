@@ -1,1 +1,0 @@
-{"tmdb_id": 352810, "title": "Thron - Legacy", "original_title": "Thron - Legacy", "slug_title": "thron-legacy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

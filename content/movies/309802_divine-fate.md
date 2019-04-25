@@ -1,1 +1,0 @@
-{"tmdb_id": 309802, "title": "Divine Fate", "original_title": "Divine Fate", "slug_title": "divine-fate", "date": "1993-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tGSxQlvtVGLYv8u6NXjYVxiQNCV.jpg", "actors": ["Susan Glover ((voice))"], "comments": [], "recommandations_id": []}

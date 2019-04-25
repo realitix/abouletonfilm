@@ -1,1 +1,0 @@
-{"tmdb_id": 392299, "title": "Bir\u017eelis, vasaros prad\u017eia", "original_title": "Bir\u017eelis, vasaros prad\u017eia", "slug_title": "birzelis-vasaros-pradzia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 516985, "title": "Bee-Sharp Honeybee", "original_title": "Bee-Sharp Honeybee", "slug_title": "bee-sharp-honeybee", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

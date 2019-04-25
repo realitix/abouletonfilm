@@ -1,1 +1,0 @@
-{"tmdb_id": 507228, "title": "Top Cat is back in Town", "original_title": "Top Cat is back in Town", "slug_title": "top-cat-is-back-in-town", "date": "1989-02-24", "genre": "Familial", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ggs9wzUmwMrPyExgFFWJy1RljIH.jpg", "actors": [], "comments": [], "recommandations_id": []}

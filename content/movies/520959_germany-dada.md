@@ -1,1 +1,0 @@
-{"tmdb_id": 520959, "title": "Germany Dada", "original_title": "Deutschland Dada", "slug_title": "germany-dada", "date": "1969-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oGp8yq82MO8jxQgSQvdq7ly2xIG.jpg", "actors": ["Hans Richter (Himself)"], "comments": [], "recommandations_id": []}

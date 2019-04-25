@@ -1,1 +1,0 @@
-{"tmdb_id": 459023, "title": "Transistor", "original_title": "Transistor", "slug_title": "transistor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

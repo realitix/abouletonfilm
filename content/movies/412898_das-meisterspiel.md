@@ -1,1 +1,0 @@
-{"tmdb_id": 412898, "title": "Das Meisterspiel", "original_title": "Das Meisterspiel", "slug_title": "das-meisterspiel", "date": "1998-10-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

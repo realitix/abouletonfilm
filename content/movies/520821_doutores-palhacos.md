@@ -1,1 +1,0 @@
-{"tmdb_id": 520821, "title": "Doutores Palha\u00e7os", "original_title": "Doutores Palha\u00e7os", "slug_title": "doutores-palhacos", "date": "2017-08-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ctevXZLzZNnXyzPlTtHqV6nFAW8.jpg", "actors": [], "comments": [], "recommandations_id": []}

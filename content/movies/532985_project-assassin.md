@@ -1,1 +1,0 @@
-{"tmdb_id": 532985, "title": "Project: Assassin", "original_title": "Project: Assassin", "slug_title": "project-assassin", "date": "1996-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Hurst (Ellis Walker)", "Robert Hill ()"], "comments": [], "recommandations_id": []}

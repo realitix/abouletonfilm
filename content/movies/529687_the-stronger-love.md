@@ -1,1 +1,0 @@
-{"tmdb_id": 529687, "title": "The Stronger Love", "original_title": "The Stronger Love", "slug_title": "the-stronger-love", "date": "1916-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 268396, "title": "Midnight Heat", "original_title": "Midnight Heat", "slug_title": "midnight-heat", "date": "2007-01-01", "genre": "", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pntsSsHVEfeqZvJy6UZ7Zp5mzYJ.jpg", "actors": [], "comments": [], "recommandations_id": [268394]}

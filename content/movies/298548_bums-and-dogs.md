@@ -1,1 +1,0 @@
-{"tmdb_id": 298548, "title": "Bums and Dogs", "original_title": "Skitnice i psi", "slug_title": "bums-and-dogs", "date": "1993-05-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aGHh5goHplYGwF3tPffYKfm7PkK.jpg", "actors": [], "comments": [], "recommandations_id": []}

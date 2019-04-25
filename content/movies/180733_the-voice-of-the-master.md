@@ -1,1 +1,0 @@
-{"tmdb_id": 180733, "title": "The Voice of the Master", "original_title": "The Voice of the Master", "slug_title": "the-voice-of-the-master", "date": "2013-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fo72o1Hg8AT3k004sSl8YzizpXR.jpg", "actors": [], "comments": [], "recommandations_id": []}

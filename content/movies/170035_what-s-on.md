@@ -1,1 +1,0 @@
-{"tmdb_id": 170035, "title": "What's On", "original_title": "What's On", "slug_title": "what-s-on", "date": "1997-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n1ccRGTX05reg8cNXM8UkfHbEGc.jpg", "actors": [], "comments": [], "recommandations_id": []}

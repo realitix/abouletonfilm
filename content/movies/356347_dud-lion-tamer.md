@@ -1,1 +1,0 @@
-{"tmdb_id": 356347, "title": "Dud, Lion Tamer", "original_title": "Dud, Lion Tamer", "slug_title": "dud-lion-tamer", "date": "1920-09-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

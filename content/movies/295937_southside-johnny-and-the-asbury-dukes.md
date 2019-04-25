@@ -1,1 +1,0 @@
-{"tmdb_id": 295937, "title": "Southside Johnny and the Asbury Dukes", "original_title": "Southside Johnny and the Asbury Dukes", "slug_title": "southside-johnny-and-the-asbury-dukes", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

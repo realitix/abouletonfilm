@@ -1,1 +1,0 @@
-{"tmdb_id": 438906, "title": "House in the North Country", "original_title": "House in the North Country", "slug_title": "house-in-the-north-country", "date": "2010-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7SjN1NkOeskfEBNcG5OKYAthY3c.jpg", "actors": [], "comments": [], "recommandations_id": []}

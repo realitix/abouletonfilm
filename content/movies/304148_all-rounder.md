@@ -1,1 +1,0 @@
-{"tmdb_id": 304148, "title": "All Rounder", "original_title": "All Rounder", "slug_title": "all-rounder", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

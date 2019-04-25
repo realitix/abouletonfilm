@@ -1,1 +1,0 @@
-{"tmdb_id": 469750, "title": "The Cutthroat Kids 2", "original_title": "The Cutthroat Kids 2", "slug_title": "the-cutthroat-kids-2", "date": "2013-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

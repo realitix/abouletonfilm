@@ -1,1 +1,0 @@
-{"tmdb_id": 339857, "title": "Untitled NASCAR/Junior Johnson Project", "original_title": "Untitled NASCAR/Junior Johnson Project", "slug_title": "untitled-nascar-junior-johnson-project", "date": "", "genre": "Action", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

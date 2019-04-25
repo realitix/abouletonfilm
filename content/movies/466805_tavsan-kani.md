@@ -1,1 +1,0 @@
-{"tmdb_id": 466805, "title": "Tavsan Kani", "original_title": "Tavsan Kani", "slug_title": "tavsan-kani", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zZ0swimUtx7jCb980YbgzHBTEM4.jpg", "actors": [], "comments": [], "recommandations_id": []}

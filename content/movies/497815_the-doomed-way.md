@@ -1,1 +1,0 @@
-{"tmdb_id": 497815, "title": "The Doomed Way", "original_title": "\u6a2a\u5934\u9053", "slug_title": "the-doomed-way", "date": "2016-12-01", "genre": "Crime / Drame / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hongjie Wan ()"], "comments": [], "recommandations_id": []}

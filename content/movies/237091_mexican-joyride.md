@@ -1,1 +1,0 @@
-{"tmdb_id": 237091, "title": "Mexican Joyride", "original_title": "Mexican Joyride", "slug_title": "mexican-joyride", "date": "1947-11-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yIFKL76nOoEDOMjaLfuq9rhuSTa.jpg", "actors": [], "comments": [], "recommandations_id": []}

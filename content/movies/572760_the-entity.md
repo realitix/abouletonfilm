@@ -1,1 +1,0 @@
-{"tmdb_id": 572760, "title": "The Entity", "original_title": "The Entity", "slug_title": "the-entity", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

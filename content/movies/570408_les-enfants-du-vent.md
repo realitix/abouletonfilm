@@ -1,1 +1,0 @@
-{"tmdb_id": 570408, "title": "Les enfants du vent", "original_title": "Les enfants du vent", "slug_title": "les-enfants-du-vent", "date": "1991-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

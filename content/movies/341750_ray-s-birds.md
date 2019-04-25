@@ -1,1 +1,0 @@
-{"tmdb_id": 341750, "title": "Ray's Birds", "original_title": "Ray's Birds", "slug_title": "ray-s-birds", "date": "2010-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gNtKNH3yl5JQqpGOwwahBOrroYG.jpg", "actors": [], "comments": [], "recommandations_id": []}

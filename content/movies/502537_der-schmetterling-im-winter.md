@@ -1,1 +1,0 @@
-{"tmdb_id": 502537, "title": "Der Schmetterling im Winter", "original_title": "Der Schmetterling im Winter", "slug_title": "der-schmetterling-im-winter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

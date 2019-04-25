@@ -1,1 +1,0 @@
-{"tmdb_id": 315698, "title": "Twelfth Night", "original_title": "Twelfth Night", "slug_title": "twelfth-night", "date": "1967-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5dgFX5Zvs775SJPRECXvQ8UfqYx.jpg", "actors": [], "comments": [], "recommandations_id": []}

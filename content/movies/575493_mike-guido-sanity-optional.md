@@ -1,1 +1,0 @@
-{"tmdb_id": 575493, "title": "Mike Guido: Sanity Optional", "original_title": "Mike Guido: Sanity Optional", "slug_title": "mike-guido-sanity-optional", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

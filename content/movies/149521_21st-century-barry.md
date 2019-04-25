@@ -1,1 +1,0 @@
-{"tmdb_id": 149521, "title": "21st Century Barry", "original_title": "21st Century Barry", "slug_title": "21st-century-barry", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4txWVbsNLylYfTNpGoVtJu3LwCm.jpg", "actors": ["Lloyd Kaufman (Barry)", "Pamela Clay (Wife)"], "comments": [], "recommandations_id": []}

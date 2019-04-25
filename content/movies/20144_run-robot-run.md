@@ -1,1 +1,0 @@
-{"tmdb_id": 20144, "title": "Run Robot Run!", "original_title": "Run Robot Run!", "slug_title": "run-robot-run", "date": "2006-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r2ngSw2Zz88boieZjJfSCfSjUbG.jpg", "actors": ["Peter Mooney (Adam)"], "comments": [], "recommandations_id": []}

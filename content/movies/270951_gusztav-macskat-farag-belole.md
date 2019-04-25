@@ -1,1 +1,0 @@
-{"tmdb_id": 270951, "title": "Guszt\u00e1v macsk\u00e1t farag bel\u0151le", "original_title": "Guszt\u00e1v macsk\u00e1t farag bel\u0151le", "slug_title": "gusztav-macskat-farag-belole", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

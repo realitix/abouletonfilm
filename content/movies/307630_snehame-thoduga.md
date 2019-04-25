@@ -1,1 +1,0 @@
-{"tmdb_id": 307630, "title": "Snehame Thoduga", "original_title": "Snehame Thoduga", "slug_title": "snehame-thoduga", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

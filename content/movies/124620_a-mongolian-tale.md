@@ -1,1 +1,0 @@
-{"tmdb_id": 124620, "title": "A Mongolian Tale", "original_title": "Hei jun ma", "slug_title": "a-mongolian-tale", "date": "1995-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/awhTc3PBeDAcro1ucCV2SYwS9md.jpg", "actors": [], "comments": [], "recommandations_id": []}

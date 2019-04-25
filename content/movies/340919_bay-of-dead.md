@@ -1,1 +1,0 @@
-{"tmdb_id": 340919, "title": "Bay of Dead", "original_title": "Bay of Dead", "slug_title": "bay-of-dead", "date": "2007-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kAucHZwZ4BGv5ZqaaSlTGSfAH8X.jpg", "actors": [], "comments": [], "recommandations_id": []}

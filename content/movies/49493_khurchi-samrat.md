@@ -1,1 +1,0 @@
-{"tmdb_id": 49493, "title": "Khurchi Samrat", "original_title": "Khurchi Samrat", "slug_title": "khurchi-samrat", "date": "2009-08-09", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/845jYl5AYLWD8rKp0846Wy35KfV.jpg", "actors": ["Makrand Anaspure ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 125223, "title": "Ram Avtar", "original_title": "Ram Avtar", "slug_title": "ram-avtar", "date": "1988-05-20", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xconsiVmLWmyrMCdwDGxcDSZZhD.jpg", "actors": ["Anil Kapoor (Avtar)", "Sunny Deol (Ram)", "Sridevi (Sangeeta)"], "comments": [], "recommandations_id": []}

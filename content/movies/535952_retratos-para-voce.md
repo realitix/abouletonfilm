@@ -1,1 +1,0 @@
-{"tmdb_id": 535952, "title": "Retratos Para Voc\u00ea", "original_title": "Retratos Para Voc\u00ea", "slug_title": "retratos-para-voce", "date": "2017-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g4mmR2W3p4U4puIc3xlwa0wWQ4s.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 179498, "title": "Black Sabbath: Paris 1970", "original_title": "Black Sabbath: Paris 1970", "slug_title": "black-sabbath-paris-1970", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wcj0a2KLQGtVFKt3a1idcUGkiQK.jpg", "actors": [], "comments": [], "recommandations_id": []}

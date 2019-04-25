@@ -1,1 +1,0 @@
-{"tmdb_id": 452840, "title": "Youkali", "original_title": "Youkali", "slug_title": "youkali", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/re554knPpNKK2FHyy2KO6d5MS2Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

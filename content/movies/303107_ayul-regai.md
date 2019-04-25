@@ -1,1 +1,0 @@
-{"tmdb_id": 303107, "title": "Ayul Regai", "original_title": "Ayul Regai", "slug_title": "ayul-regai", "date": "2005-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thennavan (TBA)"], "comments": [], "recommandations_id": []}

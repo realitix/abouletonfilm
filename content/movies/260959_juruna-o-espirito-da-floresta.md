@@ -1,1 +1,0 @@
-{"tmdb_id": 260959, "title": "Juruna, o Esp\u00edrito da Floresta", "original_title": "Juruna, o Esp\u00edrito da Floresta", "slug_title": "juruna-o-espirito-da-floresta", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

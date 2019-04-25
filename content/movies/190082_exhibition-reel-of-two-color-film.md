@@ -1,1 +1,0 @@
-{"tmdb_id": 190082, "title": "Exhibition Reel of Two Color Film", "original_title": "Exhibition Reel of Two Color Film", "slug_title": "exhibition-reel-of-two-color-film", "date": "1929-04-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

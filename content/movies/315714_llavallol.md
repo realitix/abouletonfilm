@@ -1,1 +1,0 @@
-{"tmdb_id": 315714, "title": "Llavallol", "original_title": "Llavallol", "slug_title": "llavallol", "date": "2008-04-05", "genre": "Romance / Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5oAToDMQjxsUuGtkjLEfJnIQEgf.jpg", "actors": ["Fernando Bonfante ()", "Justina Gancedo ()"], "comments": [], "recommandations_id": []}

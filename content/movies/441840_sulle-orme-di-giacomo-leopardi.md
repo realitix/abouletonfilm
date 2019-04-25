@@ -1,1 +1,0 @@
-{"tmdb_id": 441840, "title": "Sulle orme di Giacomo Leopardi", "original_title": "Sulle orme di Giacomo Leopardi", "slug_title": "sulle-orme-di-giacomo-leopardi", "date": "1941-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

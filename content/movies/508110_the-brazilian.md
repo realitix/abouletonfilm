@@ -1,1 +1,0 @@
-{"tmdb_id": 508110, "title": "The Brazilian", "original_title": "The Brazilian", "slug_title": "the-brazilian", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fernanda Huffel (Director)", "Lucia Barata (Director)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 167053, "title": "Avi Kushnir - The Male Brain", "original_title": "Avi Kushnir - The Male Brain", "slug_title": "avi-kushnir-the-male-brain", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2qFk0srWLe5YLYKwG39RiIfBDro.jpg", "actors": ["Avi Kushnir ()"], "comments": [], "recommandations_id": []}

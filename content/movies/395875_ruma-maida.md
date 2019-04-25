@@ -1,1 +1,0 @@
-{"tmdb_id": 395875, "title": "Ruma Maida", "original_title": "Ruma Maida", "slug_title": "ruma-maida", "date": "2008-05-03", "genre": "Drame / Familial", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/psJ7LtbzNtMYquN39DbNOP4mAB0.jpg", "actors": [], "comments": [], "recommandations_id": []}

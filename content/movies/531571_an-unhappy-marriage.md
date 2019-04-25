@@ -1,1 +1,0 @@
-{"tmdb_id": 531571, "title": "An Unhappy Marriage", "original_title": "Ne\u0161\u0165astn\u00e1 svatba", "slug_title": "an-unhappy-marriage", "date": "1981-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

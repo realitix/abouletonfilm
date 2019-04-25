@@ -1,1 +1,0 @@
-{"tmdb_id": 228174, "title": "Pixinguinha", "original_title": "Pixinguinha", "slug_title": "pixinguinha", "date": "2014-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Milton Gon\u00e7alves ()", "Dira Paes ()", "Leandra Leal ()", "Ta\u00eds Ara\u00fajo ()", "David Fernandez Jr. ()"], "comments": [], "recommandations_id": []}

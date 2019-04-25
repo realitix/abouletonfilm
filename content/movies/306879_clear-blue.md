@@ -1,1 +1,0 @@
-{"tmdb_id": 306879, "title": "Clear Blue", "original_title": "Clear Blue", "slug_title": "clear-blue", "date": "2011-09-16", "genre": "Fantastique / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4aKMARBmI4exvugV1re48fWsNKa.jpg", "actors": [], "comments": [], "recommandations_id": []}

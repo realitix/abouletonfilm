@@ -1,1 +1,0 @@
-{"tmdb_id": 152535, "title": "B\u00f8r B\u00f8rson II", "original_title": "B\u00f8r B\u00f8rson II", "slug_title": "bor-borson-ii", "date": "1974-02-21", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iqpq7ZkvKVYxeOyb1Da9gwbrZqm.jpg", "actors": [], "comments": [], "recommandations_id": []}

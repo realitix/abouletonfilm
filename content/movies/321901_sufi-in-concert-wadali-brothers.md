@@ -1,1 +1,0 @@
-{"tmdb_id": 321901, "title": "Sufi in Concert: Wadali Brothers", "original_title": "Sufi in Concert: Wadali Brothers", "slug_title": "sufi-in-concert-wadali-brothers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

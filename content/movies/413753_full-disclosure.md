@@ -1,1 +1,0 @@
-{"tmdb_id": 413753, "title": "Full Disclosure", "original_title": "Full Disclosure", "slug_title": "full-disclosure", "date": "2017-08-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9NLrRGoLaW65nppvyhltXUXf61d.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 387924, "title": "Showbusiness", "original_title": "La far\u00e1ndula", "slug_title": "showbusiness", "date": "1998-01-01", "genre": "Com\u00e9die", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vCmLsnar4vU6F02UzmqIQfR2Ncx.jpg", "actors": [], "comments": [], "recommandations_id": []}

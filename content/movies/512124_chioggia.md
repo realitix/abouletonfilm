@@ -1,1 +1,1 @@
-{"tmdb_id": 512124, "title": "Chioggia", "original_title": "Chioggia", "slug_title": "chioggia", "date": "1912-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 512124, "title": "Chioggia", "original_title": "Chioggia", "slug_title": "chioggia", "date": "1912-03-06", "genre": [""], "score": "0.0/10", "synopsis": "Chioggia, a Fishing Port Near Venice", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

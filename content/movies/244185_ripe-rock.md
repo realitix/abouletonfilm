@@ -1,1 +1,0 @@
-{"tmdb_id": 244185, "title": "Ripe Rock", "original_title": "Ripe Rock", "slug_title": "ripe-rock", "date": "2013-09-12", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kxILxzhGKHn2RRYcofMv9aUGcnI.jpg", "actors": [], "comments": [], "recommandations_id": []}

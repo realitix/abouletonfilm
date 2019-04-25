@@ -1,1 +1,0 @@
-{"tmdb_id": 459348, "title": "El Canto del Colibr\u00ed", "original_title": "El Canto del Colibr\u00ed", "slug_title": "el-canto-del-colibri", "date": "2015-06-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1C8N8pYai6ihDuhyAHgMWarvAsJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

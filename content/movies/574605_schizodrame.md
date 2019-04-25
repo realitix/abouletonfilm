@@ -1,1 +1,0 @@
-{"tmdb_id": 574605, "title": "Schizodrame", "original_title": "Schizodrame", "slug_title": "schizodrame", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un film de Jakobois", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

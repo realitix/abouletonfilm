@@ -1,1 +1,0 @@
-{"tmdb_id": 314874, "title": "Homeland At War", "original_title": "Homeland At War", "slug_title": "homeland-at-war", "date": "2012-12-14", "genre": "Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rLS0Tjqim6c63RzjnhwbAOAFqwY.jpg", "actors": [], "comments": [], "recommandations_id": []}

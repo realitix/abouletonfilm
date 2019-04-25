@@ -1,1 +1,0 @@
-{"tmdb_id": 328476, "title": "Galacticon 3", "original_title": "Galacticon 3", "slug_title": "galacticon-3", "date": "2015-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

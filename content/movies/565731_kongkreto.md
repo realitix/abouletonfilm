@@ -1,1 +1,0 @@
-{"tmdb_id": 565731, "title": "Kongkreto", "original_title": "Kongkreto", "slug_title": "kongkreto", "date": "2018-11-13", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x3tWU2B6yJmpRvhKcD0wg243Eht.jpg", "actors": [], "comments": [], "recommandations_id": []}

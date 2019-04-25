@@ -1,1 +1,0 @@
-{"tmdb_id": 467133, "title": "Beastie Girls", "original_title": "Beastie Girls", "slug_title": "beastie-girls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2c61bvxenRWnx4p3M0uBJN9ByjX.jpg", "actors": [], "comments": [], "recommandations_id": []}

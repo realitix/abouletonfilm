@@ -1,1 +1,0 @@
-{"tmdb_id": 577266, "title": "In The Zone", "original_title": "In The Zone", "slug_title": "in-the-zone", "date": "2018-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vM9OehKtrNZoB9H5dkUl7wj7Ijb.jpg", "actors": [], "comments": [], "recommandations_id": []}

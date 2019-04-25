@@ -1,1 +1,0 @@
-{"tmdb_id": 328047, "title": "An Overall Hero", "original_title": "An Overall Hero", "slug_title": "an-overall-hero", "date": "1920-07-25", "genre": "Fantastique / Com\u00e9die / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Snooky (Snooky)", "Ida Mae McKenzie (A Child)"], "comments": [], "recommandations_id": []}

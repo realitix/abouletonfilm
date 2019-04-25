@@ -1,1 +1,0 @@
-{"tmdb_id": 541865, "title": "Humshakal", "original_title": "Humshakal", "slug_title": "humshakal", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rajesh Khanna ()", "Tanuja ()", "Moushumi Chatterjee ()", "Asrani ()", "Jagdeep ()", "Aruna Irani ()"], "comments": [], "recommandations_id": []}

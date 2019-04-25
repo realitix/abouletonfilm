@@ -1,1 +1,0 @@
-{"tmdb_id": 389629, "title": "Shadows of the Rainbow", "original_title": "Indradhanura Chhai", "slug_title": "shadows-of-the-rainbow", "date": "1993-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

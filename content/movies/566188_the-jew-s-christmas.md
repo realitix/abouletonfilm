@@ -1,1 +1,0 @@
-{"tmdb_id": 566188, "title": "The Jew's Christmas", "original_title": "The Jew's Christmas", "slug_title": "the-jew-s-christmas", "date": "1913-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

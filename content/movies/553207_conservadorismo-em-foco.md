@@ -1,1 +1,0 @@
-{"tmdb_id": 553207, "title": "Conservadorismo em Foco", "original_title": "Conservadorismo em Foco", "slug_title": "conservadorismo-em-foco", "date": "2018-10-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mYjoBjwWUDY6eOfXUtfJZZxlDFr.jpg", "actors": [], "comments": [], "recommandations_id": []}

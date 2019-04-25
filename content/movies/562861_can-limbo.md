@@ -1,1 +1,0 @@
-{"tmdb_id": 562861, "title": "Can Limbo", "original_title": "Can Limbo", "slug_title": "can-limbo", "date": "2018-11-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

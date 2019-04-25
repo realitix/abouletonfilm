@@ -1,1 +1,0 @@
-{"tmdb_id": 148114, "title": "Fotodeath", "original_title": "Fotodeath", "slug_title": "fotodeath", "date": "1961-12-31", "genre": "", "score": "2.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t11XBI8nw5MenB4IrALv7jRacUn.jpg", "actors": ["Claes Oldenburg ()"], "comments": [], "recommandations_id": [383841, 260364, 249354, 352631]}

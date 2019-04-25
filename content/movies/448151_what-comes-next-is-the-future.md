@@ -1,1 +1,0 @@
-{"tmdb_id": 448151, "title": "What Comes Next Is the Future", "original_title": "What Comes Next Is the Future", "slug_title": "what-comes-next-is-the-future", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

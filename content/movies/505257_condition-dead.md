@@ -1,1 +1,0 @@
-{"tmdb_id": 505257, "title": "Condition Dead", "original_title": "Condition Dead", "slug_title": "condition-dead", "date": "", "genre": "Com\u00e9die / Action / Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4kQjIh7OmXwL1eovHvjJuFPcOKt.jpg", "actors": [], "comments": [], "recommandations_id": []}

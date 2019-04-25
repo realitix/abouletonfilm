@@ -1,1 +1,0 @@
-{"tmdb_id": 511580, "title": "No Fish Where to Go", "original_title": "No Fish Where to Go", "slug_title": "no-fish-where-to-go", "date": "2014-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/njqsXwPu0qo0V0rUykemS68r4VG.jpg", "actors": [], "comments": [], "recommandations_id": []}

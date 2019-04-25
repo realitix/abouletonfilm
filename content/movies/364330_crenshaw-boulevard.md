@@ -1,1 +1,0 @@
-{"tmdb_id": 364330, "title": "Crenshaw Boulevard", "original_title": "Crenshaw Boulevard", "slug_title": "crenshaw-boulevard", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

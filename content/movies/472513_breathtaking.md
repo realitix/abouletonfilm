@@ -1,1 +1,0 @@
-{"tmdb_id": 472513, "title": "Breathtaking", "original_title": "Breathtaking", "slug_title": "breathtaking", "date": "2000-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

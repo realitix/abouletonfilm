@@ -1,1 +1,0 @@
-{"tmdb_id": 391215, "title": "Bruce Springsteen - BBC Presents: Glory Days", "original_title": "Bruce Springsteen - BBC Presents: Glory Days", "slug_title": "bruce-springsteen-bbc-presents-glory-days", "date": "1987-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

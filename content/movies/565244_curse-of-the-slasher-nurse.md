@@ -1,1 +1,0 @@
-{"tmdb_id": 565244, "title": "Curse of the Slasher Nurse", "original_title": "Curse of the Slasher Nurse", "slug_title": "curse-of-the-slasher-nurse", "date": "2017-10-13", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eo20oc1hOsQGlOv7brRC03BeUtF.jpg", "actors": [], "comments": [], "recommandations_id": []}

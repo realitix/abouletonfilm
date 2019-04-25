@@ -1,1 +1,0 @@
-{"tmdb_id": 354450, "title": "Colterrain", "original_title": "Colterrain", "slug_title": "colterrain", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1IiRSSIaOXBwM0gcpDw4aqR28ZX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 301469, "title": "Encounter at the Summit Cross", "original_title": "Encounter at the Summit Cross", "slug_title": "encounter-at-the-summit-cross", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

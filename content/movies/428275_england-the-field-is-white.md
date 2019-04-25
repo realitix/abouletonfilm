@@ -1,1 +1,0 @@
-{"tmdb_id": 428275, "title": "England: The Field is White", "original_title": "England: The Field is White", "slug_title": "england-the-field-is-white", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pN2d4Hh2NMCXY6zoKd3tniv0RXG.jpg", "actors": [], "comments": [], "recommandations_id": []}

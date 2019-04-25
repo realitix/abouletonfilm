@@ -1,1 +1,0 @@
-{"tmdb_id": 242007, "title": "Slednecks 5", "original_title": "Slednecks 5", "slug_title": "slednecks-5", "date": "2002-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qD5WJRtb83guV72updTm2nAMfV8.jpg", "actors": [], "comments": [], "recommandations_id": []}

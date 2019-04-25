@@ -1,1 +1,0 @@
-{"tmdb_id": 577279, "title": "Plicker", "original_title": "Plicker", "slug_title": "plicker", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

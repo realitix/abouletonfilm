@@ -1,1 +1,0 @@
-{"tmdb_id": 204719, "title": "What Is Neorealism?", "original_title": "What Is Neorealism?", "slug_title": "what-is-neorealism", "date": "2013-06-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nMdF3uj4CLuDbMV1V9FT57qr9ps.jpg", "actors": [], "comments": [], "recommandations_id": []}

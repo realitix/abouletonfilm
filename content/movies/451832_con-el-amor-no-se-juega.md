@@ -1,1 +1,0 @@
-{"tmdb_id": 451832, "title": "Con el amor no se juega", "original_title": "Con el amor no se juega", "slug_title": "con-el-amor-no-se-juega", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mOkYJSI4ltZBx7hvozC0zbK3WCZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

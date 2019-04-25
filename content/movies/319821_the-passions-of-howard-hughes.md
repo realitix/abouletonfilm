@@ -1,1 +1,0 @@
-{"tmdb_id": 319821, "title": "The Passions of Howard Hughes", "original_title": "The Passions of Howard Hughes", "slug_title": "the-passions-of-howard-hughes", "date": "2004-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 331336, "title": "The Junkyard Willie Movie: Lost in Transit", "original_title": "The Junkyard Willie Movie: Lost in Transit", "slug_title": "the-junkyard-willie-movie-lost-in-transit", "date": "2008-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

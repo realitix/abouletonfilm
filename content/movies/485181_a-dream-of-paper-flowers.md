@@ -1,1 +1,0 @@
-{"tmdb_id": 485181, "title": "A Dream of Paper Flowers", "original_title": "A Dream of Paper Flowers", "slug_title": "a-dream-of-paper-flowers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r0TQNprOdsd3Qdoz9iPa0gvlPoh.jpg", "actors": [], "comments": [], "recommandations_id": []}

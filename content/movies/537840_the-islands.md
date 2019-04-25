@@ -1,1 +1,0 @@
-{"tmdb_id": 537840, "title": "The Islands", "original_title": "The Islands", "slug_title": "the-islands", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/khQCnM8GqN46ANuTWkHmz1Mtno0.jpg", "actors": [], "comments": [], "recommandations_id": []}

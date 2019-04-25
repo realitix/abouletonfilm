@@ -1,1 +1,0 @@
-{"tmdb_id": 369543, "title": "Sanggyedong Olympic", "original_title": "\uc0c1\uacc4\ub3d9 \uc62c\ub9bc\ud53d", "slug_title": "sanggyedong-olympic", "date": "1988-01-01", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oKCDdiRhBHW5MEfhkhRR8qM0Ohn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 69368, "title": "Static", "original_title": "Static", "slug_title": "static", "date": "2008-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

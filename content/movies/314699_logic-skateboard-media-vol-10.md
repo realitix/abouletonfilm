@@ -1,1 +1,0 @@
-{"tmdb_id": 314699, "title": "Logic Skateboard Media: Vol. 10", "original_title": "Logic Skateboard Media: Vol. 10", "slug_title": "logic-skateboard-media-vol-10", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

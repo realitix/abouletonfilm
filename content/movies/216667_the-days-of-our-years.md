@@ -1,1 +1,0 @@
-{"tmdb_id": 216667, "title": "The Days of Our Years", "original_title": "The Days of Our Years", "slug_title": "the-days-of-our-years", "date": "1955-01-01", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

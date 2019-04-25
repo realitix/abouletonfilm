@@ -1,1 +1,0 @@
-{"tmdb_id": 564995, "title": "I Like it That Way", "original_title": "I Like it That Way", "slug_title": "i-like-it-that-way", "date": "1934-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gloria Stuart (Anne Rogers)", "Roger Pryor (Jack Anderson)", "Marian Marsh (Joan Anderson)"], "comments": [], "recommandations_id": []}

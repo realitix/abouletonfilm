@@ -1,1 +1,0 @@
-{"tmdb_id": 525189, "title": "Hyde Park, London", "original_title": "Hyde Park, London", "slug_title": "hyde-park-london", "date": "1896-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

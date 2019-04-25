@@ -1,1 +1,0 @@
-{"tmdb_id": 265336, "title": "Intimate Battles", "original_title": "Batallas \u00cdntimas", "slug_title": "intimate-battles", "date": "2015-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9wNM0oZPX2xfhyGk1OtrTF84oBa.jpg", "actors": [], "comments": [], "recommandations_id": []}

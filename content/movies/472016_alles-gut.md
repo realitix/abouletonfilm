@@ -1,1 +1,0 @@
-{"tmdb_id": 472016, "title": "Alles gut", "original_title": "Alles gut", "slug_title": "alles-gut", "date": "2017-03-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xRYUjQV0RPeRHlS7y47EGEcsyJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

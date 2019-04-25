@@ -1,1 +1,0 @@
-{"tmdb_id": 313402, "title": "Jay Perez: Up Close and Personal", "original_title": "Jay Perez: Up Close and Personal", "slug_title": "jay-perez-up-close-and-personal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

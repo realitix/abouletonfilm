@@ -1,1 +1,0 @@
-{"tmdb_id": 325456, "title": "Xanakis [a]live!", "original_title": "Xanakis [a]live!", "slug_title": "xanakis-a-live", "date": "2007-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yQaVaqbMRpyaKkhLCsMzUJJYm6B.jpg", "actors": [], "comments": [], "recommandations_id": []}

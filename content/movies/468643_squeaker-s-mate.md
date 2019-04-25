@@ -1,1 +1,0 @@
-{"tmdb_id": 468643, "title": "Squeaker's Mate", "original_title": "Squeaker's Mate", "slug_title": "squeaker-s-mate", "date": "1973-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Syd Conabere (Red Bob)", "Kerry Dwyer (Mary)"], "comments": [], "recommandations_id": []}

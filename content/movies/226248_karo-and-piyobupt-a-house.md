@@ -1,1 +1,0 @@
-{"tmdb_id": 226248, "title": "Karo and Piyobupt: A House", "original_title": "Karo and Piyobupt: O-Uchi", "slug_title": "karo-and-piyobupt-a-house", "date": "1993-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xqPnGBuaQsaAyGTbNtqfyuaiFXy.jpg", "actors": [], "comments": [], "recommandations_id": []}

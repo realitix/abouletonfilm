@@ -1,1 +1,0 @@
-{"tmdb_id": 528943, "title": "Open My Eyes", "original_title": "Open My Eyes", "slug_title": "open-my-eyes", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q0R1tMbiT0uQYHbHXV82GUl2kv1.jpg", "actors": [], "comments": [], "recommandations_id": []}

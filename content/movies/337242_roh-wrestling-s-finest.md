@@ -1,1 +1,0 @@
-{"tmdb_id": 337242, "title": "ROH Wrestling's Finest", "original_title": "ROH Wrestling's Finest", "slug_title": "roh-wrestling-s-finest", "date": "2014-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jAJ4bP5LJ70LM5I8YUkqWfwXUZC.jpg", "actors": [], "comments": [], "recommandations_id": []}

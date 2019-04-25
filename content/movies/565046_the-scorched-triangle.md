@@ -1,1 +1,0 @@
-{"tmdb_id": 565046, "title": "The Scorched Triangle", "original_title": "Le triangle \u00e9corch\u00e9", "slug_title": "the-scorched-triangle", "date": "1975-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eipofMFv7YMVo7lm24bi2DZ2spa.jpg", "actors": [], "comments": [], "recommandations_id": []}

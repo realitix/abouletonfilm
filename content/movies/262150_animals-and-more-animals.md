@@ -1,1 +1,0 @@
-{"tmdb_id": 262150, "title": "Animals and More Animals", "original_title": "Un animal, des animaux", "slug_title": "animals-and-more-animals", "date": "1994-12-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e80fWRpPMbVo2zG8rxJhOgHd8lF.jpg", "actors": [], "comments": [], "recommandations_id": []}

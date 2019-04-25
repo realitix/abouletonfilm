@@ -1,1 +1,0 @@
-{"tmdb_id": 555918, "title": "L'\u00e9quipe", "original_title": "L'\u00e9quipe", "slug_title": "l-equipe", "date": "1922-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

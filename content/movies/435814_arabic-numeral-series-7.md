@@ -1,1 +1,0 @@
-{"tmdb_id": 435814, "title": "Arabic Numeral Series 7", "original_title": "Arabic Numeral Series 7", "slug_title": "arabic-numeral-series-7", "date": "1981-01-18", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3iQTV5y3hU6jdDOABJAxAsY92F0.jpg", "actors": [], "comments": [], "recommandations_id": []}

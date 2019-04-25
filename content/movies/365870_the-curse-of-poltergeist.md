@@ -1,1 +1,0 @@
-{"tmdb_id": 365870, "title": "The Curse of Poltergeist", "original_title": "The Curse of Poltergeist", "slug_title": "the-curse-of-poltergeist", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Oliver Robins (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 465329, "title": "The Water Never Stays", "original_title": "The Water Never Stays", "slug_title": "the-water-never-stays", "date": "2017-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

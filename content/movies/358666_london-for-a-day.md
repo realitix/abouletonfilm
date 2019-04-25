@@ -1,1 +1,0 @@
-{"tmdb_id": 358666, "title": "London for a Day", "original_title": "London for a Day", "slug_title": "london-for-a-day", "date": "1962-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

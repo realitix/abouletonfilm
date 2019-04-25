@@ -1,1 +1,0 @@
-{"tmdb_id": 271486, "title": "Black Spring Break", "original_title": "Black Spring Break", "slug_title": "black-spring-break", "date": "1998-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6k1qsj7G6di3nHmUIfp6PKtpW3d.jpg", "actors": [], "comments": [], "recommandations_id": []}

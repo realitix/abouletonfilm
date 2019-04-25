@@ -1,1 +1,0 @@
-{"tmdb_id": 408695, "title": "Achoura", "original_title": "Achoura", "slug_title": "achoura", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g86X109QI6d72rmws8q8wrFywEd.jpg", "actors": [], "comments": [], "recommandations_id": []}

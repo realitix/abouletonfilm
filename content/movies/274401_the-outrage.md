@@ -1,1 +1,0 @@
-{"tmdb_id": 274401, "title": "The Outrage", "original_title": "The Outrage", "slug_title": "the-outrage", "date": "1915-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Henry Ainley ()", "Alma Taylor ()", "Lionelle Howard ()"], "comments": [], "recommandations_id": []}

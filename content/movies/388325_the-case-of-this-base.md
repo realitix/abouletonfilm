@@ -1,1 +1,0 @@
-{"tmdb_id": 388325, "title": "The case of this base", "original_title": "The case of this base", "slug_title": "the-case-of-this-base", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

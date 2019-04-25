@@ -1,1 +1,0 @@
-{"tmdb_id": 337544, "title": "This Chair Is Not Me", "original_title": "This Chair Is Not Me", "slug_title": "this-chair-is-not-me", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

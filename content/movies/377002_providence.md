@@ -1,1 +1,0 @@
-{"tmdb_id": 377002, "title": "Providence", "original_title": "Providence", "slug_title": "providence", "date": "1991-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["JD Cullum ()", "Yvonne de la Vega ()", "Keanu Reeves (Eric)"], "comments": [], "recommandations_id": []}

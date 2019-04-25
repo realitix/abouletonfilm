@@ -1,1 +1,0 @@
-{"tmdb_id": 455628, "title": "Archipelago", "original_title": "Archipelago", "slug_title": "archipelago", "date": "2017-12-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cpxmRDC0HaG3HKVxB9DVbZCyJ5W.jpg", "actors": [], "comments": [], "recommandations_id": []}

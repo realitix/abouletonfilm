@@ -1,1 +1,0 @@
-{"tmdb_id": 500884, "title": "Malambo", "original_title": "Malambo", "slug_title": "malambo", "date": "1942-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yD0fzxnQoRaEgbUxPvHdbKJU2JV.jpg", "actors": [], "comments": [], "recommandations_id": []}

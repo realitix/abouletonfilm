@@ -1,1 +1,0 @@
-{"tmdb_id": 560627, "title": "Via Dolorosa", "original_title": "Via Dolorosa", "slug_title": "via-dolorosa", "date": "2000-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6GNgvuRE1wt7AwCljsmrkyrDaze.jpg", "actors": ["David Hare (Himself)"], "comments": [], "recommandations_id": []}

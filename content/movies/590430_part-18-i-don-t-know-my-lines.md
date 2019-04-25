@@ -1,1 +1,0 @@
-{"tmdb_id": 590430, "title": "Part 18: I Don't Know My Lines", "original_title": "Part 18: I Don't Know My Lines", "slug_title": "part-18-i-don-t-know-my-lines", "date": "2016-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sxmVldhFjDNvmHuv8VpjrEuscTH.jpg", "actors": [], "comments": [], "recommandations_id": []}

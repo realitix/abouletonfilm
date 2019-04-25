@@ -1,1 +1,0 @@
-{"tmdb_id": 559251, "title": "La figure de proue", "original_title": "La figure de proue", "slug_title": "la-figure-de-proue", "date": "1948-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ksmEqcs34w4L4SahDmlGTuvRI6.jpg", "actors": [], "comments": [], "recommandations_id": []}

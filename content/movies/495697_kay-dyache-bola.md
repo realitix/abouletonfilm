@@ -1,1 +1,0 @@
-{"tmdb_id": 495697, "title": "Kay Dyache Bola", "original_title": "Kay Dyache Bola", "slug_title": "kay-dyache-bola", "date": "2005-11-04", "genre": "", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9yfQDQdvnzfyEjhzRKoXoWG9iLi.jpg", "actors": [], "comments": [], "recommandations_id": []}

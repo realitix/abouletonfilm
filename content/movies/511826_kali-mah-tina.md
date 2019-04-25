@@ -1,1 +1,0 @@
-{"tmdb_id": 511826, "title": "Kali Mah Tina", "original_title": "Kali Mah Tina", "slug_title": "kali-mah-tina", "date": "2017-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t5NRa0c8knLtV697zHzfG15I1d5.jpg", "actors": [], "comments": [], "recommandations_id": []}

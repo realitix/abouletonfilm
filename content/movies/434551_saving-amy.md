@@ -1,1 +1,0 @@
-{"tmdb_id": 434551, "title": "Saving Amy", "original_title": "Saving Amy", "slug_title": "saving-amy", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeremy Kaminsky (Todd Craven)", "AJ Nickell (Todd Craven (Teenagers))"], "comments": [], "recommandations_id": []}

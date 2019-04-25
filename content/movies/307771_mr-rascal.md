@@ -1,1 +1,0 @@
-{"tmdb_id": 307771, "title": "Mr. Rascal", "original_title": "Mr. Rascal", "slug_title": "mr-rascal", "date": "2011-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556113, "title": "La goutte de sang", "original_title": "La goutte de sang", "slug_title": "la-goutte-de-sang", "date": "1924-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

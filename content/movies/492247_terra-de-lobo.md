@@ -1,1 +1,0 @@
-{"tmdb_id": 492247, "title": "Terra de Lobo", "original_title": "Terra de Lobo", "slug_title": "terra-de-lobo", "date": "2017-09-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gLLDn0TxKIU7f9j07ddX4nbB1pV.jpg", "actors": [], "comments": [], "recommandations_id": []}

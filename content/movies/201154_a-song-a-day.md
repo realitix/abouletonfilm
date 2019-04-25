@@ -1,1 +1,0 @@
-{"tmdb_id": 201154, "title": "A Song a Day", "original_title": "A Song a Day", "slug_title": "a-song-a-day", "date": "1936-05-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tSO1p4cTvT1vEE423yvcc3OOqaQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

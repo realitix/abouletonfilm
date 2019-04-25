@@ -1,1 +1,0 @@
-{"tmdb_id": 107820, "title": "Alta Velocidad", "original_title": "Alta Velocidad", "slug_title": "alta-velocidad", "date": "2002-01-01", "genre": "Drame / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

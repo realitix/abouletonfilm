@@ -1,1 +1,0 @@
-{"tmdb_id": 139421, "title": "The Romance of Book and Sword", "original_title": "\u66f8\u528d\u6069\u4ec7\u9304", "slug_title": "the-romance-of-book-and-sword", "date": "1987-08-13", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mqoGxbjShpXVa5YaBqM666RxZ9Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

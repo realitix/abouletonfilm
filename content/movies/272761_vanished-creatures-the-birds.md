@@ -1,1 +1,0 @@
-{"tmdb_id": 272761, "title": "Vanished Creatures: The Birds", "original_title": "Vanished Creatures: The Birds", "slug_title": "vanished-creatures-the-birds", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

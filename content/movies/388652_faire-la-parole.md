@@ -1,1 +1,0 @@
-{"tmdb_id": 388652, "title": "Faire la parole", "original_title": "Faire la parole", "slug_title": "faire-la-parole", "date": "2017-11-15", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yjLlVojxg6dei8Bs2i0TKBhyiVC.jpg", "actors": ["Eug\u00e8ne Green ()"], "comments": [], "recommandations_id": []}

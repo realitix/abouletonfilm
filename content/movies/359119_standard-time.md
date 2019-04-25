@@ -1,1 +1,0 @@
-{"tmdb_id": 359119, "title": "Standard Time", "original_title": "Standard Time", "slug_title": "standard-time", "date": "1967-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kFIvEtVna9JJ3FjZP4set4ORPhE.jpg", "actors": ["Joyce Wieland ()"], "comments": [], "recommandations_id": []}

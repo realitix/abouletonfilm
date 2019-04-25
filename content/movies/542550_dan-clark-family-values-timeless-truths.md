@@ -1,1 +1,0 @@
-{"tmdb_id": 542550, "title": "Dan Clark: Family Values - Timeless Truths", "original_title": "Dan Clark: Family Values - Timeless Truths", "slug_title": "dan-clark-family-values-timeless-truths", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

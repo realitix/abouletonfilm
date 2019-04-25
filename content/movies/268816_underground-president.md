@@ -1,1 +1,0 @@
-{"tmdb_id": 268816, "title": "Underground President", "original_title": "Underground President", "slug_title": "underground-president", "date": "2007-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tJbwMDC8PA84hYHpPuycScT8nE0.jpg", "actors": [], "comments": [], "recommandations_id": []}

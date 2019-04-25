@@ -1,1 +1,0 @@
-{"tmdb_id": 584140, "title": "Swiss Trip (Rivers and Landscapes)", "original_title": "Swiss Trip (Rivers and Landscapes)", "slug_title": "swiss-trip-rivers-and-landscapes", "date": "1934-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

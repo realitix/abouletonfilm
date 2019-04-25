@@ -1,1 +1,0 @@
-{"tmdb_id": 549807, "title": "Once Upon a Film", "original_title": "Once Upon a Film", "slug_title": "once-upon-a-film", "date": "2007-09-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b3Mehae7Sk2M5EiZhyeb773aAky.jpg", "actors": [], "comments": [], "recommandations_id": []}

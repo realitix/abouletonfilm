@@ -1,1 +1,0 @@
-{"tmdb_id": 570059, "title": "Je Suis Un Compromis", "original_title": "Je Suis Un Compromis", "slug_title": "je-suis-un-compromis", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v5SrX5oObqLTFjbMtJSRnUedQJT.jpg", "actors": [], "comments": [], "recommandations_id": []}

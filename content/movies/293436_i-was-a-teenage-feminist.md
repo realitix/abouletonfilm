@@ -1,1 +1,0 @@
-{"tmdb_id": 293436, "title": "I Was a Teenage Feminist", "original_title": "I Was a Teenage Feminist", "slug_title": "i-was-a-teenage-feminist", "date": "2005-03-08", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9k7Tbv6zvrppNnSSG9XjYvIZJpC.jpg", "actors": [], "comments": [], "recommandations_id": []}

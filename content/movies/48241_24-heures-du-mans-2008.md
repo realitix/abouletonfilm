@@ -1,1 +1,0 @@
-{"tmdb_id": 48241, "title": "24 Heures Du Mans 2008", "original_title": "24 Heures Du Mans 2008", "slug_title": "24-heures-du-mans-2008", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sdlYBzruuAIVrZiLiJahFbCMCeD.jpg", "actors": [], "comments": [], "recommandations_id": []}

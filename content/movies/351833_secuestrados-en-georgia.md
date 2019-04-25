@@ -1,1 +1,0 @@
-{"tmdb_id": 351833, "title": "Secuestrados en Georgia", "original_title": "Secuestrados en Georgia", "slug_title": "secuestrados-en-georgia", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chete Lera ()", "Manuel Mor\u00f3n ()", "Jos\u00e9 Luis D\u00edaz ()"], "comments": [], "recommandations_id": []}

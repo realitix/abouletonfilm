@@ -1,1 +1,0 @@
-{"tmdb_id": 579446, "title": "Something Very Big", "original_title": "Something Very Big", "slug_title": "something-very-big", "date": "1998-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kI9WHWWNGM6uwXVuugnByUx3ZOa.jpg", "actors": [], "comments": [], "recommandations_id": []}

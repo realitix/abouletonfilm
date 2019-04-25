@@ -1,1 +1,0 @@
-{"tmdb_id": 562601, "title": "Le Psychodrame", "original_title": "Le Psychodrame", "slug_title": "le-psychodrame", "date": "1956-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2zybPD0OPMsFpTUN2IM7I03Grm0.jpg", "actors": [], "comments": [], "recommandations_id": []}

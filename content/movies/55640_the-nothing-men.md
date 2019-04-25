@@ -1,1 +1,0 @@
-{"tmdb_id": 55640, "title": "The Nothing Men", "original_title": "The Nothing Men", "slug_title": "the-nothing-men", "date": "2010-02-05", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hU8T89rWbOBUoGDro4dAx9lrIjN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 559261, "title": "Fort de la solitude", "original_title": "Fort de la solitude", "slug_title": "fort-de-la-solitude", "date": "1948-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cKlOJ8S9fY1VHlReeH8BI3dbFBv.jpg", "actors": [], "comments": [], "recommandations_id": []}

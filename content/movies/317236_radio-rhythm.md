@@ -1,1 +1,0 @@
-{"tmdb_id": 317236, "title": "Radio Rhythm", "original_title": "Radio Rhythm", "slug_title": "radio-rhythm", "date": "1931-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mickey Rooney (Oswald the Lucky Rabbit (voice))"], "comments": [], "recommandations_id": []}

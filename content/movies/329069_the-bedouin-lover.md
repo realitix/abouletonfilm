@@ -1,1 +1,0 @@
-{"tmdb_id": 329069, "title": "The Bedouin Lover", "original_title": "al-Badawia al-'Asheqa", "slug_title": "the-bedouin-lover", "date": "1963-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sabah Al Emary ()", "Kamal Al-Shennawi ()", "Nabila Ebeid ()", "Samira Tewfik ()"], "comments": [], "recommandations_id": []}

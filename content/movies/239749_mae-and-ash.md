@@ -1,1 +1,0 @@
-{"tmdb_id": 239749, "title": "Mae and Ash", "original_title": "Mae and Ash", "slug_title": "mae-and-ash", "date": "2012-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kelsey McNamee (Mae)", "Milo Cawthorne (Ash)", "Natasha Sims (Kayla)", "Zachary Webber (Robert)"], "comments": [], "recommandations_id": []}

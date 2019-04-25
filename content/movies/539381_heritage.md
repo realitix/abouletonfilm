@@ -1,1 +1,0 @@
-{"tmdb_id": 539381, "title": "Heritage", "original_title": "Aux jardins de Murcie", "slug_title": "heritage", "date": "1936-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Juanita Montenegro (Mar\u00eda del Carmen)", "Hubert Pr\u00e9lier (Xavier)", "Geymond Vital (Pencho)"], "comments": [], "recommandations_id": []}

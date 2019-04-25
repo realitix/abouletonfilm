@@ -1,1 +1,0 @@
-{"tmdb_id": 583172, "title": "A Boy Like Many Others", "original_title": "Un ragazzo come tanti", "slug_title": "a-boy-like-many-others", "date": "1983-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3AZDy5EElLhVwnxquFxqaHx7FNz.jpg", "actors": [], "comments": [], "recommandations_id": []}

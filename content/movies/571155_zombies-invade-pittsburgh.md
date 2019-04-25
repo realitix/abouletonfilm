@@ -1,1 +1,0 @@
-{"tmdb_id": 571155, "title": "Zombies Invade Pittsburgh", "original_title": "Zombies Invade Pittsburgh", "slug_title": "zombies-invade-pittsburgh", "date": "1996-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pWXYayZ2uouhNW01mmYC1KsMa2O.jpg", "actors": [], "comments": [], "recommandations_id": []}

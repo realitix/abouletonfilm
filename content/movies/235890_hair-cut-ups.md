@@ -1,1 +1,0 @@
-{"tmdb_id": 235890, "title": "Hair Cut-Ups", "original_title": "Hair Cut-Ups", "slug_title": "hair-cut-ups", "date": "1952-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 224050, "title": "Hot Time on Ice", "original_title": "Hot Time on Ice", "slug_title": "hot-time-on-ice", "date": "1967-03-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ef3qSmKCgPX4DIQgjnfQuuzSdys.jpg", "actors": [], "comments": [], "recommandations_id": []}

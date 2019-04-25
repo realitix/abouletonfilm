@@ -1,1 +1,0 @@
-{"tmdb_id": 580882, "title": "1/8 Dastet Ashrar", "original_title": "1/8 Dastet Ashrar", "slug_title": "1-8-dastet-ashrar", "date": "2006-10-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yasmin Abdulaziz ()", "Mohamed Ragab (Mayo)", "Khaled Saleh ()", "Nicole Saba ()"], "comments": [], "recommandations_id": []}

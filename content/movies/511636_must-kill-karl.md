@@ -1,1 +1,0 @@
-{"tmdb_id": 511636, "title": "Must Kill Karl", "original_title": "Must Kill Karl", "slug_title": "must-kill-karl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/auJ0WAyDiz18iSWMOoZSOXDGr6q.jpg", "actors": [], "comments": [], "recommandations_id": []}

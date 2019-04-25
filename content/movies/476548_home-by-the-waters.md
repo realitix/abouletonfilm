@@ -1,1 +1,0 @@
-{"tmdb_id": 476548, "title": "Home by the Waters", "original_title": "Home by the Waters", "slug_title": "home-by-the-waters", "date": "1971-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/QIfKzRjeGBVvsqkQlwqYiL0lDJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

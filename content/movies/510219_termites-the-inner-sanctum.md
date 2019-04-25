@@ -1,1 +1,0 @@
-{"tmdb_id": 510219, "title": "Termites: The Inner Sanctum", "original_title": "Termites: The Inner Sanctum", "slug_title": "termites-the-inner-sanctum", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ojsfy7jc8kOkP44tzTpe5OqJtjG.jpg", "actors": [], "comments": [], "recommandations_id": []}

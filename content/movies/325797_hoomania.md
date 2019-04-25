@@ -1,1 +1,0 @@
-{"tmdb_id": 325797, "title": "Hoomania", "original_title": "Hoomania", "slug_title": "hoomania", "date": "1985-01-01", "genre": "Animation / Familial", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cCMb4oOmPoiyovYltlDxwwWeYpK.jpg", "actors": [], "comments": [], "recommandations_id": []}

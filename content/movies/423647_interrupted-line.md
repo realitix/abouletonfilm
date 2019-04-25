@@ -1,1 +1,0 @@
-{"tmdb_id": 423647, "title": "Interrupted Line", "original_title": "Interrupted Line", "slug_title": "interrupted-line", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ah4GJyQrH9VpAwp4yn0wI5Z5K9z.jpg", "actors": [], "comments": [], "recommandations_id": []}

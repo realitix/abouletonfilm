@@ -1,1 +1,0 @@
-{"tmdb_id": 449180, "title": "Acre-Doce", "original_title": "Acre-Doce", "slug_title": "acre-doce", "date": "1986-01-01", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bianca Byington ()", "Geraldo Del Rey ()", "Pedro Cardoso ()"], "comments": [], "recommandations_id": []}

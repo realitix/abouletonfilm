@@ -1,1 +1,0 @@
-{"tmdb_id": 565216, "title": "Music Studio", "original_title": "Music Studio", "slug_title": "music-studio", "date": "1958-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

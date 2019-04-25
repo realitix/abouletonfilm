@@ -1,1 +1,0 @@
-{"tmdb_id": 452338, "title": "Klein Duimpje", "original_title": "Klein Duimpje", "slug_title": "klein-duimpje", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

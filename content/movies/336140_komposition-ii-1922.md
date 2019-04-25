@@ -1,1 +1,0 @@
-{"tmdb_id": 336140, "title": "Komposition II/1922", "original_title": "Komposition II/1922", "slug_title": "komposition-ii-1922", "date": "1959-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pe79KYRgcfrF4mYQRuTl8e3jhuB.jpg", "actors": [], "comments": [], "recommandations_id": []}

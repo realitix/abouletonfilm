@@ -1,1 +1,0 @@
-{"tmdb_id": 35252, "title": "The Sex Movie", "original_title": "The Sex Movie", "slug_title": "the-sex-movie", "date": "2006-06-06", "genre": "Drame", "score": "3.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sYRLCr2D66K8fBs2MVkz4Qj3JRa.png", "actors": [], "comments": [], "recommandations_id": []}

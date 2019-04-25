@@ -1,1 +1,0 @@
-{"tmdb_id": 362915, "title": "Fat Man on a Bicycle", "original_title": "Fat Man on a Bicycle", "slug_title": "fat-man-on-a-bicycle", "date": "1914-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mwBVEwitYBo5OFk5JDZXh9noNEx.jpg", "actors": [], "comments": [], "recommandations_id": []}

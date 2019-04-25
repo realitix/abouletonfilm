@@ -1,1 +1,0 @@
-{"tmdb_id": 497314, "title": "The Ancient Mariner", "original_title": "The Ancient Mariner", "slug_title": "the-ancient-mariner", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

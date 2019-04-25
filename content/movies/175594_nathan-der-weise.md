@@ -1,1 +1,0 @@
-{"tmdb_id": 175594, "title": "Nathan der Weise", "original_title": "Nathan der Weise", "slug_title": "nathan-der-weise", "date": "1922-12-28", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Sp19UXVtPR2gl5UJgNnuBYSDyB.jpg", "actors": [], "comments": [], "recommandations_id": []}

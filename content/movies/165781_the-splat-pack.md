@@ -1,1 +1,0 @@
-{"tmdb_id": 165781, "title": "The Splat Pack", "original_title": "The Splat Pack", "slug_title": "the-splat-pack", "date": "2011-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7yLTCNh09Q7ywQNqHkH5xN2gE74.jpg", "actors": [], "comments": [], "recommandations_id": []}

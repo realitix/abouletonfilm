@@ -1,1 +1,0 @@
-{"tmdb_id": 443672, "title": "Satires", "original_title": "Satires", "slug_title": "satires", "date": "1929-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJyduaLV6IVAweDGw4OHwfkTL8V.jpg", "actors": ["John T. Murray ()", "Vivien Oakland ()", "Ernest F. Young ()"], "comments": [], "recommandations_id": []}

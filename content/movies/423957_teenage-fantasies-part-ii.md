@@ -1,1 +1,0 @@
-{"tmdb_id": 423957, "title": "Teenage Fantasies: Part II", "original_title": "Teenage Fantasies: Part II", "slug_title": "teenage-fantasies-part-ii", "date": "1981-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3x0HLKmgG5W1jevJhScRKtBzfc6.jpg", "actors": [], "comments": [], "recommandations_id": []}

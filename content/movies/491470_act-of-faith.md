@@ -1,1 +1,0 @@
-{"tmdb_id": 491470, "title": "Act of Faith", "original_title": "Act of Faith", "slug_title": "act-of-faith", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

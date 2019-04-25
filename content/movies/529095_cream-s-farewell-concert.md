@@ -1,1 +1,0 @@
-{"tmdb_id": 529095, "title": "Cream's Farewell Concert", "original_title": "Cream's Farewell Concert", "slug_title": "cream-s-farewell-concert", "date": "1969-01-05", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fXAMFin9KU04mqwfsoRsrLbP2G7.jpg", "actors": [], "comments": [], "recommandations_id": []}

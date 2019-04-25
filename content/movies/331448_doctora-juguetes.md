@@ -1,1 +1,0 @@
-{"tmdb_id": 331448, "title": "Doctora Juguetes", "original_title": "Doctora Juguetes", "slug_title": "doctora-juguetes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

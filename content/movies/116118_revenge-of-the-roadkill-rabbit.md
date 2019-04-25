@@ -1,1 +1,0 @@
-{"tmdb_id": 116118, "title": "Revenge of the Roadkill Rabbit", "original_title": "Revenge of the Roadkill Rabbit", "slug_title": "revenge-of-the-roadkill-rabbit", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

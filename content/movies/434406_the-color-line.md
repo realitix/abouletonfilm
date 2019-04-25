@@ -1,1 +1,0 @@
-{"tmdb_id": 434406, "title": "The Color Line", "original_title": "The Color Line", "slug_title": "the-color-line", "date": "2016-07-26", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iKMeFNVZXPpStaCKlMtHcvsTjPp.jpg", "actors": ["Charles Musser (Himself)"], "comments": [], "recommandations_id": []}

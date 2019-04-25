@@ -1,1 +1,0 @@
-{"tmdb_id": 511001, "title": "Philippe Bond 2", "original_title": "Philippe Bond 2", "slug_title": "philippe-bond-2", "date": "2018-02-27", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/az7iOlsaXDOXHkCt88vDVpw85dX.jpg", "actors": [], "comments": [], "recommandations_id": []}

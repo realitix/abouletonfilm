@@ -1,1 +1,0 @@
-{"tmdb_id": 393282, "title": "Karibik und Suedseeinseln 3", "original_title": "Karibik und Suedseeinseln 3", "slug_title": "karibik-und-suedseeinseln-3", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

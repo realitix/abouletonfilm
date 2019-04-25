@@ -1,1 +1,0 @@
-{"tmdb_id": 458715, "title": "Chile paralelo 56", "original_title": "Chile paralelo 56", "slug_title": "chile-paralelo-56", "date": "1964-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dyZSski1jaWQopCBgqVDdSuNl8v.jpg", "actors": ["Eduardo Grunet ()"], "comments": [], "recommandations_id": []}

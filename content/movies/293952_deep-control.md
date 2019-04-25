@@ -1,1 +1,0 @@
-{"tmdb_id": 293952, "title": "Deep Control", "original_title": "Dyp Kontroll", "slug_title": "deep-control", "date": "2014-05-28", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anders Danielsen Lie (Drug Boss)"], "comments": [], "recommandations_id": []}

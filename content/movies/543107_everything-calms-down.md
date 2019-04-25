@@ -1,1 +1,0 @@
-{"tmdb_id": 543107, "title": "Everything Calms Down", "original_title": "Todo se calma", "slug_title": "everything-calms-down", "date": "2018-09-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oXzQJCVgvqu92U9uaisy1rbBtSw.jpg", "actors": ["Rhea Volij (Woman)"], "comments": [], "recommandations_id": []}

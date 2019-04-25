@@ -1,1 +1,0 @@
-{"tmdb_id": 284794, "title": "Die Landstra\u00dfe", "original_title": "Die Landstra\u00dfe", "slug_title": "die-landstrasse", "date": "1913-09-17", "genre": "Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carl Goetz (Landstreicher)", "Rudolf Klein-Rhoden (M\u00f6rder)", "Paul Bildt ()"], "comments": [], "recommandations_id": []}

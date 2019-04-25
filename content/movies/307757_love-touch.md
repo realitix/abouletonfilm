@@ -1,1 +1,0 @@
-{"tmdb_id": 307757, "title": "Love Touch", "original_title": "Love Touch", "slug_title": "love-touch", "date": "2013-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

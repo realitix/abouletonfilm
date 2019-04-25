@@ -1,1 +1,0 @@
-{"tmdb_id": 81292, "title": "Chocs Cosmiques", "original_title": "Cosmic Collisions", "slug_title": "chocs-cosmiques", "date": "2006-03-18", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Redford (Narrator (voice))"], "comments": [], "recommandations_id": []}

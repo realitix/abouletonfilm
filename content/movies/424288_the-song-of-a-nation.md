@@ -1,1 +1,0 @@
-{"tmdb_id": 424288, "title": "The Song of a Nation", "original_title": "The Song of a Nation", "slug_title": "the-song-of-a-nation", "date": "1936-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Donald Woods (Francis Scott Key)", "Claire Dodd (Mary Key)"], "comments": [], "recommandations_id": []}

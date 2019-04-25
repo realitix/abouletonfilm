@@ -1,1 +1,0 @@
-{"tmdb_id": 255768, "title": "Penitentiary Angel", "original_title": "\u5973\u513f\u8c37", "slug_title": "penitentiary-angel", "date": "1995-11-02", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bjUuWXhRNJ0OVyiiSCU0EZlDxh0.jpg", "actors": ["Zhao Wei (Xue er)"], "comments": [], "recommandations_id": []}

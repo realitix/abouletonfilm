@@ -1,1 +1,0 @@
-{"tmdb_id": 291086, "title": "Once Upon a Time", "original_title": "By\u0142 sobie raz...", "slug_title": "once-upon-a-time", "date": "1957-01-01", "genre": "Animation", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/83ReXwK49GvXn9IwjstMeI2Q3f8.jpg", "actors": [], "comments": [], "recommandations_id": [247437, 189943, 186164, 263875]}

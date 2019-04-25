@@ -1,1 +1,0 @@
-{"tmdb_id": 82615, "title": "Seethaiah", "original_title": "Seethaiah", "slug_title": "seethaiah", "date": "2003-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5bWeahuxb9CWxRz241VNZkTUC1A.jpg", "actors": [], "comments": [], "recommandations_id": []}

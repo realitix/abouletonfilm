@@ -1,1 +1,0 @@
-{"tmdb_id": 375283, "title": "Pink Floyd - Rock-Heroes", "original_title": "Pink Floyd - Rock-Heroes", "slug_title": "pink-floyd-rock-heroes", "date": "2015-08-20", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kEJPdgNs0VYa36hH594w6OOguOC.jpg", "actors": [], "comments": [], "recommandations_id": []}

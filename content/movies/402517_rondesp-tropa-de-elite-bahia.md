@@ -1,1 +1,0 @@
-{"tmdb_id": 402517, "title": "Rondesp - Tropa de Elite Bahia", "original_title": "Rondesp - Tropa de Elite Bahia", "slug_title": "rondesp-tropa-de-elite-bahia", "date": "2016-08-16", "genre": "", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5OpyCv0jGGisoGX85zpaFp2WgHt.jpg", "actors": [], "comments": [], "recommandations_id": []}

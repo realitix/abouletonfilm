@@ -1,1 +1,0 @@
-{"tmdb_id": 275664, "title": "A Clown's Recovery", "original_title": "A Clown's Recovery", "slug_title": "a-clown-s-recovery", "date": "2013-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

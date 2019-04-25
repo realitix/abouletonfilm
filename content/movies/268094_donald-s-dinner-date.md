@@ -1,1 +1,0 @@
-{"tmdb_id": 268094, "title": "Donald's Dinner Date", "original_title": "Donald's Dinner Date", "slug_title": "donald-s-dinner-date", "date": "1999-09-18", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kMPsuKqHDT7M1iLMwln4250c7sY.jpg", "actors": [], "comments": [], "recommandations_id": []}

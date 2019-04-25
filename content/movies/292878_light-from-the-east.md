@@ -1,1 +1,0 @@
-{"tmdb_id": 292878, "title": "Light from the East", "original_title": "Light from the East", "slug_title": "light-from-the-east", "date": "2005-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

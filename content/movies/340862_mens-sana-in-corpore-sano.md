@@ -1,1 +1,0 @@
-{"tmdb_id": 340862, "title": "Mens Sana in Corpore Sano", "original_title": "Mens Sana in Corpore Sano", "slug_title": "mens-sana-in-corpore-sano", "date": "2011-08-01", "genre": "Thriller / Horreur", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Flavio Danilo ()"], "comments": [], "recommandations_id": []}

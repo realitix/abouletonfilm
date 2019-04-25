@@ -1,1 +1,0 @@
-{"tmdb_id": 86422, "title": "Marvin Hagler vs Roberto Duran", "original_title": "Marvin Hagler vs Roberto Duran", "slug_title": "marvin-hagler-vs-roberto-duran", "date": "1983-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qOln6IH02Aeb8cqOQCGhsJqmsZ6.jpg", "actors": [], "comments": [], "recommandations_id": []}

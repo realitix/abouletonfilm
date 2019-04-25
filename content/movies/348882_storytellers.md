@@ -1,1 +1,0 @@
-{"tmdb_id": 348882, "title": "storytellers", "original_title": "\u3046\u305f\u3046\u3072\u3068", "slug_title": "storytellers", "date": "2013-11-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/50Qfga6ZIJh3P1xUGwoQcaah5RC.jpg", "actors": [], "comments": [], "recommandations_id": []}

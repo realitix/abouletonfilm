@@ -1,1 +1,0 @@
-{"tmdb_id": 516127, "title": "Steve Soelberg: WE SAY BIM", "original_title": "Steve Soelberg: WE SAY BIM", "slug_title": "steve-soelberg-we-say-bim", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

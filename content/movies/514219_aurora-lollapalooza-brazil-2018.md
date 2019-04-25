@@ -1,1 +1,0 @@
-{"tmdb_id": 514219, "title": "Aurora - Lollapalooza Brazil 2018", "original_title": "Aurora - Lollapalooza Brazil 2018", "slug_title": "aurora-lollapalooza-brazil-2018", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bfOThF8hlz8RB8mhwqyoMUSr1oj.jpg", "actors": [], "comments": [], "recommandations_id": []}

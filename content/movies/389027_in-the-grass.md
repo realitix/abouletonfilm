@@ -1,1 +1,0 @@
-{"tmdb_id": 389027, "title": "In the Grass", "original_title": "In the Grass", "slug_title": "in-the-grass", "date": "1974-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

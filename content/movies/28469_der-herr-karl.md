@@ -1,1 +1,0 @@
-{"tmdb_id": 28469, "title": "Der Herr Karl", "original_title": "Der Herr Karl", "slug_title": "der-herr-karl", "date": "1961-11-15", "genre": "Com\u00e9die", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hUeS1PrPH3Um9idkP42SqibNY5Z.jpg", "actors": ["Helmut Qualtinger (Herr Karl)"], "comments": [], "recommandations_id": []}

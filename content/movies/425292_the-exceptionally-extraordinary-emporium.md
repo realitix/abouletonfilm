@@ -1,1 +1,0 @@
-{"tmdb_id": 425292, "title": "The Exceptionally Extraordinary Emporium", "original_title": "The Exceptionally Extraordinary Emporium", "slug_title": "the-exceptionally-extraordinary-emporium", "date": "", "genre": "Com\u00e9die / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

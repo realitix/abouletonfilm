@@ -1,1 +1,0 @@
-{"tmdb_id": 370414, "title": "Hot Water", "original_title": "Hot Water", "slug_title": "hot-water", "date": "2015-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kWKZf3Y68SX9j8aQ68dxnExkLcm.jpg", "actors": [], "comments": [], "recommandations_id": []}

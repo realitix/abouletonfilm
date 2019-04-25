@@ -1,1 +1,0 @@
-{"tmdb_id": 274831, "title": "Days Months Years...", "original_title": "Days Months Years...", "slug_title": "days-months-years", "date": "1966-06-06", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iDKfl8SBmKjUjzl3M2k6qMbGWGl.jpg", "actors": [], "comments": [], "recommandations_id": []}

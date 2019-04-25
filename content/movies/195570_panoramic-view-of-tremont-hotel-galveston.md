@@ -1,1 +1,0 @@
-{"tmdb_id": 195570, "title": "Panoramic View of Tremont Hotel, Galveston", "original_title": "Panoramic View of Tremont Hotel, Galveston", "slug_title": "panoramic-view-of-tremont-hotel-galveston", "date": "1900-09-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

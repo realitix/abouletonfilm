@@ -1,1 +1,0 @@
-{"tmdb_id": 310853, "title": "The Perfect Model", "original_title": "The Perfect Model", "slug_title": "the-perfect-model", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

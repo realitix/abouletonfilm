@@ -1,1 +1,0 @@
-{"tmdb_id": 523936, "title": "Meander", "original_title": "Meander", "slug_title": "meander", "date": "", "genre": "Horreur / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1D9SepCuNdlt9UUGyr0EGsSVFYk.jpg", "actors": ["B\u00e9r\u00e9nice Marlohe (Lisa)"], "comments": [], "recommandations_id": []}

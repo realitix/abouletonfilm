@@ -1,1 +1,0 @@
-{"tmdb_id": 471195, "title": "When the Vows Break", "original_title": "When the Vows Break", "slug_title": "when-the-vows-break", "date": "1995-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

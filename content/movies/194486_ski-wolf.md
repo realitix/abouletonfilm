@@ -1,1 +1,0 @@
-{"tmdb_id": 194486, "title": "Ski Wolf", "original_title": "Ski Wolf", "slug_title": "ski-wolf", "date": "2008-11-11", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Casey Bowker (Scott Bateman)", "Alix Lakehurst (Fantasia Snow)", "Trent Haaga (Ralston Zabku)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 305911, "title": "Sesh Prishthay Dekhun", "original_title": "Sesh Prishthay Dekhun", "slug_title": "sesh-prishthay-dekhun", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

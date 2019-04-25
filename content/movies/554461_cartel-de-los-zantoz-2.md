@@ -1,1 +1,0 @@
-{"tmdb_id": 554461, "title": "Cartel de los Zantoz 2", "original_title": "Cartel de los Zantoz 2", "slug_title": "cartel-de-los-zantoz-2", "date": "2014-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gIDJy7IGSfyf1QgN56jHIC3dc63.jpg", "actors": [], "comments": [], "recommandations_id": []}

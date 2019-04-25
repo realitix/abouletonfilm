@@ -1,1 +1,0 @@
-{"tmdb_id": 281420, "title": "Sunset Strip: Volume 2", "original_title": "Sunset Strip: Volume 2", "slug_title": "sunset-strip-volume-2", "date": "2014-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

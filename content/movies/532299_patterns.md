@@ -1,1 +1,0 @@
-{"tmdb_id": 532299, "title": "Patterns", "original_title": "Patterns", "slug_title": "patterns", "date": "2018-06-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q6pX06rnjDS5nIsKyPlyfhrTNGa.jpg", "actors": [], "comments": [], "recommandations_id": []}

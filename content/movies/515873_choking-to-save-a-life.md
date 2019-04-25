@@ -1,1 +1,0 @@
-{"tmdb_id": 515873, "title": "Choking: To Save a Life", "original_title": "Choking: To Save a Life", "slug_title": "choking-to-save-a-life", "date": "1977-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mKro0hu6DCFASRTYsQTw461CNdq.jpg", "actors": [], "comments": [], "recommandations_id": []}

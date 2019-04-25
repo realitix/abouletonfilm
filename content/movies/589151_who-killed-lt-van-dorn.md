@@ -1,1 +1,0 @@
-{"tmdb_id": 589151, "title": "Who Killed Lt. Van Dorn?", "original_title": "Who Killed Lt. Van Dorn?", "slug_title": "who-killed-lt-van-dorn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xAeOGgdBGJ1nfytvqQcX2DAztzg.jpg", "actors": [], "comments": [], "recommandations_id": []}

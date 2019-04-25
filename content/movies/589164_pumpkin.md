@@ -1,1 +1,0 @@
-{"tmdb_id": 589164, "title": "Pumpkin", "original_title": "Kabocha", "slug_title": "pumpkin", "date": "1928-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tatsuo Sait\u00f4 ()", "Yurie Hinatsu ()", "Takeshi Sakamoto ()", "Chish\u016b Ry\u016b ()"], "comments": [], "recommandations_id": []}

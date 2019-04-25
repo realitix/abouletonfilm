@@ -1,1 +1,0 @@
-{"tmdb_id": 87766, "title": "Winter-house", "original_title": "Invernadero", "slug_title": "winter-house", "date": "2010-04-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y5F1KtfXkwdpgTQF1oCXgaNwdK6.jpg", "actors": [], "comments": [], "recommandations_id": []}

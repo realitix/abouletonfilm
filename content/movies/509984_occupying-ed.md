@@ -1,1 +1,0 @@
-{"tmdb_id": 509984, "title": "Occupying Ed", "original_title": "Occupying Ed", "slug_title": "occupying-ed", "date": "2014-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aMyqYiSmrniCOQRcmFciHEnKUln.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 164097, "title": "Aus Liebe zum Volk", "original_title": "Aus Liebe zum Volk", "slug_title": "aus-liebe-zum-volk", "date": "2004-02-07", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fWo1M7kavqtDEfRUSQXsAfFnX3g.jpg", "actors": [], "comments": [], "recommandations_id": []}

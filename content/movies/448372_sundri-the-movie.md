@@ -1,1 +1,0 @@
-{"tmdb_id": 448372, "title": "Sundri - The Movie", "original_title": "Sundri - The Movie", "slug_title": "sundri-the-movie", "date": "2008-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sQr145utlVj8sqFQw9BinWe09d9.jpg", "actors": [], "comments": [], "recommandations_id": []}

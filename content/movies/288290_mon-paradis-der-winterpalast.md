@@ -1,1 +1,0 @@
-{"tmdb_id": 288290, "title": "Mon Paradis - Der Winterpalast", "original_title": "Mon Paradis - Der Winterpalast", "slug_title": "mon-paradis-der-winterpalast", "date": "2001-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

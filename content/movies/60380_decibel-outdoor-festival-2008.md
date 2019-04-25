@@ -1,1 +1,0 @@
-{"tmdb_id": 60380, "title": "Decibel Outdoor Festival 2008", "original_title": "Decibel Outdoor Festival 2008", "slug_title": "decibel-outdoor-festival-2008", "date": "2008-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/md6bt9Ov2e57seXUUTbL2Oed6PI.jpg", "actors": [], "comments": [], "recommandations_id": []}

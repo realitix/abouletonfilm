@@ -1,1 +1,0 @@
-{"tmdb_id": 380161, "title": "Speed Bob", "original_title": "Speed Bob", "slug_title": "speed-bob", "date": "2015-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 391214, "title": "Concerto", "original_title": "Concerto", "slug_title": "concerto", "date": "2016-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

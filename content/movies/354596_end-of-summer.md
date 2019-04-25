@@ -1,1 +1,0 @@
-{"tmdb_id": 354596, "title": "End of Summer", "original_title": "End of Summer", "slug_title": "end-of-summer", "date": "2014-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oRQUgWGB5oxOo8X1T5zJK2n8hay.jpg", "actors": [], "comments": [], "recommandations_id": []}

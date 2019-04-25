@@ -1,1 +1,0 @@
-{"tmdb_id": 265149, "title": "David Gilmour - Headline Act", "original_title": "David Gilmour - Headline Act", "slug_title": "david-gilmour-headline-act", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

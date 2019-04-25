@@ -1,1 +1,0 @@
-{"tmdb_id": 516327, "title": "MAID OF THE DEAD", "original_title": "MAID OF THE DEAD", "slug_title": "maid-of-the-dead", "date": "2013-10-07", "genre": "Animation / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 382194, "title": "How to Die: Simon's Choice", "original_title": "How to Die: Simon's Choice", "slug_title": "how-to-die-simon-s-choice", "date": "2016-02-10", "genre": "Documentaire", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iXtOpjiQCbi9gmVm57urrdAtFdL.jpg", "actors": [], "comments": [], "recommandations_id": []}

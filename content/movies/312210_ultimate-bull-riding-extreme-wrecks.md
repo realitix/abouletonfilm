@@ -1,1 +1,0 @@
-{"tmdb_id": 312210, "title": "Ultimate Bull Riding: Extreme Wrecks", "original_title": "Ultimate Bull Riding: Extreme Wrecks", "slug_title": "ultimate-bull-riding-extreme-wrecks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

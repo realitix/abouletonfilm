@@ -1,1 +1,0 @@
-{"tmdb_id": 197022, "title": "Disney's Magical Fireplace", "original_title": "Disney's Magical Fireplace", "slug_title": "disney-s-magical-fireplace", "date": "2008-01-30", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uehlAjGs9Th14TZdS1yMeKejeN8.jpg", "actors": [], "comments": [], "recommandations_id": []}

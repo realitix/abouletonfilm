@@ -1,1 +1,0 @@
-{"tmdb_id": 584279, "title": "Catch.er", "original_title": "Catch.er", "slug_title": "catch-er", "date": "2017-10-13", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aLJzLaBGfaeWHUpTpbUmr1UQHOR.jpg", "actors": ["Beverly Naya (Abby Bello)", "Alexx Ekubo (Tony Bello)"], "comments": [], "recommandations_id": []}

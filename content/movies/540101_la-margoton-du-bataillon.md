@@ -1,1 +1,0 @@
-{"tmdb_id": 540101, "title": "La margoton du bataillon", "original_title": "La margoton du bataillon", "slug_title": "la-margoton-du-bataillon", "date": "1933-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

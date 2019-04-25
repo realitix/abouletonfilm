@@ -1,1 +1,0 @@
-{"tmdb_id": 447408, "title": "I sette contadini", "original_title": "I sette contadini", "slug_title": "i-sette-contadini", "date": "1958-06-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alcide Cervi (himself)", "Renato Cominetti (narrator (voice))"], "comments": [], "recommandations_id": []}

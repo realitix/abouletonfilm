@@ -1,1 +1,0 @@
-{"tmdb_id": 470551, "title": "Jembatan Pensil", "original_title": "Jembatan Pensil", "slug_title": "jembatan-pensil", "date": "2017-09-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8PTICCHLaU2Acboj9WPb92OgR2M.jpg", "actors": ["Meriam Bellina ()", "Kevin Julio ()"], "comments": [], "recommandations_id": []}

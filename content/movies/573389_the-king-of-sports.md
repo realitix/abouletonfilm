@@ -1,1 +1,0 @@
-{"tmdb_id": 573389, "title": "The King of Sports", "original_title": "\u30b7\u30df\u30ad\u30f3\u306e\u30b9\u30db\u309a\u30fc\u30c4\u738b", "slug_title": "the-king-of-sports", "date": "1949-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

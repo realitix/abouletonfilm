@@ -1,1 +1,0 @@
-{"tmdb_id": 44294, "title": "I Shot My Love", "original_title": "I Shot My Love", "slug_title": "i-shot-my-love", "date": "2009-01-01", "genre": "Documentaire / Familial", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9KZBVVf8BYx2fzurPwUQzBWImkp.jpg", "actors": [], "comments": [], "recommandations_id": []}

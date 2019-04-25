@@ -1,1 +1,0 @@
-{"tmdb_id": 583989, "title": "Saban's Power Rangers: Lightspeed Rescue", "original_title": "Saban's Power Rangers: Lightspeed Rescue", "slug_title": "saban-s-power-rangers-lightspeed-rescue", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 408605, "title": "Hmad Lqrran 2", "original_title": "Hmad Lqrran 2", "slug_title": "hmad-lqrran-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Ayouz Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nBpmm4qCxoNAGhWdIEHPGtedBHF.jpg", "actors": [], "comments": [], "recommandations_id": []}

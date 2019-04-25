@@ -1,1 +1,0 @@
-{"tmdb_id": 359758, "title": "From a Distant Gaze", "original_title": "D'un lointain regard", "slug_title": "from-a-distant-gaze", "date": "1964-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

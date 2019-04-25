@@ -1,1 +1,1 @@
-{"tmdb_id": 467429, "title": "Mediums", "original_title": "Mediums", "slug_title": "mediums", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 467429, "title": "Mediums", "original_title": "Mediums", "slug_title": "mediums", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Mediums is a medium-length film, shot all in medium shots.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 350239, "title": "\ubcc4\uba85 \ubd99\uc740 \uc0ac\ub098\uc774", "original_title": "\ubcc4\uba85 \ubd99\uc740 \uc0ac\ub098\uc774", "slug_title": "byeolmyeong-buteun-sanai", "date": "1981-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

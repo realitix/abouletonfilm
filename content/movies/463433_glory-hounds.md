@@ -1,1 +1,0 @@
-{"tmdb_id": 463433, "title": "Glory Hounds", "original_title": "Glory Hounds", "slug_title": "glory-hounds", "date": "", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bl7m6E7muiCS0fEZRDNKEUJw61o.jpg", "actors": [], "comments": [], "recommandations_id": []}

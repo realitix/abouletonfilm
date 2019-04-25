@@ -1,1 +1,0 @@
-{"tmdb_id": 574260, "title": "YouShoot: Mr. Anderson", "original_title": "YouShoot: Mr. Anderson", "slug_title": "youshoot-mr-anderson", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Ken Anderson (Himself)"], "comments": [], "recommandations_id": []}

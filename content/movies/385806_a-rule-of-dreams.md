@@ -1,1 +1,0 @@
-{"tmdb_id": 385806, "title": "A Rule of Dreams", "original_title": "Yoru no Okite", "slug_title": "a-rule-of-dreams", "date": "1995-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jLGqqA7h8CNX8XRCW9Kv4YWkdVY.jpg", "actors": [], "comments": [], "recommandations_id": []}

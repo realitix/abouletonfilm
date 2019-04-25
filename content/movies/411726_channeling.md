@@ -1,1 +1,0 @@
-{"tmdb_id": 411726, "title": "Channeling", "original_title": "Channeling", "slug_title": "channeling", "date": "2001-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gJIbDmAFmJiPoiZPRBxDH1WnduA.jpg", "actors": [], "comments": [], "recommandations_id": []}

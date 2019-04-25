@@ -1,1 +1,0 @@
-{"tmdb_id": 587345, "title": "Horse's Stone", "original_title": "Horse's Stone", "slug_title": "horse-s-stone", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

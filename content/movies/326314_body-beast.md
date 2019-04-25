@@ -1,1 +1,0 @@
-{"tmdb_id": 326314, "title": "Body Beast", "original_title": "Body Beast", "slug_title": "body-beast", "date": "2012-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fH4oNmAGbWroGge9x2NomEMa95.jpg", "actors": ["Sagi Kalev ()"], "comments": [], "recommandations_id": []}

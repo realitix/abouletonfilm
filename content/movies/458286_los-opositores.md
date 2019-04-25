@@ -1,1 +1,0 @@
-{"tmdb_id": 458286, "title": "Los opositores", "original_title": "Los opositores", "slug_title": "los-opositores", "date": "1960-05-18", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jes\u00fas Sangil ()", "Victoria Zinny ()"], "comments": [], "recommandations_id": []}

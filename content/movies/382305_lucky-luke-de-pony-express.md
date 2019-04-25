@@ -1,1 +1,0 @@
-{"tmdb_id": 382305, "title": "Lucky Luke - De Pony Express", "original_title": "Lucky Luke - De Pony Express", "slug_title": "lucky-luke-de-pony-express", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uTtyZ2uWCmSFDSZYY7Wjju1ydWz.jpg", "actors": [], "comments": [], "recommandations_id": []}

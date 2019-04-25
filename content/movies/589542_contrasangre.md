@@ -1,1 +1,0 @@
-{"tmdb_id": 589542, "title": "Contrasangre", "original_title": "Contrasangre", "slug_title": "contrasangre", "date": "2018-03-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sBvS6hWU3YaSEsRSH2Sa92iQejF.jpg", "actors": [], "comments": [], "recommandations_id": []}

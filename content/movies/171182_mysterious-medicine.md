@@ -1,1 +1,0 @@
-{"tmdb_id": 171182, "title": "Mysterious Medicine", "original_title": "\u3075\u3057\u304e\u306a\u304f\u3059\u308a", "slug_title": "mysterious-medicine", "date": "1965-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

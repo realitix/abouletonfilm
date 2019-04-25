@@ -1,1 +1,0 @@
-{"tmdb_id": 276375, "title": "American Street Idols", "original_title": "American Street Idols", "slug_title": "american-street-idols", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

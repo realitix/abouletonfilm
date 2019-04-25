@@ -1,1 +1,0 @@
-{"tmdb_id": 28060, "title": "Arctic Extreme: 118 Days in Captivity of Ice", "original_title": "118 Dn\u00ed v Zajet\u00ed Ledu", "slug_title": "arctic-extreme-118-days-in-captivity-of-ice", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

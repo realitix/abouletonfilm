@@ -1,1 +1,0 @@
-{"tmdb_id": 506127, "title": "Rosa Patria", "original_title": "Rosa Patria", "slug_title": "rosa-patria", "date": "2009-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Argdm5LYba1RQRrPpTv7A5ADpV.jpg", "actors": [], "comments": [], "recommandations_id": []}

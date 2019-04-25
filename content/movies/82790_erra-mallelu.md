@@ -1,1 +1,0 @@
-{"tmdb_id": 82790, "title": "Erra Mallelu", "original_title": "Erra Mallelu", "slug_title": "erra-mallelu", "date": "1981-05-07", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bZ2qlYToD5K7JYQbbdsyufDRylu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 158792, "title": "Zeca Baleiro - Liricas", "original_title": "Zeca Baleiro - Liricas", "slug_title": "zeca-baleiro-liricas", "date": "2016-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xLkOlM8H0mSlEMEq6RkygvGCMnM.jpg", "actors": [], "comments": [], "recommandations_id": []}

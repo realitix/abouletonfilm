@@ -1,1 +1,0 @@
-{"tmdb_id": 241146, "title": "Late For My Mother's Funeral", "original_title": "Late For My Mother's Funeral", "slug_title": "late-for-my-mother-s-funeral", "date": "2013-08-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

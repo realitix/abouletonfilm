@@ -1,1 +1,0 @@
-{"tmdb_id": 307180, "title": "Kabhi Dhoop Kabhi Chhaon", "original_title": "Kabhi Dhoop Kabhi Chhaon", "slug_title": "kabhi-dhoop-kabhi-chhaon", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

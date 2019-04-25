@@ -1,1 +1,0 @@
-{"tmdb_id": 352394, "title": "Dirty Dancing 48", "original_title": "Dirty Dancing 48", "slug_title": "dirty-dancing-48", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

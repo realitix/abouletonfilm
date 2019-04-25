@@ -1,1 +1,0 @@
-{"tmdb_id": 587863, "title": "Circus Rwanda", "original_title": "Circus Rwanda", "slug_title": "circus-rwanda", "date": "2018-10-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ddbmSi70gm4aGzqaZcwLbWUuQV.jpg", "actors": [], "comments": [], "recommandations_id": []}

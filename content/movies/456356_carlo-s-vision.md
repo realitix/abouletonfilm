@@ -1,1 +1,0 @@
-{"tmdb_id": 456356, "title": "Carlo's Vision", "original_title": "Carlo's Vision", "slug_title": "carlo-s-vision", "date": "2011-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

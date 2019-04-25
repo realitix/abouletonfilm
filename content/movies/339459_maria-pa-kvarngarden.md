@@ -1,1 +1,0 @@
-{"tmdb_id": 339459, "title": "Maria p\u00e5 Kvarng\u00e5rden", "original_title": "Maria p\u00e5 Kvarng\u00e5rden", "slug_title": "maria-pa-kvarngarden", "date": "1945-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/imyQev90GIkwJIhVs1E6HTprIXX.jpg", "actors": [], "comments": [], "recommandations_id": []}

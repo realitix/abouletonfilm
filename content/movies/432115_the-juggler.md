@@ -1,1 +1,0 @@
-{"tmdb_id": 432115, "title": "The Juggler", "original_title": "The Juggler", "slug_title": "the-juggler", "date": "1980-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fRm2VBJbEAZjsNDahA2kLtg5SUf.jpg", "actors": ["Jonathan Kofman ()"], "comments": [], "recommandations_id": []}

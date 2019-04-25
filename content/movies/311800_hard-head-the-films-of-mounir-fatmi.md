@@ -1,1 +1,0 @@
-{"tmdb_id": 311800, "title": "Hard Head: The Films of Mounir Fatmi", "original_title": "Hard Head: The Films of Mounir Fatmi", "slug_title": "hard-head-the-films-of-mounir-fatmi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 65076, "title": "Morning Sun", "original_title": "Morning Sun", "slug_title": "morning-sun", "date": "2003-09-24", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gRHqPupFc40lNsE26V3PNFcDqVB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 591141, "title": "Alyas Palos", "original_title": "Alyas Palos", "slug_title": "alyas-palos", "date": "1961-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bernard Bonnin ()"], "comments": [], "recommandations_id": []}

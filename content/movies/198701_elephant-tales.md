@@ -1,1 +1,0 @@
-{"tmdb_id": 198701, "title": "Elephant Tales", "original_title": "Elephant Tales", "slug_title": "elephant-tales", "date": "2006-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8V8vsj7ad5siMdvs51wUO3am9vU.jpg", "actors": [], "comments": [], "recommandations_id": []}

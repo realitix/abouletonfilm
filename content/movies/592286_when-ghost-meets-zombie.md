@@ -1,1 +1,0 @@
-{"tmdb_id": 592286, "title": "When Ghost meets Zombie", "original_title": "When Ghost meets Zombie", "slug_title": "when-ghost-meets-zombie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jesseca Liu ()", "Jeremy Chan ()", "Fann Wong ()"], "comments": [], "recommandations_id": []}

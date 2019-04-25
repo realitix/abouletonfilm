@@ -1,1 +1,0 @@
-{"tmdb_id": 329765, "title": "Sled Heads 3", "original_title": "Sled Heads 3", "slug_title": "sled-heads-3", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z0lseKbZWIfmaCfJwHHVt7tIyUA.jpg", "actors": [], "comments": [], "recommandations_id": []}

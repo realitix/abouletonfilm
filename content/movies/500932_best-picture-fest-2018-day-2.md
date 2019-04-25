@@ -1,1 +1,0 @@
-{"tmdb_id": 500932, "title": "BEST PICTURE FEST 2018: DAY 2", "original_title": "BEST PICTURE FEST 2018: DAY 2", "slug_title": "best-picture-fest-2018-day-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eCuFGyqWnnASALCmvVQQzrMSItU.jpg", "actors": [], "comments": [], "recommandations_id": []}

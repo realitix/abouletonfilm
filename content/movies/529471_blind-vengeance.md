@@ -1,1 +1,0 @@
-{"tmdb_id": 529471, "title": "Blind Vengeance", "original_title": "Blind Vengeance", "slug_title": "blind-vengeance", "date": "1994-03-22", "genre": "Action", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rod Kei (Rick Dircks)", "Carl Vanmeter (Tony Minelli)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 243622, "title": "Strange Fruit", "original_title": "Strange Fruit", "slug_title": "strange-fruit", "date": "1979-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

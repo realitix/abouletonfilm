@@ -1,1 +1,0 @@
-{"tmdb_id": 237267, "title": "Banquet Busters", "original_title": "Banquet Busters", "slug_title": "banquet-busters", "date": "1948-03-11", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q3AbWFe6TL30xv4FCLKnOKwp2K.jpg", "actors": [], "comments": [], "recommandations_id": []}

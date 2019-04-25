@@ -1,1 +1,0 @@
-{"tmdb_id": 512325, "title": "Die Aufschneider", "original_title": "Die Aufschneider", "slug_title": "die-aufschneider", "date": "2000-11-17", "genre": "Thriller / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jochen Nickel (Henry)", "Frank Giering (Nick)", "Fernanda de Sousa (Maria)"], "comments": [], "recommandations_id": []}

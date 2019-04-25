@@ -1,1 +1,0 @@
-{"tmdb_id": 327071, "title": "Soul in the Eye", "original_title": "Alma no Olho", "slug_title": "soul-in-the-eye", "date": "1973-01-01", "genre": "Drame / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n9IJlf7FN9p9GkYFlEC19r2EYlR.jpg", "actors": ["Z\u00f3zimo Bulbul ()"], "comments": [], "recommandations_id": []}

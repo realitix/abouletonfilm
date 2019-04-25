@@ -1,1 +1,0 @@
-{"tmdb_id": 411046, "title": "Mleczny brat", "original_title": "Mleczny brat", "slug_title": "mleczny-brat", "date": "2014-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9HIA1kdX6w8eUOZt8Rppw0omobc.jpg", "actors": [], "comments": [], "recommandations_id": []}

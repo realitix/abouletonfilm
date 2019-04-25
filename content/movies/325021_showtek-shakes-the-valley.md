@@ -1,1 +1,0 @@
-{"tmdb_id": 325021, "title": "Showtek: Shakes the Valley", "original_title": "Showtek: Shakes the Valley", "slug_title": "showtek-shakes-the-valley", "date": "2014-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 351705, "title": "Tr\u00eas Acordes de C\u00f3lera", "original_title": "Tr\u00eas Acordes de C\u00f3lera", "slug_title": "tres-acordes-de-colera", "date": "2005-01-01", "genre": "T\u00e9l\u00e9film / Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Redson (Himself)"], "comments": [], "recommandations_id": []}

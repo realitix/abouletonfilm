@@ -1,1 +1,0 @@
-{"tmdb_id": 24401, "title": "Eastern Tide", "original_title": "Eastern Tide", "slug_title": "eastern-tide", "date": "2001-10-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tcr4oTrtaTm177ad6gq5no8D39P.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 356056, "title": "A Box of Faith", "original_title": "A Box of Faith", "slug_title": "a-box-of-faith", "date": "2015-06-23", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/40k0pOaATe1HZHsJNJnCezwYmid.jpg", "actors": ["Savanah McMahon (Dior)"], "comments": [], "recommandations_id": []}

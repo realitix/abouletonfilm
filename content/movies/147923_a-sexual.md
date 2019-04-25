@@ -1,1 +1,0 @@
-{"tmdb_id": 147923, "title": "(A)sexual", "original_title": "(A)sexual", "slug_title": "a-sexual", "date": "2011-01-01", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nXE82gdFIyD8P30gzd8DZRoQ5KD.jpg", "actors": [], "comments": [], "recommandations_id": [60033, 324794, 96495, 111022]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 318232, "title": "Discover the World of Animals: Savannah", "original_title": "Discover the World of Animals: Savannah", "slug_title": "discover-the-world-of-animals-savannah", "date": "2009-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

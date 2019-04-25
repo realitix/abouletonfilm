@@ -1,1 +1,0 @@
-{"tmdb_id": 51879, "title": "Either or Neither", "original_title": "Ent- oder weder", "slug_title": "either-or-neither", "date": "1964-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/luKTLNWWyAt60fL2cepU1fkIMmo.jpg", "actors": [], "comments": [], "recommandations_id": []}

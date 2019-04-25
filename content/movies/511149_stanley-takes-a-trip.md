@@ -1,1 +1,0 @@
-{"tmdb_id": 511149, "title": "Stanley Takes a Trip", "original_title": "Stanley Takes a Trip", "slug_title": "stanley-takes-a-trip", "date": "1947-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

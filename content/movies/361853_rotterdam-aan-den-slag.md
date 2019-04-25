@@ -1,1 +1,0 @@
-{"tmdb_id": 361853, "title": "Rotterdam aan den Slag", "original_title": "Rotterdam aan den Slag", "slug_title": "rotterdam-aan-den-slag", "date": "1946-09-28", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d7Qx2cqOjvrSxf0cNgIjdetFKW4.jpg", "actors": [], "comments": [], "recommandations_id": []}

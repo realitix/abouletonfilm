@@ -1,1 +1,0 @@
-{"tmdb_id": 435377, "title": "Convite para jantar com camarada Stalin", "original_title": "Convite para jantar com camarada Stalin", "slug_title": "convite-para-jantar-com-camarada-stalin", "date": "2008-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

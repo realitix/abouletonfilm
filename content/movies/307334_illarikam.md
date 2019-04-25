@@ -1,1 +1,1 @@
-{"tmdb_id": 307334, "title": "Illarikam", "original_title": "Illarikam", "slug_title": "illarikam", "date": "1959-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 307334, "title": "Illarikam", "original_title": "Illarikam", "slug_title": "illarikam", "date": "1959-05-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1959", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

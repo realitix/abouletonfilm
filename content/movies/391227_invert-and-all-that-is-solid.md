@@ -1,1 +1,0 @@
-{"tmdb_id": 391227, "title": "Invert and All That Is Solid", "original_title": "Invert and All That Is Solid", "slug_title": "invert-and-all-that-is-solid", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

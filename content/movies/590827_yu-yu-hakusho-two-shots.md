@@ -1,1 +1,0 @@
-{"tmdb_id": 590827, "title": "Yu Yu Hakusho: Two Shots", "original_title": "Yu Yu Hakusho: Two Shots", "slug_title": "yu-yu-hakusho-two-shots", "date": "2018-10-26", "genre": "Action / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6x2E3kWGp9Hbe9nUEmYu9Th2HN8.jpg", "actors": [], "comments": [], "recommandations_id": []}

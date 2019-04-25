@@ -1,1 +1,0 @@
-{"tmdb_id": 353034, "title": "Village B.", "original_title": "Obec B.", "slug_title": "village-b", "date": "2002-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

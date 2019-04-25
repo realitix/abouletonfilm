@@ -1,1 +1,0 @@
-{"tmdb_id": 458453, "title": "Speaking Corpse", "original_title": "Speaking Corpse", "slug_title": "speaking-corpse", "date": "2012-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rE0aqoUdPY1QQsUi7r8GQp9qr3Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

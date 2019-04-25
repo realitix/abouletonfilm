@@ -1,1 +1,0 @@
-{"tmdb_id": 489651, "title": "Biopunk", "original_title": "Biopunk", "slug_title": "biopunk", "date": "2017-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5CSPiCc0YrIUefqyluMylMSMGRS.jpg", "actors": [], "comments": [], "recommandations_id": []}

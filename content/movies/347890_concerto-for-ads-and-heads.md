@@ -1,1 +1,0 @@
-{"tmdb_id": 347890, "title": "Concerto For Ads and Heads", "original_title": "Concerto For Ads and Heads", "slug_title": "concerto-for-ads-and-heads", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

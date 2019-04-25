@@ -1,1 +1,0 @@
-{"tmdb_id": 251799, "title": "Selena Live: The Last Concert", "original_title": "Selena Live: The Last Concert", "slug_title": "selena-live-the-last-concert", "date": "2001-03-27", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4ujAZEt95a35D7LVk8XPkFWj81a.jpg", "actors": [], "comments": [], "recommandations_id": []}

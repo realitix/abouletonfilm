@@ -1,1 +1,0 @@
-{"tmdb_id": 317740, "title": "Strip Tease", "original_title": "Strip Tease", "slug_title": "strip-tease", "date": "1980-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

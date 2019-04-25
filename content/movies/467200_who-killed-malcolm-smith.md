@@ -1,1 +1,0 @@
-{"tmdb_id": 467200, "title": "Who Killed Malcolm Smith?", "original_title": "Who Killed Malcolm Smith?", "slug_title": "who-killed-malcolm-smith", "date": "1992-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/miqpfXdmxiMfq1oowfVikYpDCB.jpg", "actors": [], "comments": [], "recommandations_id": []}

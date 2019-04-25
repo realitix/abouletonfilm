@@ -1,1 +1,0 @@
-{"tmdb_id": 345284, "title": "A Man of No Importance", "original_title": "A Man of No Importance", "slug_title": "a-man-of-no-importance", "date": "2004-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andreas Longva ()"], "comments": [], "recommandations_id": []}

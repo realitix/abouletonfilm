@@ -1,1 +1,0 @@
-{"tmdb_id": 586321, "title": "Kannaki", "original_title": "Kannaki", "slug_title": "kannaki", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lal ()", "Nandita Das ()", "Siddique ()", "Kalpana ()", "Manoj K Jayan ()", "Cochin Haneefa ()", "Geethu Mohandas ()"], "comments": [], "recommandations_id": []}

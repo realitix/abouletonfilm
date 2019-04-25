@@ -1,1 +1,0 @@
-{"tmdb_id": 579976, "title": "WWE Halftime Heat 2019", "original_title": "WWE Halftime Heat 2019", "slug_title": "wwe-halftime-heat-2019", "date": "2019-02-03", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1OhjElohaWuTTYyzpuIoKjp2mWr.jpg", "actors": [], "comments": [], "recommandations_id": []}

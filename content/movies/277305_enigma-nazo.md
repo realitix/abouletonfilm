@@ -1,1 +1,0 @@
-{"tmdb_id": 277305, "title": "Enigma: Nazo", "original_title": "Enigma (\u8b0e)", "slug_title": "enigma-nazo", "date": "1978-01-01", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9inwrU0dglZzzxi8YGd7WqhCalI.jpg", "actors": [], "comments": [], "recommandations_id": []}

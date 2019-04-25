@@ -1,1 +1,0 @@
-{"tmdb_id": 543664, "title": "7 days in St.Petersberg", "original_title": "7 days in St.Petersberg", "slug_title": "7-days-in-st-petersberg", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

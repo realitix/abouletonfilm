@@ -1,1 +1,0 @@
-{"tmdb_id": 520519, "title": "Razor Thin Definition of Punk", "original_title": "Razor Thin Definition of Punk", "slug_title": "razor-thin-definition-of-punk", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

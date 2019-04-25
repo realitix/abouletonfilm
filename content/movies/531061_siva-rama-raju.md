@@ -1,1 +1,0 @@
-{"tmdb_id": 531061, "title": "Siva Rama Raju", "original_title": "Siva Rama Raju", "slug_title": "siva-rama-raju", "date": "2002-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y18fVKA9jfvOhKFyu2Mp6YyV6dC.jpg", "actors": ["Jagapati Babu ()", "Harikrishna Nandamuri ()"], "comments": [], "recommandations_id": []}

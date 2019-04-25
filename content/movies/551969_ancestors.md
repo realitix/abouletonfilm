@@ -1,1 +1,0 @@
-{"tmdb_id": 551969, "title": "Ancestors", "original_title": "Ancestors", "slug_title": "ancestors", "date": "2018-03-30", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Scott Tanner (Captain Alsta Reylon)"], "comments": [], "recommandations_id": []}

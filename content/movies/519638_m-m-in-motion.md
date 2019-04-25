@@ -1,1 +1,0 @@
-{"tmdb_id": 519638, "title": "M.M. In Motion", "original_title": "M.M. In Motion", "slug_title": "m-m-in-motion", "date": "1992-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

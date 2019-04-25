@@ -1,1 +1,0 @@
-{"tmdb_id": 222620, "title": "That's My Face", "original_title": "That's My Face", "slug_title": "that-s-my-face", "date": "2001-09-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gL6ebMFhxjOgYR1k7mFgxZxynRx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 256148, "title": "Quartet (In-Camera)", "original_title": "Quartet (In-Camera)", "slug_title": "quartet-in-camera", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

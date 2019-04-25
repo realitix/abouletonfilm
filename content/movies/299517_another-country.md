@@ -1,1 +1,0 @@
-{"tmdb_id": 299517, "title": "Another Country", "original_title": "Outro Pa\u00eds", "slug_title": "another-country", "date": "2000-10-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aUkhYD97qdsRZXG0IHipWcPeq6.jpg", "actors": [], "comments": [], "recommandations_id": []}

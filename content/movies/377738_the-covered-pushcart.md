@@ -1,1 +1,0 @@
-{"tmdb_id": 377738, "title": "The Covered Pushcart", "original_title": "The Covered Pushcart", "slug_title": "the-covered-pushcart", "date": "1949-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Kay (Gandy Goose / Sourpuss (voice))"], "comments": [], "recommandations_id": []}

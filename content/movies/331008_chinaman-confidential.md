@@ -1,1 +1,0 @@
-{"tmdb_id": 331008, "title": "ChinaMan Confidential", "original_title": "ChinaMan Confidential", "slug_title": "chinaman-confidential", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

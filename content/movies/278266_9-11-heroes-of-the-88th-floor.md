@@ -1,1 +1,0 @@
-{"tmdb_id": 278266, "title": "9/11: Heroes of the 88th Floor", "original_title": "9/11: Heroes of the 88th Floor", "slug_title": "9-11-heroes-of-the-88th-floor", "date": "2011-11-04", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

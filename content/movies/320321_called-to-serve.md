@@ -1,1 +1,0 @@
-{"tmdb_id": 320321, "title": "Called To Serve", "original_title": "Called To Serve", "slug_title": "called-to-serve", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c8KvZ3KxzVs8bwTIcBGDCKf98oI.jpg", "actors": [], "comments": [], "recommandations_id": []}

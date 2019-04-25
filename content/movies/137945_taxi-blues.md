@@ -1,1 +1,0 @@
-{"tmdb_id": 137945, "title": "Taxi Blues", "original_title": "\ud0dd\uc2dc \ube14\ub8e8\uc2a4", "slug_title": "taxi-blues", "date": "2007-12-21", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yhpf4BhPrtstX5mj5prADZ1SG8B.jpg", "actors": [], "comments": [], "recommandations_id": []}

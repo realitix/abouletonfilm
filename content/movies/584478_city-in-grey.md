@@ -1,1 +1,0 @@
-{"tmdb_id": 584478, "title": "City in Grey", "original_title": "Grad u sivom", "slug_title": "city-in-grey", "date": "1992-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i5e0k8hSno1C3DqX5h5N4jAEIOT.jpg", "actors": [], "comments": [], "recommandations_id": []}

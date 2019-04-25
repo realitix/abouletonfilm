@@ -1,1 +1,0 @@
-{"tmdb_id": 428994, "title": "Dois Mundos", "original_title": "Dois Mundos", "slug_title": "dois-mundos", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 205910, "title": "Police Car", "original_title": "Police Car", "slug_title": "police-car", "date": "1966-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bA6jQryyDQSf6vYZGKb9THoq9Tn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 434885, "title": "Forbidden Images", "original_title": "Imagens Proibidas", "slug_title": "forbidden-images", "date": "", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elmano Sancho ()", "Diana Costa e Silva ()", "Ana Vilela da Costa ()"], "comments": [], "recommandations_id": []}

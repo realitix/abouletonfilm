@@ -1,1 +1,0 @@
-{"tmdb_id": 418885, "title": "Dear Grandma", "original_title": "\ud560\uba38\ub2c8\uc758 \uba3c \uc9d1", "slug_title": "dear-grandma", "date": "2016-09-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jaQ0stYBUBnbFiX5lO3Jw1JUZFg.jpg", "actors": [], "comments": [], "recommandations_id": []}

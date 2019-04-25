@@ -1,1 +1,0 @@
-{"tmdb_id": 369236, "title": "Al Khalbos", "original_title": "Al Khalbos", "slug_title": "al-khalbos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

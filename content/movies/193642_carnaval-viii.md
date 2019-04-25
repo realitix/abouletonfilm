@@ -1,1 +1,0 @@
-{"tmdb_id": 193642, "title": "Carnaval, [VIII]", "original_title": "Carnaval, [VIII]", "slug_title": "carnaval-viii", "date": "1897-03-07", "genre": "", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h6TS0ZFN0GcxGZmBlKMCZ0H6idX.jpg", "actors": [], "comments": [], "recommandations_id": [49454, 163349, 162660, 194559]}

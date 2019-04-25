@@ -1,1 +1,0 @@
-{"tmdb_id": 416210, "title": "Energiebeutel und Zeitblase", "original_title": "Energiebeutel und Zeitblase", "slug_title": "energiebeutel-und-zeitblase", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

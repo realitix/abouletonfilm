@@ -1,1 +1,0 @@
-{"tmdb_id": 501050, "title": "Yama\u2013Attack to Attack", "original_title": "Yama\u2013Attack to Attack", "slug_title": "yama-attack-to-attack", "date": "1985-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6s279Pw7YgLHnOqaPVtIas7XBS8.jpg", "actors": [], "comments": [], "recommandations_id": []}

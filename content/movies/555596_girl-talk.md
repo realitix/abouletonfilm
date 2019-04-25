@@ -1,1 +1,0 @@
-{"tmdb_id": 555596, "title": "Girl Talk", "original_title": "Girl Talk", "slug_title": "girl-talk", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fLcllTuvKr0oweR9RwVpGSxkSUL.jpg", "actors": [], "comments": [], "recommandations_id": []}

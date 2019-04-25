@@ -1,1 +1,0 @@
-{"tmdb_id": 568425, "title": "Pour le r\u00f4le", "original_title": "Pour le r\u00f4le", "slug_title": "pour-le-role", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Un acteur est sur le point de passer une audition.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 264103, "title": "Best Man", "original_title": "Best Man", "slug_title": "best-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 322458, "title": "Harmful or Fateful if Swallowed", "original_title": "Harmful or Fateful if Swallowed", "slug_title": "harmful-or-fateful-if-swallowed", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 310711, "title": "Chevy Muscle Cars", "original_title": "Chevy Muscle Cars", "slug_title": "chevy-muscle-cars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

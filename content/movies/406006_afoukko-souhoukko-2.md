@@ -1,1 +1,0 @@
-{"tmdb_id": 406006, "title": "Afoukko Souhoukko 2", "original_title": "Afoukko Souhoukko 2", "slug_title": "afoukko-souhoukko-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Ayouz Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uU2aHYJ2z4SyIxxuCX7ZHJv4cCs.jpg", "actors": [], "comments": [], "recommandations_id": []}

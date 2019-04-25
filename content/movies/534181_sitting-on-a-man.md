@@ -1,1 +1,0 @@
-{"tmdb_id": 534181, "title": "Sitting on a Man", "original_title": "Sitting on a Man", "slug_title": "sitting-on-a-man", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tGtlFGR6Nm52TgUW3E2DsgIpkKE.jpg", "actors": [], "comments": [], "recommandations_id": []}

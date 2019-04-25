@@ -1,1 +1,0 @@
-{"tmdb_id": 434801, "title": "The Lost Requiem", "original_title": "The Lost Requiem", "slug_title": "the-lost-requiem", "date": "1983-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yVbNNVWXXeuWh9BQIcmleTgPw5A.jpg", "actors": [], "comments": [], "recommandations_id": []}

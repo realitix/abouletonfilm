@@ -1,1 +1,0 @@
-{"tmdb_id": 280494, "title": "Pettring", "original_title": "Pettring", "slug_title": "pettring", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qvta5FR5BMYz0RMlEkZXPpOcF5F.jpg", "actors": [], "comments": [], "recommandations_id": []}

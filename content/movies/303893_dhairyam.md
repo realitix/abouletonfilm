@@ -1,1 +1,0 @@
-{"tmdb_id": 303893, "title": "Dhairyam", "original_title": "Dhairyam", "slug_title": "dhairyam", "date": "2005-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5ZlQJV0UsI2ClCIXEf1NDN2H7VM.jpg", "actors": [], "comments": [], "recommandations_id": []}

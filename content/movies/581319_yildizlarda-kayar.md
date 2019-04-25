@@ -1,1 +1,0 @@
-{"tmdb_id": 581319, "title": "Yildizlarda kayar", "original_title": "Yildizlarda kayar", "slug_title": "yildizlarda-kayar", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m4ZvCm7x1X8DvlTHnF9C1NXQLrY.jpg", "actors": [], "comments": [], "recommandations_id": []}

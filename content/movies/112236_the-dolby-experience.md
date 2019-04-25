@@ -1,1 +1,0 @@
-{"tmdb_id": 112236, "title": "The Dolby Experience", "original_title": "The Dolby Experience", "slug_title": "the-dolby-experience", "date": "2006-06-01", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oYYC4mikgS3tI8QBIejaxCQjvyR.jpg", "actors": [], "comments": [], "recommandations_id": []}

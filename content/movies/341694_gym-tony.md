@@ -1,1 +1,1 @@
-{"tmdb_id": 341694, "title": "Gym tony", "original_title": "Gym tony", "slug_title": "gym-tony", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 341694, "title": "Gym tony", "original_title": "Gym tony", "slug_title": "gym-tony", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

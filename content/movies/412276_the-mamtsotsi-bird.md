@@ -1,1 +1,0 @@
-{"tmdb_id": 412276, "title": "The Mamtsotsi Bird", "original_title": "The Mamtsotsi Bird", "slug_title": "the-mamtsotsi-bird", "date": "2006-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

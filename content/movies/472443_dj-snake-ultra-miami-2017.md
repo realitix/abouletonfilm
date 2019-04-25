@@ -1,1 +1,0 @@
-{"tmdb_id": 472443, "title": "DJ SNAKE @ ULTRA MIAMI 2017", "original_title": "DJ SNAKE @ ULTRA MIAMI 2017", "slug_title": "dj-snake-ultra-miami-2017", "date": "2017-03-26", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

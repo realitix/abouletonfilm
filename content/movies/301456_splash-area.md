@@ -1,1 +1,0 @@
-{"tmdb_id": 301456, "title": "Splash Area", "original_title": "Splash Area", "slug_title": "splash-area", "date": "2012-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/juWayRDUWqH2ZH7n4r15gNYPwIm.jpg", "actors": [], "comments": [], "recommandations_id": []}

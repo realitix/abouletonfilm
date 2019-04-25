@@ -1,1 +1,0 @@
-{"tmdb_id": 556331, "title": "La tourn\u00e9e Farigoule", "original_title": "La tourn\u00e9e Farigoule", "slug_title": "la-tournee-farigoule", "date": "1926-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

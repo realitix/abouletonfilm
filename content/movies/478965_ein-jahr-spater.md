@@ -1,1 +1,0 @@
-{"tmdb_id": 478965, "title": "Ein Jahr sp\u00e4ter", "original_title": "Ein Jahr sp\u00e4ter", "slug_title": "ein-jahr-spater", "date": "1946-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

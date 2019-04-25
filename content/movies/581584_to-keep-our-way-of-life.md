@@ -1,1 +1,0 @@
-{"tmdb_id": 581584, "title": "To Keep Our Way of Life", "original_title": "To Keep Our Way of Life", "slug_title": "to-keep-our-way-of-life", "date": "1959-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Errol John (Mr. Freitas)"], "comments": [], "recommandations_id": []}

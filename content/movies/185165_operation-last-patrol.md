@@ -1,1 +1,0 @@
-{"tmdb_id": 185165, "title": "Operation Last Patrol", "original_title": "Operation Last Patrol", "slug_title": "operation-last-patrol", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

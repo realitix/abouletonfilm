@@ -1,1 +1,0 @@
-{"tmdb_id": 521891, "title": "Lost In Apocalypse", "original_title": "Mo Shi Ren Jian Dao", "slug_title": "lost-in-apocalypse", "date": "2018-01-19", "genre": "Action / Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1YpsgqhvAPKs7Dpwzdf7UK7rnpD.jpg", "actors": [], "comments": [], "recommandations_id": []}

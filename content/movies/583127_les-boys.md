@@ -1,1 +1,0 @@
-{"tmdb_id": 583127, "title": "Les Boys", "original_title": "Les Boys", "slug_title": "les-boys", "date": "1969-11-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xPxF5EQAtgQqzUFMwK1lR1IW0Am.jpg", "actors": ["Jim Bailey (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 587395, "title": "Platypossum", "original_title": "Platypossum", "slug_title": "platypossum", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

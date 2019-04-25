@@ -1,1 +1,0 @@
-{"tmdb_id": 512249, "title": "Abducted New England", "original_title": "Abducted New England", "slug_title": "abducted-new-england", "date": "2018-06-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/EUjubwiWVaFNSqsnnJ7pO7vIOt.jpg", "actors": [], "comments": [], "recommandations_id": []}

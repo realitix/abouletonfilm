@@ -1,1 +1,0 @@
-{"tmdb_id": 401444, "title": "Rising Tides", "original_title": "Rising Tides", "slug_title": "rising-tides", "date": "2016-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kAEx64f7Tq2sq7sIjrszTGVEH9P.jpg", "actors": [], "comments": [], "recommandations_id": []}

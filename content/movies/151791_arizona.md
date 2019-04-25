@@ -1,1 +1,0 @@
-{"tmdb_id": 151791, "title": "Arizona", "original_title": "Arizona", "slug_title": "arizona", "date": "1998-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/co3lJ3URbCPXffvqotZfPDl4AEi.jpg", "actors": [], "comments": [], "recommandations_id": []}

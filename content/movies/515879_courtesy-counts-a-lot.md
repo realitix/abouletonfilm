@@ -1,1 +1,0 @@
-{"tmdb_id": 515879, "title": "Courtesy Counts a Lot", "original_title": "Courtesy Counts a Lot", "slug_title": "courtesy-counts-a-lot", "date": "1976-01-07", "genre": "Animation / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/duTRcXLD2EBVlQNHS4Ii0GJH4Jt.jpg", "actors": [], "comments": [], "recommandations_id": []}

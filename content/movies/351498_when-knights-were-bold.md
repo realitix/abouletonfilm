@@ -1,1 +1,0 @@
-{"tmdb_id": 351498, "title": "When Knights Were Bold", "original_title": "When Knights Were Bold", "slug_title": "when-knights-were-bold", "date": "1941-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

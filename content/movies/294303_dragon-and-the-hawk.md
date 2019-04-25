@@ -1,1 +1,0 @@
-{"tmdb_id": 294303, "title": "Dragon and the Hawk", "original_title": "Dragon and the Hawk", "slug_title": "dragon-and-the-hawk", "date": "2001-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sxVwmIJGd3McaZcYFSLKgo6HW3t.jpg", "actors": [], "comments": [], "recommandations_id": []}

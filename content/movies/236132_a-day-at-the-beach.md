@@ -1,1 +1,0 @@
-{"tmdb_id": 236132, "title": "A Day at the Beach", "original_title": "A Day at the Beach", "slug_title": "a-day-at-the-beach", "date": "1938-06-24", "genre": "Animation", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xXi7wdGBGxlCyqFK0bSE6toXGEO.jpg", "actors": ["Billy Bletcher (Captain)"], "comments": [], "recommandations_id": []}

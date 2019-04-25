@@ -1,1 +1,0 @@
-{"tmdb_id": 194984, "title": "Waverley in the Hebrides", "original_title": "Waverley in the Hebrides", "slug_title": "waverley-in-the-hebrides", "date": "2002-01-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ggwtykiTNh0T0HaoKSDfrf1g78c.jpg", "actors": [], "comments": [], "recommandations_id": []}

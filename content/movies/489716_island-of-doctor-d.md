@@ -1,1 +1,0 @@
-{"tmdb_id": 489716, "title": "Island of Doctor D.", "original_title": "Island of Doctor D.", "slug_title": "island-of-doctor-d", "date": "2005-09-21", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7UZ4d1x9DeSjw7lav8r21n3caZx.jpg", "actors": [], "comments": [], "recommandations_id": []}

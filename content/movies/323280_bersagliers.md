@@ -1,1 +1,0 @@
-{"tmdb_id": 323280, "title": "Bersagliers", "original_title": "Bersagliers", "slug_title": "bersagliers", "date": "1897-01-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

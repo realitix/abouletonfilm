@@ -1,1 +1,0 @@
-{"tmdb_id": 311905, "title": "Dvorak in Prague: A Celebration", "original_title": "Dvorak in Prague: A Celebration", "slug_title": "dvorak-in-prague-a-celebration", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

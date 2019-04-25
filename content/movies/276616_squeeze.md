@@ -1,1 +1,0 @@
-{"tmdb_id": 276616, "title": "Squeeze", "original_title": "Squeeze", "slug_title": "squeeze", "date": "2010-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hbLHWJs0qhiE71dxYp18J9M36lZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

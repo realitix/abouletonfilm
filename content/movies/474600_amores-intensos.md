@@ -1,1 +1,0 @@
-{"tmdb_id": 474600, "title": "Amores Intensos", "original_title": "Amores Intensos", "slug_title": "amores-intensos", "date": "2011-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z4ysdJRXNLB1R6EMg91cBCdP7eY.jpg", "actors": [], "comments": [], "recommandations_id": []}

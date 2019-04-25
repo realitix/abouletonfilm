@@ -1,1 +1,0 @@
-{"tmdb_id": 158503, "title": "Natarang", "original_title": "Natarang", "slug_title": "natarang", "date": "2010-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dqBgSMj4fUy1xSmVGmBEuDYHGHd.jpg", "actors": ["Atul Kulkarni (Gunvantrao Kagalkar)", "Sonalee Kulkarni (Naina)"], "comments": [], "recommandations_id": []}

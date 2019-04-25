@@ -1,1 +1,0 @@
-{"tmdb_id": 403025, "title": "The Beast", "original_title": "The Beast", "slug_title": "the-beast", "date": "2016-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fgOkmDml8aLa955EwudubhC9jWg.jpg", "actors": [], "comments": [], "recommandations_id": []}

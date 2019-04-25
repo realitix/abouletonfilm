@@ -1,1 +1,0 @@
-{"tmdb_id": 501952, "title": "Finland For Adults", "original_title": "Aikuisten Suomi", "slug_title": "finland-for-adults", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mel Smith (Santa Claus)", "Griff Rhys Jones (Reporter)"], "comments": [], "recommandations_id": []}

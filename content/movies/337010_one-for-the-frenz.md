@@ -1,1 +1,0 @@
-{"tmdb_id": 337010, "title": "One For the Frenz", "original_title": "One For the Frenz", "slug_title": "one-for-the-frenz", "date": "2009-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a7aaErOP6Ej5ITtksFH0fjTjZp0.jpg", "actors": [], "comments": [], "recommandations_id": []}

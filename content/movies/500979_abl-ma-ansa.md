@@ -1,1 +1,0 @@
-{"tmdb_id": 500979, "title": "Abl ma 'ansa", "original_title": "Abl ma 'ansa", "slug_title": "abl-ma-ansa", "date": "2018-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/do8sL1Zu5YA4uCsSW4U2P9gKkIq.jpg", "actors": [], "comments": [], "recommandations_id": []}

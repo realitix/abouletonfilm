@@ -1,1 +1,0 @@
-{"tmdb_id": 493188, "title": "The Fusion Years", "original_title": "The Fusion Years", "slug_title": "the-fusion-years", "date": "2013-08-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

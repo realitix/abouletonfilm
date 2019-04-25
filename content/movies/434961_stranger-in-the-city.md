@@ -1,1 +1,0 @@
-{"tmdb_id": 434961, "title": "Stranger In The City", "original_title": "Stranger In The City", "slug_title": "stranger-in-the-city", "date": "1961-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 364315, "title": "Opening Doors", "original_title": "Abriendo Puertas", "slug_title": "opening-doors", "date": "2015-03-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mercedes Reyes (Ella)"], "comments": [], "recommandations_id": []}

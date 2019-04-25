@@ -1,1 +1,0 @@
-{"tmdb_id": 592437, "title": "Aya Seyahat", "original_title": "Aya Seyahat", "slug_title": "aya-seyahat", "date": "2009-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2XeWdRC6Lev3SzKldFmiYRq4dnu.jpg", "actors": [], "comments": [], "recommandations_id": []}

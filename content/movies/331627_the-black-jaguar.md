@@ -1,1 +1,0 @@
-{"tmdb_id": 331627, "title": "The Black Jaguar", "original_title": "Al jaguar al saouda", "slug_title": "the-black-jaguar", "date": "1965-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Taroub ()"], "comments": [], "recommandations_id": []}

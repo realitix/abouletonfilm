@@ -1,1 +1,0 @@
-{"tmdb_id": 527819, "title": "Children of the Cosmos", "original_title": "Children of the Cosmos", "slug_title": "children-of-the-cosmos", "date": "2017-09-09", "genre": "Science-Fiction", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yl5zibKKDnPNgCr0qAa0x2IcAv9.jpg", "actors": [], "comments": [], "recommandations_id": []}

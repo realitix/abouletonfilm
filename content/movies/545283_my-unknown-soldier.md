@@ -1,1 +1,0 @@
-{"tmdb_id": 545283, "title": "My Unknown Soldier", "original_title": "M\u00f4j nezn\u00e1my vojak", "slug_title": "my-unknown-soldier", "date": "2018-08-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nM94MnlhEBRU0IExrfsH3bXwucy.jpg", "actors": [], "comments": [], "recommandations_id": []}

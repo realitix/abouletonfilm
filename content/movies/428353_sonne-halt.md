@@ -1,1 +1,0 @@
-{"tmdb_id": 428353, "title": "Sonne halt!", "original_title": "Sonne halt!", "slug_title": "sonne-halt", "date": "1962-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3KfIoqcfohkmXUTttNaKsh89BfO.jpg", "actors": [], "comments": [], "recommandations_id": []}

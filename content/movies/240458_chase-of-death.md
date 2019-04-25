@@ -1,1 +1,0 @@
-{"tmdb_id": 240458, "title": "Chase of Death", "original_title": "Chase of Death", "slug_title": "chase-of-death", "date": "1949-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

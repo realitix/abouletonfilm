@@ -1,1 +1,0 @@
-{"tmdb_id": 361492, "title": "Seated Figures", "original_title": "Seated Figures", "slug_title": "seated-figures", "date": "1990-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bDracpekxkz7y2qBZoGolN6dhid.jpg", "actors": [], "comments": [], "recommandations_id": []}

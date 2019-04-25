@@ -1,1 +1,0 @@
-{"tmdb_id": 410206, "title": "Black Code", "original_title": "Black Code", "slug_title": "black-code", "date": "2016-09-09", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9rMaB1SisknmGDFvlDMXFbDLk5O.jpg", "actors": [], "comments": [], "recommandations_id": []}

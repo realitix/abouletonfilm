@@ -1,1 +1,0 @@
-{"tmdb_id": 501562, "title": "Puttin' on the Fur", "original_title": "Puttin' on the Fur", "slug_title": "puttin-on-the-fur", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

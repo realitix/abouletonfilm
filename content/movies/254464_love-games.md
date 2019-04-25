@@ -1,1 +1,0 @@
-{"tmdb_id": 254464, "title": "Love Games", "original_title": "Yeon-ae-no-ri", "slug_title": "love-games", "date": "2013-02-10", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wLUEWjvCDSA0GtEEE7t82Zmwawi.jpg", "actors": [], "comments": [], "recommandations_id": []}

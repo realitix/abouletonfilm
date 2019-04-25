@@ -1,1 +1,0 @@
-{"tmdb_id": 440028, "title": "Chakravarthy", "original_title": "Chakravarthy", "slug_title": "chakravarthy", "date": "2017-03-10", "genre": "Crime / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v8OzOFovSFGnW88vhsx0jmfzOls.jpg", "actors": ["Darshan Thoogudeep ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 341247, "title": "The Tragedy of Deaf Sam-yong", "original_title": "Biryeonui beongeori samyong", "slug_title": "the-tragedy-of-deaf-sam-yong", "date": "1973-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pgPlp4AH5Iqv6zOtgkAikHC9IKL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 264502, "title": "Her Life as a Man", "original_title": "Her Life as a Man", "slug_title": "her-life-as-a-man", "date": "1984-03-12", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mus5cqcF88FiyiiaX5PMVs76eEA.jpg", "actors": [], "comments": [], "recommandations_id": []}

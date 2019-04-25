@@ -1,1 +1,0 @@
-{"tmdb_id": 495822, "title": "Bayko Maheri Jate", "original_title": "Bayko Maheri Jate", "slug_title": "bayko-maheri-jate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

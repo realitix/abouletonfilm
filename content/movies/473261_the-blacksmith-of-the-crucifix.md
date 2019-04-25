@@ -1,1 +1,0 @@
-{"tmdb_id": 473261, "title": "The Blacksmith of the Crucifix", "original_title": "Kova\u010d raspela", "slug_title": "the-blacksmith-of-the-crucifix", "date": "1919-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elga Beck ()", "Ignjat Borstnik ()", "Josip Pavi\u0107 ()"], "comments": [], "recommandations_id": []}

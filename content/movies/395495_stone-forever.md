@@ -1,1 +1,0 @@
-{"tmdb_id": 395495, "title": "Stone Forever", "original_title": "Stone Forever", "slug_title": "stone-forever", "date": "1999-12-11", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/39UU2TMKsaUtzyUWbakz49faQJg.jpg", "actors": [], "comments": [], "recommandations_id": []}

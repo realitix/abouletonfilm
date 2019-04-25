@@ -1,1 +1,0 @@
-{"tmdb_id": 585189, "title": "Dragon Ball Z: Light of Hope", "original_title": "Dragon Ball Z: Light of Hope", "slug_title": "dragon-ball-z-light-of-hope", "date": "2014-01-30", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y1k3SOSmG4lKo2SxQSkcDMtYpCM.jpg", "actors": [], "comments": [], "recommandations_id": []}

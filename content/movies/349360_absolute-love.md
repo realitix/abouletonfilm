@@ -1,1 +1,0 @@
-{"tmdb_id": 349360, "title": "Absolute Love", "original_title": "\uc808\ub300\uc0ac\ub791", "slug_title": "absolute-love", "date": "1994-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

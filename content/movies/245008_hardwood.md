@@ -1,1 +1,0 @@
-{"tmdb_id": 245008, "title": "Hardwood", "original_title": "Hardwood", "slug_title": "hardwood", "date": "2005-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/80FkfexfK7IHHLR4IfoclqT2AhA.jpg", "actors": [], "comments": [], "recommandations_id": []}

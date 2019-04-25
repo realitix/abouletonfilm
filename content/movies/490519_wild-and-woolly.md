@@ -1,1 +1,0 @@
-{"tmdb_id": 490519, "title": "Wild and Woolly", "original_title": "Wild and Woolly", "slug_title": "wild-and-woolly", "date": "1937-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6SAcelHz7X1tijHYzBcMLBG8hH2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 364093, "title": "The Tattoo Age - The Awareness", "original_title": "The Tattoo Age - The Awareness", "slug_title": "the-tattoo-age-the-awareness", "date": "2013-12-08", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jkwPjY5vi8xdyFNuhyb6uDwafkN.jpg", "actors": [], "comments": [], "recommandations_id": []}

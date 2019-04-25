@@ -1,1 +1,0 @@
-{"tmdb_id": 384434, "title": "Asian Action", "original_title": "Asian Action", "slug_title": "asian-action", "date": "2014-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8hV0ugd4ql36VWtKxgHocATp62e.jpg", "actors": [], "comments": [], "recommandations_id": []}

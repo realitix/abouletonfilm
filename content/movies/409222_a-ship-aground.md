@@ -1,1 +1,0 @@
-{"tmdb_id": 409222, "title": "A Ship Aground", "original_title": "A Ship Aground", "slug_title": "a-ship-aground", "date": "1988-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alaknanda Samarth ()", "Kumar Shahani ()"], "comments": [], "recommandations_id": []}

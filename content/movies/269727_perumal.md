@@ -1,1 +1,0 @@
-{"tmdb_id": 269727, "title": "Perumal", "original_title": "Perumal", "slug_title": "perumal", "date": "2009-02-13", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sundar C ()", "Namita ()", "Vivek ()", "Kota Srinivasa Rao ()", "Kaajal Pasupathi (Idithangi's wife)"], "comments": [], "recommandations_id": []}

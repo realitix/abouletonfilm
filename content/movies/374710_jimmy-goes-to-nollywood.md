@@ -1,1 +1,0 @@
-{"tmdb_id": 374710, "title": "Jimmy Goes to Nollywood", "original_title": "Jimmy Goes to Nollywood", "slug_title": "jimmy-goes-to-nollywood", "date": "2015-02-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jimmy Jean-Louis (Himself)"], "comments": [], "recommandations_id": []}

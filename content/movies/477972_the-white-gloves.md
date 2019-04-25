@@ -1,1 +1,0 @@
-{"tmdb_id": 477972, "title": "The White Gloves", "original_title": "Les gants blancs", "slug_title": "the-white-gloves", "date": "2014-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gmXCUAybCZ1nEa3pF5BsuRM4JYq.jpg", "actors": [], "comments": [], "recommandations_id": []}

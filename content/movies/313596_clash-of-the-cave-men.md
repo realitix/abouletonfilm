@@ -1,1 +1,0 @@
-{"tmdb_id": 313596, "title": "Clash of the Cave Men", "original_title": "Clash of the Cave Men", "slug_title": "clash-of-the-cave-men", "date": "2008-05-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q9IsXMgNW3RV6uCET7wJ5JDhs68.jpg", "actors": [], "comments": [], "recommandations_id": []}

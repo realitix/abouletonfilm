@@ -1,1 +1,0 @@
-{"tmdb_id": 138112, "title": "My Mummy", "original_title": "My Mummy", "slug_title": "my-mummy", "date": "2008-08-05", "genre": "Com\u00e9die", "score": "2.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v1WPxPco2SZRvTzh6qFljwajcQf.jpg", "actors": [], "comments": [], "recommandations_id": []}

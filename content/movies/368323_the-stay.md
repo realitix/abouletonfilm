@@ -1,1 +1,0 @@
-{"tmdb_id": 368323, "title": "The Stay", "original_title": "The Stay", "slug_title": "the-stay", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniela Finley (Maggie)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 549276, "title": "Athletiquiz: What's Your I.Q.? No. 12", "original_title": "Athletiquiz: What's Your I.Q.? No. 12", "slug_title": "athletiquiz-what-s-your-i-q-no-12", "date": "1947-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator)"], "comments": [], "recommandations_id": []}

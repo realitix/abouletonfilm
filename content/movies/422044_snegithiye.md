@@ -1,1 +1,0 @@
-{"tmdb_id": 422044, "title": "Snegithiye", "original_title": "Snegithiye", "slug_title": "snegithiye", "date": "2000-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zO4RfDPARGNU3fwsKPonJfyl7Bd.jpg", "actors": ["Jyothika ()", "Tabu ()", "Sharbani Mukherji ()"], "comments": [], "recommandations_id": []}

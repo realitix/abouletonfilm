@@ -1,1 +1,0 @@
-{"tmdb_id": 279955, "title": "Chim\u00e8ne Badi - Gospel and Soul", "original_title": "Chim\u00e8ne Badi - Gospel and Soul", "slug_title": "chimene-badi-gospel-and-soul", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 189847, "title": "Catalina, Here I Come", "original_title": "Catalina, Here I Come", "slug_title": "catalina-here-i-come", "date": "1927-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Madeline Hurlock (Wanda)", "Eddie Quillan (Eddie)"], "comments": [], "recommandations_id": []}

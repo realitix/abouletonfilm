@@ -1,1 +1,0 @@
-{"tmdb_id": 341090, "title": "Who Are You People?", "original_title": "Who Are You People?", "slug_title": "who-are-you-people", "date": "2015-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hqaR7pdzVdIW43Ea0WatLqFUX8d.jpg", "actors": [], "comments": [], "recommandations_id": []}

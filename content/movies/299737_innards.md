@@ -1,1 +1,0 @@
-{"tmdb_id": 299737, "title": "Innards", "original_title": "Innards", "slug_title": "innards", "date": "2014-03-03", "genre": "Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ibAhTKTEEQgXNqJDsVoZe5ozpnL.jpg", "actors": [], "comments": [], "recommandations_id": []}

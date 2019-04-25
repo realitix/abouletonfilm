@@ -1,1 +1,0 @@
-{"tmdb_id": 164491, "title": "Stimulus", "original_title": "Stimulus", "slug_title": "stimulus", "date": "2004-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/diqHIwCQaoF9VP3wdAPBBd8NID1.jpg", "actors": [], "comments": [], "recommandations_id": []}

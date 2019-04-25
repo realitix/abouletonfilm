@@ -1,1 +1,0 @@
-{"tmdb_id": 214599, "title": "Le go\u00fbt de la farine", "original_title": "Le go\u00fbt de la farine", "slug_title": "le-gout-de-la-farine", "date": "1977-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4s533UOUqSSnV5yix8OnfZ5UGUZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

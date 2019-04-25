@@ -1,1 +1,0 @@
-{"tmdb_id": 406922, "title": "6horts #5: Kamunting", "original_title": "6horts #5: Kamunting", "slug_title": "6horts-5-kamunting", "date": "2002-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5cTNtHpL1s26pvwjp5tojBz2wCI.jpg", "actors": [], "comments": [], "recommandations_id": []}

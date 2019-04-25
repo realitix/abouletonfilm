@@ -1,1 +1,0 @@
-{"tmdb_id": 375516, "title": "Whispering Memories", "original_title": "Anadolu'dan fisiltilar", "slug_title": "whispering-memories", "date": "2008-10-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

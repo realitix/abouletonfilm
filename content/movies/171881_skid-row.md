@@ -1,1 +1,0 @@
-{"tmdb_id": 171881, "title": "Skid Row", "original_title": "Skid Row", "slug_title": "skid-row", "date": "2007-08-24", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ep7sxqEkOMa3oVRTcUawk9Ltc8N.jpg", "actors": ["Pras (Himself)"], "comments": [], "recommandations_id": []}

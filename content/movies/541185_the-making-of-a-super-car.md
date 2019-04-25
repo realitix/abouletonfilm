@@ -1,1 +1,0 @@
-{"tmdb_id": 541185, "title": "The Making of a Super Car", "original_title": "The Making of a Super Car", "slug_title": "the-making-of-a-super-car", "date": "2018-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/izSQKJxl8vrRmN8ZliEO89FGbgC.jpg", "actors": [], "comments": [], "recommandations_id": []}

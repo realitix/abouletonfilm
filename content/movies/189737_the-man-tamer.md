@@ -1,1 +1,0 @@
-{"tmdb_id": 189737, "title": "The Man Tamer", "original_title": "The Man Tamer", "slug_title": "the-man-tamer", "date": "1927-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edmund Cobb (Tommy Ryan)"], "comments": [], "recommandations_id": []}

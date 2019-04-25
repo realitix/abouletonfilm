@@ -1,1 +1,0 @@
-{"tmdb_id": 484931, "title": "The Flower Shop", "original_title": "La Fleuri\u00e8re", "slug_title": "the-flower-shop", "date": "2018-01-24", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uZYktfrGjZGwndQKQp3RgkLjbj4.jpg", "actors": [], "comments": [], "recommandations_id": []}

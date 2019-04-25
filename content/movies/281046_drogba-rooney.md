@@ -1,1 +1,0 @@
-{"tmdb_id": 281046, "title": "Drogba & Rooney", "original_title": "Drogba & Rooney", "slug_title": "drogba-rooney", "date": "2010-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u3TDNZLqoEk7dTJU1liOjVVgrM2.jpg", "actors": ["Zizan Razak ()", "Johan Raja Lawak ()"], "comments": [], "recommandations_id": []}

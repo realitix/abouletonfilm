@@ -1,1 +1,0 @@
-{"tmdb_id": 594457, "title": "Aigerim", "original_title": "\u0410\u0439\u0433\u0435\u0440\u0438\u043c", "slug_title": "aigerim", "date": "2018-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 568564, "title": "SHELTER", "original_title": "SHELTER", "slug_title": "shelter", "date": "1980-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 230849, "title": "The Last Impresario", "original_title": "The Last Impresario", "slug_title": "the-last-impresario", "date": "2013-10-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g8BRkmf40FhEkmitEBOCgMpOgMY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 424374, "title": "Cadfael: The Holy Thief", "original_title": "Cadfael: The Holy Thief", "slug_title": "cadfael-the-holy-thief", "date": "", "genre": "Histoire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mnYvtwq1PWomOMbHHU1QXyDKy9A.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 389646, "title": "Latin Alive", "original_title": "Latin Alive", "slug_title": "latin-alive", "date": "2000-03-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n9ZsKdulfUx8rQ1L7c5ZWDKgqUE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 275064, "title": "Move Mountain", "original_title": "Move Mountain", "slug_title": "move-mountain", "date": "2013-01-01", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ag6CkUQBLkqLeKl82ki9dVui9Y4.jpg", "actors": [], "comments": [], "recommandations_id": []}

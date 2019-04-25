@@ -1,1 +1,0 @@
-{"tmdb_id": 507456, "title": "Riot After Riot: Real and Imagined", "original_title": "Riot After Riot: Real and Imagined", "slug_title": "riot-after-riot-real-and-imagined", "date": "2018-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

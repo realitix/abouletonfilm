@@ -1,1 +1,0 @@
-{"tmdb_id": 367461, "title": "Easy Reidar", "original_title": "Easy Reidar", "slug_title": "easy-reidar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 258081, "title": "Oil Rocks: City Above the Sea", "original_title": "Oil Rocks: City Above the Sea", "slug_title": "oil-rocks-city-above-the-sea", "date": "2009-10-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

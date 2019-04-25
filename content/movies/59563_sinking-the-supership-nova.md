@@ -1,1 +1,0 @@
-{"tmdb_id": 59563, "title": "Sinking the Supership: Nova", "original_title": "Sinking the Supership: Nova", "slug_title": "sinking-the-supership-nova", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sajZJU6sdJMxlCk8COeFOacblD8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 288549, "title": "A Dress Rehearsal for an Execution", "original_title": "A Dress Rehearsal for an Execution", "slug_title": "a-dress-rehearsal-for-an-execution", "date": "2013-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

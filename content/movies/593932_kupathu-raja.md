@@ -1,1 +1,0 @@
-{"tmdb_id": 593932, "title": "Kupathu Raja", "original_title": "Kupathu Raja", "slug_title": "kupathu-raja", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

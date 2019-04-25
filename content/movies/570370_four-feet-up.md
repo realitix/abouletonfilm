@@ -1,1 +1,0 @@
-{"tmdb_id": 570370, "title": "Four Feet Up", "original_title": "Four Feet Up", "slug_title": "four-feet-up", "date": "2008-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

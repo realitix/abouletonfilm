@@ -1,1 +1,0 @@
-{"tmdb_id": 591583, "title": "G-String Gumshoe", "original_title": "G-String Gumshoe", "slug_title": "g-string-gumshoe", "date": "2013-06-06", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/udzudDSj4ZcXudxwdrrLYeILmX1.jpg", "actors": ["Darian Caine (Samantha Spade)"], "comments": [], "recommandations_id": []}

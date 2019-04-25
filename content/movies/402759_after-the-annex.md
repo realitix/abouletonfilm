@@ -1,1 +1,0 @@
-{"tmdb_id": 402759, "title": "After the Annex", "original_title": "After the Annex", "slug_title": "after-the-annex", "date": "2015-06-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

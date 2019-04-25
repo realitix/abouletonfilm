@@ -1,1 +1,0 @@
-{"tmdb_id": 558848, "title": "D\u00e9part \u00e0 z\u00e9ro", "original_title": "D\u00e9part \u00e0 z\u00e9ro", "slug_title": "depart-a-zero", "date": "1943-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

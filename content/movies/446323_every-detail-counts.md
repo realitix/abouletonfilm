@@ -1,1 +1,0 @@
-{"tmdb_id": 446323, "title": "Every Detail Counts", "original_title": "Dhuruvangal Pathinaaru", "slug_title": "every-detail-counts", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

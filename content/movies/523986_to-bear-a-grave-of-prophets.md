@@ -1,1 +1,0 @@
-{"tmdb_id": 523986, "title": "To Bear A Grave Of Prophets", "original_title": "To Bear A Grave Of Prophets", "slug_title": "to-bear-a-grave-of-prophets", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Y9okXtk8IOmKSinflnnUcOlAiB.jpg", "actors": [], "comments": [], "recommandations_id": []}

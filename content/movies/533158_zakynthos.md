@@ -1,1 +1,0 @@
-{"tmdb_id": 533158, "title": "Zakynthos", "original_title": "Zakynthos", "slug_title": "zakynthos", "date": "2008-06-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/86i21GIF67HcVrE28Pr5jchOCyR.jpg", "actors": [], "comments": [], "recommandations_id": []}

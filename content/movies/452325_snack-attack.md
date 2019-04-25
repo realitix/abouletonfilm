@@ -1,1 +1,0 @@
-{"tmdb_id": 452325, "title": "Snack Attack", "original_title": "Snack Attack", "slug_title": "snack-attack", "date": "2012-01-01", "genre": "Animation / Familial", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ylDTra1K1RhKRmfREhobu1Ce54P.jpg", "actors": ["Montserrat Espadal\u00e9 ()"], "comments": [], "recommandations_id": []}

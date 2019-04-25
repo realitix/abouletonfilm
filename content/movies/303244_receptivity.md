@@ -1,1 +1,0 @@
-{"tmdb_id": 303244, "title": "Receptivity", "original_title": "Receptivity", "slug_title": "receptivity", "date": "2014-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 237121, "title": "Boston Beanie", "original_title": "Boston Beanie", "slug_title": "boston-beanie", "date": "1947-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cnM03zeJ6cg3X7d9AkvCY2rlY8e.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 405255, "title": "MANBUYCOW & FRIENDS: ALIVE!", "original_title": "MANBUYCOW & FRIENDS: ALIVE!", "slug_title": "manbuycow-friends-alive", "date": "", "genre": "Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

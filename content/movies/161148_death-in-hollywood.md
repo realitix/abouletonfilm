@@ -1,1 +1,0 @@
-{"tmdb_id": 161148, "title": "Death in Hollywood", "original_title": "Death in Hollywood", "slug_title": "death-in-hollywood", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yidr69wwF0Rfe5jWyeqjAcltHBZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

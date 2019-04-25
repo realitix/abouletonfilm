@@ -1,1 +1,0 @@
-{"tmdb_id": 425221, "title": "Esperanzas de cart\u00f3n", "original_title": "Esperanzas de cart\u00f3n", "slug_title": "esperanzas-de-carton", "date": "", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lXnCxJxwIFMiWwzwsf1X8CCgP1r.jpg", "actors": [], "comments": [], "recommandations_id": []}

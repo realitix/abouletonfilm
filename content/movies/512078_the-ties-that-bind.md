@@ -1,1 +1,0 @@
-{"tmdb_id": 512078, "title": "The Ties That Bind", "original_title": "The Ties That Bind", "slug_title": "the-ties-that-bind", "date": "2017-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oXLiTzxqlFFSRel575r5towsGmm.jpg", "actors": [], "comments": [], "recommandations_id": []}

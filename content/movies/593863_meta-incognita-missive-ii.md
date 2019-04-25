@@ -1,1 +1,0 @@
-{"tmdb_id": 593863, "title": "Meta Incognita: Missive II", "original_title": "Meta Incognita: Missive II", "slug_title": "meta-incognita-missive-ii", "date": "2019-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

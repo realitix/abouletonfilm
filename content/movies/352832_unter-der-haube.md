@@ -1,1 +1,0 @@
-{"tmdb_id": 352832, "title": "Unter der Haube", "original_title": "Unter der Haube", "slug_title": "unter-der-haube", "date": "1938-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

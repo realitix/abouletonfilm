@@ -1,1 +1,0 @@
-{"tmdb_id": 292018, "title": "The Recruiter", "original_title": "The Recruiter", "slug_title": "the-recruiter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

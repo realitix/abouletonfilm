@@ -1,1 +1,0 @@
-{"tmdb_id": 321338, "title": "Penn State National Champions 1986", "original_title": "Penn State National Champions 1986", "slug_title": "penn-state-national-champions-1986", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

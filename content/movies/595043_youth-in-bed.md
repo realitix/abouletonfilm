@@ -1,1 +1,0 @@
-{"tmdb_id": 595043, "title": "Youth in Bed", "original_title": "Youth in Bed", "slug_title": "youth-in-bed", "date": "2019-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 384882, "title": "The Sheperd", "original_title": "The Sheperd", "slug_title": "the-sheperd", "date": "2016-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xmD2fyaTl5fiAun089yATKdmb1u.jpg", "actors": [], "comments": [], "recommandations_id": []}

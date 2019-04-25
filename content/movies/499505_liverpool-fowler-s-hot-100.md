@@ -1,1 +1,0 @@
-{"tmdb_id": 499505, "title": "Liverpool - Fowler's Hot 100", "original_title": "Liverpool - Fowler's Hot 100", "slug_title": "liverpool-fowler-s-hot-100", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vdymrbLwSYGLgUs07H8xzZD6Az8.jpg", "actors": [], "comments": [], "recommandations_id": []}

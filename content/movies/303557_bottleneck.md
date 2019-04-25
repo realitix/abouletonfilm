@@ -1,1 +1,0 @@
-{"tmdb_id": 303557, "title": "Bottleneck", "original_title": "Bottleneck", "slug_title": "bottleneck", "date": "2014-04-01", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/swXThqg62frXROsazH7cxRv6Uxo.jpg", "actors": [], "comments": [], "recommandations_id": []}

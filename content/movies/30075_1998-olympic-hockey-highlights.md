@@ -1,1 +1,0 @@
-{"tmdb_id": 30075, "title": "1998 Olympic Hockey Highlights", "original_title": "1998 Olympic Hockey Highlights", "slug_title": "1998-olympic-hockey-highlights", "date": "1900-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jNe2WL22S78vllmKR2lNFyq7bhM.jpg", "actors": [], "comments": [], "recommandations_id": []}

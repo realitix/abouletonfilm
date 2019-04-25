@@ -1,1 +1,0 @@
-{"tmdb_id": 75260, "title": "The Pineapple Story", "original_title": "The Pineapple Story", "slug_title": "the-pineapple-story", "date": "2005-01-19", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Otto Koning (Otto Koning)"], "comments": [], "recommandations_id": []}

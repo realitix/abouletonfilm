@@ -1,1 +1,0 @@
-{"tmdb_id": 276082, "title": "Tirupati Shree Balaji: Bhakta Annamayya", "original_title": "Tirupati Shree Balaji: Bhakta Annamayya", "slug_title": "tirupati-shree-balaji-bhakta-annamayya", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

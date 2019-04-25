@@ -1,1 +1,0 @@
-{"tmdb_id": 511282, "title": "Big Find a Trumpet", "original_title": "Big Find a Trumpet", "slug_title": "big-find-a-trumpet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gjlWrhce6tMNjShBOMd3h47JKxA.jpg", "actors": [], "comments": [], "recommandations_id": []}

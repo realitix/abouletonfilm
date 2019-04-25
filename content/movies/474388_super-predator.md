@@ -1,1 +1,0 @@
-{"tmdb_id": 474388, "title": "Super Predator", "original_title": "Super Predator", "slug_title": "super-predator", "date": "2015-07-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andrew Ettingshausen (Himself - Narrator (voice))"], "comments": [], "recommandations_id": []}

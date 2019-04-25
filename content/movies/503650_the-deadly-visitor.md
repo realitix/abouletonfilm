@@ -1,1 +1,0 @@
-{"tmdb_id": 503650, "title": "The Deadly Visitor", "original_title": "The Deadly Visitor", "slug_title": "the-deadly-visitor", "date": "1973-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

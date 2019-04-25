@@ -1,1 +1,1 @@
-{"tmdb_id": 308209, "title": "Koffi Shop", "original_title": "Koffi Shop", "slug_title": "koffi-shop", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 308209, "title": "Koffi Shop", "original_title": "Koffi Shop", "slug_title": "koffi-shop", "date": "2011-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Film from Geetha Krishnan", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

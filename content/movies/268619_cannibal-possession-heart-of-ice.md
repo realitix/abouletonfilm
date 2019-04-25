@@ -1,1 +1,0 @@
-{"tmdb_id": 268619, "title": "Cannibal Possession: Heart of Ice", "original_title": "Cannibal Possession: Heart of Ice", "slug_title": "cannibal-possession-heart-of-ice", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

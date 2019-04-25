@@ -1,1 +1,0 @@
-{"tmdb_id": 449066, "title": "China Villagers Documentary Project", "original_title": "\u4e2d\u56fd\u6751\u6c11\u5370\u8c61\u8ba1\u5212", "slug_title": "china-villagers-documentary-project", "date": "2005-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

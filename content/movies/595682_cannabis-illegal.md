@@ -1,1 +1,0 @@
-{"tmdb_id": 595682, "title": "Cannabis ill\u00e9gal", "original_title": "Cannabis ill\u00e9gal", "slug_title": "cannabis-illegal", "date": "2019-04-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/CLHg8vUKuw5nScbhL9SXk9qRho.jpg", "actors": ["Simon Coutu (Himself)"], "comments": [], "recommandations_id": []}

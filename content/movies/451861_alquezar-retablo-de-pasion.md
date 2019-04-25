@@ -1,1 +1,0 @@
-{"tmdb_id": 451861, "title": "Alqu\u00e9zar, Retablo de Pasi\u00f3n", "original_title": "Alqu\u00e9zar, Retablo de Pasi\u00f3n", "slug_title": "alquezar-retablo-de-pasion", "date": "1966-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

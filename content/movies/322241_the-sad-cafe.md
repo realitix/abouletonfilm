@@ -1,1 +1,0 @@
-{"tmdb_id": 322241, "title": "The Sad Cafe", "original_title": "The Sad Cafe", "slug_title": "the-sad-cafe", "date": "2011-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iVWV6I7HXihIZyjLgbuBy2daCTI.jpg", "actors": [], "comments": [], "recommandations_id": []}

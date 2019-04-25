@@ -1,1 +1,0 @@
-{"tmdb_id": 572205, "title": "Sa\ufeffntucho... todav\u00eda", "original_title": "Sa\ufeffntucho... todav\u00eda", "slug_title": "santucho-todavia", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hyzyNqtZn2t8inKoOlJADmsy4yC.jpg", "actors": [], "comments": [], "recommandations_id": []}

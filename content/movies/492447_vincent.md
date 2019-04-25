@@ -1,1 +1,0 @@
-{"tmdb_id": 492447, "title": "Vincent", "original_title": "\ube48\uc13c\ud2b8", "slug_title": "vincent", "date": "2017-12-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9TMS2HvF3c6TcUAmkx3ApXy9aqy.jpg", "actors": ["Hong Kyung-in ()", "Bae Seul-ki ()"], "comments": [], "recommandations_id": []}

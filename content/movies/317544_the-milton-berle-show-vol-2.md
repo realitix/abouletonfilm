@@ -1,1 +1,0 @@
-{"tmdb_id": 317544, "title": "The Milton Berle Show: Vol. 2", "original_title": "The Milton Berle Show: Vol. 2", "slug_title": "the-milton-berle-show-vol-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 323882, "title": "Walk Along The Las Vegas Strip", "original_title": "Walk Along The Las Vegas Strip", "slug_title": "walk-along-the-las-vegas-strip", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 550782, "title": "The Spring", "original_title": "Wiosna", "slug_title": "the-spring", "date": "1980-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

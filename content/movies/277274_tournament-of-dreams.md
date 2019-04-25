@@ -1,1 +1,0 @@
-{"tmdb_id": 277274, "title": "Tournament of Dreams", "original_title": "Tournament of Dreams", "slug_title": "tournament-of-dreams", "date": "2007-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zz5zr3NSlNkCk8V2arDusEVnTYa.jpg", "actors": ["Tony Todd (Isaiah Kennedy)"], "comments": [], "recommandations_id": []}

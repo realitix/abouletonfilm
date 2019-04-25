@@ -1,1 +1,0 @@
-{"tmdb_id": 268746, "title": "Jones Beach Boys", "original_title": "Jones Beach Boys", "slug_title": "jones-beach-boys", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

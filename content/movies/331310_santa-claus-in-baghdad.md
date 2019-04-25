@@ -1,1 +1,0 @@
-{"tmdb_id": 331310, "title": "Santa Claus in Baghdad", "original_title": "Santa Claus in Baghdad", "slug_title": "santa-claus-in-baghdad", "date": "2008-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

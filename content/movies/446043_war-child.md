@@ -1,1 +1,0 @@
-{"tmdb_id": 446043, "title": "War Child", "original_title": "War Child", "slug_title": "war-child", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

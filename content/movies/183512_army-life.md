@@ -1,1 +1,0 @@
-{"tmdb_id": 183512, "title": "Army Life", "original_title": "Army Life", "slug_title": "army-life", "date": "1900-01-01", "genre": "", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wc54G92nSuXhuS7dNUGfeeeMUAV.jpg", "actors": [], "comments": [], "recommandations_id": []}

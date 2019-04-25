@@ -1,1 +1,0 @@
-{"tmdb_id": 385971, "title": "Bible of Skin", "original_title": "Bible of Skin", "slug_title": "bible-of-skin", "date": "1990-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n7kiQUPS8LD5fXcWT9zQAeQqu5p.jpg", "actors": [], "comments": [], "recommandations_id": []}

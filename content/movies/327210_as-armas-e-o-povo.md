@@ -1,1 +1,0 @@
-{"tmdb_id": 327210, "title": "As Armas e o Povo", "original_title": "As Armas e o Povo", "slug_title": "as-armas-e-o-povo", "date": "1977-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sToA67aq5sxo7Rx0oui0c41uTnT.jpg", "actors": ["Glauber Rocha ()"], "comments": [], "recommandations_id": []}

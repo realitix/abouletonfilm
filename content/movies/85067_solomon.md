@@ -1,1 +1,0 @@
-{"tmdb_id": 85067, "title": "Solomon", "original_title": "Solomon", "slug_title": "solomon", "date": "1995-01-01", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wmaBfjtLz53J2jxqTtKmQEfmKh4.jpg", "actors": [], "comments": [], "recommandations_id": []}

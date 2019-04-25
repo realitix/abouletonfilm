@@ -1,1 +1,0 @@
-{"tmdb_id": 596315, "title": "Martin Heidegger - Im Denken Unterwegs", "original_title": "Martin Heidegger - Im Denken Unterwegs", "slug_title": "martin-heidegger-im-denken-unterwegs", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

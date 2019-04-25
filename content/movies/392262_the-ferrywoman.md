@@ -1,1 +1,0 @@
-{"tmdb_id": 392262, "title": "The Ferrywoman", "original_title": "La donna del traghetto", "slug_title": "the-ferrywoman", "date": "1986-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e2VaU8xSC1eoUMxreQarVlAAHBW.jpg", "actors": [], "comments": [], "recommandations_id": []}

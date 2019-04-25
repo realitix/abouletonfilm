@@ -1,1 +1,0 @@
-{"tmdb_id": 460245, "title": "Soul Catcher", "original_title": "Soul Catcher", "slug_title": "soul-catcher", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kgIWlUa4rbvgyfIaS64MQoEH569.jpg", "actors": ["James Jensen ()", "Reese Westhoff ()"], "comments": [], "recommandations_id": []}

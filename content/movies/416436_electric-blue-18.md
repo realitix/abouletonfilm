@@ -1,1 +1,0 @@
-{"tmdb_id": 416436, "title": "Electric Blue 18", "original_title": "Electric Blue 18", "slug_title": "electric-blue-18", "date": "1985-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nkdmBuZdzFrv8bdlQlRfdgyfo1w.jpg", "actors": ["Tina Shaw ()"], "comments": [], "recommandations_id": []}

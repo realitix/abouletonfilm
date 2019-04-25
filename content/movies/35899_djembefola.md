@@ -1,1 +1,0 @@
-{"tmdb_id": 35899, "title": "Djembefola", "original_title": "Djembefola", "slug_title": "djembefola", "date": "1991-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6yUqybGPpVSiLHfj0i2OsZZLMpv.jpg", "actors": ["Mamady Ke\u00efta (Himself)"], "comments": [], "recommandations_id": []}

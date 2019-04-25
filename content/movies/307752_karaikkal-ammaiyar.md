@@ -1,1 +1,0 @@
-{"tmdb_id": 307752, "title": "Karaikkal Ammaiyar", "original_title": "Karaikkal Ammaiyar", "slug_title": "karaikkal-ammaiyar", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

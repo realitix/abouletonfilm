@@ -1,1 +1,0 @@
-{"tmdb_id": 373747, "title": "Podestleben", "original_title": "Podestleben", "slug_title": "podestleben", "date": "2008-06-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

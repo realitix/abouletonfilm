@@ -1,1 +1,0 @@
-{"tmdb_id": 454046, "title": "Mon\u00f3logos de un hombre incierto", "original_title": "Mon\u00f3logos de un hombre incierto", "slug_title": "monologos-de-un-hombre-incierto", "date": "2010-04-24", "genre": "Com\u00e9die / Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Abel Vit\u00f3n ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 305797, "title": "The Dust Bowll", "original_title": "The Dust Bowll", "slug_title": "the-dust-bowll", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tYuniuzKaKujXUDswAlmclY61q.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 417745, "title": "Something in Blue", "original_title": "\u547c\u5438\u6b63\u5e38", "slug_title": "something-in-blue", "date": "2016-04-18", "genre": "Drame / Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m4BOyVYr4ZEYnERLzSXfAnYV82o.jpg", "actors": [], "comments": [], "recommandations_id": []}

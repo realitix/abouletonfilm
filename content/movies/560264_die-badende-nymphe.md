@@ -1,1 +1,0 @@
-{"tmdb_id": 560264, "title": "Die badende Nymphe", "original_title": "Die badende Nymphe", "slug_title": "die-badende-nymphe", "date": "1914-05-02", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gWLjz0jLb2878LUXF6vq2bjFbIH.jpg", "actors": ["Johanna Terwin ()"], "comments": [], "recommandations_id": []}

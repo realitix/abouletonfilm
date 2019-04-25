@@ -1,1 +1,0 @@
-{"tmdb_id": 579396, "title": "Karobaar: The Business of Love", "original_title": "Karobaar: The Business of Love", "slug_title": "karobaar-the-business-of-love", "date": "2000-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qR6IUPfjfGrpxNbCXtS2n88YSjJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

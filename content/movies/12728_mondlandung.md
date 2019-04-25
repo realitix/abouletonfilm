@@ -1,1 +1,0 @@
-{"tmdb_id": 12728, "title": "Mondlandung", "original_title": "Mondlandung", "slug_title": "mondlandung", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anton Levit (Yuri)", "Andrej Dronov (Dimi)", "Radik Golovkov (Ruslan)", "Annika Blendl (Polizistin)"], "comments": [], "recommandations_id": []}

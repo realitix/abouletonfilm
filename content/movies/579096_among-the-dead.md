@@ -1,1 +1,0 @@
-{"tmdb_id": 579096, "title": "Among the Dead", "original_title": "Among the Dead", "slug_title": "among-the-dead", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

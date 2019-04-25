@@ -1,1 +1,0 @@
-{"tmdb_id": 377036, "title": "B.D. Women", "original_title": "B.D. Women", "slug_title": "b-d-women", "date": "1994-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j3JhzBKG9uJ8oY9Ouv0XdJIIpPM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 585877, "title": "Ricochet", "original_title": "Ricochet", "slug_title": "ricochet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Martijn Kuiper ()", "Iazua Larios ()", "Andr\u00e9s Almeida ()", "Jos\u00e9 Manuel Poncelis ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 475943, "title": "Couple Of Days", "original_title": "Couple Of Days", "slug_title": "couple-of-days", "date": "2016-02-05", "genre": "Drame / Romance", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1xbOalfd97D8wwy7G5oflJOOXD1.jpg", "actors": [], "comments": [], "recommandations_id": []}

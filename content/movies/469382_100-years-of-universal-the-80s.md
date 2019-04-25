@@ -1,1 +1,0 @@
-{"tmdb_id": 469382, "title": "100 Years of Universal: The '80s", "original_title": "100 Years of Universal: The '80s", "slug_title": "100-years-of-universal-the-80s", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 447795, "title": "Figures in Us", "original_title": "Postavy v n\u00e1s", "slug_title": "figures-in-us", "date": "1977-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

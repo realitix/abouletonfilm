@@ -1,1 +1,0 @@
-{"tmdb_id": 315569, "title": "Untitled Normal Heart Sequel", "original_title": "Untitled Normal Heart Sequel", "slug_title": "untitled-normal-heart-sequel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

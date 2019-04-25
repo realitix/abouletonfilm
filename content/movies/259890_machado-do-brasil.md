@@ -1,1 +1,0 @@
-{"tmdb_id": 259890, "title": "Machado do Brasil", "original_title": "Machado do Brasil", "slug_title": "machado-do-brasil", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Danielle Antunes ()", "M\u00e1rcio Vito ()"], "comments": [], "recommandations_id": []}

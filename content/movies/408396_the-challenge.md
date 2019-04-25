@@ -1,1 +1,0 @@
-{"tmdb_id": 408396, "title": "The Challenge", "original_title": "The Challenge", "slug_title": "the-challenge", "date": "2016-08-06", "genre": "Documentaire", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aVrprHNYtQ0VB8Yk3i1sgtiekT2.jpg", "actors": [], "comments": [], "recommandations_id": [127835]}

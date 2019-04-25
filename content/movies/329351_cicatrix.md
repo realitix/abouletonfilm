@@ -1,1 +1,0 @@
-{"tmdb_id": 329351, "title": "CICATRIX", "original_title": "CICATRIX", "slug_title": "cicatrix", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

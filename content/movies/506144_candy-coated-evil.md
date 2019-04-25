@@ -1,1 +1,0 @@
-{"tmdb_id": 506144, "title": "Candy Coated Evil", "original_title": "Candy Coated Evil", "slug_title": "candy-coated-evil", "date": "1997-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kJ9v8q7vcUDEGW7iBprXh1smu8m.jpg", "actors": [], "comments": [], "recommandations_id": []}

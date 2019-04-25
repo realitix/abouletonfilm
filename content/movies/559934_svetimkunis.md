@@ -1,1 +1,0 @@
-{"tmdb_id": 559934, "title": "Svetimkunis", "original_title": "Svetimkunis", "slug_title": "svetimkunis", "date": "2010-10-20", "genre": "Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/coNSgp4D3Yw2WJiUWb6gxB6kWH3.jpg", "actors": ["Irina Lavrinovi\u010d ()"], "comments": [], "recommandations_id": []}

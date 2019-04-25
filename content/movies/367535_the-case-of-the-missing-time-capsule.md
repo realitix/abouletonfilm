@@ -1,1 +1,0 @@
-{"tmdb_id": 367535, "title": "The Case of the Missing Time Capsule", "original_title": "The Case of the Missing Time Capsule", "slug_title": "the-case-of-the-missing-time-capsule", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

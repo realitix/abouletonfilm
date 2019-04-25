@@ -1,1 +1,0 @@
-{"tmdb_id": 379255, "title": "Pinktails for Two", "original_title": "Pinktails for Two", "slug_title": "pinktails-for-two", "date": "1978-12-22", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w8delMEbwLA5m7diVqFjH7ZhlEb.jpg", "actors": [], "comments": [], "recommandations_id": []}

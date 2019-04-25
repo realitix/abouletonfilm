@@ -1,1 +1,0 @@
-{"tmdb_id": 458948, "title": "School House Rock", "original_title": "School House Rock", "slug_title": "school-house-rock", "date": "2002-08-27", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fAVWARXIlwX9RoukShxSVYFs6eU.jpg", "actors": ["Jake Sheldon ()", "Bob Dorough ()"], "comments": [], "recommandations_id": []}

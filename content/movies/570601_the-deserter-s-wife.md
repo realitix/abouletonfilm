@@ -1,1 +1,0 @@
-{"tmdb_id": 570601, "title": "The Deserter's Wife", "original_title": "La femme du d\u00e9serteur", "slug_title": "the-deserter-s-wife", "date": "1991-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eCjZyKhzzcO7xKvCaetp6IPUqtm.jpg", "actors": [], "comments": [], "recommandations_id": []}

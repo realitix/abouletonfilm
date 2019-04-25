@@ -1,1 +1,0 @@
-{"tmdb_id": 464112, "title": "Kapture: Fluke", "original_title": "Kapture: Fluke", "slug_title": "kapture-fluke", "date": "2017-08-03", "genre": "Animation", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mPmDlymBvRCBoXyTZsp0646zIh4.jpg", "actors": [], "comments": [], "recommandations_id": [465078, 463800, 464111, 461955]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 312222, "title": "A Baby Blues Christmas Special", "original_title": "A Baby Blues Christmas Special", "slug_title": "a-baby-blues-christmas-special", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

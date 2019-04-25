@@ -1,1 +1,0 @@
-{"tmdb_id": 522510, "title": "Onaatah", "original_title": "Onaatah", "slug_title": "onaatah", "date": "2016-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ruWbLxG64cU12MRNIsGpslZAO0u.jpg", "actors": [], "comments": [], "recommandations_id": []}

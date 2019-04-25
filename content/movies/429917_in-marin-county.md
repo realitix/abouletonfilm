@@ -1,1 +1,0 @@
-{"tmdb_id": 429917, "title": "In Marin County", "original_title": "In Marin County", "slug_title": "in-marin-county", "date": "1970-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

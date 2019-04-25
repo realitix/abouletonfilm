@@ -1,1 +1,0 @@
-{"tmdb_id": 535826, "title": "Le Fils de Polynice", "original_title": "Le Fils de Polynice", "slug_title": "le-fils-de-polynice", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vOGUTSsbfTp0ylVMHwcs7eD4opc.jpg", "actors": [], "comments": [], "recommandations_id": []}

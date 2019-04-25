@@ -1,1 +1,0 @@
-{"tmdb_id": 588774, "title": "Queen of Splinters", "original_title": "Vem plockar upp sk\u00e4rvor av ett sprucket jag", "slug_title": "queen-of-splinters", "date": "2012-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

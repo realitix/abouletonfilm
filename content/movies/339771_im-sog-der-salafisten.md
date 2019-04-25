@@ -1,1 +1,0 @@
-{"tmdb_id": 339771, "title": "Im Sog der Salafisten", "original_title": "Im Sog der Salafisten", "slug_title": "im-sog-der-salafisten", "date": "2013-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

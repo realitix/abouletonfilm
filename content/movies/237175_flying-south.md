@@ -1,1 +1,0 @@
-{"tmdb_id": 237175, "title": "Flying South", "original_title": "Flying South", "slug_title": "flying-south", "date": "1947-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

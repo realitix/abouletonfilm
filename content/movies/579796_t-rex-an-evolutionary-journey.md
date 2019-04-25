@@ -1,1 +1,0 @@
-{"tmdb_id": 579796, "title": "T-Rex: An Evolutionary Journey", "original_title": "T-Rex: An Evolutionary Journey", "slug_title": "t-rex-an-evolutionary-journey", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 277096, "title": "Turn-on, Tune-in, Lookout!", "original_title": "Turn-on, Tune-in, Lookout!", "slug_title": "turn-on-tune-in-lookout", "date": "2003-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 573614, "title": "Sistiaga, une histoire basque", "original_title": "Sistiaga, une histoire basque", "slug_title": "sistiaga-une-histoire-basque", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

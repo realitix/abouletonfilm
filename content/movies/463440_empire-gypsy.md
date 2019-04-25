@@ -1,1 +1,0 @@
-{"tmdb_id": 463440, "title": "Empire Gypsy", "original_title": "Empire Gypsy", "slug_title": "empire-gypsy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

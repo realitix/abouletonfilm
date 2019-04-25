@@ -1,1 +1,0 @@
-{"tmdb_id": 231146, "title": "Cavalcade historique en Sardaigne", "original_title": "Cavalcade historique en Sardaigne", "slug_title": "cavalcade-historique-en-sardaigne", "date": "1899-10-28", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

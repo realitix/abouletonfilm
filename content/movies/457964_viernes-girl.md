@@ -1,1 +1,0 @@
-{"tmdb_id": 457964, "title": "Viernes Girl", "original_title": "Viernes Girl", "slug_title": "viernes-girl", "date": "2005-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Susan Arenallo ()", "Claudine BenArosh ()", "Johnny Boniek Chavarria ()", "Jessica Grande ()"], "comments": [], "recommandations_id": []}

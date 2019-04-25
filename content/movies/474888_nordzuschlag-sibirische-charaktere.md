@@ -1,1 +1,0 @@
-{"tmdb_id": 474888, "title": "Nordzuschlag - Sibirische Charaktere", "original_title": "Nordzuschlag - Sibirische Charaktere", "slug_title": "nordzuschlag-sibirische-charaktere", "date": "1975-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 573727, "title": "Twelfth Man", "original_title": "Twelfth Man", "slug_title": "twelfth-man", "date": "2014-11-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bDU9bmnYDXLcdX3QxoSvON9NDfj.jpg", "actors": [], "comments": [], "recommandations_id": []}

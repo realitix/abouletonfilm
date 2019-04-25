@@ -1,1 +1,0 @@
-{"tmdb_id": 370470, "title": "Io Gilda", "original_title": "Io Gilda", "slug_title": "io-gilda", "date": "1989-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lR6v6zTrVbDqzSLvuqjnCji1Qo1.jpg", "actors": ["Pamela Prati (Gilda)", "Valentine Demy (Lulu (as Marisa Parra))"], "comments": [], "recommandations_id": []}

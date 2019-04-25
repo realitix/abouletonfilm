@@ -1,1 +1,0 @@
-{"tmdb_id": 494888, "title": "No Attempt Was Made to Reattach", "original_title": "No Attempt Was Made to Reattach", "slug_title": "no-attempt-was-made-to-reattach", "date": "2016-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

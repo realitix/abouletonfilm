@@ -1,1 +1,0 @@
-{"tmdb_id": 379082, "title": "Pink-A-Boo", "original_title": "Pink-A-Boo", "slug_title": "pink-a-boo", "date": "1966-06-26", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/piG6ytlV1XzRKE2xoTl3tmekX8p.jpg", "actors": [], "comments": [], "recommandations_id": []}

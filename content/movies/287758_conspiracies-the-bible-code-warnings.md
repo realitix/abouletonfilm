@@ -1,1 +1,0 @@
-{"tmdb_id": 287758, "title": "Conspiracies: The Bible Code Warnings", "original_title": "Conspiracies: The Bible Code Warnings", "slug_title": "conspiracies-the-bible-code-warnings", "date": "2004-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 437194, "title": "My Street", "original_title": "Moja ulica", "slug_title": "my-street", "date": "1965-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

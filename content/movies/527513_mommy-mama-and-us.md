@@ -1,1 +1,0 @@
-{"tmdb_id": 527513, "title": "Mommy, Mama and us", "original_title": "\u5abd\u5abd, \u5abd\u54aa \u8207\u6211\u5011", "slug_title": "mommy-mama-and-us", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ld1KZsKWCBs0rg0KQMJeRIjBkqi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 432975, "title": "Tr\u00e4ume der Lausitz", "original_title": "Tr\u00e4ume der Lausitz", "slug_title": "traume-der-lausitz", "date": "2010-05-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eoxlUKSjBop73CBDjndop3cfwLY.jpg", "actors": [], "comments": [], "recommandations_id": []}

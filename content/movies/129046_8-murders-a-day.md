@@ -1,1 +1,0 @@
-{"tmdb_id": 129046, "title": "8 Murders a Day", "original_title": "8 Murders a Day", "slug_title": "8-murders-a-day", "date": "2011-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8oCcOnfl80vnembmcF4MhDoXndt.jpg", "actors": [], "comments": [], "recommandations_id": []}

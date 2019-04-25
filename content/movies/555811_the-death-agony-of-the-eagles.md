@@ -1,1 +1,0 @@
-{"tmdb_id": 555811, "title": "The Death Agony of the Eagles", "original_title": "L'agonie des aigles", "slug_title": "the-death-agony-of-the-eagles", "date": "1922-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

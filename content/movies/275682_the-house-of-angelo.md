@@ -1,1 +1,0 @@
-{"tmdb_id": 275682, "title": "The House of Angelo", "original_title": "The House of Angelo", "slug_title": "the-house-of-angelo", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eW5FRBKrQVM0VoAIWm32RSesWyt.jpg", "actors": [], "comments": [], "recommandations_id": []}

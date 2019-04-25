@@ -1,1 +1,0 @@
-{"tmdb_id": 497961, "title": "21 Day FIx - Flat Abs Fix", "original_title": "21 Day FIx - Flat Abs Fix", "slug_title": "21-day-fix-flat-abs-fix", "date": "2013-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3oUcacO75SxMnyN7Sz2oCK1XcvO.jpg", "actors": [], "comments": [], "recommandations_id": []}

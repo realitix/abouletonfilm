@@ -1,1 +1,0 @@
-{"tmdb_id": 559266, "title": "Les maris de L\u00e9ontine", "original_title": "Les maris de L\u00e9ontine", "slug_title": "les-maris-de-leontine", "date": "1947-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

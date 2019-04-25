@@ -1,1 +1,0 @@
-{"tmdb_id": 374149, "title": "Alice in the Alps", "original_title": "Alice in the Alps", "slug_title": "alice-in-the-alps", "date": "1927-03-21", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Margie Gay (Alice)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 588168, "title": "A Portrait of Mr O", "original_title": "\uff2f\u6c0f\u306e\u8096\u50cf", "slug_title": "a-portrait-of-mr-o", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xvzto7dglRGqlXVR1asbC6lYMjw.jpg", "actors": ["Kazuo Ohno ()"], "comments": [], "recommandations_id": []}

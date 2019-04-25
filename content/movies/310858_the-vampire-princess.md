@@ -1,1 +1,0 @@
-{"tmdb_id": 310858, "title": "The Vampire Princess", "original_title": "The Vampire Princess", "slug_title": "the-vampire-princess", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

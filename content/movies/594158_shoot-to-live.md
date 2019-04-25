@@ -1,1 +1,0 @@
-{"tmdb_id": 594158, "title": "Shoot to Live", "original_title": "Tourner pour vivre", "slug_title": "shoot-to-live", "date": "2016-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Vx8pP4sbdjqzvBjfqFx9XBFY1t.jpg", "actors": [], "comments": [], "recommandations_id": []}

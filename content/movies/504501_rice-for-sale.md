@@ -1,1 +1,0 @@
-{"tmdb_id": 504501, "title": "Rice for Sale", "original_title": "Rice for Sale", "slug_title": "rice-for-sale", "date": "2013-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/txb4d0f9Tiagxq7yUXPKhvMgIX.jpg", "actors": [], "comments": [], "recommandations_id": []}

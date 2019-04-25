@@ -1,1 +1,0 @@
-{"tmdb_id": 390886, "title": "Having a drink", "original_title": "Having a drink", "slug_title": "having-a-drink", "date": "2013-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Lbwst4wThYhGToh2SgERfPaIMs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 371485, "title": "Carrying Pictures. A Case Study in Visual Politics", "original_title": "Carrying Pictures. A Case Study in Visual Politics", "slug_title": "carrying-pictures-a-case-study-in-visual-politics", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

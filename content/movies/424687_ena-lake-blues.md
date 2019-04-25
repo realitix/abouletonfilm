@@ -1,1 +1,0 @@
-{"tmdb_id": 424687, "title": "Ena Lake Blues", "original_title": "Ena Lake Blues", "slug_title": "ena-lake-blues", "date": "2006-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3mpDrFYWRrmylxGx8jw5V9O30ua.jpg", "actors": [], "comments": [], "recommandations_id": []}

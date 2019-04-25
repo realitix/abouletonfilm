@@ -1,1 +1,0 @@
-{"tmdb_id": 268886, "title": "Jungle Beat 2", "original_title": "Jungle Beat 2", "slug_title": "jungle-beat-2", "date": "2011-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kge6832CDN18R3WLOTOUmHWvr5O.jpg", "actors": [], "comments": [], "recommandations_id": []}

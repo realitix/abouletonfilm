@@ -1,1 +1,0 @@
-{"tmdb_id": 335772, "title": "How to make a Nightmare", "original_title": "How to make a Nightmare", "slug_title": "how-to-make-a-nightmare", "date": "2015-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w4KnDv8HxbAJskuYwhIH6hlVVUp.jpg", "actors": [], "comments": [], "recommandations_id": []}

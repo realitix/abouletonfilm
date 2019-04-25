@@ -1,1 +1,0 @@
-{"tmdb_id": 120528, "title": "Moving Midway", "original_title": "Moving Midway", "slug_title": "moving-midway", "date": "2007-04-14", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k5fK62r3vKMOc8fRpu7z6iC0yz1.jpg", "actors": ["Bruce Chadwick (Expert)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 236167, "title": "Love and Curses", "original_title": "Love and Curses", "slug_title": "love-and-curses", "date": "1938-07-08", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9361DI2ehMAR5vocYTzP9SHMwgS.jpg", "actors": [], "comments": [], "recommandations_id": []}

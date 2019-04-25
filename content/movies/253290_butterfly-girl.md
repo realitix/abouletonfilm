@@ -1,1 +1,0 @@
-{"tmdb_id": 253290, "title": "Butterfly Girl", "original_title": "Butterfly Girl", "slug_title": "butterfly-girl", "date": "2014-03-10", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hzBIeOAoFXqLO4OUL7UhFVhN2Z2.jpg", "actors": [], "comments": [], "recommandations_id": []}

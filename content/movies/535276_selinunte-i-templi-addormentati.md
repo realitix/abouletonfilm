@@ -1,1 +1,0 @@
-{"tmdb_id": 535276, "title": "Selinunte, i templi addormentati", "original_title": "Selinunte, i templi addormentati", "slug_title": "selinunte-i-templi-addormentati", "date": "1951-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

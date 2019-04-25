@@ -1,1 +1,0 @@
-{"tmdb_id": 164842, "title": "Ujamii Uhuru Schule Community Freedom School", "original_title": "Ujamii Uhuru Schule Community Freedom School", "slug_title": "ujamii-uhuru-schule-community-freedom-school", "date": "1974-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

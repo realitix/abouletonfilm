@@ -1,1 +1,0 @@
-{"tmdb_id": 559107, "title": "Father Serge", "original_title": "Le p\u00e8re Serge", "slug_title": "father-serge", "date": "1945-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/70YMlMWYkFBfOKMnT7nZzbBCNQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

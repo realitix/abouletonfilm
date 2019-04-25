@@ -1,1 +1,0 @@
-{"tmdb_id": 462175, "title": "The Wolfman's Hammer", "original_title": "The Wolfman's Hammer", "slug_title": "the-wolfman-s-hammer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n4iBwncyWAeImoqAXLfVatfQJhP.jpg", "actors": [], "comments": [], "recommandations_id": []}

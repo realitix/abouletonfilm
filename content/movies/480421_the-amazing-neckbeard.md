@@ -1,1 +1,0 @@
-{"tmdb_id": 480421, "title": "The Amazing Neckbeard", "original_title": "The Amazing Neckbeard", "slug_title": "the-amazing-neckbeard", "date": "2017-10-10", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1zFGpaGgw5CF6VPa17jCD1W60nM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 574290, "title": "One Dollar Curry", "original_title": "One Dollar Curry", "slug_title": "one-dollar-curry", "date": "2004-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qv36L9BScxH7xW9AJWdU4PIgTlI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 137602, "title": "Flatworld", "original_title": "Flatworld", "slug_title": "flatworld", "date": "1997-06-01", "genre": "", "score": "7.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qEBTJwL7yI6bXIZ3XccXyweCC3N.jpg", "actors": [], "comments": [], "recommandations_id": [360982, 113354, 63893, 217590]}

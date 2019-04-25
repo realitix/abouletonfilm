@@ -1,1 +1,0 @@
-{"tmdb_id": 118562, "title": "Sentiment", "original_title": "Sentiment", "slug_title": "sentiment", "date": "2003-11-06", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A2Fz5X8oub0jjI3QXusXFYeDzH2.jpg", "actors": [], "comments": [], "recommandations_id": []}

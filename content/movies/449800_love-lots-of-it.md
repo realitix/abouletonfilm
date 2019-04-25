@@ -1,1 +1,0 @@
-{"tmdb_id": 449800, "title": "Love, Lots of It", "original_title": "Love, Lots of It", "slug_title": "love-lots-of-it", "date": "2012-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g0Q1I2M507kqql9jF5KkqtuY45a.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 488911, "title": "\u5973\u6027\u672c\u8272", "original_title": "\u5973\u6027\u672c\u8272", "slug_title": "nu-xing-ben-se", "date": "2017-10-16", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

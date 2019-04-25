@@ -1,1 +1,0 @@
-{"tmdb_id": 478617, "title": "Monument | Monumento", "original_title": "Monument | Monumento", "slug_title": "monument-monumento", "date": "2017-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

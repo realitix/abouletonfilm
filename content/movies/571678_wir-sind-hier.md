@@ -1,1 +1,0 @@
-{"tmdb_id": 571678, "title": "Wir sind hier!", "original_title": "Wir sind hier!", "slug_title": "wir-sind-hier", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

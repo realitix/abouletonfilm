@@ -1,1 +1,0 @@
-{"tmdb_id": 499426, "title": "Wish Star", "original_title": "Wish Star", "slug_title": "wish-star", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xsm74ERcBTZo2ZbDWjJtRIwAXCf.jpg", "actors": [], "comments": [], "recommandations_id": []}

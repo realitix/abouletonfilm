@@ -1,1 +1,0 @@
-{"tmdb_id": 399308, "title": "The Lost Lutung", "original_title": "Loetoeng Kasaroeng", "slug_title": "the-lost-lutung", "date": "1926-12-31", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bH7OCM44boIHuwEUSfwRb5Ley5F.jpg", "actors": ["Martoana ()"], "comments": [], "recommandations_id": []}

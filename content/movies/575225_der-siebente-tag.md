@@ -1,1 +1,0 @@
-{"tmdb_id": 575225, "title": "Der siebente Tag", "original_title": "Der siebente Tag", "slug_title": "der-siebente-tag", "date": "1920-10-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adele Sandrock ()", "Ernst Rotmund ()"], "comments": [], "recommandations_id": []}

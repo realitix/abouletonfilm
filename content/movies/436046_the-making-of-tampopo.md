@@ -1,1 +1,0 @@
-{"tmdb_id": 436046, "title": "The Making of Tampopo", "original_title": "The Making of Tampopo", "slug_title": "the-making-of-tampopo", "date": "1986-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Juzo Itami (Interviewee)"], "comments": [], "recommandations_id": []}

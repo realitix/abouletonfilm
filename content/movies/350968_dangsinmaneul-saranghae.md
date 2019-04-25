@@ -1,1 +1,0 @@
-{"tmdb_id": 350968, "title": "\ub2f9\uc2e0\ub9cc\uc744 \uc0ac\ub791\ud574", "original_title": "\ub2f9\uc2e0\ub9cc\uc744 \uc0ac\ub791\ud574", "slug_title": "dangsinmaneul-saranghae", "date": "1978-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

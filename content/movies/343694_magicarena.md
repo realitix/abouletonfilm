@@ -1,1 +1,0 @@
-{"tmdb_id": 343694, "title": "Magicarena", "original_title": "Magicarena", "slug_title": "magicarena", "date": "2015-05-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

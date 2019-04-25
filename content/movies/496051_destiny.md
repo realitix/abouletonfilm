@@ -1,1 +1,0 @@
-{"tmdb_id": 496051, "title": "Destiny", "original_title": "Destiny", "slug_title": "destiny", "date": "2013-11-17", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xqQBnGQCppmpVX8srTNeYF7Tr0X.jpg", "actors": [], "comments": [], "recommandations_id": []}

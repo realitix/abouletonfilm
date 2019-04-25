@@ -1,1 +1,0 @@
-{"tmdb_id": 421680, "title": "Damn! The Threnody In Me!", "original_title": "Damn! The Threnody In Me!", "slug_title": "damn-the-threnody-in-me", "date": "", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

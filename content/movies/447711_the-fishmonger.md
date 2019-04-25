@@ -1,1 +1,0 @@
-{"tmdb_id": 447711, "title": "The Fishmonger", "original_title": "The Fishmonger", "slug_title": "the-fishmonger", "date": "2002-08-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Henshaw (Davis)", "Rupert Procter (Leech)"], "comments": [], "recommandations_id": []}

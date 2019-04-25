@@ -1,1 +1,0 @@
-{"tmdb_id": 406022, "title": "El Morchih 2", "original_title": "El Morchih 2", "slug_title": "el-morchih-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Hilal Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c8fjxJs7QMPSj0nnF9ohhxWEOed.jpg", "actors": [], "comments": [], "recommandations_id": []}

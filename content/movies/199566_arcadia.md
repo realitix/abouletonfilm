@@ -1,1 +1,0 @@
-{"tmdb_id": 199566, "title": "Arcadia", "original_title": "Arkadiya", "slug_title": "arcadia", "date": "2001-09-17", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b0t18TQ8WnWncyhx0unLDeDd2yy.jpg", "actors": [], "comments": [], "recommandations_id": []}

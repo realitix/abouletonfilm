@@ -1,1 +1,0 @@
-{"tmdb_id": 70457, "title": "Small Gods", "original_title": "Small Gods", "slug_title": "small-gods", "date": "2007-09-01", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ryxfE1GO5wR2zrUrQ22JK5rSKsP.jpg", "actors": [], "comments": [], "recommandations_id": []}

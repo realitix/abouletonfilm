@@ -1,1 +1,0 @@
-{"tmdb_id": 357823, "title": "The Final Frolics of Mr. Bean", "original_title": "The Final Frolics of Mr. Bean", "slug_title": "the-final-frolics-of-mr-bean", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

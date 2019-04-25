@@ -1,1 +1,0 @@
-{"tmdb_id": 595142, "title": "Bolshie nepriyatnosti", "original_title": "Bolshie nepriyatnosti", "slug_title": "bolshie-nepriyatnosti", "date": "1962-04-03", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vluO9PawFQrFY9F0y3N6mDVVlXf.jpg", "actors": [], "comments": [], "recommandations_id": []}

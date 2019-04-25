@@ -1,1 +1,0 @@
-{"tmdb_id": 380469, "title": "Frightmares", "original_title": "Frightmares", "slug_title": "frightmares", "date": "1987-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iMuLGqu9ETh3SNJgkqKZWnhl38p.jpg", "actors": ["John Hurt ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 275532, "title": "The Dreamers", "original_title": "The Dreamers", "slug_title": "the-dreamers", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

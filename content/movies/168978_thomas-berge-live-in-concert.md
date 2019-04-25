@@ -1,1 +1,0 @@
-{"tmdb_id": 168978, "title": "Thomas Berge: Live in Concert", "original_title": "Thomas Berge: Live in Concert", "slug_title": "thomas-berge-live-in-concert", "date": "2008-09-25", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7GzoqfvmNYIT5xzBLDVOLY5re7d.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 191213, "title": "Signs of Spring", "original_title": "Signs of Spring", "slug_title": "signs-of-spring", "date": "1927-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

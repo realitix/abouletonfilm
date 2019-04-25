@@ -1,1 +1,0 @@
-{"tmdb_id": 524651, "title": "Johnny Goes Home", "original_title": "Johnny Goes Home", "slug_title": "johnny-goes-home", "date": "1982-02-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Johnny Carson (Himself)"], "comments": [], "recommandations_id": []}

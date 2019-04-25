@@ -1,1 +1,0 @@
-{"tmdb_id": 335627, "title": "Future Hero", "original_title": "Future Hero", "slug_title": "future-hero", "date": "2014-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ndFEsKaOiIb4N73TtiFwCPKc7EI.jpg", "actors": [], "comments": [], "recommandations_id": []}

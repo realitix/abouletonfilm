@@ -1,1 +1,0 @@
-{"tmdb_id": 556641, "title": "Leopoldo Miguez", "original_title": "Leopoldo Miguez", "slug_title": "leopoldo-miguez", "date": "1946-10-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

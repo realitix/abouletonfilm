@@ -1,1 +1,0 @@
-{"tmdb_id": 415322, "title": "20\ub144 \uc804\uc758 \uc57d\uc18d", "original_title": "20\ub144 \uc804\uc758 \uc57d\uc18d", "slug_title": "20nyeon-jeonyi-yagsog", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

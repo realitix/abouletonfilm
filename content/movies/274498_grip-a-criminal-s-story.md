@@ -1,1 +1,0 @@
-{"tmdb_id": 274498, "title": "Grip: A Criminal's Story", "original_title": "Grip: A Criminal's Story", "slug_title": "grip-a-criminal-s-story", "date": "2006-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

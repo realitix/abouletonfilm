@@ -1,1 +1,0 @@
-{"tmdb_id": 548507, "title": "Aft of Freedom", "original_title": "Aft of Freedom", "slug_title": "aft-of-freedom", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/MC7VS5a5FNI0xOCQdvnU2d2PoD.jpg", "actors": [], "comments": [], "recommandations_id": []}

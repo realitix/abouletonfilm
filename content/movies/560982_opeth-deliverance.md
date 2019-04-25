@@ -1,1 +1,0 @@
-{"tmdb_id": 560982, "title": "Opeth: Deliverance", "original_title": "Opeth: Deliverance", "slug_title": "opeth-deliverance", "date": "2002-11-12", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/23ycUcjmqK1edf2TT9RcwiGdvz3.jpg", "actors": [], "comments": [], "recommandations_id": []}

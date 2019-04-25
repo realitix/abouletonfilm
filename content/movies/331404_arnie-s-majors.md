@@ -1,1 +1,0 @@
-{"tmdb_id": 331404, "title": "Arnie's Majors", "original_title": "Arnie's Majors", "slug_title": "arnie-s-majors", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

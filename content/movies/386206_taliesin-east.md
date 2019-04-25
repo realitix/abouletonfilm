@@ -1,1 +1,0 @@
-{"tmdb_id": 386206, "title": "Taliesin - East", "original_title": "Taliesin - East", "slug_title": "taliesin-east", "date": "1950-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b8GDhY0sGxdTLfi1V3icXj0P6nW.jpg", "actors": [], "comments": [], "recommandations_id": []}

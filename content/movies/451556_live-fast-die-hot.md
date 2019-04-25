@@ -1,1 +1,0 @@
-{"tmdb_id": 451556, "title": "Live Fast Die Hot", "original_title": "Live Fast Die Hot", "slug_title": "live-fast-die-hot", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anne Hathaway ()"], "comments": [], "recommandations_id": []}

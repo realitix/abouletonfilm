@@ -1,1 +1,0 @@
-{"tmdb_id": 283011, "title": "On 'Orientalism'", "original_title": "On 'Orientalism'", "slug_title": "on-orientalism", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eFACZN7aHd8V1NkhKWztT3BuxZb.jpg", "actors": ["Edward Said (Himself)"], "comments": [], "recommandations_id": []}

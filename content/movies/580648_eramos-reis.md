@@ -1,1 +1,0 @@
-{"tmdb_id": 580648, "title": "\u00c9ramos Reis", "original_title": "\u00c9ramos Reis", "slug_title": "eramos-reis", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

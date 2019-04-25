@@ -1,1 +1,0 @@
-{"tmdb_id": 105123, "title": "A Very Short War", "original_title": "A Very Short War", "slug_title": "a-very-short-war", "date": "2010-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dJ5n1ux7KBua9kPwqkyieR9nszd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 332851, "title": "The Kastner Trial", "original_title": "Mishpat Kastner", "slug_title": "the-kastner-trial", "date": "1994-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ya'akov Alperin ()", "Avigail Ariely ()", "Idit Gideon Ben-Eliyahu ()"], "comments": [], "recommandations_id": []}

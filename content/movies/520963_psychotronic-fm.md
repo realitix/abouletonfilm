@@ -1,1 +1,0 @@
-{"tmdb_id": 520963, "title": "Psychotronic FM", "original_title": "Psychotronic FM", "slug_title": "psychotronic-fm", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pghculcOq7Eu0WHiTutqlAt0LFz.jpg", "actors": ["Bill Moseley (Chilly-Billy)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 414807, "title": "Sandburg's Arithmetic", "original_title": "Sandburg's Arithmetic", "slug_title": "sandburg-s-arithmetic", "date": "2000-11-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6tb68URK4Ad7QxygXE26ZOER4dW.jpg", "actors": [], "comments": [], "recommandations_id": []}

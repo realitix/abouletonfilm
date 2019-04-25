@@ -1,1 +1,0 @@
-{"tmdb_id": 358330, "title": "When the Eye Quakes", "original_title": "Quando l'occhio trema", "slug_title": "when-the-eye-quakes", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3X6tG56E34FmEV4JyI8wy2wwKqw.jpg", "actors": [], "comments": [], "recommandations_id": []}

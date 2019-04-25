@@ -1,1 +1,0 @@
-{"tmdb_id": 574145, "title": "The New Black Yoga", "original_title": "The New Black Yoga", "slug_title": "the-new-black-yoga", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zeJm22hhNN9I1FX4g5aW1xN5kLw.jpg", "actors": [], "comments": [], "recommandations_id": []}

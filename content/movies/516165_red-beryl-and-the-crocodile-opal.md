@@ -1,1 +1,0 @@
-{"tmdb_id": 516165, "title": "Red Beryl and the Crocodile, Opal", "original_title": "Red Beryl and the Crocodile, Opal", "slug_title": "red-beryl-and-the-crocodile-opal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

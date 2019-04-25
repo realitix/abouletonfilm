@@ -1,1 +1,0 @@
-{"tmdb_id": 389951, "title": "Tanec medzi \u010drepinami", "original_title": "Tanec medzi \u010drepinami", "slug_title": "tanec-medzi-crepinami", "date": "2012-06-14", "genre": "Musique / Drame", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ml791NGM1r9p4yPwV8Oe5Bi365R.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 501002, "title": "Evidentiary Bodies", "original_title": "Evidentiary Bodies", "slug_title": "evidentiary-bodies", "date": "2018-02-26", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barbara Hammer ()"], "comments": [], "recommandations_id": []}

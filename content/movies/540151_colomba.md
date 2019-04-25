@@ -1,1 +1,0 @@
-{"tmdb_id": 540151, "title": "Colomba", "original_title": "Colomba", "slug_title": "colomba", "date": "1933-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/861ApFRJhbNsMTsNLuX7TfT7f1I.jpg", "actors": [], "comments": [], "recommandations_id": []}

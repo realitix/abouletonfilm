@@ -1,1 +1,0 @@
-{"tmdb_id": 288041, "title": "My Tomato", "original_title": "My Tomato", "slug_title": "my-tomato", "date": "1943-12-04", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Benchley (Joseph A. Doakes)"], "comments": [], "recommandations_id": []}

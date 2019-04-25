@@ -1,1 +1,0 @@
-{"tmdb_id": 494761, "title": "Elbowing", "original_title": "Elbowing", "slug_title": "elbowing", "date": "1979-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

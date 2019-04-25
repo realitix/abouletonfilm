@@ -1,1 +1,0 @@
-{"tmdb_id": 284660, "title": "Katsushika Sunako", "original_title": "Katsushika Sunako", "slug_title": "katsushika-sunako", "date": "1920-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Y\u00f4ko Benisawa ()", "Mrs. Hasagawa ()", "Kiyoshi Hasegawa ()"], "comments": [], "recommandations_id": []}

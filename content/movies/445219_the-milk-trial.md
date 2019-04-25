@@ -1,1 +1,0 @@
-{"tmdb_id": 445219, "title": "The Milk Trial", "original_title": "The Milk Trial", "slug_title": "the-milk-trial", "date": "2015-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u3rpEVw2lgvNkFR5Vjzdl38Ywfb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 399147, "title": "Part II: Feeling Kazet", "original_title": "Part II: Feeling Kazet", "slug_title": "part-ii-feeling-kazet", "date": "1997-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 365145, "title": "Blue Monet", "original_title": "Blue Monet", "slug_title": "blue-monet", "date": "2006-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eNivSm7hG0zwqxZLt1LjbgCXVYo.jpg", "actors": [], "comments": [], "recommandations_id": []}

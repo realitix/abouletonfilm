@@ -1,1 +1,0 @@
-{"tmdb_id": 488204, "title": "French Fried Patootie", "original_title": "French Fried Patootie", "slug_title": "french-fried-patootie", "date": "1941-06-27", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alan Mowbray ()", "Mae Busch (Fifi)"], "comments": [], "recommandations_id": []}

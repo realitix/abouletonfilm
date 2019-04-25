@@ -1,1 +1,0 @@
-{"tmdb_id": 368364, "title": "Bottom's Dream", "original_title": "Bottom's Dream", "slug_title": "bottom-s-dream", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

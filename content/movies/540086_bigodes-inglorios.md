@@ -1,1 +1,0 @@
-{"tmdb_id": 540086, "title": "Bigodes Ingl\u00f3rios", "original_title": "Bigodes Ingl\u00f3rios", "slug_title": "bigodes-inglorios", "date": "2012-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 273800, "title": "Memoires Vives", "original_title": "Memoires Vives", "slug_title": "memoires-vives", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uJzxzepaPf6Kg0fhZf1eXS9qKBx.jpg", "actors": [], "comments": [], "recommandations_id": []}

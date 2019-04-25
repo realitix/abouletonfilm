@@ -1,1 +1,0 @@
-{"tmdb_id": 348546, "title": "Domonic", "original_title": "Domonic", "slug_title": "domonic", "date": "2014-07-13", "genre": "Science-Fiction", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eXPUA2IOm2plbeARaPqsfDGWn8n.jpg", "actors": ["Jos\u00e9 Coronado ()", "Terele P\u00e1vez ()"], "comments": [], "recommandations_id": []}

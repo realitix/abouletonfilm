@@ -1,1 +1,0 @@
-{"tmdb_id": 402096, "title": "I shot JFK", "original_title": "I shot JFK", "slug_title": "i-shot-jfk", "date": "2013-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vgNHPZ3ZbeJ89DXYyl47JUJJsv7.jpg", "actors": [], "comments": [], "recommandations_id": []}

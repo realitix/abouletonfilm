@@ -1,1 +1,0 @@
-{"tmdb_id": 537527, "title": "U2: Outside It's America", "original_title": "U2: Outside It's America", "slug_title": "u2-outside-it-s-america", "date": "1987-03-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 346992, "title": "\u201cNique ta m\u00e8re!\u201d", "original_title": "\u201cNique ta m\u00e8re!\u201d", "slug_title": "nique-ta-mere", "date": "2004-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2A2MnCrUyiNxGnmnYkgjxNktfvo.jpg", "actors": [], "comments": [], "recommandations_id": []}

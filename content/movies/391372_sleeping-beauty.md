@@ -1,1 +1,0 @@
-{"tmdb_id": 391372, "title": "Sleeping Beauty", "original_title": "Dornr\u00f6schen", "slug_title": "sleeping-beauty", "date": "1922-08-01", "genre": "Fantastique / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

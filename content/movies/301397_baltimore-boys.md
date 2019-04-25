@@ -1,1 +1,0 @@
-{"tmdb_id": 301397, "title": "Baltimore Boys", "original_title": "Baltimore Boys", "slug_title": "baltimore-boys", "date": "2014-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

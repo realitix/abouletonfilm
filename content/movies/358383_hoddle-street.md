@@ -1,1 +1,0 @@
-{"tmdb_id": 358383, "title": "Hoddle Street", "original_title": "Hoddle Street", "slug_title": "hoddle-street", "date": "1988-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

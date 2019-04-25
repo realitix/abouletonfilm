@@ -1,1 +1,0 @@
-{"tmdb_id": 151362, "title": "Re:Generation", "original_title": "Re:Generation", "slug_title": "re-generation", "date": "2011-05-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qLqULK6XrCL9pbr3qEiSbi2ameO.jpg", "actors": [], "comments": [], "recommandations_id": []}

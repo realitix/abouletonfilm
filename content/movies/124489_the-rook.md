@@ -1,1 +1,0 @@
-{"tmdb_id": 124489, "title": "The Rook", "original_title": "The Rook", "slug_title": "the-rook", "date": "1994-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yXmLd5SdGB95y360ljlUm6Vcdp9.jpg", "actors": ["Martin Donovan (John Abbott)"], "comments": [], "recommandations_id": []}

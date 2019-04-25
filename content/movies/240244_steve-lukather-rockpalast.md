@@ -1,1 +1,0 @@
-{"tmdb_id": 240244, "title": "Steve Lukather - Rockpalast", "original_title": "Steve Lukather - Rockpalast", "slug_title": "steve-lukather-rockpalast", "date": "2010-11-09", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zmaGF3MzZpmDrwPOPxNUi83pFku.jpg", "actors": [], "comments": [], "recommandations_id": []}

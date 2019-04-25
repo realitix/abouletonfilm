@@ -1,1 +1,0 @@
-{"tmdb_id": 321565, "title": "Rodin: The Gates of Hell", "original_title": "Rodin: The Gates of Hell", "slug_title": "rodin-the-gates-of-hell", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

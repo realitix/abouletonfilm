@@ -1,1 +1,0 @@
-{"tmdb_id": 350102, "title": "\uc774 \uae4a\uc740 \ubc24\uc758 \ud3ec\uc639", "original_title": "\uc774 \uae4a\uc740 \ubc24\uc758 \ud3ec\uc639", "slug_title": "i-gipeun-bamyi-poong", "date": "1981-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 548830, "title": "Cine Fantasma", "original_title": "Cine Fantasma", "slug_title": "cine-fantasma", "date": "2013-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2NqB9gX04E2smIE0ILn5KoUvKsE.jpg", "actors": [], "comments": [], "recommandations_id": []}

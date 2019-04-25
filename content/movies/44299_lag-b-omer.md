@@ -1,1 +1,0 @@
-{"tmdb_id": 44299, "title": "Lag B'Omer", "original_title": "Lag B'Omer", "slug_title": "lag-b-omer", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

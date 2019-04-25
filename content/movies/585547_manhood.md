@@ -1,1 +1,0 @@
-{"tmdb_id": 585547, "title": "Manhood", "original_title": "F\u00e9rfikor", "slug_title": "manhood", "date": "2017-11-30", "genre": "Drame", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sabWLUZICM0NKGK0wSk7DHs5wjj.jpg", "actors": [], "comments": [], "recommandations_id": []}

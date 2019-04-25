@@ -1,1 +1,0 @@
-{"tmdb_id": 231982, "title": "Rural Wagon Delivering Mail, U.S.P.O.", "original_title": "Rural Wagon Delivering Mail, U.S.P.O.", "slug_title": "rural-wagon-delivering-mail-u-s-p-o", "date": "1903-08-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

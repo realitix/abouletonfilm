@@ -1,1 +1,0 @@
-{"tmdb_id": 192315, "title": "Bad Dream?", "original_title": "Bad Dream?", "slug_title": "bad-dream", "date": "2013-03-31", "genre": "Thriller", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t8OnNfhs5lCHQFNi9qq43ttS0HG.jpg", "actors": ["Tom Bury (Nicholas)", "Charlie Bury (Jack)"], "comments": [], "recommandations_id": []}

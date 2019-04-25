@@ -1,1 +1,0 @@
-{"tmdb_id": 473548, "title": "The Lady Thief", "original_title": "The Lady Thief", "slug_title": "the-lady-thief", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Li Li-Hua (Zhao Lingru)"], "comments": [], "recommandations_id": []}

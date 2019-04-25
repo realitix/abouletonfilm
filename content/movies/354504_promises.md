@@ -1,1 +1,0 @@
-{"tmdb_id": 354504, "title": "Promises", "original_title": "Promises", "slug_title": "promises", "date": "2003-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

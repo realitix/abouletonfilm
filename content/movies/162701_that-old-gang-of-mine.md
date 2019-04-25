@@ -1,1 +1,0 @@
-{"tmdb_id": 162701, "title": "That Old Gang of Mine", "original_title": "That Old Gang of Mine", "slug_title": "that-old-gang-of-mine", "date": "1931-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

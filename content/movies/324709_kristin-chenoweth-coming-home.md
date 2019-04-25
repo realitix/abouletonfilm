@@ -1,1 +1,0 @@
-{"tmdb_id": 324709, "title": "Kristin Chenoweth: Coming Home", "original_title": "Kristin Chenoweth: Coming Home", "slug_title": "kristin-chenoweth-coming-home", "date": "2014-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 202278, "title": "Two Little Pups", "original_title": "Two Little Pups", "slug_title": "two-little-pups", "date": "1936-04-03", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ttMurkMMEgyGrUCs8VVxytCATec.jpg", "actors": [], "comments": [], "recommandations_id": []}

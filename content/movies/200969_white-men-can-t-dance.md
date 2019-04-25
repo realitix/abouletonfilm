@@ -1,1 +1,0 @@
-{"tmdb_id": 200969, "title": "White Men Can't Dance", "original_title": "White Men Can't Dance", "slug_title": "white-men-can-t-dance", "date": "2012-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 576582, "title": "A Horse on Barney", "original_title": "A Horse on Barney", "slug_title": "a-horse-on-barney", "date": "1929-04-21", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barney Hellum (Barney Google)", "Philip Davis (Spark Plug)", "Lige Conley ()"], "comments": [], "recommandations_id": []}

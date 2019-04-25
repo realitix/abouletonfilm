@@ -1,1 +1,0 @@
-{"tmdb_id": 443851, "title": "We Only Live Twice", "original_title": "We Only Live Twice", "slug_title": "we-only-live-twice", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

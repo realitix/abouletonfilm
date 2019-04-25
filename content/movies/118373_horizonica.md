@@ -1,1 +1,0 @@
-{"tmdb_id": 118373, "title": "Horizonica", "original_title": "Horizonica", "slug_title": "horizonica", "date": "2006-09-30", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Abnb3gajVn6rHs3lMPAt9dskqI2.jpg", "actors": [], "comments": [], "recommandations_id": []}

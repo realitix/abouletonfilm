@@ -1,1 +1,0 @@
-{"tmdb_id": 272192, "title": "Donovan: The Donovan Concert - Live in L.A.", "original_title": "Donovan: The Donovan Concert - Live in L.A.", "slug_title": "donovan-the-donovan-concert-live-in-l-a", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

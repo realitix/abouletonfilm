@@ -1,1 +1,0 @@
-{"tmdb_id": 508207, "title": "Schneewei\u00dfchen und Rosenrot", "original_title": "Schneewei\u00dfchen und Rosenrot", "slug_title": "schneeweisschen-und-rosenrot", "date": "1938-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Inge Landgut ()"], "comments": [], "recommandations_id": []}

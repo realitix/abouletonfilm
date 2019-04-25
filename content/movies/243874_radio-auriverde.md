@@ -1,1 +1,0 @@
-{"tmdb_id": 243874, "title": "R\u00e1dio Auriverde", "original_title": "R\u00e1dio Auriverde", "slug_title": "radio-auriverde", "date": "1990-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q0rGooow8N7UtdvKpQd84uzRe9M.jpg", "actors": [], "comments": [], "recommandations_id": []}

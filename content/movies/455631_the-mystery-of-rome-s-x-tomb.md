@@ -1,1 +1,0 @@
-{"tmdb_id": 455631, "title": "the mystery of rome's x tomb", "original_title": "the mystery of rome's x tomb", "slug_title": "the-mystery-of-rome-s-x-tomb", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

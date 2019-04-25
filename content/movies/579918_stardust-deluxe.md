@@ -1,1 +1,0 @@
-{"tmdb_id": 579918, "title": "StarDust DeLuxe", "original_title": "StarDust DeLuxe", "slug_title": "stardust-deluxe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uriKub5U6b1wmmZrajmaENqeGNs.jpg", "actors": ["Carson Quilitzsch ()"], "comments": [], "recommandations_id": []}

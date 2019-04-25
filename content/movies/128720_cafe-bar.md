@@ -1,1 +1,0 @@
-{"tmdb_id": 128720, "title": "Caf\u00e9 Bar", "original_title": "Caf\u00e9 Bar", "slug_title": "cafe-bar", "date": "1974-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w1ZtOWGf68TxIJGtVqleCQVnEpH.jpg", "actors": [], "comments": [], "recommandations_id": [163349, 162660, 49454]}

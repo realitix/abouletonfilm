@@ -1,1 +1,0 @@
-{"tmdb_id": 499333, "title": "Greece, to me", "original_title": "Greece, to me", "slug_title": "greece-to-me", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

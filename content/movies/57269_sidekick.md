@@ -1,1 +1,0 @@
-{"tmdb_id": 57269, "title": "Sidekick", "original_title": "Sidekick", "slug_title": "sidekick", "date": "2005-10-01", "genre": "Action / Com\u00e9die / Fantastique", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1FGple9uGqhdGkbvWinfhpTdSdd.jpg", "actors": [], "comments": [], "recommandations_id": []}

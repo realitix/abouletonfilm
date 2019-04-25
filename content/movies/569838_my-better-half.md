@@ -1,1 +1,0 @@
-{"tmdb_id": 569838, "title": "My Better Half", "original_title": "\u70f9\u592b", "slug_title": "my-better-half", "date": "1993-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j8gC1JZq4r7GSNFaz2If7EfLNrb.jpg", "actors": [], "comments": [], "recommandations_id": []}

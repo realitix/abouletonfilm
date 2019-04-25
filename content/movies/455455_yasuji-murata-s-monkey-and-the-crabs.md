@@ -1,1 +1,0 @@
-{"tmdb_id": 455455, "title": "Yasuji Murata's Monkey and the Crabs", "original_title": "Sarukani-gassen", "slug_title": "yasuji-murata-s-monkey-and-the-crabs", "date": "1927-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qsPyijE7Fp6jBhSERx8elbYNbZO.jpg", "actors": [], "comments": [], "recommandations_id": []}

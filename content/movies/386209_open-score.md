@@ -1,1 +1,0 @@
-{"tmdb_id": 386209, "title": "Open Score", "original_title": "Open Score", "slug_title": "open-score", "date": "1966-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

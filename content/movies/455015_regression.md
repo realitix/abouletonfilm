@@ -1,1 +1,0 @@
-{"tmdb_id": 455015, "title": "Regression", "original_title": "Regression", "slug_title": "regression", "date": "1999-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Smith ()"], "comments": [], "recommandations_id": []}

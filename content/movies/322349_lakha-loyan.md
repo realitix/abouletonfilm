@@ -1,1 +1,1 @@
-{"tmdb_id": 322349, "title": "Lakha Loyan", "original_title": "Lakha Loyan", "slug_title": "lakha-loyan", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 322349, "title": "Lakha Loyan", "original_title": "Lakha Loyan", "slug_title": "lakha-loyan", "date": "1989-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1989 Indian Film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

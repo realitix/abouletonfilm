@@ -1,1 +1,0 @@
-{"tmdb_id": 476224, "title": "Gerrie & Louise", "original_title": "Gerrie & Louise", "slug_title": "gerrie-louise", "date": "1997-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

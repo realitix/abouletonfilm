@@ -1,1 +1,0 @@
-{"tmdb_id": 200019, "title": "Rush to Judgment", "original_title": "Rush to Judgment", "slug_title": "rush-to-judgment", "date": "1967-06-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nwH7Jg8Ezu6hbVJwsIDrJ030o3t.jpg", "actors": ["Mark Lane (Himself)"], "comments": [], "recommandations_id": []}

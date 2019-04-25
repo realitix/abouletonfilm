@@ -1,1 +1,1 @@
-{"tmdb_id": 505284, "title": "oxtutoni bareta", "original_title": "oxtutoni bareta", "slug_title": "oxtutoni-bareta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 505284, "title": "oxtutoni bareta", "original_title": "oxtutoni bareta", "slug_title": "oxtutoni-bareta", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

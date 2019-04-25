@@ -1,1 +1,0 @@
-{"tmdb_id": 341959, "title": "3D Video Game Characters Having Some Fun 2", "original_title": "3D Video Game Characters Having Some Fun 2", "slug_title": "3d-video-game-characters-having-some-fun-2", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

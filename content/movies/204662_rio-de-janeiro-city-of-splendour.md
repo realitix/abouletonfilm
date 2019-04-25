@@ -1,1 +1,0 @@
-{"tmdb_id": 204662, "title": "Rio de Janeiro 'City of Splendour'", "original_title": "Rio de Janeiro 'City of Splendour'", "slug_title": "rio-de-janeiro-city-of-splendour", "date": "1936-09-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

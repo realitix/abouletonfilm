@@ -1,1 +1,0 @@
-{"tmdb_id": 562441, "title": "Glenn Frey: Strange Weather - Live in Dublin", "original_title": "Glenn Frey: Strange Weather - Live in Dublin", "slug_title": "glenn-frey-strange-weather-live-in-dublin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Glenn Frey ()"], "comments": [], "recommandations_id": []}

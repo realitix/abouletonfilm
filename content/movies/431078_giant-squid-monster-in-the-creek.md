@@ -1,1 +1,0 @@
-{"tmdb_id": 431078, "title": "Giant Squid: Monster in the Creek", "original_title": "Giant Squid: Monster in the Creek", "slug_title": "giant-squid-monster-in-the-creek", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

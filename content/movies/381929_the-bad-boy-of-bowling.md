@@ -1,1 +1,0 @@
-{"tmdb_id": 381929, "title": "The Bad Boy of Bowling", "original_title": "The Bad Boy of Bowling", "slug_title": "the-bad-boy-of-bowling", "date": "2016-02-23", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ms87CZ7fWaUbABhQJGQRmqEdJqq.jpg", "actors": [], "comments": [], "recommandations_id": []}

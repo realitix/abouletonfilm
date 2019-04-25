@@ -1,1 +1,0 @@
-{"tmdb_id": 310672, "title": "Seeing, Searching, Being", "original_title": "Seeing, Searching, Being", "slug_title": "seeing-searching-being", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

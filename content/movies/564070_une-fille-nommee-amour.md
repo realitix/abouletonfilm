@@ -1,1 +1,0 @@
-{"tmdb_id": 564070, "title": "Une fille nomm\u00e9e Amour", "original_title": "Une fille nomm\u00e9e Amour", "slug_title": "une-fille-nommee-amour", "date": "1969-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uZlNEAiR3LGMVPO0EOULmuzG4CB.jpg", "actors": [], "comments": [], "recommandations_id": []}

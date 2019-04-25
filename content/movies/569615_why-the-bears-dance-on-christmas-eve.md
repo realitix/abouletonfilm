@@ -1,1 +1,0 @@
-{"tmdb_id": 569615, "title": "Why the Bears Dance on Christmas Eve", "original_title": "Why the Bears Dance on Christmas Eve", "slug_title": "why-the-bears-dance-on-christmas-eve", "date": "1977-12-12", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

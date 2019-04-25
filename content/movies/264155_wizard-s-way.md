@@ -1,1 +1,0 @@
-{"tmdb_id": 264155, "title": "Wizard's Way", "original_title": "Wizard's Way", "slug_title": "wizard-s-way", "date": "2014-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hpIELMuInKJqhoa7SVsDJ9EIMZR.jpg", "actors": [], "comments": [], "recommandations_id": []}

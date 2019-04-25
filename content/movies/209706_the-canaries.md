@@ -1,1 +1,0 @@
-{"tmdb_id": 209706, "title": "The Canaries", "original_title": "The Canaries", "slug_title": "the-canaries", "date": "1969-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AanJDXzDElrO2A8bDF5ltyWR9za.jpg", "actors": [], "comments": [], "recommandations_id": [289849, 255215, 255210, 352634]}

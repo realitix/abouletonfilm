@@ -1,1 +1,0 @@
-{"tmdb_id": 302284, "title": "Bigfoot Roadtrip", "original_title": "Bigfoot Roadtrip", "slug_title": "bigfoot-roadtrip", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

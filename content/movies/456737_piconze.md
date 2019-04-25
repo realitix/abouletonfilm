@@ -1,1 +1,0 @@
-{"tmdb_id": 456737, "title": "Piconz\u00e9", "original_title": "Piconz\u00e9", "slug_title": "piconze", "date": "1972-12-28", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8NPmfcoChdW2WZl13bfbEKwLuDK.jpg", "actors": [], "comments": [], "recommandations_id": []}

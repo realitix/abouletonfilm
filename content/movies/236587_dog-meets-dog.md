@@ -1,1 +1,0 @@
-{"tmdb_id": 236587, "title": "Dog Meets Dog", "original_title": "Dog Meets Dog", "slug_title": "dog-meets-dog", "date": "1942-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

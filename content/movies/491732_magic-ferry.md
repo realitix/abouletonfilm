@@ -1,1 +1,0 @@
-{"tmdb_id": 491732, "title": "Magic Ferry", "original_title": "Magic Ferry", "slug_title": "magic-ferry", "date": "2001-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hPzQw0m4aPwV2INGczQcNf9NVwK.jpg", "actors": [], "comments": [], "recommandations_id": []}

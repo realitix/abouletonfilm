@@ -1,1 +1,0 @@
-{"tmdb_id": 249122, "title": "We Don't Play Golf Here", "original_title": "We Don't Play Golf Here", "slug_title": "we-don-t-play-golf-here", "date": "2007-10-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

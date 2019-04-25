@@ -1,1 +1,0 @@
-{"tmdb_id": 259827, "title": "Incidental Traveler", "original_title": "Viajero eventual", "slug_title": "incidental-traveler", "date": "2012-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lhS230SO33LDyIyzaJxHLfX8MXC.jpg", "actors": [], "comments": [], "recommandations_id": []}

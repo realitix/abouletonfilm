@@ -1,1 +1,0 @@
-{"tmdb_id": 278566, "title": "Ray Charles: 50 Years in Music", "original_title": "Ray Charles: 50 Years in Music", "slug_title": "ray-charles-50-years-in-music", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

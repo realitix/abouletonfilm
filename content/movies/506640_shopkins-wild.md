@@ -1,1 +1,0 @@
-{"tmdb_id": 506640, "title": "Shopkins: Wild", "original_title": "Shopkins: Wild", "slug_title": "shopkins-wild", "date": "2018-04-17", "genre": "Animation", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u6SuXzWrfX5OmSznf3J175DG5X7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 417825, "title": "Dribbles", "original_title": "Dribbles", "slug_title": "dribbles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

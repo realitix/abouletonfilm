@@ -1,1 +1,0 @@
-{"tmdb_id": 196972, "title": "Le mouton noir", "original_title": "Le mouton noir", "slug_title": "le-mouton-noir", "date": "1992-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

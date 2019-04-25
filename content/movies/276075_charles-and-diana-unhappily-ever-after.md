@@ -1,1 +1,0 @@
-{"tmdb_id": 276075, "title": "Charles and Diana: Unhappily Ever After", "original_title": "Charles and Diana: Unhappily Ever After", "slug_title": "charles-and-diana-unhappily-ever-after", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tracy Brabin (sarah ferguson)"], "comments": [], "recommandations_id": []}

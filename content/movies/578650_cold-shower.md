@@ -1,1 +1,0 @@
-{"tmdb_id": 578650, "title": "Cold Shower", "original_title": "Hidegzuhany", "slug_title": "cold-shower", "date": "2010-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/98hJQnyWPxk7kBzqnmySzmikg0i.jpg", "actors": [], "comments": [], "recommandations_id": []}

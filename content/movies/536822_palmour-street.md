@@ -1,1 +1,0 @@
-{"tmdb_id": 536822, "title": "Palmour Street", "original_title": "Palmour Street", "slug_title": "palmour-street", "date": "1950-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

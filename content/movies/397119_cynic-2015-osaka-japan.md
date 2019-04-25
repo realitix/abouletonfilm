@@ -1,1 +1,0 @@
-{"tmdb_id": 397119, "title": "Cynic: [2015] Osaka, Japan", "original_title": "Cynic: [2015] Osaka, Japan", "slug_title": "cynic-2015-osaka-japan", "date": "2015-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7OLmDKDGoxydO7TgCxGi4yatEL4.jpg", "actors": [], "comments": [], "recommandations_id": []}

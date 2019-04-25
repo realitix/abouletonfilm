@@ -1,1 +1,0 @@
-{"tmdb_id": 96300, "title": "The Blue Planet", "original_title": "Il pianeta azzurro", "slug_title": "the-blue-planet", "date": "1981-03-11", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ibKUxfOk8mmccRjeFl35H35eZg2.jpg", "actors": [], "comments": [], "recommandations_id": [203226, 76388, 88302, 134220]}

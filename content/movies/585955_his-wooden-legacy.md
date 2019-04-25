@@ -1,1 +1,0 @@
-{"tmdb_id": 585955, "title": "His Wooden Legacy", "original_title": "His Wooden Legacy", "slug_title": "his-wooden-legacy", "date": "1920-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alice Howell ()", "Leo Sulky ()", "Theodore Lorch ()"], "comments": [], "recommandations_id": []}

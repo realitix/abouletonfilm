@@ -1,1 +1,0 @@
-{"tmdb_id": 304951, "title": "Level Black", "original_title": "Level Black", "slug_title": "level-black", "date": "2013-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

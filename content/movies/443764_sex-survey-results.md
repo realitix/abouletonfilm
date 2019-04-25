@@ -1,1 +1,0 @@
-{"tmdb_id": 443764, "title": "Sex Survey Results", "original_title": "Sex Survey Results", "slug_title": "sex-survey-results", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7d9IBJ9ifUP7OgbPCsm4i0YkKXS.jpg", "actors": [], "comments": [], "recommandations_id": []}

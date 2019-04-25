@@ -1,1 +1,0 @@
-{"tmdb_id": 561071, "title": "The Hole", "original_title": "The Hole", "slug_title": "the-hole", "date": "2017-06-24", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Soroosh Lavasani (Pyotr)", "Claire Lowrie (Marta)", "Simon Robinson (Josef)", "Charlie Woodward (Doctor)"], "comments": [], "recommandations_id": []}

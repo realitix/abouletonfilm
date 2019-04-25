@@ -1,1 +1,0 @@
-{"tmdb_id": 541913, "title": "Rented House", "original_title": "Addillu", "slug_title": "rented-house", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aTAcDLPbo0JJPQqONt4XIPHg1Zw.jpg", "actors": [], "comments": [], "recommandations_id": []}

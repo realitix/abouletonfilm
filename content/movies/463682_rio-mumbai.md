@@ -1,1 +1,0 @@
-{"tmdb_id": 463682, "title": "Rio Mumbai", "original_title": "Rio Mumbai", "slug_title": "rio-mumbai", "date": "2017-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hWY5FKnnRUXwC6pwuSdQtzT4K8s.jpg", "actors": ["Clara Choveaux ()", "Conrado Nilo ()", "Bruce Gomlevsky ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 254871, "title": "La ca\u00f1ada de Andrea", "original_title": "La ca\u00f1ada de Andrea", "slug_title": "la-canada-de-andrea", "date": "2014-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

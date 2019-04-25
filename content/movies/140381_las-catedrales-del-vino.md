@@ -1,1 +1,0 @@
-{"tmdb_id": 140381, "title": "Las catedrales del vino", "original_title": "Las catedrales del vino", "slug_title": "las-catedrales-del-vino", "date": "2011-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/99KWRJE5LqaueCKDvv3Ey5EirA1.jpg", "actors": [], "comments": [], "recommandations_id": []}

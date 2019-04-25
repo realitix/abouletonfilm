@@ -1,1 +1,0 @@
-{"tmdb_id": 477327, "title": "Christopher and Me", "original_title": "Christopher and Me", "slug_title": "christopher-and-me", "date": "1960-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christopher Richmond (Christopher)", "David Richmond (David)"], "comments": [], "recommandations_id": []}

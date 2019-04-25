@@ -1,1 +1,1 @@
-{"tmdb_id": 303060, "title": "Durga Shakthi", "original_title": "Durga Shakthi", "slug_title": "durga-shakthi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 303060, "title": "Durga Shakthi", "original_title": "Durga Shakthi", "slug_title": "durga-shakthi", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Film with music from Chitra", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

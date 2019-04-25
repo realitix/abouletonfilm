@@ -1,1 +1,0 @@
-{"tmdb_id": 242609, "title": "Retrato", "original_title": "Retrato", "slug_title": "retrato", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

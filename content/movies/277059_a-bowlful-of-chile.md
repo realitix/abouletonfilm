@@ -1,1 +1,0 @@
-{"tmdb_id": 277059, "title": "A Bowlful of Chile", "original_title": "A Bowlful of Chile", "slug_title": "a-bowlful-of-chile", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

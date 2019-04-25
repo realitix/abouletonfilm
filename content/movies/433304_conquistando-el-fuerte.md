@@ -1,1 +1,0 @@
-{"tmdb_id": 433304, "title": "Conquistando el fuerte", "original_title": "Conquistando el fuerte", "slug_title": "conquistando-el-fuerte", "date": "2014-11-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h1QqcqVBil3nxXx7F5lJStpqulL.jpg", "actors": [], "comments": [], "recommandations_id": []}

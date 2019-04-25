@@ -1,1 +1,0 @@
-{"tmdb_id": 445615, "title": "Mi Casa de Altos Techos", "original_title": "Mi Casa de Altos Techos", "slug_title": "mi-casa-de-altos-techos", "date": "1970-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

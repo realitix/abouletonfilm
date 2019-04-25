@@ -1,1 +1,0 @@
-{"tmdb_id": 577650, "title": "Interrogation of Enemy Airmen", "original_title": "Interrogation of Enemy Airmen", "slug_title": "interrogation-of-enemy-airmen", "date": "1943-01-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

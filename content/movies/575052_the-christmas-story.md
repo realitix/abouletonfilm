@@ -1,1 +1,0 @@
-{"tmdb_id": 575052, "title": "The Christmas Story", "original_title": "The Christmas Story", "slug_title": "the-christmas-story", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

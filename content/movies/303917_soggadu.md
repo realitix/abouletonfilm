@@ -1,1 +1,0 @@
-{"tmdb_id": 303917, "title": "Soggadu", "original_title": "Soggadu", "slug_title": "soggadu", "date": "2005-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

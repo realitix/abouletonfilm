@@ -1,1 +1,0 @@
-{"tmdb_id": 123110, "title": "H\u00e9en T\u00e1ak", "original_title": "H\u00e9en T\u00e1ak", "slug_title": "heen-taak", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bK2uMpu6Hji9pH4ZPFR2N22X1up.jpg", "actors": ["Nathalie Lasselin ((voice))"], "comments": [], "recommandations_id": []}

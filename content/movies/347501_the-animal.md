@@ -1,1 +1,0 @@
-{"tmdb_id": 347501, "title": "The Animal", "original_title": "The Animal", "slug_title": "the-animal", "date": "1976-01-01", "genre": "Horreur / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/phzXg7L2x1ma0H3yTT8hlEx4uYb.jpg", "actors": ["Paul Ickovic ()", "Jo Moore ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 224308, "title": "Dundee Police Sports", "original_title": "Dundee Police Sports", "slug_title": "dundee-police-sports", "date": "1921-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

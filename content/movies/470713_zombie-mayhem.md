@@ -1,1 +1,0 @@
-{"tmdb_id": 470713, "title": "Zombie Mayhem", "original_title": "Zombie Mayhem", "slug_title": "zombie-mayhem", "date": "", "genre": "Horreur / Com\u00e9die", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 495384, "title": "Senhora Aparecida", "original_title": "Senhora Aparecida", "slug_title": "senhora-aparecida", "date": "1994-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/LXNKkYmhXo0e7Up1rqvPdP4sCS.jpg", "actors": [], "comments": [], "recommandations_id": []}

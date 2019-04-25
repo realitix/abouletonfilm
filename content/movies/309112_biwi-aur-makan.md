@@ -1,1 +1,0 @@
-{"tmdb_id": 309112, "title": "Biwi Aur Makan", "original_title": "Biwi Aur Makan", "slug_title": "biwi-aur-makan", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

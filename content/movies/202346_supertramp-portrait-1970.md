@@ -1,1 +1,0 @@
-{"tmdb_id": 202346, "title": "Supertramp Portrait 1970", "original_title": "Supertramp Portrait 1970", "slug_title": "supertramp-portrait-1970", "date": "1970-06-18", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

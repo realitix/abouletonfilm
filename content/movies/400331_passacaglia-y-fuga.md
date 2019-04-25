@@ -1,1 +1,0 @@
-{"tmdb_id": 400331, "title": "Passacaglia y Fuga", "original_title": "Passacaglia y Fuga", "slug_title": "passacaglia-y-fuga", "date": "1975-05-30", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fEctpgDanXsh6ic41cAC5YR4Qls.jpg", "actors": [], "comments": [], "recommandations_id": []}

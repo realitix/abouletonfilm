@@ -1,1 +1,0 @@
-{"tmdb_id": 70274, "title": "The Zombie Nine", "original_title": "The Zombie Nine", "slug_title": "the-zombie-nine", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

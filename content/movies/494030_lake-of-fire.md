@@ -1,1 +1,0 @@
-{"tmdb_id": 494030, "title": "Lake of Fire", "original_title": "Lake of Fire", "slug_title": "lake-of-fire", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

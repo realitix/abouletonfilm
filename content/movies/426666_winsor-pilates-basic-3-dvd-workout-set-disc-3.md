@@ -1,1 +1,0 @@
-{"tmdb_id": 426666, "title": "Winsor Pilates Basic 3 DVD Workout Set Disc 3", "original_title": "Winsor Pilates Basic 3 DVD Workout Set Disc 3", "slug_title": "winsor-pilates-basic-3-dvd-workout-set-disc-3", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

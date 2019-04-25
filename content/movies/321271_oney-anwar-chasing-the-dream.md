@@ -1,1 +1,0 @@
-{"tmdb_id": 321271, "title": "Oney Anwar - Chasing the Dream", "original_title": "Oney Anwar - Chasing the Dream", "slug_title": "oney-anwar-chasing-the-dream", "date": "2014-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/csVzOLKH6s1t2HS0CXH7MIoD3bh.jpg", "actors": [], "comments": [], "recommandations_id": []}

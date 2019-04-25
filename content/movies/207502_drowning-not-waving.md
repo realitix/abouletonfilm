@@ -1,1 +1,0 @@
-{"tmdb_id": 207502, "title": "Drowning Not Waving", "original_title": "Drowning Not Waving", "slug_title": "drowning-not-waving", "date": "2009-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 379049, "title": "Pink Panzer", "original_title": "Pink Panzer", "slug_title": "pink-panzer", "date": "1965-09-15", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kK6oUsKcn6pjTCE6gIBMfBvmB5F.jpg", "actors": ["Paul Frees (Neighbor / Devil (voice))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 483276, "title": "Too Young", "original_title": "Too Young", "slug_title": "too-young", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7nMnC9sUendslZ7j1lQtIDOy1Pe.jpg", "actors": [], "comments": [], "recommandations_id": []}

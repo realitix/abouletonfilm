@@ -1,1 +1,0 @@
-{"tmdb_id": 78230, "title": "Doras jul", "original_title": "Doras jul", "slug_title": "doras-jul", "date": "2009-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n2J7HGB3tFbkA3LNAlSnkMRzltU.jpg", "actors": [], "comments": [], "recommandations_id": []}

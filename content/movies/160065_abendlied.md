@@ -1,1 +1,0 @@
-{"tmdb_id": 160065, "title": "Abendlied", "original_title": "Abendlied", "slug_title": "abendlied", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

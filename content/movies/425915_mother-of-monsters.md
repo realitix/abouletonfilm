@@ -1,1 +1,0 @@
-{"tmdb_id": 425915, "title": "Mother of Monsters", "original_title": "Mother of Monsters", "slug_title": "mother-of-monsters", "date": "2014-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

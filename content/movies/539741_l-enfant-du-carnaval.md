@@ -1,1 +1,0 @@
-{"tmdb_id": 539741, "title": "L'enfant du carnaval", "original_title": "L'enfant du carnaval", "slug_title": "l-enfant-du-carnaval", "date": "1934-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/143VC24n4FQ5fc2IeYY4Lvxjpqg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 142782, "title": "Citizen Black", "original_title": "Citizen Black", "slug_title": "citizen-black", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7CsgaJRv9dCtunyOcjgpjfPLQk.jpg", "actors": [], "comments": [], "recommandations_id": []}

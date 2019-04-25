@@ -1,1 +1,0 @@
-{"tmdb_id": 499331, "title": "Departure on Arrival", "original_title": "Departure on Arrival", "slug_title": "departure-on-arrival", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

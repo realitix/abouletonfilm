@@ -1,1 +1,0 @@
-{"tmdb_id": 484574, "title": "Baodao dameng", "original_title": "\u5bf6\u5cf6\u5927\u5922", "slug_title": "baodao-dameng", "date": "1994-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

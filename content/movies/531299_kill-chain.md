@@ -1,1 +1,0 @@
-{"tmdb_id": 531299, "title": "Kill Chain", "original_title": "Kill Chain", "slug_title": "kill-chain", "date": "", "genre": "Thriller", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicolas Cage ()"], "comments": [], "recommandations_id": []}

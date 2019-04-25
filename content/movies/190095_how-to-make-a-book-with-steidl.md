@@ -1,1 +1,0 @@
-{"tmdb_id": 190095, "title": "How to Make a Book with Steidl", "original_title": "How to Make a Book with Steidl", "slug_title": "how-to-make-a-book-with-steidl", "date": "2010-11-04", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4w4NcwmeYHaLBFllbWN0cKuKa21.jpg", "actors": [], "comments": [], "recommandations_id": []}

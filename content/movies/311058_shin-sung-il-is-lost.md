@@ -1,1 +1,0 @@
-{"tmdb_id": 311058, "title": "Shin Sung-il is Lost", "original_title": "\uc2e0\uc131\uc77c\uc758 \ud589\ubc29\ubd88\uba85", "slug_title": "shin-sung-il-is-lost", "date": "2006-02-16", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Un0CLCNCW0erVSFN8GfIy2WM0h.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 549228, "title": "Their Bird", "original_title": "\u5f7c\u5973\u305f\u3061\u306e\u9ce5", "slug_title": "their-bird", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/71MIy1hgLUwGdlX8SSzal1dz85f.jpg", "actors": [], "comments": [], "recommandations_id": []}

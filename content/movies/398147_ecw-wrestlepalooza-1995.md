@@ -1,1 +1,0 @@
-{"tmdb_id": 398147, "title": "ECW Wrestlepalooza 1995", "original_title": "ECW Wrestlepalooza 1995", "slug_title": "ecw-wrestlepalooza-1995", "date": "1995-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

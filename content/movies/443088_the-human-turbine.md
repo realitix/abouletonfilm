@@ -1,1 +1,0 @@
-{"tmdb_id": 443088, "title": "The Human Turbine", "original_title": "Ha-Turbina Ha-Enosheet", "slug_title": "the-human-turbine", "date": "2010-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mdSYAFQL07tMZ0MFthoNUOKUia4.jpg", "actors": [], "comments": [], "recommandations_id": []}

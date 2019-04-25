@@ -1,1 +1,0 @@
-{"tmdb_id": 502407, "title": "Fughe e approdi", "original_title": "Fughe e approdi", "slug_title": "fughe-e-approdi", "date": "2010-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

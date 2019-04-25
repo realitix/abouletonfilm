@@ -1,1 +1,0 @@
-{"tmdb_id": 374240, "title": "ManIslam: Islam and Masculinity", "original_title": "ManIslam: Islam and Masculinity", "slug_title": "manislam-islam-and-masculinity", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

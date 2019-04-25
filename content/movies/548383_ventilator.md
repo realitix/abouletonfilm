@@ -1,1 +1,0 @@
-{"tmdb_id": 548383, "title": "Ventilator", "original_title": "Ventilator", "slug_title": "ventilator", "date": "2018-09-14", "genre": "Familial / Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pratik Gandhi (Prashant)"], "comments": [], "recommandations_id": []}

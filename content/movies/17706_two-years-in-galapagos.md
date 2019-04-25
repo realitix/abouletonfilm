@@ -1,1 +1,0 @@
-{"tmdb_id": 17706, "title": "Two Years In Galapagos", "original_title": "Two Years In Galapagos", "slug_title": "two-years-in-galapagos", "date": "1999-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sZYEcVGiQJu2ddAkji7Xb169GbR.jpg", "actors": [], "comments": [], "recommandations_id": []}

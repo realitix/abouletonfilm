@@ -1,1 +1,0 @@
-{"tmdb_id": 444770, "title": "Hot Leatherette", "original_title": "Hot Leatherette", "slug_title": "hot-leatherette", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

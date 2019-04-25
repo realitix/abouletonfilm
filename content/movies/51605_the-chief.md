@@ -1,1 +1,0 @@
-{"tmdb_id": 51605, "title": "The Chief", "original_title": "The Chief", "slug_title": "the-chief", "date": "2010-10-15", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mzJVW01gx5tp74TVhwellSoiDC4.jpg", "actors": ["Tom Atkins (Art Rooney)"], "comments": [], "recommandations_id": []}

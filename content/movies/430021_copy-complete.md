@@ -1,1 +1,0 @@
-{"tmdb_id": 430021, "title": "Copy Complete", "original_title": "Copy Complete", "slug_title": "copy-complete", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eauTPspK1ybI3GxrIC0FLAE31b4.jpg", "actors": [], "comments": [], "recommandations_id": []}

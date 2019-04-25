@@ -1,1 +1,0 @@
-{"tmdb_id": 522588, "title": "The Penis Extension Clinic", "original_title": "The Penis Extension Clinic", "slug_title": "the-penis-extension-clinic", "date": "2016-06-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

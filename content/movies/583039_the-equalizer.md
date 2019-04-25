@@ -1,1 +1,0 @@
-{"tmdb_id": 583039, "title": "The Equalizer", "original_title": "The Equalizer", "slug_title": "the-equalizer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fTsMYulYA1RTvsoiUBNuVu2AJmc.jpg", "actors": [], "comments": [], "recommandations_id": []}

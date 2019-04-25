@@ -1,1 +1,0 @@
-{"tmdb_id": 358230, "title": "Flower Fields", "original_title": "Flower Fields", "slug_title": "flower-fields", "date": "1974-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jUNNBVgQ0SzJo8dsK6PaPtHZFq8.jpg", "actors": [], "comments": [], "recommandations_id": []}

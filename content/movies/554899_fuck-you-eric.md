@@ -1,1 +1,0 @@
-{"tmdb_id": 554899, "title": "Fuck You Eric", "original_title": "Fuck You \u00c9ric", "slug_title": "fuck-you-eric", "date": "2018-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emma Troughton ()", "Jean-Christophe Leblanc ()"], "comments": [], "recommandations_id": []}

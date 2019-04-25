@@ -1,1 +1,0 @@
-{"tmdb_id": 263517, "title": "Meat Loaf - Live in Dublin", "original_title": "Meat Loaf - Live in Dublin", "slug_title": "meat-loaf-live-in-dublin", "date": "2010-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

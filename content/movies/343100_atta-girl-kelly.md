@@ -1,1 +1,0 @@
-{"tmdb_id": 343100, "title": "Atta Girl, Kelly!", "original_title": "Atta Girl, Kelly!", "slug_title": "atta-girl-kelly", "date": "1967-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/di6S8MH5JWUhr67344GdEL7UXNv.jpg", "actors": [], "comments": [], "recommandations_id": []}

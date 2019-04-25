@@ -1,1 +1,0 @@
-{"tmdb_id": 378904, "title": "Oro espa\u00f1ol", "original_title": "Oro espa\u00f1ol", "slug_title": "oro-espanol", "date": "1959-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lola Cervantes (Voice)", "Rafael Dur\u00e1n (Voice)"], "comments": [], "recommandations_id": []}

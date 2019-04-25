@@ -1,1 +1,0 @@
-{"tmdb_id": 592793, "title": "Goodbye Mister Wong", "original_title": "Goodbye Mister Wong", "slug_title": "goodbye-mister-wong", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nini Phonesavanh Vilivong ()", "Marc Barb\u00e9 ()", "Nathalie Richard ()"], "comments": [], "recommandations_id": []}

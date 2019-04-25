@@ -1,1 +1,0 @@
-{"tmdb_id": 397287, "title": "Carmen Miranda", "original_title": "Carmen Miranda", "slug_title": "carmen-miranda", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7GekkGjttU0E0fiG1EuFaZRrfDx.jpg", "actors": ["Carmen Miranda (Herself)"], "comments": [], "recommandations_id": []}

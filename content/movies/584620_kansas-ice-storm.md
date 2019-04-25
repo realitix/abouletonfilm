@@ -1,1 +1,0 @@
-{"tmdb_id": 584620, "title": "Kansas Ice Storm", "original_title": "Kansas Ice Storm", "slug_title": "kansas-ice-storm", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

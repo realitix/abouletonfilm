@@ -1,1 +1,0 @@
-{"tmdb_id": 377270, "title": "Tarot - Undead Indeed", "original_title": "Tarot - Undead Indeed", "slug_title": "tarot-undead-indeed", "date": "2008-08-19", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mDFRUdRZuzhThjI2Rei4GBsLAsJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 408177, "title": "Teresa, the Woman Who Loves Men 2", "original_title": "Teresa, the Woman Who Loves Men 2", "slug_title": "teresa-the-woman-who-loves-men-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h9JCj2cS6bOYrO2R1ympzNWAZ7G.jpg", "actors": [], "comments": [], "recommandations_id": []}

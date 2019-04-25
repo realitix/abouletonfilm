@@ -1,1 +1,0 @@
-{"tmdb_id": 386596, "title": "The Street of Everlasting Rain", "original_title": "The Street of Everlasting Rain", "slug_title": "the-street-of-everlasting-rain", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

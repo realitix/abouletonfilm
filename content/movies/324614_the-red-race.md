@@ -1,1 +1,0 @@
-{"tmdb_id": 324614, "title": "The Red Race", "original_title": "The Red Race", "slug_title": "the-red-race", "date": "2008-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

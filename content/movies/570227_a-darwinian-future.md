@@ -1,1 +1,0 @@
-{"tmdb_id": 570227, "title": "A Darwinian Future", "original_title": "A Darwinian Future", "slug_title": "a-darwinian-future", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Satisha Shivapura (James Thatcher)", "Pramod Nath (Narrator / Guy on the street / SIM dealer)"], "comments": [], "recommandations_id": []}

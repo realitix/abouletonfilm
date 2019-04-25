@@ -1,1 +1,0 @@
-{"tmdb_id": 503145, "title": "Cineforon", "original_title": "Cineforon", "slug_title": "cineforon", "date": "1973-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 176435, "title": "Felix All Balled Up", "original_title": "Felix All Balled Up", "slug_title": "felix-all-balled-up", "date": "1924-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

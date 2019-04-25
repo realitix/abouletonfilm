@@ -1,1 +1,0 @@
-{"tmdb_id": 344207, "title": "Rhapsody in Blue", "original_title": "Rhapsody in Blue", "slug_title": "rhapsody-in-blue", "date": "2000-01-01", "genre": "", "score": "8.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 163148, "title": "Dengeki Bunko 2007 Movie Festival Special", "original_title": "Dengeki Bunko 2007 Movie Festival Special", "slug_title": "dengeki-bunko-2007-movie-festival-special", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

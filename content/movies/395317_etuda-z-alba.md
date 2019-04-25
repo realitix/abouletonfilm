@@ -1,1 +1,0 @@
-{"tmdb_id": 395317, "title": "Etuda z alba", "original_title": "Etuda z alba", "slug_title": "etuda-z-alba", "date": "1987-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

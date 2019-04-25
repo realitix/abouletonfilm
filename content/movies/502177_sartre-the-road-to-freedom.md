@@ -1,1 +1,0 @@
-{"tmdb_id": 502177, "title": "Sartre - The Road to Freedom", "original_title": "Sartre - The Road to Freedom", "slug_title": "sartre-the-road-to-freedom", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

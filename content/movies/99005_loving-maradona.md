@@ -1,1 +1,0 @@
-{"tmdb_id": 99005, "title": "Loving Maradona", "original_title": "Amando a Maradona", "slug_title": "loving-maradona", "date": "2005-12-22", "genre": "Documentaire", "score": "5.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nJR63P6xQlndDco0wE7qZURaXEd.jpg", "actors": ["Diego Maradona (Himself)"], "comments": [], "recommandations_id": []}

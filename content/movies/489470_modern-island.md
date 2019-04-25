@@ -1,1 +1,0 @@
-{"tmdb_id": 489470, "title": "Modern Island", "original_title": "Modern Island", "slug_title": "modern-island", "date": "2011-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dXvODo2InhwTQTmUwAE0p8fZ1p9.jpg", "actors": [], "comments": [], "recommandations_id": []}

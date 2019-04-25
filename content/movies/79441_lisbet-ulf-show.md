@@ -1,1 +1,0 @@
-{"tmdb_id": 79441, "title": "Lisbet & Ulf show", "original_title": "Lisbet og Ulf show", "slug_title": "lisbet-ulf-show", "date": "2010-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t7O0zxf4pwNlr60aYvbxyur57if.jpg", "actors": ["Lisbet Dahl ()", "Ulf Pilgaard ()"], "comments": [], "recommandations_id": []}

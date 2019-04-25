@@ -1,1 +1,0 @@
-{"tmdb_id": 580831, "title": "Celui qui aime a raison", "original_title": "Celui qui aime a raison", "slug_title": "celui-qui-aime-a-raison", "date": "2006-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iBivrS8YVAK6TRGOnjGtZwcPMIa.jpg", "actors": [], "comments": [], "recommandations_id": []}

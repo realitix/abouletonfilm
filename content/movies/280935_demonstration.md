@@ -1,1 +1,0 @@
-{"tmdb_id": 280935, "title": "Demonstration", "original_title": "Demonstration", "slug_title": "demonstration", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

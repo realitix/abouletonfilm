@@ -1,1 +1,0 @@
-{"tmdb_id": 325948, "title": "Glauser", "original_title": "Glauser", "slug_title": "glauser", "date": "2012-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

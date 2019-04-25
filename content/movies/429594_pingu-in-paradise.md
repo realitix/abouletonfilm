@@ -1,1 +1,0 @@
-{"tmdb_id": 429594, "title": "Pingu In Paradise", "original_title": "Pingu In Paradise", "slug_title": "pingu-in-paradise", "date": "2004-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vTNr8YoMOi8GflhfOT2sUwsZlNY.jpg", "actors": [], "comments": [], "recommandations_id": []}

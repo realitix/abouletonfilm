@@ -1,1 +1,0 @@
-{"tmdb_id": 355767, "title": "The Kingdom of Flowers", "original_title": "Le Royaume des Fleurs", "slug_title": "the-kingdom-of-flowers", "date": "1910-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ilnPECA1BMonoAJ4Ecj6cvZtDLp.jpg", "actors": [], "comments": [], "recommandations_id": []}

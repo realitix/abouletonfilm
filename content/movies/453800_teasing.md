@@ -1,1 +1,0 @@
-{"tmdb_id": 453800, "title": "Teasing", "original_title": "Teasing", "slug_title": "teasing", "date": "1905-04-22", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

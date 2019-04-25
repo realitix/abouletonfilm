@@ -1,1 +1,0 @@
-{"tmdb_id": 296489, "title": "Bite Size", "original_title": "Bite Size", "slug_title": "bite-size", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

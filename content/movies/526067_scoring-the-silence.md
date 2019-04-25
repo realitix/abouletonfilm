@@ -1,1 +1,0 @@
-{"tmdb_id": 526067, "title": "Scoring the Silence", "original_title": "Scoring the Silence", "slug_title": "scoring-the-silence", "date": "2006-02-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Howard Shore (Interviewee)"], "comments": [], "recommandations_id": []}

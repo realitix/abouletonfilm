@@ -1,1 +1,0 @@
-{"tmdb_id": 550391, "title": "Liquid Soul", "original_title": "Liquid Soul", "slug_title": "liquid-soul", "date": "2018-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

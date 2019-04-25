@@ -1,1 +1,0 @@
-{"tmdb_id": 364830, "title": "The Champions", "original_title": "The Champions", "slug_title": "the-champions", "date": "2015-11-06", "genre": "Documentaire", "score": "7.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/crgBPX7q2pbKCEVMgNefrWgB9Qe.jpg", "actors": [], "comments": [], "recommandations_id": []}

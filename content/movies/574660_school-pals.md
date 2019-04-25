@@ -1,1 +1,0 @@
-{"tmdb_id": 574660, "title": "School Pals", "original_title": "School Pals", "slug_title": "school-pals", "date": "1924-01-13", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

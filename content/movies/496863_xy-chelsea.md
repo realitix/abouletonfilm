@@ -1,1 +1,0 @@
-{"tmdb_id": 496863, "title": "XY Chelsea", "original_title": "XY Chelsea", "slug_title": "xy-chelsea", "date": "2019-05-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jmOFEqNawwSN9tX2DF3leUSYXxk.jpg", "actors": ["Chelsea Manning (Herself)"], "comments": [], "recommandations_id": []}

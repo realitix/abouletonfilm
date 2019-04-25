@@ -1,1 +1,0 @@
-{"tmdb_id": 242793, "title": "Stick It in Your Ear", "original_title": "Stick It in Your Ear", "slug_title": "stick-it-in-your-ear", "date": "1970-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pFD3cGoKnCVWEEQqJXfUo4sFOGA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 454348, "title": "Dresden", "original_title": "Dresden", "slug_title": "dresden", "date": "1946-09-14", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 217767, "title": "Dear Governor Cuomo", "original_title": "Dear Governor Cuomo", "slug_title": "dear-governor-cuomo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5HZxcxfVTdkvLBvEf1H40SwqGL0.jpg", "actors": [], "comments": [], "recommandations_id": []}

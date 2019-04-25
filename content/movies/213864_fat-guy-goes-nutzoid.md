@@ -1,1 +1,0 @@
-{"tmdb_id": 213864, "title": "Fat Guy Goes Nutzoid", "original_title": "Zeisters", "slug_title": "fat-guy-goes-nutzoid", "date": "1986-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/52ASQsCZPgpzijgh2dIcDipaRR7.jpg", "actors": ["Mark Alfred (Norman)", "Joan Allen (Lala)"], "comments": [], "recommandations_id": []}

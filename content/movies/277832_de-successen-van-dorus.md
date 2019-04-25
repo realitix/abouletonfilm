@@ -1,1 +1,0 @@
-{"tmdb_id": 277832, "title": "De Successen van Dorus", "original_title": "De Successen van Dorus", "slug_title": "de-successen-van-dorus", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/brNFonqvfQHeaH45YSP2A3ur4iC.jpg", "actors": ["Tom Manders (Dorus)"], "comments": [], "recommandations_id": []}

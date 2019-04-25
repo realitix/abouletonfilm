@@ -1,1 +1,0 @@
-{"tmdb_id": 350053, "title": "Heavyweight", "original_title": "Sv\u00e6rv\u00e6gter", "slug_title": "heavyweight", "date": "2014-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nOIzll5vw8Hy6mOWGwUQrCqJLSn.jpg", "actors": [], "comments": [], "recommandations_id": []}

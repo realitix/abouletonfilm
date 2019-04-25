@@ -1,1 +1,0 @@
-{"tmdb_id": 131798, "title": "CCCP Hockey", "original_title": "CCCP Hockey", "slug_title": "cccp-hockey", "date": "2004-04-28", "genre": "T\u00e9l\u00e9film / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sO27Gy6B2cE7E28EP1w2CJbGBOJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

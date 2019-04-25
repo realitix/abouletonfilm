@@ -1,1 +1,0 @@
-{"tmdb_id": 116934, "title": "La leyenda de Pulgarcita", "original_title": "La leyenda de Pulgarcita", "slug_title": "la-leyenda-de-pulgarcita", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ey7JVPOdEuuDe8moTCNaeCvPZ6k.jpg", "actors": [], "comments": [], "recommandations_id": []}

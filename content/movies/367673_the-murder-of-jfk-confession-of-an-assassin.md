@@ -1,1 +1,0 @@
-{"tmdb_id": 367673, "title": "The murder of JFK: Confession of an Assassin", "original_title": "The murder of JFK: Confession of an Assassin", "slug_title": "the-murder-of-jfk-confession-of-an-assassin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

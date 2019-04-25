@@ -1,1 +1,0 @@
-{"tmdb_id": 467907, "title": "The Sandman", "original_title": "The Sandman", "slug_title": "the-sandman", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wYGIfvYbKerB3fRsB1EZTadER55.jpg", "actors": [], "comments": [], "recommandations_id": []}

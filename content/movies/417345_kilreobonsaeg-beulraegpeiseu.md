@@ -1,1 +1,0 @@
-{"tmdb_id": 417345, "title": "\ud0ac\ub7ec\ubcf8\uc0c9: \ube14\ub799\ud398\uc774\uc2a4", "original_title": "\ud0ac\ub7ec\ubcf8\uc0c9: \ube14\ub799\ud398\uc774\uc2a4", "slug_title": "kilreobonsaeg-beulraegpeiseu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

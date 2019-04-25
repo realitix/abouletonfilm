@@ -1,1 +1,0 @@
-{"tmdb_id": 349130, "title": "The Challenge to Death", "original_title": "El desaf\u00edo a la muerte", "slug_title": "the-challenge-to-death", "date": "2001-07-17", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zNfaeMHWJMjbpqVeK5XpTADL6N5.jpg", "actors": [], "comments": [], "recommandations_id": []}

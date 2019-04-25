@@ -1,1 +1,0 @@
-{"tmdb_id": 504030, "title": "Gala Nhac Viet 9", "original_title": "Gala Nhac Viet 9", "slug_title": "gala-nhac-viet-9", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5jHSlRnxfjV3qHtErZOuVDvveop.jpg", "actors": [], "comments": [], "recommandations_id": []}

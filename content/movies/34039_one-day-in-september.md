@@ -1,1 +1,0 @@
-{"tmdb_id": 34039, "title": "One Day In September", "original_title": "One Day In September", "slug_title": "one-day-in-september", "date": "2008-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Murat Akguel (Majito)", "Dean Mabelson (Truck Driver)", "Dara Sepehri (Giamo)"], "comments": [], "recommandations_id": []}

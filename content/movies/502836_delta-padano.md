@@ -1,1 +1,0 @@
-{"tmdb_id": 502836, "title": "Delta Padano", "original_title": "Delta Padano", "slug_title": "delta-padano", "date": "1951-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

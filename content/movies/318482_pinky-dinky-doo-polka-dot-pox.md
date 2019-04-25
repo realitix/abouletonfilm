@@ -1,1 +1,0 @@
-{"tmdb_id": 318482, "title": "Pinky Dinky Doo: Polka Dot Pox", "original_title": "Pinky Dinky Doo: Polka Dot Pox", "slug_title": "pinky-dinky-doo-polka-dot-pox", "date": "2008-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 378326, "title": "Fringe Party", "original_title": "Fringe Party", "slug_title": "fringe-party", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

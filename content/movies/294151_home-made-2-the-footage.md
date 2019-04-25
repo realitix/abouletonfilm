@@ -1,1 +1,0 @@
-{"tmdb_id": 294151, "title": "Home Made 2. the footage.", "original_title": "Home Made 2. the footage.", "slug_title": "home-made-2-the-footage", "date": "2009-07-10", "genre": "Horreur", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5j1ATXCINVlZKPcfM9TXIixLXhm.jpg", "actors": [], "comments": [], "recommandations_id": []}

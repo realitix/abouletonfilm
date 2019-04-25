@@ -1,1 +1,0 @@
-{"tmdb_id": 556571, "title": "HVALAGAPET", "original_title": "HVALAGAPET", "slug_title": "hvalagapet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j0JS67CEqEt0yZzcTemcUAzoF9M.jpg", "actors": ["Sina H\u00e5land (Rikke)", "Sivert Goa (Dani)"], "comments": [], "recommandations_id": []}

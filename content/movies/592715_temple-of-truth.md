@@ -1,1 +1,0 @@
-{"tmdb_id": 592715, "title": "Temple of Truth", "original_title": "Temple of Truth", "slug_title": "temple-of-truth", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

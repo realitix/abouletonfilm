@@ -1,1 +1,0 @@
-{"tmdb_id": 568128, "title": "Lien de parent\u00e9", "original_title": "Lien de parent\u00e9", "slug_title": "lien-de-parente", "date": "1986-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2LleQUhC93ohGXSbqRwAiBxq6QM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 138758, "title": "Fight Batman, Fight!", "original_title": "Fight Batman, Fight!", "slug_title": "fight-batman-fight", "date": "1976-12-05", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xgeCoWaT3kgW5QhbISEwiBgnjRX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 551515, "title": "West Country Journey", "original_title": "West Country Journey", "slug_title": "west-country-journey", "date": "1953-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

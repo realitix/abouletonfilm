@@ -1,1 +1,0 @@
-{"tmdb_id": 496803, "title": "Dora p\u00e5 Lammholm", "original_title": "Dora p\u00e5 Lammholm", "slug_title": "dora-pa-lammholm", "date": "2013-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qr4aqWJ9BL6QiCQFACnGiIg5Fvs.jpg", "actors": [], "comments": [], "recommandations_id": []}

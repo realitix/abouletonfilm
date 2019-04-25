@@ -1,1 +1,0 @@
-{"tmdb_id": 157513, "title": "Pixillation", "original_title": "Pixillation", "slug_title": "pixillation", "date": "1970-01-01", "genre": "Musique / Animation", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2sFD2OI7OUIbuyabXc5mnMGLs16.jpg", "actors": [], "comments": [], "recommandations_id": [200525, 87197, 147391]}

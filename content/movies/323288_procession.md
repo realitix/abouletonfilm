@@ -1,1 +1,0 @@
-{"tmdb_id": 323288, "title": "Procession", "original_title": "Procession", "slug_title": "procession", "date": "1896-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

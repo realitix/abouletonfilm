@@ -1,1 +1,0 @@
-{"tmdb_id": 409546, "title": "The Hunting of the Snark", "original_title": "The Hunting of the Snark", "slug_title": "the-hunting-of-the-snark", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

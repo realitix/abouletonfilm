@@ -1,1 +1,0 @@
-{"tmdb_id": 37666, "title": "Speed Tribe", "original_title": "Speed Tribe", "slug_title": "speed-tribe", "date": "2007-07-16", "genre": "Action", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5fMWUJ8zwrIJIPtNxQP65r4c0Wo.jpg", "actors": [], "comments": [], "recommandations_id": []}

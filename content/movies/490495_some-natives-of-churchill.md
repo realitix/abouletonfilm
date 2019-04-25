@@ -1,1 +1,0 @@
-{"tmdb_id": 490495, "title": "Some Natives of Churchill", "original_title": "Some Natives of Churchill", "slug_title": "some-natives-of-churchill", "date": "1973-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/by5LLIcD5k2uYQJW1PQTRZ0my8s.jpg", "actors": [], "comments": [], "recommandations_id": []}

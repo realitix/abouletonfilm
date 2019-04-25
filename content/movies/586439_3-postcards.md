@@ -1,1 +1,0 @@
-{"tmdb_id": 586439, "title": "3 Postcards", "original_title": "3 Postcards", "slug_title": "3-postcards", "date": "2015-03-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qbRnQY7GejTR7Q4B6crVbrF6csM.jpg", "actors": [], "comments": [], "recommandations_id": []}

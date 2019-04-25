@@ -1,1 +1,0 @@
-{"tmdb_id": 409431, "title": "On\u00e9sime et l'\u00e9tudiante", "original_title": "On\u00e9sime et l'\u00e9tudiante", "slug_title": "onesime-et-l-etudiante", "date": "1912-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernest Bourbon (On\u00e9sime)", "Gaston Modot ()"], "comments": [], "recommandations_id": []}

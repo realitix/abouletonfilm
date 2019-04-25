@@ -1,1 +1,0 @@
-{"tmdb_id": 511143, "title": "Sweet Childhood", "original_title": "Sweet Childhood", "slug_title": "sweet-childhood", "date": "2017-09-15", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2f5smEWhrnWekFVwWweYsk7p8OS.jpg", "actors": [], "comments": [], "recommandations_id": []}

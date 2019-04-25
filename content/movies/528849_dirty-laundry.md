@@ -1,1 +1,0 @@
-{"tmdb_id": 528849, "title": "Dirty Laundry", "original_title": "Dirty Laundry", "slug_title": "dirty-laundry", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

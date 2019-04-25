@@ -1,1 +1,0 @@
-{"tmdb_id": 429525, "title": "Without Charity", "original_title": "Without Charity", "slug_title": "without-charity", "date": "2013-08-01", "genre": "Crime / Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z2OJXUW0ao17eEumJ9e79Wc4t1O.jpg", "actors": [], "comments": [], "recommandations_id": []}

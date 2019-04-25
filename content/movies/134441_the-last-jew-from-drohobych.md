@@ -1,1 +1,0 @@
-{"tmdb_id": 134441, "title": "The Last Jew from Drohobych", "original_title": "The Last Jew from Drohobych", "slug_title": "the-last-jew-from-drohobych", "date": "2010-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alfred Schreyer (Himself)"], "comments": [], "recommandations_id": []}

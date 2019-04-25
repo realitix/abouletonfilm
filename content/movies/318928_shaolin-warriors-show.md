@@ -1,1 +1,0 @@
-{"tmdb_id": 318928, "title": "Shaolin Warriors Show", "original_title": "Shaolin Warriors Show", "slug_title": "shaolin-warriors-show", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j90jFYKQnPXpb8nqdWMfq17zcVM.jpg", "actors": [], "comments": [], "recommandations_id": []}

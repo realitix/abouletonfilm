@@ -1,1 +1,0 @@
-{"tmdb_id": 340322, "title": "carte noire", "original_title": "carte noire", "slug_title": "carte-noire", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bgRPQ5WLlycsD3sOmJps55KPAZW.jpg", "actors": [], "comments": [], "recommandations_id": []}

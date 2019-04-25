@@ -1,1 +1,0 @@
-{"tmdb_id": 568358, "title": "Onyx - Kings of the Grail", "original_title": "Onyx, Los Reyes del Grial", "slug_title": "onyx-kings-of-the-grail", "date": "2019-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lldEvGXpct6QgxK8tf8gpZAi2de.jpg", "actors": [], "comments": [], "recommandations_id": []}

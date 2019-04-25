@@ -1,1 +1,0 @@
-{"tmdb_id": 526903, "title": "Epilogue", "original_title": "\u042d\u043f\u0438\u043b\u043e\u0433", "slug_title": "epilogue", "date": "2015-04-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Margarita Tolstoganova (Natasha)", "Aleksandr Ratnikov ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 236941, "title": "Pitchin' Woo at the Zoo", "original_title": "Pitchin' Woo at the Zoo", "slug_title": "pitchin-woo-at-the-zoo", "date": "1944-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

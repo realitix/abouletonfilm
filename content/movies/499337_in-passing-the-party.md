@@ -1,1 +1,0 @@
-{"tmdb_id": 499337, "title": "In Passing - The Party", "original_title": "In Passing - The Party", "slug_title": "in-passing-the-party", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 435271, "title": "Bungle Uncle", "original_title": "Bungle Uncle", "slug_title": "bungle-uncle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/heE2Df0Hf2p9AHSndae291etVqY.jpg", "actors": [], "comments": [], "recommandations_id": []}

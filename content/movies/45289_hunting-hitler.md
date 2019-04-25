@@ -1,1 +1,0 @@
-{"tmdb_id": 45289, "title": "Hunting Hitler", "original_title": "Hunting Hitler", "slug_title": "hunting-hitler", "date": "2009-05-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bmqSuIuMdVCglutrCTYx793a3fP.jpg", "actors": ["Nigel Turner (Himself)"], "comments": [], "recommandations_id": []}

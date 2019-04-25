@@ -1,1 +1,0 @@
-{"tmdb_id": 438649, "title": "Wedding: A Film", "original_title": "Wedding: A Film", "slug_title": "wedding-a-film", "date": "2015-09-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/MbiHIHN679bb7NUUMkvkQvFY5x.jpg", "actors": [], "comments": [], "recommandations_id": []}

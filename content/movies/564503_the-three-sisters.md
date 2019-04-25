@@ -1,1 +1,0 @@
-{"tmdb_id": 564503, "title": "The Three Sisters", "original_title": "The Three Sisters", "slug_title": "the-three-sisters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

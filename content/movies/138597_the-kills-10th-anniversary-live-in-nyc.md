@@ -1,1 +1,0 @@
-{"tmdb_id": 138597, "title": "The Kills - 10th Anniversary \u2018Live in NYC\u2019", "original_title": "The Kills - 10th Anniversary \u2018Live in NYC\u2019", "slug_title": "the-kills-10th-anniversary-live-in-nyc", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

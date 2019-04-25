@@ -1,1 +1,0 @@
-{"tmdb_id": 316646, "title": "Silly Superstition", "original_title": "Silly Superstition", "slug_title": "silly-superstition", "date": "1939-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mel Blanc (Lil' Eightball)"], "comments": [], "recommandations_id": []}

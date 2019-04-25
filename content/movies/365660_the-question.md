@@ -1,1 +1,0 @@
-{"tmdb_id": 365660, "title": "The Question", "original_title": "The Question", "slug_title": "the-question", "date": "1967-01-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nTfNMVri02rkMkF822MArmVO3YK.jpg", "actors": [], "comments": [], "recommandations_id": []}

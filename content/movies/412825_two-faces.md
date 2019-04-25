@@ -1,1 +1,0 @@
-{"tmdb_id": 412825, "title": "TWO FACES", "original_title": "TWO FACES", "slug_title": "two-faces", "date": "", "genre": "Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sV8hFSmqq3f6A2tizS2mP86sohr.jpg", "actors": ["TANIYAA MEHTA (RIYA)", "SHUBHAM (ANAND)"], "comments": [], "recommandations_id": []}

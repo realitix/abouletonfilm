@@ -1,1 +1,0 @@
-{"tmdb_id": 254428, "title": "My Friend Friedrich", "original_title": "My Friend Friedrich", "slug_title": "my-friend-friedrich", "date": "2003-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nathan Gorelick ()"], "comments": [], "recommandations_id": []}

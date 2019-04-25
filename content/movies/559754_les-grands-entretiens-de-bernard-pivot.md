@@ -1,1 +1,0 @@
-{"tmdb_id": 559754, "title": "Les grands entretiens de Bernard Pivot", "original_title": "Les grands entretiens de Bernard Pivot", "slug_title": "les-grands-entretiens-de-bernard-pivot", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Michel Tournier", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

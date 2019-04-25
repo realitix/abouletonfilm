@@ -1,1 +1,0 @@
-{"tmdb_id": 451573, "title": "Wonderful World", "original_title": "\u30ef\u30f3\u30c0\u30d5\u30eb\u30fb\u30ef\u30fc\u30eb\u30c9", "slug_title": "wonderful-world", "date": "2010-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 253166, "title": "Doomsday", "original_title": "Doomsday", "slug_title": "doomsday", "date": "1938-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Kay (Gandy Goose (voice))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 391229, "title": "Chromatic", "original_title": "Chromatic", "slug_title": "chromatic", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

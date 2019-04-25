@@ -1,1 +1,0 @@
-{"tmdb_id": 548970, "title": "Numen Lumen", "original_title": "Numen Lumen", "slug_title": "numen-lumen", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

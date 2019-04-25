@@ -1,1 +1,0 @@
-{"tmdb_id": 159452, "title": "Halloween On 6th Street", "original_title": "Halloween On 6th Street", "slug_title": "halloween-on-6th-street", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kfX6kVK9Q4wFDAb6W4NTLU2BsNa.jpg", "actors": [], "comments": [], "recommandations_id": []}

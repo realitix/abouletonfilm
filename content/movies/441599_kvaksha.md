@@ -1,1 +1,0 @@
-{"tmdb_id": 441599, "title": "\u041a\u0432\u0430\u043a\u0448\u0430", "original_title": "\u041a\u0432\u0430\u043a\u0448\u0430", "slug_title": "kvaksha", "date": "1979-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/76Wm23RUW3xU5oaf4KeXjfRyfR1.jpg", "actors": [], "comments": [], "recommandations_id": []}

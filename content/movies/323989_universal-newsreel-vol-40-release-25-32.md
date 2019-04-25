@@ -1,1 +1,0 @@
-{"tmdb_id": 323989, "title": "Universal Newsreel Vol. 40 Release 25-32", "original_title": "Universal Newsreel Vol. 40 Release 25-32", "slug_title": "universal-newsreel-vol-40-release-25-32", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 386399, "title": "Open Letter to All the Terrorists in the World", "original_title": "Open Letter to All the Terrorists in the World", "slug_title": "open-letter-to-all-the-terrorists-in-the-world", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

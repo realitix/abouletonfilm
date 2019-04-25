@@ -1,1 +1,0 @@
-{"tmdb_id": 477101, "title": "Glamour Girls", "original_title": "Glamour Girls", "slug_title": "glamour-girls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

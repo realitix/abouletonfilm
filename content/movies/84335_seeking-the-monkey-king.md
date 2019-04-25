@@ -1,1 +1,0 @@
-{"tmdb_id": 84335, "title": "Seeking the Monkey King", "original_title": "Seeking the Monkey King", "slug_title": "seeking-the-monkey-king", "date": "2011-10-07", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nhJqpTqPxwosP4kfUjIfjF80Wpn.jpg", "actors": [], "comments": [], "recommandations_id": []}

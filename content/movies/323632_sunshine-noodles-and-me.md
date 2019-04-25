@@ -1,1 +1,0 @@
-{"tmdb_id": 323632, "title": "Sunshine, Noodles and Me", "original_title": "Sunshine, Noodles and Me", "slug_title": "sunshine-noodles-and-me", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

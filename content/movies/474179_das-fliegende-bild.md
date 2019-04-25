@@ -1,1 +1,0 @@
-{"tmdb_id": 474179, "title": "Das fliegende Bild", "original_title": "Das fliegende Bild", "slug_title": "das-fliegende-bild", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f6rFgGgz9Lan7g9jjTNWgMesZCY.jpg", "actors": [], "comments": [], "recommandations_id": []}

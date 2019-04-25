@@ -1,1 +1,0 @@
-{"tmdb_id": 362663, "title": "Floral Co-operative Societies", "original_title": "Floral Co-operative Societies", "slug_title": "floral-co-operative-societies", "date": "1927-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jf8cjzBpd6PrNzXAh6DNVbIoCZO.jpg", "actors": [], "comments": [], "recommandations_id": []}

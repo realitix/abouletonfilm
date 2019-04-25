@@ -1,1 +1,0 @@
-{"tmdb_id": 219586, "title": "Chilly and the Woodchopper", "original_title": "Chilly and the Woodchopper", "slug_title": "chilly-and-the-woodchopper", "date": "1967-05-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zaxRQSFpkG9ErR4bIuia7Fuqiln.jpg", "actors": [], "comments": [], "recommandations_id": []}

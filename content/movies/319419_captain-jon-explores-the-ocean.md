@@ -1,1 +1,0 @@
-{"tmdb_id": 319419, "title": "Captain Jon Explores the Ocean", "original_title": "Captain Jon Explores the Ocean", "slug_title": "captain-jon-explores-the-ocean", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

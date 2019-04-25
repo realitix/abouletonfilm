@@ -1,1 +1,0 @@
-{"tmdb_id": 508029, "title": "69: Love Sex Senior", "original_title": "69: Love Sex Senior", "slug_title": "69-love-sex-senior", "date": "2013-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6WN8mNXZg7fz2TCtFrUVk2lEIPV.jpg", "actors": [], "comments": [], "recommandations_id": []}

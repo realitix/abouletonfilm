@@ -1,1 +1,0 @@
-{"tmdb_id": 549275, "title": "Animals in Action", "original_title": "Animals in Action", "slug_title": "animals-in-action", "date": "1955-05-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator (voice))"], "comments": [], "recommandations_id": []}

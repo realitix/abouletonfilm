@@ -1,1 +1,0 @@
-{"tmdb_id": 216613, "title": "The End of Man", "original_title": "O Fim do Homem", "slug_title": "the-end-of-man", "date": "2012-03-01", "genre": "Action / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xTbhSl7pqpWuq77z7IIhCqNPalf.jpg", "actors": [], "comments": [], "recommandations_id": []}

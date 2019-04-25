@@ -1,1 +1,0 @@
-{"tmdb_id": 477352, "title": "Speaking Freely Volume 1: John Perkins", "original_title": "Speaking Freely Volume 1: John Perkins", "slug_title": "speaking-freely-volume-1-john-perkins", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

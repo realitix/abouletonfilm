@@ -1,1 +1,0 @@
-{"tmdb_id": 469751, "title": "Jurassic Park: Prime Survival", "original_title": "Jurassic Park: Prime Survival", "slug_title": "jurassic-park-prime-survival", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

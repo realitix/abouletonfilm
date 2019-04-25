@@ -1,1 +1,0 @@
-{"tmdb_id": 163083, "title": "Water for Maya", "original_title": "Water for Maya", "slug_title": "water-for-maya", "date": "2000-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4NW8a0z5idd4NaYZPVyduZIrAac.jpg", "actors": [], "comments": [], "recommandations_id": [196123, 195948, 107258, 195939]}

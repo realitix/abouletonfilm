@@ -1,1 +1,0 @@
-{"tmdb_id": 517925, "title": "Chudala", "original_title": "Chudala", "slug_title": "chudala", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iizTp8LCSK4KvBCO31iIhkvVPne.jpg", "actors": [], "comments": [], "recommandations_id": []}

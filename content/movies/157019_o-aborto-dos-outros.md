@@ -1,1 +1,0 @@
-{"tmdb_id": 157019, "title": "O Aborto dos Outros", "original_title": "O Aborto dos Outros", "slug_title": "o-aborto-dos-outros", "date": "2008-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rPz5RcJwSMvnmprsS7HTGj31wrT.jpg", "actors": [], "comments": [], "recommandations_id": []}

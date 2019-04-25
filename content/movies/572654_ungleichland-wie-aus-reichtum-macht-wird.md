@@ -1,1 +1,0 @@
-{"tmdb_id": 572654, "title": "Ungleichland - Wie aus Reichtum Macht wird", "original_title": "Ungleichland - Wie aus Reichtum Macht wird", "slug_title": "ungleichland-wie-aus-reichtum-macht-wird", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 425426, "title": "Drawn and Quartered", "original_title": "Drawn and Quartered", "slug_title": "drawn-and-quartered", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fU9Qx5PnlSnZHQQl6L6B3MDtda5.jpg", "actors": [], "comments": [], "recommandations_id": []}

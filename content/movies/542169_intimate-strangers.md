@@ -1,1 +1,0 @@
-{"tmdb_id": 542169, "title": "Intimate Strangers", "original_title": "Intimate Strangers", "slug_title": "intimate-strangers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

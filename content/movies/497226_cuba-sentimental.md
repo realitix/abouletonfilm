@@ -1,1 +1,0 @@
-{"tmdb_id": 497226, "title": "Cuba Sentimental", "original_title": "Cuba Sentimental", "slug_title": "cuba-sentimental", "date": "2010-09-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Eol6CTKOjxmooFU6wZqGsNcFwH.jpg", "actors": [], "comments": [], "recommandations_id": []}

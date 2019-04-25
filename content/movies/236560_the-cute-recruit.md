@@ -1,1 +1,0 @@
-{"tmdb_id": 236560, "title": "The Cute Recruit", "original_title": "The Cute Recruit", "slug_title": "the-cute-recruit", "date": "1941-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

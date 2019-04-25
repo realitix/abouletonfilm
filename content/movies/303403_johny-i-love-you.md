@@ -1,1 +1,0 @@
-{"tmdb_id": 303403, "title": "Johny I Love You", "original_title": "Johny I Love You", "slug_title": "johny-i-love-you", "date": "1982-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

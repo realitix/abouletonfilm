@@ -1,1 +1,0 @@
-{"tmdb_id": 585390, "title": "45 Days In Harbar", "original_title": "45 d\u00edas en Jarbar", "slug_title": "45-days-in-harbar", "date": "2019-03-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

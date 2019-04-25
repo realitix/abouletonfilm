@@ -1,1 +1,0 @@
-{"tmdb_id": 481996, "title": "The Last Trip", "original_title": "The Last Trip", "slug_title": "the-last-trip", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 396016, "title": "Ebony Society", "original_title": "Ebony Society", "slug_title": "ebony-society", "date": "2011-02-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Ru (Jonah)", "Darcy Ray Flavell-Hudson (Vinnie)", "Duane Evans Jr. (Tee)", "Aaliyah Papata (Baby)"], "comments": [], "recommandations_id": []}

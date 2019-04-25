@@ -1,1 +1,0 @@
-{"tmdb_id": 300825, "title": "Adjust-A-Dream", "original_title": "Adjust-A-Dream", "slug_title": "adjust-a-dream", "date": "2014-06-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom DeTrinis (Jake)", "Doug Tompos (Anthony)"], "comments": [], "recommandations_id": []}

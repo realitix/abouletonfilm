@@ -1,1 +1,0 @@
-{"tmdb_id": 592093, "title": "As Panteras - Carnaval 2010", "original_title": "As Panteras - Carnaval 2010", "slug_title": "as-panteras-carnaval-2010", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9H0Q4geP8aK49lisc81co7OmZ7n.jpg", "actors": [], "comments": [], "recommandations_id": []}

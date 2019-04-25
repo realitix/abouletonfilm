@@ -1,1 +1,0 @@
-{"tmdb_id": 570722, "title": "Intimacy", "original_title": "Intimit\u00e9", "slug_title": "intimacy", "date": "1994-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h5qq6hAiC7dpv74zR2lEe3zsAFb.jpg", "actors": [], "comments": [], "recommandations_id": []}

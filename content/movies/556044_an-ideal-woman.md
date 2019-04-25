@@ -1,1 +1,0 @@
-{"tmdb_id": 556044, "title": "An Ideal Woman", "original_title": "La femme id\u00e9ale", "slug_title": "an-ideal-woman", "date": "1934-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

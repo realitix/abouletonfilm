@@ -1,1 +1,0 @@
-{"tmdb_id": 317605, "title": "Sloppy Jalopy", "original_title": "Sloppy Jalopy", "slug_title": "sloppy-jalopy", "date": "1952-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

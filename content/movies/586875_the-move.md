@@ -1,1 +1,0 @@
-{"tmdb_id": 586875, "title": "The Move", "original_title": "Muutto", "slug_title": "the-move", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mirkka Rekola (Herself)"], "comments": [], "recommandations_id": []}

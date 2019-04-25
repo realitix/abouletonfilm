@@ -1,1 +1,0 @@
-{"tmdb_id": 279393, "title": "Yoga For Life", "original_title": "Yoga For Life", "slug_title": "yoga-for-life", "date": "2011-05-09", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5aIluk0faSTZhFVvVcjwAbKFrcf.jpg", "actors": ["Leah Bracknell (Herself)"], "comments": [], "recommandations_id": []}

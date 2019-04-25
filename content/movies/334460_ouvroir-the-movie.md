@@ -1,1 +1,0 @@
-{"tmdb_id": 334460, "title": "Ouvroir the Movie", "original_title": "Ouvroir the Movie", "slug_title": "ouvroir-the-movie", "date": "2010-02-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

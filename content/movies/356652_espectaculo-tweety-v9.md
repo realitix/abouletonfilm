@@ -1,1 +1,0 @@
-{"tmdb_id": 356652, "title": "Espect\u00e1culo Tweety V9", "original_title": "Espect\u00e1culo Tweety V9", "slug_title": "espectaculo-tweety-v9", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hEgv2qxBkVpEqJmKALQRDOrpBl3.jpg", "actors": [], "comments": [], "recommandations_id": []}

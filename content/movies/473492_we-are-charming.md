@@ -1,1 +1,0 @@
-{"tmdb_id": 473492, "title": "We Are Charming", "original_title": "We Are Charming", "slug_title": "we-are-charming", "date": "2007-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

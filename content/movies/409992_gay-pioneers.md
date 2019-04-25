@@ -1,1 +1,0 @@
-{"tmdb_id": 409992, "title": "Gay Pioneers", "original_title": "Gay Pioneers", "slug_title": "gay-pioneers", "date": "2001-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cdIsyqvZZFNuvwygSHCczNCVBtk.jpg", "actors": [], "comments": [], "recommandations_id": []}

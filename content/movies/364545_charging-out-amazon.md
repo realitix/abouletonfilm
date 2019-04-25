@@ -1,1 +1,0 @@
-{"tmdb_id": 364545, "title": "Charging Out Amazon", "original_title": "\u51b2\u51fa\u4e9a\u9a6c\u900a", "slug_title": "charging-out-amazon", "date": "2002-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

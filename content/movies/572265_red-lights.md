@@ -1,1 +1,0 @@
-{"tmdb_id": 572265, "title": "Red Lights", "original_title": "Red Lights", "slug_title": "red-lights", "date": "2013-04-02", "genre": "Myst\u00e8re / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/viKa7nnwBXnSYRWMyw3Cldhd9Yh.jpg", "actors": [], "comments": [], "recommandations_id": []}

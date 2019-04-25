@@ -1,1 +1,0 @@
-{"tmdb_id": 285042, "title": "A Man, Women", "original_title": "Seye Seyeti", "slug_title": "a-man-women", "date": "1980-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

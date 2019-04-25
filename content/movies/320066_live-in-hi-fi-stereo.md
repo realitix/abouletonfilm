@@ -1,1 +1,0 @@
-{"tmdb_id": 320066, "title": "Live In Hi-fi Stereo", "original_title": "Live In Hi-fi Stereo", "slug_title": "live-in-hi-fi-stereo", "date": "2011-01-25", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w9JjkFIWYmkUPamnmdmy2uPGvaI.jpg", "actors": ["Mindi Abair (Actor)"], "comments": [], "recommandations_id": []}

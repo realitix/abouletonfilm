@@ -1,1 +1,0 @@
-{"tmdb_id": 270097, "title": "Love by the Light of the Moon", "original_title": "Love by the Light of the Moon", "slug_title": "love-by-the-light-of-the-moon", "date": "1901-03-24", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

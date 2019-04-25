@@ -1,1 +1,0 @@
-{"tmdb_id": 133559, "title": "Koffi Bar", "original_title": "Koffi Bar", "slug_title": "koffi-bar", "date": "2011-04-29", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6IQ7MV5ZML3AFtjWMJHPirk8RKb.jpg", "actors": ["Shashank ()", "Atul Kulkarni ()", "Biyanka Desai ()"], "comments": [], "recommandations_id": []}

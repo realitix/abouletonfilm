@@ -1,1 +1,0 @@
-{"tmdb_id": 308607, "title": "PLA: Extreme Sports & Music", "original_title": "PLA: Extreme Sports & Music", "slug_title": "pla-extreme-sports-music", "date": "2003-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 243781, "title": "Jitsuroku! Noroi no Douga", "original_title": "Jitsuroku! Noroi no Douga", "slug_title": "jitsuroku-noroi-no-douga", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eBnz20RPwKabYzIUIhDnFCOVme9.jpg", "actors": [], "comments": [], "recommandations_id": []}

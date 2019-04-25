@@ -1,1 +1,0 @@
-{"tmdb_id": 255246, "title": "A Pedra da Riqueza", "original_title": "A Pedra da Riqueza", "slug_title": "a-pedra-da-riqueza", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o4quY4X3XSqgK03CNDmWep1JEYm.jpg", "actors": [], "comments": [], "recommandations_id": []}

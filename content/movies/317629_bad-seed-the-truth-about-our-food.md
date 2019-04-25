@@ -1,1 +1,0 @@
-{"tmdb_id": 317629, "title": "Bad Seed: The Truth About Our Food", "original_title": "Bad Seed: The Truth About Our Food", "slug_title": "bad-seed-the-truth-about-our-food", "date": "2006-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

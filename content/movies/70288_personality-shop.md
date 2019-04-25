@@ -1,1 +1,0 @@
-{"tmdb_id": 70288, "title": "Personality shop", "original_title": "Personality shop", "slug_title": "personality-shop", "date": "", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xY81lfRuFoKuwTY7csnMdBnD2Sl.jpg", "actors": [], "comments": [], "recommandations_id": []}

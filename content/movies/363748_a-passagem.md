@@ -1,1 +1,1 @@
-{"tmdb_id": 363748, "title": "A Passagem", "original_title": "A Passagem", "slug_title": "a-passagem", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 363748, "title": "A Passagem", "original_title": "A Passagem", "slug_title": "a-passagem", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

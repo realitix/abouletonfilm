@@ -1,1 +1,0 @@
-{"tmdb_id": 594740, "title": "Run! Akio", "original_title": "\u8d70\u308c\u6620\u90ce", "slug_title": "run-akio", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/naRoBTiD8oXaXErJBShVySsQmeF.jpg", "actors": [], "comments": [], "recommandations_id": []}

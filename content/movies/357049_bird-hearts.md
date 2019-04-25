@@ -1,1 +1,0 @@
-{"tmdb_id": 357049, "title": "Bird Hearts", "original_title": "Bird Hearts", "slug_title": "bird-hearts", "date": "2015-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

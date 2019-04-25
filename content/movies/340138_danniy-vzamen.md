@@ -1,1 +1,0 @@
-{"tmdb_id": 340138, "title": "Danniy vzamen", "original_title": "Danniy vzamen", "slug_title": "danniy-vzamen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

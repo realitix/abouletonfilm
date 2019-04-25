@@ -1,1 +1,0 @@
-{"tmdb_id": 322165, "title": "Yours for a Song: The Women of Tin Pan Alley", "original_title": "Yours for a Song: The Women of Tin Pan Alley", "slug_title": "yours-for-a-song-the-women-of-tin-pan-alley", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

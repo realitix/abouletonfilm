@@ -1,1 +1,0 @@
-{"tmdb_id": 592130, "title": "Boomerang", "original_title": "Boomerang", "slug_title": "boomerang", "date": "2018-07-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kanchan Mullick ()", "Sujan Mukherjee ()", "Anindita Bose ()"], "comments": [], "recommandations_id": []}

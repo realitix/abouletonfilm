@@ -1,1 +1,0 @@
-{"tmdb_id": 591866, "title": "Greetings and a Living", "original_title": "Salut en de kost", "slug_title": "greetings-and-a-living", "date": "1974-08-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hans Royaards (Billy)", "Romain Deconinck (Father)"], "comments": [], "recommandations_id": []}

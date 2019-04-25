@@ -1,1 +1,0 @@
-{"tmdb_id": 362429, "title": "Live to Live", "original_title": "Vivir Para Vivir", "slug_title": "live-to-live", "date": "2015-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rv80vU1zp0ujw6bvfvshX2Co4xf.jpg", "actors": [], "comments": [], "recommandations_id": []}

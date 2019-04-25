@@ -1,1 +1,0 @@
-{"tmdb_id": 398770, "title": "Rock Angels", "original_title": "Rock Angels", "slug_title": "rock-angels", "date": "2014-12-04", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6E4LhtflyPLwZYGHAmLTOl6Cu7G.jpg", "actors": [], "comments": [], "recommandations_id": []}

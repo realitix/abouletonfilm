@@ -1,1 +1,0 @@
-{"tmdb_id": 270622, "title": "Dangerous Men", "original_title": "Dangerous Men", "slug_title": "dangerous-men", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

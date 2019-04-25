@@ -1,1 +1,0 @@
-{"tmdb_id": 424849, "title": "Sea of Joy", "original_title": "Sea of Joy", "slug_title": "sea-of-joy", "date": "1971-01-07", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hf9mXN5Jq3Oj5BlIjbTYKwrkiWq.jpg", "actors": [], "comments": [], "recommandations_id": []}

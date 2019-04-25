@@ -1,1 +1,0 @@
-{"tmdb_id": 389586, "title": "Agent Steel: Mad Locust Rising", "original_title": "Agent Steel: Mad Locust Rising", "slug_title": "agent-steel-mad-locust-rising", "date": "2007-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6cOH3AM6sZeovBNGb92quigaFJa.jpg", "actors": [], "comments": [], "recommandations_id": []}

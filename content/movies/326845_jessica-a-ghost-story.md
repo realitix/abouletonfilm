@@ -1,1 +1,0 @@
-{"tmdb_id": 326845, "title": "Jessica: A Ghost Story", "original_title": "Jessica: A Ghost Story", "slug_title": "jessica-a-ghost-story", "date": "1992-10-22", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p53FzD7ECDceuRFuXGvjTUYD9Fg.jpg", "actors": [], "comments": [], "recommandations_id": []}

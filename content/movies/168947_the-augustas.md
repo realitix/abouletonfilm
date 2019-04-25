@@ -1,1 +1,0 @@
-{"tmdb_id": 168947, "title": "The Augustas", "original_title": "The Augustas", "slug_title": "the-augustas", "date": "1950-02-16", "genre": "Documentaire", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oc9CvogLGybtkmRJuLrLRPQvC4K.jpg", "actors": [], "comments": [], "recommandations_id": [162346, 157091, 246193, 76636]}

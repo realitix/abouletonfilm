@@ -1,1 +1,0 @@
-{"tmdb_id": 581582, "title": "The Long-winded Attempt at an Essay", "original_title": "The Long-winded Attempt at an Essay", "slug_title": "the-long-winded-attempt-at-an-essay", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Klaus Christoph (Speech Dealer)"], "comments": [], "recommandations_id": []}

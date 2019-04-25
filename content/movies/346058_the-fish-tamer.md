@@ -1,1 +1,0 @@
-{"tmdb_id": 346058, "title": "The Fish Tamer", "original_title": "El domador de peixos", "slug_title": "the-fish-tamer", "date": "2014-05-29", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 286165, "title": "Le retour aux champs", "original_title": "Le retour aux champs", "slug_title": "le-retour-aux-champs", "date": "1918-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pierre Magnier ()", "Louis Baron fils ()", "Rachel Devirys ()"], "comments": [], "recommandations_id": []}

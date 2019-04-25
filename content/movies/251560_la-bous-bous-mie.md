@@ -1,1 +1,0 @@
-{"tmdb_id": 251560, "title": "La Bous-Bous-Mie", "original_title": "La Bous-Bous-Mie", "slug_title": "la-bous-bous-mie", "date": "1909-01-04", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qcbt1AKcMQafGzrKsdQ0uYhIuQQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

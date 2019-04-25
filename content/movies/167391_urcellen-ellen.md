@@ -1,1 +1,0 @@
-{"tmdb_id": 167391, "title": "Urcellen Ellen", "original_title": "Urcellen Ellen", "slug_title": "urcellen-ellen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dwAACssfM41dAPg2rSc9GMqkgLl.jpg", "actors": [], "comments": [], "recommandations_id": []}

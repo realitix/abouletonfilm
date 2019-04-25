@@ -1,1 +1,0 @@
-{"tmdb_id": 588860, "title": "We Are Going into the Woods", "original_title": "Nous irons aux bois", "slug_title": "we-are-going-into-the-woods", "date": "2016-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3DPKdUJM4Z5hiPezSBFWeUgVUyx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 539968, "title": "The Changing of the Guard", "original_title": "Zmiana warty", "slug_title": "the-changing-of-the-guard", "date": "1959-05-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u1fBsY5OIoth9iiI6jEPpP5tHta.jpg", "actors": [], "comments": [], "recommandations_id": []}

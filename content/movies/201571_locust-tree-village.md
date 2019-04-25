@@ -1,1 +1,0 @@
-{"tmdb_id": 201571, "title": "Locust Tree Village", "original_title": "Huaishu zhuang", "slug_title": "locust-tree-village", "date": "1962-06-15", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4K7QCD5d3jqzXN2hzwYYaynriy6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 344939, "title": "Mangiacake", "original_title": "Mangiacake", "slug_title": "mangiacake", "date": "2015-06-19", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Ai75Lp7TAcflZeGg8wOBG7NoeG.jpg", "actors": [], "comments": [], "recommandations_id": []}

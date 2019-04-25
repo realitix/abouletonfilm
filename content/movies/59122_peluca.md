@@ -1,1 +1,0 @@
-{"tmdb_id": 59122, "title": "Peluca", "original_title": "Peluca", "slug_title": "peluca", "date": "2003-01-20", "genre": "Com\u00e9die", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vmeWFnPSMZv9lGuhI0PMRlaopzC.jpg", "actors": ["Jon Heder (Seth)"], "comments": [], "recommandations_id": []}

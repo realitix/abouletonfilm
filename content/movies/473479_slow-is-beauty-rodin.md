@@ -1,1 +1,0 @@
-{"tmdb_id": 473479, "title": "\u201cSlow is Beauty\u201d\u2014Rodin", "original_title": "\u201cSlow is Beauty\u201d\u2014Rodin", "slug_title": "slow-is-beauty-rodin", "date": "1974-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

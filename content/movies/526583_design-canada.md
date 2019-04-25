@@ -1,1 +1,0 @@
-{"tmdb_id": 526583, "title": "Design Canada", "original_title": "Design Canada", "slug_title": "design-canada", "date": "2018-06-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b3fuQdwi8LlrlBmXTlRTY49J4V4.jpg", "actors": [], "comments": [], "recommandations_id": []}

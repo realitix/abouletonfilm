@@ -1,1 +1,0 @@
-{"tmdb_id": 319683, "title": "Labor of Love", "original_title": "Labor of Love", "slug_title": "labor-of-love", "date": "1990-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qbITPd3qH1vmNxWsPgFtfLRGF8U.jpg", "actors": [], "comments": [], "recommandations_id": []}

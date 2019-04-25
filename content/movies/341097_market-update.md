@@ -1,1 +1,0 @@
-{"tmdb_id": 341097, "title": "Market Update", "original_title": "Market Update", "slug_title": "market-update", "date": "2003-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ySUbARTmmfyZDgl0VelbEC8kqil.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 490885, "title": "Let's Live Again", "original_title": "Let's Live Again", "slug_title": "let-s-live-again", "date": "1948-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sqZGvx9ICBUDSTqicHg90pfWrl2.jpg", "actors": [], "comments": [], "recommandations_id": []}

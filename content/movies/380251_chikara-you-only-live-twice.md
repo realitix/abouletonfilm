@@ -1,1 +1,0 @@
-{"tmdb_id": 380251, "title": "Chikara You Only Live Twice", "original_title": "Chikara You Only Live Twice", "slug_title": "chikara-you-only-live-twice", "date": "2014-05-25", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ueEUMsfLro01ykv3y5OIUC8Wfjs.jpg", "actors": [], "comments": [], "recommandations_id": []}

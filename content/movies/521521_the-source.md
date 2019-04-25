@@ -1,1 +1,0 @@
-{"tmdb_id": 521521, "title": "The Source", "original_title": "La vertiente", "slug_title": "the-source", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

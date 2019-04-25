@@ -1,1 +1,0 @@
-{"tmdb_id": 339641, "title": "Some Dogs Do", "original_title": "Some Dogs Do", "slug_title": "some-dogs-do", "date": "2011-02-07", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6howtvImkeiDRBN5ipQoFtF33Fz.jpg", "actors": ["Kevin Whately (narrator)"], "comments": [], "recommandations_id": []}

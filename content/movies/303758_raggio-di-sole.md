@@ -1,1 +1,0 @@
-{"tmdb_id": 303758, "title": "Raggio di sole", "original_title": "Raggio di sole", "slug_title": "raggio-di-sole", "date": "1911-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

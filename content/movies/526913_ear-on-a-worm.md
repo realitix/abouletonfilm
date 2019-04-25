@@ -1,1 +1,0 @@
-{"tmdb_id": 526913, "title": "Ear on a Worm", "original_title": "Ear on a Worm", "slug_title": "ear-on-a-worm", "date": "2017-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zQ0OAmNVPVQczt4uECRLAXlYPqe.jpg", "actors": [], "comments": [], "recommandations_id": []}

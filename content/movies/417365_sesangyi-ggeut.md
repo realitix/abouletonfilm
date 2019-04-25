@@ -1,1 +1,0 @@
-{"tmdb_id": 417365, "title": "\uc138\uc0c1\uc758 \ub05d", "original_title": "\uc138\uc0c1\uc758 \ub05d", "slug_title": "sesangyi-ggeut", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ngbOfPRPgS1aYbsqHkTctJ9Rl0q.jpg", "actors": [], "comments": [], "recommandations_id": []}

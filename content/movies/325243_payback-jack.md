@@ -1,1 +1,0 @@
-{"tmdb_id": 325243, "title": "Payback Jack", "original_title": "Payback Jack", "slug_title": "payback-jack", "date": "2012-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 75422, "title": "Closure", "original_title": "Closure", "slug_title": "closure", "date": "", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bee Rance (Alex)"], "comments": [], "recommandations_id": []}

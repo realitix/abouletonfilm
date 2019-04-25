@@ -1,1 +1,0 @@
-{"tmdb_id": 592720, "title": "Matjan Berbisik", "original_title": "Matjan Berbisik", "slug_title": "matjan-berbisik", "date": "1940-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jDSFuJAANSTaGxp7YYOPgTm4wCw.jpg", "actors": [], "comments": [], "recommandations_id": []}

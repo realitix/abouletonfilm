@@ -1,1 +1,0 @@
-{"tmdb_id": 179047, "title": "Sobre el arco iris", "original_title": "Sobre el arco iris", "slug_title": "sobre-el-arco-iris", "date": "2004-03-26", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l2T7qEiU1KbPe8NO26WJKdg0v6G.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 355018, "title": "\u00bfPor qu\u00e9 te vas?", "original_title": "\u00bfPor qu\u00e9 te vas?", "slug_title": "por-que-te-vas", "date": "2010-11-05", "genre": "Com\u00e9die", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Santiago Segura ()", "\u00c1ngel Sala ()", "Pablo Cobo ()"], "comments": [], "recommandations_id": []}

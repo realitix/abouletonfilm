@@ -1,1 +1,0 @@
-{"tmdb_id": 97565, "title": "Yash Raj Top 40", "original_title": "Yash Raj Top 40", "slug_title": "yash-raj-top-40", "date": "2011-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u0YsiwbYOcAc7oQj6cJDvAednnp.jpg", "actors": [], "comments": [], "recommandations_id": []}

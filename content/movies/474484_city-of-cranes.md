@@ -1,1 +1,0 @@
-{"tmdb_id": 474484, "title": "City of Cranes", "original_title": "City of Cranes", "slug_title": "city-of-cranes", "date": "2007-03-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

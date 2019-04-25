@@ -1,1 +1,0 @@
-{"tmdb_id": 211662, "title": "Senior Trip", "original_title": "Senior Trip", "slug_title": "senior-trip", "date": "1981-12-30", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qs5WHyV1BQ5AV7DldHV812L7Y60.jpg", "actors": [], "comments": [], "recommandations_id": []}

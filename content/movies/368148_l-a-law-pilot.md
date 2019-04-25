@@ -1,1 +1,0 @@
-{"tmdb_id": 368148, "title": "L.A. Law: Pilot", "original_title": "L.A. Law: Pilot", "slug_title": "l-a-law-pilot", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

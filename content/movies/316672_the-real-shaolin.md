@@ -1,1 +1,0 @@
-{"tmdb_id": 316672, "title": "The Real Shaolin", "original_title": "The Real Shaolin", "slug_title": "the-real-shaolin", "date": "2008-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/254mdYFpNXrTEwghnrtxdEf1Unz.jpg", "actors": [], "comments": [], "recommandations_id": []}

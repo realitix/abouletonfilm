@@ -1,1 +1,0 @@
-{"tmdb_id": 557223, "title": "Un coup de t\u00e9l\u00e9phone", "original_title": "Un coup de t\u00e9l\u00e9phone", "slug_title": "un-coup-de-telephone", "date": "1932-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

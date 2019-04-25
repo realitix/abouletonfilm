@@ -1,1 +1,0 @@
-{"tmdb_id": 339025, "title": "Max Milligan - Play T-bone Walker", "original_title": "Max Milligan - Play T-bone Walker", "slug_title": "max-milligan-play-t-bone-walker", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 316078, "title": "Hello! MTV Unplugged", "original_title": "Hello! MTV Unplugged", "slug_title": "hello-mtv-unplugged", "date": "1995-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uRVre5XDoGoWgPHr6V0vKXrdUu7.jpg", "actors": [], "comments": [], "recommandations_id": []}

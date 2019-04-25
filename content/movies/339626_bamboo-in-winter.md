@@ -1,1 +1,0 @@
-{"tmdb_id": 339626, "title": "Bamboo In Winter", "original_title": "Bamboo In Winter", "slug_title": "bamboo-in-winter", "date": "1991-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9g3mu6XtDZBQpqFQOlFOhwE9uZL.jpg", "actors": [], "comments": [], "recommandations_id": []}

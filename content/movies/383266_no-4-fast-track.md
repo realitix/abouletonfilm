@@ -1,1 +1,0 @@
-{"tmdb_id": 383266, "title": "No. 4: Fast Track", "original_title": "No. 4: Fast Track", "slug_title": "no-4-fast-track", "date": "1947-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [380029, 380030, 358823, 289849]}

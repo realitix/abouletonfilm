@@ -1,1 +1,0 @@
-{"tmdb_id": 55794, "title": "Derren Brown: The Event", "original_title": "Derren Brown: The Event", "slug_title": "derren-brown-the-event", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 42547, "title": "Why We Bang", "original_title": "Why We Bang", "slug_title": "why-we-bang", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

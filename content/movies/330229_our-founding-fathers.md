@@ -1,1 +1,0 @@
-{"tmdb_id": 330229, "title": "Our Founding Fathers", "original_title": "Our Founding Fathers", "slug_title": "our-founding-fathers", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

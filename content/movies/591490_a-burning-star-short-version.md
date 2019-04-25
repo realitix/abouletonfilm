@@ -1,1 +1,0 @@
-{"tmdb_id": 591490, "title": "A Burning Star (short version)", "original_title": "\u713c\u661f -\u77ed\u7e2e\u7248-", "slug_title": "a-burning-star-short-version", "date": "1995-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7SUpSTPaSLFxRPL4OHTN6TjT1mV.jpg", "actors": [], "comments": [], "recommandations_id": []}

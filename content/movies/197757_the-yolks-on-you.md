@@ -1,1 +1,0 @@
-{"tmdb_id": 197757, "title": "The Yolks on You", "original_title": "The Yolks on You", "slug_title": "the-yolks-on-you", "date": "1980-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mtcicLkTF6E3Kyrn8xaaxan7JUi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 408684, "title": "La prairie en feu", "original_title": "La prairie en feu", "slug_title": "la-prairie-en-feu", "date": "1912-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

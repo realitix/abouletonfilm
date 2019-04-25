@@ -1,1 +1,0 @@
-{"tmdb_id": 285979, "title": "Queensland", "original_title": "Queensland", "slug_title": "queensland", "date": "1976-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Flaus ()", "Robert Karl ()", "Alison Bird ()"], "comments": [], "recommandations_id": []}

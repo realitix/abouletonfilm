@@ -1,1 +1,0 @@
-{"tmdb_id": 531034, "title": "Hate for Sale", "original_title": "Hate for Sale", "slug_title": "hate-for-sale", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qo4LVl00EbqP2cP05mo6xwa4haS.jpg", "actors": ["Peter Kenny (Narrator (voice))"], "comments": [], "recommandations_id": []}

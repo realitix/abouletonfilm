@@ -1,1 +1,0 @@
-{"tmdb_id": 272697, "title": "Rites of Passage: The Rebirth Of Combat Sports", "original_title": "Rites of Passage: The Rebirth Of Combat Sports", "slug_title": "rites-of-passage-the-rebirth-of-combat-sports", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 577921, "title": "Blanquita", "original_title": "Blanquita", "slug_title": "blanquita", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alejandro Goic ()"], "comments": [], "recommandations_id": []}

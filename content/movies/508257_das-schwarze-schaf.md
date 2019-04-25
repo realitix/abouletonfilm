@@ -1,1 +1,0 @@
-{"tmdb_id": 508257, "title": "Das schwarze Schaf", "original_title": "Das schwarze Schaf", "slug_title": "das-schwarze-schaf", "date": "1944-02-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Victor Janson ()", "Lotte Koch ()", "Fritz Odemar ()", "Rudolf Sch\u00fcndler ()"], "comments": [], "recommandations_id": []}

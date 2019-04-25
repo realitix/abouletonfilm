@@ -1,1 +1,0 @@
-{"tmdb_id": 272897, "title": "Titans of Yoga", "original_title": "Titans of Yoga", "slug_title": "titans-of-yoga", "date": "2010-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3eS2ixmWUfMbHyPkaprHFkwH9bL.jpg", "actors": [], "comments": [], "recommandations_id": []}

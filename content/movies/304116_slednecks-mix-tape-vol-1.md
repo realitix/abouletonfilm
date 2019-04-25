@@ -1,1 +1,0 @@
-{"tmdb_id": 304116, "title": "Slednecks Mix Tape Vol. 1", "original_title": "Slednecks Mix Tape Vol. 1", "slug_title": "slednecks-mix-tape-vol-1", "date": "2014-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

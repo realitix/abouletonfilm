@@ -1,1 +1,0 @@
-{"tmdb_id": 561515, "title": "The Title Was Shot", "original_title": "The Title Was Shot", "slug_title": "the-title-was-shot", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

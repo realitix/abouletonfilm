@@ -1,1 +1,0 @@
-{"tmdb_id": 414791, "title": "Rooftop Kisses", "original_title": "Rooftop Kisses", "slug_title": "rooftop-kisses", "date": "2002-06-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Allison Janney (Melissa)", "Maura Tierney (Denise)", "Anton Yelchin (Charlie)"], "comments": [], "recommandations_id": []}

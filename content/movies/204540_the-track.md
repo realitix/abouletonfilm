@@ -1,1 +1,0 @@
-{"tmdb_id": 204540, "title": "The Track", "original_title": "Iz", "slug_title": "the-track", "date": "1994-01-01", "genre": "Thriller", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zTqwPQvSShNVJgWhV7N8hpWi96y.jpg", "actors": ["Derya Alabora ()", "Ayta\u00e7 Arman ()"], "comments": [], "recommandations_id": []}

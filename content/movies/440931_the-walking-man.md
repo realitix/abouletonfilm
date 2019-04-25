@@ -1,1 +1,0 @@
-{"tmdb_id": 440931, "title": "The Walking Man", "original_title": "The Walking Man", "slug_title": "the-walking-man", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gR0SSR5E3M2hsWvbSSDnPpaAhhA.jpg", "actors": [], "comments": [], "recommandations_id": []}

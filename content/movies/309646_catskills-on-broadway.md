@@ -1,1 +1,0 @@
-{"tmdb_id": 309646, "title": "Catskills on Broadway", "original_title": "Catskills on Broadway", "slug_title": "catskills-on-broadway", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

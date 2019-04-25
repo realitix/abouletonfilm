@@ -1,1 +1,0 @@
-{"tmdb_id": 411478, "title": "A Boy and His Dog", "original_title": "A Boy and His Dog", "slug_title": "a-boy-and-his-dog", "date": "1936-12-23", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

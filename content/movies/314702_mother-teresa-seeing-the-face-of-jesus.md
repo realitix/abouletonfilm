@@ -1,1 +1,0 @@
-{"tmdb_id": 314702, "title": "Mother Teresa: Seeing the Face of Jesus", "original_title": "Mother Teresa: Seeing the Face of Jesus", "slug_title": "mother-teresa-seeing-the-face-of-jesus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

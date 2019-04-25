@@ -1,1 +1,0 @@
-{"tmdb_id": 564401, "title": "Color and Light", "original_title": "Color and Light", "slug_title": "color-and-light", "date": "1950-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

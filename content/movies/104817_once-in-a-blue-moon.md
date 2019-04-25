@@ -1,1 +1,0 @@
-{"tmdb_id": 104817, "title": "Once in a Blue Moon", "original_title": "Once in a Blue Moon", "slug_title": "once-in-a-blue-moon", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wrqcIsmGpPYjkBe421KJDIhNfAS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 296258, "title": "I'm Healthy, I'm Alive and I'm Free", "original_title": "I'm Healthy, I'm Alive and I'm Free", "slug_title": "i-m-healthy-i-m-alive-and-i-m-free", "date": "1977-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

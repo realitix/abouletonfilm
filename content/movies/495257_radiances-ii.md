@@ -1,1 +1,0 @@
-{"tmdb_id": 495257, "title": "Radiances II", "original_title": "Radiances II", "slug_title": "radiances-ii", "date": "2017-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dQaSnSIB8QcpIpa5OtUL67Ao8hq.jpg", "actors": [], "comments": [], "recommandations_id": []}

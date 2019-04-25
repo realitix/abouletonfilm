@@ -1,1 +1,0 @@
-{"tmdb_id": 184771, "title": "The Lemmings", "original_title": "The Lemmings", "slug_title": "the-lemmings", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iVyG7xqGQ9t0c0hVaah6cQjWLCS.jpg", "actors": [], "comments": [], "recommandations_id": []}

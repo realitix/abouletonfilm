@@ -1,1 +1,0 @@
-{"tmdb_id": 95086, "title": "The Color of Fame", "original_title": "El Tinte de la Fama", "slug_title": "the-color-of-fame", "date": "2008-02-01", "genre": "Drame", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9bs68kHO7dZfmCs6NxeGL7Alklg.jpg", "actors": ["Elaiza Gil (Magaly)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 390201, "title": "TNA Turning Point 2006", "original_title": "TNA Turning Point 2006", "slug_title": "tna-turning-point-2006", "date": "2006-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fLem8ZA8zFTIgnufFNAwwYSJPOh.jpg", "actors": [], "comments": [], "recommandations_id": []}

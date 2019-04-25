@@ -1,1 +1,0 @@
-{"tmdb_id": 424530, "title": "The Urban Leprechaun", "original_title": "The Urban Leprechaun", "slug_title": "the-urban-leprechaun", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bx9NJUeiZDR8fsnAPgzMNrCsMj7.jpg", "actors": ["James Gibbons ()"], "comments": [], "recommandations_id": []}

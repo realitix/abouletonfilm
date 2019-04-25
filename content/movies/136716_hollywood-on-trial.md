@@ -1,1 +1,0 @@
-{"tmdb_id": 136716, "title": "Hollywood on Trial", "original_title": "Hollywood on Trial", "slug_title": "hollywood-on-trial", "date": "1976-11-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/feEN1WokDPhtAZRarrd3XYaYYEH.jpg", "actors": ["John Huston (Narrator)"], "comments": [], "recommandations_id": []}

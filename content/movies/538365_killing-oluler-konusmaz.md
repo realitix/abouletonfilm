@@ -1,1 +1,0 @@
-{"tmdb_id": 538365, "title": "Killing \u00f6l\u00fcler konusmaz", "original_title": "Killing \u00f6l\u00fcler konusmaz", "slug_title": "killing-oluler-konusmaz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vP7KB2NFVFSU4vbaZawG943DZl4.jpg", "actors": [], "comments": [], "recommandations_id": []}

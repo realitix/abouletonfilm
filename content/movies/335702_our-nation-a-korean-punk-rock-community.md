@@ -1,1 +1,0 @@
-{"tmdb_id": 335702, "title": "Our Nation: A Korean Punk Rock Community", "original_title": "Our Nation: A Korean Punk Rock Community", "slug_title": "our-nation-a-korean-punk-rock-community", "date": "2002-01-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

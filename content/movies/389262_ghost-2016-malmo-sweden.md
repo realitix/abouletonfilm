@@ -1,1 +1,0 @@
-{"tmdb_id": 389262, "title": "Ghost: [2016] Malmo, Sweden", "original_title": "Ghost: [2016] Malmo, Sweden", "slug_title": "ghost-2016-malmo-sweden", "date": "2016-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/osFnJRcp0yx9hQSpVQwCvHInbdk.jpg", "actors": [], "comments": [], "recommandations_id": []}

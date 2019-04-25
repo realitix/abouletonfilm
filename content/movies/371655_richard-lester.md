@@ -1,1 +1,0 @@
-{"tmdb_id": 371655, "title": "Richard Lester!", "original_title": "Richard Lester!", "slug_title": "richard-lester", "date": "1998-09-16", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Lester ()"], "comments": [], "recommandations_id": []}

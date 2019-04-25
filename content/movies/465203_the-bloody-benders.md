@@ -1,1 +1,0 @@
-{"tmdb_id": 465203, "title": "The Bloody Benders", "original_title": "The Bloody Benders", "slug_title": "the-bloody-benders", "date": "", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

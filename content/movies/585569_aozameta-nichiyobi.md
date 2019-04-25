@@ -1,1 +1,0 @@
-{"tmdb_id": 585569, "title": "Aozameta Nichiyobi", "original_title": "\u84bc\u3056\u3081\u305f\u65e5\u66dc\u65e5", "slug_title": "aozameta-nichiyobi", "date": "1972-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ruriko Asaoka ()", "Go Wakabayashi ()", "Akira Yamanouchi ()"], "comments": [], "recommandations_id": []}

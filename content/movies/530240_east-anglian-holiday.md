@@ -1,1 +1,0 @@
-{"tmdb_id": 530240, "title": "East Anglian Holiday", "original_title": "East Anglian Holiday", "slug_title": "east-anglian-holiday", "date": "1954-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

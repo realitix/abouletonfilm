@@ -1,1 +1,0 @@
-{"tmdb_id": 594399, "title": "Night Walk", "original_title": "Night Walk", "slug_title": "night-walk", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

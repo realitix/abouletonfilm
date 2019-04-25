@@ -1,1 +1,0 @@
-{"tmdb_id": 425672, "title": "Henric de la Cour", "original_title": "Henric de la Cour", "slug_title": "henric-de-la-cour", "date": "2014-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lz2JshoIUP2LTkjU0mwN67jlfNM.jpg", "actors": [], "comments": [], "recommandations_id": []}

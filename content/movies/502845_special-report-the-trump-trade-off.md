@@ -1,1 +1,0 @@
-{"tmdb_id": 502845, "title": "Special Report: The Trump Trade-Off", "original_title": "Special Report: The Trump Trade-Off", "slug_title": "special-report-the-trump-trade-off", "date": "2018-01-19", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cordelia Lynch (Narrator)"], "comments": [], "recommandations_id": []}

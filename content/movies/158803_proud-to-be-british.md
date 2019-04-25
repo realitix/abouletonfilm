@@ -1,1 +1,0 @@
-{"tmdb_id": 158803, "title": "Proud to Be British", "original_title": "Proud to Be British", "slug_title": "proud-to-be-british", "date": "1973-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r7QFNQHv49Q8Itzg8QnX9sXr9Z1.jpg", "actors": [], "comments": [], "recommandations_id": []}

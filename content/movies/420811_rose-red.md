@@ -1,1 +1,0 @@
-{"tmdb_id": 420811, "title": "Rose Red", "original_title": "Rose Red", "slug_title": "rose-red", "date": "2020-02-13", "genre": "Aventure / Fantastique / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

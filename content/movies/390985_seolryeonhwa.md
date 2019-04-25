@@ -1,1 +1,0 @@
-{"tmdb_id": 390985, "title": "\uc124\ub828\ud654", "original_title": "\uc124\ub828\ud654", "slug_title": "seolryeonhwa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 359372, "title": "Seizure", "original_title": "Seizure", "slug_title": "seizure", "date": "2016-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fEdazrRzYF6m7YhN6j04dcgBWIa.jpg", "actors": [], "comments": [], "recommandations_id": []}

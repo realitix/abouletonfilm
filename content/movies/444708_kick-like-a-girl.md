@@ -1,1 +1,0 @@
-{"tmdb_id": 444708, "title": "Kick Like a Girl", "original_title": "Kick Like a Girl", "slug_title": "kick-like-a-girl", "date": "2008-01-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lpClDiZPJbSsKqug5vNixC43DA7.jpg", "actors": [], "comments": [], "recommandations_id": []}

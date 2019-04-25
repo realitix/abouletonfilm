@@ -1,1 +1,0 @@
-{"tmdb_id": 202373, "title": "Sleepy Time Bear", "original_title": "Sleepy Time Bear", "slug_title": "sleepy-time-bear", "date": "1969-12-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9OD3r9TaSPpX3rUJlhyEQIHu2PE.jpg", "actors": [], "comments": [], "recommandations_id": []}

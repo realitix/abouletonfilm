@@ -1,1 +1,0 @@
-{"tmdb_id": 193268, "title": "Darfur Diaries: Message from Home", "original_title": "Darfur Diaries: Message from Home", "slug_title": "darfur-diaries-message-from-home", "date": "2006-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

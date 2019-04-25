@@ -1,1 +1,0 @@
-{"tmdb_id": 226517, "title": "Big Mike", "original_title": "Big Mike", "slug_title": "big-mike", "date": "2004-11-18", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jSaj7FAooRFM6mqjzl2R08EGp49.jpg", "actors": [], "comments": [], "recommandations_id": []}

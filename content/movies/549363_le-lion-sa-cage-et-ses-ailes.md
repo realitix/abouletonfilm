@@ -1,1 +1,0 @@
-{"tmdb_id": 549363, "title": "Le lion, sa cage et ses ailes", "original_title": "Le lion, sa cage et ses ailes", "slug_title": "le-lion-sa-cage-et-ses-ailes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

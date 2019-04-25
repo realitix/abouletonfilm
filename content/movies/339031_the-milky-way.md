@@ -1,1 +1,0 @@
-{"tmdb_id": 339031, "title": "The Milky Way", "original_title": "The Milky Way", "slug_title": "the-milky-way", "date": "2015-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

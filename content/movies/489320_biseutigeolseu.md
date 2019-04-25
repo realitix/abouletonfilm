@@ -1,1 +1,0 @@
-{"tmdb_id": 489320, "title": "\ube44\uc2a4\ud2f0\uac78\uc2a4", "original_title": "\ube44\uc2a4\ud2f0\uac78\uc2a4", "slug_title": "biseutigeolseu", "date": "2017-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/359CHeRvp0bw9aPFcbrJ0rCwSr4.jpg", "actors": [], "comments": [], "recommandations_id": []}

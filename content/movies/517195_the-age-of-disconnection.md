@@ -1,1 +1,0 @@
-{"tmdb_id": 517195, "title": "The Age of Disconnection", "original_title": "La Era de la Desconexi\u00f3n", "slug_title": "the-age-of-disconnection", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

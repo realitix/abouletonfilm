@@ -1,1 +1,0 @@
-{"tmdb_id": 381987, "title": "Thanks for Playing Concentration", "original_title": "Thanks for Playing Concentration", "slug_title": "thanks-for-playing-concentration", "date": "2015-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 476698, "title": "Joana Vasconcelos: Cora\u00e7\u00e3o Independente", "original_title": "Joana Vasconcelos: Cora\u00e7\u00e3o Independente", "slug_title": "joana-vasconcelos-coracao-independente", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

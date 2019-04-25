@@ -1,1 +1,0 @@
-{"tmdb_id": 554948, "title": "Ge kent de weg en de taal", "original_title": "Ge kent de weg en de taal", "slug_title": "ge-kent-de-weg-en-de-taal", "date": "1976-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

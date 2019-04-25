@@ -1,1 +1,0 @@
-{"tmdb_id": 582823, "title": "Neither Here Nor There", "original_title": "Neither Here Nor There", "slug_title": "neither-here-nor-there", "date": "2001-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xPYzGW6mGN2MwHPcj9ByhnM40iN.jpg", "actors": [], "comments": [], "recommandations_id": []}

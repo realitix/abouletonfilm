@@ -1,1 +1,0 @@
-{"tmdb_id": 423846, "title": "Sweet Jennie Lee", "original_title": "Sweet Jennie Lee", "slug_title": "sweet-jennie-lee", "date": "1932-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

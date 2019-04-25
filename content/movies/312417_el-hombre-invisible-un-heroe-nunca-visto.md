@@ -1,1 +1,0 @@
-{"tmdb_id": 312417, "title": "El hombre invisible: un h\u00e9roe nunca visto", "original_title": "El hombre invisible: un h\u00e9roe nunca visto", "slug_title": "el-hombre-invisible-un-heroe-nunca-visto", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

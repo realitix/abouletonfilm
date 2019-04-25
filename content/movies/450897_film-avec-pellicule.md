@@ -1,1 +1,0 @@
-{"tmdb_id": 450897, "title": "Film avec pellicule", "original_title": "Film avec pellicule", "slug_title": "film-avec-pellicule", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hR180Gop1Qwvlj23oUF2FvXV0Ou.jpg", "actors": [], "comments": [], "recommandations_id": []}

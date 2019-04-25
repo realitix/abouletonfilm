@@ -1,1 +1,0 @@
-{"tmdb_id": 398372, "title": "The Fisherman", "original_title": "The Fisherman", "slug_title": "the-fisherman", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/35ITBXY9O5tr9pI95lEguD0jwy4.jpg", "actors": ["Joseph Johnson (Fisherman)"], "comments": [], "recommandations_id": []}

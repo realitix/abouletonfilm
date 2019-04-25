@@ -1,1 +1,0 @@
-{"tmdb_id": 384678, "title": "He Wanted the Moon", "original_title": "He Wanted the Moon", "slug_title": "he-wanted-the-moon", "date": "", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brad Pitt ()"], "comments": [], "recommandations_id": []}

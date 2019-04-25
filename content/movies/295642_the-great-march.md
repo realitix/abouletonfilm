@@ -1,1 +1,0 @@
-{"tmdb_id": 295642, "title": "The Great March", "original_title": "The Great March", "slug_title": "the-great-march", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

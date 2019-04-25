@@ -1,1 +1,0 @@
-{"tmdb_id": 207490, "title": "Luminarias", "original_title": "Luminarias", "slug_title": "luminarias", "date": "2000-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e2SbRTPszzFolm5Ye7m2LKLZY9N.jpg", "actors": [], "comments": [], "recommandations_id": []}

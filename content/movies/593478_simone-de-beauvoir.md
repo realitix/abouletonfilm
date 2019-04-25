@@ -1,1 +1,0 @@
-{"tmdb_id": 593478, "title": "Simone de Beauvoir", "original_title": "Simone de Beauvoir", "slug_title": "simone-de-beauvoir", "date": "1979-01-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Simone de Beauvoir (herself)"], "comments": [], "recommandations_id": []}

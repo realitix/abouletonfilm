@@ -1,1 +1,0 @@
-{"tmdb_id": 275680, "title": "Air War: Britain", "original_title": "Air War: Britain", "slug_title": "air-war-britain", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 460922, "title": "One Last Look", "original_title": "One Last Look", "slug_title": "one-last-look", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

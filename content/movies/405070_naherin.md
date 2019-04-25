@@ -1,1 +1,0 @@
-{"tmdb_id": 405070, "title": "N\u00e4herin", "original_title": "N\u00e4herin", "slug_title": "naherin", "date": "1930-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4ms47BfoYuabz5cSxuNXwFDL81Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

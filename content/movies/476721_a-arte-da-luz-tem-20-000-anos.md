@@ -1,1 +1,0 @@
-{"tmdb_id": 476721, "title": "A Arte da Luz Tem 20.000 Anos", "original_title": "A Arte da Luz Tem 20.000 Anos", "slug_title": "a-arte-da-luz-tem-20-000-anos", "date": "2014-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yEk9P0q9gmXxL8inckLCP63iChJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

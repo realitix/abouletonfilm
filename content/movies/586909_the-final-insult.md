@@ -1,1 +1,0 @@
-{"tmdb_id": 586909, "title": "The Final Insult", "original_title": "The Final Insult", "slug_title": "the-final-insult", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

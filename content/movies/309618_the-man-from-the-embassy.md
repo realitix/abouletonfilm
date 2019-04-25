@@ -1,1 +1,0 @@
-{"tmdb_id": 309618, "title": "The Man from the Embassy", "original_title": "The Man from the Embassy", "slug_title": "the-man-from-the-embassy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

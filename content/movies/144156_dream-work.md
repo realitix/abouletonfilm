@@ -1,1 +1,0 @@
-{"tmdb_id": 144156, "title": "Dream Work", "original_title": "Dream Work", "slug_title": "dream-work", "date": "2001-03-17", "genre": "", "score": "7.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/coCRGjjpaOYjzjGYJQtccIjTrdT.jpg", "actors": [], "comments": [], "recommandations_id": [146986, 145619, 132161, 129532]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 575536, "title": "Cold Chalk", "original_title": "Cold Chalk", "slug_title": "cold-chalk", "date": "2015-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/81ldE4xU1DmiWS3uycMPrnJ4uij.jpg", "actors": ["Julian Gingell (Ryan)"], "comments": [], "recommandations_id": []}

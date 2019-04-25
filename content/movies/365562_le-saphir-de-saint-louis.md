@@ -1,1 +1,0 @@
-{"tmdb_id": 365562, "title": "Le Saphir de Saint-Louis", "original_title": "Le Saphir de Saint-Louis", "slug_title": "le-saphir-de-saint-louis", "date": "2015-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5bvOfvcMlgF09KIcIARJz1q4rkN.jpg", "actors": [], "comments": [], "recommandations_id": []}

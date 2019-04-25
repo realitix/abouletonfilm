@@ -1,1 +1,0 @@
-{"tmdb_id": 528343, "title": "My Bitch of a Life", "original_title": "Marchienne de vie", "slug_title": "my-bitch-of-a-life", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

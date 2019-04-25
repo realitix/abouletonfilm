@@ -1,1 +1,0 @@
-{"tmdb_id": 463182, "title": "Yaare Koogadali", "original_title": "Yaare Koogadali", "slug_title": "yaare-koogadali", "date": "2012-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1WQDHX8KTI9yAjrwsh77luoZlJt.jpg", "actors": ["Puneeth Rajkumar (Kumara)", "Yogesh (Natesha)"], "comments": [], "recommandations_id": []}

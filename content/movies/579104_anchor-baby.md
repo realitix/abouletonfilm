@@ -1,1 +1,0 @@
-{"tmdb_id": 579104, "title": "Anchor Baby", "original_title": "Anchor Baby", "slug_title": "anchor-baby", "date": "2010-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7RyguTflO7I9O61mfEFhLhL5znG.jpg", "actors": [], "comments": [], "recommandations_id": []}

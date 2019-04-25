@@ -1,1 +1,0 @@
-{"tmdb_id": 52378, "title": "Rumah Pondok Indah", "original_title": "Rumah Pondok Indah", "slug_title": "rumah-pondok-indah", "date": "2006-05-17", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Asha Shara ()", "Ricky Chilnady Pratama Harun ()"], "comments": [], "recommandations_id": []}

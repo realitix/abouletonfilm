@@ -1,1 +1,0 @@
-{"tmdb_id": 324474, "title": "Show da Virada 2015", "original_title": "Show da Virada 2015", "slug_title": "show-da-virada-2015", "date": "2015-01-01", "genre": "Musique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AoDV1XpsiR5FPrsSbQKwAAZBF48.jpg", "actors": [], "comments": [], "recommandations_id": []}

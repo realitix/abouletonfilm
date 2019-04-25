@@ -1,1 +1,0 @@
-{"tmdb_id": 256578, "title": "The Subject of the Picture", "original_title": "Le sujet du tableau", "slug_title": "the-subject-of-the-picture", "date": "1989-01-01", "genre": "Animation", "score": "6.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [256584, 256471, 256575, 315647]}

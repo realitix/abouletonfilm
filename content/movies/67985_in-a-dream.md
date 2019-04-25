@@ -1,1 +1,0 @@
-{"tmdb_id": 67985, "title": "In a Dream", "original_title": "In a Dream", "slug_title": "in-a-dream", "date": "2009-09-29", "genre": "Documentaire", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6uy6azza5e2iXpsWc17TZtQnUx9.jpg", "actors": ["Isaiah Zagar (Himself)", "Julia Zagar (Herself)"], "comments": [], "recommandations_id": []}

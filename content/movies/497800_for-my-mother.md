@@ -1,1 +1,0 @@
-{"tmdb_id": 497800, "title": "For My Mother", "original_title": "For My Mother", "slug_title": "for-my-mother", "date": "2017-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hFvnrpQCGd6ubvJnRxdgnZqvG6K.jpg", "actors": [], "comments": [], "recommandations_id": []}

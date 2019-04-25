@@ -1,1 +1,0 @@
-{"tmdb_id": 184836, "title": "Five Thousand Meters", "original_title": "Five Thousand Meters", "slug_title": "five-thousand-meters", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 341358, "title": "A Tale of Love", "original_title": "A Tale of Love", "slug_title": "a-tale-of-love", "date": "1995-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/abRCw6I3Mhpc7ycBNTFJgB4cLE8.jpg", "actors": [], "comments": [], "recommandations_id": []}

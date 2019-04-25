@@ -1,1 +1,0 @@
-{"tmdb_id": 417511, "title": "C\u00e2mara Escura", "original_title": "C\u00e2mara Escura", "slug_title": "camara-escura", "date": "2012-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

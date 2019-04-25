@@ -1,1 +1,0 @@
-{"tmdb_id": 269575, "title": "H\u00e1gase tu voluntad", "original_title": "H\u00e1gase tu voluntad", "slug_title": "hagase-tu-voluntad", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Itat\u00ed Cantoral ()", "Dami\u00e1n Alc\u00e1zar ()", "Macarena Oz ()", "Adriana Barraza ()"], "comments": [], "recommandations_id": []}

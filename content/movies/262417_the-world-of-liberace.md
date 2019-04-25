@@ -1,1 +1,0 @@
-{"tmdb_id": 262417, "title": "The World of Liberace", "original_title": "The World of Liberace", "slug_title": "the-world-of-liberace", "date": "1972-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xR44VimyOrKsWTaQTfmQIygRFyT.jpg", "actors": [], "comments": [], "recommandations_id": []}

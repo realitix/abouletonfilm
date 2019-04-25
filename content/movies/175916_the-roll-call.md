@@ -1,1 +1,0 @@
-{"tmdb_id": 175916, "title": "The Roll-Call", "original_title": "Apel", "slug_title": "the-roll-call", "date": "1971-06-01", "genre": "Guerre / Animation / Drame", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AriTbghf7ZY6Y2qxWnHONR8sQwt.jpg", "actors": [], "comments": [], "recommandations_id": [150531, 128014, 142657, 117975]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 431209, "title": "The Snow Queen\u2019s Revenge", "original_title": "The Snow Queen\u2019s Revenge", "slug_title": "the-snow-queens-revenge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ilpT1uOg8y8bAFDfGiasutDydWf.jpg", "actors": [], "comments": [], "recommandations_id": []}

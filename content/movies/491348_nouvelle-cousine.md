@@ -1,1 +1,0 @@
-{"tmdb_id": 491348, "title": "Nouvelle Cousine", "original_title": "Nouvelle Cousine", "slug_title": "nouvelle-cousine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

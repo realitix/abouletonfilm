@@ -1,1 +1,0 @@
-{"tmdb_id": 513941, "title": "Bankrupt by Beanies", "original_title": "Bankrupt by Beanies", "slug_title": "bankrupt-by-beanies", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

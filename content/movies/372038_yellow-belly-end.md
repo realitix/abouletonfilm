@@ -1,1 +1,0 @@
-{"tmdb_id": 372038, "title": "Yellow Belly End", "original_title": "Yellow Belly End", "slug_title": "yellow-belly-end", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 353095, "title": "Drum Solo", "original_title": "Drum Solo", "slug_title": "drum-solo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

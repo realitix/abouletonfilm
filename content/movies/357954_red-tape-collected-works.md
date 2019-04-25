@@ -1,1 +1,0 @@
-{"tmdb_id": 357954, "title": "Red Tape: Collected Works", "original_title": "Red Tape: Collected Works", "slug_title": "red-tape-collected-works", "date": "1975-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ksImCdWiUMUwceQ3GCbH7dX0OoC.jpg", "actors": [], "comments": [], "recommandations_id": []}

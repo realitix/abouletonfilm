@@ -1,1 +1,0 @@
-{"tmdb_id": 342321, "title": "Dinner Conversation", "original_title": "Dinner Conversation", "slug_title": "dinner-conversation", "date": "2005-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

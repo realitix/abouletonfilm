@@ -1,1 +1,0 @@
-{"tmdb_id": 305169, "title": "Michael Buble: Simply Buble", "original_title": "Michael Buble: Simply Buble", "slug_title": "michael-buble-simply-buble", "date": "2014-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

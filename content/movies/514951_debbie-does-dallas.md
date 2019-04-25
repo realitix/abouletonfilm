@@ -1,1 +1,0 @@
-{"tmdb_id": 514951, "title": "Debbie Does Dallas", "original_title": "Debbie Does Dallas", "slug_title": "debbie-does-dallas", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1HBLpn8aNoEuKfhD1OYvHfDlQ5L.jpg", "actors": ["Bambi Woods (Debbie)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 371021, "title": "Batman and Friends", "original_title": "Batman and Friends", "slug_title": "batman-and-friends", "date": "2014-04-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A3rpdNl5S5JGqMwnpSH8U7bYbfu.jpg", "actors": [], "comments": [], "recommandations_id": []}

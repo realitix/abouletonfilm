@@ -1,1 +1,0 @@
-{"tmdb_id": 121712, "title": "Maori Boy Genius", "original_title": "Maori Boy Genius", "slug_title": "maori-boy-genius", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aJBtGAz9ebUv3LWHmtjJE9VXxLm.jpg", "actors": ["Ngaa Rauuira Pumanawawhiti (Himself)"], "comments": [], "recommandations_id": []}

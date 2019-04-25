@@ -1,1 +1,0 @@
-{"tmdb_id": 584285, "title": "Morden i Sandhamn 06 - I fel s\u00e4llskap", "original_title": "Morden i Sandhamn 06 - I fel s\u00e4llskap", "slug_title": "morden-i-sandhamn-06-i-fel-sallskap", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

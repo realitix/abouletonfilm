@@ -1,1 +1,0 @@
-{"tmdb_id": 70726, "title": "Learning to Freefly - Transitions", "original_title": "Learning to Freefly - Transitions", "slug_title": "learning-to-freefly-transitions", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jhKg1sTHHpVx6Id3woS1tWVvDa0.jpg", "actors": [], "comments": [], "recommandations_id": []}

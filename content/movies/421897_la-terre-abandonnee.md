@@ -1,1 +1,0 @@
-{"tmdb_id": 421897, "title": "La Terre Abandonn\u00e9e", "original_title": "La Terre Abandonn\u00e9e", "slug_title": "la-terre-abandonnee", "date": "2016-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bb4ViucWmC8FaO6cOsTh4KSJKXY.jpg", "actors": [], "comments": [], "recommandations_id": []}

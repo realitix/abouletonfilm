@@ -1,1 +1,0 @@
-{"tmdb_id": 272215, "title": "Sea the Truth", "original_title": "Sea the Truth", "slug_title": "sea-the-truth", "date": "2010-10-05", "genre": "Documentaire", "score": "4.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

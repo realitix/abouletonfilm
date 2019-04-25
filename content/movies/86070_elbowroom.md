@@ -1,1 +1,0 @@
-{"tmdb_id": 86070, "title": "Elbowroom", "original_title": "Soom", "slug_title": "elbowroom", "date": "2010-07-05", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9kAQZW0ZlCIvA19TaTwZaxONnUA.jpg", "actors": ["Park Ji-won ()", "Hong Seok-yeon ()", "Yeon-Sook Shin ()"], "comments": [], "recommandations_id": []}

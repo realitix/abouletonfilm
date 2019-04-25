@@ -1,1 +1,0 @@
-{"tmdb_id": 413024, "title": "Oscar Saa, Technician of the Stars", "original_title": "Oscar Saa, el t\u00e9cnico de las estrellas", "slug_title": "oscar-saa-technician-of-the-stars", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

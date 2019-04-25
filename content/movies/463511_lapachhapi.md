@@ -1,1 +1,0 @@
-{"tmdb_id": 463511, "title": "Lapachhapi", "original_title": "Lapachhapi", "slug_title": "lapachhapi", "date": "2016-01-01", "genre": "Thriller / Drame / Horreur / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

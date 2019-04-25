@@ -1,1 +1,0 @@
-{"tmdb_id": 478739, "title": "Deconstructing Supper - Is Your Food Safe", "original_title": "Deconstructing Supper - Is Your Food Safe", "slug_title": "deconstructing-supper-is-your-food-safe", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

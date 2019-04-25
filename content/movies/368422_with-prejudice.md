@@ -1,1 +1,0 @@
-{"tmdb_id": 368422, "title": "With Prejudice", "original_title": "With Prejudice", "slug_title": "with-prejudice", "date": "1983-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pytkzNalWzBMl3s9BYW78BVkfyq.jpg", "actors": [], "comments": [], "recommandations_id": []}

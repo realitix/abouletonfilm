@@ -1,1 +1,0 @@
-{"tmdb_id": 429605, "title": "Billie Holiday: Strange Fruit", "original_title": "Billie Holiday: Strange Fruit", "slug_title": "billie-holiday-strange-fruit", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

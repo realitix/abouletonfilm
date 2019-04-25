@@ -1,1 +1,0 @@
-{"tmdb_id": 437805, "title": "Joanna Hall 28 Day Total Body Plan", "original_title": "Joanna Hall 28 Day Total Body Plan", "slug_title": "joanna-hall-28-day-total-body-plan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

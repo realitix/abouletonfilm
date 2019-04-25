@@ -1,1 +1,0 @@
-{"tmdb_id": 492531, "title": "The Adventures of Superboy", "original_title": "The Adventures of Superboy", "slug_title": "the-adventures-of-superboy", "date": "1961-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xxpFBWXKJsoz82fl0oib3lAq7QD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 540819, "title": "Lens Hand Foot", "original_title": "Lens Hand Foot", "slug_title": "lens-hand-foot", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5qGuQNEoFK0B5TvpHHAp6xLUmSV.jpg", "actors": [], "comments": [], "recommandations_id": []}

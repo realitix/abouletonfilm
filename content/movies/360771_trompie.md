@@ -1,1 +1,0 @@
-{"tmdb_id": 360771, "title": "Trompie", "original_title": "Trompie", "slug_title": "trompie", "date": "1975-04-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wYJbIWb7YbCaiQDTawxUYtgN7Sc.jpg", "actors": ["Andre Laubscher (Trompie Toerien)"], "comments": [], "recommandations_id": []}

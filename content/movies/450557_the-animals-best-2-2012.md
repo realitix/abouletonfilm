@@ -1,1 +1,0 @@
-{"tmdb_id": 450557, "title": "The Animals - Best 2 (2012)", "original_title": "The Animals - Best 2 (2012)", "slug_title": "the-animals-best-2-2012", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5ynp3cz17BJwueyL1KUui5rLOkB.jpg", "actors": [], "comments": [], "recommandations_id": []}

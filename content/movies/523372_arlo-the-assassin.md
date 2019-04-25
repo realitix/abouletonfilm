@@ -1,1 +1,0 @@
-{"tmdb_id": 523372, "title": "ARLO: THE ASSASSIN", "original_title": "ARLO: THE ASSASSIN", "slug_title": "arlo-the-assassin", "date": "2015-12-25", "genre": "Action / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jKmi2yEzSd2YgfhglobfsUCNGaD.jpg", "actors": [], "comments": [], "recommandations_id": []}

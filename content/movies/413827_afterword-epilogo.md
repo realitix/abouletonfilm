@@ -1,1 +1,0 @@
-{"tmdb_id": 413827, "title": "Afterword (Ep\u00edlogo)", "original_title": "Afterword (Ep\u00edlogo)", "slug_title": "afterword-epilogo", "date": "2014-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2CL8i5RKUBf71msWa2UAH2akl2G.jpg", "actors": [], "comments": [], "recommandations_id": []}

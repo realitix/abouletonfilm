@@ -1,1 +1,0 @@
-{"tmdb_id": 479866, "title": "Jeff Koons: The Whitney Retrospective", "original_title": "Jeff Koons: The Whitney Retrospective", "slug_title": "jeff-koons-the-whitney-retrospective", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeff Koons (Himself)"], "comments": [], "recommandations_id": []}

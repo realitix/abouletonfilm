@@ -1,1 +1,0 @@
-{"tmdb_id": 94006, "title": "Disco Biscuits - Live at the Palladium", "original_title": "Disco Biscuits - Live at the Palladium", "slug_title": "disco-biscuits-live-at-the-palladium", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

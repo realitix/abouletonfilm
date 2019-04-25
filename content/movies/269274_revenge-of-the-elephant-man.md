@@ -1,1 +1,0 @@
-{"tmdb_id": 269274, "title": "Revenge of the Elephant Man", "original_title": "Revenge of the Elephant Man", "slug_title": "revenge-of-the-elephant-man", "date": "2004-07-14", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lisi Tribble ()", "Ken Russell ()"], "comments": [], "recommandations_id": []}

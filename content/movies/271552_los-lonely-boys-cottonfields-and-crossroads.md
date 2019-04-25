@@ -1,1 +1,0 @@
-{"tmdb_id": 271552, "title": "Los Lonely Boys: Cottonfields and Crossroads", "original_title": "Los Lonely Boys: Cottonfields and Crossroads", "slug_title": "los-lonely-boys-cottonfields-and-crossroads", "date": "2008-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

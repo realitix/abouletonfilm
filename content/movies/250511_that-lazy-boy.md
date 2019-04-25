@@ -1,1 +1,0 @@
-{"tmdb_id": 250511, "title": "That Lazy Boy", "original_title": "X\u00e1ni X\u00e9pika (\u00a1Este flojo!)", "slug_title": "that-lazy-boy", "date": "2008-08-12", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ibq19mTP2JGrZP8511HvERP4seE.jpg", "actors": [], "comments": [], "recommandations_id": []}

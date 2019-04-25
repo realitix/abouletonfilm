@@ -1,1 +1,0 @@
-{"tmdb_id": 383716, "title": "Goofy Movies Number Four", "original_title": "Goofy Movies Number Four", "slug_title": "goofy-movies-number-four", "date": "1934-05-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator (voice))"], "comments": [], "recommandations_id": []}

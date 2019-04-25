@@ -1,1 +1,0 @@
-{"tmdb_id": 332336, "title": "Paperback Dreams", "original_title": "Paperback Dreams", "slug_title": "paperback-dreams", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d50MbHv9Fs62Y6nGv37OnTGFAk1.jpg", "actors": [], "comments": [], "recommandations_id": []}

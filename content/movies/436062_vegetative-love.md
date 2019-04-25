@@ -1,1 +1,0 @@
-{"tmdb_id": 436062, "title": "Vegetative Love", "original_title": "Vegetative Love", "slug_title": "vegetative-love", "date": "2013-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iYX14qzH5UepdEk6V5jE4wYNxeB.jpg", "actors": [], "comments": [], "recommandations_id": []}

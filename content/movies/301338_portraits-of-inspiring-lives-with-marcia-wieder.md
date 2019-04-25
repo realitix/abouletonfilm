@@ -1,1 +1,0 @@
-{"tmdb_id": 301338, "title": "Portraits of Inspiring Lives with Marcia Wieder", "original_title": "Portraits of Inspiring Lives with Marcia Wieder", "slug_title": "portraits-of-inspiring-lives-with-marcia-wieder", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

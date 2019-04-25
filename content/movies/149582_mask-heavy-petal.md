@@ -1,1 +1,0 @@
-{"tmdb_id": 149582, "title": "MASK - Heavy Petal", "original_title": "MASK - Heavy Petal", "slug_title": "mask-heavy-petal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eWEhb4pNgeHsTt2hx0F7DDQ2Cab.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 302751, "title": "Encuere", "original_title": "Encuere", "slug_title": "encuere", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

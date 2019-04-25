@@ -1,1 +1,0 @@
-{"tmdb_id": 137243, "title": "Mock The Week - Too Hot for TV", "original_title": "Mock The Week - Too Hot for TV", "slug_title": "mock-the-week-too-hot-for-tv", "date": "2005-12-10", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4rbiyPwX0WTb2mZpoDiry7ctDay.jpg", "actors": [], "comments": [], "recommandations_id": []}

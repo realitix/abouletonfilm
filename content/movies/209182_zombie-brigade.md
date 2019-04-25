@@ -1,1 +1,0 @@
-{"tmdb_id": 209182, "title": "Zombie Brigade", "original_title": "Zombie Brigade", "slug_title": "zombie-brigade", "date": "1986-05-22", "genre": "Action / Horreur / Com\u00e9die", "score": "2.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ytjnFOmb0BPeL02KVvgPScJkftW.jpg", "actors": [], "comments": [], "recommandations_id": []}

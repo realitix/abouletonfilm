@@ -1,1 +1,0 @@
-{"tmdb_id": 430564, "title": "Very Funny, Charlie Brown", "original_title": "Very Funny, Charlie Brown", "slug_title": "very-funny-charlie-brown", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rGbmR0BO1RhJp8RegRAvbwhTC0s.jpg", "actors": [], "comments": [], "recommandations_id": []}

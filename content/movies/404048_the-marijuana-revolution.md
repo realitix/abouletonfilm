@@ -1,1 +1,0 @@
-{"tmdb_id": 404048, "title": "The Marijuana Revolution", "original_title": "THE MARIJUANA REVOLUTION", "slug_title": "the-marijuana-revolution", "date": "2016-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lCBY4Dfy92zVOn75OW9b5qnw14T.jpg", "actors": [], "comments": [], "recommandations_id": []}

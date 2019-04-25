@@ -1,1 +1,0 @@
-{"tmdb_id": 235115, "title": "Hide and Peak", "original_title": "Hide and Peak", "slug_title": "hide-and-peak", "date": "1956-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

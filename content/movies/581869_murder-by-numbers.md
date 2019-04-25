@@ -1,1 +1,0 @@
-{"tmdb_id": 581869, "title": "Murder by Numbers", "original_title": "Murder by Numbers", "slug_title": "murder-by-numbers", "date": "1990-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vka0ygiDeMZSO1pR6YwFscmz8FG.jpg", "actors": [], "comments": [], "recommandations_id": []}

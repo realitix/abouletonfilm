@@ -1,1 +1,0 @@
-{"tmdb_id": 184558, "title": "Towne Hall Follies", "original_title": "Towne Hall Follies", "slug_title": "towne-hall-follies", "date": "1935-06-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

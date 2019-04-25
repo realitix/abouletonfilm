@@ -1,1 +1,0 @@
-{"tmdb_id": 453382, "title": "Mottainai", "original_title": "\u3082\u3063\u305f\u3044\u306a\u3044", "slug_title": "mottainai", "date": "2015-07-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aKhj25jqqLZ6OTnrTgaoC0Gl94H.jpg", "actors": [], "comments": [], "recommandations_id": []}

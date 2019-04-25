@@ -1,1 +1,0 @@
-{"tmdb_id": 555901, "title": "Les parias de l'amour", "original_title": "Les parias de l'amour", "slug_title": "les-parias-de-l-amour", "date": "1922-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

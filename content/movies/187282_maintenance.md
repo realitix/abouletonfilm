@@ -1,1 +1,0 @@
-{"tmdb_id": 187282, "title": "Maintenance", "original_title": "Maintenance", "slug_title": "maintenance", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Benning (Himself)"], "comments": [], "recommandations_id": []}

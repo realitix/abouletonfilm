@@ -1,1 +1,0 @@
-{"tmdb_id": 67511, "title": "Brooks and Dunn: The Last Rodeo", "original_title": "Brooks and Dunn: The Last Rodeo", "slug_title": "brooks-and-dunn-the-last-rodeo", "date": "2010-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4lSuDTVA5ADI0Etd1vKq7rQGLWk.jpg", "actors": [], "comments": [], "recommandations_id": []}

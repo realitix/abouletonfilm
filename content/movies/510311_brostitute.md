@@ -1,1 +1,0 @@
-{"tmdb_id": 510311, "title": "Brostitute", "original_title": "Brostitute", "slug_title": "brostitute", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tim Roth ()"], "comments": [], "recommandations_id": []}

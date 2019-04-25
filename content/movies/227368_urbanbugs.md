@@ -1,1 +1,0 @@
-{"tmdb_id": 227368, "title": "Urbanbugs", "original_title": "Urbanbugs", "slug_title": "urbanbugs", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qU5hZjfnJgBU4Y0zBqsQFLodtbR.jpg", "actors": [], "comments": [], "recommandations_id": []}

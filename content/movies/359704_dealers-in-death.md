@@ -1,1 +1,0 @@
-{"tmdb_id": 359704, "title": "Dealers in Death", "original_title": "Dealers in Death", "slug_title": "dealers-in-death", "date": "1984-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Broderick Crawford (Narrator)"], "comments": [], "recommandations_id": []}

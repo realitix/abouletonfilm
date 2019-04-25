@@ -1,1 +1,0 @@
-{"tmdb_id": 62959, "title": "Lumpia", "original_title": "Lumpia", "slug_title": "lumpia", "date": "2003-01-01", "genre": "Action / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

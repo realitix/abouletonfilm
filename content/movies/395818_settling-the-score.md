@@ -1,1 +1,0 @@
-{"tmdb_id": 395818, "title": "Settling the Score", "original_title": "Settling the Score", "slug_title": "settling-the-score", "date": "2005-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

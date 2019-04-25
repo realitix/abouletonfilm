@@ -1,1 +1,0 @@
-{"tmdb_id": 474362, "title": "Apocalypse", "original_title": "Apocalypse", "slug_title": "apocalypse", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

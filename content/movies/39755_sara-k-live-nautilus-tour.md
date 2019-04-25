@@ -1,1 +1,0 @@
-{"tmdb_id": 39755, "title": "Sara K. Live: Nautilus Tour", "original_title": "Sara K. Live: Nautilus Tour", "slug_title": "sara-k-live-nautilus-tour", "date": "2003-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wGQRWHKtz2dPlfwbRqW6fuoGyip.jpg", "actors": [], "comments": [], "recommandations_id": []}

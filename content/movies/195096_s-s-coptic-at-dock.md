@@ -1,1 +1,0 @@
-{"tmdb_id": 195096, "title": "S.S. 'Coptic' at Dock", "original_title": "S.S. 'Coptic' at Dock", "slug_title": "s-s-coptic-at-dock", "date": "1897-10-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

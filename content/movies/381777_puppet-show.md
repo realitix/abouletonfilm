@@ -1,1 +1,0 @@
-{"tmdb_id": 381777, "title": "Puppet Show", "original_title": "Puppet Show", "slug_title": "puppet-show", "date": "2008-07-01", "genre": "Horreur", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ZJCKSwsNyjpGBljuJyZe7WYH4p.jpg", "actors": [], "comments": [], "recommandations_id": []}

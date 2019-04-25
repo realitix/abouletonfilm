@@ -1,1 +1,0 @@
-{"tmdb_id": 173450, "title": "The Dover Road Mystery", "original_title": "The Dover Road Mystery", "slug_title": "the-dover-road-mystery", "date": "1960-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edgar Lustgarten (Host)", "Geoffrey Keen (Superintendent Graham)"], "comments": [], "recommandations_id": []}

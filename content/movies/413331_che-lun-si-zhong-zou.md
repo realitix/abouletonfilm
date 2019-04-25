@@ -1,1 +1,0 @@
-{"tmdb_id": 413331, "title": "\u8f66\u8f6e\u56db\u91cd\u594f", "original_title": "\u8f66\u8f6e\u56db\u91cd\u594f", "slug_title": "che-lun-si-zhong-zou", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ek9RKiS0gUg80ojjvmfPq87agiI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 345031, "title": "A Little Journey", "original_title": "Jedno malo putovanje", "slug_title": "a-little-journey", "date": "1975-07-09", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

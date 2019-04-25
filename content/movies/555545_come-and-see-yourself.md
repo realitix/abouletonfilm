@@ -1,1 +1,0 @@
-{"tmdb_id": 555545, "title": "Come and See Yourself", "original_title": "Come and See Yourself", "slug_title": "come-and-see-yourself", "date": "2017-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uO0qOAag56aQdirmBKhCdeHrqnG.jpg", "actors": ["Megumi Hayashibara ()"], "comments": [], "recommandations_id": []}

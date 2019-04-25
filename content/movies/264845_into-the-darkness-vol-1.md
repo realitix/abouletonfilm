@@ -1,1 +1,0 @@
-{"tmdb_id": 264845, "title": "Into The Darkness Vol. 1", "original_title": "Into The Darkness Vol. 1", "slug_title": "into-the-darkness-vol-1", "date": "2004-09-27", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pQtKBxFP9VASKVVM6qUoChMwyav.jpg", "actors": [], "comments": [], "recommandations_id": []}

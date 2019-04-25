@@ -1,1 +1,0 @@
-{"tmdb_id": 446775, "title": "Little Hoop Dreams", "original_title": "Little Hoop Dreams", "slug_title": "little-hoop-dreams", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

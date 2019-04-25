@@ -1,1 +1,0 @@
-{"tmdb_id": 530035, "title": "Bericht von einem verlassenen Planeten", "original_title": "Bericht von einem verlassenen Planeten", "slug_title": "bericht-von-einem-verlassenen-planeten", "date": "1984-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

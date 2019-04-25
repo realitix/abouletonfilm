@@ -1,1 +1,0 @@
-{"tmdb_id": 271490, "title": "Chris Porter: Screaming from the Cosmos", "original_title": "Chris Porter: Screaming from the Cosmos", "slug_title": "chris-porter-screaming-from-the-cosmos", "date": "2009-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 273440, "title": "The House Behind the Cedars", "original_title": "The House Behind the Cedars", "slug_title": "the-house-behind-the-cedars", "date": "1927-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shingzie Howard ()", "Andrew Bishop ()", "Lawrence Chenault ()"], "comments": [], "recommandations_id": []}

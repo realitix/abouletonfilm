@@ -1,1 +1,0 @@
-{"tmdb_id": 316642, "title": "Great Women Writers: Emily Dickinson", "original_title": "Great Women Writers: Emily Dickinson", "slug_title": "great-women-writers-emily-dickinson", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

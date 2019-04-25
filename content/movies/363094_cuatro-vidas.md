@@ -1,1 +1,0 @@
-{"tmdb_id": 363094, "title": "Cuatro vidas", "original_title": "Cuatro vidas", "slug_title": "cuatro-vidas", "date": "1949-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Antonio Bad\u00fa ()", "Esther Fern\u00e1ndez ()", "Carmen Molina ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 409548, "title": "Spirit of Love: The Mike Glenn Story", "original_title": "Spirit of Love: The Mike Glenn Story", "slug_title": "spirit-of-love-the-mike-glenn-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

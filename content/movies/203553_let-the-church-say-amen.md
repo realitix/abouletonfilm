@@ -1,1 +1,0 @@
-{"tmdb_id": 203553, "title": "Let the Church Say, Amen", "original_title": "Let the Church Say, Amen", "slug_title": "let-the-church-say-amen", "date": "2003-06-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rsqOMM7spoMdgWc3QMuoqxjnf0u.jpg", "actors": [], "comments": [], "recommandations_id": []}

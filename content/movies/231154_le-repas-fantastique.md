@@ -1,1 +1,0 @@
-{"tmdb_id": 231154, "title": "Le repas fantastique", "original_title": "Le repas fantastique", "slug_title": "le-repas-fantastique", "date": "1903-01-18", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/haJTrFSdY7R4Ddp8YxoWLrPFM0T.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 543618, "title": "Ishihara", "original_title": "Ishihara", "slug_title": "ishihara", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

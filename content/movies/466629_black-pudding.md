@@ -1,1 +1,0 @@
-{"tmdb_id": 466629, "title": "Black Pudding", "original_title": "Black Pudding", "slug_title": "black-pudding", "date": "1971-10-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

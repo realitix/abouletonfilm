@@ -1,1 +1,0 @@
-{"tmdb_id": 471630, "title": "Rorri Racerbil - TV-Stj\u00e4rnan", "original_title": "Rorri Racerbil - TV-Stj\u00e4rnan", "slug_title": "rorri-racerbil-tv-stjarnan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jJsTis8C4A1DHWbWcHtOcaIfmPn.jpg", "actors": [], "comments": [], "recommandations_id": []}

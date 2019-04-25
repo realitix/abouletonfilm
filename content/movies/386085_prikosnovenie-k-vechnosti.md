@@ -1,1 +1,0 @@
-{"tmdb_id": 386085, "title": "Prikosnovenie K Vechnosti", "original_title": "Prikosnovenie K Vechnosti", "slug_title": "prikosnovenie-k-vechnosti", "date": "1966-12-31", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/42iXCv7AuyLTCeJLn1oqgSKR7wq.jpg", "actors": [], "comments": [], "recommandations_id": []}

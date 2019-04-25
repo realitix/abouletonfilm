@@ -1,1 +1,0 @@
-{"tmdb_id": 78462, "title": "The Estate Film", "original_title": "The Estate Film", "slug_title": "the-estate-film", "date": "2011-08-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c7ZmKKckK40B7xG42ByGq3z5iFG.jpg", "actors": [], "comments": [], "recommandations_id": []}

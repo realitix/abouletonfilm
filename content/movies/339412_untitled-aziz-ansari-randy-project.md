@@ -1,1 +1,0 @@
-{"tmdb_id": 339412, "title": "Untitled Aziz Ansari/Randy Project", "original_title": "Untitled Aziz Ansari/Randy Project", "slug_title": "untitled-aziz-ansari-randy-project", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aziz Ansari (Randy)"], "comments": [], "recommandations_id": []}

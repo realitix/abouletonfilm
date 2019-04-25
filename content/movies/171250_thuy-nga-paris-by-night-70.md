@@ -1,1 +1,0 @@
-{"tmdb_id": 171250, "title": "Thuy Nga Paris By Night 70", "original_title": "Thuy Nga Paris By Night 70", "slug_title": "thuy-nga-paris-by-night-70", "date": "2003-09-12", "genre": "Musique", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2nW9fmVaSjjLSKKRzizwDXuSixW.jpg", "actors": [], "comments": [], "recommandations_id": []}

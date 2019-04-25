@@ -1,1 +1,0 @@
-{"tmdb_id": 235070, "title": "O Curupira", "original_title": "O Curupira", "slug_title": "o-curupira", "date": "2003-01-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9P3Rh8t4Yj6O4KL9q7NgpwIYA9g.jpg", "actors": [], "comments": [], "recommandations_id": []}

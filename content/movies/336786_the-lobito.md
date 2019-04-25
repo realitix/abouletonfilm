@@ -1,1 +1,0 @@
-{"tmdb_id": 336786, "title": "The Lobito", "original_title": "The Lobito", "slug_title": "the-lobito", "date": "2013-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yz2dNCm4j1V2VHCNETCWBIAIdFN.jpg", "actors": [], "comments": [], "recommandations_id": []}

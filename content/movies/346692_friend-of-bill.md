@@ -1,1 +1,0 @@
-{"tmdb_id": 346692, "title": "Friend of Bill", "original_title": "Friend of Bill", "slug_title": "friend-of-bill", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

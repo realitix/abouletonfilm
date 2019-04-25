@@ -1,1 +1,0 @@
-{"tmdb_id": 556990, "title": "Le capitaine Craddock", "original_title": "Le capitaine Craddock", "slug_title": "le-capitaine-craddock", "date": "1931-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

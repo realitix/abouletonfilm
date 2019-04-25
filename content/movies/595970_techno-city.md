@@ -1,1 +1,0 @@
-{"tmdb_id": 595970, "title": "Techno City", "original_title": "Techno City", "slug_title": "techno-city", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

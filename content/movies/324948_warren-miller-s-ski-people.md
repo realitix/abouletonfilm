@@ -1,1 +1,0 @@
-{"tmdb_id": 324948, "title": "Warren Miller's Ski People", "original_title": "Warren Miller's Ski People", "slug_title": "warren-miller-s-ski-people", "date": "2015-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

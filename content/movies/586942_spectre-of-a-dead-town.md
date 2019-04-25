@@ -1,1 +1,0 @@
-{"tmdb_id": 586942, "title": "Spectre of a Dead Town", "original_title": "Spectre of a Dead Town", "slug_title": "spectre-of-a-dead-town", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556090, "title": "L'aventureuse", "original_title": "L'aventureuse", "slug_title": "l-aventureuse", "date": "1924-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

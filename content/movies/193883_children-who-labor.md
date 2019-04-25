@@ -1,1 +1,0 @@
-{"tmdb_id": 193883, "title": "Children Who Labor", "original_title": "Children Who Labor", "slug_title": "children-who-labor", "date": "1912-02-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6dld47Ay5Rjj6CLkPuLGSftcEty.jpg", "actors": [], "comments": [], "recommandations_id": []}

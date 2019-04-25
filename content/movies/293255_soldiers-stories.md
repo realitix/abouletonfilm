@@ -1,1 +1,0 @@
-{"tmdb_id": 293255, "title": "Soldiers' Stories", "original_title": "Soldiers' Stories", "slug_title": "soldiers-stories", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

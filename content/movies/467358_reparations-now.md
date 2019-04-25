@@ -1,1 +1,0 @@
-{"tmdb_id": 467358, "title": "Reparations... Now", "original_title": "Reparations... Now", "slug_title": "reparations-now", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f0Pb8Ml6lRP3HybyEPluUoj3zV6.jpg", "actors": [], "comments": [], "recommandations_id": []}

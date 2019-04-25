@@ -1,1 +1,0 @@
-{"tmdb_id": 460680, "title": "Butterfly Hunter", "original_title": "Butterfly Hunter", "slug_title": "butterfly-hunter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

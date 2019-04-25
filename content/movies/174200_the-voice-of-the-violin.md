@@ -1,1 +1,0 @@
-{"tmdb_id": 174200, "title": "The Voice of the Violin", "original_title": "The Voice of the Violin", "slug_title": "the-voice-of-the-violin", "date": "1915-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ugZwqPGLX6O96od5ugac1ZlIF1b.jpg", "actors": [], "comments": [], "recommandations_id": []}

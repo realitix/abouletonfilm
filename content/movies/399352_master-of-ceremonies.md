@@ -1,1 +1,0 @@
-{"tmdb_id": 399352, "title": "Master of Ceremonies", "original_title": "Master of Ceremonies", "slug_title": "master-of-ceremonies", "date": "1987-05-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7xcgjiZZopphVcz5dF9fREHM1Ld.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 483959, "title": "Jeff Beck: Baloise Session 2016", "original_title": "Jeff Beck: Baloise Session 2016", "slug_title": "jeff-beck-baloise-session-2016", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o5OvFR5vH6SUgyvFWGka6dFA3FP.jpg", "actors": [], "comments": [], "recommandations_id": []}

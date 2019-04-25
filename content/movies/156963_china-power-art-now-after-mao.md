@@ -1,1 +1,0 @@
-{"tmdb_id": 156963, "title": "China Power: Art Now After Mao", "original_title": "China Power: Art Now After Mao", "slug_title": "china-power-art-now-after-mao", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/siFkDPthhLiQcgLPCIgnZz8Uxqt.jpg", "actors": [], "comments": [], "recommandations_id": []}

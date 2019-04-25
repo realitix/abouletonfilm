@@ -1,1 +1,0 @@
-{"tmdb_id": 579308, "title": "True Story", "original_title": "True Story", "slug_title": "true-story", "date": "2019-01-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8viZKBexj1hqKbevBGK6WzPguPg.jpg", "actors": ["Street Lotto ()"], "comments": [], "recommandations_id": []}

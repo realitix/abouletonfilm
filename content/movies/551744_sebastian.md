@@ -1,1 +1,0 @@
-{"tmdb_id": 551744, "title": "Sebastian", "original_title": "Sebastian", "slug_title": "sebastian", "date": "2018-03-10", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Angelo Favreau (Ghost Kid Angelo)", "Bryson JonSteele (Sebastian)"], "comments": [], "recommandations_id": []}

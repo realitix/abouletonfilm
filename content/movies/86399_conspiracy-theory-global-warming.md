@@ -1,1 +1,0 @@
-{"tmdb_id": 86399, "title": "Conspiracy Theory Global Warming", "original_title": "Conspiracy Theory Global Warming", "slug_title": "conspiracy-theory-global-warming", "date": "2009-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

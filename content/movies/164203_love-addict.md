@@ -1,1 +1,0 @@
-{"tmdb_id": 164203, "title": "Love Addict", "original_title": "Love Addict", "slug_title": "love-addict", "date": "2012-04-05", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wHZgqWH3MxJ5IHCS4u5ofZFp1g5.jpg", "actors": [], "comments": [], "recommandations_id": []}

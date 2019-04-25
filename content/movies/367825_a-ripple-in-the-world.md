@@ -1,1 +1,0 @@
-{"tmdb_id": 367825, "title": "A Ripple in the World", "original_title": "A Ripple in the World", "slug_title": "a-ripple-in-the-world", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

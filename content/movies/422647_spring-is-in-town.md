@@ -1,1 +1,0 @@
-{"tmdb_id": 422647, "title": "Spring Is in Town", "original_title": "\u6625\u6eff\u9999\u57ce", "slug_title": "spring-is-in-town", "date": "1952-10-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ho Fei-Fan ()", "Fong Yim-Fen ()", "Ng Cho-Fan ()", "Tsi Law-Lin ()"], "comments": [], "recommandations_id": []}

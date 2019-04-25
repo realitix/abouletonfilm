@@ -1,1 +1,0 @@
-{"tmdb_id": 549146, "title": "Saint-J\u00e9r\u00f4me", "original_title": "Saint-J\u00e9r\u00f4me", "slug_title": "saint-jerome", "date": "1968-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

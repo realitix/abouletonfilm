@@ -1,1 +1,0 @@
-{"tmdb_id": 351628, "title": "Flower, the Boy, the Librarian", "original_title": "Flower, the Boy, the Librarian", "slug_title": "flower-the-boy-the-librarian", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

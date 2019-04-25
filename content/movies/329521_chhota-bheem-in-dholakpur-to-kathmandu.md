@@ -1,1 +1,0 @@
-{"tmdb_id": 329521, "title": "Chhota Bheem In Dholakpur to Kathmandu", "original_title": "Chhota Bheem In Dholakpur to Kathmandu", "slug_title": "chhota-bheem-in-dholakpur-to-kathmandu", "date": "2012-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

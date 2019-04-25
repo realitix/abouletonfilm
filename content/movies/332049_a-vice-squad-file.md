@@ -1,1 +1,0 @@
-{"tmdb_id": 332049, "title": "A Vice Squad File", "original_title": "Malaf Fi-l-Adab", "slug_title": "a-vice-squad-file", "date": "1986-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h2vPLrhrcRHmOeLRPszDBSHM7sb.jpg", "actors": [], "comments": [], "recommandations_id": []}

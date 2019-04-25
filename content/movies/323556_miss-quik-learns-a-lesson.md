@@ -1,1 +1,0 @@
-{"tmdb_id": 323556, "title": "Miss Quik-Learns a Lesson", "original_title": "Miss Quik-Learns a Lesson", "slug_title": "miss-quik-learns-a-lesson", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

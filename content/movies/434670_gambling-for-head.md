@@ -1,1 +1,0 @@
-{"tmdb_id": 434670, "title": "Gambling For Head", "original_title": "Gambling For Head", "slug_title": "gambling-for-head", "date": "1975-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6eX7cR7Tr0fyADe9wicwvTg5YwK.jpg", "actors": [], "comments": [], "recommandations_id": []}

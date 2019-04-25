@@ -1,1 +1,0 @@
-{"tmdb_id": 222394, "title": "Sniffer", "original_title": "Anwar Ka Ajab Kissa", "slug_title": "sniffer", "date": "2013-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2bvH1VYCYrxKD8zMGS4uOZpKpBq.jpg", "actors": [], "comments": [], "recommandations_id": []}

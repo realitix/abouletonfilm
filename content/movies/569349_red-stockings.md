@@ -1,1 +1,0 @@
-{"tmdb_id": 569349, "title": "Red Stockings", "original_title": "Red Stockings", "slug_title": "red-stockings", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

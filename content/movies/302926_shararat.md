@@ -1,1 +1,0 @@
-{"tmdb_id": 302926, "title": "Shararat", "original_title": "Shararat", "slug_title": "shararat", "date": "2002-07-12", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zkv7HCls4LyF8qgtr32B1YiIEhk.jpg", "actors": [], "comments": [], "recommandations_id": []}

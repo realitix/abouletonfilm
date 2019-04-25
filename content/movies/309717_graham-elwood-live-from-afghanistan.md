@@ -1,1 +1,0 @@
-{"tmdb_id": 309717, "title": "Graham Elwood: Live from Afghanistan", "original_title": "Graham Elwood: Live from Afghanistan", "slug_title": "graham-elwood-live-from-afghanistan", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

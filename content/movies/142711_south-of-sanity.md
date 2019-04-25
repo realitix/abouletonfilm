@@ -1,1 +1,0 @@
-{"tmdb_id": 142711, "title": "South of Sanity", "original_title": "South of Sanity", "slug_title": "south-of-sanity", "date": "2012-10-31", "genre": "Horreur", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/28WFnBEdRnSQ85Z5muxnjOqGftL.jpg", "actors": [], "comments": [], "recommandations_id": []}

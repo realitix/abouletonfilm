@@ -1,1 +1,0 @@
-{"tmdb_id": 277298, "title": "Blackstreet's Hot Summer Jam", "original_title": "Blackstreet's Hot Summer Jam", "slug_title": "blackstreet-s-hot-summer-jam", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

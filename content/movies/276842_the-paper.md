@@ -1,1 +1,0 @@
-{"tmdb_id": 276842, "title": "The Paper", "original_title": "The Paper", "slug_title": "the-paper", "date": "2007-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zJ8FLq67N8KqrsGoSyBaSxezvLs.jpg", "actors": [], "comments": [], "recommandations_id": []}

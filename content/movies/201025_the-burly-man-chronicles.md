@@ -1,1 +1,0 @@
-{"tmdb_id": 201025, "title": "The Burly Man Chronicles", "original_title": "The Burly Man Chronicles", "slug_title": "the-burly-man-chronicles", "date": "2004-12-04", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r7JE5zzJtOWi0wkQpbtgqSRmf3J.jpg", "actors": [], "comments": [], "recommandations_id": []}

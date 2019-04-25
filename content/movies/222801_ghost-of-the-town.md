@@ -1,1 +1,0 @@
-{"tmdb_id": 222801, "title": "Ghost of the Town", "original_title": "Ghost of the Town", "slug_title": "ghost-of-the-town", "date": "1952-04-10", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

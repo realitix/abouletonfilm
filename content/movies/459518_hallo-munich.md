@@ -1,1 +1,0 @@
-{"tmdb_id": 459518, "title": "Hallo, Munich", "original_title": "Halo, M\u00fcnchen", "slug_title": "hallo-munich", "date": "1968-04-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/scVTfajaEkHdIsa2ceo1jGdsbI2.jpg", "actors": [], "comments": [], "recommandations_id": []}

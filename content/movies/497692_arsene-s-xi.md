@@ -1,1 +1,0 @@
-{"tmdb_id": 497692, "title": "Ars\u00e8ne's XI", "original_title": "Ars\u00e8ne's XI", "slug_title": "arsene-s-xi", "date": "2007-10-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ars\u00e8ne Wenger ()"], "comments": [], "recommandations_id": []}

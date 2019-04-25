@@ -1,1 +1,0 @@
-{"tmdb_id": 147985, "title": "At the Formal", "original_title": "At the Formal", "slug_title": "at-the-formal", "date": "2011-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4ARS4YbeKKT5zdF8e7kipaSH5sv.jpg", "actors": [], "comments": [], "recommandations_id": []}

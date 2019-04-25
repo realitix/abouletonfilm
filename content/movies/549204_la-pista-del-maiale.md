@@ -1,1 +1,0 @@
-{"tmdb_id": 549204, "title": "La Pista del Maiale", "original_title": "La Pista del Maiale", "slug_title": "la-pista-del-maiale", "date": "1993-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bIYsf1diAFXGo4zOZHoNNYsYWmH.jpg", "actors": [], "comments": [], "recommandations_id": []}

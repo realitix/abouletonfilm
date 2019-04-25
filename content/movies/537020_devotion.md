@@ -1,1 +1,0 @@
-{"tmdb_id": 537020, "title": "Devotion", "original_title": "Devotion", "slug_title": "devotion", "date": "1988-05-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

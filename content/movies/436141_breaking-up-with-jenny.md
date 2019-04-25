@@ -1,1 +1,0 @@
-{"tmdb_id": 436141, "title": "Breaking Up with Jenny", "original_title": "Breaking Up with Jenny", "slug_title": "breaking-up-with-jenny", "date": "2016-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/urWBD4G5J2YOW6u5HMLgJK7ITqq.jpg", "actors": [], "comments": [], "recommandations_id": []}

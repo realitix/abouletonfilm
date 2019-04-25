@@ -1,1 +1,0 @@
-{"tmdb_id": 511855, "title": "My Harlem", "original_title": "My Harlem", "slug_title": "my-harlem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/42TytVKjiNhrJAWp6DaGJJhhQ0p.jpg", "actors": [], "comments": [], "recommandations_id": []}

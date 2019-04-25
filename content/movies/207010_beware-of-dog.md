@@ -1,1 +1,0 @@
-{"tmdb_id": 207010, "title": "Beware of Dog", "original_title": "Beware of Dog", "slug_title": "beware-of-dog", "date": "1992-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w17nKG6esPyGLthQIc4l2YiNzPy.jpg", "actors": [], "comments": [], "recommandations_id": []}

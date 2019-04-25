@@ -1,1 +1,0 @@
-{"tmdb_id": 87583, "title": "Alas Argentinas", "original_title": "Alas Argentinas", "slug_title": "alas-argentinas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ayQDYUCB9f9yFFHvlvkyYbG4t9V.jpg", "actors": [], "comments": [], "recommandations_id": []}

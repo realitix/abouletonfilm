@@ -1,1 +1,0 @@
-{"tmdb_id": 347152, "title": "Cun\u00e9gonde femme du monde", "original_title": "Cun\u00e9gonde femme du monde", "slug_title": "cunegonde-femme-du-monde", "date": "1912-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

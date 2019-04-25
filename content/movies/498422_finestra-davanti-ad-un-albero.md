@@ -1,1 +1,0 @@
-{"tmdb_id": 498422, "title": "Finestra Davanti Ad Un Albero", "original_title": "Finestra Davanti Ad Un Albero", "slug_title": "finestra-davanti-ad-un-albero", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cSnS8ejaiBS2dTzGjZAdBKyfCJm.jpg", "actors": [], "comments": [], "recommandations_id": []}

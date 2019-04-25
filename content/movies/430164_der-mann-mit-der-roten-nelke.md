@@ -1,1 +1,0 @@
-{"tmdb_id": 430164, "title": "Der Mann mit der roten Nelke", "original_title": "Der Mann mit der roten Nelke", "slug_title": "der-mann-mit-der-roten-nelke", "date": "1975-12-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dietmar Sch\u00f6nherr ()"], "comments": [], "recommandations_id": []}

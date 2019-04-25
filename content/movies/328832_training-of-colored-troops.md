@@ -1,1 +1,0 @@
-{"tmdb_id": 328832, "title": "Training Of Colored Troops", "original_title": "Training Of Colored Troops", "slug_title": "training-of-colored-troops", "date": "1918-01-01", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

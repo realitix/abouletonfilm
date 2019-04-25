@@ -1,1 +1,0 @@
-{"tmdb_id": 347281, "title": "12 Explosions", "original_title": "12 Explosions", "slug_title": "12-explosions", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y6TKza08KqQB41j0KqHWSnF3MH4.jpg", "actors": [], "comments": [], "recommandations_id": []}

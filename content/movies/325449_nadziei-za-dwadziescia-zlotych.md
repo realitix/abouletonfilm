@@ -1,1 +1,0 @@
-{"tmdb_id": 325449, "title": "Nadziei za dwadziescia zlotych", "original_title": "Nadziei za dwadziescia zlotych", "slug_title": "nadziei-za-dwadziescia-zlotych", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

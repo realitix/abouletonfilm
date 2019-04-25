@@ -1,1 +1,0 @@
-{"tmdb_id": 351459, "title": "Ice Carnival", "original_title": "Ice Carnival", "slug_title": "ice-carnival", "date": "1941-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

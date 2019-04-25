@@ -1,1 +1,0 @@
-{"tmdb_id": 387879, "title": "Dio: [1984] Live at Rock Palace", "original_title": "Dio: [1984] Live at Rock Palace", "slug_title": "dio-1984-live-at-rock-palace", "date": "1984-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5D5S4f8NfvwuDggPVUBohGlqQ4E.jpg", "actors": [], "comments": [], "recommandations_id": []}

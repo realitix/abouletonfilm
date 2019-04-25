@@ -1,1 +1,0 @@
-{"tmdb_id": 246284, "title": "Electric Soul", "original_title": "Electric Soul", "slug_title": "electric-soul", "date": "2013-09-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 479874, "title": "The Moderators", "original_title": "The Moderators", "slug_title": "the-moderators", "date": "2017-03-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g7IJm1Lnn7KHJ7CDkI9PMDZAsfZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

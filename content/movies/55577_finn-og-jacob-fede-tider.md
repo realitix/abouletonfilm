@@ -1,1 +1,0 @@
-{"tmdb_id": 55577, "title": "Finn og Jacob - FEDE TIDER", "original_title": "Finn og Jacob - FEDE TIDER", "slug_title": "finn-og-jacob-fede-tider", "date": "2008-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ttf1KsW5aSeHKLL89HkRqgXeRzS.jpg", "actors": [], "comments": [], "recommandations_id": []}

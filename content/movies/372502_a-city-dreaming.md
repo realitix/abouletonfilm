@@ -1,1 +1,0 @@
-{"tmdb_id": 372502, "title": "A City Dreaming", "original_title": "A City Dreaming", "slug_title": "a-city-dreaming", "date": "2015-08-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gerry Anderson (Narrator)"], "comments": [], "recommandations_id": []}

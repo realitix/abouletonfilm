@@ -1,1 +1,0 @@
-{"tmdb_id": 307554, "title": "Murder on Highway", "original_title": "Murder on Highway", "slug_title": "murder-on-highway", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

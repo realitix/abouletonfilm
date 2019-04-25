@@ -1,1 +1,0 @@
-{"tmdb_id": 234232, "title": "Empty Quarter", "original_title": "Empty Quarter", "slug_title": "empty-quarter", "date": "2011-01-28", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/70maWy9fEE2kJSTdOWJpbcWmJAz.jpg", "actors": [], "comments": [], "recommandations_id": []}

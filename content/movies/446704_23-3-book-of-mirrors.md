@@ -1,1 +1,0 @@
-{"tmdb_id": 446704, "title": "#23.3 Book of Mirrors", "original_title": "#23.3 Book of Mirrors", "slug_title": "23-3-book-of-mirrors", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

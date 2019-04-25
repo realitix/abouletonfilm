@@ -1,1 +1,0 @@
-{"tmdb_id": 386344, "title": "Back in the Daze", "original_title": "Back in the Daze", "slug_title": "back-in-the-daze", "date": "2011-03-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k4vb0l9AfmvL9wULF14kmwKpP08.jpg", "actors": [], "comments": [], "recommandations_id": []}

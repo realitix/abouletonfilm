@@ -1,1 +1,0 @@
-{"tmdb_id": 210894, "title": "An Affirmative Act", "original_title": "An Affirmative Act", "slug_title": "an-affirmative-act", "date": "2010-06-04", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4nvpQelWQTHJShPHXS2cy8CPWHs.jpg", "actors": [], "comments": [], "recommandations_id": []}

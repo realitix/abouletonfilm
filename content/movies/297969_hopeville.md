@@ -1,1 +1,0 @@
-{"tmdb_id": 297969, "title": "Hopeville", "original_title": "Hopeville", "slug_title": "hopeville", "date": "2008-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oYzQV0q07DEB4QedskeAwfzKPOd.jpg", "actors": [], "comments": [], "recommandations_id": []}

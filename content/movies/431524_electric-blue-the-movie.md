@@ -1,1 +1,0 @@
-{"tmdb_id": 431524, "title": "Electric Blue - The Movie", "original_title": "Electric Blue - The Movie", "slug_title": "electric-blue-the-movie", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marilyn Chambers (Herself - Presenter)"], "comments": [], "recommandations_id": []}

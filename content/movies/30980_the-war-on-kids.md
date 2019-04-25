@@ -1,1 +1,0 @@
-{"tmdb_id": 30980, "title": "The War on Kids", "original_title": "The War on Kids", "slug_title": "the-war-on-kids", "date": "2009-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gDtxiFyPgnuR3cGYja57NG6hqyB.jpg", "actors": [], "comments": [], "recommandations_id": []}

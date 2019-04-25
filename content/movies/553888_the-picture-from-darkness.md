@@ -1,1 +1,0 @@
-{"tmdb_id": 553888, "title": "The Picture from Darkness", "original_title": "The Picture from Darkness", "slug_title": "the-picture-from-darkness", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

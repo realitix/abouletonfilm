@@ -1,1 +1,0 @@
-{"tmdb_id": 298423, "title": "The Emblazoned Apparitions", "original_title": "The Emblazoned Apparitions", "slug_title": "the-emblazoned-apparitions", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pTRkxjiSUMQaBhljAPy76u2D1Pm.jpg", "actors": [], "comments": [], "recommandations_id": []}

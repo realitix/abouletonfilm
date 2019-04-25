@@ -1,1 +1,0 @@
-{"tmdb_id": 315172, "title": "Lili Marleen", "original_title": "Lili Marleen", "slug_title": "lili-marleen", "date": "2012-07-03", "genre": "Drame / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ben Austen (Tom)", "Morgan Ayres (Johnny)", "Arthur Bridgers (German soldier)"], "comments": [], "recommandations_id": []}

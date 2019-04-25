@@ -1,1 +1,0 @@
-{"tmdb_id": 385148, "title": "Typhoon, Blues & Blessings", "original_title": "Typhoon, Blues & Blessings", "slug_title": "typhoon-blues-blessings", "date": "2016-02-28", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Glenn de Randamie (Typhoon)"], "comments": [], "recommandations_id": []}

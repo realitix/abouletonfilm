@@ -1,1 +1,0 @@
-{"tmdb_id": 309668, "title": "So Fresh, So Clean", "original_title": "So Fresh, So Clean", "slug_title": "so-fresh-so-clean", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

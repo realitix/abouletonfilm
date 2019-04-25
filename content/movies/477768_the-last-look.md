@@ -1,1 +1,0 @@
-{"tmdb_id": 477768, "title": "The Last Look", "original_title": "The Last Look", "slug_title": "the-last-look", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

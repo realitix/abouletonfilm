@@ -1,1 +1,0 @@
-{"tmdb_id": 593734, "title": "The Blessed Assurance", "original_title": "The Blessed Assurance", "slug_title": "the-blessed-assurance", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

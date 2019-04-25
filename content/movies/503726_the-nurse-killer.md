@@ -1,1 +1,0 @@
-{"tmdb_id": 503726, "title": "The Nurse Killer", "original_title": "The Nurse Killer", "slug_title": "the-nurse-killer", "date": "1975-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

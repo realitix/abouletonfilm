@@ -1,1 +1,0 @@
-{"tmdb_id": 307507, "title": "Kanoor Deluxe", "original_title": "Kanoor Deluxe", "slug_title": "kanoor-deluxe", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

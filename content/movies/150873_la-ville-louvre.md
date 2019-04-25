@@ -1,1 +1,0 @@
-{"tmdb_id": 150873, "title": "La Ville Louvre", "original_title": "La Ville Louvre", "slug_title": "la-ville-louvre", "date": "1990-11-21", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vJ5GZtjeF4m5GHBqDLogV6i9O36.jpg", "actors": [], "comments": [], "recommandations_id": []}

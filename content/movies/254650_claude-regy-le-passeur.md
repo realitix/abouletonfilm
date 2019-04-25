@@ -1,1 +1,0 @@
-{"tmdb_id": 254650, "title": "Claude Re\u0301gy, le passeur", "original_title": "Claude Re\u0301gy, le passeur", "slug_title": "claude-regy-le-passeur", "date": "1997-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Claude Re\u0301gy (Claude Re\u0301gy)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 147965, "title": "Symphony in Blood Red", "original_title": "Come una crisalide", "slug_title": "symphony-in-blood-red", "date": "2010-10-21", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yyjftr3nrWXRlAksCVkVSMFbGux.jpg", "actors": [], "comments": [], "recommandations_id": []}

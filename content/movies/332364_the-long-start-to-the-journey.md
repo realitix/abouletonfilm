@@ -1,1 +1,0 @@
-{"tmdb_id": 332364, "title": "The Long Start to the Journey", "original_title": "The Long Start to the Journey", "slug_title": "the-long-start-to-the-journey", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AcIjLKtAf2garHLTpDnXzsERFTV.jpg", "actors": [], "comments": [], "recommandations_id": []}

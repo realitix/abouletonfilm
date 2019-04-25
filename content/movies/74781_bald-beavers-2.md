@@ -1,1 +1,0 @@
-{"tmdb_id": 74781, "title": "Bald Beavers 2", "original_title": "Bald Beavers 2", "slug_title": "bald-beavers-2", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w4grF4ZBwE57MXWQ3g62wENEbSL.jpg", "actors": [], "comments": [], "recommandations_id": []}

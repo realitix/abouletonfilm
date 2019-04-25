@@ -1,1 +1,0 @@
-{"tmdb_id": 282020, "title": "Calendar Girl", "original_title": "Long xiang feng wu", "slug_title": "calendar-girl", "date": "1959-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Helen Li Mei ()", "Diana Chang Chung-Wen ()", "Peter Chen Ho ()"], "comments": [], "recommandations_id": []}

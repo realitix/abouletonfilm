@@ -1,1 +1,0 @@
-{"tmdb_id": 464221, "title": "Silence", "original_title": "Shtika", "slug_title": "silence", "date": "2008-05-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mashda Abdalla (Mashda)", "Aryeh Cherner (Amnon)", "Tahel Ran (Mother)"], "comments": [], "recommandations_id": []}

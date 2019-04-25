@@ -1,1 +1,0 @@
-{"tmdb_id": 575761, "title": "Mr. East Loves Mom", "original_title": "Mr. East Loves Mom", "slug_title": "mr-east-loves-mom", "date": "2014-05-10", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aIQIuimTYNwTEN7QPxO8PL4cZrz.jpg", "actors": [], "comments": [], "recommandations_id": []}

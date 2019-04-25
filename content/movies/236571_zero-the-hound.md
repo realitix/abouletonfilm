@@ -1,1 +1,0 @@
-{"tmdb_id": 236571, "title": "Zero the Hound", "original_title": "Zero the Hound", "slug_title": "zero-the-hound", "date": "1941-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

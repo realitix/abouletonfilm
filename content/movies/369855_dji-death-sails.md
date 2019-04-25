@@ -1,1 +1,0 @@
-{"tmdb_id": 369855, "title": "Dji. Death Sails", "original_title": "Dji. Death Sails", "slug_title": "dji-death-sails", "date": "2015-03-01", "genre": "Animation / Com\u00e9die", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cgK9ENs5x4KNtfFW7ikU5xW4rWo.jpg", "actors": [], "comments": [], "recommandations_id": []}

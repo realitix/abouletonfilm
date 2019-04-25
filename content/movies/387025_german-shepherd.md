@@ -1,1 +1,0 @@
-{"tmdb_id": 387025, "title": "German Shepherd", "original_title": "German Shepherd", "slug_title": "german-shepherd", "date": "2014-10-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1CTNmgKobdXiSD9QvpkRwpbttH1.jpg", "actors": [], "comments": [], "recommandations_id": []}

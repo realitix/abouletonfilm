@@ -1,1 +1,0 @@
-{"tmdb_id": 409628, "title": "Last Trip Home", "original_title": "Last Trip Home", "slug_title": "last-trip-home", "date": "2014-01-01", "genre": "", "score": "3.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mmSrm6qqgUBZWPxfhJkNiQgZz0W.jpg", "actors": [], "comments": [], "recommandations_id": [59858, 10621]}

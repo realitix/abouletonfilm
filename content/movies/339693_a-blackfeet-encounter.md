@@ -1,1 +1,0 @@
-{"tmdb_id": 339693, "title": "A Blackfeet Encounter", "original_title": "A Blackfeet Encounter", "slug_title": "a-blackfeet-encounter", "date": "2015-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

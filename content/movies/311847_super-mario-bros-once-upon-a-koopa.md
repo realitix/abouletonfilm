@@ -1,1 +1,0 @@
-{"tmdb_id": 311847, "title": "Super Mario Bros.: Once Upon a Koopa", "original_title": "Super Mario Bros.: Once Upon a Koopa", "slug_title": "super-mario-bros-once-upon-a-koopa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 183376, "title": "Tales of the Twilight Typist", "original_title": "Tales of the Twilight Typist", "slug_title": "tales-of-the-twilight-typist", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h6xSFnCxDSH3fCwHWUXqtwYpgXc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 292229, "title": "Unheimlich I: Secret Dialogue", "original_title": "Unheimlich I: Secret Dialogue", "slug_title": "unheimlich-i-secret-dialogue", "date": "1979-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m4e0I54oFMVJRREwg60XPs9quQV.jpg", "actors": [], "comments": [], "recommandations_id": []}

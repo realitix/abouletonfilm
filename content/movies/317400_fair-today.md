@@ -1,1 +1,0 @@
-{"tmdb_id": 317400, "title": "Fair Today", "original_title": "Fair Today", "slug_title": "fair-today", "date": "1941-02-24", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mq6FjOwxhyG9NFoUbZodJL6Ioj8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 234743, "title": "Fish Hooked", "original_title": "Fish Hooked", "slug_title": "fish-hooked", "date": "1960-09-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lZomgtkfmMCCLSlhlNXVluv4Q2y.jpg", "actors": ["Daws Butler ((voices))"], "comments": [], "recommandations_id": []}

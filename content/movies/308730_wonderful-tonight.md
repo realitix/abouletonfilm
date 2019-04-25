@@ -1,1 +1,0 @@
-{"tmdb_id": 308730, "title": "Wonderful Tonight", "original_title": "Wonderful Tonight", "slug_title": "wonderful-tonight", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

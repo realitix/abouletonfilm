@@ -1,1 +1,0 @@
-{"tmdb_id": 336838, "title": "Drawing Out the Demons", "original_title": "Drawing Out the Demons", "slug_title": "drawing-out-the-demons", "date": "2004-04-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aF8kk84ZHR4G66P4xz0lp7unc8Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

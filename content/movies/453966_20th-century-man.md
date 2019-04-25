@@ -1,1 +1,0 @@
-{"tmdb_id": 453966, "title": "20th Century Man", "original_title": "20th Century Man", "slug_title": "20th-century-man", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

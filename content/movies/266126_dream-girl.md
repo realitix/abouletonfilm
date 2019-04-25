@@ -1,1 +1,0 @@
-{"tmdb_id": 266126, "title": "Dream Girl", "original_title": "Traumfrau", "slug_title": "dream-girl", "date": "2013-02-08", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2wkxJahATajhLVtIuMVPPS6J7bL.jpg", "actors": [], "comments": [], "recommandations_id": []}

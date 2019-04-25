@@ -1,1 +1,0 @@
-{"tmdb_id": 537663, "title": "I Am Voodoo", "original_title": "I Am Voodoo", "slug_title": "i-am-voodoo", "date": "1990-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ipFGcRqASSgRxjw2Kyuh5B4NgPL.jpg", "actors": [], "comments": [], "recommandations_id": []}

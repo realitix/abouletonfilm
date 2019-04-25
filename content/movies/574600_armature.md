@@ -1,1 +1,0 @@
-{"tmdb_id": 574600, "title": "Armature", "original_title": "Armature", "slug_title": "armature", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eva van Heyningen ()"], "comments": [], "recommandations_id": []}

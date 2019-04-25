@@ -1,1 +1,0 @@
-{"tmdb_id": 513780, "title": "Mangoshake", "original_title": "Mangoshake", "slug_title": "mangoshake", "date": "2018-10-01", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iPEySzPcEuF8PxvpYEcRjzktd3J.jpg", "actors": ["Matias Rittatore ()"], "comments": [], "recommandations_id": []}

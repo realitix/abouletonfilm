@@ -1,1 +1,0 @@
-{"tmdb_id": 383002, "title": "Telltale Games: Story Mode", "original_title": "Telltale Games: Story Mode", "slug_title": "telltale-games-story-mode", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/29FJhtQB0ItWiYWvI4sT76pkc67.jpg", "actors": [], "comments": [], "recommandations_id": []}

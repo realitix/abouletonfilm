@@ -1,1 +1,0 @@
-{"tmdb_id": 410529, "title": "Die Gummifotze", "original_title": "Die Gummifotze", "slug_title": "die-gummifotze", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Fqy3GElLdS3Cze7mOHyBHsZdy2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 110443, "title": "Extrema Outdoor 2007", "original_title": "Extrema Outdoor 2007", "slug_title": "extrema-outdoor-2007", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mR4HrjIISaqu03nYTcoMXt63zFC.jpg", "actors": [], "comments": [], "recommandations_id": []}

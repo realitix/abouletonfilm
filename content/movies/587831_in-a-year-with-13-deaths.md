@@ -1,1 +1,0 @@
-{"tmdb_id": 587831, "title": "In a year with 13 deaths", "original_title": "In a year with 13 deaths", "slug_title": "in-a-year-with-13-deaths", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

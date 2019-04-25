@@ -1,1 +1,0 @@
-{"tmdb_id": 578699, "title": "Hierophany", "original_title": "Hierophany", "slug_title": "hierophany", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Ll9OqiAmFWtxY9Lll8XIjdlBUc.jpg", "actors": [], "comments": [], "recommandations_id": []}

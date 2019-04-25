@@ -1,1 +1,0 @@
-{"tmdb_id": 407044, "title": "A Testimony as an Image", "original_title": "A Testimony as an Image", "slug_title": "a-testimony-as-an-image", "date": "2012-11-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/esZ1vRyd3bQ5pm6g2s0OiOmQuf2.jpg", "actors": [], "comments": [], "recommandations_id": []}

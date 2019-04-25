@@ -1,1 +1,0 @@
-{"tmdb_id": 305305, "title": "Winslow Homer: An American Original", "original_title": "Winslow Homer: An American Original", "slug_title": "winslow-homer-an-american-original", "date": "1999-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

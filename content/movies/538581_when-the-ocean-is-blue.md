@@ -1,1 +1,0 @@
-{"tmdb_id": 538581, "title": "When The Ocean Is Blue", "original_title": "\u6d77\u6c34\u6b63\u85cd", "slug_title": "when-the-ocean-is-blue", "date": "1988-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Don Wong ()", "Lin Yueh Yun ()"], "comments": [], "recommandations_id": []}

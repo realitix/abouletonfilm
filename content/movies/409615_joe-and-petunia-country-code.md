@@ -1,1 +1,0 @@
-{"tmdb_id": 409615, "title": "Joe and Petunia: Country Code", "original_title": "Joe and Petunia: Country Code", "slug_title": "joe-and-petunia-country-code", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zpNXdhfSXtyWQax9jPFZMQhC1T0.jpg", "actors": [], "comments": [], "recommandations_id": []}

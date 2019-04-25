@@ -1,1 +1,0 @@
-{"tmdb_id": 395494, "title": "Original Schtick", "original_title": "Original Schtick", "slug_title": "original-schtick", "date": "1999-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2AH9DE9sIBMYwQO9EKeHV1YGZfX.jpg", "actors": [], "comments": [], "recommandations_id": []}

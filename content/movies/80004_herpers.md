@@ -1,1 +1,0 @@
-{"tmdb_id": 80004, "title": "Herpers", "original_title": "Herpers", "slug_title": "herpers", "date": "2009-05-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xaWXUpv25tg9G32rgOgFpwJN6ID.jpg", "actors": [], "comments": [], "recommandations_id": []}

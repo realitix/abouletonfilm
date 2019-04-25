@@ -1,1 +1,0 @@
-{"tmdb_id": 566276, "title": "Daylight Exhibitions", "original_title": "Daylight Exhibitions", "slug_title": "daylight-exhibitions", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Tw2lCrrJ9a6gXcS5CCPtTPWTPJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 300763, "title": "Pauly Shore Stands Alone", "original_title": "Pauly Shore Stands Alone", "slug_title": "pauly-shore-stands-alone", "date": "2014-12-04", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6W5uEHbL5hrxIDNB9DjaJ2nK0Gn.jpg", "actors": [], "comments": [], "recommandations_id": []}

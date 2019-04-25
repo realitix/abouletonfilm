@@ -1,1 +1,0 @@
-{"tmdb_id": 568552, "title": "Short Distance Runner", "original_title": "Short Distance Runner", "slug_title": "short-distance-runner", "date": "1973-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

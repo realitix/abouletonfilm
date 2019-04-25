@@ -1,1 +1,0 @@
-{"tmdb_id": 565118, "title": "Julie \u00e9tait belle", "original_title": "Julie \u00e9tait belle", "slug_title": "julie-etait-belle", "date": "1977-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1w2Z8Xf7WYi8L5uu4rY18NCjX9A.jpg", "actors": [], "comments": [], "recommandations_id": []}

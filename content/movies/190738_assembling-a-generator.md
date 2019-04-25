@@ -1,1 +1,0 @@
-{"tmdb_id": 190738, "title": "Assembling a Generator", "original_title": "Assembling a Generator", "slug_title": "assembling-a-generator", "date": "1904-05-09", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gPUdJWDcxcLrddoYN7s34nktDq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 449559, "title": "Pra\u00e7a Walt Disney", "original_title": "Pra\u00e7a Walt Disney", "slug_title": "praca-walt-disney", "date": "2011-03-29", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/adfxbZqP4nvWqI6bggJ1nyhJDBl.jpg", "actors": [], "comments": [], "recommandations_id": []}

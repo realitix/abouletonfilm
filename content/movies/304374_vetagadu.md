@@ -1,1 +1,0 @@
-{"tmdb_id": 304374, "title": "Vetagadu", "original_title": "Vetagadu", "slug_title": "vetagadu", "date": "1979-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rCGxpjVbhL4e69iMaH7p3whULSl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 509953, "title": "Justice at Agadez", "original_title": "Justice \u00e0 Agadez", "slug_title": "justice-at-agadez", "date": "2006-08-21", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nbsqFanmYsxIUGimeCyAt0lbjLD.jpg", "actors": [], "comments": [], "recommandations_id": []}

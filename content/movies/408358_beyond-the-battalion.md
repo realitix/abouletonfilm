@@ -1,1 +1,0 @@
-{"tmdb_id": 408358, "title": "Beyond The Battalion", "original_title": "Beyond The Battalion", "slug_title": "beyond-the-battalion", "date": "2017-04-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 476924, "title": "Off Season", "original_title": "Off Season", "slug_title": "off-season", "date": "2019-03-15", "genre": "Thriller / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/38XwVt1mbs1MQHHdCvlAlqD8nv4.jpg", "actors": [], "comments": [], "recommandations_id": []}

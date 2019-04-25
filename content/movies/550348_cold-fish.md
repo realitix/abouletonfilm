@@ -1,1 +1,0 @@
-{"tmdb_id": 550348, "title": "Cold Fish", "original_title": "Cold Fish", "slug_title": "cold-fish", "date": "2018-09-21", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

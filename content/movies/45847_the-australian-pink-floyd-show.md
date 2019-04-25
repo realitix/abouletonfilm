@@ -1,1 +1,0 @@
-{"tmdb_id": 45847, "title": "The Australian Pink Floyd Show", "original_title": "The Australian Pink Floyd Show", "slug_title": "the-australian-pink-floyd-show", "date": "2004-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3uLfDYMv6Z5QmpIm7VIR7vqp9h3.jpg", "actors": [], "comments": [], "recommandations_id": []}

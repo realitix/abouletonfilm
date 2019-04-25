@@ -1,1 +1,0 @@
-{"tmdb_id": 288819, "title": "Westward Ho!", "original_title": "Westward Ho!", "slug_title": "westward-ho", "date": "1940-05-05", "genre": "Guerre / Documentaire", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Donald Bull (Commentary)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 182278, "title": "Dead Men Talking", "original_title": "Dead Men Talking", "slug_title": "dead-men-talking", "date": "2011-07-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8UmmP3xH8cIn4NyYjOIVh3zNSWv.jpg", "actors": [], "comments": [], "recommandations_id": []}

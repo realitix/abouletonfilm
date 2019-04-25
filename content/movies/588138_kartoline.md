@@ -1,1 +1,0 @@
-{"tmdb_id": 588138, "title": "Kartoline", "original_title": "Kartoline", "slug_title": "kartoline", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6pD9hpcfXBPvOtq5NmnzUJ8Vd23.jpg", "actors": [], "comments": [], "recommandations_id": []}

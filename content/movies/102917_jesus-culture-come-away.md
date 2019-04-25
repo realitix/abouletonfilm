@@ -1,1 +1,0 @@
-{"tmdb_id": 102917, "title": "Jesus Culture - Come Away", "original_title": "Jesus Culture - Come Away", "slug_title": "jesus-culture-come-away", "date": "2010-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bpwzx3y3HIjxLbdcyKyle0IPNX4.jpg", "actors": [], "comments": [], "recommandations_id": []}

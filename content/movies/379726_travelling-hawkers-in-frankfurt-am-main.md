@@ -1,1 +1,0 @@
-{"tmdb_id": 379726, "title": "Travelling Hawkers in Frankfurt am Main", "original_title": "Fliegende H\u00e4ndler in Frankfurt am Main", "slug_title": "travelling-hawkers-in-frankfurt-am-main", "date": "1932-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

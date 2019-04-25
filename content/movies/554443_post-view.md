@@ -1,1 +1,0 @@
-{"tmdb_id": 554443, "title": "Post View", "original_title": "Post View", "slug_title": "post-view", "date": "2012-09-18", "genre": "", "score": "0.0/10", "synopsis": "Post View du film  \"Tous m\u00e9c\u00e8ne (sans s \u00e0 la fin) - en attendant Godard\"", "image": "/img/default-cover.png", "actors": ["Pierre Merejkowsky ()"], "comments": [], "recommandations_id": []}

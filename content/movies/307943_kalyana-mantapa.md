@@ -1,1 +1,1 @@
-{"tmdb_id": 307943, "title": "Kalyana Mantapa", "original_title": "Kalyana Mantapa", "slug_title": "kalyana-mantapa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 307943, "title": "Kalyana Mantapa", "original_title": "Kalyana Mantapa", "slug_title": "kalyana-mantapa", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "No Overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

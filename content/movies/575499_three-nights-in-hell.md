@@ -1,1 +1,0 @@
-{"tmdb_id": 575499, "title": "Three Nights in Hell", "original_title": "Three Nights in Hell", "slug_title": "three-nights-in-hell", "date": "2019-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2z0stQsoQbxRbXqAO7S94eC40AV.jpg", "actors": [], "comments": [], "recommandations_id": []}

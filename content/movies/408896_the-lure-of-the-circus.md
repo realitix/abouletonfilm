@@ -1,1 +1,0 @@
-{"tmdb_id": 408896, "title": "The Lure of the Circus", "original_title": "The Lure of the Circus", "slug_title": "the-lure-of-the-circus", "date": "1918-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eddie Polo (Eddie Somers)", "Eileen Sedgwick (Alicia Page)"], "comments": [], "recommandations_id": []}

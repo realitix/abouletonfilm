@@ -1,1 +1,0 @@
-{"tmdb_id": 592204, "title": "#NoStigma", "original_title": "#NoStigma", "slug_title": "nostigma", "date": "2019-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

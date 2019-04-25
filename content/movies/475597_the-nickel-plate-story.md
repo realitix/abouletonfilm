@@ -1,1 +1,0 @@
-{"tmdb_id": 475597, "title": "The Nickel Plate Story", "original_title": "The Nickel Plate Story", "slug_title": "the-nickel-plate-story", "date": "1953-01-01", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m9cy9QzTxERT9wlYIhjw1e7sAaZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 311344, "title": "Sky Lover", "original_title": "Sky Lover", "slug_title": "sky-lover", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

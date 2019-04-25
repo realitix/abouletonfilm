@@ -1,1 +1,0 @@
-{"tmdb_id": 307885, "title": "Modati Cinema", "original_title": "Modati Cinema", "slug_title": "modati-cinema", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9XLqrCnk6dgImUpl5uqowy3ReDj.jpg", "actors": ["Navdeep ()", "Poonam Bajwa ()"], "comments": [], "recommandations_id": []}

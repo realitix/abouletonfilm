@@ -1,1 +1,0 @@
-{"tmdb_id": 175489, "title": "The Old Swimmin' Hole", "original_title": "The Old Swimmin' Hole", "slug_title": "the-old-swimmin-hole", "date": "1921-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lS9yxCYQCZQfSUu0ixMuJUJ6Fbz.jpg", "actors": [], "comments": [], "recommandations_id": []}

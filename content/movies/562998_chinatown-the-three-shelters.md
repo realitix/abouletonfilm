@@ -1,1 +1,0 @@
-{"tmdb_id": 562998, "title": "Chinatown: The Three Shelters", "original_title": "Chinatown: The Three Shelters", "slug_title": "chinatown-the-three-shelters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kEQEhoc88swqsV4gA2wQS6Hh5iV.jpg", "actors": [], "comments": [], "recommandations_id": []}

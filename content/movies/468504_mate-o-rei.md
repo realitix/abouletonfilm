@@ -1,1 +1,0 @@
-{"tmdb_id": 468504, "title": "Mate o Rei", "original_title": "Mate o Rei", "slug_title": "mate-o-rei", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

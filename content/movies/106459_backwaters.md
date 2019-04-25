@@ -1,1 +1,0 @@
-{"tmdb_id": 106459, "title": "Backwaters", "original_title": "Backwaters", "slug_title": "backwaters", "date": "2006-10-01", "genre": "Drame / Thriller / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tDbWV8HVbaiBNtvd4NrRKZdCxb0.jpg", "actors": [], "comments": [], "recommandations_id": []}

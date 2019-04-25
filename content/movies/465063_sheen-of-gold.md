@@ -1,1 +1,0 @@
-{"tmdb_id": 465063, "title": "Sheen of Gold", "original_title": "Sheen of Gold", "slug_title": "sheen-of-gold", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mY5fxIHX0mFAyuGUeUdeH0eRhFE.jpg", "actors": [], "comments": [], "recommandations_id": []}

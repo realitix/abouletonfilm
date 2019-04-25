@@ -1,1 +1,0 @@
-{"tmdb_id": 423781, "title": "American Juggalo 2", "original_title": "American Juggalo 2", "slug_title": "american-juggalo-2", "date": "2016-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5rwjGJCKTBN1izJn6GPdKIZtnCy.jpg", "actors": [], "comments": [], "recommandations_id": []}

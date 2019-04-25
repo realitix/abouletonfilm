@@ -1,1 +1,0 @@
-{"tmdb_id": 344696, "title": "\u00c1cratas", "original_title": "\u00c1cratas", "slug_title": "acratas", "date": "2000-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

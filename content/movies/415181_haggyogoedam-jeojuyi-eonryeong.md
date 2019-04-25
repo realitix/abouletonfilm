@@ -1,1 +1,0 @@
-{"tmdb_id": 415181, "title": "\ud559\uad50\uad34\ub2f4 : \uc800\uc8fc\uc758 \uc5b8\ub839", "original_title": "\ud559\uad50\uad34\ub2f4 : \uc800\uc8fc\uc758 \uc5b8\ub839", "slug_title": "haggyogoedam-jeojuyi-eonryeong", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 175754, "title": "July Days", "original_title": "July Days", "slug_title": "july-days", "date": "1923-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sunshine Sammy Morrison (Ernie (as Hal Roach's Rascals))"], "comments": [], "recommandations_id": []}

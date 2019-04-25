@@ -1,1 +1,0 @@
-{"tmdb_id": 196319, "title": "Escalation", "original_title": "Escalation", "slug_title": "escalation", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jTpX243CfCvPf7j1vpwEZIh4sjX.jpg", "actors": [], "comments": [], "recommandations_id": []}

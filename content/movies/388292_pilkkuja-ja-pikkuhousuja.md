@@ -1,1 +1,0 @@
-{"tmdb_id": 388292, "title": "Pilkkuja ja pikkuhousuja", "original_title": "Pilkkuja ja pikkuhousuja", "slug_title": "pilkkuja-ja-pikkuhousuja", "date": "1993-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2FmwV80e24CcFhjjlUzFYOeYdM8.jpg", "actors": [], "comments": [], "recommandations_id": []}

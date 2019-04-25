@@ -1,1 +1,0 @@
-{"tmdb_id": 342440, "title": "Six Pack That Bitch", "original_title": "Six Pack That Bitch", "slug_title": "six-pack-that-bitch", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eP4XejkzczS4t88qr1pcyd8EzgD.jpg", "actors": [], "comments": [], "recommandations_id": []}

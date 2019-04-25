@@ -1,1 +1,0 @@
-{"tmdb_id": 358378, "title": "The City of London - Money and Power", "original_title": "The City of London - Money and Power", "slug_title": "the-city-of-london-money-and-power", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

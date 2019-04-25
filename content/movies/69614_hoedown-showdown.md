@@ -1,1 +1,0 @@
-{"tmdb_id": 69614, "title": "Hoedown Showdown", "original_title": "Hoedown Showdown", "slug_title": "hoedown-showdown", "date": "2002-02-08", "genre": "Com\u00e9die", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uXwutTbJaG0VlFaNjUMn1EGDpUY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 581918, "title": "The Image World", "original_title": "The Image World", "slug_title": "the-image-world", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sJ4uNuWD0DCf9CK72wkyTRXvqQs.jpg", "actors": [], "comments": [], "recommandations_id": []}

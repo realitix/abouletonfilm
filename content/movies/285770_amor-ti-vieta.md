@@ -1,1 +1,0 @@
-{"tmdb_id": 285770, "title": "Amor ti vieta", "original_title": "Amor ti vieta", "slug_title": "amor-ti-vieta", "date": "1910-01-02", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Enzo Bannino ()"], "comments": [], "recommandations_id": []}

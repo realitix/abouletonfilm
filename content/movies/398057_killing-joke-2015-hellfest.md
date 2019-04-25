@@ -1,1 +1,0 @@
-{"tmdb_id": 398057, "title": "Killing Joke: [2015] Hellfest", "original_title": "Killing Joke: [2015] Hellfest", "slug_title": "killing-joke-2015-hellfest", "date": "2015-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/flDqBvNufIhxz264qoMi2ZddIXP.jpg", "actors": [], "comments": [], "recommandations_id": []}

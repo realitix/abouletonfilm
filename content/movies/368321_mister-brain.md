@@ -1,1 +1,0 @@
-{"tmdb_id": 368321, "title": "Mister Brain", "original_title": "Mister Brain", "slug_title": "mister-brain", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

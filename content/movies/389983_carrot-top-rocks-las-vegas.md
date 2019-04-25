@@ -1,1 +1,0 @@
-{"tmdb_id": 389983, "title": "Carrot Top Rocks Las Vegas", "original_title": "Carrot Top Rocks Las Vegas", "slug_title": "carrot-top-rocks-las-vegas", "date": "2003-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/csdqctV4gPFD1avuvIkTp1zA8fe.jpg", "actors": [], "comments": [], "recommandations_id": []}

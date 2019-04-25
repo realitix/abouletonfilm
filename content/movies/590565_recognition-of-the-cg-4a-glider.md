@@ -1,1 +1,0 @@
-{"tmdb_id": 590565, "title": "Recognition of the CG-4A Glider", "original_title": "Recognition of the CG-4A Glider", "slug_title": "recognition-of-the-cg-4a-glider", "date": "1944-03-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ronald Reagan (Narrator (voice))"], "comments": [], "recommandations_id": []}

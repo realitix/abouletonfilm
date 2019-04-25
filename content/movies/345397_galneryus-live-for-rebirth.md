@@ -1,1 +1,0 @@
-{"tmdb_id": 345397, "title": "Galneryus-Live for Rebirth", "original_title": "Galneryus-Live for Rebirth", "slug_title": "galneryus-live-for-rebirth", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mqPvV5BgqMfzdRsJe0m4gEflbRh.jpg", "actors": [], "comments": [], "recommandations_id": []}

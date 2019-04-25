@@ -1,1 +1,0 @@
-{"tmdb_id": 363259, "title": "scarecrow Trilogy", "original_title": "scarecrow Trilogy", "slug_title": "scarecrow-trilogy", "date": "2002-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r6Yv1RaSFjBJ4c8ktjLfdX0wtqM.jpg", "actors": [], "comments": [], "recommandations_id": []}

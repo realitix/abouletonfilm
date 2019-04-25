@@ -1,1 +1,0 @@
-{"tmdb_id": 535980, "title": "Frustration", "original_title": "Frustration", "slug_title": "frustration", "date": "2018-07-15", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4dUho8Hnx2X09rXch4s7llIHXUb.jpg", "actors": ["Nikitta Bacon ()"], "comments": [], "recommandations_id": []}

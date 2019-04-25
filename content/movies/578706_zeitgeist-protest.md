@@ -1,1 +1,0 @@
-{"tmdb_id": 578706, "title": "Zeitgeist Protest", "original_title": "Zeitgeist Protest", "slug_title": "zeitgeist-protest", "date": "2017-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f5SicKi8nb4TUcTanqvNEXwgoQg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 310220, "title": "The Naked Trucker and T-Bones: Live at the Troubadour", "original_title": "The Naked Trucker and T-Bones: Live at the Troubadour", "slug_title": "the-naked-trucker-and-t-bones-live-at-the-troubadour", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

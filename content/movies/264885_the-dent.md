@@ -1,1 +1,0 @@
-{"tmdb_id": 264885, "title": "The Dent", "original_title": "The Dent", "slug_title": "the-dent", "date": "2014-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qZCk6sAg8jW2wxRypLF7riyRn7x.jpg", "actors": [], "comments": [], "recommandations_id": []}

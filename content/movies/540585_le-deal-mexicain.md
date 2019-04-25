@@ -1,1 +1,0 @@
-{"tmdb_id": 540585, "title": "Le Deal mexicain", "original_title": "Le Deal mexicain", "slug_title": "le-deal-mexicain", "date": "1980-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8RvIf5lIPBrbcObb9LD68xzUfBM.jpg", "actors": [], "comments": [], "recommandations_id": []}

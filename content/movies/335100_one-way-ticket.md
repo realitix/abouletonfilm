@@ -1,1 +1,0 @@
-{"tmdb_id": 335100, "title": "One Way Ticket", "original_title": "One Way Ticket", "slug_title": "one-way-ticket", "date": "2011-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 347778, "title": "The Tent (short)", "original_title": "The Tent (short)", "slug_title": "the-tent-short", "date": "2015-02-22", "genre": "Aventure / Fantastique / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 576319, "title": "Va Migozarim...", "original_title": "Va Migozarim...", "slug_title": "va-migozarim", "date": "2018-12-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mina Sadati ()", "Babak Hamidian ()", "Roya Javidnia ()", "Mani Baghbani ()", "Yasna Mirtahmasb ()"], "comments": [], "recommandations_id": []}

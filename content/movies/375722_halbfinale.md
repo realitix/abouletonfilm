@@ -1,1 +1,0 @@
-{"tmdb_id": 375722, "title": "Halbfinale", "original_title": "Halbfinale", "slug_title": "halbfinale", "date": "2014-07-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3sqtN6U4ZOQQ4lvzW7PgpHYHajC.jpg", "actors": [], "comments": [], "recommandations_id": []}

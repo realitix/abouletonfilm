@@ -1,1 +1,0 @@
-{"tmdb_id": 258531, "title": "Message of Stones - Hegyalja", "original_title": "A K\u00f6vek \u00dczenete - Hegyalja", "slug_title": "message-of-stones-hegyalja", "date": "1994-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

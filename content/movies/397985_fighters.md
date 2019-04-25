@@ -1,1 +1,0 @@
-{"tmdb_id": 397985, "title": "Fighters", "original_title": "Fighters", "slug_title": "fighters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

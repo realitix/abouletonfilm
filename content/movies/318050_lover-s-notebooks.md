@@ -1,1 +1,0 @@
-{"tmdb_id": 318050, "title": "Lover's Notebooks", "original_title": "Lover's Notebooks", "slug_title": "lover-s-notebooks", "date": "2015-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lYm4UE8lzOs0LvcuVgJiTWl1jB4.jpg", "actors": [], "comments": [], "recommandations_id": []}

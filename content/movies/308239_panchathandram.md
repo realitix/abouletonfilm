@@ -1,1 +1,0 @@
-{"tmdb_id": 308239, "title": "Panchathandram", "original_title": "Panchathandram", "slug_title": "panchathandram", "date": "1974-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 298050, "title": "Rebel Scum", "original_title": "Rebel Scum", "slug_title": "rebel-scum", "date": "2014-10-16", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yazTIIlDvOBaFjCpSfDWsueVEvy.jpg", "actors": [], "comments": [], "recommandations_id": []}

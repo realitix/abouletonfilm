@@ -1,1 +1,0 @@
-{"tmdb_id": 126204, "title": "Black Ice", "original_title": "Black Ice", "slug_title": "black-ice", "date": "1994-01-01", "genre": "", "score": "5.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tVdD0f3oNZ2n5dS0GJ9psGQfJSv.jpg", "actors": [], "comments": [], "recommandations_id": [104407, 126197, 97517, 126200]}

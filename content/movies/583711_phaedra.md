@@ -1,1 +1,0 @@
-{"tmdb_id": 583711, "title": "Phaedra", "original_title": "Phaedra", "slug_title": "phaedra", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wjKZQq9dL1RVAGibmVesWWHDh5y.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 476589, "title": "America's Game 1985 Chicago Bears", "original_title": "America's Game 1985 Chicago Bears", "slug_title": "america-s-game-1985-chicago-bears", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mVh6EJPDfvnnTcxO6PifEBzleIN.jpg", "actors": [], "comments": [], "recommandations_id": []}

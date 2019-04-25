@@ -1,1 +1,0 @@
-{"tmdb_id": 353253, "title": "Four Songs", "original_title": "Four Songs", "slug_title": "four-songs", "date": "1976-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

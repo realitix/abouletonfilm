@@ -1,1 +1,0 @@
-{"tmdb_id": 290708, "title": "Family Property: Backwoods Killing Spree", "original_title": "Family Property: Backwoods Killing Spree", "slug_title": "family-property-backwoods-killing-spree", "date": "2009-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

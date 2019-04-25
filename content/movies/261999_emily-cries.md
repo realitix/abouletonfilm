@@ -1,1 +1,0 @@
-{"tmdb_id": 261999, "title": "Emily Cries", "original_title": "Emilka p\u0142acze", "slug_title": "emily-cries", "date": "2006-09-11", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marta Chodorowska (Emilka)", "Andrzej Szewczak (Stefek)"], "comments": [], "recommandations_id": []}

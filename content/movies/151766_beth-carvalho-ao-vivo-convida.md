@@ -1,1 +1,0 @@
-{"tmdb_id": 151766, "title": "Beth Carvalho - Ao Vivo Convida", "original_title": "Beth Carvalho - Ao Vivo Convida", "slug_title": "beth-carvalho-ao-vivo-convida", "date": "2016-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wQnFtPHrNjlA3BywKWUA9mUqY5y.jpg", "actors": [], "comments": [], "recommandations_id": []}

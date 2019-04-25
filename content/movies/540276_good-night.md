@@ -1,1 +1,0 @@
-{"tmdb_id": 540276, "title": "Good Night", "original_title": "Boa Noite", "slug_title": "good-night", "date": "2011-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7RdaP4d3virJqG8QxZA6kJtlOVw.jpg", "actors": ["Juliana Mesquita ()", "Rafael Maia ()"], "comments": [], "recommandations_id": []}

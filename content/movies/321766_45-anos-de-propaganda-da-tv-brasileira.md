@@ -1,1 +1,0 @@
-{"tmdb_id": 321766, "title": "45 Anos de Propaganda da TV Brasileira", "original_title": "45 Anos de Propaganda da TV Brasileira", "slug_title": "45-anos-de-propaganda-da-tv-brasileira", "date": "1995-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

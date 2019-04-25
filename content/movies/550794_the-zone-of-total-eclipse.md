@@ -1,1 +1,0 @@
-{"tmdb_id": 550794, "title": "The Zone of Total Eclipse", "original_title": "T\u00e4ydellisen pimennyksen vy\u00f6hyke", "slug_title": "the-zone-of-total-eclipse", "date": "2006-09-11", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k6qoDSFzCzUbr5nx48fPpah0WPZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

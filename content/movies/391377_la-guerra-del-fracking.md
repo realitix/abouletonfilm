@@ -1,1 +1,0 @@
-{"tmdb_id": 391377, "title": "La guerra del fracking", "original_title": "La guerra del fracking", "slug_title": "la-guerra-del-fracking", "date": "2013-10-10", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qBdpbsjRYmNqxMXeJ17q0ivhyA.jpg", "actors": [], "comments": [], "recommandations_id": []}

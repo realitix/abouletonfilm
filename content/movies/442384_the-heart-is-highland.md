@@ -1,1 +1,0 @@
-{"tmdb_id": 442384, "title": "The Heart Is Highland", "original_title": "The Heart Is Highland", "slug_title": "the-heart-is-highland", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

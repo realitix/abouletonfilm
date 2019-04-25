@@ -1,1 +1,0 @@
-{"tmdb_id": 581837, "title": "Pictures of the Soul", "original_title": "Fotos del alma", "slug_title": "pictures-of-the-soul", "date": "1995-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wqi9WPd2vqkh0aDLC2jbDjbPSFo.jpg", "actors": [], "comments": [], "recommandations_id": []}

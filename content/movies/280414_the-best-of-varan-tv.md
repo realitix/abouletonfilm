@@ -1,1 +1,0 @@
-{"tmdb_id": 280414, "title": "The best of Varan-TV", "original_title": "Det b\u00e4sta ur Varan-TV", "slug_title": "the-best-of-varan-tv", "date": "2001-09-19", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gIlF9SEYzUcQYYqSbNhfwexO3nQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

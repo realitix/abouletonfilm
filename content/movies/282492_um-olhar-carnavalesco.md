@@ -1,1 +1,0 @@
-{"tmdb_id": 282492, "title": "Um Olhar Carnavalesco", "original_title": "Um Olhar Carnavalesco", "slug_title": "um-olhar-carnavalesco", "date": "2009-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

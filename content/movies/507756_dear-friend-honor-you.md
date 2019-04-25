@@ -1,1 +1,0 @@
-{"tmdb_id": 507756, "title": "Dear Friend, Honor You", "original_title": "Kallis s\u00f5ber, sind austan", "slug_title": "dear-friend-honor-you", "date": "2010-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jaan Pehk (Oskar)", "Tarmo Tagamets (Riks)"], "comments": [], "recommandations_id": []}

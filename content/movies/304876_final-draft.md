@@ -1,1 +1,0 @@
-{"tmdb_id": 304876, "title": "Final Draft", "original_title": "Final Draft", "slug_title": "final-draft", "date": "2014-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

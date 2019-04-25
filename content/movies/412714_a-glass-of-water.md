@@ -1,1 +1,0 @@
-{"tmdb_id": 412714, "title": "A Glass of Water", "original_title": "A Glass of Water", "slug_title": "a-glass-of-water", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 303704, "title": "Paper Dream", "original_title": "Paper Dream", "slug_title": "paper-dream", "date": "2012-06-12", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ewrdII5FAnnvy7Yc60tpIRdcmXY.jpg", "actors": [], "comments": [], "recommandations_id": []}

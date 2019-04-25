@@ -1,1 +1,0 @@
-{"tmdb_id": 252704, "title": "The Monk", "original_title": "The Monk", "slug_title": "the-monk", "date": "1969-10-22", "genre": "Myst\u00e8re / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Maharis (Gus Monk)", "Janet Leigh (Janice Barnes)", "Rick Jason (Wideman)"], "comments": [], "recommandations_id": []}

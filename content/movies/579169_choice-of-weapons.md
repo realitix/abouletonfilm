@@ -1,1 +1,0 @@
-{"tmdb_id": 579169, "title": "Choice of Weapons", "original_title": "Choice of Weapons", "slug_title": "choice-of-weapons", "date": "2002-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

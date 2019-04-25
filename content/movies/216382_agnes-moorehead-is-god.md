@@ -1,1 +1,0 @@
-{"tmdb_id": 216382, "title": "Agnes Moorehead is God!", "original_title": "Agnes Moorehead is God!", "slug_title": "agnes-moorehead-is-god", "date": "2013-08-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

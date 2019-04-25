@@ -1,1 +1,0 @@
-{"tmdb_id": 570288, "title": "Das gestohlene Gesicht", "original_title": "Das gestohlene Gesicht", "slug_title": "das-gestohlene-gesicht", "date": "1985-07-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6l5xNTBmx2Q1hyKhhGjVd6n4oEg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 520833, "title": "Othello", "original_title": "Othello", "slug_title": "othello", "date": "2003-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thomas Thieme (Othello)", "Wolfgang Pregler (Jago)", "Werner Rehm (Brabantino)", "Julia Jentsch (Desdemona)"], "comments": [], "recommandations_id": []}

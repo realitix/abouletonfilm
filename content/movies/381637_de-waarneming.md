@@ -1,1 +1,0 @@
-{"tmdb_id": 381637, "title": "De Waarneming", "original_title": "De Waarneming", "slug_title": "de-waarneming", "date": "2016-01-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Zandvliet (himself)"], "comments": [], "recommandations_id": []}

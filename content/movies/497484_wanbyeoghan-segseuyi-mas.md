@@ -1,1 +1,0 @@
-{"tmdb_id": 497484, "title": "\uc644\ubcbd\ud55c \uc139\uc2a4\uc758 \ub9db", "original_title": "\uc644\ubcbd\ud55c \uc139\uc2a4\uc758 \ub9db", "slug_title": "wanbyeoghan-segseuyi-mas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

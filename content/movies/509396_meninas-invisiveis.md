@@ -1,1 +1,0 @@
-{"tmdb_id": 509396, "title": "Meninas Invis\u00edveis", "original_title": "Meninas Invis\u00edveis", "slug_title": "meninas-invisiveis", "date": "2018-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sGHRQr8CmRvl8Hg7VXB962nH8yo.jpg", "actors": [], "comments": [], "recommandations_id": []}

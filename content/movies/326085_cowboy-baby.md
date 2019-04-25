@@ -1,1 +1,0 @@
-{"tmdb_id": 326085, "title": "Cowboy Baby", "original_title": "Cowboy Baby", "slug_title": "cowboy-baby", "date": "2009-09-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s9WBTQGO9m1w5NMLWMTdZiJOm5h.jpg", "actors": ["Kevin Whately (Narrator)"], "comments": [], "recommandations_id": []}

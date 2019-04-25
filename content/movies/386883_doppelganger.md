@@ -1,1 +1,0 @@
-{"tmdb_id": 386883, "title": "Doppelganger", "original_title": "Doppelganger", "slug_title": "doppelganger", "date": "2010-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

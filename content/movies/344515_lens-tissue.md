@@ -1,1 +1,0 @@
-{"tmdb_id": 344515, "title": "Lens Tissue", "original_title": "Lens Tissue", "slug_title": "lens-tissue", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zZAvclvrPfIluy6TAdSCYeGwS5t.jpg", "actors": [], "comments": [], "recommandations_id": []}

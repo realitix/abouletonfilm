@@ -1,1 +1,0 @@
-{"tmdb_id": 161096, "title": "The Right Rights: Interpreting the Miranda Warning", "original_title": "The Right Rights: Interpreting the Miranda Warning", "slug_title": "the-right-rights-interpreting-the-miranda-warning", "date": "2012-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

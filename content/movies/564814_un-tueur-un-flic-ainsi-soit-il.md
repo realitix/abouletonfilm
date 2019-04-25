@@ -1,1 +1,0 @@
-{"tmdb_id": 564814, "title": "Un tueur, un flic, ainsi soit-il...", "original_title": "Un tueur, un flic, ainsi soit-il...", "slug_title": "un-tueur-un-flic-ainsi-soit-il", "date": "1977-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

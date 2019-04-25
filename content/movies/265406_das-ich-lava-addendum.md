@@ -1,1 +1,0 @@
-{"tmdb_id": 265406, "title": "Das Ich - Lava:Addendum", "original_title": "Das Ich - Lava:Addendum", "slug_title": "das-ich-lava-addendum", "date": "2004-06-28", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tuaDuhpMaZgOWsxdfD1H1EtpCPa.jpg", "actors": [], "comments": [], "recommandations_id": []}

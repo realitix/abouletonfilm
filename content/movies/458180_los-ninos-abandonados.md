@@ -1,1 +1,0 @@
-{"tmdb_id": 458180, "title": "Los ni\u00f1os abandonados", "original_title": "Los ni\u00f1os abandonados", "slug_title": "los-ninos-abandonados", "date": "1975-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

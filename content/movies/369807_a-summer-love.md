@@ -1,1 +1,0 @@
-{"tmdb_id": 369807, "title": "A summer love", "original_title": "Un amour d'\u00e9t\u00e9", "slug_title": "a-summer-love", "date": "2016-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xAIhrdwmfL9hcti2RY8UmTb79V0.jpg", "actors": [], "comments": [], "recommandations_id": []}

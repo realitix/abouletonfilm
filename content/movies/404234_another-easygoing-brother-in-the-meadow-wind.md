@@ -1,1 +1,0 @@
-{"tmdb_id": 404234, "title": "Another Easygoing Brother in the Meadow Wind", "original_title": "Another Easygoing Brother in the Meadow Wind", "slug_title": "another-easygoing-brother-in-the-meadow-wind", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

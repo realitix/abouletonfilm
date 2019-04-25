@@ -1,1 +1,0 @@
-{"tmdb_id": 340245, "title": "The Ataxian", "original_title": "The Ataxian", "slug_title": "the-ataxian", "date": "2015-06-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Y4eVjjXUrQqg2aD3J6X3UW5822.jpg", "actors": [], "comments": [], "recommandations_id": []}

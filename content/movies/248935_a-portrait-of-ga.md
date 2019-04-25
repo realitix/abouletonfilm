@@ -1,1 +1,0 @@
-{"tmdb_id": 248935, "title": "A Portrait of Ga", "original_title": "A Portrait of Ga", "slug_title": "a-portrait-of-ga", "date": "1952-01-01", "genre": "", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wmwVXRKcXzZj2ecQEZuN4BJfpHa.jpg", "actors": [], "comments": [], "recommandations_id": [256564, 179724, 147016, 178985]}

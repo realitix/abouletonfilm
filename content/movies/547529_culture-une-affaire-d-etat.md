@@ -1,1 +1,0 @@
-{"tmdb_id": 547529, "title": "Culture, une affaire d'Etat", "original_title": "Culture, une affaire d'Etat", "slug_title": "culture-une-affaire-d-etat", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zWzJG0WOQ9MkjfjagZ9nLAslDNj.jpg", "actors": [], "comments": [], "recommandations_id": []}

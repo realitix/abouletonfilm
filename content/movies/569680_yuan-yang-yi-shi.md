@@ -1,1 +1,0 @@
-{"tmdb_id": 569680, "title": "Yuan yang yi shi", "original_title": "Yuan yang yi shi", "slug_title": "yuan-yang-yi-shi", "date": "1986-07-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rwh9zp1dtwdwoUmicCwJbk4F8u4.jpg", "actors": ["Guodian Chen ()", "Jiaoxin Liu ()"], "comments": [], "recommandations_id": []}

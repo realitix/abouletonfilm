@@ -1,1 +1,0 @@
-{"tmdb_id": 593573, "title": "North East Corner", "original_title": "North East Corner", "slug_title": "north-east-corner", "date": "1944-04-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alec Finlay (Himself (closing music hall routine))"], "comments": [], "recommandations_id": []}

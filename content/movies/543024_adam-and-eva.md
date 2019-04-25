@@ -1,1 +1,0 @@
-{"tmdb_id": 543024, "title": "Adam and Eva", "original_title": "Adam and Eva", "slug_title": "adam-and-eva", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

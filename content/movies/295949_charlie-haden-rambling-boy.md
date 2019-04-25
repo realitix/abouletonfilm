@@ -1,1 +1,0 @@
-{"tmdb_id": 295949, "title": "Charlie Haden: Rambling Boy", "original_title": "Charlie Haden: Rambling Boy", "slug_title": "charlie-haden-rambling-boy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

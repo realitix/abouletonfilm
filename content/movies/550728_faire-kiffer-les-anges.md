@@ -1,1 +1,0 @@
-{"tmdb_id": 550728, "title": "Faire kiffer les anges", "original_title": "Faire kiffer les anges", "slug_title": "faire-kiffer-les-anges", "date": "1997-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u7ykhsr9MWgMGjaQoaVtbLaQQHa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 402749, "title": "Big Sugar", "original_title": "Big Sugar", "slug_title": "big-sugar", "date": "2005-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

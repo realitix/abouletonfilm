@@ -1,1 +1,0 @@
-{"tmdb_id": 587258, "title": "Hidden Gold", "original_title": "Hidden Gold", "slug_title": "hidden-gold", "date": "1932-11-03", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5VWE6yc1HcdHJ67BMsgESR04NOy.jpg", "actors": ["Tom Mix ()"], "comments": [], "recommandations_id": []}

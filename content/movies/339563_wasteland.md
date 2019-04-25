@@ -1,1 +1,0 @@
-{"tmdb_id": 339563, "title": "Wasteland", "original_title": "Das Gel\u00e4nde", "slug_title": "wasteland", "date": "2014-03-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mcwHmryDqhAR41D5VWHC1xHLLS9.jpg", "actors": [], "comments": [], "recommandations_id": []}

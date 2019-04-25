@@ -1,1 +1,0 @@
-{"tmdb_id": 157038, "title": "Moby: Live at EXIT", "original_title": "Moby: Live at EXIT", "slug_title": "moby-live-at-exit", "date": "2009-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vbeL68zH3jLZGZCZF6DPz073ymc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 211249, "title": "Christina", "original_title": "Christina", "slug_title": "christina", "date": "2010-11-04", "genre": "Drame", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ooclJ6gDpcDg6fCbfiWbo6jMbOu.jpg", "actors": [], "comments": [], "recommandations_id": []}

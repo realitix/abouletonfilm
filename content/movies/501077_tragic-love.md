@@ -1,1 +1,0 @@
-{"tmdb_id": 501077, "title": "Tragic Love", "original_title": "\u5992\u82b1\u98a8\u96e8", "slug_title": "tragic-love", "date": "1938-11-15", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

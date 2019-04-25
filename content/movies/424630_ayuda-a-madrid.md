@@ -1,1 +1,0 @@
-{"tmdb_id": 424630, "title": "\u00a1\u00a1Ayuda a Madrid!!", "original_title": "\u00a1\u00a1Ayuda a Madrid!!", "slug_title": "ayuda-a-madrid", "date": "1936-11-06", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

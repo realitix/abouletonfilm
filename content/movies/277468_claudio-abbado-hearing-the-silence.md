@@ -1,1 +1,0 @@
-{"tmdb_id": 277468, "title": "Claudio Abbado: Hearing the Silence", "original_title": "Claudio Abbado: Hearing the Silence", "slug_title": "claudio-abbado-hearing-the-silence", "date": "2003-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

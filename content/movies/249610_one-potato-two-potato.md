@@ -1,1 +1,0 @@
-{"tmdb_id": 249610, "title": "One Potato, Two Potato", "original_title": "One Potato, Two Potato", "slug_title": "one-potato-two-potato", "date": "1957-06-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4fvlRPgZY9Qq5QX7klHxUTyxcHK.jpg", "actors": [], "comments": [], "recommandations_id": []}

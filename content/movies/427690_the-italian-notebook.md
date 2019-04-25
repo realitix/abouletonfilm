@@ -1,1 +1,0 @@
-{"tmdb_id": 427690, "title": "The Italian Notebook", "original_title": "The Italian Notebook", "slug_title": "the-italian-notebook", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wplplQ69HLoGuFOlK9Vknpl4LqA.jpg", "actors": [], "comments": [], "recommandations_id": []}

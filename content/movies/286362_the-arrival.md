@@ -1,1 +1,0 @@
-{"tmdb_id": 286362, "title": "The Arrival", "original_title": "The Arrival", "slug_title": "the-arrival", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sYaqnzXzmH66NV8x2j7lltImKNn.jpg", "actors": [], "comments": [], "recommandations_id": []}

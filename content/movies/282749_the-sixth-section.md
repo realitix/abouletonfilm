@@ -1,1 +1,0 @@
-{"tmdb_id": 282749, "title": "The Sixth Section", "original_title": "La sexta secci\u00f3n", "slug_title": "the-sixth-section", "date": "2003-09-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uMMcJVdLBDcV7PNxdSBOwcUxG1B.jpg", "actors": [], "comments": [], "recommandations_id": []}

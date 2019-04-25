@@ -1,1 +1,0 @@
-{"tmdb_id": 350057, "title": "Little Red", "original_title": "Little Red", "slug_title": "little-red", "date": "2014-09-01", "genre": "Drame / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lillian Payne (Little Red)", "Rachel Friedman (Ghost)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 276112, "title": "25 Tranquil Classics", "original_title": "25 Tranquil Classics", "slug_title": "25-tranquil-classics", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

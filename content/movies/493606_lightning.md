@@ -1,1 +1,0 @@
-{"tmdb_id": 493606, "title": "Lightning", "original_title": "Lightning", "slug_title": "lightning", "date": "1976-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

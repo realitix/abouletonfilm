@@ -1,1 +1,0 @@
-{"tmdb_id": 535361, "title": "Skinny and Cat", "original_title": "Skinny and Cat", "slug_title": "skinny-and-cat", "date": "", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

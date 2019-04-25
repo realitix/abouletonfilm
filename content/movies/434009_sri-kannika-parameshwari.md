@@ -1,1 +1,0 @@
-{"tmdb_id": 434009, "title": "Sri Kannika Parameshwari", "original_title": "Sri Kannika Parameshwari", "slug_title": "sri-kannika-parameshwari", "date": "2003-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Auy5D9qRCOY7QattFR1agTlpb6q.jpg", "actors": [], "comments": [], "recommandations_id": []}

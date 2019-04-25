@@ -1,1 +1,0 @@
-{"tmdb_id": 557522, "title": "Landfill", "original_title": "Landfill", "slug_title": "landfill", "date": "2014-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 592347, "title": "Life on the Mississippi", "original_title": "Life on the Mississippi", "slug_title": "life-on-the-mississippi", "date": "2019-03-31", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

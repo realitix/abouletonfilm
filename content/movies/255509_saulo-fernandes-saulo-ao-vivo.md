@@ -1,1 +1,0 @@
-{"tmdb_id": 255509, "title": "Saulo Fernandes - Saulo Ao Vivo", "original_title": "Saulo Fernandes - Saulo Ao Vivo", "slug_title": "saulo-fernandes-saulo-ao-vivo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nNZFQFW5ZkHE8CRqWKc3nLLhSU0.jpg", "actors": [], "comments": [], "recommandations_id": []}

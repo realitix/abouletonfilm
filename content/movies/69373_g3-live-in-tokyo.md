@@ -1,1 +1,0 @@
-{"tmdb_id": 69373, "title": "G3: Live in Tokyo", "original_title": "G3: Live in Tokyo", "slug_title": "g3-live-in-tokyo", "date": "2005-10-25", "genre": "Musique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/suKKhzUxCnXGR4DhFiR1fBt5Wp2.jpg", "actors": [], "comments": [], "recommandations_id": []}

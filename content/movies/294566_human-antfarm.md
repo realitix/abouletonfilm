@@ -1,1 +1,0 @@
-{"tmdb_id": 294566, "title": "Human Antfarm", "original_title": "Human Antfarm", "slug_title": "human-antfarm", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

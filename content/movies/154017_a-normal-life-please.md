@@ -1,1 +1,0 @@
-{"tmdb_id": 154017, "title": "A Normal Life Please", "original_title": "A Normal Life Please", "slug_title": "a-normal-life-please", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 203980, "title": "The Sole Witness", "original_title": "Edinstveniyat svidetel", "slug_title": "the-sole-witness", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gdMEhM48CtO4Y5omG15spwkTYrJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

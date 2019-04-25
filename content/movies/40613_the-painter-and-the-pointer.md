@@ -1,1 +1,0 @@
-{"tmdb_id": 40613, "title": "The Painter and the Pointer", "original_title": "The Painter and the Pointer", "slug_title": "the-painter-and-the-pointer", "date": "1944-12-17", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3JhrGIhOH7fNuJKaoI4lQmy3MQQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

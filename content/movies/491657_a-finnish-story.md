@@ -1,1 +1,0 @@
-{"tmdb_id": 491657, "title": "A Finnish story", "original_title": "Une histoire finlandaise", "slug_title": "a-finnish-story", "date": "2017-12-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

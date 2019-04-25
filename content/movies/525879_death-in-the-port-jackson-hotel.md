@@ -1,1 +1,0 @@
-{"tmdb_id": 525879, "title": "Death in the Port Jackson Hotel", "original_title": "Death in the Port Jackson Hotel", "slug_title": "death-in-the-port-jackson-hotel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

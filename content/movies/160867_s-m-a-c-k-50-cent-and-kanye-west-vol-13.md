@@ -1,1 +1,0 @@
-{"tmdb_id": 160867, "title": "S.M.A.C.K.: 50 Cent and Kanye West, Vol. 13", "original_title": "S.M.A.C.K.: 50 Cent and Kanye West, Vol. 13", "slug_title": "s-m-a-c-k-50-cent-and-kanye-west-vol-13", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

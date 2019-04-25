@@ -1,1 +1,0 @@
-{"tmdb_id": 535811, "title": "Bleeding Solar", "original_title": "Bleeding Solar", "slug_title": "bleeding-solar", "date": "2019-03-09", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dew2GWa54lSs3to5e9OkVa2qK0W.jpg", "actors": [], "comments": [], "recommandations_id": []}

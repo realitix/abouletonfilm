@@ -1,1 +1,0 @@
-{"tmdb_id": 362950, "title": "Trace of the Future According to Fellipe Barbosa", "original_title": "Une trace du futur selon Fellipe Barbosa", "slug_title": "trace-of-the-future-according-to-fellipe-barbosa", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

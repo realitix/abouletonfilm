@@ -1,1 +1,0 @@
-{"tmdb_id": 454856, "title": "Disobbedienti", "original_title": "Disobbedienti", "slug_title": "disobbedienti", "date": "2002-12-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rJbNKmUgUrmzcxTg49DIYXivvMI.jpg", "actors": [], "comments": [], "recommandations_id": []}

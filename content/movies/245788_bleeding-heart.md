@@ -1,1 +1,0 @@
-{"tmdb_id": 245788, "title": "Bleeding Heart", "original_title": "Coraz\u00f3n sangrante", "slug_title": "bleeding-heart", "date": "1993-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qY1gzUUJUHK4lxHoncmvBIV0rFH.jpg", "actors": [], "comments": [], "recommandations_id": []}

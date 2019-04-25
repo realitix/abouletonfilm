@@ -1,1 +1,0 @@
-{"tmdb_id": 595327, "title": "Kids Run", "original_title": "Kids Run", "slug_title": "kids-run", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jannis Niew\u00f6hner ()", "Peter Schneider (Krusche)"], "comments": [], "recommandations_id": []}

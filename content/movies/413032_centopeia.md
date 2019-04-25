@@ -1,1 +1,0 @@
-{"tmdb_id": 413032, "title": "Centopeia", "original_title": "Centopeia", "slug_title": "centopeia", "date": "", "genre": "Animation", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

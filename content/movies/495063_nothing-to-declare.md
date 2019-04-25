@@ -1,1 +1,0 @@
-{"tmdb_id": 495063, "title": "Nothing To Declare", "original_title": "Nothing To Declare", "slug_title": "nothing-to-declare", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

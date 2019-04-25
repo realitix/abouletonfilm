@@ -1,1 +1,0 @@
-{"tmdb_id": 472871, "title": "Webkinz go to the Doctor!", "original_title": "Webkinz go to the Doctor!", "slug_title": "webkinz-go-to-the-doctor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

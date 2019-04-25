@@ -1,1 +1,0 @@
-{"tmdb_id": 565319, "title": "My Ultimate Movie", "original_title": "My Ultimate Movie", "slug_title": "my-ultimate-movie", "date": "2018-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sFcDFvXtXPiDQD5yR05QE4QiQ6j.jpg", "actors": [], "comments": [], "recommandations_id": []}

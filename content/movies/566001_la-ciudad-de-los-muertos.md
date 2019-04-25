@@ -1,1 +1,0 @@
-{"tmdb_id": 566001, "title": "La ciudad de los muertos", "original_title": "La ciudad de los muertos", "slug_title": "la-ciudad-de-los-muertos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

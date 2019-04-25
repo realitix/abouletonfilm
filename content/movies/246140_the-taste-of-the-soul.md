@@ -1,1 +1,0 @@
-{"tmdb_id": 246140, "title": "The Taste of the Soul", "original_title": "De smaak van de ziel", "slug_title": "the-taste-of-the-soul", "date": "2010-09-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fT7Zln8cxvceY3g2VXhnsmva9P5.jpg", "actors": [], "comments": [], "recommandations_id": []}

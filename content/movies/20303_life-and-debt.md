@@ -1,1 +1,0 @@
-{"tmdb_id": 20303, "title": "Life and Debt", "original_title": "Life and Debt", "slug_title": "life-and-debt", "date": "2003-02-28", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sfFKg4mnQW27MgjDH6EUXPMv9Mt.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 450724, "title": "The Seven Sewers", "original_title": "Las Siete Alcantarillas", "slug_title": "the-seven-sewers", "date": "2004-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iFBHO6MwJJAXCUhSg8YxkCbIM2K.jpg", "actors": [], "comments": [], "recommandations_id": []}

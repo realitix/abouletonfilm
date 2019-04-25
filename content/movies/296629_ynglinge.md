@@ -1,1 +1,0 @@
-{"tmdb_id": 296629, "title": "Ynglinge", "original_title": "Ynglinge", "slug_title": "ynglinge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

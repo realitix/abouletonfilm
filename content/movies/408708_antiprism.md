@@ -1,1 +1,0 @@
-{"tmdb_id": 408708, "title": "Antiprism", "original_title": "Antiprism", "slug_title": "antiprism", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

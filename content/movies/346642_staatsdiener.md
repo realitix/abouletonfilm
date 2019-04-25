@@ -1,1 +1,0 @@
-{"tmdb_id": 346642, "title": "Staatsdiener", "original_title": "Staatsdiener", "slug_title": "staatsdiener", "date": "2015-06-30", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cF0VHkJobmqC3QTzVUsEibV6TkM.jpg", "actors": [], "comments": [], "recommandations_id": []}

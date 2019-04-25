@@ -1,1 +1,0 @@
-{"tmdb_id": 59880, "title": "Joffa: The Movie", "original_title": "Joffa: The Movie", "slug_title": "joffa-the-movie", "date": "2010-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ow3TtFztQL1l0fo1JWHcqNYUN84.jpg", "actors": ["Jeff Corfe (Himself)"], "comments": [], "recommandations_id": []}

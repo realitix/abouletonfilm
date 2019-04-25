@@ -1,1 +1,0 @@
-{"tmdb_id": 304659, "title": "Tajurba", "original_title": "Tajurba", "slug_title": "tajurba", "date": "1981-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

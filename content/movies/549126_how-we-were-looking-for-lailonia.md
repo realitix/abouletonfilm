@@ -1,1 +1,0 @@
-{"tmdb_id": 549126, "title": "How we were looking for Lailonia", "original_title": "Jak szukali\u015bmy Lailonii", "slug_title": "how-we-were-looking-for-lailonia", "date": "2011-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uA4uRrVAMEkWohPMyO7PH8ym6ik.jpg", "actors": [], "comments": [], "recommandations_id": []}

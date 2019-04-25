@@ -1,1 +1,0 @@
-{"tmdb_id": 457104, "title": "A Letter from Beirut", "original_title": "Lettre de Beyrouth", "slug_title": "a-letter-from-beirut", "date": "1979-01-06", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 586324, "title": "Holy Hustler", "original_title": "Holy Hustler", "slug_title": "holy-hustler", "date": "2008-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/10NVAelOgVSrwSlXuGPNZ7jcS6i.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 155547, "title": "Dan B\u00e4ckman 1-0", "original_title": "Dan B\u00e4ckman 1-0", "slug_title": "dan-backman-1-0", "date": "2001-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m5qVklcud8gFJQTxL9I3y6xbrr7.jpg", "actors": ["Felix Herngren (Dan B\u00e4ckman)"], "comments": [], "recommandations_id": []}

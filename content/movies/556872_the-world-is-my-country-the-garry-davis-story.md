@@ -1,1 +1,0 @@
-{"tmdb_id": 556872, "title": "The World is my Country - The Garry Davis Story", "original_title": "The World is my Country - The Garry Davis Story", "slug_title": "the-world-is-my-country-the-garry-davis-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

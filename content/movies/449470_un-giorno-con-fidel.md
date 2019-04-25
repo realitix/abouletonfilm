@@ -1,1 +1,0 @@
-{"tmdb_id": 449470, "title": "Un Giorno con Fidel", "original_title": "Un Giorno con Fidel", "slug_title": "un-giorno-con-fidel", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iN9fQWGzbIAB4grSzOy6W2niyFM.jpg", "actors": ["Fidel Castro (Himself)"], "comments": [], "recommandations_id": []}

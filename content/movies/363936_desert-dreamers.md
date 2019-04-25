@@ -1,1 +1,0 @@
-{"tmdb_id": 363936, "title": "Desert Dreamers", "original_title": "Desert Dreamers", "slug_title": "desert-dreamers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

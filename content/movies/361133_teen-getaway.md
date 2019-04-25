@@ -1,1 +1,0 @@
-{"tmdb_id": 361133, "title": "Teen Getaway", "original_title": "Teen Getaway", "slug_title": "teen-getaway", "date": "2010-09-10", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dBXibZlO9jiXdL9blysnNsKDFZ0.jpg", "actors": ["Lucas Catalfamo (Zack)", "Larissa Garrod (Jamie)"], "comments": [], "recommandations_id": []}

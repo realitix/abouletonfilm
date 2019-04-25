@@ -1,1 +1,0 @@
-{"tmdb_id": 577272, "title": "UI - Soon We Will All Be One", "original_title": "UI - Soon We Will All Be One", "slug_title": "ui-soon-we-will-all-be-one", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/idUtxZ21fb9n38MDO9zPhUbmrsl.jpg", "actors": [], "comments": [], "recommandations_id": []}

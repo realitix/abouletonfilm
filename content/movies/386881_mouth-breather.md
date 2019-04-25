@@ -1,1 +1,0 @@
-{"tmdb_id": 386881, "title": "Mouth Breather", "original_title": "Mouth Breather", "slug_title": "mouth-breather", "date": "2014-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/phe1fev0NQ1RAY6G3zIZFGBiv5k.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 141656, "title": "Francis: The Knight of Assisi", "original_title": "Francis: The Knight of Assisi", "slug_title": "francis-the-knight-of-assisi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xWmkKHQbMSIcQ962V8kqb28XykO.jpg", "actors": [], "comments": [], "recommandations_id": []}

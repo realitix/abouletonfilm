@@ -1,1 +1,0 @@
-{"tmdb_id": 531431, "title": "The Evil Man", "original_title": "The Evil Man", "slug_title": "the-evil-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dWmt1hAs3FAZ8m5W8KJSf5waCRL.jpg", "actors": [], "comments": [], "recommandations_id": []}

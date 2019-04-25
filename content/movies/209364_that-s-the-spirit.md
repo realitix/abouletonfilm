@@ -1,1 +1,0 @@
-{"tmdb_id": 209364, "title": "That's the Spirit", "original_title": "That's the Spirit", "slug_title": "that-s-the-spirit", "date": "1933-04-15", "genre": "Com\u00e9die / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Noble Sissle (Himself (the Band Leader))"], "comments": [], "recommandations_id": []}

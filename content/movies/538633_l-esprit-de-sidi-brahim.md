@@ -1,1 +1,0 @@
-{"tmdb_id": 538633, "title": "L'esprit de Sidi-Brahim", "original_title": "L'esprit de Sidi-Brahim", "slug_title": "l-esprit-de-sidi-brahim", "date": "1939-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q8pS5xbHujIqthPeskuQsyMn0ag.jpg", "actors": [], "comments": [], "recommandations_id": []}

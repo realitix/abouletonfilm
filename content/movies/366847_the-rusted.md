@@ -1,1 +1,0 @@
-{"tmdb_id": 366847, "title": "The Rusted", "original_title": "The Rusted", "slug_title": "the-rusted", "date": "2015-10-23", "genre": "Drame / Thriller", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/egzcFJXgpWVngei5aBJEVMdVPQD.jpg", "actors": ["Josh Hutcherson (Max)", "Jena Malone (Karen)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 547296, "title": "B\u00fcck Fotzen \u00fcber 40", "original_title": "B\u00fcck Fotzen \u00fcber 40", "slug_title": "buck-fotzen-uber-40", "date": "2012-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

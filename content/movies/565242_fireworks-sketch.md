@@ -1,1 +1,0 @@
-{"tmdb_id": 565242, "title": "Fireworks Sketch", "original_title": "Fireworks Sketch", "slug_title": "fireworks-sketch", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p8PeEToPMsxd6a1GAbEVYrdnWMq.jpg", "actors": [], "comments": [], "recommandations_id": []}

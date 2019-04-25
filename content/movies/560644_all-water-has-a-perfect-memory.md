@@ -1,1 +1,0 @@
-{"tmdb_id": 560644, "title": "All Water Has a Perfect Memory", "original_title": "All Water Has a Perfect Memory", "slug_title": "all-water-has-a-perfect-memory", "date": "2001-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

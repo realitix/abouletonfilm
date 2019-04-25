@@ -1,1 +1,0 @@
-{"tmdb_id": 342242, "title": "15 Song Traits", "original_title": "15 Song Traits", "slug_title": "15-song-traits", "date": "1965-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9J48aIqnAIN7C1LsZCcQQPMfTqO.jpg", "actors": [], "comments": [], "recommandations_id": []}

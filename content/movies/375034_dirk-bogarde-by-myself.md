@@ -1,1 +1,0 @@
-{"tmdb_id": 375034, "title": "Dirk Bogarde: By Myself", "original_title": "Dirk Bogarde: By Myself", "slug_title": "dirk-bogarde-by-myself", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lME28cQwGk6oOxqMDfjlR02pWsa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 331102, "title": "Di Ambang Kasih", "original_title": "Di Ambang Kasih", "slug_title": "di-ambang-kasih", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7tpQkXdLXmgIBoc31JhLut012Hu.jpg", "actors": [], "comments": [], "recommandations_id": []}

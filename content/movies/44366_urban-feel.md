@@ -1,1 +1,0 @@
-{"tmdb_id": 44366, "title": "Urban Feel", "original_title": "\u05e7\u05e9\u05e8 \u05e2\u05d9\u05e8", "slug_title": "urban-feel", "date": "1999-04-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4qdbtB8DTttCgViy2tivzGaVYpB.jpg", "actors": [], "comments": [], "recommandations_id": []}

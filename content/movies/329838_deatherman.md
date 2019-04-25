@@ -1,1 +1,0 @@
-{"tmdb_id": 329838, "title": "Deatherman", "original_title": "Deatherman", "slug_title": "deatherman", "date": "2012-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

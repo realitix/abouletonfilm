@@ -1,1 +1,0 @@
-{"tmdb_id": 54657, "title": "Lava Kusa-The Warrior Twins", "original_title": "Lava Kusa-The Warrior Twins", "slug_title": "lava-kusa-the-warrior-twins", "date": "2010-10-08", "genre": "Animation", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gjp4U0o6ZpzyEqMUoaRJt6nQcYD.jpg", "actors": [], "comments": [], "recommandations_id": []}

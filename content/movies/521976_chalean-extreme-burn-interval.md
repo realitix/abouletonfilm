@@ -1,1 +1,0 @@
-{"tmdb_id": 521976, "title": "ChaLean Extreme - Burn Interval", "original_title": "ChaLean Extreme - Burn Interval", "slug_title": "chalean-extreme-burn-interval", "date": "2009-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4wSKBj48IcTeoffKzmZ87zHseTw.jpg", "actors": [], "comments": [], "recommandations_id": []}

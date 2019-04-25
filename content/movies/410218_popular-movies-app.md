@@ -1,1 +1,0 @@
-{"tmdb_id": 410218, "title": "Popular Movies App", "original_title": "Popular Movies App", "slug_title": "popular-movies-app", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

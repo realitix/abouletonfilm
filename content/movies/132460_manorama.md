@@ -1,1 +1,0 @@
-{"tmdb_id": 132460, "title": "Manorama", "original_title": "Manorama", "slug_title": "manorama", "date": "2009-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uLizFETjcL48w08gVJjGT29P0d9.jpg", "actors": ["Charmy Kaur (Geetanajali)", "Nishan K. P. Nanaiah (the stranger)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 154377, "title": "Mud Covered City", "original_title": "Zabl\u00e1cen\u00e9 mesto", "slug_title": "mud-covered-city", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

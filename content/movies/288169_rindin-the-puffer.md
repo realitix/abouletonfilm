@@ -1,1 +1,0 @@
-{"tmdb_id": 288169, "title": "Rindin the Puffer", "original_title": "Rindin the Puffer", "slug_title": "rindin-the-puffer", "date": "2006-11-10", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ecu6wHia4dqDA5blgkuamk2tbzy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 569518, "title": "Paper, Horse and Birds", "original_title": "Papirnati \u017eivot", "slug_title": "paper-horse-and-birds", "date": "2017-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eQAphoyz9lCWWrbPAkxGFXvg2O1.jpg", "actors": [], "comments": [], "recommandations_id": []}

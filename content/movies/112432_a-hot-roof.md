@@ -1,1 +1,0 @@
-{"tmdb_id": 112432, "title": "A Hot Roof", "original_title": "Gyae-got-un nalui ohu", "slug_title": "a-hot-roof", "date": "1995-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qS8mYUJIGdn0mfVG4x9OQWILcZq.jpg", "actors": ["Song Ok-Suk (Young-hee's mother)"], "comments": [], "recommandations_id": []}

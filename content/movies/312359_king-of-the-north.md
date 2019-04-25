@@ -1,1 +1,0 @@
-{"tmdb_id": 312359, "title": "King of the North", "original_title": "King of the North", "slug_title": "king-of-the-north", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

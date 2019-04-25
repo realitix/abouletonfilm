@@ -1,1 +1,0 @@
-{"tmdb_id": 423230, "title": "Cecenia", "original_title": "Cecenia", "slug_title": "cecenia", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r7gk1IPlfdtU8xqo9knCRLzYUtN.jpg", "actors": [], "comments": [], "recommandations_id": []}

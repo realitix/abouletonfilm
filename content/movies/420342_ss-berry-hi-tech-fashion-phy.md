@@ -1,1 +1,0 @@
-{"tmdb_id": 420342, "title": "Ss: Berry Hi-tech Fashion Phy", "original_title": "Ss: Berry Hi-tech Fashion Phy", "slug_title": "ss-berry-hi-tech-fashion-phy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b3WWPxC0i0bzqbzfZVtzJpmhQ0E.jpg", "actors": [], "comments": [], "recommandations_id": []}

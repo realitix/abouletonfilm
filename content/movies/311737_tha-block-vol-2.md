@@ -1,1 +1,0 @@
-{"tmdb_id": 311737, "title": "Tha Block: Vol. 2", "original_title": "Tha Block: Vol. 2", "slug_title": "tha-block-vol-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

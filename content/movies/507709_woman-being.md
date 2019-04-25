@@ -1,1 +1,0 @@
-{"tmdb_id": 507709, "title": "Woman Being", "original_title": "Woman Being", "slug_title": "woman-being", "date": "1997-02-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nH8lfGjUn0nwajVX9FqKvpk6M0R.jpg", "actors": [], "comments": [], "recommandations_id": []}

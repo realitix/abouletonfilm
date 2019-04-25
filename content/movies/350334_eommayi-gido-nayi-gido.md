@@ -1,1 +1,0 @@
-{"tmdb_id": 350334, "title": "\uc5c4\ub9c8\uc758 \uae30\ub3c4 \ub098\uc758 \uae30\ub3c4", "original_title": "\uc5c4\ub9c8\uc758 \uae30\ub3c4 \ub098\uc758 \uae30\ub3c4", "slug_title": "eommayi-gido-nayi-gido", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

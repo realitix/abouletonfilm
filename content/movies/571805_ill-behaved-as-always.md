@@ -1,1 +1,0 @@
-{"tmdb_id": 571805, "title": "Ill-Behaved as Always", "original_title": "\uadf8\ube68\ub85c", "slug_title": "ill-behaved-as-always", "date": "2016-06-09", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1k3TEz1cxcHFunh77SzJ2Gbttl6.jpg", "actors": [], "comments": [], "recommandations_id": []}

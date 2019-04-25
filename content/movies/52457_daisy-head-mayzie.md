@@ -1,1 +1,0 @@
-{"tmdb_id": 52457, "title": "Daisy-Head Mayzie", "original_title": "Daisy-Head Mayzie", "slug_title": "daisy-head-mayzie", "date": "1995-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jZZzHcQQ0mlDEzRsxVKEurfDtUp.jpg", "actors": [], "comments": [], "recommandations_id": []}

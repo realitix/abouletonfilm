@@ -1,1 +1,0 @@
-{"tmdb_id": 589786, "title": "Cheat Day", "original_title": "Cheat Day", "slug_title": "cheat-day", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

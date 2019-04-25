@@ -1,1 +1,0 @@
-{"tmdb_id": 79529, "title": "Baraka: A Closer Look", "original_title": "Baraka: A Closer Look", "slug_title": "baraka-a-closer-look", "date": "2008-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/WH8KK3XepiVmIEtUtEAvzHDkHv.jpg", "actors": [], "comments": [], "recommandations_id": []}

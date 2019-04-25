@@ -1,1 +1,1 @@
-{"tmdb_id": 475838, "title": "Sojourn", "original_title": "Sojourn", "slug_title": "sojourn", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 475838, "title": "Sojourn", "original_title": "Sojourn", "slug_title": "sojourn", "date": "1973-01-01", "genre": [""], "score": "0.0/10", "synopsis": "with Jimi Lyons", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

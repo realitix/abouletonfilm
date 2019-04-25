@@ -1,1 +1,0 @@
-{"tmdb_id": 400260, "title": "what a mess!! (really fast!!)", "original_title": "what a mess!! (really fast!!)", "slug_title": "what-a-mess-really-fast", "date": "2016-05-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1jw3W3VkodKB7Bjub7hPNM9lXH3.jpg", "actors": [], "comments": [], "recommandations_id": []}

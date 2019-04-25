@@ -1,1 +1,0 @@
-{"tmdb_id": 480318, "title": "\u00dcbermensch", "original_title": "\u00dcbermensch", "slug_title": "ubermensch", "date": "2017-03-11", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fmH77UXvM8gjoOoVxY9ea6asdhQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 399224, "title": "Cassandre", "original_title": "Cassandre", "slug_title": "cassandre", "date": "2016-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oSEAuNr3xxf1QAqhveyWyGYPrhe.jpg", "actors": ["C\u00e9lia Lebrument ()", "Kristof Langromme ()"], "comments": [], "recommandations_id": []}

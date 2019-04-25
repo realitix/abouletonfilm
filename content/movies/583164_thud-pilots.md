@@ -1,1 +1,0 @@
-{"tmdb_id": 583164, "title": "Thud Pilots", "original_title": "Thud Pilots", "slug_title": "thud-pilots", "date": "2018-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yKzWbaojzYWYsKrBvNpcsWXbRYm.jpg", "actors": ["Larry Poole (Narrator)"], "comments": [], "recommandations_id": []}

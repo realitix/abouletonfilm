@@ -1,1 +1,0 @@
-{"tmdb_id": 103673, "title": "Journey to Spirit Island", "original_title": "Journey to Spirit Island", "slug_title": "journey-to-spirit-island", "date": "1988-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bwtGYLRPhzXmXstsNLuMT5OJQjO.jpg", "actors": [], "comments": [], "recommandations_id": []}

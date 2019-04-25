@@ -1,1 +1,0 @@
-{"tmdb_id": 532900, "title": "Three Pick-Up Men for Herrick", "original_title": "Three Pick-Up Men for Herrick", "slug_title": "three-pick-up-men-for-herrick", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

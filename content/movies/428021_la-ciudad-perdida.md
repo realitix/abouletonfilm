@@ -1,1 +1,0 @@
-{"tmdb_id": 428021, "title": "La ciudad perdida", "original_title": "La ciudad perdida", "slug_title": "la-ciudad-perdida", "date": "2005-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

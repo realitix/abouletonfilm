@@ -1,1 +1,0 @@
-{"tmdb_id": 335414, "title": "Silence", "original_title": "Klusums", "slug_title": "silence", "date": "2009-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/25ehIuJ47INMY53IwOcCDwfGuiM.jpg", "actors": [], "comments": [], "recommandations_id": []}

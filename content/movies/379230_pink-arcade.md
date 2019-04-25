@@ -1,1 +1,0 @@
-{"tmdb_id": 379230, "title": "Pink Arcade", "original_title": "Pink Arcade", "slug_title": "pink-arcade", "date": "1978-10-25", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eO9dgj9g58n02Dfc92JYB8QUAd5.jpg", "actors": [], "comments": [], "recommandations_id": []}

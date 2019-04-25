@@ -1,1 +1,0 @@
-{"tmdb_id": 573767, "title": "Burt's Bikers", "original_title": "Burt's Bikers", "slug_title": "burt-s-bikers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 390617, "title": "WCW Millennium Final", "original_title": "WCW Millennium Final", "slug_title": "wcw-millennium-final", "date": "2000-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w52C5uxYbKTMtVGsdmuZoGlfnZA.jpg", "actors": [], "comments": [], "recommandations_id": []}

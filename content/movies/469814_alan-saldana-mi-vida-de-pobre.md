@@ -1,1 +1,0 @@
-{"tmdb_id": 469814, "title": "Alan Salda\u00f1a: Mi vida de pobre", "original_title": "Alan Salda\u00f1a: Mi vida de pobre", "slug_title": "alan-saldana-mi-vida-de-pobre", "date": "2017-08-04", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

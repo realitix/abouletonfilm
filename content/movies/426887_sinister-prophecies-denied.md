@@ -1,1 +1,0 @@
-{"tmdb_id": 426887, "title": "Sinister: Prophecies Denied", "original_title": "Sinister: Prophecies Denied", "slug_title": "sinister-prophecies-denied", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

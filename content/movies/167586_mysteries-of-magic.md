@@ -1,1 +1,0 @@
-{"tmdb_id": 167586, "title": "Mysteries of Magic", "original_title": "Mysteries of Magic", "slug_title": "mysteries-of-magic", "date": "1997-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4beHwTq6NKwszsEXb18twe6agLH.jpg", "actors": ["Teller (Interviewee)"], "comments": [], "recommandations_id": []}

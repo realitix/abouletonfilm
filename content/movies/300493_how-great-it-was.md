@@ -1,1 +1,0 @@
-{"tmdb_id": 300493, "title": "How Great It Was", "original_title": "How Great It Was", "slug_title": "how-great-it-was", "date": "2014-11-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ehDDH77GExSrFal3yngEhz021s.jpg", "actors": [], "comments": [], "recommandations_id": []}

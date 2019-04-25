@@ -1,1 +1,0 @@
-{"tmdb_id": 549273, "title": "The Camera Caught It", "original_title": "The Camera Caught It", "slug_title": "the-camera-caught-it", "date": "1954-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator)", "Jeff York ()"], "comments": [], "recommandations_id": []}

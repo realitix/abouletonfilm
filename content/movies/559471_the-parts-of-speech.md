@@ -1,1 +1,0 @@
-{"tmdb_id": 559471, "title": "The Parts Of Speech", "original_title": "The Parts Of Speech", "slug_title": "the-parts-of-speech", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

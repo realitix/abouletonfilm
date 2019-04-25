@@ -1,1 +1,0 @@
-{"tmdb_id": 304664, "title": "Tere Bina Kya Jina", "original_title": "Tere Bina Kya Jina", "slug_title": "tere-bina-kya-jina", "date": "1989-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

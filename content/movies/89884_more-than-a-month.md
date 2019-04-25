@@ -1,1 +1,0 @@
-{"tmdb_id": 89884, "title": "More Than a Month", "original_title": "More Than a Month", "slug_title": "more-than-a-month", "date": "2012-02-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

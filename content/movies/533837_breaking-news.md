@@ -1,1 +1,0 @@
-{"tmdb_id": 533837, "title": "Breaking News", "original_title": "Mimo\u0159\u00e1dn\u00e1 zpr\u00e1va", "slug_title": "breaking-news", "date": "2018-11-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

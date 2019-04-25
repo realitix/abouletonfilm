@@ -1,1 +1,0 @@
-{"tmdb_id": 304434, "title": "Hot Water Music", "original_title": "Hot Water Music", "slug_title": "hot-water-music", "date": "2011-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

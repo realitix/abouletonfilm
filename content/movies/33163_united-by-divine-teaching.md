@@ -1,1 +1,0 @@
-{"tmdb_id": 33163, "title": "United by Divine Teaching", "original_title": "United by Divine Teaching", "slug_title": "united-by-divine-teaching", "date": "1995-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8N5BwB45MdxQgwEbzkjaNsqngcs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 577609, "title": "10 Days in Malawi", "original_title": "10 Days in Malawi", "slug_title": "10-days-in-malawi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

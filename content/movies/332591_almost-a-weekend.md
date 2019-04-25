@@ -1,1 +1,0 @@
-{"tmdb_id": 332591, "title": "Almost A Weekend", "original_title": "Almost A Weekend", "slug_title": "almost-a-weekend", "date": "2015-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6rqikxFGvuZC3VCopfwE8d0sYYq.jpg", "actors": [], "comments": [], "recommandations_id": []}

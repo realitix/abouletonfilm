@@ -1,1 +1,0 @@
-{"tmdb_id": 396738, "title": "Ejersbo", "original_title": "Ejersbo", "slug_title": "ejersbo", "date": "2015-11-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jakob Ejersbo (Himself)"], "comments": [], "recommandations_id": []}

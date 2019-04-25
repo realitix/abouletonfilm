@@ -1,1 +1,0 @@
-{"tmdb_id": 469690, "title": "Christianity and Islam", "original_title": "Christianity and Islam", "slug_title": "christianity-and-islam", "date": "2004-07-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/20OmKXSIw1p4UrX7Lk6SzetOZOR.jpg", "actors": [], "comments": [], "recommandations_id": []}

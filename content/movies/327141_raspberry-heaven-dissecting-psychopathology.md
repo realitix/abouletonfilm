@@ -1,1 +1,0 @@
-{"tmdb_id": 327141, "title": "Raspberry Heaven: Dissecting Psychopathology", "original_title": "Raspberry Heaven: Dissecting Psychopathology", "slug_title": "raspberry-heaven-dissecting-psychopathology", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

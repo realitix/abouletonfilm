@@ -1,1 +1,0 @@
-{"tmdb_id": 495529, "title": "GoKart Fahren", "original_title": "GoKart Fahren", "slug_title": "gokart-fahren", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4MpyCXLmIWx7XUuL01q9GHoep6d.jpg", "actors": [], "comments": [], "recommandations_id": []}

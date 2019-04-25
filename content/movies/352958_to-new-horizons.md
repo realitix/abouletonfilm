@@ -1,1 +1,0 @@
-{"tmdb_id": 352958, "title": "To New Horizons", "original_title": "To New Horizons", "slug_title": "to-new-horizons", "date": "1940-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

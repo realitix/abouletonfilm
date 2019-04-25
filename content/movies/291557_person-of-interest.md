@@ -1,1 +1,0 @@
-{"tmdb_id": 291557, "title": "Person of Interest", "original_title": "Person of Interest", "slug_title": "person-of-interest", "date": "2007-11-09", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/54NE7WtR2078QG6i4Qwsh5iCLws.jpg", "actors": [], "comments": [], "recommandations_id": []}

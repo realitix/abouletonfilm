@@ -1,1 +1,0 @@
-{"tmdb_id": 252385, "title": "American Addict", "original_title": "American Addict", "slug_title": "american-addict", "date": "2012-05-18", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ow6JBpwLHnTAiJTgx0TiA4E17Kq.jpg", "actors": [], "comments": [], "recommandations_id": [142573]}

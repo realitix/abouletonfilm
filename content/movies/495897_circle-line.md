@@ -1,1 +1,0 @@
-{"tmdb_id": 495897, "title": "Circle Line", "original_title": "Circle Line", "slug_title": "circle-line", "date": "2012-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

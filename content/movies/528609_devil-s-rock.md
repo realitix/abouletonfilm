@@ -1,1 +1,0 @@
-{"tmdb_id": 528609, "title": "Devil's Rock", "original_title": "Devil's Rock", "slug_title": "devil-s-rock", "date": "1938-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Hayward (Sam Mulhern)", "Geraldine Mitchell (Geraldine Larmour)", "Gloria Grainger (Veronica Larmour)"], "comments": [], "recommandations_id": []}

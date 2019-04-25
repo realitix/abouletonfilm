@@ -1,1 +1,0 @@
-{"tmdb_id": 438473, "title": "Meth Storm", "original_title": "Meth Storm", "slug_title": "meth-storm", "date": "2017-03-11", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iRv1CdpC5c3HVlYZ8oZonSYcNEF.jpg", "actors": [], "comments": [], "recommandations_id": []}

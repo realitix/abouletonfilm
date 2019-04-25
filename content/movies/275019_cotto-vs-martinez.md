@@ -1,1 +1,0 @@
-{"tmdb_id": 275019, "title": "Cotto vs. Martinez", "original_title": "Cotto vs. Martinez", "slug_title": "cotto-vs-martinez", "date": "2014-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ekl2ydGZKsGcVy3vLNrflXPtDj1.jpg", "actors": ["Miguel Cotto ()", "Sergio Martinez ()"], "comments": [], "recommandations_id": []}

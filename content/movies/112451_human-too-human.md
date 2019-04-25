@@ -1,1 +1,0 @@
-{"tmdb_id": 112451, "title": "Human, Too Human", "original_title": "Humain, trop humain", "slug_title": "human-too-human", "date": "1974-04-03", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sC4eUsaocxSK9IYxz1LSKClHFXZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

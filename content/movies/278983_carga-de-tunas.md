@@ -1,1 +1,0 @@
-{"tmdb_id": 278983, "title": "Carga de tunas", "original_title": "Carga de tunas", "slug_title": "carga-de-tunas", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

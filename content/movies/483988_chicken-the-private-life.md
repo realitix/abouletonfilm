@@ -1,1 +1,0 @@
-{"tmdb_id": 483988, "title": "Chicken: The Private Life", "original_title": "Chicken: The Private Life", "slug_title": "chicken-the-private-life", "date": "2010-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q2S3JYNQRcz1Ffcgc6H3Qstcenm.jpg", "actors": [], "comments": [], "recommandations_id": []}

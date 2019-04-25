@@ -1,1 +1,0 @@
-{"tmdb_id": 277315, "title": "In the Shadow of No Towers", "original_title": "In the Shadow of No Towers", "slug_title": "in-the-shadow-of-no-towers", "date": "2011-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 586030, "title": "The Contortionist", "original_title": "The Contortionist", "slug_title": "the-contortionist", "date": "1978-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oEfbWLZK8G5uXfSZm2nJmjGYyQl.jpg", "actors": ["Greer Lankton (Herself)"], "comments": [], "recommandations_id": []}

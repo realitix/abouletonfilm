@@ -1,1 +1,0 @@
-{"tmdb_id": 87795, "title": "Blood, Sweat & Tears: Musikladen", "original_title": "Blood, Sweat & Tears: Musikladen", "slug_title": "blood-sweat-tears-musikladen", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mnhszJ1QcIxdNZqHh3LCI6IET8Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

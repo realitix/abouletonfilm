@@ -1,1 +1,0 @@
-{"tmdb_id": 168689, "title": "Dire Straits - Hammersmith Odeon", "original_title": "Dire Straits - Hammersmith Odeon", "slug_title": "dire-straits-hammersmith-odeon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

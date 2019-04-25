@@ -1,1 +1,0 @@
-{"tmdb_id": 347504, "title": "View from the Summit", "original_title": "View from the Summit", "slug_title": "view-from-the-summit", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

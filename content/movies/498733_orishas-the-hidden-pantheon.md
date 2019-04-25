@@ -1,1 +1,0 @@
-{"tmdb_id": 498733, "title": "Orishas: The Hidden Pantheon", "original_title": "Orishas: The Hidden Pantheon", "slug_title": "orishas-the-hidden-pantheon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fI5UYOj86CohrdaU7VXRJbv3GWm.jpg", "actors": [], "comments": [], "recommandations_id": []}

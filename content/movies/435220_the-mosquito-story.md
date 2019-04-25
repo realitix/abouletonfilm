@@ -1,1 +1,0 @@
-{"tmdb_id": 435220, "title": "The Mosquito Story", "original_title": "The Mosquito Story", "slug_title": "the-mosquito-story", "date": "1995-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fqOt5MQmPcLJ4U8v3UhwvtA6Rc4.jpg", "actors": [], "comments": [], "recommandations_id": []}

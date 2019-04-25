@@ -1,1 +1,0 @@
-{"tmdb_id": 431306, "title": "Freedom under load", "original_title": "Sloboda pod n\u00e1kladom", "slug_title": "freedom-under-load", "date": "2016-09-01", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uY97tVgi4mjx63cgocCnx8UccvU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 310840, "title": "Sharada", "original_title": "Sharada", "slug_title": "sharada", "date": "1957-02-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/avs0oslI1Z9KJBLnv8LCvTPBYyO.jpg", "actors": ["Raj Kapoor (Chiranjeev/Shekhar)", "Meena Kumari (Sharada Ram Sharan)"], "comments": [], "recommandations_id": []}

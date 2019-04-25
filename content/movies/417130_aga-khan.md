@@ -1,1 +1,0 @@
-{"tmdb_id": 417130, "title": "Aga Khan", "original_title": "Aga Khan", "slug_title": "aga-khan", "date": "1961-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

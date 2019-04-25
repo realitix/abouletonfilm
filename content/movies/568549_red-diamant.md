@@ -1,1 +1,0 @@
-{"tmdb_id": 568549, "title": "Red Diamant", "original_title": "Red Diamant", "slug_title": "red-diamant", "date": "1973-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

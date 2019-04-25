@@ -1,1 +1,0 @@
-{"tmdb_id": 521437, "title": "Please INDIA, Clean INDIA", "original_title": "Please INDIA, Clean INDIA", "slug_title": "please-india-clean-india", "date": "2016-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rekha Sharma ()", "Sunil Sachdeva ()", "Vikas vashishth ()"], "comments": [], "recommandations_id": []}

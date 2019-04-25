@@ -1,1 +1,0 @@
-{"tmdb_id": 197163, "title": "Tale of the Dragon", "original_title": "Tale of the Dragon", "slug_title": "tale-of-the-dragon", "date": "2006-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

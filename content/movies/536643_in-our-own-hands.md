@@ -1,1 +1,0 @@
-{"tmdb_id": 536643, "title": "In Our Own Hands", "original_title": "In Our Own Hands", "slug_title": "in-our-own-hands", "date": "2000-05-14", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

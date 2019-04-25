@@ -1,1 +1,0 @@
-{"tmdb_id": 361709, "title": "Toque Profundo: Sesi\u00f3n 25", "original_title": "Toque Profundo: Sesi\u00f3n 25", "slug_title": "toque-profundo-sesion-25", "date": "2014-11-11", "genre": "Musique", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/GWx3efhXNCLhAjMvvXxi26VKqC.jpg", "actors": [], "comments": [], "recommandations_id": []}

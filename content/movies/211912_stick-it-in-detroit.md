@@ -1,1 +1,0 @@
-{"tmdb_id": 211912, "title": "Stick It in Detroit", "original_title": "Stick It in Detroit", "slug_title": "stick-it-in-detroit", "date": "2008-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Lutz (Justin Rose)"], "comments": [], "recommandations_id": []}

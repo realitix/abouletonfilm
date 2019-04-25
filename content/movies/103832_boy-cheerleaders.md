@@ -1,1 +1,0 @@
-{"tmdb_id": 103832, "title": "Boy Cheerleaders", "original_title": "Boy Cheerleaders", "slug_title": "boy-cheerleaders", "date": "2011-04-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ahr9WNbrgpgaYrpAOkJUw788wQr.jpg", "actors": [], "comments": [], "recommandations_id": []}

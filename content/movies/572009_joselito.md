@@ -1,1 +1,0 @@
-{"tmdb_id": 572009, "title": "Joselito", "original_title": "Joselito", "slug_title": "joselito", "date": "2016-06-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hz0v7z3oWsqQgDoTI0iKAtfYKcu.jpg", "actors": ["Cristian Flores ()", "Jos\u00e9 Soza ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 403259, "title": "Vicente Nery & Amigos", "original_title": "Vicente Nery & Amigos", "slug_title": "vicente-nery-amigos", "date": "2010-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sKmDlZ6b9hz2rUhFTP6mIt72uO4.jpg", "actors": [], "comments": [], "recommandations_id": []}

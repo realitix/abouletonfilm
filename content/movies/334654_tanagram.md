@@ -1,1 +1,0 @@
-{"tmdb_id": 334654, "title": "Tanagram", "original_title": "Tanagram", "slug_title": "tanagram", "date": "2006-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wamJAK6sVpsKL2N7U2LBBXy0PhO.jpg", "actors": [], "comments": [], "recommandations_id": []}

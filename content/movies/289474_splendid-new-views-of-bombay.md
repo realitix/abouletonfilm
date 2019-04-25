@@ -1,1 +1,0 @@
-{"tmdb_id": 289474, "title": "Splendid New Views of Bombay", "original_title": "Splendid New Views of Bombay", "slug_title": "splendid-new-views-of-bombay", "date": "1900-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

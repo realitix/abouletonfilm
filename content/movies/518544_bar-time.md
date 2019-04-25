@@ -1,1 +1,0 @@
-{"tmdb_id": 518544, "title": "Bar Time", "original_title": "Bar Time", "slug_title": "bar-time", "date": "1979-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

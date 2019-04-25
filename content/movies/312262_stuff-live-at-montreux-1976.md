@@ -1,1 +1,0 @@
-{"tmdb_id": 312262, "title": "Stuff: Live at Montreux 1976", "original_title": "Stuff: Live at Montreux 1976", "slug_title": "stuff-live-at-montreux-1976", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

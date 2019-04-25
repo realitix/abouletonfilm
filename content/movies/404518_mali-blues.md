@@ -1,1 +1,0 @@
-{"tmdb_id": 404518, "title": "Mali Blues", "original_title": "Mali Blues", "slug_title": "mali-blues", "date": "2016-09-29", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/54GNSgpsCs8kAGLof4TIHdticwX.jpg", "actors": [], "comments": [], "recommandations_id": []}

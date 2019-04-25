@@ -1,1 +1,0 @@
-{"tmdb_id": 215112, "title": "Season of Fear", "original_title": "Season of Fear", "slug_title": "season-of-fear", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yLo7gpI2M24r2rtTlTjX5VLPzW9.jpg", "actors": [], "comments": [], "recommandations_id": []}

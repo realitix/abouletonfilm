@@ -1,1 +1,0 @@
-{"tmdb_id": 80815, "title": "Contact Has Begun", "original_title": "Contact Has Begun", "slug_title": "contact-has-begun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 93122, "title": "Out of the Blue", "original_title": "Out of the Blue", "slug_title": "out-of-the-blue", "date": "2002-07-22", "genre": "Documentaire / Histoire / Science-Fiction", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lF8gSoxHt0dqUMNdA8S5vJ4Vv3U.jpg", "actors": [], "comments": [], "recommandations_id": []}

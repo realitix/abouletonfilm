@@ -1,1 +1,0 @@
-{"tmdb_id": 316589, "title": "A Wedding Knight", "original_title": "A Wedding Knight", "slug_title": "a-wedding-knight", "date": "1966-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

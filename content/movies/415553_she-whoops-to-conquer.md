@@ -1,1 +1,0 @@
-{"tmdb_id": 415553, "title": "She Whoops To Conquer", "original_title": "She Whoops To Conquer", "slug_title": "she-whoops-to-conquer", "date": "1933-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zasu Pitts ()", "Daphne Pollard ()", "Billy Bevan ()"], "comments": [], "recommandations_id": []}

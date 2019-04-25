@@ -1,1 +1,0 @@
-{"tmdb_id": 595115, "title": "The Woman Hater", "original_title": "The Woman Hater", "slug_title": "the-woman-hater", "date": "1925-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eYbnR7xjgM0BhB9ll5nLqbjsvVv.jpg", "actors": [], "comments": [], "recommandations_id": []}

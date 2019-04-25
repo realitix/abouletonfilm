@@ -1,1 +1,0 @@
-{"tmdb_id": 316583, "title": "Trick or Cheat", "original_title": "Trick or Cheat", "slug_title": "trick-or-cheat", "date": "1966-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sDX14IBXKd45oQsR1LfQ7AedgJR.jpg", "actors": [], "comments": [], "recommandations_id": []}

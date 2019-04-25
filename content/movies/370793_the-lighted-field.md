@@ -1,1 +1,0 @@
-{"tmdb_id": 370793, "title": "The Lighted Field", "original_title": "The Lighted Field", "slug_title": "the-lighted-field", "date": "1987-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8nPFs3ybQ1Z7B8D44ELhMENJLcO.jpg", "actors": [], "comments": [], "recommandations_id": []}

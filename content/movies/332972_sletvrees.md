@@ -1,1 +1,0 @@
-{"tmdb_id": 332972, "title": "Sletvrees", "original_title": "Sletvrees", "slug_title": "sletvrees", "date": "2013-11-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jENV909eKN5rES04djuXiuALZs4.jpg", "actors": [], "comments": [], "recommandations_id": []}

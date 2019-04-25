@@ -1,1 +1,0 @@
-{"tmdb_id": 234723, "title": "Insight: Anthony Asquith", "original_title": "Insight: Anthony Asquith", "slug_title": "insight-anthony-asquith", "date": "1960-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anthony Asquith ()", "Robert Krasker ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 568111, "title": "The Souvenir", "original_title": "The Souvenir", "slug_title": "the-souvenir", "date": "2008-12-12", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aCUSJYRYdQDs8Q9xflAkfI4wUaN.jpg", "actors": [], "comments": [], "recommandations_id": []}

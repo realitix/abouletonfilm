@@ -1,1 +1,0 @@
-{"tmdb_id": 342362, "title": "In the Steps of a Dead Man", "original_title": "In the Steps of a Dead Man", "slug_title": "in-the-steps-of-a-dead-man", "date": "1974-05-27", "genre": "Thriller", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dqdf83lbK1BEuQ2KD7ikj3bG0ui.jpg", "actors": [], "comments": [], "recommandations_id": []}

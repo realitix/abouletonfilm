@@ -1,1 +1,0 @@
-{"tmdb_id": 365580, "title": "On Cannibalism", "original_title": "On Cannibalism", "slug_title": "on-cannibalism", "date": "1994-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

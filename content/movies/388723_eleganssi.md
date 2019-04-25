@@ -1,1 +1,0 @@
-{"tmdb_id": 388723, "title": "Eleganssi", "original_title": "Eleganssi", "slug_title": "eleganssi", "date": "2016-01-27", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qUUJCIpnMJCFnsfT3rV5wRza9HV.jpg", "actors": [], "comments": [], "recommandations_id": []}

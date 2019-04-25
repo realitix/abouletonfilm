@@ -1,1 +1,0 @@
-{"tmdb_id": 393771, "title": "Okinawa: The Afterburn", "original_title": "Okinawa: The Afterburn", "slug_title": "okinawa-the-afterburn", "date": "2015-06-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3QFNHo5TeyUkD5u1j0aoeLtI3sr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 434671, "title": "Burma Storybook", "original_title": "Burma Storybook", "slug_title": "burma-storybook", "date": "2017-01-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1QDNY3z0LYufZSHorH9b7Izv6bA.jpg", "actors": [], "comments": [], "recommandations_id": []}

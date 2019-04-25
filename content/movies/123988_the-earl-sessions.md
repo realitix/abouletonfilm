@@ -1,1 +1,0 @@
-{"tmdb_id": 123988, "title": "The Earl Sessions", "original_title": "The Earl Sessions", "slug_title": "the-earl-sessions", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/izKTi0eoeTpNZhOWvikXoQCRxMW.jpg", "actors": [], "comments": [], "recommandations_id": []}

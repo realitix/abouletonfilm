@@ -1,1 +1,0 @@
-{"tmdb_id": 471134, "title": "Shankill Butchers", "original_title": "Shankill Butchers", "slug_title": "shankill-butchers", "date": "2011-03-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2jFSEDF0tlzWUWiwF3KXId2s1nf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 414404, "title": "Life in Transition", "original_title": "Life in Transition", "slug_title": "life-in-transition", "date": "2005-09-30", "genre": "Animation", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ZDSiFJn2fFm3ywsESm9WcqJNP5.jpg", "actors": [], "comments": [], "recommandations_id": []}

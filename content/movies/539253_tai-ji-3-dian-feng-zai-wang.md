@@ -1,1 +1,0 @@
-{"tmdb_id": 539253, "title": "\u592a\u67813:\u5dc5\u5cf0\u5728\u671b", "original_title": "\u592a\u67813:\u5dc5\u5cf0\u5728\u671b", "slug_title": "tai-ji-3-dian-feng-zai-wang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

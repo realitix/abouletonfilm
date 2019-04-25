@@ -1,1 +1,0 @@
-{"tmdb_id": 543310, "title": "\u767d\u6bdb\u5973", "original_title": "\u767d\u6bdb\u5973", "slug_title": "bai-mao-nu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

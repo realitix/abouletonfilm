@@ -1,1 +1,0 @@
-{"tmdb_id": 441478, "title": "Soundhunters", "original_title": "Soundhunters", "slug_title": "soundhunters", "date": "2015-09-19", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pPUXLkLs2gvKWQGHVsH91QLMipe.jpg", "actors": [], "comments": [], "recommandations_id": []}

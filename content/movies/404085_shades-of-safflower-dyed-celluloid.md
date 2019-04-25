@@ -1,1 +1,0 @@
-{"tmdb_id": 404085, "title": "Shades of Safflower-dyed Celluloid", "original_title": "\u7d05\u82b1\u306e\u5f71\u8272\u67d3\u3081", "slug_title": "shades-of-safflower-dyed-celluloid", "date": "2015-06-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

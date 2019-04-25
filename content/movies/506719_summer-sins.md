@@ -1,1 +1,0 @@
-{"tmdb_id": 506719, "title": "Summer Sins", "original_title": "Summer Sins", "slug_title": "summer-sins", "date": "2014-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iGsIiLBKCDRfeH97lhKbHasUJZR.jpg", "actors": [], "comments": [], "recommandations_id": []}

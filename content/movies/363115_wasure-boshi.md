@@ -1,1 +1,0 @@
-{"tmdb_id": 363115, "title": "Wasure-Boshi", "original_title": "Wasure-Boshi", "slug_title": "wasure-boshi", "date": "2013-07-03", "genre": "Animation", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6irUUIpV32TFrRFm9tUv4U28et7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 501485, "title": "Hot Knives", "original_title": "Hot Knives", "slug_title": "hot-knives", "date": "2018-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uEIzQZ7rNyekYx9bnPaY8DcAVhS.jpg", "actors": ["Phil Caracas (Stan)", "Gabriela Svoboda (Luba)"], "comments": [], "recommandations_id": []}

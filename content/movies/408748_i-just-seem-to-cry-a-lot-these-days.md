@@ -1,1 +1,0 @@
-{"tmdb_id": 408748, "title": "I Just Seem to Cry a Lot, These Days...", "original_title": "I Just Seem to Cry a Lot, These Days...", "slug_title": "i-just-seem-to-cry-a-lot-these-days", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 416308, "title": "Hat Trick", "original_title": "Hat Trick", "slug_title": "hat-trick", "date": "2014-10-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rW3GNbqp75EAnJ44Qiu1Ojp2GZS.jpg", "actors": [], "comments": [], "recommandations_id": []}

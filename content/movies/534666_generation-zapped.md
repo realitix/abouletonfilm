@@ -1,1 +1,0 @@
-{"tmdb_id": 534666, "title": "Generation Zapped", "original_title": "Generation Zapped", "slug_title": "generation-zapped", "date": "2017-06-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tHSPX3srwtdlzOx3hxHjbmL1xYo.jpg", "actors": [], "comments": [], "recommandations_id": []}

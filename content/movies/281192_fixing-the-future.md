@@ -1,1 +1,0 @@
-{"tmdb_id": 281192, "title": "Fixing the Future", "original_title": "Fixing the Future", "slug_title": "fixing-the-future", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

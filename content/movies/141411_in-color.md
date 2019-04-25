@@ -1,1 +1,0 @@
-{"tmdb_id": 141411, "title": "In Color", "original_title": "In Color", "slug_title": "in-color", "date": "2010-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rdLXW7bEaacoqeqW0VPRESmTd24.jpg", "actors": [], "comments": [], "recommandations_id": []}

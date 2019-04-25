@@ -1,1 +1,0 @@
-{"tmdb_id": 220667, "title": "The Bandmaster", "original_title": "The Bandmaster", "slug_title": "the-bandmaster", "date": "1947-12-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2O2SWtyfjhAfEgHcWuxV4c5OzuZ.jpg", "actors": ["Mel Blanc ()"], "comments": [], "recommandations_id": []}

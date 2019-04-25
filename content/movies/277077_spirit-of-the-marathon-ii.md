@@ -1,1 +1,0 @@
-{"tmdb_id": 277077, "title": "Spirit of the Marathon II", "original_title": "Spirit of the Marathon II", "slug_title": "spirit-of-the-marathon-ii", "date": "2013-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

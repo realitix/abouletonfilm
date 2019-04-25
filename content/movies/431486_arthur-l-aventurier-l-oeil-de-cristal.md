@@ -1,1 +1,0 @@
-{"tmdb_id": 431486, "title": "Arthur l'aventurier : L'oeil de cristal", "original_title": "Arthur l'aventurier : L'oeil de cristal", "slug_title": "arthur-l-aventurier-l-oeil-de-cristal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

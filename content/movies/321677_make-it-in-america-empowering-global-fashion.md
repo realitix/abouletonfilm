@@ -1,1 +1,0 @@
-{"tmdb_id": 321677, "title": "Make It In America: Empowering Global Fashion", "original_title": "Make It In America: Empowering Global Fashion", "slug_title": "make-it-in-america-empowering-global-fashion", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

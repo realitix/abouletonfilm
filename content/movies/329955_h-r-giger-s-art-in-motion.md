@@ -1,1 +1,0 @@
-{"tmdb_id": 329955, "title": "H.R. Giger's Art in Motion", "original_title": "H.R. Giger's Art in Motion", "slug_title": "h-r-giger-s-art-in-motion", "date": "2010-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dYk7oanx8dkF5zyxKCTRzHd6kZb.jpg", "actors": [], "comments": [], "recommandations_id": []}

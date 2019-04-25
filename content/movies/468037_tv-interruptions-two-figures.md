@@ -1,1 +1,0 @@
-{"tmdb_id": 468037, "title": "TV Interruptions: Two Figures", "original_title": "TV Interruptions: Two Figures", "slug_title": "tv-interruptions-two-figures", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bJBDS5owhwZNDPNcPwMu3HOWPMq.jpg", "actors": [], "comments": [], "recommandations_id": []}

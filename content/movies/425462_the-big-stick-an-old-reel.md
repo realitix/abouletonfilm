@@ -1,1 +1,0 @@
-{"tmdb_id": 425462, "title": "The Big Stick/An Old Reel", "original_title": "The Big Stick/An Old Reel", "slug_title": "the-big-stick-an-old-reel", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7jABMXaNqjBxPy1Z3QZ3PQZDZzZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

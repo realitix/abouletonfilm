@@ -1,1 +1,0 @@
-{"tmdb_id": 560052, "title": "My Father's Dragon", "original_title": "My Father's Dragon", "slug_title": "my-father-s-dragon", "date": "", "genre": "Animation / Aventure / Familial / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oeOsyairdmo6aon7dijB29vqrtT.jpg", "actors": [], "comments": [], "recommandations_id": []}

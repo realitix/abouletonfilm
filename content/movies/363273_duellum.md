@@ -1,1 +1,0 @@
-{"tmdb_id": 363273, "title": "Duellum", "original_title": "Duellum", "slug_title": "duellum", "date": "2015-09-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jBmBt6OQ0DPqp7AAUmrYlYeS7Tc.jpg", "actors": ["Michael James Dukes (Knight)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 539244, "title": "The Pacific War: A Trilogy - Saipan", "original_title": "The Pacific War: A Trilogy - Saipan", "slug_title": "the-pacific-war-a-trilogy-saipan", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

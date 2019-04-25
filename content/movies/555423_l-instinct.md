@@ -1,1 +1,0 @@
-{"tmdb_id": 555423, "title": "L'instinct", "original_title": "L'instinct", "slug_title": "l-instinct", "date": "1916-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

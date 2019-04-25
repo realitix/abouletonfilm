@@ -1,1 +1,0 @@
-{"tmdb_id": 157030, "title": "Poor Folk", "original_title": "\u7aae\u4eba\u3002\u69b4\u69e4\u3002\u9ebb\u85e5\u3002\u5077\u6e21\u5ba2", "slug_title": "poor-folk", "date": "2013-01-24", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oSvq0OxcFPg6VcMkxN8ghOEWdog.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 547625, "title": "The Protection Foil", "original_title": "Die Schutzfolie", "slug_title": "the-protection-foil", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fbUxbOH21MiyS1qVFg9SllcXd2G.jpg", "actors": [], "comments": [], "recommandations_id": []}

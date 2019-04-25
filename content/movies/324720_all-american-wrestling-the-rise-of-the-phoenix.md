@@ -1,1 +1,0 @@
-{"tmdb_id": 324720, "title": "All American Wrestling The Rise of The Phoenix", "original_title": "All American Wrestling The Rise of The Phoenix", "slug_title": "all-american-wrestling-the-rise-of-the-phoenix", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

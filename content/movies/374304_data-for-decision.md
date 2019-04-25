@@ -1,1 +1,0 @@
-{"tmdb_id": 374304, "title": "Data for Decision", "original_title": "Data for Decision", "slug_title": "data-for-decision", "date": "1968-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wkLoM8PSs9okMVfyN8i5EEqyrLE.jpg", "actors": ["Richard Gilbert (Narrator)"], "comments": [], "recommandations_id": []}

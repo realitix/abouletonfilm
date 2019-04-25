@@ -1,1 +1,0 @@
-{"tmdb_id": 232774, "title": "B\u00f8rnehj\u00e6lpsdagen i K\u00f8benhavn", "original_title": "B\u00f8rnehj\u00e6lpsdagen i K\u00f8benhavn", "slug_title": "bornehjaelpsdagen-i-kobenhavn", "date": "1907-11-03", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

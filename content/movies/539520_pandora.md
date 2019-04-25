@@ -1,1 +1,0 @@
-{"tmdb_id": 539520, "title": "Pandora", "original_title": "Pandora", "slug_title": "pandora", "date": "1984-06-04", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eQtahpM3SoW7XrhAXblxPoCrvnI.jpg", "actors": ["Truus van Triest (Female)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 325028, "title": "Beyond the Edge", "original_title": "Beyond the Edge", "slug_title": "beyond-the-edge", "date": "1987-05-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

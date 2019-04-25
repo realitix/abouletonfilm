@@ -1,1 +1,0 @@
-{"tmdb_id": 593616, "title": "Dirty White Lies", "original_title": "Dirty White Lies", "slug_title": "dirty-white-lies", "date": "2017-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d0Juu9SDjgyafjjQhtoFPTcQzzJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

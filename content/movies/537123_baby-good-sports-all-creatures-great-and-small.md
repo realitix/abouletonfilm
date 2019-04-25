@@ -1,1 +1,0 @@
-{"tmdb_id": 537123, "title": "Baby Good Sports:  All Creatures Great and Small", "original_title": "Baby Good Sports:  All Creatures Great and Small", "slug_title": "baby-good-sports-all-creatures-great-and-small", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

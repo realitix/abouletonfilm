@@ -1,1 +1,0 @@
-{"tmdb_id": 286680, "title": "Man of the Soil", "original_title": "Nom T\u00e8w", "slug_title": "man-of-the-soil", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w8dYzkI41TbRHCoy1w4afwvvmh8.jpg", "actors": ["Jerry 'Maka West' (Himself)"], "comments": [], "recommandations_id": []}

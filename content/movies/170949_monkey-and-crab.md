@@ -1,1 +1,0 @@
-{"tmdb_id": 170949, "title": "Monkey and Crab", "original_title": "Sarukani", "slug_title": "monkey-and-crab", "date": "1972-10-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ekLn1uYQJzS4dYyJdABSqBVG1SS.jpg", "actors": [], "comments": [], "recommandations_id": []}

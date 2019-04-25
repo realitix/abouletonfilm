@@ -1,1 +1,0 @@
-{"tmdb_id": 344239, "title": "Animal Rental", "original_title": "Animales de alquiler", "slug_title": "animal-rental", "date": "2010-11-12", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

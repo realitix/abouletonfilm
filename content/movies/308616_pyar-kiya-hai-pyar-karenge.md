@@ -1,1 +1,0 @@
-{"tmdb_id": 308616, "title": "Pyar Kiya Hai Pyar Karenge", "original_title": "Pyar Kiya Hai Pyar Karenge", "slug_title": "pyar-kiya-hai-pyar-karenge", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 426769, "title": "Pike River", "original_title": "Pike River", "slug_title": "pike-river", "date": "2016-11-21", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qT8dpQsooGvqMPrAcbJ4S3zGPH2.jpg", "actors": [], "comments": [], "recommandations_id": []}

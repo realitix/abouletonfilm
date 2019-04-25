@@ -1,1 +1,0 @@
-{"tmdb_id": 272283, "title": "A Blood Pledge: Broken Promise", "original_title": "A Blood Pledge: Broken Promise", "slug_title": "a-blood-pledge-broken-promise", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

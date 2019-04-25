@@ -1,1 +1,0 @@
-{"tmdb_id": 48262, "title": "Drillbit", "original_title": "Drillbit", "slug_title": "drillbit", "date": "1992-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/50Q5YcnUqZvv9eZQZ3J2X8mD35u.jpg", "actors": ["Jim Van Bebber (Narrator)"], "comments": [], "recommandations_id": []}

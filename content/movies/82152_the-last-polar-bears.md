@@ -1,1 +1,0 @@
-{"tmdb_id": 82152, "title": "The Last Polar Bears", "original_title": "The Last Polar Bears", "slug_title": "the-last-polar-bears", "date": "2000-12-25", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sgwPSiALQ19BzM6Y857xHhCmg6U.jpg", "actors": [], "comments": [], "recommandations_id": []}

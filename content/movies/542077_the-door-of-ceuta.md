@@ -1,1 +1,0 @@
-{"tmdb_id": 542077, "title": "The Door of Ceuta", "original_title": "Bab Sebta", "slug_title": "the-door-of-ceuta", "date": "2008-07-22", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3xj86dJx0mJQdJdefupmuDONgFs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 573179, "title": "The War We Are Living", "original_title": "The War We Are Living", "slug_title": "the-war-we-are-living", "date": "2011-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/153c91tC6PlE8d7o9xXpP2dbOYs.jpg", "actors": [], "comments": [], "recommandations_id": []}

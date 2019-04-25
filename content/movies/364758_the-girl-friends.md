@@ -1,1 +1,0 @@
-{"tmdb_id": 364758, "title": "The Girl-Friends", "original_title": "The Girl-Friends", "slug_title": "the-girl-friends", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

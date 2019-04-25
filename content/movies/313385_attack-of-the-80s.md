@@ -1,1 +1,0 @@
-{"tmdb_id": 313385, "title": "Attack of the 80s", "original_title": "Attack of the 80s", "slug_title": "attack-of-the-80s", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

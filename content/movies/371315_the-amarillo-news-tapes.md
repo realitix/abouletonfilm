@@ -1,1 +1,0 @@
-{"tmdb_id": 371315, "title": "The Amarillo News Tapes", "original_title": "The Amarillo News Tapes", "slug_title": "the-amarillo-news-tapes", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

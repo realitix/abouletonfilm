@@ -1,1 +1,0 @@
-{"tmdb_id": 579901, "title": "Figurehead", "original_title": "Figurehead", "slug_title": "figurehead", "date": "2015-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Goaz (Harry)", "Brandy Burre (Molly)"], "comments": [], "recommandations_id": []}

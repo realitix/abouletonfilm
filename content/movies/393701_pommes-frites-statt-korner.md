@@ -1,1 +1,0 @@
-{"tmdb_id": 393701, "title": "Pommes frites statt k\u00f6rner", "original_title": "Pommes frites statt k\u00f6rner", "slug_title": "pommes-frites-statt-korner", "date": "1981-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

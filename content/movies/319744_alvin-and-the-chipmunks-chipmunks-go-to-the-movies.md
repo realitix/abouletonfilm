@@ -1,1 +1,0 @@
-{"tmdb_id": 319744, "title": "Alvin and the Chipmunks: Chipmunks Go to the Movies", "original_title": "Alvin and the Chipmunks: Chipmunks Go to the Movies", "slug_title": "alvin-and-the-chipmunks-chipmunks-go-to-the-movies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 220749, "title": "The Barking Dog", "original_title": "The Barking Dog", "slug_title": "the-barking-dog", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mary Logan ()"], "comments": [], "recommandations_id": []}

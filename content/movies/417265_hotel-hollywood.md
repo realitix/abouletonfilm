@@ -1,1 +1,0 @@
-{"tmdb_id": 417265, "title": "Hotel Hollywood", "original_title": "Hotel Hollywood", "slug_title": "hotel-hollywood", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pIRQP5N33X3uMeo6quS3S5s2FlS.jpg", "actors": [], "comments": [], "recommandations_id": []}

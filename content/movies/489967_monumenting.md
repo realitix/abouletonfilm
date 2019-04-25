@@ -1,1 +1,0 @@
-{"tmdb_id": 489967, "title": "Monumenting", "original_title": "Monumenting", "slug_title": "monumenting", "date": "2015-06-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

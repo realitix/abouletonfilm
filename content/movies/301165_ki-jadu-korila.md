@@ -1,1 +1,0 @@
-{"tmdb_id": 301165, "title": "Ki Jadu Korila", "original_title": "Ki Jadu Korila", "slug_title": "ki-jadu-korila", "date": "2008-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

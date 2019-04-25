@@ -1,1 +1,0 @@
-{"tmdb_id": 276197, "title": "Rod Z: I Ain't Lied Yet!", "original_title": "Rod Z: I Ain't Lied Yet!", "slug_title": "rod-z-i-ain-t-lied-yet", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 405813, "title": "The Eight Column Affair", "original_title": "The Eight Column Affair", "slug_title": "the-eight-column-affair", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nana Patekar ()"], "comments": [], "recommandations_id": []}

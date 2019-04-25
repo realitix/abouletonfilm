@@ -1,1 +1,0 @@
-{"tmdb_id": 263882, "title": "Mirrored Measure", "original_title": "Mirrored Measure", "slug_title": "mirrored-measure", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fW52JKJBHu25gnokvdcnTt9yAwW.jpg", "actors": [], "comments": [], "recommandations_id": []}

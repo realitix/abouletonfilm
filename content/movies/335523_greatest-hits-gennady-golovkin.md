@@ -1,1 +1,0 @@
-{"tmdb_id": 335523, "title": "Greatest Hits: Gennady Golovkin", "original_title": "Greatest Hits: Gennady Golovkin", "slug_title": "greatest-hits-gennady-golovkin", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

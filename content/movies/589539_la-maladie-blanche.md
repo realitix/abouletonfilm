@@ -1,1 +1,0 @@
-{"tmdb_id": 589539, "title": "La maladie blanche", "original_title": "La maladie blanche", "slug_title": "la-maladie-blanche", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 156222, "title": "Maldives Scattering Diamonds", "original_title": "Maldives Scattering Diamonds", "slug_title": "maldives-scattering-diamonds", "date": "2009-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cl2rNnqPFXTzU28RqzkOpkxSVvr.jpg", "actors": [], "comments": [], "recommandations_id": []}

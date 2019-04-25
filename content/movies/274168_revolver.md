@@ -1,1 +1,0 @@
-{"tmdb_id": 274168, "title": "Revolver", "original_title": "Revolver", "slug_title": "revolver", "date": "1992-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

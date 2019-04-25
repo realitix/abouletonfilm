@@ -1,1 +1,0 @@
-{"tmdb_id": 521525, "title": "On Points", "original_title": "En Puntas", "slug_title": "on-points", "date": "2013-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wuRipxzVLRVvUDMxkfFyvfIzZAh.jpg", "actors": [], "comments": [], "recommandations_id": []}

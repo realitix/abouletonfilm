@@ -1,1 +1,0 @@
-{"tmdb_id": 201313, "title": "Status Anxiety", "original_title": "Status Anxiety", "slug_title": "status-anxiety", "date": "2004-03-06", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/olAbbmyAuU2Fw14x0bQzEiYnxXa.jpg", "actors": ["Alain de Botton (Himself)"], "comments": [], "recommandations_id": []}

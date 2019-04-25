@@ -1,1 +1,0 @@
-{"tmdb_id": 296979, "title": "Surgery", "original_title": "Ambulatorio", "slug_title": "surgery", "date": "1953-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

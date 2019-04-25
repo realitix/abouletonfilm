@@ -1,1 +1,0 @@
-{"tmdb_id": 521046, "title": "Harry Zen Stanton", "original_title": "Harry Zen Stanton", "slug_title": "harry-zen-stanton", "date": "2006-01-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Dean Stanton (Himself)", "Peter McCarthy (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 231751, "title": "Scene in Chinatown", "original_title": "Scene in Chinatown", "slug_title": "scene-in-chinatown", "date": "1900-09-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

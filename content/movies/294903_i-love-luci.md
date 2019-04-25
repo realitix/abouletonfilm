@@ -1,1 +1,0 @@
-{"tmdb_id": 294903, "title": "I Love Luci", "original_title": "I Love Luci", "slug_title": "i-love-luci", "date": "2010-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tURVdxwL9yWSRxcuvF4wP2j2j8P.jpg", "actors": [], "comments": [], "recommandations_id": []}

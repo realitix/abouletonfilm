@@ -1,1 +1,0 @@
-{"tmdb_id": 368134, "title": "Pluto and the Imp", "original_title": "Pluto and the Imp", "slug_title": "pluto-and-the-imp", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

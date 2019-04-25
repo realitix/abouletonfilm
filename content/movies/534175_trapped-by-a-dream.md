@@ -1,1 +1,0 @@
-{"tmdb_id": 534175, "title": "Trapped by a Dream", "original_title": "A l'heure o\u00f9 les grands fauves vont boire", "slug_title": "trapped-by-a-dream", "date": "1993-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dyTzPL7IzlyvoXof1RyAm1ShTKS.jpg", "actors": [], "comments": [], "recommandations_id": []}

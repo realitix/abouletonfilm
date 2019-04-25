@@ -1,1 +1,0 @@
-{"tmdb_id": 382760, "title": "Troop 491: the Adventures of the Muddy Lions", "original_title": "Troop 491: the Adventures of the Muddy Lions", "slug_title": "troop-491-the-adventures-of-the-muddy-lions", "date": "2013-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

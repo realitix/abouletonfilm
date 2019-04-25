@@ -1,1 +1,0 @@
-{"tmdb_id": 234486, "title": "Snuffy's Song", "original_title": "Snuffy's Song", "slug_title": "snuffy-s-song", "date": "1962-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 583542, "title": "Don't Cry for Me, Edinburgh", "original_title": "Edinboro Lo Mechaka Li", "slug_title": "don-t-cry-for-me-edinburgh", "date": "1996-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/deDi4JGUvhp87c9hGEmFOJNAFfL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 540411, "title": "Nothing But Lies", "original_title": "Rien que des mensonges", "slug_title": "nothing-but-lies", "date": "1933-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9rjGvTxR9c3g9oXJEYf5veWyKTx.jpg", "actors": [], "comments": [], "recommandations_id": []}

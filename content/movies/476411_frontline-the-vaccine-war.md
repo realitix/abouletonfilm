@@ -1,1 +1,0 @@
-{"tmdb_id": 476411, "title": "Frontline: The Vaccine War", "original_title": "Frontline: The Vaccine War", "slug_title": "frontline-the-vaccine-war", "date": "2015-06-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bLdkwy63jjcWvC9spHhiMq8Vkrn.jpg", "actors": [], "comments": [], "recommandations_id": []}

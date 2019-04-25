@@ -1,1 +1,0 @@
-{"tmdb_id": 245113, "title": "Argentinian Lesson", "original_title": "Argentynska lekcja", "slug_title": "argentinian-lesson", "date": "2013-05-02", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4kqeAR1QeBR3ekaf7QR7DxM8ol5.jpg", "actors": [], "comments": [], "recommandations_id": []}

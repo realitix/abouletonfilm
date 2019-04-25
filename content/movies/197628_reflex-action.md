@@ -1,1 +1,0 @@
-{"tmdb_id": 197628, "title": "Reflex Action", "original_title": "Reflex Action", "slug_title": "reflex-action", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

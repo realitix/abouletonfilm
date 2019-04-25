@@ -1,1 +1,0 @@
-{"tmdb_id": 317171, "title": "Krtek a hodiny", "original_title": "Krtek a hodiny", "slug_title": "krtek-a-hodiny", "date": "1994-01-01", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tZbtZtyAu7fx31Zx4mR8dayZ5yN.jpg", "actors": [], "comments": [], "recommandations_id": []}

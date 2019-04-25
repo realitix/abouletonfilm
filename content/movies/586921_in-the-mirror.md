@@ -1,1 +1,0 @@
-{"tmdb_id": 586921, "title": "In the Mirror", "original_title": "Spogul\u012b", "slug_title": "in-the-mirror", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elza Leimane ()", "Lauris Dzelz\u012btis ()", "M\u0101rcis Mucenieks ()"], "comments": [], "recommandations_id": []}

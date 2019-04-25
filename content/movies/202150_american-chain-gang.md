@@ -1,1 +1,0 @@
-{"tmdb_id": 202150, "title": "American Chain Gang", "original_title": "American Chain Gang", "slug_title": "american-chain-gang", "date": "1999-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tjG0qPISot2mD9i6r2Y3oQc2W7B.jpg", "actors": [], "comments": [], "recommandations_id": []}

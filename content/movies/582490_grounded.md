@@ -1,1 +1,0 @@
-{"tmdb_id": 582490, "title": "Grounded", "original_title": "Grounded", "slug_title": "grounded", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

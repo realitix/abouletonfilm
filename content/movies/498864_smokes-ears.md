@@ -1,1 +1,0 @@
-{"tmdb_id": 498864, "title": "Smokes & Ears", "original_title": "Smokes & Ears", "slug_title": "smokes-ears", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gene \"Geno\" Lee (Himself)"], "comments": [], "recommandations_id": []}

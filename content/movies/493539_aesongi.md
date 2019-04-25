@@ -1,1 +1,0 @@
-{"tmdb_id": 493539, "title": "\uc560\uc1a1\uc774", "original_title": "\uc560\uc1a1\uc774", "slug_title": "aesongi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

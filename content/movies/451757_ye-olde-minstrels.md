@@ -1,1 +1,0 @@
-{"tmdb_id": 451757, "title": "Ye Olde Minstrels", "original_title": "Ye Olde Minstrels", "slug_title": "ye-olde-minstrels", "date": "1941-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George McFarland ()", "Billie Thomas ()", "Darla Hood ()", "Robert Blake ()", "Billy Laughlin ()"], "comments": [], "recommandations_id": []}

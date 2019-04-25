@@ -1,1 +1,0 @@
-{"tmdb_id": 411791, "title": "Landscape with Duck", "original_title": "Landscape with Duck", "slug_title": "landscape-with-duck", "date": "", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Derickson (Ollie (Voice))"], "comments": [], "recommandations_id": []}

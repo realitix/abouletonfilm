@@ -1,1 +1,0 @@
-{"tmdb_id": 142537, "title": "Shutter One", "original_title": "Shutter One", "slug_title": "shutter-one", "date": "2009-09-22", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/txVzgpGgEfIEl5EPKXdgiNS4qSs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 320830, "title": "Paintball the Movie: Court Jesters", "original_title": "Paintball the Movie: Court Jesters", "slug_title": "paintball-the-movie-court-jesters", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

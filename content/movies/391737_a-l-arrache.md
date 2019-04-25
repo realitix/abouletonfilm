@@ -1,1 +1,0 @@
-{"tmdb_id": 391737, "title": "\u00c0 l'arrach\u00e9", "original_title": "\u00c0 l'arrach\u00e9", "slug_title": "a-l-arrache", "date": "1995-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Beno\u00eet Del\u00e9pine ()", "Sylvers Bianay-Balcot ()"], "comments": [], "recommandations_id": []}

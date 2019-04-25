@@ -1,1 +1,0 @@
-{"tmdb_id": 402082, "title": "I Put Out My Hands", "original_title": "I Put Out My Hands", "slug_title": "i-put-out-my-hands", "date": "2009-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

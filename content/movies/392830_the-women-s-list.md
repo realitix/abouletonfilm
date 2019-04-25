@@ -1,1 +1,0 @@
-{"tmdb_id": 392830, "title": "The Women's List", "original_title": "The Women's List", "slug_title": "the-women-s-list", "date": "2015-09-25", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jnVchA6UgY5ZNJy6XmTCNo6SqbG.jpg", "actors": ["Wendy Williams (Herself)"], "comments": [], "recommandations_id": []}

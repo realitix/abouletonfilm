@@ -1,1 +1,0 @@
-{"tmdb_id": 537833, "title": "Primate Colors", "original_title": "Primate Colors", "slug_title": "primate-colors", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vUhf3lfrceu4s0zY29Imeo4dtBO.jpg", "actors": [], "comments": [], "recommandations_id": []}

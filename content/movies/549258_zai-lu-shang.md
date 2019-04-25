@@ -1,1 +1,0 @@
-{"tmdb_id": 549258, "title": "\u5728\u8def\u4e0a", "original_title": "\u5728\u8def\u4e0a", "slug_title": "zai-lu-shang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

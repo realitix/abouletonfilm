@@ -1,1 +1,0 @@
-{"tmdb_id": 504120, "title": "Meet Buck", "original_title": "Meet Buck", "slug_title": "meet-buck", "date": "2010-02-06", "genre": "Com\u00e9die / Animation", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mZWCWakW5q8aqzP3FN5Cjv8WFhj.jpg", "actors": [], "comments": [], "recommandations_id": []}

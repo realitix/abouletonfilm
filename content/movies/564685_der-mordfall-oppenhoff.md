@@ -1,1 +1,0 @@
-{"tmdb_id": 564685, "title": "Der Mordfall Oppenhoff", "original_title": "Der Mordfall Oppenhoff", "slug_title": "der-mordfall-oppenhoff", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

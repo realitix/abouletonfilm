@@ -1,1 +1,0 @@
-{"tmdb_id": 503944, "title": "Essen, schlafen, keine Frauen", "original_title": "Essen, schlafen, keine Frauen", "slug_title": "essen-schlafen-keine-frauen", "date": "2002-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

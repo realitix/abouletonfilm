@@ -1,1 +1,0 @@
-{"tmdb_id": 269129, "title": "Personal Vendetta", "original_title": "Personal Vendetta", "slug_title": "personal-vendetta", "date": "1995-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/TRlcV7BzkRAy7eiEtIc6bBwWBG.jpg", "actors": [], "comments": [], "recommandations_id": []}

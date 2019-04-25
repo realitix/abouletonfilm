@@ -1,1 +1,0 @@
-{"tmdb_id": 595154, "title": "The Pleasure Buyers", "original_title": "The Pleasure Buyers", "slug_title": "the-pleasure-buyers", "date": "1925-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9dlLObotjGREzrAWbtLrnvZOB4K.jpg", "actors": [], "comments": [], "recommandations_id": []}

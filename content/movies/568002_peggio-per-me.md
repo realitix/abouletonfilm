@@ -1,1 +1,0 @@
-{"tmdb_id": 568002, "title": "Peggio per Me", "original_title": "Peggio per me", "slug_title": "peggio-per-me", "date": "", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wrO6OLAc85TzBoQ6OZRnL78bVcS.jpg", "actors": [], "comments": [], "recommandations_id": [576296, 570973, 141146, 152994]}

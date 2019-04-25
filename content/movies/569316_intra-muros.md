@@ -1,1 +1,0 @@
-{"tmdb_id": 569316, "title": "Intra muros", "original_title": "Intra muros", "slug_title": "intra-muros", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un court m\u00e9trage de Martial Raysse", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

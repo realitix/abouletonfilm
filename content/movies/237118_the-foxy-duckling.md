@@ -1,1 +1,0 @@
-{"tmdb_id": 237118, "title": "The Foxy Duckling", "original_title": "The Foxy Duckling", "slug_title": "the-foxy-duckling", "date": "1947-08-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gVUM5mUtCbjpMGojEdtCJ1c5pMk.jpg", "actors": [], "comments": [], "recommandations_id": []}

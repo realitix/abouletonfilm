@@ -1,1 +1,0 @@
-{"tmdb_id": 507368, "title": "Maple Palm", "original_title": "Maple Palm", "slug_title": "maple-palm", "date": "2006-11-10", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mx9cd707Whjxn3h0yHA0u3HloyV.jpg", "actors": [], "comments": [], "recommandations_id": []}

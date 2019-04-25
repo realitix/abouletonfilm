@@ -1,1 +1,0 @@
-{"tmdb_id": 556114, "title": "La joueuse d'orgue", "original_title": "La joueuse d'orgue", "slug_title": "la-joueuse-d-orgue", "date": "1925-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

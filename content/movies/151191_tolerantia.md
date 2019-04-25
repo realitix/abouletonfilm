@@ -1,1 +1,0 @@
-{"tmdb_id": 151191, "title": "Tolerantia", "original_title": "Tolerantia", "slug_title": "tolerantia", "date": "2008-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g1DDTEpHmRYWA8lv1ujsuwoylcl.jpg", "actors": [], "comments": [], "recommandations_id": []}

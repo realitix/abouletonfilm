@@ -1,1 +1,0 @@
-{"tmdb_id": 559705, "title": "Rubber Face", "original_title": "Rubber Face", "slug_title": "rubber-face", "date": "2018-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

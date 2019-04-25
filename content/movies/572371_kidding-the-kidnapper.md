@@ -1,1 +1,0 @@
-{"tmdb_id": 572371, "title": "Kidding the Kidnapper", "original_title": "Kidding the Kidnapper", "slug_title": "kidding-the-kidnapper", "date": "1920-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Milburn Morante ()"], "comments": [], "recommandations_id": []}

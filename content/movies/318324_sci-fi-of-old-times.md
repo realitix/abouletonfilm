@@ -1,1 +1,0 @@
-{"tmdb_id": 318324, "title": "Sci-fi of Old Times", "original_title": "Sci-fi of Old Times", "slug_title": "sci-fi-of-old-times", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yO2xirUpyvleNhd2SWARG7L7eAN.jpg", "actors": [], "comments": [], "recommandations_id": []}

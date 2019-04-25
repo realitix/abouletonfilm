@@ -1,1 +1,0 @@
-{"tmdb_id": 466537, "title": "My Girl's Mother", "original_title": "My Girl's Mother", "slug_title": "my-girl-s-mother", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

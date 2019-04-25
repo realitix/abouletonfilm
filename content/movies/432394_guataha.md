@@ -1,1 +1,0 @@
-{"tmdb_id": 432394, "title": "Guataha", "original_title": "Guataha", "slug_title": "guataha", "date": "2014-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s17Sm8ODIFfbQ1d9UzglgiOiOgk.jpg", "actors": [], "comments": [], "recommandations_id": []}

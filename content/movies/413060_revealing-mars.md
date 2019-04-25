@@ -1,1 +1,0 @@
-{"tmdb_id": 413060, "title": "Revealing Mars", "original_title": "Revealing Mars", "slug_title": "revealing-mars", "date": "2006-03-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Graf (Himself)", "Laszlo Keszthelyi (Himself)", "Richard Zurek (Himself)"], "comments": [], "recommandations_id": []}

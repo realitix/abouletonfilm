@@ -1,1 +1,0 @@
-{"tmdb_id": 190947, "title": "American Pluck", "original_title": "American Pluck", "slug_title": "american-pluck", "date": "1925-10-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Walsh (Blaze Derringer)"], "comments": [], "recommandations_id": []}

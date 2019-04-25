@@ -1,1 +1,0 @@
-{"tmdb_id": 572056, "title": "Luottamus", "original_title": "Luottamus", "slug_title": "luottamus", "date": "1976-08-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bJb9rZ2UzyasGg9oanwlIa0vm7d.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 499282, "title": "El m\u00e9todo Julio", "original_title": "El m\u00e9todo Julio", "slug_title": "el-metodo-julio", "date": "2010-12-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

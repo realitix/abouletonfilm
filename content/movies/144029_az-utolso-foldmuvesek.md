@@ -1,1 +1,0 @@
-{"tmdb_id": 144029, "title": "Az utols\u00f3 f\u00f6ldm\u0171vesek", "original_title": "Az utols\u00f3 f\u00f6ldm\u0171vesek", "slug_title": "az-utolso-foldmuvesek", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

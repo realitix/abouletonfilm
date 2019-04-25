@@ -1,1 +1,0 @@
-{"tmdb_id": 523861, "title": "Green River: Part Three", "original_title": "Green River: Part Three", "slug_title": "green-river-part-three", "date": "2018-12-31", "genre": "Drame / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lara Lightfoot (Therapist)"], "comments": [], "recommandations_id": []}

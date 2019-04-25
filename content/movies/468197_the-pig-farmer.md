@@ -1,1 +1,0 @@
-{"tmdb_id": 468197, "title": "The Pig Farmer", "original_title": "The Pig Farmer", "slug_title": "the-pig-farmer", "date": "2010-07-27", "genre": "Animation / Com\u00e9die", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xrtyjz0ln0eFDFUYwuCRx9ZBVZS.jpg", "actors": [], "comments": [], "recommandations_id": []}

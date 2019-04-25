@@ -1,1 +1,0 @@
-{"tmdb_id": 447030, "title": "Summer Serenade", "original_title": "Summer Serenade", "slug_title": "summer-serenade", "date": "2013-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lprkRuSAV1CleolKRn9ttkQ4YtS.jpg", "actors": [], "comments": [], "recommandations_id": []}

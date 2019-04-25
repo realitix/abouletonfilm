@@ -1,1 +1,0 @@
-{"tmdb_id": 526287, "title": "The Thick Dark Fog", "original_title": "The Thick Dark Fog", "slug_title": "the-thick-dark-fog", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

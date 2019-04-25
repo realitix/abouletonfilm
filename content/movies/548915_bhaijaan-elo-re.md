@@ -1,1 +1,0 @@
-{"tmdb_id": 548915, "title": "Bhaijaan Elo Re", "original_title": "Bhaijaan Elo Re", "slug_title": "bhaijaan-elo-re", "date": "2018-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6JcYE4sr21pGiWcAN3OfpSgxysR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 481063, "title": "Rhapsody in Two Languages", "original_title": "Rhapsody in Two Languages", "slug_title": "rhapsody-in-two-languages", "date": "1934-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Corey Thomson (Narrator(voice))"], "comments": [], "recommandations_id": []}

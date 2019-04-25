@@ -1,1 +1,0 @@
-{"tmdb_id": 234823, "title": "Citizen or Stranger?", "original_title": "Citizen or Stranger?", "slug_title": "citizen-or-stranger", "date": "2012-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

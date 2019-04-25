@@ -1,1 +1,0 @@
-{"tmdb_id": 549000, "title": "The Truck", "original_title": "Kamion", "slug_title": "the-truck", "date": "2018-02-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v2PsYb257Ton2uwram0k0pevVIL.jpg", "actors": ["Saeed Aghakhani ()", "Niki Karimi ()"], "comments": [], "recommandations_id": []}

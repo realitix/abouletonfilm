@@ -1,1 +1,0 @@
-{"tmdb_id": 528337, "title": "Spelling Love", "original_title": "Du verbe aimer", "slug_title": "spelling-love", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t8gEZi5NdU9lqHw92ME5qvR0Qbc.jpg", "actors": [], "comments": [], "recommandations_id": []}

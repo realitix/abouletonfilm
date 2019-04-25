@@ -1,1 +1,0 @@
-{"tmdb_id": 523971, "title": "Mil e Uma", "original_title": "Mil e Uma", "slug_title": "mil-e-uma", "date": "1996-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eHVQwCXp4TxsWlBgRUIuAJPx8GS.jpg", "actors": [], "comments": [], "recommandations_id": []}

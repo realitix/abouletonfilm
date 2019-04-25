@@ -1,1 +1,0 @@
-{"tmdb_id": 582138, "title": "Weerzienwekkend", "original_title": "Weerzienwekkend", "slug_title": "weerzienwekkend", "date": "2017-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qhxOr9PdmrUqkj6NPGvrHaNwh4O.jpg", "actors": [], "comments": [], "recommandations_id": []}

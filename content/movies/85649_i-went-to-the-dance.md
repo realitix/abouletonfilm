@@ -1,1 +1,0 @@
-{"tmdb_id": 85649, "title": "I Went To The Dance", "original_title": "J'ai \u00e9t\u00e9 au bal", "slug_title": "i-went-to-the-dance", "date": "1989-10-13", "genre": "Documentaire / Musique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zmebX5orJBPMwZ8ZHPzFG642VYT.jpg", "actors": [], "comments": [], "recommandations_id": []}

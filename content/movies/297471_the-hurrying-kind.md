@@ -1,1 +1,0 @@
-{"tmdb_id": 297471, "title": "The Hurrying Kind", "original_title": "The Hurrying Kind", "slug_title": "the-hurrying-kind", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joseph Gallison (Rick Taylor)", "Michael Bell (Tom)", "Olan Soule (Fred Welling)"], "comments": [], "recommandations_id": []}

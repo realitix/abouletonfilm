@@ -1,1 +1,0 @@
-{"tmdb_id": 205077, "title": "Amrapali", "original_title": "Amrapali", "slug_title": "amrapali", "date": "1966-01-01", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/42phpUCw3iL9dMYGDfquEAADQJ3.jpg", "actors": [], "comments": [], "recommandations_id": [412163, 391754, 333851, 451329]}

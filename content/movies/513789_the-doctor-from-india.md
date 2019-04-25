@@ -1,1 +1,0 @@
-{"tmdb_id": 513789, "title": "The Doctor From India", "original_title": "The Doctor From India", "slug_title": "the-doctor-from-india", "date": "2018-02-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4EnNjxJBo2OtDbFwYsjgmKX8CtE.jpg", "actors": [], "comments": [], "recommandations_id": []}

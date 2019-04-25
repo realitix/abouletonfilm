@@ -1,1 +1,0 @@
-{"tmdb_id": 351912, "title": "Fata Morgana", "original_title": "Fata Morgana", "slug_title": "fata-morgana", "date": "2011-09-27", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6FUQ9bKcexPFec0yTZ17DRYC1P0.jpg", "actors": [], "comments": [], "recommandations_id": []}

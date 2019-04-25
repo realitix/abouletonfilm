@@ -1,1 +1,0 @@
-{"tmdb_id": 525643, "title": "Juan Perros", "original_title": "Juan Perros", "slug_title": "juan-perros", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eaAFc13bGNX5g5WfM279snlcRij.jpg", "actors": ["Juan Perros ()"], "comments": [], "recommandations_id": []}

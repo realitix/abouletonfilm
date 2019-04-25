@@ -1,1 +1,0 @@
-{"tmdb_id": 332863, "title": "Wave, Coral and Rock", "original_title": "Moj, marjan, khara", "slug_title": "wave-coral-and-rock", "date": "1962-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mk3p8gvIP8ZHFwknU3s97VUnqmt.jpg", "actors": [], "comments": [], "recommandations_id": []}

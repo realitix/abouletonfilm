@@ -1,1 +1,0 @@
-{"tmdb_id": 299753, "title": "Community Service", "original_title": "Community Service", "slug_title": "community-service", "date": "2013-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qpbqQ7399Wyx82zss2Wv7og05Ds.jpg", "actors": [], "comments": [], "recommandations_id": []}

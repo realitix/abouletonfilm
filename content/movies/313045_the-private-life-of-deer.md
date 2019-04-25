@@ -1,1 +1,0 @@
-{"tmdb_id": 313045, "title": "The Private Life of Deer", "original_title": "The Private Life of Deer", "slug_title": "the-private-life-of-deer", "date": "2013-05-08", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8CTMHlUIJvcQPgLovrZGWpOmkzm.jpg", "actors": [], "comments": [], "recommandations_id": []}

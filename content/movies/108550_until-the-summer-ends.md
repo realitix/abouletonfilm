@@ -1,1 +1,0 @@
-{"tmdb_id": 108550, "title": "Until the Summer Ends", "original_title": "Niin l\u00e4hell\u00e4, niin kaukana", "slug_title": "until-the-summer-ends", "date": "2003-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mTkZgY2wAE1RIGWnSuEijWCCHn8.jpg", "actors": [], "comments": [], "recommandations_id": []}

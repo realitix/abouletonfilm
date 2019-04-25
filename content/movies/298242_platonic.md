@@ -1,1 +1,0 @@
-{"tmdb_id": 298242, "title": "Platonic", "original_title": "Platonic", "slug_title": "platonic", "date": "2013-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m9ku23rLbAM3DmOYkEDmnXfyXYB.jpg", "actors": [], "comments": [], "recommandations_id": []}

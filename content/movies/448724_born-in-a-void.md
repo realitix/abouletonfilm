@@ -1,1 +1,0 @@
-{"tmdb_id": 448724, "title": "Born in a Void", "original_title": "Born in a Void", "slug_title": "born-in-a-void", "date": "2016-11-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xeX3FTLUFMtUfy05ujYwBXS8uLM.jpg", "actors": [], "comments": [], "recommandations_id": []}

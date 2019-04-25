@@ -1,1 +1,0 @@
-{"tmdb_id": 462904, "title": "Jack Veneno", "original_title": "Jack Veneno", "slug_title": "jack-veneno", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ivum4kQ5rIvuT0lrcwzHKaxAdS.jpg", "actors": [], "comments": [], "recommandations_id": []}

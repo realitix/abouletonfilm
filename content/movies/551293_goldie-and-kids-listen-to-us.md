@@ -1,1 +1,0 @@
-{"tmdb_id": 551293, "title": "Goldie and Kids: Listen to Us", "original_title": "Goldie and Kids: Listen to Us", "slug_title": "goldie-and-kids-listen-to-us", "date": "1982-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

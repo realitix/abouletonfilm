@@ -1,1 +1,0 @@
-{"tmdb_id": 354902, "title": "Red Kill Zone", "original_title": "Red Kill Zone", "slug_title": "red-kill-zone", "date": "2015-08-17", "genre": "Science-Fiction / Action", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wiCzUx6cErQEvRHOOr003dURnh4.jpg", "actors": [], "comments": [], "recommandations_id": []}

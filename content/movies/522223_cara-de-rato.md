@@ -1,1 +1,0 @@
-{"tmdb_id": 522223, "title": "Cara de Rato", "original_title": "Cara de Rato", "slug_title": "cara-de-rato", "date": "2018-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yug2Sd4BLAsxEgxPPnQ22v2oZCJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

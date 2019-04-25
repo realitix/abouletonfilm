@@ -1,1 +1,0 @@
-{"tmdb_id": 550016, "title": "I Didn't Come Here to Make Love", "original_title": "I Didn't Come Here to Make Love", "slug_title": "i-didn-t-come-here-to-make-love", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7oVwrPF4rSTVJ3hTJH7lkBCScAN.jpg", "actors": [], "comments": [], "recommandations_id": []}

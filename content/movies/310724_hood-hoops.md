@@ -1,1 +1,0 @@
-{"tmdb_id": 310724, "title": "Hood Hoops", "original_title": "Hood Hoops", "slug_title": "hood-hoops", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

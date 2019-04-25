@@ -1,1 +1,0 @@
-{"tmdb_id": 57636, "title": "Hitler's Secret Weapon", "original_title": "Hitler's Secret Weapon", "slug_title": "hitler-s-secret-weapon", "date": "2010-06-21", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mfd5wg0vjmAJYjhlKhVdRQysICv.jpg", "actors": [], "comments": [], "recommandations_id": []}

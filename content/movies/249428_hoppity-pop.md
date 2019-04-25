@@ -1,1 +1,0 @@
-{"tmdb_id": 249428, "title": "Hoppity Pop", "original_title": "Hoppity Pop", "slug_title": "hoppity-pop", "date": "1946-01-01", "genre": "Animation", "score": "3.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5d7QG5uwq96b6VDsLWJ1ID37YQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

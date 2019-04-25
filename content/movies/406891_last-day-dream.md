@@ -1,1 +1,0 @@
-{"tmdb_id": 406891, "title": "Last Day Dream", "original_title": "Last Day Dream", "slug_title": "last-day-dream", "date": "2009-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

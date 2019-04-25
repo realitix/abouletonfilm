@@ -1,1 +1,0 @@
-{"tmdb_id": 575822, "title": "Une Histoire Sans Destin", "original_title": "Une Histoire Sans Destin", "slug_title": "une-histoire-sans-destin", "date": "2019-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

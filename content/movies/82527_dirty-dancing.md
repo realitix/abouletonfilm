@@ -1,1 +1,0 @@
-{"tmdb_id": 82527, "title": "Dirty Dancing", "original_title": "Dirty Dancing", "slug_title": "dirty-dancing", "date": "2013-12-05", "genre": "Drame", "score": "9.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

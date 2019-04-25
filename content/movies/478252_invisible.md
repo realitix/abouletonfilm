@@ -1,1 +1,0 @@
-{"tmdb_id": 478252, "title": "Invisible", "original_title": "Invisible", "slug_title": "invisible", "date": "2016-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5A3pauSDvmYjyefyxYtagyJU0oW.jpg", "actors": ["Grace Seri ()", "Ad\u00e8le Ado ()", "Pascal Loison ()"], "comments": [], "recommandations_id": []}

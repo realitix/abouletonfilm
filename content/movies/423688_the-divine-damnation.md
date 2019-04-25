@@ -1,1 +1,0 @@
-{"tmdb_id": 423688, "title": "The Divine Damnation", "original_title": "The Divine Damnation", "slug_title": "the-divine-damnation", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Venezla ()", "Richard Puckett ()", "Christine Lundstedt ()", "Tom Stephens ()"], "comments": [], "recommandations_id": []}

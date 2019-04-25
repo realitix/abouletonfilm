@@ -1,1 +1,0 @@
-{"tmdb_id": 468915, "title": "Windowframe", "original_title": "Windowframe", "slug_title": "windowframe", "date": "1976-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j81AG4EXZXKM7RNcwmWU90qjHUm.jpg", "actors": [], "comments": [], "recommandations_id": []}

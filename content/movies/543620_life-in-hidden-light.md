@@ -1,1 +1,0 @@
-{"tmdb_id": 543620, "title": "Life in Hidden Light", "original_title": "Life in Hidden Light", "slug_title": "life-in-hidden-light", "date": "", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xe838iVxZahIoJnLILMVQv8l1lf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 571359, "title": "La chica", "original_title": "La chica", "slug_title": "la-chica", "date": "1996-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/km8NC6TFWLh0I4vvABC7TZpChGV.jpg", "actors": [], "comments": [], "recommandations_id": []}

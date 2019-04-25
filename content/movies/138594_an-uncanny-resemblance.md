@@ -1,1 +1,0 @@
-{"tmdb_id": 138594, "title": "An Uncanny Resemblance", "original_title": "An Uncanny Resemblance", "slug_title": "an-uncanny-resemblance", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 352012, "title": "Readymade", "original_title": "Readymade", "slug_title": "readymade", "date": "1966-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mSqDMSeVwXIxwGETlYsWsCG81QK.jpg", "actors": [], "comments": [], "recommandations_id": []}

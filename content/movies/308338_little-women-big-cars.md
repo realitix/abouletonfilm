@@ -1,1 +1,0 @@
-{"tmdb_id": 308338, "title": "Little Women Big Cars", "original_title": "Little Women Big Cars", "slug_title": "little-women-big-cars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

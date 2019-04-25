@@ -1,1 +1,0 @@
-{"tmdb_id": 470710, "title": "Tshweesh", "original_title": "Tshweesh", "slug_title": "tshweesh", "date": "2017-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Petra Serhal (Lydia)"], "comments": [], "recommandations_id": []}

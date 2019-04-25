@@ -1,1 +1,0 @@
-{"tmdb_id": 387507, "title": "Bulldog", "original_title": "Bulldog", "slug_title": "bulldog", "date": "2002-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9BFvGLyU1S8JqT6yh7jO7TPHaZI.jpg", "actors": ["David Holcomb (Leo)", "Ashley Cusato (Lois)"], "comments": [], "recommandations_id": []}

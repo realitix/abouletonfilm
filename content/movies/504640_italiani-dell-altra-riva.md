@@ -1,1 +1,0 @@
-{"tmdb_id": 504640, "title": "Italiani dell'altra riva", "original_title": "Italiani dell'altra riva", "slug_title": "italiani-dell-altra-riva", "date": "2018-02-12", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

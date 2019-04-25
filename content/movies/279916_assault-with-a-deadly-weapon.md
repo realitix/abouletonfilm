@@ -1,1 +1,0 @@
-{"tmdb_id": 279916, "title": "Assault with a Deadly Weapon", "original_title": "Assault with a Deadly Weapon", "slug_title": "assault-with-a-deadly-weapon", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

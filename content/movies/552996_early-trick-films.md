@@ -1,1 +1,0 @@
-{"tmdb_id": 552996, "title": "Early Trick Films", "original_title": "Early Trick Films", "slug_title": "early-trick-films", "date": "1913-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

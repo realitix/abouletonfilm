@@ -1,1 +1,0 @@
-{"tmdb_id": 550933, "title": "A Circle Around the Sun", "original_title": "Un Cercle Autour du Soleil", "slug_title": "a-circle-around-the-sun", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dOkGJsMrOfNDgbVBd0x7iO9685W.jpg", "actors": [], "comments": [], "recommandations_id": []}

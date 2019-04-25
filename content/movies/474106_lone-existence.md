@@ -1,1 +1,0 @@
-{"tmdb_id": 474106, "title": "Lone Existence", "original_title": "Lone Existence", "slug_title": "lone-existence", "date": "2016-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pTASVaW2FOZDVC3QIc5TRiayB8e.jpg", "actors": [], "comments": [], "recommandations_id": []}

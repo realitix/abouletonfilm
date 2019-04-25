@@ -1,1 +1,0 @@
-{"tmdb_id": 50956, "title": "Rachida", "original_title": "Rachida", "slug_title": "rachida", "date": "2003-01-08", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/32qCrqsYSld7tkzNpBG4M5ffsNs.jpg", "actors": [], "comments": [], "recommandations_id": []}

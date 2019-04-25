@@ -1,1 +1,0 @@
-{"tmdb_id": 595213, "title": "The Passionate Quest", "original_title": "The Passionate Quest", "slug_title": "the-passionate-quest", "date": "1926-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

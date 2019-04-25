@@ -1,1 +1,0 @@
-{"tmdb_id": 293033, "title": "'Walk, -- You, Walk!'", "original_title": "'Walk, -- You, Walk!'", "slug_title": "walk-you-walk", "date": "1912-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marshall Neilan (Sam)", "Ruth Roland (Rose)", "Marin Sais (Nell)"], "comments": [], "recommandations_id": []}

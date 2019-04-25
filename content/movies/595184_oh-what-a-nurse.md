@@ -1,1 +1,0 @@
-{"tmdb_id": 595184, "title": "Oh! What a Nurse!", "original_title": "Oh! What a Nurse!", "slug_title": "oh-what-a-nurse", "date": "1926-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b7S30iVvfBrhEkKudMuPwk0kHed.jpg", "actors": [], "comments": [], "recommandations_id": []}

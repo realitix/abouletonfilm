@@ -1,1 +1,0 @@
-{"tmdb_id": 237937, "title": "Rundskuedag", "original_title": "Rundskuedag", "slug_title": "rundskuedag", "date": "1910-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

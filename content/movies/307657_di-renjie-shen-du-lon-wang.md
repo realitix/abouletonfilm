@@ -1,1 +1,0 @@
-{"tmdb_id": 307657, "title": "Di Renjie: Shen Du Lon Wang", "original_title": "Di Renjie: Shen Du Lon Wang", "slug_title": "di-renjie-shen-du-lon-wang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 402016, "title": "Bellator 145: With a Vengeance", "original_title": "Bellator 145: With a Vengeance", "slug_title": "bellator-145-with-a-vengeance", "date": "2015-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/keNQKUXGFKFOo5zUS4xgDpELbwc.jpg", "actors": [], "comments": [], "recommandations_id": []}

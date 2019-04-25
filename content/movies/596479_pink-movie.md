@@ -1,1 +1,0 @@
-{"tmdb_id": 596479, "title": "Pink Movie", "original_title": "\ud551\ud06c\ubb34\ube44", "slug_title": "pink-movie", "date": "2002-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tJ7mVbL4BJN7KyW9c7uTxnRDoBm.jpg", "actors": [], "comments": [], "recommandations_id": []}

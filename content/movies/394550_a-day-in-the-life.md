@@ -1,1 +1,0 @@
-{"tmdb_id": 394550, "title": "A Day in the Life", "original_title": "Un d\u00eda cualquiera", "slug_title": "a-day-in-the-life", "date": "1993-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 226353, "title": "Kindness & Exuberance", "original_title": "Kindness & Exuberance", "slug_title": "kindness-exuberance", "date": "2009-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/97XjiVZ3n9Qsw4Jmb8uIlzkuID0.jpg", "actors": ["Josie Long ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 165409, "title": "The Cat's Canary", "original_title": "The Cat's Canary", "slug_title": "the-cat-s-canary", "date": "1932-03-25", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y5ykSceUITRWMOnoyJ7hjo6I4Og.jpg", "actors": [], "comments": [], "recommandations_id": []}

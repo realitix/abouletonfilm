@@ -1,1 +1,0 @@
-{"tmdb_id": 328133, "title": "Equal Meets Equal", "original_title": "Equal Meets Equal", "slug_title": "equal-meets-equal", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

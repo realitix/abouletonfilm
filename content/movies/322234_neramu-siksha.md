@@ -1,1 +1,0 @@
-{"tmdb_id": 322234, "title": "Neramu Siksha", "original_title": "Neramu Siksha", "slug_title": "neramu-siksha", "date": "1973-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

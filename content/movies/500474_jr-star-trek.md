@@ -1,1 +1,0 @@
-{"tmdb_id": 500474, "title": "Jr. Star Trek", "original_title": "Jr. Star Trek", "slug_title": "jr-star-trek", "date": "1969-01-01", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stoney Emshwiller (Jim)"], "comments": [], "recommandations_id": []}

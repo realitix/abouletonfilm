@@ -1,1 +1,0 @@
-{"tmdb_id": 552328, "title": "Sediments", "original_title": "Sediments", "slug_title": "sediments", "date": "2004-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jls65kGpuLp5DWkTtFVp7IUZGBP.jpg", "actors": [], "comments": [], "recommandations_id": []}

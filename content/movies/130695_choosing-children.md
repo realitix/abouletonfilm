@@ -1,1 +1,0 @@
-{"tmdb_id": 130695, "title": "Choosing Children", "original_title": "Choosing Children", "slug_title": "choosing-children", "date": "1985-11-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Vzp41eUgZBf8OjHkDYNu0Tcw8d.jpg", "actors": [], "comments": [], "recommandations_id": []}

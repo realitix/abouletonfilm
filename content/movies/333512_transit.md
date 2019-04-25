@@ -1,1 +1,0 @@
-{"tmdb_id": 333512, "title": "Transit", "original_title": "Transit", "slug_title": "transit", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 481366, "title": "The Saintly", "original_title": "Svetne\u010di", "slug_title": "the-saintly", "date": "2012-10-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mitja \u0160pik ()", "Ludvik Bagari ()"], "comments": [], "recommandations_id": []}

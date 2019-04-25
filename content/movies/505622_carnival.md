@@ -1,1 +1,0 @@
-{"tmdb_id": 505622, "title": "Carnival", "original_title": "Carnival", "slug_title": "carnival", "date": "1983-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3YoNFjNHP6Jc244so778pgNZxDc.jpg", "actors": [], "comments": [], "recommandations_id": []}

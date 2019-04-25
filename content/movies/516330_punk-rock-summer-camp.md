@@ -1,1 +1,0 @@
-{"tmdb_id": 516330, "title": "Punk Rock Summer Camp", "original_title": "Punk Rock Summer Camp", "slug_title": "punk-rock-summer-camp", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

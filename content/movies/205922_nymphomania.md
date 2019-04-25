@@ -1,1 +1,0 @@
-{"tmdb_id": 205922, "title": "Nymphomania", "original_title": "Nymphomania", "slug_title": "nymphomania", "date": "1994-11-07", "genre": "Fantastique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r0GNwnpIWLBYKqWkrSQPfqbP40b.jpg", "actors": ["Holly Adams (Nymph)", "Bob Mook (Pan)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 547231, "title": "Pizza Hunt", "original_title": "Pizza \u00e0 l'oeil", "slug_title": "pizza-hunt", "date": "2003-12-31", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

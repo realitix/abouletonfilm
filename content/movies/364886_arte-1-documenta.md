@@ -1,1 +1,0 @@
-{"tmdb_id": 364886, "title": "Arte 1 Documenta", "original_title": "Arte 1 Documenta", "slug_title": "arte-1-documenta", "date": "2006-10-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tony Plana ()", "Michael Caine ()", "Hope Davis ()", "Philippe Clair ()"], "comments": [], "recommandations_id": []}

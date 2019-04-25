@@ -1,1 +1,0 @@
-{"tmdb_id": 321773, "title": "Een trambestorming op zondag op den dam", "original_title": "Een trambestorming op zondag op den dam", "slug_title": "een-trambestorming-op-zondag-op-den-dam", "date": "1899-01-28", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

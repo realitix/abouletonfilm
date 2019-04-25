@@ -1,1 +1,0 @@
-{"tmdb_id": 351662, "title": "The Haunted Cat", "original_title": "The Haunted Cat", "slug_title": "the-haunted-cat", "date": "1951-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Morrison (Little Roquefort (voice))"], "comments": [], "recommandations_id": []}

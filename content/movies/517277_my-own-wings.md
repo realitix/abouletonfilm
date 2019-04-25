@@ -1,1 +1,0 @@
-{"tmdb_id": 517277, "title": "My Own Wings", "original_title": "My Own Wings", "slug_title": "my-own-wings", "date": "2017-12-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/npxz9KgZJjcqQ3Bqh0TsQMRCbW3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 519870, "title": "Juliette", "original_title": "Juliette", "slug_title": "juliette", "date": "2016-06-06", "genre": "Animation / Horreur", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kVW9lYPkhgG7qiPLu4L0siStBRg.jpg", "actors": [], "comments": [], "recommandations_id": []}

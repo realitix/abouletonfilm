@@ -1,1 +1,0 @@
-{"tmdb_id": 350165, "title": "\ud751\uc124", "original_title": "\ud751\uc124", "slug_title": "heugseol", "date": "1991-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

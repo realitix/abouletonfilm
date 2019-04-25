@@ -1,1 +1,0 @@
-{"tmdb_id": 435516, "title": "Kanada - Ruf der Wildnis", "original_title": "Kanada - Ruf der Wildnis", "slug_title": "kanada-ruf-der-wildnis", "date": "2013-11-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6m0ksaglrDyjLbDwNwa1NXo1tXB.jpg", "actors": [], "comments": [], "recommandations_id": []}

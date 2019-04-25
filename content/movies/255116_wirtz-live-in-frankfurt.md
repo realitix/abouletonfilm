@@ -1,1 +1,0 @@
-{"tmdb_id": 255116, "title": "Wirtz - Live in Frankfurt", "original_title": "Wirtz - Live in Frankfurt", "slug_title": "wirtz-live-in-frankfurt", "date": "2010-03-26", "genre": "Musique", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7PVJt39OE8MGtKIYtLLdY7BZnb5.jpg", "actors": [], "comments": [], "recommandations_id": []}

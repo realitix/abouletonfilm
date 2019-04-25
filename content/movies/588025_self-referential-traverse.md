@@ -1,1 +1,0 @@
-{"tmdb_id": 588025, "title": "Self-Referential Traverse", "original_title": "Jagadangchak", "slug_title": "self-referential-traverse", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8uJCAhwi3GGPDeS298S6qor4q5e.jpg", "actors": [], "comments": [], "recommandations_id": []}

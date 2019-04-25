@@ -1,1 +1,0 @@
-{"tmdb_id": 395243, "title": "Little Annie's Rag Book", "original_title": "Little Annie's Rag Book", "slug_title": "little-annie-s-rag-book", "date": "1940-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

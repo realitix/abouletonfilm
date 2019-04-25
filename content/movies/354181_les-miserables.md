@@ -1,1 +1,0 @@
-{"tmdb_id": 354181, "title": "Les Mis\u00e9rables", "original_title": "Les Mis\u00e9rables", "slug_title": "les-miserables", "date": "1987-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hoMc2dNdxeDFOkaMFyVf7tuyLmp.jpg", "actors": [], "comments": [], "recommandations_id": []}

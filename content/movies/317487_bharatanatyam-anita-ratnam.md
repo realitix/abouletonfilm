@@ -1,1 +1,0 @@
-{"tmdb_id": 317487, "title": "Bharatanatyam: Anita Ratnam", "original_title": "Bharatanatyam: Anita Ratnam", "slug_title": "bharatanatyam-anita-ratnam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

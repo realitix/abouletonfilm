@@ -1,1 +1,0 @@
-{"tmdb_id": 539316, "title": "Le chant de l'amour", "original_title": "Le chant de l'amour", "slug_title": "le-chant-de-l-amour", "date": "1935-07-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h7FQj3mzUffj2b5tvC0cTsA6LoB.jpg", "actors": [], "comments": [], "recommandations_id": []}

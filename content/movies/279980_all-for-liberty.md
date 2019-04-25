@@ -1,1 +1,0 @@
-{"tmdb_id": 279980, "title": "All for Liberty", "original_title": "All for Liberty", "slug_title": "all-for-liberty", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

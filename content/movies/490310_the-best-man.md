@@ -1,1 +1,0 @@
-{"tmdb_id": 490310, "title": "The Best Man", "original_title": "The Best Man", "slug_title": "the-best-man", "date": "2014-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Heath Daniels (Johnny)", "Ethan Le Phong (Scott)"], "comments": [], "recommandations_id": []}

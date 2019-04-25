@@ -1,1 +1,0 @@
-{"tmdb_id": 551906, "title": "The Gillymuck", "original_title": "The Gillymuck", "slug_title": "the-gillymuck", "date": "2018-10-01", "genre": "Horreur", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xbNm60bfiHKVq5VBn1RuUI7XRj7.jpg", "actors": [], "comments": [], "recommandations_id": []}

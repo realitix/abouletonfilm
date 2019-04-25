@@ -1,1 +1,0 @@
-{"tmdb_id": 467829, "title": "Trautes Heim", "original_title": "Trautes Heim", "slug_title": "trautes-heim", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thomas Arnold (Er)", "Ines Nieri (Sie)"], "comments": [], "recommandations_id": []}

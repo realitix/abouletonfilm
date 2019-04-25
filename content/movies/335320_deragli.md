@@ -1,1 +1,0 @@
-{"tmdb_id": 335320, "title": "Deragli", "original_title": "Deragli", "slug_title": "deragli", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

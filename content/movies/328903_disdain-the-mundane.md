@@ -1,1 +1,0 @@
-{"tmdb_id": 328903, "title": "Disdain the Mundane", "original_title": "Disdain the Mundane", "slug_title": "disdain-the-mundane", "date": "2013-02-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

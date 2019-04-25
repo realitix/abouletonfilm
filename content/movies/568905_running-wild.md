@@ -1,1 +1,0 @@
-{"tmdb_id": 568905, "title": "Running Wild", "original_title": "Running Wild", "slug_title": "running-wild", "date": "1973-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lloyd Bridges (Jeff Methune)"], "comments": [], "recommandations_id": []}

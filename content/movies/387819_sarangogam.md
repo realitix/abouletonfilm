@@ -1,1 +1,0 @@
-{"tmdb_id": 387819, "title": "\uc0ac\ub791\uc624\uac10", "original_title": "\uc0ac\ub791\uc624\uac10", "slug_title": "sarangogam", "date": "2012-01-01", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wSltkySYN73O9FJt85Tg4Z8WPy9.jpg", "actors": [], "comments": [], "recommandations_id": []}

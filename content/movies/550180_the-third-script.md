@@ -1,1 +1,0 @@
-{"tmdb_id": 550180, "title": "The Third Script", "original_title": "The Third Script", "slug_title": "the-third-script", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4KD1CZVMpXGJbUTvbIM4qQLUlA1.jpg", "actors": [], "comments": [], "recommandations_id": []}

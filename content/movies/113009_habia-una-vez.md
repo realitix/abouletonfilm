@@ -1,1 +1,0 @@
-{"tmdb_id": 113009, "title": "Habia una vez...", "original_title": "Habia una vez...", "slug_title": "habia-una-vez", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 543817, "title": "\u559c\u6d0b\u5858", "original_title": "\u559c\u6d0b\u5858", "slug_title": "xi-yang-tang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

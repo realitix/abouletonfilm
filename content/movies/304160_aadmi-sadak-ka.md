@@ -1,1 +1,0 @@
-{"tmdb_id": 304160, "title": "Aadmi Sadak Ka", "original_title": "Aadmi Sadak Ka", "slug_title": "aadmi-sadak-ka", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8MA85EPFXc9I0GrBDsMx8NEIsp2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 274533, "title": "Digital Dreams", "original_title": "Digital Dreams", "slug_title": "digital-dreams", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eirLnOeOLPYF3WOV5lQ27OhJ0iG.jpg", "actors": ["Michaelina Lee (Jason's Wife)"], "comments": [], "recommandations_id": []}

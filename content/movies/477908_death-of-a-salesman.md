@@ -1,1 +1,0 @@
-{"tmdb_id": 477908, "title": "Death of a Salesman", "original_title": "En handelsresandes d\u00f6d", "slug_title": "death-of-a-salesman", "date": "1979-11-28", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kAJmxshZ5iCBMzKcdkzTS4ntkFT.jpg", "actors": [], "comments": [], "recommandations_id": []}

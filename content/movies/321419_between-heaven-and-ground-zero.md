@@ -1,1 +1,0 @@
-{"tmdb_id": 321419, "title": "Between Heaven and Ground Zero", "original_title": "Between Heaven and Ground Zero", "slug_title": "between-heaven-and-ground-zero", "date": "2012-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 349534, "title": "\ube14\ub8e8 \uc2dc\uac78", "original_title": "\ube14\ub8e8 \uc2dc\uac78", "slug_title": "beulru-sigeol", "date": "1994-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

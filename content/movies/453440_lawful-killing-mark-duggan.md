@@ -1,1 +1,0 @@
-{"tmdb_id": 453440, "title": "Lawful Killing: Mark Duggan", "original_title": "Lawful Killing: Mark Duggan", "slug_title": "lawful-killing-mark-duggan", "date": "2016-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/izsvz9P8QZBnD5Q7jj1dVLSxvoG.jpg", "actors": [], "comments": [], "recommandations_id": []}

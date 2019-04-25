@@ -1,1 +1,0 @@
-{"tmdb_id": 331004, "title": "New Year's Concert 2009", "original_title": "New Year's Concert 2009", "slug_title": "new-year-s-concert-2009", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hdvtwI0ZCHy4JxEKSlP9qukydai.jpg", "actors": [], "comments": [], "recommandations_id": []}

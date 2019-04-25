@@ -1,1 +1,0 @@
-{"tmdb_id": 336281, "title": "A Hero's Tears", "original_title": "A Hero's Tears", "slug_title": "a-hero-s-tears", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yxjcq6ovfPKs9jgU1sCBMhTOnHV.jpg", "actors": [], "comments": [], "recommandations_id": []}

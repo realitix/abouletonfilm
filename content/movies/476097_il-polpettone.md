@@ -1,1 +1,0 @@
-{"tmdb_id": 476097, "title": "Il Polpettone", "original_title": "Il Polpettone", "slug_title": "il-polpettone", "date": "2017-07-15", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iCX3yCC0vNbyDIZLgdwbyCktpG5.jpg", "actors": ["Raffaele Imb\u00f2 (Raffaele Imb\u00f2)"], "comments": [], "recommandations_id": []}

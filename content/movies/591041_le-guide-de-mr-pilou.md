@@ -1,1 +1,0 @@
-{"tmdb_id": 591041, "title": "Le guide de Mr. Pilou", "original_title": "Le guide de Mr. Pilou", "slug_title": "le-guide-de-mr-pilou", "date": "2018-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hNXXck4OR6jqaA3g166EN0Oyrsd.jpg", "actors": [], "comments": [], "recommandations_id": []}

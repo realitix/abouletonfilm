@@ -1,1 +1,0 @@
-{"tmdb_id": 366802, "title": "The Flying Animator", "original_title": "The Flying Animator", "slug_title": "the-flying-animator", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gerald Potterton (Himself)"], "comments": [], "recommandations_id": []}

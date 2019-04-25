@@ -1,1 +1,0 @@
-{"tmdb_id": 424683, "title": "Gli stregoni", "original_title": "Gli stregoni", "slug_title": "gli-stregoni", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

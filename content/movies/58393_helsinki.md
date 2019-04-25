@@ -1,1 +1,0 @@
-{"tmdb_id": 58393, "title": "Helsinki", "original_title": "Helsinki", "slug_title": "helsinki", "date": "2009-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/auJoew3wkGUO8EvuBNnefathSut.jpg", "actors": [], "comments": [], "recommandations_id": []}

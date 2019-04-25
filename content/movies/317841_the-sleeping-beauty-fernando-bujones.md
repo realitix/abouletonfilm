@@ -1,1 +1,0 @@
-{"tmdb_id": 317841, "title": "The Sleeping Beauty: Fernando Bujones", "original_title": "The Sleeping Beauty: Fernando Bujones", "slug_title": "the-sleeping-beauty-fernando-bujones", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

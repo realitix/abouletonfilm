@@ -1,1 +1,0 @@
-{"tmdb_id": 452987, "title": "The One Romantic Venture of Edward", "original_title": "The One Romantic Venture of Edward", "slug_title": "the-one-romantic-venture-of-edward", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stan Brakhage ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 351541, "title": "Los reyes magos de Pituco", "original_title": "Los reyes magos de Pituco", "slug_title": "los-reyes-magos-de-pituco", "date": "1944-07-24", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

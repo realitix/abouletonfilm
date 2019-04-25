@@ -1,1 +1,0 @@
-{"tmdb_id": 412411, "title": "Die Zauberfl\u00f6te", "original_title": "Die Zauberfl\u00f6te", "slug_title": "die-zauberflote", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iRysqyA8U58n1erFs3XX6cc9AqF.jpg", "actors": [], "comments": [], "recommandations_id": []}

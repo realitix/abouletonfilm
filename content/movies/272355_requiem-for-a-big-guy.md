@@ -1,1 +1,0 @@
-{"tmdb_id": 272355, "title": "Requiem For A Big Guy", "original_title": "Requiem For A Big Guy", "slug_title": "requiem-for-a-big-guy", "date": "2014-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hBnrzf7Mei0mWTukRjhEXks50nQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 479375, "title": "Yaz Bekar\u0131", "original_title": "Yaz Bekar\u0131", "slug_title": "yaz-bekari", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tar\u0131k Akan (Orhan)", "Gulsen Bubikoglu (Leyla)"], "comments": [], "recommandations_id": []}

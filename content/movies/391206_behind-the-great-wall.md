@@ -1,1 +1,0 @@
-{"tmdb_id": 391206, "title": "Behind the Great Wall", "original_title": "La muraglia cinese", "slug_title": "behind-the-great-wall", "date": "1959-12-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

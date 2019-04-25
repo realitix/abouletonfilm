@@ -1,1 +1,0 @@
-{"tmdb_id": 466455, "title": "Sof\u00e1 Verde", "original_title": "Sof\u00e1 Verde", "slug_title": "sofa-verde", "date": "2009-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dTj0bB1N3MSFus9ug74kfJGJZb9.jpg", "actors": ["Guilherme Belinni ()", "Mathias Romanini ()"], "comments": [], "recommandations_id": []}

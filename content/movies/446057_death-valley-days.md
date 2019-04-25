@@ -1,1 +1,0 @@
-{"tmdb_id": 446057, "title": "Death Valley Days", "original_title": "Death Valley Days", "slug_title": "death-valley-days", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

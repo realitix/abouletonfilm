@@ -1,1 +1,0 @@
-{"tmdb_id": 442850, "title": "Heldenkanzler", "original_title": "Heldenkanzler", "slug_title": "heldenkanzler", "date": "2011-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2h0WpV3peFyRwV0Ku8d7JV4q8i0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 351804, "title": "This Is a Recorded Message", "original_title": "This Is a Recorded Message", "slug_title": "this-is-a-recorded-message", "date": "1973-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ff6hIaRE9Iaks9hFWeqOPUvQ6IH.jpg", "actors": [], "comments": [], "recommandations_id": []}

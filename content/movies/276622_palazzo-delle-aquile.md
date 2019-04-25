@@ -1,1 +1,0 @@
-{"tmdb_id": 276622, "title": "Palazzo delle aquile", "original_title": "Palazzo delle aquile", "slug_title": "palazzo-delle-aquile", "date": "2011-06-13", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4J4Thv1vCkjjESpF4O4afX4aPoL.jpg", "actors": [], "comments": [], "recommandations_id": []}

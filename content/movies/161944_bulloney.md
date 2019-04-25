@@ -1,1 +1,0 @@
-{"tmdb_id": 161944, "title": "Bulloney", "original_title": "Bulloney", "slug_title": "bulloney", "date": "1933-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mgZ8pkpK62qcGbw8LxW2vBmuvJZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

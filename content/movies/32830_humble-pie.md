@@ -1,1 +1,0 @@
-{"tmdb_id": 32830, "title": "Humble Pie", "original_title": "American Fork", "slug_title": "humble-pie", "date": "2007-01-01", "genre": "Com\u00e9die", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/88OC5T1sbDrIPdJ8Qj0Xe1DEUAH.jpg", "actors": [], "comments": [], "recommandations_id": [73875]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 553772, "title": "A Stranger In Her Own City", "original_title": "A Stranger In Her Own City", "slug_title": "a-stranger-in-her-own-city", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

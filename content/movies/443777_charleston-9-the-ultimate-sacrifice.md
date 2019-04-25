@@ -1,1 +1,0 @@
-{"tmdb_id": 443777, "title": "Charleston 9: The Ultimate Sacrifice", "original_title": "Charleston 9: The Ultimate Sacrifice", "slug_title": "charleston-9-the-ultimate-sacrifice", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

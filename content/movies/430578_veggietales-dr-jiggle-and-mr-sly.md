@@ -1,1 +1,0 @@
-{"tmdb_id": 430578, "title": "VeggieTales: Dr. Jiggle and Mr. Sly", "original_title": "VeggieTales: Dr. Jiggle and Mr. Sly", "slug_title": "veggietales-dr-jiggle-and-mr-sly", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

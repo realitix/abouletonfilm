@@ -1,1 +1,0 @@
-{"tmdb_id": 370415, "title": "Abachurina Post Office", "original_title": "Abachurina Post Office", "slug_title": "abachurina-post-office", "date": "1973-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gSV6fP8hQy4NjNZk0FAU2j4kO1a.jpg", "actors": [], "comments": [], "recommandations_id": []}

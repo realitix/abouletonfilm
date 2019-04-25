@@ -1,1 +1,0 @@
-{"tmdb_id": 230189, "title": "Bog\u00e1rmese", "original_title": "Bog\u00e1rmese", "slug_title": "bogarmese", "date": "", "genre": "Familial / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nflvZ4BSOqdVuR9RX1JwwwT0mKC.jpg", "actors": [], "comments": [], "recommandations_id": []}

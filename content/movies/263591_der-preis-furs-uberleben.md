@@ -1,1 +1,0 @@
-{"tmdb_id": 263591, "title": "Der Preis f\u00fcrs \u00dcberleben", "original_title": "Der Preis f\u00fcrs \u00dcberleben", "slug_title": "der-preis-furs-uberleben", "date": "1980-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oC66K4JtDHZzxgeEZJ8x4GwIt0I.jpg", "actors": [], "comments": [], "recommandations_id": []}

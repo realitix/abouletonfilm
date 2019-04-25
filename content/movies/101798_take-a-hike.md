@@ -1,1 +1,0 @@
-{"tmdb_id": 101798, "title": "Take a Hike", "original_title": "Take a Hike", "slug_title": "take-a-hike", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

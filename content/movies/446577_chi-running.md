@@ -1,1 +1,0 @@
-{"tmdb_id": 446577, "title": "Chi Running", "original_title": "Chi Running", "slug_title": "chi-running", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nuQEK7D1IdAjXIZCqnhD61aJhrw.jpg", "actors": [], "comments": [], "recommandations_id": []}

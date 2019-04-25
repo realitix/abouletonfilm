@@ -1,1 +1,0 @@
-{"tmdb_id": 576339, "title": "St. Adolf II", "original_title": "St. Adolf II", "slug_title": "st-adolf-ii", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

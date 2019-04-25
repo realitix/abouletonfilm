@@ -1,1 +1,0 @@
-{"tmdb_id": 290707, "title": "Fallen Idol: The Yuri Gagarin Conspiracy", "original_title": "Fallen Idol: The Yuri Gagarin Conspiracy", "slug_title": "fallen-idol-the-yuri-gagarin-conspiracy", "date": "2009-09-05", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

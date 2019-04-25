@@ -1,1 +1,0 @@
-{"tmdb_id": 332763, "title": "Cosplay Dreams", "original_title": "Cosplay Dreams", "slug_title": "cosplay-dreams", "date": "2013-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

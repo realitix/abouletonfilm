@@ -1,1 +1,0 @@
-{"tmdb_id": 305080, "title": "Honeysuckle Divine, Live!", "original_title": "Honeysuckle Divine, Live!", "slug_title": "honeysuckle-divine-live", "date": "1979-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Honeysuckle Divine (Herself)"], "comments": [], "recommandations_id": []}

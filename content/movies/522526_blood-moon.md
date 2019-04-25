@@ -1,1 +1,0 @@
-{"tmdb_id": 522526, "title": "Blood Moon", "original_title": "Blood Moon", "slug_title": "blood-moon", "date": "", "genre": "Myst\u00e8re / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zac Efron ()", "Kate Hudson ()", "Craig Robinson ()"], "comments": [], "recommandations_id": []}

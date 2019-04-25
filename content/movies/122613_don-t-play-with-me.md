@@ -1,1 +1,0 @@
-{"tmdb_id": 122613, "title": "Don't Play With Me", "original_title": "Don't Play With Me", "slug_title": "don-t-play-with-me", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kGWjvUuN4fvjOJeAmpOZEh1fXNo.jpg", "actors": [], "comments": [], "recommandations_id": []}

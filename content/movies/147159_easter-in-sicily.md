@@ -1,1 +1,0 @@
-{"tmdb_id": 147159, "title": "Easter in Sicily", "original_title": "Pasqua in Sicilia", "slug_title": "easter-in-sicily", "date": "1955-08-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kThoxqdXKnHjpQFNzZFx4ldfMo0.jpg", "actors": [], "comments": [], "recommandations_id": [147306, 239428, 150531, 128014]}

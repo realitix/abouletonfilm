@@ -1,1 +1,0 @@
-{"tmdb_id": 161603, "title": "The Music Lesson", "original_title": "The Music Lesson", "slug_title": "the-music-lesson", "date": "1932-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

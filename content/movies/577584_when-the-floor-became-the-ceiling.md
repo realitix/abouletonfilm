@@ -1,1 +1,0 @@
-{"tmdb_id": 577584, "title": "When The Floor Became The Ceiling", "original_title": "When The Floor Became The Ceiling", "slug_title": "when-the-floor-became-the-ceiling", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Olivier Pollack ()", "Tatyana Obolenski ()"], "comments": [], "recommandations_id": []}

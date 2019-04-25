@@ -1,1 +1,0 @@
-{"tmdb_id": 501725, "title": "Insurgentes", "original_title": "Insurgentes", "slug_title": "insurgentes", "date": "2012-08-16", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7sLJKEIKkqZHj8ZSAIHUlHWBZ0v.jpg", "actors": [], "comments": [], "recommandations_id": []}

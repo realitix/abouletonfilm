@@ -1,1 +1,0 @@
-{"tmdb_id": 464026, "title": "Let's Go To Rose Motel 1", "original_title": "Let's Go To Rose Motel 1", "slug_title": "let-s-go-to-rose-motel-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oyygZgjFvOUCIzmONU1jyJldYcw.jpg", "actors": [], "comments": [], "recommandations_id": []}

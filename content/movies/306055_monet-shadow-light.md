@@ -1,1 +1,0 @@
-{"tmdb_id": 306055, "title": "Monet: Shadow & Light", "original_title": "Monet: Shadow & Light", "slug_title": "monet-shadow-light", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

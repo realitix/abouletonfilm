@@ -1,1 +1,0 @@
-{"tmdb_id": 507236, "title": "Electric", "original_title": "Electric", "slug_title": "electric", "date": "", "genre": "Drame / Myst\u00e8re / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/79jvhTHVk47HipIjfHJQi4mQm1v.jpg", "actors": ["Francesco Montanari (Homeless Gang Leader)"], "comments": [], "recommandations_id": []}

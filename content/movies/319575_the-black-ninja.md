@@ -1,1 +1,0 @@
-{"tmdb_id": 319575, "title": "The Black Ninja", "original_title": "The Black Ninja", "slug_title": "the-black-ninja", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

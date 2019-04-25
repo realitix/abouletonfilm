@@ -1,1 +1,0 @@
-{"tmdb_id": 250646, "title": "All the Beautiful Things", "original_title": "All the Beautiful Things", "slug_title": "all-the-beautiful-things", "date": "2014-01-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9aguzhyYKe5IOXevjCfwKRPqRoS.jpg", "actors": [], "comments": [], "recommandations_id": []}

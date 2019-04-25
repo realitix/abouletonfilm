@@ -1,1 +1,0 @@
-{"tmdb_id": 344405, "title": "Welcome Danger!", "original_title": "Welcome Danger!", "slug_title": "welcome-danger", "date": "1925-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cliff Bowes ()", "Virginia Vance ()", "Eddie Nelson ()"], "comments": [], "recommandations_id": []}

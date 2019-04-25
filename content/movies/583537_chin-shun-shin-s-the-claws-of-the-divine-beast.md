@@ -1,1 +1,0 @@
-{"tmdb_id": 583537, "title": "Chin Shun-Shin's \"The Claws of the Divine Beast\"", "original_title": "Chin Shun-Shin's \"The Claws of the Divine Beast\"", "slug_title": "chin-shun-shin-s-the-claws-of-the-divine-beast", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

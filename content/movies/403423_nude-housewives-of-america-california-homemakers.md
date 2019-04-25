@@ -1,1 +1,0 @@
-{"tmdb_id": 403423, "title": "Nude Housewives of America: California Homemakers", "original_title": "Nude Housewives of America: California Homemakers", "slug_title": "nude-housewives-of-america-california-homemakers", "date": "2001-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 84412, "title": "Asfixia", "original_title": "Asfixia", "slug_title": "asfixia", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nnn57nS6aInjUjGMZr8OnlF59MY.jpg", "actors": ["Lalo Ramos ()", "Flavio Marco Gonz\u00e1lez ()"], "comments": [], "recommandations_id": []}

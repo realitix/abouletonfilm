@@ -1,1 +1,0 @@
-{"tmdb_id": 322895, "title": "Augusto An\u00edbal Quer Casar", "original_title": "Augusto An\u00edbal Quer Casar", "slug_title": "augusto-anibal-quer-casar", "date": "1923-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

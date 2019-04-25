@@ -1,1 +1,0 @@
-{"tmdb_id": 321572, "title": "Biarritz : la plage et la mer", "original_title": "Biarritz : la plage et la mer", "slug_title": "biarritz-la-plage-et-la-mer", "date": "1901-04-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

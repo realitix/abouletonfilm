@@ -1,1 +1,0 @@
-{"tmdb_id": 503530, "title": "aussariq", "original_title": "aussariq", "slug_title": "aussariq", "date": "1975-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ztoCo1ogUQeodkrmMaoa4cQU8k0.jpg", "actors": [], "comments": [], "recommandations_id": []}

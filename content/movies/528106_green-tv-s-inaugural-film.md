@@ -1,1 +1,0 @@
-{"tmdb_id": 528106, "title": "Green TV's Inaugural Film", "original_title": "\u7da0\u8272\u96fb\u8996\u53f0\u958b\u64ad\u7247", "slug_title": "green-tv-s-inaugural-film", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

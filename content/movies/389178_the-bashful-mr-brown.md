@@ -1,1 +1,0 @@
-{"tmdb_id": 389178, "title": "The Bashful Mr. Brown", "original_title": "The Bashful Mr. Brown", "slug_title": "the-bashful-mr-brown", "date": "1907-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 301116, "title": "Ichthys", "original_title": "Ichthys", "slug_title": "ichthys", "date": "2005-06-01", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pASP56f2Hw9FGNSqEEtFaLkjPMv.jpg", "actors": [], "comments": [], "recommandations_id": []}

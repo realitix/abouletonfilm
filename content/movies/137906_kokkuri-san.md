@@ -1,1 +1,0 @@
-{"tmdb_id": 137906, "title": "Kokkuri-san", "original_title": "Kokkuri-san", "slug_title": "kokkuri-san", "date": "2008-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fEYQqvWKEVFnnN46J02lpj4RseQ.jpg", "actors": ["Chie Kobayashi ()", "Haruka Nagase ()", "Miyu Watanabe ()"], "comments": [], "recommandations_id": []}

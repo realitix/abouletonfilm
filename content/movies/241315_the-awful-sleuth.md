@@ -1,1 +1,0 @@
-{"tmdb_id": 241315, "title": "The Awful Sleuth", "original_title": "The Awful Sleuth", "slug_title": "the-awful-sleuth", "date": "1951-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bert Wheeler (Bert)"], "comments": [], "recommandations_id": []}

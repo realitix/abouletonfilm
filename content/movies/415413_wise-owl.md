@@ -1,1 +1,0 @@
-{"tmdb_id": 415413, "title": "Wise Owl", "original_title": "Wise Owl", "slug_title": "wise-owl", "date": "1940-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 421747, "title": "Pots, Pans and Other Solutions", "original_title": "Pots, Pans and Other Solutions", "slug_title": "pots-pans-and-other-solutions", "date": "2012-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

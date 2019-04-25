@@ -1,1 +1,0 @@
-{"tmdb_id": 259902, "title": "Doni t\u00fck\u00f6r", "original_title": "Doni t\u00fck\u00f6r", "slug_title": "doni-tukor", "date": "2003-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

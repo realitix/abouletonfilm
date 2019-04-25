@@ -1,1 +1,0 @@
-{"tmdb_id": 198133, "title": "E-Athletes", "original_title": "E-Athletes", "slug_title": "e-athletes", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/izuV80BTJGdKB420qFApJj6o0l2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 171917, "title": "G3: Live in New York", "original_title": "G3: Live in New York", "slug_title": "g3-live-in-new-york", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sWScYXReNavS8HxN1sr5TZ6VLLX.jpg", "actors": [], "comments": [], "recommandations_id": []}

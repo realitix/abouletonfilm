@@ -1,1 +1,0 @@
-{"tmdb_id": 551543, "title": "Kyokotsu d\u00e2tekurab\u00ea", "original_title": "Kyokotsu d\u00e2tekurab\u00ea", "slug_title": "kyokotsu-datekurabe", "date": "1931-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tsuruko Matsueda ()", "Reiko Harumi ()", "Eizabur\u00f4 Matsumoto ()"], "comments": [], "recommandations_id": []}

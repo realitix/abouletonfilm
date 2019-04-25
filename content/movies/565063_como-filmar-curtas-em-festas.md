@@ -1,1 +1,0 @@
-{"tmdb_id": 565063, "title": "Como Filmar Curtas em Festas", "original_title": "Como Filmar Curtas em Festas", "slug_title": "como-filmar-curtas-em-festas", "date": "2018-11-23", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

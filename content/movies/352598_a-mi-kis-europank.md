@@ -1,1 +1,0 @@
-{"tmdb_id": 352598, "title": "A mi kis Eur\u00f3p\u00e1nk", "original_title": "A mi kis Eur\u00f3p\u00e1nk", "slug_title": "a-mi-kis-europank", "date": "2006-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

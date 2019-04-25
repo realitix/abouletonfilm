@@ -1,1 +1,0 @@
-{"tmdb_id": 199525, "title": "La Chine lib\u00e9r\u00e9e", "original_title": "Osvobozhdyonnyy Kitay", "slug_title": "la-chine-liberee", "date": "1951-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A6lHGL7NW0NiCLHD0VLWIUAULWH.jpg", "actors": [], "comments": [], "recommandations_id": []}

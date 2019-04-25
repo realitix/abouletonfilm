@@ -1,1 +1,0 @@
-{"tmdb_id": 534162, "title": "Shaolin Monks Live Production", "original_title": "Shaolin Monks Live Production", "slug_title": "shaolin-monks-live-production", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/orKoVZcAurv8NyfII5DoiUR9eaf.jpg", "actors": [], "comments": [], "recommandations_id": []}

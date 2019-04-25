@@ -1,1 +1,0 @@
-{"tmdb_id": 236234, "title": "The Owl and the Pussycat", "original_title": "The Owl and the Pussycat", "slug_title": "the-owl-and-the-pussycat", "date": "1939-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 447045, "title": "The Dead City Dreamers", "original_title": "The Dead City Dreamers", "slug_title": "the-dead-city-dreamers", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

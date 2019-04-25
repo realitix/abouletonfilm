@@ -1,1 +1,0 @@
-{"tmdb_id": 543977, "title": "Mental Hospital", "original_title": "Mental Hospital", "slug_title": "mental-hospital", "date": "1953-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

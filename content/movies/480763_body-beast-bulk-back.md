@@ -1,1 +1,0 @@
-{"tmdb_id": 480763, "title": "Body Beast - Bulk Back", "original_title": "Body Beast - Bulk Back", "slug_title": "body-beast-bulk-back", "date": "2012-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lBpKM0Y99n3FCj8Hjc9UIw4ra3X.jpg", "actors": [], "comments": [], "recommandations_id": []}

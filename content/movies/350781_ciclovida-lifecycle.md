@@ -1,1 +1,0 @@
-{"tmdb_id": 350781, "title": "Ciclovida: Lifecycle", "original_title": "Ciclovida: Lifecycle", "slug_title": "ciclovida-lifecycle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mDQi2ORMppw7VKcgrtrT8zBVWTT.jpg", "actors": [], "comments": [], "recommandations_id": []}

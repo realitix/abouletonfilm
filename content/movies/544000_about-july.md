@@ -1,1 +1,1 @@
-{"tmdb_id": 544000, "title": "About July", "original_title": "About July", "slug_title": "about-july", "date": "1998-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 544000, "title": "About July", "original_title": "About July", "slug_title": "about-july", "date": "1998-07-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

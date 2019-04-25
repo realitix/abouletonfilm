@@ -1,1 +1,0 @@
-{"tmdb_id": 503246, "title": "Girls Level Up", "original_title": "Girls Level Up", "slug_title": "girls-level-up", "date": "2018-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/enMOCQk0U9tCNPgA7UIsRjeDVrR.jpg", "actors": [], "comments": [], "recommandations_id": []}

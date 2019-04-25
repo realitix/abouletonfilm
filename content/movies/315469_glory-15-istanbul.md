@@ -1,1 +1,0 @@
-{"tmdb_id": 315469, "title": "Glory 15: Istanbul", "original_title": "Glory 15: Istanbul", "slug_title": "glory-15-istanbul", "date": "2014-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pOPCHEiZsbdXSbCrADmR2qfUxmf.jpg", "actors": [], "comments": [], "recommandations_id": []}

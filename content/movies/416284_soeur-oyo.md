@@ -1,1 +1,0 @@
-{"tmdb_id": 416284, "title": "S\u0153ur Oyo", "original_title": "S\u0153ur Oyo", "slug_title": "soeur-oyo", "date": "2014-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uHMHuegX1sYVT2MUu8ndQWZ7vOH.jpg", "actors": [], "comments": [], "recommandations_id": []}

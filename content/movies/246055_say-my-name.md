@@ -1,1 +1,0 @@
-{"tmdb_id": 246055, "title": "Say My Name", "original_title": "Say My Name", "slug_title": "say-my-name", "date": "2009-02-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iSGOFhMvyhjoP36rAcLY9eSdofc.jpg", "actors": [], "comments": [], "recommandations_id": []}

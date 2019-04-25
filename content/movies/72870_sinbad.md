@@ -1,1 +1,0 @@
-{"tmdb_id": 72870, "title": "Sinbad", "original_title": "Sinbad", "slug_title": "sinbad", "date": "1993-01-01", "genre": "Animation / Aventure / Familial", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mk3S43xsif6fQhfLLZXpcEQdk1t.jpg", "actors": [], "comments": [], "recommandations_id": []}

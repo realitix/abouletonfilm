@@ -1,1 +1,0 @@
-{"tmdb_id": 426964, "title": "Gravity", "original_title": "Gravity", "slug_title": "gravity", "date": "2006-01-01", "genre": "Romance", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rj9CMoZQVrbxYMTbdSBPzNepIvj.jpg", "actors": [], "comments": [], "recommandations_id": []}

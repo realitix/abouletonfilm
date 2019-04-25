@@ -1,1 +1,0 @@
-{"tmdb_id": 569910, "title": "Duling - Turin", "original_title": "Duling-Torino", "slug_title": "duling-turin", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o1ufmGPOj6sl4qkPy245DXWbJOr.jpg", "actors": [], "comments": [], "recommandations_id": []}

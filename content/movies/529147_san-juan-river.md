@@ -1,1 +1,0 @@
-{"tmdb_id": 529147, "title": "San Juan River", "original_title": "San Juan River", "slug_title": "san-juan-river", "date": "2018-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

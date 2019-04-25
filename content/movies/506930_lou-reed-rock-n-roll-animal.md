@@ -1,1 +1,0 @@
-{"tmdb_id": 506930, "title": "Lou Reed Rock n' Roll Animal", "original_title": "Lou Reed Rock n' Roll Animal", "slug_title": "lou-reed-rock-n-roll-animal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1mj4QEyI2OKwVY2D7QPKoZndHeL.jpg", "actors": [], "comments": [], "recommandations_id": []}

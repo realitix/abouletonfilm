@@ -1,1 +1,0 @@
-{"tmdb_id": 543236, "title": "Tender Not Approved", "original_title": "Tender Not Approved", "slug_title": "tender-not-approved", "date": "2016-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

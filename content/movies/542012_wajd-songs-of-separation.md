@@ -1,1 +1,0 @@
-{"tmdb_id": 542012, "title": "Wajd: Songs of Separation", "original_title": "Wajd: Songs of Separation", "slug_title": "wajd-songs-of-separation", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iVbjZf266HO5yBI0eMo6pxDq29d.jpg", "actors": [], "comments": [], "recommandations_id": []}

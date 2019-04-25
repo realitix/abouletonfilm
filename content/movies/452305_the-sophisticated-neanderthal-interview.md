@@ -1,1 +1,0 @@
-{"tmdb_id": 452305, "title": "The Sophisticated Neanderthal Interview", "original_title": "The Sophisticated Neanderthal Interview", "slug_title": "the-sophisticated-neanderthal-interview", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 370016, "title": "The Father", "original_title": "Faderen", "slug_title": "the-father", "date": "1985-02-07", "genre": "Aventure / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hans Petter Meirik (The Father)", "Terje Hartviksen (Priest)", "Hans Jacob Sand (Son)"], "comments": [], "recommandations_id": []}

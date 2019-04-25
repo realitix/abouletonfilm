@@ -1,1 +1,0 @@
-{"tmdb_id": 216464, "title": "Weegee's Coney Island", "original_title": "Weegee's Coney Island", "slug_title": "weegee-s-coney-island", "date": "1954-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9HiYKcXTZIhkyYY2ljjZvuNJKbJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

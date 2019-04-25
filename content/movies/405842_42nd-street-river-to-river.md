@@ -1,1 +1,0 @@
-{"tmdb_id": 405842, "title": "42nd Street: River to River", "original_title": "42nd Street: River to River", "slug_title": "42nd-street-river-to-river", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

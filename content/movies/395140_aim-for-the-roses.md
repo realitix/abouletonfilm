@@ -1,1 +1,0 @@
-{"tmdb_id": 395140, "title": "Aim for the Roses", "original_title": "Aim for the Roses", "slug_title": "aim-for-the-roses", "date": "2017-09-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sFy1SO9wn65eY1fKHFMMOIC4gkh.jpg", "actors": ["Andrew McNee (Ken Carter)"], "comments": [], "recommandations_id": []}

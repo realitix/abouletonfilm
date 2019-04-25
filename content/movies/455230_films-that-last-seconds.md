@@ -1,1 +1,0 @@
-{"tmdb_id": 455230, "title": "Films That Last Seconds", "original_title": "Sekundenfilme", "slug_title": "films-that-last-seconds", "date": "1969-11-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rolf Schwendter ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 209744, "title": "Recreation", "original_title": "Recreation", "slug_title": "recreation", "date": "1956-01-01", "genre": "", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/shgUpNpDADROJpoP6M8bcpGfvkS.jpg", "actors": [], "comments": [], "recommandations_id": [199826, 209754, 147395, 111161]}

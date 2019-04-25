@@ -1,1 +1,0 @@
-{"tmdb_id": 345796, "title": "Pappa og de forlatte sm\u00e5", "original_title": "Pappa og de forlatte sm\u00e5", "slug_title": "pappa-og-de-forlatte-sma", "date": "2013-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

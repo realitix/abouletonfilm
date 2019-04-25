@@ -1,1 +1,0 @@
-{"tmdb_id": 275756, "title": "Margarine Wars", "original_title": "Margarine Wars", "slug_title": "margarine-wars", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uvdvRqRoqbW0kMdfHoGjqIWgqb2.jpg", "actors": [], "comments": [], "recommandations_id": []}

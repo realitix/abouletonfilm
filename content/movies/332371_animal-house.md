@@ -1,1 +1,0 @@
-{"tmdb_id": 332371, "title": "Animal House", "original_title": "Animal House", "slug_title": "animal-house", "date": "2004-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bJOdLypHXogBuFvz8jW3CxrI9XI.jpg", "actors": [], "comments": [], "recommandations_id": []}

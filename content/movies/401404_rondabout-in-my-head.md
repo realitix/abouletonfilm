@@ -1,1 +1,0 @@
-{"tmdb_id": 401404, "title": "Rondabout in My Head", "original_title": "Fi rassi rond-point", "slug_title": "rondabout-in-my-head", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6IIbIsH7jsVh4HT8b1oNC7IRUq5.jpg", "actors": [], "comments": [], "recommandations_id": []}

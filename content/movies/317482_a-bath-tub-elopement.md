@@ -1,1 +1,0 @@
-{"tmdb_id": 317482, "title": "A Bath Tub Elopement", "original_title": "A Bath Tub Elopement", "slug_title": "a-bath-tub-elopement", "date": "1916-11-20", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marcel Perez (Tweedledum)", "J. Malvin Ambrose ()", "Tom Murray ()"], "comments": [], "recommandations_id": []}

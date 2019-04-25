@@ -1,1 +1,0 @@
-{"tmdb_id": 507762, "title": "Knockout!", "original_title": "Knockout!", "slug_title": "knockout", "date": "2008-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xnmksRTWlQg86VYqKMS37rkZUYB.jpg", "actors": [], "comments": [], "recommandations_id": []}

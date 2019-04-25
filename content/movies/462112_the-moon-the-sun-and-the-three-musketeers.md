@@ -1,1 +1,0 @@
-{"tmdb_id": 462112, "title": "The Moon the Sun and the three Musketeers", "original_title": "The Moon the Sun and the three Musketeers", "slug_title": "the-moon-the-sun-and-the-three-musketeers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

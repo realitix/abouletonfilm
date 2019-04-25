@@ -1,1 +1,0 @@
-{"tmdb_id": 530905, "title": "Nazareth: Free to Laugh", "original_title": "Nazareth: Free to Laugh", "slug_title": "nazareth-free-to-laugh", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

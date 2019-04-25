@@ -1,1 +1,0 @@
-{"tmdb_id": 308622, "title": "Still Life", "original_title": "Still Life", "slug_title": "still-life", "date": "2012-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

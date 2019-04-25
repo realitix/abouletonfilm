@@ -1,1 +1,0 @@
-{"tmdb_id": 275694, "title": "Bad Religion: Along the Way", "original_title": "Bad Religion: Along the Way", "slug_title": "bad-religion-along-the-way", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hJzfItR64PfUI8tc2Uze8jNIuHn.jpg", "actors": [], "comments": [], "recommandations_id": []}

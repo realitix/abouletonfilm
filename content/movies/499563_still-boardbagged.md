@@ -1,1 +1,0 @@
-{"tmdb_id": 499563, "title": "Still Boardbagged", "original_title": "Still Boardbagged", "slug_title": "still-boardbagged", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

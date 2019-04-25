@@ -1,1 +1,0 @@
-{"tmdb_id": 533396, "title": "Thirteen at the Table", "original_title": "Treize \u00e0 table", "slug_title": "thirteen-at-the-table", "date": "1955-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cdeEmoLi1D94bWucvDUj5GEKaOe.jpg", "actors": [], "comments": [], "recommandations_id": []}

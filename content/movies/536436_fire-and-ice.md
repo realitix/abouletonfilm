@@ -1,1 +1,0 @@
-{"tmdb_id": 536436, "title": "Fire and Ice", "original_title": "Fire and Ice", "slug_title": "fire-and-ice", "date": "", "genre": "Fantastique / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

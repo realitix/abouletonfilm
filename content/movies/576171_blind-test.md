@@ -1,1 +1,0 @@
-{"tmdb_id": 576171, "title": "Blind Test", "original_title": "Blind Test", "slug_title": "blind-test", "date": "2010-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a0cfAi20qZ6645zLZUX7QiMyJSM.jpg", "actors": [], "comments": [], "recommandations_id": []}

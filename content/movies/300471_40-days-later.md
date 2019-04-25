@@ -1,1 +1,0 @@
-{"tmdb_id": 300471, "title": "40 Days Later", "original_title": "\u039c\u03b5\u03c4\u03ac 40 \u03bc\u03ad\u03c1\u03b5\u03c2", "slug_title": "40-days-later", "date": "1972-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/psG6N7N74voUZVDvsQzIjqLvCGx.jpg", "actors": [], "comments": [], "recommandations_id": []}

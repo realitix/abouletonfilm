@@ -1,1 +1,0 @@
-{"tmdb_id": 265313, "title": "General Motors", "original_title": "General Motors", "slug_title": "general-motors", "date": "1976-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1viqFeTWHhiKqryVHLaJ0N6Rzya.jpg", "actors": [], "comments": [], "recommandations_id": []}

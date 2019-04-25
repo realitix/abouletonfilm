@@ -1,1 +1,0 @@
-{"tmdb_id": 515612, "title": "Paranormal Farm", "original_title": "Paranormal Farm", "slug_title": "paranormal-farm", "date": "2017-12-15", "genre": "", "score": "0.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/32XaF6mfaBQ90XsaqnclyWGluTV.jpg", "actors": [], "comments": [], "recommandations_id": []}

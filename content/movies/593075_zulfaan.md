@@ -1,1 +1,0 @@
-{"tmdb_id": 593075, "title": "Zulfaan", "original_title": "Zulfaan", "slug_title": "zulfaan", "date": "1957-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bahar Begum ()", "Zeenat Begum ()", "M. Ismail ()", "Asif Jah ()", "Aslam Pervaiz ()", "Sultan Rahi ()"], "comments": [], "recommandations_id": []}

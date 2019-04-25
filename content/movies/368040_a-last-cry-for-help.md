@@ -1,1 +1,0 @@
-{"tmdb_id": 368040, "title": "A last cry for help", "original_title": "A last cry for help", "slug_title": "a-last-cry-for-help", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

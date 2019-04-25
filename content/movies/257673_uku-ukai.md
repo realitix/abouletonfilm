@@ -1,1 +1,0 @@
-{"tmdb_id": 257673, "title": "Uku ukai", "original_title": "\u016ak\u0173 \u016bkai", "slug_title": "uku-ukai", "date": "2006-11-24", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aq0tV0PamskeoSKksn8RAf5AFc9.jpg", "actors": [], "comments": [], "recommandations_id": []}

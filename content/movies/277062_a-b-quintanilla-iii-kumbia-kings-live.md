@@ -1,1 +1,0 @@
-{"tmdb_id": 277062, "title": "A.B. Quintanilla III & Kumbia Kings: Live", "original_title": "A.B. Quintanilla III & Kumbia Kings: Live", "slug_title": "a-b-quintanilla-iii-kumbia-kings-live", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

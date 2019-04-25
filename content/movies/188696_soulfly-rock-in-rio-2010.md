@@ -1,1 +1,0 @@
-{"tmdb_id": 188696, "title": "Soulfly: Rock in Rio 2010", "original_title": "Soulfly: Rock in Rio 2010", "slug_title": "soulfly-rock-in-rio-2010", "date": "2010-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

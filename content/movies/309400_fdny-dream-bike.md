@@ -1,1 +1,0 @@
-{"tmdb_id": 309400, "title": "FDNY Dream Bike", "original_title": "FDNY Dream Bike", "slug_title": "fdny-dream-bike", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

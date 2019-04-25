@@ -1,1 +1,0 @@
-{"tmdb_id": 512781, "title": "ManManMan: Wij zijn niet mooi...", "original_title": "ManManMan: Wij zijn niet mooi...", "slug_title": "manmanman-wij-zijn-niet-mooi", "date": "2005-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gkho83OTRafrjX7j46f1Z7ywdld.jpg", "actors": [], "comments": [], "recommandations_id": []}

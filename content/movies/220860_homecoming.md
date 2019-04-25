@@ -1,1 +1,0 @@
-{"tmdb_id": 220860, "title": "Homecoming", "original_title": "Homecoming", "slug_title": "homecoming", "date": "2013-09-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kkq3Ojgq06dGLb8tj6E7YA8nqOD.jpg", "actors": [], "comments": [], "recommandations_id": []}

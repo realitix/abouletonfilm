@@ -1,1 +1,0 @@
-{"tmdb_id": 506281, "title": "The Bleaching Yard", "original_title": "The Bleaching Yard", "slug_title": "the-bleaching-yard", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dominic West ()", "Kate Mara ()", "Stacy Martin ()", "Christopher Abbott ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 595882, "title": "The Blazing Cannons", "original_title": "The Blazing Cannons", "slug_title": "the-blazing-cannons", "date": "2017-11-04", "genre": "Action / Thriller / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d1XjTzd06RkEYgO3FMvX7zZTJKs.jpg", "actors": [], "comments": [], "recommandations_id": []}

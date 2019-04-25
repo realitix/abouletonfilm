@@ -1,1 +1,0 @@
-{"tmdb_id": 573932, "title": "Va, Regarde - 1", "original_title": "Va, Regarde - 1", "slug_title": "va-regarde-1", "date": "2008-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1hpOhHgrOvHZrGCC9vz12mhHXCw.jpg", "actors": [], "comments": [], "recommandations_id": []}

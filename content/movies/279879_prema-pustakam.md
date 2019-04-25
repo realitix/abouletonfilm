@@ -1,1 +1,0 @@
-{"tmdb_id": 279879, "title": "Prema Pustakam", "original_title": "Prema Pustakam", "slug_title": "prema-pustakam", "date": "1993-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ajith Kumar (Siddhartha)", "Kanchan ()", "Thangana ()", "S. K. Misro ()"], "comments": [], "recommandations_id": []}

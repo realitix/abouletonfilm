@@ -1,1 +1,0 @@
-{"tmdb_id": 540147, "title": "\u00c8ve cherche un p\u00e8re", "original_title": "\u00c8ve cherche un p\u00e8re", "slug_title": "eve-cherche-un-pere", "date": "1933-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A45bIIQxUxn58I6iaXRvGsQnmNV.jpg", "actors": [], "comments": [], "recommandations_id": []}

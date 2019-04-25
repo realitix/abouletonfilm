@@ -1,1 +1,0 @@
-{"tmdb_id": 147419, "title": "Color Film", "original_title": "Color Film", "slug_title": "color-film", "date": "1971-12-31", "genre": "", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jQCMXLYezcKSdDFk74hhzKypomb.jpg", "actors": [], "comments": [], "recommandations_id": [154614, 154616, 163227, 146565]}

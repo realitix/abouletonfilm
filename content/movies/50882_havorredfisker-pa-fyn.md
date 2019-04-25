@@ -1,1 +1,0 @@
-{"tmdb_id": 50882, "title": "Hav\u00f8rredfisker p\u00e5 Fyn", "original_title": "Hav\u00f8rredfisker p\u00e5 Fyn", "slug_title": "havorredfisker-pa-fyn", "date": "2009-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jECmmtXuZ6xzvt8FidnLO8dlFCd.jpg", "actors": [], "comments": [], "recommandations_id": []}

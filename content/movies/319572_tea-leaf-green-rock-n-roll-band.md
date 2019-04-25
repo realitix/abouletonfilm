@@ -1,1 +1,0 @@
-{"tmdb_id": 319572, "title": "Tea Leaf Green: Rock 'N' Roll Band", "original_title": "Tea Leaf Green: Rock 'N' Roll Band", "slug_title": "tea-leaf-green-rock-n-roll-band", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

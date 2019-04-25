@@ -1,1 +1,0 @@
-{"tmdb_id": 573263, "title": "Symphonie", "original_title": "Symphonie", "slug_title": "symphonie", "date": "1979-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Romain Schneid ()"], "comments": [], "recommandations_id": []}

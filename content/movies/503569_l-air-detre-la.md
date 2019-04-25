@@ -1,1 +1,0 @@
-{"tmdb_id": 503569, "title": "L'air d\u2019\u00eatre l\u00e0", "original_title": "L'air d\u2019\u00eatre l\u00e0", "slug_title": "l-air-detre-la", "date": "2013-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

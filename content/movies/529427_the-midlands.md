@@ -1,1 +1,0 @@
-{"tmdb_id": 529427, "title": "The Midlands", "original_title": "The Midlands", "slug_title": "the-midlands", "date": "1961-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

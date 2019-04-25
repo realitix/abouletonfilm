@@ -1,1 +1,0 @@
-{"tmdb_id": 46795, "title": "Johnny", "original_title": "Johnny", "slug_title": "johnny", "date": "1999-01-01", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wOFLcvHukw5ln6396Vjri8P456R.jpg", "actors": [], "comments": [], "recommandations_id": []}

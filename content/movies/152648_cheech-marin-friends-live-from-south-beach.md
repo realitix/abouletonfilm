@@ -1,1 +1,0 @@
-{"tmdb_id": 152648, "title": "Cheech Marin & Friends: Live from South Beach", "original_title": "Cheech Marin & Friends: Live from South Beach", "slug_title": "cheech-marin-friends-live-from-south-beach", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

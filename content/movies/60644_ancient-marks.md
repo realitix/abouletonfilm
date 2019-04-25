@@ -1,1 +1,0 @@
-{"tmdb_id": 60644, "title": "Ancient Marks", "original_title": "Ancient Marks", "slug_title": "ancient-marks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

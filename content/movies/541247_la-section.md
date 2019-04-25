@@ -1,1 +1,0 @@
-{"tmdb_id": 541247, "title": "La section", "original_title": "La section", "slug_title": "la-section", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

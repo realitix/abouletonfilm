@@ -1,1 +1,0 @@
-{"tmdb_id": 434735, "title": "Zerofobia", "original_title": "Zerofobia", "slug_title": "zerofobia", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6FQ1moYkaRaubJI26dqssDb92Hb.jpg", "actors": ["Renato Zero ()"], "comments": [], "recommandations_id": []}

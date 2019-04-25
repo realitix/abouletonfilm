@@ -1,1 +1,0 @@
-{"tmdb_id": 381934, "title": "Rage On Stage", "original_title": "Rage On Stage", "slug_title": "rage-on-stage", "date": "2016-02-05", "genre": "Action / Horreur / Com\u00e9die", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eUnOwFyn6Hcn8aQoH3jmCc3rKOe.jpg", "actors": [], "comments": [], "recommandations_id": []}

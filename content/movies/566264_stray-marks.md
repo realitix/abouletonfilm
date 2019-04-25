@@ -1,1 +1,0 @@
-{"tmdb_id": 566264, "title": "Stray Marks", "original_title": "Stray Marks", "slug_title": "stray-marks", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

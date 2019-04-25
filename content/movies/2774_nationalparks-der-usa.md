@@ -1,1 +1,0 @@
-{"tmdb_id": 2774, "title": "Nationalparks der USA", "original_title": "Nationalparks der USA", "slug_title": "nationalparks-der-usa", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J\u00fcrgen Gries (Voice)"], "comments": [], "recommandations_id": []}

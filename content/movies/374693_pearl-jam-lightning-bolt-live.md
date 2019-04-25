@@ -1,1 +1,0 @@
-{"tmdb_id": 374693, "title": "Pearl Jam - Lightning Bolt Live", "original_title": "Pearl Jam - Lightning Bolt Live", "slug_title": "pearl-jam-lightning-bolt-live", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

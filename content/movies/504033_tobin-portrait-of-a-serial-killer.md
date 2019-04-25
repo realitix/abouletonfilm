@@ -1,1 +1,0 @@
-{"tmdb_id": 504033, "title": "Tobin: Portrait of a Serial Killer", "original_title": "Tobin: Portrait of a Serial Killer", "slug_title": "tobin-portrait-of-a-serial-killer", "date": "2010-01-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

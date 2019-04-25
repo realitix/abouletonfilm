@@ -1,1 +1,0 @@
-{"tmdb_id": 324927, "title": "Not Even a Lamp", "original_title": "Not Even a Lamp", "slug_title": "not-even-a-lamp", "date": "2014-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

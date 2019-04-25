@@ -1,1 +1,0 @@
-{"tmdb_id": 527680, "title": "She Said Why Me", "original_title": "\u5979\u8aaa\u70ba\u4f55\u662f\u6211", "slug_title": "she-said-why-me", "date": "1989-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

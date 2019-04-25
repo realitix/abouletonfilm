@@ -1,1 +1,0 @@
-{"tmdb_id": 550797, "title": "Break the Chain", "original_title": "Break the Chain", "slug_title": "break-the-chain", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

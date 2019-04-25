@@ -1,1 +1,0 @@
-{"tmdb_id": 555289, "title": "Das Kreative Universum", "original_title": "Das Kreative Universum", "slug_title": "das-kreative-universum", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ipAk1HLkNU2Df9dUAQwVshBamSN.jpg", "actors": [], "comments": [], "recommandations_id": []}

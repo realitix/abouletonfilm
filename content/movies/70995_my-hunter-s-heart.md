@@ -1,1 +1,0 @@
-{"tmdb_id": 70995, "title": "My Hunter's Heart", "original_title": "My Hunter's Heart", "slug_title": "my-hunter-s-heart", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1IP6K9kGdpNYlqOUA25zXBpum09.jpg", "actors": [], "comments": [], "recommandations_id": []}

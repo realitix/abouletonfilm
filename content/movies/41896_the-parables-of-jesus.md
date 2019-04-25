@@ -1,1 +1,0 @@
-{"tmdb_id": 41896, "title": "The Parables of Jesus", "original_title": "The Parables of Jesus", "slug_title": "the-parables-of-jesus", "date": "2003-06-01", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hxero88JQuIEdtU3gBKd565crQp.jpg", "actors": [], "comments": [], "recommandations_id": []}

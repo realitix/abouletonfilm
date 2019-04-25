@@ -1,1 +1,0 @@
-{"tmdb_id": 377603, "title": "The Horror Seasons", "original_title": "The Horror Seasons", "slug_title": "the-horror-seasons", "date": "2005-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3UAEnzybJumxQRdCnzG3v6pJrqi.jpg", "actors": [], "comments": [], "recommandations_id": []}

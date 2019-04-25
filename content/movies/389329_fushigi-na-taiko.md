@@ -1,1 +1,0 @@
-{"tmdb_id": 389329, "title": "Fushigi na Taiko", "original_title": "Fushigi na Taiko", "slug_title": "fushigi-na-taiko", "date": "1957-08-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3N2bHf5x93GNL8x4MmgZFgOb14x.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 153138, "title": "Roots of the Cuban Missile Crisis", "original_title": "Roots of the Cuban Missile Crisis", "slug_title": "roots-of-the-cuban-missile-crisis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

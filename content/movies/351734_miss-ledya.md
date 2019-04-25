@@ -1,1 +1,0 @@
-{"tmdb_id": 351734, "title": "Miss Ledya", "original_title": "Miss Ledya", "slug_title": "miss-ledya", "date": "1916-07-25", "genre": "Thriller / Aventure", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fefa Sandoval ()", "Marina Fonseca ()", "Petra Gaztambide ()", "Lola Qui\u00f1ones ()"], "comments": [], "recommandations_id": []}

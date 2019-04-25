@@ -1,1 +1,0 @@
-{"tmdb_id": 413873, "title": "Catadores de Hist\u00f3ria", "original_title": "Catadores de Hist\u00f3ria", "slug_title": "catadores-de-historia", "date": "2016-09-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9lRz1E1StuaKKzmPQq5aNAwlz6d.jpg", "actors": [], "comments": [], "recommandations_id": []}

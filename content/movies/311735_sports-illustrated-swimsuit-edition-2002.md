@@ -1,1 +1,0 @@
-{"tmdb_id": 311735, "title": "Sports Illustrated Swimsuit Edition: 2002", "original_title": "Sports Illustrated Swimsuit Edition: 2002", "slug_title": "sports-illustrated-swimsuit-edition-2002", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

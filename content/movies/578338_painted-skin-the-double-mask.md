@@ -1,1 +1,0 @@
-{"tmdb_id": 578338, "title": "Painted Skin: The Double Mask", "original_title": "\u5348\u591c\u6574\u5bb9\u5ba4", "slug_title": "painted-skin-the-double-mask", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7M7VPD048wVefXXD5TU0NmbB32r.jpg", "actors": [], "comments": [], "recommandations_id": []}

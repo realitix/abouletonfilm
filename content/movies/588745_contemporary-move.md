@@ -1,1 +1,0 @@
-{"tmdb_id": 588745, "title": "Contemporary Move", "original_title": "Mudanza contempor\u00e1nea", "slug_title": "contemporary-move", "date": "2018-04-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cfJ4wdzRq3Yd6VOm3j58zhet6Uu.jpg", "actors": [], "comments": [], "recommandations_id": []}

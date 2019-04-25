@@ -1,1 +1,0 @@
-{"tmdb_id": 247326, "title": "Whales in Crisis", "original_title": "Whales in Crisis", "slug_title": "whales-in-crisis", "date": "2004-03-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7uMXFZc9YS8PMzl9QfDoPz6nBaU.jpg", "actors": ["Michael Carroll (Narrator)"], "comments": [], "recommandations_id": []}

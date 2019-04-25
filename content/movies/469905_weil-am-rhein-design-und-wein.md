@@ -1,1 +1,0 @@
-{"tmdb_id": 469905, "title": "Weil am Rhein - Design und Wein", "original_title": "Weil am Rhein - Design und Wein", "slug_title": "weil-am-rhein-design-und-wein", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

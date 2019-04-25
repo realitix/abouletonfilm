@@ -1,1 +1,0 @@
-{"tmdb_id": 554255, "title": "Da lontano", "original_title": "Da lontano", "slug_title": "da-lontano", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

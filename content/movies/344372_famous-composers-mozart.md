@@ -1,1 +1,0 @@
-{"tmdb_id": 344372, "title": "FAMOUS COMPOSERS: Mozart", "original_title": "FAMOUS COMPOSERS: Mozart", "slug_title": "famous-composers-mozart", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

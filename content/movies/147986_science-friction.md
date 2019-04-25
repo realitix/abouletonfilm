@@ -1,1 +1,0 @@
-{"tmdb_id": 147986, "title": "Science Friction", "original_title": "Science Friction", "slug_title": "science-friction", "date": "1959-12-31", "genre": "Animation", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Ndo69ZnsDkMEhj0njRwYyER55f.jpg", "actors": [], "comments": [], "recommandations_id": [204178, 110921, 113989, 260793]}

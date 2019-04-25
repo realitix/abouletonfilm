@@ -1,1 +1,0 @@
-{"tmdb_id": 374407, "title": "Ornaments", "original_title": "Ornaments", "slug_title": "ornaments", "date": "2001-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

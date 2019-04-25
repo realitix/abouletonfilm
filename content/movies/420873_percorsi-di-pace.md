@@ -1,1 +1,0 @@
-{"tmdb_id": 420873, "title": "Percorsi di pace", "original_title": "Percorsi di pace", "slug_title": "percorsi-di-pace", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lella Costa ()", "Paolo Fresu ()"], "comments": [], "recommandations_id": []}

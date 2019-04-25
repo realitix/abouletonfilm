@@ -1,1 +1,0 @@
-{"tmdb_id": 431976, "title": "Vanished", "original_title": "Vanished", "slug_title": "vanished", "date": "2020-12-06", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Martha Caldera (Natasha Grace)", "Tamara C. Moore-White (Hera Vinson)", "Alejandro Villagomez (Logan Walker)"], "comments": [], "recommandations_id": []}

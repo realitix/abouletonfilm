@@ -1,1 +1,0 @@
-{"tmdb_id": 50414, "title": "Blue Moon Rising", "original_title": "Blue Moon Rising", "slug_title": "blue-moon-rising", "date": "2010-01-01", "genre": "Documentaire", "score": "3.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xFLWOk7DTVxYzQeQZZzM5kgxc1E.jpg", "actors": [], "comments": [], "recommandations_id": []}

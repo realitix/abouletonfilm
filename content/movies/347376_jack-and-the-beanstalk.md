@@ -1,1 +1,0 @@
-{"tmdb_id": 347376, "title": "Jack and the Beanstalk", "original_title": "Jack and the Beanstalk", "slug_title": "jack-and-the-beanstalk", "date": "1922-09-04", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gJ9yGimKuQq2Ahvqxwc1L6ebRJj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 551050, "title": "Ein schmales St\u00fcck Deutschland", "original_title": "Ein schmales St\u00fcck Deutschland", "slug_title": "ein-schmales-stuck-deutschland", "date": "1991-02-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 480538, "title": "The Politics of Perception", "original_title": "The Politics of Perception", "slug_title": "the-politics-of-perception", "date": "1973-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Y6rr9y8XUku8qw05SQVWSXSUP0.jpg", "actors": [], "comments": [], "recommandations_id": []}

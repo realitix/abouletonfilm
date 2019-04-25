@@ -1,1 +1,0 @@
-{"tmdb_id": 481750, "title": "Essere Rossana Rossanda", "original_title": "Essere Rossana Rossanda", "slug_title": "essere-rossana-rossanda", "date": "", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

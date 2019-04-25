@@ -1,1 +1,0 @@
-{"tmdb_id": 367332, "title": "Garden Pieces", "original_title": "Garden Pieces", "slug_title": "garden-pieces", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ijnLu3X8VBZPVmxEY8c2wLlw2D.jpg", "actors": [], "comments": [], "recommandations_id": []}

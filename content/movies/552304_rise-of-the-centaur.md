@@ -1,1 +1,0 @@
-{"tmdb_id": 552304, "title": "Rise of the Centaur", "original_title": "Rise of the Centaur", "slug_title": "rise-of-the-centaur", "date": "", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4GlQOvMlyAzpbB0wstFxqtnDB3Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

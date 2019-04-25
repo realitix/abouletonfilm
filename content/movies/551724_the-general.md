@@ -1,1 +1,0 @@
-{"tmdb_id": 551724, "title": "The General", "original_title": "Resni \u010dlovek", "slug_title": "the-general", "date": "1962-10-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oCB7J6OJHk7srBXxJG4JEpYOfeT.jpg", "actors": ["Vlado Kristl ()"], "comments": [], "recommandations_id": []}

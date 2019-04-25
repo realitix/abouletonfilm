@@ -1,1 +1,0 @@
-{"tmdb_id": 367175, "title": "Sarabah", "original_title": "Sarabah", "slug_title": "sarabah", "date": "2015-03-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/faM51unPfEqTvNHZBmPPQfeKmlP.jpg", "actors": ["Fatou Mandiang Diatta (as herself (Sister Fa))"], "comments": [], "recommandations_id": []}

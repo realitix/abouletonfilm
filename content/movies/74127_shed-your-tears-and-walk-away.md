@@ -1,1 +1,0 @@
-{"tmdb_id": 74127, "title": "Shed Your Tears and Walk Away", "original_title": "Shed Your Tears and Walk Away", "slug_title": "shed-your-tears-and-walk-away", "date": "2009-10-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pe49nEyl7X535lkmXOIAfLF3kjL.jpg", "actors": [], "comments": [], "recommandations_id": []}

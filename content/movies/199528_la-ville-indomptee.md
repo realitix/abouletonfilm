@@ -1,1 +1,0 @@
-{"tmdb_id": 199528, "title": "La ville indompt\u00e9e", "original_title": "Robinson warszawski", "slug_title": "la-ville-indomptee", "date": "1950-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hcokbwNTOiYvEvRFwkqqIZ9sYYO.jpg", "actors": [], "comments": [], "recommandations_id": []}

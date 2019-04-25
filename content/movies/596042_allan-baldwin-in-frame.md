@@ -1,1 +1,0 @@
-{"tmdb_id": 596042, "title": "Allan Baldwin: In Frame", "original_title": "Allan Baldwin: In Frame", "slug_title": "allan-baldwin-in-frame", "date": "2011-10-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Allan Baldwin (Himself - Host)"], "comments": [], "recommandations_id": []}

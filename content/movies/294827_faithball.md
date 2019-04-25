@@ -1,1 +1,0 @@
-{"tmdb_id": 294827, "title": "Faithball", "original_title": "\u5929\u540e\u4e4b\u6230", "slug_title": "faithball", "date": "2013-02-27", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7hgkWW84tzk6pP84yM7QEwJgvyM.jpg", "actors": [], "comments": [], "recommandations_id": []}

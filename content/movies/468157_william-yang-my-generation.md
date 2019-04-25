@@ -1,1 +1,0 @@
-{"tmdb_id": 468157, "title": "William Yang: My Generation", "original_title": "William Yang: My Generation", "slug_title": "william-yang-my-generation", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2PLo3iYJIlQoR4KWXC6xtY6w6qR.jpg", "actors": [], "comments": [], "recommandations_id": []}

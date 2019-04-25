@@ -1,1 +1,0 @@
-{"tmdb_id": 282490, "title": "O Pai Do Gol", "original_title": "O Pai Do Gol", "slug_title": "o-pai-do-gol", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

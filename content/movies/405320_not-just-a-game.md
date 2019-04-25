@@ -1,1 +1,0 @@
-{"tmdb_id": 405320, "title": "Not Just a Game", "original_title": "Not Just a Game", "slug_title": "not-just-a-game", "date": "2010-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wdoFmYddczXExytN2JQvfs9K8mh.jpg", "actors": [], "comments": [], "recommandations_id": []}

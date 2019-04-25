@@ -1,1 +1,0 @@
-{"tmdb_id": 65873, "title": "The N Word", "original_title": "The N Word", "slug_title": "the-n-word", "date": "2006-01-16", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iLYCuXGo4ql6KsDoqo1jOI53rab.jpg", "actors": [], "comments": [], "recommandations_id": []}

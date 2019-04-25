@@ -1,1 +1,0 @@
-{"tmdb_id": 580233, "title": "The Sawdust Ring", "original_title": "The Sawdust Ring", "slug_title": "the-sawdust-ring", "date": "1917-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

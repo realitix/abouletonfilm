@@ -1,1 +1,0 @@
-{"tmdb_id": 538710, "title": "Neuf de tr\u00e8fle", "original_title": "Neuf de tr\u00e8fle", "slug_title": "neuf-de-trefle", "date": "1938-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/19ytMIjJo3gJZPNQvRtIVTNzZhs.jpg", "actors": [], "comments": [], "recommandations_id": []}

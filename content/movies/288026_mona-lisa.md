@@ -1,1 +1,0 @@
-{"tmdb_id": 288026, "title": "Mona Lisa", "original_title": "Mona Lisa", "slug_title": "mona-lisa", "date": "1973-08-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qoOrtFJWAzurUFUAeq0IEUqUZhv.jpg", "actors": [], "comments": [], "recommandations_id": []}

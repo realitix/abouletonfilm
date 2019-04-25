@@ -1,1 +1,0 @@
-{"tmdb_id": 567365, "title": "The Devil Told Me What To Do", "original_title": "El diablo me dijo qu\u00e9 hacer", "slug_title": "the-devil-told-me-what-to-do", "date": "2018-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

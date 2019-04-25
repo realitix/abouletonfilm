@@ -1,1 +1,0 @@
-{"tmdb_id": 240430, "title": "Brooklyn, U.S.A.", "original_title": "Brooklyn, U.S.A.", "slug_title": "brooklyn-u-s-a", "date": "1947-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

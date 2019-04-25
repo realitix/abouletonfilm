@@ -1,1 +1,0 @@
-{"tmdb_id": 363559, "title": "Looking For Technology", "original_title": "Looking For Technology", "slug_title": "looking-for-technology", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

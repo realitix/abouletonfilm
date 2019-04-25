@@ -1,1 +1,0 @@
-{"tmdb_id": 161560, "title": "A Lad an' a Lamp", "original_title": "A Lad an' a Lamp", "slug_title": "a-lad-an-a-lamp", "date": "1932-12-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7GbvR5dMRjVTXJxCwiEL2rvb4WW.jpg", "actors": [], "comments": [], "recommandations_id": []}

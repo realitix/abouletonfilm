@@ -1,1 +1,0 @@
-{"tmdb_id": 276796, "title": "The children of the swallow", "original_title": "The children of the swallow", "slug_title": "the-children-of-the-swallow", "date": "1987-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9wcmmFfnv9GfSM9C5a6a0hfiOFy.jpg", "actors": [], "comments": [], "recommandations_id": []}

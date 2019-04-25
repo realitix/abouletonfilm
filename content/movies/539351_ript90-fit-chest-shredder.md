@@ -1,1 +1,0 @@
-{"tmdb_id": 539351, "title": "RipT90 Fit - Chest Shredder", "original_title": "RipT90 Fit - Chest Shredder", "slug_title": "ript90-fit-chest-shredder", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zoTl0HM63Lz08CStv1eR2QpK8oW.jpg", "actors": [], "comments": [], "recommandations_id": []}

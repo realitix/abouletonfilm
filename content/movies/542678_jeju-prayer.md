@@ -1,1 +1,0 @@
-{"tmdb_id": 542678, "title": "Jeju Prayer", "original_title": "\ube44\ub150", "slug_title": "jeju-prayer", "date": "2013-04-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oGS9trXQh2HkDlsQpaZbU6lRkcv.jpg", "actors": [], "comments": [], "recommandations_id": []}

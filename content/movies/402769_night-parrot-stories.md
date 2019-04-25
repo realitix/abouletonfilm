@@ -1,1 +1,0 @@
-{"tmdb_id": 402769, "title": "Night Parrot Stories", "original_title": "Night Parrot Stories", "slug_title": "night-parrot-stories", "date": "2016-05-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fs5fhrTn0gMsuw48CeEHmu6EWTr.jpg", "actors": [], "comments": [], "recommandations_id": []}

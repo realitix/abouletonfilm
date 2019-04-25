@@ -1,1 +1,0 @@
-{"tmdb_id": 406473, "title": "Miroque Festival", "original_title": "Miroque Festival", "slug_title": "miroque-festival", "date": "2005-11-15", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fpRyAHfbZpi7KARYLNO9cKLG24R.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 318039, "title": "Jesus - Der Film", "original_title": "Jesus - Der Film", "slug_title": "jesus-der-film", "date": "1986-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pC012tox7URXDKxEZObK2L84hZW.jpg", "actors": [], "comments": [], "recommandations_id": []}

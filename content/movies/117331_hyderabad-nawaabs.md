@@ -1,1 +1,0 @@
-{"tmdb_id": 117331, "title": "Hyderabad Nawaabs", "original_title": "Hyderabad Nawaabs", "slug_title": "hyderabad-nawaabs", "date": "2006-12-12", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4kgTD9DEGRmToVftvBeDs73Ymrg.jpg", "actors": [], "comments": [], "recommandations_id": []}

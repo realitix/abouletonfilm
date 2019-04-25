@@ -1,1 +1,0 @@
-{"tmdb_id": 202339, "title": "The Reluctant Recruit", "original_title": "The Reluctant Recruit", "slug_title": "the-reluctant-recruit", "date": "1971-06-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u4fcbHYT7qNTopKrrd1psxwdL8Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

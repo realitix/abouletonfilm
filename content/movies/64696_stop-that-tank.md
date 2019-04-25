@@ -1,1 +1,0 @@
-{"tmdb_id": 64696, "title": "Stop that Tank!", "original_title": "Stop that Tank!", "slug_title": "stop-that-tank", "date": "1942-01-01", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vV3fZlYnZy0HaCpPwu6XFdZ7eUe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 511595, "title": "So\u011fuk Geceler", "original_title": "So\u011fuk Geceler", "slug_title": "soguk-geceler", "date": "1995-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oQYZESfTx9fFdgKGl3fW5W4JtfM.jpg", "actors": ["Menderes Samanc\u0131lar ()"], "comments": [], "recommandations_id": []}

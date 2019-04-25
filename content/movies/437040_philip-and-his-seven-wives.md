@@ -1,1 +1,0 @@
-{"tmdb_id": 437040, "title": "Philip and His Seven Wives", "original_title": "Philip and His Seven Wives", "slug_title": "philip-and-his-seven-wives", "date": "2005-10-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xrYOiqMe6HNY25rXyzYoQFYu6Fr.jpg", "actors": [], "comments": [], "recommandations_id": []}

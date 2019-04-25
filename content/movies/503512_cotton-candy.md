@@ -1,1 +1,0 @@
-{"tmdb_id": 503512, "title": "Cotton Candy", "original_title": "Cotton Candy", "slug_title": "cotton-candy", "date": "2009-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paco Sag\u00e1rzazu ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 113670, "title": "To Fetch a Bike", "original_title": "H\u00e4mta en cykel", "slug_title": "to-fetch-a-bike", "date": "1968-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5D7UBSEgdyONE6Lql6xS7s6OLcW.jpg", "actors": ["Pierre Ben\u00e9 ()", "Monica L\u00f6f ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 448301, "title": "Uh, It's Great Here", "original_title": "Uh, It's Great Here", "slug_title": "uh-it-s-great-here", "date": "2011-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Julian Radlmaier ()"], "comments": [], "recommandations_id": []}

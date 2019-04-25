@@ -1,1 +1,0 @@
-{"tmdb_id": 572273, "title": "Frame Fatal", "original_title": "Frame Fatal", "slug_title": "frame-fatal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2pUCyfutw6uFKH9Br1EYW1YjGBe.jpg", "actors": [], "comments": [], "recommandations_id": []}

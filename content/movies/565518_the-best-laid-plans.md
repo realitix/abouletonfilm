@@ -1,1 +1,0 @@
-{"tmdb_id": 565518, "title": "The Best Laid Plans", "original_title": "The Best Laid Plans", "slug_title": "the-best-laid-plans", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Linnea Quigley (Lois)", "Edwin Neal (Jimmy)", "Michael LiCastri (Kevin)"], "comments": [], "recommandations_id": []}

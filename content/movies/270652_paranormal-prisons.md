@@ -1,1 +1,0 @@
-{"tmdb_id": 270652, "title": "Paranormal Prisons", "original_title": "Paranormal Prisons", "slug_title": "paranormal-prisons", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6xiJETyS3ghsGRvlG4cDCZjQxuF.jpg", "actors": [], "comments": [], "recommandations_id": []}

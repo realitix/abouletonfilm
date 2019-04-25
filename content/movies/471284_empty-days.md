@@ -1,1 +1,0 @@
-{"tmdb_id": 471284, "title": "Empty Days", "original_title": "Dias Vazios", "slug_title": "empty-days", "date": "2017-09-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v84hM3KJX2rG98EqP4733surGYI.jpg", "actors": [], "comments": [], "recommandations_id": []}

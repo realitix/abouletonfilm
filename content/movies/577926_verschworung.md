@@ -1,1 +1,0 @@
-{"tmdb_id": 577926, "title": "Verschw\u00f6rung", "original_title": "Verschw\u00f6rung", "slug_title": "verschworung", "date": "1969-08-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hildegard Alex ()", "Volkmar Kleinert ()", "Heinz-Dieter Knaup ()", "Irma M\u00fcnch ()"], "comments": [], "recommandations_id": []}

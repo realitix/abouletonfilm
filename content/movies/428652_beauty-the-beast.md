@@ -1,1 +1,0 @@
-{"tmdb_id": 428652, "title": "Beauty & The Beast", "original_title": "Beauty & The Beast", "slug_title": "beauty-the-beast", "date": "1992-03-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matthew Courtney (The Manservant)", "Catherine Wells (Beauty)"], "comments": [], "recommandations_id": []}

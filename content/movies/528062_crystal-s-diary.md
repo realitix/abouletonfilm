@@ -1,1 +1,0 @@
-{"tmdb_id": 528062, "title": "Crystal's Diary", "original_title": "Crystal's Diary", "slug_title": "crystal-s-diary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qOmrdC1zt2AtLIacc2ytstYMNPO.jpg", "actors": [], "comments": [], "recommandations_id": []}

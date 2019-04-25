@@ -1,1 +1,0 @@
-{"tmdb_id": 222776, "title": "Boo Hoo Baby", "original_title": "Boo Hoo Baby", "slug_title": "boo-hoo-baby", "date": "1951-03-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

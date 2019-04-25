@@ -1,1 +1,0 @@
-{"tmdb_id": 102615, "title": "Fata Morgana", "original_title": "Fata Morgana", "slug_title": "fata-morgana", "date": "2002-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nathalie Choquette (Natalia)", "Jamie Scavone (Little boy)", "Nicholas Simard (The barbarian)"], "comments": [], "recommandations_id": []}

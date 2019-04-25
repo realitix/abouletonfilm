@@ -1,1 +1,0 @@
-{"tmdb_id": 351458, "title": "Twelve O'Clock and All Ain't Well", "original_title": "Twelve O'Clock and All Ain't Well", "slug_title": "twelve-o-clock-and-all-ain-t-well", "date": "1941-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

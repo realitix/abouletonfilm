@@ -1,1 +1,0 @@
-{"tmdb_id": 195545, "title": "Panoramic View of Newport", "original_title": "Panoramic View of Newport", "slug_title": "panoramic-view-of-newport", "date": "1900-05-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

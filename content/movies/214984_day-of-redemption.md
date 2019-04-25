@@ -1,1 +1,0 @@
-{"tmdb_id": 214984, "title": "Day of Redemption", "original_title": "Day of Redemption", "slug_title": "day-of-redemption", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

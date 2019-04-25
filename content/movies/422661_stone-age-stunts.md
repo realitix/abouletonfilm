@@ -1,1 +1,0 @@
-{"tmdb_id": 422661, "title": "Stone Age Stunts", "original_title": "Stone Age Stunts", "slug_title": "stone-age-stunts", "date": "1930-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

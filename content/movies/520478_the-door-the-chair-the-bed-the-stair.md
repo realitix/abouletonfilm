@@ -1,1 +1,0 @@
-{"tmdb_id": 520478, "title": "The Door, The Chair, The Bed & The Stair", "original_title": "The Door, The Chair, The Bed & The Stair", "slug_title": "the-door-the-chair-the-bed-the-stair", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

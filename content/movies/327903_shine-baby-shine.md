@@ -1,1 +1,0 @@
-{"tmdb_id": 327903, "title": "Shine Baby Shine", "original_title": "Shine Baby Shine", "slug_title": "shine-baby-shine", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

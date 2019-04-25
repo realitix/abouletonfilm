@@ -1,1 +1,0 @@
-{"tmdb_id": 547799, "title": "Duplicity II", "original_title": "Duplicity II", "slug_title": "duplicity-ii", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 449565, "title": "Onde S\u00e3o Paulo Acaba", "original_title": "Onde S\u00e3o Paulo Acaba", "slug_title": "onde-sao-paulo-acaba", "date": "1995-03-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tCytrq60lTdGLgVALqSbktmJKv3.jpg", "actors": [], "comments": [], "recommandations_id": []}

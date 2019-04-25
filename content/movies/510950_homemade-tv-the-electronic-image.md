@@ -1,1 +1,0 @@
-{"tmdb_id": 510950, "title": "Homemade TV: The Electronic Image", "original_title": "Homemade TV: The Electronic Image", "slug_title": "homemade-tv-the-electronic-image", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

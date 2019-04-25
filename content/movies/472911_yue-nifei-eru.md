@@ -1,1 +1,0 @@
-{"tmdb_id": 472911, "title": "\u6708\u306b\u5420\u3048\u308b", "original_title": "\u6708\u306b\u5420\u3048\u308b", "slug_title": "yue-nifei-eru", "date": "1989-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g5sCqRfokeJKp1wX4rYTk5i0mzA.jpg", "actors": [], "comments": [], "recommandations_id": []}

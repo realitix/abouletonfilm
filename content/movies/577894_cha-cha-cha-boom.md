@@ -1,1 +1,0 @@
-{"tmdb_id": 577894, "title": "Cha-Cha-Cha Boom!", "original_title": "Cha-Cha-Cha Boom!", "slug_title": "cha-cha-cha-boom", "date": "1956-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mary Kaye ()", "Jud Conlon ()", "Helen Grayco ()"], "comments": [], "recommandations_id": []}

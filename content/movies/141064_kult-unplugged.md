@@ -1,1 +1,0 @@
-{"tmdb_id": 141064, "title": "Kult Unplugged", "original_title": "Kult Unplugged", "slug_title": "kult-unplugged", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4MKcjjBXA1eJMmgcASGs2PzZMYB.jpg", "actors": [], "comments": [], "recommandations_id": []}

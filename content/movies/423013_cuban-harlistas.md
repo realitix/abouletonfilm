@@ -1,1 +1,1 @@
-{"tmdb_id": 423013, "title": "Cuban Harlistas", "original_title": "Cuban Harlistas", "slug_title": "cuban-harlistas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 423013, "title": "Cuban Harlistas", "original_title": "Cuban Harlistas", "slug_title": "cuban-harlistas", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

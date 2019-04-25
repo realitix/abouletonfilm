@@ -1,1 +1,0 @@
-{"tmdb_id": 309620, "title": "The Rolling Stones: 1963-1969: Music in Review", "original_title": "The Rolling Stones: 1963-1969: Music in Review", "slug_title": "the-rolling-stones-1963-1969-music-in-review", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

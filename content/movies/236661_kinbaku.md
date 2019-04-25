@@ -1,1 +1,0 @@
-{"tmdb_id": 236661, "title": "Kinbaku", "original_title": "Kinbaku", "slug_title": "kinbaku", "date": "2010-03-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

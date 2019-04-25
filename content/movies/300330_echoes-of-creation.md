@@ -1,1 +1,0 @@
-{"tmdb_id": 300330, "title": "Echoes of Creation", "original_title": "Echoes of Creation", "slug_title": "echoes-of-creation", "date": "2010-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eIBPUcRi5nz7SFLX5Jmmlog2Lrb.jpg", "actors": [], "comments": [], "recommandations_id": []}

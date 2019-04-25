@@ -1,1 +1,0 @@
-{"tmdb_id": 205515, "title": "Championship Chase", "original_title": "Championship Chase", "slug_title": "championship-chase", "date": "1974-12-31", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gK1Z60tHtnanYLV9Q3aKwVnFw3i.jpg", "actors": [], "comments": [], "recommandations_id": []}

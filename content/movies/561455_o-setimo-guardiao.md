@@ -1,1 +1,0 @@
-{"tmdb_id": 561455, "title": "O S\u00e9timo Guardi\u00e3o", "original_title": "O S\u00e9timo Guardi\u00e3o", "slug_title": "o-setimo-guardiao", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

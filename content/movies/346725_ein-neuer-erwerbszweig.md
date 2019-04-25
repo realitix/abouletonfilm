@@ -1,1 +1,0 @@
-{"tmdb_id": 346725, "title": "Ein neuer Erwerbszweig", "original_title": "Ein neuer Erwerbszweig", "slug_title": "ein-neuer-erwerbszweig", "date": "1912-01-01", "genre": "Science-Fiction / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Curt Bois ()"], "comments": [], "recommandations_id": []}

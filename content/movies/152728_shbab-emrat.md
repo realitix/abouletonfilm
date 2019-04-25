@@ -1,1 +1,0 @@
-{"tmdb_id": 152728, "title": "shbab emrat", "original_title": "shbab emrat", "slug_title": "shbab-emrat", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

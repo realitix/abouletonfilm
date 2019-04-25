@@ -1,1 +1,0 @@
-{"tmdb_id": 306381, "title": "Shaitan Mujrim", "original_title": "Shaitan Mujrim", "slug_title": "shaitan-mujrim", "date": "1979-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

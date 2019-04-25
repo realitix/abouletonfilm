@@ -1,1 +1,0 @@
-{"tmdb_id": 279008, "title": "The Killing Zone", "original_title": "The Killing Zone", "slug_title": "the-killing-zone", "date": "2003-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

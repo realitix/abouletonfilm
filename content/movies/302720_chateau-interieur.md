@@ -1,1 +1,0 @@
-{"tmdb_id": 302720, "title": "Ch\u00e2teau Int\u00e9rieur", "original_title": "Ch\u00e2teau Int\u00e9rieur", "slug_title": "chateau-interieur", "date": "2014-07-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 354863, "title": "Monster Black Holes", "original_title": "Monster Black Holes", "slug_title": "monster-black-holes", "date": "2009-03-17", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y1nB40rm6mpnd2YPZEDPHjLhULC.jpg", "actors": ["Paul Davies ()"], "comments": [], "recommandations_id": []}

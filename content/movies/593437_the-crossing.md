@@ -1,1 +1,0 @@
-{"tmdb_id": 593437, "title": "The Crossing", "original_title": "The Crossing", "slug_title": "the-crossing", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Esposito (Man)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 271106, "title": "What do goats dream?", "original_title": "\u00bfQu\u00e9 sue\u00f1an las cabras?", "slug_title": "what-do-goats-dream", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9lb66ekshtHbHfFgJDEBBOnAnJ6.jpg", "actors": [], "comments": [], "recommandations_id": []}

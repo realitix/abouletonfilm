@@ -1,1 +1,0 @@
-{"tmdb_id": 170763, "title": "Pete Seeger's 90th Birthday Concert", "original_title": "Pete Seeger's 90th Birthday Concert", "slug_title": "pete-seeger-s-90th-birthday-concert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

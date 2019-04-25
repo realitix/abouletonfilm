@@ -1,1 +1,0 @@
-{"tmdb_id": 432642, "title": "Short Hymn, Silent War", "original_title": "Short Hymn, Silent War", "slug_title": "short-hymn-silent-war", "date": "2003-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

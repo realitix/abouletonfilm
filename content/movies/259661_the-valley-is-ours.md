@@ -1,1 +1,0 @@
-{"tmdb_id": 259661, "title": "The Valley Is Ours", "original_title": "The Valley Is Ours", "slug_title": "the-valley-is-ours", "date": "1948-11-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yjOHcyXGBh4f7LQLrqFelX1rA1K.jpg", "actors": ["Nigel Lovell (Narrator)"], "comments": [], "recommandations_id": []}

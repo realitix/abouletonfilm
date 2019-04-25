@@ -1,1 +1,0 @@
-{"tmdb_id": 548006, "title": "Conv\u00edvio", "original_title": "Conv\u00edvio", "slug_title": "convivio", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

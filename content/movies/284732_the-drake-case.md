@@ -1,1 +1,0 @@
-{"tmdb_id": 284732, "title": "The Drake Case", "original_title": "The Drake Case", "slug_title": "the-drake-case", "date": "1929-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

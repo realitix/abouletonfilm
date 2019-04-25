@@ -1,1 +1,0 @@
-{"tmdb_id": 254101, "title": "Temples of India", "original_title": "Temples of India", "slug_title": "temples-of-india", "date": "1938-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/36CTLUWvRiv5SFhVFj6G1jvpBIl.jpg", "actors": ["Frank Gallop (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 564222, "title": "Edison, Marconi & Co.", "original_title": "Edison, Marconi & Co.", "slug_title": "edison-marconi-co", "date": "1928-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

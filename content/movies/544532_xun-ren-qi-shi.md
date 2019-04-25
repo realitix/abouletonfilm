@@ -1,1 +1,0 @@
-{"tmdb_id": 544532, "title": "\u5bfb\u4eba\u542f\u793a", "original_title": "\u5bfb\u4eba\u542f\u793a", "slug_title": "xun-ren-qi-shi", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jia Hongsheng ()", "Huang Jue ()", "Zhang Yang ()", "Lola Huo Xin ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 310709, "title": "California State of Mind: The Legacy of Pat Brown", "original_title": "California State of Mind: The Legacy of Pat Brown", "slug_title": "california-state-of-mind-the-legacy-of-pat-brown", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

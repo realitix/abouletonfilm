@@ -1,1 +1,0 @@
-{"tmdb_id": 190301, "title": "The Big Shot", "original_title": "The Big Shot", "slug_title": "the-big-shot", "date": "1929-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["'Snub' Pollard ()"], "comments": [], "recommandations_id": []}

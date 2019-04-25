@@ -1,1 +1,0 @@
-{"tmdb_id": 229597, "title": "Paris, roman d'une ville", "original_title": "Paris, roman d'une ville", "slug_title": "paris-roman-d-une-ville", "date": "1990-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5JpGwpaxL0XOesYfrDIX2DyMbLs.jpg", "actors": [], "comments": [], "recommandations_id": []}

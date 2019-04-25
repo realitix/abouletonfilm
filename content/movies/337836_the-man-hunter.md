@@ -1,1 +1,0 @@
-{"tmdb_id": 337836, "title": "The Man Hunter", "original_title": "The Man Hunter", "slug_title": "the-man-hunter", "date": "1930-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rin-Tin-Tin ()"], "comments": [], "recommandations_id": []}

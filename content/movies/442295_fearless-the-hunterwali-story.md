@@ -1,1 +1,0 @@
-{"tmdb_id": 442295, "title": "Fearless: The Hunterwali Story", "original_title": "Fearless: The Hunterwali Story", "slug_title": "fearless-the-hunterwali-story", "date": "1994-02-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fearless Nadia (Herself)"], "comments": [], "recommandations_id": []}

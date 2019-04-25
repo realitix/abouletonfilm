@@ -1,1 +1,0 @@
-{"tmdb_id": 506472, "title": "Four Americans", "original_title": "Four Americans", "slug_title": "four-americans", "date": "2016-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2KNaAexrqb6PhNpO0MG1DhH3IqH.jpg", "actors": [], "comments": [], "recommandations_id": []}

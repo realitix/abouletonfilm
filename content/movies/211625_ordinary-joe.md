@@ -1,1 +1,0 @@
-{"tmdb_id": 211625, "title": "Ordinary Joe", "original_title": "Ordinary Joe", "slug_title": "ordinary-joe", "date": "2012-03-25", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qSFFF3417nVv4dd3J2QUxc4QqJd.jpg", "actors": [], "comments": [], "recommandations_id": []}

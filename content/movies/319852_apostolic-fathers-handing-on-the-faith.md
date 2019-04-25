@@ -1,1 +1,0 @@
-{"tmdb_id": 319852, "title": "Apostolic Fathers: Handing On the Faith", "original_title": "Apostolic Fathers: Handing On the Faith", "slug_title": "apostolic-fathers-handing-on-the-faith", "date": "2007-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 184383, "title": "They All Fall", "original_title": "They All Fall", "slug_title": "they-all-fall", "date": "1925-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bobby Ray ()", "Oliver Hardy ()"], "comments": [], "recommandations_id": []}

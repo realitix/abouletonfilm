@@ -1,1 +1,0 @@
-{"tmdb_id": 587496, "title": "The Rental", "original_title": "The Rental", "slug_title": "the-rental", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dan Stevens ()", "Alison Brie ()", "Sheila Vand ()", "Jeremy Allen White ()"], "comments": [], "recommandations_id": []}

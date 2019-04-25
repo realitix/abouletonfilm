@@ -1,1 +1,0 @@
-{"tmdb_id": 532250, "title": "Nightwatch", "original_title": "Nightwatch", "slug_title": "nightwatch", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

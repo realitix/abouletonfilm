@@ -1,1 +1,0 @@
-{"tmdb_id": 518771, "title": "A SOLDIER\u2019S STORY", "original_title": "A SOLDIER\u2019S STORY", "slug_title": "a-soldiers-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

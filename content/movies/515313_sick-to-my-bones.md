@@ -1,1 +1,0 @@
-{"tmdb_id": 515313, "title": "Sick To My Bones", "original_title": "Sick To My Bones", "slug_title": "sick-to-my-bones", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

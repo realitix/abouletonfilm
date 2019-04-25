@@ -1,1 +1,0 @@
-{"tmdb_id": 451309, "title": "When Wind and Rain Knock at the Window", "original_title": "Kogda dozhd i veter stuchat v okno", "slug_title": "when-wind-and-rain-knock-at-the-window", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

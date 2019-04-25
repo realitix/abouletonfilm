@@ -1,1 +1,0 @@
-{"tmdb_id": 247531, "title": "The Countess Alice", "original_title": "The Countess Alice", "slug_title": "the-countess-alice", "date": "1993-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f5TTXULW1xxRJ7fK9Ib4KKt4Il9.jpg", "actors": ["Wendy Hiller ()"], "comments": [], "recommandations_id": []}

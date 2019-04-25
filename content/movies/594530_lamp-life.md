@@ -1,1 +1,0 @@
-{"tmdb_id": 594530, "title": "Lamp Life", "original_title": "Lamp Life", "slug_title": "lamp-life", "date": "2019-11-12", "genre": "Animation / Com\u00e9die / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Annie Potts (Bo Peep (voice))"], "comments": [], "recommandations_id": []}

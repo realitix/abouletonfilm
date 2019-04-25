@@ -1,1 +1,0 @@
-{"tmdb_id": 336756, "title": "Fire And Rain", "original_title": "Fire And Rain", "slug_title": "fire-and-rain", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

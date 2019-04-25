@@ -1,1 +1,0 @@
-{"tmdb_id": 456990, "title": "The Video Dream Mixes", "original_title": "The Video Dream Mixes", "slug_title": "the-video-dream-mixes", "date": "1997-03-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eB6670JAPbof52bFYG6eQU2rcB8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 354024, "title": "The Spirit of Brendan Behan", "original_title": "The Spirit of Brendan Behan", "slug_title": "the-spirit-of-brendan-behan", "date": "1990-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 524508, "title": "El Abuelo", "original_title": "El Abuelo", "slug_title": "el-abuelo", "date": "2017-08-05", "genre": "Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/huLoRESkMrHzKACbGVyzJWZOJyp.jpg", "actors": [], "comments": [], "recommandations_id": []}

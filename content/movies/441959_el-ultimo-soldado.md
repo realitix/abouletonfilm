@@ -1,1 +1,0 @@
-{"tmdb_id": 441959, "title": "El \u00faltimo soldado", "original_title": "El \u00faltimo soldado", "slug_title": "el-ultimo-soldado", "date": "2010-11-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

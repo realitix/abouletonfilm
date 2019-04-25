@@ -1,1 +1,0 @@
-{"tmdb_id": 308335, "title": "Zero Tolerance", "original_title": "Zero Tolerance", "slug_title": "zero-tolerance", "date": "2014-03-02", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yqktAFJID3XQ6Im72duPERLlXcv.jpg", "actors": [], "comments": [], "recommandations_id": []}

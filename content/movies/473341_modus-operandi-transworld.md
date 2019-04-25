@@ -1,1 +1,0 @@
-{"tmdb_id": 473341, "title": "Modus Operandi - Transworld", "original_title": "Modus Operandi - Transworld", "slug_title": "modus-operandi-transworld", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 207822, "title": "Vesti la giubba", "original_title": "Vesti la giubba", "slug_title": "vesti-la-giubba", "date": "1926-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Giovanni Martinelli (Canio in 'Pagliacci')"], "comments": [], "recommandations_id": []}

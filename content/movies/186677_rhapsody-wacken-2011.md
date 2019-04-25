@@ -1,1 +1,0 @@
-{"tmdb_id": 186677, "title": "Rhapsody: Wacken 2011", "original_title": "Rhapsody: Wacken 2011", "slug_title": "rhapsody-wacken-2011", "date": "2011-09-03", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uyqKTtq99G4AmserdY0jlWSq6Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

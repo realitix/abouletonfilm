@@ -1,1 +1,0 @@
-{"tmdb_id": 561463, "title": "Casse-cou, mademoiselle!", "original_title": "Casse-cou, mademoiselle!", "slug_title": "casse-cou-mademoiselle", "date": "1955-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7r5eVCe9MHxrhTkpgFC0Jmd0FX6.jpg", "actors": [], "comments": [], "recommandations_id": []}

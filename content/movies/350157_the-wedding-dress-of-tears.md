@@ -1,1 +1,0 @@
-{"tmdb_id": 350157, "title": "The Wedding Dress of Tears", "original_title": "\uc6e8\ub529\ub4dc\ub808\uc2a4", "slug_title": "the-wedding-dress-of-tears", "date": "1991-03-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

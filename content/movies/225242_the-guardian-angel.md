@@ -1,1 +1,0 @@
-{"tmdb_id": 225242, "title": "The Guardian Angel", "original_title": "El \u00e1ngel de la guarda", "slug_title": "the-guardian-angel", "date": "1996-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

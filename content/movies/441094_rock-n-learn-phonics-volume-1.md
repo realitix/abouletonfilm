@@ -1,1 +1,0 @@
-{"tmdb_id": 441094, "title": "Rock 'N Learn: Phonics Volume 1", "original_title": "Rock 'N Learn: Phonics Volume 1", "slug_title": "rock-n-learn-phonics-volume-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tHsP7hRubcNj7nx2QErrdwsoiMs.jpg", "actors": [], "comments": [], "recommandations_id": []}

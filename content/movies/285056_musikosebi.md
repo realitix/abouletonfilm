@@ -1,1 +1,0 @@
-{"tmdb_id": 285056, "title": "Musikosebi", "original_title": "Musikosebi", "slug_title": "musikosebi", "date": "1969-01-05", "genre": "Com\u00e9die / Musique", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mikheil Kobakhidze ()", "Gia Avalishvili ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 419162, "title": "Iraqi Voices: Iraq Darkly", "original_title": "Iraqi Voices: Iraq Darkly", "slug_title": "iraqi-voices-iraq-darkly", "date": "2016-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wcrbR0mJHU8w3fWHoXp8P4wKipe.jpg", "actors": [], "comments": [], "recommandations_id": []}

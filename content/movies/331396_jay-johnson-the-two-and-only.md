@@ -1,1 +1,0 @@
-{"tmdb_id": 331396, "title": "Jay Johnson: The Two and Only!", "original_title": "Jay Johnson: The Two and Only!", "slug_title": "jay-johnson-the-two-and-only", "date": "2014-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lBrI2gdYwjLyu4E8OE6eIWiOvZb.jpg", "actors": [], "comments": [], "recommandations_id": []}

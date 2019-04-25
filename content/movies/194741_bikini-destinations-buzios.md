@@ -1,1 +1,0 @@
-{"tmdb_id": 194741, "title": "Bikini Destinations: Buzios", "original_title": "Bikini Destinations: Buzios", "slug_title": "bikini-destinations-buzios", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

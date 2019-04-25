@@ -1,1 +1,0 @@
-{"tmdb_id": 211002, "title": "The Procrastinator", "original_title": "The Procrastinator", "slug_title": "the-procrastinator", "date": "1952-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4cXwm0Y0UTCfplHVjShpWcmYmwQ.jpg", "actors": ["Arden Booth (Narrator)"], "comments": [], "recommandations_id": []}

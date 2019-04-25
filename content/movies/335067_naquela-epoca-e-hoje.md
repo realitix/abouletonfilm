@@ -1,1 +1,0 @@
-{"tmdb_id": 335067, "title": "Naquela \u00c9poca e Hoje", "original_title": "Naquela \u00c9poca e Hoje", "slug_title": "naquela-epoca-e-hoje", "date": "", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marcio Atalla (Marcio Atalla)"], "comments": [], "recommandations_id": []}

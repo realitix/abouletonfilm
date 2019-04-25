@@ -1,1 +1,0 @@
-{"tmdb_id": 506255, "title": "The Captain's Tale", "original_title": "El Cuento Del Capit\u00e1n", "slug_title": "the-captain-s-tale", "date": "2016-12-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yax6IdufNaN8HTN44ZC0tVGoa6r.jpg", "actors": [], "comments": [], "recommandations_id": []}

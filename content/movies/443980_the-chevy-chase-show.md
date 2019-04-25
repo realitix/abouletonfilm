@@ -1,1 +1,0 @@
-{"tmdb_id": 443980, "title": "The Chevy Chase Show", "original_title": "The Chevy Chase Show", "slug_title": "the-chevy-chase-show", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 595166, "title": "The Fighting Edge", "original_title": "The Fighting Edge", "slug_title": "the-fighting-edge", "date": "1926-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eDabs4H9uaDpHA9Xf573D7rgDEH.jpg", "actors": [], "comments": [], "recommandations_id": []}

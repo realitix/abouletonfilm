@@ -1,1 +1,0 @@
-{"tmdb_id": 24175, "title": "Gostanza da Libbiano", "original_title": "Gostanza da Libbiano", "slug_title": "gostanza-da-libbiano", "date": "2000-08-06", "genre": "Drame / Histoire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/toqXdXWkfSULiUr6z5zlQWIbwWe.jpg", "actors": [], "comments": [], "recommandations_id": []}

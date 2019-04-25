@@ -1,1 +1,0 @@
-{"tmdb_id": 467435, "title": "Before We Were Kings", "original_title": "Before We Were Kings", "slug_title": "before-we-were-kings", "date": "2015-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4IL23crtvy2V7WgjUgyIAIufUKC.jpg", "actors": [], "comments": [], "recommandations_id": []}

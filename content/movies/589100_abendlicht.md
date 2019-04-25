@@ -1,1 +1,0 @@
-{"tmdb_id": 589100, "title": "Abendlicht", "original_title": "Abendlicht", "slug_title": "abendlicht", "date": "1977-12-18", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["K\u00e4the Gold (Resi Silberer)", "Guido Wieland (Otto Pomeisl)", "Rudi Schippel (Oberkellner)"], "comments": [], "recommandations_id": []}

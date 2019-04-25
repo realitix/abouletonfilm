@@ -1,1 +1,0 @@
-{"tmdb_id": 379109, "title": "Children of Rome Open City", "original_title": "Children of Rome Open City", "slug_title": "children-of-rome-open-city", "date": "2005-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

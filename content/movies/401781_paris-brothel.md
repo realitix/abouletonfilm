@@ -1,1 +1,0 @@
-{"tmdb_id": 401781, "title": "Paris Brothel", "original_title": "Paris Brothel", "slug_title": "paris-brothel", "date": "2003-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

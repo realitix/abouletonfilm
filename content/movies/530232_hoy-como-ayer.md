@@ -1,1 +1,0 @@
-{"tmdb_id": 530232, "title": "Hoy como ayer", "original_title": "Hoy como ayer", "slug_title": "hoy-como-ayer", "date": "2011-09-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pORgK9jJmR4eMsHGbCVbTDMPGKx.jpg", "actors": ["Juan Carlos Godoy ()"], "comments": [], "recommandations_id": []}

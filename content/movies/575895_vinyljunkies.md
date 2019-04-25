@@ -1,1 +1,0 @@
-{"tmdb_id": 575895, "title": "Vinyljunkies", "original_title": "Vinyljunkies", "slug_title": "vinyljunkies", "date": "2019-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Ix7e8jLK0f63IedwTOMuIYXUHa.jpg", "actors": [], "comments": [], "recommandations_id": []}

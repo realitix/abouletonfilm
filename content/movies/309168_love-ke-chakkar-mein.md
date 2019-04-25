@@ -1,1 +1,0 @@
-{"tmdb_id": 309168, "title": "Love Ke Chakkar Mein", "original_title": "Love Ke Chakkar Mein", "slug_title": "love-ke-chakkar-mein", "date": "2006-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

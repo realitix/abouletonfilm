@@ -1,1 +1,1 @@
-{"tmdb_id": 318786, "title": "Thattakam", "original_title": "Thattakam", "slug_title": "thattakam", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 318786, "title": "Thattakam", "original_title": "Thattakam", "slug_title": "thattakam", "date": "1998-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood film from Remesh Das", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

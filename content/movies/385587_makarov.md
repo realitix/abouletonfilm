@@ -1,1 +1,0 @@
-{"tmdb_id": 385587, "title": "Makarov", "original_title": "\u041c\u0430\u043a\u0430\u0440\u043e\u0432", "slug_title": "makarov", "date": "1993-02-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2U4ZcNc3x0BuZrjVKK09oP6cPn0.jpg", "actors": [], "comments": [], "recommandations_id": []}

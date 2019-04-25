@@ -1,1 +1,0 @@
-{"tmdb_id": 584700, "title": "Ken Davis Live: Is It Just Me?", "original_title": "Ken Davis Live: Is It Just Me?", "slug_title": "ken-davis-live-is-it-just-me", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1bDKd8y7Odg7Nfvf3EGA5uCN30W.jpg", "actors": [], "comments": [], "recommandations_id": []}

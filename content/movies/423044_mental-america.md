@@ -1,1 +1,0 @@
-{"tmdb_id": 423044, "title": "Mental America", "original_title": "Mental America", "slug_title": "mental-america", "date": "2014-01-19", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hYgCxG5bu2ImgWsflcPtFohcjCw.jpg", "actors": ["Dominique Fishback (America)"], "comments": [], "recommandations_id": []}

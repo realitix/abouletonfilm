@@ -1,1 +1,0 @@
-{"tmdb_id": 425446, "title": "Naval Compression", "original_title": "Naval Compression", "slug_title": "naval-compression", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yIFh9mHKxtCpi0uKJBqT7VzXeyD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 498126, "title": "Summer of No Return", "original_title": "Summer of No Return", "slug_title": "summer-of-no-return", "date": "1988-01-01", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9lC7ckmZ4qgR8DWd3kcNbWdP6kM.jpg", "actors": [], "comments": [], "recommandations_id": []}

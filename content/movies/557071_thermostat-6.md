@@ -1,1 +1,0 @@
-{"tmdb_id": 557071, "title": "Thermostat 6", "original_title": "Thermostat 6", "slug_title": "thermostat-6", "date": "2018-07-03", "genre": "Fantastique / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t4vE5xQ6KItJlwzlhqSr4en2Q5f.jpg", "actors": [], "comments": [], "recommandations_id": []}

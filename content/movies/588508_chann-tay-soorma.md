@@ -1,1 +1,0 @@
-{"tmdb_id": 588508, "title": "Chann Tay Soorma", "original_title": "Chann Tay Soorma", "slug_title": "chann-tay-soorma", "date": "1986-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sultan Rahi ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 238989, "title": "The Quality of Mercy", "original_title": "The Quality of Mercy", "slug_title": "the-quality-of-mercy", "date": "2002-08-01", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jon Avner (John Grant)", "Mary-Louise Parker (Sarah Richardson)"], "comments": [], "recommandations_id": []}

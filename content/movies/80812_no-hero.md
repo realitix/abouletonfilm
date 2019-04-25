@@ -1,1 +1,0 @@
-{"tmdb_id": 80812, "title": "No Hero", "original_title": "No Hero", "slug_title": "no-hero", "date": "1992-06-26", "genre": "Com\u00e9die / Musique / Drame / Romance", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/15vmUc1MCcuMc58ki5NhHs2c3PY.jpg", "actors": ["Steve Hofmeyr (Marcell)"], "comments": [], "recommandations_id": []}

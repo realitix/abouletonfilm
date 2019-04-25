@@ -1,1 +1,0 @@
-{"tmdb_id": 310841, "title": "Smetana: The Moldau", "original_title": "Smetana: The Moldau", "slug_title": "smetana-the-moldau", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

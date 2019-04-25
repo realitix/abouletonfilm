@@ -1,1 +1,0 @@
-{"tmdb_id": 492299, "title": "Rhapsody of a River", "original_title": "Rhapsody of a River", "slug_title": "rhapsody-of-a-river", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

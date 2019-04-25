@@ -1,1 +1,0 @@
-{"tmdb_id": 410589, "title": "Nightlife", "original_title": "Nightlife", "slug_title": "nightlife", "date": "2015-08-09", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fPvKBwCPzsG6I2VP28WpArXv8s3.jpg", "actors": [], "comments": [], "recommandations_id": []}

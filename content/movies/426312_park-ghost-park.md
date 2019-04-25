@@ -1,1 +1,0 @@
-{"tmdb_id": 426312, "title": "Park Ghost Park", "original_title": "Fantasma Cidade Fantasma", "slug_title": "park-ghost-park", "date": "2017-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hBM6q5OmFzakjMElEK4cD0wHLO0.jpg", "actors": [], "comments": [], "recommandations_id": []}

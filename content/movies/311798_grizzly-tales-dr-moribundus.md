@@ -1,1 +1,0 @@
-{"tmdb_id": 311798, "title": "Grizzly Tales: Dr. Moribundus", "original_title": "Grizzly Tales: Dr. Moribundus", "slug_title": "grizzly-tales-dr-moribundus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 523686, "title": "Fugue, A Light\u2019s Travelogue", "original_title": "Fugue, A Light\u2019s Travelogue", "slug_title": "fugue-a-lights-travelogue", "date": "2017-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

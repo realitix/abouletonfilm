@@ -1,1 +1,0 @@
-{"tmdb_id": 406893, "title": "Ry\u00fb ga gotoku - jisshaban", "original_title": "Ry\u00fb ga gotoku - jisshaban", "slug_title": "ryu-ga-gotoku-jisshaban", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

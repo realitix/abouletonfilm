@@ -1,1 +1,0 @@
-{"tmdb_id": 526100, "title": "De Natura", "original_title": "De Natura", "slug_title": "de-natura", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/98sUXTuL0UUCj4eg05yHjYWabir.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 574621, "title": "Child Play - Traffic Jam", "original_title": "Child Play - Traffic Jam", "slug_title": "child-play-traffic-jam", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un film de Jakobois", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

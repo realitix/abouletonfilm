@@ -1,1 +1,0 @@
-{"tmdb_id": 289932, "title": "Curious George: Robot Monkey", "original_title": "Curious George: Robot Monkey", "slug_title": "curious-george-robot-monkey", "date": "2009-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kPWgzQrfE87tXRACC60h9FygagD.jpg", "actors": [], "comments": [], "recommandations_id": []}

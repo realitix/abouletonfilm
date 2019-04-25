@@ -1,1 +1,0 @@
-{"tmdb_id": 589630, "title": "The Dead Shift", "original_title": "The Dead Shift", "slug_title": "the-dead-shift", "date": "2011-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

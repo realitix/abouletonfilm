@@ -1,1 +1,0 @@
-{"tmdb_id": 251041, "title": "Babam Askerde", "original_title": "Babam Askerde", "slug_title": "babam-askerde", "date": "1995-04-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AnR1u0pbwc3ORMXBP7IwKgIF4Iv.jpg", "actors": [], "comments": [], "recommandations_id": []}

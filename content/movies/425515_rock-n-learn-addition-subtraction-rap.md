@@ -1,1 +1,0 @@
-{"tmdb_id": 425515, "title": "Rock 'N Learn: Addition & Subtraction Rap", "original_title": "Rock 'N Learn: Addition & Subtraction Rap", "slug_title": "rock-n-learn-addition-subtraction-rap", "date": "2009-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

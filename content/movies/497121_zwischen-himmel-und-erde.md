@@ -1,1 +1,0 @@
-{"tmdb_id": 497121, "title": "Zwischen Himmel und Erde", "original_title": "Zwischen Himmel und Erde", "slug_title": "zwischen-himmel-und-erde", "date": "1934-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

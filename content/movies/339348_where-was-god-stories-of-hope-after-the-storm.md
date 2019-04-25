@@ -1,1 +1,0 @@
-{"tmdb_id": 339348, "title": "Where Was God? Stories of Hope After the Storm", "original_title": "Where Was God? Stories of Hope After the Storm", "slug_title": "where-was-god-stories-of-hope-after-the-storm", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

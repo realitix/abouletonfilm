@@ -1,1 +1,0 @@
-{"tmdb_id": 250488, "title": "Dead Easy", "original_title": "Dead Easy", "slug_title": "dead-easy", "date": "1982-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5OVlF2S0IAE2uobyw8OllZQoiuR.jpg", "actors": [], "comments": [], "recommandations_id": []}

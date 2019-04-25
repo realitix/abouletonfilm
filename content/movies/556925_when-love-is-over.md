@@ -1,1 +1,0 @@
-{"tmdb_id": 556925, "title": "When Love Is Over", "original_title": "Apr\u00e8s l'amour", "slug_title": "when-love-is-over", "date": "1931-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

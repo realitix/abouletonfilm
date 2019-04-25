@@ -1,1 +1,0 @@
-{"tmdb_id": 38747, "title": "Full Battle Rattle", "original_title": "Full Battle Rattle", "slug_title": "full-battle-rattle", "date": "2008-02-09", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h77bcOca9h1CSHJ8iOguEgnOpRH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 532763, "title": "Otto Muehl's Manopsychotic Ballet", "original_title": "Otto Muehl's Manopsychotic Ballet", "slug_title": "otto-muehl-s-manopsychotic-ballet", "date": "1970-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Otto Muehl ()", "Herbert Stumpfl ()"], "comments": [], "recommandations_id": []}

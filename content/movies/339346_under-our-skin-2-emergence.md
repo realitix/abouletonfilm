@@ -1,1 +1,0 @@
-{"tmdb_id": 339346, "title": "Under Our Skin 2: Emergence", "original_title": "Under Our Skin 2: Emergence", "slug_title": "under-our-skin-2-emergence", "date": "2014-08-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qzN0fjjQkHGYDYm2JIDqoQqAzos.jpg", "actors": [], "comments": [], "recommandations_id": []}

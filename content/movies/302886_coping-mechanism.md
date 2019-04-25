@@ -1,1 +1,0 @@
-{"tmdb_id": 302886, "title": "Coping Mechanism", "original_title": "Coping Mechanism", "slug_title": "coping-mechanism", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

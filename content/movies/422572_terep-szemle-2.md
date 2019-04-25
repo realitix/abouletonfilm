@@ -1,1 +1,0 @@
-{"tmdb_id": 422572, "title": "(Terep)Szemle 2.", "original_title": "(Terep)Szemle 2.", "slug_title": "terep-szemle-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barnab\u00e1s T\u00f3th (Director)", "Bal\u00e1zs Simonyi (Director of Photography)"], "comments": [], "recommandations_id": []}

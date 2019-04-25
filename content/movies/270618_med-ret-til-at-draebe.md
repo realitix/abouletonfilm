@@ -1,1 +1,0 @@
-{"tmdb_id": 270618, "title": "Med ret til at dr\u00e6be", "original_title": "Med ret til at dr\u00e6be", "slug_title": "med-ret-til-at-draebe", "date": "2003-10-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6TDhDEFAhVDbHMYEZYFAfqiuibc.jpg", "actors": [], "comments": [], "recommandations_id": []}

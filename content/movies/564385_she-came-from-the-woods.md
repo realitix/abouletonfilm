@@ -1,1 +1,0 @@
-{"tmdb_id": 564385, "title": "She Came From The Woods", "original_title": "She Came From The Woods", "slug_title": "she-came-from-the-woods", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

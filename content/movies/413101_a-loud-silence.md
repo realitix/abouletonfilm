@@ -1,1 +1,0 @@
-{"tmdb_id": 413101, "title": "A Loud Silence", "original_title": "Bisingnya Sepi", "slug_title": "a-loud-silence", "date": "2015-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A1mpTXu51Ly8utoEZnSdAERAxb4.jpg", "actors": ["Imelda Andriany (The Girl)"], "comments": [], "recommandations_id": []}

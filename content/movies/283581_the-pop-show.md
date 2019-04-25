@@ -1,1 +1,0 @@
-{"tmdb_id": 283581, "title": "The Pop Show", "original_title": "The Pop Show", "slug_title": "the-pop-show", "date": "1966-01-01", "genre": "Musique / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sHx5d6Si4iN2rwrK05wUeE6bG1a.jpg", "actors": ["Gloria Steinem ()"], "comments": [], "recommandations_id": []}

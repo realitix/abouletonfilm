@@ -1,1 +1,0 @@
-{"tmdb_id": 524916, "title": "The Doll Merchant", "original_title": "The Doll Merchant", "slug_title": "the-doll-merchant", "date": "", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pblMGnq03VcaysYSK3hZBf9HBcm.jpg", "actors": [], "comments": [], "recommandations_id": []}

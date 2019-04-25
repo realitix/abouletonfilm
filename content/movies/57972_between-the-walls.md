@@ -1,1 +1,0 @@
-{"tmdb_id": 57972, "title": "Between The Walls", "original_title": "Between The Walls", "slug_title": "between-the-walls", "date": "2006-08-06", "genre": "Drame / Myst\u00e8re", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1SEcCrrVbdygXrfqJ7HiCBcRcYi.jpg", "actors": [], "comments": [], "recommandations_id": []}

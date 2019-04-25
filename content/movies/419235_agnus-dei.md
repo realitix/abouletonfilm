@@ -1,1 +1,0 @@
-{"tmdb_id": 419235, "title": "Agnus Dei", "original_title": "Agnus Dei", "slug_title": "agnus-dei", "date": "2012-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

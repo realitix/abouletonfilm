@@ -1,1 +1,0 @@
-{"tmdb_id": 192810, "title": "The Peter Cooper Story", "original_title": "The Peter Cooper Story", "slug_title": "the-peter-cooper-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

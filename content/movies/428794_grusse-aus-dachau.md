@@ -1,1 +1,0 @@
-{"tmdb_id": 428794, "title": "Gr\u00fc\u00dfe aus Dachau", "original_title": "Gr\u00fc\u00dfe aus Dachau", "slug_title": "grusse-aus-dachau", "date": "2004-01-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uebmrRUrWYJa4IMQID1TKmpwwMP.jpg", "actors": [], "comments": [], "recommandations_id": []}

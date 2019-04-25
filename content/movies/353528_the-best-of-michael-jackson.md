@@ -1,1 +1,0 @@
-{"tmdb_id": 353528, "title": "The Best of Michael Jackson", "original_title": "The Best of Michael Jackson", "slug_title": "the-best-of-michael-jackson", "date": "2016-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j5KfTGDMHQ9YjSFaK7qS0QXZY4o.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 239395, "title": "Workers Leaving the Factory", "original_title": "Arbeiter verlassen die Fabrik", "slug_title": "workers-leaving-the-factory", "date": "1995-01-01", "genre": "", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/anVqopgEXzVYZO8dPB9LDOZ5bjh.jpg", "actors": [], "comments": [], "recommandations_id": [130015]}

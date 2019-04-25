@@ -1,1 +1,0 @@
-{"tmdb_id": 234969, "title": "A Waggily Tale", "original_title": "A Waggily Tale", "slug_title": "a-waggily-tale", "date": "1958-04-25", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6gKTlbgQsqFrAaHgP7UxJvujEFR.jpg", "actors": [], "comments": [], "recommandations_id": []}

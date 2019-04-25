@@ -1,1 +1,0 @@
-{"tmdb_id": 200616, "title": "Puzzled Pals", "original_title": "Puzzled Pals", "slug_title": "puzzled-pals", "date": "1933-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tKLw0In5qnbvl1jtqEb7swi3k0q.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 572431, "title": "Kitty Baby", "original_title": "Kitty Baby", "slug_title": "kitty-baby", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Donna Rooney (Darlene Henderson)"], "comments": [], "recommandations_id": []}

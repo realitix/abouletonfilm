@@ -1,1 +1,0 @@
-{"tmdb_id": 120435, "title": "NKOTBSB: Live at the O2 Arena", "original_title": "NKOTBSB: Live at the O2 Arena", "slug_title": "nkotbsb-live-at-the-o2-arena", "date": "2012-04-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tpauifYqYVuzJqMmPSZVxV16PaR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 555539, "title": "Darkness", "original_title": "Tamas", "slug_title": "darkness", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6EIi9Mxw7h3iD02Fgmhq7QiGzWn.jpg", "actors": ["Om Puri ()", "Bhisham Sahni ()", "Deepa Sahi ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 469909, "title": "That Kid", "original_title": "Ce gamin, l\u00e0", "slug_title": "that-kid", "date": "1976-01-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yPQ3pFUy81AnwoXTLYOkv52fF0w.jpg", "actors": ["Fernand Deligny ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 188020, "title": "Skeleton Crew: Group Effect", "original_title": "Skeleton Crew: Group Effect", "slug_title": "skeleton-crew-group-effect", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1VVfQpQhZuQOevZtTb0XNVOLdvM.jpg", "actors": [], "comments": [], "recommandations_id": []}

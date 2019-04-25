@@ -1,1 +1,0 @@
-{"tmdb_id": 581022, "title": "Tai Chi & Qi Gong Basics", "original_title": "Tai Chi & Qi Gong Basics", "slug_title": "tai-chi-qi-gong-basics", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s8o3JduhWNgra4btGiHbvlfTR0S.jpg", "actors": [], "comments": [], "recommandations_id": []}

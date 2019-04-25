@@ -1,1 +1,0 @@
-{"tmdb_id": 535584, "title": "Kiki Meets the Vampires", "original_title": "Kiki Meets the Vampires", "slug_title": "kiki-meets-the-vampires", "date": "2014-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 204956, "title": "Survival Prayer", "original_title": "Survival Prayer", "slug_title": "survival-prayer", "date": "2013-04-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kPeFIChk8T4V7wqWsNg9HPT0k98.jpg", "actors": [], "comments": [], "recommandations_id": []}

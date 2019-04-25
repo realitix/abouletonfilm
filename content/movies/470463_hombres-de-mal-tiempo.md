@@ -1,1 +1,0 @@
-{"tmdb_id": 470463, "title": "Hombres de Mal Tiempo", "original_title": "Hombres de Mal Tiempo", "slug_title": "hombres-de-mal-tiempo", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

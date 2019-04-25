@@ -1,1 +1,0 @@
-{"tmdb_id": 485492, "title": "De Hoeder", "original_title": "De Hoeder", "slug_title": "de-hoeder", "date": "2015-05-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

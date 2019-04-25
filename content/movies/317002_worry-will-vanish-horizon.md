@@ -1,1 +1,0 @@
-{"tmdb_id": 317002, "title": "Worry Will Vanish Horizon", "original_title": "Worry Will Vanish Horizon", "slug_title": "worry-will-vanish-horizon", "date": "2014-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6SNq2GmUIyaiYFJxRj0rAKj3ovt.jpg", "actors": [], "comments": [], "recommandations_id": []}

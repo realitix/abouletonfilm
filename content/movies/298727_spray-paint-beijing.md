@@ -1,1 +1,0 @@
-{"tmdb_id": 298727, "title": "Spray Paint Beijing.", "original_title": "Spray Paint Beijing.", "slug_title": "spray-paint-beijing", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1fYlBjb6joOg65hJb8qOY2vl8pg.jpg", "actors": [], "comments": [], "recommandations_id": []}

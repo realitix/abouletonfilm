@@ -1,1 +1,0 @@
-{"tmdb_id": 320707, "title": "Freaking Loud With Brennan Heart", "original_title": "Freaking Loud With Brennan Heart", "slug_title": "freaking-loud-with-brennan-heart", "date": "2014-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

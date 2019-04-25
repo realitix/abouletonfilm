@@ -1,1 +1,0 @@
-{"tmdb_id": 82388, "title": "Magdane Show", "original_title": "Magdane Show", "slug_title": "magdane-show", "date": "2001-10-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/swzt1rMK1Soo8vP4uU4jL24ErqM.jpg", "actors": ["Roland Magdane (Roland Magdane)"], "comments": [], "recommandations_id": []}

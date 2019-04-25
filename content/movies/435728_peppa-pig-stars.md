@@ -1,1 +1,0 @@
-{"tmdb_id": 435728, "title": "Peppa Pig: Stars", "original_title": "Peppa Pig: Stars", "slug_title": "peppa-pig-stars", "date": "2009-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vUee4U00uEXY7PuLOM11IKjugGu.jpg", "actors": [], "comments": [], "recommandations_id": []}

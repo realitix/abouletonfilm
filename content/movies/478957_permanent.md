@@ -1,1 +1,0 @@
-{"tmdb_id": 478957, "title": "Permanent", "original_title": "Permanent", "slug_title": "permanent", "date": "2014-07-12", "genre": "Action / Crime / Drame / Myst\u00e8re / Thriller", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4WFOByhQ3y7bAfwE8Y21rIJLIh3.jpg", "actors": [], "comments": [], "recommandations_id": []}

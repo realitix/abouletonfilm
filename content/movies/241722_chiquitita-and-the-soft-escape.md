@@ -1,1 +1,0 @@
-{"tmdb_id": 241722, "title": "Chiquitita and the Soft Escape", "original_title": "Chiquitita and the Soft Escape", "slug_title": "chiquitita-and-the-soft-escape", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ogi6uy0clE8suHfoaYzvbrsUxoN.jpg", "actors": [], "comments": [], "recommandations_id": []}

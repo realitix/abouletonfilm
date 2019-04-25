@@ -1,1 +1,0 @@
-{"tmdb_id": 295185, "title": "Yesterday Is Still Gone", "original_title": "Yesterday Is Still Gone", "slug_title": "yesterday-is-still-gone", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

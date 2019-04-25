@@ -1,1 +1,0 @@
-{"tmdb_id": 426209, "title": "Second Chance Dogs", "original_title": "Second Chance Dogs", "slug_title": "second-chance-dogs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

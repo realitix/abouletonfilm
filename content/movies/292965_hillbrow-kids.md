@@ -1,1 +1,0 @@
-{"tmdb_id": 292965, "title": "Hillbrow Kids", "original_title": "Hillbrow Kids", "slug_title": "hillbrow-kids", "date": "2000-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

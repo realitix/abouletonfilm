@@ -1,1 +1,0 @@
-{"tmdb_id": 593100, "title": "Ink of Yam", "original_title": "Ink of Yam", "slug_title": "ink-of-yam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

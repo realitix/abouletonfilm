@@ -1,1 +1,0 @@
-{"tmdb_id": 270873, "title": "Spraymasters", "original_title": "Spraymasters", "slug_title": "spraymasters", "date": "2008-02-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Futura 2000 (Himself)", "Lady Pink (Herself)", "'Lee' George Quinones (Himself)", "ZEPHYR (Himself)"], "comments": [], "recommandations_id": []}

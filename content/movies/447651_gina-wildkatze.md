@@ -1,1 +1,0 @@
-{"tmdb_id": 447651, "title": "Gina Wildkatze", "original_title": "Gina Wildkatze", "slug_title": "gina-wildkatze", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gina Arnold (Gina)", "Peter Andres (Peter Lindler)"], "comments": [], "recommandations_id": []}

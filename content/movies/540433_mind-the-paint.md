@@ -1,1 +1,0 @@
-{"tmdb_id": 540433, "title": "Mind the Paint", "original_title": "Prenez garde \u00e0 la peinture", "slug_title": "mind-the-paint", "date": "1933-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rnbO0iAUahPnkW9i8xZxWEnW3uY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 349752, "title": "\ucf54\ub9ac\uc548 \ucee4\ub125\uc158", "original_title": "\ucf54\ub9ac\uc548 \ucee4\ub125\uc158", "slug_title": "korian-keonegsyeon", "date": "1990-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

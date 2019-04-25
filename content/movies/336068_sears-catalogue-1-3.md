@@ -1,1 +1,0 @@
-{"tmdb_id": 336068, "title": "Sears Catalogue 1-3", "original_title": "Sears Catalogue 1-3", "slug_title": "sears-catalogue-1-3", "date": "1966-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bxTG5e1qP1c9etmJG733ddlqe4o.jpg", "actors": [], "comments": [], "recommandations_id": []}

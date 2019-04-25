@@ -1,1 +1,0 @@
-{"tmdb_id": 312889, "title": "My Mother, a War and Me", "original_title": "Meine Mutter, ein Krieg und Ich", "slug_title": "my-mother-a-war-and-me", "date": "2014-02-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6309RxwuNMOiGFgjX7TM3PF2JYr.jpg", "actors": [], "comments": [], "recommandations_id": []}

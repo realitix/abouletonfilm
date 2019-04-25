@@ -1,1 +1,0 @@
-{"tmdb_id": 404163, "title": "Finding Kim", "original_title": "Finding Kim", "slug_title": "finding-kim", "date": "2016-05-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hgkhTE36aCjpC6GrAPi5nX4vT8F.jpg", "actors": [], "comments": [], "recommandations_id": []}

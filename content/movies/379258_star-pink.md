@@ -1,1 +1,0 @@
-{"tmdb_id": 379258, "title": "Star Pink", "original_title": "Star Pink", "slug_title": "star-pink", "date": "1978-12-23", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qoAsnye0twhaRUG5Wge1YTcQAE9.jpg", "actors": [], "comments": [], "recommandations_id": []}

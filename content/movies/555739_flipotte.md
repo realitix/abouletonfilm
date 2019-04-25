@@ -1,1 +1,0 @@
-{"tmdb_id": 555739, "title": "Flipotte", "original_title": "Flipotte", "slug_title": "flipotte", "date": "1920-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

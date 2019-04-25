@@ -1,1 +1,0 @@
-{"tmdb_id": 220713, "title": "Trobriand Cricket", "original_title": "Trobriand Cricket", "slug_title": "trobriand-cricket", "date": "1975-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vVqEyiv3HHoN3vESKvorTnlO1oW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 329455, "title": "The Lovers' Domain", "original_title": "Diar-e asheghan", "slug_title": "the-lovers-domain", "date": "1983-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mohsen Sadeghi ()", "Parviz Parastui ()", "Ghodrat Latifi ()"], "comments": [], "recommandations_id": []}

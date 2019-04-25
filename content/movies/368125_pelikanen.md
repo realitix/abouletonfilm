@@ -1,1 +1,1 @@
-{"tmdb_id": 368125, "title": "Pelikanen", "original_title": "Pelikanen", "slug_title": "pelikanen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 368125, "title": "Pelikanen", "original_title": "Pelikanen", "slug_title": "pelikanen", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Swedish Movie based on August Strindberg", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

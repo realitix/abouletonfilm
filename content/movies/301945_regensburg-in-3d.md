@@ -1,1 +1,0 @@
-{"tmdb_id": 301945, "title": "Regensburg in 3D", "original_title": "Regensburg in 3D", "slug_title": "regensburg-in-3d", "date": "2012-08-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fYBPdeaZwrUfwDvcu8b0sWAhXUx.jpg", "actors": [], "comments": [], "recommandations_id": []}

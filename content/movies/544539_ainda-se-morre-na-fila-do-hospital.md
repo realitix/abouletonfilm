@@ -1,1 +1,0 @@
-{"tmdb_id": 544539, "title": "Ainda se Morre na Fila do Hospital", "original_title": "Ainda se Morre na Fila do Hospital", "slug_title": "ainda-se-morre-na-fila-do-hospital", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

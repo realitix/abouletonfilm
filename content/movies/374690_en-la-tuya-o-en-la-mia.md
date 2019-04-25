@@ -1,1 +1,0 @@
-{"tmdb_id": 374690, "title": "En la tuya o en la mia", "original_title": "En la tuya o en la mia", "slug_title": "en-la-tuya-o-en-la-mia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

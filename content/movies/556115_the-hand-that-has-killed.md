@@ -1,1 +1,0 @@
-{"tmdb_id": 556115, "title": "The Hand That Has Killed", "original_title": "La main qui a tu\u00e9", "slug_title": "the-hand-that-has-killed", "date": "1924-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 350818, "title": "Looking for Lowry", "original_title": "Looking for Lowry", "slug_title": "looking-for-lowry", "date": "2011-04-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ian McKellen (Himself)", "Noel Gallagher (Himself)"], "comments": [], "recommandations_id": []}

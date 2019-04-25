@@ -1,1 +1,0 @@
-{"tmdb_id": 232302, "title": "Society Ballooning, Pittsfield, Mass.", "original_title": "Society Ballooning, Pittsfield, Mass.", "slug_title": "society-ballooning-pittsfield-mass", "date": "1906-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

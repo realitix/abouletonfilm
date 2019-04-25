@@ -1,1 +1,0 @@
-{"tmdb_id": 572968, "title": "Quale verit\u00e0 per Piazza Alimonda", "original_title": "Quale verit\u00e0 per Piazza Alimonda", "slug_title": "quale-verita-per-piazza-alimonda", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

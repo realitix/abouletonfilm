@@ -1,1 +1,0 @@
-{"tmdb_id": 581057, "title": "The Morphology of Desire", "original_title": "The Morphology of Desire", "slug_title": "the-morphology-of-desire", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

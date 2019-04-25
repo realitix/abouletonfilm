@@ -1,1 +1,0 @@
-{"tmdb_id": 502501, "title": "Les oeufs \u00e0 la coque", "original_title": "Les oeufs \u00e0 la coque", "slug_title": "les-oeufs-a-la-coque", "date": "1991-02-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9PgkmeS4Lj6WUG2LphxCeT6NCf6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 320838, "title": "D\u00e9fil\u00e9 des bersagliers", "original_title": "D\u00e9fil\u00e9 des bersagliers", "slug_title": "defile-des-bersagliers", "date": "1899-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

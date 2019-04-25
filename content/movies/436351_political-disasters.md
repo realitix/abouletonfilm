@@ -1,1 +1,0 @@
-{"tmdb_id": 436351, "title": "Political Disasters", "original_title": "Political Disasters", "slug_title": "political-disasters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

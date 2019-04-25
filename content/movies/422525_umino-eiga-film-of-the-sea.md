@@ -1,1 +1,0 @@
-{"tmdb_id": 422525, "title": "Umino-Eiga (Film of the Sea)", "original_title": "Umino-Eiga (Film of the Sea)", "slug_title": "umino-eiga-film-of-the-sea", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jBVt3j1fO1Q5aeoLrVoVAdZXWED.jpg", "actors": [], "comments": [], "recommandations_id": []}

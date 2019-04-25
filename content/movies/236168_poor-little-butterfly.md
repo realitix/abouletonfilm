@@ -1,1 +1,0 @@
-{"tmdb_id": 236168, "title": "Poor Little Butterfly", "original_title": "Poor Little Butterfly", "slug_title": "poor-little-butterfly", "date": "1938-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

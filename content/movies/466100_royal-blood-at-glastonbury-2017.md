@@ -1,1 +1,0 @@
-{"tmdb_id": 466100, "title": "Royal Blood at Glastonbury 2017", "original_title": "Royal Blood at Glastonbury 2017", "slug_title": "royal-blood-at-glastonbury-2017", "date": "2017-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

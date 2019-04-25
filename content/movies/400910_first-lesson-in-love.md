@@ -1,1 +1,0 @@
-{"tmdb_id": 400910, "title": "First Lesson in Love", "original_title": "First Lesson in Love", "slug_title": "first-lesson-in-love", "date": "2012-01-01", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3SNKVw85bjEGzkGfVhQATxMJsyV.jpg", "actors": [], "comments": [], "recommandations_id": []}

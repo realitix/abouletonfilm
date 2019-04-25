@@ -1,1 +1,0 @@
-{"tmdb_id": 517504, "title": "Ave Maria de Schubert", "original_title": "Ave Maria de Schubert", "slug_title": "ave-maria-de-schubert", "date": "1935-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elizabeth Schumann (Singer)"], "comments": [], "recommandations_id": []}

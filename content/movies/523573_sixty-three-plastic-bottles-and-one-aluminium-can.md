@@ -1,1 +1,0 @@
-{"tmdb_id": 523573, "title": "Sixty Three Plastic Bottles and One Aluminium Can", "original_title": "Sixty Three Plastic Bottles and One Aluminium Can", "slug_title": "sixty-three-plastic-bottles-and-one-aluminium-can", "date": "2018-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

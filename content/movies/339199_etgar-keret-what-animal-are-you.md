@@ -1,1 +1,0 @@
-{"tmdb_id": 339199, "title": "Etgar Keret: What Animal Are You?", "original_title": "Etgar Keret: What Animal Are You?", "slug_title": "etgar-keret-what-animal-are-you", "date": "2013-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

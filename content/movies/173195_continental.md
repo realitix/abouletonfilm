@@ -1,1 +1,0 @@
-{"tmdb_id": 173195, "title": "Continental", "original_title": "Continental", "slug_title": "continental", "date": "2013-03-10", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mXHSz6a1BUXZpD6LFMb0T9Nnxdj.jpg", "actors": [], "comments": [], "recommandations_id": []}

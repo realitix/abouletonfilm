@@ -1,1 +1,0 @@
-{"tmdb_id": 467322, "title": "Death of the Megabeasts", "original_title": "Death of the Megabeasts", "slug_title": "death-of-the-megabeasts", "date": "2009-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ufqwQwCLsdBp0kkYnf3KF8YTas.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 195149, "title": "Place du Pont", "original_title": "Place du Pont", "slug_title": "place-du-pont", "date": "1897-05-20", "genre": "Documentaire", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sOpYE3Tw10qaaDoDmejv60coH2b.jpg", "actors": [], "comments": [], "recommandations_id": [194614, 190567, 190570, 194569]}

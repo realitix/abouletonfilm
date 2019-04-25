@@ -1,1 +1,0 @@
-{"tmdb_id": 395569, "title": "I Saw Jesus in a Tortilla", "original_title": "I Saw Jesus in a Tortilla", "slug_title": "i-saw-jesus-in-a-tortilla", "date": "1982-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

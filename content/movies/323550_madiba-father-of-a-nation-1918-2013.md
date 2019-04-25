@@ -1,1 +1,0 @@
-{"tmdb_id": 323550, "title": "Madiba \"Father of a Nation 1918-2013\"", "original_title": "Madiba \"Father of a Nation 1918-2013\"", "slug_title": "madiba-father-of-a-nation-1918-2013", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

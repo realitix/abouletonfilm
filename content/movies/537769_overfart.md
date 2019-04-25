@@ -1,1 +1,0 @@
-{"tmdb_id": 537769, "title": "Overfart", "original_title": "Overfart", "slug_title": "overfart", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 482586, "title": "Lighting Dindin", "original_title": "\u87a2\u706b\u5947\u5175", "slug_title": "lighting-dindin", "date": "2017-10-13", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sphPsqLJwXXsVkzpTfNBt4bMsGi.jpg", "actors": [], "comments": [], "recommandations_id": []}

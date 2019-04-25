@@ -1,1 +1,0 @@
-{"tmdb_id": 537547, "title": "The Black Mambas", "original_title": "The Black Mambas", "slug_title": "the-black-mambas", "date": "2018-04-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g5Nu4HDn4s1VVbIaWaDnd8T7hIx.jpg", "actors": [], "comments": [], "recommandations_id": []}

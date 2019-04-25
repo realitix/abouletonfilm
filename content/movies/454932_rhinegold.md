@@ -1,1 +1,0 @@
-{"tmdb_id": 454932, "title": "Rhinegold", "original_title": "Rhinegold", "slug_title": "rhinegold", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oNWiFtCbS2TghvNKxITbrI6Blat.jpg", "actors": [], "comments": [], "recommandations_id": []}

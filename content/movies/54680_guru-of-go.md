@@ -1,1 +1,0 @@
-{"tmdb_id": 54680, "title": "Guru of Go", "original_title": "Guru of Go", "slug_title": "guru-of-go", "date": "2010-04-03", "genre": "Documentaire", "score": "7.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sml7DtZ8wjIvv1V7Y3odVYi8NmZ.jpg", "actors": [], "comments": [], "recommandations_id": [54688, 54739, 54694, 54735]}

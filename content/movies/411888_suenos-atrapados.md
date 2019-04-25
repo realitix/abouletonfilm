@@ -1,1 +1,0 @@
-{"tmdb_id": 411888, "title": "Sue\u00f1os atrapados", "original_title": "Sue\u00f1os atrapados", "slug_title": "suenos-atrapados", "date": "1994-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cristina Soler (Narrator)"], "comments": [], "recommandations_id": []}

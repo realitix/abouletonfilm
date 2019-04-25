@@ -1,1 +1,0 @@
-{"tmdb_id": 396596, "title": "PHILOPHOBIA", "original_title": "PHILOPHOBIA", "slug_title": "philophobia", "date": "", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/btGfPi3Bid2dsrnaCWj1ycpzOI4.jpg", "actors": ["Emily Song (Lead)"], "comments": [], "recommandations_id": []}

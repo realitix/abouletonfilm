@@ -1,1 +1,0 @@
-{"tmdb_id": 97927, "title": "Kapanga todoterreno", "original_title": "Kapanga todoterreno", "slug_title": "kapanga-todoterreno", "date": "2009-10-21", "genre": "Musique", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/DNHk0q3QIWEBd3vnAYuI6zeObl.jpg", "actors": [], "comments": [], "recommandations_id": []}

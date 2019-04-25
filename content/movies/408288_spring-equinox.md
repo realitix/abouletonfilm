@@ -1,1 +1,0 @@
-{"tmdb_id": 408288, "title": "Spring Equinox", "original_title": "Spring Equinox", "slug_title": "spring-equinox", "date": "2016-07-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rqxw5IGoZvTucrbTB7W9yk8J0fk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 276265, "title": "Flip Wilson", "original_title": "Flip Wilson", "slug_title": "flip-wilson", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

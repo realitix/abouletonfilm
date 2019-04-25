@@ -1,1 +1,0 @@
-{"tmdb_id": 514734, "title": "General Magic", "original_title": "General Magic", "slug_title": "general-magic", "date": "2018-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uMu2h7EDYlJmYLRJoR8yg7d6YTf.jpg", "actors": [], "comments": [], "recommandations_id": []}

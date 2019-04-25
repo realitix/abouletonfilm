@@ -1,1 +1,0 @@
-{"tmdb_id": 511579, "title": "Monsieur Pug", "original_title": "Monsieur Pug", "slug_title": "monsieur-pug", "date": "2014-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

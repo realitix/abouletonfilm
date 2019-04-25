@@ -1,1 +1,0 @@
-{"tmdb_id": 367644, "title": "Children of Africa", "original_title": "Children of Africa", "slug_title": "children-of-africa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 297476, "title": "Exile: The Dalai Lama And His People", "original_title": "Exile: The Dalai Lama And His People", "slug_title": "exile-the-dalai-lama-and-his-people", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

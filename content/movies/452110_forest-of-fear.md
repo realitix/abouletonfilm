@@ -1,1 +1,0 @@
-{"tmdb_id": 452110, "title": "Forest of Fear", "original_title": "Forest of Fear", "slug_title": "forest-of-fear", "date": "2011-10-20", "genre": "Animation / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

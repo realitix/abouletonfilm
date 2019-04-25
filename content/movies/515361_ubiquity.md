@@ -1,1 +1,0 @@
-{"tmdb_id": 515361, "title": "Ubiquity", "original_title": "Ubiquity", "slug_title": "ubiquity", "date": "2018-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bEe6W29IDNSAo9g8fEZI45INSat.jpg", "actors": [], "comments": [], "recommandations_id": []}

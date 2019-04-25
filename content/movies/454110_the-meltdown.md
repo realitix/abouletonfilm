@@ -1,1 +1,0 @@
-{"tmdb_id": 454110, "title": "The_Meltdown", "original_title": "The_Meltdown", "slug_title": "the-meltdown", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Connor Kerrigan (Otto)"], "comments": [], "recommandations_id": []}

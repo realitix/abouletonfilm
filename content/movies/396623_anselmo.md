@@ -1,1 +1,0 @@
-{"tmdb_id": 396623, "title": "Anselmo", "original_title": "Anselmo", "slug_title": "anselmo", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cq5e8Fp4dIV3hvmrpWHBseORmi9.jpg", "actors": ["Anselmo Aguascalientes (Himself)"], "comments": [], "recommandations_id": []}

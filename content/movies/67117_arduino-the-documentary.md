@@ -1,1 +1,0 @@
-{"tmdb_id": 67117, "title": "Arduino The Documentary", "original_title": "Arduino The Documentary", "slug_title": "arduino-the-documentary", "date": "2011-01-07", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f203W85Na1Hc8oK3FeIEtN594QO.jpg", "actors": [], "comments": [], "recommandations_id": []}

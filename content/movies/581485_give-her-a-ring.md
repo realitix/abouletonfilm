@@ -1,1 +1,0 @@
-{"tmdb_id": 581485, "title": "Give Her a Ring", "original_title": "Give Her a Ring", "slug_title": "give-her-a-ring", "date": "1934-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wendy Barrie (Karen Svenson)", "Zelma O'Neal (Trude Olsen)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 302461, "title": "Absolutely Modern", "original_title": "Absolutely Modern", "slug_title": "absolutely-modern", "date": "2014-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/56dwgW9ZD5n2HZkoNehreJYFE4P.jpg", "actors": ["John Apicella (Winston Churchill)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 197232, "title": "Cock-a-Doodle-Duel", "original_title": "Cock-a-Doodle-Duel", "slug_title": "cock-a-doodle-duel", "date": "2004-03-30", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

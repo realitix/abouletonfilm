@@ -1,1 +1,0 @@
-{"tmdb_id": 580535, "title": "Rattler", "original_title": "Rattler", "slug_title": "rattler", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

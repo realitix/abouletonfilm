@@ -1,1 +1,0 @@
-{"tmdb_id": 470023, "title": "Construindo Pontes", "original_title": "Construindo Pontes", "slug_title": "construindo-pontes", "date": "2017-08-28", "genre": "Documentaire", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7TheyHx89d72HsO6DQ9nBsyfNKL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 225299, "title": "The Grandfather Paradox", "original_title": "The Grandfather Paradox", "slug_title": "the-grandfather-paradox", "date": "2006-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/YcGIU8rpd9h4lB7WIur7uxxS82.jpg", "actors": [], "comments": [], "recommandations_id": []}

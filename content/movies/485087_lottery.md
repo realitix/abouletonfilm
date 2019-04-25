@@ -1,1 +1,0 @@
-{"tmdb_id": 485087, "title": "Lottery", "original_title": "Chumbak", "slug_title": "lottery", "date": "2017-10-13", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j8SCVcKquejhFea1n1fycaL4PKT.jpg", "actors": [], "comments": [], "recommandations_id": []}

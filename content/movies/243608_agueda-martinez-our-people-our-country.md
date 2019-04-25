@@ -1,1 +1,0 @@
-{"tmdb_id": 243608, "title": "Agueda Martinez: Our People, Our Country", "original_title": "Agueda Martinez: Our People, Our Country", "slug_title": "agueda-martinez-our-people-our-country", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 369765, "title": "Scent of Oak", "original_title": "Roble de Olor", "slug_title": "scent-of-oak", "date": "2004-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mqVPVkrkjsU0i6kXHILwNP5FB5Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

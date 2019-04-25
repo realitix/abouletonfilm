@@ -1,1 +1,0 @@
-{"tmdb_id": 358001, "title": "The Country Look", "original_title": "The Country Look", "slug_title": "the-country-look", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m2TsdvmYigfO6Rfi3fSWznrKuU7.jpg", "actors": [], "comments": [], "recommandations_id": []}

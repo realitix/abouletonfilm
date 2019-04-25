@@ -1,1 +1,0 @@
-{"tmdb_id": 146413, "title": "The Phantom of the Operetta", "original_title": "The Phantom of the Operetta", "slug_title": "the-phantom-of-the-operetta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vySxMhblQlfoyTOIc95yNstoAxh.jpg", "actors": [], "comments": [], "recommandations_id": []}

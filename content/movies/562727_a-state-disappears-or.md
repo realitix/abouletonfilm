@@ -1,1 +1,0 @@
-{"tmdb_id": 562727, "title": "A State Disappears, or...", "original_title": "A State Disappears, or...", "slug_title": "a-state-disappears-or", "date": "1990-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

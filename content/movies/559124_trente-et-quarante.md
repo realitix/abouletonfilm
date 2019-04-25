@@ -1,1 +1,0 @@
-{"tmdb_id": 559124, "title": "Trente et quarante", "original_title": "Trente et quarante", "slug_title": "trente-et-quarante", "date": "1946-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yMjwScLr4mqkjqrW9fmzkwEdwOy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 507308, "title": "Across Two Worlds by Car", "original_title": "Im Auto durch zwei Welten", "slug_title": "across-two-worlds-by-car", "date": "1931-03-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

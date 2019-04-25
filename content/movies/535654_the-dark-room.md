@@ -1,1 +1,0 @@
-{"tmdb_id": 535654, "title": "The Dark Room", "original_title": "The Dark Room", "slug_title": "the-dark-room", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

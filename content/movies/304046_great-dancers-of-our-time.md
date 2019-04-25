@@ -1,1 +1,0 @@
-{"tmdb_id": 304046, "title": "Great Dancers of Our Time", "original_title": "Great Dancers of Our Time", "slug_title": "great-dancers-of-our-time", "date": "2014-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 537563, "title": "Prince's Tale", "original_title": "Prince's Tale", "slug_title": "prince-s-tale", "date": "2018-06-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/triGsA1Ud6fVP3GronhiL2Xb7Lu.jpg", "actors": [], "comments": [], "recommandations_id": []}

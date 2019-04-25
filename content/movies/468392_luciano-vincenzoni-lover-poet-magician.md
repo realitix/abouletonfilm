@@ -1,1 +1,0 @@
-{"tmdb_id": 468392, "title": "Luciano Vincenzoni: Lover, Poet, Magician!", "original_title": "Luciano Vincenzoni: Lover, Poet, Magician!", "slug_title": "luciano-vincenzoni-lover-poet-magician", "date": "2013-07-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

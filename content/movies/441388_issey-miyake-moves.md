@@ -1,1 +1,0 @@
-{"tmdb_id": 441388, "title": "Issey Miyake Moves", "original_title": "Issey Miyake Moves", "slug_title": "issey-miyake-moves", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

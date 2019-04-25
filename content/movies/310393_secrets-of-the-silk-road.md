@@ -1,1 +1,0 @@
-{"tmdb_id": 310393, "title": "Secrets of the Silk Road", "original_title": "Secrets of the Silk Road", "slug_title": "secrets-of-the-silk-road", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

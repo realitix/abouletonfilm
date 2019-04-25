@@ -1,1 +1,0 @@
-{"tmdb_id": 403840, "title": "Bellator 155: Preliminaries", "original_title": "Bellator 155: Preliminaries", "slug_title": "bellator-155-preliminaries", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cLQSXGDG16yepH7Bt7lTWEpoWpJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 415801, "title": "Ghosts and Numbers", "original_title": "Ghosts and Numbers", "slug_title": "ghosts-and-numbers", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5SYiLDf4mlCy3aNkCvFv6xMr983.jpg", "actors": [], "comments": [], "recommandations_id": []}

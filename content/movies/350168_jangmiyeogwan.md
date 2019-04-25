@@ -1,1 +1,0 @@
-{"tmdb_id": 350168, "title": "\uc7a5\ubbf8\uc5ec\uad00", "original_title": "\uc7a5\ubbf8\uc5ec\uad00", "slug_title": "jangmiyeogwan", "date": "1991-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 330792, "title": "Hassan Terro's Escape", "original_title": "L'\u00e9vasion de Hassan Terro", "slug_title": "hassan-terro-s-escape", "date": "1974-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3oGSB821BpPc2D78Y38LSFWLXbj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 529623, "title": "Shapes and Forms", "original_title": "Shapes and Forms", "slug_title": "shapes-and-forms", "date": "1950-02-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kKVlI3ji7J9guGEtUZvDe6HmPXR.jpg", "actors": [], "comments": [], "recommandations_id": []}

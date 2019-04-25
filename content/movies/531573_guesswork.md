@@ -1,1 +1,0 @@
-{"tmdb_id": 531573, "title": "Guesswork", "original_title": "Guesswork", "slug_title": "guesswork", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qZJVmSJCfUpaqnOAJvTyu8qYjJt.jpg", "actors": [], "comments": [], "recommandations_id": []}

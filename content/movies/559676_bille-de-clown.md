@@ -1,1 +1,0 @@
-{"tmdb_id": 559676, "title": "Bille de clown", "original_title": "Bille de clown", "slug_title": "bille-de-clown", "date": "1952-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qiXmZFfVNpgszESni8vcDCGHSIJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

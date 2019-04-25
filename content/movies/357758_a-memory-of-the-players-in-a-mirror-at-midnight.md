@@ -1,1 +1,0 @@
-{"tmdb_id": 357758, "title": "A Memory of the Players in a Mirror at Midnight", "original_title": "A Memory of the Players in a Mirror at Midnight", "slug_title": "a-memory-of-the-players-in-a-mirror-at-midnight", "date": "2001-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

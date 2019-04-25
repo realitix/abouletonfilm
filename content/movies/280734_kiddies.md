@@ -1,1 +1,1 @@
-{"tmdb_id": 280734, "title": "Kiddies", "original_title": "Kiddies", "slug_title": "kiddies", "date": "2005-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 280734, "title": "Kiddies", "original_title": "Kiddies", "slug_title": "kiddies", "date": "2005-07-07", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 195186, "title": "Old Man Drinking a Glass of Beer", "original_title": "Old Man Drinking a Glass of Beer", "slug_title": "old-man-drinking-a-glass-of-beer", "date": "1898-05-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [119959, 119961, 172113, 119977]}

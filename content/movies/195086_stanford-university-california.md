@@ -1,1 +1,0 @@
-{"tmdb_id": 195086, "title": "Stanford University, California", "original_title": "Stanford University, California", "slug_title": "stanford-university-california", "date": "1897-10-20", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

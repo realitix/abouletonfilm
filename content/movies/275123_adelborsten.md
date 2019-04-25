@@ -1,1 +1,0 @@
-{"tmdb_id": 275123, "title": "Adelborsten", "original_title": "Adelborsten", "slug_title": "adelborsten", "date": "2014-06-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ab8AKJ6NfvPFuL5nsePCHReJYCi.jpg", "actors": [], "comments": [], "recommandations_id": []}

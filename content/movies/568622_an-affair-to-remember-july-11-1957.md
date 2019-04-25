@@ -1,1 +1,0 @@
-{"tmdb_id": 568622, "title": "An Affair to Remember July 11, 1957", "original_title": "An Affair to Remember July 11, 1957", "slug_title": "an-affair-to-remember-july-11-1957", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

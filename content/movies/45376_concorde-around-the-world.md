@@ -1,1 +1,0 @@
-{"tmdb_id": 45376, "title": "Concorde: Around The World", "original_title": "Concorde: Around The World", "slug_title": "concorde-around-the-world", "date": "2003-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 343769, "title": "The Blind Trail", "original_title": "The Blind Trail", "slug_title": "the-blind-trail", "date": "1926-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

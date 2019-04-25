@@ -1,1 +1,0 @@
-{"tmdb_id": 231752, "title": "Who Said Chicken?", "original_title": "Who Said Chicken?", "slug_title": "who-said-chicken", "date": "1900-10-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

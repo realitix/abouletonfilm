@@ -1,1 +1,0 @@
-{"tmdb_id": 338196, "title": "On Tour Exploring the Extraordinary Bergensbanen", "original_title": "On Tour Exploring the Extraordinary Bergensbanen", "slug_title": "on-tour-exploring-the-extraordinary-bergensbanen", "date": "2015-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

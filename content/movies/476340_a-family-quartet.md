@@ -1,1 +1,0 @@
-{"tmdb_id": 476340, "title": "A Family Quartet", "original_title": "A Family Quartet", "slug_title": "a-family-quartet", "date": "2017-09-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jPrn8pPsZGIL20bTBN3Tr9JEEa5.jpg", "actors": [], "comments": [], "recommandations_id": []}

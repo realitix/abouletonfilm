@@ -1,1 +1,0 @@
-{"tmdb_id": 312965, "title": "Fluffy McCloud", "original_title": "Fluffy McCloud", "slug_title": "fluffy-mccloud", "date": "2010-06-22", "genre": "Animation", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yzBw6JYS5J3y77RJX6lgQl8Jjhf.jpg", "actors": [], "comments": [], "recommandations_id": []}

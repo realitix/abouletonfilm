@@ -1,1 +1,0 @@
-{"tmdb_id": 236072, "title": "Jitterbug Jive", "original_title": "Jitterbug Jive", "slug_title": "jitterbug-jive", "date": "1950-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

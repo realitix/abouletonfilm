@@ -1,1 +1,0 @@
-{"tmdb_id": 557364, "title": "Hochhaus", "original_title": "Hochhaus", "slug_title": "hochhaus", "date": "1986-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

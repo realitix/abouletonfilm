@@ -1,1 +1,0 @@
-{"tmdb_id": 498806, "title": "The Dead End", "original_title": "The Dead End", "slug_title": "the-dead-end", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ebYczOtw01tFjEfobnuf6ItLDD.jpg", "actors": [], "comments": [], "recommandations_id": []}

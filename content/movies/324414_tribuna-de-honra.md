@@ -1,1 +1,0 @@
-{"tmdb_id": 324414, "title": "Tribuna de Honra", "original_title": "Tribuna de Honra", "slug_title": "tribuna-de-honra", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andrea Neri ()", "Carla Ribas ()", "Laura Ara\u00fajo ()"], "comments": [], "recommandations_id": []}

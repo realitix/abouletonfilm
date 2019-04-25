@@ -1,1 +1,0 @@
-{"tmdb_id": 309382, "title": "Bottleneck Slide Guitar", "original_title": "Bottleneck Slide Guitar", "slug_title": "bottleneck-slide-guitar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

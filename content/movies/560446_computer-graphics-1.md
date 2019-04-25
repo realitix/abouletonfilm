@@ -1,1 +1,0 @@
-{"tmdb_id": 560446, "title": "Computer Graphics #1", "original_title": "Computer Graphics #1", "slug_title": "computer-graphics-1", "date": "1972-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

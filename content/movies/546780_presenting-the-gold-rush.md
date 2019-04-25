@@ -1,1 +1,0 @@
-{"tmdb_id": 546780, "title": "Presenting The Gold Rush", "original_title": "Presenting The Gold Rush", "slug_title": "presenting-the-gold-rush", "date": "2012-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kevin Brownlow ()", "Jeffrey Vance ()"], "comments": [], "recommandations_id": []}

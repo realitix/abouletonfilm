@@ -1,1 +1,0 @@
-{"tmdb_id": 321326, "title": "Hi Hi Puffy AmiYumi: Let's Go!", "original_title": "Hi Hi Puffy AmiYumi: Let's Go!", "slug_title": "hi-hi-puffy-amiyumi-let-s-go", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

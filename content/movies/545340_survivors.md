@@ -1,1 +1,0 @@
-{"tmdb_id": 545340, "title": "Survivors", "original_title": "Survivors", "slug_title": "survivors", "date": "2018-06-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iLUYkuWmwRvARoxPsAGGCFpalLl.jpg", "actors": [], "comments": [], "recommandations_id": []}

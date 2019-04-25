@@ -1,1 +1,0 @@
-{"tmdb_id": 533384, "title": "Fear - The Enemy of Love", "original_title": "La peur tue l'amour", "slug_title": "fear-the-enemy-of-love", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4aqjvIfeBotSnraYTBa0RBpSXo7.jpg", "actors": [], "comments": [], "recommandations_id": []}

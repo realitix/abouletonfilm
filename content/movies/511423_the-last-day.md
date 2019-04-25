@@ -1,1 +1,0 @@
-{"tmdb_id": 511423, "title": "The Last Day", "original_title": "Paskutin\u0117 diena", "slug_title": "the-last-day", "date": "2018-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f2FlmHK2YBQhilfAmRShE0LRBcR.jpg", "actors": [], "comments": [], "recommandations_id": []}

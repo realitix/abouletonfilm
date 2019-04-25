@@ -1,1 +1,0 @@
-{"tmdb_id": 159040, "title": "The Stuart Hall Project", "original_title": "The Stuart Hall Project", "slug_title": "the-stuart-hall-project", "date": "2013-01-18", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A1E6DW1sYJYEVe2FxsmQytRO6pX.jpg", "actors": [], "comments": [], "recommandations_id": []}

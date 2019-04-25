@@ -1,1 +1,0 @@
-{"tmdb_id": 38393, "title": "Barney: Let's Go to the Zoo", "original_title": "Barney: Let's Go to the Zoo", "slug_title": "barney-let-s-go-to-the-zoo", "date": "2003-04-08", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uzoHD8DCBzfQlNbs1y0bQlrCSr7.jpg", "actors": [], "comments": [], "recommandations_id": []}

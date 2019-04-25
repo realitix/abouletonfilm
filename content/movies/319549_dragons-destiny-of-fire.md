@@ -1,1 +1,0 @@
-{"tmdb_id": 319549, "title": "Dragons: Destiny of Fire", "original_title": "Dragones: destino de fuego", "slug_title": "dragons-destiny-of-fire", "date": "2006-07-27", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/984IEIwI5bFvqgvboTqc3Wllw5X.jpg", "actors": [], "comments": [], "recommandations_id": []}

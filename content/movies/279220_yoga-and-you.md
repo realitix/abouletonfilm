@@ -1,1 +1,0 @@
-{"tmdb_id": 279220, "title": "Yoga And You", "original_title": "Yoga And You", "slug_title": "yoga-and-you", "date": "2003-12-29", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leah Bracknell (Herself)"], "comments": [], "recommandations_id": []}

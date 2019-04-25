@@ -1,1 +1,0 @@
-{"tmdb_id": 589173, "title": "Derelict", "original_title": "Derelict", "slug_title": "derelict", "date": "", "genre": "Horreur / Drame / Thriller", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aSwBxGy5fSCURL3A2Ljek4mq2wG.jpg", "actors": [], "comments": [], "recommandations_id": []}

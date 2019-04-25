@@ -1,1 +1,0 @@
-{"tmdb_id": 435194, "title": "Easter 1916: The Enemy Files", "original_title": "Easter 1916: The Enemy Files", "slug_title": "easter-1916-the-enemy-files", "date": "2016-03-31", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 575039, "title": "Tai Chi Bowling", "original_title": "Tai Chi Bowling", "slug_title": "tai-chi-bowling", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

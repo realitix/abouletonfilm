@@ -1,1 +1,0 @@
-{"tmdb_id": 348878, "title": "After the Dance", "original_title": "After the Dance", "slug_title": "after-the-dance", "date": "2015-03-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zDnHNIxp8Mrng0lMHRCzraYTFBn.jpg", "actors": [], "comments": [], "recommandations_id": []}

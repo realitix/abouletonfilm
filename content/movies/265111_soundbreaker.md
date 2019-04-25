@@ -1,1 +1,0 @@
-{"tmdb_id": 265111, "title": "Soundbreaker", "original_title": "Soundbreaker", "slug_title": "soundbreaker", "date": "2012-03-20", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zftByz58JB8B1LZWyG8OKPtvhff.jpg", "actors": [], "comments": [], "recommandations_id": []}

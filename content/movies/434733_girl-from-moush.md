@@ -1,1 +1,0 @@
-{"tmdb_id": 434733, "title": "Girl from Moush", "original_title": "Girl from Moush", "slug_title": "girl-from-moush", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yuS0BhAXZvMbR8Gs0f77Ql3abVE.jpg", "actors": [], "comments": [], "recommandations_id": []}

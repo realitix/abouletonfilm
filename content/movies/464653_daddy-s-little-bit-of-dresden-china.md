@@ -1,1 +1,0 @@
-{"tmdb_id": 464653, "title": "Daddy's Little Bit of Dresden China", "original_title": "Daddy's Little Bit of Dresden China", "slug_title": "daddy-s-little-bit-of-dresden-china", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 189422, "title": "Mode de Paris", "original_title": "Mode de Paris", "slug_title": "mode-de-paris", "date": "1926-04-28", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

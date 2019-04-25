@@ -1,1 +1,0 @@
-{"tmdb_id": 447266, "title": "A Rainbow In Curved Air", "original_title": "A Rainbow In Curved Air", "slug_title": "a-rainbow-in-curved-air", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qdD2I3ga8cYcmt3AA9qicHg64to.jpg", "actors": [], "comments": [], "recommandations_id": []}

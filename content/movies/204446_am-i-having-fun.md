@@ -1,1 +1,0 @@
-{"tmdb_id": 204446, "title": "Am I Having Fun!", "original_title": "Am I Having Fun!", "slug_title": "am-i-having-fun", "date": "1936-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy)", "Arthur Housman (Mr. McGoggle)"], "comments": [], "recommandations_id": []}

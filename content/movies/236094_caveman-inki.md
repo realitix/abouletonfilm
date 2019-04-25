@@ -1,1 +1,0 @@
-{"tmdb_id": 236094, "title": "Caveman Inki", "original_title": "Caveman Inki", "slug_title": "caveman-inki", "date": "1950-11-24", "genre": "Animation", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/goW2a0pgZQzzAZaQpj69KrkS3rX.jpg", "actors": [], "comments": [], "recommandations_id": []}

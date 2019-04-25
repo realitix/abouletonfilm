@@ -1,1 +1,0 @@
-{"tmdb_id": 463754, "title": "Bronx Gothic", "original_title": "Bronx Gothic", "slug_title": "bronx-gothic", "date": "2017-07-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/of4VDTOEm81YHD1bR2FiLE0BED3.jpg", "actors": ["Okwui Okpokwasili (Herself)"], "comments": [], "recommandations_id": []}

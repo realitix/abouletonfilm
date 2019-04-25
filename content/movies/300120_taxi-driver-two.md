@@ -1,1 +1,0 @@
-{"tmdb_id": 300120, "title": "Taxi Driver Two", "original_title": "Taxi Driver Two", "slug_title": "taxi-driver-two", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

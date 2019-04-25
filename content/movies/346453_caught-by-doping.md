@@ -1,1 +1,0 @@
-{"tmdb_id": 346453, "title": "Caught by doping", "original_title": "Atrapados por el dopaje", "slug_title": "caught-by-doping", "date": "2005-04-17", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 436181, "title": "Visiting Virginia", "original_title": "Visiting Virginia", "slug_title": "visiting-virginia", "date": "1947-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bxpMGe6jVrjlftBA2PXwYsHm9mi.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

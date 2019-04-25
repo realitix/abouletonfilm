@@ -1,1 +1,0 @@
-{"tmdb_id": 113279, "title": "Regret to Inform", "original_title": "Regret to Inform", "slug_title": "regret-to-inform", "date": "1999-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jX5KdaB827m3U9YcYcJlyOPl9YA.jpg", "actors": [], "comments": [], "recommandations_id": []}

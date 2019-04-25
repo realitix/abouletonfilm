@@ -1,1 +1,0 @@
-{"tmdb_id": 216678, "title": "Experience Nature 3D", "original_title": "Experience Nature 3D", "slug_title": "experience-nature-3d", "date": "2013-07-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fZ60p5J0ClXmLKlNv48c04rovIl.jpg", "actors": [], "comments": [], "recommandations_id": []}

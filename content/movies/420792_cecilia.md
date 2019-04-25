@@ -1,1 +1,0 @@
-{"tmdb_id": 420792, "title": "Cecilia", "original_title": "Cecilia", "slug_title": "cecilia", "date": "2016-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 354505, "title": "Pictures", "original_title": "Pictures", "slug_title": "pictures", "date": "2002-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 541117, "title": "Waterloo 200: A Battle Remembered", "original_title": "Waterloo 200: A Battle Remembered", "slug_title": "waterloo-200-a-battle-remembered", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

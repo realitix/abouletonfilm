@@ -1,1 +1,0 @@
-{"tmdb_id": 534761, "title": "Frenchies", "original_title": "Frenchies", "slug_title": "frenchies", "date": "2017-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qPr4nesJMVS2i5Ww8nwrjpJVKhl.jpg", "actors": [], "comments": [], "recommandations_id": []}

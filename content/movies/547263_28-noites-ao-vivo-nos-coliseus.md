@@ -1,1 +1,0 @@
-{"tmdb_id": 547263, "title": "28 Noites ao Vivo nos Coliseus", "original_title": "28 Noites ao Vivo nos Coliseus", "slug_title": "28-noites-ao-vivo-nos-coliseus", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Miguel Ara\u00fajo ()", "Ant\u00f3nio Zambujo ()"], "comments": [], "recommandations_id": []}

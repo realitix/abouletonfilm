@@ -1,1 +1,0 @@
-{"tmdb_id": 521943, "title": "Facetten", "original_title": "Facetten", "slug_title": "facetten", "date": "2007-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Patzak (Bogner)", "Alexander Pschill (Phillip)"], "comments": [], "recommandations_id": []}

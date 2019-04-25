@@ -1,1 +1,0 @@
-{"tmdb_id": 550768, "title": "Laura & Vineta", "original_title": "Laura un Vineta", "slug_title": "laura-vineta", "date": "2017-08-08", "genre": "Science-Fiction / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4luXdrFednNKNFFsC144xOaA89K.jpg", "actors": [], "comments": [], "recommandations_id": []}

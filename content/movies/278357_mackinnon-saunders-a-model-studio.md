@@ -1,1 +1,0 @@
-{"tmdb_id": 278357, "title": "Mackinnon & Saunders: A Model Studio", "original_title": "Mackinnon & Saunders: A Model Studio", "slug_title": "mackinnon-saunders-a-model-studio", "date": "2014-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

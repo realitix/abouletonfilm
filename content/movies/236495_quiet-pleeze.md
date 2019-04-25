@@ -1,1 +1,0 @@
-{"tmdb_id": 236495, "title": "Quiet! Pleeze", "original_title": "Quiet! Pleeze", "slug_title": "quiet-pleeze", "date": "1941-02-06", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2bQEpS0yJGoowsXSynTgX7AeyUu.jpg", "actors": ["Jack Mercer (Popeye/Pappy)"], "comments": [], "recommandations_id": []}

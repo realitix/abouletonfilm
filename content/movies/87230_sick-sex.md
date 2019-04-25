@@ -1,1 +1,0 @@
-{"tmdb_id": 87230, "title": "Sick Sex", "original_title": "Sick Sex", "slug_title": "sick-sex", "date": "2008-02-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3H5mGNAcWXGmZT9g44zrNBWSRLd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 364675, "title": "The Fearmakers Collection", "original_title": "The Fearmakers Collection", "slug_title": "the-fearmakers-collection", "date": "2007-05-08", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mjJyBQFtNmw0Y8deF83l0Q7LnsW.jpg", "actors": [], "comments": [], "recommandations_id": []}

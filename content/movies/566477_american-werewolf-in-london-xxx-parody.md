@@ -1,1 +1,0 @@
-{"tmdb_id": 566477, "title": "American Werewolf in London - xxx parody", "original_title": "American Werewolf in London - xxx parody", "slug_title": "american-werewolf-in-london-xxx-parody", "date": "2012-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

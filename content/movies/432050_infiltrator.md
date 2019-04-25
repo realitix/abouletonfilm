@@ -1,1 +1,0 @@
-{"tmdb_id": 432050, "title": "Infiltrator", "original_title": "Infiltrator", "slug_title": "infiltrator", "date": "1987-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xSAlBb1AVoyItbcXASavaS4yV4H.jpg", "actors": ["Scott Bakula (Dr. Sanderson)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 553862, "title": "Life's Musical Minute", "original_title": "Life's Musical Minute", "slug_title": "life-s-musical-minute", "date": "1953-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

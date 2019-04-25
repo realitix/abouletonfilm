@@ -1,1 +1,0 @@
-{"tmdb_id": 508518, "title": "One Way Ticket", "original_title": "One Way Ticket", "slug_title": "one-way-ticket", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

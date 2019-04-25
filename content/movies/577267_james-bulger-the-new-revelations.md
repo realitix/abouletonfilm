@@ -1,1 +1,0 @@
-{"tmdb_id": 577267, "title": "James Bulger: The New Revelations", "original_title": "James Bulger: The New Revelations", "slug_title": "james-bulger-the-new-revelations", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 272760, "title": "Trial at Nuremberg", "original_title": "Trial at Nuremberg", "slug_title": "trial-at-nuremberg", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

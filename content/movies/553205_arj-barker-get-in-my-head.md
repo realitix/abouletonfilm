@@ -1,1 +1,0 @@
-{"tmdb_id": 553205, "title": "Arj Barker: Get In My Head", "original_title": "Arj Barker: Get In My Head", "slug_title": "arj-barker-get-in-my-head", "date": "2017-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7DY1ZpMlEYOUCEA5SH44EeJpGT5.jpg", "actors": [], "comments": [], "recommandations_id": []}

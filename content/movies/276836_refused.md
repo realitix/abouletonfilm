@@ -1,1 +1,0 @@
-{"tmdb_id": 276836, "title": "Refused", "original_title": "Apetaxamin", "slug_title": "refused", "date": "1980-06-15", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v4jUw12DRHsFTZRuvXbX7T70gnJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

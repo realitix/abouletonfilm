@@ -1,1 +1,0 @@
-{"tmdb_id": 435742, "title": "Seeing Double", "original_title": "Seeing Double", "slug_title": "seeing-double", "date": "2014-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vjVn6xhkbJi3OJ53mPRu3tIvUKa.jpg", "actors": [], "comments": [], "recommandations_id": []}

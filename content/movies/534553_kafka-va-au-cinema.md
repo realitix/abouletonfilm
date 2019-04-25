@@ -1,1 +1,0 @@
-{"tmdb_id": 534553, "title": "Kafka va au cinema", "original_title": "Kafka va au cinema", "slug_title": "kafka-va-au-cinema", "date": "2002-06-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vKHrtbU77a5WdUbpjVGe4SyBBEL.jpg", "actors": [], "comments": [], "recommandations_id": []}

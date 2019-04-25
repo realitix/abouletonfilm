@@ -1,1 +1,0 @@
-{"tmdb_id": 337089, "title": "Devil's Rope", "original_title": "La corde du diable", "slug_title": "devil-s-rope", "date": "2014-10-30", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bOUUBpw5T0MRwKpCCKLOtE40kF1.jpg", "actors": [], "comments": [], "recommandations_id": []}

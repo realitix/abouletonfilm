@@ -1,1 +1,0 @@
-{"tmdb_id": 425156, "title": "The Rio 2016 Summer Olympics", "original_title": "The Rio 2016 Summer Olympics", "slug_title": "the-rio-2016-summer-olympics", "date": "", "genre": "", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hDgIByfbX7IwM4EOpawJMkfO0HN.jpg", "actors": [], "comments": [], "recommandations_id": []}

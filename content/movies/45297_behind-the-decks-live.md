@@ -1,1 +1,0 @@
-{"tmdb_id": 45297, "title": "Behind the Decks LIVE", "original_title": "Behind the Decks LIVE", "slug_title": "behind-the-decks-live", "date": "2006-10-17", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

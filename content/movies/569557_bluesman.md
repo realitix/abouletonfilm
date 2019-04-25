@@ -1,1 +1,0 @@
-{"tmdb_id": 569557, "title": "Bluesman", "original_title": "Bluesman", "slug_title": "bluesman", "date": "2018-11-29", "genre": "Musique", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b6uIZcaIiP91MQwzKK1pUlNhsm5.jpg", "actors": ["Kelson Succi ()", "Hilton Cobra ()"], "comments": [], "recommandations_id": []}

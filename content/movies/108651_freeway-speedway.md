@@ -1,1 +1,0 @@
-{"tmdb_id": 108651, "title": "Freeway Speedway", "original_title": "Freeway Speedway", "slug_title": "freeway-speedway", "date": "1988-11-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h5I1Jy6FeJa0P2NMOnHXDTUH1n.jpg", "actors": [], "comments": [], "recommandations_id": []}

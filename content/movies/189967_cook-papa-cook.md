@@ -1,1 +1,0 @@
-{"tmdb_id": 189967, "title": "Cook, Papa, Cook", "original_title": "Cook, Papa, Cook", "slug_title": "cook-papa-cook", "date": "1928-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

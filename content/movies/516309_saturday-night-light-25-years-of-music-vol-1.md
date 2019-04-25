@@ -1,1 +1,0 @@
-{"tmdb_id": 516309, "title": "Saturday Night Light: 25 Years of Music Vol. 1", "original_title": "Saturday Night Light: 25 Years of Music Vol. 1", "slug_title": "saturday-night-light-25-years-of-music-vol-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

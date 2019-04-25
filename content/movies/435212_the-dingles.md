@@ -1,1 +1,0 @@
-{"tmdb_id": 435212, "title": "The Dingles", "original_title": "The Dingles", "slug_title": "the-dingles", "date": "1988-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8SonRh9zGM7ceO21rC1DjsCvL6s.jpg", "actors": ["Emma Levine (Storyteller)"], "comments": [], "recommandations_id": []}

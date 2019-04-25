@@ -1,1 +1,0 @@
-{"tmdb_id": 156280, "title": "Lucky Luke Le Pony Express", "original_title": "Lucky Luke: Ponnyexpressen", "slug_title": "lucky-luke-le-pony-express", "date": "2003-09-11", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4iX7aRvaHYc3jdr6Xt5IzLVx4MU.jpg", "actors": [], "comments": [], "recommandations_id": []}

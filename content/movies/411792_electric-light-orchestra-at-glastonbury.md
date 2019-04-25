@@ -1,1 +1,0 @@
-{"tmdb_id": 411792, "title": "Electric Light Orchestra at Glastonbury", "original_title": "Electric Light Orchestra at Glastonbury", "slug_title": "electric-light-orchestra-at-glastonbury", "date": "2016-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

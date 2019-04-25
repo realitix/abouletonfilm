@@ -1,1 +1,0 @@
-{"tmdb_id": 550407, "title": "D\u00e9penses Fant\u00f4mes", "original_title": "D\u00e9penses Fant\u00f4mes", "slug_title": "depenses-fantomes", "date": "2017-01-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

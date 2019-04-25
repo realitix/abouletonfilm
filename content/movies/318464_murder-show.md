@@ -1,1 +1,0 @@
-{"tmdb_id": 318464, "title": "Murder Show", "original_title": "Murder Show", "slug_title": "murder-show", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

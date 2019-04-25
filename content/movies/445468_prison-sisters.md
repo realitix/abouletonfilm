@@ -1,1 +1,0 @@
-{"tmdb_id": 445468, "title": "Prison sisters", "original_title": "Systrar bakom galler", "slug_title": "prison-sisters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

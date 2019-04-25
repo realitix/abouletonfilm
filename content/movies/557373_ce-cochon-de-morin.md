@@ -1,1 +1,0 @@
-{"tmdb_id": 557373, "title": "Ce cochon de Morin", "original_title": "Ce cochon de Morin", "slug_title": "ce-cochon-de-morin", "date": "1932-12-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

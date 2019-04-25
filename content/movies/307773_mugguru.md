@@ -1,1 +1,0 @@
-{"tmdb_id": 307773, "title": "Mugguru", "original_title": "Mugguru", "slug_title": "mugguru", "date": "2011-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bVqMi4vxv7EZ2T92GeAgUYzUuqB.jpg", "actors": [], "comments": [], "recommandations_id": []}

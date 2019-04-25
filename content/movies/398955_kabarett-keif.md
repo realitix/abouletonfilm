@@ -1,1 +1,0 @@
-{"tmdb_id": 398955, "title": "Kabarett Keif", "original_title": "Kabarett Keif", "slug_title": "kabarett-keif", "date": "2008-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

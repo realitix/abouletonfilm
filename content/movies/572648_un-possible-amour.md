@@ -1,1 +1,0 @@
-{"tmdb_id": 572648, "title": "Un possible amour", "original_title": "Un possible amour", "slug_title": "un-possible-amour", "date": "2000-07-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

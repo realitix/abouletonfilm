@@ -1,1 +1,0 @@
-{"tmdb_id": 507316, "title": "The Weapons of War: Battleships at War", "original_title": "The Weapons of War: Battleships at War", "slug_title": "the-weapons-of-war-battleships-at-war", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

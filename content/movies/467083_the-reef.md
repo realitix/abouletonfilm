@@ -1,1 +1,0 @@
-{"tmdb_id": 467083, "title": "The Reef", "original_title": "The Reef", "slug_title": "the-reef", "date": "1979-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1MoRAZeUQec3n74GYHTpD8DIk3h.jpg", "actors": [], "comments": [], "recommandations_id": []}

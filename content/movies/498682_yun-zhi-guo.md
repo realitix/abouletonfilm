@@ -1,1 +1,0 @@
-{"tmdb_id": 498682, "title": "\u96f2\u4e4b\u56fd", "original_title": "\u96f2\u4e4b\u56fd", "slug_title": "yun-zhi-guo", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pxuir3AV2d7XNoRXSz3qBLMQOsS.jpg", "actors": [], "comments": [], "recommandations_id": []}

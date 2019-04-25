@@ -1,1 +1,0 @@
-{"tmdb_id": 62279, "title": "The Visitor", "original_title": "Die Besucherin", "slug_title": "the-visitor", "date": "2008-02-11", "genre": "Drame", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rvp2FI4nW1U618KYCJum4BWLu89.jpg", "actors": ["Jule B\u00f6we (Karola)", "Samuel Finzi (Walter)"], "comments": [], "recommandations_id": []}

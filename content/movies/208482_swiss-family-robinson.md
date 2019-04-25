@@ -1,1 +1,0 @@
-{"tmdb_id": 208482, "title": "Swiss Family Robinson", "original_title": "Swiss Family Robinson", "slug_title": "swiss-family-robinson", "date": "1996-03-03", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kOOxlY8SSajTHPRcjJVY2eELTAU.jpg", "actors": [], "comments": [], "recommandations_id": []}

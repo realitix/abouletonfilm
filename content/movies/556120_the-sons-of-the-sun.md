@@ -1,1 +1,0 @@
-{"tmdb_id": 556120, "title": "The Sons of the Sun", "original_title": "Les fils du soleil", "slug_title": "the-sons-of-the-sun", "date": "1924-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

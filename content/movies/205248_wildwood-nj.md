@@ -1,1 +1,0 @@
-{"tmdb_id": 205248, "title": "Wildwood, NJ", "original_title": "Wildwood, NJ", "slug_title": "wildwood-nj", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3RF5vZitDSdnmRWQyLLrT6hVV9j.jpg", "actors": [], "comments": [], "recommandations_id": []}

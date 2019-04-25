@@ -1,1 +1,0 @@
-{"tmdb_id": 349474, "title": "\uc5ec\uc790\uac00 \ud0c0\ub77d\ud558\ub294 \uc774\uc720", "original_title": "\uc5ec\uc790\uac00 \ud0c0\ub77d\ud558\ub294 \uc774\uc720", "slug_title": "yeojaga-taraghaneun-iyu", "date": "1996-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

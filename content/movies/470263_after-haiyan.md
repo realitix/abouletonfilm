@@ -1,1 +1,0 @@
-{"tmdb_id": 470263, "title": "After Haiyan", "original_title": "After Haiyan", "slug_title": "after-haiyan", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

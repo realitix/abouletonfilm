@@ -1,1 +1,0 @@
-{"tmdb_id": 82852, "title": "Geert Hoste: Patat", "original_title": "Geert Hoste: Patat", "slug_title": "geert-hoste-patat", "date": "2004-11-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vpYJdVBwTL0gH1GAJrn33CiGrnB.jpg", "actors": ["Geert Hoste (Geert Hoste)"], "comments": [], "recommandations_id": []}

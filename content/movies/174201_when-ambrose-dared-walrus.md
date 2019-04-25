@@ -1,1 +1,0 @@
-{"tmdb_id": 174201, "title": "When Ambrose Dared Walrus", "original_title": "When Ambrose Dared Walrus", "slug_title": "when-ambrose-dared-walrus", "date": "1915-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mack Swain (Ambrose)", "Chester Conklin (Walrus)"], "comments": [], "recommandations_id": []}

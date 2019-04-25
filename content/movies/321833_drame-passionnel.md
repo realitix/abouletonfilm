@@ -1,1 +1,0 @@
-{"tmdb_id": 321833, "title": "Drame passionnel", "original_title": "Drame passionnel", "slug_title": "drame-passionnel", "date": "1906-05-26", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

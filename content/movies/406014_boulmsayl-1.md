@@ -1,1 +1,0 @@
-{"tmdb_id": 406014, "title": "Boulmsayl 1", "original_title": "Boulmsayl 1", "slug_title": "boulmsayl-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Disco Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gPV1Xd3vOn8yKHAW7UB6au7Sdi0.jpg", "actors": [], "comments": [], "recommandations_id": []}

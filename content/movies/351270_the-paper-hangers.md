@@ -1,1 +1,0 @@
-{"tmdb_id": 351270, "title": "The Paper Hangers", "original_title": "The Paper Hangers", "slug_title": "the-paper-hangers", "date": "1937-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

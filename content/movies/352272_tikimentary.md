@@ -1,1 +1,0 @@
-{"tmdb_id": 352272, "title": "Tikimentary", "original_title": "Tikimentary", "slug_title": "tikimentary", "date": "2009-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Ykopd0k4PW4MPTrQs3pSWZiAbS.jpg", "actors": [], "comments": [], "recommandations_id": []}

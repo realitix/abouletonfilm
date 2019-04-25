@@ -1,1 +1,0 @@
-{"tmdb_id": 514722, "title": "Haus Excelsior", "original_title": "Haus Excelsior", "slug_title": "haus-excelsior", "date": "1984-05-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Winfried Glatzeder (Donald Duck)", "Gundula Petrovska (Frau Berger)", "Lutz Reichert (Frank)"], "comments": [], "recommandations_id": []}

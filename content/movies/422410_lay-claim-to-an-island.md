@@ -1,1 +1,0 @@
-{"tmdb_id": 422410, "title": "Lay Claim to an Island", "original_title": "Lay Claim to an Island", "slug_title": "lay-claim-to-an-island", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tluvZ5MP9RtcFtKsfzBDwQsUr73.jpg", "actors": [], "comments": [], "recommandations_id": []}

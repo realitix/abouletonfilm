@@ -1,1 +1,0 @@
-{"tmdb_id": 449063, "title": "A Narrow Lane Celebrity", "original_title": "\u5c0f\u5df7\u540d\u6d41", "slug_title": "a-narrow-lane-celebrity", "date": "1985-01-01", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

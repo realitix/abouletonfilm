@@ -1,1 +1,0 @@
-{"tmdb_id": 325985, "title": "Ben Stiller's 2nd All-Star Comedy Roundtable", "original_title": "Ben Stiller's 2nd All-Star Comedy Roundtable", "slug_title": "ben-stiller-s-2nd-all-star-comedy-roundtable", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

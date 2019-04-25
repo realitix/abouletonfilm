@@ -1,1 +1,0 @@
-{"tmdb_id": 520894, "title": "Wild Ride", "original_title": "Wild Ride", "slug_title": "wild-ride", "date": "2010-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

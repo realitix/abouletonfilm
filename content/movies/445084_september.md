@@ -1,1 +1,0 @@
-{"tmdb_id": 445084, "title": "September", "original_title": "September", "slug_title": "september", "date": "2005-09-27", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hRFhBu9wFqQkrgg2kYZPahwy8cH.jpg", "actors": ["Ryan Adams ()"], "comments": [], "recommandations_id": []}

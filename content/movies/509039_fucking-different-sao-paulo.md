@@ -1,1 +1,0 @@
-{"tmdb_id": 509039, "title": "Fucking Different S\u00e3o Paulo", "original_title": "Fucking Different S\u00e3o Paulo", "slug_title": "fucking-different-sao-paulo", "date": "2010-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2OYqikwnq1qNWD4AVyZkS0UaueG.jpg", "actors": [], "comments": [], "recommandations_id": []}

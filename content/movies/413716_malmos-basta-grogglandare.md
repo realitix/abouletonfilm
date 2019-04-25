@@ -1,1 +1,0 @@
-{"tmdb_id": 413716, "title": "Malm\u00f6s B\u00e4sta Grogglandare", "original_title": "Malm\u00f6s B\u00e4sta Grogglandare", "slug_title": "malmos-basta-grogglandare", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

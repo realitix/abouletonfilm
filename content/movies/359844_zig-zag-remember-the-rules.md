@@ -1,1 +1,0 @@
-{"tmdb_id": 359844, "title": "Zig Zag \u2013 Remember the Rules", "original_title": "Zig Zag \u2013 Remember the Rules", "slug_title": "zig-zag-remember-the-rules", "date": "1970-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nD301anMvc0EnVPjDQwUUDSOe7Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

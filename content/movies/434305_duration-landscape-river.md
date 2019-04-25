@@ -1,1 +1,0 @@
-{"tmdb_id": 434305, "title": "Duration-Landscape: River", "original_title": "Paisaje-Duraci\u00f3n: Rio", "slug_title": "duration-landscape-river", "date": "2010-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ixZcPuCznRtoZLCEnnZjiBaSnmh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 49912, "title": "The Kite", "original_title": "Zmey", "slug_title": "the-kite", "date": "2002-01-01", "genre": "Drame / Romance", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

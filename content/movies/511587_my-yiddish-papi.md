@@ -1,1 +1,0 @@
-{"tmdb_id": 511587, "title": "My Yiddish Papi", "original_title": "My Yiddish Papi", "slug_title": "my-yiddish-papi", "date": "2017-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

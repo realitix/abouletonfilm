@@ -1,1 +1,0 @@
-{"tmdb_id": 464483, "title": "The Troubled City", "original_title": "The Troubled City", "slug_title": "the-troubled-city", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

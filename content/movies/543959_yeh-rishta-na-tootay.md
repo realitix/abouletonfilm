@@ -1,1 +1,0 @@
-{"tmdb_id": 543959, "title": "Yeh Rishta Na Tootay", "original_title": "Yeh Rishta Na Tootay", "slug_title": "yeh-rishta-na-tootay", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 535655, "title": "False Gods of Our Time", "original_title": "False Gods of Our Time", "slug_title": "false-gods-of-our-time", "date": "1982-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pUsLEUDUmo2z9xRClzWZuf4sqh4.jpg", "actors": [], "comments": [], "recommandations_id": []}

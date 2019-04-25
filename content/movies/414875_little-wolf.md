@@ -1,1 +1,0 @@
-{"tmdb_id": 414875, "title": "Little Wolf", "original_title": "Little Wolf", "slug_title": "little-wolf", "date": "1992-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9wwEVgycR3qUTRDvYffczksQKaG.jpg", "actors": [], "comments": [], "recommandations_id": []}

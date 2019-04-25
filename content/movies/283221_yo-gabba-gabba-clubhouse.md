@@ -1,1 +1,0 @@
-{"tmdb_id": 283221, "title": "Yo Gabba Gabba!: Clubhouse", "original_title": "Yo Gabba Gabba!: Clubhouse", "slug_title": "yo-gabba-gabba-clubhouse", "date": "2010-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kKIh1oM0K9sozOKuokPsL8JTFhA.jpg", "actors": [], "comments": [], "recommandations_id": []}

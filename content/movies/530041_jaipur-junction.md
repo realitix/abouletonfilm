@@ -1,1 +1,0 @@
-{"tmdb_id": 530041, "title": "Jaipur Junction", "original_title": "Jaipur Junction", "slug_title": "jaipur-junction", "date": "1983-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

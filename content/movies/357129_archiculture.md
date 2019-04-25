@@ -1,1 +1,0 @@
-{"tmdb_id": 357129, "title": "Archiculture", "original_title": "Archiculture", "slug_title": "archiculture", "date": "2015-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tSW72yCO690AiytQicuYcDh9XgH.jpg", "actors": [], "comments": [], "recommandations_id": []}

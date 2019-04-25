@@ -1,1 +1,0 @@
-{"tmdb_id": 567679, "title": "Toi de l\u2019Ope\u0301ra", "original_title": "Toi de l\u2019Ope\u0301ra", "slug_title": "toi-de-lopera", "date": "2015-06-10", "genre": "", "score": "0.0/10", "synopsis": "Toi de l\u2019Ope\u0301ra", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/saHazY3zLgYGb0A1ZtwZZklS22L.jpg", "actors": [], "comments": [], "recommandations_id": []}

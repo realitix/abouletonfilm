@@ -1,1 +1,0 @@
-{"tmdb_id": 328608, "title": "Royal Cavalcade", "original_title": "Royal Cavalcade", "slug_title": "royal-cavalcade", "date": "1935-04-15", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ploasZtNN9yh1ayF7Ga2U3Qnufv.jpg", "actors": [], "comments": [], "recommandations_id": []}

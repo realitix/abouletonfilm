@@ -1,1 +1,0 @@
-{"tmdb_id": 557730, "title": "Andre Rieu. The Homecoming", "original_title": "Andre Rieu. The Homecoming", "slug_title": "andre-rieu-the-homecoming", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hwRYZEpoOXpY48xhYTfTWAqzJgQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

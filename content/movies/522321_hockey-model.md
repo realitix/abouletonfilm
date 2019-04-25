@@ -1,1 +1,0 @@
-{"tmdb_id": 522321, "title": "Hockey Model", "original_title": "Hockeymodell", "slug_title": "hockey-model", "date": "2008-09-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k9hHeJGnu543Zgba9kbz6bHJSwK.jpg", "actors": [], "comments": [], "recommandations_id": []}

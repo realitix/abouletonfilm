@@ -1,1 +1,0 @@
-{"tmdb_id": 281627, "title": "Despierta, todo es mentira", "original_title": "Despierta, todo es mentira", "slug_title": "despierta-todo-es-mentira", "date": "2012-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9mKHoO0Zi3772m1dPRneEKd7OrD.jpg", "actors": [], "comments": [], "recommandations_id": []}

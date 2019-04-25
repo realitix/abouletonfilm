@@ -1,1 +1,0 @@
-{"tmdb_id": 400418, "title": "L'autre sc\u00e8ne", "original_title": "L'autre sc\u00e8ne", "slug_title": "l-autre-scene", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

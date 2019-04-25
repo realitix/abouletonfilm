@@ -1,1 +1,0 @@
-{"tmdb_id": 409133, "title": "Mercy, the Mummy Mumbled", "original_title": "Mercy, the Mummy Mumbled", "slug_title": "mercy-the-mummy-mumbled", "date": "1918-01-01", "genre": "Com\u00e9die", "score": "6.2/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [409134, 188395, 149190, 53409]}

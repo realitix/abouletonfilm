@@ -1,1 +1,0 @@
-{"tmdb_id": 271378, "title": "20,000 Leagues Under the Sea", "original_title": "20,000 Leagues Under the Sea", "slug_title": "20000-leagues-under-the-sea", "date": "2002-01-01", "genre": "Animation", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pMh66qV3J39o1EKzSU8umOi9XZH.jpg", "actors": [], "comments": [], "recommandations_id": []}

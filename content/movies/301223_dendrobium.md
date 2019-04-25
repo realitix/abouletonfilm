@@ -1,1 +1,0 @@
-{"tmdb_id": 301223, "title": "Dendrobium", "original_title": "\u77f3\u659b\u5170", "slug_title": "dendrobium", "date": "2014-01-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g55bnTJUhklvWeJF9uzDAS9S3HA.jpg", "actors": [], "comments": [], "recommandations_id": []}

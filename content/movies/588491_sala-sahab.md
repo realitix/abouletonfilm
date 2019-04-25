@@ -1,1 +1,0 @@
-{"tmdb_id": 588491, "title": "Sala Sahab", "original_title": "Sala Sahab", "slug_title": "sala-sahab", "date": "1981-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sultan Rahi ()"], "comments": [], "recommandations_id": []}

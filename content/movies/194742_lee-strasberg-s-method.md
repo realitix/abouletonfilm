@@ -1,1 +1,0 @@
-{"tmdb_id": 194742, "title": "Lee Strasberg's Method", "original_title": "Lee Strasberg's Method", "slug_title": "lee-strasberg-s-method", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7NSiTtJG7JrKEWY4uF2QZqXtraP.jpg", "actors": [], "comments": [], "recommandations_id": []}

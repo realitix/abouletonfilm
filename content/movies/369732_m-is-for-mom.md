@@ -1,1 +1,0 @@
-{"tmdb_id": 369732, "title": "M Is for Mom", "original_title": "M Is for Mom", "slug_title": "m-is-for-mom", "date": "2013-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 535510, "title": "Father\u2019s Sword", "original_title": "\uc544\ube60\uc758 \uac80", "slug_title": "fathers-sword", "date": "2017-10-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lee Hee-joon ()", "Koo Hye-sun ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 396546, "title": "Pulpe am\u00e8re", "original_title": "Pulpe am\u00e8re", "slug_title": "pulpe-amere", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5r5ZvhqXrTB16PhblVL3wuez28k.jpg", "actors": ["Norma Guevara ()", "H\u00e9ctor Malamud ()"], "comments": [], "recommandations_id": []}

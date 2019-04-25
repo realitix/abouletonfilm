@@ -1,1 +1,0 @@
-{"tmdb_id": 284506, "title": "India Cabaret", "original_title": "India Cabaret", "slug_title": "india-cabaret", "date": "1985-01-02", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gVJPCWfd68ClF9ZX4kdNJ5CWfL1.jpg", "actors": [], "comments": [], "recommandations_id": []}

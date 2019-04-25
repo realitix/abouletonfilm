@@ -1,1 +1,0 @@
-{"tmdb_id": 481290, "title": "Sensitization Age", "original_title": "\u611f\u5149\u65f6\u4ee3", "slug_title": "sensitization-age", "date": "1994-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chen Zihan ()", "Mengshi Qi ()"], "comments": [], "recommandations_id": []}

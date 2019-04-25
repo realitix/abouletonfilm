@@ -1,1 +1,0 @@
-{"tmdb_id": 468883, "title": "Slow as Lightning", "original_title": "Slow as Lightning", "slug_title": "slow-as-lightning", "date": "1923-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kenneth MacDonald ()", "Billy 'Red' Jones ()", "Edna Pennington ()"], "comments": [], "recommandations_id": []}

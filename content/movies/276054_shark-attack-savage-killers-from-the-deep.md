@@ -1,1 +1,0 @@
-{"tmdb_id": 276054, "title": "Shark Attack: Savage Killers from the Deep", "original_title": "Shark Attack: Savage Killers from the Deep", "slug_title": "shark-attack-savage-killers-from-the-deep", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

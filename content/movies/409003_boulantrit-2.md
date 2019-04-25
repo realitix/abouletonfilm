@@ -1,1 +1,0 @@
-{"tmdb_id": 409003, "title": "Boulantrit 2", "original_title": "Boulantrit 2", "slug_title": "boulantrit-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Tiznit Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jZXTUfKj6HAbWHcNEfqPbEt6OXX.jpg", "actors": [], "comments": [], "recommandations_id": []}

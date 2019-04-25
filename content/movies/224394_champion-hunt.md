@@ -1,1 +1,0 @@
-{"tmdb_id": 224394, "title": "Champion Hunt", "original_title": "Champion Hunt", "slug_title": "champion-hunt", "date": "2002-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/440143OTutaaatHY03bt9deBH6X.jpg", "actors": [], "comments": [], "recommandations_id": []}

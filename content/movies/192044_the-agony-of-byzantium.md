@@ -1,1 +1,0 @@
-{"tmdb_id": 192044, "title": "The Agony of Byzantium", "original_title": "L'agonie de Byzance", "slug_title": "the-agony-of-byzantium", "date": "1913-10-23", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rDhQHHccwFYKYITp6HVskV1Hund.jpg", "actors": [], "comments": [], "recommandations_id": []}

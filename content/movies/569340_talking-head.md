@@ -1,1 +1,0 @@
-{"tmdb_id": 569340, "title": "Talking Head", "original_title": "Talking Head", "slug_title": "talking-head", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

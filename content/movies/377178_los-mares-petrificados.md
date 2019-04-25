@@ -1,1 +1,0 @@
-{"tmdb_id": 377178, "title": "Los mares petrificados", "original_title": "Los mares petrificados", "slug_title": "los-mares-petrificados", "date": "2012-01-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

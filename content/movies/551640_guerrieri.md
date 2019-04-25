@@ -1,1 +1,0 @@
-{"tmdb_id": 551640, "title": "Guerrieri", "original_title": "Guerrieri", "slug_title": "guerrieri", "date": "1942-10-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

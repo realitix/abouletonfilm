@@ -1,1 +1,0 @@
-{"tmdb_id": 344162, "title": "Amir Khan Vs Chris Algieri [2015.05.29]", "original_title": "Amir Khan Vs Chris Algieri [2015.05.29]", "slug_title": "amir-khan-vs-chris-algieri-2015-05-29", "date": "2015-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

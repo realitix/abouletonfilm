@@ -1,1 +1,0 @@
-{"tmdb_id": 501877, "title": "Accordion Tribe", "original_title": "Accordion Tribe", "slug_title": "accordion-tribe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

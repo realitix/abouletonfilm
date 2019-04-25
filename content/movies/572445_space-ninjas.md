@@ -1,1 +1,0 @@
-{"tmdb_id": 572445, "title": "Space Ninjas", "original_title": "Space Ninjas", "slug_title": "space-ninjas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

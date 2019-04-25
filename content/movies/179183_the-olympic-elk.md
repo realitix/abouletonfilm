@@ -1,1 +1,0 @@
-{"tmdb_id": 179183, "title": "The Olympic Elk", "original_title": "The Olympic Elk", "slug_title": "the-olympic-elk", "date": "1952-02-13", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3OY9Ncd6OB7j03o4qYnKs7GReSP.jpg", "actors": [], "comments": [], "recommandations_id": []}

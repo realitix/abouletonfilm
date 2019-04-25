@@ -1,1 +1,0 @@
-{"tmdb_id": 397449, "title": "Der Schn\u00fcffler", "original_title": "Der Schn\u00fcffler", "slug_title": "der-schnuffler", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

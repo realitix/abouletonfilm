@@ -1,1 +1,0 @@
-{"tmdb_id": 353525, "title": "Aprenda a Dancar com Carlinhos de Jesus", "original_title": "Aprenda a Dancar com Carlinhos de Jesus", "slug_title": "aprenda-a-dancar-com-carlinhos-de-jesus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

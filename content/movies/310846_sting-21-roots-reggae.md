@@ -1,1 +1,0 @@
-{"tmdb_id": 310846, "title": "Sting 21: Roots Reggae", "original_title": "Sting 21: Roots Reggae", "slug_title": "sting-21-roots-reggae", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

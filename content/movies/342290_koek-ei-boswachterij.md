@@ -1,1 +1,0 @@
-{"tmdb_id": 342290, "title": "Koek & Ei Boswachterij", "original_title": "Koek & Ei Boswachterij", "slug_title": "koek-ei-boswachterij", "date": "2012-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y1yoUIVZAEXvY4m5RHBiljMv76r.jpg", "actors": [], "comments": [], "recommandations_id": []}

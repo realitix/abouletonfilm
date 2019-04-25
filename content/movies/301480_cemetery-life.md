@@ -1,1 +1,0 @@
-{"tmdb_id": 301480, "title": "Cemetery Life", "original_title": "Cemetery Life", "slug_title": "cemetery-life", "date": "2014-11-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

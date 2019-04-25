@@ -1,1 +1,0 @@
-{"tmdb_id": 484744, "title": "Fr\u00e8res d'arme", "original_title": "Fr\u00e8res d'arme", "slug_title": "freres-d-arme", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vincent Rottiers ()", "Kevin Azais ()", "Pauline Parigot ()"], "comments": [], "recommandations_id": []}

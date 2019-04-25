@@ -1,1 +1,0 @@
-{"tmdb_id": 502658, "title": "2017 AFL Grand Final", "original_title": "2017 AFL Grand Final", "slug_title": "2017-afl-grand-final", "date": "2017-09-30", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5KvqCq8Q1I7LuFam1AuqlxsgVYF.jpg", "actors": [], "comments": [], "recommandations_id": []}

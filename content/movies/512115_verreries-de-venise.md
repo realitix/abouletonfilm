@@ -1,1 +1,0 @@
-{"tmdb_id": 512115, "title": "Verreries de Venise", "original_title": "Verreries de Venise", "slug_title": "verreries-de-venise", "date": "1912-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

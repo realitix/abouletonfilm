@@ -1,1 +1,0 @@
-{"tmdb_id": 586467, "title": "Rakkhosh", "original_title": "Rakkhosh", "slug_title": "rakkhosh", "date": "2019-01-20", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xyT4t6PFTF0uF9iNNhm81oFvdFL.jpg", "actors": ["Priyanka Bose (Ridhima)"], "comments": [], "recommandations_id": []}

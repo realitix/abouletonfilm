@@ -1,1 +1,0 @@
-{"tmdb_id": 459602, "title": "Revelation Illustrated", "original_title": "Revelation Illustrated", "slug_title": "revelation-illustrated", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xAVs4sWGL7E9ZSSLtnDEmMFgPgj.jpg", "actors": [], "comments": [], "recommandations_id": []}

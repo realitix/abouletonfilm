@@ -1,1 +1,0 @@
-{"tmdb_id": 386541, "title": "Slow Bistro", "original_title": "\u041c\u0435\u0434\u043b\u0435\u043d\u043d\u043e\u0435 \u0431\u0438\u0441\u0442\u0440\u043e", "slug_title": "slow-bistro", "date": "2002-01-01", "genre": "Com\u00e9die / Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

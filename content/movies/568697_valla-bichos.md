@@ -1,1 +1,0 @@
-{"tmdb_id": 568697, "title": "Valla Bichos", "original_title": "Valla Bichos", "slug_title": "valla-bichos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ryan Nicolls (Animation)"], "comments": [], "recommandations_id": []}

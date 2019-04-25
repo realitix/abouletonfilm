@@ -1,1 +1,0 @@
-{"tmdb_id": 578124, "title": "Klaus Eckel - Weltwundern", "original_title": "Klaus Eckel - Weltwundern", "slug_title": "klaus-eckel-weltwundern", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rBmoJ64r7A4JL5duxJUcDe9vlgW.jpg", "actors": ["Klaus Eckel ()"], "comments": [], "recommandations_id": []}

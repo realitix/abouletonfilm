@@ -1,1 +1,0 @@
-{"tmdb_id": 565235, "title": "Filshah", "original_title": "Filshah", "slug_title": "filshah", "date": "2018-11-28", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sidCOEcUtcBzFQH5XgXMozjpkUq.jpg", "actors": [], "comments": [], "recommandations_id": []}

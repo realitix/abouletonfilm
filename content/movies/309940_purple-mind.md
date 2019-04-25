@@ -1,1 +1,0 @@
-{"tmdb_id": 309940, "title": "Purple Mind", "original_title": "Purple Mind", "slug_title": "purple-mind", "date": "2013-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

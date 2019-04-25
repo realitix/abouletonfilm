@@ -1,1 +1,0 @@
-{"tmdb_id": 145259, "title": "Home Sweet Home", "original_title": "Hem ljuva hem", "slug_title": "home-sweet-home", "date": "2001-03-09", "genre": "Drame", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/miIqBfDZ3boaC8A9ddXXkuq72SO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 412956, "title": "Synthesis", "original_title": "Synthesis", "slug_title": "synthesis", "date": "1968-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

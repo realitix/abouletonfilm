@@ -1,1 +1,0 @@
-{"tmdb_id": 236569, "title": "Twinkletoes in Hat Stuff", "original_title": "Twinkletoes in Hat Stuff", "slug_title": "twinkletoes-in-hat-stuff", "date": "1941-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

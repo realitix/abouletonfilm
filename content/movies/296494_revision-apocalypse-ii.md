@@ -1,1 +1,0 @@
-{"tmdb_id": 296494, "title": "Revision - Apocalypse II", "original_title": "Revision - Apocalypse II", "slug_title": "revision-apocalypse-ii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

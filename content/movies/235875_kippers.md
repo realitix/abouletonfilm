@@ -1,1 +1,0 @@
-{"tmdb_id": 235875, "title": "Kippers", "original_title": "Kippers", "slug_title": "kippers", "date": "1952-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

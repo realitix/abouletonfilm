@@ -1,1 +1,0 @@
-{"tmdb_id": 335440, "title": "Mendelssohn's Spring Song", "original_title": "Mendelssohn's Spring Song", "slug_title": "mendelssohn-s-spring-song", "date": "1931-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9g377oR1TwjyYK7ZyAJK0h064nN.jpg", "actors": [], "comments": [], "recommandations_id": []}

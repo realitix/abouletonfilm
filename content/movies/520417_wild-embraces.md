@@ -1,1 +1,1 @@
-{"tmdb_id": 520417, "title": "Wild Embraces", "original_title": "Wild Embraces", "slug_title": "wild-embraces", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 520417, "title": "Wild Embraces", "original_title": "Wild Embraces", "slug_title": "wild-embraces", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "1970s French Porn", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

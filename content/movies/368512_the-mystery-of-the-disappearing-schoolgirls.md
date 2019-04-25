@@ -1,1 +1,0 @@
-{"tmdb_id": 368512, "title": "The Mystery of the Disappearing Schoolgirls", "original_title": "The Mystery of the Disappearing Schoolgirls", "slug_title": "the-mystery-of-the-disappearing-schoolgirls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 193535, "title": "Shades of Gray", "original_title": "Shades of Gray", "slug_title": "shades-of-gray", "date": "2009-04-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Sherwood (Himself)", "James Moseley (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 156704, "title": "Blood Pigs", "original_title": "Blood Pigs", "slug_title": "blood-pigs", "date": "2010-10-15", "genre": "Horreur", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wcgSQOK6hE9K6XmJnSv0SS0DICu.jpg", "actors": [], "comments": [], "recommandations_id": []}

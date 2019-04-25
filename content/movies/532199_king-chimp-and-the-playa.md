@@ -1,1 +1,0 @@
-{"tmdb_id": 532199, "title": "King, Chimp and the Playa", "original_title": "King, Chimp and the Playa", "slug_title": "king-chimp-and-the-playa", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

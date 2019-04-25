@@ -1,1 +1,0 @@
-{"tmdb_id": 398513, "title": "CHIKARA The Living Daylights", "original_title": "CHIKARA The Living Daylights", "slug_title": "chikara-the-living-daylights", "date": "2014-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nL9mv6lRPj8m9y3UYU2TdTGDfMS.jpg", "actors": [], "comments": [], "recommandations_id": []}

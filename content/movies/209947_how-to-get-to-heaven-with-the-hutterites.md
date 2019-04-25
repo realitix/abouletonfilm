@@ -1,1 +1,0 @@
-{"tmdb_id": 209947, "title": "How to Get to Heaven with the Hutterites", "original_title": "How to Get to Heaven with the Hutterites", "slug_title": "how-to-get-to-heaven-with-the-hutterites", "date": "2013-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

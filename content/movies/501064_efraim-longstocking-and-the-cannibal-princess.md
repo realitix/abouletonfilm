@@ -1,1 +1,0 @@
-{"tmdb_id": 501064, "title": "Efraim Longstocking and the Cannibal Princess", "original_title": "Efraim Longstocking and the Cannibal Princess", "slug_title": "efraim-longstocking-and-the-cannibal-princess", "date": "", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

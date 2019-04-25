@@ -1,1 +1,0 @@
-{"tmdb_id": 321435, "title": "Joanna's Flower Power: Flower Design", "original_title": "Joanna's Flower Power: Flower Design", "slug_title": "joanna-s-flower-power-flower-design", "date": "2007-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

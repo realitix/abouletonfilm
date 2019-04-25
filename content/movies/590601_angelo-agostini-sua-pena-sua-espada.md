@@ -1,1 +1,0 @@
-{"tmdb_id": 590601, "title": "Angelo Agostini (Sua Pena, Sua Espada)", "original_title": "Angelo Agostini (Sua Pena, Sua Espada)", "slug_title": "angelo-agostini-sua-pena-sua-espada", "date": "1968-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

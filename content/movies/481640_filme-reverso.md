@@ -1,1 +1,0 @@
-{"tmdb_id": 481640, "title": "Filme Reverso", "original_title": "Filme Reverso", "slug_title": "filme-reverso", "date": "2017-10-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iRBv6VPcC61yQkW46khC3Aq1U1a.jpg", "actors": ["Hernani Heffner (Ele mesmo)"], "comments": [], "recommandations_id": []}

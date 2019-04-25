@@ -1,1 +1,0 @@
-{"tmdb_id": 188120, "title": "Song Service", "original_title": "Song Service", "slug_title": "song-service", "date": "1930-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

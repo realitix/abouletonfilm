@@ -1,1 +1,0 @@
-{"tmdb_id": 249052, "title": "Spheres", "original_title": "Spheres", "slug_title": "spheres", "date": "1969-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ni6mFTauzFJawSGj2VJyoHX5jUx.jpg", "actors": [], "comments": [], "recommandations_id": [143198]}

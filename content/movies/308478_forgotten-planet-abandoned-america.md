@@ -1,1 +1,0 @@
-{"tmdb_id": 308478, "title": "Forgotten Planet: Abandoned America", "original_title": "Forgotten Planet: Abandoned America", "slug_title": "forgotten-planet-abandoned-america", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

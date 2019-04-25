@@ -1,1 +1,0 @@
-{"tmdb_id": 312132, "title": "In Georgia", "original_title": "In Georgien", "slug_title": "in-georgia", "date": "1988-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6BtVjsbpDcnmeG7qppRufHFDuRR.jpg", "actors": [], "comments": [], "recommandations_id": []}

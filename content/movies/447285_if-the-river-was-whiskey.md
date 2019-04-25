@@ -1,1 +1,0 @@
-{"tmdb_id": 447285, "title": "If the River Was Whiskey", "original_title": "If the River Was Whiskey", "slug_title": "if-the-river-was-whiskey", "date": "2012-05-04", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4QZlFeRiDBiAIaE9ust3MsNAddj.jpg", "actors": [], "comments": [], "recommandations_id": []}

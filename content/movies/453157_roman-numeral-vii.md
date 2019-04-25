@@ -1,1 +1,0 @@
-{"tmdb_id": 453157, "title": "Roman Numeral: VII", "original_title": "Roman Numeral: VII", "slug_title": "roman-numeral-vii", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ses97nA7iX4hXuba6rbGHZjpVqr.jpg", "actors": [], "comments": [], "recommandations_id": []}

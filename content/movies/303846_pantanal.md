@@ -1,1 +1,0 @@
-{"tmdb_id": 303846, "title": "Pantanal", "original_title": "Pantanal", "slug_title": "pantanal", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7gHee5GmP3IyJVUY4i9yAgPUIe9.jpg", "actors": [], "comments": [], "recommandations_id": []}

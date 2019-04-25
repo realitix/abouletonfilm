@@ -1,1 +1,0 @@
-{"tmdb_id": 402843, "title": "Fat Chance", "original_title": "Fat Chance", "slug_title": "fat-chance", "date": "1994-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zMaSX5AIIYTk1VY6arOenlzaQiB.jpg", "actors": ["Rick Zakowich ()"], "comments": [], "recommandations_id": []}

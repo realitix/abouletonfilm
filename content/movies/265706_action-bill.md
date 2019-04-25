@@ -1,1 +1,0 @@
-{"tmdb_id": 265706, "title": "Action Bill", "original_title": "Action Bill", "slug_title": "action-bill", "date": "2014-04-06", "genre": "Animation", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kent Pool ()", "Kenneth Haney ()"], "comments": [], "recommandations_id": []}

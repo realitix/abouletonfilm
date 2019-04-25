@@ -1,1 +1,0 @@
-{"tmdb_id": 253226, "title": "Credo - This Is What We Do", "original_title": "Credo - This Is What We Do", "slug_title": "credo-this-is-what-we-do", "date": "2008-10-12", "genre": "Musique", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/enSBAjCrEnqg2IuZV5XxUEN68jB.jpg", "actors": [], "comments": [], "recommandations_id": []}

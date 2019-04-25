@@ -1,1 +1,0 @@
-{"tmdb_id": 77153, "title": "Brainetics", "original_title": "Brainetics", "slug_title": "brainetics", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

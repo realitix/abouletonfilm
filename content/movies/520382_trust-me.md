@@ -1,1 +1,0 @@
-{"tmdb_id": 520382, "title": "Trust Me", "original_title": "Trust Me", "slug_title": "trust-me", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oPExkdrc7snG0fg13vWayLyS8DX.jpg", "actors": [], "comments": [], "recommandations_id": []}

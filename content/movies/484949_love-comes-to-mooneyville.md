@@ -1,1 +1,0 @@
-{"tmdb_id": 484949, "title": "Love Comes to Mooneyville", "original_title": "Love Comes to Mooneyville", "slug_title": "love-comes-to-mooneyville", "date": "1936-11-14", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Sheriff Andy Clyde)"], "comments": [], "recommandations_id": []}

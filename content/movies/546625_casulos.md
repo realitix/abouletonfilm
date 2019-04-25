@@ -1,1 +1,0 @@
-{"tmdb_id": 546625, "title": "Casulos", "original_title": "Casulos", "slug_title": "casulos", "date": "2018-02-15", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2hINmMMGXpj4vLjwDuBt1EYf7D6.jpg", "actors": [], "comments": [], "recommandations_id": []}

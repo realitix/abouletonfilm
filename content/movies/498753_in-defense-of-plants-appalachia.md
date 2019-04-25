@@ -1,1 +1,0 @@
-{"tmdb_id": 498753, "title": "In Defense of Plants: Appalachia", "original_title": "In Defense of Plants: Appalachia", "slug_title": "in-defense-of-plants-appalachia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cRPqHtn9xWmeCzqcUz4n0uCxCuG.jpg", "actors": [], "comments": [], "recommandations_id": []}

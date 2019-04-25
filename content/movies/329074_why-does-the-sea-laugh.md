@@ -1,1 +1,0 @@
-{"tmdb_id": 329074, "title": "Why Does the Sea Laugh?", "original_title": "El bahr biyidhak lesh", "slug_title": "why-does-the-sea-laugh", "date": "1928-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amine Atallah ()", "Stephan Rosti ()"], "comments": [], "recommandations_id": []}

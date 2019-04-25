@@ -1,1 +1,0 @@
-{"tmdb_id": 506136, "title": "Boy in the Mirror", "original_title": "Boy in the Mirror", "slug_title": "boy-in-the-mirror", "date": "2015-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ptGJFt5isSuXUfmE3eDThpixYB.jpg", "actors": [], "comments": [], "recommandations_id": []}

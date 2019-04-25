@@ -1,1 +1,0 @@
-{"tmdb_id": 420698, "title": "Clash of Colors: LA Riots of 1992", "original_title": "Clash of Colors: LA Riots of 1992", "slug_title": "clash-of-colors-la-riots-of-1992", "date": "2012-04-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

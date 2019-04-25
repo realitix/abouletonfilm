@@ -1,1 +1,0 @@
-{"tmdb_id": 232883, "title": "Sk\u00f8jtel\u00f8bning i Fredericia", "original_title": "Sk\u00f8jtel\u00f8bning i Fredericia", "slug_title": "skojtelobning-i-fredericia", "date": "1907-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

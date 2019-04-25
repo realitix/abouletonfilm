@@ -1,1 +1,0 @@
-{"tmdb_id": 343265, "title": "A Happy Home", "original_title": "Le bonheur est sous mon toit", "slug_title": "a-happy-home", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

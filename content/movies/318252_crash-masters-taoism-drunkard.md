@@ -1,1 +1,0 @@
-{"tmdb_id": 318252, "title": "Crash Masters: Taoism Drunkard", "original_title": "Crash Masters: Taoism Drunkard", "slug_title": "crash-masters-taoism-drunkard", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

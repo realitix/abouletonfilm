@@ -1,1 +1,0 @@
-{"tmdb_id": 310357, "title": "Funny Ladies of British Comedy", "original_title": "Funny Ladies of British Comedy", "slug_title": "funny-ladies-of-british-comedy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

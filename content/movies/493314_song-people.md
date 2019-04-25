@@ -1,1 +1,0 @@
-{"tmdb_id": 493314, "title": "Song people", "original_title": "Laulurahvas", "slug_title": "song-people", "date": "2004-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jarek Kasar (Himself)"], "comments": [], "recommandations_id": []}

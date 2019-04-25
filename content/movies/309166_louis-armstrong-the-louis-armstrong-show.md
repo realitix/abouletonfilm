@@ -1,1 +1,0 @@
-{"tmdb_id": 309166, "title": "Louis Armstrong: The Louis Armstrong Show", "original_title": "Louis Armstrong: The Louis Armstrong Show", "slug_title": "louis-armstrong-the-louis-armstrong-show", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

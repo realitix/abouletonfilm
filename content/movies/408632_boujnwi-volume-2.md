@@ -1,1 +1,0 @@
-{"tmdb_id": 408632, "title": "Boujnwi Volume 2", "original_title": "Boujnwi Volume 2", "slug_title": "boujnwi-volume-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Azaghar Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5ohoPtolDP5eDblKoUl7vRw6BbW.jpg", "actors": [], "comments": [], "recommandations_id": []}

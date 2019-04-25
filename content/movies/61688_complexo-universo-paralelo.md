@@ -1,1 +1,0 @@
-{"tmdb_id": 61688, "title": "Complexo - Universo Paralelo", "original_title": "Complexo - Universo Paralelo", "slug_title": "complexo-universo-paralelo", "date": "2011-01-13", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5JB1Y6sUQQqsLIcnJdtrYYlyaI2.jpg", "actors": [], "comments": [], "recommandations_id": []}

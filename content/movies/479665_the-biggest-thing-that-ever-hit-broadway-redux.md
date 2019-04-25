@@ -1,1 +1,0 @@
-{"tmdb_id": 479665, "title": "The Biggest Thing That Ever Hit Broadway: Redux", "original_title": "The Biggest Thing That Ever Hit Broadway: Redux", "slug_title": "the-biggest-thing-that-ever-hit-broadway-redux", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

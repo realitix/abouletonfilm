@@ -1,1 +1,0 @@
-{"tmdb_id": 190862, "title": "Moonspell: Rock In Rio 2004", "original_title": "Moonspell: Rock In Rio 2004", "slug_title": "moonspell-rock-in-rio-2004", "date": "2008-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

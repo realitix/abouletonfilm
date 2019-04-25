@@ -1,1 +1,0 @@
-{"tmdb_id": 366139, "title": "Som Min S\u00f8ster", "original_title": "Som Min S\u00f8ster", "slug_title": "som-min-soster", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

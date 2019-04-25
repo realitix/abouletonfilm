@@ -1,1 +1,0 @@
-{"tmdb_id": 501374, "title": "Black at Yale", "original_title": "Black at Yale", "slug_title": "black-at-yale", "date": "1974-01-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Erroll McDonald (Himself)", "Eugene Rivers (Himself)", "Stokely Carmichael (Himself)"], "comments": [], "recommandations_id": []}

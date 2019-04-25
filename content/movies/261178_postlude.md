@@ -1,1 +1,0 @@
-{"tmdb_id": 261178, "title": "Postlude", "original_title": "Deytero Telos", "slug_title": "postlude", "date": "2013-08-25", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

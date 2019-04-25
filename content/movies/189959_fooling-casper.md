@@ -1,1 +1,0 @@
-{"tmdb_id": 189959, "title": "Fooling Casper", "original_title": "Fooling Casper", "slug_title": "fooling-casper", "date": "1928-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thelma Hill (Toots)", "Bud Duncan (Casper)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 565486, "title": "Bi-Bi Surprise 3", "original_title": "Bi-Bi Surprise 3", "slug_title": "bi-bi-surprise-3", "date": "2014-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ruRt995ww2sAbhXvyLysBZVn2A9.jpg", "actors": [], "comments": [], "recommandations_id": []}

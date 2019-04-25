@@ -1,1 +1,0 @@
-{"tmdb_id": 433935, "title": "The Road", "original_title": "al-Tariq", "slug_title": "the-road", "date": "1974-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

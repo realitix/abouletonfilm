@@ -1,1 +1,0 @@
-{"tmdb_id": 273971, "title": "Denise Austin: Shrink Your 5 Fat Zones", "original_title": "Denise Austin: Shrink Your 5 Fat Zones", "slug_title": "denise-austin-shrink-your-5-fat-zones", "date": "2012-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

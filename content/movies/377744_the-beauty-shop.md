@@ -1,1 +1,0 @@
-{"tmdb_id": 377744, "title": "The Beauty Shop", "original_title": "The Beauty Shop", "slug_title": "the-beauty-shop", "date": "1950-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

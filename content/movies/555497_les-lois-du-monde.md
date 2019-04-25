@@ -1,1 +1,0 @@
-{"tmdb_id": 555497, "title": "Les lois du monde", "original_title": "Les lois du monde", "slug_title": "les-lois-du-monde", "date": "1917-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

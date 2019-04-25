@@ -1,1 +1,0 @@
-{"tmdb_id": 94999, "title": "The Girl from Pussycat", "original_title": "The Girl from Pussycat", "slug_title": "the-girl-from-pussycat", "date": "1969-02-01", "genre": "Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

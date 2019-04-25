@@ -1,1 +1,0 @@
-{"tmdb_id": 372660, "title": "\u00c0 Margem da Imagem", "original_title": "\u00c0 Margem da Imagem", "slug_title": "a-margem-da-imagem", "date": "2004-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tyorsVgDnvkG4FWOloiEoeVeUtq.jpg", "actors": [], "comments": [], "recommandations_id": []}

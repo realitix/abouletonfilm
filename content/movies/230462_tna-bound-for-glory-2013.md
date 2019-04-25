@@ -1,1 +1,0 @@
-{"tmdb_id": 230462, "title": "TNA Bound for Glory 2013", "original_title": "TNA Bound for Glory 2013", "slug_title": "tna-bound-for-glory-2013", "date": "2013-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sgYXX4UbIuE0m22JWIm5emX3fpM.jpg", "actors": [], "comments": [], "recommandations_id": []}

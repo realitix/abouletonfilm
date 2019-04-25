@@ -1,1 +1,0 @@
-{"tmdb_id": 178652, "title": "Arzak Rhapsody", "original_title": "Arzak Rhapsody", "slug_title": "arzak-rhapsody", "date": "2003-03-18", "genre": "Animation", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uG1aiVtresy1RtSJyFZy2bxLWHo.jpg", "actors": [], "comments": [], "recommandations_id": []}

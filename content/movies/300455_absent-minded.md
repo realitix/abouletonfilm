@@ -1,1 +1,0 @@
-{"tmdb_id": 300455, "title": "Absent Minded", "original_title": "La testa tra le nuvole", "slug_title": "absent-minded", "date": "2013-01-01", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hbOl4YXruwQgjb1H9IxfXX4i4xl.jpg", "actors": [], "comments": [], "recommandations_id": [250686, 401224]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 277091, "title": "The Heart of Bruno Wizard", "original_title": "The Heart of Bruno Wizard", "slug_title": "the-heart-of-bruno-wizard", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

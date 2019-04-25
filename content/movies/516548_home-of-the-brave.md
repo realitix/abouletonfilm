@@ -1,1 +1,0 @@
-{"tmdb_id": 516548, "title": "Home of the Brave", "original_title": "Terra dos Bravos", "slug_title": "home-of-the-brave", "date": "1986-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

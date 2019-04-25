@@ -1,1 +1,0 @@
-{"tmdb_id": 551163, "title": "The First Patient", "original_title": "The First Patient", "slug_title": "the-first-patient", "date": "2018-10-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xeJauVE5ocx4J8qkEFhpNqkykNR.jpg", "actors": [], "comments": [], "recommandations_id": []}

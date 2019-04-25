@@ -1,1 +1,0 @@
-{"tmdb_id": 426653, "title": "Pollinator", "original_title": "El polinizador", "slug_title": "pollinator", "date": "2016-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zk19zSvr9MRInofP0xZBoba2ADl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 309726, "title": "Jar Jar Binks: The F! True Hollywood Story", "original_title": "Jar Jar Binks: The F! True Hollywood Story", "slug_title": "jar-jar-binks-the-f-true-hollywood-story", "date": "2014-12-09", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 254813, "title": "The Ghost Pepper Eating Contest of Jefferson County", "original_title": "The Ghost Pepper Eating Contest of Jefferson County", "slug_title": "the-ghost-pepper-eating-contest-of-jefferson-county", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

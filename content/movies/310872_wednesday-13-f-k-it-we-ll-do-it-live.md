@@ -1,1 +1,0 @@
-{"tmdb_id": 310872, "title": "Wednesday 13: F**K it, We'll Do It Live", "original_title": "Wednesday 13: F**K it, We'll Do It Live", "slug_title": "wednesday-13-f-k-it-we-ll-do-it-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

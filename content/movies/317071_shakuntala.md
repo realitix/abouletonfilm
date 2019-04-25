@@ -1,1 +1,0 @@
-{"tmdb_id": 317071, "title": "Shakuntala", "original_title": "Shakuntala", "slug_title": "shakuntala", "date": "1947-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jPbY0F9YFAp6gZqltCohyEGlRQb.jpg", "actors": [], "comments": [], "recommandations_id": []}

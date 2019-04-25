@@ -1,1 +1,0 @@
-{"tmdb_id": 219263, "title": "Night Terrors", "original_title": "Night Terrors", "slug_title": "night-terrors", "date": "2010-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeannie Sconzo (Night Terrors)", "Matthew Sconzo (Argle - The Monster)", "Peter Sconzo (Jason)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 371344, "title": "Sibling Topics (section a)", "original_title": "Sibling Topics (section a)", "slug_title": "sibling-topics-section-a", "date": "2009-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y0vQ61gWqDmE5bavRQcUR5akxmb.jpg", "actors": [], "comments": [], "recommandations_id": []}

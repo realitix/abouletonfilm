@@ -1,1 +1,0 @@
-{"tmdb_id": 391650, "title": "Cowboy Ben", "original_title": "Cowboy Ben", "slug_title": "cowboy-ben", "date": "2014-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/62VV3jybA0qTQX5cLzMD0AY4fKH.jpg", "actors": [], "comments": [], "recommandations_id": []}

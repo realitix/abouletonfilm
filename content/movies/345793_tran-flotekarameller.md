@@ -1,1 +1,0 @@
-{"tmdb_id": 345793, "title": "Tran & fl\u00f8tekarameller", "original_title": "Tran & fl\u00f8tekarameller", "slug_title": "tran-flotekarameller", "date": "2013-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

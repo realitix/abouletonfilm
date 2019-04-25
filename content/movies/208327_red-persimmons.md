@@ -1,1 +1,0 @@
-{"tmdb_id": 208327, "title": "Red Persimmons", "original_title": "Manzan benigaki", "slug_title": "red-persimmons", "date": "2001-10-25", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jAjref1f303fbCWN74Iv0j4Oqoo.jpg", "actors": [], "comments": [], "recommandations_id": []}

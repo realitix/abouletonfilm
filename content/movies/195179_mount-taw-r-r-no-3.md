@@ -1,1 +1,0 @@
-{"tmdb_id": 195179, "title": "Mount Taw R.R., No. 3", "original_title": "Mount Taw R.R., No. 3", "slug_title": "mount-taw-r-r-no-3", "date": "1898-05-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

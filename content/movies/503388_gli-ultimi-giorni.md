@@ -1,1 +1,0 @@
-{"tmdb_id": 503388, "title": "Gli ultimi giorni", "original_title": "Gli ultimi giorni", "slug_title": "gli-ultimi-giorni", "date": "1992-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Corso Salani (Alberto)"], "comments": [], "recommandations_id": []}

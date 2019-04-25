@@ -1,1 +1,0 @@
-{"tmdb_id": 263759, "title": "Veera Jagathis", "original_title": "Veera Jagathis", "slug_title": "veera-jagathis", "date": "1937-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["V. S. M. Raja Ram Iyer ()", "M. G. Ramachandran ()"], "comments": [], "recommandations_id": []}

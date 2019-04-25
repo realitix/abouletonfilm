@@ -1,1 +1,0 @@
-{"tmdb_id": 355076, "title": "Watch Your Health", "original_title": "Beregi zdorovye", "slug_title": "watch-your-health", "date": "1929-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kBpiCSU7QZTswnmnMhzEyrPLLDA.jpg", "actors": [], "comments": [], "recommandations_id": []}

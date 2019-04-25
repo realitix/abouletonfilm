@@ -1,1 +1,0 @@
-{"tmdb_id": 325076, "title": "Ordeal in the Desert", "original_title": "Ordeal in the Desert", "slug_title": "ordeal-in-the-desert", "date": "1964-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Q7GIOvM1q5f6JbP6yLjbToak7M.jpg", "actors": [], "comments": [], "recommandations_id": []}

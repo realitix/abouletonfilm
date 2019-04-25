@@ -1,1 +1,0 @@
-{"tmdb_id": 332520, "title": "An Evil Hour", "original_title": "An Evil Hour", "slug_title": "an-evil-hour", "date": "1971-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5QTRp5DsR1WSd4F7WoCCcGyGqwQ.jpg", "actors": ["Peter Wolff ((Narrator))"], "comments": [], "recommandations_id": [72696]}

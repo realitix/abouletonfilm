@@ -1,1 +1,0 @@
-{"tmdb_id": 328833, "title": "Universal Current Events", "original_title": "Universal Current Events", "slug_title": "universal-current-events", "date": "1917-01-01", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

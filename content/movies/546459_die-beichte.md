@@ -1,1 +1,0 @@
-{"tmdb_id": 546459, "title": "Die Beichte", "original_title": "Die Beichte", "slug_title": "die-beichte", "date": "1991-02-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ui9yFovcSvj67D2WC9dxrJHfXBR.jpg", "actors": ["Jochen Kuhn (Narrator (voice))"], "comments": [], "recommandations_id": []}

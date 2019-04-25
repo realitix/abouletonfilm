@@ -1,1 +1,0 @@
-{"tmdb_id": 278101, "title": "Welcome Puppy", "original_title": "V\u00e4lkommen Valp", "slug_title": "welcome-puppy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fxX41re6UnGB1wAE1saX8WQDH5t.jpg", "actors": [], "comments": [], "recommandations_id": []}

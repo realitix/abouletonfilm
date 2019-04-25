@@ -1,1 +1,0 @@
-{"tmdb_id": 455609, "title": "En v\u00e5r i vapen", "original_title": "En v\u00e5r i vapen", "slug_title": "en-var-i-vapen", "date": "1943-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

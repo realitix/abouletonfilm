@@ -1,1 +1,0 @@
-{"tmdb_id": 475537, "title": "Purpose: Mary Jean and the Green Stone", "original_title": "Purpose: Mary Jean and the Green Stone", "slug_title": "purpose-mary-jean-and-the-green-stone", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

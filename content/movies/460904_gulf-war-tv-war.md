@@ -1,1 +1,0 @@
-{"tmdb_id": 460904, "title": "Gulf War TV War", "original_title": "Gulf War TV War", "slug_title": "gulf-war-tv-war", "date": "2017-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

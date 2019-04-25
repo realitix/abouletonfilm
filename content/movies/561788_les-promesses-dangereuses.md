@@ -1,1 +1,0 @@
-{"tmdb_id": 561788, "title": "Les promesses dangereuses", "original_title": "Les promesses dangereuses", "slug_title": "les-promesses-dangereuses", "date": "1956-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jhE5eKf10HUxTbR6WtccG0mq89R.jpg", "actors": [], "comments": [], "recommandations_id": []}

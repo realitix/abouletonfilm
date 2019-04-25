@@ -1,1 +1,0 @@
-{"tmdb_id": 444856, "title": "Passion Pursuit: What Kind of Love Are You Making?", "original_title": "Passion Pursuit: What Kind of Love Are You Making?", "slug_title": "passion-pursuit-what-kind-of-love-are-you-making", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

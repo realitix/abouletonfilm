@@ -1,1 +1,0 @@
-{"tmdb_id": 284646, "title": "Cruelty", "original_title": "Kraurya", "slug_title": "cruelty", "date": "1996-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7wCe4gD3cDiCgQjB5ctQ4GLWH2P.jpg", "actors": ["Renukamma Murgod ()", "Master Vishwas ()", "H. G. Dattatreya ()"], "comments": [], "recommandations_id": []}

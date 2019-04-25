@@ -1,1 +1,0 @@
-{"tmdb_id": 474257, "title": "The Love Commandos", "original_title": "The Love Commandos", "slug_title": "the-love-commandos", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oalR0VrKwibYhb6fci54FWksELK.jpg", "actors": [], "comments": [], "recommandations_id": []}

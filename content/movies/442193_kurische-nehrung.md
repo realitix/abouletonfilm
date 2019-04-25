@@ -1,1 +1,0 @@
-{"tmdb_id": 442193, "title": "Kurische Nehrung", "original_title": "Kurische Nehrung", "slug_title": "kurische-nehrung", "date": "2001-02-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k34okY1t6HGWX80r8v67kKABHV2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 543888, "title": "Family Offline", "original_title": "\u0421\u0435\u043c\u044c\u044f Offline", "slug_title": "family-offline", "date": "2015-10-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4YktNYK4OjCuUcE4K2fRAXBbAWe.jpg", "actors": [], "comments": [], "recommandations_id": []}

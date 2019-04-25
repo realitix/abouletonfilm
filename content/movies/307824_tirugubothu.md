@@ -1,1 +1,0 @@
-{"tmdb_id": 307824, "title": "Tirugubothu", "original_title": "Tirugubothu", "slug_title": "tirugubothu", "date": "2011-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

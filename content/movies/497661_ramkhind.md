@@ -1,1 +1,0 @@
-{"tmdb_id": 497661, "title": "Ramkhind", "original_title": "Ramkhind", "slug_title": "ramkhind", "date": "2003-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6rjjRlAmUf5YWIqaVGPRLmKCBLP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 584976, "title": "Marfa: This Must Be the Place", "original_title": "Marfa: This Must Be the Place", "slug_title": "marfa-this-must-be-the-place", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

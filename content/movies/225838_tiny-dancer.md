@@ -1,1 +1,0 @@
-{"tmdb_id": 225838, "title": "Tiny Dancer", "original_title": "Tiny Dancer", "slug_title": "tiny-dancer", "date": "2005-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

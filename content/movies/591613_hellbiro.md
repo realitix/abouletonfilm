@@ -1,1 +1,0 @@
-{"tmdb_id": 591613, "title": "Hellbiro", "original_title": "Hellbiro", "slug_title": "hellbiro", "date": "2018-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jKTgIdLCzthR1OEerjwa3kV9zMy.jpg", "actors": [], "comments": [], "recommandations_id": []}

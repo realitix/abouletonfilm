@@ -1,1 +1,0 @@
-{"tmdb_id": 339017, "title": "Jazz Icons: Champion Jack Dupree", "original_title": "Jazz Icons: Champion Jack Dupree", "slug_title": "jazz-icons-champion-jack-dupree", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

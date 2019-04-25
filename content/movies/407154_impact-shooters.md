@@ -1,1 +1,0 @@
-{"tmdb_id": 407154, "title": "Impact Shooters", "original_title": "Impact Shooters", "slug_title": "impact-shooters", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tlPATN3CeITP0kej2pxvbdAyesR.jpg", "actors": [], "comments": [], "recommandations_id": []}

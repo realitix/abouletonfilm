@@ -1,1 +1,0 @@
-{"tmdb_id": 273660, "title": "Rice Field of Dreams", "original_title": "Rice Field of Dreams", "slug_title": "rice-field-of-dreams", "date": "2013-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tf2Z24QvMxSuggsJyBihuVfR2G7.jpg", "actors": [], "comments": [], "recommandations_id": []}

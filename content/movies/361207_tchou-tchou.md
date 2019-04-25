@@ -1,1 +1,0 @@
-{"tmdb_id": 361207, "title": "Tchou-tchou", "original_title": "Tchou-tchou", "slug_title": "tchou-tchou", "date": "1972-01-01", "genre": "Familial", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tfpqTdcldnabzboBfV8d7rUCdjq.jpg", "actors": [], "comments": [], "recommandations_id": [163343, 88570, 157513, 163119]}

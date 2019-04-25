@@ -1,1 +1,0 @@
-{"tmdb_id": 276274, "title": "Johnny Cash: The Line: Walking with a Legend", "original_title": "Johnny Cash: The Line: Walking with a Legend", "slug_title": "johnny-cash-the-line-walking-with-a-legend", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 440917, "title": "The Bomb", "original_title": "The Bomb", "slug_title": "the-bomb", "date": "2017-02-10", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/42tKG16xOL6yB4S2Vzp8IzBgktv.jpg", "actors": [], "comments": [], "recommandations_id": []}

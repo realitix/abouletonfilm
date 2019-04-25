@@ -1,1 +1,0 @@
-{"tmdb_id": 349892, "title": "\uc695\ub9dd\uc758 \ub2aa", "original_title": "\uc695\ub9dd\uc758 \ub2aa", "slug_title": "yogmangyi-neup", "date": "1982-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

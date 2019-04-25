@@ -1,1 +1,0 @@
-{"tmdb_id": 564501, "title": "The Magic Horn", "original_title": "The Magic Horn", "slug_title": "the-magic-horn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 319762, "title": "Lakshadhikari", "original_title": "Lakshadhikari", "slug_title": "lakshadhikari", "date": "1963-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

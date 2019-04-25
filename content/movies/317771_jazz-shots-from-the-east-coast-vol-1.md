@@ -1,1 +1,0 @@
-{"tmdb_id": 317771, "title": "Jazz Shots from the East Coast: Vol. 1", "original_title": "Jazz Shots from the East Coast: Vol. 1", "slug_title": "jazz-shots-from-the-east-coast-vol-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

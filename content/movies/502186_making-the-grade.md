@@ -1,1 +1,0 @@
-{"tmdb_id": 502186, "title": "Making the Grade", "original_title": "Making the Grade", "slug_title": "making-the-grade", "date": "2017-02-20", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iPoxffca9BNawqPEvHkLOY5Ap5r.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 592154, "title": "Diary of Rooftop Water Towers", "original_title": "Diary of Rooftop Water Towers", "slug_title": "diary-of-rooftop-water-towers", "date": "2019-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8H5Joj5RS7jhPdpV3igOSjUkN4f.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 591635, "title": "Smithsonian Time Capsule: 1968", "original_title": "Smithsonian Time Capsule: 1968", "slug_title": "smithsonian-time-capsule-1968", "date": "2018-05-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

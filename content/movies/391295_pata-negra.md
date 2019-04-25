@@ -1,1 +1,0 @@
-{"tmdb_id": 391295, "title": "Pata negra", "original_title": "Pata negra", "slug_title": "pata-negra", "date": "2001-06-15", "genre": "Aventure / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/63rEfo2uKI5Tad5LUz5BIgyZZ3k.jpg", "actors": [], "comments": [], "recommandations_id": []}

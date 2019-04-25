@@ -1,1 +1,0 @@
-{"tmdb_id": 111000, "title": "Woody Woodpecker Favorites", "original_title": "Woody Woodpecker Favorites", "slug_title": "woody-woodpecker-favorites", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nHlo1gADi8C55KM6ZWwTm2x9zGg.jpg", "actors": [], "comments": [], "recommandations_id": []}

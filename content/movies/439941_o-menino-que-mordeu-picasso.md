@@ -1,1 +1,0 @@
-{"tmdb_id": 439941, "title": "O Menino que Mordeu Picasso", "original_title": "O Menino que Mordeu Picasso", "slug_title": "o-menino-que-mordeu-picasso", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["F\u00e1bio Esp\u00f3sito ()", "Rodrigo Pavon ()"], "comments": [], "recommandations_id": []}

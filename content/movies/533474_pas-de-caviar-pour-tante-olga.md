@@ -1,1 +1,0 @@
-{"tmdb_id": 533474, "title": "Pas de caviar pour tante Olga", "original_title": "Pas de caviar pour tante Olga", "slug_title": "pas-de-caviar-pour-tante-olga", "date": "1965-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nTP1hEYH7HjHvS8f5rvjeyq94ul.jpg", "actors": [], "comments": [], "recommandations_id": []}

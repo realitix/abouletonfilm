@@ -1,1 +1,0 @@
-{"tmdb_id": 405291, "title": "Rebecca e le messe nere", "original_title": "Rebecca e le messe nere", "slug_title": "rebecca-e-le-messe-nere", "date": "1997-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9xAodso6QWh5HdPH2K29PlF28rG.jpg", "actors": [], "comments": [], "recommandations_id": []}

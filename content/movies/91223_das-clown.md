@@ -1,1 +1,0 @@
-{"tmdb_id": 91223, "title": "Das Clown", "original_title": "Das Clown", "slug_title": "das-clown", "date": "", "genre": "Horreur / Com\u00e9die", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bA2HLAetRSSDNHRpOxKRPTi04bu.jpg", "actors": [], "comments": [], "recommandations_id": []}

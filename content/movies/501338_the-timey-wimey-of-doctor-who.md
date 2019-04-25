@@ -1,1 +1,0 @@
-{"tmdb_id": 501338, "title": "The Timey-Wimey of Doctor Who", "original_title": "The Timey-Wimey of Doctor Who", "slug_title": "the-timey-wimey-of-doctor-who", "date": "2012-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

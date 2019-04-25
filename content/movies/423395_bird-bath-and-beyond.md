@@ -1,1 +1,0 @@
-{"tmdb_id": 423395, "title": "Bird, Bath and Beyond", "original_title": "Bird, Bath and Beyond", "slug_title": "bird-bath-and-beyond", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2vRSsfUlbOAJSYUHqegm01dgbs3.jpg", "actors": ["Mike Kuchar ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 560913, "title": "Dea marina", "original_title": "Dea marina", "slug_title": "dea-marina", "date": "1996-10-25", "genre": "Animation / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vdU8c9vAfnuVPdqS8Q8E2ZvtCGl.jpg", "actors": [], "comments": [], "recommandations_id": []}

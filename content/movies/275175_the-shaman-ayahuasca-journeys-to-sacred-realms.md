@@ -1,1 +1,0 @@
-{"tmdb_id": 275175, "title": "The Shaman & Ayahuasca: Journeys to Sacred Realms", "original_title": "The Shaman & Ayahuasca: Journeys to Sacred Realms", "slug_title": "the-shaman-ayahuasca-journeys-to-sacred-realms", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

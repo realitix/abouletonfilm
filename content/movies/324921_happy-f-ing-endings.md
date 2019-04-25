@@ -1,1 +1,0 @@
-{"tmdb_id": 324921, "title": "Happy F***ing Endings", "original_title": "Happy F***ing Endings", "slug_title": "happy-f-ing-endings", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

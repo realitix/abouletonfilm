@@ -1,1 +1,0 @@
-{"tmdb_id": 295198, "title": "Running With Demons", "original_title": "Running With Demons", "slug_title": "running-with-demons", "date": "2012-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

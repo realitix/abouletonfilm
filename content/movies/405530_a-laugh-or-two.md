@@ -1,1 +1,0 @@
-{"tmdb_id": 405530, "title": "A Laugh or Two", "original_title": "A Laugh or Two", "slug_title": "a-laugh-or-two", "date": "1928-02-04", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJyduaLV6IVAweDGw4OHwfkTL8V.jpg", "actors": ["Russ Brown ()", "Jean Whitaker ()"], "comments": [], "recommandations_id": []}

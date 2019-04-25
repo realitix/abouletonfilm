@@ -1,1 +1,0 @@
-{"tmdb_id": 510796, "title": "Boy Scout Drill in Sombor", "original_title": "Skautske ve\u017ebe u Somboru", "slug_title": "boy-scout-drill-in-sombor", "date": "1930-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 520501, "title": "Pacifier", "original_title": "Pacifier", "slug_title": "pacifier", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 520501, "title": "Pacifier", "original_title": "Pacifier", "slug_title": "pacifier", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Oscar Perez.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

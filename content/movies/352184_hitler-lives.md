@@ -1,1 +1,0 @@
-{"tmdb_id": 352184, "title": "Hitler Lives!", "original_title": "Hitler est\u00e1 vivo", "slug_title": "hitler-lives", "date": "2006-07-29", "genre": "Com\u00e9die", "score": "2.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Manuel Tallaf\u00e9 (Hitler)"], "comments": [], "recommandations_id": []}

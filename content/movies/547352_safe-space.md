@@ -1,1 +1,0 @@
-{"tmdb_id": 547352, "title": "Safe Space", "original_title": "Safe Space", "slug_title": "safe-space", "date": "2018-09-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

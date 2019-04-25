@@ -1,1 +1,0 @@
-{"tmdb_id": 43478, "title": "Dog City: The Movie", "original_title": "Dog City: The Movie", "slug_title": "dog-city-the-movie", "date": "1989-01-01", "genre": "Action / Familial", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5RHQOJm6bZArLQWa4s6KixAOsy3.jpg", "actors": ["Jim Henson (Rowlf)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 444823, "title": "Pieces of the Future", "original_title": "Pieces of the Future", "slug_title": "pieces-of-the-future", "date": "2016-02-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

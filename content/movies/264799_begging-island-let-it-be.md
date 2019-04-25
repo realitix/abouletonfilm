@@ -1,1 +1,0 @@
-{"tmdb_id": 264799, "title": "Begging Island : Let It Be", "original_title": "Begging Island : Let It Be", "slug_title": "begging-island-let-it-be", "date": "2014-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

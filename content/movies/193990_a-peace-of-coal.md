@@ -1,1 +1,0 @@
-{"tmdb_id": 193990, "title": "A Peace of Coal", "original_title": "A Peace of Coal", "slug_title": "a-peace-of-coal", "date": "1910-05-16", "genre": "Fantastique / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yYCTEi6Fw38QeeGX3hDrnJ05LQp.jpg", "actors": [], "comments": [], "recommandations_id": []}

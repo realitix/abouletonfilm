@@ -1,1 +1,0 @@
-{"tmdb_id": 376692, "title": "D\u00fdrafj\u00f6r\u00f0ur", "original_title": "D\u00fdrafj\u00f6r\u00f0ur", "slug_title": "dyrafjordur", "date": "2014-12-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7WaJFzpNqofCZODfOwAVjt2WZri.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 113859, "title": "Start The Fire", "original_title": "Start The Fire", "slug_title": "start-the-fire", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

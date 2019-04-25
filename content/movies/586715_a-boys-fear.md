@@ -1,1 +1,0 @@
-{"tmdb_id": 586715, "title": "A Boy\u2019s Fear", "original_title": "A Boy\u2019s Fear", "slug_title": "a-boys-fear", "date": "2018-10-17", "genre": "Drame / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James C. Burns (Vincent)", "Brey Chanadet (Billy)"], "comments": [], "recommandations_id": []}

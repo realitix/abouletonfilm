@@ -1,1 +1,0 @@
-{"tmdb_id": 447779, "title": "Images of Soul", "original_title": "Images of Soul", "slug_title": "images-of-soul", "date": "1970-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

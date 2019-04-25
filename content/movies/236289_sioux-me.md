@@ -1,1 +1,0 @@
-{"tmdb_id": 236289, "title": "Sioux Me", "original_title": "Sioux Me", "slug_title": "sioux-me", "date": "1939-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4VqxevkJDCmP3kHNO1CU3veFqQB.jpg", "actors": [], "comments": [], "recommandations_id": []}

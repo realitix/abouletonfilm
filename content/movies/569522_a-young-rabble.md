@@ -1,1 +1,0 @@
-{"tmdb_id": 569522, "title": "A Young Rabble", "original_title": "Iroha wakash\u00fb: Furisode sakura", "slug_title": "a-young-rabble", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

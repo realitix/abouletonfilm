@@ -1,1 +1,0 @@
-{"tmdb_id": 76945, "title": "Subaru Impreza WRX", "original_title": "Subaru Impreza WRX", "slug_title": "subaru-impreza-wrx", "date": "2000-08-14", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Dy1ainEbe5Ey1mZH1C1nNyFKvy.jpg", "actors": [], "comments": [], "recommandations_id": []}

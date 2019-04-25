@@ -1,1 +1,0 @@
-{"tmdb_id": 252468, "title": "Treasure Island", "original_title": "Treasure Island", "slug_title": "treasure-island", "date": "1996-04-16", "genre": "Musique / Animation / Familial / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dmJyg1RjK6BmR69b3UBybpeerHH.jpg", "actors": [], "comments": [], "recommandations_id": []}

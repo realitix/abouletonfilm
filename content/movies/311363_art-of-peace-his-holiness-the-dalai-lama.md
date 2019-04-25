@@ -1,1 +1,0 @@
-{"tmdb_id": 311363, "title": "Art of Peace: His Holiness the Dalai Lama", "original_title": "Art of Peace: His Holiness the Dalai Lama", "slug_title": "art-of-peace-his-holiness-the-dalai-lama", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

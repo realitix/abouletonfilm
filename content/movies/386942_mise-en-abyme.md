@@ -1,1 +1,0 @@
-{"tmdb_id": 386942, "title": "Mise-en-abyme", "original_title": "Mise-en-abyme", "slug_title": "mise-en-abyme", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

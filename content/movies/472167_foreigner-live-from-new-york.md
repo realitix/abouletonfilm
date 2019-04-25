@@ -1,1 +1,0 @@
-{"tmdb_id": 472167, "title": "Foreigner: Live from New York", "original_title": "Foreigner: Live from New York", "slug_title": "foreigner-live-from-new-york", "date": "2015-02-19", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

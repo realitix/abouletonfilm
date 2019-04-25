@@ -1,1 +1,0 @@
-{"tmdb_id": 321467, "title": "Les poup\u00e9es", "original_title": "Les poup\u00e9es", "slug_title": "les-poupees", "date": "1903-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

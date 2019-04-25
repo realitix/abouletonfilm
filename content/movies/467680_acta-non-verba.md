@@ -1,1 +1,0 @@
-{"tmdb_id": 467680, "title": "Acta Non Verba", "original_title": "Acta Non Verba", "slug_title": "acta-non-verba", "date": "2017-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ux0Zx6NXMZkiCMrcNWFsGhdscup.jpg", "actors": [], "comments": [], "recommandations_id": []}

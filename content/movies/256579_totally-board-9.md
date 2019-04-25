@@ -1,1 +1,0 @@
-{"tmdb_id": 256579, "title": "Totally Board 9", "original_title": "Totally Board 9", "slug_title": "totally-board-9", "date": "1999-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eTL3f8T06hFJbV0siPlE0JHcgqA.jpg", "actors": [], "comments": [], "recommandations_id": []}

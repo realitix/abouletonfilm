@@ -1,1 +1,0 @@
-{"tmdb_id": 586479, "title": "Where the River Runs Red", "original_title": "Where the River Runs Red", "slug_title": "where-the-river-runs-red", "date": "2019-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

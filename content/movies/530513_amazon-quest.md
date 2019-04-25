@@ -1,1 +1,0 @@
-{"tmdb_id": 530513, "title": "Amazon Quest", "original_title": "Amazon Quest", "slug_title": "amazon-quest", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/46NdvHsCwxAGTXcusH9cEl8A5gd.jpg", "actors": [], "comments": [], "recommandations_id": []}

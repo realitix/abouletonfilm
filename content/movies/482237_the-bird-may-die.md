@@ -1,1 +1,0 @@
-{"tmdb_id": 482237, "title": "The Bird May Die", "original_title": "The Bird May Die", "slug_title": "the-bird-may-die", "date": "2017-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6DYcrBuD8qYmN8QwkceisD9aaTd.jpg", "actors": [], "comments": [], "recommandations_id": []}

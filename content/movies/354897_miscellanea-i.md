@@ -1,1 +1,0 @@
-{"tmdb_id": 354897, "title": "Miscellanea I", "original_title": "Miscellanea I", "slug_title": "miscellanea-i", "date": "2001-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vXkftqvVLygZI8Mi4YuE9RNViTE.jpg", "actors": [], "comments": [], "recommandations_id": []}

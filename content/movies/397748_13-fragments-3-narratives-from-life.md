@@ -1,1 +1,0 @@
-{"tmdb_id": 397748, "title": "13 Fragments & 3 Narratives from Life", "original_title": "13 Fragments & 3 Narratives from Life", "slug_title": "13-fragments-3-narratives-from-life", "date": "1968-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

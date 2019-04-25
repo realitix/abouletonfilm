@@ -1,1 +1,0 @@
-{"tmdb_id": 317672, "title": "Christmas in Appalachia", "original_title": "Christmas in Appalachia", "slug_title": "christmas-in-appalachia", "date": "1965-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uEIBGo40vpLTqlo3HL1LPaFBO0h.jpg", "actors": [], "comments": [], "recommandations_id": []}

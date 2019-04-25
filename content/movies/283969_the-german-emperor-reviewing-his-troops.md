@@ -1,1 +1,0 @@
-{"tmdb_id": 283969, "title": "The German Emperor Reviewing His Troops", "original_title": "The German Emperor Reviewing His Troops", "slug_title": "the-german-emperor-reviewing-his-troops", "date": "1895-01-02", "genre": "", "score": "0.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kaiser Wilhelm II ()"], "comments": [], "recommandations_id": []}

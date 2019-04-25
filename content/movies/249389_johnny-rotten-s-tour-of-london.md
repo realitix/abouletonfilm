@@ -1,1 +1,0 @@
-{"tmdb_id": 249389, "title": "Johnny Rotten's Tour of London", "original_title": "Johnny Rotten's Tour of London", "slug_title": "johnny-rotten-s-tour-of-london", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Lydon ()"], "comments": [], "recommandations_id": []}

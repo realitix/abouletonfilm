@@ -1,1 +1,0 @@
-{"tmdb_id": 574246, "title": "YouShoot: Teddy Long", "original_title": "YouShoot: Teddy Long", "slug_title": "youshoot-teddy-long", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Theodore Long (Himself)"], "comments": [], "recommandations_id": []}

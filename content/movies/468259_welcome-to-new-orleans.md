@@ -1,1 +1,0 @@
-{"tmdb_id": 468259, "title": "Welcome to New Orleans", "original_title": "Welcome to New Orleans", "slug_title": "welcome-to-new-orleans", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Malik Rahim (Himself)", "Scott Crow (Himself)", "Suncere Ali Shakur (Himself)"], "comments": [], "recommandations_id": []}

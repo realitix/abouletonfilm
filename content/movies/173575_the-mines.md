@@ -1,1 +1,0 @@
-{"tmdb_id": 173575, "title": "The Mines", "original_title": "The Mines", "slug_title": "the-mines", "date": "2012-10-28", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michelle Glick (Mary)", "Michael Quadro (Miner)", "Bruce Holcomb (Bob)", "Maciej Maciejewski (Boss)"], "comments": [], "recommandations_id": []}

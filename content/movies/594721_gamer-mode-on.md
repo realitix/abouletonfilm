@@ -1,1 +1,0 @@
-{"tmdb_id": 594721, "title": "Gamer Mode On", "original_title": "Gamer Mode On", "slug_title": "gamer-mode-on", "date": "2019-04-12", "genre": "Documentaire / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["PepperGaming (DannyDevitoOnion)", "Christopher Dork (Dave)"], "comments": [], "recommandations_id": []}

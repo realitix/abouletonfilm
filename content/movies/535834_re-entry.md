@@ -1,1 +1,0 @@
-{"tmdb_id": 535834, "title": "Re: Entry", "original_title": "Re: Entry", "slug_title": "re-entry", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 520882, "title": "Race of the Rough Riders", "original_title": "Race of the Rough Riders", "slug_title": "race-of-the-rough-riders", "date": "2004-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

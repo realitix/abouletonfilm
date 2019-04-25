@@ -1,1 +1,0 @@
-{"tmdb_id": 388951, "title": "Kandidaten", "original_title": "Kandidaten", "slug_title": "kandidaten", "date": "2010-11-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/giXA76TPszzP6bSePctPcLbcAr2.jpg", "actors": [], "comments": [], "recommandations_id": []}

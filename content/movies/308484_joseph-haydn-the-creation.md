@@ -1,1 +1,0 @@
-{"tmdb_id": 308484, "title": "Joseph Haydn: The Creation", "original_title": "Joseph Haydn: The Creation", "slug_title": "joseph-haydn-the-creation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 334865, "title": "The Incident", "original_title": "The Incident", "slug_title": "the-incident", "date": "2013-09-01", "genre": "Crime / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Baker (Clive)", "Barlow Jacobs (Patrick)", "Ashley Grace (Holly)"], "comments": [], "recommandations_id": []}

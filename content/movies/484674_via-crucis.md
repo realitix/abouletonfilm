@@ -1,1 +1,0 @@
-{"tmdb_id": 484674, "title": "Via Crucis", "original_title": "Via Crucis", "slug_title": "via-crucis", "date": "1972-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p3f2QCruhzI5q0ssFkBbyx10xFw.jpg", "actors": [], "comments": [], "recommandations_id": []}

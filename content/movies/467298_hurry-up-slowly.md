@@ -1,1 +1,0 @@
-{"tmdb_id": 467298, "title": "Hurry Up, Slowly!", "original_title": "Hurry Up, Slowly!", "slug_title": "hurry-up-slowly", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

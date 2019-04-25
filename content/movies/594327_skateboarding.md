@@ -1,1 +1,0 @@
-{"tmdb_id": 594327, "title": "Skateboarding", "original_title": "Skate no Antonieta Amorim", "slug_title": "skateboarding", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Humberto Crispim (Himself)"], "comments": [], "recommandations_id": []}

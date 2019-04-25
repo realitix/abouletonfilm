@@ -1,1 +1,0 @@
-{"tmdb_id": 177813, "title": "Kalpana", "original_title": "Kalpana", "slug_title": "kalpana", "date": "1948-01-01", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5GsReNMQV5eNJBVa3Jz5sCH6Olm.jpg", "actors": ["Usha Kiran ()", "Uday Shankar (Udayan)"], "comments": [], "recommandations_id": []}

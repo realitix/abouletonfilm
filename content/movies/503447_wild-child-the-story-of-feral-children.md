@@ -1,1 +1,0 @@
-{"tmdb_id": 503447, "title": "Wild Child: The Story of Feral Children", "original_title": "Wild Child: The Story of Feral Children", "slug_title": "wild-child-the-story-of-feral-children", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

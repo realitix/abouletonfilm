@@ -1,1 +1,0 @@
-{"tmdb_id": 287286, "title": "National Diploma", "original_title": "Examen d'\u00e9tat", "slug_title": "national-diploma", "date": "2014-03-26", "genre": "Histoire / Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A5QULHyRyYWfSNvhKGXtDjiDmha.jpg", "actors": [], "comments": [], "recommandations_id": []}

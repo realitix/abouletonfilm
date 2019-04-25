@@ -1,1 +1,0 @@
-{"tmdb_id": 340736, "title": "Khuda Kasam", "original_title": "Khuda Kasam", "slug_title": "khuda-kasam", "date": "2010-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8n3pTPrNDAWF7WCVlF9dEOl01Dm.jpg", "actors": ["Tabu (Neetu Singh)", "Sunny Deol (Hussain)"], "comments": [], "recommandations_id": []}

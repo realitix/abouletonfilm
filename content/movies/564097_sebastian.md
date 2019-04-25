@@ -1,1 +1,0 @@
-{"tmdb_id": 564097, "title": "Sebastian", "original_title": "Sebastian", "slug_title": "sebastian", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/derh2dy4cnVygPF7v3prbcldODh.jpg", "actors": ["Art Bonilla (Narrator)", "JC Cristo (Sebastian)"], "comments": [], "recommandations_id": []}

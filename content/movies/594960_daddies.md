@@ -1,1 +1,0 @@
-{"tmdb_id": 594960, "title": "Daddies", "original_title": "Daddies", "slug_title": "daddies", "date": "1924-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r5hy8ZWUcS21qgFqAoPXvtoVCn6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 367079, "title": "Poker at Dawson City", "original_title": "Poker at Dawson City", "slug_title": "poker-at-dawson-city", "date": "1899-02-01", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

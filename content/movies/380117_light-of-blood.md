@@ -1,1 +1,0 @@
-{"tmdb_id": 380117, "title": "Light of Blood", "original_title": "Light of Blood", "slug_title": "light-of-blood", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/guOAgknzBovjWv290movR406pUd.jpg", "actors": [], "comments": [], "recommandations_id": []}

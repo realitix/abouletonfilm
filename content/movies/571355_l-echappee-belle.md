@@ -1,1 +1,0 @@
-{"tmdb_id": 571355, "title": "L'\u00e9chapp\u00e9e belle", "original_title": "L'\u00e9chapp\u00e9e belle", "slug_title": "l-echappee-belle", "date": "1996-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vJPBwn2kAT99MON8qLK1gyIzNZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

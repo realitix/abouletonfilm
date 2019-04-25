@@ -1,1 +1,0 @@
-{"tmdb_id": 582375, "title": "Notebook", "original_title": "Notebook", "slug_title": "notebook", "date": "2019-03-29", "genre": "Romance / Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xWGuyAriV4h3vzSSplITsJlIUSX.jpg", "actors": ["Pranutan Bahl (Firdous)", "Zaheer Iqbal (Kabir)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 168850, "title": "Ogre Slayer", "original_title": "Onikirimaru", "slug_title": "ogre-slayer", "date": "1994-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1JJNBfh5KxNV6fwLmaA61XjZ54c.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 123777, "title": "Sink or Swim", "original_title": "Sink or Swim", "slug_title": "sink-or-swim", "date": "1990-09-30", "genre": "Documentaire / Drame", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a2YaW17fJxailoLA5k06unxsNyC.jpg", "actors": ["Jessica Meyerson (Narrator)"], "comments": [], "recommandations_id": []}

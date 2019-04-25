@@ -1,1 +1,0 @@
-{"tmdb_id": 436271, "title": "\u00c1lomm\u00e1solatok", "original_title": "\u00c1lomm\u00e1solatok", "slug_title": "alommasolatok", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

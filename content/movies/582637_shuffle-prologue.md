@@ -1,1 +1,0 @@
-{"tmdb_id": 582637, "title": "SHUFFLE! Prologue", "original_title": "SHUFFLE! Prologue", "slug_title": "shuffle-prologue", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7GT7NEMlvwX841L9FbePGfQjYI3.jpg", "actors": [], "comments": [], "recommandations_id": []}

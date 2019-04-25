@@ -1,1 +1,0 @@
-{"tmdb_id": 384902, "title": "The Shutdown", "original_title": "The Shutdown", "slug_title": "the-shutdown", "date": "2011-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jZPOJyWCc6UhQzUTyfW0arIUT6Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

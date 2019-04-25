@@ -1,1 +1,0 @@
-{"tmdb_id": 555245, "title": "Father the Flame", "original_title": "Father the Flame", "slug_title": "father-the-flame", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 504268, "title": "Water's Journey: The River Returns", "original_title": "Water's Journey: The River Returns", "slug_title": "water-s-journey-the-river-returns", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a5VwVgRXMsMoZ0Ybx2ACpIEZB4C.jpg", "actors": [], "comments": [], "recommandations_id": []}

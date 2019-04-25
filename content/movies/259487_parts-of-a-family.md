@@ -1,1 +1,0 @@
-{"tmdb_id": 259487, "title": "Parts of a Family", "original_title": "Partes de una familia", "slug_title": "parts-of-a-family", "date": "2013-03-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mWlKrVJlXInnqVoIkkGDxT70QZM.jpg", "actors": [], "comments": [], "recommandations_id": []}

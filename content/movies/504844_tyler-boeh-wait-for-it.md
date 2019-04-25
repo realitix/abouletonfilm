@@ -1,1 +1,0 @@
-{"tmdb_id": 504844, "title": "Tyler Boeh: Wait For It", "original_title": "Tyler Boeh: Wait For It", "slug_title": "tyler-boeh-wait-for-it", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

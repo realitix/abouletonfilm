@@ -1,1 +1,0 @@
-{"tmdb_id": 507516, "title": "Campillo s\u00ed, quiero", "original_title": "Campillo s\u00ed, quiero", "slug_title": "campillo-si-quiero", "date": "2007-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Kn8Qanb6EREluNeoCTOJqo9dDK.jpg", "actors": [], "comments": [], "recommandations_id": []}

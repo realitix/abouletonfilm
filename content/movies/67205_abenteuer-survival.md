@@ -1,1 +1,0 @@
-{"tmdb_id": 67205, "title": "Abenteuer Survival", "original_title": "Abenteuer Survival", "slug_title": "abenteuer-survival", "date": "2010-07-13", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6atwYP0ulfcKOFtHVTyS9KcSyYw.jpg", "actors": ["Bear Grylls ()"], "comments": [], "recommandations_id": []}

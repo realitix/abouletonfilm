@@ -1,1 +1,0 @@
-{"tmdb_id": 367486, "title": "Maiden Voyages", "original_title": "Maiden Voyages", "slug_title": "maiden-voyages", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

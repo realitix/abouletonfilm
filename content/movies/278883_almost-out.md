@@ -1,1 +1,1 @@
-{"tmdb_id": 278883, "title": "Almost Out", "original_title": "Almost Out", "slug_title": "almost-out", "date": "1986-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 278883, "title": "Almost Out", "original_title": "Almost Out", "slug_title": "almost-out", "date": "1986-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Jayne Parker.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

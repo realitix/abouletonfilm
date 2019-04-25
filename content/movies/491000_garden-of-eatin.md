@@ -1,1 +1,0 @@
-{"tmdb_id": 491000, "title": "Garden of Eatin'", "original_title": "Garden of Eatin'", "slug_title": "garden-of-eatin", "date": "1943-10-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Slim Summerville (Slim)"], "comments": [], "recommandations_id": []}

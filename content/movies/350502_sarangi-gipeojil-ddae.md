@@ -1,1 +1,0 @@
-{"tmdb_id": 350502, "title": "\uc0ac\ub791\uc774 \uae4a\uc5b4\uc9c8 \ub54c", "original_title": "\uc0ac\ub791\uc774 \uae4a\uc5b4\uc9c8 \ub54c", "slug_title": "sarangi-gipeojil-ddae", "date": "1979-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

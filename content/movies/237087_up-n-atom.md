@@ -1,1 +1,0 @@
-{"tmdb_id": 237087, "title": "Up N' Atom", "original_title": "Up N' Atom", "slug_title": "up-n-atom", "date": "1947-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

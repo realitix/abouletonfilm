@@ -1,1 +1,0 @@
-{"tmdb_id": 408925, "title": "Terreur", "original_title": "Terreur", "slug_title": "terreur", "date": "1924-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pearl White (H\u00e9l\u00e8ne Lorfeuil)", "Henri Baudin (Lorfeuil)"], "comments": [], "recommandations_id": []}

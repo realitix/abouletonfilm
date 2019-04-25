@@ -1,1 +1,0 @@
-{"tmdb_id": 561449, "title": "The Secrets of the Bed", "original_title": "Secret d'alc\u00f4ve", "slug_title": "the-secrets-of-the-bed", "date": "1954-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qOXWudek6AAkiVoCWrhpCERArCP.jpg", "actors": [], "comments": [], "recommandations_id": []}

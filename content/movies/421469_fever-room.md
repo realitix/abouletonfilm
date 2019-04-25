@@ -1,1 +1,0 @@
-{"tmdb_id": 421469, "title": "Fever Room", "original_title": "Fever Room", "slug_title": "fever-room", "date": "2015-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xr4zyWdk1kxPG52MBUvJ5qi6QDS.jpg", "actors": [], "comments": [], "recommandations_id": []}

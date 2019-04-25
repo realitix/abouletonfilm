@@ -1,1 +1,0 @@
-{"tmdb_id": 452808, "title": "Passages", "original_title": "Passages", "slug_title": "passages", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ZCHZf9dagkLj4xitdYBhAcRU3f.jpg", "actors": ["Sandra Davis ()", "Vivian Ostrovsky ()", "Ang\u00e9line Scherf ()"], "comments": [], "recommandations_id": []}

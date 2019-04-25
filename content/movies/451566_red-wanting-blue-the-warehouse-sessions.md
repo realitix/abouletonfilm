@@ -1,1 +1,0 @@
-{"tmdb_id": 451566, "title": "Red Wanting Blue - The Warehouse Sessions", "original_title": "Red Wanting Blue - The Warehouse Sessions", "slug_title": "red-wanting-blue-the-warehouse-sessions", "date": "2006-12-12", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

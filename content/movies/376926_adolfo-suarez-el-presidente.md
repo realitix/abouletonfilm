@@ -1,1 +1,0 @@
-{"tmdb_id": 376926, "title": "Adolfo Suarez, El Presidente", "original_title": "Adolfo Suarez, El Presidente", "slug_title": "adolfo-suarez-el-presidente", "date": "2010-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oJKJ2JKDFKoDclydMZRUaK8sVxx.jpg", "actors": [], "comments": [], "recommandations_id": []}

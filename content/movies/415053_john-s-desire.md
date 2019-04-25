@@ -1,1 +1,0 @@
-{"tmdb_id": 415053, "title": "John's Desire", "original_title": "John's Desire", "slug_title": "john-s-desire", "date": "2011-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

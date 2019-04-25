@@ -1,1 +1,0 @@
-{"tmdb_id": 509259, "title": "I Am Gay and Muslim", "original_title": "I Am Gay and Muslim", "slug_title": "i-am-gay-and-muslim", "date": "2012-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kyzdW3tVEQdMJ2TLv4Iu28XXXrZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

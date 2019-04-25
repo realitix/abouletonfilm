@@ -1,1 +1,0 @@
-{"tmdb_id": 581294, "title": "\ubbf8\ub798\uc18c\ub144 \ucf54\ub09c", "original_title": "\ubbf8\ub798\uc18c\ub144 \ucf54\ub09c", "slug_title": "miraesonyeon-konan", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vQXajU8te3SXcAC9ciOZe0XCMui.jpg", "actors": [], "comments": [], "recommandations_id": []}

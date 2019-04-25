@@ -1,1 +1,0 @@
-{"tmdb_id": 88364, "title": "Canvas of Blood", "original_title": "Canvas of Blood", "slug_title": "canvas-of-blood", "date": "1997-05-24", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aKlg0GJbVNidN1d9oCrYErGcMBK.jpg", "actors": ["Jack McClernan ()"], "comments": [], "recommandations_id": []}

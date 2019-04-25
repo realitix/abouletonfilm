@@ -1,1 +1,0 @@
-{"tmdb_id": 162646, "title": "Betty Co-ed", "original_title": "Betty Co-ed", "slug_title": "betty-co-ed", "date": "1931-08-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

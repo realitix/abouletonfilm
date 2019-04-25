@@ -1,1 +1,0 @@
-{"tmdb_id": 307834, "title": "Vijayam Manade", "original_title": "Vijayam Manade", "slug_title": "vijayam-manade", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

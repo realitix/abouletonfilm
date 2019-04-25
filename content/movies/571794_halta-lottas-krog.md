@@ -1,1 +1,0 @@
-{"tmdb_id": 571794, "title": "Halta Lottas krog", "original_title": "Halta Lottas krog", "slug_title": "halta-lottas-krog", "date": "1942-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

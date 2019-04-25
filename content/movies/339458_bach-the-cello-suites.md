@@ -1,1 +1,0 @@
-{"tmdb_id": 339458, "title": "Bach The Cello Suites", "original_title": "Bach The Cello Suites", "slug_title": "bach-the-cello-suites", "date": "2007-05-09", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nYLkMXqc2KtvEmzejQDoMokkfig.jpg", "actors": ["Mischa Maisky ()"], "comments": [], "recommandations_id": []}

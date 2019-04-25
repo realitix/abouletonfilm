@@ -1,1 +1,0 @@
-{"tmdb_id": 484233, "title": "Schule, Schule - Die Zeit nach Berg Fidel", "original_title": "Schule, Schule - Die Zeit nach Berg Fidel", "slug_title": "schule-schule-die-zeit-nach-berg-fidel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

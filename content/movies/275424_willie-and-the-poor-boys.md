@@ -1,1 +1,0 @@
-{"tmdb_id": 275424, "title": "Willie and the Poor Boys", "original_title": "Willie and the Poor Boys", "slug_title": "willie-and-the-poor-boys", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

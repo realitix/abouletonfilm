@@ -1,1 +1,0 @@
-{"tmdb_id": 487494, "title": "Se abrir\u00e1 la tierra", "original_title": "Se abrir\u00e1 la tierra", "slug_title": "se-abrira-la-tierra", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

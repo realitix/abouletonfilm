@@ -1,1 +1,0 @@
-{"tmdb_id": 416173, "title": "Shepherd\u2019s Delight", "original_title": "Shepherd\u2019s Delight", "slug_title": "shepherds-delight", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4a3RilA3L4j2nAoPvubYjU1MF6l.jpg", "actors": [], "comments": [], "recommandations_id": []}

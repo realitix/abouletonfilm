@@ -1,1 +1,0 @@
-{"tmdb_id": 520221, "title": "Fratelli", "original_title": "Fratelli", "slug_title": "fratelli", "date": "2012-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

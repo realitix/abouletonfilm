@@ -1,1 +1,0 @@
-{"tmdb_id": 563288, "title": "Viure sense Viure", "original_title": "Viure sense Viure", "slug_title": "viure-sense-viure", "date": "1976-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rJgIRWWouGDCNp9MviIk76KFngu.jpg", "actors": ["\u00c1ngela Molina ()"], "comments": [], "recommandations_id": []}

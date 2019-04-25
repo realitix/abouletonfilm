@@ -1,1 +1,0 @@
-{"tmdb_id": 508068, "title": "Laughing Matters... Next Gen", "original_title": "Laughing Matters... Next Gen", "slug_title": "laughing-matters-next-gen", "date": "2009-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ccheoZRTLUK9EJTc9a7EQQVxP8q.jpg", "actors": [], "comments": [], "recommandations_id": []}

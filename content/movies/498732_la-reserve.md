@@ -1,1 +1,0 @@
-{"tmdb_id": 498732, "title": "La R\u00e9serve", "original_title": "La R\u00e9serve", "slug_title": "la-reserve", "date": "2017-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

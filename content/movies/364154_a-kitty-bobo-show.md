@@ -1,1 +1,0 @@
-{"tmdb_id": 364154, "title": "A Kitty Bobo Show", "original_title": "A Kitty Bobo Show", "slug_title": "a-kitty-bobo-show", "date": "2001-08-17", "genre": "Familial / Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ckbNXlkARXAKQCt4KdQ6cXJFf7F.jpg", "actors": [], "comments": [], "recommandations_id": []}

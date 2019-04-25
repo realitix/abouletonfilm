@@ -1,1 +1,0 @@
-{"tmdb_id": 284768, "title": "K-9000: A Space Oddity", "original_title": "K-9000: A Space Oddity", "slug_title": "k-9000-a-space-oddity", "date": "1968-01-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ld2jD7j9OoKt3M0kPKvoFUbqrZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

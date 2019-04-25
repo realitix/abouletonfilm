@@ -1,1 +1,0 @@
-{"tmdb_id": 535651, "title": "Feel Good Story", "original_title": "\uc798\ub3fc\uac00? \ubb34\uc5c7\uc774\ub4e0", "slug_title": "feel-good-story", "date": "2004-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cuGAcdfp4lEj7AdDRRqnF8J5TAE.jpg", "actors": [], "comments": [], "recommandations_id": []}

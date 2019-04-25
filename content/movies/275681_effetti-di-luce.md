@@ -1,1 +1,0 @@
-{"tmdb_id": 275681, "title": "Effetti di luce", "original_title": "Effetti di luce", "slug_title": "effetti-di-luce", "date": "1916-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stacia Napierkowska ()", "Rodope Furlan ()", "Guido Graziosi ()", "Raffaello Mariani ()"], "comments": [], "recommandations_id": []}

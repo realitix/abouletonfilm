@@ -1,1 +1,0 @@
-{"tmdb_id": 299025, "title": "Dark Carnival", "original_title": "Dark Carnival", "slug_title": "dark-carnival", "date": "1993-10-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iTYZOmNfufn3okBjINV0vO4kj6W.jpg", "actors": [], "comments": [], "recommandations_id": []}

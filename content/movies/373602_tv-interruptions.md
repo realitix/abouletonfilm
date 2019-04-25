@@ -1,1 +1,0 @@
-{"tmdb_id": 373602, "title": "TV Interruptions", "original_title": "TV Interruptions", "slug_title": "tv-interruptions", "date": "1971-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

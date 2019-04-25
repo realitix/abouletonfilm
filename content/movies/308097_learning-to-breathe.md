@@ -1,1 +1,0 @@
-{"tmdb_id": 308097, "title": "Learning to Breathe", "original_title": "Learning to Breathe", "slug_title": "learning-to-breathe", "date": "2016-08-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pQucFUjNw8yTSgweMsYdNSKJNsm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 476318, "title": "The Legend Lives On: Atlanta's Fox Theater", "original_title": "The Legend Lives On: Atlanta's Fox Theater", "slug_title": "the-legend-lives-on-atlanta-s-fox-theater", "date": "2016-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jill Perry (Narrator)"], "comments": [], "recommandations_id": []}

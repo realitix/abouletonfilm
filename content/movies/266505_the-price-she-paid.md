@@ -1,1 +1,0 @@
-{"tmdb_id": 266505, "title": "The Price She Paid", "original_title": "The Price She Paid", "slug_title": "the-price-she-paid", "date": "1992-03-30", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Loni Anderson (Lacey)", "Tony Denison (Welles)", "Stephen Meadows (Dan)"], "comments": [], "recommandations_id": []}

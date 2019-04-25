@@ -1,1 +1,0 @@
-{"tmdb_id": 377766, "title": "All This and Rabbit Stew", "original_title": "All This and Rabbit Stew", "slug_title": "all-this-and-rabbit-stew", "date": "1950-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

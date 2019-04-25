@@ -1,1 +1,0 @@
-{"tmdb_id": 425799, "title": "The Last Move", "original_title": "The Last Move", "slug_title": "the-last-move", "date": "2015-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/78Ej6wByrOSMEuV3HF7R5YYAIeG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 420636, "title": "Possessed: Live in Baltimore MD 1987- Shot From Hell", "original_title": "Possessed: Live in Baltimore MD 1987- Shot From Hell", "slug_title": "possessed-live-in-baltimore-md-1987-shot-from-hell", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

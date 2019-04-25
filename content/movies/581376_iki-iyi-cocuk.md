@@ -1,1 +1,0 @@
-{"tmdb_id": 581376, "title": "\u0130ki \u0130yi \u00c7ocuk", "original_title": "\u0130ki \u0130yi \u00c7ocuk", "slug_title": "iki-iyi-cocuk", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wwuZJCGOszpUIdBeHcbREVzXcFB.jpg", "actors": [], "comments": [], "recommandations_id": []}

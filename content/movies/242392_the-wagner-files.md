@@ -1,1 +1,0 @@
-{"tmdb_id": 242392, "title": "The Wagner Files", "original_title": "The Wagner Files", "slug_title": "the-wagner-files", "date": "2013-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9p7kVXSMqFE97ENJbftI0aadag7.jpg", "actors": [], "comments": [], "recommandations_id": []}

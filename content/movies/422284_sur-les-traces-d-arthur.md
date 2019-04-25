@@ -1,1 +1,0 @@
-{"tmdb_id": 422284, "title": "Sur les traces d'Arthur", "original_title": "Sur les traces d'Arthur", "slug_title": "sur-les-traces-d-arthur", "date": "2016-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rO4LK4WnYfWZ8zUwg5gO4XHppEY.jpg", "actors": ["Sa\u00ebl Lacroix ()"], "comments": [], "recommandations_id": []}

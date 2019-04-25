@@ -1,1 +1,0 @@
-{"tmdb_id": 563589, "title": "My Soul Drifts Light Upon a Sea of Trees", "original_title": "My Soul Drifts Light Upon a Sea of Trees", "slug_title": "my-soul-drifts-light-upon-a-sea-of-trees", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

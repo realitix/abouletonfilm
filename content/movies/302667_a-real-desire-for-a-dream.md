@@ -1,1 +1,0 @@
-{"tmdb_id": 302667, "title": "A Real Desire For A Dream", "original_title": "A Real Desire For A Dream", "slug_title": "a-real-desire-for-a-dream", "date": "2013-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 332992, "title": "Selling Off Britain", "original_title": "Selling Off Britain", "slug_title": "selling-off-britain", "date": "2015-03-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Will Hutton (Presenter)"], "comments": [], "recommandations_id": []}

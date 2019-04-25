@@ -1,1 +1,0 @@
-{"tmdb_id": 276546, "title": "Stephen Kovacevich: Beethoven: Piano Sonatas", "original_title": "Stephen Kovacevich: Beethoven: Piano Sonatas", "slug_title": "stephen-kovacevich-beethoven-piano-sonatas", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

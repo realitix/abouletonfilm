@@ -1,1 +1,0 @@
-{"tmdb_id": 195241, "title": "10th U.S. Infantry, 2nd Battalion Leaving Cars", "original_title": "10th U.S. Infantry, 2nd Battalion Leaving Cars", "slug_title": "10th-u-s-infantry-2nd-battalion-leaving-cars", "date": "1898-05-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

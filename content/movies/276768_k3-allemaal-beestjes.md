@@ -1,1 +1,0 @@
-{"tmdb_id": 276768, "title": "K3 - Allemaal Beestjes", "original_title": "K3 - Allemaal Beestjes", "slug_title": "k3-allemaal-beestjes", "date": "2013-11-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wUIT9hUBv2IHwiPSr1mp2AXKx4p.jpg", "actors": [], "comments": [], "recommandations_id": []}

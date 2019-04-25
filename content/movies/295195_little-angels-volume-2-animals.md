@@ -1,1 +1,0 @@
-{"tmdb_id": 295195, "title": "Little Angels Volume 2: Animals", "original_title": "Little Angels Volume 2: Animals", "slug_title": "little-angels-volume-2-animals", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

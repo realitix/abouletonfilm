@@ -1,1 +1,0 @@
-{"tmdb_id": 491477, "title": "The Limestone Conflict", "original_title": "The Limestone Conflict", "slug_title": "the-limestone-conflict", "date": "2016-01-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n7cJ4ERLmtJrEvWZbeo1cih8QJN.jpg", "actors": [], "comments": [], "recommandations_id": []}

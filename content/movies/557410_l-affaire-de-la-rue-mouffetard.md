@@ -1,1 +1,0 @@
-{"tmdb_id": 557410, "title": "L'affaire de la rue Mouffetard", "original_title": "L'affaire de la rue Mouffetard", "slug_title": "l-affaire-de-la-rue-mouffetard", "date": "1932-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

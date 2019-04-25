@@ -1,1 +1,0 @@
-{"tmdb_id": 199679, "title": "El llanto de Helena", "original_title": "El llanto de Helena", "slug_title": "el-llanto-de-helena", "date": "2009-06-05", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nMdgyv4FbgREuJUSanQK2Jw9YZc.jpg", "actors": [], "comments": [], "recommandations_id": []}

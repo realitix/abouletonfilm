@@ -1,1 +1,0 @@
-{"tmdb_id": 407674, "title": "In the course of Human Events", "original_title": "In the course of Human Events", "slug_title": "in-the-course-of-human-events", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1D47iQgfrdng2lTK2lTlwvyzmdZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

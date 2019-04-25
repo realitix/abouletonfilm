@@ -1,1 +1,0 @@
-{"tmdb_id": 84828, "title": "The Forest Prince and the Pig Man", "original_title": "The Forest Prince and the Pig Man", "slug_title": "the-forest-prince-and-the-pig-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

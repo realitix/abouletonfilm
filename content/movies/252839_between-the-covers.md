@@ -1,1 +1,0 @@
-{"tmdb_id": 252839, "title": "Between the Covers", "original_title": "Liebe zwischen T\u00fcr und Angel", "slug_title": "between-the-covers", "date": "1973-04-20", "genre": "Aventure / Com\u00e9die", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yJDLJl40cx27h6ypr1vrqL8ZXqm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 174417, "title": "Ship of the Ether", "original_title": "Ship of the Ether", "slug_title": "ship-of-the-ether", "date": "1934-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

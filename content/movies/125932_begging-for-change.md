@@ -1,1 +1,0 @@
-{"tmdb_id": 125932, "title": "Begging for Change", "original_title": "Begging for Change", "slug_title": "begging-for-change", "date": "2011-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wvnAKzNX4YHV5Cw788UHkQCu31o.jpg", "actors": [], "comments": [], "recommandations_id": []}

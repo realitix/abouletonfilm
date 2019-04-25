@@ -1,1 +1,0 @@
-{"tmdb_id": 204563, "title": "Ryder Cup Greatest Last Day Singles", "original_title": "Ryder Cup Greatest Last Day Singles", "slug_title": "ryder-cup-greatest-last-day-singles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

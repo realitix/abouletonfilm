@@ -1,1 +1,0 @@
-{"tmdb_id": 415113, "title": "Le regard des autres", "original_title": "Le regard des autres", "slug_title": "le-regard-des-autres", "date": "1980-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

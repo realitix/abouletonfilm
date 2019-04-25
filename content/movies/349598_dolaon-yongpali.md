@@ -1,1 +1,0 @@
-{"tmdb_id": 349598, "title": "\ub3cc\uc544\uc628 \uc6a9\ud314\uc774", "original_title": "\ub3cc\uc544\uc628 \uc6a9\ud314\uc774", "slug_title": "dolaon-yongpali", "date": "1983-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

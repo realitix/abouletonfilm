@@ -1,1 +1,0 @@
-{"tmdb_id": 484490, "title": "Elysium Hernalsiense", "original_title": "Elysium Hernalsiense", "slug_title": "elysium-hernalsiense", "date": "2017-10-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wNUYB3tQqKZUnCB0iJApMO4QaoD.jpg", "actors": [], "comments": [], "recommandations_id": []}

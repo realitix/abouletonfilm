@@ -1,1 +1,0 @@
-{"tmdb_id": 558170, "title": "The Battleships 2001", "original_title": "The Battleships 2001", "slug_title": "the-battleships-2001", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c0LF9ugOcaVevAf2fYgA6uqzj8T.jpg", "actors": [], "comments": [], "recommandations_id": []}

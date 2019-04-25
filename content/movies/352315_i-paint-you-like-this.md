@@ -1,1 +1,0 @@
-{"tmdb_id": 352315, "title": "I Paint You Like This", "original_title": "Pinto-te assim", "slug_title": "i-paint-you-like-this", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3yHlL8k24ybe0ERprjMYdv0LSqM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 541680, "title": "J'fais Du Porno Et J'aime \u00c7a", "original_title": "J'fais Du Porno Et J'aime \u00c7a", "slug_title": "j-fais-du-porno-et-j-aime-ca", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

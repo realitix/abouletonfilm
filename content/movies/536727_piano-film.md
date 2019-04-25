@@ -1,1 +1,0 @@
-{"tmdb_id": 536727, "title": "Piano Film", "original_title": "Piano Film", "slug_title": "piano-film", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Au8VX924X6dux1tIAwtPOsFf36c.jpg", "actors": [], "comments": [], "recommandations_id": []}

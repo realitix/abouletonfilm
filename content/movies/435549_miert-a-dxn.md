@@ -1,1 +1,1 @@
-{"tmdb_id": 435549, "title": "Mi\u00e9rt a Dxn?", "original_title": "Mi\u00e9rt a Dxn?", "slug_title": "miert-a-dxn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 435549, "title": "Mi\u00e9rt a Dxn?", "original_title": "Mi\u00e9rt a Dxn?", "slug_title": "miert-a-dxn", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

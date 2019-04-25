@@ -1,1 +1,0 @@
-{"tmdb_id": 327658, "title": "AA Bondy: A Performance at The Guest Apartment", "original_title": "AA Bondy: A Performance at The Guest Apartment", "slug_title": "aa-bondy-a-performance-at-the-guest-apartment", "date": "2009-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 400193, "title": "Glimmers", "original_title": "Glimmers", "slug_title": "glimmers", "date": "2015-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vmHpu5Dw5UEBoynpO0y9SXpDB0j.jpg", "actors": [], "comments": [], "recommandations_id": []}

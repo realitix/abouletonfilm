@@ -1,1 +1,0 @@
-{"tmdb_id": 465232, "title": "Park Central", "original_title": "Park Central", "slug_title": "park-central", "date": "2006-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

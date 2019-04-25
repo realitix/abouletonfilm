@@ -1,1 +1,0 @@
-{"tmdb_id": 418838, "title": "the magical lamp", "original_title": "the magical lamp", "slug_title": "the-magical-lamp", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

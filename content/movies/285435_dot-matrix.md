@@ -1,1 +1,0 @@
-{"tmdb_id": 285435, "title": "Dot Matrix", "original_title": "Dot Matrix", "slug_title": "dot-matrix", "date": "2013-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u9trZUOdhWvaPwifS21NQCW0XKH.jpg", "actors": [], "comments": [], "recommandations_id": []}

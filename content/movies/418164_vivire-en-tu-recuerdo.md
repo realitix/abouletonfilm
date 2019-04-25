@@ -1,1 +1,0 @@
-{"tmdb_id": 418164, "title": "Vivir\u00e9 en tu recuerdo", "original_title": "Vivir\u00e9 en tu recuerdo", "slug_title": "vivire-en-tu-recuerdo", "date": "2016-04-17", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8HmOIKiWQfFRJtg4ZFuWzKnDU32.jpg", "actors": [], "comments": [], "recommandations_id": []}

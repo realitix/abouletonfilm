@@ -1,1 +1,0 @@
-{"tmdb_id": 441687, "title": "Space Station No.9", "original_title": "Space Station No.9", "slug_title": "space-station-no-9", "date": "2005-05-01", "genre": "Science-Fiction / Musique / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bLyZwTjQA8Kynu1mYv2QFSwTJVT.jpg", "actors": [], "comments": [], "recommandations_id": []}

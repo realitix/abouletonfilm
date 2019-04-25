@@ -1,1 +1,0 @@
-{"tmdb_id": 547153, "title": "Damagers 2", "original_title": "Damagers 2", "slug_title": "damagers-2", "date": "2017-05-15", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/za4nxWpVfBaWUrvqc8cXUyknHa2.jpg", "actors": [], "comments": [], "recommandations_id": []}

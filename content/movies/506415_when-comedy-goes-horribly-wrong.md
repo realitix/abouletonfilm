@@ -1,1 +1,0 @@
-{"tmdb_id": 506415, "title": "When Comedy Goes Horribly Wrong", "original_title": "When Comedy Goes Horribly Wrong", "slug_title": "when-comedy-goes-horribly-wrong", "date": "2018-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

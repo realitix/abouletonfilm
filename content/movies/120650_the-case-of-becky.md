@@ -1,1 +1,0 @@
-{"tmdb_id": 120650, "title": "The Case of Becky", "original_title": "The Case of Becky", "slug_title": "the-case-of-becky", "date": "1915-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wbdAsugncmUs6KuTKvuN53gWeix.jpg", "actors": ["Blanche Sweet (Dorothy/Becky)"], "comments": [], "recommandations_id": []}

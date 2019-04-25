@@ -1,1 +1,0 @@
-{"tmdb_id": 176298, "title": "Opus III", "original_title": "Opus III", "slug_title": "opus-iii", "date": "1924-03-11", "genre": "", "score": "6.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wB5f6gOiqHR8lJWxjIlBJnLbF0s.jpg", "actors": [], "comments": [], "recommandations_id": [175457, 189872, 175473, 184402]}

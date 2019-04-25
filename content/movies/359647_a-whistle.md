@@ -1,1 +1,0 @@
-{"tmdb_id": 359647, "title": "A Whistle", "original_title": "Fue", "slug_title": "a-whistle", "date": "2002-01-01", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

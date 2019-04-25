@@ -1,1 +1,0 @@
-{"tmdb_id": 80834, "title": "Anandam", "original_title": "\u0c06\u0c28\u0c02\u0c26\u0c02", "slug_title": "anandam", "date": "2001-09-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/856DE2pfuShKAJkl0ryROpfVS6B.jpg", "actors": [], "comments": [], "recommandations_id": []}

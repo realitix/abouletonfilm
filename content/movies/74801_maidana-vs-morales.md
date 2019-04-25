@@ -1,1 +1,0 @@
-{"tmdb_id": 74801, "title": "Maidana vs. Morales", "original_title": "Maidana vs. Morales", "slug_title": "maidana-vs-morales", "date": "2011-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vnq0EW5Q36gx4VcgsdzwrR9kHWq.jpg", "actors": [], "comments": [], "recommandations_id": []}

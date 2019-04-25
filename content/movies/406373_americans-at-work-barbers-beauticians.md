@@ -1,1 +1,0 @@
-{"tmdb_id": 406373, "title": "Americans at Work: Barbers & Beauticians", "original_title": "Americans at Work: Barbers & Beauticians", "slug_title": "americans-at-work-barbers-beauticians", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

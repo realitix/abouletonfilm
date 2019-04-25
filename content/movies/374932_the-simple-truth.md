@@ -1,1 +1,0 @@
-{"tmdb_id": 374932, "title": "The Simple Truth", "original_title": "The Simple Truth", "slug_title": "the-simple-truth", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/drvjQY5paHNdOSQ2MalXtWwJEea.jpg", "actors": ["Louis Jordan ()"], "comments": [], "recommandations_id": []}

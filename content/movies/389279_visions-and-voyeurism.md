@@ -1,1 +1,0 @@
-{"tmdb_id": 389279, "title": "Visions and Voyeurism", "original_title": "Visions and Voyeurism", "slug_title": "visions-and-voyeurism", "date": "1998-01-01", "genre": "", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tVwoObjCj9oDOhNq2B0Jifit5e.jpg", "actors": ["Pandora Peaks ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 408671, "title": "La gr\u00e8ve des apaches", "original_title": "La gr\u00e8ve des apaches", "slug_title": "la-greve-des-apaches", "date": "1907-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oEYgUDT3bvR9JqrG2eelMKB3USS.jpg", "actors": [], "comments": [], "recommandations_id": []}

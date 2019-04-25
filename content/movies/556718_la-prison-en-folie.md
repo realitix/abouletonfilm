@@ -1,1 +1,0 @@
-{"tmdb_id": 556718, "title": "La prison en folie", "original_title": "La prison en folie", "slug_title": "la-prison-en-folie", "date": "1931-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

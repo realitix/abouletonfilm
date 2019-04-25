@@ -1,1 +1,0 @@
-{"tmdb_id": 536730, "title": "Scarlett", "original_title": "Scarlett", "slug_title": "scarlett", "date": "2016-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

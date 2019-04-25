@@ -1,1 +1,0 @@
-{"tmdb_id": 258175, "title": "Corumbiara", "original_title": "Corumbiara", "slug_title": "corumbiara", "date": "2010-08-25", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tmrYcYnVytb1wllLKY3EAtVNfS8.jpg", "actors": [], "comments": [], "recommandations_id": []}

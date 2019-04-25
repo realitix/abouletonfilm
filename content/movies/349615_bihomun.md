@@ -1,1 +1,0 @@
-{"tmdb_id": 349615, "title": "\ube44\ud638\ubb38", "original_title": "\ube44\ud638\ubb38", "slug_title": "bihomun", "date": "1983-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

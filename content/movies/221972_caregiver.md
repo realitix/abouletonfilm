@@ -1,1 +1,0 @@
-{"tmdb_id": 221972, "title": "Caregiver", "original_title": "Caregiver", "slug_title": "caregiver", "date": "2007-12-04", "genre": "Horreur / Thriller", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jg0mTEUQuCG6B1VZlGAjJ577qPg.jpg", "actors": [], "comments": [], "recommandations_id": []}

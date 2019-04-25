@@ -1,1 +1,0 @@
-{"tmdb_id": 386318, "title": "Zwei Farben", "original_title": "Zwei Farben", "slug_title": "zwei-farben", "date": "1933-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

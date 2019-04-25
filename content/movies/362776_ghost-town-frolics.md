@@ -1,1 +1,0 @@
-{"tmdb_id": 362776, "title": "Ghost Town Frolics", "original_title": "Ghost Town Frolics", "slug_title": "ghost-town-frolics", "date": "1938-09-06", "genre": "Horreur / Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xxYpBPXl0FNpMkIJb28b5SHWOib.jpg", "actors": [], "comments": [], "recommandations_id": []}

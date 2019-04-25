@@ -1,1 +1,1 @@
-{"tmdb_id": 368049, "title": "Snowfields II", "original_title": "Snowfields II", "slug_title": "snowfields-ii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 368049, "title": "Snowfields II", "original_title": "Snowfields II", "slug_title": "snowfields-ii", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "German Whatchamacallit!", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 585600, "title": "ABC - staveleg i Afrika", "original_title": "ABC - staveleg i Afrika", "slug_title": "abc-staveleg-i-afrika", "date": "1962-01-01", "genre": "Animation / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 571582, "title": "Capitaine au long cours", "original_title": "Capitaine au long cours", "slug_title": "capitaine-au-long-cours", "date": "1997-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yZpDRL4r2edU57AWNNsVGmapVVm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 471815, "title": "Kafka Kamera", "original_title": "Kafka Kamera", "slug_title": "kafka-kamera", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5RnMoeRm8H60sEQJFqqqOnxaayY.jpg", "actors": [], "comments": [], "recommandations_id": []}

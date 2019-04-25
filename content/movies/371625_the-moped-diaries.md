@@ -1,1 +1,0 @@
-{"tmdb_id": 371625, "title": "The Moped Diaries", "original_title": "The Moped Diaries", "slug_title": "the-moped-diaries", "date": "2014-11-20", "genre": "Com\u00e9die / Familial", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AcSM0hxwCnEqsEHA9LSfotGikXz.jpg", "actors": [], "comments": [], "recommandations_id": []}

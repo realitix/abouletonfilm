@@ -1,1 +1,0 @@
-{"tmdb_id": 314841, "title": "Immersive Cocoon", "original_title": "Immersive Cocoon", "slug_title": "immersive-cocoon", "date": "2011-03-23", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ti0FVA0LzHC6k0rEJbuDtgT8kyu.jpg", "actors": ["Keir Dullea (Unnamed)"], "comments": [], "recommandations_id": []}

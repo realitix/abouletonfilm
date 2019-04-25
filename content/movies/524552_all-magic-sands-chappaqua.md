@@ -1,1 +1,0 @@
-{"tmdb_id": 524552, "title": "All Magic Sands/Chappaqua", "original_title": "All Magic Sands/Chappaqua", "slug_title": "all-magic-sands-chappaqua", "date": "2013-01-24", "genre": "Drame / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l8WH1MgjmLy52mY65ZShDw07VOS.jpg", "actors": [], "comments": [], "recommandations_id": []}

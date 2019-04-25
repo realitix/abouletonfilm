@@ -1,1 +1,0 @@
-{"tmdb_id": 55087, "title": "Daddy And Papa", "original_title": "Daddy And Papa", "slug_title": "daddy-and-papa", "date": "2002-01-11", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

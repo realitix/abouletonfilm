@@ -1,1 +1,0 @@
-{"tmdb_id": 532446, "title": "Time Concerto", "original_title": "Time Concerto", "slug_title": "time-concerto", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

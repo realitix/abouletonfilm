@@ -1,1 +1,0 @@
-{"tmdb_id": 571089, "title": "Rader Soldiers", "original_title": "\u78a7\u6d77\u7ea2\u6ce2", "slug_title": "rader-soldiers", "date": "1975-01-01", "genre": "Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 222298, "title": "Rugby Boyz", "original_title": "Rugby Boyz", "slug_title": "rugby-boyz", "date": "2006-01-02", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ylSLzVs8BCN5rILwP5TYHmtGaK.jpg", "actors": [], "comments": [], "recommandations_id": []}

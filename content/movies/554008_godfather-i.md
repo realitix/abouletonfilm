@@ -1,1 +1,0 @@
-{"tmdb_id": 554008, "title": "Godfather I", "original_title": "Godfather I", "slug_title": "godfather-i", "date": "2018-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Francis Ford Coppola ()"], "comments": [], "recommandations_id": []}

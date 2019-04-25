@@ -1,1 +1,0 @@
-{"tmdb_id": 168416, "title": "Inside America", "original_title": "Inside America", "slug_title": "inside-america", "date": "2010-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hPB8bEHBJ4x9BksAU7NqBppwNfN.jpg", "actors": [], "comments": [], "recommandations_id": []}

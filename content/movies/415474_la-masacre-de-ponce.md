@@ -1,1 +1,0 @@
-{"tmdb_id": 415474, "title": "La masacre de Ponce", "original_title": "La masacre de Ponce", "slug_title": "la-masacre-de-ponce", "date": "1974-01-01", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Betty Ortega ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 324875, "title": "De Vriendelijke Draak", "original_title": "De Vriendelijke Draak", "slug_title": "de-vriendelijke-draak", "date": "1941-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5LrzcvIRGVCOC17WaGdiYpYAg6C.jpg", "actors": [], "comments": [], "recommandations_id": []}

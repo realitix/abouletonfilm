@@ -1,1 +1,0 @@
-{"tmdb_id": 331955, "title": "Chicha tu madre", "original_title": "Chicha tu madre", "slug_title": "chicha-tu-madre", "date": "2006-04-23", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9JQWw8tCgwHPbwDGLv0d4sGwtBE.jpg", "actors": [], "comments": [], "recommandations_id": []}

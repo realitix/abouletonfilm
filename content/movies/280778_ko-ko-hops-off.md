@@ -1,1 +1,0 @@
-{"tmdb_id": 280778, "title": "Ko-Ko Hops Off", "original_title": "Ko-Ko Hops Off", "slug_title": "ko-ko-hops-off", "date": "1927-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

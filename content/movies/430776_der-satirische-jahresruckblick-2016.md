@@ -1,1 +1,0 @@
-{"tmdb_id": 430776, "title": "Der satirische Jahresr\u00fcckblick 2016", "original_title": "Der satirische Jahresr\u00fcckblick 2016", "slug_title": "der-satirische-jahresruckblick-2016", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 12880, "title": "Dalai Lama Renaissance", "original_title": "Dalai Lama Renaissance", "slug_title": "dalai-lama-renaissance", "date": "2007-06-26", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tZa8wlE04WrdF3BBYBWhQPFTdId.jpg", "actors": [], "comments": [], "recommandations_id": []}

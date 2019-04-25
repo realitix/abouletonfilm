@@ -1,1 +1,0 @@
-{"tmdb_id": 76569, "title": "Buckelwal und Polar B\u00e4r", "original_title": "Buckelwal und Polar B\u00e4r", "slug_title": "buckelwal-und-polar-bar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v6eLJqSgE0zmn37FA9dEcMf9qfe.jpg", "actors": [], "comments": [], "recommandations_id": []}

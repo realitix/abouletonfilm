@@ -1,1 +1,0 @@
-{"tmdb_id": 292187, "title": "Prayers for Refuseniks", "original_title": "Pri\u00e8res pour Refusniks", "slug_title": "prayers-for-refuseniks", "date": "2004-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a0USV4jzrpQ0kwl7XAcAD3ZoyXR.jpg", "actors": [], "comments": [], "recommandations_id": []}

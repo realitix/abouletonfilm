@@ -1,1 +1,0 @@
-{"tmdb_id": 551016, "title": "Hasina A Daughter's Tale", "original_title": "Hasina A Daughter's Tale", "slug_title": "hasina-a-daughter-s-tale", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sheikh Hasina ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 332509, "title": "Sei Venezia", "original_title": "Sei Venezia", "slug_title": "sei-venezia", "date": "2010-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

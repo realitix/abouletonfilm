@@ -1,1 +1,0 @@
-{"tmdb_id": 268567, "title": "Fishing at Lethe", "original_title": "Fishing at Lethe", "slug_title": "fishing-at-lethe", "date": "2014-04-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/faWQC8kwEARVqaYOKya8BgJRNPM.jpg", "actors": [], "comments": [], "recommandations_id": []}

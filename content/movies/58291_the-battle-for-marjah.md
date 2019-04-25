@@ -1,1 +1,0 @@
-{"tmdb_id": 58291, "title": "The Battle for Marjah", "original_title": "The Battle for Marjah", "slug_title": "the-battle-for-marjah", "date": "2010-01-01", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3MZb2udsqZkEiGbhMpcGcAijRO8.jpg", "actors": [], "comments": [], "recommandations_id": [37828]}

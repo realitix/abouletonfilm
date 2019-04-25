@@ -1,1 +1,0 @@
-{"tmdb_id": 79563, "title": "Evgeny Kissin: Gift of Music", "original_title": "Evgeny Kissin: Gift of Music", "slug_title": "evgeny-kissin-gift-of-music", "date": "2000-12-31", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bi6fwsS22PFJ6Fed32CmkCZi6hf.jpg", "actors": [], "comments": [], "recommandations_id": []}

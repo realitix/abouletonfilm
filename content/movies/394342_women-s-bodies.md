@@ -1,1 +1,0 @@
-{"tmdb_id": 394342, "title": "Women's Bodies", "original_title": "IL CORPO DELLE DONNE", "slug_title": "women-s-bodies", "date": "2011-05-11", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5LMGk6WRw13u5PZJ2QSCJ1zSX9D.jpg", "actors": ["Lorella Zanardo (Herself)"], "comments": [], "recommandations_id": []}

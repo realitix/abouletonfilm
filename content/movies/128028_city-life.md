@@ -1,1 +1,0 @@
-{"tmdb_id": 128028, "title": "City Life", "original_title": "Zycie miejskie", "slug_title": "city-life", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/48CP8TlEo2Y8HQxWJJLP1d7LNkm.jpg", "actors": [], "comments": [], "recommandations_id": []}

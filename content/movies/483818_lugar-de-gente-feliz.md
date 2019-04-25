@@ -1,1 +1,0 @@
-{"tmdb_id": 483818, "title": "Lugar de Gente Feliz", "original_title": "Lugar de Gente Feliz", "slug_title": "lugar-de-gente-feliz", "date": "2016-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

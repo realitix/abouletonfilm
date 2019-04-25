@@ -1,1 +1,0 @@
-{"tmdb_id": 307959, "title": "Sri Kanaka Mahalakshmi Recording Dance Troope", "original_title": "Sri Kanaka Mahalakshmi Recording Dance Troope", "slug_title": "sri-kanaka-mahalakshmi-recording-dance-troope", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

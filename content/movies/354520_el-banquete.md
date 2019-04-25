@@ -1,1 +1,0 @@
-{"tmdb_id": 354520, "title": "El banquete", "original_title": "El banquete", "slug_title": "el-banquete", "date": "1997-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

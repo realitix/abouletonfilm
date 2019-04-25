@@ -1,1 +1,0 @@
-{"tmdb_id": 231764, "title": "Fire Department of Albany, N.Y.", "original_title": "Fire Department of Albany, N.Y.", "slug_title": "fire-department-of-albany-n-y", "date": "1901-10-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

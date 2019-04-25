@@ -1,1 +1,0 @@
-{"tmdb_id": 503064, "title": "Golden Globe - Schottland", "original_title": "Golden Globe - Schottland", "slug_title": "golden-globe-schottland", "date": "2009-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

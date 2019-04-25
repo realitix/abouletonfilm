@@ -1,1 +1,0 @@
-{"tmdb_id": 418558, "title": "Jimmy Buffett: Live by the Bay", "original_title": "Jimmy Buffett: Live by the Bay", "slug_title": "jimmy-buffett-live-by-the-bay", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jimmy Buffett (Himself)", "The Coral Reefer Band (Themselves)"], "comments": [], "recommandations_id": []}

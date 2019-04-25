@@ -1,1 +1,0 @@
-{"tmdb_id": 57712, "title": "We Call It Techno!", "original_title": "We Call It Techno!", "slug_title": "we-call-it-techno", "date": "2007-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cjmFTCpKIwFLzLifXgpOi2RP2NY.jpg", "actors": [], "comments": [], "recommandations_id": []}

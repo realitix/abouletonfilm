@@ -1,1 +1,0 @@
-{"tmdb_id": 91481, "title": "Mondo Bizarro", "original_title": "Mondo Bizarro", "slug_title": "mondo-bizarro", "date": "1966-08-25", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4duTnIYLramXFnYpaU9TFlQy8My.jpg", "actors": ["Claude Emmand (Narrator)"], "comments": [], "recommandations_id": [91482]}

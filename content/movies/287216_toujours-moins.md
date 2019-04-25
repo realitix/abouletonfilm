@@ -1,1 +1,0 @@
-{"tmdb_id": 287216, "title": "Toujours moins", "original_title": "Toujours moins", "slug_title": "toujours-moins", "date": "2010-01-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/afw9y87dtpVMhi5Luu2ngqAOdxr.jpg", "actors": [], "comments": [], "recommandations_id": [128941, 158292, 145013, 125713]}

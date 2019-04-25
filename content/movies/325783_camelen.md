@@ -1,1 +1,0 @@
-{"tmdb_id": 325783, "title": "Camelen", "original_title": "Camelen", "slug_title": "camelen", "date": "2014-08-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r5yMOG771uz6uW0gEwAEJ10fSMq.jpg", "actors": ["Cecilia Udd\u00e9n (Herself)"], "comments": [], "recommandations_id": []}

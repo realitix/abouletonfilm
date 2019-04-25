@@ -1,1 +1,0 @@
-{"tmdb_id": 416172, "title": "\ud751\uac70\ubbf8", "original_title": "\ud751\uac70\ubbf8", "slug_title": "heuggeomi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

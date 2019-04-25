@@ -1,1 +1,0 @@
-{"tmdb_id": 36585, "title": "Unemployed", "original_title": "Unemployed", "slug_title": "unemployed", "date": "2008-09-23", "genre": "Com\u00e9die", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eogfI20ZmqeO7A4HHaidaNDULY8.jpg", "actors": ["Godfrey (Jamal)", "James Charles Leary (Dexter)"], "comments": [], "recommandations_id": []}

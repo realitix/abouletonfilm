@@ -1,1 +1,0 @@
-{"tmdb_id": 506213, "title": "Pangako ng puso", "original_title": "Pangako ng puso", "slug_title": "pangako-ng-puso", "date": "1990-02-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kris Aquino ()", "Gabby Concepcion ()", "Nida Blanca ()", "Harvey Vizcarra ()"], "comments": [], "recommandations_id": []}

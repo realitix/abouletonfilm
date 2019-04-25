@@ -1,1 +1,0 @@
-{"tmdb_id": 493670, "title": "Obscuro Barroco", "original_title": "Obscuro Barroco", "slug_title": "obscuro-barroco", "date": "2018-02-16", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AvjZo6SW7FeHoXSVAb5K5BVQNCj.jpg", "actors": ["Luana Muniz (Herself)"], "comments": [], "recommandations_id": []}

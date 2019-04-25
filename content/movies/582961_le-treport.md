@@ -1,1 +1,0 @@
-{"tmdb_id": 582961, "title": "Le Treport", "original_title": "Le Treport", "slug_title": "le-treport", "date": "1997-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hOaqe3A48lTRUY0yAQbD2yWDbrj.jpg", "actors": [], "comments": [], "recommandations_id": []}

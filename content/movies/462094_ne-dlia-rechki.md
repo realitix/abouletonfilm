@@ -1,1 +1,0 @@
-{"tmdb_id": 462094, "title": "\u041d\u0435 \u0434\u043b\u044f \u0440\u0435\u0447\u043a\u0438", "original_title": "\u041d\u0435 \u0434\u043b\u044f \u0440\u0435\u0447\u043a\u0438", "slug_title": "ne-dlia-rechki", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

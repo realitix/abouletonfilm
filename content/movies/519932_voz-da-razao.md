@@ -1,1 +1,0 @@
-{"tmdb_id": 519932, "title": "Voz da Raz\u00e3o", "original_title": "Voz da Raz\u00e3o", "slug_title": "voz-da-razao", "date": "2018-04-16", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4PQRDE90ElmLW2g2uBHnGkU7Jme.jpg", "actors": ["Lu\u00eds Franco Bastos (Himself)"], "comments": [], "recommandations_id": []}

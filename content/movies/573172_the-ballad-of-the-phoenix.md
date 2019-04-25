@@ -1,1 +1,0 @@
-{"tmdb_id": 573172, "title": "The Ballad of the Phoenix", "original_title": "La balada del f\u00e9nix", "slug_title": "the-ballad-of-the-phoenix", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

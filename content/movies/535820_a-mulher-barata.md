@@ -1,1 +1,0 @@
-{"tmdb_id": 535820, "title": "A Mulher Barata", "original_title": "A Mulher Barata", "slug_title": "a-mulher-barata", "date": "2012-06-05", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bZWk9f6KFBhn4FzhnQ67BhwRXUO.jpg", "actors": ["D\u00e9bora Muniz ()"], "comments": [], "recommandations_id": []}

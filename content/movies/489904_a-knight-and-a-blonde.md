@@ -1,1 +1,0 @@
-{"tmdb_id": 489904, "title": "A Knight and a Blonde", "original_title": "A Knight and a Blonde", "slug_title": "a-knight-and-a-blonde", "date": "1944-11-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hugh Herbert (Hugh)"], "comments": [], "recommandations_id": []}

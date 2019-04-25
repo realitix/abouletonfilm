@@ -1,1 +1,0 @@
-{"tmdb_id": 315089, "title": "Souvenirs de K.", "original_title": "Souvenirs de K.", "slug_title": "souvenirs-de-k", "date": "2009-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/saAll10eGn8iyO5so7trZfioGnH.jpg", "actors": ["Ugo Broussot (K.)"], "comments": [], "recommandations_id": []}

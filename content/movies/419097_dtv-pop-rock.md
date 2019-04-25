@@ -1,1 +1,0 @@
-{"tmdb_id": 419097, "title": "DTV: Pop & Rock", "original_title": "DTV: Pop & Rock", "slug_title": "dtv-pop-rock", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

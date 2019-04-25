@@ -1,1 +1,0 @@
-{"tmdb_id": 495788, "title": "Aaja Sanam", "original_title": "Aaja Sanam", "slug_title": "aaja-sanam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

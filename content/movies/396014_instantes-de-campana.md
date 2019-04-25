@@ -1,1 +1,0 @@
-{"tmdb_id": 396014, "title": "Instantes de campa\u00f1a", "original_title": "Instantes de campa\u00f1a", "slug_title": "instantes-de-campana", "date": "2015-04-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/289dGNounFVa3i0gqUYR5RA84It.jpg", "actors": [], "comments": [], "recommandations_id": []}

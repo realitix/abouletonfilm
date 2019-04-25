@@ -1,1 +1,0 @@
-{"tmdb_id": 537268, "title": "One Good Thing", "original_title": "One Good Thing", "slug_title": "one-good-thing", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yayan Ruhian ()", "Marko Zaror ()"], "comments": [], "recommandations_id": []}

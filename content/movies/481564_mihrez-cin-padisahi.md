@@ -1,1 +1,0 @@
-{"tmdb_id": 481564, "title": "Mihrez: Cin Padi\u015fah\u0131", "original_title": "Mihrez: Cin Padi\u015fah\u0131", "slug_title": "mihrez-cin-padisahi", "date": "2017-04-17", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uIANZ8yEXk1U6IfnaSaRRrUDwKw.jpg", "actors": [], "comments": [], "recommandations_id": []}

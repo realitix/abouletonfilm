@@ -1,1 +1,0 @@
-{"tmdb_id": 476094, "title": "Reverse Psychology", "original_title": "Reverse Psychology", "slug_title": "reverse-psychology", "date": "2016-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2LkL7EOXzOLVCMhgeLPeWnQmy5F.jpg", "actors": [], "comments": [], "recommandations_id": []}

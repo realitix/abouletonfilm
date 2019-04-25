@@ -1,1 +1,0 @@
-{"tmdb_id": 165466, "title": "Jungle Jam", "original_title": "Jungle Jam", "slug_title": "jungle-jam", "date": "1931-11-13", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y7PJaqbcKZiRaC6OseB2ulwv6xw.jpg", "actors": [], "comments": [], "recommandations_id": []}

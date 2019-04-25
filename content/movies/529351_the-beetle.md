@@ -1,1 +1,0 @@
-{"tmdb_id": 529351, "title": "The Beetle", "original_title": "Hachipusheet", "slug_title": "the-beetle", "date": "2008-04-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zG9pvy6nledsQvkYUb23ov2gOZ8.jpg", "actors": [], "comments": [], "recommandations_id": []}

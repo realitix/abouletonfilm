@@ -1,1 +1,1 @@
-{"tmdb_id": 298001, "title": "DIZZZDDd", "original_title": "DIZZZDDd", "slug_title": "dizzzddd", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 298001, "title": "DIZZZDDd", "original_title": "DIZZZDDd", "slug_title": "dizzzddd", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "dedeeeedzeefzefzef", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 106946, "title": "The Super Rider V3", "original_title": "\u9583\u96fb\u9a0e\u58eb", "slug_title": "the-super-rider-v3", "date": "1975-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2uaSI4aQmgeRi0dkcuKMalwLVGX.jpg", "actors": [], "comments": [], "recommandations_id": []}

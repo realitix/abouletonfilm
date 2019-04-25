@@ -1,1 +1,0 @@
-{"tmdb_id": 143698, "title": "In the Beginning: Moses the Egyptian", "original_title": "In the Beginning: Moses the Egyptian", "slug_title": "in-the-beginning-moses-the-egyptian", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

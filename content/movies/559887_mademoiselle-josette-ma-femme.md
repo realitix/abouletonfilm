@@ -1,1 +1,0 @@
-{"tmdb_id": 559887, "title": "Mademoiselle Josette, ma femme", "original_title": "Mademoiselle Josette, ma femme", "slug_title": "mademoiselle-josette-ma-femme", "date": "1950-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/reS1sZeCKHMUZvGGZqSTafh2bp8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 594998, "title": "2014 FIFA World Cup All Goals", "original_title": "2014 FIFA World Cup All Goals", "slug_title": "2014-fifa-world-cup-all-goals", "date": "2014-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tkz9ceY3fMhIDaDHyaKWkjJW8Wj.jpg", "actors": [], "comments": [], "recommandations_id": []}

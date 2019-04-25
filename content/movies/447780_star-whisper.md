@@ -1,1 +1,0 @@
-{"tmdb_id": 447780, "title": "Star Whisper", "original_title": "\u0160epot hv\u011bzd", "slug_title": "star-whisper", "date": "1971-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

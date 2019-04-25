@@ -1,1 +1,0 @@
-{"tmdb_id": 450037, "title": "The Abnormal", "original_title": "Nienormalni", "slug_title": "the-abnormal", "date": "1990-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

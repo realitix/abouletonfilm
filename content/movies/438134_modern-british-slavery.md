@@ -1,1 +1,0 @@
-{"tmdb_id": 438134, "title": "Modern British Slavery", "original_title": "Modern British Slavery", "slug_title": "modern-british-slavery", "date": "2017-01-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qzV4MbLRHin6U8y4YZ4BrlHg4Rc.jpg", "actors": [], "comments": [], "recommandations_id": []}

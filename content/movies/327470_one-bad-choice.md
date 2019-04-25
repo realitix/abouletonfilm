@@ -1,1 +1,0 @@
-{"tmdb_id": 327470, "title": "One Bad Choice", "original_title": "One Bad Choice", "slug_title": "one-bad-choice", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

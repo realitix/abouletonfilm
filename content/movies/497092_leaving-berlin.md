@@ -1,1 +1,0 @@
-{"tmdb_id": 497092, "title": "Leaving Berlin", "original_title": "Leaving Berlin", "slug_title": "leaving-berlin", "date": "", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

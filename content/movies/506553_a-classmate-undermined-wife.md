@@ -1,1 +1,0 @@
-{"tmdb_id": 506553, "title": "A Classmate Undermined Wife", "original_title": "A Classmate Undermined Wife", "slug_title": "a-classmate-undermined-wife", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

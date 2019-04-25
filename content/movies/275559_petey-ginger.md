@@ -1,1 +1,0 @@
-{"tmdb_id": 275559, "title": "Petey & Ginger", "original_title": "Petey & Ginger", "slug_title": "petey-ginger", "date": "2012-10-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

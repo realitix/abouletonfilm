@@ -1,1 +1,0 @@
-{"tmdb_id": 36303, "title": "Der Kongress der Pinguine", "original_title": "Der Kongress der Pinguine", "slug_title": "der-kongress-der-pinguine", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ToOAgh08mwzXT4F30MfWkPZTRv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 383416, "title": "2008 NRL Grand Final: Sea Eagles vs Storm", "original_title": "2008 NRL Grand Final: Sea Eagles vs Storm", "slug_title": "2008-nrl-grand-final-sea-eagles-vs-storm", "date": "2008-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

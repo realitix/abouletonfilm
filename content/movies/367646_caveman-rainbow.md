@@ -1,1 +1,0 @@
-{"tmdb_id": 367646, "title": "Caveman Rainbow", "original_title": "Caveman Rainbow", "slug_title": "caveman-rainbow", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 233024, "title": "Max Embarrassed", "original_title": "Max cherche une fianc\u00e9e", "slug_title": "max-embarrassed", "date": "1910-11-12", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Max)", "Jacques Vandenne ()", "Paulette Lorsy ()"], "comments": [], "recommandations_id": []}

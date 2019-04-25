@@ -1,1 +1,0 @@
-{"tmdb_id": 213977, "title": "The Sickie", "original_title": "The Sickie", "slug_title": "the-sickie", "date": "2006-10-21", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Toby Jones ()", "Dominic McHale ()"], "comments": [], "recommandations_id": []}

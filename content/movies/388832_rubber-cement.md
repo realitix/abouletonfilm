@@ -1,1 +1,0 @@
-{"tmdb_id": 388832, "title": "Rubber Cement", "original_title": "Rubber Cement", "slug_title": "rubber-cement", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x51A5ThaZ2r0PKvS6uBqoRRJq5E.jpg", "actors": [], "comments": [], "recommandations_id": []}

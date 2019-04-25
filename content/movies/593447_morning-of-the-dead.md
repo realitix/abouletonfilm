@@ -1,1 +1,0 @@
-{"tmdb_id": 593447, "title": "Morning of the Dead", "original_title": "\uc2dc\uccb4\ub4e4\uc758 \uc544\uce68", "slug_title": "morning-of-the-dead", "date": "2018-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8xRHUiojO0pg52qFKx30SYJDblA.jpg", "actors": [], "comments": [], "recommandations_id": []}

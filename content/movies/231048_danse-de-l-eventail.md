@@ -1,1 +1,0 @@
-{"tmdb_id": 231048, "title": "Danse de l'\u00e9ventail", "original_title": "Danse de l'\u00e9ventail", "slug_title": "danse-de-l-eventail", "date": "1905-10-28", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kUOF4wvM3rB1CNq0ViVAQXPzrV5.jpg", "actors": [], "comments": [], "recommandations_id": []}

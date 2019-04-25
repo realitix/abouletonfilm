@@ -1,1 +1,0 @@
-{"tmdb_id": 317569, "title": "Flip Wilson: Vols. 3 & 4", "original_title": "Flip Wilson: Vols. 3 & 4", "slug_title": "flip-wilson-vols-3-4", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

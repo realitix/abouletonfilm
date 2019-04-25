@@ -1,1 +1,0 @@
-{"tmdb_id": 382314, "title": "A Beast with Two Backs", "original_title": "A Beast with Two Backs", "slug_title": "a-beast-with-two-backs", "date": "1968-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qNH1n2HQfh6b2Bx30tW3tlfzluQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

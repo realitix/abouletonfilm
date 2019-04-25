@@ -1,1 +1,0 @@
-{"tmdb_id": 294340, "title": "The Brass Ring", "original_title": "The Brass Ring", "slug_title": "the-brass-ring", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tcMaqRCMmlc9WLqZTQW7dwhzfX.jpg", "actors": ["Earl Owensby (Frank Challenge)"], "comments": [], "recommandations_id": []}

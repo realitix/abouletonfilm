@@ -1,1 +1,0 @@
-{"tmdb_id": 323473, "title": "Alien Cyborg Invasion", "original_title": "Alien Cyborg Invasion", "slug_title": "alien-cyborg-invasion", "date": "2015-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

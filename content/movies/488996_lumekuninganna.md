@@ -1,1 +1,0 @@
-{"tmdb_id": 488996, "title": "Lumekuninganna", "original_title": "Lumekuninganna", "slug_title": "lumekuninganna", "date": "2010-02-25", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xUCwhpq9Or1dzCymPv9TEbutsno.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 485079, "title": "Girl: Outbackwards", "original_title": "Girl: Outbackwards", "slug_title": "girl-outbackwards", "date": "2010-07-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iZX72eSncwyOWya3q0Y2k7YsZHz.jpg", "actors": [], "comments": [], "recommandations_id": []}

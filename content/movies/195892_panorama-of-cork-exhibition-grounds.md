@@ -1,1 +1,0 @@
-{"tmdb_id": 195892, "title": "Panorama of Cork Exhibition Grounds", "original_title": "Panorama of Cork Exhibition Grounds", "slug_title": "panorama-of-cork-exhibition-grounds", "date": "1902-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

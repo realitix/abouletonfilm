@@ -1,1 +1,0 @@
-{"tmdb_id": 493816, "title": "LCFC video magazine", "original_title": "LCFC video magazine", "slug_title": "lcfc-video-magazine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

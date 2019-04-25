@@ -1,1 +1,0 @@
-{"tmdb_id": 594454, "title": "Dark Rose: 700 Year Itch", "original_title": "Dark Rose: 700 Year Itch", "slug_title": "dark-rose-700-year-itch", "date": "2003-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Melissa Morse (Rose LeNoire)", "Colleen Kavanaugh ()"], "comments": [], "recommandations_id": []}

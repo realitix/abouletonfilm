@@ -1,1 +1,0 @@
-{"tmdb_id": 408908, "title": "Twisted Souls", "original_title": "Twisted Souls", "slug_title": "twisted-souls", "date": "1920-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Howard Thurston (The spiritualist)", "Tarah Ben Mahamet (The Hindu philosopher)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 358429, "title": "The Public as Exhibit", "original_title": "The Public as Exhibit", "slug_title": "the-public-as-exhibit", "date": "1969-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

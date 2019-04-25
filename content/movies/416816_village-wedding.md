@@ -1,1 +1,0 @@
-{"tmdb_id": 416816, "title": "Village Wedding", "original_title": "Selska svadba", "slug_title": "village-wedding", "date": "1905-09-18", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qj6dqfrmSBAcFNsozt5IlcrG4bU.jpg", "actors": [], "comments": [], "recommandations_id": [196198, 162660, 163349]}

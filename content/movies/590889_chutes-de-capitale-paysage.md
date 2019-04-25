@@ -1,1 +1,0 @@
-{"tmdb_id": 590889, "title": "Chutes de Capitale-paysage", "original_title": "Chutes de Capitale-paysage", "slug_title": "chutes-de-capitale-paysage", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un film de Michel Nedjar.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

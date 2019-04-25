@@ -1,1 +1,0 @@
-{"tmdb_id": 595319, "title": "Three Weeks in Paris", "original_title": "Three Weeks in Paris", "slug_title": "three-weeks-in-paris", "date": "1925-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8AoHiF10gjFPFCx9A2csszlGuWn.jpg", "actors": [], "comments": [], "recommandations_id": []}

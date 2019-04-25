@@ -1,1 +1,0 @@
-{"tmdb_id": 575727, "title": "Tomb\u00e9 d'une \u00e9toile", "original_title": "Tomb\u00e9 d'une \u00e9toile", "slug_title": "tombe-d-une-etoile", "date": "2007-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ajsvUBC3OkA6p46Reple1HFs2n.jpg", "actors": [], "comments": [], "recommandations_id": []}

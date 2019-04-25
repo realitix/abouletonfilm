@@ -1,1 +1,0 @@
-{"tmdb_id": 560270, "title": "Attack on a Mission Station", "original_title": "Attack on a Mission Station", "slug_title": "attack-on-a-mission-station", "date": "1900-07-08", "genre": "Drame / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

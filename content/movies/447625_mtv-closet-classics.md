@@ -1,1 +1,0 @@
-{"tmdb_id": 447625, "title": "MTV Closet Classics", "original_title": "MTV Closet Classics", "slug_title": "mtv-closet-classics", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vfoGMdRMoieoXjPlGTZ1RZkSoV6.jpg", "actors": [], "comments": [], "recommandations_id": []}

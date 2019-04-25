@@ -1,1 +1,0 @@
-{"tmdb_id": 510963, "title": "Trumpet Echo", "original_title": "Eco de Trompeta", "slug_title": "trumpet-echo", "date": "2018-03-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gxsRmtm7l4FTZnMMn7sqpZVXc3O.jpg", "actors": [], "comments": [], "recommandations_id": []}

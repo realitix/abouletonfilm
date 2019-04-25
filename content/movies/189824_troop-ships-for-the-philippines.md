@@ -1,1 +1,0 @@
-{"tmdb_id": 189824, "title": "Troop Ships for the Philippines", "original_title": "Troop Ships for the Philippines", "slug_title": "troop-ships-for-the-philippines", "date": "1898-06-22", "genre": "", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [193430, 189821, 193438, 189057]}

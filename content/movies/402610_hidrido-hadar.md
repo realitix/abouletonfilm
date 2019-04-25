@@ -1,1 +1,0 @@
-{"tmdb_id": 402610, "title": "Hidrido Hadar", "original_title": "Hidrido Hadar", "slug_title": "hidrido-hadar", "date": "2014-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9nYb0KXAF3F95nKbuQOZOhYoXWX.jpg", "actors": [], "comments": [], "recommandations_id": []}

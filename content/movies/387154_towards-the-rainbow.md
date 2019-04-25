@@ -1,1 +1,0 @@
-{"tmdb_id": 387154, "title": "Towards the Rainbow", "original_title": "Niji ni Mukatte", "slug_title": "towards-the-rainbow", "date": "1977-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/byDpBQER4gDV1TA3ne1rF4VxWCP.jpg", "actors": [], "comments": [], "recommandations_id": []}

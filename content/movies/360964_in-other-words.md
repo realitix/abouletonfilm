@@ -1,1 +1,0 @@
-{"tmdb_id": 360964, "title": "In Other Words", "original_title": "In Other Words", "slug_title": "in-other-words", "date": "2010-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xKfrjg6m6hNu8ZbLzHsC04lPljY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 501975, "title": "Hot Air Specialists", "original_title": "Hot Air Specialists", "slug_title": "hot-air-specialists", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aBdIqx2X8oLW4VHnpAWEPkg9EYa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 378480, "title": "Il Solengo", "original_title": "Il Solengo", "slug_title": "il-solengo", "date": "2016-01-30", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f77MuhpOhTOvk8HbVMeuYvLVbYW.jpg", "actors": [], "comments": [], "recommandations_id": []}

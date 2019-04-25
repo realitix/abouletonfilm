@@ -1,1 +1,0 @@
-{"tmdb_id": 334863, "title": "Gina, An Actress, Age 29", "original_title": "Gina, An Actress, Age 29", "slug_title": "gina-an-actress-age-29", "date": "2001-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amy Hubbard ()", "Frankie Faison ()"], "comments": [], "recommandations_id": []}

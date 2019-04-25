@@ -1,1 +1,0 @@
-{"tmdb_id": 84459, "title": "Lacuna Coil: Wacken 2009", "original_title": "Lacuna Coil: Wacken 2009", "slug_title": "lacuna-coil-wacken-2009", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s7MEiLDQ4iuk4WEEFCnsnGVwhDx.jpg", "actors": [], "comments": [], "recommandations_id": []}

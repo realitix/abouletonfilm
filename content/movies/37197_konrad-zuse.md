@@ -1,1 +1,0 @@
-{"tmdb_id": 37197, "title": "Konrad Zuse", "original_title": "Konrad Zuse", "slug_title": "konrad-zuse", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/87hhLP6rNkMLu6HUjZZj1WbbiPe.jpg", "actors": [], "comments": [], "recommandations_id": []}

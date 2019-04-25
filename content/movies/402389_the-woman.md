@@ -1,1 +1,0 @@
-{"tmdb_id": 402389, "title": "The Woman", "original_title": "The Woman", "slug_title": "the-woman", "date": "1915-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

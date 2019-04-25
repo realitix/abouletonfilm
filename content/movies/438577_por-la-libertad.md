@@ -1,1 +1,0 @@
-{"tmdb_id": 438577, "title": "Por la libertad", "original_title": "Por la libertad", "slug_title": "por-la-libertad", "date": "2017-01-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carlos Reygadas ()"], "comments": [], "recommandations_id": []}

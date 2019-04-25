@@ -1,1 +1,0 @@
-{"tmdb_id": 333417, "title": "The Best of Film Noir", "original_title": "The Best of Film Noir", "slug_title": "the-best-of-film-noir", "date": "1999-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zs7kA5KjgSWUzPAdIO5bBWs8MCC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 420546, "title": "Eyewitness In Iraq", "original_title": "Eyewitness In Iraq", "slug_title": "eyewitness-in-iraq", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4wD5LmGEoccY3ZiBYvWmeWKWbYm.jpg", "actors": [], "comments": [], "recommandations_id": []}

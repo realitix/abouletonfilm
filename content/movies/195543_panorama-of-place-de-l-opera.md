@@ -1,1 +1,0 @@
-{"tmdb_id": 195543, "title": "Panorama of Place de l'Op\u00e9ra", "original_title": "Panorama of Place de l'Op\u00e9ra", "slug_title": "panorama-of-place-de-l-opera", "date": "1900-08-21", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

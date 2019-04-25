@@ -1,1 +1,0 @@
-{"tmdb_id": 327355, "title": "The Globe as a Graph", "original_title": "The Globe as a Graph", "slug_title": "the-globe-as-a-graph", "date": "2015-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

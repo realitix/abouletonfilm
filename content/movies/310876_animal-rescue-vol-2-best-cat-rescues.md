@@ -1,1 +1,0 @@
-{"tmdb_id": 310876, "title": "Animal Rescue: Vol. 2: Best Cat Rescues", "original_title": "Animal Rescue: Vol. 2: Best Cat Rescues", "slug_title": "animal-rescue-vol-2-best-cat-rescues", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

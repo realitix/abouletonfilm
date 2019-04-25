@@ -1,1 +1,0 @@
-{"tmdb_id": 567832, "title": "The Official Tribute to SENNA", "original_title": "The Official Tribute to SENNA", "slug_title": "the-official-tribute-to-senna", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nFcdHawkfbmO0KLHB6yjBvyom0X.jpg", "actors": [], "comments": [], "recommandations_id": []}

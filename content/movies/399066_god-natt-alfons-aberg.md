@@ -1,1 +1,0 @@
-{"tmdb_id": 399066, "title": "God Natt Alfons \u00c5berg", "original_title": "God Natt Alfons \u00c5berg", "slug_title": "god-natt-alfons-aberg", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

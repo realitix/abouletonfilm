@@ -1,1 +1,0 @@
-{"tmdb_id": 574155, "title": "The Deposit", "original_title": "Trygg\u00f0", "slug_title": "the-deposit", "date": "2019-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r1zZc0FTg7o9XgGxQA44WuRXYm0.jpg", "actors": [], "comments": [], "recommandations_id": []}

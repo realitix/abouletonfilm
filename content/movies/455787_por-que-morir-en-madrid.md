@@ -1,1 +1,0 @@
-{"tmdb_id": 455787, "title": "\u00bfPor qu\u00e9 morir en Madrid?", "original_title": "\u00bfPor qu\u00e9 morir en Madrid?", "slug_title": "por-que-morir-en-madrid", "date": "1966-05-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 578399, "title": "The Last Survivors", "original_title": "The Last Survivors", "slug_title": "the-last-survivors", "date": "2019-01-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e6cyO8LTCPqu3XtMrsqxGnLB5Wz.jpg", "actors": [], "comments": [], "recommandations_id": []}

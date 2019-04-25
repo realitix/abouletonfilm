@@ -1,1 +1,0 @@
-{"tmdb_id": 535962, "title": "Red Forrest", "original_title": "Red Forrest", "slug_title": "red-forrest", "date": "2018-06-18", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lMyqQHbCFftAZ7BKhh2v3fvlTIh.jpg", "actors": [], "comments": [], "recommandations_id": []}

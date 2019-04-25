@@ -1,1 +1,0 @@
-{"tmdb_id": 496821, "title": "1UP - One United Power", "original_title": "1UP - One United Power", "slug_title": "1up-one-united-power", "date": "2011-12-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qWuMP8CxCmPKcHY4r2xVtCoDlbQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

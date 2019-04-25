@@ -1,1 +1,0 @@
-{"tmdb_id": 388866, "title": "Fuku-chan's Submarine", "original_title": "Fuku-chan no Sensuikan", "slug_title": "fuku-chan-s-submarine", "date": "1944-11-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9bhWgdJHCpwTWiMebd58jgv0seK.jpg", "actors": [], "comments": [], "recommandations_id": []}

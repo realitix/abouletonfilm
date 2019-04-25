@@ -1,1 +1,0 @@
-{"tmdb_id": 261324, "title": "Legend of Miryang 1", "original_title": "\ubc00\uc591\uc804", "slug_title": "legend-of-miryang-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4S1ZfooPYGoQ6sx4MafDtpPOgfB.jpg", "actors": [], "comments": [], "recommandations_id": []}

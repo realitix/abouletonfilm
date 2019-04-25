@@ -1,1 +1,0 @@
-{"tmdb_id": 196560, "title": "Female Conscripts", "original_title": "Weibliche Assentierung", "slug_title": "female-conscripts", "date": "1908-05-23", "genre": "Com\u00e9die", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y4PVu4klCDHK2Rq0MmJQY1X4f7z.jpg", "actors": [], "comments": [], "recommandations_id": [116363]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 345028, "title": "Eizo Sakushin Shu Vol.2", "original_title": "Eizo Sakushin Shu Vol.2", "slug_title": "eizo-sakushin-shu-vol-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5YXIbZBpD6mfwteCIFNnbXSoUQY.jpg", "actors": [], "comments": [], "recommandations_id": []}

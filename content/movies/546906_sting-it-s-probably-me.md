@@ -1,1 +1,0 @@
-{"tmdb_id": 546906, "title": "Sting: It's Probably Me", "original_title": "Sting: It's Probably Me", "slug_title": "sting-it-s-probably-me", "date": "1992-05-23", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eric Clapton (Himself)", "Michael Kamen (Himself)", "Sting (Himself)"], "comments": [], "recommandations_id": []}

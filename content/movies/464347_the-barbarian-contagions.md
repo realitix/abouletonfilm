@@ -1,1 +1,0 @@
-{"tmdb_id": 464347, "title": "The Barbarian Contagions", "original_title": "Les contagions barbares", "slug_title": "the-barbarian-contagions", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

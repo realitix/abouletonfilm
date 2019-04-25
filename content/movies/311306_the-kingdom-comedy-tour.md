@@ -1,1 +1,0 @@
-{"tmdb_id": 311306, "title": "The Kingdom Comedy Tour", "original_title": "The Kingdom Comedy Tour", "slug_title": "the-kingdom-comedy-tour", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

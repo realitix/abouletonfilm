@@ -1,1 +1,0 @@
-{"tmdb_id": 450041, "title": "I Was a General of Wehrmacht", "original_title": "By\u0142em genera\u0142em Wehrmachtu", "slug_title": "i-was-a-general-of-wehrmacht", "date": "1988-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

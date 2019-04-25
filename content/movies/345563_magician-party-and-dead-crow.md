@@ -1,1 +1,0 @@
-{"tmdb_id": 345563, "title": "Magician Party and Dead Crow", "original_title": "\u9b54\u672f\u5e08\u515a\u548c\u6b7b\u4e4c\u9e26", "slug_title": "magician-party-and-dead-crow", "date": "2013-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

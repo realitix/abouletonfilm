@@ -1,1 +1,0 @@
-{"tmdb_id": 383968, "title": "The Morning Guy", "original_title": "The Morning Guy", "slug_title": "the-morning-guy", "date": "2003-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ytAXIRu9NiQwDH8gFcW4X2n8aD.jpg", "actors": [], "comments": [], "recommandations_id": []}

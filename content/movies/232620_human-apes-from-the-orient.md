@@ -1,1 +1,0 @@
-{"tmdb_id": 232620, "title": "Human Apes from the Orient", "original_title": "Human Apes from the Orient", "slug_title": "human-apes-from-the-orient", "date": "1906-11-03", "genre": "Documentaire", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

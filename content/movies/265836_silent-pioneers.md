@@ -1,1 +1,0 @@
-{"tmdb_id": 265836, "title": "Silent Pioneers", "original_title": "Silent Pioneers", "slug_title": "silent-pioneers", "date": "1985-09-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n3oYO0iDmQ4XllCawjqtQtUN2Bs.jpg", "actors": [], "comments": [], "recommandations_id": []}

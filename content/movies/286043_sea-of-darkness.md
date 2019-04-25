@@ -1,1 +1,0 @@
-{"tmdb_id": 286043, "title": "Sea of Darkness", "original_title": "Sea of Darkness", "slug_title": "sea-of-darkness", "date": "2013-10-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gZP5ITSBmfsTIYoZeEeWGQGtRti.jpg", "actors": [], "comments": [], "recommandations_id": []}

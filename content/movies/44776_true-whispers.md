@@ -1,1 +1,0 @@
-{"tmdb_id": 44776, "title": "True Whispers", "original_title": "True Whispers", "slug_title": "true-whispers", "date": "2002-11-18", "genre": "Documentaire / Guerre / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

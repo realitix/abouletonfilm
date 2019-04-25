@@ -1,1 +1,0 @@
-{"tmdb_id": 346218, "title": "A Lifestory", "original_title": "A Lifestory", "slug_title": "a-lifestory", "date": "2013-06-25", "genre": "Science-Fiction / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k4ByXmZjs7awOVRkBMO7kb0gpqE.jpg", "actors": [], "comments": [], "recommandations_id": []}

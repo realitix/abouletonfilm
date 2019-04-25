@@ -1,1 +1,0 @@
-{"tmdb_id": 538498, "title": "My Foster Sister", "original_title": "Ma soeur de lait", "slug_title": "my-foster-sister", "date": "1938-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4JlXx0XOrTsbv1YV5BZgRNBWveX.jpg", "actors": [], "comments": [], "recommandations_id": []}

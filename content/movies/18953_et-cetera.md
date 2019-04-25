@@ -1,1 +1,0 @@
-{"tmdb_id": 18953, "title": "Et Cetera", "original_title": "Et Cetera", "slug_title": "et-cetera", "date": "1966-07-01", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yifIaOvWkw5sggqThJkpzkW4mBn.jpg", "actors": [], "comments": [], "recommandations_id": [18950, 19011, 19001, 18952]}

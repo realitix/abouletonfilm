@@ -1,1 +1,0 @@
-{"tmdb_id": 21754, "title": "Fahrenhype 9/11", "original_title": "Fahrenhype 9/11", "slug_title": "fahrenhype-9-11", "date": "2004-10-05", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s48v4v5zJ4oy18XB5cqQMsql7Zp.jpg", "actors": [], "comments": [], "recommandations_id": []}

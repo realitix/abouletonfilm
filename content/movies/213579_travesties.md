@@ -1,1 +1,0 @@
-{"tmdb_id": 213579, "title": "Travesties", "original_title": "Travesties", "slug_title": "travesties", "date": "1976-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 226565, "title": "Nile Perch", "original_title": "Nile Perch", "slug_title": "nile-perch", "date": "2013-06-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

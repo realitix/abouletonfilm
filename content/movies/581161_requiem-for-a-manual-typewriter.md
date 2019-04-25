@@ -1,1 +1,0 @@
-{"tmdb_id": 581161, "title": "Requiem for a Manual Typewriter", "original_title": "Requiem for a Manual Typewriter", "slug_title": "requiem-for-a-manual-typewriter", "date": "2000-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonas Mekas (Himself)"], "comments": [], "recommandations_id": []}

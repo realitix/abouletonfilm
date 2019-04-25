@@ -1,1 +1,0 @@
-{"tmdb_id": 377236, "title": "Bear and the Bees", "original_title": "Bear and the Bees", "slug_title": "bear-and-the-bees", "date": "1961-06-13", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nfrLWuOPH7UvgXjVIFSxpFndidj.jpg", "actors": ["Dal McKennon ((voice))"], "comments": [], "recommandations_id": []}

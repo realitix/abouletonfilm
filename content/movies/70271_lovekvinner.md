@@ -1,1 +1,0 @@
-{"tmdb_id": 70271, "title": "L\u00f8vekvinner", "original_title": "L\u00f8vekvinner", "slug_title": "lovekvinner", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

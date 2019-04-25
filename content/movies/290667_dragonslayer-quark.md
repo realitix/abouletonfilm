@@ -1,1 +1,0 @@
-{"tmdb_id": 290667, "title": "Dragonslayer Quark", "original_title": "Dragonslayer Quark", "slug_title": "dragonslayer-quark", "date": "1987-12-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/td8kIZdj1fec382jwphFFkptvbp.jpg", "actors": ["John Cleese ()"], "comments": [], "recommandations_id": []}

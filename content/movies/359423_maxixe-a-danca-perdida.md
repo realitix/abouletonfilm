@@ -1,1 +1,0 @@
-{"tmdb_id": 359423, "title": "Maxixe - A Dan\u00e7a Perdida", "original_title": "Maxixe - A Dan\u00e7a Perdida", "slug_title": "maxixe-a-danca-perdida", "date": "1980-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9FxW17VXQYQS8TgSV45oEs36Rbl.jpg", "actors": [], "comments": [], "recommandations_id": []}

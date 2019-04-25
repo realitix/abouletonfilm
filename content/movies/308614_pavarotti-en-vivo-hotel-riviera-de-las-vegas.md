@@ -1,1 +1,0 @@
-{"tmdb_id": 308614, "title": "Pavarotti: En Vivo Hotel Riviera de Las Vegas", "original_title": "Pavarotti: En Vivo Hotel Riviera de Las Vegas", "slug_title": "pavarotti-en-vivo-hotel-riviera-de-las-vegas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

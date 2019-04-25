@@ -1,1 +1,0 @@
-{"tmdb_id": 497705, "title": "Wild Cats - BBC Earth", "original_title": "Wild Cats - BBC Earth", "slug_title": "wild-cats-bbc-earth", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

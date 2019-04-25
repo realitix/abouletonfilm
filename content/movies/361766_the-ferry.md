@@ -1,1 +1,0 @@
-{"tmdb_id": 361766, "title": "The Ferry", "original_title": "Pr\u0101mis", "slug_title": "the-ferry", "date": "1996-01-01", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2sryuzCZdYfCjHTqTy8dmGXVoV6.jpg", "actors": [], "comments": [], "recommandations_id": [128941, 158292, 145013, 125713]}

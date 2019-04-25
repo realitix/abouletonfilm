@@ -1,1 +1,0 @@
-{"tmdb_id": 86426, "title": "Mark Knopfler: Prince's Trust", "original_title": "Mark Knopfler: Prince's Trust", "slug_title": "mark-knopfler-prince-s-trust", "date": "2009-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/919KHrPqd1yg2FBhMkepjILfMks.jpg", "actors": [], "comments": [], "recommandations_id": []}

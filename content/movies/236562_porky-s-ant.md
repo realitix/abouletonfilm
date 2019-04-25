@@ -1,1 +1,0 @@
-{"tmdb_id": 236562, "title": "Porky's Ant", "original_title": "Porky's Ant", "slug_title": "porky-s-ant", "date": "1941-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6xQUYEFv8yz1gUPnUC51SIxpviI.jpg", "actors": [], "comments": [], "recommandations_id": []}

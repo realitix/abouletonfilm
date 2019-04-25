@@ -1,1 +1,0 @@
-{"tmdb_id": 527930, "title": "Like A Passing Train 2", "original_title": "Like A Passing Train 2", "slug_title": "like-a-passing-train-2", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Nz2LAQxcNZCejMVcqU7QvP767z.jpg", "actors": [], "comments": [], "recommandations_id": []}

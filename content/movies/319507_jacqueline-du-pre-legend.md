@@ -1,1 +1,0 @@
-{"tmdb_id": 319507, "title": "Jacqueline Du Pre: Legend", "original_title": "Jacqueline Du Pre: Legend", "slug_title": "jacqueline-du-pre-legend", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

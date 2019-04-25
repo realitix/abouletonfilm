@@ -1,1 +1,0 @@
-{"tmdb_id": 284036, "title": "Angel of Darkness Volume 1", "original_title": "Angel of Darkness Volume 1", "slug_title": "angel-of-darkness-volume-1", "date": "1994-10-21", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/huhLee1D4iUjofofv3VQMipCuhj.jpg", "actors": [], "comments": [], "recommandations_id": []}

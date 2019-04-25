@@ -1,1 +1,0 @@
-{"tmdb_id": 372605, "title": "Nuclear Nation II", "original_title": "Futaba kara toku hanarete dainibu", "slug_title": "nuclear-nation-ii", "date": "2015-02-10", "genre": "Drame / Documentaire", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sZyii7Rhqo1HhIpGDxn30avQBJy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 541593, "title": "Fine Gold", "original_title": "Fine Gold", "slug_title": "fine-gold", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

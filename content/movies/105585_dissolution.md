@@ -1,1 +1,0 @@
-{"tmdb_id": 105585, "title": "Dissolution", "original_title": "Dissolution", "slug_title": "dissolution", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e5o4zEVSmCWNAkGAPLIKtFobW39.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 465204, "title": "Holocaust Denial vs. Freedom of Speech", "original_title": "Holocaust Denial vs. Freedom of Speech", "slug_title": "holocaust-denial-vs-freedom-of-speech", "date": "1994-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

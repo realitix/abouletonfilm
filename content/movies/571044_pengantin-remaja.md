@@ -1,1 +1,0 @@
-{"tmdb_id": 571044, "title": "Pengantin Remaja", "original_title": "Pengantin Remaja", "slug_title": "pengantin-remaja", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zHgEonqLTBk2sQ1QUC6AQ0Z2dYE.jpg", "actors": [], "comments": [], "recommandations_id": []}

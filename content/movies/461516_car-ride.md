@@ -1,1 +1,0 @@
-{"tmdb_id": 461516, "title": "Car Ride", "original_title": "Car Ride", "slug_title": "car-ride", "date": "2002-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

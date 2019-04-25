@@ -1,1 +1,0 @@
-{"tmdb_id": 360829, "title": "Raising the Mammoth", "original_title": "Raising the Mammoth", "slug_title": "raising-the-mammoth", "date": "2000-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mXQLRfjqX6j6bSKdEkDvaHt6r7C.jpg", "actors": ["Jeff Bridges (Narrator (voice))"], "comments": [], "recommandations_id": []}

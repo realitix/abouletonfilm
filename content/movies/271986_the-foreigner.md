@@ -1,1 +1,0 @@
-{"tmdb_id": 271986, "title": "The Foreigner", "original_title": "The Foreigner", "slug_title": "the-foreigner", "date": "1997-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 477977, "title": "No Stopping the Stover", "original_title": "No Stopping the Stover", "slug_title": "no-stopping-the-stover", "date": "2016-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 402584, "title": "Le Mans: 100 Years of Passion", "original_title": "Le Mans: 100 Years of Passion", "slug_title": "le-mans-100-years-of-passion", "date": "2006-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sterling Moss (Himself)", "Jacky Ickx (Himself)"], "comments": [], "recommandations_id": []}

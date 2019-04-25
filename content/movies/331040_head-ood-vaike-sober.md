@@ -1,1 +1,0 @@
-{"tmdb_id": 331040, "title": "Head \u00f6\u00f6d, v\u00e4ike s\u00f5ber", "original_title": "Head \u00f6\u00f6d, v\u00e4ike s\u00f5ber", "slug_title": "head-ood-vaike-sober", "date": "1962-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ruth Peramets (Jutustaja)"], "comments": [], "recommandations_id": []}

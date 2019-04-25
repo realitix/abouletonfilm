@@ -1,1 +1,0 @@
-{"tmdb_id": 347886, "title": "The Age of Change", "original_title": "The Age of Change", "slug_title": "the-age-of-change", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

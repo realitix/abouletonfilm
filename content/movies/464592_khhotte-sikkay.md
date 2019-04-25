@@ -1,1 +1,0 @@
-{"tmdb_id": 464592, "title": "Khhotte Sikkay", "original_title": "Khhotte Sikkay", "slug_title": "khhotte-sikkay", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sC7YZSf4qehndjCTMZQTZ02atho.jpg", "actors": [], "comments": [], "recommandations_id": []}

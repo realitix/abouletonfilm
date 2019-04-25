@@ -1,1 +1,0 @@
-{"tmdb_id": 302238, "title": "First Generation", "original_title": "First Generation", "slug_title": "first-generation", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1510HnYZO5IJi6l8wDMFEjbFoKy.jpg", "actors": ["Blair Underwood (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 174536, "title": "I'm Insured", "original_title": "I'm Insured", "slug_title": "i-m-insured", "date": "1916-10-25", "genre": "Com\u00e9die / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dBYkZavVm4lJ4EYTbJBUtMpoYOc.jpg", "actors": [], "comments": [], "recommandations_id": []}

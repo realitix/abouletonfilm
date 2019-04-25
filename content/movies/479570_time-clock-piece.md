@@ -1,1 +1,0 @@
-{"tmdb_id": 479570, "title": "Time Clock Piece", "original_title": "Time Clock Piece", "slug_title": "time-clock-piece", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7f9AWr6fvZMdArDedHVLtMcdnA9.jpg", "actors": [], "comments": [], "recommandations_id": []}

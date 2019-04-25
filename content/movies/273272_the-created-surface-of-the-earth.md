@@ -1,1 +1,0 @@
-{"tmdb_id": 273272, "title": "The Created Surface of the Earth", "original_title": "Tvorimaya zemnaya poverkhnost", "slug_title": "the-created-surface-of-the-earth", "date": "1920-01-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

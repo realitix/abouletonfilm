@@ -1,1 +1,0 @@
-{"tmdb_id": 300623, "title": "Enough Cuts for a Murder", "original_title": "Enough Cuts for a Murder", "slug_title": "enough-cuts-for-a-murder", "date": "1978-01-01", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christopher Monger ()"], "comments": [], "recommandations_id": []}

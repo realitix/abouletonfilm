@@ -1,1 +1,0 @@
-{"tmdb_id": 40400, "title": "Enigma: Remember the Future", "original_title": "Enigma: Remember the Future", "slug_title": "enigma-remember-the-future", "date": "2001-05-22", "genre": "Musique", "score": "3.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1I84pMfnB3AF2TgVrLz2pKzG0y4.jpg", "actors": [], "comments": [], "recommandations_id": []}

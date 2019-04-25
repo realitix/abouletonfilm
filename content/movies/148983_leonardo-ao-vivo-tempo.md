@@ -1,1 +1,0 @@
-{"tmdb_id": 148983, "title": "Leonardo ao Vivo - Tempo", "original_title": "Leonardo ao Vivo - Tempo", "slug_title": "leonardo-ao-vivo-tempo", "date": "2016-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wy2QUOf2smDHmbPzpUjKaNbs7tS.jpg", "actors": [], "comments": [], "recommandations_id": []}

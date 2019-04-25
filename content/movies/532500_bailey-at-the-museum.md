@@ -1,1 +1,0 @@
-{"tmdb_id": 532500, "title": "Bailey at the Museum", "original_title": "Bailey at the Museum", "slug_title": "bailey-at-the-museum", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

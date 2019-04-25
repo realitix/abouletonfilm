@@ -1,1 +1,0 @@
-{"tmdb_id": 536725, "title": "A Modern Persuasion", "original_title": "A Modern Persuasion", "slug_title": "a-modern-persuasion", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alicia Witt (Wren Cosgrove)"], "comments": [], "recommandations_id": []}

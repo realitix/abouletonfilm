@@ -1,1 +1,0 @@
-{"tmdb_id": 444385, "title": "It's in the Sky", "original_title": "It's in the Sky", "slug_title": "it-s-in-the-sky", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

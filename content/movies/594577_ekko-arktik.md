@@ -1,1 +1,0 @@
-{"tmdb_id": 594577, "title": "Ekko Arktik", "original_title": "Ekko Arktik", "slug_title": "ekko-arktik", "date": "2016-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4gaiNAubfHVZI4ZTrlZlr0wLNIE.jpg", "actors": [], "comments": [], "recommandations_id": []}

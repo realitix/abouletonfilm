@@ -1,1 +1,0 @@
-{"tmdb_id": 472162, "title": "Fora de Quadro", "original_title": "Fora de Quadro", "slug_title": "fora-de-quadro", "date": "2017-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bLbaBAXqNr8G9YOU2lLBC6m4hpO.jpg", "actors": [], "comments": [], "recommandations_id": []}

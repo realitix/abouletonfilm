@@ -1,1 +1,0 @@
-{"tmdb_id": 542869, "title": "A Standard Love Song: Arik Einstein", "original_title": "A Standard Love Song: Arik Einstein", "slug_title": "a-standard-love-song-arik-einstein", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

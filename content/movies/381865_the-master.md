@@ -1,1 +1,0 @@
-{"tmdb_id": 381865, "title": "The Master", "original_title": "Isand", "slug_title": "the-master", "date": "2015-10-09", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6XrpjTXTtPn5zLRu4CGRI1awYGv.jpg", "actors": [], "comments": [], "recommandations_id": []}

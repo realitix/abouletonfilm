@@ -1,1 +1,0 @@
-{"tmdb_id": 419692, "title": "Er sollte tot.", "original_title": "Er sollte tot.", "slug_title": "er-sollte-tot", "date": "2006-07-18", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

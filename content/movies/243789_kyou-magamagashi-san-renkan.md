@@ -1,1 +1,0 @@
-{"tmdb_id": 243789, "title": "Kyou <Magamagashi> San Renkan", "original_title": "Kyou <Magamagashi> San Renkan", "slug_title": "kyou-magamagashi-san-renkan", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wXNBUT7yh4fQ55FI1eCewKF5Sky.jpg", "actors": [], "comments": [], "recommandations_id": []}

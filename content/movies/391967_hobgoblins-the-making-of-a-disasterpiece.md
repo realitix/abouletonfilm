@@ -1,1 +1,0 @@
-{"tmdb_id": 391967, "title": "Hobgoblins: The Making of a DisasterPiece", "original_title": "Hobgoblins: The Making of a DisasterPiece", "slug_title": "hobgoblins-the-making-of-a-disasterpiece", "date": "2009-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

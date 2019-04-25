@@ -1,1 +1,0 @@
-{"tmdb_id": 515432, "title": "George Smilovici Hot", "original_title": "George Smilovici Hot", "slug_title": "george-smilovici-hot", "date": "1989-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

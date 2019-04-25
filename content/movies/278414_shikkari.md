@@ -1,1 +1,0 @@
-{"tmdb_id": 278414, "title": "Shikkari", "original_title": "Shikkari", "slug_title": "shikkari", "date": "2012-03-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

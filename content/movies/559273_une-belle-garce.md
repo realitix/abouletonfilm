@@ -1,1 +1,0 @@
-{"tmdb_id": 559273, "title": "Une belle garce", "original_title": "Une belle garce", "slug_title": "une-belle-garce", "date": "1947-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/E6wGes3U5RNqY9xQ2Yj1PHeaM1.jpg", "actors": [], "comments": [], "recommandations_id": []}

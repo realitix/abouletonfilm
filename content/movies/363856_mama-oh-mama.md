@@ -1,1 +1,0 @@
-{"tmdb_id": 363856, "title": "Mama Oh Mama", "original_title": "Mama Oh Mama", "slug_title": "mama-oh-mama", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AuAqEHs0RdZgGPclOqkYIkqBsDo.jpg", "actors": [], "comments": [], "recommandations_id": []}

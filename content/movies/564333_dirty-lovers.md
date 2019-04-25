@@ -1,1 +1,0 @@
-{"tmdb_id": 564333, "title": "Dirty Lovers", "original_title": "La d\u00e9bauche", "slug_title": "dirty-lovers", "date": "1971-08-21", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aVSVXnY9jozxOYvDKvXy4WZUoXl.jpg", "actors": [], "comments": [], "recommandations_id": []}

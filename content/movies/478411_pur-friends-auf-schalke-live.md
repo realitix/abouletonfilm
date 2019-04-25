@@ -1,1 +1,0 @@
-{"tmdb_id": 478411, "title": "PUR & Friends auf Schalke live", "original_title": "PUR & Friends auf Schalke live", "slug_title": "pur-friends-auf-schalke-live", "date": "2001-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t1N0H8J7WQxMxHlqhfhq1Iylm6X.jpg", "actors": [], "comments": [], "recommandations_id": []}

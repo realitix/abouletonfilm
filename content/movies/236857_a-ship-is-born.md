@@ -1,1 +1,0 @@
-{"tmdb_id": 236857, "title": "A Ship Is Born", "original_title": "A Ship Is Born", "slug_title": "a-ship-is-born", "date": "1942-01-01", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 485278, "title": "Momentum", "original_title": "Momentum", "slug_title": "momentum", "date": "2013-04-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e1kn4kO46ouOTMhwXMy6ngg9u81.jpg", "actors": ["Patrick Hanna (Patrick)", "Shoko Ito (Mother)"], "comments": [], "recommandations_id": []}

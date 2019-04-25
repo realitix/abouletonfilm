@@ -1,1 +1,0 @@
-{"tmdb_id": 308054, "title": "L'Absinthe", "original_title": "L'Absinthe", "slug_title": "l-absinthe", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 250674, "title": "Tom and Fluffy", "original_title": "Tom ja Fluffy", "slug_title": "tom-and-fluffy", "date": "1997-01-01", "genre": "Animation / Familial", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9sL3zuT7i0QIEqe5SQYoMD2N9Wo.jpg", "actors": [], "comments": [], "recommandations_id": []}

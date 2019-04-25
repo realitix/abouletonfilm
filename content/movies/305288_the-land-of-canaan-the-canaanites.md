@@ -1,1 +1,0 @@
-{"tmdb_id": 305288, "title": "The Land of Canaan: The Canaanites", "original_title": "The Land of Canaan: The Canaanites", "slug_title": "the-land-of-canaan-the-canaanites", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

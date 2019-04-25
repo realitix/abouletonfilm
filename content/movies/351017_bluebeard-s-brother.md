@@ -1,1 +1,0 @@
-{"tmdb_id": 351017, "title": "Bluebeard's Brother", "original_title": "Bluebeard's Brother", "slug_title": "bluebeard-s-brother", "date": "1932-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

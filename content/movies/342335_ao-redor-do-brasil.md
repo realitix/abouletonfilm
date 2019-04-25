@@ -1,1 +1,0 @@
-{"tmdb_id": 342335, "title": "Ao Redor do Brasil", "original_title": "Ao Redor do Brasil", "slug_title": "ao-redor-do-brasil", "date": "1932-05-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/teRoolyvayOHTgRa7ZtiWMScrYF.jpg", "actors": [], "comments": [], "recommandations_id": []}

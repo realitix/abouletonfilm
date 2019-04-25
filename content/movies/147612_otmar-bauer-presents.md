@@ -1,1 +1,0 @@
-{"tmdb_id": 147612, "title": "Otmar Bauer Presents", "original_title": "Otmar Bauer Zeigt", "slug_title": "otmar-bauer-presents", "date": "1969-12-31", "genre": "", "score": "2.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kCMKeGcYZoGW5i1flw7rhKKmsbC.jpg", "actors": [], "comments": [], "recommandations_id": [148664, 189644, 49176, 148908]}

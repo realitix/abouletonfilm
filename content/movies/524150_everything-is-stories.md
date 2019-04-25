@@ -1,1 +1,0 @@
-{"tmdb_id": 524150, "title": "Everything is Stories", "original_title": "Everything is Stories", "slug_title": "everything-is-stories", "date": "2018-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ZGzxwLbF8c1APL4QhpsS2FMkQi.jpg", "actors": [], "comments": [], "recommandations_id": []}

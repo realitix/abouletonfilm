@@ -1,1 +1,0 @@
-{"tmdb_id": 543607, "title": "Nine in the Afternoon", "original_title": "Alas-Nuebe ng Tanghali", "slug_title": "nine-in-the-afternoon", "date": "2018-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hYtdaP11dGa2U5d29NdpkR1KuAo.jpg", "actors": [], "comments": [], "recommandations_id": []}

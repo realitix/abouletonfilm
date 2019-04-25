@@ -1,1 +1,0 @@
-{"tmdb_id": 568802, "title": "Space Boy", "original_title": "Space Boy", "slug_title": "space-boy", "date": "1973-01-01", "genre": "Science-Fiction / Musique", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Florence Marly ()", "Stuart Thomson ()"], "comments": [], "recommandations_id": []}

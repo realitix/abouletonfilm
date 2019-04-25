@@ -1,1 +1,0 @@
-{"tmdb_id": 472103, "title": "London-Cape Wrath-London", "original_title": "London-Cape Wrath-London", "slug_title": "london-cape-wrath-london", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

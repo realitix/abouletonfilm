@@ -1,1 +1,0 @@
-{"tmdb_id": 503535, "title": "Paese mio dei corcali", "original_title": "Paese mio dei corcali", "slug_title": "paese-mio-dei-corcali", "date": "1967-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

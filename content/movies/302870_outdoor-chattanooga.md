@@ -1,1 +1,0 @@
-{"tmdb_id": 302870, "title": "Outdoor Chattanooga", "original_title": "Outdoor Chattanooga", "slug_title": "outdoor-chattanooga", "date": "2014-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

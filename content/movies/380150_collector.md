@@ -1,1 +1,0 @@
-{"tmdb_id": 380150, "title": "Collector", "original_title": "Collector", "slug_title": "collector", "date": "2008-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/296x48mgh5QHKwUSRqUgUC6SXfx.jpg", "actors": ["Matthew Boylan ()", "Brad Renfro ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 304735, "title": "Raaja Kaiya Vatcha", "original_title": "Raaja Kaiya Vatcha", "slug_title": "raaja-kaiya-vatcha", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

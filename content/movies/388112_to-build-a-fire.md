@@ -1,1 +1,0 @@
-{"tmdb_id": 388112, "title": "To Build a Fire", "original_title": "To Build a Fire", "slug_title": "to-build-a-fire", "date": "2014-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aWEqjDrXnXAHz4yEVEQ0IIvE8I4.jpg", "actors": [], "comments": [], "recommandations_id": []}

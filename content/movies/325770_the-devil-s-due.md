@@ -1,1 +1,0 @@
-{"tmdb_id": 325770, "title": "The Devil's Due", "original_title": "The Devil's Due", "slug_title": "the-devil-s-due", "date": "2011-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

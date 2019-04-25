@@ -1,1 +1,0 @@
-{"tmdb_id": 267100, "title": "Peaux de vaches", "original_title": "Peaux de vaches", "slug_title": "peaux-de-vaches", "date": "1989-05-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kZRg1DCU1fKYgff4IuiUFwFsXVn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 549482, "title": "The Security Guard", "original_title": "Le vigile", "slug_title": "the-security-guard", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

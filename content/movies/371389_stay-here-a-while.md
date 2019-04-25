@@ -1,1 +1,0 @@
-{"tmdb_id": 371389, "title": "Stay Here a While", "original_title": "Stay Here a While", "slug_title": "stay-here-a-while", "date": "2008-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 562209, "title": "Le cercle vicieux", "original_title": "Le cercle vicieux", "slug_title": "le-cercle-vicieux", "date": "1960-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dDhmQiOBqMZx937dQguXvroain9.jpg", "actors": [], "comments": [], "recommandations_id": []}

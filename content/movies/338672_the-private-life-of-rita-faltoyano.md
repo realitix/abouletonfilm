@@ -1,1 +1,0 @@
-{"tmdb_id": 338672, "title": "The Private Life of Rita Faltoyano", "original_title": "The Private Life of Rita Faltoyano", "slug_title": "the-private-life-of-rita-faltoyano", "date": "2003-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rita Faltoyano ()"], "comments": [], "recommandations_id": []}

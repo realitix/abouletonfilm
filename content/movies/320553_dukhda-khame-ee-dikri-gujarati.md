@@ -1,1 +1,0 @@
-{"tmdb_id": 320553, "title": "Dukhda Khame Ee Dikri: Gujarati", "original_title": "Dukhda Khame Ee Dikri: Gujarati", "slug_title": "dukhda-khame-ee-dikri-gujarati", "date": "2005-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 155472, "title": "The SharkTank Redemption", "original_title": "The SharkTank Redemption", "slug_title": "the-sharktank-redemption", "date": "2000-11-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

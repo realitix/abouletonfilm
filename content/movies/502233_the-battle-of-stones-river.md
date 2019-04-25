@@ -1,1 +1,0 @@
-{"tmdb_id": 502233, "title": "The Battle of Stones River", "original_title": "The Battle of Stones River", "slug_title": "the-battle-of-stones-river", "date": "2006-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ihQ7EDpgR8aDBxxcJXSgPf5qgJ4.jpg", "actors": [], "comments": [], "recommandations_id": []}

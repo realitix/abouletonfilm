@@ -1,1 +1,0 @@
-{"tmdb_id": 595013, "title": "Simondon of the Desert", "original_title": "Simondon du d\u00e9sert", "slug_title": "simondon-of-the-desert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

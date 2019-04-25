@@ -1,1 +1,0 @@
-{"tmdb_id": 549966, "title": "Cops! Who Needs Them?", "original_title": "Cops! Who Needs Them?", "slug_title": "cops-who-needs-them", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

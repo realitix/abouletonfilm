@@ -1,1 +1,0 @@
-{"tmdb_id": 339784, "title": "Rico le bouffon", "original_title": "Rico le bouffon", "slug_title": "rico-le-bouffon", "date": "1910-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

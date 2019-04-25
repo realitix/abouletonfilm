@@ -1,1 +1,0 @@
-{"tmdb_id": 312087, "title": "You're Triflin", "original_title": "You're Triflin", "slug_title": "you-re-triflin", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

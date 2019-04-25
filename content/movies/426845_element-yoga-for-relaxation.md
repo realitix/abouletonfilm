@@ -1,1 +1,0 @@
-{"tmdb_id": 426845, "title": "Element: YOGA for Relaxation", "original_title": "Element: YOGA for Relaxation", "slug_title": "element-yoga-for-relaxation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eKwtbu08hgHzbf5TStEEVzbajrk.jpg", "actors": [], "comments": [], "recommandations_id": []}

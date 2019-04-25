@@ -1,1 +1,0 @@
-{"tmdb_id": 521830, "title": "King of the Jockeys", "original_title": "King of the Jockeys", "slug_title": "king-of-the-jockeys", "date": "1950-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

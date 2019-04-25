@@ -1,1 +1,0 @@
-{"tmdb_id": 433005, "title": "Cairo Jazzman", "original_title": "Cairo Jazzman", "slug_title": "cairo-jazzman", "date": "2017-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ucWGSbHodaD9NmdEoQjQms5mvgq.jpg", "actors": [], "comments": [], "recommandations_id": []}

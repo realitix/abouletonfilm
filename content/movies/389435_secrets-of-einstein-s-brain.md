@@ -1,1 +1,0 @@
-{"tmdb_id": 389435, "title": "Secrets of Einstein's Brain", "original_title": "Secrets of Einstein's Brain", "slug_title": "secrets-of-einstein-s-brain", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m2rdAzHHraS9tfllWCvkMQ3tOBv.jpg", "actors": [], "comments": [], "recommandations_id": []}

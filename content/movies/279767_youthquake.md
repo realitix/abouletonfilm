@@ -1,1 +1,0 @@
-{"tmdb_id": 279767, "title": "Youthquake!", "original_title": "Youthquake!", "slug_title": "youthquake", "date": "1977-05-06", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

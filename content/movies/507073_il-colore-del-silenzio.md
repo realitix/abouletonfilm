@@ -1,1 +1,0 @@
-{"tmdb_id": 507073, "title": "Il colore del silenzio", "original_title": "Il colore del silenzio", "slug_title": "il-colore-del-silenzio", "date": "2005-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fAGp05YEGMU0tpFwFjMWrnKS8gQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

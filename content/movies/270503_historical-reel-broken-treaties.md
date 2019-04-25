@@ -1,1 +1,0 @@
-{"tmdb_id": 270503, "title": "Historical Reel: Broken Treaties", "original_title": "Historical Reel: Broken Treaties", "slug_title": "historical-reel-broken-treaties", "date": "1941-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Raymond Gram Swing (Narrator)"], "comments": [], "recommandations_id": []}

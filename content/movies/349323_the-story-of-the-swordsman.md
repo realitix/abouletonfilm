@@ -1,1 +1,0 @@
-{"tmdb_id": 349323, "title": "The Story of the Swordsman", "original_title": "\uac80\uac1d\uc774\uc57c\uae30-\uadc0\ucc9c\ub3c42", "slug_title": "the-story-of-the-swordsman", "date": "1999-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

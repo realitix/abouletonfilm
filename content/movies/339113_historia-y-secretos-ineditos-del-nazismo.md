@@ -1,1 +1,0 @@
-{"tmdb_id": 339113, "title": "Historia y Secretos Ineditos del Nazismo", "original_title": "Historia y Secretos Ineditos del Nazismo", "slug_title": "historia-y-secretos-ineditos-del-nazismo", "date": "2009-05-07", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

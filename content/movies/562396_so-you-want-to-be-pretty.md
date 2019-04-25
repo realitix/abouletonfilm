@@ -1,1 +1,0 @@
-{"tmdb_id": 562396, "title": "So You Want to Be Pretty", "original_title": "So You Want to Be Pretty", "slug_title": "so-you-want-to-be-pretty", "date": "1956-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 364312, "title": "Remembering the Man", "original_title": "Remembering the Man", "slug_title": "remembering-the-man", "date": "2016-04-16", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yXeLpNO3BbB02BJWHkcQKSTJ60s.jpg", "actors": [], "comments": [], "recommandations_id": []}

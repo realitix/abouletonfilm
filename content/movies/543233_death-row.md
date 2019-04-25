@@ -1,1 +1,0 @@
-{"tmdb_id": 543233, "title": "Death Row", "original_title": "Death Row", "slug_title": "death-row", "date": "2016-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

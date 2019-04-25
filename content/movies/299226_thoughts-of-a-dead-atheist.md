@@ -1,1 +1,0 @@
-{"tmdb_id": 299226, "title": "Thoughts of a Dead Atheist", "original_title": "Thoughts of a Dead Atheist", "slug_title": "thoughts-of-a-dead-atheist", "date": "2010-10-26", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

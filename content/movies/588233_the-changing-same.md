@@ -1,1 +1,0 @@
-{"tmdb_id": 588233, "title": "The Changing Same", "original_title": "The Changing Same", "slug_title": "the-changing-same", "date": "2018-10-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

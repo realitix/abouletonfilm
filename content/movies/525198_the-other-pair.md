@@ -1,1 +1,0 @@
-{"tmdb_id": 525198, "title": "The Other Pair", "original_title": "The Other Pair", "slug_title": "the-other-pair", "date": "2014-01-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vpUgWroz3RYnirZdsWjVhycyUO1.jpg", "actors": ["Ali Rozik (Boy 1)", "Omar Rozik (Boy 2)"], "comments": [], "recommandations_id": []}

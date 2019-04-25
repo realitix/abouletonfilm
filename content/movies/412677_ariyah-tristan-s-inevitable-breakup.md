@@ -1,1 +1,0 @@
-{"tmdb_id": 412677, "title": "Ariyah & Tristan's Inevitable Breakup", "original_title": "Ariyah & Tristan's Inevitable Breakup", "slug_title": "ariyah-tristan-s-inevitable-breakup", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Koumbie (Ariyah)", "Taylor Olson (Tristan)"], "comments": [], "recommandations_id": []}

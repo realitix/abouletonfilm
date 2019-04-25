@@ -1,1 +1,0 @@
-{"tmdb_id": 357933, "title": "Return to Oldfield: Making from a Whisper to a Scream", "original_title": "Return to Oldfield: Making from a Whisper to a Scream", "slug_title": "return-to-oldfield-making-from-a-whisper-to-a-scream", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

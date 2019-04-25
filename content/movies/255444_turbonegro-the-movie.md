@@ -1,1 +1,0 @@
-{"tmdb_id": 255444, "title": "Turbonegro: The Movie", "original_title": "Turbonegro: The Movie", "slug_title": "turbonegro-the-movie", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2O8DsFIhGi8qJkYjYubuWqcOgcn.jpg", "actors": [], "comments": [], "recommandations_id": []}

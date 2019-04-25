@@ -1,1 +1,0 @@
-{"tmdb_id": 589904, "title": "\u00dct\u0151s csajok", "original_title": "\u00dct\u0151s csajok", "slug_title": "utos-csajok", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

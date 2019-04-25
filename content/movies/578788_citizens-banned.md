@@ -1,1 +1,0 @@
-{"tmdb_id": 578788, "title": "Citizens Banned", "original_title": "Citizens Banned", "slug_title": "citizens-banned", "date": "1981-01-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

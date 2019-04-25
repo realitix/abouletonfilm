@@ -1,1 +1,0 @@
-{"tmdb_id": 333803, "title": "The Pain of a Baby Tooth", "original_title": "Sud Dichinin Agrisi", "slug_title": "the-pain-of-a-baby-tooth", "date": "1988-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

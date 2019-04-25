@@ -1,1 +1,0 @@
-{"tmdb_id": 104426, "title": "Fast Zombies with Guns", "original_title": "Fast Zombies with Guns", "slug_title": "fast-zombies-with-guns", "date": "2009-01-01", "genre": "Horreur", "score": "1.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hIhl8wMzybZsDotf4MnyUeu6lBl.jpg", "actors": [], "comments": [], "recommandations_id": []}

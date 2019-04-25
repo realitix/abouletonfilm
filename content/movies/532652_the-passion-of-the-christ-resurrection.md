@@ -1,1 +1,0 @@
-{"tmdb_id": 532652, "title": "The Passion of the Christ: Resurrection", "original_title": "The Passion of the Christ: Resurrection", "slug_title": "the-passion-of-the-christ-resurrection", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

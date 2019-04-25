@@ -1,1 +1,0 @@
-{"tmdb_id": 452809, "title": "H\u00f4tel Turkoman", "original_title": "H\u00f4tel Turkoman", "slug_title": "hotel-turkoman", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gc6lcIXRX5uUDkGgl6H6V4PXcbz.jpg", "actors": [], "comments": [], "recommandations_id": []}

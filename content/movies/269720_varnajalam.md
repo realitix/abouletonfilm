@@ -1,1 +1,0 @@
-{"tmdb_id": 269720, "title": "Varnajalam", "original_title": "Varnajalam", "slug_title": "varnajalam", "date": "2004-02-13", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Srikanth Krishnamachari ()", "Sadha ()", "Nassar ()", "Riyaz Khan ()", "Kutty Radhika ()"], "comments": [], "recommandations_id": []}

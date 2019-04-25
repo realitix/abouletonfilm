@@ -1,1 +1,0 @@
-{"tmdb_id": 199240, "title": "H\u00e9ritage moral", "original_title": "Shevgyachya Shenga", "slug_title": "heritage-moral", "date": "1956-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zfR8AOw9KpFwJEH4PKWKZxAguEG.jpg", "actors": [], "comments": [], "recommandations_id": []}

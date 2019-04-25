@@ -1,1 +1,0 @@
-{"tmdb_id": 526995, "title": "Checkmate", "original_title": "Turup", "slug_title": "checkmate", "date": "2017-10-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xJnHH454fOswQmxgVijSCtW5Yjn.jpg", "actors": [], "comments": [], "recommandations_id": []}

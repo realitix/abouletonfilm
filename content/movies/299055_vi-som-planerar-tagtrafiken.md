@@ -1,1 +1,0 @@
-{"tmdb_id": 299055, "title": "Vi som planerar t\u00e5gtrafiken", "original_title": "Vi som planerar t\u00e5gtrafiken", "slug_title": "vi-som-planerar-tagtrafiken", "date": "2006-01-01", "genre": "Documentaire / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

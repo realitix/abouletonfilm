@@ -1,1 +1,0 @@
-{"tmdb_id": 548842, "title": "M\u00fcnchner Marionetten Theater - Rumpelstilzchen", "original_title": "M\u00fcnchner Marionetten Theater - Rumpelstilzchen", "slug_title": "munchner-marionetten-theater-rumpelstilzchen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

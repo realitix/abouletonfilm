@@ -1,1 +1,0 @@
-{"tmdb_id": 144313, "title": "B.B. King Standing Room Only", "original_title": "B.B. King Standing Room Only", "slug_title": "b-b-king-standing-room-only", "date": "2010-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cRJ9biRXFq279B4Fixk7FHdvO9o.jpg", "actors": [], "comments": [], "recommandations_id": []}

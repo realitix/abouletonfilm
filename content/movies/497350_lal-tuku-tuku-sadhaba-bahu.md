@@ -1,1 +1,0 @@
-{"tmdb_id": 497350, "title": "Lal Tuku Tuku Sadhaba Bahu", "original_title": "Lal Tuku Tuku Sadhaba Bahu", "slug_title": "lal-tuku-tuku-sadhaba-bahu", "date": "2007-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arindam Roy ()", "Anu Choudhury ()", "Debu Bose ()", "Kajal Misra ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 404775, "title": "Los locos tambi\u00e9n piensan", "original_title": "Los locos tambi\u00e9n piensan", "slug_title": "los-locos-tambien-piensan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/QegOS1dVK3uqz4bvRmutIZBTr.jpg", "actors": [], "comments": [], "recommandations_id": []}

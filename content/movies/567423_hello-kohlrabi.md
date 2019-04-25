@@ -1,1 +1,0 @@
-{"tmdb_id": 567423, "title": "Hello, Kohlrabi", "original_title": "Nazdar, kedlubny!", "slug_title": "hello-kohlrabi", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

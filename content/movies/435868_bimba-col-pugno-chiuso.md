@@ -1,1 +1,0 @@
-{"tmdb_id": 435868, "title": "Bimba col pugno chiuso", "original_title": "Bimba col pugno chiuso", "slug_title": "bimba-col-pugno-chiuso", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

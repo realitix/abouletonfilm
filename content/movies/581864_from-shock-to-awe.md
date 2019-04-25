@@ -1,1 +1,0 @@
-{"tmdb_id": 581864, "title": "From Shock to Awe", "original_title": "From Shock to Awe", "slug_title": "from-shock-to-awe", "date": "2018-06-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AeqUeFhBmW3BxRgNK9iuWPcxASA.jpg", "actors": [], "comments": [], "recommandations_id": []}

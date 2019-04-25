@@ -1,1 +1,0 @@
-{"tmdb_id": 470568, "title": "Factory of Paranormal", "original_title": "Factory of Paranormal", "slug_title": "factory-of-paranormal", "date": "2017-07-13", "genre": "Horreur", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9iTnXQSex3tjBoUl4fwWy1iLbf7.jpg", "actors": [], "comments": [], "recommandations_id": []}

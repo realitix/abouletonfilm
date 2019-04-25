@@ -1,1 +1,0 @@
-{"tmdb_id": 343551, "title": "Cundletown Historical Society - Vol 1", "original_title": "Cundletown Historical Society - Vol 1", "slug_title": "cundletown-historical-society-vol-1", "date": "1999-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 169814, "title": "Saint Francis: Troubadour of God's Peace", "original_title": "Saint Francis: Troubadour of God's Peace", "slug_title": "saint-francis-troubadour-of-god-s-peace", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

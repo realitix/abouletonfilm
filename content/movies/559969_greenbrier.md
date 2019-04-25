@@ -1,1 +1,0 @@
-{"tmdb_id": 559969, "title": "Greenbrier", "original_title": "Greenbrier", "slug_title": "greenbrier", "date": "", "genre": "Crime / Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aaron Paul (Jesse Pinkman)"], "comments": [], "recommandations_id": []}

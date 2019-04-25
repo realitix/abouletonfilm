@@ -1,1 +1,0 @@
-{"tmdb_id": 456054, "title": "Isabella", "original_title": "Isabella", "slug_title": "isabella", "date": "2015-01-01", "genre": "Animation / Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s9ssZ5cZ77XmNdGycIP1FnO7xXT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 532070, "title": "Bludgeon", "original_title": "Bludgeon", "slug_title": "bludgeon", "date": "2018-07-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/akabSUmHBLBy7JGqssyI6oxPIYY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 576724, "title": "Shangri-La", "original_title": "Shangri-La", "slug_title": "shangri-la", "date": "", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

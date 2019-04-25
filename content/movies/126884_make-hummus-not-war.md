@@ -1,1 +1,0 @@
-{"tmdb_id": 126884, "title": "Make Hummus Not War", "original_title": "Make Hummus Not War", "slug_title": "make-hummus-not-war", "date": "2012-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x5FNwSPOsxCuUplHQk5h2ftpF56.jpg", "actors": [], "comments": [], "recommandations_id": []}

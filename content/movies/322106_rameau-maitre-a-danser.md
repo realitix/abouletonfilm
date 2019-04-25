@@ -1,1 +1,0 @@
-{"tmdb_id": 322106, "title": "Rameau Maitre a Danser", "original_title": "Rameau Maitre a Danser", "slug_title": "rameau-maitre-a-danser", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

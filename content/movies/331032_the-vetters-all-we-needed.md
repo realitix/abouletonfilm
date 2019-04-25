@@ -1,1 +1,0 @@
-{"tmdb_id": 331032, "title": "The Vetters: All We Needed", "original_title": "The Vetters: All We Needed", "slug_title": "the-vetters-all-we-needed", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

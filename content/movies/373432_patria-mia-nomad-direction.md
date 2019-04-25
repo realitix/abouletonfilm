@@ -1,1 +1,0 @@
-{"tmdb_id": 373432, "title": "Patria mia, nomad direction", "original_title": "Patria mia, nomad direction", "slug_title": "patria-mia-nomad-direction", "date": "2008-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

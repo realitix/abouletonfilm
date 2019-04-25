@@ -1,1 +1,0 @@
-{"tmdb_id": 47935, "title": "Cold Earth", "original_title": "Cold Earth", "slug_title": "cold-earth", "date": "2008-01-01", "genre": "Myst\u00e8re / Thriller", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8BDUwWd2y1n3BOyLsyJsbvJWIpk.jpg", "actors": [], "comments": [], "recommandations_id": []}

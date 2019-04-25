@@ -1,1 +1,0 @@
-{"tmdb_id": 380556, "title": "Taga sa Panahon", "original_title": "Taga sa Panahon", "slug_title": "taga-sa-panahon", "date": "1980-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mQU0OCPrYfR9lx0TlDgHLMrMn9K.jpg", "actors": [], "comments": [], "recommandations_id": []}

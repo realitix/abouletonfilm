@@ -1,1 +1,0 @@
-{"tmdb_id": 272182, "title": "Coney Island: Dreams for Sale", "original_title": "Coney Island: Dreams for Sale", "slug_title": "coney-island-dreams-for-sale", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

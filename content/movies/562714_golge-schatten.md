@@ -1,1 +1,0 @@
-{"tmdb_id": 562714, "title": "G\u00f6lge - Schatten", "original_title": "G\u00f6lge - Schatten", "slug_title": "golge-schatten", "date": "1980-01-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

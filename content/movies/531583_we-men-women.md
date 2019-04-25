@@ -1,1 +1,0 @@
-{"tmdb_id": 531583, "title": "We/Men Women", "original_title": "We/Men Women", "slug_title": "we-men-women", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

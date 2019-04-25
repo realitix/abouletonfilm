@@ -1,1 +1,0 @@
-{"tmdb_id": 527826, "title": "Splotsch: Ordnung Muss Sein!", "original_title": "Splotsch: Ordnung Muss Sein!", "slug_title": "splotsch-ordnung-muss-sein", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w8TF0HmFx2c8WhSvq8AtrDWdNTu.jpg", "actors": [], "comments": [], "recommandations_id": []}

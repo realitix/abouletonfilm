@@ -1,1 +1,0 @@
-{"tmdb_id": 442350, "title": "Die Planeten J\u00e4ger", "original_title": "Die Planeten J\u00e4ger", "slug_title": "die-planeten-jager", "date": "", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mLQcmOAz1ISMN7CekwkkJ4BXtEy.jpg", "actors": [], "comments": [], "recommandations_id": []}

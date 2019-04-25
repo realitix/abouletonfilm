@@ -1,1 +1,0 @@
-{"tmdb_id": 469545, "title": "Nanna Nenu Na Boyfriends", "original_title": "Nanna Nenu Na Boyfriends", "slug_title": "nanna-nenu-na-boyfriends", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lIwEux9eyj30JTaOYPrU7cuQIpo.jpg", "actors": [], "comments": [], "recommandations_id": []}

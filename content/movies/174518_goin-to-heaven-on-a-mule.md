@@ -1,1 +1,0 @@
-{"tmdb_id": 174518, "title": "Goin' to Heaven on a Mule", "original_title": "Goin' to Heaven on a Mule", "slug_title": "goin-to-heaven-on-a-mule", "date": "1934-05-18", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sTPZ1WeeWThx7kKEfRKuKWuXVM0.jpg", "actors": [], "comments": [], "recommandations_id": []}

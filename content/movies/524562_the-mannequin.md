@@ -1,1 +1,0 @@
-{"tmdb_id": 524562, "title": "The Mannequin", "original_title": "O Manequim", "slug_title": "the-mannequin", "date": "", "genre": "Myst\u00e8re / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jo\u00e3o Oct\u00e1vio Borgato (Protagonist (nameless))", "Lucas Pereira Marques da Silva (The Clown)"], "comments": [], "recommandations_id": []}

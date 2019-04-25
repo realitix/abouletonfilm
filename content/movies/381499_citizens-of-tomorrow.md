@@ -1,1 +1,0 @@
-{"tmdb_id": 381499, "title": "Citizens of Tomorrow", "original_title": "Borgere av i morgen", "slug_title": "citizens-of-tomorrow", "date": "1950-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ep7VLkp2kf5PzvKHa474FoLsh8u.jpg", "actors": [], "comments": [], "recommandations_id": []}

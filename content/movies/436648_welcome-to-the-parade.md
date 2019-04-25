@@ -1,1 +1,0 @@
-{"tmdb_id": 436648, "title": "Welcome to the Parade", "original_title": "Welcome to the Parade", "slug_title": "welcome-to-the-parade", "date": "1986-08-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jay Ould (The Iceman)"], "comments": [], "recommandations_id": []}

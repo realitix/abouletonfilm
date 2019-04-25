@@ -1,1 +1,0 @@
-{"tmdb_id": 586428, "title": "Machine for Living - Tours Aillaud", "original_title": "Machine for Living - Tours Aillaud", "slug_title": "machine-for-living-tours-aillaud", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 339269, "title": "Old St. Louis", "original_title": "Old St. Louis", "slug_title": "old-st-louis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

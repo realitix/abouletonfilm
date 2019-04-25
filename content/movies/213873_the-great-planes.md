@@ -1,1 +1,0 @@
-{"tmdb_id": 213873, "title": "The Great Planes", "original_title": "The Great Planes", "slug_title": "the-great-planes", "date": "2009-08-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9YwFBg4WyQpBhSfVWsWcWO5aukl.jpg", "actors": [], "comments": [], "recommandations_id": []}

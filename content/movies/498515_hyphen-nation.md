@@ -1,1 +1,0 @@
-{"tmdb_id": 498515, "title": "hyphen-nation", "original_title": "hyphen-nation", "slug_title": "hyphen-nation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bL5Aivn3rpe94MrAMyyAAzellJC.jpg", "actors": [], "comments": [], "recommandations_id": []}

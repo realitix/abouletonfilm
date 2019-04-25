@@ -1,1 +1,0 @@
-{"tmdb_id": 26988, "title": "Goof Troop Christmas", "original_title": "Goof Troop Christmas", "slug_title": "goof-troop-christmas", "date": "1992-11-01", "genre": "Animation / Familial", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gZj06MBGuT489oiLMWEfR0Hdmx.jpg", "actors": [], "comments": [], "recommandations_id": []}

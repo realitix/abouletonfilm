@@ -1,1 +1,0 @@
-{"tmdb_id": 318307, "title": "Addiction (D\u00e9pendance)", "original_title": "Addiction (D\u00e9pendance)", "slug_title": "addiction-dependance", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

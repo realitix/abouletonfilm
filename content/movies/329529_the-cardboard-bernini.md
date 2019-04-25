@@ -1,1 +1,0 @@
-{"tmdb_id": 329529, "title": "The Cardboard Bernini", "original_title": "The Cardboard Bernini", "slug_title": "the-cardboard-bernini", "date": "2012-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yqWyS3fJUI2CL5U5ci7YOsvul81.jpg", "actors": [], "comments": [], "recommandations_id": []}

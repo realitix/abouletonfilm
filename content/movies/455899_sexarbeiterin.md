@@ -1,1 +1,0 @@
-{"tmdb_id": 455899, "title": "Sexarbeiterin", "original_title": "Sexarbeiterin", "slug_title": "sexarbeiterin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w5BJvS3Xz0CJstdrQU88w7RBcsT.jpg", "actors": [], "comments": [], "recommandations_id": []}

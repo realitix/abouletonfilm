@@ -1,1 +1,0 @@
-{"tmdb_id": 560042, "title": "Firework Text (Pasolini)", "original_title": "Firework Text (Pasolini)", "slug_title": "firework-text-pasolini", "date": "1998-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1oGPLIXJrwfeXjaulohBt1Yb9Y5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 276389, "title": "Baby's Momma Drama", "original_title": "Baby's Momma Drama", "slug_title": "baby-s-momma-drama", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

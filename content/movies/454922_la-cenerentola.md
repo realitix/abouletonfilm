@@ -1,1 +1,0 @@
-{"tmdb_id": 454922, "title": "La Cenerentola", "original_title": "La Cenerentola", "slug_title": "la-cenerentola", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6SnxzyusF8zXr3oMR8H3OHeloLr.jpg", "actors": [], "comments": [], "recommandations_id": []}

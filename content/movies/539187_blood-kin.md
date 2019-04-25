@@ -1,1 +1,0 @@
-{"tmdb_id": 539187, "title": "Blood Kin", "original_title": "Blood Kin", "slug_title": "blood-kin", "date": "2018-09-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/spICcy0wzYAkXjlNcpm9G0xndR3.jpg", "actors": [], "comments": [], "recommandations_id": []}

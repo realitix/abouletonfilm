@@ -1,1 +1,0 @@
-{"tmdb_id": 514613, "title": "Mi Histeria en el Cine", "original_title": "Mi Histeria en el Cine", "slug_title": "mi-histeria-en-el-cine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6vwyKnEsVIR6d1knssUm1NTuHNm.jpg", "actors": [], "comments": [], "recommandations_id": []}

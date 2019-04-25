@@ -1,1 +1,0 @@
-{"tmdb_id": 547924, "title": "Seventh Son", "original_title": "Seventh Son", "slug_title": "seventh-son", "date": "2014-09-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

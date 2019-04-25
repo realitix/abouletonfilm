@@ -1,1 +1,0 @@
-{"tmdb_id": 386050, "title": "Handmade Memories", "original_title": "Handmade Memories", "slug_title": "handmade-memories", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 521602, "title": "Calino arroseur public", "original_title": "Calino arroseur public", "slug_title": "calino-arroseur-public", "date": "1910-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cl\u00e9ment M\u00e9g\u00e9 (Calino)"], "comments": [], "recommandations_id": []}

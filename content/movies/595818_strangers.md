@@ -1,1 +1,0 @@
-{"tmdb_id": 595818, "title": "Strangers", "original_title": "Strangers", "slug_title": "strangers", "date": "", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

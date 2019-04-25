@@ -1,1 +1,0 @@
-{"tmdb_id": 541068, "title": "Blackjack", "original_title": "Valet noir", "slug_title": "blackjack", "date": "2017-11-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cbof59i0ZlTG8A7w7ngIJ2YaR8C.jpg", "actors": ["Sophie Demeyer (Leila)", "Hamza Meziani (Camil)"], "comments": [], "recommandations_id": []}

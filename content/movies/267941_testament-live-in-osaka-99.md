@@ -1,1 +1,0 @@
-{"tmdb_id": 267941, "title": "Testament: Live in Osaka '99", "original_title": "Testament: Live in Osaka '99", "slug_title": "testament-live-in-osaka-99", "date": "1999-10-08", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wZbv7q72qDXjxDDdYs8tmbkupF8.jpg", "actors": [], "comments": [], "recommandations_id": []}

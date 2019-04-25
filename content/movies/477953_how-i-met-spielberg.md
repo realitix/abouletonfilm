@@ -1,1 +1,0 @@
-{"tmdb_id": 477953, "title": "How I Met Spielberg", "original_title": "How I Met Spielberg", "slug_title": "how-i-met-spielberg", "date": "", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jmHTFdZVEdxOJAN0IhyQM87Syw0.jpg", "actors": [], "comments": [], "recommandations_id": []}

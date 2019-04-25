@@ -1,1 +1,0 @@
-{"tmdb_id": 537337, "title": "White Snow", "original_title": "\u0411\u0435\u043b\u043e\u0441\u043d\u0435\u0436\u044c\u0435", "slug_title": "white-snow", "date": "2018-08-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yvyB7vaPcMjowEeeeCTzQ9d8LbF.jpg", "actors": [], "comments": [], "recommandations_id": []}

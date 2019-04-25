@@ -1,1 +1,0 @@
-{"tmdb_id": 448999, "title": "Sem Raiz", "original_title": "Sem Raiz", "slug_title": "sem-raiz", "date": "2017-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6rAuIh3xiCjuSP1GPGhDmNXQcbT.jpg", "actors": [], "comments": [], "recommandations_id": []}

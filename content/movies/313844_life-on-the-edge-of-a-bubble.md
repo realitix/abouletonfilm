@@ -1,1 +1,0 @@
-{"tmdb_id": 313844, "title": "Life on the Edge of a Bubble", "original_title": "Life on the Edge of a Bubble", "slug_title": "life-on-the-edge-of-a-bubble", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

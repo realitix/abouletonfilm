@@ -1,1 +1,0 @@
-{"tmdb_id": 493148, "title": "Mr. Finley's Feelings", "original_title": "Mr. Finley's Feelings", "slug_title": "mr-finley-s-feelings", "date": "1956-01-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ytMXl4xOsUjN9r49SpOteXqHYrP.jpg", "actors": [], "comments": [], "recommandations_id": []}

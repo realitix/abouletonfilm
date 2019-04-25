@@ -1,1 +1,0 @@
-{"tmdb_id": 461308, "title": "Lesson for Linda", "original_title": "M\u00ebsim p\u00ebr Lind\u00ebn", "slug_title": "lesson-for-linda", "date": "1970-03-11", "genre": "Com\u00e9die / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tqHzmeRWAUudDyTevQ9lbS3ovfG.jpg", "actors": [], "comments": [], "recommandations_id": []}

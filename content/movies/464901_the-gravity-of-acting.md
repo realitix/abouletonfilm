@@ -1,1 +1,0 @@
-{"tmdb_id": 464901, "title": "The Gravity of Acting", "original_title": "\uc5f0\uae30\uc758 \uc911\ub825", "slug_title": "the-gravity-of-acting", "date": "2017-03-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bEjQcNsnHfKxDUyGQXQFY4JwJ3V.jpg", "actors": [], "comments": [], "recommandations_id": []}

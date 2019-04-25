@@ -1,1 +1,0 @@
-{"tmdb_id": 453036, "title": "Magoo Express", "original_title": "Magoo Express", "slug_title": "magoo-express", "date": "1955-05-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Backus (Mr. Magoo)", "Jerry Hausner (Waldo)"], "comments": [], "recommandations_id": []}

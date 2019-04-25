@@ -1,1 +1,0 @@
-{"tmdb_id": 303106, "title": "Apna Bana Lo", "original_title": "Apna Bana Lo", "slug_title": "apna-bana-lo", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

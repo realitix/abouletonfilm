@@ -1,1 +1,0 @@
-{"tmdb_id": 525892, "title": "Who Were the Ones?", "original_title": "Who Were the Ones?", "slug_title": "who-were-the-ones", "date": "1972-01-01", "genre": "Documentaire / Animation / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 378669, "title": "Auto Shankar", "original_title": "Auto Shankar", "slug_title": "auto-shankar", "date": "2005-09-09", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cGC2yON5o7JgGEbTVWpK2SDjzXE.jpg", "actors": ["Upendra ()", "Shilpa Shetty ()", "Sudharani ()"], "comments": [], "recommandations_id": []}

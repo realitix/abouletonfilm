@@ -1,1 +1,0 @@
-{"tmdb_id": 370536, "title": "The Dandruff of Metals", "original_title": "Metallernas mj\u00e4ll", "slug_title": "the-dandruff-of-metals", "date": "1972-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uuj59oFJjjgp9c6XNoGRtLfvGFH.jpg", "actors": [], "comments": [], "recommandations_id": []}

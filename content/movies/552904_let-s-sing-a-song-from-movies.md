@@ -1,1 +1,0 @@
-{"tmdb_id": 552904, "title": "Let's Sing a Song from Movies", "original_title": "Let's Sing a Song from Movies", "slug_title": "let-s-sing-a-song-from-movies", "date": "1948-07-17", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Art Gilmore (Narrator (voice))"], "comments": [], "recommandations_id": []}

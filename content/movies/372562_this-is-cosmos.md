@@ -1,1 +1,0 @@
-{"tmdb_id": 372562, "title": "This Is Cosmos", "original_title": "This Is Cosmos", "slug_title": "this-is-cosmos", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pAAPLHkig1uGHdJsvCyN7fT4Xb4.jpg", "actors": [], "comments": [], "recommandations_id": []}

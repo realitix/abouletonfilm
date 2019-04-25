@@ -1,1 +1,0 @@
-{"tmdb_id": 5897, "title": "The Boy Who Saw the Iceberg", "original_title": "The Boy Who Saw the Iceberg", "slug_title": "the-boy-who-saw-the-iceberg", "date": "2000-10-21", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/45UeqB2lld5CDWrSZiIal4ou10Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 592224, "title": "Nome de usu\u00e1rio", "original_title": "Nome de usu\u00e1rio", "slug_title": "nome-de-usuario", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

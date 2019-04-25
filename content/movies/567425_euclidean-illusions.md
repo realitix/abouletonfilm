@@ -1,1 +1,0 @@
-{"tmdb_id": 567425, "title": "Euclidean Illusions", "original_title": "Euclidean Illusions", "slug_title": "euclidean-illusions", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 258243, "title": "A Short Film for Laos", "original_title": "A Short Film for Laos", "slug_title": "a-short-film-for-laos", "date": "2006-03-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Allan Sekula (narration)"], "comments": [], "recommandations_id": []}

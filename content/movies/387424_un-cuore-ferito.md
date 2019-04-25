@@ -1,1 +1,0 @@
-{"tmdb_id": 387424, "title": "Un cuore ferito", "original_title": "Un cuore ferito", "slug_title": "un-cuore-ferito", "date": "1912-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

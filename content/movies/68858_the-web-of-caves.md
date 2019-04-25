@@ -1,1 +1,0 @@
-{"tmdb_id": 68858, "title": "The Web of Caves", "original_title": "The Web of Caves", "slug_title": "the-web-of-caves", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 538096, "title": "Reconstruction", "original_title": "Rekonstrukce", "slug_title": "reconstruction", "date": "2018-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

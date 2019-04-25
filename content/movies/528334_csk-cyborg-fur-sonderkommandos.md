@@ -1,1 +1,0 @@
-{"tmdb_id": 528334, "title": "CSK - Cyborg f\u00fcr Sonderkommandos", "original_title": "CSK - Cyborg f\u00fcr Sonderkommandos", "slug_title": "csk-cyborg-fur-sonderkommandos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

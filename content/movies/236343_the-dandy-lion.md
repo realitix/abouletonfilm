@@ -1,1 +1,0 @@
-{"tmdb_id": 236343, "title": "The Dandy Lion", "original_title": "The Dandy Lion", "slug_title": "the-dandy-lion", "date": "1940-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

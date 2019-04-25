@@ -1,1 +1,0 @@
-{"tmdb_id": 591140, "title": "AeroPress Movie", "original_title": "AeroPress Movie", "slug_title": "aeropress-movie", "date": "2018-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/coW723ye8nKDL2uPnlUvus9kj56.jpg", "actors": [], "comments": [], "recommandations_id": []}

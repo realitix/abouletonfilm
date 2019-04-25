@@ -1,1 +1,0 @@
-{"tmdb_id": 213411, "title": "Cabo Verde Worldcup 2007", "original_title": "Cabo Verde Worldcup 2007", "slug_title": "cabo-verde-worldcup-2007", "date": "2007-06-30", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rMgXTunFkU0sKHR7JSHUzavCtIh.jpg", "actors": [], "comments": [], "recommandations_id": []}

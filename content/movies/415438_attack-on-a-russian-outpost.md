@@ -1,1 +1,0 @@
-{"tmdb_id": 415438, "title": "Attack on a Russian Outpost", "original_title": "Attack on a Russian Outpost", "slug_title": "attack-on-a-russian-outpost", "date": "1904-03-01", "genre": "Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

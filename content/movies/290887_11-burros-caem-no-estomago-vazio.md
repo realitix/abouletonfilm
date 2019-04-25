@@ -1,1 +1,0 @@
-{"tmdb_id": 290887, "title": "11 Burros Caem No Est\u00f4mago Vazio", "original_title": "11 Burros Caem No Est\u00f4mago Vazio", "slug_title": "11-burros-caem-no-estomago-vazio", "date": "2006-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

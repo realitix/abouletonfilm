@@ -1,1 +1,0 @@
-{"tmdb_id": 302487, "title": "Jeff Mills - Blue Potential", "original_title": "Jeff Mills - Blue Potential", "slug_title": "jeff-mills-blue-potential", "date": "2006-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yuyZB8qrNQG9AAa6mLTYorwVzVo.jpg", "actors": [], "comments": [], "recommandations_id": []}

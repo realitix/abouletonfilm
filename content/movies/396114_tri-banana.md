@@ -1,1 +1,0 @@
-{"tmdb_id": 396114, "title": "Tri banana", "original_title": "Tri banana", "slug_title": "tri-banana", "date": "1971-04-03", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/suZvEQaKIp6RDAZ9lK2nThjreMd.jpg", "actors": [], "comments": [], "recommandations_id": []}

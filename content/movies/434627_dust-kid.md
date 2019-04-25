@@ -1,1 +1,0 @@
-{"tmdb_id": 434627, "title": "Dust Kid", "original_title": "Munjiai", "slug_title": "dust-kid", "date": "2009-05-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xGfbwZBlSyTQcU6o19WNac60OPy.jpg", "actors": [], "comments": [], "recommandations_id": []}

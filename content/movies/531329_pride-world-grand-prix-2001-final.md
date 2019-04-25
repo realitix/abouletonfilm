@@ -1,1 +1,0 @@
-{"tmdb_id": 531329, "title": "Pride World Grand Prix 2001 Final", "original_title": "Pride World Grand Prix 2001 Final", "slug_title": "pride-world-grand-prix-2001-final", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

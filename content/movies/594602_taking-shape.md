@@ -1,1 +1,0 @@
-{"tmdb_id": 594602, "title": "Taking Shape", "original_title": "Taking Shape", "slug_title": "taking-shape", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9qG4n6UlrmRUD23JeGckDjAChKT.jpg", "actors": [], "comments": [], "recommandations_id": []}

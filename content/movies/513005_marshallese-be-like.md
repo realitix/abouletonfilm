@@ -1,1 +1,0 @@
-{"tmdb_id": 513005, "title": "Marshallese Be Like", "original_title": "Marshallese Be Like", "slug_title": "marshallese-be-like", "date": "2017-03-20", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ben duBrum Wakefield ()", "Vivian Niedenthal ()"], "comments": [], "recommandations_id": []}

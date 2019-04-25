@@ -1,1 +1,0 @@
-{"tmdb_id": 399739, "title": "Michel Jonasz - Olympia", "original_title": "Michel Jonasz - Olympia", "slug_title": "michel-jonasz-olympia", "date": "2000-05-28", "genre": "", "score": "0.0/10", "synopsis": "Olympia 2000", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u2gw8niBVjpTDVwcLcHGcTtUMCW.jpg", "actors": [], "comments": [], "recommandations_id": []}

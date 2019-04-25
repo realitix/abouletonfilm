@@ -1,1 +1,0 @@
-{"tmdb_id": 490114, "title": "The Museum", "original_title": "The Museum", "slug_title": "the-museum", "date": "2017-11-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bkcOujgHS674KB50OQn3kaNapEV.jpg", "actors": ["Artur Avakov ()", "David Mevorah ()"], "comments": [], "recommandations_id": []}

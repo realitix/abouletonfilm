@@ -1,1 +1,0 @@
-{"tmdb_id": 190299, "title": "Helter Skelter", "original_title": "Helter Skelter", "slug_title": "helter-skelter", "date": "1929-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jek8yicAzfWUVqb3Eg5TACEt8hD.jpg", "actors": ["Malcolm Sebastian (Big Boy)"], "comments": [], "recommandations_id": []}

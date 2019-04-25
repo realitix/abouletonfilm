@@ -1,1 +1,0 @@
-{"tmdb_id": 190751, "title": "Tater Tomater", "original_title": "Tater Tomater", "slug_title": "tater-tomater", "date": "1990-02-02", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7kF3VKhsNLbSAkhtrB25qrvsjtR.jpg", "actors": [], "comments": [], "recommandations_id": []}

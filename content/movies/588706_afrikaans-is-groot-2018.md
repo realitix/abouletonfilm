@@ -1,1 +1,0 @@
-{"tmdb_id": 588706, "title": "Afrikaans Is Groot 2018", "original_title": "Afrikaans Is Groot 2018", "slug_title": "afrikaans-is-groot-2018", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AjXW39Wb4x9WBWqiGgweuxR5405.jpg", "actors": [], "comments": [], "recommandations_id": []}

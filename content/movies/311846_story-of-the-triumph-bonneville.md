@@ -1,1 +1,0 @@
-{"tmdb_id": 311846, "title": "Story of the Triumph Bonneville", "original_title": "Story of the Triumph Bonneville", "slug_title": "story-of-the-triumph-bonneville", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 450802, "title": "Golden Girl", "original_title": "Golden Girl", "slug_title": "golden-girl", "date": "2016-11-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Am5HlrWiu3NMjzCmwwSHrXL6zFx.jpg", "actors": ["Frida Wallberg (Frida Wallberg)"], "comments": [], "recommandations_id": []}

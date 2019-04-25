@@ -1,1 +1,0 @@
-{"tmdb_id": 236246, "title": "Hobo Gadget Band", "original_title": "Hobo Gadget Band", "slug_title": "hobo-gadget-band", "date": "1939-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7mekgG1R2CpLogCakLzrag3OcpS.jpg", "actors": [], "comments": [], "recommandations_id": []}

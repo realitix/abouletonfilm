@@ -1,1 +1,0 @@
-{"tmdb_id": 586858, "title": "Yearning", "original_title": "Karot", "slug_title": "yearning", "date": "1990-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qhj4b6mivpUrE8FZqiGktKyXEl9.jpg", "actors": ["Rafael Atoyan ()", "Galya Novents ()", "Ashot Melikdzhanyan ()"], "comments": [], "recommandations_id": []}

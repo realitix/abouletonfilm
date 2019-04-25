@@ -1,1 +1,0 @@
-{"tmdb_id": 393370, "title": "Sebastian and the Sparrow", "original_title": "Sebastian and the Sparrow", "slug_title": "sebastian-and-the-sparrow", "date": "1988-12-12", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wmkxxg1Aq0WaoJXFzmUzHvmHRqU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 337818, "title": "A Good Man", "original_title": "A Good Man", "slug_title": "a-good-man", "date": "2011-04-20", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8eoe4l2xiUZFlyg7gMo7HvEgj5c.jpg", "actors": [], "comments": [], "recommandations_id": []}

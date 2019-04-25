@@ -1,1 +1,0 @@
-{"tmdb_id": 256011, "title": "Cocaine Blues", "original_title": "Cocaine Blues", "slug_title": "cocaine-blues", "date": "1983-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hoyt Axton (Narrator)", "Jim Abrahams (Himself)", "Frank Zappa (Himself)"], "comments": [], "recommandations_id": []}

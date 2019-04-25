@@ -1,1 +1,0 @@
-{"tmdb_id": 468049, "title": "TV Fighter (Cam Era Plane)", "original_title": "TV Fighter (Cam Era Plane)", "slug_title": "tv-fighter-cam-era-plane", "date": "1977-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXBbZveqPac4lZsmdZWgX3TE7ns.jpg", "actors": [], "comments": [], "recommandations_id": []}

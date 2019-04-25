@@ -1,1 +1,0 @@
-{"tmdb_id": 278698, "title": "Avatar Spirits", "original_title": "Avatar Spirits", "slug_title": "avatar-spirits", "date": "2010-06-22", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pehOW0qhttKtCghJ61frPoFq4D1.jpg", "actors": [], "comments": [], "recommandations_id": []}

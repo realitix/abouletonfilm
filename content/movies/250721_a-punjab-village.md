@@ -1,1 +1,0 @@
-{"tmdb_id": 250721, "title": "A Punjab Village", "original_title": "A Punjab Village", "slug_title": "a-punjab-village", "date": "1925-01-16", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

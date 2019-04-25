@@ -1,1 +1,0 @@
-{"tmdb_id": 491053, "title": "Women and Islam : Islam unveiled", "original_title": "Women and Islam : Islam unveiled", "slug_title": "women-and-islam-islam-unveiled", "date": "2004-12-05", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Samira Ahmed (Narrator)"], "comments": [], "recommandations_id": []}

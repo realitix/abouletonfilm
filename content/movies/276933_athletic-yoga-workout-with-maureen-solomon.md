@@ -1,1 +1,0 @@
-{"tmdb_id": 276933, "title": "Athletic Yoga Workout with Maureen Solomon", "original_title": "Athletic Yoga Workout with Maureen Solomon", "slug_title": "athletic-yoga-workout-with-maureen-solomon", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

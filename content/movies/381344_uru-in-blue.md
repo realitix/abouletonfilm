@@ -1,1 +1,0 @@
-{"tmdb_id": 381344, "title": "Uru in Blue", "original_title": "Aoki uru", "slug_title": "uru-in-blue", "date": "2022-12-31", "genre": "Guerre / Science-Fiction / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iXJOUf644gX42K2PNuFJnlThC6U.jpg", "actors": [], "comments": [], "recommandations_id": []}

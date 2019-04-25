@@ -1,1 +1,0 @@
-{"tmdb_id": 326266, "title": "Carnaval de Guin\u00e9e Bissao", "original_title": "Carnaval de Guin\u00e9e Bissao", "slug_title": "carnaval-de-guinee-bissao", "date": "1982-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tobias Engel ()"], "comments": [], "recommandations_id": []}

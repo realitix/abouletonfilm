@@ -1,1 +1,0 @@
-{"tmdb_id": 430048, "title": "Spherical Coordinates", "original_title": "Spherical Coordinates", "slug_title": "spherical-coordinates", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8oEXybyt0GkYoD1zeEuNvDTLJaE.jpg", "actors": [], "comments": [], "recommandations_id": []}

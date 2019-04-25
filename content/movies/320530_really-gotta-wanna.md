@@ -1,1 +1,0 @@
-{"tmdb_id": 320530, "title": "Really Gotta Wanna", "original_title": "Really Gotta Wanna", "slug_title": "really-gotta-wanna", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

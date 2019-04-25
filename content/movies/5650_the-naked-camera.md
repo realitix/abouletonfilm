@@ -1,1 +1,0 @@
-{"tmdb_id": 5650, "title": "The Naked Camera", "original_title": "The Naked Camera", "slug_title": "the-naked-camera", "date": "1961-05-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ffNkRC5JSanOljRkeeHPxi77KsP.jpg", "actors": ["Mikki France (o.A.)"], "comments": [], "recommandations_id": []}

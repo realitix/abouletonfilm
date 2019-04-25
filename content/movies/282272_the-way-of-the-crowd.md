@@ -1,1 +1,0 @@
-{"tmdb_id": 282272, "title": "The Way of the Crowd", "original_title": "The Way of the Crowd", "slug_title": "the-way-of-the-crowd", "date": "2004-07-17", "genre": "Documentaire", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kp258eSM7fPc3D3unMRwCvCFboO.jpg", "actors": [], "comments": [], "recommandations_id": []}

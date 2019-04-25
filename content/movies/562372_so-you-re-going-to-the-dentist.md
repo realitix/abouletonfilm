@@ -1,1 +1,0 @@
-{"tmdb_id": 562372, "title": "So You're Going to the Dentist", "original_title": "So You're Going to the Dentist", "slug_title": "so-you-re-going-to-the-dentist", "date": "1952-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon ()"], "comments": [], "recommandations_id": []}

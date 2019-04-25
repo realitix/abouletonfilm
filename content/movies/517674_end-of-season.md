@@ -1,1 +1,0 @@
-{"tmdb_id": 517674, "title": "End of Season", "original_title": "End of Season", "slug_title": "end-of-season", "date": "2018-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3DzfQMkCjjVj4IlbCiBFO6KNWSO.jpg", "actors": [], "comments": [], "recommandations_id": []}

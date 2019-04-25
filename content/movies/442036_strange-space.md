@@ -1,1 +1,0 @@
-{"tmdb_id": 442036, "title": "Strange Space", "original_title": "Strange Space", "slug_title": "strange-space", "date": "1993-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hdl8RGCGNGOJzzhdzB4ssCNjD3A.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 95552, "title": "Jungle Cavalcade", "original_title": "Jungle Cavalcade", "slug_title": "jungle-cavalcade", "date": "1941-07-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6jr6NfnStfdWugZ10vxSkOfyQ1T.jpg", "actors": ["Frank Buck (Himself)"], "comments": [], "recommandations_id": []}

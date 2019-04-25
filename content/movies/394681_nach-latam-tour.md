@@ -1,1 +1,0 @@
-{"tmdb_id": 394681, "title": "Nach: Latam Tour", "original_title": "Nach: Latam Tour", "slug_title": "nach-latam-tour", "date": "2013-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7nMQM3JkjravUb2fZQOs3mwL5kP.jpg", "actors": [], "comments": [], "recommandations_id": []}

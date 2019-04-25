@@ -1,1 +1,0 @@
-{"tmdb_id": 48324, "title": "Immersion", "original_title": "Immersion", "slug_title": "immersion", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mSNx95chUevODSXc7dLK4Kr2J7z.jpg", "actors": [], "comments": [], "recommandations_id": []}

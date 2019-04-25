@@ -1,1 +1,0 @@
-{"tmdb_id": 172899, "title": "Hana Ikusa", "original_title": "Hana Ikusa", "slug_title": "hana-ikusa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oEXbhLom35ZdCVdMZe7oAAlfTLj.jpg", "actors": [], "comments": [], "recommandations_id": []}

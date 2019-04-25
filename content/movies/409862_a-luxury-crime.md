@@ -1,1 +1,0 @@
-{"tmdb_id": 409862, "title": "A Luxury Crime", "original_title": "Um Crime de Luxo", "slug_title": "a-luxury-crime", "date": "1991-04-19", "genre": "Com\u00e9die / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sITFOGNKWfQQaoamooDg2ChKJB2.jpg", "actors": [], "comments": [], "recommandations_id": []}

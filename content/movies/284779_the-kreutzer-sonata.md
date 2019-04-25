@@ -1,1 +1,0 @@
-{"tmdb_id": 284779, "title": "The Kreutzer Sonata", "original_title": "Kreitzerova sonata", "slug_title": "the-kreutzer-sonata", "date": "1911-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pyotr Chardynin ()", "Ivan Mosjoukine ()", "Lyubov Varyagina ()"], "comments": [], "recommandations_id": []}

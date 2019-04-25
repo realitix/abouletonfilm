@@ -1,1 +1,0 @@
-{"tmdb_id": 368392, "title": "Call to glory", "original_title": "Call to glory", "slug_title": "call-to-glory", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

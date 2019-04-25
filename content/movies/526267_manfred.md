@@ -1,1 +1,0 @@
-{"tmdb_id": 526267, "title": "Manfred", "original_title": "Manfred", "slug_title": "manfred", "date": "1983-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/56YzslwUeLC94xF822GLgb7hvDf.jpg", "actors": ["Carmelo Bene ()", "Lydia Mancinelli ()"], "comments": [], "recommandations_id": []}

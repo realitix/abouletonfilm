@@ -1,1 +1,0 @@
-{"tmdb_id": 320836, "title": "D\u00e9fil\u00e9 de l'infanterie", "original_title": "D\u00e9fil\u00e9 de l'infanterie", "slug_title": "defile-de-l-infanterie", "date": "1899-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

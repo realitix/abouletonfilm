@@ -1,1 +1,0 @@
-{"tmdb_id": 263581, "title": "La provinciale", "original_title": "La provinciale", "slug_title": "la-provinciale", "date": "1981-01-21", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jfQ5DrkmEameg7ALHiOfQd0THsb.jpg", "actors": [], "comments": [], "recommandations_id": []}

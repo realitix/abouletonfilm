@@ -1,1 +1,0 @@
-{"tmdb_id": 562539, "title": "The Girls of La Rochelle", "original_title": "Les filles de La Rochelle", "slug_title": "the-girls-of-la-rochelle", "date": "1962-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aGMizDvWYZnU8hRhzx2r6bxkWpZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

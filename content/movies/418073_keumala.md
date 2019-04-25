@@ -1,1 +1,0 @@
-{"tmdb_id": 418073, "title": "Keumala", "original_title": "Keumala", "slug_title": "keumala", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Abimana Aryasatya (Langit)", "Nadia Vega (Keumala)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 560041, "title": "The Dutch Masters: Vermeer", "original_title": "The Dutch Masters: Vermeer", "slug_title": "the-dutch-masters-vermeer", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dirLDSF80XHdUA2g0OECX0UV1KD.jpg", "actors": [], "comments": [], "recommandations_id": []}

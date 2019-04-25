@@ -1,1 +1,0 @@
-{"tmdb_id": 248506, "title": "Monster Mash", "original_title": "Monster Mash", "slug_title": "monster-mash", "date": "2000-08-29", "genre": "Horreur / Familial / Animation / Com\u00e9die / Musique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uKo0ZcjJI0YHXxP2ffvlh1RlF9R.jpg", "actors": [], "comments": [], "recommandations_id": []}

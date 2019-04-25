@@ -1,1 +1,0 @@
-{"tmdb_id": 310596, "title": "Apology of an Economic Hit Man", "original_title": "Apology of an Economic Hit Man", "slug_title": "apology-of-an-economic-hit-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 266109, "title": "Ein Sommer voller Leidenschaft", "original_title": "Ein Sommer voller Leidenschaft", "slug_title": "ein-sommer-voller-leidenschaft", "date": "1984-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

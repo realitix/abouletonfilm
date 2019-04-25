@@ -1,1 +1,0 @@
-{"tmdb_id": 284218, "title": "Guns N' Roses - O2 Arena, London", "original_title": "Guns N' Roses - O2 Arena, London", "slug_title": "guns-n-roses-o2-arena-london", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

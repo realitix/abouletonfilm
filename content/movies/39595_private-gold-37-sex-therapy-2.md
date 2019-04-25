@@ -1,1 +1,0 @@
-{"tmdb_id": 39595, "title": "Private Gold 37: Sex Therapy 2", "original_title": "Private Gold 37: Sex Therapy 2", "slug_title": "private-gold-37-sex-therapy-2", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lmdZlTCKUR8NtlFH5PW4bdACyFN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 398352, "title": "Luan Santana: Ao Vivo no Rio", "original_title": "Luan Santana: Ao Vivo no Rio", "slug_title": "luan-santana-ao-vivo-no-rio", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

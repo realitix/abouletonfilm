@@ -1,1 +1,0 @@
-{"tmdb_id": 553010, "title": "WNUF Halloween Sequel", "original_title": "WNUF Halloween Sequel", "slug_title": "wnuf-halloween-sequel", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

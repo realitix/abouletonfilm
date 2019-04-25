@@ -1,1 +1,0 @@
-{"tmdb_id": 394367, "title": "Parranda campesina", "original_title": "Parranda campesina", "slug_title": "parranda-campesina", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rp8yL8pCvoJ0GNKmHbcYAEUvmwh.jpg", "actors": [], "comments": [], "recommandations_id": []}

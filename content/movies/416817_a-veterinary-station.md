@@ -1,1 +1,0 @@
-{"tmdb_id": 416817, "title": "A Veterinary Station", "original_title": "Veterinarna stanica", "slug_title": "a-veterinary-station", "date": "1905-09-18", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pnoy56I3yeXbRJhcumM3kS8Hzcl.jpg", "actors": [], "comments": [], "recommandations_id": [162660, 163349]}

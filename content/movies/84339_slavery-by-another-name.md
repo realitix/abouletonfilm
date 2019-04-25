@@ -1,1 +1,0 @@
-{"tmdb_id": 84339, "title": "Slavery by Another Name", "original_title": "Slavery by Another Name", "slug_title": "slavery-by-another-name", "date": "2012-02-11", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nXPRuKygCSPazXz1b1zcCqN8Iep.jpg", "actors": [], "comments": [], "recommandations_id": []}

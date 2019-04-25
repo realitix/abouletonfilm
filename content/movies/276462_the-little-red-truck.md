@@ -1,1 +1,0 @@
-{"tmdb_id": 276462, "title": "The Little Red Truck", "original_title": "The Little Red Truck", "slug_title": "the-little-red-truck", "date": "2008-02-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nlg67jWPkbQKNloPysSvpwhcOBA.jpg", "actors": [], "comments": [], "recommandations_id": []}

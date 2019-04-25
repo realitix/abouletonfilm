@@ -1,1 +1,0 @@
-{"tmdb_id": 426669, "title": "Nature Kilauea Mountain of Fire", "original_title": "Nature Kilauea Mountain of Fire", "slug_title": "nature-kilauea-mountain-of-fire", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 577221, "title": "Nolan: The Man and the Myth", "original_title": "Nolan: The Man and the Myth", "slug_title": "nolan-the-man-and-the-myth", "date": "2018-10-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2UProEmsoHPiJ2QCB8rsJfaCtY.jpg", "actors": [], "comments": [], "recommandations_id": []}

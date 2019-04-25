@@ -1,1 +1,0 @@
-{"tmdb_id": 247461, "title": "Whiplashed", "original_title": "Whiplashed", "slug_title": "whiplashed", "date": "2008-09-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 256760, "title": "Bada$$ Mothaf**kas", "original_title": "Bada$$ Mothaf**kas", "slug_title": "bada-mothaf-kas", "date": "2013-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

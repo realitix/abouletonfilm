@@ -1,1 +1,0 @@
-{"tmdb_id": 418314, "title": "Die Kapitulation", "original_title": "Die Kapitulation", "slug_title": "die-kapitulation", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Katja L\u00fchrs (Bride)", "Klaus Lemke (Bridegroom)", "Marran Gosov (Wedding guest)"], "comments": [], "recommandations_id": []}

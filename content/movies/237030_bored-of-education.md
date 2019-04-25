@@ -1,1 +1,0 @@
-{"tmdb_id": 237030, "title": "Bored of Education", "original_title": "Bored of Education", "slug_title": "bored-of-education", "date": "1946-03-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9XmWqPU9wH7kIZeyihwUbp5HwYL.jpg", "actors": [], "comments": [], "recommandations_id": []}

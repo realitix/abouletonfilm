@@ -1,1 +1,0 @@
-{"tmdb_id": 399808, "title": "100% Real Swingers: Big Bear", "original_title": "100% Real Swingers: Big Bear", "slug_title": "100-real-swingers-big-bear", "date": "2013-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Phil Varone ()"], "comments": [], "recommandations_id": []}

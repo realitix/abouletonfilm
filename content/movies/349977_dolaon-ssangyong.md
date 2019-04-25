@@ -1,1 +1,0 @@
-{"tmdb_id": 349977, "title": "\ub3cc\uc544\uc628 \uc30d\uc6a9", "original_title": "\ub3cc\uc544\uc628 \uc30d\uc6a9", "slug_title": "dolaon-ssangyong", "date": "1982-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

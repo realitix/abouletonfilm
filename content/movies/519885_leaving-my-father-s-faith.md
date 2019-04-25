@@ -1,1 +1,0 @@
-{"tmdb_id": 519885, "title": "Leaving My Father's Faith", "original_title": "Leaving My Father's Faith", "slug_title": "leaving-my-father-s-faith", "date": "2018-04-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bart Campolo ()", "Tony Campolo ()"], "comments": [], "recommandations_id": []}

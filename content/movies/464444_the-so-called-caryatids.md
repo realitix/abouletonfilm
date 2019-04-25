@@ -1,1 +1,0 @@
-{"tmdb_id": 464444, "title": "The So-called Caryatids", "original_title": "Les dites cariatides bis", "slug_title": "the-so-called-caryatids", "date": "2005-12-05", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zBb64IfBj3OMW22V77qi5O5kHpJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 569190, "title": "Double Crossed", "original_title": "Double Crossed", "slug_title": "double-crossed", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oVi1BlYNOa7w7aGPPElY5getPfs.jpg", "actors": [], "comments": [], "recommandations_id": []}

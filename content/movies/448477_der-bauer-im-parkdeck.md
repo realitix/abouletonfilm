@@ -1,1 +1,0 @@
-{"tmdb_id": 448477, "title": "Der Bauer im Parkdeck", "original_title": "Der Bauer im Parkdeck", "slug_title": "der-bauer-im-parkdeck", "date": "1983-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

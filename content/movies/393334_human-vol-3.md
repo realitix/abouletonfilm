@@ -1,1 +1,0 @@
-{"tmdb_id": 393334, "title": "Human Vol. 3", "original_title": "Human Vol. 3", "slug_title": "human-vol-3", "date": "2015-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4xbADANzcSOXeNdGX3XIN1Fj4pM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 212879, "title": "Show Me the Magic", "original_title": "Show Me the Magic", "slug_title": "show-me-the-magic", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

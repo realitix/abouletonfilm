@@ -1,1 +1,0 @@
-{"tmdb_id": 324619, "title": "7 Deadly Sins", "original_title": "7 Deadly Sins", "slug_title": "7-deadly-sins", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 101839, "title": "No Buddy Atoll", "original_title": "No Buddy Atoll", "slug_title": "no-buddy-atoll", "date": "1945-10-15", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mel Blanc (Pvt. Snafu)"], "comments": [], "recommandations_id": []}

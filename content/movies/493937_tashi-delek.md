@@ -1,1 +1,0 @@
-{"tmdb_id": 493937, "title": "Tashi Delek!", "original_title": "Tashi Delek!", "slug_title": "tashi-delek", "date": "2015-03-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

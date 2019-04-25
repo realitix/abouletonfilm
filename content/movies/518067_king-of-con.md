@@ -1,1 +1,0 @@
-{"tmdb_id": 518067, "title": "King Of Con!", "original_title": "King Of Con!", "slug_title": "king-of-con", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

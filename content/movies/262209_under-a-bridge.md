@@ -1,1 +1,0 @@
-{"tmdb_id": 262209, "title": "Under a Bridge", "original_title": "Under a Bridge", "slug_title": "under-a-bridge", "date": "1974-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kkcXBiiUJvalrFyZOFzTtfQpJef.jpg", "actors": [], "comments": [], "recommandations_id": []}

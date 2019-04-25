@@ -1,1 +1,0 @@
-{"tmdb_id": 573602, "title": "Nen\u00ed houba jako houba", "original_title": "Nen\u00ed houba jako houba", "slug_title": "neni-houba-jako-houba", "date": "1996-01-01", "genre": "Com\u00e9die / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

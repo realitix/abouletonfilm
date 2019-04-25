@@ -1,1 +1,0 @@
-{"tmdb_id": 8903, "title": "My Magic", "original_title": "My Magic", "slug_title": "my-magic", "date": "2008-01-01", "genre": "Drame", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rPfqPEQwHjewFcRmdNnnLt6fqGb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 222582, "title": "Just One More Chance", "original_title": "Just One More Chance", "slug_title": "just-one-more-chance", "date": "1932-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Jarrett (Himself)", "Mae Questel (Betty Boop (voice))"], "comments": [], "recommandations_id": []}

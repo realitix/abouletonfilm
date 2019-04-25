@@ -1,1 +1,0 @@
-{"tmdb_id": 420628, "title": "The Virtual Pumpkin", "original_title": "The Virtual Pumpkin", "slug_title": "the-virtual-pumpkin", "date": "1997-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7nQNs9BMwL8QVDf0mLBdtLMaTEz.jpg", "actors": [], "comments": [], "recommandations_id": []}

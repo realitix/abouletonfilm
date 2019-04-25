@@ -1,1 +1,0 @@
-{"tmdb_id": 477746, "title": "Jour de nuit", "original_title": "Jour de nuit", "slug_title": "jour-de-nuit", "date": "2000-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

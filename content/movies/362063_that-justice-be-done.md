@@ -1,1 +1,0 @@
-{"tmdb_id": 362063, "title": "That Justice Be Done", "original_title": "That Justice Be Done", "slug_title": "that-justice-be-done", "date": "1945-10-18", "genre": "Guerre / Documentaire", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Irving Pichel (Narrator)"], "comments": [], "recommandations_id": []}

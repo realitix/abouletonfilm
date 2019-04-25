@@ -1,1 +1,0 @@
-{"tmdb_id": 408175, "title": "The Amish: Shunned", "original_title": "The Amish: Shunned", "slug_title": "the-amish-shunned", "date": "2014-02-04", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j3v88yQXQO77R7bUIVk0jkHiogO.jpg", "actors": [], "comments": [], "recommandations_id": []}

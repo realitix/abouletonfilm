@@ -1,1 +1,0 @@
-{"tmdb_id": 284948, "title": "Liang Shanpo och Chu Ying-Tai", "original_title": "Liang Shanpo och Chu Ying-Tai", "slug_title": "liang-shanpo-och-chu-ying-tai", "date": "1954-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5cweToQntKKFm6RTEec0Yp3W22l.jpg", "actors": [], "comments": [], "recommandations_id": []}

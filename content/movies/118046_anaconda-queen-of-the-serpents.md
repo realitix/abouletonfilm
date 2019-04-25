@@ -1,1 +1,0 @@
-{"tmdb_id": 118046, "title": "Anaconda: Queen of the Serpents", "original_title": "Anaconda: Queen of the Serpents", "slug_title": "anaconda-queen-of-the-serpents", "date": "2010-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pQMV81c1wHiOZPtcOo90v8DMUMH.jpg", "actors": [], "comments": [], "recommandations_id": []}

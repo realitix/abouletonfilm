@@ -1,1 +1,0 @@
-{"tmdb_id": 336913, "title": "I Love Being HIV+", "original_title": "I Love Being HIV+", "slug_title": "i-love-being-hiv", "date": "2006-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hKm9FY5HGKuMIfKKksnJp7P08jS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 388413, "title": "Live At Wacken 2012", "original_title": "Live At Wacken 2012", "slug_title": "live-at-wacken-2012", "date": "2013-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9SLQOIFoGqHTKRghFjsyYqZ3TwL.jpg", "actors": [], "comments": [], "recommandations_id": []}

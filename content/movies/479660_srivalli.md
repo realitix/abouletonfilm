@@ -1,1 +1,0 @@
-{"tmdb_id": 479660, "title": "Srivalli", "original_title": "Srivalli", "slug_title": "srivalli", "date": "2017-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

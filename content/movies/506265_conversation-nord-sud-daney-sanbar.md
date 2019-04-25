@@ -1,1 +1,0 @@
-{"tmdb_id": 506265, "title": "Conversation nord-sud : Daney/Sanbar", "original_title": "Conversation nord-sud : Daney/Sanbar", "slug_title": "conversation-nord-sud-daney-sanbar", "date": "1993-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

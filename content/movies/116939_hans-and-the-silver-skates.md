@@ -1,1 +1,0 @@
-{"tmdb_id": 116939, "title": "Hans and the Silver Skates", "original_title": "Hans and the Silver Skates", "slug_title": "hans-and-the-silver-skates", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mZhshZTotwCy9q75jenMLRqwhkI.jpg", "actors": [], "comments": [], "recommandations_id": []}

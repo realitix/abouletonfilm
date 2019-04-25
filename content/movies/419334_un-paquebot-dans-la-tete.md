@@ -1,1 +1,0 @@
-{"tmdb_id": 419334, "title": "Un paquebot dans la t\u00eate", "original_title": "Un paquebot dans la t\u00eate", "slug_title": "un-paquebot-dans-la-tete", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zUrtbjdk93xylWZgSHCw4SpFLEq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 431198, "title": "The Shogun", "original_title": "The Shogun", "slug_title": "the-shogun", "date": "2008-12-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k9tO981Y6XlLXibyztHkS8dsJVw.jpg", "actors": [], "comments": [], "recommandations_id": []}

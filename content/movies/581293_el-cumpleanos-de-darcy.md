@@ -1,1 +1,0 @@
-{"tmdb_id": 581293, "title": "El cumplea\u00f1os de Darcy", "original_title": "El cumplea\u00f1os de Darcy", "slug_title": "el-cumpleanos-de-darcy", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Darcy Hugo Becker (Himself)"], "comments": [], "recommandations_id": []}

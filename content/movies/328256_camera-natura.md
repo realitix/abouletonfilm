@@ -1,1 +1,0 @@
-{"tmdb_id": 328256, "title": "Camera Natura", "original_title": "Camera Natura", "slug_title": "camera-natura", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m4Jzrw9Apgxv3HOmY2AMOYDshK9.jpg", "actors": [], "comments": [], "recommandations_id": []}

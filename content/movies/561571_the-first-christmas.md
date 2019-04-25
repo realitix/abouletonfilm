@@ -1,1 +1,0 @@
-{"tmdb_id": 561571, "title": "The First Christmas", "original_title": "The First Christmas", "slug_title": "the-first-christmas", "date": "1957-12-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

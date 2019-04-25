@@ -1,1 +1,0 @@
-{"tmdb_id": 465713, "title": "The Exhibition", "original_title": "\u0412\u044b\u0441\u0442\u0430\u0432\u043a\u0430", "slug_title": "the-exhibition", "date": "2017-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Polina Vitorgan ()", "Anfisa Chernykh ()", "Georgy Kudrenko ()"], "comments": [], "recommandations_id": []}

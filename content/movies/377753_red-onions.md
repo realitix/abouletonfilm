@@ -1,1 +1,0 @@
-{"tmdb_id": 377753, "title": "Red Onions", "original_title": "Red Onions", "slug_title": "red-onions", "date": "2016-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

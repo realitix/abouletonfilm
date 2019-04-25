@@ -1,1 +1,0 @@
-{"tmdb_id": 570218, "title": "247 Degrees North", "original_title": "247 Degrees North", "slug_title": "247-degrees-north", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elliot James Langridge (Crazy Joe)", "Johan Bjerling (Biker)", "Clare Cole (Mercenary)"], "comments": [], "recommandations_id": []}

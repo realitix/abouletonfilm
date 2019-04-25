@@ -1,1 +1,0 @@
-{"tmdb_id": 342500, "title": "Das andere Ich", "original_title": "Das andere Ich", "slug_title": "das-andere-ich", "date": "1918-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Raoul Aslan (Fritz)", "Fritz Kortner (Professor)", "Magda Sonja (Therese)"], "comments": [], "recommandations_id": []}

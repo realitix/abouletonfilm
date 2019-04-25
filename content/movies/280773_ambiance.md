@@ -1,1 +1,0 @@
-{"tmdb_id": 280773, "title": "Ambianc\u00e9", "original_title": "Ambianc\u00e9", "slug_title": "ambiance", "date": "2020-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wCiV2fVg5H5iP71j9Qnl7ypJAU6.jpg", "actors": [], "comments": [], "recommandations_id": []}

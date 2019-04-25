@@ -1,1 +1,0 @@
-{"tmdb_id": 460050, "title": "Days of the New - Live", "original_title": "Days of the New - Live", "slug_title": "days-of-the-new-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aSAi8C9vP6GGUBDSPd2rAMv0bmy.jpg", "actors": [], "comments": [], "recommandations_id": []}

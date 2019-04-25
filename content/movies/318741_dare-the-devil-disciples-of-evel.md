@@ -1,1 +1,0 @@
-{"tmdb_id": 318741, "title": "Dare the Devil! ... Disciples of Evel", "original_title": "Dare the Devil! ... Disciples of Evel", "slug_title": "dare-the-devil-disciples-of-evel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

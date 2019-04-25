@@ -1,1 +1,0 @@
-{"tmdb_id": 457438, "title": "Nude Dudes", "original_title": "Nude Dudes", "slug_title": "nude-dudes", "date": "2014-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z4IkL8Fig4TyeGwNsnwypsh7fag.jpg", "actors": [], "comments": [], "recommandations_id": []}

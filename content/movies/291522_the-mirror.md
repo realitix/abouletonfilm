@@ -1,1 +1,0 @@
-{"tmdb_id": 291522, "title": "The Mirror", "original_title": "The Mirror", "slug_title": "the-mirror", "date": "1911-02-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["King Baggot ()", "Mary Pickford (Dorothy)"], "comments": [], "recommandations_id": []}

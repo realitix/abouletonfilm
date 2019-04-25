@@ -1,1 +1,0 @@
-{"tmdb_id": 182612, "title": "Peter Grimes", "original_title": "Peter Grimes", "slug_title": "peter-grimes", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Philip Langridge (Peter Grimes)", "Janice Cairns (Ellen Orford)", "Alan Opie (Captain Balstrode)"], "comments": [], "recommandations_id": []}

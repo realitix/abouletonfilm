@@ -1,1 +1,0 @@
-{"tmdb_id": 493803, "title": "Night of the Bumblebee", "original_title": "Night of the Bumblebee", "slug_title": "night-of-the-bumblebee", "date": "2010-11-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8npA5strNb0bTrpxZtEOo81TJHf.jpg", "actors": [], "comments": [], "recommandations_id": []}

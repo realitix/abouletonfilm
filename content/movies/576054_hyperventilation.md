@@ -1,1 +1,0 @@
-{"tmdb_id": 576054, "title": "Hyperventilation", "original_title": "Hyperventilation", "slug_title": "hyperventilation", "date": "2017-02-18", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mcwDcoxuZdgQHlyhvRWpaURk0rs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 379085, "title": "Pinknic", "original_title": "Pinknic", "slug_title": "pinknic", "date": "1967-01-06", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zw8y7GXdY2Z9h6MHHTnCc77nK6q.jpg", "actors": [], "comments": [], "recommandations_id": []}

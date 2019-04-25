@@ -1,1 +1,0 @@
-{"tmdb_id": 206059, "title": "Yolanda", "original_title": "Yolanda", "slug_title": "yolanda", "date": "1981-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michelle Joyce ()"], "comments": [], "recommandations_id": []}

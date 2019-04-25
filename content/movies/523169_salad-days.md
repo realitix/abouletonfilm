@@ -1,1 +1,0 @@
-{"tmdb_id": 523169, "title": "Salad Days", "original_title": "Salad Days", "slug_title": "salad-days", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lduiIzHErxThBZEyHMX9ucd3FTa.jpg", "actors": [], "comments": [], "recommandations_id": []}

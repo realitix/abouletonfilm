@@ -1,1 +1,0 @@
-{"tmdb_id": 276876, "title": "My Sexuality: A Sensory Experience", "original_title": "My Sexuality: A Sensory Experience", "slug_title": "my-sexuality-a-sensory-experience", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 383504, "title": "Der Fall Max Mustermann", "original_title": "Der Fall Max Mustermann", "slug_title": "der-fall-max-mustermann", "date": "2011-05-05", "genre": "Myst\u00e8re", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/susyJj0ZYVHLfnrUAblO8d2Zdwo.jpg", "actors": [], "comments": [], "recommandations_id": []}

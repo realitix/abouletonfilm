@@ -1,1 +1,0 @@
-{"tmdb_id": 443706, "title": "Groeten uit Bakkum", "original_title": "Groeten uit Bakkum", "slug_title": "groeten-uit-bakkum", "date": "2014-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3YI60UASLsHLpUpGRESL1DkTsL3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 419304, "title": "ALL - Punk Rock Bowling 2014", "original_title": "ALL - Punk Rock Bowling 2014", "slug_title": "all-punk-rock-bowling-2014", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

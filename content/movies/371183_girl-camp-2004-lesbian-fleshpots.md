@@ -1,1 +1,0 @@
-{"tmdb_id": 371183, "title": "Girl Camp 2004: Lesbian Fleshpots", "original_title": "Girl Camp 2004: Lesbian Fleshpots", "slug_title": "girl-camp-2004-lesbian-fleshpots", "date": "2003-10-20", "genre": "", "score": "2.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kl\u00e1ra Hlouskov\u00e1 ()"], "comments": [], "recommandations_id": []}

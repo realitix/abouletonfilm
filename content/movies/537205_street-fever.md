@@ -1,1 +1,0 @@
-{"tmdb_id": 537205, "title": "Street Fever", "original_title": "Street Fever", "slug_title": "street-fever", "date": "2018-07-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

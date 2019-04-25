@@ -1,1 +1,0 @@
-{"tmdb_id": 202783, "title": "Private Life", "original_title": "Chastnaya zhizn", "slug_title": "private-life", "date": "1982-06-22", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mH5IXVFdE76H9ofgeLZbRvpOgLF.jpg", "actors": [], "comments": [], "recommandations_id": []}

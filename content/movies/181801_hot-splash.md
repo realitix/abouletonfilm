@@ -1,1 +1,0 @@
-{"tmdb_id": 181801, "title": "Hot Splash", "original_title": "Hot Splash", "slug_title": "hot-splash", "date": "1988-05-19", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vBkA4ggMtyZB3ewzx2ZFeJrU5Jx.jpg", "actors": [], "comments": [], "recommandations_id": []}

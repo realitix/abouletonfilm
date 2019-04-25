@@ -1,1 +1,0 @@
-{"tmdb_id": 493265, "title": "The Night Santa Went Crazy", "original_title": "The Night Santa Went Crazy", "slug_title": "the-night-santa-went-crazy", "date": "2000-05-01", "genre": "Musique / Com\u00e9die / Animation / Fantastique / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

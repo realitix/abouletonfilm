@@ -1,1 +1,0 @@
-{"tmdb_id": 279589, "title": "Daniel's Lot", "original_title": "Daniel's Lot", "slug_title": "daniel-s-lot", "date": "2010-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

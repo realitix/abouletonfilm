@@ -1,1 +1,0 @@
-{"tmdb_id": 426888, "title": "B.B. King: In Concert", "original_title": "B.B. King: In Concert", "slug_title": "b-b-king-in-concert", "date": "2003-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wbtgYLfDRd61pSTH2palXeb9Qwh.jpg", "actors": [], "comments": [], "recommandations_id": []}

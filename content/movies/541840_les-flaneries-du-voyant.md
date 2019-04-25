@@ -1,1 +1,0 @@
-{"tmdb_id": 541840, "title": "Les Fl\u00e2neries du voyant", "original_title": "Les Fl\u00e2neries du voyant", "slug_title": "les-flaneries-du-voyant", "date": "2018-03-26", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

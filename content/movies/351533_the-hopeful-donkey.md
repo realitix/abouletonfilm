@@ -1,1 +1,0 @@
-{"tmdb_id": 351533, "title": "The Hopeful Donkey", "original_title": "The Hopeful Donkey", "slug_title": "the-hopeful-donkey", "date": "1943-12-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 278552, "title": "Omaha (The Movie)", "original_title": "Omaha (The Movie)", "slug_title": "omaha-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7QL2GVl2nZe1ALaMKte8vxEAQTu.jpg", "actors": [], "comments": [], "recommandations_id": []}

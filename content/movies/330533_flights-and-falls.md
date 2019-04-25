@@ -1,1 +1,0 @@
-{"tmdb_id": 330533, "title": "Flights and Falls", "original_title": "Vzlety a p\u00e1dy", "slug_title": "flights-and-falls", "date": "2000-10-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

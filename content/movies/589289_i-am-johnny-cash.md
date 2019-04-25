@@ -1,1 +1,0 @@
-{"tmdb_id": 589289, "title": "I Am Johnny Cash", "original_title": "I Am Johnny Cash", "slug_title": "i-am-johnny-cash", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tWmvKSOY5wauKDhcLW84OTxhava.jpg", "actors": [], "comments": [], "recommandations_id": []}

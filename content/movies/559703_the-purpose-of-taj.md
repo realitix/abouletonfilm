@@ -1,1 +1,0 @@
-{"tmdb_id": 559703, "title": "The Purpose Of Taj", "original_title": "The Purpose Of Taj", "slug_title": "the-purpose-of-taj", "date": "2017-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ykKwWbd0XTaAsIJcoSPqo6BpndR.jpg", "actors": [], "comments": [], "recommandations_id": []}

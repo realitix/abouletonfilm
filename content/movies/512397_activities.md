@@ -1,1 +1,0 @@
-{"tmdb_id": 512397, "title": "Activities", "original_title": "Dzia\u0142ania", "slug_title": "activities", "date": "1972-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 304508, "title": "Decision in the Streets", "original_title": "Decision in the Streets", "slug_title": "decision-in-the-streets", "date": "2014-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 153943, "title": "Samba Social Clube 4", "original_title": "Samba Social Clube 4", "slug_title": "samba-social-clube-4", "date": "2016-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/64wMQIOmByvPXjv1GEZiX7ZNePm.jpg", "actors": [], "comments": [], "recommandations_id": []}

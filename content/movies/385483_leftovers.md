@@ -1,1 +1,1 @@
-{"tmdb_id": 385483, "title": "Leftovers", "original_title": "Leftovers", "slug_title": "leftovers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 385483, "title": "Leftovers", "original_title": "Leftovers", "slug_title": "leftovers", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A girl, her mother, a turkey and a knife", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

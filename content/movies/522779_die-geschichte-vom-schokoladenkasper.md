@@ -1,1 +1,0 @@
-{"tmdb_id": 522779, "title": "Die Geschichte vom Schokoladenkasper", "original_title": "Die Geschichte vom Schokoladenkasper", "slug_title": "die-geschichte-vom-schokoladenkasper", "date": "1926-05-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

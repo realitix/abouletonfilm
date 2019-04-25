@@ -1,1 +1,0 @@
-{"tmdb_id": 326761, "title": "Puttin' Out the Kitten", "original_title": "Puttin' Out the Kitten", "slug_title": "puttin-out-the-kitten", "date": "1937-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

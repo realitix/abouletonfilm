@@ -1,1 +1,0 @@
-{"tmdb_id": 341722, "title": "A Almadraba Atuneira", "original_title": "A Almadraba Atuneira", "slug_title": "a-almadraba-atuneira", "date": "1961-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jpTi7vxx0Ax1wIlx5WoDVJtPS5d.jpg", "actors": [], "comments": [], "recommandations_id": []}

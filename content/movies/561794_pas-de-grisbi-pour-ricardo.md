@@ -1,1 +1,0 @@
-{"tmdb_id": 561794, "title": "Pas de grisbi pour Ricardo", "original_title": "Pas de grisbi pour Ricardo", "slug_title": "pas-de-grisbi-pour-ricardo", "date": "1957-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2nKgrrcnFG59Do20xmltT4F9z6b.jpg", "actors": [], "comments": [], "recommandations_id": []}

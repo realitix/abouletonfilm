@@ -1,1 +1,0 @@
-{"tmdb_id": 593234, "title": "Beartooth - Live in Columbus", "original_title": "Beartooth - Live in Columbus", "slug_title": "beartooth-live-in-columbus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6qGugfdpb9ubeRLqgTRyqRzvhH0.jpg", "actors": [], "comments": [], "recommandations_id": []}

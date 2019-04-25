@@ -1,1 +1,0 @@
-{"tmdb_id": 281286, "title": "Crossroads of the Orient", "original_title": "Crossroads of the Orient", "slug_title": "crossroads-of-the-orient", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

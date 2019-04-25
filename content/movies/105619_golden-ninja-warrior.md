@@ -1,1 +1,0 @@
-{"tmdb_id": 105619, "title": "Golden Ninja Warrior", "original_title": "Golden Ninja Warrior", "slug_title": "golden-ninja-warrior", "date": "1986-01-01", "genre": "Action", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o0akXNib9zWYp6VwCzZebpSmHVQ.jpg", "actors": [], "comments": [], "recommandations_id": [74832, 53061, 95955, 53363]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 461625, "title": "Take One", "original_title": "Take One", "slug_title": "take-one", "date": "1977-08-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sKkcVXOimNYDyrxsOItNayiWsXk.jpg", "actors": [], "comments": [], "recommandations_id": []}

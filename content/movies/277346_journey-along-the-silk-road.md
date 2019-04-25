@@ -1,1 +1,0 @@
-{"tmdb_id": 277346, "title": "Journey Along the Silk Road", "original_title": "Journey Along the Silk Road", "slug_title": "journey-along-the-silk-road", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

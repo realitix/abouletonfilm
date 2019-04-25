@@ -1,1 +1,0 @@
-{"tmdb_id": 416904, "title": "The Witness", "original_title": "The Witness", "slug_title": "the-witness", "date": "1965-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

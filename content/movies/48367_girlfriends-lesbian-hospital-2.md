@@ -1,1 +1,0 @@
-{"tmdb_id": 48367, "title": "Girlfriends Lesbian Hospital 2", "original_title": "Girlfriends Lesbian Hospital 2", "slug_title": "girlfriends-lesbian-hospital-2", "date": "2009-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rp3LXXFNsuAWi9TS9uKfWpzYG0F.jpg", "actors": [], "comments": [], "recommandations_id": []}

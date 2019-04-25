@@ -1,1 +1,0 @@
-{"tmdb_id": 318117, "title": "Great Women Artists: Mary Cassatt", "original_title": "Great Women Artists: Mary Cassatt", "slug_title": "great-women-artists-mary-cassatt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

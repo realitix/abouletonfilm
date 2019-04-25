@@ -1,1 +1,0 @@
-{"tmdb_id": 511810, "title": "Magic, A Portrait of Joris", "original_title": "Magic, A Portrait of Joris", "slug_title": "magic-a-portrait-of-joris", "date": "2018-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

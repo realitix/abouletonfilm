@@ -1,1 +1,0 @@
-{"tmdb_id": 309471, "title": "Bottom Land", "original_title": "Bottom Land", "slug_title": "bottom-land", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 326909, "title": "Be Like An Ant", "original_title": "Be Like An Ant", "slug_title": "be-like-an-ant", "date": "2012-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

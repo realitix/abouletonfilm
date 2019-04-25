@@ -1,1 +1,0 @@
-{"tmdb_id": 310870, "title": "Victory Video Collection", "original_title": "Victory Video Collection", "slug_title": "victory-video-collection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

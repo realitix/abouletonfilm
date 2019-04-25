@@ -1,1 +1,0 @@
-{"tmdb_id": 310389, "title": "Recount Democracy", "original_title": "Recount Democracy", "slug_title": "recount-democracy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

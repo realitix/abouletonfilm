@@ -1,1 +1,0 @@
-{"tmdb_id": 308015, "title": "Donga Ramudu", "original_title": "Donga Ramudu", "slug_title": "donga-ramudu", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

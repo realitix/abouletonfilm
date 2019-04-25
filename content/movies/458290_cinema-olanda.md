@@ -1,1 +1,0 @@
-{"tmdb_id": 458290, "title": "Cinema Olanda", "original_title": "Cinema Olanda", "slug_title": "cinema-olanda", "date": "2017-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

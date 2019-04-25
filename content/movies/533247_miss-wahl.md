@@ -1,1 +1,0 @@
-{"tmdb_id": 533247, "title": "Miss-Wahl", "original_title": "Miss-Wahl", "slug_title": "miss-wahl", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

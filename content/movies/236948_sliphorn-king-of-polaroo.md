@@ -1,1 +1,0 @@
-{"tmdb_id": 236948, "title": "Sliphorn King of Polaroo", "original_title": "Sliphorn King of Polaroo", "slug_title": "sliphorn-king-of-polaroo", "date": "1945-03-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ytDlk0tjd0Fzv1nYuBGwR9keA3c.jpg", "actors": [], "comments": [], "recommandations_id": []}

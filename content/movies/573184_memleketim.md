@@ -1,1 +1,0 @@
-{"tmdb_id": 573184, "title": "Memleketim", "original_title": "Memleketim", "slug_title": "memleketim", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dt2jMBHhe0EQ9zerJ81TEp7paX8.jpg", "actors": [], "comments": [], "recommandations_id": []}

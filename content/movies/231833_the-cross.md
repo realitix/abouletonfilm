@@ -1,1 +1,0 @@
-{"tmdb_id": 231833, "title": "The Cross", "original_title": "La Cruz", "slug_title": "the-cross", "date": "2012-04-02", "genre": "Horreur", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eHkbd9HNPVkm0Pz49TU0N2oXijp.jpg", "actors": [], "comments": [], "recommandations_id": []}

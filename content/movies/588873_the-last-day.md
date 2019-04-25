@@ -1,1 +1,0 @@
-{"tmdb_id": 588873, "title": "The Last Day", "original_title": "O \u00daltimo Dia", "slug_title": "the-last-day", "date": "2010-08-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Evandro Scorsin ()", "Alexandre Canetta ()", "Monique Rau ()", "Leandro Rocha ()"], "comments": [], "recommandations_id": []}

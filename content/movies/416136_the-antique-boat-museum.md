@@ -1,1 +1,0 @@
-{"tmdb_id": 416136, "title": "The Antique Boat Museum", "original_title": "The Antique Boat Museum", "slug_title": "the-antique-boat-museum", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bdr9oiSg5wwqrjOTbUfJp4whPYN.jpg", "actors": [], "comments": [], "recommandations_id": []}

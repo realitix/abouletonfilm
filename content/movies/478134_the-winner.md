@@ -1,1 +1,0 @@
-{"tmdb_id": 478134, "title": "The Winner", "original_title": "A Gy\u00f6ztes", "slug_title": "the-winner", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 195281, "title": "Snowboarding That's It, That's All.", "original_title": "Snowboarding That's It, That's All.", "slug_title": "snowboarding-that-s-it-that-s-all", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

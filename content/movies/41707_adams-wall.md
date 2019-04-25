@@ -1,1 +1,0 @@
-{"tmdb_id": 41707, "title": "Adams Wall", "original_title": "Adams Wall", "slug_title": "adams-wall", "date": "2008-10-17", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yIel0DDESmA4MDvO1vvsfnO2305.jpg", "actors": [], "comments": [], "recommandations_id": []}

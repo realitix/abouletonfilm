@@ -1,1 +1,0 @@
-{"tmdb_id": 524048, "title": "Goodnight & Goodbye", "original_title": "Goodnight & Goodbye", "slug_title": "goodnight-goodbye", "date": "2018-05-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/NUjYDi3kyuniXGwhV5O204tNhh.jpg", "actors": [], "comments": [], "recommandations_id": []}

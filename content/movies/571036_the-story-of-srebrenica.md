@@ -1,1 +1,0 @@
-{"tmdb_id": 571036, "title": "The Story of Srebrenica", "original_title": "The Story of Srebrenica", "slug_title": "the-story-of-srebrenica", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nanny Lynn ()"], "comments": [], "recommandations_id": []}

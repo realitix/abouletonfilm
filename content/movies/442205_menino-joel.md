@@ -1,1 +1,0 @@
-{"tmdb_id": 442205, "title": "Menino Joel", "original_title": "Menino Joel", "slug_title": "menino-joel", "date": "2012-04-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yq8iaDJbcG9b1kUVobYytoNHpS8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 474916, "title": "Sapphire and the Slave Girl", "original_title": "Sapphire and the Slave Girl", "slug_title": "sapphire-and-the-slave-girl", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

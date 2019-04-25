@@ -1,1 +1,0 @@
-{"tmdb_id": 78750, "title": "Dhoorathu Pacchai", "original_title": "Dhoorathu Pacchai", "slug_title": "dhoorathu-pacchai", "date": "1987-06-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karthik Muthuraman ()", "Suhasini Maniratnam ()"], "comments": [], "recommandations_id": []}

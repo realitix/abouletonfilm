@@ -1,1 +1,0 @@
-{"tmdb_id": 348374, "title": "Inspector Gadget Animated Collection", "original_title": "Inspector Gadget Animated Collection", "slug_title": "inspector-gadget-animated-collection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

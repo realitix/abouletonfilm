@@ -1,1 +1,0 @@
-{"tmdb_id": 48372, "title": "Gas Planet", "original_title": "Gas Planet", "slug_title": "gas-planet", "date": "1992-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kYHGPKVnKDIx3eyULoZYOWzpUCx.jpg", "actors": [], "comments": [], "recommandations_id": []}

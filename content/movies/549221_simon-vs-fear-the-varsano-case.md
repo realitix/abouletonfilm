@@ -1,1 +1,0 @@
-{"tmdb_id": 549221, "title": "Simon vs. Fear: The Varsano Case", "original_title": "Simon vs. Fear: The Varsano Case", "slug_title": "simon-vs-fear-the-varsano-case", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mJWTadSLiYlNdKSqN5WZsuIU0WS.jpg", "actors": [], "comments": [], "recommandations_id": []}

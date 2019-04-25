@@ -1,1 +1,0 @@
-{"tmdb_id": 453215, "title": "Tourists Landing at Island of Capri, Italy", "original_title": "Tourists Landing at Island of Capri, Italy", "slug_title": "tourists-landing-at-island-of-capri-italy", "date": "1903-06-19", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

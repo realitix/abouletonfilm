@@ -1,1 +1,0 @@
-{"tmdb_id": 574059, "title": "Halloween '87", "original_title": "Halloween '87", "slug_title": "halloween-87", "date": "1987-10-27", "genre": "Com\u00e9die / Horreur / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3VkJgXIufyqAm3IWROtZ6rP4Mtl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 295035, "title": "Yo! A Romantic Comedy", "original_title": "Yo! A Romantic Comedy", "slug_title": "yo-a-romantic-comedy", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lizzie Fitch ()", "Ryan Trecartin ()"], "comments": [], "recommandations_id": []}

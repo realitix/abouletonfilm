@@ -1,1 +1,0 @@
-{"tmdb_id": 587611, "title": "Ayotzinapa 26", "original_title": "Ayotzinapa 26", "slug_title": "ayotzinapa-26", "date": "2016-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

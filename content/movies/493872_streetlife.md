@@ -1,1 +1,0 @@
-{"tmdb_id": 493872, "title": "Streetlife", "original_title": "Streetlife", "slug_title": "streetlife", "date": "1995-11-25", "genre": "Drame / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Helen McCrory (Jo)", "Rhys Ifans (Kevin)", "Donna Edwards (Gail)"], "comments": [], "recommandations_id": []}

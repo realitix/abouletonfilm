@@ -1,1 +1,0 @@
-{"tmdb_id": 326691, "title": "Field Guide To November Days", "original_title": "Field Guide To November Days", "slug_title": "field-guide-to-november-days", "date": "2010-02-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n6Bj6BI2jHIqSmzv6LnASGnmmw1.jpg", "actors": [], "comments": [], "recommandations_id": []}

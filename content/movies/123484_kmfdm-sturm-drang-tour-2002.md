@@ -1,1 +1,0 @@
-{"tmdb_id": 123484, "title": "KMFDM: Sturm & Drang Tour 2002", "original_title": "KMFDM: Sturm & Drang Tour 2002", "slug_title": "kmfdm-sturm-drang-tour-2002", "date": "2003-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f5leM32t8covunhsoUAgfdTLICz.jpg", "actors": [], "comments": [], "recommandations_id": []}

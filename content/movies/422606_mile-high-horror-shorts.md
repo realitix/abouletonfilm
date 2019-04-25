@@ -1,1 +1,0 @@
-{"tmdb_id": 422606, "title": "Mile High Horror Shorts", "original_title": "Mile High Horror Shorts", "slug_title": "mile-high-horror-shorts", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pIA908y0gBCO6nGEKWO6rLbTO1K.jpg", "actors": [], "comments": [], "recommandations_id": []}

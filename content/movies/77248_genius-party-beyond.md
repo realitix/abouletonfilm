@@ -1,1 +1,0 @@
-{"tmdb_id": 77248, "title": "Genius Party Beyond", "original_title": "Genius Party Beyond", "slug_title": "genius-party-beyond", "date": "2008-10-11", "genre": "Animation", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t4Dm9NQ3wCBfQLapVRFSpKQIY4x.jpg", "actors": [], "comments": [], "recommandations_id": [40123, 98065, 24654, 45694]}

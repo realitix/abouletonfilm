@@ -1,1 +1,0 @@
-{"tmdb_id": 472437, "title": "Sincerely", "original_title": "Sincerely", "slug_title": "sincerely", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

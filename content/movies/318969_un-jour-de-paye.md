@@ -1,1 +1,0 @@
-{"tmdb_id": 318969, "title": "Un jour de paye", "original_title": "Un jour de paye", "slug_title": "un-jour-de-paye", "date": "1906-12-22", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aRgflQQiSeZcNCbOHtfm0HzeBx6.jpg", "actors": [], "comments": [], "recommandations_id": []}

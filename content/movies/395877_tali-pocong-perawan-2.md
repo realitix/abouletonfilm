@@ -1,1 +1,0 @@
-{"tmdb_id": 395877, "title": "Tali Pocong Perawan 2", "original_title": "Tali Pocong Perawan 2", "slug_title": "tali-pocong-perawan-2", "date": "2012-05-03", "genre": "Horreur", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pH2ZsUUjTW7wOXVMPvl0wt8fm8.jpg", "actors": [], "comments": [], "recommandations_id": []}

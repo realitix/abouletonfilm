@@ -1,1 +1,0 @@
-{"tmdb_id": 69967, "title": "Thuy Nga Paris By Night 100", "original_title": "Thuy Nga Paris By Night 100", "slug_title": "thuy-nga-paris-by-night-100", "date": "2010-10-07", "genre": "Musique", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pkhuWDm4RkG4Hi8EeAZHmx255sw.jpg", "actors": [], "comments": [], "recommandations_id": []}

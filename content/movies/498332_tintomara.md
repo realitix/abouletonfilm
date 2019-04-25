@@ -1,1 +1,0 @@
-{"tmdb_id": 498332, "title": "Tintomara", "original_title": "Tintomara", "slug_title": "tintomara", "date": "1970-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8KvMMwLS9yewhkeg5BIx4zJ9Gy3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 270384, "title": "Landing at Low Tide", "original_title": "Landing at Low Tide", "slug_title": "landing-at-low-tide", "date": "1896-06-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/10oM5ZZmyQZRVoFeOeWcZcLyjlP.jpg", "actors": [], "comments": [], "recommandations_id": []}

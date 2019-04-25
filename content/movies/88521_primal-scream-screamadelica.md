@@ -1,1 +1,0 @@
-{"tmdb_id": 88521, "title": "Primal Scream - Screamadelica", "original_title": "Primal Scream - Screamadelica", "slug_title": "primal-scream-screamadelica", "date": "2011-05-06", "genre": "Musique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vmXPtI9TymEHnKeFvNm7kwoCrAD.jpg", "actors": [], "comments": [], "recommandations_id": []}

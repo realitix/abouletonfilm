@@ -1,1 +1,0 @@
-{"tmdb_id": 548075, "title": "Marocain", "original_title": "Marocain", "slug_title": "marocain", "date": "1989-02-15", "genre": "T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Abdelhadi El Aidi ()", "Traute Hoess ()", "Eva Lehmann ()"], "comments": [], "recommandations_id": []}

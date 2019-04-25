@@ -1,1 +1,0 @@
-{"tmdb_id": 345106, "title": "Heroes No Longer", "original_title": "Heroes No Longer", "slug_title": "heroes-no-longer", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

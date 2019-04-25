@@ -1,1 +1,0 @@
-{"tmdb_id": 537405, "title": "Whittie", "original_title": "Whittie", "slug_title": "whittie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stuart Whitman ()", "Percy Herbert ()", "Randy Boone ()", "Jill Townsend ()"], "comments": [], "recommandations_id": []}

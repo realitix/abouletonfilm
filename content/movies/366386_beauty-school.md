@@ -1,1 +1,0 @@
-{"tmdb_id": 366386, "title": "Beauty School", "original_title": "Beauty School", "slug_title": "beauty-school", "date": "2003-04-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sRT1EMfR1spv6Q1FUhp8LuARVqI.jpg", "actors": [], "comments": [], "recommandations_id": []}

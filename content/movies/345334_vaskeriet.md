@@ -1,1 +1,0 @@
-{"tmdb_id": 345334, "title": "Vaskeriet", "original_title": "Vaskeriet", "slug_title": "vaskeriet", "date": "2006-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

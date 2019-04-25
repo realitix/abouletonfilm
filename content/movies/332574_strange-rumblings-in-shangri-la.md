@@ -1,1 +1,0 @@
-{"tmdb_id": 332574, "title": "Strange Rumblings In Shangri La", "original_title": "Strange Rumblings In Shangri La", "slug_title": "strange-rumblings-in-shangri-la", "date": "2014-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

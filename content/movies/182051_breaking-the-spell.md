@@ -1,1 +1,0 @@
-{"tmdb_id": 182051, "title": "Breaking the Spell", "original_title": "Breaking the Spell", "slug_title": "breaking-the-spell", "date": "1999-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8YnwBRsnegbVM6yayUISRPGGohG.jpg", "actors": [], "comments": [], "recommandations_id": []}

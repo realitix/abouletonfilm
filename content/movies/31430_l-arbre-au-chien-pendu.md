@@ -1,1 +1,0 @@
-{"tmdb_id": 31430, "title": "L'arbre au chien pendu", "original_title": "L'arbre au chien pendu", "slug_title": "l-arbre-au-chien-pendu", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sandrine Blancke (Zelda)", "Sacha Kremer (Micha)"], "comments": [], "recommandations_id": []}

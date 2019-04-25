@@ -1,1 +1,0 @@
-{"tmdb_id": 310474, "title": "Warriors of Honor", "original_title": "Warriors of Honor", "slug_title": "warriors-of-honor", "date": "2004-05-24", "genre": "Guerre / Documentaire / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m3QxuiTsCHjGIP1bTQ4prxSRbis.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 565526, "title": "Bat Bitch", "original_title": "Bat Bitch", "slug_title": "bat-bitch", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jacqueline ()", "Lauren Brice ()", "Alex Storm ()", "Eric Price ()", "Randy Spears ()"], "comments": [], "recommandations_id": []}

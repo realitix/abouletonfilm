@@ -1,1 +1,0 @@
-{"tmdb_id": 491692, "title": "Conflagration", "original_title": "Conflagraci\u00f3n", "slug_title": "conflagration", "date": "2017-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a1wVg1iKCDiKKoT8cPZXmMFGNwa.jpg", "actors": [], "comments": [], "recommandations_id": []}

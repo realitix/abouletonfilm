@@ -1,1 +1,0 @@
-{"tmdb_id": 381695, "title": "The Sabbatical", "original_title": "The Sabbatical", "slug_title": "the-sabbatical", "date": "2015-12-03", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8tR1n2NQKqwbNwszHSMvkUtVnHO.jpg", "actors": [], "comments": [], "recommandations_id": []}

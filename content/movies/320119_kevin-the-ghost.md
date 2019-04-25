@@ -1,1 +1,0 @@
-{"tmdb_id": 320119, "title": "Kevin the Ghost", "original_title": "Kevin the Ghost", "slug_title": "kevin-the-ghost", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

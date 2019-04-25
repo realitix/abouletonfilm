@@ -1,1 +1,0 @@
-{"tmdb_id": 342890, "title": "Do You Have a Degree?", "original_title": "Haben Sie Abitur?", "slug_title": "do-you-have-a-degree", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

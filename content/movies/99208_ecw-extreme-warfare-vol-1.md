@@ -1,1 +1,0 @@
-{"tmdb_id": 99208, "title": "ECW Extreme Warfare Vol. 1", "original_title": "ECW Extreme Warfare Vol. 1", "slug_title": "ecw-extreme-warfare-vol-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AjoeDo02zYplGXs5dlu4yZzTRx5.jpg", "actors": [], "comments": [], "recommandations_id": []}

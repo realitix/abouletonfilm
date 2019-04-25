@@ -1,1 +1,0 @@
-{"tmdb_id": 520325, "title": "Watching Paint Dry", "original_title": "Watching Paint Dry", "slug_title": "watching-paint-dry", "date": "2010-04-24", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8wEmDhIj72RUfHEWnDZv26upAma.jpg", "actors": [], "comments": [], "recommandations_id": []}

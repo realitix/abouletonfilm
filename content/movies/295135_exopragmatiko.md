@@ -1,1 +1,0 @@
-{"tmdb_id": 295135, "title": "Exopragmatiko", "original_title": "Exopragmatiko", "slug_title": "exopragmatiko", "date": "1980-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pFHfmr60poL5qeZcq5Yakh9GUYv.jpg", "actors": [], "comments": [], "recommandations_id": []}

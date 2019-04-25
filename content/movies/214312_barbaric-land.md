@@ -1,1 +1,0 @@
-{"tmdb_id": 214312, "title": "Barbaric Land", "original_title": "Pays barbare", "slug_title": "barbaric-land", "date": "2013-08-10", "genre": "Drame / Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jEIXQMdLZ58smPavZaK6Gqpf4Mt.jpg", "actors": [], "comments": [], "recommandations_id": []}

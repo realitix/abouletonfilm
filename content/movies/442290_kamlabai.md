@@ -1,1 +1,0 @@
-{"tmdb_id": 442290, "title": "Kamlabai", "original_title": "Kamlabai", "slug_title": "kamlabai", "date": "1992-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kamlabai Gokhale (Herself)"], "comments": [], "recommandations_id": []}

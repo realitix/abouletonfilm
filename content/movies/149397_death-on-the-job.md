@@ -1,1 +1,0 @@
-{"tmdb_id": 149397, "title": "Death on the Job", "original_title": "Death on the Job", "slug_title": "death-on-the-job", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d7JKD0zvlEaaGapVfvI9jCrrFDU.jpg", "actors": [], "comments": [], "recommandations_id": []}

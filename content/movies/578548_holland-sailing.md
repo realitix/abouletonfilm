@@ -1,1 +1,0 @@
-{"tmdb_id": 578548, "title": "Holland Sailing", "original_title": "Holland Sailing", "slug_title": "holland-sailing", "date": "1956-12-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Wismer (Narrator (voice))"], "comments": [], "recommandations_id": []}

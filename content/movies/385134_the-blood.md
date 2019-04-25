@@ -1,1 +1,0 @@
-{"tmdb_id": 385134, "title": "The Blood", "original_title": "Kravta", "slug_title": "the-blood", "date": "2012-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5y2WMezSx6RZZZxffbgth9jYrW8.jpg", "actors": [], "comments": [], "recommandations_id": []}

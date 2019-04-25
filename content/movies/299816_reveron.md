@@ -1,1 +1,0 @@
-{"tmdb_id": 299816, "title": "Rever\u00f3n", "original_title": "Rever\u00f3n", "slug_title": "reveron", "date": "1952-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ijsRJmeJ78C9RPTQByY3IQINoi.jpg", "actors": [], "comments": [], "recommandations_id": []}

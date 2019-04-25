@@ -1,1 +1,1 @@
-{"tmdb_id": 511403, "title": "De marine vliegt", "original_title": "De marine vliegt", "slug_title": "de-marine-vliegt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 511403, "title": "De marine vliegt", "original_title": "De marine vliegt", "slug_title": "de-marine-vliegt", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 515801, "title": "Farewell Ferris Wheel", "original_title": "Farewell Ferris Wheel", "slug_title": "farewell-ferris-wheel", "date": "2016-11-04", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9hGWaM8OOwBvzAwLpqSFFK7aQWT.jpg", "actors": [], "comments": [], "recommandations_id": []}

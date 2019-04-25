@@ -1,1 +1,0 @@
-{"tmdb_id": 319282, "title": "Camera Makes Whoopee", "original_title": "Camera Makes Whoopee", "slug_title": "camera-makes-whoopee", "date": "1935-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z3QP5LCTGDvNhCfOEeNcWEShmfk.jpg", "actors": [], "comments": [], "recommandations_id": []}

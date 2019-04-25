@@ -1,1 +1,0 @@
-{"tmdb_id": 506488, "title": "Infrared Sightings", "original_title": "Infrared Sightings", "slug_title": "infrared-sightings", "date": "1995-01-01", "genre": "Musique / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Yfud8afMbIUxzURl7ZoptK9jZ9.jpg", "actors": [], "comments": [], "recommandations_id": []}

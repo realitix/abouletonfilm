@@ -1,1 +1,0 @@
-{"tmdb_id": 505019, "title": "Pet Friendly", "original_title": "Pet Friendly", "slug_title": "pet-friendly", "date": "2017-05-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Doug Silbert (Paul)", "Akasha Banks Villalobos (Alice)"], "comments": [], "recommandations_id": []}

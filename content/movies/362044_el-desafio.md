@@ -1,1 +1,0 @@
-{"tmdb_id": 362044, "title": "El desaf\u00edo", "original_title": "El desaf\u00edo", "slug_title": "el-desafio", "date": "2015-06-29", "genre": "Romance / Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2jRRMiyxmqqh0y0cZ76pEPhzWmQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

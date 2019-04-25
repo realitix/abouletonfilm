@@ -1,1 +1,0 @@
-{"tmdb_id": 332977, "title": "Angkor's Children", "original_title": "Angkor's Children", "slug_title": "angkor-s-children", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

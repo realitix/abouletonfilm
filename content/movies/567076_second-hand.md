@@ -1,1 +1,0 @@
-{"tmdb_id": 567076, "title": "Second Hand", "original_title": "Second Hand", "slug_title": "second-hand", "date": "1999-05-12", "genre": "Drame / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Katherine Phoeniz (Luara)"], "comments": [], "recommandations_id": []}

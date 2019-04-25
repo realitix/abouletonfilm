@@ -1,1 +1,0 @@
-{"tmdb_id": 357945, "title": "Striplife", "original_title": "Striplife", "slug_title": "striplife", "date": "2014-10-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

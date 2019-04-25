@@ -1,1 +1,0 @@
-{"tmdb_id": 134021, "title": "We Will Be Happy One Day", "original_title": "We Will Be Happy One Day", "slug_title": "we-will-be-happy-one-day", "date": "2012-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7jFseE0I3khNrr3KhSj3aAyBPMK.jpg", "actors": [], "comments": [], "recommandations_id": []}

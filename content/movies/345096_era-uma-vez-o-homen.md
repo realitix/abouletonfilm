@@ -1,1 +1,0 @@
-{"tmdb_id": 345096, "title": "Era Uma Vez ...O Homen", "original_title": "Era Uma Vez ...O Homen", "slug_title": "era-uma-vez-o-homen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

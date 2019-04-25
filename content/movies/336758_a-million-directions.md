@@ -1,1 +1,0 @@
-{"tmdb_id": 336758, "title": "A Million Directions", "original_title": "A Million Directions", "slug_title": "a-million-directions", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

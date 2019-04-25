@@ -1,1 +1,0 @@
-{"tmdb_id": 203466, "title": "The Beggar of No Equal", "original_title": "Kuan yue gui shao", "slug_title": "the-beggar-of-no-equal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

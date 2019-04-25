@@ -1,1 +1,0 @@
-{"tmdb_id": 514463, "title": "Mrs Right Guy", "original_title": "Mrs Right Guy", "slug_title": "mrs-right-guy", "date": "2016-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1twjyJ6FX8xwtarqUi6scoPw0RV.jpg", "actors": ["Dineo Moeketsi (Gugu)", "Lerato Moloi (Joe)"], "comments": [], "recommandations_id": []}

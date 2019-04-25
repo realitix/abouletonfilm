@@ -1,1 +1,0 @@
-{"tmdb_id": 140457, "title": "The Ancestress", "original_title": "Die Ahnfrau", "slug_title": "the-ancestress", "date": "1919-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9fP91J0xjFKiXCgnzR5cvU3pKwj.jpg", "actors": [], "comments": [], "recommandations_id": []}

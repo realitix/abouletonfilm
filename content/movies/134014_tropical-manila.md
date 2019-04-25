@@ -1,1 +1,0 @@
-{"tmdb_id": 134014, "title": "Tropical Manila", "original_title": "\ud2b8\ub85c\ud53c\uceec", "slug_title": "tropical-manila", "date": "2008-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rehrIk9GzLT2FG2PBbbY9p46L6B.jpg", "actors": ["Jerald de Vera ()", "Kim  Su-Nam ()"], "comments": [], "recommandations_id": []}

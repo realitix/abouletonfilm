@@ -1,1 +1,0 @@
-{"tmdb_id": 566193, "title": "A Trooper of Troop K", "original_title": "A Trooper of Troop K", "slug_title": "a-trooper-of-troop-k", "date": "1917-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

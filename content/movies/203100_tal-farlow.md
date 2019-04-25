@@ -1,1 +1,0 @@
-{"tmdb_id": 203100, "title": "Tal Farlow", "original_title": "Tal Farlow", "slug_title": "tal-farlow", "date": "1958-01-01", "genre": "", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vDmGZq4sodgHuDh2fqfM7Jl2J0j.jpg", "actors": [], "comments": [], "recommandations_id": [159245]}

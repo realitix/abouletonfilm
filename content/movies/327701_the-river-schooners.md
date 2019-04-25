@@ -1,1 +1,0 @@
-{"tmdb_id": 327701, "title": "The River Schooners", "original_title": "Les voitures d'eau", "slug_title": "the-river-schooners", "date": "1968-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qnpikuaV3Pqp09sAkx0TtxAQMhZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

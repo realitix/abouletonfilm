@@ -1,1 +1,0 @@
-{"tmdb_id": 312646, "title": "Kiss: Asylum of Death: Interviews", "original_title": "Kiss: Asylum of Death: Interviews", "slug_title": "kiss-asylum-of-death-interviews", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

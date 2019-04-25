@@ -1,1 +1,0 @@
-{"tmdb_id": 391533, "title": "Click Effect", "original_title": "Click Effect", "slug_title": "click-effect", "date": "2016-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/evFMZ5ttKSOvs91wjszPWhHAgU0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 287052, "title": "Cemetery", "original_title": "Cemetery", "slug_title": "cemetery", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fqo5w0xe6j9wxxHVImotkG0d9Nj.jpg", "actors": [], "comments": [], "recommandations_id": []}

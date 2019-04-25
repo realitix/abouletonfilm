@@ -1,1 +1,0 @@
-{"tmdb_id": 416957, "title": "Siembra Vida", "original_title": "Siembra Vida", "slug_title": "siembra-vida", "date": "2015-04-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ztjFnAk5PgRsAqaCJybLH6UC27.jpg", "actors": [], "comments": [], "recommandations_id": []}

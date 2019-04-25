@@ -1,1 +1,0 @@
-{"tmdb_id": 490906, "title": "Farewell to Yesterday", "original_title": "Farewell to Yesterday", "slug_title": "farewell-to-yesterday", "date": "1950-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

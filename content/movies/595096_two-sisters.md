@@ -1,1 +1,0 @@
-{"tmdb_id": 595096, "title": "Two Sisters", "original_title": "Deux Soeurs", "slug_title": "two-sisters", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 502726, "title": "The Island", "original_title": "Dos Islas", "slug_title": "the-island", "date": "2017-11-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rIiLVjjhQ80hdUguXsQMJzWbzri.jpg", "actors": [], "comments": [], "recommandations_id": []}

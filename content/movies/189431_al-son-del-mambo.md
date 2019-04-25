@@ -1,1 +1,0 @@
-{"tmdb_id": 189431, "title": "Al son del mambo", "original_title": "Al son del mambo", "slug_title": "al-son-del-mambo", "date": "1950-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kahjMDQ7Q4Pn9MUOFwyoGDq7hoq.jpg", "actors": [], "comments": [], "recommandations_id": []}

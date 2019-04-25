@@ -1,1 +1,0 @@
-{"tmdb_id": 566750, "title": "Circa Me", "original_title": "Circa Me", "slug_title": "circa-me", "date": "2002-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 211382, "title": "Ring Once for Death", "original_title": "Ring Once for Death", "slug_title": "ring-once-for-death", "date": "1973-12-06", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

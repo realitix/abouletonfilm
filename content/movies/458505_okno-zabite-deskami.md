@@ -1,1 +1,0 @@
-{"tmdb_id": 458505, "title": "Okno zabite deskami", "original_title": "Okno zabite deskami", "slug_title": "okno-zabite-deskami", "date": "1971-05-20", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J\u00f3zef Duriasz (Ojciec Murlock)", "Ewa Krzy\u017cewska (Anna)"], "comments": [], "recommandations_id": []}

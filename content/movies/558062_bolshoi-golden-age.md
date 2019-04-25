@@ -1,1 +1,0 @@
-{"tmdb_id": 558062, "title": "Bolshoi:  Golden Age", "original_title": "Bolshoi:  Golden Age", "slug_title": "bolshoi-golden-age", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pQpCVte6RO785yZpm8Yw04SZu3j.jpg", "actors": [], "comments": [], "recommandations_id": []}

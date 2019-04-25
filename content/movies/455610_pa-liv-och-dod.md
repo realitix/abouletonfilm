@@ -1,1 +1,0 @@
-{"tmdb_id": 455610, "title": "P\u00e5 liv och d\u00f6d", "original_title": "P\u00e5 liv och d\u00f6d", "slug_title": "pa-liv-och-dod", "date": "1943-07-16", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g3oSwRn2Xh8vbRswW3kTXLqsi2V.jpg", "actors": [], "comments": [], "recommandations_id": []}

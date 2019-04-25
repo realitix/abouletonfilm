@@ -1,1 +1,0 @@
-{"tmdb_id": 205238, "title": "Japanese Varieties", "original_title": "Japonaiseries", "slug_title": "japanese-varieties", "date": "1904-04-19", "genre": "Fantastique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/65WmKlan68aDyzbO63dWoKCwAcr.jpg", "actors": [], "comments": [], "recommandations_id": []}

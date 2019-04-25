@@ -1,1 +1,0 @@
-{"tmdb_id": 396538, "title": "Srazhenie", "original_title": "\u0421\u0440\u0430\u0436\u0435\u043d\u0438\u0435", "slug_title": "srazhenie", "date": "1986-02-04", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dfjPxavEXNzkBKnyJocLBkXpM5Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

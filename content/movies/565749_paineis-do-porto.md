@@ -1,1 +1,0 @@
-{"tmdb_id": 565749, "title": "Pain\u00e9is do Porto", "original_title": "Pain\u00e9is do Porto", "slug_title": "paineis-do-porto", "date": "1963-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

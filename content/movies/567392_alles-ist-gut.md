@@ -1,1 +1,0 @@
-{"tmdb_id": 567392, "title": "Alles ist gut", "original_title": "Alles ist gut", "slug_title": "alles-ist-gut", "date": "1985-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jVD9ZhJ3jQn1YkAcX9XYUTjD0d4.jpg", "actors": [], "comments": [], "recommandations_id": []}

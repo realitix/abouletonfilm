@@ -1,1 +1,0 @@
-{"tmdb_id": 270594, "title": "101 Modern LA Vampires", "original_title": "101 Modern LA Vampires", "slug_title": "101-modern-la-vampires", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

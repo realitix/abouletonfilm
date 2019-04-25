@@ -1,1 +1,0 @@
-{"tmdb_id": 401956, "title": "Line of Fire", "original_title": "Line of Fire", "slug_title": "line-of-fire", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qHPLu9Rug7T6uIoYbWq9qxueKEx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 541301, "title": "September", "original_title": "9\uc6d4", "slug_title": "september", "date": "2017-09-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ooUdstFTPS46m7kQD3H8pXuNLB5.jpg", "actors": [], "comments": [], "recommandations_id": []}

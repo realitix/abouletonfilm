@@ -1,1 +1,0 @@
-{"tmdb_id": 539277, "title": "Educate Girls", "original_title": "Educate Girls", "slug_title": "educate-girls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jT0jBLRX3a0H5jBGiPtfZJgd2Ci.jpg", "actors": [], "comments": [], "recommandations_id": []}

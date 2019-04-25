@@ -1,1 +1,0 @@
-{"tmdb_id": 210789, "title": "Badfish", "original_title": "Badfish", "slug_title": "badfish", "date": "2010-04-17", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jen Kidwell (Jen)", "Ryan McKee (Ryan)", "Kevin Polowy (Kevin)"], "comments": [], "recommandations_id": []}

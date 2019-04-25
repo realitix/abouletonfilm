@@ -1,1 +1,0 @@
-{"tmdb_id": 343049, "title": "Popp and Mingel", "original_title": "Popp und Mingel", "slug_title": "popp-and-mingel", "date": "1975-07-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Neuhaus (Vater von Patrick)"], "comments": [], "recommandations_id": []}

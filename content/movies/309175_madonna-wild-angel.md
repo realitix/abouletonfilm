@@ -1,1 +1,0 @@
-{"tmdb_id": 309175, "title": "Madonna: Wild Angel", "original_title": "Madonna: Wild Angel", "slug_title": "madonna-wild-angel", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

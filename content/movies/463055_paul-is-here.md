@@ -1,1 +1,0 @@
-{"tmdb_id": 463055, "title": "Paul Is Here", "original_title": "Paul est l\u00e0", "slug_title": "paul-is-here", "date": "2017-05-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4bUYunRdgtyxgq0ZJlGe4eX1M4b.jpg", "actors": ["Sarah Lef\u00e9vre ()", "Bart Cambier ()"], "comments": [], "recommandations_id": []}

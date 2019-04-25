@@ -1,1 +1,0 @@
-{"tmdb_id": 567683, "title": "Kenya: Until Hope is Found", "original_title": "Kenya: Until Hope is Found", "slug_title": "kenya-until-hope-is-found", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

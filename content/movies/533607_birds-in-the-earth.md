@@ -1,1 +1,0 @@
-{"tmdb_id": 533607, "title": "Birds in the Earth", "original_title": "Eatnanvulos lottit - Maan sis\u00e4ll\u00e4 linnut", "slug_title": "birds-in-the-earth", "date": "2018-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sxjG9Qz48aDqROVqAP9b7jSV4xs.jpg", "actors": [], "comments": [], "recommandations_id": []}

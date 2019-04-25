@@ -1,1 +1,0 @@
-{"tmdb_id": 368923, "title": "The Driver", "original_title": "The Driver", "slug_title": "the-driver", "date": "2014-11-16", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Julian Bane ()", "Alicia Hardesty ()", "Dennis Nicomede ()"], "comments": [], "recommandations_id": []}

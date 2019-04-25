@@ -1,1 +1,1 @@
-{"tmdb_id": 546572, "title": "kingsmen", "original_title": "kingsmen", "slug_title": "kingsmen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 546572, "title": "kingsmen", "original_title": "kingsmen", "slug_title": "kingsmen", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "The movie is so much interesting and cool to watch", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

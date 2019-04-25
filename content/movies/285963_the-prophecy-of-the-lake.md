@@ -1,1 +1,0 @@
-{"tmdb_id": 285963, "title": "The Prophecy of the Lake", "original_title": "La profec\u00eda del lago", "slug_title": "the-prophecy-of-the-lake", "date": "1925-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

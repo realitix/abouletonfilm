@@ -1,1 +1,0 @@
-{"tmdb_id": 494551, "title": "Catalogue Vol. 6", "original_title": "Catalogue Vol. 6", "slug_title": "catalogue-vol-6", "date": "2016-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vKeR6UNrMUhUc0ETCy2IVLN6xIj.jpg", "actors": [], "comments": [], "recommandations_id": []}

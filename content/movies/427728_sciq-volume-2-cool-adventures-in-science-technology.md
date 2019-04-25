@@ -1,1 +1,0 @@
-{"tmdb_id": 427728, "title": "SciQ Volume 2: Cool Adventures in Science & Technology", "original_title": "SciQ Volume 2: Cool Adventures in Science & Technology", "slug_title": "sciq-volume-2-cool-adventures-in-science-technology", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

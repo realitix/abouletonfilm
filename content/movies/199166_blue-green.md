@@ -1,1 +1,0 @@
-{"tmdb_id": 199166, "title": "Blue Green", "original_title": "Blue Green", "slug_title": "blue-green", "date": "2007-08-20", "genre": "", "score": "7.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oIvmjjHR9u6TqJATReH9GDweVnX.jpg", "actors": [], "comments": [], "recommandations_id": [375247, 24007, 210833, 201199]}

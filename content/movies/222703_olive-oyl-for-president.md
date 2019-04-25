@@ -1,1 +1,0 @@
-{"tmdb_id": 222703, "title": "Olive Oyl for President", "original_title": "Olive Oyl for President", "slug_title": "olive-oyl-for-president", "date": "1948-01-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

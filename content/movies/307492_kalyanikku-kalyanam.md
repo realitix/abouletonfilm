@@ -1,1 +1,0 @@
-{"tmdb_id": 307492, "title": "Kalyanikku Kalyanam", "original_title": "Kalyanikku Kalyanam", "slug_title": "kalyanikku-kalyanam", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

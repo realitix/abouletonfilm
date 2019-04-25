@@ -1,1 +1,0 @@
-{"tmdb_id": 589994, "title": "Hantu Blurey", "original_title": "Hantu Blurey", "slug_title": "hantu-blurey", "date": "2015-07-26", "genre": "Horreur / Com\u00e9die / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Beto Kusyairy ()", "Johan Raja Lawak ()", "ozlynn wati ()"], "comments": [], "recommandations_id": []}

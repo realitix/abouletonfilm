@@ -1,1 +1,0 @@
-{"tmdb_id": 589075, "title": "Everbody Glad in Trinidad", "original_title": "Everbody Glad in Trinidad", "slug_title": "everbody-glad-in-trinidad", "date": "1996-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

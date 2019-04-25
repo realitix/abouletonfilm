@@ -1,1 +1,0 @@
-{"tmdb_id": 586098, "title": "Kin Kontempo", "original_title": "Kin Kontempo", "slug_title": "kin-kontempo", "date": "2015-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

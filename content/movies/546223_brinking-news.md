@@ -1,1 +1,0 @@
-{"tmdb_id": 546223, "title": "Brinking News", "original_title": "Brinking News", "slug_title": "brinking-news", "date": "2018-05-11", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xBw07ABwJOingOElXA4Z3YEUvUq.jpg", "actors": [], "comments": [], "recommandations_id": []}

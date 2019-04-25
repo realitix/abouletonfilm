@@ -1,1 +1,0 @@
-{"tmdb_id": 541618, "title": "Mission: Impossible vs. the Mob", "original_title": "Mission: Impossible vs. the Mob", "slug_title": "mission-impossible-vs-the-mob", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

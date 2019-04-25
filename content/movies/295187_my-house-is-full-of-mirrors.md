@@ -1,1 +1,0 @@
-{"tmdb_id": 295187, "title": "My House is Full of Mirrors", "original_title": "My House is Full of Mirrors", "slug_title": "my-house-is-full-of-mirrors", "date": "2010-03-14", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

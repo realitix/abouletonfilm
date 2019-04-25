@@ -1,1 +1,0 @@
-{"tmdb_id": 313257, "title": "Eye of the Storm", "original_title": "Eye of the Storm", "slug_title": "eye-of-the-storm", "date": "1970-12-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h8cRw9ekCwz7HbtZuPtTgPgCuM8.jpg", "actors": ["Jane Elliott ()"], "comments": [], "recommandations_id": []}

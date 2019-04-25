@@ -1,1 +1,0 @@
-{"tmdb_id": 496956, "title": "Na stoj\u00e1ka - Volume 2", "original_title": "Na stoj\u00e1ka - Volume 2", "slug_title": "na-stojaka-volume-2", "date": "2008-01-07", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

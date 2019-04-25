@@ -1,1 +1,0 @@
-{"tmdb_id": 538367, "title": "Saskin Hafiye Kilink'e karsi", "original_title": "Saskin Hafiye Kilink'e karsi", "slug_title": "saskin-hafiye-kilink-e-karsi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lDbkHGp7avdVhvLdNdUrJDPfEPC.jpg", "actors": [], "comments": [], "recommandations_id": []}

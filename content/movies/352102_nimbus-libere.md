@@ -1,1 +1,0 @@
-{"tmdb_id": 352102, "title": "Nimbus lib\u00e9r\u00e9", "original_title": "Nimbus lib\u00e9r\u00e9", "slug_title": "nimbus-libere", "date": "1944-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ociaNqRWDwm2eokyFkCydBi4yLV.jpg", "actors": [], "comments": [], "recommandations_id": []}

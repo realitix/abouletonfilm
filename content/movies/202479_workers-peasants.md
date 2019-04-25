@@ -1,1 +1,0 @@
-{"tmdb_id": 202479, "title": "Workers, Peasants", "original_title": "Operai, contadini", "slug_title": "workers-peasants", "date": "2001-09-30", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ns4s9AbwoQ3RK6pYT9vx3vCxyFj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 462685, "title": "ULTRA IV", "original_title": "ULTRA IV", "slug_title": "ultra-iv", "date": "1982-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d28sqY8C0MGmSLuPfzOYpoGQ3v5.jpg", "actors": [], "comments": [], "recommandations_id": []}

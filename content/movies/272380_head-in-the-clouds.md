@@ -1,1 +1,0 @@
-{"tmdb_id": 272380, "title": "Head in the Clouds", "original_title": "La t\u00eate dans les nuages", "slug_title": "head-in-the-clouds", "date": "1994-01-02", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5diRinTS8SIHnVHGFDT3OiYjZxc.jpg", "actors": [], "comments": [], "recommandations_id": []}

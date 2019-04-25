@@ -1,1 +1,0 @@
-{"tmdb_id": 555256, "title": "The Earth", "original_title": "The Earth", "slug_title": "the-earth", "date": "2017-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

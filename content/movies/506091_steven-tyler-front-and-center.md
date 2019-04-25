@@ -1,1 +1,0 @@
-{"tmdb_id": 506091, "title": "Steven Tyler \u200e\u2013 Front And Center", "original_title": "Steven Tyler \u200e\u2013 Front And Center", "slug_title": "steven-tyler-front-and-center", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 564903, "title": "Levenslang Ziek", "original_title": "Levenslang Ziek", "slug_title": "levenslang-ziek", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

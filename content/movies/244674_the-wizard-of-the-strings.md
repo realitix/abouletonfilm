@@ -1,1 +1,0 @@
-{"tmdb_id": 244674, "title": "The Wizard of the Strings", "original_title": "The Wizard of the Strings", "slug_title": "the-wizard-of-the-strings", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mNVKb3eEeIJRtCtgT67FCYWUet7.jpg", "actors": [], "comments": [], "recommandations_id": []}

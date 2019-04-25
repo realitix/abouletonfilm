@@ -1,1 +1,0 @@
-{"tmdb_id": 430900, "title": "Gold Diggers", "original_title": "Gold Diggers", "slug_title": "gold-diggers", "date": "1985-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jCIW2V2YJFAXWUUYzT8jIZ6Kh5s.jpg", "actors": ["Bunny Bleu ()", "Jessica Wylde ()", "Misty Regan ()"], "comments": [], "recommandations_id": []}

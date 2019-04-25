@@ -1,1 +1,0 @@
-{"tmdb_id": 270040, "title": "Manu Neethi", "original_title": "Manu Neethi", "slug_title": "manu-neethi", "date": "2000-12-23", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Napoleon ()", "Nassar ()", "Murali ()", "Vadivelu ()", "Prathyusha ()", "Anjani Thakker ()"], "comments": [], "recommandations_id": []}

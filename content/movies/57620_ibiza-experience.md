@@ -1,1 +1,0 @@
-{"tmdb_id": 57620, "title": "Ibiza Experience", "original_title": "Ibiza Experience", "slug_title": "ibiza-experience", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ej0zStDZh8Rv6dD6MXSVvwRHtJh.jpg", "actors": [], "comments": [], "recommandations_id": []}

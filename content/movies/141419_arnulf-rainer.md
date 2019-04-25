@@ -1,1 +1,0 @@
-{"tmdb_id": 141419, "title": "Arnulf Rainer", "original_title": "Arnulf Rainer", "slug_title": "arnulf-rainer", "date": "1960-12-31", "genre": "", "score": "4.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kquqe45ayXH95O4J5IyLcgmLkc5.jpg", "actors": [], "comments": [], "recommandations_id": [144886, 109398, 97514, 130314]}

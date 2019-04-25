@@ -1,1 +1,0 @@
-{"tmdb_id": 283685, "title": "A Fisherman's Love Story", "original_title": "A Fisherman's Love Story", "slug_title": "a-fisherman-s-love-story", "date": "1912-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hay Plumb ()", "Gladys Sylvani ()"], "comments": [], "recommandations_id": []}

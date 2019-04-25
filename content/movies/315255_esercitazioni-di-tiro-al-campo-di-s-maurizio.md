@@ -1,1 +1,0 @@
-{"tmdb_id": 315255, "title": "Esercitazioni di tiro al campo di S. Maurizio", "original_title": "Esercitazioni di tiro al campo di S. Maurizio", "slug_title": "esercitazioni-di-tiro-al-campo-di-s-maurizio", "date": "1914-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

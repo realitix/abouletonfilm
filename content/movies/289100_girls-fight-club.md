@@ -1,1 +1,0 @@
-{"tmdb_id": 289100, "title": "Girls Fight Club", "original_title": "Girls Fight Club", "slug_title": "girls-fight-club", "date": "2009-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

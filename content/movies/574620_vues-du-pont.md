@@ -1,1 +1,0 @@
-{"tmdb_id": 574620, "title": "Vues du pont", "original_title": "Vues du pont", "slug_title": "vues-du-pont", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un film de Jakobois", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

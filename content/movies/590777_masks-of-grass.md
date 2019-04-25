@@ -1,1 +1,0 @@
-{"tmdb_id": 590777, "title": "Masks Of Grass", "original_title": "Masks Of Grass", "slug_title": "masks-of-grass", "date": "", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pS1n51LCOXBIVe1mkQXBd2sVnEy.jpg", "actors": [], "comments": [], "recommandations_id": []}

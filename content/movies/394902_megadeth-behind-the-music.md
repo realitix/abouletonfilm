@@ -1,1 +1,0 @@
-{"tmdb_id": 394902, "title": "Megadeth: Behind the Music", "original_title": "Megadeth: Behind the Music", "slug_title": "megadeth-behind-the-music", "date": "2001-10-16", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lKSOaC82sAij4QzoRcopYIO3SI5.jpg", "actors": [], "comments": [], "recommandations_id": []}

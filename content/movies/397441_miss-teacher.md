@@ -1,1 +1,0 @@
-{"tmdb_id": 397441, "title": "Miss Teacher", "original_title": "Miss Teacher", "slug_title": "miss-teacher", "date": "2016-03-18", "genre": "Romance", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tehrgoS7BBYZgpgNtO7JDUlU60G.jpg", "actors": ["Kamalika Chanda ()", "Mustaq Khan ()"], "comments": [], "recommandations_id": []}

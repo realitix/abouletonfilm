@@ -1,1 +1,0 @@
-{"tmdb_id": 572100, "title": "Bittin Sen", "original_title": "Bittin Sen", "slug_title": "bittin-sen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

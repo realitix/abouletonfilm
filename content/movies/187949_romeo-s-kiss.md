@@ -1,1 +1,0 @@
-{"tmdb_id": 187949, "title": "Romeo's Kiss", "original_title": "Romeo's Kiss", "slug_title": "romeo-s-kiss", "date": "2007-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/44gcZg06K6faR47Jym616AWGtl3.jpg", "actors": [], "comments": [], "recommandations_id": []}

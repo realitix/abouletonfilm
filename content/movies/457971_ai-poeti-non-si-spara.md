@@ -1,1 +1,0 @@
-{"tmdb_id": 457971, "title": "Ai poeti non si spara", "original_title": "Ai poeti non si spara", "slug_title": "ai-poeti-non-si-spara", "date": "1965-01-19", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wWxfcxvmh2gXElfZqDZ5Uo1ie7G.jpg", "actors": [], "comments": [], "recommandations_id": []}

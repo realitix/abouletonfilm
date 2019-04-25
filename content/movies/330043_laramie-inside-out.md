@@ -1,1 +1,0 @@
-{"tmdb_id": 330043, "title": "Laramie Inside Out", "original_title": "Laramie Inside Out", "slug_title": "laramie-inside-out", "date": "2004-06-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j6mg57ETRtSvyzY2e8le1wGWwVm.jpg", "actors": ["Fred Phelps (Himself)"], "comments": [], "recommandations_id": []}

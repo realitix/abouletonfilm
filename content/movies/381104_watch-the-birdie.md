@@ -1,1 +1,0 @@
-{"tmdb_id": 381104, "title": "Watch the Birdie", "original_title": "Watch the Birdie", "slug_title": "watch-the-birdie", "date": "1975-03-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Holt (Dogfather / Pug (voice))", "Frank Welker (Charlie the Singer (voice))"], "comments": [], "recommandations_id": []}

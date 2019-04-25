@@ -1,1 +1,0 @@
-{"tmdb_id": 353451, "title": "Appreciating Your Parents", "original_title": "Appreciating Your Parents", "slug_title": "appreciating-your-parents", "date": "1950-01-01", "genre": "Drame / Documentaire", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Skip Peshak (Tommy)", "Skip Peshak (Tommy)"], "comments": [], "recommandations_id": []}

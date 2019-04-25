@@ -1,1 +1,0 @@
-{"tmdb_id": 343845, "title": "Ford Transit", "original_title": "Ford Transit", "slug_title": "ford-transit", "date": "2003-03-30", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6DWcWo0EZcjnqvC7A9iwKAcNphw.jpg", "actors": ["Rajai (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 302942, "title": "Heavy Metal Horror", "original_title": "Heavy Metal Horror", "slug_title": "heavy-metal-horror", "date": "2014-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x6L0FRaudoKejktItpJovqk2JN7.jpg", "actors": [], "comments": [], "recommandations_id": []}

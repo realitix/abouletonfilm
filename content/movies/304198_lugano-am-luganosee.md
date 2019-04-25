@@ -1,1 +1,0 @@
-{"tmdb_id": 304198, "title": "Lugano am Luganosee", "original_title": "Lugano am Luganosee", "slug_title": "lugano-am-luganosee", "date": "1914-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

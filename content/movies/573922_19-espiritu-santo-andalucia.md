@@ -1,1 +1,0 @@
-{"tmdb_id": 573922, "title": "19, Esp\u00edritu Santo (Andaluc\u00eda)", "original_title": "19, Esp\u00edritu Santo (Andaluc\u00eda)", "slug_title": "19-espiritu-santo-andalucia", "date": "2010-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

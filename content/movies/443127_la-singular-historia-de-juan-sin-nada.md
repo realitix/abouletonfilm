@@ -1,1 +1,0 @@
-{"tmdb_id": 443127, "title": "La Singular Historia de Juan sin Nada", "original_title": "La Singular Historia de Juan sin Nada", "slug_title": "la-singular-historia-de-juan-sin-nada", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

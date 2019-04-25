@@ -1,1 +1,0 @@
-{"tmdb_id": 230949, "title": "Dol: The Valley of Tambourines", "original_title": "Dol", "slug_title": "dol-the-valley-of-tambourines", "date": "2007-10-18", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hFn6SVc7zhy2YqCWjb1VH6tYjcd.jpg", "actors": [], "comments": [], "recommandations_id": []}

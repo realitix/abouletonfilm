@@ -1,1 +1,0 @@
-{"tmdb_id": 353612, "title": "\u00d6sz\u00f6dik Pecs\u00e9t", "original_title": "\u00d6sz\u00f6dik Pecs\u00e9t", "slug_title": "oszodik-pecset", "date": "2007-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

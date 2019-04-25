@@ -1,1 +1,0 @@
-{"tmdb_id": 579318, "title": "Skin Deep Part 1", "original_title": "Skin Deep Part 1", "slug_title": "skin-deep-part-1", "date": "2008-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3kzktCIidEPHP0cOjBIvmhoTXf9.jpg", "actors": [], "comments": [], "recommandations_id": []}

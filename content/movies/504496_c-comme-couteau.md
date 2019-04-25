@@ -1,1 +1,0 @@
-{"tmdb_id": 504496, "title": "C comme couteau", "original_title": "C comme couteau", "slug_title": "c-comme-couteau", "date": "2014-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ferdinand Milon (Antonin)", "Anamaria Vartolomei (Bianca)"], "comments": [], "recommandations_id": []}

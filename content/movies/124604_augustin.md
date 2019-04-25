@@ -1,1 +1,0 @@
-{"tmdb_id": 124604, "title": "Augustin", "original_title": "Augustin", "slug_title": "augustin", "date": "1995-06-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p72DonhxhaaR0MtcTowKjgZEjLO.jpg", "actors": [], "comments": [], "recommandations_id": []}

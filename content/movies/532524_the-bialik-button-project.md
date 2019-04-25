@@ -1,1 +1,0 @@
-{"tmdb_id": 532524, "title": "The Bialik Button Project", "original_title": "The Bialik Button Project", "slug_title": "the-bialik-button-project", "date": "2017-11-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

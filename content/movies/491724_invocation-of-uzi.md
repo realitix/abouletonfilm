@@ -1,1 +1,0 @@
-{"tmdb_id": 491724, "title": "Invocation of Uzi", "original_title": "Invocation of Uzi", "slug_title": "invocation-of-uzi", "date": "2014-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ak127WytYYHZVw6OtU2220LlrBE.jpg", "actors": [], "comments": [], "recommandations_id": []}

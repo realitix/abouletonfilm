@@ -1,1 +1,0 @@
-{"tmdb_id": 536284, "title": "An Englishman's Trip to Paris from London", "original_title": "An Englishman's Trip to Paris from London", "slug_title": "an-englishman-s-trip-to-paris-from-london", "date": "1904-10-28", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 357535, "title": "De Verlossing", "original_title": "De Verlossing", "slug_title": "de-verlossing", "date": "2001-11-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jan Decleir (Oscar)", "Gilda De Bal (Magda)", "Peter van den Begin (Johnny)"], "comments": [], "recommandations_id": []}

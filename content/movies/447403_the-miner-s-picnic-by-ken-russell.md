@@ -1,1 +1,0 @@
-{"tmdb_id": 447403, "title": "The Miner's Picnic by Ken Russell", "original_title": "The Miner's Picnic by Ken Russell", "slug_title": "the-miner-s-picnic-by-ken-russell", "date": "2005-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

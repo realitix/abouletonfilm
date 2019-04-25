@@ -1,1 +1,0 @@
-{"tmdb_id": 549035, "title": "A Guide to Indulgence", "original_title": "A Guide to Indulgence", "slug_title": "a-guide-to-indulgence", "date": "2017-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fQNIJqwidIJXkIFoxRu6PjoVGdz.jpg", "actors": [], "comments": [], "recommandations_id": []}

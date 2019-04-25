@@ -1,1 +1,0 @@
-{"tmdb_id": 511788, "title": "Winston Tong en studio", "original_title": "Winston Tong en studio", "slug_title": "winston-tong-en-studio", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jL1t9ZlHv6brRjleyjayKdWRTDZ.jpg", "actors": ["Winston Tong (Himself)"], "comments": [], "recommandations_id": []}

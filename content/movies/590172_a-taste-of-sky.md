@@ -1,1 +1,0 @@
-{"tmdb_id": 590172, "title": "A Taste of Sky", "original_title": "A Taste of Sky", "slug_title": "a-taste-of-sky", "date": "2019-03-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wXECADsQBzrgV64wadAHFfrNTh.jpg", "actors": ["Claus Meyer (Himself)"], "comments": [], "recommandations_id": []}

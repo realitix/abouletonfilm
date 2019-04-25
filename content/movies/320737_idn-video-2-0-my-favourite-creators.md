@@ -1,1 +1,0 @@
-{"tmdb_id": 320737, "title": "IdN Video 2.0: My Favourite Creators!", "original_title": "IdN Video 2.0: My Favourite Creators!", "slug_title": "idn-video-2-0-my-favourite-creators", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 483013, "title": "Searching for Hassan", "original_title": "Searching for Hassan", "slug_title": "searching-for-hassan", "date": "2009-10-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bakhtiyar Haddad (Himself)", "Marco la Via (Himself)"], "comments": [], "recommandations_id": []}

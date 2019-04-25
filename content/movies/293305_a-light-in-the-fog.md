@@ -1,1 +1,0 @@
-{"tmdb_id": 293305, "title": "A Light in the Fog", "original_title": "Cheraghi dar meh", "slug_title": "a-light-in-the-fog", "date": "2008-01-01", "genre": "Drame", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5mCwfGwDr3ECxyrIV21Fg1yHPdx.jpg", "actors": [], "comments": [], "recommandations_id": []}

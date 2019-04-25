@@ -1,1 +1,0 @@
-{"tmdb_id": 561524, "title": "L'irr\u00e9sistible Catherine", "original_title": "L'irr\u00e9sistible Catherine", "slug_title": "l-irresistible-catherine", "date": "1957-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pdZSjv0buUBNtgW141KF2HhdrA8.jpg", "actors": [], "comments": [], "recommandations_id": []}

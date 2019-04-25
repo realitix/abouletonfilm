@@ -1,1 +1,0 @@
-{"tmdb_id": 559184, "title": "The Scarlet Bazaar", "original_title": "La kermesse rouge", "slug_title": "the-scarlet-bazaar", "date": "1947-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yLXuEJasCyLYhWzX63ZfaiSyKXM.jpg", "actors": [], "comments": [], "recommandations_id": []}

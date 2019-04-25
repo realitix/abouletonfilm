@@ -1,1 +1,0 @@
-{"tmdb_id": 498889, "title": "Secret Life of the Human Pups", "original_title": "Secret Life of the Human Pups", "slug_title": "secret-life-of-the-human-pups", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yA0EzIX36mailIulnRnJ13fcmuK.jpg", "actors": [], "comments": [], "recommandations_id": []}

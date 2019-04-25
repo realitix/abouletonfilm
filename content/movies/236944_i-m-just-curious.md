@@ -1,1 +1,0 @@
-{"tmdb_id": 236944, "title": "I'm Just Curious", "original_title": "I'm Just Curious", "slug_title": "i-m-just-curious", "date": "1944-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

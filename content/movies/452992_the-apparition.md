@@ -1,1 +1,0 @@
-{"tmdb_id": 452992, "title": "The Apparition", "original_title": "The Apparition", "slug_title": "the-apparition", "date": "1976-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

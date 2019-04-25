@@ -1,1 +1,0 @@
-{"tmdb_id": 467446, "title": "The Transformation", "original_title": "The Transformation", "slug_title": "the-transformation", "date": "1996-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o8UsYKcln3LuWDCjxEAmBW1heJf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 245793, "title": "Sabado de mierda", "original_title": "Sabado de mierda", "slug_title": "sabado-de-mierda", "date": "1988-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iYlloszyAEtFc5u7cdgBIFBKkb7.jpg", "actors": [], "comments": [], "recommandations_id": []}

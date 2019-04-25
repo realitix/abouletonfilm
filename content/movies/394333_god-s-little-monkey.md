@@ -1,1 +1,0 @@
-{"tmdb_id": 394333, "title": "God's Little Monkey", "original_title": "God's Little Monkey", "slug_title": "god-s-little-monkey", "date": "1994-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wjLmp1GxETMsfeSEsmk7x0Gd7tJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

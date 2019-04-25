@@ -1,1 +1,0 @@
-{"tmdb_id": 494162, "title": "Bakula Namdev Ghotale", "original_title": "Bakula Namdev Ghotale", "slug_title": "bakula-namdev-ghotale", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

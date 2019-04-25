@@ -1,1 +1,0 @@
-{"tmdb_id": 390026, "title": "Days of Dreams", "original_title": "Dani od snova", "slug_title": "days-of-dreams", "date": "1980-03-26", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/96EKbrOBt2YK2LfWqD2bhw7iYFN.jpg", "actors": [], "comments": [], "recommandations_id": []}

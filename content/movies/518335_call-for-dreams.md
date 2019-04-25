@@ -1,1 +1,0 @@
-{"tmdb_id": 518335, "title": "Call for Dreams", "original_title": "Call for Dreams", "slug_title": "call-for-dreams", "date": "2018-05-04", "genre": "Crime / Drame / Myst\u00e8re / Thriller", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ohh1tVPHLXQNrWjc7ReMSNgSFp9.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 301244, "title": "La caza de los terroristas de Boston", "original_title": "La caza de los terroristas de Boston", "slug_title": "la-caza-de-los-terroristas-de-boston", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

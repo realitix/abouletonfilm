@@ -1,1 +1,0 @@
-{"tmdb_id": 556840, "title": "Bone Mother", "original_title": "Bone Mother", "slug_title": "bone-mother", "date": "2018-10-14", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i6UpjPlvsMRiqGA9Bz5fiAxG3aT.jpg", "actors": ["Rafael Petardi (Vlad)"], "comments": [], "recommandations_id": []}

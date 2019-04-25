@@ -1,1 +1,0 @@
-{"tmdb_id": 82561, "title": "Dolf Jansen: Altijd Verder", "original_title": "Dolf Jansen: Altijd Verder", "slug_title": "dolf-jansen-altijd-verder", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h2QwalBjG7FE9ZVAdG37GbxCyY4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 535536, "title": "Prelude to the Murder of a Prison Guard", "original_title": "Mi sh\u016bgoroshi no jokyoko", "slug_title": "prelude-to-the-murder-of-a-prison-guard", "date": "1979-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 596584, "title": "Drum Tips Part 1", "original_title": "Drum Tips Part 1", "slug_title": "drum-tips-part-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/unpC9PBwUQYIRZkeVtKsqk3mK79.jpg", "actors": [], "comments": [], "recommandations_id": []}

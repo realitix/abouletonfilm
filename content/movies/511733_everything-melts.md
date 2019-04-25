@@ -1,1 +1,0 @@
-{"tmdb_id": 511733, "title": "Everything Melts", "original_title": "Everything Melts", "slug_title": "everything-melts", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6zWJx0aIW2CebT51mJNlBCgEjeN.jpg", "actors": [], "comments": [], "recommandations_id": []}

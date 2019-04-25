@@ -1,1 +1,0 @@
-{"tmdb_id": 364167, "title": "Thresholds", "original_title": "Umbrales", "slug_title": "thresholds", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

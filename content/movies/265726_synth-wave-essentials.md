@@ -1,1 +1,0 @@
-{"tmdb_id": 265726, "title": "Synth & Wave Essentials", "original_title": "Synth & Wave Essentials", "slug_title": "synth-wave-essentials", "date": "2005-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a7d7L4zt8HKdAEb0pKK9NAuunG4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 366269, "title": "Satan Lives", "original_title": "Satan Lives", "slug_title": "satan-lives", "date": "2015-10-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o24gIUsRUogMqMR1YdA36hredvs.jpg", "actors": ["Zeena Schreck (Herself)"], "comments": [], "recommandations_id": []}

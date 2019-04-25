@@ -1,1 +1,0 @@
-{"tmdb_id": 201408, "title": "The Learning", "original_title": "The Learning", "slug_title": "the-learning", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vsobQjYf0r0OfpEkRjlpIB20eI7.jpg", "actors": [], "comments": [], "recommandations_id": []}

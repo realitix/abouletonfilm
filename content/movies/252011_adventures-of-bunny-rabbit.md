@@ -1,1 +1,0 @@
-{"tmdb_id": 252011, "title": "Adventures of Bunny Rabbit", "original_title": "Adventures of Bunny Rabbit", "slug_title": "adventures-of-bunny-rabbit", "date": "1937-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

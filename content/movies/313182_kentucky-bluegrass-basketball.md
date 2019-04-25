@@ -1,1 +1,0 @@
-{"tmdb_id": 313182, "title": "Kentucky Bluegrass Basketball", "original_title": "Kentucky Bluegrass Basketball", "slug_title": "kentucky-bluegrass-basketball", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

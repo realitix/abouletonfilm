@@ -1,1 +1,0 @@
-{"tmdb_id": 285417, "title": "Naya Sansar", "original_title": "Naya Sansar", "slug_title": "naya-sansar", "date": "1941-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Renuka Devi ()", "Mubarak ()", "Ashok Kumar ()"], "comments": [], "recommandations_id": []}

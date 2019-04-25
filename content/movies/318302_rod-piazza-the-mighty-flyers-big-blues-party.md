@@ -1,1 +1,0 @@
-{"tmdb_id": 318302, "title": "Rod Piazza & the Mighty Flyers: Big Blues Party", "original_title": "Rod Piazza & the Mighty Flyers: Big Blues Party", "slug_title": "rod-piazza-the-mighty-flyers-big-blues-party", "date": "2005-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

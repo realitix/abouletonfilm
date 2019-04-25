@@ -1,1 +1,0 @@
-{"tmdb_id": 457058, "title": "One two bato three four bapor", "original_title": "One two bato three four bapor", "slug_title": "one-two-bato-three-four-bapor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

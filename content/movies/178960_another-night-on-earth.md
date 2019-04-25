@@ -1,1 +1,0 @@
-{"tmdb_id": 178960, "title": "Another Night on Earth", "original_title": "Otra noche en la Tierra", "slug_title": "another-night-on-earth", "date": "2012-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ljQjG3F8GGAN6NJgMdjfOedOkvq.jpg", "actors": [], "comments": [], "recommandations_id": []}

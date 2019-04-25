@@ -1,1 +1,0 @@
-{"tmdb_id": 277235, "title": "Forward 13: Waking Up The American Dream", "original_title": "Forward 13: Waking Up The American Dream", "slug_title": "forward-13-waking-up-the-american-dream", "date": "2014-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 297661, "title": "Single Bars, Single Women", "original_title": "Single Bars, Single Women", "slug_title": "single-bars-single-women", "date": "1984-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b4HX1YxQdfKugMZPM86uZdbDrL0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 484027, "title": "Smugglers Beware", "original_title": "Smugglers Beware", "slug_title": "smugglers-beware", "date": "1938-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 415672, "title": "Horror in the Wax Museum", "original_title": "Horror en el museo de cera", "slug_title": "horror-in-the-wax-museum", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Naschy ()", "Lorenzo Valverde ()", "Marta Valverde ()"], "comments": [], "recommandations_id": []}

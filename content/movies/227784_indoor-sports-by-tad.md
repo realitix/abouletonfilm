@@ -1,1 +1,0 @@
-{"tmdb_id": 227784, "title": "Indoor Sports by Tad", "original_title": "Indoor Sports by Tad", "slug_title": "indoor-sports-by-tad", "date": "1920-10-13", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

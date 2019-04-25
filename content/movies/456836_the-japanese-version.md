@@ -1,1 +1,0 @@
-{"tmdb_id": 456836, "title": "The Japanese Version", "original_title": "The Japanese Version", "slug_title": "the-japanese-version", "date": "1991-02-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3sM64gWh4h6Z6Sgt9GJ4VDsDb6N.jpg", "actors": [], "comments": [], "recommandations_id": []}

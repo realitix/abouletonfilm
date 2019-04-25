@@ -1,1 +1,0 @@
-{"tmdb_id": 523076, "title": "Ouvidos Calados", "original_title": "Ouvidos Calados", "slug_title": "ouvidos-calados", "date": "2018-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lNwuPpVs7mUZVYnicxG8NhBddhB.jpg", "actors": [], "comments": [], "recommandations_id": []}

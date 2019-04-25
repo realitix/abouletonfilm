@@ -1,1 +1,0 @@
-{"tmdb_id": 62588, "title": "Top Guns - Attack Aircraft", "original_title": "Top Guns - Attack Aircraft", "slug_title": "top-guns-attack-aircraft", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gA8JYolAfEeQeZE6F6EP8szdjs3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 462900, "title": "Cannabis: Britain's Secret Farms", "original_title": "Cannabis: Britain's Secret Farms", "slug_title": "cannabis-britain-s-secret-farms", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

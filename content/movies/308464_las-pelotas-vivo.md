@@ -1,1 +1,0 @@
-{"tmdb_id": 308464, "title": "Las Pelotas - Vivo", "original_title": "Las Pelotas - Vivo", "slug_title": "las-pelotas-vivo", "date": "", "genre": "", "score": "9.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rmxmFdH0lIRvNX3jeTcrpAaBf15.jpg", "actors": [], "comments": [], "recommandations_id": []}

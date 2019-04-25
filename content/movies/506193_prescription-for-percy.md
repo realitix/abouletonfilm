@@ -1,1 +1,0 @@
-{"tmdb_id": 506193, "title": "Prescription for Percy", "original_title": "Prescription for Percy", "slug_title": "prescription-for-percy", "date": "1954-01-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

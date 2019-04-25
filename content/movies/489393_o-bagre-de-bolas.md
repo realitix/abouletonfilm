@@ -1,1 +1,0 @@
-{"tmdb_id": 489393, "title": "O Bagre de Bolas", "original_title": "O Bagre de Bolas", "slug_title": "o-bagre-de-bolas", "date": "2017-10-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zyyDrofTSdgQdj3uROKUrnV4akU.jpg", "actors": [], "comments": [], "recommandations_id": []}

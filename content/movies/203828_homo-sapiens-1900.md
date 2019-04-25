@@ -1,1 +1,0 @@
-{"tmdb_id": 203828, "title": "Homo Sapiens 1900", "original_title": "Homo Sapiens 1900", "slug_title": "homo-sapiens-1900", "date": "1998-10-30", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nSdrehaoEd3pZ8iM08zcaiecJuE.jpg", "actors": [], "comments": [], "recommandations_id": []}

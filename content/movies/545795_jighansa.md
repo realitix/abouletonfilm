@@ -1,1 +1,0 @@
-{"tmdb_id": 545795, "title": "Jighansa", "original_title": "Jighansa", "slug_title": "jighansa", "date": "1951-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vjUK0661lETPrR6sOTPQ7lqq40o.jpg", "actors": ["Bikash Roy ()", "Kamal Mitra ()", "Sisir Batabyal ()"], "comments": [], "recommandations_id": []}

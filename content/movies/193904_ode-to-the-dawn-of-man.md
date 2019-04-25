@@ -1,1 +1,0 @@
-{"tmdb_id": 193904, "title": "Ode to the Dawn of Man", "original_title": "Ode to the Dawn of Man", "slug_title": "ode-to-the-dawn-of-man", "date": "2011-05-16", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cdF4kOrKw0tRvbFUGv0YBzInOYl.jpg", "actors": [], "comments": [], "recommandations_id": []}

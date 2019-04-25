@@ -1,1 +1,0 @@
-{"tmdb_id": 593944, "title": "Breathe", "original_title": "Breathe", "slug_title": "breathe", "date": "2016-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/73UiSIoBkPvswraTpPgq5syRcm7.jpg", "actors": [], "comments": [], "recommandations_id": []}

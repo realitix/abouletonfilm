@@ -1,1 +1,0 @@
-{"tmdb_id": 475637, "title": "N\u00e3o Matar\u00e1s", "original_title": "N\u00e3o Matar\u00e1s", "slug_title": "nao-mataras", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Kwae4HZIsmTUzaKi0aKzigmuUK.jpg", "actors": [], "comments": [], "recommandations_id": []}

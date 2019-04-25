@@ -1,1 +1,0 @@
-{"tmdb_id": 515449, "title": "Hilfe, wir verschwinden \u2013 Das Digitale Desaster", "original_title": "Hilfe, wir verschwinden \u2013 Das Digitale Desaster", "slug_title": "hilfe-wir-verschwinden-das-digitale-desaster", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

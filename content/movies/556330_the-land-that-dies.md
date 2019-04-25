@@ -1,1 +1,0 @@
-{"tmdb_id": 556330, "title": "The Land That Dies", "original_title": "La terre qui meurt", "slug_title": "the-land-that-dies", "date": "1927-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

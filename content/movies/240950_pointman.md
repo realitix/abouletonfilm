@@ -1,1 +1,0 @@
-{"tmdb_id": 240950, "title": "Pointman", "original_title": "Pointman", "slug_title": "pointman", "date": "1994-01-25", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pERIqgII6qJRpzjYxs9j7r1vC0d.jpg", "actors": [], "comments": [], "recommandations_id": []}

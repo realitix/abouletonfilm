@@ -1,1 +1,0 @@
-{"tmdb_id": 102935, "title": "War Don Don", "original_title": "War Don Don", "slug_title": "war-don-don", "date": "2010-05-18", "genre": "Crime / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zKLeefRoHGrXBb85SsMwFMnVP7r.jpg", "actors": ["Issa Sesay (Himself)"], "comments": [], "recommandations_id": []}

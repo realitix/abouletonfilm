@@ -1,1 +1,0 @@
-{"tmdb_id": 165938, "title": "Rural Life in Maine", "original_title": "Rural Life in Maine", "slug_title": "rural-life-in-maine", "date": "1930-01-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

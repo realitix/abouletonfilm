@@ -1,1 +1,0 @@
-{"tmdb_id": 567824, "title": "O Nosso Futebol", "original_title": "O Nosso Futebol", "slug_title": "o-nosso-futebol", "date": "1985-12-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ant\u00f3nio Vitorino d'Almeida (Narrator)"], "comments": [], "recommandations_id": []}

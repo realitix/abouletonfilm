@@ -1,1 +1,0 @@
-{"tmdb_id": 552407, "title": "1948: Creation & Catastrophe", "original_title": "1948: Creation & Catastrophe", "slug_title": "1948-creation-catastrophe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

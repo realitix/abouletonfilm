@@ -1,1 +1,0 @@
-{"tmdb_id": 388598, "title": "Legends of Madagascar", "original_title": "Malagasy Mankany", "slug_title": "legends-of-madagascar", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iYyJkufwhxo7NgnJS1NysbPueic.jpg", "actors": [], "comments": [], "recommandations_id": []}

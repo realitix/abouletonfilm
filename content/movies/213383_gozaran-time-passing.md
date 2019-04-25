@@ -1,1 +1,0 @@
-{"tmdb_id": 213383, "title": "Gozaran - Time Passing", "original_title": "Gozaran - Time Passing", "slug_title": "gozaran-time-passing", "date": "2012-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ypDdevnzrNLpO5vhgAg1W5FCYcp.jpg", "actors": [], "comments": [], "recommandations_id": []}

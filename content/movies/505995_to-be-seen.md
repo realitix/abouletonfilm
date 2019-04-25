@@ -1,1 +1,0 @@
-{"tmdb_id": 505995, "title": "To be seen", "original_title": "To be seen", "slug_title": "to-be-seen", "date": "2018-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

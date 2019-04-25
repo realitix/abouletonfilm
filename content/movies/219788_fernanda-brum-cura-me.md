@@ -1,1 +1,0 @@
-{"tmdb_id": 219788, "title": "Fernanda Brum - Cura-me", "original_title": "Fernanda Brum - Cura-me", "slug_title": "fernanda-brum-cura-me", "date": "2009-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sOznvYR1qmMZ7I1a4vqgIZrHVwr.jpg", "actors": [], "comments": [], "recommandations_id": []}

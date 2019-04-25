@@ -1,1 +1,0 @@
-{"tmdb_id": 400201, "title": "Evariste Galois", "original_title": "Evariste Galois", "slug_title": "evariste-galois", "date": "1965-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5yt2ncZnQbjOsUTZH9V109E0ALn.jpg", "actors": [], "comments": [], "recommandations_id": []}

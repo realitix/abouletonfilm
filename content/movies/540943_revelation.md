@@ -1,1 +1,0 @@
-{"tmdb_id": 540943, "title": "REVELATION", "original_title": "REVELATION", "slug_title": "revelation", "date": "2015-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8xLZ7s3jTIWZxnjA3QEfkgcFUZu.jpg", "actors": ["Anna Durnez (Girl)"], "comments": [], "recommandations_id": []}

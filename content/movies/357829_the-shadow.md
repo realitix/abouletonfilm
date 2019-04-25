@@ -1,1 +1,0 @@
-{"tmdb_id": 357829, "title": "The Shadow", "original_title": "L'ombra", "slug_title": "the-shadow", "date": "1954-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xk71EnOEz7hthVuCP1MnyAA402k.jpg", "actors": [], "comments": [], "recommandations_id": []}

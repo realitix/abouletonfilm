@@ -1,1 +1,0 @@
-{"tmdb_id": 488901, "title": "La vuelta de Mart\u00edn Fierro", "original_title": "La vuelta de Mart\u00edn Fierro", "slug_title": "la-vuelta-de-martin-fierro", "date": "1974-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vaSm8P3NMScbcu6Jm2wuy2lLyi3.jpg", "actors": [], "comments": [], "recommandations_id": []}

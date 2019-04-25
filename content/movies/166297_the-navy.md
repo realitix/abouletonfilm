@@ -1,1 +1,0 @@
-{"tmdb_id": 166297, "title": "The Navy", "original_title": "The Navy", "slug_title": "the-navy", "date": "1930-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

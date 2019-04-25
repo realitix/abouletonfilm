@@ -1,1 +1,0 @@
-{"tmdb_id": 271655, "title": "Tibetan El Dorado", "original_title": "Tibetan El Dorado", "slug_title": "tibetan-el-dorado", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

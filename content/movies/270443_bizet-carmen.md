@@ -1,1 +1,0 @@
-{"tmdb_id": 270443, "title": "Bizet: Carmen", "original_title": "Bizet: Carmen", "slug_title": "bizet-carmen", "date": "2013-11-19", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s2qXYjGyt9Uc5qQlvinsw6O5heC.jpg", "actors": ["Rinat Shaham ()", "Rinat Shaham (Carmen)"], "comments": [], "recommandations_id": []}

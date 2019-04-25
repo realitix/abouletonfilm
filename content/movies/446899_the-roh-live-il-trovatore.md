@@ -1,1 +1,0 @@
-{"tmdb_id": 446899, "title": "The ROH Live: Il trovatore", "original_title": "The ROH Live: Il trovatore", "slug_title": "the-roh-live-il-trovatore", "date": "2017-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zZUUzX5U7ocdjdsQBOBvjB3SRtt.jpg", "actors": [], "comments": [], "recommandations_id": []}

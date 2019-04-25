@@ -1,1 +1,0 @@
-{"tmdb_id": 552325, "title": "Les ombres aquatiques", "original_title": "Les ombres aquatiques", "slug_title": "les-ombres-aquatiques", "date": "2016-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m2erzoXgmauibSPlYg4E4EdvFlf.jpg", "actors": [], "comments": [], "recommandations_id": []}

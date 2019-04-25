@@ -1,1 +1,0 @@
-{"tmdb_id": 41893, "title": "Hollywood Buddha", "original_title": "Hollywood Buddha", "slug_title": "hollywood-buddha", "date": "", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kt7FwADyhakNJ4BCa1B3Jeq7XoO.jpg", "actors": [], "comments": [], "recommandations_id": []}

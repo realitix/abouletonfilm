@@ -1,1 +1,0 @@
-{"tmdb_id": 552776, "title": "The Following Instructions Game", "original_title": "The Following Instructions Game", "slug_title": "the-following-instructions-game", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

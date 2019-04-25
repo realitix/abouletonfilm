@@ -1,1 +1,0 @@
-{"tmdb_id": 445822, "title": "The Way We Live", "original_title": "The Way We Live", "slug_title": "the-way-we-live", "date": "1946-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

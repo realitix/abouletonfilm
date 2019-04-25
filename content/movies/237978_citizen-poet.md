@@ -1,1 +1,0 @@
-{"tmdb_id": 237978, "title": "Citizen Poet", "original_title": "Citizen Poet", "slug_title": "citizen-poet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

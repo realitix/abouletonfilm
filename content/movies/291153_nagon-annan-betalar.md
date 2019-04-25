@@ -1,1 +1,0 @@
-{"tmdb_id": 291153, "title": "N\u00e5gon annan betalar", "original_title": "N\u00e5gon annan betalar", "slug_title": "nagon-annan-betalar", "date": "2014-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rDoDMFGb6XXgk2UQobr7UadVPg1.jpg", "actors": [], "comments": [], "recommandations_id": []}

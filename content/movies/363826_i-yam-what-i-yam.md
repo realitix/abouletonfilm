@@ -1,1 +1,0 @@
-{"tmdb_id": 363826, "title": "I Yam What I Yam", "original_title": "I Yam What I Yam", "slug_title": "i-yam-what-i-yam", "date": "2010-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bJZsZR5paYprvlx4k2s81PYAmX.jpg", "actors": [], "comments": [], "recommandations_id": []}

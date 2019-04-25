@@ -1,1 +1,0 @@
-{"tmdb_id": 274573, "title": "BET Comic View All Stars Vol 3", "original_title": "BET Comic View All Stars Vol 3", "slug_title": "bet-comic-view-all-stars-vol-3", "date": "2002-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

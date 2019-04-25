@@ -1,1 +1,0 @@
-{"tmdb_id": 510147, "title": "The Rise & Fall Of T-Rex", "original_title": "The Rise & Fall Of T-Rex", "slug_title": "the-rise-fall-of-t-rex", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iJPhiFrjbHVOPz0YCSsgsV2BxpW.jpg", "actors": [], "comments": [], "recommandations_id": []}

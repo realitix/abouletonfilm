@@ -1,1 +1,0 @@
-{"tmdb_id": 550332, "title": "The Anatomy of Evil", "original_title": "Ondskabens anatomi", "slug_title": "the-anatomy-of-evil", "date": "2005-11-25", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

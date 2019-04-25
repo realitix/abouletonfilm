@@ -1,1 +1,0 @@
-{"tmdb_id": 519181, "title": "Euritan", "original_title": "Euritan", "slug_title": "euritan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

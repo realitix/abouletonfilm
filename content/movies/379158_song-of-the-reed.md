@@ -1,1 +1,0 @@
-{"tmdb_id": 379158, "title": "Song of the Reed", "original_title": "\u8606\u8466\u4e4b\u6b4c", "slug_title": "song-of-the-reed", "date": "2015-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mUBbyFYxODWeYsIOkNlhumnyI2G.jpg", "actors": [], "comments": [], "recommandations_id": []}

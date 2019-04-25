@@ -1,1 +1,0 @@
-{"tmdb_id": 152045, "title": "Celebrare - Pra Dan\u00e7ar", "original_title": "Celebrare - Pra Dan\u00e7ar", "slug_title": "celebrare-pra-dancar", "date": "2016-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wcuUlqflJEVOfPiodDzxq5FQxcN.jpg", "actors": [], "comments": [], "recommandations_id": []}

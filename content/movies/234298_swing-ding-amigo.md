@@ -1,1 +1,0 @@
-{"tmdb_id": 234298, "title": "Swing Ding Amigo", "original_title": "Swing Ding Amigo", "slug_title": "swing-ding-amigo", "date": "1966-09-17", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lNLwo7mhNO6Ce2zKE8LgFaSve66.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 457542, "title": "Kie\u015blowski-Dialogue", "original_title": "Kie\u015blowski-Dialogue", "slug_title": "kieslowski-dialogue", "date": "1991-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Krzysztof Kie\u015blowski (Interviewee)"], "comments": [], "recommandations_id": []}

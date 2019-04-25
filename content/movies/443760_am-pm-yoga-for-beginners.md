@@ -1,1 +1,0 @@
-{"tmdb_id": 443760, "title": "Am / PM Yoga for Beginners", "original_title": "Am / PM Yoga for Beginners", "slug_title": "am-pm-yoga-for-beginners", "date": "2007-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wGBTfx9YGuOXMEUS7nU96v7alBv.jpg", "actors": [], "comments": [], "recommandations_id": []}

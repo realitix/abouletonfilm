@@ -1,1 +1,0 @@
-{"tmdb_id": 293024, "title": "Red Capriccio", "original_title": "Red Capriccio", "slug_title": "red-capriccio", "date": "2014-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q3rJgyNL7fanZOUYaDTE5BHXpOT.jpg", "actors": [], "comments": [], "recommandations_id": []}

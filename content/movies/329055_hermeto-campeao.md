@@ -1,1 +1,0 @@
-{"tmdb_id": 329055, "title": "Hermeto Campe\u00e3o", "original_title": "Hermeto Campe\u00e3o", "slug_title": "hermeto-campeao", "date": "1981-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f0oOuEtbXgyAAxur6B83YgFtsz6.jpg", "actors": ["Hermeto Paschoal ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 518918, "title": "Filmquiz", "original_title": "Filmquiz", "slug_title": "filmquiz", "date": "2008-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nanni Moretti (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 516904, "title": "Ortelsburg - Szczytno. Es war einmal in Masuren", "original_title": "Ortelsburg - Szczytno. Es war einmal in Masuren", "slug_title": "ortelsburg-szczytno-es-war-einmal-in-masuren", "date": "1990-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

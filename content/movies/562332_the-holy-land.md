@@ -1,1 +1,0 @@
-{"tmdb_id": 562332, "title": "The Holy Land", "original_title": "The Holy Land", "slug_title": "the-holy-land", "date": "1934-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ajUBBR2YEp9krPpbGlX1R3RtKf5.jpg", "actors": [], "comments": [], "recommandations_id": []}

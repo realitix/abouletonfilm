@@ -1,1 +1,0 @@
-{"tmdb_id": 125036, "title": "Ricky on Leacock", "original_title": "Ricky on Leacock", "slug_title": "ricky-on-leacock", "date": "2012-06-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Drew ()", "D.A. Pennebaker ()", "Richard Leacock (Himself)"], "comments": [], "recommandations_id": []}

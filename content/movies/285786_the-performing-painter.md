@@ -1,1 +1,0 @@
-{"tmdb_id": 285786, "title": "The Performing Painter", "original_title": "The Performing Painter", "slug_title": "the-performing-painter", "date": "1955-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

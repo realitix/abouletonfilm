@@ -1,1 +1,0 @@
-{"tmdb_id": 20138, "title": "Alien Gods", "original_title": "Alien Gods", "slug_title": "alien-gods", "date": "2003-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2fC9zG5zxX54vqajQhlLUE8cbtR.jpg", "actors": [], "comments": [], "recommandations_id": []}

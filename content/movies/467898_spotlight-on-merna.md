@@ -1,1 +1,0 @@
-{"tmdb_id": 467898, "title": "Spotlight on Merna", "original_title": "Merna in de Spotlight", "slug_title": "spotlight-on-merna", "date": "2016-11-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

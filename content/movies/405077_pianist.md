@@ -1,1 +1,0 @@
-{"tmdb_id": 405077, "title": "Pianist", "original_title": "Pianist", "slug_title": "pianist", "date": "2014-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

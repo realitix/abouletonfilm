@@ -1,1 +1,0 @@
-{"tmdb_id": 412879, "title": "Recording", "original_title": "\ub179\ud654\uc911\uc774\uc57c", "slug_title": "recording", "date": "2015-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/efIuo2CN1RpPeZOxYoAgqsXQVcB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 180808, "title": "Arctic Dinosaurs", "original_title": "Arctic Dinosaurs", "slug_title": "arctic-dinosaurs", "date": "2008-10-07", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/puu5PwTRFhpyh1QMLPUk5dO9JQ0.jpg", "actors": ["Jay O. Sanders (Himself - Narrator)"], "comments": [], "recommandations_id": []}

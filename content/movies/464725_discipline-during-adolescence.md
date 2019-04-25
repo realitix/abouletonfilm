@@ -1,1 +1,0 @@
-{"tmdb_id": 464725, "title": "Discipline During Adolescence", "original_title": "Discipline During Adolescence", "slug_title": "discipline-during-adolescence", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ga4dKizuz7iUlE5MxLmZWlFbg4Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

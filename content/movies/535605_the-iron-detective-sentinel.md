@@ -1,1 +1,0 @@
-{"tmdb_id": 535605, "title": "The Iron Detective: Sentinel", "original_title": "The Iron Detective: Sentinel", "slug_title": "the-iron-detective-sentinel", "date": "2016-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jason Turner (Alex Calibourne)"], "comments": [], "recommandations_id": []}

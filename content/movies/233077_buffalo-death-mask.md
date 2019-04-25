@@ -1,1 +1,0 @@
-{"tmdb_id": 233077, "title": "Buffalo Death Mask", "original_title": "Buffalo Death Mask", "slug_title": "buffalo-death-mask", "date": "2013-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q7QkNxsBzxrKUSd8mbBh3XAA1nS.jpg", "actors": [], "comments": [], "recommandations_id": []}

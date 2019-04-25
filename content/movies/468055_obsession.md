@@ -1,1 +1,0 @@
-{"tmdb_id": 468055, "title": "Obsession", "original_title": "Obsession", "slug_title": "obsession", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tK8XHCN4bpJYoESZXPJl5Hxi1P5.jpg", "actors": [], "comments": [], "recommandations_id": []}

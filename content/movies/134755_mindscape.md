@@ -1,1 +1,0 @@
-{"tmdb_id": 134755, "title": "Mindscape", "original_title": "Le paysagiste", "slug_title": "mindscape", "date": "1976-01-01", "genre": "Animation / Fantastique", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zYLUHjofPtaULH9mQjWmGKFLTx4.jpg", "actors": [], "comments": [], "recommandations_id": [87197, 183005, 215160, 315647]}

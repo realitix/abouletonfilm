@@ -1,1 +1,0 @@
-{"tmdb_id": 539526, "title": "The Best Kind of People", "original_title": "The Best Kind of People", "slug_title": "the-best-kind-of-people", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

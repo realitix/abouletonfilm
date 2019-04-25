@@ -1,1 +1,0 @@
-{"tmdb_id": 275246, "title": "Leninland", "original_title": "\u041b\u0435\u043d\u0438\u043d\u043b\u0435\u043d\u0434", "slug_title": "leninland", "date": "2013-11-30", "genre": "Documentaire", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3imESJV904QnkIV4RVpXjDWuxnz.jpg", "actors": [], "comments": [], "recommandations_id": []}

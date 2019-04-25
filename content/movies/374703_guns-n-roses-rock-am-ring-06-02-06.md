@@ -1,1 +1,0 @@
-{"tmdb_id": 374703, "title": "Guns N' Roses - Rock am Ring 06-02-06", "original_title": "Guns N' Roses - Rock am Ring 06-02-06", "slug_title": "guns-n-roses-rock-am-ring-06-02-06", "date": "2006-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

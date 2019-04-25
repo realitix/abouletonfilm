@@ -1,1 +1,0 @@
-{"tmdb_id": 203261, "title": "Caravan/Prague: The Uneasy Road to Change", "original_title": "Caravan/Prague: The Uneasy Road to Change", "slug_title": "caravan-prague-the-uneasy-road-to-change", "date": "2007-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

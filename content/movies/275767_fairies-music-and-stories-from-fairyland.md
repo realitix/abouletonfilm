@@ -1,1 +1,0 @@
-{"tmdb_id": 275767, "title": "Fairies: Music and Stories from Fairyland", "original_title": "Fairies: Music and Stories from Fairyland", "slug_title": "fairies-music-and-stories-from-fairyland", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

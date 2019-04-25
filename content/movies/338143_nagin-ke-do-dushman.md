@@ -1,1 +1,0 @@
-{"tmdb_id": 338143, "title": "Nagin Ke Do Dushman", "original_title": "Nagin Ke Do Dushman", "slug_title": "nagin-ke-do-dushman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aweYwd13hMXWmF57bIsVXnt0AG7.jpg", "actors": [], "comments": [], "recommandations_id": []}

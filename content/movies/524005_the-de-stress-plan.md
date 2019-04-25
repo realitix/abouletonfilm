@@ -1,1 +1,0 @@
-{"tmdb_id": 524005, "title": "The De-Stress Plan", "original_title": "The De-Stress Plan", "slug_title": "the-de-stress-plan", "date": "2001-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lucy Lloyd-Barker (Actor)"], "comments": [], "recommandations_id": []}

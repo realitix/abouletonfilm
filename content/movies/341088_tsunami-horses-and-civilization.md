@@ -1,1 +1,0 @@
-{"tmdb_id": 341088, "title": "Tsunami, Horses and Civilization", "original_title": "Tsunami, Horses and Civilization", "slug_title": "tsunami-horses-and-civilization", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

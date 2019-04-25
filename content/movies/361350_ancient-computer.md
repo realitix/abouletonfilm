@@ -1,1 +1,0 @@
-{"tmdb_id": 361350, "title": "Ancient Computer", "original_title": "Ancient Computer", "slug_title": "ancient-computer", "date": "2013-04-03", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5NyVXfdSEV0qQQc1PiHSGlOj9Rr.jpg", "actors": [], "comments": [], "recommandations_id": []}

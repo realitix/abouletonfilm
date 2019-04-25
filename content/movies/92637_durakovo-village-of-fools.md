@@ -1,1 +1,0 @@
-{"tmdb_id": 92637, "title": "Durakovo: Village of Fools", "original_title": "Durakovo: Le village des fous", "slug_title": "durakovo-village-of-fools", "date": "2008-01-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eVHSITaUVZtG8v9CuYMrYsscnMA.jpg", "actors": [], "comments": [], "recommandations_id": []}

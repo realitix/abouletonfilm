@@ -1,1 +1,0 @@
-{"tmdb_id": 372009, "title": "Telephone Me", "original_title": "Telephone Me", "slug_title": "telephone-me", "date": "2015-02-11", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aFfG5n1orqSjqGONmLtvoRap5u3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 432743, "title": "The Body of Winds", "original_title": "Le Corps des Vents", "slug_title": "the-body-of-winds", "date": "2004-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hfjdS2VUn2oBhnGkfn9zmcWXpX7.jpg", "actors": [], "comments": [], "recommandations_id": []}

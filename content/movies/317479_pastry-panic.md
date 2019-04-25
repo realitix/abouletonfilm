@@ -1,1 +1,0 @@
-{"tmdb_id": 317479, "title": "Pastry Panic", "original_title": "Pastry Panic", "slug_title": "pastry-panic", "date": "1951-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

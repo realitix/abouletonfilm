@@ -1,1 +1,0 @@
-{"tmdb_id": 506084, "title": "NuDisco", "original_title": "NuDisco", "slug_title": "nudisco", "date": "2008-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ddrnEfig7qhu9zacueMeWkUPKfG.jpg", "actors": [], "comments": [], "recommandations_id": []}

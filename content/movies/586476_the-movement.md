@@ -1,1 +1,0 @@
-{"tmdb_id": 586476, "title": "The Movement", "original_title": "Ava Manuia", "slug_title": "the-movement", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Musu Faleafine (Tuna)", "Rocco Tinitali (Fata)", "Shane Cha (Pili)", "David Moimoi (Vaea)", "Seth Molia (Moso)"], "comments": [], "recommandations_id": []}

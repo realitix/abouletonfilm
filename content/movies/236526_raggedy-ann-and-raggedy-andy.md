@@ -1,1 +1,0 @@
-{"tmdb_id": 236526, "title": "Raggedy Ann and Raggedy Andy", "original_title": "Raggedy Ann and Raggedy Andy", "slug_title": "raggedy-ann-and-raggedy-andy", "date": "1941-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fcK3uD72c432wG6HDHMwCx6MjR6.jpg", "actors": [], "comments": [], "recommandations_id": []}

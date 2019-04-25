@@ -1,1 +1,0 @@
-{"tmdb_id": 369701, "title": "Rogelia", "original_title": "Rogelia", "slug_title": "rogelia", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dhTywUxlMtgOmthG0arCY2gQcsn.jpg", "actors": ["Pina Pellicer ()", "Arturo Fern\u00e1ndez ()", "Fernando Rey ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 429968, "title": "Amerika", "original_title": "Amerika", "slug_title": "amerika", "date": "2000-01-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Devid Striesow (Lanski)", "Maria Simon (M\u00e4dchen mit Kind)"], "comments": [], "recommandations_id": []}

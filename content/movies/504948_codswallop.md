@@ -1,1 +1,0 @@
-{"tmdb_id": 504948, "title": "Codswallop", "original_title": "Codswallop", "slug_title": "codswallop", "date": "2008-02-13", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/daeRhDZXAEmPV43ld6m2q3aDJ2h.jpg", "actors": ["Lucy Barriball ()", "Myles McLeod ()"], "comments": [], "recommandations_id": []}

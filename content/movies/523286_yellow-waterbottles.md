@@ -1,1 +1,0 @@
-{"tmdb_id": 523286, "title": "Yellow waterbottles", "original_title": "Bidon Jaunes", "slug_title": "yellow-waterbottles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

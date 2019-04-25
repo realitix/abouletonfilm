@@ -1,1 +1,0 @@
-{"tmdb_id": 203896, "title": "Black Sun", "original_title": "Black Sun", "slug_title": "black-sun", "date": "1996-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tmYFgH0Lw6qWpRzdnBetCObpUat.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 379247, "title": "Pink and Shovel", "original_title": "Pink and Shovel", "slug_title": "pink-and-shovel", "date": "1978-11-25", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tW03xUNiQyUW7v1vw4P2pE3HEfn.jpg", "actors": [], "comments": [], "recommandations_id": []}

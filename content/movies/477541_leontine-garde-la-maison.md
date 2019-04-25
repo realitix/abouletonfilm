@@ -1,1 +1,0 @@
-{"tmdb_id": 477541, "title": "L\u00e9ontine garde la maison", "original_title": "L\u00e9ontine garde la maison", "slug_title": "leontine-garde-la-maison", "date": "1912-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

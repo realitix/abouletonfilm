@@ -1,1 +1,0 @@
-{"tmdb_id": 50986, "title": "Light the Wick", "original_title": "Light the Wick", "slug_title": "light-the-wick", "date": "2010-11-15", "genre": "Action / Aventure", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v52fHEmonri8O4RWCtJNJ9qF7Qw.jpg", "actors": [], "comments": [], "recommandations_id": []}

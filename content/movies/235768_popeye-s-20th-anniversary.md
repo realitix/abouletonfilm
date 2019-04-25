@@ -1,1 +1,0 @@
-{"tmdb_id": 235768, "title": "Popeye's 20th Anniversary", "original_title": "Popeye's 20th Anniversary", "slug_title": "popeye-s-20th-anniversary", "date": "1954-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/79Uo4kOvzbG10Vh5t6eStW46VXN.jpg", "actors": [], "comments": [], "recommandations_id": []}

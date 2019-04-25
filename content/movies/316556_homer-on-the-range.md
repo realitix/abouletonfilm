@@ -1,1 +1,0 @@
-{"tmdb_id": 316556, "title": "Homer on the Range", "original_title": "Homer on the Range", "slug_title": "homer-on-the-range", "date": "1964-12-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

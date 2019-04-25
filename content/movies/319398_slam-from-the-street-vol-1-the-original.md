@@ -1,1 +1,0 @@
-{"tmdb_id": 319398, "title": "Slam from the Street: Vol. 1: The Original", "original_title": "Slam from the Street: Vol. 1: The Original", "slug_title": "slam-from-the-street-vol-1-the-original", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

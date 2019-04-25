@@ -1,1 +1,0 @@
-{"tmdb_id": 572119, "title": "Living Soil", "original_title": "Living Soil", "slug_title": "living-soil", "date": "2018-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x0y90tVHt4vaYF2YOMQ5WGOZJ08.jpg", "actors": [], "comments": [], "recommandations_id": []}

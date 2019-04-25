@@ -1,1 +1,0 @@
-{"tmdb_id": 342389, "title": "Strictly Private", "original_title": "Strictly Private", "slug_title": "strictly-private", "date": "1916-07-25", "genre": "Fantastique / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Watson (Musty Suffer)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 529145, "title": "Phish - 2015-07-28 Del Valle, TX", "original_title": "Phish - 2015-07-28 Del Valle, TX", "slug_title": "phish-2015-07-28-del-valle-tx", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

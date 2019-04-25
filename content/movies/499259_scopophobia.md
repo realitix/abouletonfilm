@@ -1,1 +1,0 @@
-{"tmdb_id": 499259, "title": "Scopophobia", "original_title": "Scopophobia", "slug_title": "scopophobia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2bFnBoxLBHG7nKy4Pon7qWed7XO.jpg", "actors": ["Tori Stewart (T)", "Candice Cartwright (Usher/Ghost)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 538509, "title": "Le prince Bouboule", "original_title": "Le prince Bouboule", "slug_title": "le-prince-bouboule", "date": "1939-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yG1NZcjuOhuRSjiPU8dfo1la4rt.jpg", "actors": [], "comments": [], "recommandations_id": []}

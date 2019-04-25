@@ -1,1 +1,0 @@
-{"tmdb_id": 447866, "title": "40 Years Lumi\u00e8re Cinema", "original_title": "40 Years Lumi\u00e8re Cinema", "slug_title": "40-years-lumiere-cinema", "date": "2016-10-15", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

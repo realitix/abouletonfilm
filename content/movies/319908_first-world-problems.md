@@ -1,1 +1,0 @@
-{"tmdb_id": 319908, "title": "First World Problems", "original_title": "First World Problems", "slug_title": "first-world-problems", "date": "2012-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 471368, "title": "Top of the Pops: The True Story", "original_title": "Top of the Pops: The True Story", "slug_title": "top-of-the-pops-the-true-story", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

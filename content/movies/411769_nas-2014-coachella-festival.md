@@ -1,1 +1,0 @@
-{"tmdb_id": 411769, "title": "Nas: [2014] Coachella Festival", "original_title": "Nas: [2014] Coachella Festival", "slug_title": "nas-2014-coachella-festival", "date": "2014-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jZmVT1eqRFEUjGIjrQikOHwGsI6.jpg", "actors": [], "comments": [], "recommandations_id": []}

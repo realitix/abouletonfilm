@@ -1,1 +1,0 @@
-{"tmdb_id": 586798, "title": "La noche del doctor Vald\u00e9s", "original_title": "La noche del doctor Vald\u00e9s", "slug_title": "la-noche-del-doctor-valdes", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 221288, "title": "Fiorucci Made Me Hardcore", "original_title": "Fiorucci Made Me Hardcore", "slug_title": "fiorucci-made-me-hardcore", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6KanMzeSomiUMBFbgVn89lY3L7k.jpg", "actors": [], "comments": [], "recommandations_id": []}

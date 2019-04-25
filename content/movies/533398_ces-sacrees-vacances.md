@@ -1,1 +1,0 @@
-{"tmdb_id": 533398, "title": "Ces sacr\u00e9es vacances", "original_title": "Ces sacr\u00e9es vacances", "slug_title": "ces-sacrees-vacances", "date": "1956-05-30", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wTCIFiVLQKuvLyVB2PH422ZVSI3.jpg", "actors": [], "comments": [], "recommandations_id": []}

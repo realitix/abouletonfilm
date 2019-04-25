@@ -1,1 +1,0 @@
-{"tmdb_id": 300296, "title": "Magiya Kanasu", "original_title": "Magiya Kanasu", "slug_title": "magiya-kanasu", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

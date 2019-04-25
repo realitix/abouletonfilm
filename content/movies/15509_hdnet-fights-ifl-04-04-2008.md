@@ -1,1 +1,0 @@
-{"tmdb_id": 15509, "title": "HDNet Fights: IFL 04 04 2008", "original_title": "HDNet Fights: IFL 04 04 2008", "slug_title": "hdnet-fights-ifl-04-04-2008", "date": "2008-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

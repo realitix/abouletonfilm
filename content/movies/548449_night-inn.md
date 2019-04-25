@@ -1,1 +1,0 @@
-{"tmdb_id": 548449, "title": "Night Inn", "original_title": "Ye dian", "slug_title": "night-inn", "date": "1947-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qkS8DrHuPAV0kegnB2gnQvjMaOH.jpg", "actors": [], "comments": [], "recommandations_id": []}

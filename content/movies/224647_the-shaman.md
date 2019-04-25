@@ -1,1 +1,0 @@
-{"tmdb_id": 224647, "title": "The Shaman", "original_title": "The Shaman", "slug_title": "the-shaman", "date": "1987-01-01", "genre": "Myst\u00e8re / Horreur", "score": "1.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rK1RCZZmGrLk6iihiOkPGbyDTCr.jpg", "actors": [], "comments": [], "recommandations_id": []}

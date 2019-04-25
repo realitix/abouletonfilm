@@ -1,1 +1,0 @@
-{"tmdb_id": 541482, "title": "A Small Killing", "original_title": "A Small Killing", "slug_title": "a-small-killing", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

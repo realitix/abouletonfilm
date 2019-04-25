@@ -1,1 +1,0 @@
-{"tmdb_id": 569343, "title": "Disco Classics - Remasters", "original_title": "Disco Classics - Remasters", "slug_title": "disco-classics-remasters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

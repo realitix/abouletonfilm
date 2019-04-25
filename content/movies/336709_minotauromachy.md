@@ -1,1 +1,0 @@
-{"tmdb_id": 336709, "title": "Minotauromachy", "original_title": "Minotauromaquia", "slug_title": "minotauromachy", "date": "2004-10-20", "genre": "Animation / Fantastique", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4cKN4fwugE2mKDa6gnDszIfTM7o.jpg", "actors": [], "comments": [], "recommandations_id": []}

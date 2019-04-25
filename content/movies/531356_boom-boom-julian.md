@@ -1,1 +1,0 @@
-{"tmdb_id": 531356, "title": "Boom Boom Julian", "original_title": "Boom Boom Julian", "slug_title": "boom-boom-julian", "date": "2018-06-21", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vNQ3XtPXJZSJo9T1tIcmSo1xmgd.jpg", "actors": [], "comments": [], "recommandations_id": []}

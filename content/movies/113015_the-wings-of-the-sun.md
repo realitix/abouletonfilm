@@ -1,1 +1,0 @@
-{"tmdb_id": 113015, "title": "The Wings of the Sun", "original_title": "Les ailes du soleil", "slug_title": "the-wings-of-the-sun", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mNlT6d7i7gl4pm9ZdHXyuO3u7rT.jpg", "actors": [], "comments": [], "recommandations_id": []}

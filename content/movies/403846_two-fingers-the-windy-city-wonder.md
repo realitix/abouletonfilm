@@ -1,1 +1,0 @@
-{"tmdb_id": 403846, "title": "Two Fingers: The Windy City Wonder", "original_title": "Two Fingers: The Windy City Wonder", "slug_title": "two-fingers-the-windy-city-wonder", "date": "2014-06-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Nottoli (Himself)"], "comments": [], "recommandations_id": []}

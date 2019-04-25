@@ -1,1 +1,0 @@
-{"tmdb_id": 34545, "title": "Devils of the Deep: Jumbo Squid", "original_title": "Devils of the Deep: Jumbo Squid", "slug_title": "devils-of-the-deep-jumbo-squid", "date": "2007-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 349749, "title": "\ucc9c\ub140\uc6d0\uc559", "original_title": "\ucc9c\ub140\uc6d0\uc559", "slug_title": "ceonnyeoweonang", "date": "1990-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

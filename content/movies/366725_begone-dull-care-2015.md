@@ -1,1 +1,0 @@
-{"tmdb_id": 366725, "title": "Begone Dull Care 2015", "original_title": "Begone Dull Care 2015", "slug_title": "begone-dull-care-2015", "date": "2015-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kmPWJ5rc4qdjo5MSqyPPfcC0Xzc.jpg", "actors": [], "comments": [], "recommandations_id": []}

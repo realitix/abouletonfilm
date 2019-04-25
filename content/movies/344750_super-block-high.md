@@ -1,1 +1,0 @@
-{"tmdb_id": 344750, "title": "Super Block High", "original_title": "Super Block High", "slug_title": "super-block-high", "date": "1967-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/30CMw1PsGPKDq6jEWUBGWQ2e9Jk.jpg", "actors": [], "comments": [], "recommandations_id": []}

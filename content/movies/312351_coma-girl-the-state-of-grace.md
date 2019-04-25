@@ -1,1 +1,0 @@
-{"tmdb_id": 312351, "title": "Coma Girl: The State of Grace", "original_title": "Coma Girl: The State of Grace", "slug_title": "coma-girl-the-state-of-grace", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

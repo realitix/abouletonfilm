@@ -1,1 +1,0 @@
-{"tmdb_id": 348986, "title": "Quimeras Ausentes", "original_title": "Quimeras Ausentes", "slug_title": "quimeras-ausentes", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fanny Ardant ()", "Francesco Montanari ()", "Paolo Triestino ()"], "comments": [], "recommandations_id": []}

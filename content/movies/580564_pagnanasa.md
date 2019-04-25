@@ -1,1 +1,0 @@
-{"tmdb_id": 580564, "title": "Pagnanasa", "original_title": "Pagnanasa", "slug_title": "pagnanasa", "date": "2010-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2mLaVwtoKGLJ9OPm1JKpXNrovPb.jpg", "actors": [], "comments": [], "recommandations_id": []}

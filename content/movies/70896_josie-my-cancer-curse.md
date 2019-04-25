@@ -1,1 +1,0 @@
-{"tmdb_id": 70896, "title": "Josie: My Cancer Curse", "original_title": "Josie: My Cancer Curse", "slug_title": "josie-my-cancer-curse", "date": "2011-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/urdcsx5UB1AgaLCVlXF0zYRKosQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

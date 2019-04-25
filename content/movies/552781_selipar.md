@@ -1,1 +1,0 @@
-{"tmdb_id": 552781, "title": "Selipar", "original_title": "Selipar", "slug_title": "selipar", "date": "2017-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aKmVE8fUyJEV6LcA08CBNQndqo4.jpg", "actors": ["Aqilah Deenah ()", "Nik Danial Hazeeq ()", "Sandhya Nair ()"], "comments": [], "recommandations_id": []}

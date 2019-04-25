@@ -1,1 +1,0 @@
-{"tmdb_id": 467894, "title": "Black Doll", "original_title": "Prita Noire", "slug_title": "black-doll", "date": "2011-06-22", "genre": "Animation / Fantastique / Myst\u00e8re", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s9NGdNWKBUaowjy9YX0630TF3A1.jpg", "actors": [], "comments": [], "recommandations_id": []}

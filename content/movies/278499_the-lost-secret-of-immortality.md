@@ -1,1 +1,0 @@
-{"tmdb_id": 278499, "title": "The Lost Secret of Immortality", "original_title": "The Lost Secret of Immortality", "slug_title": "the-lost-secret-of-immortality", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 304296, "title": "Ladke Baap Se Badke", "original_title": "Ladke Baap Se Badke", "slug_title": "ladke-baap-se-badke", "date": "1979-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

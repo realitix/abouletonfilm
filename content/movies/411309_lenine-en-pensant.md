@@ -1,1 +1,0 @@
-{"tmdb_id": 411309, "title": "L\u00e9nine en pensant", "original_title": "L\u00e9nine en pensant", "slug_title": "lenine-en-pensant", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iGcjlOlJSdSSQo02vx77uiuP0KG.jpg", "actors": [], "comments": [], "recommandations_id": []}

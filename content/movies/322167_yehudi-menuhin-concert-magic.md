@@ -1,1 +1,0 @@
-{"tmdb_id": 322167, "title": "Yehudi Menuhin - Concert Magic", "original_title": "Yehudi Menuhin - Concert Magic", "slug_title": "yehudi-menuhin-concert-magic", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1bykHb7zPlIriOohV1XrOCZ8tVY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 348473, "title": "This American Gothic", "original_title": "This American Gothic", "slug_title": "this-american-gothic", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 591155, "title": "Ang pagbabalik ni palos", "original_title": "Ang pagbabalik ni palos", "slug_title": "ang-pagbabalik-ni-palos", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bernard Bonnin ()"], "comments": [], "recommandations_id": []}

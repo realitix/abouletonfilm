@@ -1,1 +1,0 @@
-{"tmdb_id": 586579, "title": "Girls f\u00fcr Gourmets!", "original_title": "Girls f\u00fcr Gourmets!", "slug_title": "girls-fur-gourmets", "date": "2006-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w5sw1RnEmkbub9iW4whUVYcMCm.jpg", "actors": ["Tyra Misoux ()"], "comments": [], "recommandations_id": []}

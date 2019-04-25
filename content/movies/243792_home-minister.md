@@ -1,1 +1,0 @@
-{"tmdb_id": 243792, "title": "Home Minister", "original_title": "Home Minister", "slug_title": "home-minister", "date": "2012-12-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Venu Arvind (Venu Venkatraman)"], "comments": [], "recommandations_id": []}

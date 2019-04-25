@@ -1,1 +1,0 @@
-{"tmdb_id": 264040, "title": "The Sisterhood", "original_title": "The Sisterhood", "slug_title": "the-sisterhood", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

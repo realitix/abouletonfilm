@@ -1,1 +1,0 @@
-{"tmdb_id": 560057, "title": "Jacob and the Sea Beast", "original_title": "Jacob and the Sea Beast", "slug_title": "jacob-and-the-sea-beast", "date": "", "genre": "Animation / Aventure / Com\u00e9die / Familial / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

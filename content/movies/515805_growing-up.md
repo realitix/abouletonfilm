@@ -1,1 +1,0 @@
-{"tmdb_id": 515805, "title": "Growing Up", "original_title": "Odra\u0161\u010danje", "slug_title": "growing-up", "date": "2017-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3vrT58oLUHnx3yew6pfatKeghIT.jpg", "actors": [], "comments": [], "recommandations_id": []}

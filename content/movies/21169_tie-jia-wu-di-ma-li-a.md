@@ -1,1 +1,0 @@
-{"tmdb_id": 21169, "title": "Tie jia wu di Ma Li A", "original_title": "Tie jia wu di Ma Li A", "slug_title": "tie-jia-wu-di-ma-li-a", "date": "1990-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 525680, "title": "The East Wind State Farm", "original_title": "Guoying Dongfeng Nongchang", "slug_title": "the-east-wind-state-farm", "date": "2009-05-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1v2GAeJuFu6LIWZ7R1nNSVF1LA1.jpg", "actors": [], "comments": [], "recommandations_id": []}

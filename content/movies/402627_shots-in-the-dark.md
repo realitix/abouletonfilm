@@ -1,1 +1,0 @@
-{"tmdb_id": 402627, "title": "Shots in the Dark", "original_title": "Shots in the Dark", "slug_title": "shots-in-the-dark", "date": "2009-01-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qXZgv8BUIW5YQ7BsPhfl6BnIefG.jpg", "actors": [], "comments": [], "recommandations_id": []}

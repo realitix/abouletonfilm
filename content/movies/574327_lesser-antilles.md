@@ -1,1 +1,0 @@
-{"tmdb_id": 574327, "title": "Lesser Antilles", "original_title": "Lesser Antilles", "slug_title": "lesser-antilles", "date": "1970-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "Un court film de Robert Fulton", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

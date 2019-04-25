@@ -1,1 +1,0 @@
-{"tmdb_id": 440015, "title": "Das Schweigen der M\u00e4nner", "original_title": "Das Schweigen der M\u00e4nner", "slug_title": "das-schweigen-der-manner", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

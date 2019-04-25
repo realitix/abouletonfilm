@@ -1,1 +1,0 @@
-{"tmdb_id": 578831, "title": "Out of Earth", "original_title": "De Tierra", "slug_title": "out-of-earth", "date": "2012-09-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tenoch Huerta (Julio)", "Eileen Ya\u00f1ez (Belen)"], "comments": [], "recommandations_id": []}

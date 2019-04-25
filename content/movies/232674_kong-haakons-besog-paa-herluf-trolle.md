@@ -1,1 +1,0 @@
-{"tmdb_id": 232674, "title": "Kong Haakons bes\u00f8g paa 'Herluf Trolle'", "original_title": "Kong Haakons bes\u00f8g paa 'Herluf Trolle'", "slug_title": "kong-haakons-besog-paa-herluf-trolle", "date": "1906-11-03", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

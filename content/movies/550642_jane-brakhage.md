@@ -1,1 +1,0 @@
-{"tmdb_id": 550642, "title": "Jane Brakhage", "original_title": "Jane Brakhage", "slug_title": "jane-brakhage", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

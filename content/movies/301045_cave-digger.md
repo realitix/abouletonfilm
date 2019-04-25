@@ -1,1 +1,0 @@
-{"tmdb_id": 301045, "title": "Cave Digger", "original_title": "Cave Digger", "slug_title": "cave-digger", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/785z3nmZXmWlOQ5uqZ8ljMG8gz0.jpg", "actors": [], "comments": [], "recommandations_id": []}

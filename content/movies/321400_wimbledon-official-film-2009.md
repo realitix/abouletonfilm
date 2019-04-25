@@ -1,1 +1,0 @@
-{"tmdb_id": 321400, "title": "Wimbledon Official Film 2009", "original_title": "Wimbledon Official Film 2009", "slug_title": "wimbledon-official-film-2009", "date": "2009-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

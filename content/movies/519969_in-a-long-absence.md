@@ -1,1 +1,0 @@
-{"tmdb_id": 519969, "title": "In A Long Absence", "original_title": "In A Long Absence", "slug_title": "in-a-long-absence", "date": "2018-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8v8VyE1soUEryGK9sLQvqlI6qXQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

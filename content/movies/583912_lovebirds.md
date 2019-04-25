@@ -1,1 +1,0 @@
-{"tmdb_id": 583912, "title": "Lovebirds", "original_title": "L'amour \u00e0 la plage", "slug_title": "lovebirds", "date": "2018-09-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dVfOJvLsiTcAXj5Z1avn0k31KEU.jpg", "actors": [], "comments": [], "recommandations_id": []}

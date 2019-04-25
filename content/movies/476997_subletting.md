@@ -1,1 +1,0 @@
-{"tmdb_id": 476997, "title": "Subletting", "original_title": "Subletting", "slug_title": "subletting", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andrea Diaz Ariza (Maria)", "Zach Grooten (Nick)", "Cory Anderson (Jenn)", "Evie Price (Linda)", "Alexia Marie (Nurse)"], "comments": [], "recommandations_id": []}

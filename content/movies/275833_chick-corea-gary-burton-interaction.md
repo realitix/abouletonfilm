@@ -1,1 +1,0 @@
-{"tmdb_id": 275833, "title": "Chick Corea & Gary Burton: Interaction", "original_title": "Chick Corea & Gary Burton: Interaction", "slug_title": "chick-corea-gary-burton-interaction", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

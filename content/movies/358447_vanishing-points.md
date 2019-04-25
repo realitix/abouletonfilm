@@ -1,1 +1,0 @@
-{"tmdb_id": 358447, "title": "Vanishing Points", "original_title": "Vanishing Points", "slug_title": "vanishing-points", "date": "2005-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

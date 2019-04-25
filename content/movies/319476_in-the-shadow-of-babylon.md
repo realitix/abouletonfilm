@@ -1,1 +1,0 @@
-{"tmdb_id": 319476, "title": "In the Shadow of Babylon", "original_title": "In the Shadow of Babylon", "slug_title": "in-the-shadow-of-babylon", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 329684, "title": "The Fake Trade", "original_title": "The Fake Trade", "slug_title": "the-fake-trade", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fevUc6mWntNj1U68GMSZdiyc9ea.jpg", "actors": [], "comments": [], "recommandations_id": []}

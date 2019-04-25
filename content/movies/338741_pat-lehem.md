@@ -1,1 +1,0 @@
-{"tmdb_id": 338741, "title": "Pat-Lehem", "original_title": "Pat-Lehem", "slug_title": "pat-lehem", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

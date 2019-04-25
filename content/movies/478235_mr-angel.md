@@ -1,1 +1,0 @@
-{"tmdb_id": 478235, "title": "Mr. Angel", "original_title": "Mr. Angel", "slug_title": "mr-angel", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Gerrard (Brad Angel)", "Cornelia Lucas (Julie)", "John Roscoe (Pete)", "J. Haskell Black (Tony)"], "comments": [], "recommandations_id": []}

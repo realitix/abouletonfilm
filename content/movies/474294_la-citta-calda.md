@@ -1,1 +1,0 @@
-{"tmdb_id": 474294, "title": "La citt\u00e0 calda", "original_title": "La citt\u00e0 calda", "slug_title": "la-citta-calda", "date": "1962-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 388052, "title": "TerrorTales", "original_title": "TerrorTales", "slug_title": "terrortales", "date": "2014-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7mjiQdfJAdLayFf7ys7ugXzola2.jpg", "actors": ["Shayne White ()"], "comments": [], "recommandations_id": []}

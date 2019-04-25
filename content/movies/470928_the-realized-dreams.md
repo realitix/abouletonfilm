@@ -1,1 +1,0 @@
-{"tmdb_id": 470928, "title": "The Realized Dreams", "original_title": "The Realized Dreams", "slug_title": "the-realized-dreams", "date": "1937-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

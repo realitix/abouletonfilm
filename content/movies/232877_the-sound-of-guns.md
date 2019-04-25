@@ -1,1 +1,0 @@
-{"tmdb_id": 232877, "title": "The Sound of Guns", "original_title": "The Sound of Guns", "slug_title": "the-sound-of-guns", "date": "1979-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 242960, "title": "Grandma Moses", "original_title": "Grandma Moses", "slug_title": "grandma-moses", "date": "1950-10-23", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aKIY0is1ycbmebiWPlFgsceEtEx.jpg", "actors": ["Archibald Macleish (Narrator)"], "comments": [], "recommandations_id": []}

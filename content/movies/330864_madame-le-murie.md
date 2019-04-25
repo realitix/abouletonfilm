@@ -1,1 +1,0 @@
-{"tmdb_id": 330864, "title": "Madame Le Murie", "original_title": "Pan\u00ed Le Murie", "slug_title": "madame-le-murie", "date": "1993-01-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gDeiXyv2CTNFKDI7rXruWeDCSA7.jpg", "actors": [], "comments": [], "recommandations_id": [162660, 163349]}

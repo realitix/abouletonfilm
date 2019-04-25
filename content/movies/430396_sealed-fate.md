@@ -1,1 +1,0 @@
-{"tmdb_id": 430396, "title": "Sealed Fate", "original_title": "Sealed Fate", "slug_title": "sealed-fate", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

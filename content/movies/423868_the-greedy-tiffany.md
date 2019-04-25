@@ -1,1 +1,0 @@
-{"tmdb_id": 423868, "title": "The Greedy Tiffany", "original_title": "Nenasytn\u00e1 Tiffany", "slug_title": "the-greedy-tiffany", "date": "2015-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5vDSUBH3J9mKHnlJ9RuysaFDUz9.jpg", "actors": ["Leo\u0161 Noha (Pepa)"], "comments": [], "recommandations_id": []}

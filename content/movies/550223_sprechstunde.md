@@ -1,1 +1,1 @@
-{"tmdb_id": 550223, "title": "Sprechstunde", "original_title": "Sprechstunde", "slug_title": "sprechstunde", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 550223, "title": "Sprechstunde", "original_title": "Sprechstunde", "slug_title": "sprechstunde", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

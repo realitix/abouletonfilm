@@ -1,1 +1,0 @@
-{"tmdb_id": 373817, "title": "Handcuffs", "original_title": "Handcuffs", "slug_title": "handcuffs", "date": "2009-12-22", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gPz9xLfU19BBjZA6a9RyZpTwIgQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

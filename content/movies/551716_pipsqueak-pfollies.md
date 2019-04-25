@@ -1,1 +1,0 @@
-{"tmdb_id": 551716, "title": "Pipsqueak Pfollies", "original_title": "Pipsqueak Pfollies", "slug_title": "pipsqueak-pfollies", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iyZ4CoUIx4CSTbyQcaNWbKJZ56x.jpg", "actors": [], "comments": [], "recommandations_id": []}

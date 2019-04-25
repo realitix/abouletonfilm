@@ -1,1 +1,0 @@
-{"tmdb_id": 539314, "title": "Harlem Theater", "original_title": "Harlem Theater", "slug_title": "harlem-theater", "date": "1969-04-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

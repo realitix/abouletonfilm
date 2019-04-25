@@ -1,1 +1,0 @@
-{"tmdb_id": 452243, "title": "Los materiales", "original_title": "Los materiales", "slug_title": "los-materiales", "date": "2010-07-09", "genre": "Myst\u00e8re / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vilCta9ISlXUIKLhRDbkPVe71k1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 373862, "title": "Jesus Christ Superstar (Chilean Movie)", "original_title": "Jesus Christ Superstar (Chilean Movie)", "slug_title": "jesus-christ-superstar-chilean-movie", "date": "2010-12-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

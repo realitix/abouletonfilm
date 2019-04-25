@@ -1,1 +1,0 @@
-{"tmdb_id": 555902, "title": "Les Roquevillard", "original_title": "Les Roquevillard", "slug_title": "les-roquevillard", "date": "1922-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

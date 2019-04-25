@@ -1,1 +1,0 @@
-{"tmdb_id": 466559, "title": "Apis in Memphis", "original_title": "Apis in Memphis", "slug_title": "apis-in-memphis", "date": "2013-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fnP1kZVCw2RlmWM6YHGlaXeREl2.jpg", "actors": [], "comments": [], "recommandations_id": []}

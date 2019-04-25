@@ -1,1 +1,0 @@
-{"tmdb_id": 527365, "title": "I LOVE YOU", "original_title": "I LOVE YOU", "slug_title": "i-love-you", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

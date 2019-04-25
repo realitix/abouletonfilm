@@ -1,1 +1,0 @@
-{"tmdb_id": 275665, "title": "Strawberry Cliff", "original_title": "Strawberry Cliff", "slug_title": "strawberry-cliff", "date": "2011-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/87XcKvdi1CI7eRjjtABd01IWOfv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 270872, "title": "disCONNECT", "original_title": "disCONNECT", "slug_title": "disconnect", "date": "2014-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AhBcDajXFWwpt3JVqxcI81QkbkG.jpg", "actors": ["Agata Stasiak ()", "Chris Ross ()"], "comments": [], "recommandations_id": []}

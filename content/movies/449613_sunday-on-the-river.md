@@ -1,1 +1,0 @@
-{"tmdb_id": 449613, "title": "Sunday On The River", "original_title": "Sunday On The River", "slug_title": "sunday-on-the-river", "date": "1962-04-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

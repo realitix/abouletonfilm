@@ -1,1 +1,0 @@
-{"tmdb_id": 575760, "title": "Challenge 2", "original_title": "Challenge 2", "slug_title": "challenge-2", "date": "2012-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qcibbeYkmMZishLMPujyE285lHJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 195884, "title": "Day School Sports at Park Avenue, Bradford", "original_title": "Day School Sports at Park Avenue, Bradford", "slug_title": "day-school-sports-at-park-avenue-bradford", "date": "1902-05-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

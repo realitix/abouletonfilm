@@ -1,1 +1,0 @@
-{"tmdb_id": 410854, "title": "Julie Knew Her Killer", "original_title": "Julie Knew Her Killer", "slug_title": "julie-knew-her-killer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8q7Feks3IY9611XBOzOIexlkPBm.jpg", "actors": [], "comments": [], "recommandations_id": []}

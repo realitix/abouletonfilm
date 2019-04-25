@@ -1,1 +1,0 @@
-{"tmdb_id": 70029, "title": "Lune de miel en enfer", "original_title": "Lune de miel en enfer", "slug_title": "lune-de-miel-en-enfer", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cdzRYTZQVwEWmJSQ28BWO8O6hDD.jpg", "actors": [], "comments": [], "recommandations_id": []}

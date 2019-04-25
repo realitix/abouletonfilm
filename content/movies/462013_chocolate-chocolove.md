@@ -1,1 +1,0 @@
-{"tmdb_id": 462013, "title": "Chocolate Chocolove", "original_title": "Chocolate Chocolove", "slug_title": "chocolate-chocolove", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gVAQN1vOjUaCR1PuERQNIacQ8xf.jpg", "actors": ["Cheery Sarmkoke ()"], "comments": [], "recommandations_id": []}

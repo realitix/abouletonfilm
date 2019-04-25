@@ -1,1 +1,0 @@
-{"tmdb_id": 322479, "title": "Super Bowl XLIX Champions", "original_title": "Super Bowl XLIX Champions", "slug_title": "super-bowl-xlix-champions", "date": "2015-02-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eTaoDeXfGtH16Iah5pZuVafRruY.jpg", "actors": [], "comments": [], "recommandations_id": []}

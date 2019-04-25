@@ -1,1 +1,0 @@
-{"tmdb_id": 307641, "title": "Twenties", "original_title": "Twenties", "slug_title": "twenties", "date": "", "genre": "Com\u00e9die", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Battaglia (Jake)", "Hobert Thompson (Luke)"], "comments": [], "recommandations_id": []}

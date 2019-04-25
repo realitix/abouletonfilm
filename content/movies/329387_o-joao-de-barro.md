@@ -1,1 +1,0 @@
-{"tmdb_id": 329387, "title": "O Jo\u00e3o de Barro", "original_title": "O Jo\u00e3o de Barro", "slug_title": "o-joao-de-barro", "date": "1956-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aCgCEFpMgDfs1YeXNdDA8FNcIAG.jpg", "actors": [], "comments": [], "recommandations_id": []}

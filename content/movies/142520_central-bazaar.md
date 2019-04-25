@@ -1,1 +1,0 @@
-{"tmdb_id": 142520, "title": "Central Bazaar", "original_title": "Central Bazaar", "slug_title": "central-bazaar", "date": "1976-01-01", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jOjaYZD7bMHl9yRIXiHWj8jTes3.jpg", "actors": [], "comments": [], "recommandations_id": []}

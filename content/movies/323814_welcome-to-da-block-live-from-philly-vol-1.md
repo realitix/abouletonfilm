@@ -1,1 +1,0 @@
-{"tmdb_id": 323814, "title": "Welcome to Da Block: Live from Philly: Vol. 1", "original_title": "Welcome to Da Block: Live from Philly: Vol. 1", "slug_title": "welcome-to-da-block-live-from-philly-vol-1", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

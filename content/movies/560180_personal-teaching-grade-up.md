@@ -1,1 +1,0 @@
-{"tmdb_id": 560180, "title": "Personal Teaching: Grade Up", "original_title": "Personal Teaching: Grade Up", "slug_title": "personal-teaching-grade-up", "date": "2018-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gmzUAKuVUuBGSF0G9vSjo3G61rq.jpg", "actors": [], "comments": [], "recommandations_id": []}

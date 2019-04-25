@@ -1,1 +1,0 @@
-{"tmdb_id": 103560, "title": "Stuff That's Gone", "original_title": "Stuff That's Gone", "slug_title": "stuff-that-s-gone", "date": "1994-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 501119, "title": "Turgidity", "original_title": "Turgidity", "slug_title": "turgidity", "date": "2013-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

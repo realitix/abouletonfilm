@@ -1,1 +1,0 @@
-{"tmdb_id": 205627, "title": "Das blaue Juwel", "original_title": "Das blaue Juwel", "slug_title": "das-blaue-juwel", "date": "2012-11-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j93MvMO8DNiD6OiVGibcRQt6DkX.jpg", "actors": [], "comments": [], "recommandations_id": []}

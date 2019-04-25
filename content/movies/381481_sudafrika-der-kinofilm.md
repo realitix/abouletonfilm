@@ -1,1 +1,0 @@
-{"tmdb_id": 381481, "title": "S\u00fcdafrika - Der Kinofilm", "original_title": "S\u00fcdafrika - Der Kinofilm", "slug_title": "sudafrika-der-kinofilm", "date": "2016-02-25", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dciL1cKydrq0p8C6zzzoOqVgBrR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 574245, "title": "YouShoot: Shane Helms", "original_title": "YouShoot: Shane Helms", "slug_title": "youshoot-shane-helms", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Gregory Shane Helms (Himself)"], "comments": [], "recommandations_id": []}

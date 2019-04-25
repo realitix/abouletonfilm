@@ -1,1 +1,0 @@
-{"tmdb_id": 296409, "title": "O Pequeno Burgu\u00eas - Filosofia de Vida", "original_title": "O Pequeno Burgu\u00eas - Filosofia de Vida", "slug_title": "o-pequeno-burgues-filosofia-de-vida", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

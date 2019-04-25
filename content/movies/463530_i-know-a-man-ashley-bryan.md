@@ -1,1 +1,0 @@
-{"tmdb_id": 463530, "title": "I Know a Man\u2026Ashley Bryan", "original_title": "I Know a Man\u2026Ashley Bryan", "slug_title": "i-know-a-man-ashley-bryan", "date": "2017-06-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ashley Bryan (Himself)"], "comments": [], "recommandations_id": []}

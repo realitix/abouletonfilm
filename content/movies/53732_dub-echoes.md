@@ -1,1 +1,0 @@
-{"tmdb_id": 53732, "title": "Dub Echoes", "original_title": "Dub Echoes", "slug_title": "dub-echoes", "date": "2008-08-03", "genre": "Documentaire / Musique", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hZcrTbfhPl1NSGsmoqcpmrtV6D3.jpg", "actors": [], "comments": [], "recommandations_id": [13135]}

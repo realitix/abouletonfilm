@@ -1,1 +1,0 @@
-{"tmdb_id": 349843, "title": "\uc18c\ub9bc\uc0ac \uc8fc\ucc9c\uadc0\ub3d9", "original_title": "\uc18c\ub9bc\uc0ac \uc8fc\ucc9c\uadc0\ub3d9", "slug_title": "sorimsa-juceongwidong", "date": "1982-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

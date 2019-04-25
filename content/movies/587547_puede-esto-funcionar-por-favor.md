@@ -1,1 +1,0 @@
-{"tmdb_id": 587547, "title": "puede esto funcionar por favor", "original_title": "puede esto funcionar por favor", "slug_title": "puede-esto-funcionar-por-favor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

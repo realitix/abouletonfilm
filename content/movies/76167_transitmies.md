@@ -1,1 +1,0 @@
-{"tmdb_id": 76167, "title": "Transitmies", "original_title": "Transitmies", "slug_title": "transitmies", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lApy5CA26SDFoPSsW1TTBXhBC19.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 545265, "title": "Drill Me! Fill Me! 2", "original_title": "Drill Me! Fill Me! 2", "slug_title": "drill-me-fill-me-2", "date": "2012-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iXIXNZuswFLSc880kCb13LNB5cm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 406257, "title": "Absent without Leave", "original_title": "\u4e0d\u5373\u4e0d\u96e2", "slug_title": "absent-without-leave", "date": "2016-07-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/myZecQufv9uJ8TpdKmSSMSw0Nha.jpg", "actors": [], "comments": [], "recommandations_id": []}

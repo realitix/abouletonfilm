@@ -1,1 +1,0 @@
-{"tmdb_id": 186446, "title": "Sabaton: Graspop", "original_title": "Sabaton: Graspop", "slug_title": "sabaton-graspop", "date": "2012-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jrQrGtGvoHmxL4WU13QaHmtIXpg.jpg", "actors": ["Joakim Brod\u00e9n ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 199628, "title": "She Dreamed That I Died", "original_title": "Ela Sonhou que Eu Morri", "slug_title": "she-dreamed-that-i-died", "date": "2011-07-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o1FllZ1tR5YqiVt8dZJs6hwDCeR.jpg", "actors": [], "comments": [], "recommandations_id": []}

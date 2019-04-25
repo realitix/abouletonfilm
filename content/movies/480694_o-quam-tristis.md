@@ -1,1 +1,0 @@
-{"tmdb_id": 480694, "title": "O Quam Tristis", "original_title": "O Quam Tristis", "slug_title": "o-quam-tristis", "date": "2009-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sonia Abella Grau ()", "Rosita Grau Oliva ()", "Sandra Abella Grau ()"], "comments": [], "recommandations_id": []}

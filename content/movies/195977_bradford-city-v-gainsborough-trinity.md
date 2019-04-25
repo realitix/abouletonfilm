@@ -1,1 +1,0 @@
-{"tmdb_id": 195977, "title": "Bradford City v Gainsborough Trinity", "original_title": "Bradford City v Gainsborough Trinity", "slug_title": "bradford-city-v-gainsborough-trinity", "date": "1903-05-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

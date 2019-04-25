@@ -1,1 +1,0 @@
-{"tmdb_id": 289722, "title": "Sunday Morning in Mexico", "original_title": "Sunday Morning in Mexico", "slug_title": "sunday-morning-in-mexico", "date": "1898-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

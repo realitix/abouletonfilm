@@ -1,1 +1,0 @@
-{"tmdb_id": 505133, "title": "Coming Attractions: Classic Horror", "original_title": "Coming Attractions: Classic Horror", "slug_title": "coming-attractions-classic-horror", "date": "2012-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

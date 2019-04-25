@@ -1,1 +1,0 @@
-{"tmdb_id": 490967, "title": "Rascal Racoon", "original_title": "Kamishibai Itazura Tanuki no Maki", "slug_title": "rascal-racoon", "date": "1933-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

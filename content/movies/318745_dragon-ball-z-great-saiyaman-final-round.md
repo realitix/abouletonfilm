@@ -1,1 +1,0 @@
-{"tmdb_id": 318745, "title": "Dragon Ball Z: Great Saiyaman: Final Round", "original_title": "Dragon Ball Z: Great Saiyaman: Final Round", "slug_title": "dragon-ball-z-great-saiyaman-final-round", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

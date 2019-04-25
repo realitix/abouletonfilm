@@ -1,1 +1,0 @@
-{"tmdb_id": 428273, "title": "Nauvoo:  The City of Joseph", "original_title": "Nauvoo:  The City of Joseph", "slug_title": "nauvoo-the-city-of-joseph", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rIBHgFCil2CutFf8dZWpglGge0J.jpg", "actors": [], "comments": [], "recommandations_id": []}

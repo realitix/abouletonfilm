@@ -1,1 +1,0 @@
-{"tmdb_id": 550724, "title": "Fire and Sword", "original_title": "Feuer und Schwert - Die Legende von Tristan und Isolde", "slug_title": "fire-and-sword", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

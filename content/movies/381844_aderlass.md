@@ -1,1 +1,0 @@
-{"tmdb_id": 381844, "title": "Aderla\u00df", "original_title": "Aderla\u00df", "slug_title": "aderlass", "date": "1981-02-09", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3b8H1rlCHa4wVBHXwgiec5CNbn5.jpg", "actors": [], "comments": [], "recommandations_id": []}

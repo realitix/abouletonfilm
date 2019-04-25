@@ -1,1 +1,0 @@
-{"tmdb_id": 367827, "title": "The Broken Road", "original_title": "The Broken Road", "slug_title": "the-broken-road", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

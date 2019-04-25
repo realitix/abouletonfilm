@@ -1,1 +1,0 @@
-{"tmdb_id": 565611, "title": "Excursion en Italie \u2013 De Naples au V\u00e9suve", "original_title": "Excursion en Italie \u2013 De Naples au V\u00e9suve", "slug_title": "excursion-en-italie-de-naples-au-vesuve", "date": "1904-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

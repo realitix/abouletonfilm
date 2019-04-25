@@ -1,1 +1,0 @@
-{"tmdb_id": 537015, "title": "My Sky, My Land", "original_title": "My Sky, My Land", "slug_title": "my-sky-my-land", "date": "1976-04-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 279949, "title": "Green Stones", "original_title": "Piedras verdes", "slug_title": "green-stones", "date": "2001-02-16", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vanessa Bauche ()", "Osvaldo Benavides ()", "Juan Claudio Retes ()", "Gabriel Retes ()", "Alicia del Lago ()"], "comments": [], "recommandations_id": []}

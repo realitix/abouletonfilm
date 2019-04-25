@@ -1,1 +1,0 @@
-{"tmdb_id": 408720, "title": "Lady Ice", "original_title": "Lady Ice", "slug_title": "lady-ice", "date": "2010-03-04", "genre": "Romance / Animation / Action / Fantastique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/flPiREGeQzhYofjSL8AQRdQIhv9.jpg", "actors": [], "comments": [], "recommandations_id": []}

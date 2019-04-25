@@ -1,1 +1,0 @@
-{"tmdb_id": 406288, "title": "Physical Sculpture", "original_title": "Sculpture physique", "slug_title": "physical-sculpture", "date": "1989-01-01", "genre": "Thriller / Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 198860, "title": "Le petit \u00e9tranger", "original_title": "Al gharib al saghir", "slug_title": "le-petit-etranger", "date": "1962-05-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/NCmkaYygyPMyDLeIZ5aMSnihoX.jpg", "actors": [], "comments": [], "recommandations_id": []}

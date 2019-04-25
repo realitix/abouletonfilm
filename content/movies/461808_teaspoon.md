@@ -1,1 +1,0 @@
-{"tmdb_id": 461808, "title": "Teaspoon", "original_title": "Teaspoon", "slug_title": "teaspoon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 572313, "title": "Jozi ngaphakathi", "original_title": "Jozi ngaphakathi", "slug_title": "jozi-ngaphakathi", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 269187, "title": "My Slave", "original_title": "My Slave", "slug_title": "my-slave", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

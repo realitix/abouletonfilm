@@ -1,1 +1,0 @@
-{"tmdb_id": 467125, "title": "Aussie Assault", "original_title": "Aussie Assault", "slug_title": "aussie-assault", "date": "1984-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dOXeaHI86FJoZho7zDTM0RGEfQu.jpg", "actors": ["Ray Barrett (Narrator)"], "comments": [], "recommandations_id": []}

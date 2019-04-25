@@ -1,1 +1,0 @@
-{"tmdb_id": 591947, "title": "The Take", "original_title": "The Take", "slug_title": "the-take", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Idris Elba ()"], "comments": [], "recommandations_id": []}

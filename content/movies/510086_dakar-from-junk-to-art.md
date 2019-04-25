@@ -1,1 +1,0 @@
-{"tmdb_id": 510086, "title": "Dakar: From Junk to Art", "original_title": "Dakar: From Junk to Art", "slug_title": "dakar-from-junk-to-art", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

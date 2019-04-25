@@ -1,1 +1,0 @@
-{"tmdb_id": 280925, "title": "R\u00eave Kakudji", "original_title": "R\u00eave Kakudji", "slug_title": "reve-kakudji", "date": "2013-05-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ZzgXikxXdQ3eZRZnaivBleHkCr.jpg", "actors": [], "comments": [], "recommandations_id": []}

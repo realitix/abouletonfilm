@@ -1,1 +1,0 @@
-{"tmdb_id": 304069, "title": "Pity the Pilot Whale", "original_title": "Pity the Pilot Whale", "slug_title": "pity-the-pilot-whale", "date": "2014-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

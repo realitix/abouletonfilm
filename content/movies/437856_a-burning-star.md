@@ -1,1 +1,0 @@
-{"tmdb_id": 437856, "title": "A Burning Star", "original_title": "\u713c\u661f", "slug_title": "a-burning-star", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nRh5S3Dy0EOyjrgi3jNq9QHELEL.jpg", "actors": [], "comments": [], "recommandations_id": []}

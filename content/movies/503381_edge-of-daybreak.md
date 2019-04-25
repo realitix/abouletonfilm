@@ -1,1 +1,0 @@
-{"tmdb_id": 503381, "title": "Edge of Daybreak", "original_title": "Edge of Daybreak", "slug_title": "edge-of-daybreak", "date": "2018-01-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jon Kirby (Himself)", "James Carrington (Himself)"], "comments": [], "recommandations_id": []}

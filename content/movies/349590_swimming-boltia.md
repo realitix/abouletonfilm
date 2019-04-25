@@ -1,1 +1,0 @@
-{"tmdb_id": 349590, "title": "Swimming Boltia", "original_title": "Boltya El Ayma", "slug_title": "swimming-boltia", "date": "2008-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vdKARVtCOY0kydHxgBm6zAUIK9M.jpg", "actors": ["Abla Kamel ()"], "comments": [], "recommandations_id": []}

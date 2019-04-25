@@ -1,1 +1,0 @@
-{"tmdb_id": 563938, "title": "Beb\u00ea Mais: Filhotes", "original_title": "Beb\u00ea Mais: Filhotes", "slug_title": "bebe-mais-filhotes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k4V6JsNLtUYghJGONzPuCBKa0da.jpg", "actors": [], "comments": [], "recommandations_id": []}

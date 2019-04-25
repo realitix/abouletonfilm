@@ -1,1 +1,0 @@
-{"tmdb_id": 321755, "title": "As Sanfonas do Lua", "original_title": "As Sanfonas do Lua", "slug_title": "as-sanfonas-do-lua", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

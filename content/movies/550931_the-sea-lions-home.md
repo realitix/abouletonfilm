@@ -1,1 +1,0 @@
-{"tmdb_id": 550931, "title": "The Sea Lions' Home", "original_title": "The Sea Lions' Home", "slug_title": "the-sea-lions-home", "date": "1897-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

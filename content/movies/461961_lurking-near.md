@@ -1,1 +1,0 @@
-{"tmdb_id": 461961, "title": "Lurking Near", "original_title": "Lurking Near", "slug_title": "lurking-near", "date": "2017-04-07", "genre": "Horreur", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7swpINktgIdPT4Yma8xywTdOUyH.jpg", "actors": ["Nox Hrn (The Monster)", "Sakis Karpas (The Man)"], "comments": [], "recommandations_id": []}

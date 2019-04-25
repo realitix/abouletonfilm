@@ -1,1 +1,0 @@
-{"tmdb_id": 73423, "title": "R U There", "original_title": "R U There", "slug_title": "r-u-there", "date": "2010-06-17", "genre": "Drame", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sJ0AZjYj6WGLGzwUJ9zuo8R4gg9.jpg", "actors": [], "comments": [], "recommandations_id": [94691]}

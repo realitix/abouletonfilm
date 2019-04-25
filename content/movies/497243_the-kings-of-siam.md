@@ -1,1 +1,0 @@
-{"tmdb_id": 497243, "title": "The Kings of Siam", "original_title": "The Kings of Siam", "slug_title": "the-kings-of-siam", "date": "1992-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nOAw4WxaJhjOJ6FowEJvw7xKAP9.jpg", "actors": [], "comments": [], "recommandations_id": []}

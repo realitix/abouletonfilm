@@ -1,1 +1,1 @@
-{"tmdb_id": 307743, "title": "Jai Jawan", "original_title": "Jai Jawan", "slug_title": "jai-jawan", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 307743, "title": "Jai Jawan", "original_title": "Jai Jawan", "slug_title": "jai-jawan", "date": "1969-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1970", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

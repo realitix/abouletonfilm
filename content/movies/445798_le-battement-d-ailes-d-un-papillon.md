@@ -1,1 +1,0 @@
-{"tmdb_id": 445798, "title": "Le battement d'ailes d'un papillon", "original_title": "Le battement d'ailes d'un papillon", "slug_title": "le-battement-d-ailes-d-un-papillon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

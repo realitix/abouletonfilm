@@ -1,1 +1,0 @@
-{"tmdb_id": 459491, "title": "Battle at Kruger", "original_title": "Battle at Kruger", "slug_title": "battle-at-kruger", "date": "2007-05-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mboVwZEcA3hczicbdJL3OrsbzZ4.jpg", "actors": [], "comments": [], "recommandations_id": []}

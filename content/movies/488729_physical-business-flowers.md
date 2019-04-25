@@ -1,1 +1,0 @@
-{"tmdb_id": 488729, "title": "Physical Business Flowers", "original_title": "Nikutai eigy\u014d no hana", "slug_title": "physical-business-flowers", "date": "2016-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ryoko Murakami ()"], "comments": [], "recommandations_id": []}

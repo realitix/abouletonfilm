@@ -1,1 +1,0 @@
-{"tmdb_id": 265571, "title": "Los herederos", "original_title": "Los herederos", "slug_title": "los-herederos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fhLvymq951yAMj7eDHqZgkvhM73.jpg", "actors": [], "comments": [], "recommandations_id": []}

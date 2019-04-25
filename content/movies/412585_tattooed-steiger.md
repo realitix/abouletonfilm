@@ -1,1 +1,0 @@
-{"tmdb_id": 412585, "title": "Tattooed Steiger", "original_title": "Tattooed Steiger", "slug_title": "tattooed-steiger", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rod Steiger (Himself)", "Claire Bloom (Herself)", "Robert Drivas (Himself)", "Jack Smight ()"], "comments": [], "recommandations_id": []}

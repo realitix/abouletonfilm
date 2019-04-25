@@ -1,1 +1,0 @@
-{"tmdb_id": 496361, "title": "Just Words", "original_title": "Priznanie v lubvi", "slug_title": "just-words", "date": "", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

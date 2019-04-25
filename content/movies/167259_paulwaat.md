@@ -1,1 +1,0 @@
-{"tmdb_id": 167259, "title": "Paulwaat", "original_title": "Paulwaat", "slug_title": "paulwaat", "date": "2011-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v7yasUxIePSlTg16a6ejrnBeO4M.jpg", "actors": ["Subodh Bhave (Anant)", "Jyoti Chandekar ()", "Anand Ingale ()"], "comments": [], "recommandations_id": []}

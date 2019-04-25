@@ -1,1 +1,0 @@
-{"tmdb_id": 245414, "title": "Bikining Itim", "original_title": "Bikining Itim", "slug_title": "bikining-itim", "date": "1990-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

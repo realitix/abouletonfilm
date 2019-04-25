@@ -1,1 +1,0 @@
-{"tmdb_id": 420876, "title": "Boys on Film 6: Pacific Rim", "original_title": "Boys on Film 6: Pacific Rim", "slug_title": "boys-on-film-6-pacific-rim", "date": "2011-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xsMLnsBC8WcZPGXrQYpcr6z6Ex9.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 125942, "title": "The Day I Will Never Forget", "original_title": "The Day I Will Never Forget", "slug_title": "the-day-i-will-never-forget", "date": "2002-11-23", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8IqblRNpjPiINantnrAyHIN1qOR.jpg", "actors": [], "comments": [], "recommandations_id": []}

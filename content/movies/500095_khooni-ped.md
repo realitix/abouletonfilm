@@ -1,1 +1,0 @@
-{"tmdb_id": 500095, "title": "Khooni Ped", "original_title": "Khooni Ped", "slug_title": "khooni-ped", "date": "2008-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2zjkXut2JNBMxqY6v92c8FI1HSI.jpg", "actors": ["Raj Kaushik ()", "Richa Soni ()", "Vaibhavi ()"], "comments": [], "recommandations_id": []}

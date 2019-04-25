@@ -1,1 +1,0 @@
-{"tmdb_id": 243401, "title": "Monsieur Pointu", "original_title": "Monsieur Pointu", "slug_title": "monsieur-pointu", "date": "1976-06-01", "genre": "Com\u00e9die / Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3i9hD0wfLF51amY6xUnvyzRZ9hw.jpg", "actors": ["Paul Cormier ()"], "comments": [], "recommandations_id": []}

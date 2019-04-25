@@ -1,1 +1,0 @@
-{"tmdb_id": 384649, "title": "Muffins", "original_title": "Muffins", "slug_title": "muffins", "date": "2015-07-27", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matthew Carvery (Man)", "Dana Tartau (Woman)"], "comments": [], "recommandations_id": []}

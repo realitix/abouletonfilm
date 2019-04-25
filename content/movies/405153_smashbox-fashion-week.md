@@ -1,1 +1,0 @@
-{"tmdb_id": 405153, "title": "Smashbox Fashion Week", "original_title": "Smashbox Fashion Week", "slug_title": "smashbox-fashion-week", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lpzcOGZQ7mGGNIB4Hd2a2TuXBTu.jpg", "actors": [], "comments": [], "recommandations_id": []}

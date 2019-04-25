@@ -1,1 +1,0 @@
-{"tmdb_id": 160339, "title": "New Love", "original_title": "New Love", "slug_title": "new-love", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

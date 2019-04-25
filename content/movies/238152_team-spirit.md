@@ -1,1 +1,0 @@
-{"tmdb_id": 238152, "title": "Team Spirit", "original_title": "Team Spirit", "slug_title": "team-spirit", "date": "2012-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ut0n4RDUwhxFaxFN9udNS2Wt75q.jpg", "actors": [], "comments": [], "recommandations_id": []}

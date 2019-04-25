@@ -1,1 +1,0 @@
-{"tmdb_id": 339018, "title": "Jazz Icons: Dixieland Jazz - Volume 1", "original_title": "Jazz Icons: Dixieland Jazz - Volume 1", "slug_title": "jazz-icons-dixieland-jazz-volume-1", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

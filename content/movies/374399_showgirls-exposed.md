@@ -1,1 +1,0 @@
-{"tmdb_id": 374399, "title": "Showgirls: Exposed", "original_title": "Showgirls: Exposed", "slug_title": "showgirls-exposed", "date": "2010-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pZ1baMavVIK6gPx9d44eImeKCpT.jpg", "actors": [], "comments": [], "recommandations_id": []}

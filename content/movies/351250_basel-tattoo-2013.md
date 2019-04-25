@@ -1,1 +1,0 @@
-{"tmdb_id": 351250, "title": "Basel Tattoo 2013", "original_title": "Basel Tattoo 2013", "slug_title": "basel-tattoo-2013", "date": "2013-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l5Yl9TkePL6C9ntWzcUztKUpS01.jpg", "actors": [], "comments": [], "recommandations_id": []}

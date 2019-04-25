@@ -1,1 +1,0 @@
-{"tmdb_id": 110212, "title": "Min Siste Bull", "original_title": "Min Siste Bull", "slug_title": "min-siste-bull", "date": "", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kristofer Hivju (Victim)", "Fredrik Hermansen (Gunman)"], "comments": [], "recommandations_id": []}

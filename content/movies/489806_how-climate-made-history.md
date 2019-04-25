@@ -1,1 +1,0 @@
-{"tmdb_id": 489806, "title": "How Climate Made History", "original_title": "How Climate Made History", "slug_title": "how-climate-made-history", "date": "2015-10-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8NZDKlGKAdiOkho5JaCY96NBfPS.jpg", "actors": [], "comments": [], "recommandations_id": []}

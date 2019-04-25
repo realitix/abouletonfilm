@@ -1,1 +1,0 @@
-{"tmdb_id": 383422, "title": "Woodstock Ultimate Edition", "original_title": "Woodstock Ultimate Edition", "slug_title": "woodstock-ultimate-edition", "date": "2009-06-15", "genre": "Musique", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9aBqtprRsRkmTrurBumJvjXN1F6.jpg", "actors": [], "comments": [], "recommandations_id": []}

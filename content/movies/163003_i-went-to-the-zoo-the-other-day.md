@@ -1,1 +1,0 @@
-{"tmdb_id": 163003, "title": "I Went to the Zoo the Other Day", "original_title": "I Went to the Zoo the Other Day", "slug_title": "i-went-to-the-zoo-the-other-day", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

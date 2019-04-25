@@ -1,1 +1,0 @@
-{"tmdb_id": 418911, "title": "Over Florida", "original_title": "Over Florida", "slug_title": "over-florida", "date": "2009-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

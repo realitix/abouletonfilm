@@ -1,1 +1,0 @@
-{"tmdb_id": 564870, "title": "The Cold Soup", "original_title": "La soupe froide", "slug_title": "the-cold-soup", "date": "1975-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ij50gdk5fWs2cbEuKWX3Ihr13A.jpg", "actors": [], "comments": [], "recommandations_id": []}

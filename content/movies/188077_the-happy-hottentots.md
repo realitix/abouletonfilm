@@ -1,1 +1,0 @@
-{"tmdb_id": 188077, "title": "The Happy Hottentots", "original_title": "The Happy Hottentots", "slug_title": "the-happy-hottentots", "date": "1930-04-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 42265, "title": "The California Reich", "original_title": "The California Reich", "slug_title": "the-california-reich", "date": "1975-01-01", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/DoOTboOtHtXZAi9U4WqgVJzGPA.jpg", "actors": [], "comments": [], "recommandations_id": []}

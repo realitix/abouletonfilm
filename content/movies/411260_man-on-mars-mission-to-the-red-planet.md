@@ -1,1 +1,0 @@
-{"tmdb_id": 411260, "title": "Man on Mars Mission to the Red Planet", "original_title": "Man on Mars Mission to the Red Planet", "slug_title": "man-on-mars-mission-to-the-red-planet", "date": "2014-08-13", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

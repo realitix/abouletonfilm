@@ -1,1 +1,0 @@
-{"tmdb_id": 156601, "title": "Way of the Morris", "original_title": "Way of the Morris", "slug_title": "way-of-the-morris", "date": "2011-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ajqVZ6aQpwVeJk3sonfHdXgfVpY.jpg", "actors": [], "comments": [], "recommandations_id": []}

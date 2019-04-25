@@ -1,1 +1,0 @@
-{"tmdb_id": 417191, "title": "Red Maria", "original_title": "Red Maria", "slug_title": "red-maria", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 484934, "title": "Boteti: The Returning River", "original_title": "Boteti: The Returning River", "slug_title": "boteti-the-returning-river", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gVAKS7CK6ldXtPUwW601SuRJLwT.jpg", "actors": [], "comments": [], "recommandations_id": []}

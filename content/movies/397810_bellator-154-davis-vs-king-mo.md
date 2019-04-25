@@ -1,1 +1,0 @@
-{"tmdb_id": 397810, "title": "Bellator 154: Davis vs. King Mo", "original_title": "Bellator 154: Davis vs. King Mo", "slug_title": "bellator-154-davis-vs-king-mo", "date": "2016-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vOJX4uDtHhxlMCG50WHe5x7UjWU.jpg", "actors": [], "comments": [], "recommandations_id": []}

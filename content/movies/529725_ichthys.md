@@ -1,1 +1,0 @@
-{"tmdb_id": 529725, "title": "Ichthys", "original_title": "Ichthys", "slug_title": "ichthys", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/waWxHg4uksZ4tlaanSpgpdqVuTo.jpg", "actors": [], "comments": [], "recommandations_id": []}

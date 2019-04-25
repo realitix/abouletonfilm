@@ -1,1 +1,0 @@
-{"tmdb_id": 563820, "title": "Solidarity Across Borders", "original_title": "Solidarity Across Borders", "slug_title": "solidarity-across-borders", "date": "2018-04-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/99dREYs8PCDNLK0Vm0V3kiEk9Qj.jpg", "actors": [], "comments": [], "recommandations_id": []}

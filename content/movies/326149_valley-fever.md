@@ -1,1 +1,0 @@
-{"tmdb_id": 326149, "title": "Valley Fever", "original_title": "Valley Fever", "slug_title": "valley-fever", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

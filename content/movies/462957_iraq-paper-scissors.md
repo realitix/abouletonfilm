@@ -1,1 +1,0 @@
-{"tmdb_id": 462957, "title": "Iraq Paper Scissors", "original_title": "Iraq Paper Scissors", "slug_title": "iraq-paper-scissors", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

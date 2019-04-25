@@ -1,1 +1,0 @@
-{"tmdb_id": 501718, "title": "The Magic Pill", "original_title": "The Magic Pill", "slug_title": "the-magic-pill", "date": "2017-09-07", "genre": "Documentaire", "score": "7.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yXoG0GhT2Re2nvRdNaMqWSh31Re.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 254054, "title": "Two Spirits", "original_title": "Two Spirits", "slug_title": "two-spirits", "date": "2009-06-21", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7bzK7UkoHysek36UkZDg8JBqtoL.jpg", "actors": [], "comments": [], "recommandations_id": []}

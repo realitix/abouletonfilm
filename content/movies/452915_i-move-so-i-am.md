@@ -1,1 +1,0 @@
-{"tmdb_id": 452915, "title": "I Move, So I Am", "original_title": "Ik beweeg, dus ik besta", "slug_title": "i-move-so-i-am", "date": "1998-01-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tyMBufvNSxp43CK1GPxDfh8DmFm.jpg", "actors": [], "comments": [], "recommandations_id": []}

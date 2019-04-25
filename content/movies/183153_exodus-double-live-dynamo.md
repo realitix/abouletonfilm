@@ -1,1 +1,0 @@
-{"tmdb_id": 183153, "title": "Exodus: Double Live Dynamo", "original_title": "Exodus: Double Live Dynamo", "slug_title": "exodus-double-live-dynamo", "date": "2008-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1EyqInoODd5HHDPdEKXkUMIKvhm.jpg", "actors": [], "comments": [], "recommandations_id": []}

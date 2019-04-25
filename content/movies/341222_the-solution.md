@@ -1,1 +1,0 @@
-{"tmdb_id": 341222, "title": "The Solution", "original_title": "Die L\u00f6sung", "slug_title": "the-solution", "date": "1988-11-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qcam7As3Fk7T9JFxCngbL4sOE98.jpg", "actors": [], "comments": [], "recommandations_id": []}

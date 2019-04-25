@@ -1,1 +1,0 @@
-{"tmdb_id": 399662, "title": "Chubby Chicks 4", "original_title": "Chubby Chicks 4", "slug_title": "chubby-chicks-4", "date": "2016-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/UAYTu25IR7OcOxWvdrzAoofnIs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 390763, "title": "The Gift of the Magi", "original_title": "\u8ce2\u8005\u306e\u8d08\u308a\u7269", "slug_title": "the-gift-of-the-magi", "date": "2010-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/elZ1imrse8ojMLl0MFXMlg83EP9.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 367015, "title": "Jurang Bahaya", "original_title": "Jurang Bahaya", "slug_title": "jurang-bahaya", "date": "1968-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jins Shamsudin (Jefri Zain)", "Landi Chang ()", "Shen Yi ()", "Lo Wei ()"], "comments": [], "recommandations_id": []}

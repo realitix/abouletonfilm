@@ -1,1 +1,0 @@
-{"tmdb_id": 161387, "title": "Geert Hoste: Verdorie!", "original_title": "Geert Hoste: Verdorie!", "slug_title": "geert-hoste-verdorie", "date": "2000-12-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sOQswTzlnV2caJqXgAdSK0ItF4I.jpg", "actors": ["Geert Hoste (Geert Hoste)"], "comments": [], "recommandations_id": []}

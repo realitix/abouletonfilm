@@ -1,1 +1,0 @@
-{"tmdb_id": 538337, "title": "BEAN::QUEEN", "original_title": "BEAN::QUEEN", "slug_title": "bean-queen", "date": "2018-08-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

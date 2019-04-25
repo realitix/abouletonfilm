@@ -1,1 +1,0 @@
-{"tmdb_id": 437938, "title": "The Pure Necessity", "original_title": "Die reine Notwendigkeit", "slug_title": "the-pure-necessity", "date": "2017-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y8H927B1mprzdRVGrBNKYA7HZM2.jpg", "actors": [], "comments": [], "recommandations_id": []}

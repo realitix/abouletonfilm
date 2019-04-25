@@ -1,1 +1,0 @@
-{"tmdb_id": 322951, "title": "Our Magazine No. 3", "original_title": "Our Magazine No. 3", "slug_title": "our-magazine-no-3", "date": "1952-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

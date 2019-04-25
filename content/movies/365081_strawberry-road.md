@@ -1,1 +1,0 @@
-{"tmdb_id": 365081, "title": "Strawberry Road", "original_title": "\u30b9\u30c8\u30ed\u30d9\u30ea\u30fc\u30ed\u30fc\u30c9", "slug_title": "strawberry-road", "date": "1991-04-27", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pnG5lyL4SgNEkhlZ0Z0RioPcCbP.jpg", "actors": [], "comments": [], "recommandations_id": []}

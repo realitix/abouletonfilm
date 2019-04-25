@@ -1,1 +1,0 @@
-{"tmdb_id": 492334, "title": "The Calm Tempest", "original_title": "La Tempestad Calmada", "slug_title": "the-calm-tempest", "date": "2016-03-12", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/60tBKxP0WrWkI8bFFxmRi7PwTZi.jpg", "actors": [], "comments": [], "recommandations_id": []}

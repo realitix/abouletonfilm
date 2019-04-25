@@ -1,1 +1,0 @@
-{"tmdb_id": 578006, "title": "Leona Babette, Westwood, Los Angeles", "original_title": "Leona Babette, Westwood, Los Angeles", "slug_title": "leona-babette-westwood-los-angeles", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leona Babette ()"], "comments": [], "recommandations_id": []}

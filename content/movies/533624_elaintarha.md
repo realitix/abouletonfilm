@@ -1,1 +1,0 @@
-{"tmdb_id": 533624, "title": "El\u00e4intarha", "original_title": "El\u00e4intarha", "slug_title": "elaintarha", "date": "2018-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/85YAlU329kMalMHP8KxnvWHk2Uu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 565694, "title": "Memory Film", "original_title": "Memory Film", "slug_title": "memory-film", "date": "2012-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ulrv49IyaoSWG9YeKNaP9EIl8hP.jpg", "actors": ["David Lynch ()"], "comments": [], "recommandations_id": []}

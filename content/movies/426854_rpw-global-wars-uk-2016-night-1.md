@@ -1,1 +1,0 @@
-{"tmdb_id": 426854, "title": "RPW: Global Wars UK 2016 - Night 1", "original_title": "RPW: Global Wars UK 2016 - Night 1", "slug_title": "rpw-global-wars-uk-2016-night-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hpXds2nA1uOAVmnYM5MQdGUCfd7.jpg", "actors": [], "comments": [], "recommandations_id": []}

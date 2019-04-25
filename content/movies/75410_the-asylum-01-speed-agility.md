@@ -1,1 +1,0 @@
-{"tmdb_id": 75410, "title": "The Asylum - 01. Speed & Agility", "original_title": "The Asylum - 01. Speed & Agility", "slug_title": "the-asylum-01-speed-agility", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 514620, "title": "Bitter Sea", "original_title": "Bitter Sea", "slug_title": "bitter-sea", "date": "2018-01-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sR6QCt4Ur8m558J8hOgcEJbhVNr.jpg", "actors": [], "comments": [], "recommandations_id": []}

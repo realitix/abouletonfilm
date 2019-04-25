@@ -1,1 +1,0 @@
-{"tmdb_id": 186643, "title": "Anthrax: Live Noize", "original_title": "Anthrax: Live Noize", "slug_title": "anthrax-live-noize", "date": "1992-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6377v9abcKhRqV06wUF4nLIkCIK.jpg", "actors": [], "comments": [], "recommandations_id": []}

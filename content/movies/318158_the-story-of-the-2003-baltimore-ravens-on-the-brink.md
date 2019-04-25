@@ -1,1 +1,0 @@
-{"tmdb_id": 318158, "title": "The Story of the 2003 Baltimore Ravens: On the Brink", "original_title": "The Story of the 2003 Baltimore Ravens: On the Brink", "slug_title": "the-story-of-the-2003-baltimore-ravens-on-the-brink", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

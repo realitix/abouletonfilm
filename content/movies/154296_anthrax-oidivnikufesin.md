@@ -1,1 +1,0 @@
-{"tmdb_id": 154296, "title": "Anthrax: Oidivnikufesin", "original_title": "Anthrax: Oidivnikufesin", "slug_title": "anthrax-oidivnikufesin", "date": "1991-07-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cIEdxMdESPDjgBbhNrCQjNo0dMT.jpg", "actors": [], "comments": [], "recommandations_id": []}

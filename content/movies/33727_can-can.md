@@ -1,1 +1,0 @@
-{"tmdb_id": 33727, "title": "Can-Can", "original_title": "Can-Can", "slug_title": "can-can", "date": "2007-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

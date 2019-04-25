@@ -1,1 +1,0 @@
-{"tmdb_id": 537666, "title": "Places With Meaning", "original_title": "Places With Meaning", "slug_title": "places-with-meaning", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tkM0U3VAvpAI8kfILRTfrIoUPwi.jpg", "actors": [], "comments": [], "recommandations_id": []}

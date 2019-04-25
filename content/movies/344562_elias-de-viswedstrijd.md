@@ -1,1 +1,0 @@
-{"tmdb_id": 344562, "title": "Elias - De Viswedstrijd", "original_title": "Elias - De Viswedstrijd", "slug_title": "elias-de-viswedstrijd", "date": "2009-04-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/558q2yO181r6Ed2brLEe4EoeUnZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

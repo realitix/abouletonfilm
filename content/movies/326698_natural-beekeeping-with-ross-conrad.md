@@ -1,1 +1,0 @@
-{"tmdb_id": 326698, "title": "Natural Beekeeping with Ross Conrad", "original_title": "Natural Beekeeping with Ross Conrad", "slug_title": "natural-beekeeping-with-ross-conrad", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

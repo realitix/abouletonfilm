@@ -1,1 +1,0 @@
-{"tmdb_id": 375027, "title": "God View", "original_title": "God View", "slug_title": "god-view", "date": "2011-06-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sHimvtgv18n1EsWmrClRsCbkpPy.jpg", "actors": [], "comments": [], "recommandations_id": []}

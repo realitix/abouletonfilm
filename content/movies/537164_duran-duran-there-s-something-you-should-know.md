@@ -1,1 +1,0 @@
-{"tmdb_id": 537164, "title": "Duran Duran: There's Something You Should Know", "original_title": "Duran Duran: There's Something You Should Know", "slug_title": "duran-duran-there-s-something-you-should-know", "date": "2018-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

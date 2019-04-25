@@ -1,1 +1,0 @@
-{"tmdb_id": 314797, "title": "War File: Battlefield: El Alamein", "original_title": "War File: Battlefield: El Alamein", "slug_title": "war-file-battlefield-el-alamein", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

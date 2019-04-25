@@ -1,1 +1,0 @@
-{"tmdb_id": 575514, "title": "Werewolf of Carle Place", "original_title": "Werewolf of Carle Place", "slug_title": "werewolf-of-carle-place", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kcFJ5jwsh1Y2XN7q77oIro26TLO.jpg", "actors": ["Billy Wurster (William Stone)"], "comments": [], "recommandations_id": []}

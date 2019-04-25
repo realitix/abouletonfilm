@@ -1,1 +1,0 @@
-{"tmdb_id": 572690, "title": "Playgod.com", "original_title": "Playgod.com", "slug_title": "playgod-com", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ben Cluett (GameNinja)"], "comments": [], "recommandations_id": []}

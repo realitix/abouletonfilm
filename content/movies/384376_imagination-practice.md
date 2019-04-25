@@ -1,1 +1,0 @@
-{"tmdb_id": 384376, "title": "Imagination Practice", "original_title": "Kangeru Renshuu", "slug_title": "imagination-practice", "date": "2003-01-01", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kGiGTrVkNB7iBnLKA0x3QYzArnU.jpg", "actors": [], "comments": [], "recommandations_id": []}

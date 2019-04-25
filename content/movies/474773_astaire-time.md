@@ -1,1 +1,0 @@
-{"tmdb_id": 474773, "title": "Astaire Time", "original_title": "Astaire Time", "slug_title": "astaire-time", "date": "1960-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9NPE8gVrYbvgGu9X08Vb1Nqdb7C.jpg", "actors": ["Fred Astaire (Himself)", "Barrie Chase ()"], "comments": [], "recommandations_id": []}

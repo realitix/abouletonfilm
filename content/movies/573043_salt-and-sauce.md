@@ -1,1 +1,0 @@
-{"tmdb_id": 573043, "title": "Salt and Sauce", "original_title": "Salt and Sauce", "slug_title": "salt-and-sauce", "date": "2017-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

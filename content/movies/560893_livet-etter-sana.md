@@ -1,1 +1,1 @@
-{"tmdb_id": 560893, "title": "Livet etter Sana", "original_title": "Livet etter Sana", "slug_title": "livet-etter-sana", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 560893, "title": "Livet etter Sana", "original_title": "Livet etter Sana", "slug_title": "livet-etter-sana", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

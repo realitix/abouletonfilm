@@ -1,1 +1,0 @@
-{"tmdb_id": 304138, "title": "The Perfect Life", "original_title": "The Perfect Life", "slug_title": "the-perfect-life", "date": "2011-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

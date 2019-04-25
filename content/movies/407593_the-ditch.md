@@ -1,1 +1,0 @@
-{"tmdb_id": 407593, "title": "The Ditch", "original_title": "The Ditch", "slug_title": "the-ditch", "date": "2008-04-07", "genre": "Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Boggi ()", "Glenn Mercer ()", "Jason Mercer ()", "Dennis DiClaudio ()"], "comments": [], "recommandations_id": []}

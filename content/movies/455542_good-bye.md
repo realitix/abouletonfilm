@@ -1,1 +1,0 @@
-{"tmdb_id": 455542, "title": "GOOD/BYE", "original_title": "Sayonara mo dekinai", "slug_title": "good-bye", "date": "2017-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xg2HJKi5X7CvSWOL9rtf44ocE27.jpg", "actors": [], "comments": [], "recommandations_id": []}

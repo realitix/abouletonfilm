@@ -1,1 +1,0 @@
-{"tmdb_id": 297863, "title": "Lul\u00fa la del pez", "original_title": "Lul\u00fa la del pez", "slug_title": "lulu-la-del-pez", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Martha Cristiana Merino ()"], "comments": [], "recommandations_id": []}

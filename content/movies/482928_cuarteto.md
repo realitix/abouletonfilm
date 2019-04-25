@@ -1,1 +1,0 @@
-{"tmdb_id": 482928, "title": "Cuarteto", "original_title": "Cuarteto", "slug_title": "cuarteto", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ryfmoD19LWkV0HXjqJxI2jEZKfl.jpg", "actors": [], "comments": [], "recommandations_id": []}

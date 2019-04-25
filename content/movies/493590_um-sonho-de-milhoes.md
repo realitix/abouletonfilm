@@ -1,1 +1,0 @@
-{"tmdb_id": 493590, "title": "Um Sonho de Milh\u00f5es", "original_title": "Um Sonho de Milh\u00f5es", "slug_title": "um-sonho-de-milhoes", "date": "2017-12-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

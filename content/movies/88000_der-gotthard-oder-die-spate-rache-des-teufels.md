@@ -1,1 +1,0 @@
-{"tmdb_id": 88000, "title": "Der Gotthard - Oder die sp\u00e4te Rache des Teufels", "original_title": "Der Gotthard - Oder die sp\u00e4te Rache des Teufels", "slug_title": "der-gotthard-oder-die-spate-rache-des-teufels", "date": "2001-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

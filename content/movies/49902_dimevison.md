@@ -1,1 +1,0 @@
-{"tmdb_id": 49902, "title": "Dimevison", "original_title": "Dimevison", "slug_title": "dimevison", "date": "2006-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/723mOa0ZHVfzkyrwPdGcULtHAq4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 341170, "title": "My Name Is Lisa", "original_title": "My Name Is Lisa", "slug_title": "my-name-is-lisa", "date": "2007-09-24", "genre": "", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vwp1ov0asoLSBM8TP174EAtPPe5.jpg", "actors": [], "comments": [], "recommandations_id": []}

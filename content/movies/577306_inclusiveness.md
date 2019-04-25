@@ -1,1 +1,0 @@
-{"tmdb_id": 577306, "title": "Inclusiveness", "original_title": "Inclusiveness", "slug_title": "inclusiveness", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/osUTkw05DENUyonnXZI5CkwC0EF.jpg", "actors": [], "comments": [], "recommandations_id": []}

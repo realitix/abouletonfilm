@@ -1,1 +1,0 @@
-{"tmdb_id": 573563, "title": "The Art of Film: Vintage Hitchcock", "original_title": "The Art of Film: Vintage Hitchcock", "slug_title": "the-art-of-film-vintage-hitchcock", "date": "1978-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Douglas Fairbanks Jr. (Narrator)"], "comments": [], "recommandations_id": []}

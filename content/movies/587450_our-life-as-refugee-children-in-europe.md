@@ -1,1 +1,0 @@
-{"tmdb_id": 587450, "title": "Our Life as Refugee Children in Europe", "original_title": "Our Life as Refugee Children in Europe", "slug_title": "our-life-as-refugee-children-in-europe", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

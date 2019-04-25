@@ -1,1 +1,0 @@
-{"tmdb_id": 297520, "title": "What!?  Living Dolls", "original_title": "What!?  Living Dolls", "slug_title": "what-living-dolls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

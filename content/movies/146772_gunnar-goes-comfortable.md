@@ -1,1 +1,0 @@
-{"tmdb_id": 146772, "title": "Gunnar Goes Comfortable", "original_title": "Gunnar Goes Comfortable", "slug_title": "gunnar-goes-comfortable", "date": "2003-10-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4L6CncA4TC5xIk6U5ykTBt8TLyf.jpg", "actors": [], "comments": [], "recommandations_id": []}

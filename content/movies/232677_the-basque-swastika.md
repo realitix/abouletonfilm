@@ -1,1 +1,0 @@
-{"tmdb_id": 232677, "title": "The Basque Swastika", "original_title": "Esbastika bat bidasoan", "slug_title": "the-basque-swastika", "date": "2013-11-22", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/poPyXeaZADYmQBctXC04fp7dSUY.jpg", "actors": [], "comments": [], "recommandations_id": []}

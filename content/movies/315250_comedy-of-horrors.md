@@ -1,1 +1,0 @@
-{"tmdb_id": 315250, "title": "Comedy of Horrors", "original_title": "Comedy of Horrors", "slug_title": "comedy-of-horrors", "date": "1981-07-28", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Patrick Macnee (Host)", "Vincent Schiavelli (Gregory)"], "comments": [], "recommandations_id": []}

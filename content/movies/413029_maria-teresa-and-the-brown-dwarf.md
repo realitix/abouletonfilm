@@ -1,1 +1,0 @@
-{"tmdb_id": 413029, "title": "Mar\u00eda Teresa and the Brown Dwarf", "original_title": "Mar\u00eda Teresa y la enana marr\u00f3n", "slug_title": "maria-teresa-and-the-brown-dwarf", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

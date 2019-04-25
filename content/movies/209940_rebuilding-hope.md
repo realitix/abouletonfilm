@@ -1,1 +1,0 @@
-{"tmdb_id": 209940, "title": "Rebuilding Hope", "original_title": "Rebuilding Hope", "slug_title": "rebuilding-hope", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

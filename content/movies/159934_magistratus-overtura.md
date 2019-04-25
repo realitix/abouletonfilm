@@ -1,1 +1,0 @@
-{"tmdb_id": 159934, "title": "Magistratus: Overtura", "original_title": "Magistratus: Overtura", "slug_title": "magistratus-overtura", "date": "2013-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pK2SAK02nqpuaMpzCaiG6ANSNZR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 417683, "title": "City on Fire", "original_title": "City on Fire", "slug_title": "city-on-fire", "date": "2016-09-17", "genre": "Com\u00e9die / Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fm01iYzl0nOYnu5PTh9Xw059G59.jpg", "actors": ["James Mullinger (Himself)"], "comments": [], "recommandations_id": []}

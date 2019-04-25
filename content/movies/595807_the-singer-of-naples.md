@@ -1,1 +1,0 @@
-{"tmdb_id": 595807, "title": "The Singer of Naples", "original_title": "El cantante de Napoles", "slug_title": "the-singer-of-naples", "date": "1935-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xBGNZxp42bVbMWDAd2uSTJ4RP6f.jpg", "actors": [], "comments": [], "recommandations_id": []}

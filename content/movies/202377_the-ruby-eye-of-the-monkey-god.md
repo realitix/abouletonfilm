@@ -1,1 +1,0 @@
-{"tmdb_id": 202377, "title": "The Ruby Eye of the Monkey-God", "original_title": "The Ruby Eye of the Monkey-God", "slug_title": "the-ruby-eye-of-the-monkey-god", "date": "1969-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

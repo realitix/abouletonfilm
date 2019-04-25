@@ -1,1 +1,0 @@
-{"tmdb_id": 379336, "title": "Sticky Drama", "original_title": "Sticky Drama", "slug_title": "sticky-drama", "date": "2015-11-04", "genre": "Musique / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AoM1GMjttXg5bprSQpXxatqarkO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 346774, "title": "Mind the Baby", "original_title": "Mind the Baby", "slug_title": "mind-the-baby", "date": "1924-09-09", "genre": "Aventure / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

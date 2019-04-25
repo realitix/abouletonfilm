@@ -1,1 +1,0 @@
-{"tmdb_id": 357831, "title": "Cody: The Tipoff", "original_title": "Cody: The Tipoff", "slug_title": "cody-the-tipoff", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

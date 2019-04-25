@@ -1,1 +1,0 @@
-{"tmdb_id": 311741, "title": "The Sound of Rio: Brasileirinho", "original_title": "The Sound of Rio: Brasileirinho", "slug_title": "the-sound-of-rio-brasileirinho", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

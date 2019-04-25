@@ -1,1 +1,0 @@
-{"tmdb_id": 352941, "title": "Preventing the Spread of Disease", "original_title": "Preventing the Spread of Disease", "slug_title": "preventing-the-spread-of-disease", "date": "1940-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

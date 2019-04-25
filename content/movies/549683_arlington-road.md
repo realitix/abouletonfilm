@@ -1,1 +1,0 @@
-{"tmdb_id": 549683, "title": "Arlington road", "original_title": "Arlington road", "slug_title": "arlington-road", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

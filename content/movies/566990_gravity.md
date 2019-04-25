@@ -1,1 +1,0 @@
-{"tmdb_id": 566990, "title": "Gravity", "original_title": "Gravity", "slug_title": "gravity", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

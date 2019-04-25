@@ -1,1 +1,0 @@
-{"tmdb_id": 250355, "title": "The Filmballad of Mamadada", "original_title": "The Filmballad of Mamadada", "slug_title": "the-filmballad-of-mamadada", "date": "2014-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dlOYRr5JoQvbEnxWHePlU2AFVBI.jpg", "actors": [], "comments": [], "recommandations_id": []}

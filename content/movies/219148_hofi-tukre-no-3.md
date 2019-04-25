@@ -1,1 +1,0 @@
-{"tmdb_id": 219148, "title": "Hofi t\u00fckre No.3", "original_title": "Hofi t\u00fckre No.3", "slug_title": "hofi-tukre-no-3", "date": "2004-01-01", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d17wVrX2k9wY74eNaQgBADFHMRP.jpg", "actors": ["Hofi G\u00e9za ()"], "comments": [], "recommandations_id": []}

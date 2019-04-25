@@ -1,1 +1,0 @@
-{"tmdb_id": 243603, "title": "Notes on the Popular Arts", "original_title": "Notes on the Popular Arts", "slug_title": "notes-on-the-popular-arts", "date": "1978-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pXZ8BsRJ7Zbw7HbNmXf240inZzY.jpg", "actors": [], "comments": [], "recommandations_id": []}

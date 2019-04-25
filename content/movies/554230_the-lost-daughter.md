@@ -1,1 +1,0 @@
-{"tmdb_id": 554230, "title": "The Lost Daughter", "original_title": "The Lost Daughter", "slug_title": "the-lost-daughter", "date": "", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zBmn3FGNrGTTD3ac1fVl0XD7eYl.jpg", "actors": [], "comments": [], "recommandations_id": []}

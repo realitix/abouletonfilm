@@ -1,1 +1,0 @@
-{"tmdb_id": 346656, "title": "Temple Run", "original_title": "Temple Run", "slug_title": "temple-run", "date": "", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

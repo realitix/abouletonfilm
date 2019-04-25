@@ -1,1 +1,0 @@
-{"tmdb_id": 472692, "title": "The Wicked Lady", "original_title": "\u7d55\u4ee3\u5996\u59ec", "slug_title": "the-wicked-lady", "date": "1987-01-01", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["He Ai Yun ()", "Lee Keung ()", "Li Tao ()"], "comments": [], "recommandations_id": []}

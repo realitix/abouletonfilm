@@ -1,1 +1,0 @@
-{"tmdb_id": 172654, "title": "Beautiful Dead Body", "original_title": "Beautiful Dead Body", "slug_title": "beautiful-dead-body", "date": "1987-01-01", "genre": "Myst\u00e8re / Horreur / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

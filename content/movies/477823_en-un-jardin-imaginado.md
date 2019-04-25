@@ -1,1 +1,0 @@
-{"tmdb_id": 477823, "title": "En un jard\u00edn imaginado", "original_title": "En un jard\u00edn imaginado", "slug_title": "en-un-jardin-imaginado", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 55485, "title": "Ligabue Sette Notti In Arena", "original_title": "Ligabue Sette Notti In Arena", "slug_title": "ligabue-sette-notti-in-arena", "date": "2008-10-10", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

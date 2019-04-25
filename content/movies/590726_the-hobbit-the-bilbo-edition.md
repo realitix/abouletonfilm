@@ -1,1 +1,0 @@
-{"tmdb_id": 590726, "title": "The Hobbit: The Bilbo Edition", "original_title": "The Hobbit: The Bilbo Edition", "slug_title": "the-hobbit-the-bilbo-edition", "date": "2018-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

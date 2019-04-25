@@ -1,1 +1,0 @@
-{"tmdb_id": 272961, "title": "No Loans Today", "original_title": "No Loans Today", "slug_title": "no-loans-today", "date": "1996-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

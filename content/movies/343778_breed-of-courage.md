@@ -1,1 +1,0 @@
-{"tmdb_id": 343778, "title": "Breed of Courage", "original_title": "Breed of Courage", "slug_title": "breed-of-courage", "date": "1927-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

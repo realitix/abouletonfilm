@@ -1,1 +1,0 @@
-{"tmdb_id": 451787, "title": "My Enemy, My Brother", "original_title": "My Enemy, My Brother", "slug_title": "my-enemy-my-brother", "date": "2017-04-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5CFddPTxru9n2II1NBpx9j7bGtY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 166748, "title": "Funny Chow", "original_title": "Funny Chow", "slug_title": "funny-chow", "date": "2007-02-07", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a9grSFC95agocuUlaqVT1q4ba9q.jpg", "actors": ["Kevin Perkins (Himself / Michael Naiker)"], "comments": [], "recommandations_id": []}

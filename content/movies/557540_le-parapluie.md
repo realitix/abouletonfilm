@@ -1,1 +1,1 @@
-{"tmdb_id": 557540, "title": "Le parapluie", "original_title": "Le parapluie", "slug_title": "le-parapluie", "date": "1912-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 557540, "title": "Le parapluie", "original_title": "Le parapluie", "slug_title": "le-parapluie", "date": "1912-09-28", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

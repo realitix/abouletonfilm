@@ -1,1 +1,0 @@
-{"tmdb_id": 299815, "title": "Danmarksfilmen", "original_title": "Danmarksfilmen", "slug_title": "danmarksfilmen", "date": "1925-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

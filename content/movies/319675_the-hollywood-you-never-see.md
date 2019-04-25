@@ -1,1 +1,0 @@
-{"tmdb_id": 319675, "title": "The Hollywood You Never See", "original_title": "The Hollywood You Never See", "slug_title": "the-hollywood-you-never-see", "date": "1934-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

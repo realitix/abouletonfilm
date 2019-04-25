@@ -1,1 +1,0 @@
-{"tmdb_id": 539760, "title": "Chansons de Paris", "original_title": "Chansons de Paris", "slug_title": "chansons-de-paris", "date": "1934-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b8c4ZGqMcEzqHRfLh8EnTsRLQPz.jpg", "actors": [], "comments": [], "recommandations_id": []}

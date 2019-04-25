@@ -1,1 +1,0 @@
-{"tmdb_id": 103961, "title": "Motor Rhythm", "original_title": "Motor Rhythm", "slug_title": "motor-rhythm", "date": "1939-04-30", "genre": "Documentaire / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 316416, "title": "The Great Quake", "original_title": "The Great Quake", "slug_title": "the-great-quake", "date": "2006-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

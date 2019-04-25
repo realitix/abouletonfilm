@@ -1,1 +1,0 @@
-{"tmdb_id": 286144, "title": "Dark Side", "original_title": "Darkness Falling", "slug_title": "dark-side", "date": "2003-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u9u0PrjEofIvXStGUqw0C7x6gw2.jpg", "actors": [], "comments": [], "recommandations_id": []}

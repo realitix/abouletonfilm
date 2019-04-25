@@ -1,1 +1,0 @@
-{"tmdb_id": 269673, "title": "Vijayanagaram", "original_title": "Vijayanagaram", "slug_title": "vijayanagaram", "date": "2013-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q09kLk0qmGpNdh2fL3x1D2Hubl1.jpg", "actors": [], "comments": [], "recommandations_id": []}

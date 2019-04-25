@@ -1,1 +1,0 @@
-{"tmdb_id": 347507, "title": "The Shepherd", "original_title": "Erkak", "slug_title": "the-shepherd", "date": "2005-06-06", "genre": "Drame", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elnur Abraev ()", "Lola Eltoeva ()"], "comments": [], "recommandations_id": []}

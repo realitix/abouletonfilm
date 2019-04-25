@@ -1,1 +1,0 @@
-{"tmdb_id": 187418, "title": "The Boxers", "original_title": "The Boxers", "slug_title": "the-boxers", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oFuNrj396oOwDNz2gAuzRoEkl5j.jpg", "actors": [], "comments": [], "recommandations_id": []}

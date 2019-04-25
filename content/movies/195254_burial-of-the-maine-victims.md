@@ -1,1 +1,0 @@
-{"tmdb_id": 195254, "title": "Burial of the 'Maine' Victims", "original_title": "Burial of the 'Maine' Victims", "slug_title": "burial-of-the-maine-victims", "date": "1898-05-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

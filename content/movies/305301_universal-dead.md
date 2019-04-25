@@ -1,1 +1,0 @@
-{"tmdb_id": 305301, "title": "Universal Dead", "original_title": "Universal Dead", "slug_title": "universal-dead", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

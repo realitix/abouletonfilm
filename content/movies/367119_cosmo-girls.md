@@ -1,1 +1,0 @@
-{"tmdb_id": 367119, "title": "Cosmo Girls", "original_title": "Cosmo Girls", "slug_title": "cosmo-girls", "date": "2000-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aXoZJyYWRjQFFcQA5qAYgNhDWHe.jpg", "actors": [], "comments": [], "recommandations_id": []}

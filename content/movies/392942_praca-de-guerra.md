@@ -1,1 +1,0 @@
-{"tmdb_id": 392942, "title": "Pra\u00e7a de Guerra", "original_title": "Pra\u00e7a de Guerra", "slug_title": "praca-de-guerra", "date": "2015-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

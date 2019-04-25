@@ -1,1 +1,0 @@
-{"tmdb_id": 467743, "title": "Dogfood", "original_title": "Dogfood", "slug_title": "dogfood", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iCZuD44uU7AfQPb1goFSMdBqmwS.jpg", "actors": [], "comments": [], "recommandations_id": []}

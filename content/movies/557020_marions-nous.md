@@ -1,1 +1,1 @@
-{"tmdb_id": 557020, "title": "Marions-nous", "original_title": "Marions-nous", "slug_title": "marions-nous", "date": "1931-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 557020, "title": "Marions-nous", "original_title": "Marions-nous", "slug_title": "marions-nous", "date": "1931-03-06", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

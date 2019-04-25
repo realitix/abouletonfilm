@@ -1,1 +1,0 @@
-{"tmdb_id": 360864, "title": "Mamathala Kovela", "original_title": "Mamathala Kovela", "slug_title": "mamathala-kovela", "date": "1989-05-28", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dr. Rajasekhar ()", "Suhasini Maniratnam ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 423221, "title": "Fernsucht - Die Reise", "original_title": "Fernsucht - Die Reise", "slug_title": "fernsucht-die-reise", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

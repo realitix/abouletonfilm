@@ -1,1 +1,0 @@
-{"tmdb_id": 596026, "title": "Iris in the Traffic, Ruby in the Rain", "original_title": "Iris in the Traffic, Ruby in the Rain", "slug_title": "iris-in-the-traffic-ruby-in-the-rain", "date": "1981-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

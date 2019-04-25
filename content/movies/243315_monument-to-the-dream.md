@@ -1,1 +1,0 @@
-{"tmdb_id": 243315, "title": "Monument to the Dream", "original_title": "Monument to the Dream", "slug_title": "monument-to-the-dream", "date": "1967-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eHYnGIxk73IZJyUkQ4gV13eHRNq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 182620, "title": "Tsunami Tour - Un comico vi seppellir\u00e0", "original_title": "Tsunami Tour - Un comico vi seppellir\u00e0", "slug_title": "tsunami-tour-un-comico-vi-seppellira", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

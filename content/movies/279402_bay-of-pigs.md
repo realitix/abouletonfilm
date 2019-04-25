@@ -1,1 +1,1 @@
-{"tmdb_id": 279402, "title": "Bay of Pigs", "original_title": "Giron", "slug_title": "bay-of-pigs", "date": "1974-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 279402, "title": "Bay of Pigs", "original_title": "Giron", "slug_title": "bay-of-pigs", "date": "1974-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Manuel Herrera.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 328134, "title": "L' Equiper", "original_title": "L' Equiper", "slug_title": "l-equiper", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 101386, "title": "Emil Feuerabend", "original_title": "Emil Feuerabend", "slug_title": "emil-feuerabend", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rZixS20aHidNdJVVKuoNmxgkCGO.jpg", "actors": ["Emil Steinberger (as Himself)"], "comments": [], "recommandations_id": []}

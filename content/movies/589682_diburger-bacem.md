@@ -1,1 +1,0 @@
-{"tmdb_id": 589682, "title": "diBurger Bacem", "original_title": "diBurger Bacem", "slug_title": "diburger-bacem", "date": "2010-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eLRLZguleqLeMsijGAMr0aOt91j.jpg", "actors": ["Ringgo Agus Rahman ()", "Tika Putri ()"], "comments": [], "recommandations_id": []}

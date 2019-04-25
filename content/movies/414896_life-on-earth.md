@@ -1,1 +1,0 @@
-{"tmdb_id": 414896, "title": "Life on Earth", "original_title": "Life on Earth", "slug_title": "life-on-earth", "date": "2013-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2tncEFEJh5nlm6cQSzVhTUaD8ui.jpg", "actors": [], "comments": [], "recommandations_id": []}

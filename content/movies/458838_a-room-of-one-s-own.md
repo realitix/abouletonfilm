@@ -1,1 +1,0 @@
-{"tmdb_id": 458838, "title": "A Room of One's Own", "original_title": "A Room of One's Own", "slug_title": "a-room-of-one-s-own", "date": "1991-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zbqHUtCJ4TGuzPnCuizRiV2XHgB.jpg", "actors": ["Eileen Atkins (Virginia Woolf)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 336202, "title": "Nature Amazing Places Africa", "original_title": "Nature Amazing Places Africa", "slug_title": "nature-amazing-places-africa", "date": "2010-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/scEIl5W399gzyTO9JAAbHqDu3oh.jpg", "actors": [], "comments": [], "recommandations_id": []}

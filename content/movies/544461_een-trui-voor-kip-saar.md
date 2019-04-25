@@ -1,1 +1,0 @@
-{"tmdb_id": 544461, "title": "Een trui voor Kip Saar", "original_title": "Een trui voor Kip Saar", "slug_title": "een-trui-voor-kip-saar", "date": "2007-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sh32qnj4NIwBp77jZCpjxbhDpZI.jpg", "actors": [], "comments": [], "recommandations_id": []}

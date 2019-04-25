@@ -1,1 +1,0 @@
-{"tmdb_id": 258155, "title": "A Man Came and Took Her", "original_title": "A Man Came and Took Her", "slug_title": "a-man-came-and-took-her", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

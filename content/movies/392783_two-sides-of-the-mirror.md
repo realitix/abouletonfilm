@@ -1,1 +1,0 @@
-{"tmdb_id": 392783, "title": "Two Sides of the Mirror", "original_title": "Two Sides of the Mirror", "slug_title": "two-sides-of-the-mirror", "date": "2008-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Corrine Bot ()"], "comments": [], "recommandations_id": []}

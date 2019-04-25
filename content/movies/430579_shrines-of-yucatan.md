@@ -1,1 +1,0 @@
-{"tmdb_id": 430579, "title": "Shrines of Yucatan", "original_title": "Shrines of Yucatan", "slug_title": "shrines-of-yucatan", "date": "1945-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Krev3c0JKitIQdQ1zy4dd3RYbI.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

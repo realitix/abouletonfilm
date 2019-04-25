@@ -1,1 +1,0 @@
-{"tmdb_id": 211611, "title": "Afghan Heroin: The Lost War", "original_title": "Afghan Heroin: The Lost War", "slug_title": "afghan-heroin-the-lost-war", "date": "2008-03-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Q99Hs3nwUat6VFJvY8OBQQL2P9.jpg", "actors": [], "comments": [], "recommandations_id": []}

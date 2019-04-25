@@ -1,1 +1,0 @@
-{"tmdb_id": 576785, "title": "Home Cured", "original_title": "Home Cured", "slug_title": "home-cured", "date": "1926-03-14", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Johnny Arthur (The Hypochondriac)", "Virginia Vance (The Hypochondriac's Wife)"], "comments": [], "recommandations_id": []}

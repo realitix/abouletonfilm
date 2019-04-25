@@ -1,1 +1,0 @@
-{"tmdb_id": 357735, "title": "This Is Shell", "original_title": "This Is Shell", "slug_title": "this-is-shell", "date": "1970-01-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

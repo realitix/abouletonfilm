@@ -1,1 +1,0 @@
-{"tmdb_id": 175109, "title": "The Beach Boys: It's OK", "original_title": "The Beach Boys: It's OK", "slug_title": "the-beach-boys-it-s-ok", "date": "1976-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dPD7ybP4js1dsgCwQHOQvFJW0yU.jpg", "actors": [], "comments": [], "recommandations_id": []}

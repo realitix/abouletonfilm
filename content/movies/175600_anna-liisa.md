@@ -1,1 +1,0 @@
-{"tmdb_id": 175600, "title": "Anna-Liisa", "original_title": "Anna-Liisa", "slug_title": "anna-liisa", "date": "1922-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o4CY8cHumOoUv8Z1UCIEZwKMKpM.jpg", "actors": [], "comments": [], "recommandations_id": []}

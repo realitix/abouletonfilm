@@ -1,1 +1,0 @@
-{"tmdb_id": 206791, "title": "Sookshma: Be Sensible", "original_title": "Sookshma: Be Sensible", "slug_title": "sookshma-be-sensible", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

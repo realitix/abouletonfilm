@@ -1,1 +1,0 @@
-{"tmdb_id": 378663, "title": "Hasty But Tasty", "original_title": "Hasty But Tasty", "slug_title": "hasty-but-tasty", "date": "1969-03-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lEFLY0dZjXid8KkJOOX7LfFZbFf.jpg", "actors": ["John Byner (Ant / Aardvark (voice))"], "comments": [], "recommandations_id": []}

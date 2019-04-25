@@ -1,1 +1,0 @@
-{"tmdb_id": 407315, "title": "Friends with Benefits", "original_title": "Friends with Benefits", "slug_title": "friends-with-benefits", "date": "2012-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7O4xVLUtSEw8hTYW2ltYBNbVvo0.jpg", "actors": [], "comments": [], "recommandations_id": []}

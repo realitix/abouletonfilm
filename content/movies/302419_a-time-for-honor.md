@@ -1,1 +1,0 @@
-{"tmdb_id": 302419, "title": "A Time for Honor", "original_title": "A Time for Honor", "slug_title": "a-time-for-honor", "date": "2003-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

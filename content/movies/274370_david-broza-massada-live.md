@@ -1,1 +1,0 @@
-{"tmdb_id": 274370, "title": "David Broza: Massada Live", "original_title": "David Broza: Massada Live", "slug_title": "david-broza-massada-live", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

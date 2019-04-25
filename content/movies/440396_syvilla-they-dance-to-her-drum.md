@@ -1,1 +1,0 @@
-{"tmdb_id": 440396, "title": "Syvilla: They Dance To Her Drum", "original_title": "Syvilla: They Dance To Her Drum", "slug_title": "syvilla-they-dance-to-her-drum", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b3Ra7sNWArdPhYXEu2HjbQQTk68.jpg", "actors": [], "comments": [], "recommandations_id": []}

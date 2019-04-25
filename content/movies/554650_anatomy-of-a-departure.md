@@ -1,1 +1,0 @@
-{"tmdb_id": 554650, "title": "Anatomy of a Departure", "original_title": "Anatomie des Weggehens", "slug_title": "anatomy-of-a-departure", "date": "2012-08-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oGrEtQmJsXOoEeLqJS3Fx6zHenU.jpg", "actors": [], "comments": [], "recommandations_id": []}

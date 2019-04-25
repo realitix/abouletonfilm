@@ -1,1 +1,0 @@
-{"tmdb_id": 307983, "title": "Adhyathe Anuragam", "original_title": "Adhyathe Anuragam", "slug_title": "adhyathe-anuragam", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

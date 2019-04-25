@@ -1,1 +1,0 @@
-{"tmdb_id": 359013, "title": "Tales of Childhood", "original_title": "Tales of Childhood", "slug_title": "tales-of-childhood", "date": "2015-09-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iPTxCGjH9ii4bLEc3mtcMZ9Kygi.jpg", "actors": [], "comments": [], "recommandations_id": []}

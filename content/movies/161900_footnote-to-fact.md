@@ -1,1 +1,0 @@
-{"tmdb_id": 161900, "title": "Footnote to Fact", "original_title": "Footnote to Fact", "slug_title": "footnote-to-fact", "date": "1933-05-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eQkSBn5PovZdsvbk0iaLH4mCvkS.jpg", "actors": [], "comments": [], "recommandations_id": []}

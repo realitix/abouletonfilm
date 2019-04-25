@@ -1,1 +1,0 @@
-{"tmdb_id": 416694, "title": "\ub300\ud559\uc2dc\uc808", "original_title": "\ub300\ud559\uc2dc\uc808", "slug_title": "daehagsijeol", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 373503, "title": "Le Tourment de Vivre et de ne Pas \u00catre Dieu", "original_title": "Le Tourment de Vivre et de ne Pas \u00catre Dieu", "slug_title": "le-tourment-de-vivre-et-de-ne-pas-etre-dieu", "date": "2012-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

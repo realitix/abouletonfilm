@@ -1,1 +1,1 @@
-{"tmdb_id": 500335, "title": "A Mulher", "original_title": "A Mulher", "slug_title": "a-mulher", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 500335, "title": "A Mulher", "original_title": "A Mulher", "slug_title": "a-mulher", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

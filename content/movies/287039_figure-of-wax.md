@@ -1,1 +1,0 @@
-{"tmdb_id": 287039, "title": "Figure Of Wax", "original_title": "Figure Of Wax", "slug_title": "figure-of-wax", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vcnwV2keSWP9mdcYGC0WvDjzLk4.jpg", "actors": [], "comments": [], "recommandations_id": []}

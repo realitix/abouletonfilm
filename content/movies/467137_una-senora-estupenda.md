@@ -1,1 +1,0 @@
-{"tmdb_id": 467137, "title": "Una se\u00f1ora estupenda", "original_title": "Una se\u00f1ora estupenda", "slug_title": "una-senora-estupenda", "date": "1970-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/faz4yOPxfUFb4OFcr0Y0HJP1dfV.jpg", "actors": [], "comments": [], "recommandations_id": []}

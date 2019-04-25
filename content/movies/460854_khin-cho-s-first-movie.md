@@ -1,1 +1,0 @@
-{"tmdb_id": 460854, "title": "Khin cho's First Movie", "original_title": "Khin cho's First Movie", "slug_title": "khin-cho-s-first-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

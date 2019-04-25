@@ -1,1 +1,0 @@
-{"tmdb_id": 305585, "title": "Ein gesegnetes Alter", "original_title": "Ein gesegnetes Alter", "slug_title": "ein-gesegnetes-alter", "date": "1996-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Johannes Heesters ()", "Simone Rethel ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 181508, "title": "Spider-Man Tech", "original_title": "Spider-Man Tech", "slug_title": "spider-man-tech", "date": "2007-05-02", "genre": "Documentaire", "score": "9.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2A9au21VDSblM1rw7YNgeNV3Ng.jpg", "actors": ["Dave Hoffman (Narrator)"], "comments": [], "recommandations_id": []}

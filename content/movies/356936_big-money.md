@@ -1,1 +1,0 @@
-{"tmdb_id": 356936, "title": "Big Money", "original_title": "Big Money", "slug_title": "big-money", "date": "1937-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o9YWnlRko8c6ijh3vA49zfURO67.jpg", "actors": [], "comments": [], "recommandations_id": []}

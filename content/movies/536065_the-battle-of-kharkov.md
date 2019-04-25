@@ -1,1 +1,0 @@
-{"tmdb_id": 536065, "title": "The Battle of Kharkov", "original_title": "The Battle of Kharkov", "slug_title": "the-battle-of-kharkov", "date": "1942-05-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 411524, "title": "The Sufferfest - A Very Dark Place", "original_title": "The Sufferfest - A Very Dark Place", "slug_title": "the-sufferfest-a-very-dark-place", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

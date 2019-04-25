@@ -1,1 +1,0 @@
-{"tmdb_id": 352317, "title": "Man of Tin", "original_title": "Man of Tin", "slug_title": "man-of-tin", "date": "1940-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

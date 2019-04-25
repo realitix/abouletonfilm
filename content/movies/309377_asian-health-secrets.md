@@ -1,1 +1,0 @@
-{"tmdb_id": 309377, "title": "Asian Health Secrets", "original_title": "Asian Health Secrets", "slug_title": "asian-health-secrets", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

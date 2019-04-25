@@ -1,1 +1,0 @@
-{"tmdb_id": 582488, "title": "Mobile Suit SD Gundam Festival", "original_title": "\u6a5f\u52d5\u6226\u58ebSD\u30ac\u30f3\u30c0\u30e0\u307e\u3064\u308a", "slug_title": "mobile-suit-sd-gundam-festival", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 473784, "title": "Manuela", "original_title": "Manuela", "slug_title": "manuela", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1n71z3bEXeZLx6q0MOeoBWHzkGo.jpg", "actors": [], "comments": [], "recommandations_id": []}

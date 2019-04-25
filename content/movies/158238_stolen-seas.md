@@ -1,1 +1,0 @@
-{"tmdb_id": 158238, "title": "Stolen Seas", "original_title": "Stolen Seas", "slug_title": "stolen-seas", "date": "2013-01-18", "genre": "", "score": "8.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y0xLHFoCoIwZEvnoi9nWIP6ULc2.jpg", "actors": [], "comments": [], "recommandations_id": []}

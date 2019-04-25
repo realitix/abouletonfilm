@@ -1,1 +1,0 @@
-{"tmdb_id": 483149, "title": "American Psychosis", "original_title": "American Psychosis", "slug_title": "american-psychosis", "date": "2017-02-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8dlA76J6Q6gETfPdQvSk4JHTDyE.jpg", "actors": ["Chris Hedges ()"], "comments": [], "recommandations_id": []}

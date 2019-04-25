@@ -1,1 +1,0 @@
-{"tmdb_id": 104169, "title": "The Band: Live at Loreley", "original_title": "The Band: Live at Loreley", "slug_title": "the-band-live-at-loreley", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ynzMsweJiJgkO21YMgrhNKMMKMK.jpg", "actors": [], "comments": [], "recommandations_id": []}

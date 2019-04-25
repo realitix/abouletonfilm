@@ -1,1 +1,0 @@
-{"tmdb_id": 447950, "title": "The archipelago", "original_title": "The archipelago", "slug_title": "the-archipelago", "date": "2015-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ep7zk1Gd89edUGSGQesHwpRjy5Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

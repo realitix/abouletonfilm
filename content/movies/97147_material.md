@@ -1,1 +1,0 @@
-{"tmdb_id": 97147, "title": "Material", "original_title": "Material", "slug_title": "material", "date": "2009-02-12", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n4BfegmzNozvO99c9EH2iuO5KBO.jpg", "actors": ["Fritz Marquardt ()", "Karl Kneidl ()"], "comments": [], "recommandations_id": []}

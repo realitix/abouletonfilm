@@ -1,1 +1,0 @@
-{"tmdb_id": 462303, "title": "Ruminative Meditations", "original_title": "Ruminative Meditations", "slug_title": "ruminative-meditations", "date": "2017-06-17", "genre": "Western / Drame / Musique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ytPao0fUGWSiUYv4m9ne38y3Ww.jpg", "actors": [], "comments": [], "recommandations_id": []}

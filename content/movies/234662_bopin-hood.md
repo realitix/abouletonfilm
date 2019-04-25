@@ -1,1 +1,0 @@
-{"tmdb_id": 234662, "title": "Bopin' Hood", "original_title": "Bopin' Hood", "slug_title": "bopin-hood", "date": "1961-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

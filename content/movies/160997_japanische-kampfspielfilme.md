@@ -1,1 +1,0 @@
-{"tmdb_id": 160997, "title": "Japanische Kampfspielfilme", "original_title": "Japanische Kampfspielfilme", "slug_title": "japanische-kampfspielfilme", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ypVJTYLG6ja8Nwrsrry0v8wYLst.jpg", "actors": [], "comments": [], "recommandations_id": []}

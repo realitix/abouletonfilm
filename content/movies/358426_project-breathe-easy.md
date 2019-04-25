@@ -1,1 +1,0 @@
-{"tmdb_id": 358426, "title": "Project Breathe Easy", "original_title": "Project Breathe Easy", "slug_title": "project-breathe-easy", "date": "2014-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zY4zEhjPnviqE3HIYh4lZ8pn8N5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 593924, "title": "Dead Hands", "original_title": "Dead Hands", "slug_title": "dead-hands", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brady Corbet (Ben)", "Cody Horn (Sophie)", "Patch Darragh (Dave)"], "comments": [], "recommandations_id": []}

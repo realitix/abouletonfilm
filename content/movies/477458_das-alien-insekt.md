@@ -1,1 +1,0 @@
-{"tmdb_id": 477458, "title": "Das Alien Insekt", "original_title": "Das Alien Insekt", "slug_title": "das-alien-insekt", "date": "2001-10-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wolfgang Pampel (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 299270, "title": "Escocia", "original_title": "Escocia", "slug_title": "escocia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 299270, "title": "Escocia", "original_title": "Escocia", "slug_title": "escocia", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

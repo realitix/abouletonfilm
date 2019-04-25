@@ -1,1 +1,0 @@
-{"tmdb_id": 547985, "title": "Hezar Afsan", "original_title": "Hezar Afsan", "slug_title": "hezar-afsan", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

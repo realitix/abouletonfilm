@@ -1,1 +1,0 @@
-{"tmdb_id": 467887, "title": "With Joy and Merriness", "original_title": "Dans La Joie et la Bonne Humeur", "slug_title": "with-joy-and-merriness", "date": "2017-03-16", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pRrdOyx39OdZ0aWJ2S9lUGcIYVi.jpg", "actors": [], "comments": [], "recommandations_id": []}

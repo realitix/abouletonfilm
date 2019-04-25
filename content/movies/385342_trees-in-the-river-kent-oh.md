@@ -1,1 +1,0 @@
-{"tmdb_id": 385342, "title": "Trees in the River, Kent OH", "original_title": "Trees in the River, Kent OH", "slug_title": "trees-in-the-river-kent-oh", "date": "1973-08-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4APuGqiU9O7o3WNyeq4RfWXMK2C.jpg", "actors": [], "comments": [], "recommandations_id": []}

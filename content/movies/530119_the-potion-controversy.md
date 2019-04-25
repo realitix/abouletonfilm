@@ -1,1 +1,0 @@
-{"tmdb_id": 530119, "title": "The Potion Controversy", "original_title": "The Potion Controversy", "slug_title": "the-potion-controversy", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6X94dyDNqauKnnpNO1s7qNYN3i4.jpg", "actors": [], "comments": [], "recommandations_id": []}

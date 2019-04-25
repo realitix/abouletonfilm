@@ -1,1 +1,0 @@
-{"tmdb_id": 117730, "title": "Under The Domim Tree", "original_title": "Etz Hadomim Tafus", "slug_title": "under-the-domim-tree", "date": "1994-01-01", "genre": "Drame", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1zhHLVPlDK4c6sW3df65rB5Dite.jpg", "actors": [], "comments": [], "recommandations_id": []}

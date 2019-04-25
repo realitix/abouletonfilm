@@ -1,1 +1,0 @@
-{"tmdb_id": 474464, "title": "The Judge", "original_title": "The Judge", "slug_title": "the-judge", "date": "2017-09-10", "genre": "Documentaire / Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5oYK8tyOcr96cawhNyv5TRNyUge.jpg", "actors": [], "comments": [], "recommandations_id": []}

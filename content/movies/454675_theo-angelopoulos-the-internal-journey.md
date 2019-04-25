@@ -1,1 +1,0 @@
-{"tmdb_id": 454675, "title": "Theo Angelopoulos: The Internal Journey", "original_title": "Le Voyage Interieur", "slug_title": "theo-angelopoulos-the-internal-journey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cWM2EoPU8V6bJrCjK7wXz7W5YaK.jpg", "actors": [], "comments": [], "recommandations_id": []}

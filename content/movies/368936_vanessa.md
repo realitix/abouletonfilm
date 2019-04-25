@@ -1,1 +1,0 @@
-{"tmdb_id": 368936, "title": "Vanessa", "original_title": "Vanessa", "slug_title": "vanessa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u8ImSz43tD2yfxP3WHYZl12pOA4.jpg", "actors": [], "comments": [], "recommandations_id": []}

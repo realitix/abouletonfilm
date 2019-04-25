@@ -1,1 +1,0 @@
-{"tmdb_id": 320777, "title": "Beauty Shop: The Original Stage Play", "original_title": "Beauty Shop: The Original Stage Play", "slug_title": "beauty-shop-the-original-stage-play", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

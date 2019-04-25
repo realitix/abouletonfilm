@@ -1,1 +1,0 @@
-{"tmdb_id": 557199, "title": "Milton Nascimento: Ser Minas T\u00e3o Gerais", "original_title": "Milton Nascimento: Ser Minas T\u00e3o Gerais", "slug_title": "milton-nascimento-ser-minas-tao-gerais", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

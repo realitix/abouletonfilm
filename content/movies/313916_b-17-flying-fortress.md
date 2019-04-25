@@ -1,1 +1,0 @@
-{"tmdb_id": 313916, "title": "B-17 Flying Fortress", "original_title": "B-17 Flying Fortress", "slug_title": "b-17-flying-fortress", "date": "", "genre": "Guerre / Documentaire", "score": "8.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

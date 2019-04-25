@@ -1,1 +1,0 @@
-{"tmdb_id": 594511, "title": "Kader Diyelim", "original_title": "Kader Diyelim", "slug_title": "kader-diyelim", "date": "1995-01-01", "genre": "Thriller / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

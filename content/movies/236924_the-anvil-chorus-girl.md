@@ -1,1 +1,0 @@
-{"tmdb_id": 236924, "title": "The Anvil Chorus Girl", "original_title": "The Anvil Chorus Girl", "slug_title": "the-anvil-chorus-girl", "date": "1944-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

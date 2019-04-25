@@ -1,1 +1,0 @@
-{"tmdb_id": 506070, "title": "Fogwill, el \u00faltimo viaje", "original_title": "Fogwill, el \u00faltimo viaje", "slug_title": "fogwill-el-ultimo-viaje", "date": "2016-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pJ9y6iAdVZ1Z5XUl0kGPoLWX8Ha.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 169654, "title": "Outside In: The Story of Art in the Streets", "original_title": "Outside In: The Story of Art in the Streets", "slug_title": "outside-in-the-story-of-art-in-the-streets", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

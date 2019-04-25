@@ -1,1 +1,0 @@
-{"tmdb_id": 311515, "title": "Sodom: Lords of Depravity", "original_title": "Sodom: Lords of Depravity", "slug_title": "sodom-lords-of-depravity", "date": "2005-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

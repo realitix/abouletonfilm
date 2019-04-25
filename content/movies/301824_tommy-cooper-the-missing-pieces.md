@@ -1,1 +1,0 @@
-{"tmdb_id": 301824, "title": "Tommy Cooper - The Missing Pieces", "original_title": "Tommy Cooper - The Missing Pieces", "slug_title": "tommy-cooper-the-missing-pieces", "date": "2006-09-04", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tommy Cooper (himself)"], "comments": [], "recommandations_id": []}

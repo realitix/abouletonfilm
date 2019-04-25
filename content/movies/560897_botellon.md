@@ -1,1 +1,0 @@
-{"tmdb_id": 560897, "title": "Botell\u00f3n", "original_title": "Botell\u00f3n", "slug_title": "botellon", "date": "2006-03-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yBHAU1mF0HXAVAc9Yw12pKr5B0x.jpg", "actors": ["Ana Frau (Rosa)"], "comments": [], "recommandations_id": []}

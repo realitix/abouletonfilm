@@ -1,1 +1,0 @@
-{"tmdb_id": 325448, "title": "Usmiech bez sensu", "original_title": "Usmiech bez sensu", "slug_title": "usmiech-bez-sensu", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

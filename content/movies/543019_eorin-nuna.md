@@ -1,1 +1,0 @@
-{"tmdb_id": 543019, "title": "\uc5b4\ub9b0 \ub204\ub098", "original_title": "\uc5b4\ub9b0 \ub204\ub098", "slug_title": "eorin-nuna", "date": "2018-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8GBvzyzvnPTvILA5zlAyz9i3GyB.jpg", "actors": [], "comments": [], "recommandations_id": []}

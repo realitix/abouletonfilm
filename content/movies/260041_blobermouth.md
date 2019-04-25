@@ -1,1 +1,0 @@
-{"tmdb_id": 260041, "title": "Blobermouth", "original_title": "Blobermouth", "slug_title": "blobermouth", "date": "1991-10-01", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/faCcFYV8wFWYPa1aQD7l4gTx7z4.jpg", "actors": [], "comments": [], "recommandations_id": []}

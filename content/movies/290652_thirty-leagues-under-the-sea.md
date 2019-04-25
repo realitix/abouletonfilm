@@ -1,1 +1,0 @@
-{"tmdb_id": 290652, "title": "Thirty Leagues Under the Sea", "original_title": "Thirty Leagues Under the Sea", "slug_title": "thirty-leagues-under-the-sea", "date": "1914-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George M. Williamson ()", "J. Ernest Williamson ()"], "comments": [], "recommandations_id": []}

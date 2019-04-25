@@ -1,1 +1,1 @@
-{"tmdb_id": 563273, "title": "Uma Nota S\u00f3", "original_title": "Uma Nota S\u00f3", "slug_title": "uma-nota-so", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 563273, "title": "Uma Nota S\u00f3", "original_title": "Uma Nota S\u00f3", "slug_title": "uma-nota-so", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

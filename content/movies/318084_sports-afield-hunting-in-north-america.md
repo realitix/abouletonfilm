@@ -1,1 +1,0 @@
-{"tmdb_id": 318084, "title": "Sports Afield: Hunting in North America", "original_title": "Sports Afield: Hunting in North America", "slug_title": "sports-afield-hunting-in-north-america", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

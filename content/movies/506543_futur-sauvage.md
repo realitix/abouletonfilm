@@ -1,1 +1,0 @@
-{"tmdb_id": 506543, "title": "Futur Sauvage", "original_title": "Futur Sauvage", "slug_title": "futur-sauvage", "date": "2016-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dFUrzAKUoAk768k3cfQyI15CjxL.jpg", "actors": [], "comments": [], "recommandations_id": []}

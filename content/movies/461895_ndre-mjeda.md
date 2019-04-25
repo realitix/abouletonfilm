@@ -1,1 +1,0 @@
-{"tmdb_id": 461895, "title": "Ndre Mjeda", "original_title": "Ndre Mjeda", "slug_title": "ndre-mjeda", "date": "1966-06-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nqZ5h9tWbERYquXK5sqYHOsdhVI.jpg", "actors": [], "comments": [], "recommandations_id": []}

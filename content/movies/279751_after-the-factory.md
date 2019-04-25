@@ -1,1 +1,0 @@
-{"tmdb_id": 279751, "title": "After the Factory", "original_title": "After the Factory", "slug_title": "after-the-factory", "date": "2012-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

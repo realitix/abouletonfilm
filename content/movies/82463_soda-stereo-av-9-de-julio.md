@@ -1,1 +1,0 @@
-{"tmdb_id": 82463, "title": "Soda Stereo - AV. 9 de Julio", "original_title": "Soda Stereo - AV. 9 de Julio", "slug_title": "soda-stereo-av-9-de-julio", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 376283, "title": "Grow your own drugs", "original_title": "Grow your own drugs", "slug_title": "grow-your-own-drugs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

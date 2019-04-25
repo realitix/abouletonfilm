@@ -1,1 +1,0 @@
-{"tmdb_id": 532592, "title": "Chasing Coral: The VR Experience", "original_title": "Chasing Coral: The VR Experience", "slug_title": "chasing-coral-the-vr-experience", "date": "2017-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

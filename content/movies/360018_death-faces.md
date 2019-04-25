@@ -1,1 +1,0 @@
-{"tmdb_id": 360018, "title": "Death Faces", "original_title": "Death Faces", "slug_title": "death-faces", "date": "1988-09-15", "genre": "Horreur / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x6K3LrMfFF0Ih3JKLdW9Ucxemfn.jpg", "actors": ["Bizarro Blackstone ()"], "comments": [], "recommandations_id": []}

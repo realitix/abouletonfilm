@@ -1,1 +1,0 @@
-{"tmdb_id": 592653, "title": "Mobile Homes", "original_title": "Mobile Homes", "slug_title": "mobile-homes", "date": "1979-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Sheridan (Shea)"], "comments": [], "recommandations_id": []}

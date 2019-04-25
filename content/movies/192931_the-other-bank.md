@@ -1,1 +1,0 @@
-{"tmdb_id": 192931, "title": "The Other Bank", "original_title": "The Other Bank", "slug_title": "the-other-bank", "date": "1995-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oOhGVn8dHJC2d5v30R5VnyQLibs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 275361, "title": "Swimming With Skyscrapers", "original_title": "Swimming With Skyscrapers", "slug_title": "swimming-with-skyscrapers", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jSJ7E3GthZbULElHu89wIC3KjAP.jpg", "actors": ["James Pittar ()"], "comments": [], "recommandations_id": []}

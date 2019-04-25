@@ -1,1 +1,0 @@
-{"tmdb_id": 339989, "title": "Shibuya - Tokyo", "original_title": "Shibuya - Tokyo", "slug_title": "shibuya-tokyo", "date": "2010-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1bm2XnfRzKw1vmM3OoU5HOhyIC0.jpg", "actors": [], "comments": [], "recommandations_id": []}

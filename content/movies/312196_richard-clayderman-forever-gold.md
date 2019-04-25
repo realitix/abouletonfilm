@@ -1,1 +1,0 @@
-{"tmdb_id": 312196, "title": "Richard Clayderman: Forever Gold", "original_title": "Richard Clayderman: Forever Gold", "slug_title": "richard-clayderman-forever-gold", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

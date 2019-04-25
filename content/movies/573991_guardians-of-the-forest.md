@@ -1,1 +1,0 @@
-{"tmdb_id": 573991, "title": "Guardians of the Forest", "original_title": "Guardians of the Forest", "slug_title": "guardians-of-the-forest", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fn8k6ZiaYl8kEgcpJJIm6De6Zsn.jpg", "actors": [], "comments": [], "recommandations_id": []}

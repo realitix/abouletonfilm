@@ -1,1 +1,0 @@
-{"tmdb_id": 579492, "title": "Roadside", "original_title": "Roadside", "slug_title": "roadside", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

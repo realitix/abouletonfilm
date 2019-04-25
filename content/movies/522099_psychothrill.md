@@ -1,1 +1,0 @@
-{"tmdb_id": 522099, "title": "Psychothrill", "original_title": "Conexi\u00f3n criminal", "slug_title": "psychothrill", "date": "1987-03-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dTvK8nID9MIuGpHV1pq3RmCTgKk.jpg", "actors": ["Joaqu\u00edn Cordero ()", "Blanca Guerra ()"], "comments": [], "recommandations_id": []}

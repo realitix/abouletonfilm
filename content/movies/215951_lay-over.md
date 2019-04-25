@@ -1,1 +1,0 @@
-{"tmdb_id": 215951, "title": "Lay Over", "original_title": "Lay Over", "slug_title": "lay-over", "date": "2013-09-12", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jordan Hayes (Sam)", "Noah Reid (Owen)"], "comments": [], "recommandations_id": []}

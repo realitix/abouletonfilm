@@ -1,1 +1,0 @@
-{"tmdb_id": 395642, "title": "The Red Nose Bastard", "original_title": "The Red Nose Bastard", "slug_title": "the-red-nose-bastard", "date": "", "genre": "Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

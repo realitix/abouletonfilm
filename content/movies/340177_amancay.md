@@ -1,1 +1,0 @@
-{"tmdb_id": 340177, "title": "Amancay", "original_title": "Amancay", "slug_title": "amancay", "date": "2006-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/da6PqOCIJGif6Kb9A7tXu6WqCRk.jpg", "actors": ["Moro Morales ()", "Carolina Presno ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 503866, "title": "Awaiting Summer", "original_title": "Awaiting Summer", "slug_title": "awaiting-summer", "date": "2016-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ctulHME53J3sWwl4fx2IUgvhP0d.jpg", "actors": [], "comments": [], "recommandations_id": []}

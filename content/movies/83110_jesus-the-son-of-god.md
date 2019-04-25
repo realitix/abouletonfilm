@@ -1,1 +1,0 @@
-{"tmdb_id": 83110, "title": "Jesus, The Son of God", "original_title": "Jesus, The Son of God", "slug_title": "jesus-the-son-of-god", "date": "1995-06-01", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qA7VGrkj3HeDYI4lOxMvI6nn569.jpg", "actors": [], "comments": [], "recommandations_id": []}

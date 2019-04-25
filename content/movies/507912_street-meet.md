@@ -1,1 +1,0 @@
-{"tmdb_id": 507912, "title": "Street Meet", "original_title": "Street Meet", "slug_title": "street-meet", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un court film", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4wXhmBEm6NQ3II2Taa8ca5aZBxA.jpg", "actors": [], "comments": [], "recommandations_id": []}

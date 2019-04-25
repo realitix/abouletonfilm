@@ -1,1 +1,0 @@
-{"tmdb_id": 236642, "title": "Concerto in B Flat Minor", "original_title": "Concerto in B Flat Minor", "slug_title": "concerto-in-b-flat-minor", "date": "1942-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

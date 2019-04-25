@@ -1,1 +1,0 @@
-{"tmdb_id": 256914, "title": "Tiempos del tr\u00e1nsito", "original_title": "Tiempos del tr\u00e1nsito", "slug_title": "tiempos-del-transito", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6glsDMcmW33Ok0fGGk8bZVSaY1M.jpg", "actors": [], "comments": [], "recommandations_id": []}

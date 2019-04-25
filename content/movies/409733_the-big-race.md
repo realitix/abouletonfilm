@@ -1,1 +1,0 @@
-{"tmdb_id": 409733, "title": "The Big Race", "original_title": "Wielki bieg", "slug_title": "the-big-race", "date": "1981-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aidDuavQFXzEDzXZ4qlK0Qs7ODp.jpg", "actors": [], "comments": [], "recommandations_id": []}

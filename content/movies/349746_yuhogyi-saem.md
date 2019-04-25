@@ -1,1 +1,0 @@
-{"tmdb_id": 349746, "title": "\uc720\ud639\uc758 \uc0d8", "original_title": "\uc720\ud639\uc758 \uc0d8", "slug_title": "yuhogyi-saem", "date": "1994-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 556367, "title": "Cousin Bette", "original_title": "La cousine Bette", "slug_title": "cousin-bette", "date": "1928-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 556367, "title": "Cousin Bette", "original_title": "La cousine Bette", "slug_title": "cousin-bette", "date": "1928-11-30", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

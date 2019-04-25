@@ -1,1 +1,0 @@
-{"tmdb_id": 509718, "title": "The Sailor's Anchor", "original_title": "Ancora do Marujo", "slug_title": "the-sailor-s-anchor", "date": "2013-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k11FQWu3TQFmFCL9PqZieXpi99D.jpg", "actors": [], "comments": [], "recommandations_id": []}

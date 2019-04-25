@@ -1,1 +1,0 @@
-{"tmdb_id": 199523, "title": "La drogue qui tue", "original_title": "Marihuana", "slug_title": "la-drogue-qui-tue", "date": "1950-06-08", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wNHcJFWGxtlpd8yWh86xCASAbqd.jpg", "actors": [], "comments": [], "recommandations_id": []}

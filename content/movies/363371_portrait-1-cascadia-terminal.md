@@ -1,1 +1,0 @@
-{"tmdb_id": 363371, "title": "Portrait #1: Cascadia Terminal", "original_title": "Portrait #1: Cascadia Terminal", "slug_title": "portrait-1-cascadia-terminal", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 594544, "title": "El Estrangulador De La Rosa", "original_title": "El Estrangulador De La Rosa", "slug_title": "el-estrangulador-de-la-rosa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Susana Dosamantes (Paola Luna)"], "comments": [], "recommandations_id": []}

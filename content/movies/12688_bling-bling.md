@@ -1,1 +1,0 @@
-{"tmdb_id": 12688, "title": "Bling Bling", "original_title": "Bling Bling", "slug_title": "bling-bling", "date": "2001-01-01", "genre": "Action / Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

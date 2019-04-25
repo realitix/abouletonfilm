@@ -1,1 +1,0 @@
-{"tmdb_id": 594412, "title": "Asbury Park", "original_title": "Asbury Park", "slug_title": "asbury-park", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

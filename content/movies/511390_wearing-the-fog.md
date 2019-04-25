@@ -1,1 +1,0 @@
-{"tmdb_id": 511390, "title": "Wearing the Fog", "original_title": "Wearing the Fog", "slug_title": "wearing-the-fog", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

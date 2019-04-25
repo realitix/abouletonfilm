@@ -1,1 +1,0 @@
-{"tmdb_id": 496879, "title": "To Die in the Desert", "original_title": "A morir a los desiertos", "slug_title": "to-die-in-the-desert", "date": "2017-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oyZ2wh16tSNkL0qjAHKfCjj7335.jpg", "actors": [], "comments": [], "recommandations_id": []}

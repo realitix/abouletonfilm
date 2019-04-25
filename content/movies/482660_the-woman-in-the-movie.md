@@ -1,1 +1,0 @@
-{"tmdb_id": 482660, "title": "The Woman in the Movie", "original_title": "The Woman in the Movie", "slug_title": "the-woman-in-the-movie", "date": "2017-10-01", "genre": "Science-Fiction / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wphKDlWrRsulPqkdxShCN3tmFh8.jpg", "actors": [], "comments": [], "recommandations_id": []}

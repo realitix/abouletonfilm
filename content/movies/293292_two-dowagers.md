@@ -1,1 +1,0 @@
-{"tmdb_id": 293292, "title": "Two Dowagers", "original_title": "\u5169\u5bae\u7687\u592a\u540e", "slug_title": "two-dowagers", "date": "1987-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hHKHrLvfoEL1GX5SU6zNsClG4F9.jpg", "actors": [], "comments": [], "recommandations_id": []}

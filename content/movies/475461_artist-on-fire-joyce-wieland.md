@@ -1,1 +1,0 @@
-{"tmdb_id": 475461, "title": "Artist on Fire: Joyce Wieland", "original_title": "Artist on Fire: Joyce Wieland", "slug_title": "artist-on-fire-joyce-wieland", "date": "1987-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eZ9FBhzSvuep3Yi5wkeDfhVnGOh.jpg", "actors": [], "comments": [], "recommandations_id": []}

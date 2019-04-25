@@ -1,1 +1,0 @@
-{"tmdb_id": 576627, "title": "Batan G\u00fcne\u015f", "original_title": "Batan G\u00fcne\u015f", "slug_title": "batan-gunes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qHhJRLh9as83rvkEfhzYgyf33M.jpg", "actors": [], "comments": [], "recommandations_id": []}

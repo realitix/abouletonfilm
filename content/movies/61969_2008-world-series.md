@@ -1,1 +1,0 @@
-{"tmdb_id": 61969, "title": "2008 World Series", "original_title": "2008 World Series", "slug_title": "2008-world-series", "date": "2008-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9L4W0IJZtIJWT2AQgLTWmBlmPSN.jpg", "actors": ["Terrence Howard (narrator)"], "comments": [], "recommandations_id": []}

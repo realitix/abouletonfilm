@@ -1,1 +1,0 @@
-{"tmdb_id": 448537, "title": "Cry of Earth", "original_title": "Pl\u00e1\u010d zem\u011b", "slug_title": "cry-of-earth", "date": "1993-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

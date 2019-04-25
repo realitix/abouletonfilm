@@ -1,1 +1,0 @@
-{"tmdb_id": 410203, "title": "Anatomy of Violence", "original_title": "Anatomy of Violence", "slug_title": "anatomy-of-violence", "date": "2016-09-12", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yZ24wQQRPimfyznvingsfX4pRFb.jpg", "actors": [], "comments": [], "recommandations_id": []}

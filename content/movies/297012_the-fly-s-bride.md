@@ -1,1 +1,0 @@
-{"tmdb_id": 297012, "title": "The Fly's Bride", "original_title": "The Fly's Bride", "slug_title": "the-fly-s-bride", "date": "1929-09-28", "genre": "Animation / Com\u00e9die / Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

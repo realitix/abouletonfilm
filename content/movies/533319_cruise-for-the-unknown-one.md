@@ -1,1 +1,0 @@
-{"tmdb_id": 533319, "title": "Cruise for the Unknown One", "original_title": "Croisi\u00e8re pour l'inconnu", "slug_title": "cruise-for-the-unknown-one", "date": "1948-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2UfY9fng1YlkIoU1SZdDNjEGB3K.jpg", "actors": [], "comments": [], "recommandations_id": []}

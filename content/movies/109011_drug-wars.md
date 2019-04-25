@@ -1,1 +1,0 @@
-{"tmdb_id": 109011, "title": "Drug Wars", "original_title": "Drug Wars", "slug_title": "drug-wars", "date": "2008-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Am9WUTpzjGK7caE432A65FCLJz.jpg", "actors": [], "comments": [], "recommandations_id": []}

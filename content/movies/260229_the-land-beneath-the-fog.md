@@ -1,1 +1,0 @@
-{"tmdb_id": 260229, "title": "The Land Beneath the Fog", "original_title": "Negeri di Bawah Kabut", "slug_title": "the-land-beneath-the-fog", "date": "2011-12-10", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o2uLY2sDUNiOjKdWv3TGShP0uLk.jpg", "actors": [], "comments": [], "recommandations_id": []}

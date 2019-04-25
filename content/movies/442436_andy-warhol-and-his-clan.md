@@ -1,1 +1,0 @@
-{"tmdb_id": 442436, "title": "Andy Warhol and his clan", "original_title": "Andy Warhol and his clan", "slug_title": "andy-warhol-and-his-clan", "date": "1970-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Warhol (Himself)", "Joe Dallesandro (Himself)"], "comments": [], "recommandations_id": []}

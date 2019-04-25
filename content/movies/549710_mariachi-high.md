@@ -1,1 +1,0 @@
-{"tmdb_id": 549710, "title": "Mariachi High", "original_title": "Mariachi High", "slug_title": "mariachi-high", "date": "2012-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sLYY6NOIGlGKpwi1Ss9ruRbBAms.jpg", "actors": [], "comments": [], "recommandations_id": []}

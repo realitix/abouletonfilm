@@ -1,1 +1,0 @@
-{"tmdb_id": 374719, "title": "Pearl Jam - Ten", "original_title": "Pearl Jam - Ten", "slug_title": "pearl-jam-ten", "date": "1991-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

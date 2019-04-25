@@ -1,1 +1,0 @@
-{"tmdb_id": 278819, "title": "The Planets: An HD Odyssey", "original_title": "The Planets: An HD Odyssey", "slug_title": "the-planets-an-hd-odyssey", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hans Graf (Conductor)"], "comments": [], "recommandations_id": []}

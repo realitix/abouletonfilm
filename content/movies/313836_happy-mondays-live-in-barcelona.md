@@ -1,1 +1,0 @@
-{"tmdb_id": 313836, "title": "Happy Mondays: Live in Barcelona", "original_title": "Happy Mondays: Live in Barcelona", "slug_title": "happy-mondays-live-in-barcelona", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

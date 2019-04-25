@@ -1,1 +1,0 @@
-{"tmdb_id": 510783, "title": "#Resistayol", "original_title": "#direnayol", "slug_title": "resistayol", "date": "2016-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y8GzWvads9hN4n1VttuY2Tih7xk.jpg", "actors": [], "comments": [], "recommandations_id": []}

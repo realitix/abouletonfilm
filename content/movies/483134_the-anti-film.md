@@ -1,1 +1,0 @@
-{"tmdb_id": 483134, "title": "The Anti-Film", "original_title": "The Anti-Film", "slug_title": "the-anti-film", "date": "2017-10-23", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tgGh05IFYNfP3t2s39SAdFnVuBi.jpg", "actors": [], "comments": [], "recommandations_id": []}

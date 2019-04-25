@@ -1,1 +1,0 @@
-{"tmdb_id": 175000, "title": "The Janitor", "original_title": "The Janitor", "slug_title": "the-janitor", "date": "1919-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hank Mann ()"], "comments": [], "recommandations_id": []}

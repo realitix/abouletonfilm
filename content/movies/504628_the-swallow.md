@@ -1,1 +1,0 @@
-{"tmdb_id": 504628, "title": "The Swallow", "original_title": "The Swallow", "slug_title": "the-swallow", "date": "2014-08-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

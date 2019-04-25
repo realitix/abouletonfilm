@@ -1,1 +1,0 @@
-{"tmdb_id": 416065, "title": "Out for Fun", "original_title": "Out for Fun", "slug_title": "out-for-fun", "date": "1954-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

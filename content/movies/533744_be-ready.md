@@ -1,1 +1,0 @@
-{"tmdb_id": 533744, "title": "Be Ready", "original_title": "Haz\u0131r Ol", "slug_title": "be-ready", "date": "1939-01-01", "genre": "Aventure / Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mirza Mustafayev ()", "Fuad Afandiyev (Surgeon)", "Aleksandr Popov ()", "Mammad Babayev ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 283744, "title": "Power Half Hour - Ab Burner", "original_title": "Power Half Hour - Ab Burner", "slug_title": "power-half-hour-ab-burner", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xltsWman0Hxdw0GNtPmWbIkYkf1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 594902, "title": "Dominant Species", "original_title": "Dominant Species", "slug_title": "dominant-species", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

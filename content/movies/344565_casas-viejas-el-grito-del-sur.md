@@ -1,1 +1,0 @@
-{"tmdb_id": 344565, "title": "Casas viejas: el grito del Sur", "original_title": "Casas viejas: el grito del Sur", "slug_title": "casas-viejas-el-grito-del-sur", "date": "", "genre": "Documentaire / Histoire", "score": "8.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

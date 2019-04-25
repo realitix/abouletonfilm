@@ -1,1 +1,0 @@
-{"tmdb_id": 500305, "title": "\u00d6ver \u00e5n efter badvatten", "original_title": "\u00d6ver \u00e5n efter badvatten", "slug_title": "over-an-efter-badvatten", "date": "1933-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

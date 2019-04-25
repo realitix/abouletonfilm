@@ -1,1 +1,0 @@
-{"tmdb_id": 31487, "title": "Metallica: Allstate Arena, Chicago, IL", "original_title": "Metallica: Allstate Arena, Chicago, IL", "slug_title": "metallica-allstate-arena-chicago-il", "date": "2009-01-27", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

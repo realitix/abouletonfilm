@@ -1,1 +1,0 @@
-{"tmdb_id": 382677, "title": "Hell Bent for Whiskey", "original_title": "Hell Bent for Whiskey", "slug_title": "hell-bent-for-whiskey", "date": "2005-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5iJw0Mlb84EYXL0J2HYlXfZoRsA.jpg", "actors": [], "comments": [], "recommandations_id": []}

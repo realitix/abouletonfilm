@@ -1,1 +1,0 @@
-{"tmdb_id": 571911, "title": "Hulk Blood Tapes", "original_title": "Hulk Blood Tapes", "slug_title": "hulk-blood-tapes", "date": "2015-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/93hs55y511z5ifngmWLiCI24W6x.jpg", "actors": [], "comments": [], "recommandations_id": []}

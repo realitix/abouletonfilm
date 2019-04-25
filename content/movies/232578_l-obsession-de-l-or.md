@@ -1,1 +1,0 @@
-{"tmdb_id": 232578, "title": "L'obsession de l'or", "original_title": "L'obsession de l'or", "slug_title": "l-obsession-de-l-or", "date": "1906-10-04", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

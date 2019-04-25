@@ -1,1 +1,0 @@
-{"tmdb_id": 317819, "title": "Legends of Wimbledon: Pete Sampras", "original_title": "Legends of Wimbledon: Pete Sampras", "slug_title": "legends-of-wimbledon-pete-sampras", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

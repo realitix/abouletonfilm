@@ -1,1 +1,0 @@
-{"tmdb_id": 224168, "title": "Majesty: Metal Law", "original_title": "Majesty: Metal Law", "slug_title": "majesty-metal-law", "date": "2004-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/K51MFpq34YFOJUJHPo37Y3kIKQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

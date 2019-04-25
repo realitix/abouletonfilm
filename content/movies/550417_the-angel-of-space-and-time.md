@@ -1,1 +1,0 @@
-{"tmdb_id": 550417, "title": "The Angel of Space and Time", "original_title": "The Angel of Space and Time", "slug_title": "the-angel-of-space-and-time", "date": "1978-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Benjamin Dunlap (Host)"], "comments": [], "recommandations_id": []}

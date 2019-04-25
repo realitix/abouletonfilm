@@ -1,1 +1,0 @@
-{"tmdb_id": 457040, "title": "Foliar Brasil", "original_title": "Foliar Brasil", "slug_title": "foliar-brasil", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sd4zI183vZrUyBw6gbmzGC6YZLc.jpg", "actors": ["Thiago Fragoso ()"], "comments": [], "recommandations_id": []}

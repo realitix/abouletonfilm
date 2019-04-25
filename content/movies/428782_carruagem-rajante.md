@@ -1,1 +1,0 @@
-{"tmdb_id": 428782, "title": "Carruagem Rajante", "original_title": "Carruagem Rajante", "slug_title": "carruagem-rajante", "date": "2016-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qjBo6qvff90dgYQHtHEcEcYIjt1.jpg", "actors": [], "comments": [], "recommandations_id": []}

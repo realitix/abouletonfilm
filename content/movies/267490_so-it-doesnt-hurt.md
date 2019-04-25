@@ -1,1 +1,0 @@
-{"tmdb_id": 267490, "title": "So it Doesn\u2019t Hurt", "original_title": "\u017beby nie bola\u0142o", "slug_title": "so-it-doesnt-hurt", "date": "1998-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Lg2gJSZ7jMYVShvt489W3M3Ab2.jpg", "actors": [], "comments": [], "recommandations_id": []}

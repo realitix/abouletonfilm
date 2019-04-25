@@ -1,1 +1,0 @@
-{"tmdb_id": 93682, "title": "American Mormon", "original_title": "American Mormon", "slug_title": "american-mormon", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dRB0fe1PS0QELFMEj0goSHgIAzA.jpg", "actors": [], "comments": [], "recommandations_id": []}

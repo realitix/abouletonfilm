@@ -1,1 +1,0 @@
-{"tmdb_id": 574699, "title": "Sarah and Omelga", "original_title": "Sarah and Omelga", "slug_title": "sarah-and-omelga", "date": "2010-01-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Omelga Mthiyane (Herself)"], "comments": [], "recommandations_id": []}

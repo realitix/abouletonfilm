@@ -1,1 +1,0 @@
-{"tmdb_id": 416443, "title": "Amor al arte: el ballet", "original_title": "Amor al arte: el ballet", "slug_title": "amor-al-arte-el-ballet", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sLrRX2QmmV5FWbCdm80rcc3sf2j.jpg", "actors": [], "comments": [], "recommandations_id": []}

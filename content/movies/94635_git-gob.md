@@ -1,1 +1,0 @@
-{"tmdb_id": 94635, "title": "Git Gob", "original_title": "Git Gob", "slug_title": "git-gob", "date": "2009-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q4SvJjDfZjmi8UD44tBTfuFwcsr.jpg", "actors": [], "comments": [], "recommandations_id": []}

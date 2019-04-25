@@ -1,1 +1,0 @@
-{"tmdb_id": 336130, "title": "Sharing The Rough", "original_title": "Sharing The Rough", "slug_title": "sharing-the-rough", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

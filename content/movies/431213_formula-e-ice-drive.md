@@ -1,1 +1,0 @@
-{"tmdb_id": 431213, "title": "Formula E: Ice Drive", "original_title": "Formula E: Ice Drive", "slug_title": "formula-e-ice-drive", "date": "2016-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2a5gUvlOPdUXQ7ABa12eUdrScPs.jpg", "actors": [], "comments": [], "recommandations_id": []}

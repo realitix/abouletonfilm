@@ -1,1 +1,0 @@
-{"tmdb_id": 353380, "title": "Peter's Room", "original_title": "Peters rum", "slug_title": "peter-s-room", "date": "2010-10-08", "genre": "Drame", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sAdgZDhRYgacQPPXF3weChejkD2.jpg", "actors": ["Dennis Alvd\u00e9n (Peter)"], "comments": [], "recommandations_id": []}

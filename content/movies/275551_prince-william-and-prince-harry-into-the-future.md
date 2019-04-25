@@ -1,1 +1,0 @@
-{"tmdb_id": 275551, "title": "Prince William and Prince Harry: Into the Future", "original_title": "Prince William and Prince Harry: Into the Future", "slug_title": "prince-william-and-prince-harry-into-the-future", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

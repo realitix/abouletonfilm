@@ -1,1 +1,0 @@
-{"tmdb_id": 472974, "title": "Afeganized", "original_title": "Afeganistamos", "slug_title": "afeganized", "date": "2017-08-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4wOvztQdL9F39LBzYuPJuErL0WJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

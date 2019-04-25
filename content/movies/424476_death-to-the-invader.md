@@ -1,1 +1,0 @@
-{"tmdb_id": 424476, "title": "Death to the Invader", "original_title": "Muerte al invasor", "slug_title": "death-to-the-invader", "date": "1962-07-25", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p6fPkGVmXlE2bZdlp3qlx9b86wR.jpg", "actors": [], "comments": [], "recommandations_id": []}

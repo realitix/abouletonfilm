@@ -1,1 +1,0 @@
-{"tmdb_id": 572761, "title": "The Venetian", "original_title": "The Venetian", "slug_title": "the-venetian", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elena Stabili (The Young Woman)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 505695, "title": "Splatter Movie", "original_title": "Splatter Movie", "slug_title": "splatter-movie", "date": "2011-01-01", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gxYc8ah4ZlSmLDLIJOmtjVN89vA.jpg", "actors": [], "comments": [], "recommandations_id": []}

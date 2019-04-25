@@ -1,1 +1,0 @@
-{"tmdb_id": 312216, "title": "Yeh Kya Ho Raha Hai", "original_title": "Yeh Kya Ho Raha Hai", "slug_title": "yeh-kya-ho-raha-hai", "date": "2002-10-11", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hLvIAEbzwJPnTeTZRP24MAmzisv.jpg", "actors": ["Payal Rohatgi (Esha)"], "comments": [], "recommandations_id": []}

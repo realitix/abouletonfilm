@@ -1,1 +1,0 @@
-{"tmdb_id": 297321, "title": "Wendell Scott: A Race Story", "original_title": "Wendell Scott: A Race Story", "slug_title": "wendell-scott-a-race-story", "date": "2011-02-20", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7DLbsviM6rGnjGam2bLl7k3DDxt.jpg", "actors": [], "comments": [], "recommandations_id": []}

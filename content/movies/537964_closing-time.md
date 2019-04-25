@@ -1,1 +1,0 @@
-{"tmdb_id": 537964, "title": "Closing Time", "original_title": "\u6253\u70ca\u6642\u523b", "slug_title": "closing-time", "date": "2018-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bnJujs0zsnhJzkupvlPDVoCnpKm.jpg", "actors": [], "comments": [], "recommandations_id": []}

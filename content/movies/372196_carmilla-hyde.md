@@ -1,1 +1,0 @@
-{"tmdb_id": 372196, "title": "Carmilla Hyde", "original_title": "Carmilla Hyde", "slug_title": "carmilla-hyde", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d6GcxBGolbjj6Q36T7ms5cb9Jd2.jpg", "actors": ["Anni Lindner (Carmilla Hyde)"], "comments": [], "recommandations_id": []}

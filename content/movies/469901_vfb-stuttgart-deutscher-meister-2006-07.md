@@ -1,1 +1,0 @@
-{"tmdb_id": 469901, "title": "VfB Stuttgart - Deutscher Meister 2006/07", "original_title": "VfB Stuttgart - Deutscher Meister 2006/07", "slug_title": "vfb-stuttgart-deutscher-meister-2006-07", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

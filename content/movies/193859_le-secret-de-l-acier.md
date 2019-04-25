@@ -1,1 +1,0 @@
-{"tmdb_id": 193859, "title": "Le secret de l'acier", "original_title": "Le secret de l'acier", "slug_title": "le-secret-de-l-acier", "date": "1912-12-26", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["L\u00e9on Mathot (Joachim Goethal)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 513704, "title": "Hallo k3 Deel 1", "original_title": "Hallo k3 Deel 1", "slug_title": "hallo-k3-deel-1", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wEa1qECgTook2Bbg31zMHOaf0M0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 509355, "title": "The Wizard of H2O", "original_title": "The Wizard of H2O", "slug_title": "the-wizard-of-h2o", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oJRWAFAcFlo81CpevrQHCjyYNnG.jpg", "actors": [], "comments": [], "recommandations_id": []}

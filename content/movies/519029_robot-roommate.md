@@ -1,1 +1,0 @@
-{"tmdb_id": 519029, "title": "Robot Roommate", "original_title": "Robot Roommate", "slug_title": "robot-roommate", "date": "2017-12-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael David (Dave)", "Josh Bowens (Hal)", "Thomas Zavertnik (Mugger)"], "comments": [], "recommandations_id": []}

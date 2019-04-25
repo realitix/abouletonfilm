@@ -1,1 +1,0 @@
-{"tmdb_id": 497741, "title": "Byen Midt I Norge", "original_title": "Byen Midt I Norge", "slug_title": "byen-midt-i-norge", "date": "2018-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Berith Pauline Olderskog (voice)"], "comments": [], "recommandations_id": []}

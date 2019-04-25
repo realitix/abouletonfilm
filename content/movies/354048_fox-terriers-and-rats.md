@@ -1,1 +1,0 @@
-{"tmdb_id": 354048, "title": "Fox Terriers and Rats", "original_title": "Fox terriers et rats", "slug_title": "fox-terriers-and-rats", "date": "1902-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qZS4qMZr3ettMK01khQo5Da9Nfc.jpg", "actors": [], "comments": [], "recommandations_id": []}

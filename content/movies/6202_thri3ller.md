@@ -1,1 +1,0 @@
-{"tmdb_id": 6202, "title": "Thri3ller", "original_title": "Thri3ller", "slug_title": "thri3ller", "date": "2003-06-02", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Annette Kreft (Minnie van Hoogen)", "Philip Hellmann ( )"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 370977, "title": "Yevado Okadu", "original_title": "Yevado Okadu", "slug_title": "yevado-okadu", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 370977, "title": "Yevado Okadu", "original_title": "Yevado Okadu", "slug_title": "yevado-okadu", "date": "", "genre": [""], "score": "10.0/10", "synopsis": "Film Dropped", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

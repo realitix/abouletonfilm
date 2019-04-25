@@ -1,1 +1,0 @@
-{"tmdb_id": 301472, "title": "Dark Side of the Earth", "original_title": "Dark Side of the Earth", "slug_title": "dark-side-of-the-earth", "date": "2013-08-08", "genre": "Science-Fiction", "score": "6.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Doug Rand (Professor Witold Randowski)"], "comments": [], "recommandations_id": []}

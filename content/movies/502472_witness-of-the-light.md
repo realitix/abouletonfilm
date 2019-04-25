@@ -1,1 +1,0 @@
-{"tmdb_id": 502472, "title": "Witness of the Light", "original_title": "Witness of the Light", "slug_title": "witness-of-the-light", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ivbsW8pHZxI226FotxQUnN3EV6b.jpg", "actors": [], "comments": [], "recommandations_id": []}

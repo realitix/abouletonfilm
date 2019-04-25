@@ -1,1 +1,0 @@
-{"tmdb_id": 476838, "title": "Ahasverus", "original_title": "Ahasver", "slug_title": "ahasverus", "date": "1962-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Iwlh0CHEZmVCgbK3duEDN8tSOf.jpg", "actors": [], "comments": [], "recommandations_id": []}

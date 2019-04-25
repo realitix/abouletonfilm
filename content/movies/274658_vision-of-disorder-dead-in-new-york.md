@@ -1,1 +1,0 @@
-{"tmdb_id": 274658, "title": "Vision of Disorder: Dead in New York", "original_title": "Vision of Disorder: Dead in New York", "slug_title": "vision-of-disorder-dead-in-new-york", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 409600, "title": "Desert Abstractions", "original_title": "Desert Abstractions", "slug_title": "desert-abstractions", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ogadBvibZTX3oxqoMzrePojvmo.jpg", "actors": [], "comments": [], "recommandations_id": []}

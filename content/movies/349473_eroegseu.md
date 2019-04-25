@@ -1,1 +1,0 @@
-{"tmdb_id": 349473, "title": "\uc5d0\ub85c\uc5d1\uc2a4", "original_title": "\uc5d0\ub85c\uc5d1\uc2a4", "slug_title": "eroegseu", "date": "1996-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

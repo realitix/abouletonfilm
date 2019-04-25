@@ -1,1 +1,0 @@
-{"tmdb_id": 441372, "title": "Bertha the Sewing Machine Girl", "original_title": "Bertha the Sewing Machine Girl", "slug_title": "bertha-the-sewing-machine-girl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Madge Bellamy ()", "Allan Simpson ()", "Sally Phipps ()"], "comments": [], "recommandations_id": []}

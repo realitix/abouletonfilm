@@ -1,1 +1,0 @@
-{"tmdb_id": 288252, "title": "Holiday Greetings 1941", "original_title": "Holiday Greetings 1941", "slug_title": "holiday-greetings-1941", "date": "1941-12-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lewis Stone (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 360143, "title": "GeEr - Gede Rasa", "original_title": "GeEr - Gede Rasa", "slug_title": "geer-gede-rasa", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zg8mPEcfOJjGtaTpnNvB6q0NtoF.jpg", "actors": ["Dono ()", "Kasino ()", "Indro ()"], "comments": [], "recommandations_id": []}

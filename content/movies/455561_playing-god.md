@@ -1,1 +1,0 @@
-{"tmdb_id": 455561, "title": "Playing God", "original_title": "Playing God", "slug_title": "playing-god", "date": "2018-02-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qJlU3DVZpWmiuaA9lRPg7FudOoQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

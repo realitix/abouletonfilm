@@ -1,1 +1,0 @@
-{"tmdb_id": 226953, "title": "Carne, Osso", "original_title": "Carne, Osso", "slug_title": "carne-osso", "date": "2011-04-02", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qXr49Z71ntaK8nCao8hYPSUgj9f.jpg", "actors": [], "comments": [], "recommandations_id": []}

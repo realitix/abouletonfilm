@@ -1,1 +1,0 @@
-{"tmdb_id": 359853, "title": "Wear Bright Gear", "original_title": "Wear Bright Gear", "slug_title": "wear-bright-gear", "date": "1971-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nD301anMvc0EnVPjDQwUUDSOe7Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

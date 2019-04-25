@@ -1,1 +1,0 @@
-{"tmdb_id": 317526, "title": "Shania Twain: Up Close and Personal", "original_title": "Shania Twain: Up Close and Personal", "slug_title": "shania-twain-up-close-and-personal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

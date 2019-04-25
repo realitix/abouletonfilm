@@ -1,1 +1,0 @@
-{"tmdb_id": 201874, "title": "NBC News Presents: Secrets To The Code", "original_title": "NBC News Presents: Secrets To The Code", "slug_title": "nbc-news-presents-secrets-to-the-code", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 586647, "title": "King of the Rain-Country", "original_title": "King of the Rain-Country", "slug_title": "king-of-the-rain-country", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

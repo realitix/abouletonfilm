@@ -1,1 +1,0 @@
-{"tmdb_id": 171662, "title": "Jimmy Scott: If You Only Knew", "original_title": "Jimmy Scott: If You Only Knew", "slug_title": "jimmy-scott-if-you-only-knew", "date": "", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q6Kc5DhWsJNZadDz9zvPAmdLZTc.jpg", "actors": [], "comments": [], "recommandations_id": []}

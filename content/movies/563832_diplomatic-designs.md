@@ -1,1 +1,0 @@
-{"tmdb_id": 563832, "title": "Diplomatic Designs", "original_title": "Desseins diplomatiques", "slug_title": "diplomatic-designs", "date": "2017-11-22", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rZCkx426CAI7H0tBQg2JCcbvjc1.jpg", "actors": [], "comments": [], "recommandations_id": []}

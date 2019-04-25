@@ -1,1 +1,0 @@
-{"tmdb_id": 418706, "title": "My White Baby", "original_title": "Me Broni Ba", "slug_title": "my-white-baby", "date": "2009-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s4YcBEmDl3K6kkkq3G0mPTpqhFj.jpg", "actors": [], "comments": [], "recommandations_id": []}

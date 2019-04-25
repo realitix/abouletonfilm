@@ -1,1 +1,0 @@
-{"tmdb_id": 381726, "title": "Motion Lumine", "original_title": "\u30e2\u30fc\u30b7\u30e7\u30f3\u30fb\u30eb\u30df\u30cd", "slug_title": "motion-lumine", "date": "1978-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9PckBJpkwClefkM3tWCzu4qHojv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 533870, "title": "Spring Breeze", "original_title": "\u6625\u98a8", "slug_title": "spring-breeze", "date": "2014-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ePdMlj8kEvuA7e7IsmsVcwDqkT9.jpg", "actors": [], "comments": [], "recommandations_id": []}

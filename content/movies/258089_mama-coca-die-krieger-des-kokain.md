@@ -1,1 +1,0 @@
-{"tmdb_id": 258089, "title": "Mama Coca - Die Krieger des Kokain", "original_title": "Mama Coca - Die Krieger des Kokain", "slug_title": "mama-coca-die-krieger-des-kokain", "date": "2012-09-05", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

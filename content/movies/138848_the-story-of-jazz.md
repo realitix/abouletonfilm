@@ -1,1 +1,0 @@
-{"tmdb_id": 138848, "title": "The Story of Jazz", "original_title": "The Story of Jazz", "slug_title": "the-story-of-jazz", "date": "1995-09-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oHi8YvI5xvLc7uWWgW3TUyiFWgG.jpg", "actors": [], "comments": [], "recommandations_id": []}

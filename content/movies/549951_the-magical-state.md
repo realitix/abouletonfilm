@@ -1,1 +1,0 @@
-{"tmdb_id": 549951, "title": "The Magical State", "original_title": "The Magical State", "slug_title": "the-magical-state", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/deVtmsofqD7RF3Cc0Fiq35OlNEf.jpg", "actors": [], "comments": [], "recommandations_id": []}

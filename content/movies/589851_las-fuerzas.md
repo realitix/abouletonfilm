@@ -1,1 +1,0 @@
-{"tmdb_id": 589851, "title": "Las fuerzas", "original_title": "Las fuerzas", "slug_title": "las-fuerzas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

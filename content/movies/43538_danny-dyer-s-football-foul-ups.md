@@ -1,1 +1,0 @@
-{"tmdb_id": 43538, "title": "Danny Dyer's Football Foul Ups", "original_title": "Danny Dyer's Football Foul Ups", "slug_title": "danny-dyer-s-football-foul-ups", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1DliaSnWSVNrc2eFBzvLjo1ygIS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 424920, "title": "Tempo libero", "original_title": "Tempo libero", "slug_title": "tempo-libero", "date": "1961-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

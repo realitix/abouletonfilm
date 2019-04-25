@@ -1,1 +1,0 @@
-{"tmdb_id": 294442, "title": "Las perfumadas", "original_title": "Las perfumadas", "slug_title": "las-perfumadas", "date": "1983-10-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uoEnPKf9kwCUNkqQPyf1bm7Fw9Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

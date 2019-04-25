@@ -1,1 +1,0 @@
-{"tmdb_id": 265150, "title": "David Gilmour - Later Jools Holland", "original_title": "David Gilmour - Later Jools Holland", "slug_title": "david-gilmour-later-jools-holland", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

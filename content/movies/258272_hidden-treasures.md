@@ -1,1 +1,0 @@
-{"tmdb_id": 258272, "title": "Hidden Treasures", "original_title": "Hidden Treasures", "slug_title": "hidden-treasures", "date": "2011-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7wRoS3WDMTc59MobgfNW8YGDoe0.jpg", "actors": [], "comments": [], "recommandations_id": []}

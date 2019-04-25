@@ -1,1 +1,0 @@
-{"tmdb_id": 308317, "title": "Life of a Struggling Actor", "original_title": "Life of a Struggling Actor", "slug_title": "life-of-a-struggling-actor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

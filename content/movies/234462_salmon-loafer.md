@@ -1,1 +1,0 @@
-{"tmdb_id": 234462, "title": "Salmon Loafer", "original_title": "Salmon Loafer", "slug_title": "salmon-loafer", "date": "1963-05-28", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g9djhTrZpN3QcQYwLAoRppEDKoB.jpg", "actors": [], "comments": [], "recommandations_id": []}

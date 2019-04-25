@@ -1,1 +1,0 @@
-{"tmdb_id": 412561, "title": "The Secret of Star Wars", "original_title": "The Secret of Star Wars", "slug_title": "the-secret-of-star-wars", "date": "2015-12-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7xSt0PMwWaiML0zP9tKqueh96DA.jpg", "actors": [], "comments": [], "recommandations_id": []}

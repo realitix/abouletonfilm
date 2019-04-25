@@ -1,1 +1,0 @@
-{"tmdb_id": 292482, "title": "The Housewife Slasher", "original_title": "The Housewife Slasher", "slug_title": "the-housewife-slasher", "date": "2012-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cHfw4zoFFSw0uFSINR5PK2TSQCy.jpg", "actors": [], "comments": [], "recommandations_id": []}

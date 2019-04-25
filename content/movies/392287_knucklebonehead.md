@@ -1,1 +1,0 @@
-{"tmdb_id": 392287, "title": "Knucklebonehead", "original_title": "Knucklebonehead", "slug_title": "knucklebonehead", "date": "2013-10-11", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xw8YMa5CvckFZAYioOtUb1G1bQX.jpg", "actors": [], "comments": [], "recommandations_id": []}

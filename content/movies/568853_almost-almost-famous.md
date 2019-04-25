@@ -1,1 +1,0 @@
-{"tmdb_id": 568853, "title": "Almost Almost Famous", "original_title": "Almost Almost Famous", "slug_title": "almost-almost-famous", "date": "2018-12-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gwV6fGzqo9cZCNpQnDESL6S8Gxy.jpg", "actors": [], "comments": [], "recommandations_id": []}

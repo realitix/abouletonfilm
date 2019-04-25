@@ -1,1 +1,0 @@
-{"tmdb_id": 262791, "title": "Coeur bleu", "original_title": "Coeur bleu", "slug_title": "coeur-bleu", "date": "1980-10-16", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nC3HB9w09bdbyjl4ectsMP9Ui1O.jpg", "actors": ["Gina Lola Benzina (Gina)"], "comments": [], "recommandations_id": []}

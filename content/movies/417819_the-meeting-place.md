@@ -1,1 +1,0 @@
-{"tmdb_id": 417819, "title": "The Meeting Place", "original_title": "The Meeting Place", "slug_title": "the-meeting-place", "date": "2011-06-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sophie Hopkins (Anna)"], "comments": [], "recommandations_id": []}

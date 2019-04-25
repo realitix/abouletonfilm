@@ -1,1 +1,0 @@
-{"tmdb_id": 165939, "title": "El ladr\u00f3n de sue\u00f1os", "original_title": "El ladr\u00f3n de sue\u00f1os", "slug_title": "el-ladron-de-suenos", "date": "2000-12-15", "genre": "Animation", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gRxlbKqotQWTZdyJCurHxGoHtcN.jpg", "actors": [], "comments": [], "recommandations_id": []}

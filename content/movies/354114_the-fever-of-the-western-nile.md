@@ -1,1 +1,0 @@
-{"tmdb_id": 354114, "title": "The Fever of the Western Nile", "original_title": "The Fever of the Western Nile", "slug_title": "the-fever-of-the-western-nile", "date": "2003-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1t8wIvFcY1A1VWeMeTEPDI0h2fc.jpg", "actors": [], "comments": [], "recommandations_id": []}

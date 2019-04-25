@@ -1,1 +1,0 @@
-{"tmdb_id": 305149, "title": "Polidor and the Wig", "original_title": "Polidor e la parrucca", "slug_title": "polidor-and-the-wig", "date": "1917-11-21", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Polidor ()"], "comments": [], "recommandations_id": []}

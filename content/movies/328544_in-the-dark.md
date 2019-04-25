@@ -1,1 +1,0 @@
-{"tmdb_id": 328544, "title": "In the Dark", "original_title": "\u0412 \u0442\u0435\u043c\u043d\u043e\u0442\u0435", "slug_title": "in-the-dark", "date": "2004-12-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i7oOkWkeSWFpz5jGsMBHWguDe4v.jpg", "actors": [], "comments": [], "recommandations_id": []}

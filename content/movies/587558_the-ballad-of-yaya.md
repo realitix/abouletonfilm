@@ -1,1 +1,0 @@
-{"tmdb_id": 587558, "title": "The Ballad of Yaya", "original_title": "La balade de Yaya", "slug_title": "the-ballad-of-yaya", "date": "", "genre": "Aventure / Animation / Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/QSDnVIJzH2BreLxrF0iE8i8CK8.jpg", "actors": [], "comments": [], "recommandations_id": []}

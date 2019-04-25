@@ -1,1 +1,0 @@
-{"tmdb_id": 238278, "title": "Verdensgiften", "original_title": "Verdensgiften", "slug_title": "verdensgiften", "date": "1914-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maria Garland ()", "Holger Holm ()", "Zilla Lange ()", "Else Mantzius ()"], "comments": [], "recommandations_id": []}

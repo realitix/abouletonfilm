@@ -1,1 +1,0 @@
-{"tmdb_id": 473994, "title": "Time Being I \u2013 IV", "original_title": "Time Being I \u2013 IV", "slug_title": "time-being-i-iv", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hADUzZ69gjThyrvHj7k9IFVaaTQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

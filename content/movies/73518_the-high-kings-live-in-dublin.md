@@ -1,1 +1,0 @@
-{"tmdb_id": 73518, "title": "The High Kings - Live In Dublin", "original_title": "The High Kings - Live In Dublin", "slug_title": "the-high-kings-live-in-dublin", "date": "2008-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hj2Ery1IDHzcIl4CdcKHOvfOpcH.jpg", "actors": [], "comments": [], "recommandations_id": []}

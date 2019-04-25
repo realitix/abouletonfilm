@@ -1,1 +1,0 @@
-{"tmdb_id": 327997, "title": "First Time", "original_title": "Awal Mara", "slug_title": "first-time", "date": "1998-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

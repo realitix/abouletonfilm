@@ -1,1 +1,0 @@
-{"tmdb_id": 107944, "title": "A Letter to Dad", "original_title": "A Letter to Dad", "slug_title": "a-letter-to-dad", "date": "2009-07-27", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vothzjFGA1v4nWssQlF0UoYpwAl.jpg", "actors": [], "comments": [], "recommandations_id": []}

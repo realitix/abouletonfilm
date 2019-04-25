@@ -1,1 +1,0 @@
-{"tmdb_id": 349730, "title": "\uccab\uc0ac\ub791\uc740 \ubabb\uc78a\uc5b4", "original_title": "\uccab\uc0ac\ub791\uc740 \ubabb\uc78a\uc5b4", "slug_title": "ceossarangeun-mosijeo", "date": "1983-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

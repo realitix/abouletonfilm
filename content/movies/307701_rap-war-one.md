@@ -1,1 +1,0 @@
-{"tmdb_id": 307701, "title": "Rap War One", "original_title": "Rap War One", "slug_title": "rap-war-one", "date": "2004-06-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Justin Edwards (Dequan)", "Joze T. Castillo (Brandon)", "Morgan Bagley (Sherri)", "Greg Nice (G-Mega)"], "comments": [], "recommandations_id": []}

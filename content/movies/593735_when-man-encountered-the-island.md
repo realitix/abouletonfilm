@@ -1,1 +1,0 @@
-{"tmdb_id": 593735, "title": "When Man Encountered the Island", "original_title": "When Man Encountered the Island", "slug_title": "when-man-encountered-the-island", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

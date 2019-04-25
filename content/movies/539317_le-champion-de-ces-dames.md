@@ -1,1 +1,0 @@
-{"tmdb_id": 539317, "title": "Le champion de ces dames", "original_title": "Le champion de ces dames", "slug_title": "le-champion-de-ces-dames", "date": "1935-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2n50CEGfYjbMaZaudE8vBGq6Un3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 336996, "title": "Dekline: True Blue", "original_title": "Dekline: True Blue", "slug_title": "dekline-true-blue", "date": "2014-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eUGpKDUJpX8bRMWlTAFvT8pzONB.jpg", "actors": [], "comments": [], "recommandations_id": []}

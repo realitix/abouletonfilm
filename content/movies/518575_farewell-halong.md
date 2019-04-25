@@ -1,1 +1,0 @@
-{"tmdb_id": 518575, "title": "Farewell Halong", "original_title": "Farewell Halong", "slug_title": "farewell-halong", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lV6Nu57JMNKq2ST8I6tN2O8vFTr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 135685, "title": "Payload", "original_title": "Payload", "slug_title": "payload", "date": "2011-06-21", "genre": "Science-Fiction", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kMUksAV3xBYpxjZ9mS57ELW8I4G.jpg", "actors": [], "comments": [], "recommandations_id": []}

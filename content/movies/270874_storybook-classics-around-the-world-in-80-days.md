@@ -1,1 +1,0 @@
-{"tmdb_id": 270874, "title": "Storybook Classics: Around the World in 80 Days", "original_title": "Storybook Classics: Around the World in 80 Days", "slug_title": "storybook-classics-around-the-world-in-80-days", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

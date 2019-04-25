@@ -1,1 +1,0 @@
-{"tmdb_id": 333865, "title": "From Fat to Finish Line", "original_title": "From Fat to Finish Line", "slug_title": "from-fat-to-finish-line", "date": "2015-04-18", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zq1dkgeGwsjrParmi7hQu9F3NA6.jpg", "actors": [], "comments": [], "recommandations_id": [360109]}

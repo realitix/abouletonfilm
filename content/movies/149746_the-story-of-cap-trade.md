@@ -1,1 +1,0 @@
-{"tmdb_id": 149746, "title": "The Story of Cap & Trade", "original_title": "The Story of Cap & Trade", "slug_title": "the-story-of-cap-trade", "date": "2009-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

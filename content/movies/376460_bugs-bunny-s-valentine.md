@@ -1,1 +1,0 @@
-{"tmdb_id": 376460, "title": "Bugs Bunny's Valentine", "original_title": "Bugs Bunny's Valentine", "slug_title": "bugs-bunny-s-valentine", "date": "1979-02-14", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rCagaxnu9LFYA4dEr27tZM5mefC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 457038, "title": "A Day without the Sun", "original_title": "Dzie\u0144 bez s\u0142o\u0144ca", "slug_title": "a-day-without-the-sun", "date": "1959-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d4nifnSG8Dv4G0FaAGXJ7V9zIyb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 398179, "title": "Dogtown Redemption", "original_title": "Dogtown Redemption", "slug_title": "dogtown-redemption", "date": "2016-05-17", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/34rhPb4Zw1MyovB75VRabO37tug.jpg", "actors": [], "comments": [], "recommandations_id": []}

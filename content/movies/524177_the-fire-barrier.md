@@ -1,1 +1,0 @@
-{"tmdb_id": 524177, "title": "The Fire Barrier", "original_title": "The Fire Barrier", "slug_title": "the-fire-barrier", "date": "1926-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

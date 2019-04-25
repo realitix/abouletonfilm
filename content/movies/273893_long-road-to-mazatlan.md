@@ -1,1 +1,0 @@
-{"tmdb_id": 273893, "title": "Long Road to Mazatl\u00e1n", "original_title": "Long Road to Mazatl\u00e1n", "slug_title": "long-road-to-mazatlan", "date": "1999-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6hvd9excJZCoSkNBOJXcVwrA1KW.jpg", "actors": [], "comments": [], "recommandations_id": []}

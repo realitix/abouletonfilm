@@ -1,1 +1,0 @@
-{"tmdb_id": 112115, "title": "Be A Hula Girl", "original_title": "Be A Hula Girl", "slug_title": "be-a-hula-girl", "date": "2003-05-03", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gNXJDDzYjrebWCQ8SYM93L9dImn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 304115, "title": "Schumann: Manfred", "original_title": "Schumann: Manfred", "slug_title": "schumann-manfred", "date": "2013-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

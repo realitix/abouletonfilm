@@ -1,1 +1,0 @@
-{"tmdb_id": 304900, "title": "Crusty Demons 17: World of Insanity", "original_title": "Crusty Demons 17: World of Insanity", "slug_title": "crusty-demons-17-world-of-insanity", "date": "2013-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

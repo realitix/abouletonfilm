@@ -1,1 +1,0 @@
-{"tmdb_id": 420720, "title": "Parcelle de ciel", "original_title": "Parcelle de ciel", "slug_title": "parcelle-de-ciel", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sUAxmdNL9xK5XkoR39F7zLIUHzL.jpg", "actors": [], "comments": [], "recommandations_id": []}

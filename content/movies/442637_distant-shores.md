@@ -1,1 +1,0 @@
-{"tmdb_id": 442637, "title": "Distant Shores", "original_title": "Distant Shores", "slug_title": "distant-shores", "date": "2016-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

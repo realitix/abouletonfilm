@@ -1,1 +1,0 @@
-{"tmdb_id": 393330, "title": "Happy Day", "original_title": "Happy Day", "slug_title": "happy-day", "date": "1976-01-01", "genre": "Drame", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tnhNa7yjPdyLnqeENPyldcsDgLA.jpg", "actors": [], "comments": [], "recommandations_id": []}

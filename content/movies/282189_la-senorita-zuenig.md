@@ -1,1 +1,0 @@
-{"tmdb_id": 282189, "title": "La se\u00f1orita Zuenig", "original_title": "La se\u00f1orita Zuenig", "slug_title": "la-senorita-zuenig", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Juan Busto ()", "Silvia Abascal ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 88861, "title": "Chak Jawana", "original_title": "Chak Jawana", "slug_title": "chak-jawana", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

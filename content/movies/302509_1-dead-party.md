@@ -1,1 +1,0 @@
-{"tmdb_id": 302509, "title": "1 Dead Party", "original_title": "1 Dead Party", "slug_title": "1-dead-party", "date": "2014-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sAybgfU6tlVBC0Ouj49YTzBaELs.jpg", "actors": [], "comments": [], "recommandations_id": []}

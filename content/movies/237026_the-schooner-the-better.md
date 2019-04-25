@@ -1,1 +1,0 @@
-{"tmdb_id": 237026, "title": "The Schooner the Better", "original_title": "The Schooner the Better", "slug_title": "the-schooner-the-better", "date": "1946-07-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 182655, "title": "Karamay", "original_title": "\u514b\u62c9\u739b\u4f9d", "slug_title": "karamay", "date": "2010-08-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wX33Xgaos3glfI80PbKxcjQv1Mx.jpg", "actors": [], "comments": [], "recommandations_id": []}

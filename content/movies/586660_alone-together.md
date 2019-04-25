@@ -1,1 +1,0 @@
-{"tmdb_id": 586660, "title": "Alone Together", "original_title": "Alone Together", "slug_title": "alone-together", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liza Soberano ()", "Enrique Gil ()", "Jasmine Curtis-Smith ()", "Slyvia Sanchez ()"], "comments": [], "recommandations_id": []}

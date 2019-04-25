@@ -1,1 +1,0 @@
-{"tmdb_id": 442309, "title": "Running Shadow", "original_title": "Running Shadow", "slug_title": "running-shadow", "date": "1972-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dRm0lR3hibFMSAY05ZHNBPnou7Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 304476, "title": "Mordy to the Max", "original_title": "Mordy to the Max", "slug_title": "mordy-to-the-max", "date": "2014-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

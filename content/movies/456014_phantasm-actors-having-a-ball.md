@@ -1,1 +1,0 @@
-{"tmdb_id": 456014, "title": "Phantasm: Actors Having a Ball", "original_title": "Phantasm: Actors Having a Ball", "slug_title": "phantasm-actors-having-a-ball", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

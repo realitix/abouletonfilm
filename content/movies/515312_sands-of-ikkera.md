@@ -1,1 +1,0 @@
-{"tmdb_id": 515312, "title": "Sands of Ikkera", "original_title": "Sands of Ikkera", "slug_title": "sands-of-ikkera", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

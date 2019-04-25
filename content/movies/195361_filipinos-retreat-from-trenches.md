@@ -1,1 +1,0 @@
-{"tmdb_id": 195361, "title": "Filipinos Retreat from Trenches", "original_title": "Filipinos Retreat from Trenches", "slug_title": "filipinos-retreat-from-trenches", "date": "1899-06-20", "genre": "", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

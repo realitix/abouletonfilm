@@ -1,1 +1,0 @@
-{"tmdb_id": 108142, "title": "The Ham What Am", "original_title": "The Ham What Am", "slug_title": "the-ham-what-am", "date": "1928-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJyduaLV6IVAweDGw4OHwfkTL8V.jpg", "actors": ["Jay C. Flippen (Himself)"], "comments": [], "recommandations_id": []}

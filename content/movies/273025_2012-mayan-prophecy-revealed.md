@@ -1,1 +1,0 @@
-{"tmdb_id": 273025, "title": "2012 Mayan Prophecy Revealed", "original_title": "2012 Mayan Prophecy Revealed", "slug_title": "2012-mayan-prophecy-revealed", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uUzKHS1m1oKoL593A3K0Y3NJ7oc.jpg", "actors": [], "comments": [], "recommandations_id": []}

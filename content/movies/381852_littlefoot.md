@@ -1,1 +1,0 @@
-{"tmdb_id": 381852, "title": "LittleFoot", "original_title": "LittleFoot", "slug_title": "littlefoot", "date": "2008-11-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ed6XhSGDchq6E6q8CjR4pawcW37.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 318540, "title": "The Murder of JFK: A Revisionist History", "original_title": "The Murder of JFK: A Revisionist History", "slug_title": "the-murder-of-jfk-a-revisionist-history", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 566006, "title": "Dead End, Dead End", "original_title": "Dead End, Dead End", "slug_title": "dead-end-dead-end", "date": "1981-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iNnz0nhcNFxgLYkpIlIanXh3vja.jpg", "actors": [], "comments": [], "recommandations_id": []}

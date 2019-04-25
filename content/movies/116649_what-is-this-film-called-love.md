@@ -1,1 +1,0 @@
-{"tmdb_id": 116649, "title": "What Is This Film Called Love?", "original_title": "What Is This Film Called Love?", "slug_title": "what-is-this-film-called-love", "date": "2012-06-26", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

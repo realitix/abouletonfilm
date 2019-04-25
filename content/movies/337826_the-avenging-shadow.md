@@ -1,1 +1,0 @@
-{"tmdb_id": 337826, "title": "The Avenging Shadow", "original_title": "The Avenging Shadow", "slug_title": "the-avenging-shadow", "date": "1928-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

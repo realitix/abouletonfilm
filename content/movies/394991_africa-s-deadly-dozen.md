@@ -1,1 +1,0 @@
-{"tmdb_id": 394991, "title": "Africa's Deadly Dozen", "original_title": "Africa's Deadly Dozen", "slug_title": "africa-s-deadly-dozen", "date": "2000-04-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sUg4tak02i5Mfl2453oZdb8yhnh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 285142, "title": "Joe D'Amato: Totally Uncut", "original_title": "Joe D'Amato: Totally Uncut", "slug_title": "joe-d-amato-totally-uncut", "date": "1999-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bfcWAlMSIjpjUfi8L0IFoM7vPcd.jpg", "actors": [], "comments": [], "recommandations_id": []}

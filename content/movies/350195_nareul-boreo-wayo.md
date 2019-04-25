@@ -1,1 +1,0 @@
-{"tmdb_id": 350195, "title": "\ub098\ub97c \ubcf4\ub7ec \uc640\uc694", "original_title": "\ub098\ub97c \ubcf4\ub7ec \uc640\uc694", "slug_title": "nareul-boreo-wayo", "date": "1980-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

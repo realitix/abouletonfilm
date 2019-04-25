@@ -1,1 +1,0 @@
-{"tmdb_id": 321571, "title": "Biarritz : le Port-Vieux", "original_title": "Biarritz : le Port-Vieux", "slug_title": "biarritz-le-port-vieux", "date": "1901-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

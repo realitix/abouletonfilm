@@ -1,1 +1,0 @@
-{"tmdb_id": 225104, "title": "Connect", "original_title": "Connect", "slug_title": "connect", "date": "2011-05-31", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7cxjTWmvaRTPrfByOyADAZBIM1l.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 576129, "title": "Bones & Boats", "original_title": "Bones & Boats", "slug_title": "bones-boats", "date": "2004-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

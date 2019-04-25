@@ -1,1 +1,0 @@
-{"tmdb_id": 182977, "title": "I Ran With a Grey Ghost", "original_title": "I Ran With a Grey Ghost", "slug_title": "i-ran-with-a-grey-ghost", "date": "2005-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

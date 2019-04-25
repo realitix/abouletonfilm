@@ -1,1 +1,0 @@
-{"tmdb_id": 314509, "title": "smoKings", "original_title": "smoKings", "slug_title": "smokings", "date": "2014-10-18", "genre": "", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ps3z7kTQxYTNWyoQM7wjJqDwI9a.jpg", "actors": [], "comments": [], "recommandations_id": [359156, 330764, 495766, 310593]}

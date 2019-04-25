@@ -1,1 +1,0 @@
-{"tmdb_id": 75764, "title": "Thanks Brain!", "original_title": "Thanks Brain!", "slug_title": "thanks-brain", "date": "2007-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/usGXNnib1TT6wjGwXcYp6HK4oq3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 292605, "title": "The Policeman's House", "original_title": "The Policeman's House", "slug_title": "the-policeman-s-house", "date": "2014-09-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

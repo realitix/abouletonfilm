@@ -1,1 +1,0 @@
-{"tmdb_id": 431904, "title": "Duel Personalities", "original_title": "Duel Personalities", "slug_title": "duel-personalities", "date": "1939-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Our Gang (Children)"], "comments": [], "recommandations_id": []}

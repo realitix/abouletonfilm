@@ -1,1 +1,0 @@
-{"tmdb_id": 570321, "title": "Seed of Evil", "original_title": "Nie Zhong", "slug_title": "seed-of-evil", "date": "1981-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yasuaki Kurata ()", "Shirley Yu Sha-Li ()"], "comments": [], "recommandations_id": []}

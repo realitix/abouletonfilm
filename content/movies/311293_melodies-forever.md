@@ -1,1 +1,0 @@
-{"tmdb_id": 311293, "title": "Melodies Forever", "original_title": "Melodies Forever", "slug_title": "melodies-forever", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 413464, "title": "Followed", "original_title": "Followed", "slug_title": "followed", "date": "2015-11-24", "genre": "", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4mMAdoJAOSfTAEyXdCXgzbd7nwU.jpg", "actors": ["Adam LeClair (David Richmond)", "Stefanie Butler (Rachel Malone)"], "comments": [], "recommandations_id": []}

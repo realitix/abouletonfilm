@@ -1,1 +1,0 @@
-{"tmdb_id": 225971, "title": "Omega Rose", "original_title": "Omega Rose", "slug_title": "omega-rose", "date": "2014-12-31", "genre": "Myst\u00e8re / Aventure / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

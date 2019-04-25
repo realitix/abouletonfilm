@@ -1,1 +1,0 @@
-{"tmdb_id": 333887, "title": "The Garden", "original_title": "Syn Dzhigita", "slug_title": "the-garden", "date": "1939-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 564189, "title": "Wanted in Rome", "original_title": "Wanted in Rome", "slug_title": "wanted-in-rome", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

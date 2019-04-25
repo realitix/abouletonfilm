@@ -1,1 +1,0 @@
-{"tmdb_id": 453521, "title": "Tea for Two", "original_title": "Tea for Two", "slug_title": "tea-for-two", "date": "2015-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kOsRrLdNHGFj4DWHhPAl6s6QV8g.jpg", "actors": [], "comments": [], "recommandations_id": []}

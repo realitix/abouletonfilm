@@ -1,1 +1,0 @@
-{"tmdb_id": 90962, "title": "Yap: How Did You Know We'd Like TV?", "original_title": "Yap: How Did You Know We'd Like TV?", "slug_title": "yap-how-did-you-know-we-d-like-tv", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 205651, "title": "R\u00e9gime amaigrissant", "original_title": "Holiday for Drumsticks", "slug_title": "regime-amaigrissant", "date": "1949-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5SYQwZGhTdRE7OxaHPKECwHyrEs.jpg", "actors": [], "comments": [], "recommandations_id": []}

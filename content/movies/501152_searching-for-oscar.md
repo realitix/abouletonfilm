@@ -1,1 +1,0 @@
-{"tmdb_id": 501152, "title": "Searching for Oscar", "original_title": "En busca del \u00d3scar", "slug_title": "searching-for-oscar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

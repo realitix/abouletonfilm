@@ -1,1 +1,0 @@
-{"tmdb_id": 507911, "title": "Bortgl\u00f6mda", "original_title": "Bortgl\u00f6mda", "slug_title": "bortglomda", "date": "2005-09-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jKHrpUWpPR9toOPlXgTdtxGbhjL.jpg", "actors": [], "comments": [], "recommandations_id": []}

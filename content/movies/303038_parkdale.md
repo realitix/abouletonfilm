@@ -1,1 +1,0 @@
-{"tmdb_id": 303038, "title": "Parkdale", "original_title": "Parkdale", "slug_title": "parkdale", "date": "2011-06-29", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k9bFn5qH0SM2VvlMHW3BS1JE2Ui.jpg", "actors": ["Sara Brynn Foster (Sam)", "Cassidi Hoag (Abby)"], "comments": [], "recommandations_id": []}

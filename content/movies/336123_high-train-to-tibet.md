@@ -1,1 +1,0 @@
-{"tmdb_id": 336123, "title": "High Train To Tibet", "original_title": "High Train To Tibet", "slug_title": "high-train-to-tibet", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

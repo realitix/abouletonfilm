@@ -1,1 +1,0 @@
-{"tmdb_id": 584588, "title": "Letters from Eniwetok", "original_title": "Letters from Eniwetok", "slug_title": "letters-from-eniwetok", "date": "2018-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kMXtxBN2saZ0fqFfdvwj6aduqqK.jpg", "actors": ["Hazel Rodes ()"], "comments": [], "recommandations_id": []}

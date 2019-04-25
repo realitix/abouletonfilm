@@ -1,1 +1,0 @@
-{"tmdb_id": 549822, "title": "Nowhere Kids", "original_title": "Nowhere Kids", "slug_title": "nowhere-kids", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rkgMxtH3xcewP2xvTXc3QTOPoG5.jpg", "actors": [], "comments": [], "recommandations_id": []}

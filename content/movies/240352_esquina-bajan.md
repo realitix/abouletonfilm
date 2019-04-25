@@ -1,1 +1,0 @@
-{"tmdb_id": 240352, "title": "\u00a1Esquina bajan...!", "original_title": "\u00a1Esquina bajan...!", "slug_title": "esquina-bajan", "date": "1948-01-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nXr0HnFS0yX0Fj03xPDREMabpe9.jpg", "actors": [], "comments": [], "recommandations_id": []}

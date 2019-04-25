@@ -1,1 +1,0 @@
-{"tmdb_id": 514591, "title": "Autopsy", "original_title": "Autopsy", "slug_title": "autopsy", "date": "2000-11-14", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/soEQtEX3eMsO60UQFmfeyyrQ3qQ.jpg", "actors": ["Marilyn Manson (Himself)"], "comments": [], "recommandations_id": []}

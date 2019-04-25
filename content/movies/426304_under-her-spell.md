@@ -1,1 +1,0 @@
-{"tmdb_id": 426304, "title": "Under Her Spell", "original_title": "Under Her Spell", "slug_title": "under-her-spell", "date": "2015-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jzJSTy3irtE3hH7hfLtG55u5Yz4.jpg", "actors": [], "comments": [], "recommandations_id": []}

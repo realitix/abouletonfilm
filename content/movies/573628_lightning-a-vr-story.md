@@ -1,1 +1,0 @@
-{"tmdb_id": 573628, "title": "Lightning: a VR Story", "original_title": "Lightning: a VR Story", "slug_title": "lightning-a-vr-story", "date": "2018-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aYGop57k8QqNIyQVMrjkhQCl7py.jpg", "actors": [], "comments": [], "recommandations_id": []}

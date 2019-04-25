@@ -1,1 +1,0 @@
-{"tmdb_id": 299251, "title": "Tommy Igoe: Groove Essentials", "original_title": "Tommy Igoe: Groove Essentials", "slug_title": "tommy-igoe-groove-essentials", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9DfFEya2pVkSwY7TJqDJPW6fnFZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

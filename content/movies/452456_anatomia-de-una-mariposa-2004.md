@@ -1,1 +1,0 @@
-{"tmdb_id": 452456, "title": "Anatom\u00eda de una mariposa (2004)", "original_title": "Anatom\u00eda de una mariposa (2004)", "slug_title": "anatomia-de-una-mariposa-2004", "date": "", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

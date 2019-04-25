@@ -1,1 +1,0 @@
-{"tmdb_id": 358520, "title": "Mandala", "original_title": "Mandala", "slug_title": "mandala", "date": "2012-09-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

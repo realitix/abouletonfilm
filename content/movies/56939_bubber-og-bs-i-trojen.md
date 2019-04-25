@@ -1,1 +1,0 @@
-{"tmdb_id": 56939, "title": "Bubber og BS i tr\u00f8jen", "original_title": "Bubber og BS i tr\u00f8jen", "slug_title": "bubber-og-bs-i-trojen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cI0q6FibncPINuIu7to1o0qBMiQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

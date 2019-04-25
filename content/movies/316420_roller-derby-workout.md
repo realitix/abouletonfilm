@@ -1,1 +1,0 @@
-{"tmdb_id": 316420, "title": "Roller Derby Workout", "original_title": "Roller Derby Workout", "slug_title": "roller-derby-workout", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6oLl7qK7FDvIWbxD9BT1Kb9dhQQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

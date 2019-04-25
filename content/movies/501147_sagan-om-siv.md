@@ -1,1 +1,0 @@
-{"tmdb_id": 501147, "title": "Sagan om Siv", "original_title": "Sagan om Siv", "slug_title": "sagan-om-siv", "date": "1974-02-25", "genre": "T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sonja \u00c5kesson (Narrator (voice))"], "comments": [], "recommandations_id": []}

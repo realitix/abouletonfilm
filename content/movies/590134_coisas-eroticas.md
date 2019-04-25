@@ -1,1 +1,0 @@
-{"tmdb_id": 590134, "title": "Coisas Er\u00f3ticas", "original_title": "Coisas Er\u00f3ticas", "slug_title": "coisas-eroticas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5BfINW43tHczUnHgLnVelog1yQA.jpg", "actors": ["Jussara Calmon ()", "Oasis Minniti ()"], "comments": [], "recommandations_id": []}

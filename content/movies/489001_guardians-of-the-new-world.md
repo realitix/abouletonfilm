@@ -1,1 +1,0 @@
-{"tmdb_id": 489001, "title": "Guardians of the New World", "original_title": "Guardians of the New World", "slug_title": "guardians-of-the-new-world", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yoDxbeYeKi8tsxNJxuHAKCq39Hx.jpg", "actors": [], "comments": [], "recommandations_id": []}

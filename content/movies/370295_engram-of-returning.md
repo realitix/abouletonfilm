@@ -1,1 +1,0 @@
-{"tmdb_id": 370295, "title": "Engram of Returning", "original_title": "Engram of Returning", "slug_title": "engram-of-returning", "date": "2015-09-14", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xqZ9AWxb9mcNLUhGTAdTAA7UjyD.jpg", "actors": [], "comments": [], "recommandations_id": []}

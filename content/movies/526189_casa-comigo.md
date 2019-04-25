@@ -1,1 +1,0 @@
-{"tmdb_id": 526189, "title": "Casa comigo?", "original_title": "Casa comigo?", "slug_title": "casa-comigo", "date": "2008-03-06", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dYva5Ff7AJN0RsMa1uO75TCInJX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 571076, "title": "The Mikado", "original_title": "The Mikado", "slug_title": "the-mikado", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

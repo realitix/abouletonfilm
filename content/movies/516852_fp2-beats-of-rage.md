@@ -1,1 +1,0 @@
-{"tmdb_id": 516852, "title": "FP2: Beats of Rage", "original_title": "FP2: Beats of Rage", "slug_title": "fp2-beats-of-rage", "date": "2018-09-22", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fEKn95kpgJmsVBuVCfd2P6QeZLe.jpg", "actors": ["Jason Trost ()"], "comments": [], "recommandations_id": []}

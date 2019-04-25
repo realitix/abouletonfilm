@@ -1,1 +1,0 @@
-{"tmdb_id": 570720, "title": "leaving by the way", "original_title": "Pa Ce\u013cam Aizejot...", "slug_title": "leaving-by-the-way", "date": "2001-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ai6xjdBuU5uQneM2XOPEikcwX7U.jpg", "actors": [], "comments": [], "recommandations_id": []}

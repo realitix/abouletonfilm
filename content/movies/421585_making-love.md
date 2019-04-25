@@ -1,1 +1,0 @@
-{"tmdb_id": 421585, "title": "Making \"Love\"", "original_title": "Making \"Love\"", "slug_title": "making-love", "date": "1970-09-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

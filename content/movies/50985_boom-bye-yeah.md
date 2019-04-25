@@ -1,1 +1,0 @@
-{"tmdb_id": 50985, "title": "Boom Bye Yeah", "original_title": "Boom Bye Yeah", "slug_title": "boom-bye-yeah", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1GQ3OiWY8Qz2TPJtRLgyg0C6fcr.jpg", "actors": [], "comments": [], "recommandations_id": []}

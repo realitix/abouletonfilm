@@ -1,1 +1,0 @@
-{"tmdb_id": 176155, "title": "Dinosauriet\u00e5get Kvicka V\u00e4nner", "original_title": "Dinosauriet\u00e5get Kvicka V\u00e4nner", "slug_title": "dinosaurietaget-kvicka-vanner", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

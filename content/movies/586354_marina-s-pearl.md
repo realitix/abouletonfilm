@@ -1,1 +1,0 @@
-{"tmdb_id": 586354, "title": "Marina's Pearl", "original_title": "La perla de Marina", "slug_title": "marina-s-pearl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marina Guadarrama ()", "Perla \u00c1vila ()"], "comments": [], "recommandations_id": []}

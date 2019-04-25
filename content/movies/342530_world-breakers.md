@@ -1,1 +1,0 @@
-{"tmdb_id": 342530, "title": "World Breakers", "original_title": "World Breakers", "slug_title": "world-breakers", "date": "", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

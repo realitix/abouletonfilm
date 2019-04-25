@@ -1,1 +1,0 @@
-{"tmdb_id": 269293, "title": "America's Favorite Funnyman", "original_title": "America's Favorite Funnyman", "slug_title": "america-s-favorite-funnyman", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ikGuzpXl7YtVKAkQyNTDOmtANCA.jpg", "actors": [], "comments": [], "recommandations_id": []}

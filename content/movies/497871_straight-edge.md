@@ -1,1 +1,0 @@
-{"tmdb_id": 497871, "title": "Straight Edge", "original_title": "Straight Edge", "slug_title": "straight-edge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Oliver Woollford (Dan)", "Jessica Barden (Louisa)", "Jackson Milner (Craig)"], "comments": [], "recommandations_id": []}

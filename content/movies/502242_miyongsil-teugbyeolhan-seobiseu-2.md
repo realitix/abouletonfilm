@@ -1,1 +1,0 @@
-{"tmdb_id": 502242, "title": "\ubbf8\uc6a9\uc2e4 : \ud2b9\ubcc4\ud55c \uc11c\ube44\uc2a4 2", "original_title": "\ubbf8\uc6a9\uc2e4 : \ud2b9\ubcc4\ud55c \uc11c\ube44\uc2a4 2", "slug_title": "miyongsil-teugbyeolhan-seobiseu-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

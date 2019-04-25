@@ -1,1 +1,0 @@
-{"tmdb_id": 236175, "title": "Injun Trouble", "original_title": "Injun Trouble", "slug_title": "injun-trouble", "date": "1938-05-20", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AgmQzIgIb7tMfxJKJGOF4PtSZ3q.jpg", "actors": [], "comments": [], "recommandations_id": []}

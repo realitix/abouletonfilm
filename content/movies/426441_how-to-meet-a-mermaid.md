@@ -1,1 +1,0 @@
-{"tmdb_id": 426441, "title": "How to Meet a Mermaid", "original_title": "How to Meet a Mermaid", "slug_title": "how-to-meet-a-mermaid", "date": "2016-11-18", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6zkyogew9Ix8jGvT1YSbImtH0aa.jpg", "actors": [], "comments": [], "recommandations_id": []}

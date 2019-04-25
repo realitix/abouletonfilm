@@ -1,1 +1,0 @@
-{"tmdb_id": 550546, "title": "SMART CHRISTMAS", "original_title": "SMART CHRISTMAS", "slug_title": "smart-christmas", "date": "", "genre": "Com\u00e9die / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vwsrdlMYxoff9b5XxrCJ3iRnCCW.jpg", "actors": [], "comments": [], "recommandations_id": []}

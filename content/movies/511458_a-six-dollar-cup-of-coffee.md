@@ -1,1 +1,0 @@
-{"tmdb_id": 511458, "title": "A Six Dollar Cup of Coffee", "original_title": "A Six Dollar Cup of Coffee", "slug_title": "a-six-dollar-cup-of-coffee", "date": "2018-03-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Adu2kpcMrNzrXYZa0OZ8YdZI1R.jpg", "actors": [], "comments": [], "recommandations_id": []}

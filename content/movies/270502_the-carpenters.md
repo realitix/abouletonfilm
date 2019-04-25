@@ -1,1 +1,0 @@
-{"tmdb_id": 270502, "title": "The Carpenters", "original_title": "The Carpenters", "slug_title": "the-carpenters", "date": "1941-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mel Blanc (Mr. Teewilliger, Clancy (voice))"], "comments": [], "recommandations_id": []}

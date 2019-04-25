@@ -1,1 +1,0 @@
-{"tmdb_id": 266096, "title": "In fabbrica", "original_title": "In fabbrica", "slug_title": "in-fabbrica", "date": "2007-11-29", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2UriHjsDpx6YHPwatTmzrKga4kX.jpg", "actors": [], "comments": [], "recommandations_id": []}

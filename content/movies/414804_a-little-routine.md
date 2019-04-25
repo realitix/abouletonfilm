@@ -1,1 +1,0 @@
-{"tmdb_id": 414804, "title": "A Little Routine", "original_title": "A Little Routine", "slug_title": "a-little-routine", "date": "1994-10-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Wpk4GdevJVt2e9jpoEG5bHtHxj.jpg", "actors": [], "comments": [], "recommandations_id": []}

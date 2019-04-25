@@ -1,1 +1,0 @@
-{"tmdb_id": 279791, "title": "Standing on Fishes", "original_title": "Standing on Fishes", "slug_title": "standing-on-fishes", "date": "1999-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cDvti7fzYMzOl5i11r4HGtOWyzd.jpg", "actors": [], "comments": [], "recommandations_id": []}

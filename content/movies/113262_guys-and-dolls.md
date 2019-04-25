@@ -1,1 +1,0 @@
-{"tmdb_id": 113262, "title": "Guys and Dolls", "original_title": "Guys and Dolls", "slug_title": "guys-and-dolls", "date": "2007-01-17", "genre": "Documentaire / Romance", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nlIUhPkJ6wOYMNDSYxWub5vQAwX.jpg", "actors": [], "comments": [], "recommandations_id": []}

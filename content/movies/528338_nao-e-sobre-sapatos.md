@@ -1,1 +1,0 @@
-{"tmdb_id": 528338, "title": "N\u00e3o \u00e9 sobre sapatos", "original_title": "N\u00e3o \u00e9 sobre sapatos", "slug_title": "nao-e-sobre-sapatos", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vROc2ixaiSAreXUZJY3eUpO5wMp.jpg", "actors": [], "comments": [], "recommandations_id": []}

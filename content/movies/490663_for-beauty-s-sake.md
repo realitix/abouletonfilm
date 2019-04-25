@@ -1,1 +1,0 @@
-{"tmdb_id": 490663, "title": "For Beauty's Sake", "original_title": "For Beauty's Sake", "slug_title": "for-beauty-s-sake", "date": "1941-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bcmliUW2O1iPfAHlRtMRpTTkaJa.jpg", "actors": [], "comments": [], "recommandations_id": []}

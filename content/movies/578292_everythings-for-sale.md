@@ -1,1 +1,0 @@
-{"tmdb_id": 578292, "title": "Everythings For Sale", "original_title": "Everythings For Sale", "slug_title": "everythings-for-sale", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

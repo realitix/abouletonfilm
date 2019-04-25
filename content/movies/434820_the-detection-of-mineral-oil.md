@@ -1,1 +1,0 @@
-{"tmdb_id": 434820, "title": "The Detection of Mineral Oil", "original_title": "De opsporing van Aardolie", "slug_title": "the-detection-of-mineral-oil", "date": "1954-08-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

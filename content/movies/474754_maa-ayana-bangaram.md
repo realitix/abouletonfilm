@@ -1,1 +1,0 @@
-{"tmdb_id": 474754, "title": "Maa Ayana Bangaram", "original_title": "Maa Ayana Bangaram", "slug_title": "maa-ayana-bangaram", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ARFjn1kpnu1eyfmH1Ohmf4eAYM.jpg", "actors": [], "comments": [], "recommandations_id": []}

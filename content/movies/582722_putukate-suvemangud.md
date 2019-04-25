@@ -1,1 +1,0 @@
-{"tmdb_id": 582722, "title": "Putukate suvem\u00e4ngud", "original_title": "Putukate suvem\u00e4ngud", "slug_title": "putukate-suvemangud", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

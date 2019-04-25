@@ -1,1 +1,0 @@
-{"tmdb_id": 443428, "title": "I Am Evangeline", "original_title": "I Am Evangeline", "slug_title": "i-am-evangeline", "date": "2015-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Georgia Flood (Evangeline)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 155588, "title": "The Red One: Triumph", "original_title": "Triumf", "slug_title": "the-red-one-triumph", "date": "2000-09-10", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lFS1T0W4CAmMfneLbvQyXXzNOZp.jpg", "actors": [], "comments": [], "recommandations_id": []}

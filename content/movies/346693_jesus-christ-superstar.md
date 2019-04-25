@@ -1,1 +1,0 @@
-{"tmdb_id": 346693, "title": "Jesus Christ Superstar", "original_title": "Jesus Christ Superstar", "slug_title": "jesus-christ-superstar", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

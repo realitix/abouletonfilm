@@ -1,1 +1,0 @@
-{"tmdb_id": 271221, "title": "A Fight To The Finish", "original_title": "A Fight To The Finish", "slug_title": "a-fight-to-the-finish", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

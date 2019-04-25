@@ -1,1 +1,0 @@
-{"tmdb_id": 545722, "title": "A Week with Azar", "original_title": "Teden z Azar", "slug_title": "a-week-with-azar", "date": "2018-08-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Azar Rahimi ()"], "comments": [], "recommandations_id": []}

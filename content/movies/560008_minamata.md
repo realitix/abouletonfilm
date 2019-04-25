@@ -1,1 +1,0 @@
-{"tmdb_id": 560008, "title": "Minamata", "original_title": "Minamata", "slug_title": "minamata", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Johnny Depp (W. Eugene Smith)"], "comments": [], "recommandations_id": []}

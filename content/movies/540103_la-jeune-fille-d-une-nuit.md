@@ -1,1 +1,0 @@
-{"tmdb_id": 540103, "title": "La jeune fille d'une nuit", "original_title": "La jeune fille d'une nuit", "slug_title": "la-jeune-fille-d-une-nuit", "date": "1934-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

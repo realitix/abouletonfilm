@@ -1,1 +1,0 @@
-{"tmdb_id": 305450, "title": "A Fight for", "original_title": "Boj za", "slug_title": "a-fight-for", "date": "2014-09-16", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6jIXV2xuUdddQLRVNtJnUxPy7Pv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 208386, "title": "Shooting Creek", "original_title": "Shooting Creek", "slug_title": "shooting-creek", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

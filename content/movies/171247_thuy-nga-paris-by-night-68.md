@@ -1,1 +1,0 @@
-{"tmdb_id": 171247, "title": "Thuy Nga Paris By Night 68", "original_title": "Thuy Nga Paris By Night 68", "slug_title": "thuy-nga-paris-by-night-68", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a7LaFWMK6T6LL42SaZSLrSnZqgA.jpg", "actors": [], "comments": [], "recommandations_id": []}

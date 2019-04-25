@@ -1,1 +1,0 @@
-{"tmdb_id": 375833, "title": "Cage in Box Elder", "original_title": "Cage in Box Elder", "slug_title": "cage-in-box-elder", "date": "2000-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

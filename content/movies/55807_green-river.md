@@ -1,1 +1,0 @@
-{"tmdb_id": 55807, "title": "Green River", "original_title": "Green River", "slug_title": "green-river", "date": "2008-05-08", "genre": "Myst\u00e8re / Thriller", "score": "3.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5u9zmKQboJvaDwY9Vodk5feNHkM.jpg", "actors": [], "comments": [], "recommandations_id": [27672, 54586, 32583, 39368]}

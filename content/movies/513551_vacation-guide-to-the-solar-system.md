@@ -1,1 +1,0 @@
-{"tmdb_id": 513551, "title": "Vacation Guide to the Solar System", "original_title": "Vacation Guide to the Solar System", "slug_title": "vacation-guide-to-the-solar-system", "date": "", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

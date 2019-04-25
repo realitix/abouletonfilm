@@ -1,1 +1,0 @@
-{"tmdb_id": 594330, "title": "Buddha in Africa", "original_title": "Buddha in Africa", "slug_title": "buddha-in-africa", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

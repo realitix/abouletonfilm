@@ -1,1 +1,0 @@
-{"tmdb_id": 273901, "title": "$uperthief: Inside America's Biggest Bank Score", "original_title": "$uperthief: Inside America's Biggest Bank Score", "slug_title": "uperthief-inside-america-s-biggest-bank-score", "date": "2012-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 61763, "title": "Ice Egg", "original_title": "Ice Egg", "slug_title": "ice-egg", "date": "2002-06-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zFZxLhlg89GjJt666suifm00I7o.jpg", "actors": [], "comments": [], "recommandations_id": []}

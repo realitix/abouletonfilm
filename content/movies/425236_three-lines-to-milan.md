@@ -1,1 +1,0 @@
-{"tmdb_id": 425236, "title": "Three Lines to Milan", "original_title": "Tre fili fino a Milano", "slug_title": "three-lines-to-milan", "date": "1958-11-11", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

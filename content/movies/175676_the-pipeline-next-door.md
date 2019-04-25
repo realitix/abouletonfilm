@@ -1,1 +1,0 @@
-{"tmdb_id": 175676, "title": "The Pipeline Next Door", "original_title": "The Pipeline Next Door", "slug_title": "the-pipeline-next-door", "date": "2005-07-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jm5pXaBhUSoj5nAu80vTLUpIdck.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 456099, "title": "Born to Film", "original_title": "Born to Film", "slug_title": "born-to-film", "date": "1982-05-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

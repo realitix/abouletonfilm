@@ -1,1 +1,0 @@
-{"tmdb_id": 69952, "title": "Libahundi needus", "original_title": "Libahundi needus", "slug_title": "libahundi-needus", "date": "2005-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

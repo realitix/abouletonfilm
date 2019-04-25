@@ -1,1 +1,0 @@
-{"tmdb_id": 537828, "title": "La dormeuse", "original_title": "La dormeuse", "slug_title": "la-dormeuse", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mvUlwoNEsw60EK6csAkMDLp7DTc.jpg", "actors": [], "comments": [], "recommandations_id": []}

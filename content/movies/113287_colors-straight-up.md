@@ -1,1 +1,0 @@
-{"tmdb_id": 113287, "title": "Colors Straight Up", "original_title": "Colors Straight Up", "slug_title": "colors-straight-up", "date": "1997-10-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b0tY9puxBrsc2KpctnqpbbrVBCU.jpg", "actors": [], "comments": [], "recommandations_id": []}

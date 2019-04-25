@@ -1,1 +1,0 @@
-{"tmdb_id": 253242, "title": "Meditation", "original_title": "Meditation", "slug_title": "meditation", "date": "1971-12-31", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cGnX38rpnLnd7wnuPkGgZHWwiV7.jpg", "actors": [], "comments": [], "recommandations_id": [383841, 285768, 262854, 152973]}

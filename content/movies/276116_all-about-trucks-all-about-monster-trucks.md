@@ -1,1 +1,0 @@
-{"tmdb_id": 276116, "title": "All About Trucks & All About Monster Trucks", "original_title": "All About Trucks & All About Monster Trucks", "slug_title": "all-about-trucks-all-about-monster-trucks", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

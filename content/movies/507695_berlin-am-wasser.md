@@ -1,1 +1,0 @@
-{"tmdb_id": 507695, "title": "BERLIN_AM_WASSER", "original_title": "BERLIN_AM_WASSER", "slug_title": "berlin-am-wasser", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4GFRRL20uYjNEagCO6VNepciCo2.jpg", "actors": [], "comments": [], "recommandations_id": []}

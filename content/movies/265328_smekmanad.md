@@ -1,1 +1,0 @@
-{"tmdb_id": 265328, "title": "Smekm\u00e5nad", "original_title": "Smekm\u00e5nad", "slug_title": "smekmanad", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

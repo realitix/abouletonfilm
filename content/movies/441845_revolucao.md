@@ -1,1 +1,0 @@
-{"tmdb_id": 441845, "title": "Revolu\u00e7\u00e3o", "original_title": "Revolu\u00e7\u00e3o", "slug_title": "revolucao", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/faXlpRUQ9JppdldaDqu1F8dSO1m.jpg", "actors": [], "comments": [], "recommandations_id": []}

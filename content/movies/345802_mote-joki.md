@@ -1,1 +1,0 @@
-{"tmdb_id": 345802, "title": "Mote Joki", "original_title": "Mote Joki", "slug_title": "mote-joki", "date": "2012-06-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c4BBkARMe7wJ3iPLoN7825mepGI.jpg", "actors": ["Kana Yume ()", "Natsumi Horiguchi ()"], "comments": [], "recommandations_id": []}

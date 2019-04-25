@@ -1,1 +1,0 @@
-{"tmdb_id": 573310, "title": "Rise of the Superheroes", "original_title": "Rise of the Superheroes", "slug_title": "rise-of-the-superheroes", "date": "2019-05-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8wds3ltdCTF2dvIqMeHnGvJdxs1.jpg", "actors": [], "comments": [], "recommandations_id": []}

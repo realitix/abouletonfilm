@@ -1,1 +1,0 @@
-{"tmdb_id": 377305, "title": "Rocketships", "original_title": "Rocketships", "slug_title": "rocketships", "date": "1998-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/flLfFEmS0DqXQMgKXFbXdyejUSr.jpg", "actors": ["Kate Mulgrew (Narrator)"], "comments": [], "recommandations_id": []}

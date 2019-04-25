@@ -1,1 +1,0 @@
-{"tmdb_id": 300926, "title": "Zabriesky Point", "original_title": "Zabriesky Point", "slug_title": "zabriesky-point", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

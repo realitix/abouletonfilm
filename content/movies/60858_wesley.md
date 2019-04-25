@@ -1,1 +1,0 @@
-{"tmdb_id": 60858, "title": "Wesley", "original_title": "Wesley", "slug_title": "wesley", "date": "2009-01-01", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oPNcRNUfDw64BPGLRYbHxC0RXQR.jpg", "actors": [], "comments": [], "recommandations_id": []}

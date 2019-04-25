@@ -1,1 +1,0 @@
-{"tmdb_id": 473393, "title": "To Pour Milk into a Glass", "original_title": "To Pour Milk into a Glass", "slug_title": "to-pour-milk-into-a-glass", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j6aNn7D938DfpUrJN8o4pVxR9vw.jpg", "actors": [], "comments": [], "recommandations_id": []}

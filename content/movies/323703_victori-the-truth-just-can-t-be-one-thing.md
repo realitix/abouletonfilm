@@ -1,1 +1,0 @@
-{"tmdb_id": 323703, "title": "Victori: The Truth Just Can't Be One Thing", "original_title": "Victori: The Truth Just Can't Be One Thing", "slug_title": "victori-the-truth-just-can-t-be-one-thing", "date": "2015-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

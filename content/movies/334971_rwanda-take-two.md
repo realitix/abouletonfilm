@@ -1,1 +1,0 @@
-{"tmdb_id": 334971, "title": "Rwanda: Take Two", "original_title": "Rwanda: Take Two", "slug_title": "rwanda-take-two", "date": "2010-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

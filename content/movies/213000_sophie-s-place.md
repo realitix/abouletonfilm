@@ -1,1 +1,0 @@
-{"tmdb_id": 213000, "title": "Sophie's Place", "original_title": "Sophie's Place", "slug_title": "sophie-s-place", "date": "1986-07-07", "genre": "Animation / Fantastique", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aBNoSGHHtpStJoH3rt5QSHzRUDA.jpg", "actors": [], "comments": [], "recommandations_id": []}

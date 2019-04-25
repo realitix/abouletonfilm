@@ -1,1 +1,0 @@
-{"tmdb_id": 113115, "title": "Rock 'N Learn: Letter Sounds", "original_title": "Rock 'N Learn: Letter Sounds", "slug_title": "rock-n-learn-letter-sounds", "date": "2011-11-28", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k5qfdGz2ZkgjGVcHb7WnKuzJ1xD.jpg", "actors": [], "comments": [], "recommandations_id": []}

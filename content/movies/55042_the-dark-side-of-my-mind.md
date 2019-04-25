@@ -1,1 +1,0 @@
-{"tmdb_id": 55042, "title": "The Dark Side of My Mind", "original_title": "The Dark Side of My Mind", "slug_title": "the-dark-side-of-my-mind", "date": "2003-03-04", "genre": "Drame / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gigi Lai (Coco)", "Wong Hei (Kent)", "Cecilia Yip ()"], "comments": [], "recommandations_id": []}

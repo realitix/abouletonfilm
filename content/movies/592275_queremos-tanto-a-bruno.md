@@ -1,1 +1,0 @@
-{"tmdb_id": 592275, "title": "Queremos tanto a Bruno", "original_title": "Queremos tanto a Bruno", "slug_title": "queremos-tanto-a-bruno", "date": "2018-08-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9nJ1O8yHZvU3tEl9HwFjwT7fprp.jpg", "actors": [], "comments": [], "recommandations_id": []}

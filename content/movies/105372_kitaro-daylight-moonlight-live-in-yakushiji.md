@@ -1,1 +1,0 @@
-{"tmdb_id": 105372, "title": "Kitaro: Daylight, Moonlight - Live in Yakushiji", "original_title": "Kitaro: Daylight, Moonlight - Live in Yakushiji", "slug_title": "kitaro-daylight-moonlight-live-in-yakushiji", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

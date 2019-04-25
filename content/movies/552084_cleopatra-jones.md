@@ -1,1 +1,0 @@
-{"tmdb_id": 552084, "title": "Cleopatra Jones", "original_title": "Cleopatra Jones", "slug_title": "cleopatra-jones", "date": "", "genre": "Action / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 301814, "title": "Made in Milan", "original_title": "Made in Milan", "slug_title": "made-in-milan", "date": "1990-01-01", "genre": "Documentaire", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kixJ7EDkY1XUENEmKc5vesU0MdC.jpg", "actors": ["Giorgio Armani (Giorgio Armani)"], "comments": [], "recommandations_id": []}

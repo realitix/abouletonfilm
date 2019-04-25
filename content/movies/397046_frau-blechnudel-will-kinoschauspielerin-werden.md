@@ -1,1 +1,0 @@
-{"tmdb_id": 397046, "title": "Frau Blechnudel will Kinoschauspielerin werden", "original_title": "Frau Blechnudel will Kinoschauspielerin werden", "slug_title": "frau-blechnudel-will-kinoschauspielerin-werden", "date": "1915-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

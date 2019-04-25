@@ -1,1 +1,0 @@
-{"tmdb_id": 511206, "title": "Rencontre", "original_title": "Rencontre", "slug_title": "rencontre", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

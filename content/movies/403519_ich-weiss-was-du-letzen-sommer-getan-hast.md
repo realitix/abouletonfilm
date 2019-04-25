@@ -1,1 +1,0 @@
-{"tmdb_id": 403519, "title": "Ich weiss was du letzen Sommer getan hast", "original_title": "Ich weiss was du letzen Sommer getan hast", "slug_title": "ich-weiss-was-du-letzen-sommer-getan-hast", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

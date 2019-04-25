@@ -1,1 +1,0 @@
-{"tmdb_id": 362043, "title": "Afternoon", "original_title": "Afternoon", "slug_title": "afternoon", "date": "1999-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

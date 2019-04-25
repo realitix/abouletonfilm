@@ -1,1 +1,0 @@
-{"tmdb_id": 326449, "title": "Sidlingu", "original_title": "Sidlingu", "slug_title": "sidlingu", "date": "2012-01-13", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yGpmtsolcAnIFumHtHFTPaO1ABY.jpg", "actors": [], "comments": [], "recommandations_id": []}

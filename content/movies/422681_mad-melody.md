@@ -1,1 +1,0 @@
-{"tmdb_id": 422681, "title": "Mad Melody", "original_title": "Mad Melody", "slug_title": "mad-melody", "date": "1931-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

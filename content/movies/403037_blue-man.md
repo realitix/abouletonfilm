@@ -1,1 +1,0 @@
-{"tmdb_id": 403037, "title": "Blue Man", "original_title": "Blue Man", "slug_title": "blue-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

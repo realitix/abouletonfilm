@@ -1,1 +1,0 @@
-{"tmdb_id": 357192, "title": "Battle Atlantice", "original_title": "Battle Atlantice", "slug_title": "battle-atlantice", "date": "2013-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cQBNzag4lVegGZ1XhCTYDmM4VKT.jpg", "actors": [], "comments": [], "recommandations_id": []}

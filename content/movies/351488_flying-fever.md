@@ -1,1 +1,0 @@
-{"tmdb_id": 351488, "title": "Flying Fever", "original_title": "Flying Fever", "slug_title": "flying-fever", "date": "1941-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

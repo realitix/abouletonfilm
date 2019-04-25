@@ -1,1 +1,0 @@
-{"tmdb_id": 567755, "title": "Entre Asas e Ra\u00edzes", "original_title": "Entre Asas e Ra\u00edzes", "slug_title": "entre-asas-e-raizes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

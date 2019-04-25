@@ -1,1 +1,0 @@
-{"tmdb_id": 586700, "title": "Accelerate", "original_title": "Accelerate", "slug_title": "accelerate", "date": "2019-02-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

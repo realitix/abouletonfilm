@@ -1,1 +1,0 @@
-{"tmdb_id": 377808, "title": "Rescatando a Sara", "original_title": "Rescatando a Sara", "slug_title": "rescatando-a-sara", "date": "2012-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

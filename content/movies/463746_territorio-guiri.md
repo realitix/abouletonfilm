@@ -1,1 +1,0 @@
-{"tmdb_id": 463746, "title": "Territorio guiri", "original_title": "Territorio guiri", "slug_title": "territorio-guiri", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vRyqXlYjwXeHbyNTDW504180kNl.jpg", "actors": [], "comments": [], "recommandations_id": []}

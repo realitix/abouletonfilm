@@ -1,1 +1,0 @@
-{"tmdb_id": 561670, "title": "Blue White Collar Criminal", "original_title": "Blue White Collar Criminal", "slug_title": "blue-white-collar-criminal", "date": "2004-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ldyImsuvtp4DzwBy24YkVHNTCiD.jpg", "actors": [], "comments": [], "recommandations_id": []}

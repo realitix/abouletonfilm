@@ -1,1 +1,0 @@
-{"tmdb_id": 497107, "title": "Die Bande vom Hoheneck", "original_title": "Die Bande vom Hoheneck", "slug_title": "die-bande-vom-hoheneck", "date": "1934-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

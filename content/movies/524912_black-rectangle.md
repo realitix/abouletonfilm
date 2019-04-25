@@ -1,1 +1,0 @@
-{"tmdb_id": 524912, "title": "Black Rectangle", "original_title": "Black Rectangle", "slug_title": "black-rectangle", "date": "2013-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

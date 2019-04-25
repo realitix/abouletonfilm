@@ -1,1 +1,0 @@
-{"tmdb_id": 332975, "title": "What Are You Having?", "original_title": "What Are You Having?", "slug_title": "what-are-you-having", "date": "2003-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ggDkZFA3T4mDD8jSOBa9TmBSKLF.jpg", "actors": [], "comments": [], "recommandations_id": []}

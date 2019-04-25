@@ -1,1 +1,0 @@
-{"tmdb_id": 211543, "title": "Blue Murder!", "original_title": "Blue Murder!", "slug_title": "blue-murder", "date": "2006-02-26", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eQkmLJyqcgx4vx6wAXVs9Q1urfg.jpg", "actors": [], "comments": [], "recommandations_id": []}

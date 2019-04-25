@@ -1,1 +1,0 @@
-{"tmdb_id": 418465, "title": "The Union Jacking Up", "original_title": "The Union Jacking Up", "slug_title": "the-union-jacking-up", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

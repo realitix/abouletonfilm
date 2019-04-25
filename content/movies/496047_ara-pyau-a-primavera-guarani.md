@@ -1,1 +1,0 @@
-{"tmdb_id": 496047, "title": "Ara Pyau - A Primavera Guarani", "original_title": "Ara Pyau - A Primavera Guarani", "slug_title": "ara-pyau-a-primavera-guarani", "date": "2018-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l8Uzwn2TAEBjPYOIMBmCNl5Pciz.jpg", "actors": [], "comments": [], "recommandations_id": []}

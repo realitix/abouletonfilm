@@ -1,1 +1,0 @@
-{"tmdb_id": 305431, "title": "Nationale feestdag", "original_title": "Nationale feestdag", "slug_title": "nationale-feestdag", "date": "1921-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 471565, "title": "Publication", "original_title": "Publikatsiya", "slug_title": "publication", "date": "1988-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wgreQve1ILHXq68tKgUNC2OGNqP.jpg", "actors": [], "comments": [], "recommandations_id": []}

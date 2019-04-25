@@ -1,1 +1,0 @@
-{"tmdb_id": 578472, "title": "Dog of Man", "original_title": "Dog of Man", "slug_title": "dog-of-man", "date": "2008-11-08", "genre": "Animation / Horreur", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mJvBEZr21FY7712AwKQcYcM9STz.jpg", "actors": ["David Firth ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 557003, "title": "Le petit \u00e9cart", "original_title": "Le petit \u00e9cart", "slug_title": "le-petit-ecart", "date": "1931-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 472580, "title": "The Great Ice-Cream Robbery", "original_title": "The Great Ice-Cream Robbery", "slug_title": "the-great-ice-cream-robbery", "date": "1971-08-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Claes Oldenburg ()", "Hannah Wilke ()"], "comments": [], "recommandations_id": []}

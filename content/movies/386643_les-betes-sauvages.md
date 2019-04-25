@@ -1,1 +1,0 @@
-{"tmdb_id": 386643, "title": "Les b\u00eates sauvages", "original_title": "Les b\u00eates sauvages", "slug_title": "les-betes-sauvages", "date": "2015-07-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nzn9Y14ddU07XaI3QVxJdOOs4Kg.jpg", "actors": [], "comments": [], "recommandations_id": []}

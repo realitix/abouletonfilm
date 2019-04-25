@@ -1,1 +1,0 @@
-{"tmdb_id": 166349, "title": "Come to Dinner", "original_title": "Come to Dinner", "slug_title": "come-to-dinner", "date": "1934-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nSttGhOIJ1fVXn9hHIfwMeVzhYR.jpg", "actors": [], "comments": [], "recommandations_id": []}

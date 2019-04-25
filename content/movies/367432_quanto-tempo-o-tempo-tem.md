@@ -1,1 +1,0 @@
-{"tmdb_id": 367432, "title": "Quanto Tempo o Tempo Tem", "original_title": "Quanto Tempo o Tempo Tem", "slug_title": "quanto-tempo-o-tempo-tem", "date": "2015-10-14", "genre": "Documentaire", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nVUt6DeCiFpcxORYTesAtDpLdiv.jpg", "actors": [], "comments": [], "recommandations_id": []}

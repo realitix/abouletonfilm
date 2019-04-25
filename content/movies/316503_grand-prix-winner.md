@@ -1,1 +1,0 @@
-{"tmdb_id": 316503, "title": "Grand Prix Winner", "original_title": "Grand Prix Winner", "slug_title": "grand-prix-winner", "date": "1968-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

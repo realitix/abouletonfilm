@@ -1,1 +1,0 @@
-{"tmdb_id": 394994, "title": "ELEPHANTS: GIANTS OF ETOSHA", "original_title": "ELEPHANTS: GIANTS OF ETOSHA", "slug_title": "elephants-giants-of-etosha", "date": "2000-04-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fwVOGSFX8kPgXgv9cSlNCTbWOtW.jpg", "actors": [], "comments": [], "recommandations_id": []}

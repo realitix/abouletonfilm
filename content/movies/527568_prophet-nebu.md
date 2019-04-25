@@ -1,1 +1,0 @@
-{"tmdb_id": 527568, "title": "Prophet Nebu", "original_title": "Prophet Nebu", "slug_title": "prophet-nebu", "date": "2016-07-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Uche Jombo Rodriguez ()", "Desmond Elliot ()", "Seyi Law ()", "Nsikan Isaac ()"], "comments": [], "recommandations_id": []}

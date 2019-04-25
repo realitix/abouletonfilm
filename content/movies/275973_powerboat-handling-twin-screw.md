@@ -1,1 +1,0 @@
-{"tmdb_id": 275973, "title": "Powerboat Handling: Twin Screw", "original_title": "Powerboat Handling: Twin Screw", "slug_title": "powerboat-handling-twin-screw", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

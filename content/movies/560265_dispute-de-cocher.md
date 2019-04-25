@@ -1,1 +1,0 @@
-{"tmdb_id": 560265, "title": "Dispute de cocher", "original_title": "Dispute de cocher", "slug_title": "dispute-de-cocher", "date": "1898-11-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

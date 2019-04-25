@@ -1,1 +1,0 @@
-{"tmdb_id": 331922, "title": "Almos' a Man", "original_title": "Almos' a Man", "slug_title": "almos-a-man", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

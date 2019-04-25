@@ -1,1 +1,0 @@
-{"tmdb_id": 588524, "title": "Tales of the Hedgehog", "original_title": "Les Contes du h\u00e9risson", "slug_title": "tales-of-the-hedgehog", "date": "", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oqrRELkCYflaitEvNgsEZitbzUZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

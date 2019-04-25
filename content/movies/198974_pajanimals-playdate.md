@@ -1,1 +1,0 @@
-{"tmdb_id": 198974, "title": "Pajanimals Playdate", "original_title": "Pajanimals Playdate", "slug_title": "pajanimals-playdate", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r8ZZWmiuJtyXAzzFZDLEuxmSghR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 582207, "title": "From the Notebooks of a Cinema Maniac", "original_title": "From the Notebooks of a Cinema Maniac", "slug_title": "from-the-notebooks-of-a-cinema-maniac", "date": "2017-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

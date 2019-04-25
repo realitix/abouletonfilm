@@ -1,1 +1,0 @@
-{"tmdb_id": 360937, "title": "Vaca Paloma", "original_title": "Vaca Paloma", "slug_title": "vaca-paloma", "date": "2015-09-22", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/TCiI5P4KkBYizUvZvTSXU670BG.jpg", "actors": ["Carmen Maura ()", "Secun de la Rosa ()"], "comments": [], "recommandations_id": []}

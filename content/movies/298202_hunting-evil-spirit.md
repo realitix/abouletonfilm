@@ -1,1 +1,0 @@
-{"tmdb_id": 298202, "title": "Hunting Evil Spirit", "original_title": "\u8277\u964d\u52fe\u9b42", "slug_title": "hunting-evil-spirit", "date": "1999-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pauline Chan Bo-Lin ()", "Alvina Kong ()", "Andy Tai Chi-Wai ()", "Charlie Cho ()"], "comments": [], "recommandations_id": []}

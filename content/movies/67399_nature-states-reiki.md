@@ -1,1 +1,0 @@
-{"tmdb_id": 67399, "title": "Nature States - Reiki", "original_title": "Nature States - Reiki", "slug_title": "nature-states-reiki", "date": "2005-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pIMOSu8C5NeLCAu9u05xSlB0UCE.jpg", "actors": [], "comments": [], "recommandations_id": []}

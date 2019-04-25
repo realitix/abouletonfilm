@@ -1,1 +1,0 @@
-{"tmdb_id": 424442, "title": "A Look Back", "original_title": "A Look Back", "slug_title": "a-look-back", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wYpOb0HkM4D4r4pFolqJXq8Nl6s.jpg", "actors": [], "comments": [], "recommandations_id": []}

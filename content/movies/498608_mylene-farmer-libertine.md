@@ -1,1 +1,0 @@
-{"tmdb_id": 498608, "title": "Myl\u00e8ne Farmer: Libertine", "original_title": "Myl\u00e8ne Farmer: Libertine", "slug_title": "mylene-farmer-libertine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d4H1vmh3OdHZ4CIfCNQCa8NCUnq.jpg", "actors": [], "comments": [], "recommandations_id": []}

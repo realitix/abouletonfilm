@@ -1,1 +1,0 @@
-{"tmdb_id": 192223, "title": "G\u00e9rone, la Venise espagnole", "original_title": "G\u00e9rone, la Venise espagnole", "slug_title": "gerone-la-venise-espagnole", "date": "1912-07-25", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

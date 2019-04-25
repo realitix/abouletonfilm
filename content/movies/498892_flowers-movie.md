@@ -1,1 +1,0 @@
-{"tmdb_id": 498892, "title": "Flowers Movie", "original_title": "Flowers Movie", "slug_title": "flowers-movie", "date": "2016-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pj8aoEPeU65bPD9kBEhHVihW605.jpg", "actors": [], "comments": [], "recommandations_id": []}

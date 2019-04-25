@@ -1,1 +1,0 @@
-{"tmdb_id": 40564, "title": "REM: MTV Unplugged", "original_title": "REM: MTV Unplugged", "slug_title": "rem-mtv-unplugged", "date": "1991-04-10", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7MnD1MXWgCqaWnk0eRMe9Yjbg7R.jpg", "actors": [], "comments": [], "recommandations_id": []}

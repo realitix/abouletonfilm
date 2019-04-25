@@ -1,1 +1,0 @@
-{"tmdb_id": 337907, "title": "Pearl Jam: The Movie", "original_title": "Pearl Jam: The Movie", "slug_title": "pearl-jam-the-movie", "date": "1995-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xX2W3DOQxk9Fd9HwGelAs8M9ygR.jpg", "actors": [], "comments": [], "recommandations_id": []}

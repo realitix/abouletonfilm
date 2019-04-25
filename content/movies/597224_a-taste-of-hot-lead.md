@@ -1,0 +1,1 @@
+{"tmdb_id": 597224, "title": "A Taste of Hot Lead", "original_title": "A Taste of Hot Lead", "slug_title": "a-taste-of-hot-lead", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A TASTE OF HOT LEAD(1969) was also known as HOT LEAD", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

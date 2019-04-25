@@ -1,1 +1,0 @@
-{"tmdb_id": 225218, "title": "Eighteen Years Old", "original_title": "Osmn\u00e1ctilet\u00e1", "slug_title": "eighteen-years-old", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

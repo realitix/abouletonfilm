@@ -1,1 +1,0 @@
-{"tmdb_id": 368218, "title": "The Secret World of Polly Flint", "original_title": "The Secret World of Polly Flint", "slug_title": "the-secret-world-of-polly-flint", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 384574, "title": "A Day in Santa Fe", "original_title": "A Day in Santa Fe", "slug_title": "a-day-in-santa-fe", "date": "1931-12-31", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1yfDT5oVC1Qs3Q3tdUh1p5lUUYS.jpg", "actors": [], "comments": [], "recommandations_id": []}

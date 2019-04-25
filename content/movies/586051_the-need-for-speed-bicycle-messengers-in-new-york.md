@@ -1,1 +1,0 @@
-{"tmdb_id": 586051, "title": "The Need for Speed, Bicycle Messengers in New York", "original_title": "The Need for Speed, Bicycle Messengers in New York", "slug_title": "the-need-for-speed-bicycle-messengers-in-new-york", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

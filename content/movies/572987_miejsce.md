@@ -1,1 +1,1 @@
-{"tmdb_id": 572987, "title": "Miejsce", "original_title": "Miejsce", "slug_title": "miejsce", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 572987, "title": "Miejsce", "original_title": "Miejsce", "slug_title": "miejsce", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "The Position", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 500034, "title": "Nutag-Homeland", "original_title": "Nutag-Homeland", "slug_title": "nutag-homeland", "date": "2017-11-17", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hU5r2scVmJJ4JBUCGxP8NR7SyH1.jpg", "actors": [], "comments": [], "recommandations_id": []}

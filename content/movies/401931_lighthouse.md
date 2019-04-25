@@ -1,1 +1,0 @@
-{"tmdb_id": 401931, "title": "Lighthouse", "original_title": "Lighthouse", "slug_title": "lighthouse", "date": "2015-09-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9CVmHwSbUG1LfHEihN1RqzS9irw.jpg", "actors": [], "comments": [], "recommandations_id": []}

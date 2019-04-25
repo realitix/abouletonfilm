@@ -1,1 +1,0 @@
-{"tmdb_id": 264287, "title": "That's Fine", "original_title": "That's Fine", "slug_title": "that-s-fine", "date": "2011-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

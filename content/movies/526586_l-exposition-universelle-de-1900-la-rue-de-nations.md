@@ -1,1 +1,0 @@
-{"tmdb_id": 526586, "title": "L'exposition universelle de 1900. La rue de Nations", "original_title": "L'exposition universelle de 1900. La rue de Nations", "slug_title": "l-exposition-universelle-de-1900-la-rue-de-nations", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

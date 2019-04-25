@@ -1,1 +1,0 @@
-{"tmdb_id": 382613, "title": "Cinema Cinema", "original_title": "Cinema Cinema", "slug_title": "cinema-cinema", "date": "", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

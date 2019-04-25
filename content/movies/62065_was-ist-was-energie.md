@@ -1,1 +1,0 @@
-{"tmdb_id": 62065, "title": "Was ist Was - Energie", "original_title": "Was ist Was - Energie", "slug_title": "was-ist-was-energie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xkjDnQd6qGCdfXboIxjAaY3EYQT.jpg", "actors": [], "comments": [], "recommandations_id": []}

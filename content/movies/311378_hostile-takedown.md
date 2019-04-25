@@ -1,1 +1,0 @@
-{"tmdb_id": 311378, "title": "Hostile Takedown", "original_title": "Hostile Takedown", "slug_title": "hostile-takedown", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

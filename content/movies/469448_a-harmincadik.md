@@ -1,1 +1,0 @@
-{"tmdb_id": 469448, "title": "A harmincadik", "original_title": "A harmincadik", "slug_title": "a-harmincadik", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

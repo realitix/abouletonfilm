@@ -1,1 +1,0 @@
-{"tmdb_id": 590369, "title": "Desembarcos - When Memory Speaks", "original_title": "Desembarcos", "slug_title": "desembarcos-when-memory-speaks", "date": "1989-02-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

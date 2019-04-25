@@ -1,1 +1,0 @@
-{"tmdb_id": 314484, "title": "Contos sobre a Cegueira", "original_title": "Contos sobre a Cegueira", "slug_title": "contos-sobre-a-cegueira", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

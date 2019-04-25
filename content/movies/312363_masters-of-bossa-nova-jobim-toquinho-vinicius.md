@@ -1,1 +1,0 @@
-{"tmdb_id": 312363, "title": "Masters of Bossa Nova: Jobim, Toquinho, Vinicius", "original_title": "Masters of Bossa Nova: Jobim, Toquinho, Vinicius", "slug_title": "masters-of-bossa-nova-jobim-toquinho-vinicius", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

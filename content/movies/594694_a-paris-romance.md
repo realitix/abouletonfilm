@@ -1,1 +1,0 @@
-{"tmdb_id": 594694, "title": "A Paris Romance", "original_title": "A Paris Romance", "slug_title": "a-paris-romance", "date": "2019-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jen Lilley (Isabella)", "Dan Jeannotte (Jacques)"], "comments": [], "recommandations_id": []}

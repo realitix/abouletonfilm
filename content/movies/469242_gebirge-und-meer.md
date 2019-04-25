@@ -1,1 +1,0 @@
-{"tmdb_id": 469242, "title": "Gebirge und Meer", "original_title": "Gebirge und Meer", "slug_title": "gebirge-und-meer", "date": "1955-11-27", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["V\u00e1clav Voska ()", "Bohumil \u0160varc st. ()", "Annekathrin B\u00fcrger ()"], "comments": [], "recommandations_id": []}

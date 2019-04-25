@@ -1,1 +1,0 @@
-{"tmdb_id": 376625, "title": "Die Hohlmenschen", "original_title": "Die Hohlmenschen", "slug_title": "die-hohlmenschen", "date": "2015-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556131, "title": "Amours exotiques", "original_title": "Amours exotiques", "slug_title": "amours-exotiques", "date": "1927-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

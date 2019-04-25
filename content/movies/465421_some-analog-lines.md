@@ -1,1 +1,0 @@
-{"tmdb_id": 465421, "title": "Some Analog Lines", "original_title": "Some Analog Lines", "slug_title": "some-analog-lines", "date": "2006-07-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4zUgq2wLeKvsutnUiN2V7rwqEVF.jpg", "actors": [], "comments": [], "recommandations_id": []}

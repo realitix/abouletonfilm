@@ -1,1 +1,0 @@
-{"tmdb_id": 336324, "title": "Red Diaper Baby", "original_title": "Red Diaper Baby", "slug_title": "red-diaper-baby", "date": "2004-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/roHmXPp2iHH9VxRq20n8xTzIKnj.jpg", "actors": [], "comments": [], "recommandations_id": []}

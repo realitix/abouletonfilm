@@ -1,1 +1,0 @@
-{"tmdb_id": 445170, "title": "\u00bfQu\u00e9 puede un cuerpo?", "original_title": "\u00bfQu\u00e9 puede un cuerpo?", "slug_title": "que-puede-un-cuerpo", "date": "2014-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zueFKM5ckkQfSIwkzH5nqBw6OmR.jpg", "actors": [], "comments": [], "recommandations_id": []}

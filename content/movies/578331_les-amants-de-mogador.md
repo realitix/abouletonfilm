@@ -1,1 +1,0 @@
-{"tmdb_id": 578331, "title": "Les Amants de Mogador", "original_title": "Les Amants de Mogador", "slug_title": "les-amants-de-mogador", "date": "2002-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

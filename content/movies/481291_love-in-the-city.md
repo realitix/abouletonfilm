@@ -1,1 +1,0 @@
-{"tmdb_id": 481291, "title": "Love in the City", "original_title": "\u51ac\u65e5\u7231\u60c5", "slug_title": "love-in-the-city", "date": "1997-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Guo Hong ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 575982, "title": "A Few Good Pie Places", "original_title": "A Few Good Pie Places", "slug_title": "a-few-good-pie-places", "date": "2015-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9cR4d0w6M8ReVuch0abpN2a7m6r.jpg", "actors": [], "comments": [], "recommandations_id": []}

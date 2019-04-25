@@ -1,1 +1,0 @@
-{"tmdb_id": 295253, "title": "Jet Pink", "original_title": "Jet Pink", "slug_title": "jet-pink", "date": "1967-06-13", "genre": "Animation", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1thTwVXaLzlW831fgFqhhIwTwEX.jpg", "actors": [], "comments": [], "recommandations_id": []}

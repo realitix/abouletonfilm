@@ -1,1 +1,0 @@
-{"tmdb_id": 417184, "title": "paradox circle", "original_title": "paradox circle", "slug_title": "paradox-circle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

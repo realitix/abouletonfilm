@@ -1,1 +1,0 @@
-{"tmdb_id": 426119, "title": "Stream of Doubts", "original_title": "Stream of Doubts", "slug_title": "stream-of-doubts", "date": "2015-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/offgiNS8N8VMWJ54Z2fO2xu0DRF.jpg", "actors": [], "comments": [], "recommandations_id": []}

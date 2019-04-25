@@ -1,1 +1,0 @@
-{"tmdb_id": 508668, "title": "Mind Fuck", "original_title": "Mind Fuck", "slug_title": "mind-fuck", "date": "2010-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5XtmzmayR6YNSgNuw5pObW7W5KV.jpg", "actors": [], "comments": [], "recommandations_id": []}

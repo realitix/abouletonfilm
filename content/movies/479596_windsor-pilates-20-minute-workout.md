@@ -1,1 +1,0 @@
-{"tmdb_id": 479596, "title": "Windsor Pilates: 20 Minute Workout", "original_title": "Windsor Pilates: 20 Minute Workout", "slug_title": "windsor-pilates-20-minute-workout", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ah1dMQsWRREA3eepUuoQ0ybtsy6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 594514, "title": "Partage.", "original_title": "Partage.", "slug_title": "partage", "date": "2019-01-10", "genre": "", "score": "0.0/10", "synopsis": "Un homme s'installe sur un banc pour manger son sandwich... il va s'ouvrir au Partage.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

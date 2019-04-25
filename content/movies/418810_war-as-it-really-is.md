@@ -1,1 +1,0 @@
-{"tmdb_id": 418810, "title": "War As It Really Is", "original_title": "War As It Really Is", "slug_title": "war-as-it-really-is", "date": "1916-12-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

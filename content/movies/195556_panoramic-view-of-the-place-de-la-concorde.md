@@ -1,1 +1,0 @@
-{"tmdb_id": 195556, "title": "Panoramic View of the Place de la Concorde", "original_title": "Panoramic View of the Place de la Concorde", "slug_title": "panoramic-view-of-the-place-de-la-concorde", "date": "1900-05-21", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

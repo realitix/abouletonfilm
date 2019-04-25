@@ -1,1 +1,0 @@
-{"tmdb_id": 276250, "title": "Together as One: 150 Years", "original_title": "Together as One: 150 Years", "slug_title": "together-as-one-150-years", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 549709, "title": "Land Of Thirst", "original_title": "Land Of Thirst", "slug_title": "land-of-thirst", "date": "2008-01-01", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6gKxZoanSdMHmmS0Wg54ceUOHme.jpg", "actors": [], "comments": [], "recommandations_id": []}

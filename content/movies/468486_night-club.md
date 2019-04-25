@@ -1,1 +1,0 @@
-{"tmdb_id": 468486, "title": "Night Club", "original_title": "Night Club", "slug_title": "night-club", "date": "1952-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zhtBk7OC6QVK9xFQVcKn70Ks5kv.jpg", "actors": [], "comments": [], "recommandations_id": []}

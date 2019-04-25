@@ -1,1 +1,0 @@
-{"tmdb_id": 214419, "title": "The World of Goopi and Bagha", "original_title": "Goopy gawaiya bagha bajaiya", "slug_title": "the-world-of-goopi-and-bagha", "date": "2013-09-10", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Z12XpFSUd4FUNMeWLZIpM3bwwo.jpg", "actors": [], "comments": [], "recommandations_id": []}

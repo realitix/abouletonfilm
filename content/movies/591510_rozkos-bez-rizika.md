@@ -1,1 +1,0 @@
-{"tmdb_id": 591510, "title": "Rozko\u0161 bez rizika", "original_title": "Rozko\u0161 bez rizika", "slug_title": "rozkos-bez-rizika", "date": "2001-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xbysqwoPEFTcdkvg8huhNIAr9sl.jpg", "actors": [], "comments": [], "recommandations_id": []}

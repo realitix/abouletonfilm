@@ -1,1 +1,0 @@
-{"tmdb_id": 290734, "title": "Freudian Eyebrow", "original_title": "Freudian Eyebrow", "slug_title": "freudian-eyebrow", "date": "2009-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

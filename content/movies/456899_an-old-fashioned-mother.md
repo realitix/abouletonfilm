@@ -1,1 +1,0 @@
-{"tmdb_id": 456899, "title": "An Old-Fashioned Mother", "original_title": "An Old-Fashioned Mother", "slug_title": "an-old-fashioned-mother", "date": "1912-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

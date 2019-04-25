@@ -1,1 +1,0 @@
-{"tmdb_id": 501220, "title": "Mountain Plain Mountain", "original_title": "Mountain Plain Mountain", "slug_title": "mountain-plain-mountain", "date": "2018-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yGTKUypDw5Cf0I4fzu9jBE2xOCB.jpg", "actors": [], "comments": [], "recommandations_id": []}

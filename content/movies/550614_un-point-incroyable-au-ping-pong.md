@@ -1,1 +1,0 @@
-{"tmdb_id": 550614, "title": "Un point incroyable au ping pong", "original_title": "Un point incroyable au ping pong", "slug_title": "un-point-incroyable-au-ping-pong", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Un magnifique \u00e9change entre ses deux pongistes .", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

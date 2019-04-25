@@ -1,1 +1,0 @@
-{"tmdb_id": 539034, "title": "Nitchevo", "original_title": "Nitchevo", "slug_title": "nitchevo", "date": "1936-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/12wrATPjNBMXgvaMYxjPqg6e0zo.jpg", "actors": [], "comments": [], "recommandations_id": []}

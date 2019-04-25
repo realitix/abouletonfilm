@@ -1,1 +1,0 @@
-{"tmdb_id": 277291, "title": "Kung Fu Theater: Men on the Hour", "original_title": "Kung Fu Theater: Men on the Hour", "slug_title": "kung-fu-theater-men-on-the-hour", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 540791, "title": "The Pecking Order", "original_title": "The Pecking Order", "slug_title": "the-pecking-order", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qY4lF89eKQPJUY6wdxWWYq9Y0dV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 117935, "title": "About Water (Uber Wasser)", "original_title": "About Water (Uber Wasser)", "slug_title": "about-water-uber-wasser", "date": "2008-06-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/58cJaNErsi5Bftsk20v1mpWn54E.jpg", "actors": [], "comments": [], "recommandations_id": []}

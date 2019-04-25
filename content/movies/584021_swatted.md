@@ -1,1 +1,0 @@
-{"tmdb_id": 584021, "title": "Swatted", "original_title": "Swatted", "slug_title": "swatted", "date": "2019-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xzqpxpo8yjPWczWQaJ3Vgi9ye00.jpg", "actors": [], "comments": [], "recommandations_id": []}

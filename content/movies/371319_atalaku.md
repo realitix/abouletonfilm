@@ -1,1 +1,0 @@
-{"tmdb_id": 371319, "title": "Atalaku", "original_title": "Atalaku", "slug_title": "atalaku", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

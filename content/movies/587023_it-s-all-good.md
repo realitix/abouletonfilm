@@ -1,1 +1,0 @@
-{"tmdb_id": 587023, "title": "It's All Good", "original_title": "Est\u00e1 todo bien", "slug_title": "it-s-all-good", "date": "2018-06-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uEsjwVUlvDEMaNkfI6k35EBCujt.jpg", "actors": [], "comments": [], "recommandations_id": []}

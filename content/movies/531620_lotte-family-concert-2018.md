@@ -1,1 +1,0 @@
-{"tmdb_id": 531620, "title": "Lotte Family Concert 2018", "original_title": "Lotte Family Concert 2018", "slug_title": "lotte-family-concert-2018", "date": "2018-06-22", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8yxC0iR2o9wzdiGi3YAEFZOCKbx.jpg", "actors": [], "comments": [], "recommandations_id": []}

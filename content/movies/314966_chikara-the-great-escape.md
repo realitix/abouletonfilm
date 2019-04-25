@@ -1,1 +1,0 @@
-{"tmdb_id": 314966, "title": "CHIKARA: The Great Escape", "original_title": "CHIKARA: The Great Escape", "slug_title": "chikara-the-great-escape", "date": "2012-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hwdZyP6bTnEo8uxrNYlZEes3UaR.jpg", "actors": [], "comments": [], "recommandations_id": []}

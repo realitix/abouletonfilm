@@ -1,1 +1,0 @@
-{"tmdb_id": 526755, "title": "White Road", "original_title": "\u767d\u306e\u8def", "slug_title": "white-road", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/590IuFrkUc2mvKr0pQ3rO4X7SSl.jpg", "actors": [], "comments": [], "recommandations_id": []}

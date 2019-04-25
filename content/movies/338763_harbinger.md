@@ -1,1 +1,1 @@
-{"tmdb_id": 338763, "title": "Harbinger", "original_title": "Harbinger", "slug_title": "harbinger", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 338763, "title": "Harbinger", "original_title": "Harbinger", "slug_title": "harbinger", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Based on the comic book series of the same name.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

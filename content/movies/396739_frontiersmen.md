@@ -1,1 +1,0 @@
-{"tmdb_id": 396739, "title": "Frontiersmen", "original_title": "Frontiersmen", "slug_title": "frontiersmen", "date": "2012-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

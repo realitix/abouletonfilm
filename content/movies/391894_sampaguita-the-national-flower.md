@@ -1,1 +1,0 @@
-{"tmdb_id": 391894, "title": "Sampaguita: The National Flower", "original_title": "Sampaguita: The National Flower", "slug_title": "sampaguita-the-national-flower", "date": "2010-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/O4pv2OxqLSdrIL6A9Lj1sVQi9L.jpg", "actors": [], "comments": [], "recommandations_id": []}

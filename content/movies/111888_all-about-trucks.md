@@ -1,1 +1,0 @@
-{"tmdb_id": 111888, "title": "All About Trucks", "original_title": "All About Trucks", "slug_title": "all-about-trucks", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aJeX2ZUQudUYnkfZbPBDWnC90Ly.jpg", "actors": [], "comments": [], "recommandations_id": []}

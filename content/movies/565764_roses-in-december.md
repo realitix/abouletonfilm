@@ -1,1 +1,0 @@
-{"tmdb_id": 565764, "title": "Roses in December", "original_title": "Roses in December", "slug_title": "roses-in-december", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

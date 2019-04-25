@@ -1,1 +1,0 @@
-{"tmdb_id": 190716, "title": "Maniac Chase", "original_title": "Maniac Chase", "slug_title": "maniac-chase", "date": "1904-05-24", "genre": "Com\u00e9die / Thriller", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lVWxUaCJONcFyCb20Scd2rPJh0o.jpg", "actors": [], "comments": [], "recommandations_id": [190648]}

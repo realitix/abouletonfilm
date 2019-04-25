@@ -1,1 +1,0 @@
-{"tmdb_id": 318023, "title": "Bambu - Kiwi", "original_title": "Bambu - Kiwi", "slug_title": "bambu-kiwi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pUOJRBHz6UjVBdfR2FGcl7kpfHo.jpg", "actors": [], "comments": [], "recommandations_id": []}

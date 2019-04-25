@@ -1,1 +1,0 @@
-{"tmdb_id": 278639, "title": "The Elephant Spider", "original_title": "L'Araign\u00e9l\u00e9phant", "slug_title": "the-elephant-spider", "date": "1967-11-25", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vMFuqDQkixGIcABM0AT08Ej3KmO.jpg", "actors": [], "comments": [], "recommandations_id": []}

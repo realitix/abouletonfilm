@@ -1,1 +1,0 @@
-{"tmdb_id": 427546, "title": "Super Kid", "original_title": "\uc288\ud37c \ucc28\uc77c\ub4dc", "slug_title": "super-kid", "date": "1995-01-01", "genre": "Action / Aventure / Animation", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1hkp15fLFWrP9ygcoWVKR6cOi6e.jpg", "actors": [], "comments": [], "recommandations_id": []}

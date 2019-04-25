@@ -1,1 +1,0 @@
-{"tmdb_id": 594509, "title": "There There", "original_title": "There There", "slug_title": "there-there", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

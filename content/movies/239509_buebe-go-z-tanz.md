@@ -1,1 +1,0 @@
-{"tmdb_id": 239509, "title": "Buebe g\u00f6 z'Tanz", "original_title": "Buebe g\u00f6 z'Tanz", "slug_title": "buebe-go-z-tanz", "date": "2013-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nVkeSmnvokAexZUltVKh9PBgsmC.jpg", "actors": [], "comments": [], "recommandations_id": []}

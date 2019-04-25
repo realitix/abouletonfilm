@@ -1,1 +1,0 @@
-{"tmdb_id": 80023, "title": "Fairytale of Kathmandu", "original_title": "Fairytale of Kathmandu", "slug_title": "fairytale-of-kathmandu", "date": "2007-11-21", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/puzPwAJM0x9w0hYPLQ4cNPfwLoO.jpg", "actors": [], "comments": [], "recommandations_id": []}

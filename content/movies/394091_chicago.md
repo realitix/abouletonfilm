@@ -1,1 +1,0 @@
-{"tmdb_id": 394091, "title": "Chicago", "original_title": "Chicago", "slug_title": "chicago", "date": "1996-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3PfhKHtCMMjpKDjKK5PIQ861Wqb.jpg", "actors": [], "comments": [], "recommandations_id": []}

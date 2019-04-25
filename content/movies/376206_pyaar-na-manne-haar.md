@@ -1,1 +1,0 @@
-{"tmdb_id": 376206, "title": "Pyaar Na Manne Haar", "original_title": "Pyaar Na Manne Haar", "slug_title": "pyaar-na-manne-haar", "date": "2014-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vBDYDdYWJTqaB7skHEMRIjoZ7e0.jpg", "actors": [], "comments": [], "recommandations_id": []}

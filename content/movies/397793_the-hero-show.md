@@ -1,1 +1,0 @@
-{"tmdb_id": 397793, "title": "The Hero Show", "original_title": "The Hero Show", "slug_title": "the-hero-show", "date": "2010-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yJ78ea71IteSPC8Vw4p2WCpBLbu.jpg", "actors": ["Shusuke Fukutoku ()", "Junpei Goto ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 90511, "title": "Welfare", "original_title": "Welfare", "slug_title": "welfare", "date": "1975-09-23", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ubZeIyelsH0CV2o6NA46p5xQNea.jpg", "actors": [], "comments": [], "recommandations_id": [42260, 32392, 84273, 203093]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 311136, "title": "Vasco Rossi - Tracks", "original_title": "Vasco Rossi - Tracks", "slug_title": "vasco-rossi-tracks", "date": "2002-11-25", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y3ofETq9VSaN1FIPpzNtvdT5pUl.jpg", "actors": ["Vasco Rossi ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 572964, "title": "No No, Homo", "original_title": "No No, Homo", "slug_title": "no-no-homo", "date": "2014-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e4uTXmX43bkQ9qbVHpNWLAbOt6Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

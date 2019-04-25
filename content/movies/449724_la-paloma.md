@@ -1,1 +1,0 @@
-{"tmdb_id": 449724, "title": "La Paloma", "original_title": "La Paloma", "slug_title": "la-paloma", "date": "2014-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/948XqmL8apxLNdH6uGveRIZdLV8.jpg", "actors": [], "comments": [], "recommandations_id": []}

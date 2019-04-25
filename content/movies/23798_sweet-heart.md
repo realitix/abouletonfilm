@@ -1,1 +1,1 @@
-{"tmdb_id": 23798, "title": "Sweet Heart", "original_title": "Sweet Heart", "slug_title": "sweet-heart", "date": "1996-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 23798, "title": "Sweet Heart", "original_title": "Sweet Heart", "slug_title": "sweet-heart", "date": "1996-06-01", "genre": [""], "score": "0.0/10", "synopsis": "No overview found.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

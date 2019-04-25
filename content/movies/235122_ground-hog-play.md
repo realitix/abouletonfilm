@@ -1,1 +1,0 @@
-{"tmdb_id": 235122, "title": "Ground Hog Play", "original_title": "Ground Hog Play", "slug_title": "ground-hog-play", "date": "1956-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

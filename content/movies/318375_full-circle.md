@@ -1,1 +1,0 @@
-{"tmdb_id": 318375, "title": "Full Circle", "original_title": "Full Circle", "slug_title": "full-circle", "date": "2013-04-08", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bwY5wnLhrncUae3GohA3CWHH570.jpg", "actors": [], "comments": [], "recommandations_id": []}

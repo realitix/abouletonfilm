@@ -1,1 +1,0 @@
-{"tmdb_id": 277584, "title": "Buddha Eyes", "original_title": "Buddha Eyes", "slug_title": "buddha-eyes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

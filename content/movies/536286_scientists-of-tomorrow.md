@@ -1,1 +1,0 @@
-{"tmdb_id": 536286, "title": "Scientists of Tomorrow", "original_title": "Scientists of Tomorrow", "slug_title": "scientists-of-tomorrow", "date": "1967-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

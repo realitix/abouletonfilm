@@ -1,1 +1,0 @@
-{"tmdb_id": 539139, "title": "A Trip Through British North Borneo", "original_title": "A Trip Through British North Borneo", "slug_title": "a-trip-through-british-north-borneo", "date": "1907-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

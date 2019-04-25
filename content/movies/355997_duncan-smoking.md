@@ -1,1 +1,0 @@
-{"tmdb_id": 355997, "title": "Duncan Smoking", "original_title": "Duncan Smoking", "slug_title": "duncan-smoking", "date": "1891-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James C. Duncan (Himself)"], "comments": [], "recommandations_id": []}

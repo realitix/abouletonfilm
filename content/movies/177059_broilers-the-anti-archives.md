@@ -1,1 +1,0 @@
-{"tmdb_id": 177059, "title": "Broilers - The Anti Archives", "original_title": "Broilers - The Anti Archives", "slug_title": "broilers-the-anti-archives", "date": "2009-10-30", "genre": "Musique", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mFji0DeIz02VR0H3nQpaPtJ2kI0.jpg", "actors": [], "comments": [], "recommandations_id": []}

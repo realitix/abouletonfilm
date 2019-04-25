@@ -1,1 +1,0 @@
-{"tmdb_id": 475067, "title": "Keeping in Shape", "original_title": "Keeping in Shape", "slug_title": "keeping-in-shape", "date": "1942-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Benchley (Joe Doakes)", "Ruth Lee (Mrs. Doakes)"], "comments": [], "recommandations_id": []}

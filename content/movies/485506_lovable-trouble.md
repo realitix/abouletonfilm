@@ -1,1 +1,0 @@
-{"tmdb_id": 485506, "title": "Lovable Trouble", "original_title": "Lovable Trouble", "slug_title": "lovable-trouble", "date": "1941-10-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy Clyde)"], "comments": [], "recommandations_id": []}

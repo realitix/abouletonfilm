@@ -1,1 +1,0 @@
-{"tmdb_id": 531984, "title": "Red Platoon", "original_title": "Red Platoon", "slug_title": "red-platoon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

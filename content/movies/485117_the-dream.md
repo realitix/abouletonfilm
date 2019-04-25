@@ -1,1 +1,0 @@
-{"tmdb_id": 485117, "title": "The Dream", "original_title": "\uafc8", "slug_title": "the-dream", "date": "1990-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1URvsV8QUw3uGTbZ8sIP7h32Btm.jpg", "actors": [], "comments": [], "recommandations_id": []}

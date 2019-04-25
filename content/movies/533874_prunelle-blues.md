@@ -1,1 +1,0 @@
-{"tmdb_id": 533874, "title": "Prunelle Blues", "original_title": "Prunelle Blues", "slug_title": "prunelle-blues", "date": "1986-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aBE2saeLSe1o5hJ5JUyW5SeUdBx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 294112, "title": "Locatie TusseNLand", "original_title": "Locatie TusseNLand", "slug_title": "locatie-tussenland", "date": "2006-09-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

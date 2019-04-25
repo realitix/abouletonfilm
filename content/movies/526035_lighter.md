@@ -1,1 +1,0 @@
-{"tmdb_id": 526035, "title": "Lighter", "original_title": "Lighter", "slug_title": "lighter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rFOkRtTnfhQHC7YmhqjaAIa8pmb.jpg", "actors": [], "comments": [], "recommandations_id": []}

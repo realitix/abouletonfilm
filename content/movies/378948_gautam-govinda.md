@@ -1,1 +1,0 @@
-{"tmdb_id": 378948, "title": "Gautam Govinda", "original_title": "Gautam Govinda", "slug_title": "gautam-govinda", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v5js70XWxi98GIT7UHZFDqAm9X2.jpg", "actors": [], "comments": [], "recommandations_id": []}

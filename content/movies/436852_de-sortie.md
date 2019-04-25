@@ -1,1 +1,0 @@
-{"tmdb_id": 436852, "title": "De sortie", "original_title": "De sortie", "slug_title": "de-sortie", "date": "2005-12-03", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thomas Salvador (The man)", "Thomas Salvador (The young man)"], "comments": [], "recommandations_id": []}

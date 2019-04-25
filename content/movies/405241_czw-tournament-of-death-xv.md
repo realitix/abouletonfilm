@@ -1,1 +1,0 @@
-{"tmdb_id": 405241, "title": "CZW Tournament of Death XV", "original_title": "CZW Tournament of Death XV", "slug_title": "czw-tournament-of-death-xv", "date": "2016-06-11", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/stjdoj5W57EZe5jWycwksocsnLK.jpg", "actors": [], "comments": [], "recommandations_id": []}

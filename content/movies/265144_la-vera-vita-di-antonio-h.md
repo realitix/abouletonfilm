@@ -1,1 +1,0 @@
-{"tmdb_id": 265144, "title": "La vera vita di Antonio H.", "original_title": "La vera vita di Antonio H.", "slug_title": "la-vera-vita-di-antonio-h", "date": "1994-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rT5CT5pBgThYDBVmDGYdC3EcSAo.jpg", "actors": [], "comments": [], "recommandations_id": []}

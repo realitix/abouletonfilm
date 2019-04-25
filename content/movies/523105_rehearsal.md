@@ -1,1 +1,0 @@
-{"tmdb_id": 523105, "title": "Rehearsal", "original_title": "Rehearsal", "slug_title": "rehearsal", "date": "2013-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7TbQVQFG1sPdcKyqJCPS7wkPYEB.jpg", "actors": [], "comments": [], "recommandations_id": []}

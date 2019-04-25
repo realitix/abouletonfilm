@@ -1,1 +1,0 @@
-{"tmdb_id": 263883, "title": "Swollen Stigma", "original_title": "Swollen Stigma", "slug_title": "swollen-stigma", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fW52JKJBHu25gnokvdcnTt9yAwW.jpg", "actors": [], "comments": [], "recommandations_id": []}

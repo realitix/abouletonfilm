@@ -1,1 +1,0 @@
-{"tmdb_id": 161961, "title": "Pale-Face", "original_title": "Pale-Face", "slug_title": "pale-face", "date": "1933-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

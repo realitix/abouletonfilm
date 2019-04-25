@@ -1,1 +1,0 @@
-{"tmdb_id": 347958, "title": "Vieja modernidad (1920-1924)", "original_title": "Vieja modernidad (1920-1924)", "slug_title": "vieja-modernidad-1920-1924", "date": "1991-07-07", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Juan Stack (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 424795, "title": "Stop Blaming the Iceberg", "original_title": "Stop Blaming the Iceberg", "slug_title": "stop-blaming-the-iceberg", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

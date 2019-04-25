@@ -1,1 +1,0 @@
-{"tmdb_id": 393143, "title": "Confederation Park", "original_title": "Confederation Park", "slug_title": "confederation-park", "date": "1999-04-16", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/78m67D5hKcC6LESF3L2lJF1wUqT.jpg", "actors": [], "comments": [], "recommandations_id": []}

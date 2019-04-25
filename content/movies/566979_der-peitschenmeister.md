@@ -1,1 +1,0 @@
-{"tmdb_id": 566979, "title": "Der Peitschenmeister", "original_title": "Der Peitschenmeister", "slug_title": "der-peitschenmeister", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

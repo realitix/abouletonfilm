@@ -1,1 +1,0 @@
-{"tmdb_id": 484645, "title": "Golden Time", "original_title": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30bf\u30a4\u30e0", "slug_title": "golden-time", "date": "2014-06-15", "genre": "Animation", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9nZ7loS3FtFchxhibaYpf4mRrKX.jpg", "actors": [], "comments": [], "recommandations_id": []}

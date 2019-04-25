@@ -1,1 +1,0 @@
-{"tmdb_id": 574759, "title": "The Killbillies", "original_title": "The Killbillies", "slug_title": "the-killbillies", "date": "2002-06-11", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/buZzpWkQWaGFd7hHHYkXkiMSnP1.jpg", "actors": [], "comments": [], "recommandations_id": []}

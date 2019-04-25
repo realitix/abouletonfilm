@@ -1,1 +1,1 @@
-{"tmdb_id": 336163, "title": "dddddddddddddddd", "original_title": "dddddddddddddddd", "slug_title": "dddddddddddddddd", "date": "", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 336163, "title": "dddddddddddddddd", "original_title": "dddddddddddddddd", "slug_title": "dddddddddddddddd", "date": "", "genre": [""], "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

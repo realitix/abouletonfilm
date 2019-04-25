@@ -1,1 +1,0 @@
-{"tmdb_id": 527522, "title": "Dummy Teacher", "original_title": "\u7b28\u86cb\u8001\u5e2b", "slug_title": "dummy-teacher", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

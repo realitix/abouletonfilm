@@ -1,1 +1,0 @@
-{"tmdb_id": 551358, "title": "American breed", "original_title": "American breed", "slug_title": "american-breed", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

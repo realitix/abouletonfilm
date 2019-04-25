@@ -1,1 +1,0 @@
-{"tmdb_id": 402265, "title": "Summer Solstice", "original_title": "Summer Solstice", "slug_title": "summer-solstice", "date": "1974-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tUceKYshMDBUDFkiZiZFbOLdsuT.jpg", "actors": [], "comments": [], "recommandations_id": []}

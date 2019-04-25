@@ -1,1 +1,0 @@
-{"tmdb_id": 585882, "title": "Femminielli", "original_title": "Femminielli", "slug_title": "femminielli", "date": "2015-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

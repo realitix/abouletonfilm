@@ -1,1 +1,0 @@
-{"tmdb_id": 346655, "title": "Madagascar 4", "original_title": "Madagascar 4", "slug_title": "madagascar-4", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ben Stiller ()", "Jada Pinkett Smith ()", "Chris Rock ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 531692, "title": "Para Eric", "original_title": "Para Eric", "slug_title": "para-eric", "date": "2015-09-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thiago Cazado ()", "Rafael Cestari ()"], "comments": [], "recommandations_id": []}

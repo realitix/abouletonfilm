@@ -1,1 +1,0 @@
-{"tmdb_id": 595433, "title": "When They Left", "original_title": "Cuando ellos se fueron", "slug_title": "when-they-left", "date": "2019-04-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3TEIZKfgjze7AcjO1bgKEeQiZPD.jpg", "actors": [], "comments": [], "recommandations_id": []}

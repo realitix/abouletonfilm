@@ -1,1 +1,0 @@
-{"tmdb_id": 566181, "title": "Father Knows Best", "original_title": "Father Knows Best", "slug_title": "father-knows-best", "date": "2015-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cZ1iwwNkVmQhxIwfWBJfWhofYXq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 394180, "title": "50 Years Of Silence", "original_title": "50 Years Of Silence", "slug_title": "50-years-of-silence", "date": "1994-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7QKqjb1oPtfISl9E4FkFhDcYsnx.jpg", "actors": [], "comments": [], "recommandations_id": []}

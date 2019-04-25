@@ -1,1 +1,0 @@
-{"tmdb_id": 407876, "title": "Time Rodent", "original_title": "Time Rodent", "slug_title": "time-rodent", "date": "2016-01-01", "genre": "Science-Fiction / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j0z75AZ3hhNNM8AZtQBssgw8rex.jpg", "actors": [], "comments": [], "recommandations_id": []}

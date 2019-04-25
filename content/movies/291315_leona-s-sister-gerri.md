@@ -1,1 +1,0 @@
-{"tmdb_id": 291315, "title": "Leona's Sister Gerri", "original_title": "Leona's Sister Gerri", "slug_title": "leona-s-sister-gerri", "date": "1995-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

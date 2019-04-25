@@ -1,1 +1,0 @@
-{"tmdb_id": 345419, "title": "Never Mind the Weather", "original_title": "Never Mind the Weather", "slug_title": "never-mind-the-weather", "date": "2008-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karl Bohman Larsen (Weather Man)", "Kristin Krogh Sissener (Sun Lady)"], "comments": [], "recommandations_id": []}

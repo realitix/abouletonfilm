@@ -1,1 +1,0 @@
-{"tmdb_id": 592334, "title": "Fractures", "original_title": "\u05e1\u05d3\u05e7\u05d9\u05dd", "slug_title": "fractures", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liat Ekta (Noa)", "Tzufit Grant (Merav Golden)", "Shlomi Koriat (Amiram)", "Shmuel Vilozni (Oded Golden)"], "comments": [], "recommandations_id": []}

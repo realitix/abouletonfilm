@@ -1,1 +1,0 @@
-{"tmdb_id": 525883, "title": "Een fotograaf filmt Amsterdam", "original_title": "Een fotograaf filmt Amsterdam", "slug_title": "een-fotograaf-filmt-amsterdam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

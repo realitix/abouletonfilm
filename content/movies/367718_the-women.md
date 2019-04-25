@@ -1,1 +1,0 @@
-{"tmdb_id": 367718, "title": "The Women", "original_title": "Kvinnene", "slug_title": "the-women", "date": "1979-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bente B\u00f8rsum (Birgit)", "Anna Godenius (Karen)"], "comments": [], "recommandations_id": []}

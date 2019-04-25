@@ -1,1 +1,0 @@
-{"tmdb_id": 584912, "title": "Detours and Fences", "original_title": "Detours and Fences", "slug_title": "detours-and-fences", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

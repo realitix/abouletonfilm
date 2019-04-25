@@ -1,1 +1,0 @@
-{"tmdb_id": 268034, "title": "Hustlaz: Diary Of A Pimp", "original_title": "Hustlaz: Diary Of A Pimp", "slug_title": "hustlaz-diary-of-a-pimp", "date": "2002-12-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yx7dLB7Vsb0QZsIEgd4grxW4ryC.jpg", "actors": [], "comments": [], "recommandations_id": []}

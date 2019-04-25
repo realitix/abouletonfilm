@@ -1,1 +1,0 @@
-{"tmdb_id": 519552, "title": "Life Out There Has It Been Seen?", "original_title": "A Vida Aqui, Est\u00e1 Vista?", "slug_title": "life-out-there-has-it-been-seen", "date": "2018-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fPeC8ljyFHV9jSHoGEH34YGfzUp.jpg", "actors": [], "comments": [], "recommandations_id": []}

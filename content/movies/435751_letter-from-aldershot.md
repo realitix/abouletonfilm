@@ -1,1 +1,0 @@
-{"tmdb_id": 435751, "title": "Letter from Aldershot", "original_title": "Letter from Aldershot", "slug_title": "letter-from-aldershot", "date": "1940-01-01", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pr3cd6TNQyW0iZX7eAKZhl50MFO.jpg", "actors": [], "comments": [], "recommandations_id": []}

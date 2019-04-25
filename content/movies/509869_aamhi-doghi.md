@@ -1,1 +1,0 @@
-{"tmdb_id": 509869, "title": "Aamhi Doghi", "original_title": "Aamhi Doghi", "slug_title": "aamhi-doghi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Priya Bapat ()", "Mukta Barve (Amla Sardesai)", "Priya Bapat (Savi)"], "comments": [], "recommandations_id": []}

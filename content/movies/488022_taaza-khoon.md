@@ -1,1 +1,0 @@
-{"tmdb_id": 488022, "title": "Taaza Khoon", "original_title": "Taaza Khoon", "slug_title": "taaza-khoon", "date": "2017-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vishwas (Vampire)"], "comments": [], "recommandations_id": []}

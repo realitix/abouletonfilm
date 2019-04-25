@@ -1,1 +1,0 @@
-{"tmdb_id": 569786, "title": "Natoker Moto: Like a Play", "original_title": "Natoker Moto: Like a Play", "slug_title": "natoker-moto-like-a-play", "date": "2015-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jnNwrP7KmHuzdxfVJQzyArQiiVN.jpg", "actors": ["Roopa Ganguly ()"], "comments": [], "recommandations_id": []}

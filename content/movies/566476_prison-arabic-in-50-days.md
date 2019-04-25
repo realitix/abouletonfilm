@@ -1,1 +1,0 @@
-{"tmdb_id": 566476, "title": "Prison Arabic in 50 Days", "original_title": "Prison Arabic in 50 Days", "slug_title": "prison-arabic-in-50-days", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

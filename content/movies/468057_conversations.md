@@ -1,1 +1,0 @@
-{"tmdb_id": 468057, "title": "Conversations", "original_title": "Conversations", "slug_title": "conversations", "date": "2017-07-16", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xEeZPKu7Er7lbyTZEiW1wFSq0nn.jpg", "actors": [], "comments": [], "recommandations_id": []}

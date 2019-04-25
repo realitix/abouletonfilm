@@ -1,1 +1,0 @@
-{"tmdb_id": 324188, "title": "Who's Right?", "original_title": "Who's Right?", "slug_title": "who-s-right", "date": "1954-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

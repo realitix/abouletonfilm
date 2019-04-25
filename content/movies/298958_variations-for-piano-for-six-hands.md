@@ -1,1 +1,0 @@
-{"tmdb_id": 298958, "title": "Variations for Piano for Six Hands", "original_title": "Variations for Piano for Six Hands", "slug_title": "variations-for-piano-for-six-hands", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

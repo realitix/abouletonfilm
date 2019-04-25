@@ -1,1 +1,0 @@
-{"tmdb_id": 397561, "title": "Desde la tina", "original_title": "Desde la tina", "slug_title": "desde-la-tina", "date": "2015-07-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Zs3xk745pfIAPff99tBBjRjbqp.jpg", "actors": ["Laura Aleman (Ver\u00f3nica)"], "comments": [], "recommandations_id": []}

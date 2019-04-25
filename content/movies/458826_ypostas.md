@@ -1,1 +1,0 @@
-{"tmdb_id": 458826, "title": "YPOSTAS", "original_title": "YPOSTAS", "slug_title": "ypostas", "date": "2017-05-23", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yNTF52hey9BnjlVdsTOcGlwDM3c.jpg", "actors": ["Henryk Hadass (He)"], "comments": [], "recommandations_id": []}

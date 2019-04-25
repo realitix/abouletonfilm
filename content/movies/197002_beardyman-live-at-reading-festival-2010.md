@@ -1,1 +1,0 @@
-{"tmdb_id": 197002, "title": "Beardyman - Live at Reading Festival 2010", "original_title": "Beardyman - Live at Reading Festival 2010", "slug_title": "beardyman-live-at-reading-festival-2010", "date": "2010-09-30", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Beardyman (himself)"], "comments": [], "recommandations_id": []}

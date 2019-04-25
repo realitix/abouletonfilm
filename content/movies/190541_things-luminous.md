@@ -1,1 +1,0 @@
-{"tmdb_id": 190541, "title": "Things Luminous", "original_title": "Things Luminous", "slug_title": "things-luminous", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4yU04Zgne6NYIm12g1BCOHwLSR1.jpg", "actors": [], "comments": [], "recommandations_id": []}

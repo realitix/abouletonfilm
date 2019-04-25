@@ -1,1 +1,0 @@
-{"tmdb_id": 529614, "title": "Rock Das Galinhas", "original_title": "Rock Das Galinhas", "slug_title": "rock-das-galinhas", "date": "2017-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9p53kg7KJgpdkr0bu4fdVP80hbh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 583254, "title": "Qarqacha: El Demonio de Incesto", "original_title": "Qarqacha: El Demonio de Incesto", "slug_title": "qarqacha-el-demonio-de-incesto", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

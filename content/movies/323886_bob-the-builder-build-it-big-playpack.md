@@ -1,1 +1,0 @@
-{"tmdb_id": 323886, "title": "Bob the Builder: Build it Big! Playpack", "original_title": "Bob the Builder: Build it Big! Playpack", "slug_title": "bob-the-builder-build-it-big-playpack", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

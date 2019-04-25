@@ -1,1 +1,0 @@
-{"tmdb_id": 302458, "title": "So Glad I Made It", "original_title": "So Glad I Made It", "slug_title": "so-glad-i-made-it", "date": "2004-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

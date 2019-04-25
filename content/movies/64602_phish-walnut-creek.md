@@ -1,1 +1,0 @@
-{"tmdb_id": 64602, "title": "Phish: Walnut Creek", "original_title": "Phish: Walnut Creek", "slug_title": "phish-walnut-creek", "date": "1997-07-22", "genre": "Musique", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4NeUGln1LsZPNg9V124CGFgiMO6.jpg", "actors": ["Trey Anastasio ()"], "comments": [], "recommandations_id": []}

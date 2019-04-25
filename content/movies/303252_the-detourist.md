@@ -1,1 +1,0 @@
-{"tmdb_id": 303252, "title": "The Detourist", "original_title": "The Detourist", "slug_title": "the-detourist", "date": "2014-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

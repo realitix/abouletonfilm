@@ -1,1 +1,0 @@
-{"tmdb_id": 447690, "title": "Al Kursi", "original_title": "Al Kursi", "slug_title": "al-kursi", "date": "2002-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jyDdQQzO6v9fASGhk9jv8jBvOrX.jpg", "actors": [], "comments": [], "recommandations_id": []}

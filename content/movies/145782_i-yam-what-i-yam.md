@@ -1,1 +1,0 @@
-{"tmdb_id": 145782, "title": "I Yam What I Yam", "original_title": "I Yam What I Yam", "slug_title": "i-yam-what-i-yam", "date": "1933-09-29", "genre": "", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/geEDpZVdRBwZCrEP1vvkvehxuRo.jpg", "actors": [], "comments": [], "recommandations_id": []}

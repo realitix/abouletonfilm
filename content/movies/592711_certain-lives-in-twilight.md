@@ -1,1 +1,0 @@
-{"tmdb_id": 592711, "title": "Certain lives in Twilight", "original_title": "Sayahnangalil Chila Manushyar", "slug_title": "certain-lives-in-twilight", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xTRTCS8lOrKZSJ17aaehFdxvD3J.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 551000, "title": "Somniculus", "original_title": "Somniculus", "slug_title": "somniculus", "date": "2017-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iCazgXqL3qXgnAYQI9oRcZfMFwB.jpg", "actors": [], "comments": [], "recommandations_id": []}

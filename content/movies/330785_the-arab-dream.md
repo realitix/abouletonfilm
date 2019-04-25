@@ -1,1 +1,0 @@
-{"tmdb_id": 330785, "title": "The Arab Dream", "original_title": "Al-Hulm al-'Arabi", "slug_title": "the-arab-dream", "date": "1998-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

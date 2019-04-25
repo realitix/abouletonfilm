@@ -1,1 +1,0 @@
-{"tmdb_id": 536575, "title": "Translations", "original_title": "Translations", "slug_title": "translations", "date": "2018-07-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

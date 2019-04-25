@@ -1,1 +1,0 @@
-{"tmdb_id": 428257, "title": "Benny & the Aliens", "original_title": "Benny & the Aliens", "slug_title": "benny-the-aliens", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/57x4YNayWcmp72FNLvANijvNr5n.jpg", "actors": ["Denis Schmatusik (Benny)"], "comments": [], "recommandations_id": []}

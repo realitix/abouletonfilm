@@ -1,1 +1,0 @@
-{"tmdb_id": 89360, "title": "The Goblin Man of Norway", "original_title": "The Goblin Man of Norway", "slug_title": "the-goblin-man-of-norway", "date": "2008-10-23", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pOtIZ6rAIq0rzFijfXb3sQyw1sl.jpg", "actors": [], "comments": [], "recommandations_id": []}

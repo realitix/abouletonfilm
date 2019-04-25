@@ -1,1 +1,0 @@
-{"tmdb_id": 80235, "title": "Simhamukhi", "original_title": "Simhamukhi", "slug_title": "simhamukhi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

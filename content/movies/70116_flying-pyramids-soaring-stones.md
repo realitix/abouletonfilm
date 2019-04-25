@@ -1,1 +1,0 @@
-{"tmdb_id": 70116, "title": "Flying Pyramids, Soaring Stones", "original_title": "Flying Pyramids, Soaring Stones", "slug_title": "flying-pyramids-soaring-stones", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

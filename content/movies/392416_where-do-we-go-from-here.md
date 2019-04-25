@@ -1,1 +1,0 @@
-{"tmdb_id": 392416, "title": "Where Do We Go From Here?", "original_title": "Where Do We Go From Here?", "slug_title": "where-do-we-go-from-here", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

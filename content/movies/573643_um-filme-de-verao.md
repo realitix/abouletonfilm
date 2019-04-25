@@ -1,1 +1,0 @@
-{"tmdb_id": 573643, "title": "Um Filme de Ver\u00e3o", "original_title": "Um Filme de Ver\u00e3o", "slug_title": "um-filme-de-verao", "date": "2019-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gkuyvRmY5gHy1L6lFuPhqrQmMgz.jpg", "actors": [], "comments": [], "recommandations_id": []}

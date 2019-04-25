@@ -1,1 +1,0 @@
-{"tmdb_id": 355577, "title": "Mao by Mao", "original_title": "Mao par Lui-m\u00eame", "slug_title": "mao-by-mao", "date": "1977-05-01", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oSlQelQ4MojGWptWSRFk6C0Tp2u.jpg", "actors": ["Mao Zedong (Himself)"], "comments": [], "recommandations_id": []}

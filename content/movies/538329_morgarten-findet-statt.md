@@ -1,1 +1,0 @@
-{"tmdb_id": 538329, "title": "Morgarten findet statt", "original_title": "Morgarten findet statt", "slug_title": "morgarten-findet-statt", "date": "1978-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

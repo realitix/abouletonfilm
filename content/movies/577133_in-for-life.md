@@ -1,1 +1,0 @@
-{"tmdb_id": 577133, "title": "In for Life", "original_title": "In for Life", "slug_title": "in-for-life", "date": "1927-02-28", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Neely Edwards ()", "Consuelo Dawn ()"], "comments": [], "recommandations_id": []}

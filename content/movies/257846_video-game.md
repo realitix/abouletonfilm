@@ -1,1 +1,0 @@
-{"tmdb_id": 257846, "title": "Video Game", "original_title": "Video Game", "slug_title": "video-game", "date": "2006-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5c5iR7bLRr1jtGGM5qFWMmJZmE.jpg", "actors": [], "comments": [], "recommandations_id": []}

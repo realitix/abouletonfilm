@@ -1,1 +1,0 @@
-{"tmdb_id": 294823, "title": "Trouble in Dallas", "original_title": "Trouble in Dallas", "slug_title": "trouble-in-dallas", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

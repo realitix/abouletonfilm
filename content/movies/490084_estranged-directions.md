@@ -1,1 +1,0 @@
-{"tmdb_id": 490084, "title": "Estranged Directions", "original_title": "Estranged Directions", "slug_title": "estranged-directions", "date": "2015-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

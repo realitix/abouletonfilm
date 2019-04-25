@@ -1,1 +1,0 @@
-{"tmdb_id": 318130, "title": "Kutiyattam: Kailasodharanam", "original_title": "Kutiyattam: Kailasodharanam", "slug_title": "kutiyattam-kailasodharanam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

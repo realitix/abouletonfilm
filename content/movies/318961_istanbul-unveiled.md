@@ -1,1 +1,0 @@
-{"tmdb_id": 318961, "title": "Istanbul Unveiled", "original_title": "Istanbul Unveiled", "slug_title": "istanbul-unveiled", "date": "2013-12-10", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rYfIjAl1hqXsFoa0xO4ts2nKtD0.jpg", "actors": ["Jayda Berkmen (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 515141, "title": "Picasso: Love, Sex and Art", "original_title": "Picasso: Love, Sex and Art", "slug_title": "picasso-love-sex-and-art", "date": "2015-02-25", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zn29VFCb4gZQ5isXy0WO8BUt2eV.jpg", "actors": [], "comments": [], "recommandations_id": []}

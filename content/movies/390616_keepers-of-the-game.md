@@ -1,1 +1,0 @@
-{"tmdb_id": 390616, "title": "Keepers of the Game", "original_title": "Keepers of the Game", "slug_title": "keepers-of-the-game", "date": "2016-04-19", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6JEnkPNg2uY3Ug2xq5tMQkMZjUh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 342941, "title": "Hello Kitty- Saves the Day", "original_title": "Hello Kitty- Saves the Day", "slug_title": "hello-kitty-saves-the-day", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rvipK0OnMGhqL9xJ0nIPACitRZN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 552774, "title": "Images en n\u00e9gatif", "original_title": "Images en n\u00e9gatif", "slug_title": "images-en-negatif", "date": "1955-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

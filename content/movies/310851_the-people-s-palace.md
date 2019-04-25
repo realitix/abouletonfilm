@@ -1,1 +1,0 @@
-{"tmdb_id": 310851, "title": "The People's Palace", "original_title": "The People's Palace", "slug_title": "the-people-s-palace", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

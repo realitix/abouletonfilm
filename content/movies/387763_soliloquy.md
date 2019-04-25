@@ -1,1 +1,0 @@
-{"tmdb_id": 387763, "title": "Soliloquy", "original_title": "Soliloquy", "slug_title": "soliloquy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

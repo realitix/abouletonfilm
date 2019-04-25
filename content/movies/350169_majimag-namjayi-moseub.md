@@ -1,1 +1,0 @@
-{"tmdb_id": 350169, "title": "\ub9c8\uc9c0\ub9c9 \ub0a8\uc790\uc758 \ubaa8\uc2b5", "original_title": "\ub9c8\uc9c0\ub9c9 \ub0a8\uc790\uc758 \ubaa8\uc2b5", "slug_title": "majimag-namjayi-moseub", "date": "1991-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

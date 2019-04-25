@@ -1,1 +1,0 @@
-{"tmdb_id": 459087, "title": "The ladies of the third floor", "original_title": "Las chicas del 3\u00b0", "slug_title": "the-ladies-of-the-third-floor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aFekjeaI6zQcMuUF09nZhFRtxGP.jpg", "actors": [], "comments": [], "recommandations_id": []}

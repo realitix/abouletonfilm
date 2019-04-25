@@ -1,1 +1,0 @@
-{"tmdb_id": 219101, "title": "The Old Maid in the Horsecar", "original_title": "The Old Maid in the Horsecar", "slug_title": "the-old-maid-in-the-horsecar", "date": "1901-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gilbert Saroni (The Old Maid)"], "comments": [], "recommandations_id": []}

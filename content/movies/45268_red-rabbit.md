@@ -1,1 +1,0 @@
-{"tmdb_id": 45268, "title": "Red Rabbit", "original_title": "Red Rabbit", "slug_title": "red-rabbit", "date": "2006-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Zoe9KRhOJW6fRWrO0CneWBj9fE.jpg", "actors": [], "comments": [], "recommandations_id": []}

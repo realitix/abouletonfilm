@@ -1,1 +1,0 @@
-{"tmdb_id": 554007, "title": "Encounter", "original_title": "Encounter", "slug_title": "encounter", "date": "2018-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ZqKb4greIhuFghJxQoTjyuyXms.jpg", "actors": [], "comments": [], "recommandations_id": []}

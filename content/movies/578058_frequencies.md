@@ -1,1 +1,0 @@
-{"tmdb_id": 578058, "title": "Frequencies", "original_title": "Frequencies", "slug_title": "frequencies", "date": "2018-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Breyten Feys ()", "Dieudonn\u00e9 Zouko ()", "Paul Schrijvers ()", "Jo Massin ()"], "comments": [], "recommandations_id": []}

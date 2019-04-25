@@ -1,1 +1,0 @@
-{"tmdb_id": 392876, "title": "Sometimes it rains", "original_title": "Sometimes it rains", "slug_title": "sometimes-it-rains", "date": "2016-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h0jWY5xNtQ1y96KbCm75t59c5Tw.jpg", "actors": [], "comments": [], "recommandations_id": []}

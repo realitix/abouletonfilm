@@ -1,1 +1,0 @@
-{"tmdb_id": 552826, "title": "Mila Caos", "original_title": "Mila Caos", "slug_title": "mila-caos", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yaniel Castillo ()"], "comments": [], "recommandations_id": []}

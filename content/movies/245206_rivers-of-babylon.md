@@ -1,1 +1,0 @@
-{"tmdb_id": 245206, "title": "Rivers of Babylon", "original_title": "Rivers of Babylon", "slug_title": "rivers-of-babylon", "date": "1998-12-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fajHumXjx82p493AL1CQtV8BbzK.jpg", "actors": [], "comments": [], "recommandations_id": []}

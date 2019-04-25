@@ -1,1 +1,0 @@
-{"tmdb_id": 445754, "title": "Snj\u00f3r og Sal\u00f3me", "original_title": "Snj\u00f3r og Sal\u00f3me", "slug_title": "snjor-og-salome", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2BOpAwTq83eTFLczGb1MQ9QlWK8.jpg", "actors": [], "comments": [], "recommandations_id": []}

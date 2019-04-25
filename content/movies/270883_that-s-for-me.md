@@ -1,1 +1,0 @@
-{"tmdb_id": 270883, "title": "That's for Me!", "original_title": "That's for Me!", "slug_title": "that-s-for-me", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 349519, "title": "Marriage Story 2", "original_title": "\uacb0\ud63c\uc774\uc57c\uae30 2", "slug_title": "marriage-story-2", "date": "1994-10-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shim Hye-jin (Jang Sun-joo)"], "comments": [], "recommandations_id": []}

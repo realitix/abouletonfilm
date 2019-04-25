@@ -1,1 +1,0 @@
-{"tmdb_id": 468777, "title": "Earworm", "original_title": "Earworm", "slug_title": "earworm", "date": "2016-06-18", "genre": "Com\u00e9die / Horreur / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sWqbPiEQrJx26Uv6xtx5G6y5ibN.jpg", "actors": ["Ernest Lee Thomas ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 428018, "title": "El enviado", "original_title": "El enviado", "slug_title": "el-enviado", "date": "2012-01-02", "genre": "Thriller / Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Norman Santiago ()", "Julio Ramos ()", "Lian Mach\u00edn ()"], "comments": [], "recommandations_id": []}

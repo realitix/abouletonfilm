@@ -1,1 +1,0 @@
-{"tmdb_id": 409943, "title": "Prophecies", "original_title": "Prophecies", "slug_title": "prophecies", "date": "1998-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3mFSxsUZhI6oc398xmUX2px6Mcv.jpg", "actors": [], "comments": [], "recommandations_id": []}

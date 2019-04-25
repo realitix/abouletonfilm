@@ -1,1 +1,0 @@
-{"tmdb_id": 542907, "title": "Chove Chuva", "original_title": "Chove Chuva", "slug_title": "chove-chuva", "date": "2018-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bruna Luiza Pereira (Menina da sacada)"], "comments": [], "recommandations_id": []}

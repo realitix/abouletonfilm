@@ -1,1 +1,0 @@
-{"tmdb_id": 179114, "title": "Bye Bye Malm\u00f6", "original_title": "Bye Bye Malm\u00f6", "slug_title": "bye-bye-malmo", "date": "2003-09-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q2zogcRyaFocT9VU3po6o3wLE8y.jpg", "actors": [], "comments": [], "recommandations_id": []}

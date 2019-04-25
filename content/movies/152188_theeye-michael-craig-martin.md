@@ -1,1 +1,0 @@
-{"tmdb_id": 152188, "title": "TheEYE: Michael Craig-Martin", "original_title": "TheEYE: Michael Craig-Martin", "slug_title": "theeye-michael-craig-martin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kEwtywkqgrbDijKLiLln2HlMdJc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 377865, "title": "Stammtisch", "original_title": "Stammtisch", "slug_title": "stammtisch", "date": "2013-01-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gdQVJ5tI3n2LtE5Hajwx8OUC1j8.jpg", "actors": [], "comments": [], "recommandations_id": []}

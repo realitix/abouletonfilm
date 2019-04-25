@@ -1,1 +1,0 @@
-{"tmdb_id": 253843, "title": "A Day in the Hospital", "original_title": "Pienen pient\u00e4 iloa", "slug_title": "a-day-in-the-hospital", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 310178, "title": "Loudes 68: The Movement of Hip-Hop and Reggaeton", "original_title": "Loudes 68: The Movement of Hip-Hop and Reggaeton", "slug_title": "loudes-68-the-movement-of-hip-hop-and-reggaeton", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

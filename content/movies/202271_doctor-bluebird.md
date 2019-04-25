@@ -1,1 +1,0 @@
-{"tmdb_id": 202271, "title": "Doctor Bluebird", "original_title": "Doctor Bluebird", "slug_title": "doctor-bluebird", "date": "1936-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eoyQrbSu3JDRRZqIrJJs7lriB31.jpg", "actors": [], "comments": [], "recommandations_id": []}

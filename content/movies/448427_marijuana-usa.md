@@ -1,1 +1,0 @@
-{"tmdb_id": 448427, "title": "Marijuana USA", "original_title": "Marijuana USA", "slug_title": "marijuana-usa", "date": "2010-12-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

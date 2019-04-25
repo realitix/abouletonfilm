@@ -1,1 +1,0 @@
-{"tmdb_id": 434769, "title": "Tower XYZ", "original_title": "Tower XYZ", "slug_title": "tower-xyz", "date": "2016-06-30", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rNOQDlIjEnjrhEdYrzyz0LuB74D.jpg", "actors": [], "comments": [], "recommandations_id": []}

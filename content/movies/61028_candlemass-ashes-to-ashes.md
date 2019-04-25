@@ -1,1 +1,0 @@
-{"tmdb_id": 61028, "title": "Candlemass - Ashes To Ashes", "original_title": "Candlemass - Ashes To Ashes", "slug_title": "candlemass-ashes-to-ashes", "date": "2010-06-29", "genre": "Musique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/T54hrmrVsxVe6tfWme57V2TRQF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 409053, "title": "Moonbug", "original_title": "Moonbug", "slug_title": "moonbug", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hnTFGnAxVk0nsIN0P7BlHROU30F.jpg", "actors": [], "comments": [], "recommandations_id": []}

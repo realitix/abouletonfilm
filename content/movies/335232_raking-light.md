@@ -1,1 +1,0 @@
-{"tmdb_id": 335232, "title": "Raking Light", "original_title": "Raking Light", "slug_title": "raking-light", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

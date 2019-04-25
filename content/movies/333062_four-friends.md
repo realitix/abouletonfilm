@@ -1,1 +1,0 @@
-{"tmdb_id": 333062, "title": "Four Friends", "original_title": "Pegisha Hozeret", "slug_title": "four-friends", "date": "1999-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

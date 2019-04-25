@@ -1,1 +1,0 @@
-{"tmdb_id": 493582, "title": "Doktor Glas", "original_title": "Doktor Glas", "slug_title": "doktor-glas", "date": "2009-02-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iOVtfEFCj71gbGRRPL6ISsL5a1S.jpg", "actors": ["Krister Henriksson ()"], "comments": [], "recommandations_id": []}

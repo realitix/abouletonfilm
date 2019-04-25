@@ -1,1 +1,0 @@
-{"tmdb_id": 571989, "title": "Je mouille aussi par derri\u00e8re", "original_title": "Je mouille aussi par derri\u00e8re", "slug_title": "je-mouille-aussi-par-derriere", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

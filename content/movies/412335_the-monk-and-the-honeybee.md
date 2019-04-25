@@ -1,1 +1,0 @@
-{"tmdb_id": 412335, "title": "The Monk and the Honeybee", "original_title": "The Monk and the Honeybee", "slug_title": "the-monk-and-the-honeybee", "date": "1989-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o3ozxLmZhq64IGM5iy572mmPdgS.jpg", "actors": [], "comments": [], "recommandations_id": []}

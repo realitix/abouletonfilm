@@ -1,1 +1,0 @@
-{"tmdb_id": 385350, "title": "Six Portraits of Clara Schumann", "original_title": "Six Portraits of Clara Schumann", "slug_title": "six-portraits-of-clara-schumann", "date": "2016-03-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

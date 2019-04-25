@@ -1,1 +1,0 @@
-{"tmdb_id": 200672, "title": "Torro. Torro. Torro!", "original_title": "Torro. Torro. Torro!", "slug_title": "torro-torro-torro", "date": "1981-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3sCzrtgWaimNKVXk9FHRPx0Q2I4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 272951, "title": "City Lax: An Urban Lacrosse Story", "original_title": "City Lax: An Urban Lacrosse Story", "slug_title": "city-lax-an-urban-lacrosse-story", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

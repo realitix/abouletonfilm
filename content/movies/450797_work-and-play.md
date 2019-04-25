@@ -1,1 +1,0 @@
-{"tmdb_id": 450797, "title": "Work and Play", "original_title": "Work and Play", "slug_title": "work-and-play", "date": "1983-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

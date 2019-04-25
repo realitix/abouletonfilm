@@ -1,1 +1,0 @@
-{"tmdb_id": 493526, "title": "The Milk Can", "original_title": "The Milk Can", "slug_title": "the-milk-can", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

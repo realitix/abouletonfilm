@@ -1,1 +1,0 @@
-{"tmdb_id": 335525, "title": "13 Nights of Elvira: Gingerdead Man", "original_title": "13 Nights of Elvira: Gingerdead Man", "slug_title": "13-nights-of-elvira-gingerdead-man", "date": "2014-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 526449, "title": "Atos (t\u00edtulo provis\u00f3rio)", "original_title": "Atos (t\u00edtulo provis\u00f3rio)", "slug_title": "atos-titulo-provisorio", "date": "2018-06-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9yaPvw1jkaXAjl3rA9Bf2TaNLB.jpg", "actors": [], "comments": [], "recommandations_id": []}

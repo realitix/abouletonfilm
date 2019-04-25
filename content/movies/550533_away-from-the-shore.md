@@ -1,1 +1,0 @@
-{"tmdb_id": 550533, "title": "Away from the shore", "original_title": "Away from the shore", "slug_title": "away-from-the-shore", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qXyizwKj8I64Pda6icrlhnJ5Xjo.jpg", "actors": [], "comments": [], "recommandations_id": []}

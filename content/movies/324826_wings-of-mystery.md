@@ -1,1 +1,0 @@
-{"tmdb_id": 324826, "title": "Wings of Mystery", "original_title": "Wings of Mystery", "slug_title": "wings-of-mystery", "date": "1963-04-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Judy Geeson ()", "Hennie Scott ()", "Patrick Jordan ()", "Arnold Ridley ()"], "comments": [], "recommandations_id": []}

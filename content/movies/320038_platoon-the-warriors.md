@@ -1,1 +1,0 @@
-{"tmdb_id": 320038, "title": "Platoon the Warriors", "original_title": "Platoon the Warriors", "slug_title": "platoon-the-warriors", "date": "1987-01-01", "genre": "Action", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l2Xcld9LsU0O5A7Ua1tMhRllz0p.jpg", "actors": ["Mike Abbott (Rex)"], "comments": [], "recommandations_id": []}

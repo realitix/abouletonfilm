@@ -1,1 +1,0 @@
-{"tmdb_id": 313958, "title": "Pigs in Clover", "original_title": "Pigs in Clover", "slug_title": "pigs-in-clover", "date": "1919-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

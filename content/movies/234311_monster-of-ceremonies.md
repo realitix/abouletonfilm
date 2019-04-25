@@ -1,1 +1,0 @@
-{"tmdb_id": 234311, "title": "Monster of Ceremonies", "original_title": "Monster of Ceremonies", "slug_title": "monster-of-ceremonies", "date": "1966-06-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qqVHRh0yQ9ch5MRFs4DLxYv9BF.jpg", "actors": [], "comments": [], "recommandations_id": []}

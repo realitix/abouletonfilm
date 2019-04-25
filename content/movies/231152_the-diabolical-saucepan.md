@@ -1,1 +1,0 @@
-{"tmdb_id": 231152, "title": "The Diabolical Saucepan", "original_title": "La marmite diabolique", "slug_title": "the-diabolical-saucepan", "date": "1904-02-06", "genre": "Com\u00e9die / Fantastique", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

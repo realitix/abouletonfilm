@@ -1,1 +1,0 @@
-{"tmdb_id": 339721, "title": "Don't Work Don't Eat", "original_title": "Don't Work Don't Eat", "slug_title": "don-t-work-don-t-eat", "date": "2014-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

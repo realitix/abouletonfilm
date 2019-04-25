@@ -1,1 +1,0 @@
-{"tmdb_id": 312720, "title": "Famous Authors: Ernest Hemingway", "original_title": "Famous Authors: Ernest Hemingway", "slug_title": "famous-authors-ernest-hemingway", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

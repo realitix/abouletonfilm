@@ -1,1 +1,0 @@
-{"tmdb_id": 244886, "title": "Straight from the Heart", "original_title": "Straight from the Heart", "slug_title": "straight-from-the-heart", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qMVN16vQlFathAJohi3223zZGc0.jpg", "actors": [], "comments": [], "recommandations_id": []}

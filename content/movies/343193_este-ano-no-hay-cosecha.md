@@ -1,1 +1,0 @@
-{"tmdb_id": 343193, "title": "Este a\u00f1o no hay cosecha", "original_title": "Este a\u00f1o no hay cosecha", "slug_title": "este-ano-no-hay-cosecha", "date": "2000-11-19", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

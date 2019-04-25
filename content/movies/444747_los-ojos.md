@@ -1,1 +1,0 @@
-{"tmdb_id": 444747, "title": "Los Ojos", "original_title": "Los Ojos", "slug_title": "los-ojos", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gary Beydler ()"], "comments": [], "recommandations_id": []}

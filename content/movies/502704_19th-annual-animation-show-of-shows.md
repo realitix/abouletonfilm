@@ -1,1 +1,0 @@
-{"tmdb_id": 502704, "title": "19th Annual Animation Show of Shows", "original_title": "19th Annual Animation Show of Shows", "slug_title": "19th-annual-animation-show-of-shows", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

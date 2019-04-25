@@ -1,1 +1,0 @@
-{"tmdb_id": 578794, "title": "Closed Doors", "original_title": "Closed Doors", "slug_title": "closed-doors", "date": "2006-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7rKteQu1mA2cPVzMEjCFOaTgOUb.jpg", "actors": [], "comments": [], "recommandations_id": []}

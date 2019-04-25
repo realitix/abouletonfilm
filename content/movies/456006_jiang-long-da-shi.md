@@ -1,1 +1,0 @@
-{"tmdb_id": 456006, "title": "\u964d\u9f99\u5927\u5e08", "original_title": "\u964d\u9f99\u5927\u5e08", "slug_title": "jiang-long-da-shi", "date": "", "genre": "Action / Fantastique / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 419755, "title": "Lottando la vita - Lavoratori italiani a Berlino", "original_title": "Lottando la vita - Lavoratori italiani a Berlino", "slug_title": "lottando-la-vita-lavoratori-italiani-a-berlino", "date": "1975-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

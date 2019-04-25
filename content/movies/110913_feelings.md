@@ -1,1 +1,0 @@
-{"tmdb_id": 110913, "title": "Feelings", "original_title": "Feelings", "slug_title": "feelings", "date": "1984-01-01", "genre": "", "score": "6.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mFvF15L21nJyNdX6yZPK1Mpc9oj.jpg", "actors": ["Todd Solondz ()", "Jan Meredith (Herself)"], "comments": [], "recommandations_id": [79240]}

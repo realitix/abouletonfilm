@@ -1,1 +1,0 @@
-{"tmdb_id": 275962, "title": "Ford Muscle Cars", "original_title": "Ford Muscle Cars", "slug_title": "ford-muscle-cars", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

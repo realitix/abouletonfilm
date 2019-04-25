@@ -1,1 +1,0 @@
-{"tmdb_id": 519001, "title": "Casa Propia", "original_title": "Casa Propia", "slug_title": "casa-propia", "date": "2018-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4tV66n5ncm2zrK91kUHTlh5TNhX.jpg", "actors": ["Gustavo Almada ()"], "comments": [], "recommandations_id": []}

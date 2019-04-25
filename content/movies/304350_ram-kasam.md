@@ -1,1 +1,0 @@
-{"tmdb_id": 304350, "title": "Ram Kasam", "original_title": "Ram Kasam", "slug_title": "ram-kasam", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

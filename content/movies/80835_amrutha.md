@@ -1,1 +1,0 @@
-{"tmdb_id": 80835, "title": "Amrutha", "original_title": "Amrutha", "slug_title": "amrutha", "date": "2002-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uRKFd8NGXfTJZmPhsAUESSesbOl.jpg", "actors": [], "comments": [], "recommandations_id": []}

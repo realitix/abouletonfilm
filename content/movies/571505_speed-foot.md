@@ -1,1 +1,0 @@
-{"tmdb_id": 571505, "title": "Speed Foot", "original_title": "H\u0131zl\u0131 Ad\u0131mlar", "slug_title": "speed-foot", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

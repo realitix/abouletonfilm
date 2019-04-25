@@ -1,1 +1,0 @@
-{"tmdb_id": 390374, "title": "TNA Destination X 2009", "original_title": "TNA Destination X 2009", "slug_title": "tna-destination-x-2009", "date": "2009-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7DtXTiywW98fQYgVMoUyskxcwg6.jpg", "actors": [], "comments": [], "recommandations_id": []}

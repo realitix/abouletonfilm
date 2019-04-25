@@ -1,1 +1,0 @@
-{"tmdb_id": 524065, "title": "75 Years of NHL Hockey Heroes and History", "original_title": "75 Years of NHL Hockey Heroes and History", "slug_title": "75-years-of-nhl-hockey-heroes-and-history", "date": "1991-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

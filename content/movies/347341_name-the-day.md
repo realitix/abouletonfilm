@@ -1,1 +1,0 @@
-{"tmdb_id": 347341, "title": "Name the Day", "original_title": "Name the Day", "slug_title": "name-the-day", "date": "1921-08-20", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["'Snub' Pollard ()", "Marie Mosquini ()", "Sunshine Sammy Morrison (Goofy)"], "comments": [], "recommandations_id": []}

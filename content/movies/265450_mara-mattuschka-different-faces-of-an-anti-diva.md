@@ -1,1 +1,0 @@
-{"tmdb_id": 265450, "title": "Mara Mattuschka_Different Faces of an Anti-Diva", "original_title": "Mara Mattuschka_Different Faces of an Anti-Diva", "slug_title": "mara-mattuschka-different-faces-of-an-anti-diva", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

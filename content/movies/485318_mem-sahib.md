@@ -1,1 +1,0 @@
-{"tmdb_id": 485318, "title": "Mem Sahib", "original_title": "Mem Sahib", "slug_title": "mem-sahib", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xIOOXYmRZFDIaKf8zuqhLVd0iMY.jpg", "actors": [], "comments": [], "recommandations_id": []}

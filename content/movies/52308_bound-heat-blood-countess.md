@@ -1,1 +1,0 @@
-{"tmdb_id": 52308, "title": "Bound Heat Blood Countess", "original_title": "Bound Heat Blood Countess", "slug_title": "bound-heat-blood-countess", "date": "2008-12-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n5aTIZCASOG5hvWEumU9vdYLLVQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 328868, "title": "Goleshovo", "original_title": "Goleshovo", "slug_title": "goleshovo", "date": "2008-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7eLlumaLSZW5UpDIU8GnfeEaNWT.jpg", "actors": [], "comments": [], "recommandations_id": []}

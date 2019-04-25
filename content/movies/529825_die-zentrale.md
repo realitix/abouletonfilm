@@ -1,1 +1,0 @@
-{"tmdb_id": 529825, "title": "Die Zentrale", "original_title": "Die Zentrale", "slug_title": "die-zentrale", "date": "1988-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

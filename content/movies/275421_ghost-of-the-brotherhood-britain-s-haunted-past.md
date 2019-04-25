@@ -1,1 +1,0 @@
-{"tmdb_id": 275421, "title": "Ghost of the Brotherhood: Britain's Haunted Past", "original_title": "Ghost of the Brotherhood: Britain's Haunted Past", "slug_title": "ghost-of-the-brotherhood-britain-s-haunted-past", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

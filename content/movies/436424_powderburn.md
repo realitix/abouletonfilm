@@ -1,1 +1,0 @@
-{"tmdb_id": 436424, "title": "Powderburn", "original_title": "Powderburn", "slug_title": "powderburn", "date": "1999-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ee4usncyUrJCV5nYmZQDP3GlhsH.jpg", "actors": ["Nic Bishop ()", "Ian Bliss ()", "Olivia Pigeot ()"], "comments": [], "recommandations_id": []}

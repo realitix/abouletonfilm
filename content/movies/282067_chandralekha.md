@@ -1,1 +1,0 @@
-{"tmdb_id": 282067, "title": "Chandralekha", "original_title": "Chandralekha", "slug_title": "chandralekha", "date": "1948-01-02", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d3nqaPr55Rvkmfe0xvCdx1c0ZGL.jpg", "actors": ["Rajkumari ()", "M.K. Radha ()", "Ranjan ()"], "comments": [], "recommandations_id": []}

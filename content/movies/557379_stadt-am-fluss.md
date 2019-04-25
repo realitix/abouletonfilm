@@ -1,1 +1,0 @@
-{"tmdb_id": 557379, "title": "Stadt am Fluss", "original_title": "Stadt am Fluss", "slug_title": "stadt-am-fluss", "date": "1990-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 327414, "title": "Another Bullet Dodged", "original_title": "Another Bullet Dodged", "slug_title": "another-bullet-dodged", "date": "2011-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 580905, "title": "Eli Parker Is Getting Married?", "original_title": "Eli Parker Is Getting Married?", "slug_title": "eli-parker-is-getting-married", "date": "2003-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qAko5MmK9AHvZFp53tTt9Or5ZR7.jpg", "actors": [], "comments": [], "recommandations_id": []}

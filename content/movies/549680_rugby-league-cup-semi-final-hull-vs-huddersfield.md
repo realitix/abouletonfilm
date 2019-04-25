@@ -1,1 +1,0 @@
-{"tmdb_id": 549680, "title": "Rugby League Cup Semi-Final Hull vs. Huddersfield", "original_title": "Rugby League Cup Semi-Final Hull vs. Huddersfield", "slug_title": "rugby-league-cup-semi-final-hull-vs-huddersfield", "date": "1935-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

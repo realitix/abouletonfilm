@@ -1,1 +1,0 @@
-{"tmdb_id": 104881, "title": "Vampire of Quezon City", "original_title": "Vampire of Quezon City", "slug_title": "vampire-of-quezon-city", "date": "2006-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o4h0nkvQlBF9Ga8hrI5sLLV0NEe.jpg", "actors": [], "comments": [], "recommandations_id": []}

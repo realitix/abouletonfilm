@@ -1,1 +1,0 @@
-{"tmdb_id": 533882, "title": "The Way Out", "original_title": "Rue du D\u00e9part", "slug_title": "the-way-out", "date": "1986-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oCmb9V2yd0gmxaGld71p1ZFunn2.jpg", "actors": [], "comments": [], "recommandations_id": []}

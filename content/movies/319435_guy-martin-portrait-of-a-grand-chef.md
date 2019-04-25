@@ -1,1 +1,0 @@
-{"tmdb_id": 319435, "title": "Guy Martin: Portrait of a Grand Chef", "original_title": "Guy Martin: Portrait of a Grand Chef", "slug_title": "guy-martin-portrait-of-a-grand-chef", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

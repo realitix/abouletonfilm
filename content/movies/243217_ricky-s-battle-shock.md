@@ -1,1 +1,0 @@
-{"tmdb_id": 243217, "title": "Ricky's Battle Shock", "original_title": "Ricky's Battle Shock", "slug_title": "ricky-s-battle-shock", "date": "2009-07-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

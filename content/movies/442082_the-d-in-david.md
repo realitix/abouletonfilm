@@ -1,1 +1,0 @@
-{"tmdb_id": 442082, "title": "The D in David", "original_title": "The D in David", "slug_title": "the-d-in-david", "date": "2016-05-04", "genre": "Animation", "score": "7.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wjgkwtnukiHrr0f5A1q3O6n7h4x.jpg", "actors": [], "comments": [], "recommandations_id": [71571, 433471, 13378]}

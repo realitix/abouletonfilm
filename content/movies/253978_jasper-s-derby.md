@@ -1,1 +1,0 @@
-{"tmdb_id": 253978, "title": "Jasper's Derby", "original_title": "Jasper's Derby", "slug_title": "jasper-s-derby", "date": "1946-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

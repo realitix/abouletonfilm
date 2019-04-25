@@ -1,1 +1,0 @@
-{"tmdb_id": 87898, "title": "Amphetamine", "original_title": "Amphetamine", "slug_title": "amphetamine", "date": "2003-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

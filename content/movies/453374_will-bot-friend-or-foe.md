@@ -1,1 +1,0 @@
-{"tmdb_id": 453374, "title": "Will-Bot: Friend or Foe", "original_title": "Will-Bot: Friend or Foe", "slug_title": "will-bot-friend-or-foe", "date": "2013-05-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wOKamK08cXv07lmYYnvIimfFQL4.jpg", "actors": [], "comments": [], "recommandations_id": []}

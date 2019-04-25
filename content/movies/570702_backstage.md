@@ -1,1 +1,0 @@
-{"tmdb_id": 570702, "title": "Backstage", "original_title": "Backstage", "slug_title": "backstage", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jake Rothman (Wes)"], "comments": [], "recommandations_id": []}

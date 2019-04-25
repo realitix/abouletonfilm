@@ -1,1 +1,0 @@
-{"tmdb_id": 415397, "title": "M\u00e4rkische Ziegel", "original_title": "M\u00e4rkische Ziegel", "slug_title": "markische-ziegel", "date": "1989-10-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hxl9TwLZBmCfXhrYI0ZAcf0Agil.jpg", "actors": [], "comments": [], "recommandations_id": []}

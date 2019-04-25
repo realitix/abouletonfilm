@@ -1,1 +1,0 @@
-{"tmdb_id": 166299, "title": "Oceantics", "original_title": "Oceantics", "slug_title": "oceantics", "date": "1930-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

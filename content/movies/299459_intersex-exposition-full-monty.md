@@ -1,1 +1,0 @@
-{"tmdb_id": 299459, "title": "Intersex Exposition: Full Monty", "original_title": "Intersex Exposition: Full Monty", "slug_title": "intersex-exposition-full-monty", "date": "2003-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

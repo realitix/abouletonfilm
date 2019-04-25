@@ -1,1 +1,0 @@
-{"tmdb_id": 394975, "title": "Jharia, a living hell", "original_title": "Jharia, une vie en enfer", "slug_title": "jharia-a-living-hell", "date": "2016-02-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qQBVTSep01FYhrTBnPG3MNUFrf7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 184184, "title": "Who Killed Rover?", "original_title": "Who Killed Rover?", "slug_title": "who-killed-rover", "date": "1930-04-08", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8G3PqfUHle7YMd0242NAhRbi2R8.jpg", "actors": [], "comments": [], "recommandations_id": []}

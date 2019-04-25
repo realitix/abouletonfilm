@@ -1,1 +1,0 @@
-{"tmdb_id": 272265, "title": "Evil Erector", "original_title": "Evil Erector", "slug_title": "evil-erector", "date": "2009-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wYVej508tP9OwWJY0mRKIqFVuBO.jpg", "actors": [], "comments": [], "recommandations_id": []}

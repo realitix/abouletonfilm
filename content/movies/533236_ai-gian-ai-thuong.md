@@ -1,1 +1,0 @@
-{"tmdb_id": 533236, "title": "Ai gi\u1eadn ai th\u01b0\u01a1ng", "original_title": "Ai gi\u1eadn ai th\u01b0\u01a1ng", "slug_title": "ai-gian-ai-thuong", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

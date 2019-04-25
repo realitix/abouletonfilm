@@ -1,1 +1,0 @@
-{"tmdb_id": 325633, "title": "Calle 13 - Sin Mapa", "original_title": "Calle 13 - Sin Mapa", "slug_title": "calle-13-sin-mapa", "date": "2009-07-28", "genre": "Histoire / Documentaire / Musique", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jzclKb4axdKy8oJW8L60S9bLxzB.jpg", "actors": [], "comments": [], "recommandations_id": []}

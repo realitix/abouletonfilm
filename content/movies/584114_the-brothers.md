@@ -1,1 +1,0 @@
-{"tmdb_id": 584114, "title": "The Brothers", "original_title": "The Brothers", "slug_title": "the-brothers", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/okEVEPj9RlrbBgp8xb9Ci9dTZKx.jpg", "actors": [], "comments": [], "recommandations_id": []}

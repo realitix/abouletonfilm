@@ -1,1 +1,0 @@
-{"tmdb_id": 387159, "title": "Hitlers Sonderauftrag Linz", "original_title": "Hitlers Sonderauftrag Linz", "slug_title": "hitlers-sonderauftrag-linz", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

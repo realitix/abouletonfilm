@@ -1,1 +1,0 @@
-{"tmdb_id": 444710, "title": "What Makes a Good Party?", "original_title": "What Makes a Good Party?", "slug_title": "what-makes-a-good-party", "date": "1950-01-01", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nucoWh8ysSePlJLzuITZmrZW0Ax.jpg", "actors": [], "comments": [], "recommandations_id": []}

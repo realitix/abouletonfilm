@@ -1,1 +1,0 @@
-{"tmdb_id": 571688, "title": "An Idle Mind is the Devil's Playground", "original_title": "An Idle Mind is the Devil's Playground", "slug_title": "an-idle-mind-is-the-devil-s-playground", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

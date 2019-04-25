@@ -1,1 +1,0 @@
-{"tmdb_id": 489047, "title": "Historia de una madre", "original_title": "Historia de una madre", "slug_title": "historia-de-una-madre", "date": "2003-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/je9m4Oy6UKcSDbGDcGJ3innVmGc.jpg", "actors": [], "comments": [], "recommandations_id": []}

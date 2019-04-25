@@ -1,1 +1,0 @@
-{"tmdb_id": 372291, "title": "Woodstock: Now & Then", "original_title": "Woodstock: Now & Then", "slug_title": "woodstock-now-then", "date": "2009-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

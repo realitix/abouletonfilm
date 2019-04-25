@@ -1,1 +1,0 @@
-{"tmdb_id": 361060, "title": "CarFree: Stories from the Non-Driving Life", "original_title": "CarFree: Stories from the Non-Driving Life", "slug_title": "carfree-stories-from-the-non-driving-life", "date": "2015-01-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

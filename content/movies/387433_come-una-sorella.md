@@ -1,1 +1,0 @@
-{"tmdb_id": 387433, "title": "Come una sorella", "original_title": "Come una sorella", "slug_title": "come-una-sorella", "date": "1912-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Giovanni Casaleggio ()", "Berta Nelson ()", "Lidia Quaranta ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 224400, "title": "Champion Hill", "original_title": "Champion Hill", "slug_title": "champion-hill", "date": "2002-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cXKreD6aZ7vlpV0BQGiCyt5tdbu.jpg", "actors": [], "comments": [], "recommandations_id": []}

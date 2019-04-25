@@ -1,1 +1,0 @@
-{"tmdb_id": 528908, "title": "O Projeto do Meu Pai", "original_title": "O Projeto do Meu Pai", "slug_title": "o-projeto-do-meu-pai", "date": "2016-01-01", "genre": "Animation / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q3aN0BEYm8SB4Y6WRZLtY7cqViz.jpg", "actors": [], "comments": [], "recommandations_id": []}

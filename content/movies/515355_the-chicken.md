@@ -1,1 +1,0 @@
-{"tmdb_id": 515355, "title": "The Chicken", "original_title": "The Chicken", "slug_title": "the-chicken", "date": "1953-10-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ingrid Bergman (Self)"], "comments": [], "recommandations_id": []}

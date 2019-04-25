@@ -1,1 +1,0 @@
-{"tmdb_id": 517419, "title": "Salvatore", "original_title": "Salvatore", "slug_title": "salvatore", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hCUHBJxifJtHtO2FtoMHbChE0Xi.jpg", "actors": [], "comments": [], "recommandations_id": []}

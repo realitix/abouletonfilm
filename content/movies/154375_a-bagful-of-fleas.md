@@ -1,1 +1,0 @@
-{"tmdb_id": 154375, "title": "A Bagful of Fleas", "original_title": "Pytel blech", "slug_title": "a-bagful-of-fleas", "date": "1962-01-01", "genre": "Drame", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ud7miLVCNMTyvmo4f0Zv1V6Qkzh.jpg", "actors": [], "comments": [], "recommandations_id": []}

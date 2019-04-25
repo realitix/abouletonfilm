@@ -1,1 +1,0 @@
-{"tmdb_id": 252614, "title": "Longing for Beauty", "original_title": "Longing for Beauty - Sehnsucht nach Sch\u00f6nheit", "slug_title": "longing-for-beauty", "date": "2010-10-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

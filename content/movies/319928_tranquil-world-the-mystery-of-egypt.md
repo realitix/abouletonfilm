@@ -1,1 +1,0 @@
-{"tmdb_id": 319928, "title": "Tranquil World: The Mystery of Egypt", "original_title": "Tranquil World: The Mystery of Egypt", "slug_title": "tranquil-world-the-mystery-of-egypt", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

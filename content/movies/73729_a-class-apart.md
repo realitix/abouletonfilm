@@ -1,1 +1,0 @@
-{"tmdb_id": 73729, "title": "A Class Apart", "original_title": "A Class Apart", "slug_title": "a-class-apart", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

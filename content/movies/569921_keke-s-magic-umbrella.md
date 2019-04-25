@@ -1,1 +1,0 @@
-{"tmdb_id": 569921, "title": "Keke's Magic Umbrella", "original_title": "Keke's Magic Umbrella", "slug_title": "keke-s-magic-umbrella", "date": "2000-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/myI4KiIYACWp61HPzZMrMaKat9P.jpg", "actors": [], "comments": [], "recommandations_id": []}

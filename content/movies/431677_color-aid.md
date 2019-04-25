@@ -1,1 +1,0 @@
-{"tmdb_id": 431677, "title": "Color Aid", "original_title": "Color Aid", "slug_title": "color-aid", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Serra ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 93486, "title": "Adaptive Handgun", "original_title": "Adaptive Handgun", "slug_title": "adaptive-handgun", "date": "2011-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w8Kc2bTRbq57VbmeAEeUft9llf9.jpg", "actors": ["Travis Haley (Himself)"], "comments": [], "recommandations_id": []}

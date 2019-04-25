@@ -1,1 +1,0 @@
-{"tmdb_id": 360560, "title": "The Classic Project Vol. 9", "original_title": "The Classic Project Vol. 9", "slug_title": "the-classic-project-vol-9", "date": "2009-12-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z2Yp8j64xVSaLLgd3xV072YxoZG.jpg", "actors": [], "comments": [], "recommandations_id": []}

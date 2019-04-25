@@ -1,1 +1,0 @@
-{"tmdb_id": 226215, "title": "The Pottery Makers", "original_title": "Ceramiqueros de Traslasierra", "slug_title": "the-pottery-makers", "date": "1965-06-07", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6XkDPqy2h62Vunzw1VHOuJY6zpq.jpg", "actors": [], "comments": [], "recommandations_id": []}

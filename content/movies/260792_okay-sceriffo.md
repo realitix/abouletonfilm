@@ -1,1 +1,0 @@
-{"tmdb_id": 260792, "title": "Okay sceriffo", "original_title": "Okay sceriffo", "slug_title": "okay-sceriffo", "date": "1964-01-01", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

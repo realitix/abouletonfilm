@@ -1,1 +1,0 @@
-{"tmdb_id": 579683, "title": "La mondana nuda", "original_title": "La mondana nuda", "slug_title": "la-mondana-nuda", "date": "1980-01-01", "genre": "Action / Crime / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Harrison ()", "Malisa Longo ()", "Karin Well ()"], "comments": [], "recommandations_id": []}

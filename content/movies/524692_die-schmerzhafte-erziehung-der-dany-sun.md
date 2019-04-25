@@ -1,1 +1,0 @@
-{"tmdb_id": 524692, "title": "Die schmerzhafte Erziehung der Dany Sun", "original_title": "Die schmerzhafte Erziehung der Dany Sun", "slug_title": "die-schmerzhafte-erziehung-der-dany-sun", "date": "2011-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

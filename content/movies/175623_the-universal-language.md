@@ -1,1 +1,0 @@
-{"tmdb_id": 175623, "title": "The Universal Language", "original_title": "The Universal Language", "slug_title": "the-universal-language", "date": "2011-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8yCel1PN73iHLnwvTzbhVunnn0y.jpg", "actors": [], "comments": [], "recommandations_id": []}

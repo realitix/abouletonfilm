@@ -1,1 +1,0 @@
-{"tmdb_id": 516032, "title": "Shameless", "original_title": "Shameless", "slug_title": "shameless", "date": "1970-01-26", "genre": "Animation / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 586570, "title": "The Words", "original_title": "The Words", "slug_title": "the-words", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3onk7W7z1DJ9MQUIivLqdrnIbuj.jpg", "actors": ["Molly Windsor (Girl)"], "comments": [], "recommandations_id": []}

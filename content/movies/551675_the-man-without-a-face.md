@@ -1,1 +1,0 @@
-{"tmdb_id": 551675, "title": "The Man Without a Face", "original_title": "\u010covjek bez lica", "slug_title": "the-man-without-a-face", "date": "1961-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

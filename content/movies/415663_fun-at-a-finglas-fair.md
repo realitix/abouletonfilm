@@ -1,1 +1,0 @@
-{"tmdb_id": 415663, "title": "Fun at a Finglas Fair", "original_title": "Fun at a Finglas Fair", "slug_title": "fun-at-a-finglas-fair", "date": "1916-04-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

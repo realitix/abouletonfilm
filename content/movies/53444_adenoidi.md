@@ -1,1 +1,0 @@
-{"tmdb_id": 53444, "title": "Adenoidi", "original_title": "Adenoidi", "slug_title": "adenoidi", "date": "2003-11-13", "genre": "", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ksph5XuOQDvksWwYUp8eIe3e1uE.jpg", "actors": ["Daniele Luttazzi (Star)"], "comments": [], "recommandations_id": []}

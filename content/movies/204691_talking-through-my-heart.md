@@ -1,1 +1,0 @@
-{"tmdb_id": 204691, "title": "Talking Through My Heart", "original_title": "Talking Through My Heart", "slug_title": "talking-through-my-heart", "date": "1936-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

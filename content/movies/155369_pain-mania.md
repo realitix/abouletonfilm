@@ -1,1 +1,0 @@
-{"tmdb_id": 155369, "title": "Pain Mania", "original_title": "Pain Mania", "slug_title": "pain-mania", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ssVx67OdZnZ4CvzLq4cJX9iGRWy.jpg", "actors": [], "comments": [], "recommandations_id": []}

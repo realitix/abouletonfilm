@@ -1,1 +1,0 @@
-{"tmdb_id": 340267, "title": "Because", "original_title": "Because", "slug_title": "because", "date": "2002-01-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

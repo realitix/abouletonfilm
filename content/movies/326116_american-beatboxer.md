@@ -1,1 +1,0 @@
-{"tmdb_id": 326116, "title": "American Beatboxer", "original_title": "American Beatboxer", "slug_title": "american-beatboxer", "date": "2013-05-05", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dFyQI7KbSETZtTwV7nRPrgJGCvB.jpg", "actors": [], "comments": [], "recommandations_id": []}

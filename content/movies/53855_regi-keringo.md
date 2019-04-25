@@ -1,1 +1,0 @@
-{"tmdb_id": 53855, "title": "R\u00e9gi kering\u0151", "original_title": "R\u00e9gi kering\u0151", "slug_title": "regi-keringo", "date": "1941-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

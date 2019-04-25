@@ -1,1 +1,0 @@
-{"tmdb_id": 301160, "title": "Champion Sheene", "original_title": "Champion Sheene", "slug_title": "champion-sheene", "date": "2003-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

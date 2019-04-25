@@ -1,1 +1,0 @@
-{"tmdb_id": 368234, "title": "The Father Clements Story", "original_title": "The Father Clements Story", "slug_title": "the-father-clements-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

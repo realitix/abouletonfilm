@@ -1,1 +1,0 @@
-{"tmdb_id": 516853, "title": "Internet Love", "original_title": "Internet Love", "slug_title": "internet-love", "date": "1998-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

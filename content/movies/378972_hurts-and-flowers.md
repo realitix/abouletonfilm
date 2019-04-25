@@ -1,1 +1,0 @@
-{"tmdb_id": 378972, "title": "Hurts and Flowers", "original_title": "Hurts and Flowers", "slug_title": "hurts-and-flowers", "date": "1969-02-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bKWAfnUn7lJaGsG0OIF8b8ntXuT.jpg", "actors": [], "comments": [], "recommandations_id": []}

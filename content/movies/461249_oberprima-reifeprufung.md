@@ -1,1 +1,0 @@
-{"tmdb_id": 461249, "title": "Oberprima Reifepr\u00fcfung", "original_title": "Oberprima Reifepr\u00fcfung", "slug_title": "oberprima-reifeprufung", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jnw5nLpJ0RT8Wme68W4sbbL5ixX.jpg", "actors": [], "comments": [], "recommandations_id": []}

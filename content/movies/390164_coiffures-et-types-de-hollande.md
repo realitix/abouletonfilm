@@ -1,1 +1,0 @@
-{"tmdb_id": 390164, "title": "Coiffures et types de Hollande", "original_title": "Coiffures et types de Hollande", "slug_title": "coiffures-et-types-de-hollande", "date": "1909-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

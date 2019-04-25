@@ -1,1 +1,0 @@
-{"tmdb_id": 376885, "title": "The Grey Man", "original_title": "The Grey Man", "slug_title": "the-grey-man", "date": "2007-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/I53JPBWVqbFV0f2PGHGE2byF3s.jpg", "actors": ["Patrick Bauchau (Albert Fish)"], "comments": [], "recommandations_id": []}

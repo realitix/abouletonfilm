@@ -1,1 +1,0 @@
-{"tmdb_id": 588597, "title": "30 million letters", "original_title": "30 million letters", "slug_title": "30-million-letters", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

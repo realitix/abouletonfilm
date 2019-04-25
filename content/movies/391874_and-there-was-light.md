@@ -1,1 +1,0 @@
-{"tmdb_id": 391874, "title": "\u2026And There Was Light", "original_title": "\u2026And There Was Light", "slug_title": "and-there-was-light", "date": "1973-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

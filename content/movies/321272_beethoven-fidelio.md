@@ -1,1 +1,0 @@
-{"tmdb_id": 321272, "title": "Beethoven: Fidelio", "original_title": "Beethoven: Fidelio", "slug_title": "beethoven-fidelio", "date": "1999-01-01", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

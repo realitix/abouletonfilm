@@ -1,1 +1,0 @@
-{"tmdb_id": 292297, "title": "Medieval Warfare: The Crusades", "original_title": "Medieval Warfare: The Crusades", "slug_title": "medieval-warfare-the-crusades", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

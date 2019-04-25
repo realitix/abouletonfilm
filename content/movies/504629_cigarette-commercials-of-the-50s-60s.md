@@ -1,1 +1,0 @@
-{"tmdb_id": 504629, "title": "Cigarette Commercials Of The 50s & 60s", "original_title": "Cigarette Commercials Of The 50s & 60s", "slug_title": "cigarette-commercials-of-the-50s-60s", "date": "2010-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 350055, "title": "An Angry Man", "original_title": "En Vred Mand", "slug_title": "an-angry-man", "date": "2015-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wYA97RbQNpMkqQ83xdBVJADfp1a.jpg", "actors": [], "comments": [], "recommandations_id": []}

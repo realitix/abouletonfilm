@@ -1,1 +1,0 @@
-{"tmdb_id": 533881, "title": "Loser Family", "original_title": "\u5931\u696d\u9663\u7dda\u806f\u76df", "slug_title": "loser-family", "date": "2018-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jYpbAIdl78CQwb1iP78NUAnlpXo.jpg", "actors": [], "comments": [], "recommandations_id": []}

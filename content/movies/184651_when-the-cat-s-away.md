@@ -1,1 +1,0 @@
-{"tmdb_id": 184651, "title": "When the Cat's Away", "original_title": "When the Cat's Away", "slug_title": "when-the-cat-s-away", "date": "1935-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lazKwrUsrzhyffnpwvbahMXdPly.jpg", "actors": [], "comments": [], "recommandations_id": []}

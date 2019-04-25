@@ -1,1 +1,0 @@
-{"tmdb_id": 275480, "title": "The Mythical Detective Loki", "original_title": "The Mythical Detective Loki", "slug_title": "the-mythical-detective-loki", "date": "2013-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

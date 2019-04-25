@@ -1,1 +1,1 @@
-{"tmdb_id": 508087, "title": "\u00c9 Candeia", "original_title": "\u00c9 Candeia", "slug_title": "e-candeia", "date": "2010-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 508087, "title": "\u00c9 Candeia", "original_title": "\u00c9 Candeia", "slug_title": "e-candeia", "date": "2010-09-27", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

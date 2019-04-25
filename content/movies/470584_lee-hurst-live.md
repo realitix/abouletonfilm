@@ -1,1 +1,0 @@
-{"tmdb_id": 470584, "title": "Lee Hurst: Live", "original_title": "Lee Hurst: Live", "slug_title": "lee-hurst-live", "date": "2000-11-03", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fh5JeQbNwAaADoBmmJkPGLzrB6f.jpg", "actors": ["Lee Hurst (Himself)"], "comments": [], "recommandations_id": []}

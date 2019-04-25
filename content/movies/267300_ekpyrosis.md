@@ -1,1 +1,0 @@
-{"tmdb_id": 267300, "title": "Ekpyrosis", "original_title": "Ekpyrosis", "slug_title": "ekpyrosis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

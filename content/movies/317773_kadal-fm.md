@@ -1,1 +1,0 @@
-{"tmdb_id": 317773, "title": "Kadal FM", "original_title": "Kadal FM", "slug_title": "kadal-fm", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

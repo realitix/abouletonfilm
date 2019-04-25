@@ -1,1 +1,0 @@
-{"tmdb_id": 449929, "title": "12th and Clairmount", "original_title": "12th and Clairmount", "slug_title": "12th-and-clairmount", "date": "2017-03-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hglH0uo1n0lqpTtF6HztRaYJEAW.jpg", "actors": [], "comments": [], "recommandations_id": []}

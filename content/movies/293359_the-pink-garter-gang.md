@@ -1,1 +1,0 @@
-{"tmdb_id": 293359, "title": "The Pink Garter Gang", "original_title": "The Pink Garter Gang", "slug_title": "the-pink-garter-gang", "date": "1971-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fGaCqc573l7Es8CpCf1uqFQaP8f.jpg", "actors": [], "comments": [], "recommandations_id": []}

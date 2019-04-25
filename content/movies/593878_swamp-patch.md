@@ -1,1 +1,0 @@
-{"tmdb_id": 593878, "title": "Swamp Patch", "original_title": "Kangkungan", "slug_title": "swamp-patch", "date": "2019-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nDSga20qaRk0MKqRSsTVhsX8PoV.jpg", "actors": ["Rodrigo R. Duterte (Himself)"], "comments": [], "recommandations_id": []}

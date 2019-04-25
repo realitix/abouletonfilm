@@ -1,1 +1,0 @@
-{"tmdb_id": 556162, "title": "Living. Loving.", "original_title": "Leva. \u00c4lska.", "slug_title": "living-loving", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

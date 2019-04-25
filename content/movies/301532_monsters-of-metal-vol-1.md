@@ -1,1 +1,0 @@
-{"tmdb_id": 301532, "title": "Monsters of Metal Vol. 1", "original_title": "Monsters of Metal Vol. 1", "slug_title": "monsters-of-metal-vol-1", "date": "2003-11-07", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bTSXoiAGmBhc2xj50ln5zsf3VXo.jpg", "actors": [], "comments": [], "recommandations_id": []}

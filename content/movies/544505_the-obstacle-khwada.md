@@ -1,1 +1,0 @@
-{"tmdb_id": 544505, "title": "The Obstacle (Khwada)", "original_title": "\u0916\u094d\u0935\u093e\u0921\u093e", "slug_title": "the-obstacle-khwada", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hHL0yPoVdNjHUUT034GjLvUBJi1.jpg", "actors": [], "comments": [], "recommandations_id": []}

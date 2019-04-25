@@ -1,1 +1,0 @@
-{"tmdb_id": 370012, "title": "Intensity", "original_title": "Sidhi", "slug_title": "intensity", "date": "1999-02-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nora Aunor ()", "Albert Martinez ()", "Glydel Mercado ()", "Samantha Lopez ()"], "comments": [], "recommandations_id": []}

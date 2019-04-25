@@ -1,1 +1,0 @@
-{"tmdb_id": 281893, "title": "Slagterboderne (\"Maven\")", "original_title": "Slagterboderne (\"Maven\")", "slug_title": "slagterboderne-maven", "date": "1913-01-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

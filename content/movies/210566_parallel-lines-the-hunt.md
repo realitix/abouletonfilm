@@ -1,1 +1,0 @@
-{"tmdb_id": 210566, "title": "Parallel Lines: The Hunt", "original_title": "Parallel Lines: The Hunt", "slug_title": "parallel-lines-the-hunt", "date": "2010-04-08", "genre": "Horreur", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luke Coffee (Hunter)"], "comments": [], "recommandations_id": []}

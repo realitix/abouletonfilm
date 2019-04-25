@@ -1,1 +1,0 @@
-{"tmdb_id": 408057, "title": "Novel City", "original_title": "Novel City", "slug_title": "novel-city", "date": "2008-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3VG0eg5zFP9pZH9vBB7HbB8a4Fa.jpg", "actors": [], "comments": [], "recommandations_id": []}

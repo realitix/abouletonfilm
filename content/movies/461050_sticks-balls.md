@@ -1,1 +1,0 @@
-{"tmdb_id": 461050, "title": "Sticks & Balls", "original_title": "Sticks & Balls", "slug_title": "sticks-balls", "date": "2007-01-01", "genre": "Musique / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hJ7CvVZgPkITEiXVynjgaukjVXi.jpg", "actors": ["Alice Lowe (Kitty Litta)"], "comments": [], "recommandations_id": []}

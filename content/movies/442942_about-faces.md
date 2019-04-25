@@ -1,1 +1,0 @@
-{"tmdb_id": 442942, "title": "About Faces", "original_title": "About Faces", "slug_title": "about-faces", "date": "1941-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lowell Thomas (Narrator)"], "comments": [], "recommandations_id": []}

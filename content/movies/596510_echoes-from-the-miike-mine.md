@@ -1,1 +1,0 @@
-{"tmdb_id": 596510, "title": "Echoes from the Miike Mine", "original_title": "Echoes from the Miike Mine", "slug_title": "echoes-from-the-miike-mine", "date": "2006-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 582743, "title": "Omarska", "original_title": "Omarska", "slug_title": "omarska", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

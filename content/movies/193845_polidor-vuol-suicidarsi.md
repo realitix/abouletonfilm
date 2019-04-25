@@ -1,1 +1,0 @@
-{"tmdb_id": 193845, "title": "Polidor vuol suicidarsi", "original_title": "Polidor vuol suicidarsi", "slug_title": "polidor-vuol-suicidarsi", "date": "1912-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Polidor ()"], "comments": [], "recommandations_id": []}

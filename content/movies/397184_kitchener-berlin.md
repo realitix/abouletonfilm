@@ -1,1 +1,0 @@
-{"tmdb_id": 397184, "title": "Kitchener-Berlin", "original_title": "Kitchener-Berlin", "slug_title": "kitchener-berlin", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b7BnEhchgeYPNeTNWgSc6ZTHhEs.jpg", "actors": [], "comments": [], "recommandations_id": []}

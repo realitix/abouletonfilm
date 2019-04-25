@@ -1,1 +1,0 @@
-{"tmdb_id": 272938, "title": "Attack on the Pacific", "original_title": "Attack on the Pacific", "slug_title": "attack-on-the-pacific", "date": "1941-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

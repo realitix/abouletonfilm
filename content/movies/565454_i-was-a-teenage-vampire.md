@@ -1,1 +1,0 @@
-{"tmdb_id": 565454, "title": "I Was a Teenage Vampire", "original_title": "I Was a Teenage Vampire", "slug_title": "i-was-a-teenage-vampire", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hKMIdvMFuPp8pflism1NGgCNDpw.jpg", "actors": [], "comments": [], "recommandations_id": []}

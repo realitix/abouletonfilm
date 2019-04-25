@@ -1,1 +1,0 @@
-{"tmdb_id": 567282, "title": "Bar Yohai", "original_title": "Bar Yohai", "slug_title": "bar-yohai", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

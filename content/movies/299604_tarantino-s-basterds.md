@@ -1,1 +1,0 @@
-{"tmdb_id": 299604, "title": "Tarantino's Basterds", "original_title": "Tarantino's Basterds", "slug_title": "tarantino-s-basterds", "date": "2009-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

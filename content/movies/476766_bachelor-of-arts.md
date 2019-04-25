@@ -1,1 +1,0 @@
-{"tmdb_id": 476766, "title": "Bachelor of Arts", "original_title": "Bachelor of Arts", "slug_title": "bachelor-of-arts", "date": "1934-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

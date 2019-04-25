@@ -1,1 +1,0 @@
-{"tmdb_id": 436416, "title": "Letters from China", "original_title": "Letters from China", "slug_title": "letters-from-china", "date": "1983-04-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zfQRjfrF4qpYhk6qEje45jbOqwi.jpg", "actors": ["Tieli Xie (Narrator)"], "comments": [], "recommandations_id": []}

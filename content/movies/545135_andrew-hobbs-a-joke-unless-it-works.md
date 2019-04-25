@@ -1,1 +1,0 @@
-{"tmdb_id": 545135, "title": "Andrew Hobbs: A Joke Unless it Works", "original_title": "Andrew Hobbs: A Joke Unless it Works", "slug_title": "andrew-hobbs-a-joke-unless-it-works", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

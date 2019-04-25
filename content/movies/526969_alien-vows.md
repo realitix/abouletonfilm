@@ -1,1 +1,0 @@
-{"tmdb_id": 526969, "title": "Alien Vows", "original_title": "Alien Vows", "slug_title": "alien-vows", "date": "1996-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bill Cook (Lucas)"], "comments": [], "recommandations_id": []}

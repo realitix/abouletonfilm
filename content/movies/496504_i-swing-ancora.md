@@ -1,1 +1,0 @@
-{"tmdb_id": 496504, "title": "I swing ancora", "original_title": "I swing ancora", "slug_title": "i-swing-ancora", "date": "2004-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7BFLgeQfWMrxFo8x0Tyc4s6Wbki.jpg", "actors": ["Nicola Arigliano ()", "Enrico Rava ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 417346, "title": "Lovers in the Rain", "original_title": "\ube57\uc18d\uc758 \uc5f0\uc778\ub4e4", "slug_title": "lovers-in-the-rain", "date": "1976-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kim Choo-ryeon ()"], "comments": [], "recommandations_id": []}

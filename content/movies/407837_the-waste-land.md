@@ -1,1 +1,0 @@
-{"tmdb_id": 407837, "title": "The Waste Land", "original_title": "The Waste Land", "slug_title": "the-waste-land", "date": "1989-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gPvmUPI73T8rguPnTjUrPQiLgCn.jpg", "actors": [], "comments": [], "recommandations_id": []}

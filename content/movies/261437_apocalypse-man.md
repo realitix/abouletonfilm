@@ -1,1 +1,0 @@
-{"tmdb_id": 261437, "title": "Apocalypse, Man", "original_title": "Apocalypse, Man", "slug_title": "apocalypse-man", "date": "2014-01-14", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uYTKCdW5NwSM98E8t1AzOmVaKMW.jpg", "actors": ["Michael Ruppert ()"], "comments": [], "recommandations_id": []}

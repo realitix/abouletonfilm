@@ -1,1 +1,0 @@
-{"tmdb_id": 166318, "title": "Wise Flies", "original_title": "Wise Flies", "slug_title": "wise-flies", "date": "1930-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

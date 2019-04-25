@@ -1,1 +1,0 @@
-{"tmdb_id": 361994, "title": "David Ortiz: In the Moment", "original_title": "David Ortiz: In the Moment", "slug_title": "david-ortiz-in-the-moment", "date": "2014-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

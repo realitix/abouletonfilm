@@ -1,1 +1,0 @@
-{"tmdb_id": 288393, "title": "My Lucid Dungeon", "original_title": "My Lucid Dungeon", "slug_title": "my-lucid-dungeon", "date": "2014-04-15", "genre": "Horreur / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

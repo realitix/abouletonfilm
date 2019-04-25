@@ -1,1 +1,0 @@
-{"tmdb_id": 535154, "title": "Tunnel Vision SKANDINAVIA", "original_title": "Tunnel Vision SKANDINAVIA", "slug_title": "tunnel-vision-skandinavia", "date": "2018-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bSJoG0jAdDy23FzJCk47wHJV86K.jpg", "actors": [], "comments": [], "recommandations_id": []}

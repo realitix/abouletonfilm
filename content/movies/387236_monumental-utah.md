@@ -1,1 +1,0 @@
-{"tmdb_id": 387236, "title": "Monumental Utah", "original_title": "Monumental Utah", "slug_title": "monumental-utah", "date": "1944-07-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Krev3c0JKitIQdQ1zy4dd3RYbI.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

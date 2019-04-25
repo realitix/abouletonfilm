@@ -1,1 +1,0 @@
-{"tmdb_id": 274660, "title": "Waitresses: Live at Hurrah", "original_title": "Waitresses: Live at Hurrah", "slug_title": "waitresses-live-at-hurrah", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

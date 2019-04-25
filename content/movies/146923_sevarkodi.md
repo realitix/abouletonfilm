@@ -1,1 +1,0 @@
-{"tmdb_id": 146923, "title": "Sevarkodi", "original_title": "Sevarkodi", "slug_title": "sevarkodi", "date": "2012-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

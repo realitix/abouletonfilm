@@ -1,1 +1,0 @@
-{"tmdb_id": 544405, "title": "Give Me Cinema or Give Me Death", "original_title": "Give Me Cinema or Give Me Death", "slug_title": "give-me-cinema-or-give-me-death", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

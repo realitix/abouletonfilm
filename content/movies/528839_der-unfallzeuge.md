@@ -1,1 +1,0 @@
-{"tmdb_id": 528839, "title": "Der Unfallzeuge", "original_title": "Der Unfallzeuge", "slug_title": "der-unfallzeuge", "date": "1971-11-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Otto Mellies (Arnold Shawn)", "Gisela May (Naomi Shawn)", "Peter Reusse (Kenneth Jerome)"], "comments": [], "recommandations_id": []}

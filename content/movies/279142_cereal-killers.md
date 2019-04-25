@@ -1,1 +1,0 @@
-{"tmdb_id": 279142, "title": "Cereal Killers", "original_title": "Cereal Killers", "slug_title": "cereal-killers", "date": "2013-12-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/haTXBsAZNWvjmmVfHvsq5MbDwOV.jpg", "actors": ["Donal O'Neill (Himself)"], "comments": [], "recommandations_id": []}

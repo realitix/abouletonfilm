@@ -1,1 +1,0 @@
-{"tmdb_id": 162246, "title": "Aerosmith: Live", "original_title": "Aerosmith: Live", "slug_title": "aerosmith-live", "date": "2006-12-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bAjMTEF34dFMzM99Je1yzQx6Cq6.jpg", "actors": [], "comments": [], "recommandations_id": []}

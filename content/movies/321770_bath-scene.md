@@ -1,1 +1,0 @@
-{"tmdb_id": 321770, "title": "Bath Scene", "original_title": "Bath Scene", "slug_title": "bath-scene", "date": "1897-01-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

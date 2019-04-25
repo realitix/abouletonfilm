@@ -1,1 +1,0 @@
-{"tmdb_id": 174972, "title": "Dew Drop Inn", "original_title": "Dew Drop Inn", "slug_title": "dew-drop-inn", "date": "1919-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Semon (Larry, the Detective)"], "comments": [], "recommandations_id": []}

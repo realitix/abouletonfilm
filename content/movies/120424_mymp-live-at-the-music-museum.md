@@ -1,1 +1,0 @@
-{"tmdb_id": 120424, "title": "MYMP: Live at the Music Museum", "original_title": "MYMP: Live at the Music Museum", "slug_title": "mymp-live-at-the-music-museum", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

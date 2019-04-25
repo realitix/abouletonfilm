@@ -1,1 +1,0 @@
-{"tmdb_id": 436888, "title": "Kornfeld & Wiese", "original_title": "Kornfeld & Wiese", "slug_title": "kornfeld-wiese", "date": "2013-01-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vgjxHgbuuexIIemSrvnzi48uutS.jpg", "actors": ["Benno F\u00fcrmann (voice)"], "comments": [], "recommandations_id": []}

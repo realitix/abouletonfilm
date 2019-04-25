@@ -1,1 +1,0 @@
-{"tmdb_id": 416391, "title": "L.A. \ud31c\ubbc0\ud30c\ud0c8", "original_title": "L.A. \ud31c\ubbc0\ud30c\ud0c8", "slug_title": "l-a-pammeupatal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

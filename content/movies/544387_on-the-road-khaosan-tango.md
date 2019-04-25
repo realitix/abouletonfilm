@@ -1,1 +1,0 @@
-{"tmdb_id": 544387, "title": "On the Road, Khaosan Tango", "original_title": "\uce74\uc624\uc0b0 \ud0f1\uace0", "slug_title": "on-the-road-khaosan-tango", "date": "2018-05-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cEXDMXM9L88tyhLc2hguoaijgr3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 453532, "title": "Alageyik", "original_title": "Alageyik", "slug_title": "alageyik", "date": "1969-04-01", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["C\u00fcneyt Ark\u0131n (Halil)", "Mine Mutlu (Zeynep)"], "comments": [], "recommandations_id": []}

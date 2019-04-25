@@ -1,1 +1,0 @@
-{"tmdb_id": 432920, "title": "Dogumentary: England Is Mine", "original_title": "Dogumentary: England Is Mine", "slug_title": "dogumentary-england-is-mine", "date": "2003-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

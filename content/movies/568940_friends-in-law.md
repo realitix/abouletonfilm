@@ -1,1 +1,0 @@
-{"tmdb_id": 568940, "title": "Friends in Law", "original_title": "Friends in Law", "slug_title": "friends-in-law", "date": "2018-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nAqYuGbFqwvRHTV6J7eQXHyRPIZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

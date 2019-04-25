@@ -1,1 +1,0 @@
-{"tmdb_id": 538283, "title": "Small Town Blues", "original_title": "Small Town Blues", "slug_title": "small-town-blues", "date": "2018-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vjl9mPYt162XjlXmonc8qZE6jAl.jpg", "actors": [], "comments": [], "recommandations_id": []}

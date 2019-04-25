@@ -1,1 +1,0 @@
-{"tmdb_id": 556278, "title": "La justici\u00e8re", "original_title": "La justici\u00e8re", "slug_title": "la-justiciere", "date": "1925-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

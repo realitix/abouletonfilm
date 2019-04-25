@@ -1,1 +1,0 @@
-{"tmdb_id": 584962, "title": "Between Two Ferns: The Movie", "original_title": "Between Two Ferns: The Movie", "slug_title": "between-two-ferns-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zach Galifianakis (Zach Galifianakis)"], "comments": [], "recommandations_id": []}

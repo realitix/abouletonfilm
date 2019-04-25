@@ -1,1 +1,0 @@
-{"tmdb_id": 235125, "title": "Mouseum", "original_title": "Mouseum", "slug_title": "mouseum", "date": "1956-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

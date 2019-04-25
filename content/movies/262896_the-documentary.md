@@ -1,1 +1,0 @@
-{"tmdb_id": 262896, "title": "The Documentary", "original_title": "The Documentary", "slug_title": "the-documentary", "date": "2011-03-13", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ggluq9849VxP3JUFnGZ2pWYHtX.jpg", "actors": ["Kain Carter (Kain Carter)"], "comments": [], "recommandations_id": []}

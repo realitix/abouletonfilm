@@ -1,1 +1,0 @@
-{"tmdb_id": 335237, "title": "Stunde X", "original_title": "Stunde X", "slug_title": "stunde-x", "date": "1959-06-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 309396, "title": "Eddie Ojeda: Twisted Method", "original_title": "Eddie Ojeda: Twisted Method", "slug_title": "eddie-ojeda-twisted-method", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

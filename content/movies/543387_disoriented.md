@@ -1,1 +1,0 @@
-{"tmdb_id": 543387, "title": "Disoriented", "original_title": "Disoriented", "slug_title": "disoriented", "date": "1999-03-07", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 388494, "title": "WHIH: NEWSFRONT Promo - July 2, 2015", "original_title": "WHIH: NEWSFRONT Promo - July 2, 2015", "slug_title": "whih-newsfront-promo-july-2-2015", "date": "2015-07-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

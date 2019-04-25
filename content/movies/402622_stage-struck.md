@@ -1,1 +1,0 @@
-{"tmdb_id": 402622, "title": "Stage Struck", "original_title": "Stage Struck", "slug_title": "stage-struck", "date": "1950-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

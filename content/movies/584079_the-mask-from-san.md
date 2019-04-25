@@ -1,1 +1,0 @@
-{"tmdb_id": 584079, "title": "The Mask From San", "original_title": "Le masque de San", "slug_title": "the-mask-from-san", "date": "2015-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p9v26rUJA1Qgz3ndCJYfDlj8HUi.jpg", "actors": [], "comments": [], "recommandations_id": []}

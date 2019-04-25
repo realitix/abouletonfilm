@@ -1,1 +1,0 @@
-{"tmdb_id": 567935, "title": "Ni avec toi, ni sans toi", "original_title": "Ni avec toi, ni sans toi", "slug_title": "ni-avec-toi-ni-sans-toi", "date": "1985-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gyvmuuaDsITTdBLSwPT9hvr6LwG.jpg", "actors": [], "comments": [], "recommandations_id": []}

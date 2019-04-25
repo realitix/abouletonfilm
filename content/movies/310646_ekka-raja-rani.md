@@ -1,1 +1,0 @@
-{"tmdb_id": 310646, "title": "Ekka Raja Rani", "original_title": "Ekka Raja Rani", "slug_title": "ekka-raja-rani", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tQXV8S3pipedy0VtnYbNARoml8g.jpg", "actors": [], "comments": [], "recommandations_id": []}

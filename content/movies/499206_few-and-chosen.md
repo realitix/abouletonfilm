@@ -1,1 +1,0 @@
-{"tmdb_id": 499206, "title": "Few and Chosen", "original_title": "Few and Chosen", "slug_title": "few-and-chosen", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dyNxjlD8mG2WPX1k193UmfmaGVO.jpg", "actors": [], "comments": [], "recommandations_id": []}

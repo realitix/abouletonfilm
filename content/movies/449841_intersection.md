@@ -1,1 +1,0 @@
-{"tmdb_id": 449841, "title": "Intersection", "original_title": "Intersection", "slug_title": "intersection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

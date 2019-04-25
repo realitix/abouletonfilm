@@ -1,1 +1,0 @@
-{"tmdb_id": 250083, "title": "Format Perspective", "original_title": "Format Perspective", "slug_title": "format-perspective", "date": "2011-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uarvK2QjphtMxeTdIVqhKnTJegp.jpg", "actors": [], "comments": [], "recommandations_id": []}

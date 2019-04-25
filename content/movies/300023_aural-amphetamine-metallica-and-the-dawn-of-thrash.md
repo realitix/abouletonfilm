@@ -1,1 +1,0 @@
-{"tmdb_id": 300023, "title": "Aural Amphetamine: Metallica and The Dawn Of Thrash", "original_title": "Aural Amphetamine: Metallica and The Dawn Of Thrash", "slug_title": "aural-amphetamine-metallica-and-the-dawn-of-thrash", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

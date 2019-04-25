@@ -1,1 +1,0 @@
-{"tmdb_id": 274728, "title": "The History Channel: Viet Cong", "original_title": "The History Channel: Viet Cong", "slug_title": "the-history-channel-viet-cong", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

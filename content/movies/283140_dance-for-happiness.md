@@ -1,1 +1,0 @@
-{"tmdb_id": 283140, "title": "Dance for Happiness", "original_title": "\u975e\u5e38\u821e\u8005", "slug_title": "dance-for-happiness", "date": "2013-03-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 299018, "title": "Thumbelina", "original_title": "Thumbelina", "slug_title": "thumbelina", "date": "1970-01-01", "genre": "Familial", "score": "1.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2EWRHLN4YnT5CubaWGcDg9nLcFB.jpg", "actors": ["Shay Garner (Thumbelina)"], "comments": [], "recommandations_id": []}

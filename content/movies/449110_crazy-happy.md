@@ -1,1 +1,0 @@
-{"tmdb_id": 449110, "title": "Crazy Happy", "original_title": "Crazy Happy", "slug_title": "crazy-happy", "date": "2016-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g4qERVw6ZZnwX17pnBvyWL1X7yt.jpg", "actors": ["Alison Davie (Director)"], "comments": [], "recommandations_id": []}

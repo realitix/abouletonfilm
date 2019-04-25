@@ -1,1 +1,0 @@
-{"tmdb_id": 319712, "title": "Gluck: Orfeo & Euridice: San Carlo Opera", "original_title": "Gluck: Orfeo & Euridice: San Carlo Opera", "slug_title": "gluck-orfeo-euridice-san-carlo-opera", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556421, "title": "L'ing\u00e9nu libertin", "original_title": "L'ing\u00e9nu libertin", "slug_title": "l-ingenu-libertin", "date": "1930-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 308028, "title": "Terminal Rage", "original_title": "Terminal Rage", "slug_title": "terminal-rage", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 351484, "title": "Back to the Soil", "original_title": "Back to the Soil", "slug_title": "back-to-the-soil", "date": "1941-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 583650, "title": "Abajo los hombres", "original_title": "Abajo los hombres", "slug_title": "abajo-los-hombres", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 583650, "title": "Abajo los hombres", "original_title": "Abajo los hombres", "slug_title": "abajo-los-hombres", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

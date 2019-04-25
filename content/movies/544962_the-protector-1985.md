@@ -1,1 +1,0 @@
-{"tmdb_id": 544962, "title": "The protector 1985", "original_title": "The protector 1985", "slug_title": "the-protector-1985", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/brZW2pMpOsj65UnQOzj0VsT4rAV.jpg", "actors": [], "comments": [], "recommandations_id": []}

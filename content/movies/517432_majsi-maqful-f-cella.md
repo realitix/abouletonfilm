@@ -1,1 +1,0 @@
-{"tmdb_id": 517432, "title": "Majsi maqful f Cella", "original_title": "Majsi maqful f Cella", "slug_title": "majsi-maqful-f-cella", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o09ct3e8ETGzUm1osVTotTwoRnD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 202947, "title": "The Economics of Happiness", "original_title": "The Economics of Happiness", "slug_title": "the-economics-of-happiness", "date": "2011-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fYxw5pm8bwjwURCkt55UUklUKfb.jpg", "actors": [], "comments": [], "recommandations_id": []}

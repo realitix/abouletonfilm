@@ -1,1 +1,0 @@
-{"tmdb_id": 594828, "title": "Katso ihmist\u00e4", "original_title": "Katso ihmist\u00e4", "slug_title": "katso-ihmista", "date": "1981-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Markku Maalismaa ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 315790, "title": "Goggatjie 3", "original_title": "Goggatjie 3", "slug_title": "goggatjie-3", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sUvCc4TsR7nfZVWEUqf5dmZqVWO.jpg", "actors": [], "comments": [], "recommandations_id": []}

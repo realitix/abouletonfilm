@@ -1,1 +1,0 @@
-{"tmdb_id": 587992, "title": "Men and Jobs", "original_title": "Men and Jobs", "slug_title": "men-and-jobs", "date": "1944-03-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

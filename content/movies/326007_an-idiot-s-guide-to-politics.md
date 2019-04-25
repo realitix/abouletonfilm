@@ -1,1 +1,0 @@
-{"tmdb_id": 326007, "title": "An Idiot's Guide to Politics", "original_title": "An Idiot's Guide to Politics", "slug_title": "an-idiot-s-guide-to-politics", "date": "2015-02-11", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jolyon Rubinstein (Self/Host)"], "comments": [], "recommandations_id": []}

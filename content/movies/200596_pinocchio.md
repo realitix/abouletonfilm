@@ -1,1 +1,0 @@
-{"tmdb_id": 200596, "title": "Pinocchio", "original_title": "Pin\u00f3quio", "slug_title": "pinocchio", "date": "", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

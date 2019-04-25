@@ -1,1 +1,0 @@
-{"tmdb_id": 439422, "title": "Charlemagne", "original_title": "Charlemagne", "slug_title": "charlemagne", "date": "1998-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5QA56Mz5KcBalJKTAlRRkfZgavW.jpg", "actors": [], "comments": [], "recommandations_id": []}

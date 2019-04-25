@@ -1,1 +1,0 @@
-{"tmdb_id": 410987, "title": "Beyond Glory", "original_title": "Beyond Glory", "slug_title": "beyond-glory", "date": "2015-10-14", "genre": "Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tyfzKBWFs42o5Uqoox73iRY3gcR.jpg", "actors": ["Stephen Lang ()"], "comments": [], "recommandations_id": []}

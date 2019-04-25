@@ -1,1 +1,0 @@
-{"tmdb_id": 69408, "title": "Scream Girls", "original_title": "Scream Girls", "slug_title": "scream-girls", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aWH8mEQgMuXd4NaqjQ9RzybY1nz.jpg", "actors": [], "comments": [], "recommandations_id": []}

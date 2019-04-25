@@ -1,1 +1,0 @@
-{"tmdb_id": 221133, "title": "Incident at Vichy", "original_title": "Incident at Vichy", "slug_title": "incident-at-vichy", "date": "1973-12-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9IY4wNHAWIMoWLr4rjeldSqouti.jpg", "actors": [], "comments": [], "recommandations_id": []}

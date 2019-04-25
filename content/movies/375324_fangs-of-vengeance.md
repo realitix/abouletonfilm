@@ -1,1 +1,0 @@
-{"tmdb_id": 375324, "title": "Fangs of Vengeance", "original_title": "Fangs of Vengeance", "slug_title": "fangs-of-vengeance", "date": "1926-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p2MRkcpNnrqBEhILfkNJU4Dk3QP.jpg", "actors": [], "comments": [], "recommandations_id": []}

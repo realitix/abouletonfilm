@@ -1,1 +1,0 @@
-{"tmdb_id": 272029, "title": "Les Malles", "original_title": "Les Malles", "slug_title": "les-malles", "date": "1989-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

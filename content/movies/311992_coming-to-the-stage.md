@@ -1,1 +1,0 @@
-{"tmdb_id": 311992, "title": "Coming to the Stage", "original_title": "Coming to the Stage", "slug_title": "coming-to-the-stage", "date": "2000-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

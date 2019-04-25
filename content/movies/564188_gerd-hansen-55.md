@@ -1,1 +1,0 @@
-{"tmdb_id": 564188, "title": "Gerd Hansen, 55", "original_title": "Gerd Hansen, 55", "slug_title": "gerd-hansen-55", "date": "1987-03-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4zQtL4cLINhDV74GUH6oVN3usUi.jpg", "actors": ["Gerd Hansen (Himself)"], "comments": [], "recommandations_id": []}

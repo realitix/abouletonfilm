@@ -1,1 +1,0 @@
-{"tmdb_id": 556108, "title": "L'ombre du bonheur", "original_title": "L'ombre du bonheur", "slug_title": "l-ombre-du-bonheur", "date": "1924-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

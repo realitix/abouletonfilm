@@ -1,1 +1,0 @@
-{"tmdb_id": 372649, "title": "Giselle", "original_title": "Giselle", "slug_title": "giselle", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Galina Mezentsevia (Giselle)", "Konstantin Zaklinsky (Albrecht)", "Gennadi Selyutsky (Hilarion)", "Tatyana Terekhova (Myrtha)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 307559, "title": "Adolescent", "original_title": "Adolescent", "slug_title": "adolescent", "date": "2014-12-11", "genre": "Musique / Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ilgKdT4U7q4AWGmMcSLIvRIdBwe.jpg", "actors": ["Alex Parish (Himself)"], "comments": [], "recommandations_id": []}

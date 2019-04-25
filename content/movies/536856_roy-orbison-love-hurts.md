@@ -1,1 +1,0 @@
-{"tmdb_id": 536856, "title": "Roy Orbison: Love Hurts", "original_title": "Roy Orbison: Love Hurts", "slug_title": "roy-orbison-love-hurts", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

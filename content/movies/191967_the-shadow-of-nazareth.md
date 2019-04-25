@@ -1,1 +1,0 @@
-{"tmdb_id": 191967, "title": "The Shadow of Nazareth", "original_title": "The Shadow of Nazareth", "slug_title": "the-shadow-of-nazareth", "date": "1913-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

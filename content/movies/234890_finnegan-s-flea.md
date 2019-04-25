@@ -1,1 +1,0 @@
-{"tmdb_id": 234890, "title": "Finnegan's Flea", "original_title": "Finnegan's Flea", "slug_title": "finnegan-s-flea", "date": "1958-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

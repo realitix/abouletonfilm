@@ -1,1 +1,0 @@
-{"tmdb_id": 506422, "title": "The Melody of Thousand Islands", "original_title": "Melodija 1000 otoka", "slug_title": "the-melody-of-thousand-islands", "date": "1931-01-01", "genre": "Musique / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mira Zdravkovi\u0107 ()"], "comments": [], "recommandations_id": []}

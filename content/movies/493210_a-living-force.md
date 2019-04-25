@@ -1,1 +1,0 @@
-{"tmdb_id": 493210, "title": "A living force", "original_title": "Elav j\u00f5ud", "slug_title": "a-living-force", "date": "2003-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

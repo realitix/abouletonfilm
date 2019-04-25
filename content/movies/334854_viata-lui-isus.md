@@ -1,1 +1,0 @@
-{"tmdb_id": 334854, "title": "Viata lui isus", "original_title": "Viata lui isus", "slug_title": "viata-lui-isus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

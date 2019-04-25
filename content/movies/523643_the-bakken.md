@@ -1,1 +1,0 @@
-{"tmdb_id": 523643, "title": "The Bakken", "original_title": "The Bakken", "slug_title": "the-bakken", "date": "2017-12-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lo7Su4dPFpaK7ySSTVtMHCh3UUl.jpg", "actors": [], "comments": [], "recommandations_id": []}

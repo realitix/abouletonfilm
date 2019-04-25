@@ -1,1 +1,0 @@
-{"tmdb_id": 526199, "title": "A White Lie", "original_title": "A White Lie", "slug_title": "a-white-lie", "date": "", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zendaya (Anita Hemmings)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 555836, "title": "The Greatest Show on Dirt", "original_title": "The Greatest Show on Dirt", "slug_title": "the-greatest-show-on-dirt", "date": "2008-03-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ron Shelton (Interviewee)", "Jenny Robertson (Interviewee)"], "comments": [], "recommandations_id": []}

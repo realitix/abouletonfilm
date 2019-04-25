@@ -1,1 +1,0 @@
-{"tmdb_id": 510959, "title": "Difficulty Breathing", "original_title": "Difficulty Breathing", "slug_title": "difficulty-breathing", "date": "2017-07-15", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i6vwS5rCBiMrMLpFENwAmKwtY2z.jpg", "actors": [], "comments": [], "recommandations_id": []}

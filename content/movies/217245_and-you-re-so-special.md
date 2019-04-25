@@ -1,1 +1,0 @@
-{"tmdb_id": 217245, "title": "And You're So Special?", "original_title": "And You're So Special?", "slug_title": "and-you-re-so-special", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Peak ()", "Lisa Weeks ()", "Barbara Sanders ()"], "comments": [], "recommandations_id": []}

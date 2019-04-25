@@ -1,1 +1,0 @@
-{"tmdb_id": 523796, "title": "The Ninth Floor", "original_title": "Kilencedik emelet", "slug_title": "the-ninth-floor", "date": "1976-11-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/btmALrw0WtUxvZ1b15S62CO0DO3.jpg", "actors": [], "comments": [], "recommandations_id": []}

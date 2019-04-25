@@ -1,1 +1,0 @@
-{"tmdb_id": 236843, "title": "All Out for 'V'", "original_title": "All Out for 'V'", "slug_title": "all-out-for-v", "date": "1942-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ymrlwV0aR4AnwnegoAzhGrLFkkS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 569368, "title": "Revelations", "original_title": "Revelations", "slug_title": "revelations", "date": "2018-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

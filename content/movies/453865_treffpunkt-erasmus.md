@@ -1,1 +1,0 @@
-{"tmdb_id": 453865, "title": "Treffpunkt Erasmus", "original_title": "Treffpunkt Erasmus", "slug_title": "treffpunkt-erasmus", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/73CkOiANg55ePOy1E8ylhiVZ0BX.jpg", "actors": [], "comments": [], "recommandations_id": []}

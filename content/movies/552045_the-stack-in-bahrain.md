@@ -1,1 +1,0 @@
-{"tmdb_id": 552045, "title": "The Stack in Bahrain", "original_title": "The Stack in Bahrain", "slug_title": "the-stack-in-bahrain", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "court-m\u00e9trage", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nw4b2ddr6vv1qI6iuNz2kw6mHjQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

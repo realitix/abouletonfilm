@@ -1,1 +1,0 @@
-{"tmdb_id": 468463, "title": "Susan After the Sugar Harvest", "original_title": "Susan After the Sugar Harvest", "slug_title": "susan-after-the-sugar-harvest", "date": "1970-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 593515, "title": "About Judges and Judgments", "original_title": "About Judges and Judgments", "slug_title": "about-judges-and-judgments", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p3lOBO7jxl9Umgnfe5F9ZSRdDHB.jpg", "actors": [], "comments": [], "recommandations_id": []}

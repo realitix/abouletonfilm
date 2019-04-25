@@ -1,1 +1,0 @@
-{"tmdb_id": 253880, "title": "Hollywood Sand Witches", "original_title": "Hollywood Sand Witches", "slug_title": "hollywood-sand-witches", "date": "1928-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t0O1MlFFuERj36uikpyTNrpa0eh.jpg", "actors": [], "comments": [], "recommandations_id": []}

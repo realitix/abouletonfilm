@@ -1,1 +1,0 @@
-{"tmdb_id": 159081, "title": "L'ile des morts", "original_title": "L'ile des morts", "slug_title": "l-ile-des-morts", "date": "2012-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rAvAHh8NbMnQeOlBs03HejdvNVU.jpg", "actors": [], "comments": [], "recommandations_id": []}

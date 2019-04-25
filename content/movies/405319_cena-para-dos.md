@@ -1,1 +1,0 @@
-{"tmdb_id": 405319, "title": "Cena para dos", "original_title": "Cena para dos", "slug_title": "cena-para-dos", "date": "2015-07-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Q6O6BXAHJ7TMXWYKktXF99rduw.jpg", "actors": [], "comments": [], "recommandations_id": []}

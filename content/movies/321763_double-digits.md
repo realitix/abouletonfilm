@@ -1,1 +1,0 @@
-{"tmdb_id": 321763, "title": "Double Digits", "original_title": "Double Digits", "slug_title": "double-digits", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

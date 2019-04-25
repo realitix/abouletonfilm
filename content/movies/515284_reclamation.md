@@ -1,1 +1,0 @@
-{"tmdb_id": 515284, "title": "Reclamation", "original_title": "Reclamation", "slug_title": "reclamation", "date": "2018-02-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/21BbeyzbpNd9L4Vsoo6YBa1mypy.jpg", "actors": ["Johnny Clyde (Self)"], "comments": [], "recommandations_id": []}

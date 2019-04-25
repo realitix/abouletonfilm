@@ -1,1 +1,0 @@
-{"tmdb_id": 190033, "title": "Ko-Ko's Catch", "original_title": "Ko-Ko's Catch", "slug_title": "ko-ko-s-catch", "date": "1928-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

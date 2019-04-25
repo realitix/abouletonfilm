@@ -1,1 +1,0 @@
-{"tmdb_id": 529230, "title": "Geheimnis im blauen Schlo\u00df", "original_title": "Geheimnis im blauen Schlo\u00df", "slug_title": "geheimnis-im-blauen-schloss", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1RYmtHtDT9Ocxmm5ef7ULcZ12Il.jpg", "actors": [], "comments": [], "recommandations_id": []}

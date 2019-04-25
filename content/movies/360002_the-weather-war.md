@@ -1,1 +1,0 @@
-{"tmdb_id": 360002, "title": "The Weather War", "original_title": "The Weather War", "slug_title": "the-weather-war", "date": "2012-11-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/feXwcjqzb5pykXejEKUKumPEH4e.jpg", "actors": [], "comments": [], "recommandations_id": []}

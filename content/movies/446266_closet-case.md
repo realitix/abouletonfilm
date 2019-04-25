@@ -1,1 +1,0 @@
-{"tmdb_id": 446266, "title": "Closet Case", "original_title": "Closet Case", "slug_title": "closet-case", "date": "1988-10-10", "genre": "Action / Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Oxi9UV5EKB4DqaDTaMFO2s8rLA.jpg", "actors": [], "comments": [], "recommandations_id": []}

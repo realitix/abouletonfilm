@@ -1,1 +1,0 @@
-{"tmdb_id": 588885, "title": "About Sof\u00eda", "original_title": "About Sof\u00eda", "slug_title": "about-sofia", "date": "2005-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4mHleygxFE2jmCfxIdS1hzeZd5m.jpg", "actors": [], "comments": [], "recommandations_id": []}

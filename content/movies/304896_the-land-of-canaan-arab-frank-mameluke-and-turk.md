@@ -1,1 +1,0 @@
-{"tmdb_id": 304896, "title": "The Land of Canaan: Arab, Frank, Mameluke and Turk", "original_title": "The Land of Canaan: Arab, Frank, Mameluke and Turk", "slug_title": "the-land-of-canaan-arab-frank-mameluke-and-turk", "date": "2014-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

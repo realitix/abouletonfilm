@@ -1,1 +1,0 @@
-{"tmdb_id": 290298, "title": "African Metropolis", "original_title": "African Metropolis", "slug_title": "african-metropolis", "date": "2014-06-03", "genre": "Com\u00e9die / Drame / Romance", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hsUcci0tE0lmKOB3mbeQRIT3JQC.jpg", "actors": [], "comments": [], "recommandations_id": []}

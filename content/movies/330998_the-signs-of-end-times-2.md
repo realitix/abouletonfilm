@@ -1,1 +1,0 @@
-{"tmdb_id": 330998, "title": "The Signs of End Times 2", "original_title": "The Signs of End Times 2", "slug_title": "the-signs-of-end-times-2", "date": "2007-03-16", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emeka Ani (Lucifer)"], "comments": [], "recommandations_id": []}

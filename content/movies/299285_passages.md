@@ -1,1 +1,0 @@
-{"tmdb_id": 299285, "title": "Passages", "original_title": "\u65c5\u7a0b", "slug_title": "passages", "date": "2004-05-14", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/18R4g7BQGy8zqcSj8U0JJdJM4hJ.jpg", "actors": ["Geng Le (Chen)", "Chang Jieping (Xiaoping)"], "comments": [], "recommandations_id": []}

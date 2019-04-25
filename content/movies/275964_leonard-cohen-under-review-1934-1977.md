@@ -1,1 +1,0 @@
-{"tmdb_id": 275964, "title": "Leonard Cohen: Under Review: 1934-1977", "original_title": "Leonard Cohen: Under Review: 1934-1977", "slug_title": "leonard-cohen-under-review-1934-1977", "date": "1977-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

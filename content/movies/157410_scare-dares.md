@@ -1,1 +1,0 @@
-{"tmdb_id": 157410, "title": "Scare Dares", "original_title": "Scare Dares", "slug_title": "scare-dares", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2GmUGWnijIiRFssxO8WXIczYXMN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 424534, "title": "Everybody Needs a Rock", "original_title": "Everybody Needs a Rock", "slug_title": "everybody-needs-a-rock", "date": "2013-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1WMOmoW3l4lkSthnCRaFrTo7mTe.jpg", "actors": [], "comments": [], "recommandations_id": []}

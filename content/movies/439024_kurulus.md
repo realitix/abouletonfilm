@@ -1,1 +1,0 @@
-{"tmdb_id": 439024, "title": "Kurulu\u015f", "original_title": "Kurulu\u015f", "slug_title": "kurulus", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

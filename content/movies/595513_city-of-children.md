@@ -1,1 +1,0 @@
-{"tmdb_id": 595513, "title": "City of Children", "original_title": "City of Children", "slug_title": "city-of-children", "date": "2019-04-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

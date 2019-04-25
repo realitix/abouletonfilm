@@ -1,1 +1,0 @@
-{"tmdb_id": 222694, "title": "The Case of the Cockeyed Canary", "original_title": "The Case of the Cockeyed Canary", "slug_title": "the-case-of-the-cockeyed-canary", "date": "1952-12-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

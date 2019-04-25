@@ -1,1 +1,0 @@
-{"tmdb_id": 195247, "title": "The Fleet Steaming Up North River", "original_title": "The Fleet Steaming Up North River", "slug_title": "the-fleet-steaming-up-north-river", "date": "1898-09-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

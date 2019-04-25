@@ -1,1 +1,0 @@
-{"tmdb_id": 16622, "title": "Un bon bock", "original_title": "Un bon bock", "slug_title": "un-bon-bock", "date": "1892-10-28", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

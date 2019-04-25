@@ -1,1 +1,0 @@
-{"tmdb_id": 549746, "title": "Une lettre press\u00e9e", "original_title": "Une lettre press\u00e9e", "slug_title": "une-lettre-pressee", "date": "1907-11-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

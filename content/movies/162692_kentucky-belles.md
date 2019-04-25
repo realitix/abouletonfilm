@@ -1,1 +1,0 @@
-{"tmdb_id": 162692, "title": "Kentucky Belles", "original_title": "Kentucky Belles", "slug_title": "kentucky-belles", "date": "1931-09-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e3EWJej603bIxikDLIaEqpRWNMf.jpg", "actors": [], "comments": [], "recommandations_id": []}

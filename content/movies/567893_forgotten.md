@@ -1,1 +1,0 @@
-{"tmdb_id": 567893, "title": "Forgotten", "original_title": "Forgotten", "slug_title": "forgotten", "date": "", "genre": "Horreur / Science-Fiction / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Syed Nooman Rizvi ()"], "comments": [], "recommandations_id": []}

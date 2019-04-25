@@ -1,1 +1,0 @@
-{"tmdb_id": 464373, "title": "Manny Pacquiao vs. Jeff Horn", "original_title": "Manny Pacquiao vs. Jeff Horn", "slug_title": "manny-pacquiao-vs-jeff-horn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fyJRe9qamy7v7QrxDGDBUSEMHGj.jpg", "actors": [], "comments": [], "recommandations_id": []}

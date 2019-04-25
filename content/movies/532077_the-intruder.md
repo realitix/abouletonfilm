@@ -1,1 +1,0 @@
-{"tmdb_id": 532077, "title": "The Intruder", "original_title": "The Intruder", "slug_title": "the-intruder", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vjOJGDfqK6FOaIPsMJqiA0gSzXU.jpg", "actors": [], "comments": [], "recommandations_id": []}

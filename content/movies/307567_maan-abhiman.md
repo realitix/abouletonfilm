@@ -1,1 +1,0 @@
-{"tmdb_id": 307567, "title": "Maan Abhiman", "original_title": "Maan Abhiman", "slug_title": "maan-abhiman", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7txe38OaOeWKUbCwpcBrNCcGOSI.jpg", "actors": [], "comments": [], "recommandations_id": []}

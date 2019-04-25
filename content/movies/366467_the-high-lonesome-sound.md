@@ -1,1 +1,0 @@
-{"tmdb_id": 366467, "title": "The High Lonesome Sound", "original_title": "The High Lonesome Sound", "slug_title": "the-high-lonesome-sound", "date": "1963-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bsKFYaCtvl7RoKuDVOhedyrYB4P.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 583573, "title": "Teofrastus", "original_title": "Teofrastus", "slug_title": "teofrastus", "date": "2018-12-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aMfOrDnSRCYrY9UXcZnjqPNlsx8.jpg", "actors": ["Aleksei Turovski (Narrator (voice))"], "comments": [], "recommandations_id": []}

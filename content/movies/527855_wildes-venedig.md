@@ -1,1 +1,0 @@
-{"tmdb_id": 527855, "title": "Wildes Venedig", "original_title": "Wildes Venedig", "slug_title": "wildes-venedig", "date": "2016-06-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q3Cbljd11Exuf3jAPszWvztPL0p.jpg", "actors": ["Franz Robert Wagner (Sprecher)"], "comments": [], "recommandations_id": []}

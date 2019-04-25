@@ -1,1 +1,0 @@
-{"tmdb_id": 527849, "title": "Ton ombre est la mienne", "original_title": "Ton ombre est la mienne", "slug_title": "ton-ombre-est-la-mienne", "date": "1963-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5clUAyHzJYNIrKExsbaK7AV3ciO.jpg", "actors": [], "comments": [], "recommandations_id": []}

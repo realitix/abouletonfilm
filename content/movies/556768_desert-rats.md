@@ -1,1 +1,0 @@
-{"tmdb_id": 556768, "title": "Desert Rats", "original_title": "Desert Rats", "slug_title": "desert-rats", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

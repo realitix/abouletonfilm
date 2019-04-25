@@ -1,1 +1,1 @@
-{"tmdb_id": 539776, "title": "3 de la marine", "original_title": "3 de la marine", "slug_title": "3-de-la-marine", "date": "1934-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 539776, "title": "3 de la marine", "original_title": "3 de la marine", "slug_title": "3-de-la-marine", "date": "1934-10-19", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

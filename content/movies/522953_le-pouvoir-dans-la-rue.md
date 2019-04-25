@@ -1,1 +1,0 @@
-{"tmdb_id": 522953, "title": "Le Pouvoir dans la rue", "original_title": "Le Pouvoir dans la rue", "slug_title": "le-pouvoir-dans-la-rue", "date": "1968-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

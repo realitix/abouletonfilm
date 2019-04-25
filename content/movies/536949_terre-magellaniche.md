@@ -1,1 +1,0 @@
-{"tmdb_id": 536949, "title": "Terre magellaniche", "original_title": "Terre magellaniche", "slug_title": "terre-magellaniche", "date": "1933-05-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5u0anBNrC6PJNCconXPLzNFGqIk.jpg", "actors": [], "comments": [], "recommandations_id": []}

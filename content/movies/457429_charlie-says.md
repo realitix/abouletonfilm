@@ -1,1 +1,0 @@
-{"tmdb_id": 457429, "title": "Charlie Says", "original_title": "Charlie Says", "slug_title": "charlie-says", "date": "2013-08-07", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gdjb2ienn6aojXyMGTJUiKsNmII.jpg", "actors": [], "comments": [], "recommandations_id": []}

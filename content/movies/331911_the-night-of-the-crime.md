@@ -1,1 +1,0 @@
-{"tmdb_id": 331911, "title": "The Night of the Crime", "original_title": "La nuit du crime", "slug_title": "the-night-of-the-crime", "date": "1992-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

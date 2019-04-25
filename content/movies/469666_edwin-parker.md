@@ -1,1 +1,0 @@
-{"tmdb_id": 469666, "title": "Edwin Parker", "original_title": "Edwin Parker", "slug_title": "edwin-parker", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jMwNXQuTUrVwHm3U7vS9O4fD6cp.jpg", "actors": [], "comments": [], "recommandations_id": []}

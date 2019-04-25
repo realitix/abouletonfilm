@@ -1,1 +1,0 @@
-{"tmdb_id": 287962, "title": "Passenger", "original_title": "Pasahero", "slug_title": "passenger", "date": "2012-07-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Madeleine Nicolas ()", "Sheen Gener ()", "Lowell Conales ()", "Lao Rodriguez ()", "Patrick Perito ()"], "comments": [], "recommandations_id": []}

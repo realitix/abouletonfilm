@@ -1,1 +1,0 @@
-{"tmdb_id": 459032, "title": "Three Stories from New York: Gordana Vunjak Novakovic", "original_title": "Three Stories from New York: Gordana Vunjak Novakovic", "slug_title": "three-stories-from-new-york-gordana-vunjak-novakovic", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

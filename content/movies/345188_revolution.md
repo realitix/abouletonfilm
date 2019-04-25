@@ -1,1 +1,0 @@
-{"tmdb_id": 345188, "title": "Revolution", "original_title": "Revoluci\u00f3n", "slug_title": "revolution", "date": "1963-06-17", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iwIQsc9xSw1LOjYQh7hSoQ0S1sZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

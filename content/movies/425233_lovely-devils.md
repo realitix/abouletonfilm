@@ -1,1 +1,0 @@
-{"tmdb_id": 425233, "title": "Lovely devils", "original_title": "\u53ef\u611b\u3044\u60aa\u9b54", "slug_title": "lovely-devils", "date": "1982-10-07", "genre": "Drame / Fantastique / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7D16ekT3TtYeW0B4DBxVVBmSohN.jpg", "actors": [], "comments": [], "recommandations_id": []}

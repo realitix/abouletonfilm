@@ -1,1 +1,0 @@
-{"tmdb_id": 320373, "title": "Take The Mountain Down", "original_title": "Take The Mountain Down", "slug_title": "take-the-mountain-down", "date": "2014-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

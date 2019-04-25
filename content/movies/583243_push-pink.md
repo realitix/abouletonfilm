@@ -1,1 +1,0 @@
-{"tmdb_id": 583243, "title": "Push Pink", "original_title": "Push Pink", "slug_title": "push-pink", "date": "2018-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

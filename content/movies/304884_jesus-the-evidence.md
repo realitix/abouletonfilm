@@ -1,1 +1,0 @@
-{"tmdb_id": 304884, "title": "Jesus The Evidence", "original_title": "Jesus The Evidence", "slug_title": "jesus-the-evidence", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5x3O607MsSDhvXkMluXs8lZQqxZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

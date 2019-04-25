@@ -1,1 +1,0 @@
-{"tmdb_id": 447644, "title": "Richard Avedon: Darkness and Light", "original_title": "Richard Avedon: Darkness and Light", "slug_title": "richard-avedon-darkness-and-light", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/goIXL7TQIK5BPVD87E9cSRipTt.jpg", "actors": [], "comments": [], "recommandations_id": []}

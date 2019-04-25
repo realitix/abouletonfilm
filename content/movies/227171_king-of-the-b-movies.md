@@ -1,1 +1,0 @@
-{"tmdb_id": 227171, "title": "King of the B Movies", "original_title": "King of the B Movies", "slug_title": "king-of-the-b-movies", "date": "2012-08-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qCHwZzoxyE89ZRJX2H3LPDR99Mx.jpg", "actors": [], "comments": [], "recommandations_id": []}

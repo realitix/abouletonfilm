@@ -1,1 +1,0 @@
-{"tmdb_id": 417215, "title": "Fire-Lighter", "original_title": "\ubd88\uc528", "slug_title": "fire-lighter", "date": "1987-02-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 297184, "title": "Tiltott tal\u00e1lm\u00e1nyok", "original_title": "Tiltott tal\u00e1lm\u00e1nyok", "slug_title": "tiltott-talalmanyok", "date": "1992-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8gTAw5i23Ea4YcTcXiEbVTeH49d.jpg", "actors": [], "comments": [], "recommandations_id": []}

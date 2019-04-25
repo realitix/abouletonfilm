@@ -1,1 +1,0 @@
-{"tmdb_id": 440067, "title": "Children Hand in Hand", "original_title": "Te o tsunagu kora", "slug_title": "children-hand-in-hand", "date": "1963-02-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

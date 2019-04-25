@@ -1,1 +1,0 @@
-{"tmdb_id": 429120, "title": "Don from Lakewood", "original_title": "Don from Lakewood", "slug_title": "don-from-lakewood", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

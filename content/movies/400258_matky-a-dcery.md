@@ -1,1 +1,0 @@
-{"tmdb_id": 400258, "title": "Matky a dc\u00e9ry", "original_title": "Matky a dc\u00e9ry", "slug_title": "matky-a-dcery", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

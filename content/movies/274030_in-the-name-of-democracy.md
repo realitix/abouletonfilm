@@ -1,1 +1,0 @@
-{"tmdb_id": 274030, "title": "In the Name of Democracy", "original_title": "In the Name of Democracy", "slug_title": "in-the-name-of-democracy", "date": "2009-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

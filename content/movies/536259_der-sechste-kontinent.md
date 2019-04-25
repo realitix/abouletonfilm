@@ -1,1 +1,0 @@
-{"tmdb_id": 536259, "title": "Der Sechste Kontinent", "original_title": "Der Sechste Kontinent", "slug_title": "der-sechste-kontinent", "date": "2018-06-07", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kKVaAbTb8tdNBes4aUYkKrFDNr2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 409200, "title": "A Girl and Things", "original_title": "\u0414\u0435\u0432\u043e\u0447\u043a\u0430 \u0438 \u0432\u0435\u0449\u0438", "slug_title": "a-girl-and-things", "date": "1967-01-15", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 400094, "title": "Tom Story - Le avventure di Tom Sawyer", "original_title": "Tom Story - Le avventure di Tom Sawyer", "slug_title": "tom-story-le-avventure-di-tom-sawyer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 594904, "title": "The Tie That Binds", "original_title": "The Tie That Binds", "slug_title": "the-tie-that-binds", "date": "1923-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

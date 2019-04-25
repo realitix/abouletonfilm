@@ -1,1 +1,0 @@
-{"tmdb_id": 555823, "title": "Une brute", "original_title": "Une brute", "slug_title": "une-brute", "date": "1921-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

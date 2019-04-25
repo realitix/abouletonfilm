@@ -1,1 +1,0 @@
-{"tmdb_id": 388876, "title": "Madame Butterfly", "original_title": "Ochou Fujin no Gensou", "slug_title": "madame-butterfly", "date": "1940-05-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lyG0HnoL01bmRNOZDzINBIXAJpZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

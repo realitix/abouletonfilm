@@ -1,1 +1,0 @@
-{"tmdb_id": 309681, "title": "Barnbrack: At Home in Ireland", "original_title": "Barnbrack: At Home in Ireland", "slug_title": "barnbrack-at-home-in-ireland", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

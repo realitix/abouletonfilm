@@ -1,1 +1,0 @@
-{"tmdb_id": 71650, "title": "Hausfrauenreport 2", "original_title": "Hausfrauenreport 2", "slug_title": "hausfrauenreport-2", "date": "", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uGWgdG1w2SJ1zPz1vhZweCH5oZu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 235770, "title": "Of Mice and Menace", "original_title": "Of Mice and Menace", "slug_title": "of-mice-and-menace", "date": "1954-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

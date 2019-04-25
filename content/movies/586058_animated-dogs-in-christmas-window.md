@@ -1,1 +1,0 @@
-{"tmdb_id": 586058, "title": "Animated Dogs in Christmas Window", "original_title": "Animated Dogs in Christmas Window", "slug_title": "animated-dogs-in-christmas-window", "date": "1966-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

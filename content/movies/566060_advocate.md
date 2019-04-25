@@ -1,1 +1,0 @@
-{"tmdb_id": 566060, "title": "Advocate", "original_title": "Advocate", "slug_title": "advocate", "date": "2019-01-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lea Tsemel (Herself)"], "comments": [], "recommandations_id": []}

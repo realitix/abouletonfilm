@@ -1,1 +1,0 @@
-{"tmdb_id": 103944, "title": "Hader spielt Hader", "original_title": "Hader spielt Hader", "slug_title": "hader-spielt-hader", "date": "2011-03-18", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Wcd5jguoMGIcoLnM6U0HSIxQM5.jpg", "actors": ["Josef Hader ()"], "comments": [], "recommandations_id": []}

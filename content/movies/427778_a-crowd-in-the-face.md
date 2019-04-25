@@ -1,1 +1,0 @@
-{"tmdb_id": 427778, "title": "A Crowd in the Face", "original_title": "A Crowd in the Face", "slug_title": "a-crowd-in-the-face", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gBzkQ9DGCXLy1TRZMTlRXtMxFnc.jpg", "actors": [], "comments": [], "recommandations_id": []}

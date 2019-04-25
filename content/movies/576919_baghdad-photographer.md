@@ -1,1 +1,0 @@
-{"tmdb_id": 576919, "title": "Baghdad Photographer", "original_title": "Baghdad Photographer", "slug_title": "baghdad-photographer", "date": "2017-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ssRG00FOuL3PSRpt2Ou2vtsYmR4.jpg", "actors": [], "comments": [], "recommandations_id": []}

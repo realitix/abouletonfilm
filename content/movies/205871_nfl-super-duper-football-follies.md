@@ -1,1 +1,0 @@
-{"tmdb_id": 205871, "title": "NFL Super Duper Football Follies", "original_title": "NFL Super Duper Football Follies", "slug_title": "nfl-super-duper-football-follies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8GoVQeZiNn8xfp2ZqGM5H46kIyp.jpg", "actors": [], "comments": [], "recommandations_id": []}

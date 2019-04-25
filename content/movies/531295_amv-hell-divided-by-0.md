@@ -1,1 +1,0 @@
-{"tmdb_id": 531295, "title": "AMV Hell Divided By 0", "original_title": "AMV Hell Divided By 0", "slug_title": "amv-hell-divided-by-0", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

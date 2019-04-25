@@ -1,1 +1,0 @@
-{"tmdb_id": 324928, "title": "Paulie and Fiona, Heroes of the City", "original_title": "Paulie and Fiona, Heroes of the City", "slug_title": "paulie-and-fiona-heroes-of-the-city", "date": "2014-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

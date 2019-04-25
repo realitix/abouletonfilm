@@ -1,1 +1,0 @@
-{"tmdb_id": 183141, "title": "Blind Guardian: Wacken 2007", "original_title": "Blind Guardian: Wacken 2007", "slug_title": "blind-guardian-wacken-2007", "date": "2007-01-01", "genre": "Musique", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oTe6MkuGDvO6EDKrjHJvciei0zX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 416735, "title": "Jerks Don't Say 'Fuck'", "original_title": "Jerks Don't Say 'Fuck'", "slug_title": "jerks-don-t-say-fuck", "date": "2000-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cBYTO4zs56YY7OUWpEEJdh2X8Rn.jpg", "actors": [], "comments": [], "recommandations_id": []}

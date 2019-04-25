@@ -1,1 +1,0 @@
-{"tmdb_id": 595453, "title": "Tomboys", "original_title": "5\ud559\ub144 3\ubc18 \uccad\uac1c\uad6c\ub9ac\ub4e4", "slug_title": "tomboys", "date": "1986-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dOvgfv6PBAEFaOZP9nTM3k2ZziX.jpg", "actors": [], "comments": [], "recommandations_id": []}

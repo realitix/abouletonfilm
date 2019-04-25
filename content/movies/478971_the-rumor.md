@@ -1,1 +1,0 @@
-{"tmdb_id": 478971, "title": "The Rumor", "original_title": "Das Ger\u00fccht", "slug_title": "the-rumor", "date": "1951-11-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karin Friedrich ()", "Walter Kiaulehn ()", "Wastl Witt ()", "Sepp Nigg ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 329012, "title": "Karel Gott 70", "original_title": "Karel Gott 70", "slug_title": "karel-gott-70", "date": "2009-07-14", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karel Gott ()"], "comments": [], "recommandations_id": []}

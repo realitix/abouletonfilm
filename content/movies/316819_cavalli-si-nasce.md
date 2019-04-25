@@ -1,1 +1,0 @@
-{"tmdb_id": 316819, "title": "Cavalli si nasce", "original_title": "Cavalli si nasce", "slug_title": "cavalli-si-nasce", "date": "1988-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x4A4ct70ua1WvxtPrgKEZgp0cRX.jpg", "actors": [], "comments": [], "recommandations_id": []}

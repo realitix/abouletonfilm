@@ -1,1 +1,0 @@
-{"tmdb_id": 469141, "title": "Lost in Flanders", "original_title": "Lost in Flanders", "slug_title": "lost-in-flanders", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yVtzZy1ktDmvkpmlHEdew9Q7pPH.jpg", "actors": [], "comments": [], "recommandations_id": []}

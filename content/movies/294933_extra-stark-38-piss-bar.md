@@ -1,1 +1,0 @@
-{"tmdb_id": 294933, "title": "Extra Stark 38 - Piss-B\u00e4r", "original_title": "Extra Stark 38 - Piss-B\u00e4r", "slug_title": "extra-stark-38-piss-bar", "date": "2005-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tiZlcjF3i42fSATiwZ9oVApk10A.jpg", "actors": [], "comments": [], "recommandations_id": []}

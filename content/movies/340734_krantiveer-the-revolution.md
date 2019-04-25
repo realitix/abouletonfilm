@@ -1,1 +1,0 @@
-{"tmdb_id": 340734, "title": "Krantiveer - The Revolution", "original_title": "Krantiveer - The Revolution", "slug_title": "krantiveer-the-revolution", "date": "2010-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

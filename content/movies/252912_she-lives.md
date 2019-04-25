@@ -1,1 +1,0 @@
-{"tmdb_id": 252912, "title": "She Lives!", "original_title": "She Lives!", "slug_title": "she-lives", "date": "1973-09-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Desi Arnaz Jr. (Andy Reed)", "Season Hubley (Pam Rainey)", "Anthony Zerbe (Dr. Wellman)"], "comments": [], "recommandations_id": []}

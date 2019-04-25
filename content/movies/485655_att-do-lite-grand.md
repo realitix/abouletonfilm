@@ -1,1 +1,0 @@
-{"tmdb_id": 485655, "title": "Att d\u00f6 lite grand", "original_title": "Att d\u00f6 lite grand", "slug_title": "att-do-lite-grand", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Li Karlsson Rasmark ()", "Linn\u00e9a Benneberg ()"], "comments": [], "recommandations_id": []}

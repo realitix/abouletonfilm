@@ -1,1 +1,0 @@
-{"tmdb_id": 594429, "title": "Passions For The Mammoth", "original_title": "\u0421\u0442\u0440\u0430\u0441\u0442\u0438 \u043f\u043e \u043c\u0430\u043c\u043e\u043d\u0442\u0443", "slug_title": "passions-for-the-mammoth", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 434139, "title": "William Tell", "original_title": "Guillaume Tell", "slug_title": "william-tell", "date": "1914-04-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 578722, "title": "The Second Journey (To Uluru)", "original_title": "The Second Journey (To Uluru)", "slug_title": "the-second-journey-to-uluru", "date": "1981-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Corinne Cantrill (Herself (Narrator))"], "comments": [], "recommandations_id": []}

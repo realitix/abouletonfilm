@@ -1,1 +1,0 @@
-{"tmdb_id": 482093, "title": "Chromatic Phantoms", "original_title": "Fantasmas Crom\u00e1ticos", "slug_title": "chromatic-phantoms", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

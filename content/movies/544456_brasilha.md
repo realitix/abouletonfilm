@@ -1,1 +1,0 @@
-{"tmdb_id": 544456, "title": "Brasilha", "original_title": "Brasilha", "slug_title": "brasilha", "date": "2018-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

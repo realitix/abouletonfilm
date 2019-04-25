@@ -1,1 +1,0 @@
-{"tmdb_id": 310542, "title": "Yello Dyno's Can't Fool Me!", "original_title": "Yello Dyno's Can't Fool Me!", "slug_title": "yello-dyno-s-can-t-fool-me", "date": "1998-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eu2hx7u5haHzReELJqAHjDWBoT2.jpg", "actors": [], "comments": [], "recommandations_id": []}

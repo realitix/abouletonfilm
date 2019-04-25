@@ -1,1 +1,0 @@
-{"tmdb_id": 350115, "title": "\uc9d1\uc744 \ub098\uc628 \uc5ec\uc778", "original_title": "\uc9d1\uc744 \ub098\uc628 \uc5ec\uc778", "slug_title": "jibeul-naon-yeoin", "date": "1982-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

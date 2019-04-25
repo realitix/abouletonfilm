@@ -1,1 +1,0 @@
-{"tmdb_id": 484224, "title": "Intertidal Zone", "original_title": "Intertidal Zone", "slug_title": "intertidal-zone", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

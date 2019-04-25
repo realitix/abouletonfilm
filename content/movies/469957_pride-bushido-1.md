@@ -1,1 +1,0 @@
-{"tmdb_id": 469957, "title": "Pride Bushido 1", "original_title": "Pride Bushido 1", "slug_title": "pride-bushido-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/prkpDIghvUInSv6J1WHkG5D0dAa.jpg", "actors": [], "comments": [], "recommandations_id": []}

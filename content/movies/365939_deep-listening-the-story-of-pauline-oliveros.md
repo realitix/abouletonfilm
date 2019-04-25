@@ -1,1 +1,0 @@
-{"tmdb_id": 365939, "title": "Deep Listening: The Story Of Pauline Oliveros", "original_title": "Deep Listening: The Story Of Pauline Oliveros", "slug_title": "deep-listening-the-story-of-pauline-oliveros", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

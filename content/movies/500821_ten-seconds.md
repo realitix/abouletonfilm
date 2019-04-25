@@ -1,1 +1,0 @@
-{"tmdb_id": 500821, "title": "Ten Seconds", "original_title": "Ten Seconds", "slug_title": "ten-seconds", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xyud1N5WHD8CRsadJvsNJzs18CZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

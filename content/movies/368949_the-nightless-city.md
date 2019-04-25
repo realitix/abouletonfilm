@@ -1,1 +1,0 @@
-{"tmdb_id": 368949, "title": "The Nightless City", "original_title": "The Nightless City", "slug_title": "the-nightless-city", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Giovanni Calcagno (Salvatore)", "Maya Murofushi (Mariko)"], "comments": [], "recommandations_id": []}

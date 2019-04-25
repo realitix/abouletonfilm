@@ -1,1 +1,0 @@
-{"tmdb_id": 51744, "title": "The Little Mermaid", "original_title": "The Little Mermaid", "slug_title": "the-little-mermaid", "date": "2005-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dx0F6LLoWwMLhTcRZ2gnypRok61.jpg", "actors": [], "comments": [], "recommandations_id": []}

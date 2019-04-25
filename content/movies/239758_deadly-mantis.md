@@ -1,1 +1,0 @@
-{"tmdb_id": 239758, "title": "Deadly Mantis", "original_title": "Deadly Mantis", "slug_title": "deadly-mantis", "date": "1979-10-29", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oyrvf2clneTo3vCC6vhAmbBKKPt.jpg", "actors": [], "comments": [], "recommandations_id": []}

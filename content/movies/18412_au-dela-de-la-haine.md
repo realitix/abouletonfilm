@@ -1,1 +1,0 @@
-{"tmdb_id": 18412, "title": "Au del\u00e0 de la haine", "original_title": "Au del\u00e0 de la haine", "slug_title": "au-dela-de-la-haine", "date": "2005-06-19", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2X52Th1B2MRCK5hBnSCp0SeOdSS.jpg", "actors": [], "comments": [], "recommandations_id": []}

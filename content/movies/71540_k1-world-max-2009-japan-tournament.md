@@ -1,1 +1,0 @@
-{"tmdb_id": 71540, "title": "K1 World MAX 2009 Japan Tournament", "original_title": "K1 World MAX 2009 Japan Tournament", "slug_title": "k1-world-max-2009-japan-tournament", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n9zM1gsFelP7TawEzoI2ZN0YqjL.jpg", "actors": [], "comments": [], "recommandations_id": []}

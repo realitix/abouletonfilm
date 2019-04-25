@@ -1,1 +1,0 @@
-{"tmdb_id": 303015, "title": "Kung Fu Shuffle", "original_title": "Kung Fu Shuffle", "slug_title": "kung-fu-shuffle", "date": "2010-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 516410, "title": "Tuolumne", "original_title": "Tuolumne", "slug_title": "tuolumne", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mcM2tZO2Wdc54bjssAcduT7Zz7q.jpg", "actors": [], "comments": [], "recommandations_id": []}

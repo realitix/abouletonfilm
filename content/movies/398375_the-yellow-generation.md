@@ -1,1 +1,0 @@
-{"tmdb_id": 398375, "title": "The yellow generation", "original_title": "The yellow generation", "slug_title": "the-yellow-generation", "date": "2014-05-20", "genre": "Animation / Aventure", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 405859, "title": "Amrutha Varshini", "original_title": "Amrutha Varshini", "slug_title": "amrutha-varshini", "date": "1997-01-29", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xDD8rxMMBu8dLWLhOMAPhGYJmJP.jpg", "actors": [], "comments": [], "recommandations_id": []}

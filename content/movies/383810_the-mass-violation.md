@@ -1,1 +1,0 @@
-{"tmdb_id": 383810, "title": "The Mass Violation", "original_title": "\u6226\u5f8c\u6b8b\u9177\u7269\u8a9e", "slug_title": "the-mass-violation", "date": "1968-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9FYGK9PuB2WuhOGi3zXaqob2fcj.jpg", "actors": [], "comments": [], "recommandations_id": []}

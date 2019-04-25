@@ -1,1 +1,0 @@
-{"tmdb_id": 531149, "title": "Story of Self", "original_title": "Story of Self", "slug_title": "story-of-self", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 562604, "title": "Kalavani Sirukki", "original_title": "Kalavani Sirukki", "slug_title": "kalavani-sirukki", "date": "2018-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rfsqFYTYO7bvn0tAN9zzB0K1KRz.jpg", "actors": ["Anju Kriti ()", "Diwakar ()"], "comments": [], "recommandations_id": []}

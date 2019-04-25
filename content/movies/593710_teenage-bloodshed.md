@@ -1,1 +1,0 @@
-{"tmdb_id": 593710, "title": "Teenage Bloodshed", "original_title": "Teenage Bloodshed", "slug_title": "teenage-bloodshed", "date": "2021-10-29", "genre": "Crime / Thriller / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tony Chavez ()"], "comments": [], "recommandations_id": []}

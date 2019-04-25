@@ -1,1 +1,0 @@
-{"tmdb_id": 300008, "title": "Where Have All the Dolphins Gone?", "original_title": "Where Have All the Dolphins Gone?", "slug_title": "where-have-all-the-dolphins-gone", "date": "2014-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

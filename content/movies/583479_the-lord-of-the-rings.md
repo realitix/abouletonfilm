@@ -1,1 +1,0 @@
-{"tmdb_id": 583479, "title": "The Lord of the Rings", "original_title": "Sagan om Ringen", "slug_title": "the-lord-of-the-rings", "date": "", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vZaK1ir0dvG43bZjAF224vfVbCW.jpg", "actors": ["Evan Storm (Narrator)"], "comments": [], "recommandations_id": []}

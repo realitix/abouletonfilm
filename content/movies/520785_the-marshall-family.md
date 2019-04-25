@@ -1,1 +1,0 @@
-{"tmdb_id": 520785, "title": "The Marshall Family", "original_title": "The Marshall Family", "slug_title": "the-marshall-family", "date": "", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2WSQElEvaH7rLwCgt3aTOJZis17.jpg", "actors": ["Bill Oberst Jr. (Tripp)"], "comments": [], "recommandations_id": []}

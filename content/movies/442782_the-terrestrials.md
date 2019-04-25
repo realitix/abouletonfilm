@@ -1,1 +1,0 @@
-{"tmdb_id": 442782, "title": "The Terrestrials", "original_title": "The Terrestrials", "slug_title": "the-terrestrials", "date": "2011-10-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wJIBUPUGGgkbQE7IcFH7ObsDNU7.jpg", "actors": ["Patrick Mapel (The Filmmaker)"], "comments": [], "recommandations_id": []}

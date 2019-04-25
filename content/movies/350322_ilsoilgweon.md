@@ -1,1 +1,0 @@
-{"tmdb_id": 350322, "title": "\uc77c\uc18c\uc77c\uad8c", "original_title": "\uc77c\uc18c\uc77c\uad8c", "slug_title": "ilsoilgweon", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

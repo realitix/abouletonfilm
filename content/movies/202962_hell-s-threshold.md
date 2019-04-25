@@ -1,1 +1,0 @@
-{"tmdb_id": 202962, "title": "Hell's Threshold", "original_title": "Hell's Threshold", "slug_title": "hell-s-threshold", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

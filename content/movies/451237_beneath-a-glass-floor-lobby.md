@@ -1,1 +1,0 @@
-{"tmdb_id": 451237, "title": "Beneath a Glass Floor Lobby", "original_title": "Beneath a Glass Floor Lobby", "slug_title": "beneath-a-glass-floor-lobby", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

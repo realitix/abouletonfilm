@@ -1,1 +1,0 @@
-{"tmdb_id": 183270, "title": "The Twins' Tea Party", "original_title": "The Twins' Tea Party", "slug_title": "the-twins-tea-party", "date": "1896-08-01", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4gKinMioI42IFoq382JaTAHAWJ3.jpg", "actors": [], "comments": [], "recommandations_id": []}

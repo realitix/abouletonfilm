@@ -1,1 +1,0 @@
-{"tmdb_id": 388049, "title": "Surfing Favela", "original_title": "Surfing Favela", "slug_title": "surfing-favela", "date": "2008-08-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dwiEO1zWe54pbq2OX4yoCe0NbHC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 349454, "title": "El Vecindario", "original_title": "El Vecindario", "slug_title": "el-vecindario", "date": "1981-07-18", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fYg7GFIWZHNF3ZfhtVS05tXwrb4.jpg", "actors": ["Alfonso Zayas ()"], "comments": [], "recommandations_id": []}

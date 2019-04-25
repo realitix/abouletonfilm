@@ -1,1 +1,0 @@
-{"tmdb_id": 391118, "title": "Do I Not Like That - The Final Chapter", "original_title": "Do I Not Like That - The Final Chapter", "slug_title": "do-i-not-like-that-the-final-chapter", "date": "1997-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

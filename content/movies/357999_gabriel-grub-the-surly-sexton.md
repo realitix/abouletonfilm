@@ -1,1 +1,0 @@
-{"tmdb_id": 357999, "title": "Gabriel Grub the Surly Sexton", "original_title": "Gabriel Grub the Surly Sexton", "slug_title": "gabriel-grub-the-surly-sexton", "date": "1904-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

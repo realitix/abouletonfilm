@@ -1,1 +1,0 @@
-{"tmdb_id": 391107, "title": "Frame Line", "original_title": "Frame Line", "slug_title": "frame-line", "date": "1984-04-03", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4tof4vb1BLmvGYoeCGYewzjeCbE.jpg", "actors": [], "comments": [], "recommandations_id": []}

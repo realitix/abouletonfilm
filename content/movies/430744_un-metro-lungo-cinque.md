@@ -1,1 +1,0 @@
-{"tmdb_id": 430744, "title": "Un metro lungo cinque", "original_title": "Un metro lungo cinque", "slug_title": "un-metro-lungo-cinque", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

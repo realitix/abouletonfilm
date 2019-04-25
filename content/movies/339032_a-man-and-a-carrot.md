@@ -1,1 +1,0 @@
-{"tmdb_id": 339032, "title": "A Man and a Carrot", "original_title": "A Man and a Carrot", "slug_title": "a-man-and-a-carrot", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

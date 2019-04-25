@@ -1,1 +1,0 @@
-{"tmdb_id": 361648, "title": "Coldplay - Live in Toronto", "original_title": "Coldplay - Live in Toronto", "slug_title": "coldplay-live-in-toronto", "date": "2011-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 423632, "title": "Golden Rod", "original_title": "Golden Rod", "slug_title": "golden-rod", "date": "2006-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

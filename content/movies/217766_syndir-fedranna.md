@@ -1,1 +1,0 @@
-{"tmdb_id": 217766, "title": "Syndir fe\u00f0ranna", "original_title": "Syndir fe\u00f0ranna", "slug_title": "syndir-fedranna", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

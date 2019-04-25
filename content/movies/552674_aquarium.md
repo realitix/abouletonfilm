@@ -1,1 +1,0 @@
-{"tmdb_id": 552674, "title": "Aquarium", "original_title": "Akvarium", "slug_title": "aquarium", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

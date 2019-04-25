@@ -1,1 +1,0 @@
-{"tmdb_id": 543118, "title": "Narco-Finance, les impunis", "original_title": "Narco-Finance, les impunis", "slug_title": "narco-finance-les-impunis", "date": "2014-10-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

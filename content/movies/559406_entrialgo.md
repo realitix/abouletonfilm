@@ -1,1 +1,0 @@
-{"tmdb_id": 559406, "title": "Entrialgo", "original_title": "Entrialgo", "slug_title": "entrialgo", "date": "2018-11-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 432979, "title": "Crash and Burn", "original_title": "Crash and Burn", "slug_title": "crash-and-burn", "date": "2016-12-30", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/GPuWr940qlvoBut7E1zzrieHr4.jpg", "actors": ["Tommy Byrne (Himself)"], "comments": [], "recommandations_id": []}

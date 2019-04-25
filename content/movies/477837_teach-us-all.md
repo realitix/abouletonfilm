@@ -1,1 +1,0 @@
-{"tmdb_id": 477837, "title": "Teach Us All", "original_title": "Teach Us All", "slug_title": "teach-us-all", "date": "2017-09-25", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fEYFJnAfe3Xp0OIIoPSHxFtQ1aR.jpg", "actors": [], "comments": [], "recommandations_id": []}

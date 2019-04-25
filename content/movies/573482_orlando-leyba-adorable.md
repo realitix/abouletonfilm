@@ -1,1 +1,0 @@
-{"tmdb_id": 573482, "title": "Orlando Leyba: Adorable", "original_title": "Orlando Leyba: Adorable", "slug_title": "orlando-leyba-adorable", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

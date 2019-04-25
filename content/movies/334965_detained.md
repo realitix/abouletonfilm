@@ -1,1 +1,0 @@
-{"tmdb_id": 334965, "title": "Detained", "original_title": "F\u00f6rvaret", "slug_title": "detained", "date": "2015-04-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wsICULSQi78dvjV32uTXzQZar0J.jpg", "actors": [], "comments": [], "recommandations_id": []}

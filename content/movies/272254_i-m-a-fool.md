@@ -1,1 +1,0 @@
-{"tmdb_id": 272254, "title": "I'm a Fool", "original_title": "I'm a Fool", "slug_title": "i-m-a-fool", "date": "1977-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e44t0jCknVQvZtrTiNZnNHiQFAf.jpg", "actors": ["Ron Howard ()", "Amy Irving ()"], "comments": [], "recommandations_id": []}

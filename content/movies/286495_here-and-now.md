@@ -1,1 +1,0 @@
-{"tmdb_id": 286495, "title": "Here and Now", "original_title": "Here and Now", "slug_title": "here-and-now", "date": "2014-07-04", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l5DoGhsk4O2BteZ3IVFQq0lQbbH.jpg", "actors": ["Claire Coache (Poppy)", "Alex Evans (Jimmy)"], "comments": [], "recommandations_id": []}

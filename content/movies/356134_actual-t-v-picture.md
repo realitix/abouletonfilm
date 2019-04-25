@@ -1,1 +1,0 @@
-{"tmdb_id": 356134, "title": "Actual T.V. Picture", "original_title": "Actual T.V. Picture", "slug_title": "actual-t-v-picture", "date": "2013-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

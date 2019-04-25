@@ -1,1 +1,0 @@
-{"tmdb_id": 593267, "title": "Worth Every Penny", "original_title": "Worth Every Penny", "slug_title": "worth-every-penny", "date": "2017-06-01", "genre": "Documentaire / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

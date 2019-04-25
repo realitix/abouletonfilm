@@ -1,1 +1,0 @@
-{"tmdb_id": 319937, "title": "West Kingston Jamboree", "original_title": "West Kingston Jamboree", "slug_title": "west-kingston-jamboree", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

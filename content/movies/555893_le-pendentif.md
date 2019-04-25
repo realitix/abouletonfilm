@@ -1,1 +1,0 @@
-{"tmdb_id": 555893, "title": "Le pendentif", "original_title": "Le pendentif", "slug_title": "le-pendentif", "date": "1921-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

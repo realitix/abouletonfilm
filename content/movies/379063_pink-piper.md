@@ -1,1 +1,0 @@
-{"tmdb_id": 379063, "title": "Pink Piper", "original_title": "Pink Piper", "slug_title": "pink-piper", "date": "1976-04-30", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kBDvOtjODwl7P6yiAjLbR4BSHeT.jpg", "actors": [], "comments": [], "recommandations_id": []}

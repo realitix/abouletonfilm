@@ -1,1 +1,0 @@
-{"tmdb_id": 160712, "title": "A Decade of Love", "original_title": "Sup fun chung ching", "slug_title": "a-decade-of-love", "date": "2008-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r3cETsyGNeAzLZKySDOUVZaSzs.jpg", "actors": ["Carl Ng ()", "Race Wong ()"], "comments": [], "recommandations_id": []}

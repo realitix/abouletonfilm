@@ -1,1 +1,0 @@
-{"tmdb_id": 522884, "title": "Standing Up", "original_title": "Standing Up", "slug_title": "standing-up", "date": "2018-05-08", "genre": "Com\u00e9die / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

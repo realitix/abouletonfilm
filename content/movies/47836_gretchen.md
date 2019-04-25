@@ -1,1 +1,0 @@
-{"tmdb_id": 47836, "title": "Gretchen", "original_title": "Gretchen", "slug_title": "gretchen", "date": "2006-01-01", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aJEKRdxPcXZBmYOrvHgPbDsv22j.jpg", "actors": ["Courtney Davis ()", "John Merriman ()", "Macon Blair ()"], "comments": [], "recommandations_id": []}

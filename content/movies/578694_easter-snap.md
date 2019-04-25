@@ -1,1 +1,0 @@
-{"tmdb_id": 578694, "title": "Easter Snap", "original_title": "Easter Snap", "slug_title": "easter-snap", "date": "2019-01-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

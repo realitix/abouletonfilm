@@ -1,1 +1,0 @@
-{"tmdb_id": 222087, "title": "Julius Caesar", "original_title": "Giulio Cesare", "slug_title": "julius-caesar", "date": "1909-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Giovanni Pastrone (Giulio Cesare)", "Luigi Mele ()"], "comments": [], "recommandations_id": []}

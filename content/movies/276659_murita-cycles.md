@@ -1,1 +1,0 @@
-{"tmdb_id": 276659, "title": "Murita Cycles", "original_title": "Murita Cycles", "slug_title": "murita-cycles", "date": "1979-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

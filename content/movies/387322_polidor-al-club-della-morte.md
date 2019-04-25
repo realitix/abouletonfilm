@@ -1,1 +1,0 @@
-{"tmdb_id": 387322, "title": "Polidor al club della morte", "original_title": "Polidor al club della morte", "slug_title": "polidor-al-club-della-morte", "date": "1912-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Polidor ()"], "comments": [], "recommandations_id": []}

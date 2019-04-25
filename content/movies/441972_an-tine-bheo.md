@@ -1,1 +1,0 @@
-{"tmdb_id": 441972, "title": "An Tine Bheo", "original_title": "An Tine Bheo", "slug_title": "an-tine-bheo", "date": "1966-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gzYwiUVJsSButmxYZxH5mdURTI0.jpg", "actors": [], "comments": [], "recommandations_id": []}

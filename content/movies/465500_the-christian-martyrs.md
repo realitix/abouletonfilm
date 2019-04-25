@@ -1,1 +1,0 @@
-{"tmdb_id": 465500, "title": "The Christian Martyrs", "original_title": "Aux lions les chr\u00e9tiens", "slug_title": "the-christian-martyrs", "date": "1911-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

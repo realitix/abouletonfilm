@@ -1,1 +1,0 @@
-{"tmdb_id": 589956, "title": "Daughters of the Polo God", "original_title": "Daughters of the Polo God", "slug_title": "daughters-of-the-polo-god", "date": "2018-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

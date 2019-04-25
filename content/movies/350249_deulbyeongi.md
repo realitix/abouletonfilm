@@ -1,1 +1,0 @@
-{"tmdb_id": 350249, "title": "\ub4e4\ubcd1\uc774", "original_title": "\ub4e4\ubcd1\uc774", "slug_title": "deulbyeongi", "date": "1989-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

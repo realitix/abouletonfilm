@@ -1,1 +1,0 @@
-{"tmdb_id": 372499, "title": "Nine Inch Nails - Live In Newark 89", "original_title": "Nine Inch Nails - Live In Newark 89", "slug_title": "nine-inch-nails-live-in-newark-89", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

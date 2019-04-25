@@ -1,1 +1,0 @@
-{"tmdb_id": 234716, "title": "Trapeze Pleeze", "original_title": "Trapeze Pleeze", "slug_title": "trapeze-pleeze", "date": "1960-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

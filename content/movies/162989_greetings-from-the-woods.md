@@ -1,1 +1,0 @@
-{"tmdb_id": 162989, "title": "Greetings from the Woods", "original_title": "H\u00e4lsningar fr\u00e5n skogen", "slug_title": "greetings-from-the-woods", "date": "2009-01-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9MX2uyhX5sNuUzRGOriUehDJY3f.jpg", "actors": [], "comments": [], "recommandations_id": []}

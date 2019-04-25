@@ -1,1 +1,0 @@
-{"tmdb_id": 383415, "title": "Brandmand Sam p\u00e5 arbejde", "original_title": "Brandmand Sam p\u00e5 arbejde", "slug_title": "brandmand-sam-pa-arbejde", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vBDc6NDYRwoaPsEzMhfVYazrsH8.jpg", "actors": [], "comments": [], "recommandations_id": []}

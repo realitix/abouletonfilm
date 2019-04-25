@@ -1,1 +1,0 @@
-{"tmdb_id": 465323, "title": "Year of the Dragon", "original_title": "Year of the Dragon", "slug_title": "year-of-the-dragon", "date": "2017-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

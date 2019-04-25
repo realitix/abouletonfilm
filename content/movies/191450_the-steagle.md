@@ -1,1 +1,0 @@
-{"tmdb_id": 191450, "title": "The Steagle", "original_title": "The Steagle", "slug_title": "the-steagle", "date": "1971-09-15", "genre": "Com\u00e9die", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2lzVnoWkb2F3fQ42UrGaLRk1Llw.jpg", "actors": [], "comments": [], "recommandations_id": []}

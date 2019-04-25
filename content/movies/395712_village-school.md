@@ -1,1 +1,0 @@
-{"tmdb_id": 395712, "title": "Village School", "original_title": "Village School", "slug_title": "village-school", "date": "1940-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hWoOO4nb3E3pF9mOOjRfDkv0hp4.jpg", "actors": [], "comments": [], "recommandations_id": []}

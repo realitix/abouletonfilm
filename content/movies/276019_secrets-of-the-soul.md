@@ -1,1 +1,0 @@
-{"tmdb_id": 276019, "title": "Secrets of the Soul", "original_title": "Secrets of the Soul", "slug_title": "secrets-of-the-soul", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

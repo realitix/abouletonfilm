@@ -1,1 +1,0 @@
-{"tmdb_id": 560282, "title": "L'apprenti architecte", "original_title": "L'apprenti architecte", "slug_title": "l-apprenti-architecte", "date": "1908-03-28", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andr\u00e9 Deed (Boireau)"], "comments": [], "recommandations_id": []}

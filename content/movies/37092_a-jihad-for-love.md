@@ -1,1 +1,0 @@
-{"tmdb_id": 37092, "title": "A Jihad for Love", "original_title": "A Jihad for Love", "slug_title": "a-jihad-for-love", "date": "2007-09-09", "genre": "Documentaire", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9nKM3eEoFA6JinMx7oKWKBQAdab.jpg", "actors": [], "comments": [], "recommandations_id": [178516, 82520]}

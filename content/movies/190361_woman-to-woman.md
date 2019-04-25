@@ -1,1 +1,0 @@
-{"tmdb_id": 190361, "title": "Woman to Woman", "original_title": "Woman to Woman", "slug_title": "woman-to-woman", "date": "1929-11-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zvbvjE21aiqNEheMBuiXXrJGdnZ.jpg", "actors": ["Betty Compson (Deloryce / Lola)"], "comments": [], "recommandations_id": []}

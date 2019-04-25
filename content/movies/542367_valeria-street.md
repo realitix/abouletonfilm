@@ -1,1 +1,0 @@
-{"tmdb_id": 542367, "title": "Valeria Street", "original_title": "Valeria Street", "slug_title": "valeria-street", "date": "2018-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

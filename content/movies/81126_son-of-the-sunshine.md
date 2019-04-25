@@ -1,1 +1,0 @@
-{"tmdb_id": 81126, "title": "Son of the Sunshine", "original_title": "Son of the Sunshine", "slug_title": "son-of-the-sunshine", "date": "2009-01-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tlFKmdydgOs1Zn0aZOl3VVJo0aB.jpg", "actors": [], "comments": [], "recommandations_id": []}

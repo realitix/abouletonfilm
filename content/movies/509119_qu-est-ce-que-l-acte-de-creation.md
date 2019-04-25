@@ -1,1 +1,0 @@
-{"tmdb_id": 509119, "title": "Qu'est-ce que l'acte de cr\u00e9ation?", "original_title": "Qu'est-ce que l'acte de cr\u00e9ation?", "slug_title": "qu-est-ce-que-l-acte-de-creation", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gilles Deleuze (himself)"], "comments": [], "recommandations_id": []}

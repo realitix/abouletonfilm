@@ -1,1 +1,0 @@
-{"tmdb_id": 561428, "title": "TRD-062 Tokyo Style 62", "original_title": "TRD-062 Tokyo \u6d41\u5100 62", "slug_title": "trd-062-tokyo-style-62", "date": "2008-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vIKdJN1vkX8Vd9NkPjivHg0qWKh.jpg", "actors": ["Yui Hatano ()"], "comments": [], "recommandations_id": []}

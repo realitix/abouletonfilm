@@ -1,1 +1,0 @@
-{"tmdb_id": 222798, "title": "The Deep Boo Sea", "original_title": "The Deep Boo Sea", "slug_title": "the-deep-boo-sea", "date": "1952-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

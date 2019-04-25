@@ -1,1 +1,0 @@
-{"tmdb_id": 529817, "title": "Adios al odio - Abschied vom Hass", "original_title": "Adios al odio - Abschied vom Hass", "slug_title": "adios-al-odio-abschied-vom-hass", "date": "1988-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

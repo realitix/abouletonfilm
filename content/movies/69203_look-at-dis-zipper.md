@@ -1,1 +1,0 @@
-{"tmdb_id": 69203, "title": "Look at Dis: Zipper", "original_title": "Look at Dis: Zipper", "slug_title": "look-at-dis-zipper", "date": "1997-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1CwNcGNeA1XZZ5H1hIAfVPvxBQl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 271524, "title": "Behind the Nine", "original_title": "Behind the Nine", "slug_title": "behind-the-nine", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

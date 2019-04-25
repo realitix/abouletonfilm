@@ -1,1 +1,0 @@
-{"tmdb_id": 462143, "title": "North Shore Fish", "original_title": "North Shore Fish", "slug_title": "north-shore-fish", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mercedes Ruehl (Florence)"], "comments": [], "recommandations_id": []}

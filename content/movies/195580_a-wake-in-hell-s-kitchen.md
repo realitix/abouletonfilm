@@ -1,1 +1,0 @@
-{"tmdb_id": 195580, "title": "A Wake in 'Hell's Kitchen'", "original_title": "A Wake in 'Hell's Kitchen'", "slug_title": "a-wake-in-hell-s-kitchen", "date": "1900-07-21", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/29ENVLHWpVkLWfDG4tjIwKoKYpf.jpg", "actors": [], "comments": [], "recommandations_id": []}

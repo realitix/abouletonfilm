@@ -1,1 +1,0 @@
-{"tmdb_id": 299875, "title": "Almost Crying", "original_title": "Almost Crying", "slug_title": "almost-crying", "date": "1978-01-01", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harvey Chao ()", "Jacqueline Humbert ()", "Frances Leeming ()"], "comments": [], "recommandations_id": []}

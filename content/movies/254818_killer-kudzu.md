@@ -1,1 +1,0 @@
-{"tmdb_id": 254818, "title": "Killer Kudzu", "original_title": "Killer Kudzu", "slug_title": "killer-kudzu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

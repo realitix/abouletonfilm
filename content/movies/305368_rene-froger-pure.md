@@ -1,1 +1,0 @@
-{"tmdb_id": 305368, "title": "Rene Froger Pure", "original_title": "Rene Froger Pure", "slug_title": "rene-froger-pure", "date": "2004-05-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dsXs01eBiikvUEzj8P3N5YfRKDi.jpg", "actors": ["Rene Froger ()"], "comments": [], "recommandations_id": []}

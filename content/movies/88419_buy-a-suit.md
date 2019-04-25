@@ -1,1 +1,0 @@
-{"tmdb_id": 88419, "title": "Buy a Suit", "original_title": "Buy a Suit", "slug_title": "buy-a-suit", "date": "2009-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4YYYyLLwLx9Z0HbzGdpI9imJSCq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 349485, "title": "\ud669\uae08\uc758 \ud314", "original_title": "\ud669\uae08\uc758 \ud314", "slug_title": "hwanggeumyi-pal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 368766, "title": "Century", "original_title": "Century", "slug_title": "century", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

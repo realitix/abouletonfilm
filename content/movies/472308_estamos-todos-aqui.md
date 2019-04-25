@@ -1,1 +1,0 @@
-{"tmdb_id": 472308, "title": "Estamos Todos aqui", "original_title": "Estamos Todos aqui", "slug_title": "estamos-todos-aqui", "date": "2016-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oXbARURBMexNG8GzCrCnqLYrDJ2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 114522, "title": "Down and Out in America", "original_title": "Down and Out in America", "slug_title": "down-and-out-in-america", "date": "1986-12-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i3EMbmDnQF1cAPV5Kj6e9VjRxIx.jpg", "actors": [], "comments": [], "recommandations_id": []}

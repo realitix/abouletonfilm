@@ -1,1 +1,0 @@
-{"tmdb_id": 313858, "title": "Soulvation: The Best of Northern Soul", "original_title": "Soulvation: The Best of Northern Soul", "slug_title": "soulvation-the-best-of-northern-soul", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

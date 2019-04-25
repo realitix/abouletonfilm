@@ -1,1 +1,0 @@
-{"tmdb_id": 375331, "title": "The Thief Trapper", "original_title": "The Thief Trapper", "slug_title": "the-thief-trapper", "date": "1927-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p2MRkcpNnrqBEhILfkNJU4Dk3QP.jpg", "actors": [], "comments": [], "recommandations_id": []}

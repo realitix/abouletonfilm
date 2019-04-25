@@ -1,1 +1,0 @@
-{"tmdb_id": 292120, "title": "Girlies", "original_title": "Girlies", "slug_title": "girlies", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fVa63FxCo4Z56FZFqCuFV1R2ozu.jpg", "actors": ["Vivian Schmitt ()"], "comments": [], "recommandations_id": []}

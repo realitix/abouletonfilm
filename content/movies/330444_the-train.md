@@ -1,1 +1,0 @@
-{"tmdb_id": 330444, "title": "The Train", "original_title": "The Train", "slug_title": "the-train", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

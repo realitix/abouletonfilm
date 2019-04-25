@@ -1,1 +1,0 @@
-{"tmdb_id": 502982, "title": "VOADOR - Capoeira Movement and Sound", "original_title": "VOADOR - Capoeira Movement and Sound", "slug_title": "voador-capoeira-movement-and-sound", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

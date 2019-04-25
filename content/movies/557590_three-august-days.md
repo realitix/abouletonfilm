@@ -1,1 +1,0 @@
-{"tmdb_id": 557590, "title": "Three August Days", "original_title": "Kolm p\u00e4eva augustis", "slug_title": "three-august-days", "date": "2018-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

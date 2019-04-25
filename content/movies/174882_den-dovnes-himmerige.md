@@ -1,1 +1,0 @@
-{"tmdb_id": 174882, "title": "Den Dovnes Himmerige", "original_title": "Den Dovnes Himmerige", "slug_title": "den-dovnes-himmerige", "date": "1918-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

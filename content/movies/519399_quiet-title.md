@@ -1,1 +1,0 @@
-{"tmdb_id": 519399, "title": "Quiet Title", "original_title": "Quiet Title", "slug_title": "quiet-title", "date": "2015-04-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ldRBg7nfEUezv0zmEPduMbfHgs.jpg", "actors": [], "comments": [], "recommandations_id": []}

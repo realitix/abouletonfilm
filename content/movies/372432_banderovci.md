@@ -1,1 +1,0 @@
-{"tmdb_id": 372432, "title": "Banderovci", "original_title": "Banderovci", "slug_title": "banderovci", "date": "2010-12-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 425752, "title": "Gun of Mercy", "original_title": "Gun of Mercy", "slug_title": "gun-of-mercy", "date": "2008-04-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7mE4q0mdzP6792ZzRhxoyudF71b.jpg", "actors": ["Jiang Wu ()", "Li Bin ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 467580, "title": "Pram Factory", "original_title": "Pram Factory", "slug_title": "pram-factory", "date": "1994-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kFznqXwbrjhcgAFlcQeIR6oVRyU.jpg", "actors": [], "comments": [], "recommandations_id": []}

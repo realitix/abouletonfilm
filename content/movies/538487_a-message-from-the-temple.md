@@ -1,1 +1,0 @@
-{"tmdb_id": 538487, "title": "A Message From the Temple", "original_title": "A Message From the Temple", "slug_title": "a-message-from-the-temple", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Derek Jarman (Spokesman)", "Alan Oversby (Spokesman (Voice))"], "comments": [], "recommandations_id": []}

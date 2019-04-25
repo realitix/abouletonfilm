@@ -1,1 +1,0 @@
-{"tmdb_id": 528058, "title": "Ninety Five/Two or Three", "original_title": "95/23", "slug_title": "ninety-five-two-or-three", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

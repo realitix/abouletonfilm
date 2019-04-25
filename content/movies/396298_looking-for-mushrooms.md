@@ -1,1 +1,0 @@
-{"tmdb_id": 396298, "title": "Looking for Mushrooms", "original_title": "Looking for Mushrooms", "slug_title": "looking-for-mushrooms", "date": "1996-01-01", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qzdiIiW9KYY96DjaihrTVcreXBY.jpg", "actors": [], "comments": [], "recommandations_id": []}

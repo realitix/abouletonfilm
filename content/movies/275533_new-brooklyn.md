@@ -1,1 +1,0 @@
-{"tmdb_id": 275533, "title": "New Brooklyn", "original_title": "New Brooklyn", "slug_title": "new-brooklyn", "date": "2009-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Blanca Lewin (Marta Piro)"], "comments": [], "recommandations_id": []}

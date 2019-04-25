@@ -1,1 +1,0 @@
-{"tmdb_id": 410006, "title": "Six Days", "original_title": "Six Days", "slug_title": "six-days", "date": "2003-10-11", "genre": "Musique / Drame", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/erWogolglrl0hM0uBaKXHaWVL1X.jpg", "actors": ["Chang Chen ()", "Danielle Graham ()"], "comments": [], "recommandations_id": []}

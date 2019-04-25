@@ -1,1 +1,0 @@
-{"tmdb_id": 136652, "title": "Adam Clayton Powell", "original_title": "Adam Clayton Powell", "slug_title": "adam-clayton-powell", "date": "1989-12-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9obKamkcfnClrOtNcC5tkKsMBim.jpg", "actors": [], "comments": [], "recommandations_id": []}

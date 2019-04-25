@@ -1,1 +1,0 @@
-{"tmdb_id": 561229, "title": "Nomadic Doctor", "original_title": "Nomadic Doctor", "slug_title": "nomadic-doctor", "date": "2017-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rfQqNJzTYdURYqNgAwEM2pFTqMH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 336480, "title": "Surviving terminal cancer", "original_title": "Surviving terminal cancer", "slug_title": "surviving-terminal-cancer", "date": "2015-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9bZhE1F9fEFpnZIygRDRVjzuYSN.jpg", "actors": [], "comments": [], "recommandations_id": []}

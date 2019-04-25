@@ -1,1 +1,0 @@
-{"tmdb_id": 332361, "title": "Empire of the Moon", "original_title": "Empire of the Moon", "slug_title": "empire-of-the-moon", "date": "1991-02-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

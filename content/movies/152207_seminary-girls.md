@@ -1,1 +1,0 @@
-{"tmdb_id": 152207, "title": "Seminary Girls", "original_title": "Seminary Girls", "slug_title": "seminary-girls", "date": "1897-03-31", "genre": "Com\u00e9die", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ehwvR1DvOQkl92y1NnUpoZsgiF4.jpg", "actors": [], "comments": [], "recommandations_id": [190731, 144459, 195558, 185220]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 175080, "title": "G4 Live At The Royal Albert Hall", "original_title": "G4 Live At The Royal Albert Hall", "slug_title": "g4-live-at-the-royal-albert-hall", "date": "2005-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

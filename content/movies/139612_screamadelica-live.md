@@ -1,1 +1,0 @@
-{"tmdb_id": 139612, "title": "Screamadelica Live", "original_title": "Screamadelica Live", "slug_title": "screamadelica-live", "date": "2011-07-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zRm4KsCl9JfYfhY7aQ52itkGG7W.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 320751, "title": "Roaring Glory Warbirds: Vought F4U Corsair", "original_title": "Roaring Glory Warbirds: Vought F4U Corsair", "slug_title": "roaring-glory-warbirds-vought-f4u-corsair", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 562217, "title": "Madness, Farewell", "original_title": "Madness, Farewell", "slug_title": "madness-farewell", "date": "2018-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

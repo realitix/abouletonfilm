@@ -1,1 +1,0 @@
-{"tmdb_id": 282473, "title": "Arraial do Cabo", "original_title": "Arraial do Cabo", "slug_title": "arraial-do-cabo", "date": "1960-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n0CLjJIhO3vaw8j8Q9gI6Seo2Ge.jpg", "actors": [], "comments": [], "recommandations_id": []}

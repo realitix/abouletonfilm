@@ -1,1 +1,0 @@
-{"tmdb_id": 349907, "title": "\uac80\uc740 \ub3c4\uc2dc", "original_title": "\uac80\uc740 \ub3c4\uc2dc", "slug_title": "geomeun-dosi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

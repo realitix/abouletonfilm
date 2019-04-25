@@ -1,1 +1,0 @@
-{"tmdb_id": 301038, "title": "War Secrets: Italy's Forgotten Invasion", "original_title": "War Secrets: Italy's Forgotten Invasion", "slug_title": "war-secrets-italy-s-forgotten-invasion", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

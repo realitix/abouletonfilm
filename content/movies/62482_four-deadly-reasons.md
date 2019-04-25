@@ -1,1 +1,0 @@
-{"tmdb_id": 62482, "title": "Four Deadly Reasons", "original_title": "Four Deadly Reasons", "slug_title": "four-deadly-reasons", "date": "2002-06-04", "genre": "Drame / Action / Thriller", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/HpIfguRSW0f2LPE099rElklIVT.jpg", "actors": [], "comments": [], "recommandations_id": []}

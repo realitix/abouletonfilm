@@ -1,1 +1,0 @@
-{"tmdb_id": 400474, "title": "Morality for Youth", "original_title": "Morality for Youth", "slug_title": "morality-for-youth", "date": "1982-01-01", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Spencer W. Kimball (Himself (voice) (archive sound))"], "comments": [], "recommandations_id": []}

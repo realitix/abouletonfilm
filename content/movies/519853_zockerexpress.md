@@ -1,1 +1,0 @@
-{"tmdb_id": 519853, "title": "Zockerexpre\u00df", "original_title": "Zockerexpre\u00df", "slug_title": "zockerexpress", "date": "1991-09-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ivan Desny ()", "Hanno P\u00f6schl (Harry)", "Huub Stapel (Dany)", "Dolly Dollar (Winnie)"], "comments": [], "recommandations_id": []}

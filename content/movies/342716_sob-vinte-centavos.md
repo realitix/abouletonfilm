@@ -1,1 +1,0 @@
-{"tmdb_id": 342716, "title": "Sob Vinte Centavos", "original_title": "Sob Vinte Centavos", "slug_title": "sob-vinte-centavos", "date": "2013-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

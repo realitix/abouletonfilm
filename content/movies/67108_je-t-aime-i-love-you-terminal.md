@@ -1,1 +1,0 @@
-{"tmdb_id": 67108, "title": "Je T'aime, I Love You Terminal", "original_title": "Je T'aime, I Love You Terminal", "slug_title": "je-t-aime-i-love-you-terminal", "date": "2010-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/97SbGnT5Bkiwsd7IoyiHHCsi8wM.jpg", "actors": [], "comments": [], "recommandations_id": []}

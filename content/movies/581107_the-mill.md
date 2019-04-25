@@ -1,1 +1,0 @@
-{"tmdb_id": 581107, "title": "The Mill", "original_title": "The Mill", "slug_title": "the-mill", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

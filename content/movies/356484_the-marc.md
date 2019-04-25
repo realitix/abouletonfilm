@@ -1,1 +1,0 @@
-{"tmdb_id": 356484, "title": "The Marc", "original_title": "The Marc", "slug_title": "the-marc", "date": "1990-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

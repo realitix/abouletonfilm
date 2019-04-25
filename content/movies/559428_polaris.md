@@ -1,1 +1,0 @@
-{"tmdb_id": 559428, "title": "Polaris", "original_title": "Polaris", "slug_title": "polaris", "date": "2018-11-02", "genre": "Animation", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9z8rnlc1zk4YlV3JPYZ5UMqzixw.jpg", "actors": [], "comments": [], "recommandations_id": []}

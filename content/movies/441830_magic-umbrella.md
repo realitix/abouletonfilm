@@ -1,1 +1,0 @@
-{"tmdb_id": 441830, "title": "Magic Umbrella", "original_title": "Magic Umbrella", "slug_title": "magic-umbrella", "date": "1965-01-01", "genre": "", "score": "5.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [163343, 88570, 157513, 147819]}

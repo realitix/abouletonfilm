@@ -1,1 +1,0 @@
-{"tmdb_id": 408060, "title": "All You Can Eat", "original_title": "All You Can Eat", "slug_title": "all-you-can-eat", "date": "2014-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/elyZYXFH3hUNgcTriKEUB8q1kw2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 268184, "title": "Hopkins Vs Jones Jr.", "original_title": "Hopkins Vs Jones Jr.", "slug_title": "hopkins-vs-jones-jr", "date": "1993-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roy Jones Jr. (Himself)", "Bernard Hopkins (Himself)"], "comments": [], "recommandations_id": []}

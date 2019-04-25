@@ -1,1 +1,0 @@
-{"tmdb_id": 195256, "title": "U.S. Cavalry Supplies Unloading at Tampa, Florida", "original_title": "U.S. Cavalry Supplies Unloading at Tampa, Florida", "slug_title": "u-s-cavalry-supplies-unloading-at-tampa-florida", "date": "1898-05-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

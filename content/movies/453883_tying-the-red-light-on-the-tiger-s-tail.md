@@ -1,1 +1,0 @@
-{"tmdb_id": 453883, "title": "Tying the Red Light on the Tiger's Tail", "original_title": "Tying the Red Light on the Tiger's Tail", "slug_title": "tying-the-red-light-on-the-tiger-s-tail", "date": "1903-11-23", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

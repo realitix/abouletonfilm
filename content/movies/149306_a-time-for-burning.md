@@ -1,1 +1,0 @@
-{"tmdb_id": 149306, "title": "A Time for Burning", "original_title": "A Time for Burning", "slug_title": "a-time-for-burning", "date": "1967-02-23", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uNzMRR9T0cMIkU8pzXI1zjzwVdL.jpg", "actors": [], "comments": [], "recommandations_id": []}

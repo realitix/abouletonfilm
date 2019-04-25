@@ -1,1 +1,0 @@
-{"tmdb_id": 236563, "title": "Mouse Trappers", "original_title": "Mouse Trappers", "slug_title": "mouse-trappers", "date": "1941-01-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zOiULPaRVWcgQtLSC8UUIhvFkPV.jpg", "actors": [], "comments": [], "recommandations_id": []}

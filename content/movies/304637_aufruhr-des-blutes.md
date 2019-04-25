@@ -1,1 +1,0 @@
-{"tmdb_id": 304637, "title": "Aufruhr des Blutes", "original_title": "Aufruhr des Blutes", "slug_title": "aufruhr-des-blutes", "date": "1929-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

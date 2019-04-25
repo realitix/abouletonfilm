@@ -1,1 +1,0 @@
-{"tmdb_id": 333953, "title": "Dumpling Brothers", "original_title": "Pelmeni", "slug_title": "dumpling-brothers", "date": "2013-08-29", "genre": "Com\u00e9die / Drame", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

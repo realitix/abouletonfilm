@@ -1,1 +1,0 @@
-{"tmdb_id": 589402, "title": "Denise Austin: Blast Away 10 Lbs", "original_title": "Denise Austin: Blast Away 10 Lbs", "slug_title": "denise-austin-blast-away-10-lbs", "date": "2005-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

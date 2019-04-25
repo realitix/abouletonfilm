@@ -1,1 +1,0 @@
-{"tmdb_id": 41457, "title": "BJ Penn: 90 Days", "original_title": "BJ Penn: 90 Days", "slug_title": "bj-penn-90-days", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pioRuJCZHdvK0tj3J3LtUPHDbuR.jpg", "actors": [], "comments": [], "recommandations_id": []}

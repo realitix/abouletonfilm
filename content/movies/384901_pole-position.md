@@ -1,1 +1,0 @@
-{"tmdb_id": 384901, "title": "Pole Position", "original_title": "Pole Position", "slug_title": "pole-position", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3bHEYsUD32FCpICkRzIqgoJGYvv.jpg", "actors": [], "comments": [], "recommandations_id": []}

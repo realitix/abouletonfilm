@@ -1,1 +1,0 @@
-{"tmdb_id": 469071, "title": "Love Means Zero", "original_title": "Love Means Zero", "slug_title": "love-means-zero", "date": "2017-09-09", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yPVGTIkNOnLN35CwdfFjLooPZ59.jpg", "actors": ["Nick Bollettieri (Himself)"], "comments": [], "recommandations_id": []}

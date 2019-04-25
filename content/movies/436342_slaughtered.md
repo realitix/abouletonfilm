@@ -1,1 +1,0 @@
-{"tmdb_id": 436342, "title": "Slaughtered", "original_title": "Slaughtered", "slug_title": "slaughtered", "date": "2008-10-21", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jOSEhXKY3S4FH3nkjkFnWb4eFsP.jpg", "actors": [], "comments": [], "recommandations_id": []}

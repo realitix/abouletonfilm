@@ -1,1 +1,0 @@
-{"tmdb_id": 352462, "title": "Limp Bizkit - Live at Woodstock '99", "original_title": "Limp Bizkit - Live at Woodstock '99", "slug_title": "limp-bizkit-live-at-woodstock-99", "date": "1999-07-24", "genre": "Musique", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

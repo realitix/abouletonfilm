@@ -1,1 +1,0 @@
-{"tmdb_id": 592740, "title": "Aftermath: The Remnants of War", "original_title": "Aftermath: The Remnants of War", "slug_title": "aftermath-the-remnants-of-war", "date": "2011-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

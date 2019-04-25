@@ -1,1 +1,0 @@
-{"tmdb_id": 313136, "title": "Harrier", "original_title": "Harrier", "slug_title": "harrier", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

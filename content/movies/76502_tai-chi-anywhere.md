@@ -1,1 +1,0 @@
-{"tmdb_id": 76502, "title": "Tai Chi Anywhere", "original_title": "Tai Chi Anywhere", "slug_title": "tai-chi-anywhere", "date": "2000-07-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/RElxGnE8gZPweMlEcw6flga72f.jpg", "actors": [], "comments": [], "recommandations_id": []}

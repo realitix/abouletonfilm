@@ -1,1 +1,0 @@
-{"tmdb_id": 396111, "title": "The Third Day", "original_title": "Le troisi\u00e8me jour", "slug_title": "the-third-day", "date": "1967-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 413810, "title": "SuperCroc", "original_title": "SuperCroc", "slug_title": "supercroc", "date": "2001-10-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8EQZ56AGQtqZBkUhSULA9jRB4Ht.jpg", "actors": ["Sam Neill (narrator)", "Simon Boyce (Writer)"], "comments": [], "recommandations_id": []}

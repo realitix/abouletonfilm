@@ -1,1 +1,0 @@
-{"tmdb_id": 346563, "title": "God's Speed", "original_title": "God's Speed", "slug_title": "god-s-speed", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carlos Ramirez ()", "Steve Crest ()", "Renzo Lewis ()", "Talon Reid ()", "Jos\u00e9 Solano ()"], "comments": [], "recommandations_id": []}

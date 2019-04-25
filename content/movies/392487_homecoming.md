@@ -1,1 +1,0 @@
-{"tmdb_id": 392487, "title": "Homecoming", "original_title": "Homecoming", "slug_title": "homecoming", "date": "2003-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elizabeth Oropesa ()", "Alessandra de Rossi ()", "Bembol Roco ()"], "comments": [], "recommandations_id": []}

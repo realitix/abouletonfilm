@@ -1,1 +1,0 @@
-{"tmdb_id": 137454, "title": "Taur Mittran Di", "original_title": "Taur Mittran Di", "slug_title": "taur-mittran-di", "date": "2012-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n67vft64SKlSgUXQ8vWp4sdRWQ7.jpg", "actors": [], "comments": [], "recommandations_id": []}

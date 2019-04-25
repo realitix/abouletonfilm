@@ -1,1 +1,0 @@
-{"tmdb_id": 561648, "title": "Sedu\u00e7\u00e3o", "original_title": "Sedu\u00e7\u00e3o", "slug_title": "seducao", "date": "2004-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wuRS6j0vUdVkJTrWjDtsxl0aAX0.jpg", "actors": ["Rita Cadillac ()"], "comments": [], "recommandations_id": []}

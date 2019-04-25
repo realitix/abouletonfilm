@@ -1,1 +1,0 @@
-{"tmdb_id": 285222, "title": "Structural Filmwaste. Dissolution 1", "original_title": "Structural Filmwaste. Dissolution 1", "slug_title": "structural-filmwaste-dissolution-1", "date": "2003-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 443985, "title": "Marvelous Stunts Of Kung Fu", "original_title": "Marvelous Stunts Of Kung Fu", "slug_title": "marvelous-stunts-of-kung-fu", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eLs9RqwkrEDFM3MhcbiPvcn95tP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 312233, "title": "Best Trip Ever", "original_title": "Best Trip Ever", "slug_title": "best-trip-ever", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

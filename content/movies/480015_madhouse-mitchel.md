@@ -1,1 +1,0 @@
-{"tmdb_id": 480015, "title": "Madhouse Mitchel", "original_title": "Madhouse Mitchel", "slug_title": "madhouse-mitchel", "date": "2017-04-20", "genre": "Animation / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ocdKNdzkuvQvpq5UQlBBwp4Hbu.jpg", "actors": [], "comments": [], "recommandations_id": []}

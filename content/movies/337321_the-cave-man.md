@@ -1,1 +1,0 @@
-{"tmdb_id": 337321, "title": "The Cave Man", "original_title": "The Cave Man", "slug_title": "the-cave-man", "date": "1912-04-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ralph Ince ()", "Edith Storey ()", "Harry Northrup ()", "Rose Tapley ()", "Tefft Johnson ()"], "comments": [], "recommandations_id": []}

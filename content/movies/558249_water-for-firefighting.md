@@ -1,1 +1,0 @@
-{"tmdb_id": 558249, "title": "Water for Firefighting", "original_title": "Water for Firefighting", "slug_title": "water-for-firefighting", "date": "1948-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

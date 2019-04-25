@@ -1,1 +1,0 @@
-{"tmdb_id": 359137, "title": "Hideo Kojima's Gene", "original_title": "Hideo Kojima's Gene", "slug_title": "hideo-kojima-s-gene", "date": "2008-06-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hideo Kojima (Himself)"], "comments": [], "recommandations_id": []}

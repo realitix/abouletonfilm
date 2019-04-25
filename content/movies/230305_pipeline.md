@@ -1,1 +1,0 @@
-{"tmdb_id": 230305, "title": "Pipeline", "original_title": "\u0422\u0440\u0443\u0431\u0430", "slug_title": "pipeline", "date": "2016-01-14", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Jo0w3FUSxOt4fM9QoiHuIKE91t.jpg", "actors": [], "comments": [], "recommandations_id": []}

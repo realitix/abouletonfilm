@@ -1,1 +1,0 @@
-{"tmdb_id": 77289, "title": "Night People", "original_title": "Night People", "slug_title": "night-people", "date": "2005-08-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oPalV0B5UzTBdyztqVlFmIrkm06.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 183615, "title": "The Delhi Durbar", "original_title": "The Delhi Durbar", "slug_title": "the-delhi-durbar", "date": "1903-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/luCtKQxFGRRxTty2PM7vkG3EML4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 417392, "title": "\uc219\ub140 \ucd08\ub144\uc0dd", "original_title": "\uc219\ub140 \ucd08\ub144\uc0dd", "slug_title": "sugnyeo-conyeonsaeng", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

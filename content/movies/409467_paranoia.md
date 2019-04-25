@@ -1,1 +1,0 @@
-{"tmdb_id": 409467, "title": "Paranoia", "original_title": "Paranoia", "slug_title": "paranoia", "date": "2010-08-03", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n0M2d4nt1NpvlarPOgiZzFeiJzD.jpg", "actors": [], "comments": [], "recommandations_id": []}

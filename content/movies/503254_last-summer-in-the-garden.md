@@ -1,1 +1,0 @@
-{"tmdb_id": 503254, "title": "Last Summer, In the Garden", "original_title": "Last Summer, In the Garden", "slug_title": "last-summer-in-the-garden", "date": "2017-08-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b9Hg81bbskPxvM3efnhQObOU8tw.jpg", "actors": [], "comments": [], "recommandations_id": []}

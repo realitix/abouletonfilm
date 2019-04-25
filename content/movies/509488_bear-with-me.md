@@ -1,1 +1,0 @@
-{"tmdb_id": 509488, "title": "Bear With Me", "original_title": "Chalomot Shel Doubim", "slug_title": "bear-with-me", "date": "2013-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9T8L11ODIMgFLC0Xh7AuxKJ3I5j.jpg", "actors": [], "comments": [], "recommandations_id": []}

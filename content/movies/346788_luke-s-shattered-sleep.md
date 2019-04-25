@@ -1,1 +1,0 @@
-{"tmdb_id": 346788, "title": "Luke's Shattered Sleep", "original_title": "Luke's Shattered Sleep", "slug_title": "luke-s-shattered-sleep", "date": "1916-12-31", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harold Lloyd ()", "Bebe Daniels ()", "'Snub' Pollard ()"], "comments": [], "recommandations_id": []}

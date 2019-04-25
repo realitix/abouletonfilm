@@ -1,1 +1,0 @@
-{"tmdb_id": 509395, "title": "Kosi Ew\u00e9 Kosi Orix\u00e1", "original_title": "Kosi Ew\u00e9 Kosi Orix\u00e1", "slug_title": "kosi-ewe-kosi-orixa", "date": "2018-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/frRe60MsqFWSLbwQKQDPh9GaywH.jpg", "actors": [], "comments": [], "recommandations_id": []}

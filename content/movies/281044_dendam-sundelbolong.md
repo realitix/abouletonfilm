@@ -1,1 +1,0 @@
-{"tmdb_id": 281044, "title": "Dendam Sundelbolong", "original_title": "Dendam Sundelbolong", "slug_title": "dendam-sundelbolong", "date": "2011-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mRhmY0fyPaNrnls1m3jQbzpfYHC.jpg", "actors": ["Yasmin Hani ()", "Didie Alias ()"], "comments": [], "recommandations_id": []}

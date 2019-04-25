@@ -1,1 +1,0 @@
-{"tmdb_id": 434100, "title": "The Blood of the Pariahs", "original_title": "Le sang des parias", "slug_title": "the-blood-of-the-pariahs", "date": "1973-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aminata Diawara ()", "Mariam Fofana ()", "Georges Ouedraogo ()"], "comments": [], "recommandations_id": []}

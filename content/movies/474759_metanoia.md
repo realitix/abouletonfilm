@@ -1,1 +1,0 @@
-{"tmdb_id": 474759, "title": "Metanoia", "original_title": "Metanoia", "slug_title": "metanoia", "date": "2015-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9MrepjFPZ1OSs9yMoiupD2BZNhW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 458245, "title": "Dum spiro spero", "original_title": "Dum spiro spero", "slug_title": "dum-spiro-spero", "date": "2017-05-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fQ0EpcV9Y4TOntnGLISuspEs5of.jpg", "actors": ["Pero Kvesi\u0107 (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 390250, "title": "Lanterna", "original_title": "Lanterna", "slug_title": "lanterna", "date": "2016-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9iHgW8gUSY499fVyUErQE5NenAr.jpg", "actors": [], "comments": [], "recommandations_id": []}

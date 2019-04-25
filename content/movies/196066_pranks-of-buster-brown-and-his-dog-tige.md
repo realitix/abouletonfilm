@@ -1,1 +1,0 @@
-{"tmdb_id": 196066, "title": "Pranks of Buster Brown and His Dog Tige", "original_title": "Pranks of Buster Brown and His Dog Tige", "slug_title": "pranks-of-buster-brown-and-his-dog-tige", "date": "1904-03-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

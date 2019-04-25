@@ -1,1 +1,0 @@
-{"tmdb_id": 595581, "title": "Where Chaos Reigns", "original_title": "Where Chaos Reigns", "slug_title": "where-chaos-reigns", "date": "2019-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

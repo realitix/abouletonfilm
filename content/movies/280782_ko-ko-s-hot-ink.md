@@ -1,1 +1,0 @@
-{"tmdb_id": 280782, "title": "Ko-Ko's Hot Ink", "original_title": "Ko-Ko's Hot Ink", "slug_title": "ko-ko-s-hot-ink", "date": "1929-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 333752, "title": "Little Man", "original_title": "Shraga Hakatan", "slug_title": "little-man", "date": "1978-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ze'ev Revach ()", "Nitza Shaul ()", "Liora Tikotsky ()"], "comments": [], "recommandations_id": []}

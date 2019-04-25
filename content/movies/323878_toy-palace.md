@@ -1,1 +1,0 @@
-{"tmdb_id": 323878, "title": "Toy Palace", "original_title": "Toy Palace", "slug_title": "toy-palace", "date": "2013-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

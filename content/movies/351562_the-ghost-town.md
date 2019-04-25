@@ -1,1 +1,0 @@
-{"tmdb_id": 351562, "title": "The Ghost Town", "original_title": "The Ghost Town", "slug_title": "the-ghost-town", "date": "1944-09-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fHSSmDzns1ErQfiZa9m1Y9WAKL3.jpg", "actors": ["Arthur Kay (Gandy Goose (voice))"], "comments": [], "recommandations_id": []}

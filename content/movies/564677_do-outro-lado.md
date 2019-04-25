@@ -1,1 +1,0 @@
-{"tmdb_id": 564677, "title": "Do outro lado", "original_title": "Do outro lado", "slug_title": "do-outro-lado", "date": "2018-10-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chang Hsi Oh (herself)"], "comments": [], "recommandations_id": []}

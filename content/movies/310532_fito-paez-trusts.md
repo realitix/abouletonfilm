@@ -1,1 +1,0 @@
-{"tmdb_id": 310532, "title": "Fito Paez Trusts", "original_title": "Fito Paez Conf\u00eda", "slug_title": "fito-paez-trusts", "date": "2011-04-30", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dTuXCyoLOznyMatxyipKFiQ258x.jpg", "actors": ["Fito Paez ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 387359, "title": "La moda vuole l'ala larga", "original_title": "La moda vuole l'ala larga", "slug_title": "la-moda-vuole-l-ala-larga", "date": "1912-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernesto Vaser ()"], "comments": [], "recommandations_id": []}

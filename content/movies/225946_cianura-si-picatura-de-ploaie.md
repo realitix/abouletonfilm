@@ -1,1 +1,0 @@
-{"tmdb_id": 225946, "title": "Cianura si picatura de ploaie", "original_title": "Cianura si picatura de ploaie", "slug_title": "cianura-si-picatura-de-ploaie", "date": "1978-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 312238, "title": "Burn the Floor: The New Show: Floor Play", "original_title": "Burn the Floor: The New Show: Floor Play", "slug_title": "burn-the-floor-the-new-show-floor-play", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 395867, "title": "Architecture", "original_title": "Architecture", "slug_title": "architecture", "date": "1980-05-03", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kSbqRvfA9dnVEtQIrbbEgH8FBYw.jpg", "actors": [], "comments": [], "recommandations_id": []}

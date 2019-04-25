@@ -1,1 +1,0 @@
-{"tmdb_id": 444702, "title": "Americans Underground: Secret City of WWI", "original_title": "Americans Underground: Secret City of WWI", "slug_title": "americans-underground-secret-city-of-wwi", "date": "2017-03-13", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

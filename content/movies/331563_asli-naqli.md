@@ -1,1 +1,0 @@
-{"tmdb_id": 331563, "title": "Asli Naqli", "original_title": "Asli Naqli", "slug_title": "asli-naqli", "date": "1986-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l4vmPL8umStaUMZs9AbBBszxJik.jpg", "actors": ["Rajinikanth ()"], "comments": [], "recommandations_id": []}

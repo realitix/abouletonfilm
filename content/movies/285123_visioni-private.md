@@ -1,1 +1,0 @@
-{"tmdb_id": 285123, "title": "Visioni private", "original_title": "Visioni private", "slug_title": "visioni-private", "date": "1990-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Patrick Bauchau ()", "Antonino Bruschetta ()"], "comments": [], "recommandations_id": []}

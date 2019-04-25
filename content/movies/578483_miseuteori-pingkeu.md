@@ -1,1 +1,0 @@
-{"tmdb_id": 578483, "title": "\ubbf8\uc2a4\ud130\ub9ac \ud551\ud06c", "original_title": "\ubbf8\uc2a4\ud130\ub9ac \ud551\ud06c", "slug_title": "miseuteori-pingkeu", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Seo Hyun-jin ()", "Yang Dong-geun ()"], "comments": [], "recommandations_id": []}

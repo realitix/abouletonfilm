@@ -1,1 +1,0 @@
-{"tmdb_id": 327922, "title": "OE. 20 LIVE IN KYIV", "original_title": "OE. 20 LIVE IN KYIV", "slug_title": "oe-20-live-in-kyiv", "date": "2015-02-26", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h9BcGTSSDpDMoAG1phKYIxjM6XA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 549342, "title": "Cooperativa Agr\u00edcola da Torre-Bela", "original_title": "Cooperativa Agr\u00edcola da Torre-Bela", "slug_title": "cooperativa-agricola-da-torre-bela", "date": "1975-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

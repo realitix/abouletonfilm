@@ -1,1 +1,0 @@
-{"tmdb_id": 280908, "title": "Voices of the Land: Ng\u0101 Reo o te Whenua", "original_title": "Voices of the Land: Ng\u0101 Reo o te Whenua", "slug_title": "voices-of-the-land-nga-reo-o-te-whenua", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 533952, "title": "The Prince and the Pretender", "original_title": "The Prince and the Pretender", "slug_title": "the-prince-and-the-pretender", "date": "1996-06-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

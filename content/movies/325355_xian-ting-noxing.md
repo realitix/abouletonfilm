@@ -1,1 +1,0 @@
-{"tmdb_id": 325355, "title": "\u770c\u5e81\u306e\u661f", "original_title": "\u770c\u5e81\u306e\u661f", "slug_title": "xian-ting-noxing", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

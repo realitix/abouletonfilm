@@ -1,1 +1,0 @@
-{"tmdb_id": 371201, "title": "Good Morning, Children", "original_title": "Dzie\u0144 dobry, dzieci", "slug_title": "good-morning-children", "date": "1967-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kjnc8M7jsCC1A4oMifnE7eTlfp6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 413335, "title": "Static Between Stations", "original_title": "Static Between Stations", "slug_title": "static-between-stations", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9HTWf5DT7xgwn8etqmVd620KPBJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

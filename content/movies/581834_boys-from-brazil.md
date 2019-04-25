@@ -1,1 +1,0 @@
-{"tmdb_id": 581834, "title": "Boys from Brazil", "original_title": "Boys from Brazil", "slug_title": "boys-from-brazil", "date": "1993-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/87xzHXrsF16qYVq45m1R2xRpkSW.jpg", "actors": [], "comments": [], "recommandations_id": []}

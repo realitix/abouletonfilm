@@ -1,1 +1,0 @@
-{"tmdb_id": 594059, "title": "Bristlecornpine", "original_title": "Bristlecornpine", "slug_title": "bristlecornpine", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jCgeD5N5lalBZtkjk6mDPzu0WAP.jpg", "actors": [], "comments": [], "recommandations_id": []}

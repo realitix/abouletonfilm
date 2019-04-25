@@ -1,1 +1,0 @@
-{"tmdb_id": 161953, "title": "Boilesk", "original_title": "Boilesk", "slug_title": "boilesk", "date": "1933-06-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7S2VUX7Tx7F7dpOKWIgUfodRzwG.jpg", "actors": ["Kitty Watson (Herself)", "Fanny Watson (Herself)"], "comments": [], "recommandations_id": []}

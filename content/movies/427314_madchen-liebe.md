@@ -1,1 +1,0 @@
-{"tmdb_id": 427314, "title": "M\u00e4dchen Liebe", "original_title": "M\u00e4dchen Liebe", "slug_title": "madchen-liebe", "date": "2010-10-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

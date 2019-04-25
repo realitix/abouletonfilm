@@ -1,1 +1,0 @@
-{"tmdb_id": 143395, "title": "Antico Egitto. Le grandi scoperte", "original_title": "Antico Egitto. Le grandi scoperte", "slug_title": "antico-egitto-le-grandi-scoperte", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lOTwQrk2HH1MG0rqr9KXuB1hYPo.jpg", "actors": [], "comments": [], "recommandations_id": []}

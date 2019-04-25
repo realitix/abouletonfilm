@@ -1,1 +1,0 @@
-{"tmdb_id": 407603, "title": "Are You With Me?", "original_title": "Are You With Me?", "slug_title": "are-you-with-me", "date": "2016-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7vTmPwYk38iXL2VnSLb1M2s246j.jpg", "actors": [], "comments": [], "recommandations_id": []}

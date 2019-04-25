@@ -1,1 +1,0 @@
-{"tmdb_id": 430282, "title": "The Price", "original_title": "The Price", "slug_title": "the-price", "date": "1911-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lois Weber (Ann)", "Phillips Smalley (Joe)"], "comments": [], "recommandations_id": []}

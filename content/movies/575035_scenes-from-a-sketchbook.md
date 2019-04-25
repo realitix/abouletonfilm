@@ -1,1 +1,0 @@
-{"tmdb_id": 575035, "title": "Scenes From a Sketchbook", "original_title": "Scenes From a Sketchbook", "slug_title": "scenes-from-a-sketchbook", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ePeMkjPBve7lZavXUBmYkemD6Yy.jpg", "actors": [], "comments": [], "recommandations_id": []}

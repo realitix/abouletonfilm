@@ -1,1 +1,0 @@
-{"tmdb_id": 569689, "title": "Onde Come\u00e7a um Rio", "original_title": "Onde Come\u00e7a um Rio", "slug_title": "onde-comeca-um-rio", "date": "2017-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8sEd8wzjUT2UZ7KFJyv3QfjCbO6.jpg", "actors": [], "comments": [], "recommandations_id": []}

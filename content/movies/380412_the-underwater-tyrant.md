@@ -1,1 +1,0 @@
-{"tmdb_id": 380412, "title": "The Underwater Tyrant", "original_title": "Kaitei no Boukun", "slug_title": "the-underwater-tyrant", "date": "1930-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6T4DyoFrWZAi6B7ZXp0eGQQfDaL.jpg", "actors": [], "comments": [], "recommandations_id": []}

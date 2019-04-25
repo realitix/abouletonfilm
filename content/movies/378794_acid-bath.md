@@ -1,1 +1,0 @@
-{"tmdb_id": 378794, "title": "Acid Bath", "original_title": "Acid Bath", "slug_title": "acid-bath", "date": "2006-04-01", "genre": "Thriller / Action / Crime / Horreur", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oeclq2PA0Ks8XWgB87weTrNDsZk.jpg", "actors": [], "comments": [], "recommandations_id": []}

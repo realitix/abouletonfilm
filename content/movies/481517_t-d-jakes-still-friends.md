@@ -1,1 +1,0 @@
-{"tmdb_id": 481517, "title": "T.D. Jakes: Still Friends?", "original_title": "T.D. Jakes: Still Friends?", "slug_title": "t-d-jakes-still-friends", "date": "2006-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hLP6vI1vW2dDkGFyuNfA26XlfOp.jpg", "actors": ["T.D. Jakes ()"], "comments": [], "recommandations_id": []}

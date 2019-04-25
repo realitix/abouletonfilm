@@ -1,1 +1,0 @@
-{"tmdb_id": 442009, "title": "Dies Irae", "original_title": "Dies Irae", "slug_title": "dies-irae", "date": "1972-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

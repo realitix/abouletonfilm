@@ -1,1 +1,0 @@
-{"tmdb_id": 162839, "title": "Krapatchouk", "original_title": "Krapatchouk", "slug_title": "krapatchouk", "date": "1993-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qFU582xssMIi0vNcKBkXe3p97Qg.jpg", "actors": [], "comments": [], "recommandations_id": []}

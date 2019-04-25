@@ -1,1 +1,0 @@
-{"tmdb_id": 441962, "title": "La felicidad del sonido", "original_title": "La felicidad del sonido", "slug_title": "la-felicidad-del-sonido", "date": "2016-11-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/smky45VjoG8JBFsuenvJADUomlv.jpg", "actors": [], "comments": [], "recommandations_id": []}

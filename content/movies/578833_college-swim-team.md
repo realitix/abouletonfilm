@@ -1,1 +1,0 @@
-{"tmdb_id": 578833, "title": "College Swim Team", "original_title": "College Swim Team", "slug_title": "college-swim-team", "date": "2001-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pzrK0vCgbGMI8d5PYjhzKOygz8l.jpg", "actors": [], "comments": [], "recommandations_id": []}

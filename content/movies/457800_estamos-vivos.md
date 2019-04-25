@@ -1,1 +1,0 @@
-{"tmdb_id": 457800, "title": "Estamos Vivos", "original_title": "Estamos Vivos", "slug_title": "estamos-vivos", "date": "2017-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/63XK15bgl3L5iU2bRNJmL9rFvB.jpg", "actors": [], "comments": [], "recommandations_id": []}

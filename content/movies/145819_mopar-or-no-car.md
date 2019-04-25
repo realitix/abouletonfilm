@@ -1,1 +1,0 @@
-{"tmdb_id": 145819, "title": "Mopar Or No Car", "original_title": "Mopar Or No Car", "slug_title": "mopar-or-no-car", "date": "2011-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

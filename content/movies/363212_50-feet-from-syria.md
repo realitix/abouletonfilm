@@ -1,1 +1,0 @@
-{"tmdb_id": 363212, "title": "50 Feet from Syria", "original_title": "50 Feet from Syria", "slug_title": "50-feet-from-syria", "date": "2015-06-12", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2wwQGwnOce0nj27qrwZAObAsSfv.jpg", "actors": [], "comments": [], "recommandations_id": []}

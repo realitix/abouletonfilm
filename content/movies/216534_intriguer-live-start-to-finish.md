@@ -1,1 +1,0 @@
-{"tmdb_id": 216534, "title": "Intriguer Live Start to Finish", "original_title": "Intriguer Live Start to Finish", "slug_title": "intriguer-live-start-to-finish", "date": "2011-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

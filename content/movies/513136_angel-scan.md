@@ -1,1 +1,0 @@
-{"tmdb_id": 513136, "title": "Angel Scan", "original_title": "Angel Scan", "slug_title": "angel-scan", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kkFznkYMzjj9BluGVTkNcGNwlWy.jpg", "actors": ["Maria Klonaris ()"], "comments": [], "recommandations_id": []}

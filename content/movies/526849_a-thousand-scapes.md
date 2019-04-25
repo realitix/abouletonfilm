@@ -1,1 +1,0 @@
-{"tmdb_id": 526849, "title": "A Thousand Scapes", "original_title": "A Thousand Scapes", "slug_title": "a-thousand-scapes", "date": "2009-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

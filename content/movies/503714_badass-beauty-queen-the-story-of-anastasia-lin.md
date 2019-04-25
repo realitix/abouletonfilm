@@ -1,1 +1,0 @@
-{"tmdb_id": 503714, "title": "Badass Beauty Queen: The Story of Anastasia Lin", "original_title": "Badass Beauty Queen: The Story of Anastasia Lin", "slug_title": "badass-beauty-queen-the-story-of-anastasia-lin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

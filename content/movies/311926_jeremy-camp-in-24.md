@@ -1,1 +1,0 @@
-{"tmdb_id": 311926, "title": "Jeremy Camp: In 24", "original_title": "Jeremy Camp: In 24", "slug_title": "jeremy-camp-in-24", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

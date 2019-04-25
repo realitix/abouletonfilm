@@ -1,1 +1,0 @@
-{"tmdb_id": 311909, "title": "Faure, Franck, Bizet and Saint-Saens", "original_title": "Faure, Franck, Bizet and Saint-Saens", "slug_title": "faure-franck-bizet-and-saint-saens", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

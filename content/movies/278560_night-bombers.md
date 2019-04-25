@@ -1,1 +1,0 @@
-{"tmdb_id": 278560, "title": "Night Bombers", "original_title": "Night Bombers", "slug_title": "night-bombers", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

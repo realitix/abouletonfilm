@@ -1,1 +1,0 @@
-{"tmdb_id": 559327, "title": "Sombre dimanche", "original_title": "Sombre dimanche", "slug_title": "sombre-dimanche", "date": "1949-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

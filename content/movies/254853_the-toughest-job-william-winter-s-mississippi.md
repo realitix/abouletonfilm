@@ -1,1 +1,0 @@
-{"tmdb_id": 254853, "title": "The Toughest Job: William Winter's Mississippi", "original_title": "The Toughest Job: William Winter's Mississippi", "slug_title": "the-toughest-job-william-winter-s-mississippi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

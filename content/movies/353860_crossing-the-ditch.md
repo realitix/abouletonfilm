@@ -1,1 +1,0 @@
-{"tmdb_id": 353860, "title": "Crossing the Ditch", "original_title": "Crossing the Ditch", "slug_title": "crossing-the-ditch", "date": "2010-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

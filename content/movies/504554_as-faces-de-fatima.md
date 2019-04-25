@@ -1,1 +1,0 @@
-{"tmdb_id": 504554, "title": "As Faces de F\u00e1tima", "original_title": "As Faces de F\u00e1tima", "slug_title": "as-faces-de-fatima", "date": "2017-05-08", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dr. Joaquim Fernandes (Himself)"], "comments": [], "recommandations_id": []}

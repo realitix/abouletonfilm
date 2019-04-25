@@ -1,1 +1,0 @@
-{"tmdb_id": 264096, "title": "Genealogy", "original_title": "\uc871\ubcf4", "slug_title": "genealogy", "date": "1979-04-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7eyBcvrG5CW0B2JQBcAV6QJTSBB.jpg", "actors": ["Ha Myeong-jung (Tani)", "Han Hye-suk (Ok-sun)"], "comments": [], "recommandations_id": []}

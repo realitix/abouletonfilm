@@ -1,1 +1,0 @@
-{"tmdb_id": 515810, "title": "How We Live - Messages to the Family", "original_title": "So Leben Wir - Botschaften an die Familie", "slug_title": "how-we-live-messages-to-the-family", "date": "2017-10-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 593411, "title": "Lunar Economic Zone", "original_title": "Lunar Economic Zone", "slug_title": "lunar-economic-zone", "date": "2014-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

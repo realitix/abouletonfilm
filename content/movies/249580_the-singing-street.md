@@ -1,1 +1,0 @@
-{"tmdb_id": 249580, "title": "The Singing Street", "original_title": "The Singing Street", "slug_title": "the-singing-street", "date": "1952-01-01", "genre": "Documentaire", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rMdFUIV1meqPw3mQlpZM0yKKlCI.jpg", "actors": [], "comments": [], "recommandations_id": []}

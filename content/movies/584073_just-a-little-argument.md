@@ -1,1 +1,0 @@
-{"tmdb_id": 584073, "title": "Just a Little Argument", "original_title": "Just a Little Argument", "slug_title": "just-a-little-argument", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n2brJq8obTj3BRin7jpxfQfgcsH.jpg", "actors": [], "comments": [], "recommandations_id": []}

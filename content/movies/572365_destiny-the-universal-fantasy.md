@@ -1,1 +1,0 @@
-{"tmdb_id": 572365, "title": "Destiny... The Universal Fantasy", "original_title": "Destiny... The Universal Fantasy", "slug_title": "destiny-the-universal-fantasy", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

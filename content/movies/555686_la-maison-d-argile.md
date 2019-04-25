@@ -1,1 +1,0 @@
-{"tmdb_id": 555686, "title": "La maison d'argile", "original_title": "La maison d'argile", "slug_title": "la-maison-d-argile", "date": "1918-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

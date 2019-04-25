@@ -1,1 +1,0 @@
-{"tmdb_id": 567454, "title": "The Making Of True Stories", "original_title": "The Making Of True Stories", "slug_title": "the-making-of-true-stories", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

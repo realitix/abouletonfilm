@@ -1,1 +1,0 @@
-{"tmdb_id": 224773, "title": "Deshabitarse", "original_title": "Deshabitarse", "slug_title": "deshabitarse", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Clara del Corral ()"], "comments": [], "recommandations_id": []}

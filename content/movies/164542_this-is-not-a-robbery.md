@@ -1,1 +1,0 @@
-{"tmdb_id": 164542, "title": "This Is Not a Robbery", "original_title": "This Is Not a Robbery", "slug_title": "this-is-not-a-robbery", "date": "2008-03-31", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

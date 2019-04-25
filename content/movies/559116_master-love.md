@@ -1,1 +1,0 @@
-{"tmdb_id": 559116, "title": "Master Love", "original_title": "Master Love", "slug_title": "master-love", "date": "1946-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

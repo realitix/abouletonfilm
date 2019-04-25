@@ -1,1 +1,0 @@
-{"tmdb_id": 551005, "title": "Behemoth: Or the Game of God", "original_title": "Behemoth: Or the Game of God", "slug_title": "behemoth-or-the-game-of-god", "date": "2016-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

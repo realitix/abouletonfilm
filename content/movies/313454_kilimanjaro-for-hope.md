@@ -1,1 +1,0 @@
-{"tmdb_id": 313454, "title": "Kilimanjaro for Hope", "original_title": "Kilimanjaro for Hope", "slug_title": "kilimanjaro-for-hope", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

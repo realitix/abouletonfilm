@@ -1,1 +1,0 @@
-{"tmdb_id": 459428, "title": "Greek Myths: Tales of Travelling Heroes", "original_title": "Greek Myths: Tales of Travelling Heroes", "slug_title": "greek-myths-tales-of-travelling-heroes", "date": "2010-11-15", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

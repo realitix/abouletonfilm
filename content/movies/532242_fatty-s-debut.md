@@ -1,1 +1,0 @@
-{"tmdb_id": 532242, "title": "Fatty's Debut", "original_title": "Fatty's Debut", "slug_title": "fatty-s-debut", "date": "1914-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roscoe 'Fatty' Arbuckle (Fatty)"], "comments": [], "recommandations_id": []}

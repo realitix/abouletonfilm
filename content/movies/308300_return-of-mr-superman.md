@@ -1,1 +1,0 @@
-{"tmdb_id": 308300, "title": "Return of Mr. Superman", "original_title": "Return of Mr. Superman", "slug_title": "return-of-mr-superman", "date": "1960-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

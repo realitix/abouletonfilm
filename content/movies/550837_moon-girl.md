@@ -1,1 +1,0 @@
-{"tmdb_id": 550837, "title": "Moon Girl", "original_title": "Moon Girl", "slug_title": "moon-girl", "date": "2016-12-17", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eCcMRj5pinEuP9rCgyO4MtxPfqh.jpg", "actors": [], "comments": [], "recommandations_id": []}

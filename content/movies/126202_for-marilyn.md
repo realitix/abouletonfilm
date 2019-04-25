@@ -1,1 +1,0 @@
-{"tmdb_id": 126202, "title": "For Marilyn", "original_title": "Untitled (For Marilyn)", "slug_title": "for-marilyn", "date": "1992-01-01", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s6TXI7E7BhT4CN9k869j8t87K9w.jpg", "actors": [], "comments": [], "recommandations_id": [126193, 57657, 126213, 126215]}

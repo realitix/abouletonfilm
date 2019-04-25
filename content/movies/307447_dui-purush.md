@@ -1,1 +1,0 @@
-{"tmdb_id": 307447, "title": "Dui Purush", "original_title": "Dui Purush", "slug_title": "dui-purush", "date": "1945-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

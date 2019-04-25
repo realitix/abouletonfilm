@@ -1,1 +1,0 @@
-{"tmdb_id": 354994, "title": "Rabbit Ears - Anansi", "original_title": "Rabbit Ears - Anansi", "slug_title": "rabbit-ears-anansi", "date": "1991-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6DVkHRbbPoCIsyBGYRV41bmU3Jp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 391661, "title": "The Fighting Irish", "original_title": "The Fighting Irish", "slug_title": "the-fighting-irish", "date": "2015-12-10", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Conor McGregor (Himself)"], "comments": [], "recommandations_id": []}

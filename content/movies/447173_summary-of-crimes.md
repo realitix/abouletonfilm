@@ -1,1 +1,0 @@
-{"tmdb_id": 447173, "title": "Summary of Crimes", "original_title": "\u7f6a\u884c\u6458\u8981", "slug_title": "summary-of-crimes", "date": "2014-03-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

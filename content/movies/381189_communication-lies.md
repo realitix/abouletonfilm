@@ -1,1 +1,0 @@
-{"tmdb_id": 381189, "title": "Communication & Lies", "original_title": "Communication & Lies", "slug_title": "communication-lies", "date": "2015-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yoiyKPRICMxiuTgGF1xY5d9hAQf.jpg", "actors": [], "comments": [], "recommandations_id": []}

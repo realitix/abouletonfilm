@@ -1,1 +1,0 @@
-{"tmdb_id": 577273, "title": "Resurrection", "original_title": "Resurrection", "slug_title": "resurrection", "date": "2015-07-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oHf7rg96T8ZSzcRApHGXoiE65mE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 505097, "title": "Dental clinic of desire", "original_title": "Dental clinic of desire", "slug_title": "dental-clinic-of-desire", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

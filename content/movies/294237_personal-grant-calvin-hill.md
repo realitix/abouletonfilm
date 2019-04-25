@@ -1,1 +1,0 @@
-{"tmdb_id": 294237, "title": "Personal: Grant & Calvin Hill", "original_title": "Personal: Grant & Calvin Hill", "slug_title": "personal-grant-calvin-hill", "date": "2014-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

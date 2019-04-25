@@ -1,1 +1,0 @@
-{"tmdb_id": 426224, "title": "Jedi Junior High", "original_title": "Jedi Junior High", "slug_title": "jedi-junior-high", "date": "2015-11-19", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/exhsLsJxgGOrk1GkEDoQSFcrdrK.jpg", "actors": [], "comments": [], "recommandations_id": [168771, 417257, 364306, 295962]}

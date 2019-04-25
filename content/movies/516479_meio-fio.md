@@ -1,1 +1,0 @@
-{"tmdb_id": 516479, "title": "Meio Fio", "original_title": "Meio Fio", "slug_title": "meio-fio", "date": "2014-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7VqASW7bqMqcJJuZ7z2Roba6VJR.jpg", "actors": [], "comments": [], "recommandations_id": []}

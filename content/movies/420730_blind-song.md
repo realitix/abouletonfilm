@@ -1,1 +1,0 @@
-{"tmdb_id": 420730, "title": "Blind Song", "original_title": "Blind Song", "slug_title": "blind-song", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v55QWDSLKxv4akzXOsH6wrNR0ts.jpg", "actors": [], "comments": [], "recommandations_id": []}

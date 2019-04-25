@@ -1,1 +1,0 @@
-{"tmdb_id": 538403, "title": "Going Green", "original_title": "Going Green", "slug_title": "going-green", "date": "2010-08-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a2bPpV5t8GHcBkGBG4Y9MmBvVRy.jpg", "actors": [], "comments": [], "recommandations_id": []}

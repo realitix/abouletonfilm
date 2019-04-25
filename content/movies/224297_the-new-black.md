@@ -1,1 +1,0 @@
-{"tmdb_id": 224297, "title": "The New Black", "original_title": "The New Black", "slug_title": "the-new-black", "date": "2014-02-12", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hSi8CY6oPUReOxLqyNfr4KVIfso.jpg", "actors": [], "comments": [], "recommandations_id": []}

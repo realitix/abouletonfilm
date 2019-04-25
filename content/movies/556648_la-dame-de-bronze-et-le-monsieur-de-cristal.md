@@ -1,1 +1,0 @@
-{"tmdb_id": 556648, "title": "La dame de bronze et le monsieur de cristal", "original_title": "La dame de bronze et le monsieur de cristal", "slug_title": "la-dame-de-bronze-et-le-monsieur-de-cristal", "date": "1929-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

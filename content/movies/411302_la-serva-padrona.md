@@ -1,1 +1,0 @@
-{"tmdb_id": 411302, "title": "La serva padrona", "original_title": "La serva padrona", "slug_title": "la-serva-padrona", "date": "1962-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anna Moffo (Serpina)", "Paolo Montarsolo (Uberto)"], "comments": [], "recommandations_id": []}

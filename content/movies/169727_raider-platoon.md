@@ -1,1 +1,0 @@
-{"tmdb_id": 169727, "title": "Raider Platoon", "original_title": "Raider Platoon", "slug_title": "raider-platoon", "date": "1988-02-19", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n3tfxpEM2YAC67WtWPNlqRemp9F.jpg", "actors": [], "comments": [], "recommandations_id": []}

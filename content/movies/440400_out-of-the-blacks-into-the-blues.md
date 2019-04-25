@@ -1,1 +1,0 @@
-{"tmdb_id": 440400, "title": "Out of the Blacks Into the Blues", "original_title": "Out of the Blacks Into the Blues", "slug_title": "out-of-the-blacks-into-the-blues", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

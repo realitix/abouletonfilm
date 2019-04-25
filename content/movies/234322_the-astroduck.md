@@ -1,1 +1,0 @@
-{"tmdb_id": 234322, "title": "The Astroduck", "original_title": "The Astroduck", "slug_title": "the-astroduck", "date": "1966-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bfJQuhaAJ6ApmFTVClR7YasjD6D.jpg", "actors": [], "comments": [], "recommandations_id": []}

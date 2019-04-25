@@ -1,1 +1,0 @@
-{"tmdb_id": 355280, "title": "Blood Church", "original_title": "Blood Church", "slug_title": "blood-church", "date": "1985-01-19", "genre": "Action / Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

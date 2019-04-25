@@ -1,1 +1,0 @@
-{"tmdb_id": 303666, "title": "Intelligent Life", "original_title": "Intelligent Life", "slug_title": "intelligent-life", "date": "2012-11-11", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jFZj0gwRSL6UgnU0UAp9IBcz4hE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 338950, "title": "American Idiot", "original_title": "American Idiot", "slug_title": "american-idiot", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

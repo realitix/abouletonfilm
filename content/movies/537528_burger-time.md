@@ -1,1 +1,0 @@
-{"tmdb_id": 537528, "title": "Burger Time", "original_title": "Burger Time", "slug_title": "burger-time", "date": "2001-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jgCeix2ZzCpnN9a0NRgAyqcm40A.jpg", "actors": [], "comments": [], "recommandations_id": []}

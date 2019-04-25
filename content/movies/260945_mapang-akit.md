@@ -1,1 +1,0 @@
-{"tmdb_id": 260945, "title": "Mapang-Akit", "original_title": "Mapang-Akit", "slug_title": "mapang-akit", "date": "2011-09-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jb6HQQjV66lS19e2kzAPjdIm4nY.jpg", "actors": [], "comments": [], "recommandations_id": []}

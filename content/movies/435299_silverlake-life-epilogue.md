@@ -1,1 +1,0 @@
-{"tmdb_id": 435299, "title": "Silverlake Life: Epilogue", "original_title": "Silverlake Life: Epilogue", "slug_title": "silverlake-life-epilogue", "date": "2003-03-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Njlgei5APEYlBmhPX3n0kJJpA5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 514963, "title": "Pighalta Aasman", "original_title": "Pighalta Aasman", "slug_title": "pighalta-aasman", "date": "1985-03-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rakhee Gulzar ()", "Shashi Kapoor ()", "Rati Agnihotri ()", "A.K. Hangal ()", "Sushma Seth ()"], "comments": [], "recommandations_id": []}

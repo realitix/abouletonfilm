@@ -1,1 +1,0 @@
-{"tmdb_id": 357141, "title": "The Jumpitz Celebrate Animals!", "original_title": "The Jumpitz Celebrate Animals!", "slug_title": "the-jumpitz-celebrate-animals", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jPYmuji0b4J7GSXDyTlNCeqXYLr.jpg", "actors": [], "comments": [], "recommandations_id": []}

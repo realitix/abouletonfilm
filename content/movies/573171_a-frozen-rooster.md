@@ -1,1 +1,0 @@
-{"tmdb_id": 573171, "title": "A Frozen Rooster", "original_title": "Un gallo congelado", "slug_title": "a-frozen-rooster", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bruno Bichir ()", "Miguel Rodarte ()", "Arath de la Torre ()", "Ang\u00e9lica Vale ()"], "comments": [], "recommandations_id": []}

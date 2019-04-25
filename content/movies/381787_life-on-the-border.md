@@ -1,1 +1,0 @@
-{"tmdb_id": 381787, "title": "Life on the Border", "original_title": "Life on the Border", "slug_title": "life-on-the-border", "date": "2015-10-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mZV0MmedfqWO8qYfyNSsG1dRGa0.jpg", "actors": [], "comments": [], "recommandations_id": []}

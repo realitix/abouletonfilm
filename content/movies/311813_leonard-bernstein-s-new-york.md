@@ -1,1 +1,0 @@
-{"tmdb_id": 311813, "title": "Leonard Bernstein's New York", "original_title": "Leonard Bernstein's New York", "slug_title": "leonard-bernstein-s-new-york", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8tsQYQeESnXtYuy5ajmM8aPiA2d.jpg", "actors": [], "comments": [], "recommandations_id": []}

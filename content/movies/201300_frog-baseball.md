@@ -1,1 +1,0 @@
-{"tmdb_id": 201300, "title": "Frog Baseball", "original_title": "Frog Baseball", "slug_title": "frog-baseball", "date": "1992-09-04", "genre": "", "score": "7.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/onRGOgqDymfLanEBKguhR5cVcPQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

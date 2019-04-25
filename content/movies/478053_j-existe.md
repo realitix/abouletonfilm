@@ -1,1 +1,0 @@
-{"tmdb_id": 478053, "title": "J'existe", "original_title": "J'existe", "slug_title": "j-existe", "date": "2016-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o9is3r449SXR6ne7OM96j2FMu9c.jpg", "actors": [], "comments": [], "recommandations_id": []}

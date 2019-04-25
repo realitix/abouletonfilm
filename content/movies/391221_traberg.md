@@ -1,1 +1,0 @@
-{"tmdb_id": 391221, "title": "Traberg", "original_title": "Traberg", "slug_title": "traberg", "date": "1992-12-04", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s8kEcyFToin4yQDmKnVkmb0fjF0.jpg", "actors": ["Ebbe Traberg (Himself)"], "comments": [], "recommandations_id": []}

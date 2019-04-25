@@ -1,1 +1,0 @@
-{"tmdb_id": 392503, "title": "When the King Held Court", "original_title": "When the King Held Court", "slug_title": "when-the-king-held-court", "date": "2016-04-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

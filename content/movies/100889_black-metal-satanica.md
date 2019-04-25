@@ -1,1 +1,0 @@
-{"tmdb_id": 100889, "title": "Black Metal Satanica", "original_title": "Black Metal Satanica", "slug_title": "black-metal-satanica", "date": "2008-01-01", "genre": "Documentaire", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bomCzU5dZvgJ2ZndWfP05UlxL1e.jpg", "actors": [], "comments": [], "recommandations_id": []}

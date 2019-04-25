@@ -1,1 +1,0 @@
-{"tmdb_id": 224056, "title": "Daffy's Diner", "original_title": "Daffy's Diner", "slug_title": "daffy-s-diner", "date": "1967-01-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lPh0UZXmAD9FopJj2qsK7W5r0Bv.jpg", "actors": [], "comments": [], "recommandations_id": [234303, 281560, 292750, 28182]}

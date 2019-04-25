@@ -1,1 +1,0 @@
-{"tmdb_id": 492839, "title": "Alien Insect: Praying Mantis", "original_title": "Alien Insect: Praying Mantis", "slug_title": "alien-insect-praying-mantis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

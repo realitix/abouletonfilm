@@ -1,1 +1,0 @@
-{"tmdb_id": 496885, "title": "Driller Killer", "original_title": "Driller Killer", "slug_title": "driller-killer", "date": "2011-11-05", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Monica Mattos (Victim)", "Alexandre Teixeira (Driller Killer)"], "comments": [], "recommandations_id": []}

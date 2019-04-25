@@ -1,1 +1,0 @@
-{"tmdb_id": 270281, "title": "Season of the Witch", "original_title": "T\u00edmi nornarinnar", "slug_title": "season-of-the-witch", "date": "2011-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fg3D4XsYDAUtOWlEIJ76yly7RJa.jpg", "actors": [], "comments": [], "recommandations_id": []}

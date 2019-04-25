@@ -1,1 +1,0 @@
-{"tmdb_id": 254116, "title": "They Made the Land", "original_title": "They Made the Land", "slug_title": "they-made-the-land", "date": "1938-05-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["E.V.H. Emmett (Commentator)"], "comments": [], "recommandations_id": []}

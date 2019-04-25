@@ -1,1 +1,0 @@
-{"tmdb_id": 319077, "title": "Pooh: Love and Friendship", "original_title": "Pooh: Love and Friendship", "slug_title": "pooh-love-and-friendship", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/72D8ZAwiZ07ydA9ufoIyv24NkBf.jpg", "actors": [], "comments": [], "recommandations_id": []}

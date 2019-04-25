@@ -1,1 +1,0 @@
-{"tmdb_id": 570631, "title": "Snow Bears", "original_title": "Snow Bears", "slug_title": "snow-bears", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kate Winslet (Narrator)"], "comments": [], "recommandations_id": []}

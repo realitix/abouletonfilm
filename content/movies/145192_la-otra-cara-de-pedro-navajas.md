@@ -1,1 +1,0 @@
-{"tmdb_id": 145192, "title": "La Otra Cara de Pedro Navajas", "original_title": "La Otra Cara de Pedro Navajas", "slug_title": "la-otra-cara-de-pedro-navajas", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Guillermo Quintanilla ()", "Manuel Ojeda ()"], "comments": [], "recommandations_id": []}

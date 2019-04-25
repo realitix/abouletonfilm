@@ -1,1 +1,0 @@
-{"tmdb_id": 323255, "title": "La Boheme: Breathe Umphefumlo", "original_title": "La Boheme: Breathe Umphefumlo", "slug_title": "la-boheme-breathe-umphefumlo", "date": "2015-02-05", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z1QiE5SMJkOMd2CtUxKIjwuIRZ.jpg", "actors": [], "comments": [], "recommandations_id": [86387]}

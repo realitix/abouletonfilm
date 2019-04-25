@@ -1,1 +1,0 @@
-{"tmdb_id": 382981, "title": "S\u00e3o Paulo - Retratos do Mundo", "original_title": "S\u00e3o Paulo - Retratos do Mundo", "slug_title": "sao-paulo-retratos-do-mundo", "date": "2005-02-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

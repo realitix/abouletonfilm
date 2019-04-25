@@ -1,1 +1,0 @@
-{"tmdb_id": 581700, "title": "Kuningas Hidas", "original_title": "Kuningas Hidas", "slug_title": "kuningas-hidas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ruknG1bTm5Np1MtmN8D6AQbBgHZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 237826, "title": "Parade of the Women Delegates, World's Fair", "original_title": "Parade of the Women Delegates, World's Fair", "slug_title": "parade-of-the-women-delegates-world-s-fair", "date": "1904-11-17", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

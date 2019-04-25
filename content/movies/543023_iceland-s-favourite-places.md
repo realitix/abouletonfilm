@@ -1,1 +1,0 @@
-{"tmdb_id": 543023, "title": "Iceland's Favourite Places", "original_title": "Iceland's Favourite Places", "slug_title": "iceland-s-favourite-places", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ouxNNjrurtOtfHI4Lb5p3GSMhaB.jpg", "actors": [], "comments": [], "recommandations_id": []}

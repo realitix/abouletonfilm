@@ -1,1 +1,0 @@
-{"tmdb_id": 462089, "title": "The Chair", "original_title": "The Chair", "slug_title": "the-chair", "date": "2017-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d4xugjB4ReDbtt5wTqKAWPibMok.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 573470, "title": "Hijo por Hijo", "original_title": "Hijo por Hijo", "slug_title": "hijo-por-hijo", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

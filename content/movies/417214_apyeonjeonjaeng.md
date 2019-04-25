@@ -1,1 +1,0 @@
-{"tmdb_id": 417214, "title": "\uc544\ud3b8\uc804\uc7c1", "original_title": "\uc544\ud3b8\uc804\uc7c1", "slug_title": "apyeonjeonjaeng", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

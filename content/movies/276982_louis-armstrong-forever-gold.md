@@ -1,1 +1,0 @@
-{"tmdb_id": 276982, "title": "Louis Armstrong: Forever Gold", "original_title": "Louis Armstrong: Forever Gold", "slug_title": "louis-armstrong-forever-gold", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

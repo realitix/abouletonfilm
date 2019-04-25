@@ -1,1 +1,0 @@
-{"tmdb_id": 526046, "title": "Galer\u00eda Cinematogr\u00e1fica Infantil", "original_title": "Galer\u00eda Cinematogr\u00e1fica Infantil", "slug_title": "galeria-cinematografica-infantil", "date": "1927-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

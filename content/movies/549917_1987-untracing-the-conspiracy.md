@@ -1,1 +1,0 @@
-{"tmdb_id": 549917, "title": "1987: Untracing The Conspiracy", "original_title": "1987: Untracing The Conspiracy", "slug_title": "1987-untracing-the-conspiracy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

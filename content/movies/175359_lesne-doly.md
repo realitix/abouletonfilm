@@ -1,1 +1,0 @@
-{"tmdb_id": 175359, "title": "Le\u015bne Do\u0142y", "original_title": "Le\u015bne Do\u0142y", "slug_title": "lesne-doly", "date": "2011-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gLHj1zSaJxiXPeLLPIsJHZbJb04.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 441306, "title": "Der Revolver des Corporals", "original_title": "Der Revolver des Corporals", "slug_title": "der-revolver-des-corporals", "date": "1967-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/khAHs5yLKe1dddOF3JSHB6jKZWY.jpg", "actors": [], "comments": [], "recommandations_id": []}

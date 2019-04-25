@@ -1,1 +1,0 @@
-{"tmdb_id": 511177, "title": "The North Wind and the Sun: A Fable by Aesop", "original_title": "The North Wind and the Sun: A Fable by Aesop", "slug_title": "the-north-wind-and-the-sun-a-fable-by-aesop", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

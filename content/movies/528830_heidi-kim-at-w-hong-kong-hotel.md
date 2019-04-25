@@ -1,1 +1,0 @@
-{"tmdb_id": 528830, "title": "Heidi Kim at W Hong Kong Hotel", "original_title": "Heidi Kim at W Hong Kong Hotel", "slug_title": "heidi-kim-at-w-hong-kong-hotel", "date": "2010-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/10jJK6WAjszAt5EI9eCj39T4DpP.jpg", "actors": [], "comments": [], "recommandations_id": []}

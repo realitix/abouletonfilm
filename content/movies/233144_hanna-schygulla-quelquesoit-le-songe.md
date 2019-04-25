@@ -1,1 +1,0 @@
-{"tmdb_id": 233144, "title": "Hanna Schygulla \u2013 quelquesoit le songe", "original_title": "Hanna Schygulla \u2013 quelquesoit le songe", "slug_title": "hanna-schygulla-quelquesoit-le-songe", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

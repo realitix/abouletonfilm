@@ -1,1 +1,0 @@
-{"tmdb_id": 318686, "title": "Ice-T: United States of America: Live in Montreux", "original_title": "Ice-T: United States of America: Live in Montreux", "slug_title": "ice-t-united-states-of-america-live-in-montreux", "date": "2008-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

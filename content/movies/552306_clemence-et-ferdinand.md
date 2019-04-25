@@ -1,1 +1,0 @@
-{"tmdb_id": 552306, "title": "Cl\u00e9mence et Ferdinand", "original_title": "Cl\u00e9mence et Ferdinand", "slug_title": "clemence-et-ferdinand", "date": "", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 348527, "title": "Building Girl", "original_title": "Building Girl", "slug_title": "building-girl", "date": "2005-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Boyd (Colin)", "Gillian Jacobs (Katie)", "Michael Mosley (Nick)", "Trieste Kelly Dunn (Liz)"], "comments": [], "recommandations_id": []}

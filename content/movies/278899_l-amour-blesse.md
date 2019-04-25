@@ -1,1 +1,0 @@
-{"tmdb_id": 278899, "title": "L'amour bless\u00e9", "original_title": "L'amour bless\u00e9", "slug_title": "l-amour-blesse", "date": "1975-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ROkhCWz0BKBOW72rIWkfirBeIs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 97163, "title": "Eisenzeit", "original_title": "Eisenzeit", "slug_title": "eisenzeit", "date": "1992-02-21", "genre": "Documentaire", "score": "4.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wXuWAHyYk27KqNb6XiMIg1uso6r.jpg", "actors": [], "comments": [], "recommandations_id": []}

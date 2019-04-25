@@ -1,1 +1,0 @@
-{"tmdb_id": 571309, "title": "2018 World Series Champions: Boston Red Sox", "original_title": "2018 World Series Champions: Boston Red Sox", "slug_title": "2018-world-series-champions-boston-red-sox", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Uzo Aduba (Narrator)"], "comments": [], "recommandations_id": []}

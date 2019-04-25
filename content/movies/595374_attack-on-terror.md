@@ -1,1 +1,0 @@
-{"tmdb_id": 595374, "title": "Attack On Terror", "original_title": "Attack On Terror", "slug_title": "attack-on-terror", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

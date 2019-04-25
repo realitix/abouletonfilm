@@ -1,1 +1,0 @@
-{"tmdb_id": 554468, "title": "Ghost Carol", "original_title": "Ghost Carol", "slug_title": "ghost-carol", "date": "1983-10-11", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kJnXHpGPlpNTsKgIU90i3REsK1p.jpg", "actors": [], "comments": [], "recommandations_id": []}

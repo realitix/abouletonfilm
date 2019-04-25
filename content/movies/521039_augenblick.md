@@ -1,1 +1,0 @@
-{"tmdb_id": 521039, "title": "Augenblick", "original_title": "Augenblick", "slug_title": "augenblick", "date": "2017-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

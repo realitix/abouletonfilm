@@ -1,1 +1,0 @@
-{"tmdb_id": 423795, "title": "Daffidilly Daddy", "original_title": "Daffidilly Daddy", "slug_title": "daffidilly-daddy", "date": "1945-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jackson Beck (Lulu's Father (voice))", "Cecil Roy (Little Lulu (voice))"], "comments": [], "recommandations_id": []}

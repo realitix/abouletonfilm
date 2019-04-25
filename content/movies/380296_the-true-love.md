@@ -1,1 +1,0 @@
-{"tmdb_id": 380296, "title": "The True Love", "original_title": "\u4e0d\u7231\u4e0d\u6563", "slug_title": "the-true-love", "date": "2014-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7k8Qqpn2lsGA8z0PG0XwIlZ97ST.jpg", "actors": [], "comments": [], "recommandations_id": []}

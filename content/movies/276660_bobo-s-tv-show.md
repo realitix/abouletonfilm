@@ -1,1 +1,0 @@
-{"tmdb_id": 276660, "title": "Bobo'S Tv-Show", "original_title": "Bobo'S Tv-Show", "slug_title": "bobo-s-tv-show", "date": "2012-02-01", "genre": "Aventure", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tgROc1thDc7lYDpARcxic44odco.jpg", "actors": [], "comments": [], "recommandations_id": []}

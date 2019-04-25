@@ -1,1 +1,0 @@
-{"tmdb_id": 545378, "title": "Sea of Dreams", "original_title": "Sea of Dreams", "slug_title": "sea-of-dreams", "date": "1923-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

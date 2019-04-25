@@ -1,1 +1,0 @@
-{"tmdb_id": 349748, "title": "\uc791\uc740 \uac70\uc778", "original_title": "\uc791\uc740 \uac70\uc778", "slug_title": "jageun-geoin", "date": "1994-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

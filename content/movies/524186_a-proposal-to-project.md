@@ -1,1 +1,0 @@
-{"tmdb_id": 524186, "title": "A proposal to project", "original_title": "A proposal to project", "slug_title": "a-proposal-to-project", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

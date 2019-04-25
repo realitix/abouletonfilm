@@ -1,1 +1,0 @@
-{"tmdb_id": 347440, "title": "Vindhai", "original_title": "Vindhai", "slug_title": "vindhai", "date": "2015-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jTbQp0jTpFNqvTK8WEk3rxhtUrn.jpg", "actors": [], "comments": [], "recommandations_id": []}

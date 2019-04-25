@@ -1,1 +1,0 @@
-{"tmdb_id": 539092, "title": "The Onyok Velasco Story", "original_title": "The Onyok Velasco Story", "slug_title": "the-onyok-velasco-story", "date": "1999-07-30", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Onyok Velasco ()", "Ina Raymundo ()", "Ace Espinosa ()"], "comments": [], "recommandations_id": []}

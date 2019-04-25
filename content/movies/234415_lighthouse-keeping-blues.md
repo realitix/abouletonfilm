@@ -1,1 +1,0 @@
-{"tmdb_id": 234415, "title": "Lighthouse Keeping Blues", "original_title": "Lighthouse Keeping Blues", "slug_title": "lighthouse-keeping-blues", "date": "1964-11-08", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/49bVLJzOfVadLNJT0IH7UAOEdIe.jpg", "actors": [], "comments": [], "recommandations_id": []}

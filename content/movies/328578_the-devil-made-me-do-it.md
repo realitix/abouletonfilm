@@ -1,1 +1,0 @@
-{"tmdb_id": 328578, "title": "The Devil Made Me Do It", "original_title": "The Devil Made Me Do It", "slug_title": "the-devil-made-me-do-it", "date": "1998-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1pVN8Cq2vsz4rZKnroZS0vHmUA6.jpg", "actors": [], "comments": [], "recommandations_id": []}

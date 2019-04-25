@@ -1,1 +1,0 @@
-{"tmdb_id": 305569, "title": "The Light Fantastic", "original_title": "The Light Fantastic", "slug_title": "the-light-fantastic", "date": "1960-12-18", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ron Hitchins ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 471267, "title": "The Fox Sisters", "original_title": "The Fox Sisters", "slug_title": "the-fox-sisters", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ywReEE0lm19857gvwR8CNpm3x0u.jpg", "actors": [], "comments": [], "recommandations_id": []}

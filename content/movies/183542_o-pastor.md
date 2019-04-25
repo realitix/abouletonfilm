@@ -1,1 +1,0 @@
-{"tmdb_id": 183542, "title": "O Pastor", "original_title": "O Pastor", "slug_title": "o-pastor", "date": "1988-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wG2IW5DJUxngmRz0dwagB7j5RRT.jpg", "actors": [], "comments": [], "recommandations_id": []}

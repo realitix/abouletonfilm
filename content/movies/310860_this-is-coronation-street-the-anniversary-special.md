@@ -1,1 +1,0 @@
-{"tmdb_id": 310860, "title": "This Is Coronation Street: The Anniversary Special", "original_title": "This Is Coronation Street: The Anniversary Special", "slug_title": "this-is-coronation-street-the-anniversary-special", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

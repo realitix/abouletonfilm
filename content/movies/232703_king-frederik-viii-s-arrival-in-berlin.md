@@ -1,1 +1,0 @@
-{"tmdb_id": 232703, "title": "King Frederik VIII's Arrival in Berlin", "original_title": "Kong Frederik VIII's ankomst til Berlin", "slug_title": "king-frederik-viii-s-arrival-in-berlin", "date": "1907-11-03", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

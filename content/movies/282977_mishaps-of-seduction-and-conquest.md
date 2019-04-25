@@ -1,1 +1,0 @@
-{"tmdb_id": 282977, "title": "Mishaps of Seduction and Conquest", "original_title": "Mishaps of Seduction and Conquest", "slug_title": "mishaps-of-seduction-and-conquest", "date": "1984-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 507755, "title": "The Harvest", "original_title": "The Harvest", "slug_title": "the-harvest", "date": "2017-12-22", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2yQKYlYwfkxxpY3ZOfdpxvJCnjH.jpg", "actors": [], "comments": [], "recommandations_id": []}

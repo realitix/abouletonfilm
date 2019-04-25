@@ -1,1 +1,0 @@
-{"tmdb_id": 219255, "title": "The Calligrapher", "original_title": "The Calligrapher", "slug_title": "the-calligrapher", "date": "1991-01-01", "genre": "Animation", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zQxevOimb7xZF6ddNjp8XLCNQNQ.jpg", "actors": [], "comments": [], "recommandations_id": [48331, 40144, 185399, 147282]}

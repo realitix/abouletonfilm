@@ -1,1 +1,0 @@
-{"tmdb_id": 98023, "title": "Sky over Holland", "original_title": "Sky over Holland", "slug_title": "sky-over-holland", "date": "1967-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p5Itz2rW9OwUiGnoLc2ckEVjsru.jpg", "actors": [], "comments": [], "recommandations_id": []}

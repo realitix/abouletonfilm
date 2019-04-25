@@ -1,1 +1,0 @@
-{"tmdb_id": 402550, "title": "Golden Age of Looney Tunes - Volume 1", "original_title": "Golden Age of Looney Tunes - Volume 1", "slug_title": "golden-age-of-looney-tunes-volume-1", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

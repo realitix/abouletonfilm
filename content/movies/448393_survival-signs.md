@@ -1,1 +1,0 @@
-{"tmdb_id": 448393, "title": "Survival Signs", "original_title": "Survival Signs", "slug_title": "survival-signs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oSuPHWebZeDHnq40NhtK5iQSRVI.jpg", "actors": [], "comments": [], "recommandations_id": []}

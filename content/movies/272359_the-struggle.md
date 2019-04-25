@@ -1,1 +1,0 @@
-{"tmdb_id": 272359, "title": "The Struggle", "original_title": "The Struggle", "slug_title": "the-struggle", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

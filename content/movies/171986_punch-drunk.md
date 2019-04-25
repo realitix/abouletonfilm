@@ -1,1 +1,0 @@
-{"tmdb_id": 171986, "title": "Punch Drunk", "original_title": "Punch Drunk", "slug_title": "punch-drunk", "date": "2008-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Will Winner (Flint)", "Jonathan Schwartz (Webber)"], "comments": [], "recommandations_id": []}

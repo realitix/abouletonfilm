@@ -1,1 +1,0 @@
-{"tmdb_id": 344527, "title": "Shadows", "original_title": "Shadows", "slug_title": "shadows", "date": "2015-05-31", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sVbtY8Zm0SdPCjTvxrO025Ql87p.jpg", "actors": ["Doris Barley (Herself)"], "comments": [], "recommandations_id": []}

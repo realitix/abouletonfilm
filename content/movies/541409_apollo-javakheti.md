@@ -1,1 +1,0 @@
-{"tmdb_id": 541409, "title": "Apollo Javakheti", "original_title": "Apollo Javakheti", "slug_title": "apollo-javakheti", "date": "2018-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

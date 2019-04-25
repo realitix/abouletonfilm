@@ -1,1 +1,0 @@
-{"tmdb_id": 409935, "title": "Strip Club: Solid Gold", "original_title": "Strip Club: Solid Gold", "slug_title": "strip-club-solid-gold", "date": "2008-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mB2d2IIVC67CFugwdPXyhDe4l1L.jpg", "actors": [], "comments": [], "recommandations_id": []}

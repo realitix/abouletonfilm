@@ -1,1 +1,0 @@
-{"tmdb_id": 210367, "title": "Hyperland", "original_title": "Hyperland", "slug_title": "hyperland", "date": "1990-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dtOJT5HRlFIBkqp9PLFkVLq08It.jpg", "actors": ["Tom Baker (Tom)", "Douglas Adams (Himself)"], "comments": [], "recommandations_id": []}

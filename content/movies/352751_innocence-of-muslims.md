@@ -1,1 +1,0 @@
-{"tmdb_id": 352751, "title": "Innocence of Muslims", "original_title": "Innocence of Muslims", "slug_title": "innocence-of-muslims", "date": "2012-07-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

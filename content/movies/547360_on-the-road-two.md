@@ -1,1 +1,0 @@
-{"tmdb_id": 547360, "title": "On the Road, Two", "original_title": "\uc628\ub354\ub85c\ub4dc, \ud22c", "slug_title": "on-the-road-two", "date": "2006-01-05", "genre": "Documentaire / Musique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a28slgU6Wid3nVyzllug6dFZjgL.jpg", "actors": [], "comments": [], "recommandations_id": []}

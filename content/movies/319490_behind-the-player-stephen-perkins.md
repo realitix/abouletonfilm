@@ -1,1 +1,0 @@
-{"tmdb_id": 319490, "title": "Behind the Player: Stephen Perkins", "original_title": "Behind the Player: Stephen Perkins", "slug_title": "behind-the-player-stephen-perkins", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

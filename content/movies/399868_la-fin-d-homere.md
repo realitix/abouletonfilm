@@ -1,1 +1,0 @@
-{"tmdb_id": 399868, "title": "La Fin D'Hom\u00e8re", "original_title": "La Fin D'Hom\u00e8re", "slug_title": "la-fin-d-homere", "date": "2015-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ekXzYI6SnAFx6TcNnsVt83VS4d.jpg", "actors": [], "comments": [], "recommandations_id": []}

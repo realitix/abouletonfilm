@@ -1,1 +1,0 @@
-{"tmdb_id": 585249, "title": "Striker", "original_title": "Striker", "slug_title": "striker", "date": "2019-02-22", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Praveen Tej ()", "Saurav Lokesh ()", "Dharmanna Kadur ()", "Shilpa Manjunath ()"], "comments": [], "recommandations_id": []}

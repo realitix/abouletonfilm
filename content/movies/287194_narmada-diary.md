@@ -1,1 +1,0 @@
-{"tmdb_id": 287194, "title": "Narmada Diary", "original_title": "Narmada Diary", "slug_title": "narmada-diary", "date": "1995-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w8rCrSbAb9wpVAjxBwvmVc5B54g.jpg", "actors": [], "comments": [], "recommandations_id": []}

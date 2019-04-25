@@ -1,1 +1,0 @@
-{"tmdb_id": 513586, "title": "Hist\u00f3rias do Olhar", "original_title": "Hist\u00f3rias do Olhar", "slug_title": "historias-do-olhar", "date": "2003-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4272N994H6J99gAMBFwCLrLSKTO.jpg", "actors": ["Alice Borges (Catarina)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 501870, "title": "Unearthing. In Conversation.", "original_title": "Unearthing. In Conversation.", "slug_title": "unearthing-in-conversation", "date": "2017-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

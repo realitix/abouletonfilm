@@ -1,1 +1,0 @@
-{"tmdb_id": 343048, "title": "Rabbit and Porcupine", "original_title": "Kaninchen und Stachelschwein", "slug_title": "rabbit-and-porcupine", "date": "1974-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

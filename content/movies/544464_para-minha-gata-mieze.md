@@ -1,1 +1,0 @@
-{"tmdb_id": 544464, "title": "Para Minha Gata Mieze", "original_title": "Para Minha Gata Mieze", "slug_title": "para-minha-gata-mieze", "date": "2018-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/baasZmCXG7kda85TGQolCDTfMGI.jpg", "actors": [], "comments": [], "recommandations_id": []}

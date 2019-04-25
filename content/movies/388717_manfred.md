@@ -1,1 +1,0 @@
-{"tmdb_id": 388717, "title": "Manfred", "original_title": "Manfred", "slug_title": "manfred", "date": "2009-07-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

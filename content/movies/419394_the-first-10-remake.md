@@ -1,1 +1,0 @@
-{"tmdb_id": 419394, "title": "The First 10 \u2013 Remake", "original_title": "Prvih 10 \u2013 Remake", "slug_title": "the-first-10-remake", "date": "2016-10-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2c6NCeU0AqXL09C7EXE1D9Bw7hS.jpg", "actors": [], "comments": [], "recommandations_id": []}

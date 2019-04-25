@@ -1,1 +1,0 @@
-{"tmdb_id": 353041, "title": "Nightbiter", "original_title": "Nachtbijter", "slug_title": "nightbiter", "date": "2002-09-23", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4qFMahZH3I40M9pxYzghKG7bhGr.jpg", "actors": ["Kalle de Bie ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 293385, "title": "Battlefield", "original_title": "Battlefield", "slug_title": "battlefield", "date": "2012-02-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nlYGZPSj2VfYkCpXpQuLAn2jCav.jpg", "actors": ["Alex Duncan (Young Man)", "Heath Miller (Older Man)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 436567, "title": "Ride City", "original_title": "Ride City", "slug_title": "ride-city", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2vNU8aWOTLfBTMa424M3cGvnKhA.jpg", "actors": [], "comments": [], "recommandations_id": []}

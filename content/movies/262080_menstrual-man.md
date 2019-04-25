@@ -1,1 +1,0 @@
-{"tmdb_id": 262080, "title": "Menstrual Man", "original_title": "Menstrual Man", "slug_title": "menstrual-man", "date": "2013-04-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

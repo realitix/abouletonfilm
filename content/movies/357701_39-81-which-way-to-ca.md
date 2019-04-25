@@ -1,1 +1,0 @@
-{"tmdb_id": 357701, "title": "39/81 Which Way to CA?", "original_title": "39/81 Which Way to CA?", "slug_title": "39-81-which-way-to-ca", "date": "1981-09-03", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5uy5Ljn27C9541IzU389Y5PMSRx.jpg", "actors": [], "comments": [], "recommandations_id": []}

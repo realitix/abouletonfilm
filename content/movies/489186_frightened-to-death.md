@@ -1,1 +1,0 @@
-{"tmdb_id": 489186, "title": "Frightened To Death", "original_title": "Frightened To Death", "slug_title": "frightened-to-death", "date": "1987-02-05", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7qi9P7FLDQ1osqvWA2nI7KrUJS2.jpg", "actors": [], "comments": [], "recommandations_id": []}

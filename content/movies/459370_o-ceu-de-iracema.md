@@ -1,1 +1,0 @@
-{"tmdb_id": 459370, "title": "O C\u00e9u de Iracema", "original_title": "O C\u00e9u de Iracema", "slug_title": "o-ceu-de-iracema", "date": "2002-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Neidinha Castelo Branco ()", "Cherline Farias ()", "Felipe Rodrigues ()"], "comments": [], "recommandations_id": []}

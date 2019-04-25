@@ -1,1 +1,0 @@
-{"tmdb_id": 437324, "title": "The Bridge: An Observation", "original_title": "The Bridge: An Observation", "slug_title": "the-bridge-an-observation", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chloe Metcalf ()", "Amy Elizabeth Gray ()"], "comments": [], "recommandations_id": []}

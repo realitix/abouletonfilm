@@ -1,1 +1,0 @@
-{"tmdb_id": 194532, "title": "The Old Place", "original_title": "The Old Place", "slug_title": "the-old-place", "date": "2000-05-19", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jSD1x5abqHGSdPJQS9YpVYE3zBb.jpg", "actors": [], "comments": [], "recommandations_id": []}

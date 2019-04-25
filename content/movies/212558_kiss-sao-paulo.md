@@ -1,1 +1,0 @@
-{"tmdb_id": 212558, "title": "Kiss: Sao Paulo", "original_title": "Kiss: Sao Paulo", "slug_title": "kiss-sao-paulo", "date": "1994-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rzew4J2YUsWeX0LwHDKnzdh7uzX.jpg", "actors": [], "comments": [], "recommandations_id": []}

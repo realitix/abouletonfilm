@@ -1,1 +1,0 @@
-{"tmdb_id": 512997, "title": "April Fool", "original_title": "April Fool", "slug_title": "april-fool", "date": "1920-11-21", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lloyd Hamilton ()", "Bee Monson ()", "Otto Fries ()", "Charley Chase ()", "Thelma Percy ()"], "comments": [], "recommandations_id": []}

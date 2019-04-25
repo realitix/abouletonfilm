@@ -1,1 +1,0 @@
-{"tmdb_id": 589907, "title": "Cable a tierra", "original_title": "Cable a tierra", "slug_title": "cable-a-tierra", "date": "2013-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qHqZvo8Tcaw0RVTicScqWMR0uFd.jpg", "actors": [], "comments": [], "recommandations_id": []}

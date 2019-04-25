@@ -1,1 +1,0 @@
-{"tmdb_id": 568296, "title": "And the Living Is Easy", "original_title": "And the Living Is Easy", "slug_title": "and-the-living-is-easy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 444005, "title": "One of the Roughs, a Kosmos", "original_title": "One of the Roughs, a Kosmos", "slug_title": "one-of-the-roughs-a-kosmos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

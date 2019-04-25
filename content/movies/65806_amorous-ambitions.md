@@ -1,1 +1,0 @@
-{"tmdb_id": 65806, "title": "Amorous Ambitions", "original_title": "Amorous Ambitions", "slug_title": "amorous-ambitions", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eV0VRvKZumDJC9oxLwFKsn1qsSY.jpg", "actors": ["Chloe Vevrier ()", "Denise Davies ()"], "comments": [], "recommandations_id": []}

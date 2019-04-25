@@ -1,1 +1,0 @@
-{"tmdb_id": 413175, "title": "Wastecooking", "original_title": "Wastecooking", "slug_title": "wastecooking", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

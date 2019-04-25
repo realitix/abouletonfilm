@@ -1,1 +1,0 @@
-{"tmdb_id": 473713, "title": "The Knife - Live At Terminal 5", "original_title": "The Knife - Live At Terminal 5", "slug_title": "the-knife-live-at-terminal-5", "date": "2017-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/38K4pNWVXUTibolbGjONXOfP68C.jpg", "actors": [], "comments": [], "recommandations_id": []}

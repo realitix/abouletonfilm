@@ -1,1 +1,0 @@
-{"tmdb_id": 498913, "title": "The Seer", "original_title": "The Seer", "slug_title": "the-seer", "date": "2016-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oiOJLOfTLLhfRYTtcIzxqgUa6ot.jpg", "actors": [], "comments": [], "recommandations_id": []}

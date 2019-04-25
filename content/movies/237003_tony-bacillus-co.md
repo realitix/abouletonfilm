@@ -1,1 +1,0 @@
-{"tmdb_id": 237003, "title": "Tony Bacillus & Co.", "original_title": "Tony Bacillus & Co.", "slug_title": "tony-bacillus-co", "date": "1946-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

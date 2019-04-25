@@ -1,1 +1,0 @@
-{"tmdb_id": 102624, "title": "Broken Notes", "original_title": "Broken Notes", "slug_title": "broken-notes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6qseQzgBlSYJ9my8lNctCf8dzXH.jpg", "actors": [], "comments": [], "recommandations_id": []}

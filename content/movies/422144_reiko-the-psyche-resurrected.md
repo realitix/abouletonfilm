@@ -1,1 +1,0 @@
-{"tmdb_id": 422144, "title": "Reiko, the Psyche Resurrected", "original_title": "\u8d85\u5c11\u5973REIKO", "slug_title": "reiko-the-psyche-resurrected", "date": "1991-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x5cHcp4vxbM8lBmdJlDUJtg3ku8.jpg", "actors": [], "comments": [], "recommandations_id": []}

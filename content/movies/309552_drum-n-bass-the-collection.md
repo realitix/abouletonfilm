@@ -1,1 +1,0 @@
-{"tmdb_id": 309552, "title": "Drum 'n' Bass: The Collection", "original_title": "Drum 'n' Bass: The Collection", "slug_title": "drum-n-bass-the-collection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

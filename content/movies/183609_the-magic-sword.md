@@ -1,1 +1,0 @@
-{"tmdb_id": 183609, "title": "The Magic Sword", "original_title": "The Magic Sword", "slug_title": "the-magic-sword", "date": "1901-01-01", "genre": "Drame / Fantastique / Romance", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h9CRIQ4yv6pwuPylJH60rT06Mj7.jpg", "actors": [], "comments": [], "recommandations_id": []}

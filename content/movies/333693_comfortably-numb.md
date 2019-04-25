@@ -1,1 +1,0 @@
-{"tmdb_id": 333693, "title": "Comfortably Numb", "original_title": "Shaanan Si", "slug_title": "comfortably-numb", "date": "1991-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

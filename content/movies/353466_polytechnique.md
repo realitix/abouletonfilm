@@ -1,1 +1,0 @@
-{"tmdb_id": 353466, "title": "Polytechnique", "original_title": "Polytechnique", "slug_title": "polytechnique", "date": "2014-05-07", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/abv1Csj1YRHjWvXWrbr0gLS671K.jpg", "actors": [], "comments": [], "recommandations_id": []}

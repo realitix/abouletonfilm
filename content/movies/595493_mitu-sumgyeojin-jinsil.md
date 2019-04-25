@@ -1,1 +1,0 @@
-{"tmdb_id": 595493, "title": "Mitu - Sumgyeojin jinsil", "original_title": "Mitu - Sumgyeojin jinsil", "slug_title": "mitu-sumgyeojin-jinsil", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

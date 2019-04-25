@@ -1,1 +1,0 @@
-{"tmdb_id": 592199, "title": "Las Vegas in 16 Parts", "original_title": "Las Vegas in 16 Parts", "slug_title": "las-vegas-in-16-parts", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lbVC0h9F4ZcqiKye5CGum2vb8f4.jpg", "actors": [], "comments": [], "recommandations_id": []}

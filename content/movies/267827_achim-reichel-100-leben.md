@@ -1,1 +1,0 @@
-{"tmdb_id": 267827, "title": "Achim Reichel - 100% Leben", "original_title": "Achim Reichel - 100% Leben", "slug_title": "achim-reichel-100-leben", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

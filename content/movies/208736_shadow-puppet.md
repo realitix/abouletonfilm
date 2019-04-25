@@ -1,1 +1,0 @@
-{"tmdb_id": 208736, "title": "Shadow Puppet", "original_title": "Shadow Puppet", "slug_title": "shadow-puppet", "date": "2010-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

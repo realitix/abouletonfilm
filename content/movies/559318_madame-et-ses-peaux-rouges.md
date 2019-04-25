@@ -1,1 +1,0 @@
-{"tmdb_id": 559318, "title": "Madame et ses peaux-rouges", "original_title": "Madame et ses peaux-rouges", "slug_title": "madame-et-ses-peaux-rouges", "date": "1948-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mTGFTRPu3X6djPDNu3KkifzQ37B.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 186488, "title": "Les Chansons c\u00e9l\u00e8bres \u00e0 l'\u00e9cran", "original_title": "Les Chansons c\u00e9l\u00e8bres \u00e0 l'\u00e9cran", "slug_title": "les-chansons-celebres-a-l-ecran", "date": "1931-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

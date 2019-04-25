@@ -1,1 +1,0 @@
-{"tmdb_id": 333641, "title": "The corral and the wind", "original_title": "El corral y el viento", "slug_title": "the-corral-and-the-wind", "date": "2014-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/laNH0ET5xhjOHzgQUxqm2R5QwrW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 193969, "title": "L'\u00e9p\u00e9e du spirite", "original_title": "L'\u00e9p\u00e9e du spirite", "slug_title": "l-epee-du-spirite", "date": "1910-05-16", "genre": "Fantastique", "score": "5.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

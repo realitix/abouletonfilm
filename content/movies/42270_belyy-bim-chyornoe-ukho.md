@@ -1,1 +1,0 @@
-{"tmdb_id": 42270, "title": "Belyy Bim - Chyornoe ukho", "original_title": "Belyy Bim - Chyornoe ukho", "slug_title": "belyy-bim-chyornoe-ukho", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

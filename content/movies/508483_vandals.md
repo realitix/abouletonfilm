@@ -1,1 +1,0 @@
-{"tmdb_id": 508483, "title": "Vandals", "original_title": "Vandals", "slug_title": "vandals", "date": "2017-07-08", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

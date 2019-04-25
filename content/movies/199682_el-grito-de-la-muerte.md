@@ -1,1 +1,0 @@
-{"tmdb_id": 199682, "title": "El Grito De La Muerte", "original_title": "El Grito De La Muerte", "slug_title": "el-grito-de-la-muerte", "date": "1959-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/36bBipmA6EOtHYBrQ6TyX3ntVzp.jpg", "actors": [], "comments": [], "recommandations_id": []}

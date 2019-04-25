@@ -1,1 +1,0 @@
-{"tmdb_id": 430591, "title": "The Adventures of Chip 'N' Dale", "original_title": "The Adventures of Chip 'N' Dale", "slug_title": "the-adventures-of-chip-n-dale", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i9p0n55YQw3st2qf83RvkQXqq9Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 322959, "title": "Our Magazine No. 5", "original_title": "Our Magazine No. 5", "slug_title": "our-magazine-no-5", "date": "1953-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

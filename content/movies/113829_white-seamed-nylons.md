@@ -1,1 +1,0 @@
-{"tmdb_id": 113829, "title": "White Seamed Nylons", "original_title": "White Seamed Nylons", "slug_title": "white-seamed-nylons", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

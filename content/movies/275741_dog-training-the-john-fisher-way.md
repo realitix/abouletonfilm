@@ -1,1 +1,0 @@
-{"tmdb_id": 275741, "title": "Dog Training the John Fisher Way", "original_title": "Dog Training the John Fisher Way", "slug_title": "dog-training-the-john-fisher-way", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

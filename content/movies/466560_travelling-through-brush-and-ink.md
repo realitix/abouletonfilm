@@ -1,1 +1,0 @@
-{"tmdb_id": 466560, "title": "Travelling Through Brush and Ink", "original_title": "\u7b46\u58a8\u884c\u65c5", "slug_title": "travelling-through-brush-and-ink", "date": "2017-04-21", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

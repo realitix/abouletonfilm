@@ -1,1 +1,0 @@
-{"tmdb_id": 570320, "title": "Feu sur le candidat", "original_title": "Feu sur le candidat", "slug_title": "feu-sur-le-candidat", "date": "1990-07-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/29qMF3kVioP5rqaOayPwDrPZaoJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

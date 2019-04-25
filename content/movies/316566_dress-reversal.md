@@ -1,1 +1,0 @@
-{"tmdb_id": 316566, "title": "Dress Reversal", "original_title": "Dress Reversal", "slug_title": "dress-reversal", "date": "1965-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mX8pWJwe0nrgamn1KTW7vF1Iy8C.jpg", "actors": [], "comments": [], "recommandations_id": []}

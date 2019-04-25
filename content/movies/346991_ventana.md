@@ -1,1 +1,0 @@
-{"tmdb_id": 346991, "title": "Ventana", "original_title": "Ventana", "slug_title": "ventana", "date": "1975-06-30", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4rl7qZR2PJvxsJpy3hP3OVpyQtd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 367693, "title": "Gentlemen's Club", "original_title": "Gentlemen's Club", "slug_title": "gentlemen-s-club", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

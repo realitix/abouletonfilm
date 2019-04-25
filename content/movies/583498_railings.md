@@ -1,1 +1,0 @@
-{"tmdb_id": 583498, "title": "Railings", "original_title": "Railings", "slug_title": "railings", "date": "1977-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p6GEYOyFkh3K74gSCXNDnqvwry1.jpg", "actors": [], "comments": [], "recommandations_id": []}

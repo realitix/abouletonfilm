@@ -1,1 +1,0 @@
-{"tmdb_id": 136108, "title": "Bury Your Dead: Alive", "original_title": "Bury Your Dead: Alive", "slug_title": "bury-your-dead-alive", "date": "2005-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7JmNR7EzsRjDmJaqDIyNC8uzM6W.jpg", "actors": [], "comments": [], "recommandations_id": []}

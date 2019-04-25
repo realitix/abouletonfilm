@@ -1,1 +1,0 @@
-{"tmdb_id": 132376, "title": "White Wolf", "original_title": "Hashire! Shiroi okami", "slug_title": "white-wolf", "date": "1990-04-28", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/izrnL9HROUSJojUSsxf2ORNWeRT.jpg", "actors": [], "comments": [], "recommandations_id": []}

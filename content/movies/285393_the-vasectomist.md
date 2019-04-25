@@ -1,1 +1,0 @@
-{"tmdb_id": 285393, "title": "The Vasectomist", "original_title": "The Vasectomist", "slug_title": "the-vasectomist", "date": "2013-10-21", "genre": "", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bhg7G6r5TbZiepJir2VZ5dnsSJo.jpg", "actors": [], "comments": [], "recommandations_id": []}

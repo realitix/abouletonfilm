@@ -1,1 +1,0 @@
-{"tmdb_id": 562999, "title": "Gesetz der Stra\u00dfe", "original_title": "Gesetz der Stra\u00dfe", "slug_title": "gesetz-der-strasse", "date": "1994-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

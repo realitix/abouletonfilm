@@ -1,1 +1,0 @@
-{"tmdb_id": 302286, "title": "Tel Malish Boot Polish", "original_title": "Tel Malish Boot Polish", "slug_title": "tel-malish-boot-polish", "date": "1961-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

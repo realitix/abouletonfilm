@@ -1,1 +1,0 @@
-{"tmdb_id": 40499, "title": "Ac\u00fastico MTV - Marina Lima", "original_title": "Ac\u00fastico MTV - Marina Lima", "slug_title": "acustico-mtv-marina-lima", "date": "2003-03-22", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p0EmOcoggg1HpkIsLb4a3iFqMYu.jpg", "actors": [], "comments": [], "recommandations_id": []}

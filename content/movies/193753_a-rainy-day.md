@@ -1,1 +1,0 @@
-{"tmdb_id": 193753, "title": "A Rainy Day", "original_title": "A Rainy Day", "slug_title": "a-rainy-day", "date": "1940-04-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/49rfoOBnGppHfSnnWZtqmL24999.jpg", "actors": [], "comments": [], "recommandations_id": []}

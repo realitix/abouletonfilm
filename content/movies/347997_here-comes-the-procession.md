@@ -1,1 +1,0 @@
-{"tmdb_id": 347997, "title": "Here comes the procession", "original_title": "Ya viene el cortejo...", "slug_title": "here-comes-the-procession", "date": "1939-07-07", "genre": "Documentaire", "score": "0.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 344551, "title": "Afghantsi", "original_title": "Afghantsi", "slug_title": "afghantsi", "date": "1988-04-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2bsVNcj28V57XSP6hnL6XKDvxyO.jpg", "actors": ["Geoff Druett (Narrator)"], "comments": [], "recommandations_id": []}

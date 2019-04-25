@@ -1,1 +1,0 @@
-{"tmdb_id": 540298, "title": "Andr\u00e9 Rieu - New York Memories", "original_title": "Andr\u00e9 Rieu - New York Memories", "slug_title": "andre-rieu-new-york-memories", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/izAeGchC9s3bZJ3G7rav8D8jTQm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 429887, "title": "Bare Skin", "original_title": "Bare Skin", "slug_title": "bare-skin", "date": "2016-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lwsRhg2LRGXSQfZvAYyC5ak3H8L.jpg", "actors": ["Mi Ran ()", "Eun Min ()", "Hae Il ()"], "comments": [], "recommandations_id": []}

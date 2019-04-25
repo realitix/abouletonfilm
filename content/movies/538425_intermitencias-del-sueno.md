@@ -1,1 +1,0 @@
-{"tmdb_id": 538425, "title": "Intermitencias del sue\u00f1o", "original_title": "Intermitencias del sue\u00f1o", "slug_title": "intermitencias-del-sueno", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7UIMJFpXD06EX8Nmzh764ZKzgaF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 304562, "title": "Bride at All Costs", "original_title": "Bride at All Costs", "slug_title": "bride-at-all-costs", "date": "2013-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

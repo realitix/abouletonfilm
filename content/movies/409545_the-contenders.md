@@ -1,1 +1,0 @@
-{"tmdb_id": 409545, "title": "The Contenders", "original_title": "The Contenders", "slug_title": "the-contenders", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 396069, "title": "La otra educaci\u00f3n", "original_title": "La otra educaci\u00f3n", "slug_title": "la-otra-educacion", "date": "2012-02-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lLsTuR3SK4u9gBUy5JfoiusbsEy.jpg", "actors": [], "comments": [], "recommandations_id": []}

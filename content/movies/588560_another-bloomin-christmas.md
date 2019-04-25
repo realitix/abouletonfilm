@@ -1,1 +1,0 @@
-{"tmdb_id": 588560, "title": "Another Bloomin\u2019 Christmas", "original_title": "Another Bloomin\u2019 Christmas", "slug_title": "another-bloomin-christmas", "date": "2021-11-01", "genre": "Animation / Com\u00e9die / Familial / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

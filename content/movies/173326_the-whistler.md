@@ -1,1 +1,0 @@
-{"tmdb_id": 173326, "title": "The Whistler", "original_title": "The Whistler", "slug_title": "the-whistler", "date": "2006-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eODtSXrZOEhGimdpmz7zkTRO4PG.jpg", "actors": [], "comments": [], "recommandations_id": []}

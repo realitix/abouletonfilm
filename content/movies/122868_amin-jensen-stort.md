@@ -1,1 +1,0 @@
-{"tmdb_id": 122868, "title": "Amin Jensen: Stort", "original_title": "Amin Jensen: Stort", "slug_title": "amin-jensen-stort", "date": "2001-08-26", "genre": "Com\u00e9die", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1WEAGW9DQB6MoayfBPxzR98e6UX.jpg", "actors": ["Amin Jensen (Self)"], "comments": [], "recommandations_id": [21973]}

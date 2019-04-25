@@ -1,1 +1,0 @@
-{"tmdb_id": 398126, "title": "ECW is Just Too Sweet", "original_title": "ECW is Just Too Sweet", "slug_title": "ecw-is-just-too-sweet", "date": "2000-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nM5Y1s1kkwZ9c3tbkS4U6DzP5t3.jpg", "actors": [], "comments": [], "recommandations_id": []}

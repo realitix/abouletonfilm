@@ -1,1 +1,0 @@
-{"tmdb_id": 312850, "title": "Facing the Habit", "original_title": "Facing the Habit", "slug_title": "facing-the-habit", "date": "2007-12-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ow56dABtaY9GZjocRTvufvCKsjE.jpg", "actors": [], "comments": [], "recommandations_id": []}

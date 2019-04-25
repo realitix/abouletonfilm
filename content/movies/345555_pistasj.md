@@ -1,1 +1,0 @@
-{"tmdb_id": 345555, "title": "Pistasj", "original_title": "Pistasj", "slug_title": "pistasj", "date": "2009-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Brungot (Daniel)", "Rikke Kristine Kikkut (Beathe)", "Henriette Steenstrup (Pia)"], "comments": [], "recommandations_id": []}

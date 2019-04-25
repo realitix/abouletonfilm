@@ -1,1 +1,0 @@
-{"tmdb_id": 318116, "title": "Golf: The Ridiculous Obsession", "original_title": "Golf: The Ridiculous Obsession", "slug_title": "golf-the-ridiculous-obsession", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

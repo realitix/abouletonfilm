@@ -1,1 +1,0 @@
-{"tmdb_id": 554241, "title": "Playing with Fire", "original_title": "Playing with Fire", "slug_title": "playing-with-fire", "date": "2020-03-20", "genre": "Com\u00e9die / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Cena ()", "Brianna Hildebrand ()"], "comments": [], "recommandations_id": []}

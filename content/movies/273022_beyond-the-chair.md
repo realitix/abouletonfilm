@@ -1,1 +1,0 @@
-{"tmdb_id": 273022, "title": "Beyond The Chair", "original_title": "Beyond The Chair", "slug_title": "beyond-the-chair", "date": "2010-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

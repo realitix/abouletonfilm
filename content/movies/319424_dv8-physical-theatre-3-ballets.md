@@ -1,1 +1,0 @@
-{"tmdb_id": 319424, "title": "DV8 Physical Theatre: 3 Ballets", "original_title": "DV8 Physical Theatre: 3 Ballets", "slug_title": "dv8-physical-theatre-3-ballets", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

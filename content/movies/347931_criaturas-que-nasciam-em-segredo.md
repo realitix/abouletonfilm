@@ -1,1 +1,0 @@
-{"tmdb_id": 347931, "title": "Criaturas que Nasciam em Segredo", "original_title": "Criaturas que Nasciam em Segredo", "slug_title": "criaturas-que-nasciam-em-segredo", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

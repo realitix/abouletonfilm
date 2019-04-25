@@ -1,1 +1,0 @@
-{"tmdb_id": 364585, "title": "Urwaldm\u00e4rchen", "original_title": "Urwaldm\u00e4rchen", "slug_title": "urwaldmarchen", "date": "1978-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

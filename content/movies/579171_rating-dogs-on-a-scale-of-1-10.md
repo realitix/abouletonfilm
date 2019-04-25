@@ -1,1 +1,0 @@
-{"tmdb_id": 579171, "title": "Rating Dogs on a Scale of 1-10", "original_title": "Rating Dogs on a Scale of 1-10", "slug_title": "rating-dogs-on-a-scale-of-1-10", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

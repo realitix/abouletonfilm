@@ -1,1 +1,0 @@
-{"tmdb_id": 318104, "title": "And 1 Mixtape: Vol. 10", "original_title": "And 1 Mixtape: Vol. 10", "slug_title": "and-1-mixtape-vol-10", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

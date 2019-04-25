@@ -1,1 +1,0 @@
-{"tmdb_id": 529058, "title": "Body Politic (god melts bad meat)", "original_title": "Body Politic (god melts bad meat)", "slug_title": "body-politic-god-melts-bad-meat", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

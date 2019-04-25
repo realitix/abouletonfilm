@@ -1,1 +1,0 @@
-{"tmdb_id": 408064, "title": "The Cyclist", "original_title": "The Cyclist", "slug_title": "the-cyclist", "date": "2014-07-22", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

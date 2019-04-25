@@ -1,1 +1,0 @@
-{"tmdb_id": 276279, "title": "Khachaturian: A Musician and His Fatherland", "original_title": "Khachaturian: A Musician and His Fatherland", "slug_title": "khachaturian-a-musician-and-his-fatherland", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

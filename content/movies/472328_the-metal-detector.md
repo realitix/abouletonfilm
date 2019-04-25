@@ -1,1 +1,0 @@
-{"tmdb_id": 472328, "title": "The Metal Detector", "original_title": "The Metal Detector", "slug_title": "the-metal-detector", "date": "2017-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/drVxamG4REydxjxe8HHbaE8mja1.jpg", "actors": [], "comments": [], "recommandations_id": []}

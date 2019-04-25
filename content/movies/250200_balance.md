@@ -1,1 +1,0 @@
-{"tmdb_id": 250200, "title": "Balance", "original_title": "Balance", "slug_title": "balance", "date": "2000-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dJBsCEbK2MhjKmJSZ3H1a9t4iT0.jpg", "actors": [], "comments": [], "recommandations_id": []}

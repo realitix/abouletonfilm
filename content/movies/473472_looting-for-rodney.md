@@ -1,1 +1,0 @@
-{"tmdb_id": 473472, "title": "Looting For Rodney", "original_title": "Looting For Rodney", "slug_title": "looting-for-rodney", "date": "1995-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

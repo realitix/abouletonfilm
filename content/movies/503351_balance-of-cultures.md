@@ -1,1 +1,0 @@
-{"tmdb_id": 503351, "title": "Balance of Cultures", "original_title": "Balance of Cultures", "slug_title": "balance-of-cultures", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

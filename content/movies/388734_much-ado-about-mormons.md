@@ -1,1 +1,0 @@
-{"tmdb_id": 388734, "title": "Much Ado About Mormons", "original_title": "Much Ado About Mormons", "slug_title": "much-ado-about-mormons", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dFurb2f3a6QxzVm4fBW4rMDt1T2.jpg", "actors": [], "comments": [], "recommandations_id": []}

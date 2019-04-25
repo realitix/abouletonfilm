@@ -1,1 +1,0 @@
-{"tmdb_id": 485440, "title": "Our Problems", "original_title": "Na\u0161i problemi", "slug_title": "our-problems", "date": "2017-06-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ugNX7JgqpU0JOt1KSnN223JFc8o.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 214001, "title": "The Ten Commandments Number 5: Thou Shalt Not Kill", "original_title": "The Ten Commandments Number 5: Thou Shalt Not Kill", "slug_title": "the-ten-commandments-number-5-thou-shalt-not-kill", "date": "1996-08-12", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

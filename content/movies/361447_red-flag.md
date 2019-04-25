@@ -1,1 +1,0 @@
-{"tmdb_id": 361447, "title": "Red Flag", "original_title": "Red Flag", "slug_title": "red-flag", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

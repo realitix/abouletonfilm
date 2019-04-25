@@ -1,1 +1,0 @@
-{"tmdb_id": 378305, "title": "The Nation's Favourite Beatles Number One", "original_title": "The Nation's Favourite Beatles Number One", "slug_title": "the-nation-s-favourite-beatles-number-one", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

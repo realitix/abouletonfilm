@@ -1,1 +1,0 @@
-{"tmdb_id": 102801, "title": "Juli - Ein neuer Tag Live", "original_title": "Juli - Ein neuer Tag Live", "slug_title": "juli-ein-neuer-tag-live", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/SqYDwfXlZmZvdcX0Exc29uFSg2.jpg", "actors": [], "comments": [], "recommandations_id": []}

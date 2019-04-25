@@ -1,1 +1,0 @@
-{"tmdb_id": 281863, "title": "Let\u2019s Dance", "original_title": "\uc790, \uc774\uc81c \ub304\uc2a4\ud0c0\uc784", "slug_title": "lets-dance", "date": "2014-06-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tKtaVPmpbLmcgcGFZVKpRdRTy8Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

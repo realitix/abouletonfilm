@@ -1,1 +1,0 @@
-{"tmdb_id": 468258, "title": "Gutrun Gutargun", "original_title": "Gutrun Gutargun", "slug_title": "gutrun-gutargun", "date": "2017-07-28", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

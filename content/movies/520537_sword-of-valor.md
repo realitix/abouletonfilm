@@ -1,1 +1,0 @@
-{"tmdb_id": 520537, "title": "Sword of Valor", "original_title": "Sword of Valor", "slug_title": "sword-of-valor", "date": "1924-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rex 'Snowy' Baker ()"], "comments": [], "recommandations_id": []}

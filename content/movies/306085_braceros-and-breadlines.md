@@ -1,1 +1,0 @@
-{"tmdb_id": 306085, "title": "Braceros and Breadlines", "original_title": "Braceros and Breadlines", "slug_title": "braceros-and-breadlines", "date": "2014-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

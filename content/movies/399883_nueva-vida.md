@@ -1,1 +1,0 @@
-{"tmdb_id": 399883, "title": "Nueva Vida", "original_title": "Nueva Vida", "slug_title": "nueva-vida", "date": "2015-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rJcU63JavTPwZlJdCEsrpR4wvLj.jpg", "actors": [], "comments": [], "recommandations_id": []}

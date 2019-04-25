@@ -1,1 +1,0 @@
-{"tmdb_id": 311358, "title": "Anna Bolena", "original_title": "Anna Bolena", "slug_title": "anna-bolena", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

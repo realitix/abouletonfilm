@@ -1,1 +1,0 @@
-{"tmdb_id": 457394, "title": "Jacob's Ladder", "original_title": "Jacob's Ladder", "slug_title": "jacob-s-ladder", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

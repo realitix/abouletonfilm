@@ -1,1 +1,0 @@
-{"tmdb_id": 57333, "title": "Asian-Stravaganza!", "original_title": "Asian-Stravaganza!", "slug_title": "asian-stravaganza", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ydqhYMMOj6BQ43zSqQvly0SSZfr.jpg", "actors": [], "comments": [], "recommandations_id": []}

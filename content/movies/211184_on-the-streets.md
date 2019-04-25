@@ -1,1 +1,0 @@
-{"tmdb_id": 211184, "title": "On the Streets", "original_title": "On the Streets", "slug_title": "on-the-streets", "date": "2010-11-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tTK1BNTfFinIUhsoeapg5lULCLW.jpg", "actors": [], "comments": [], "recommandations_id": []}

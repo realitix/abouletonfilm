@@ -1,1 +1,0 @@
-{"tmdb_id": 303234, "title": "Freundschaft! - Die freie deutsche Jugend", "original_title": "Freundschaft! - Die freie deutsche Jugend", "slug_title": "freundschaft-die-freie-deutsche-jugend", "date": "2008-06-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

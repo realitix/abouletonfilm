@@ -1,1 +1,0 @@
-{"tmdb_id": 379464, "title": "Killarney Blarney", "original_title": "Killarney Blarney", "slug_title": "killarney-blarney", "date": "1973-05-16", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry D. Mann (Blue Racer (voice))", "Paul Winchell (Jamie / Timmy (voice))"], "comments": [], "recommandations_id": []}

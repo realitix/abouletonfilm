@@ -1,1 +1,0 @@
-{"tmdb_id": 513907, "title": "Les Pyr\u00e9n\u00e9es pittoresques", "original_title": "Les Pyr\u00e9n\u00e9es pittoresques", "slug_title": "les-pyrenees-pittoresques", "date": "1910-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

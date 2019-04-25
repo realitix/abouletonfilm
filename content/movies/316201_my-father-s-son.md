@@ -1,1 +1,0 @@
-{"tmdb_id": 316201, "title": "My Father's Son", "original_title": "My Father's Son", "slug_title": "my-father-s-son", "date": "2002-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

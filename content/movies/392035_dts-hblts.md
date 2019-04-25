@@ -1,1 +1,0 @@
-{"tmdb_id": 392035, "title": "\u05d3\u05e5 \u05d4\u05d1\u05dc\u05e5", "original_title": "\u05d3\u05e5 \u05d4\u05d1\u05dc\u05e5", "slug_title": "dts-hblts", "date": "2015-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bJKCF8BnZ5cSs0wdOzU5je6jC1o.jpg", "actors": [], "comments": [], "recommandations_id": []}

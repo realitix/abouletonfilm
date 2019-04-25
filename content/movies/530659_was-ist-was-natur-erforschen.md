@@ -1,1 +1,0 @@
-{"tmdb_id": 530659, "title": "Was ist Was - Natur erforschen", "original_title": "Was ist Was - Natur erforschen", "slug_title": "was-ist-was-natur-erforschen", "date": "2010-01-01", "genre": "Familial / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 354737, "title": "Walzk\u00f6persperre", "original_title": "Walzk\u00f6persperre", "slug_title": "walzkopersperre", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

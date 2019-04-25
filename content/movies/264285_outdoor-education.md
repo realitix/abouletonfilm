@@ -1,1 +1,0 @@
-{"tmdb_id": 264285, "title": "Outdoor Education", "original_title": "Outdoor Education", "slug_title": "outdoor-education", "date": "2008-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

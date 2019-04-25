@@ -1,1 +1,0 @@
-{"tmdb_id": 480248, "title": "Life of the Party", "original_title": "Life of the Party", "slug_title": "life-of-the-party", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/17o9d5Q1BOR6MpjZhti2tO0vhuQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

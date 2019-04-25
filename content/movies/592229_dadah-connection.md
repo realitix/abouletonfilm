@@ -1,1 +1,0 @@
-{"tmdb_id": 592229, "title": "Dadah Connection", "original_title": "Dadah Connection", "slug_title": "dadah-connection", "date": "", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

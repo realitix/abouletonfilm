@@ -1,1 +1,0 @@
-{"tmdb_id": 340941, "title": "Double Ticks", "original_title": "Doble check", "slug_title": "double-ticks", "date": "2011-07-01", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Miki Esparb\u00e9 (He)", "Mariam Hern\u00e1ndez (She)"], "comments": [], "recommandations_id": []}

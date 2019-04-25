@@ -1,1 +1,0 @@
-{"tmdb_id": 574585, "title": "Zero One", "original_title": "Zero One", "slug_title": "zero-one", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 36013, "title": "The Age of Transitions", "original_title": "The Age of Transitions", "slug_title": "the-age-of-transitions", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q305Kw8l7DExOS8mWLavb5AqXrm.jpg", "actors": [], "comments": [], "recommandations_id": []}

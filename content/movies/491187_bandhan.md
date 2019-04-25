@@ -1,1 +1,0 @@
-{"tmdb_id": 491187, "title": "Bandhan", "original_title": "Bandhan", "slug_title": "bandhan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeet (Rohit)", "Koel Mallick (Mina)", "Victor Banerjee ()", "Biswajit Chakraborty ()", "Locket Chatterjee ()"], "comments": [], "recommandations_id": []}

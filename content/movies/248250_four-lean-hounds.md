@@ -1,1 +1,0 @@
-{"tmdb_id": 248250, "title": "Four Lean Hounds", "original_title": "Four Lean Hounds", "slug_title": "four-lean-hounds", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["M\u00eda Maestro (Kay)"], "comments": [], "recommandations_id": []}

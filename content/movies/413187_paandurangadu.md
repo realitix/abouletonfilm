@@ -1,1 +1,0 @@
-{"tmdb_id": 413187, "title": "Paandurangadu", "original_title": "Paandurangadu", "slug_title": "paandurangadu", "date": "2008-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tabu ()", "Nandamuri Balakrishna ()"], "comments": [], "recommandations_id": []}

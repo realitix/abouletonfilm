@@ -1,1 +1,0 @@
-{"tmdb_id": 86038, "title": "Pascal vs. Hopkins II", "original_title": "Pascal vs. Hopkins II", "slug_title": "pascal-vs-hopkins-ii", "date": "2011-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kkllyLxuVwdNYPqRcY7ZNao0I2Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

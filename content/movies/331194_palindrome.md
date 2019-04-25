@@ -1,1 +1,0 @@
-{"tmdb_id": 331194, "title": "Palindrome", "original_title": "Palindrome", "slug_title": "palindrome", "date": "1969-03-17", "genre": "", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jr2ji4MNPpf1qztIadbwvHTyLBG.jpg", "actors": [], "comments": [], "recommandations_id": [278859, 359457, 183108, 211244]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 596733, "title": "Taro The Fool", "original_title": "\u30bf\u30ed\u30a6\u306e\u30d0\u30ab", "slug_title": "taro-the-fool", "date": "", "genre": "Com\u00e9die / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yoshi (Taro)", "Masaki Suda (Eji)", "Taiga (Sugio)"], "comments": [], "recommandations_id": []}

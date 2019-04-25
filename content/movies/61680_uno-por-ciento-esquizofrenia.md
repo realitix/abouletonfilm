@@ -1,1 +1,0 @@
-{"tmdb_id": 61680, "title": "Uno por ciento, esquizofrenia", "original_title": "Uno por ciento, esquizofrenia", "slug_title": "uno-por-ciento-esquizofrenia", "date": "2007-03-23", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8USMDENWpTd9HKM1ntMpbasP58i.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 349305, "title": "The Pawn", "original_title": "The Pawn", "slug_title": "the-pawn", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v9KY1Y1CLb9NaV6dMayWXeJPM7r.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 594259, "title": "The Interview", "original_title": "The Interview", "slug_title": "the-interview", "date": "1974-04-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ijldpI8BvRh8pt3y2bLg44f9vS9.jpg", "actors": ["Mike Jittlov ()"], "comments": [], "recommandations_id": []}

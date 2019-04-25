@@ -1,1 +1,1 @@
-{"tmdb_id": 450693, "title": "Fietsen", "original_title": "Fietsen", "slug_title": "fietsen", "date": "1965-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 450693, "title": "Fietsen", "original_title": "Fietsen", "slug_title": "fietsen", "date": "1965-01-01", "genre": ["Documentaire"], "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

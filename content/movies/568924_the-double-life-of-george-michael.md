@@ -1,1 +1,0 @@
-{"tmdb_id": 568924, "title": "The Double Life of George Michael", "original_title": "The Double Life of George Michael", "slug_title": "the-double-life-of-george-michael", "date": "2018-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

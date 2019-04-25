@@ -1,1 +1,0 @@
-{"tmdb_id": 526669, "title": "Too Beautiful - Our Right to Fight", "original_title": "Too Beautiful - Our Right to Fight", "slug_title": "too-beautiful-our-right-to-fight", "date": "2018-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

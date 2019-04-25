@@ -1,1 +1,0 @@
-{"tmdb_id": 384359, "title": "Zona Norte", "original_title": "Zona Norte", "slug_title": "zona-norte", "date": "2016-02-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kHdAzlWMTu5e7zSiiIuQuwHnOrH.jpg", "actors": ["Yvonne Bezerra de Mello (Herself)"], "comments": [], "recommandations_id": []}

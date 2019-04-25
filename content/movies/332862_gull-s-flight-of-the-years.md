@@ -1,1 +1,0 @@
-{"tmdb_id": 332862, "title": "Gull's Flight of the Years", "original_title": "M\u00f6wenflug der Jahre", "slug_title": "gull-s-flight-of-the-years", "date": "1968-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 527570, "title": "Rebecca", "original_title": "Rebecca", "slug_title": "rebecca", "date": "2016-09-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vn0EIRlK8AgtrQBfr8x0lrBfWEi.jpg", "actors": ["Joseph Benjamin ()", "Yvonne Okoro ()"], "comments": [], "recommandations_id": []}

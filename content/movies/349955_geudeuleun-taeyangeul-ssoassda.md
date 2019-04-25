@@ -1,1 +1,0 @@
-{"tmdb_id": 349955, "title": "\uadf8\ub4e4\uc740 \ud0dc\uc591\uc744 \uc3d8\uc558\ub2e4", "original_title": "\uadf8\ub4e4\uc740 \ud0dc\uc591\uc744 \uc3d8\uc558\ub2e4", "slug_title": "geudeuleun-taeyangeul-ssoassda", "date": "1982-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

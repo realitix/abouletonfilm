@@ -1,1 +1,0 @@
-{"tmdb_id": 594996, "title": "Ibrahim Ferrer - AVO Session Basel", "original_title": "Ibrahim Ferrer - AVO Session Basel", "slug_title": "ibrahim-ferrer-avo-session-basel", "date": "2004-11-10", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ibrahim Ferrer (himself)"], "comments": [], "recommandations_id": []}

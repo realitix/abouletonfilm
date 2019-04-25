@@ -1,1 +1,0 @@
-{"tmdb_id": 254421, "title": "Fisticuffs", "original_title": "Fisticuffs", "slug_title": "fisticuffs", "date": "1938-08-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator (voice))", "Max Baer (Himself)", "Ancil Hoffman (Max Baer's Manager)"], "comments": [], "recommandations_id": []}

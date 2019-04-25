@@ -1,1 +1,0 @@
-{"tmdb_id": 276241, "title": "The Skulls: Night of the Living Skulls", "original_title": "The Skulls: Night of the Living Skulls", "slug_title": "the-skulls-night-of-the-living-skulls", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 515201, "title": "Hasta Siempre, Comandante", "original_title": "Hasta Siempre, Comandante", "slug_title": "hasta-siempre-comandante", "date": "2016-10-15", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t5NLaND9ZEEIrcCggtqKj7k3VPA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 520243, "title": "DADDY'S GIRL", "original_title": "DADDY'S GIRL", "slug_title": "daddy-s-girl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

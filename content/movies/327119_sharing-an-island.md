@@ -1,1 +1,0 @@
-{"tmdb_id": 327119, "title": "Sharing an Island", "original_title": "Sharing an Island", "slug_title": "sharing-an-island", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

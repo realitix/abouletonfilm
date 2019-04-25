@@ -1,1 +1,0 @@
-{"tmdb_id": 241418, "title": "F#Ck Nick Cannon", "original_title": "F#Ck Nick Cannon", "slug_title": "f-ck-nick-cannon", "date": "2013-11-16", "genre": "Com\u00e9die", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kdYMGgoO6sVllJ9TcSsA8HSGUN1.jpg", "actors": ["Nick Cannon (Himself)"], "comments": [], "recommandations_id": []}

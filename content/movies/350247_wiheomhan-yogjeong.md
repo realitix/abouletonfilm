@@ -1,1 +1,0 @@
-{"tmdb_id": 350247, "title": "\uc704\ud5d8\ud55c \uc695\uc815", "original_title": "\uc704\ud5d8\ud55c \uc695\uc815", "slug_title": "wiheomhan-yogjeong", "date": "1989-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

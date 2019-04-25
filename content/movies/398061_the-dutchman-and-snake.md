@@ -1,1 +1,0 @@
-{"tmdb_id": 398061, "title": "The Dutchman and Snake", "original_title": "The Dutchman and Snake", "slug_title": "the-dutchman-and-snake", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

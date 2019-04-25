@@ -1,1 +1,0 @@
-{"tmdb_id": 405435, "title": "C\u00e9line Dion: On ne change pas", "original_title": "C\u00e9line Dion: On ne change pas", "slug_title": "celine-dion-on-ne-change-pas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vJXXI4RZlpPpVf2Wt55hN0KoVKH.jpg", "actors": [], "comments": [], "recommandations_id": []}

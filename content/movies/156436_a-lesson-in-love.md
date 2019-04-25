@@ -1,1 +1,0 @@
-{"tmdb_id": 156436, "title": "A Lesson in Love", "original_title": "A Lesson in Love", "slug_title": "a-lesson-in-love", "date": "1931-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fn5dVQeHmepZCRsncpLAsTNQCOt.jpg", "actors": [], "comments": [], "recommandations_id": []}

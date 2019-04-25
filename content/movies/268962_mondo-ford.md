@@ -1,1 +1,0 @@
-{"tmdb_id": 268962, "title": "Mondo Ford", "original_title": "Mondo Ford", "slug_title": "mondo-ford", "date": "2000-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

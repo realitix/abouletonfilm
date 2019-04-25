@@ -1,1 +1,0 @@
-{"tmdb_id": 74223, "title": "Bellator 49", "original_title": "Bellator 49", "slug_title": "bellator-49", "date": "2011-09-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vBEylEPnU7lB2gTPla4do02Xzns.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 357833, "title": "Suryaa: An Awakening", "original_title": "Suryaa: An Awakening", "slug_title": "suryaa-an-awakening", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/havlvdVwA33cJqxP1N830WECEq8.jpg", "actors": [], "comments": [], "recommandations_id": []}

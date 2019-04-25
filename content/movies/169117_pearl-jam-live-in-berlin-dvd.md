@@ -1,1 +1,0 @@
-{"tmdb_id": 169117, "title": "Pearl Jam - Live in Berlin DVD", "original_title": "Pearl Jam - Live in Berlin DVD", "slug_title": "pearl-jam-live-in-berlin-dvd", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zQ4zXhhxYZJgSIrU6xPjBDYslqY.jpg", "actors": [], "comments": [], "recommandations_id": []}

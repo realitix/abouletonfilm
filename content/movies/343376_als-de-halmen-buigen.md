@@ -1,1 +1,0 @@
-{"tmdb_id": 343376, "title": "Als de halmen buigen", "original_title": "Als de halmen buigen", "slug_title": "als-de-halmen-buigen", "date": "1929-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

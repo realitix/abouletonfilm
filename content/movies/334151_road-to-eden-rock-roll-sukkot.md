@@ -1,1 +1,0 @@
-{"tmdb_id": 334151, "title": "Road to Eden: Rock & Roll Sukkot", "original_title": "Road to Eden: Rock & Roll Sukkot", "slug_title": "road-to-eden-rock-roll-sukkot", "date": "2013-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

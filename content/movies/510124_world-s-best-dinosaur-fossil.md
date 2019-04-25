@@ -1,1 +1,0 @@
-{"tmdb_id": 510124, "title": "World's Best Dinosaur Fossil", "original_title": "World's Best Dinosaur Fossil", "slug_title": "world-s-best-dinosaur-fossil", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2wTBMtJC5dFl9yzrtKJs4HbGBTW.jpg", "actors": [], "comments": [], "recommandations_id": []}

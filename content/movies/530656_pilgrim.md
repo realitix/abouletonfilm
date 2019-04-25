@@ -1,1 +1,0 @@
-{"tmdb_id": 530656, "title": "Pilgrim", "original_title": "Pilgrim", "slug_title": "pilgrim", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 591424, "title": "Stream Line", "original_title": "Stream Line", "slug_title": "stream-line", "date": "1976-05-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qjLd6AVjQ84ZlVW1dk9LjLFq4UK.jpg", "actors": [], "comments": [], "recommandations_id": []}

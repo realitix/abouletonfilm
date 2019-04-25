@@ -1,1 +1,0 @@
-{"tmdb_id": 545857, "title": "They Call It Love", "original_title": "They Call It Love", "slug_title": "they-call-it-love", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

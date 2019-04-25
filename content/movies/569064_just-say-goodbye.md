@@ -1,1 +1,0 @@
-{"tmdb_id": 569064, "title": "Just Say Goodbye", "original_title": "Just Say Goodbye", "slug_title": "just-say-goodbye", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Katerina Eichenberger (Sarah Morin)"], "comments": [], "recommandations_id": []}

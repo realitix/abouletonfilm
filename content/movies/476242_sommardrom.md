@@ -1,1 +1,0 @@
-{"tmdb_id": 476242, "title": "Sommardr\u00f6m", "original_title": "Sommardr\u00f6m", "slug_title": "sommardrom", "date": "1959-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jan Tiselius ()"], "comments": [], "recommandations_id": []}

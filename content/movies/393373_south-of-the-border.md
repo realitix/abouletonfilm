@@ -1,1 +1,0 @@
-{"tmdb_id": 393373, "title": "South Of The Border", "original_title": "South Of The Border", "slug_title": "south-of-the-border", "date": "1988-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7iera9SxaYQYhorrTvnwoJloizW.jpg", "actors": [], "comments": [], "recommandations_id": []}

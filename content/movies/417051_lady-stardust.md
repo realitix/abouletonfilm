@@ -1,1 +1,0 @@
-{"tmdb_id": 417051, "title": "Lady Stardust", "original_title": "Lady Stardust", "slug_title": "lady-stardust", "date": "2016-06-07", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maxwell Dodsley (Charlie)", "Michael Sampson (Duncan)"], "comments": [], "recommandations_id": []}

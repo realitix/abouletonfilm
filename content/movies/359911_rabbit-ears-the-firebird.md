@@ -1,1 +1,0 @@
-{"tmdb_id": 359911, "title": "Rabbit Ears - The Firebird", "original_title": "Rabbit Ears - The Firebird", "slug_title": "rabbit-ears-the-firebird", "date": "1991-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8LlpnJNSpusZnYsJ1Q7z81LgWVq.jpg", "actors": [], "comments": [], "recommandations_id": []}

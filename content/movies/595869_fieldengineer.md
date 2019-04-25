@@ -1,1 +1,0 @@
-{"tmdb_id": 595869, "title": "fieldengineer", "original_title": "fieldengineer", "slug_title": "fieldengineer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

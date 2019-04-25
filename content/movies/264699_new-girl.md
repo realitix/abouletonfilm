@@ -1,1 +1,0 @@
-{"tmdb_id": 264699, "title": "New Girl", "original_title": "New Girl", "slug_title": "new-girl", "date": "1985-03-20", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jKKhUv8kTYbEYD8WPhdWxaxnU6u.jpg", "actors": [], "comments": [], "recommandations_id": []}

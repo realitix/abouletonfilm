@@ -1,1 +1,0 @@
-{"tmdb_id": 526423, "title": "Chimera", "original_title": "\u30ad\u30de\u30a4\u30e9", "slug_title": "chimera", "date": "", "genre": "Animation / Horreur / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

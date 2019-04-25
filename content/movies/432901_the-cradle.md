@@ -1,1 +1,0 @@
-{"tmdb_id": 432901, "title": "The Cradle", "original_title": "The Cradle", "slug_title": "the-cradle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

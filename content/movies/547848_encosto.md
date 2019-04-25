@@ -1,1 +1,0 @@
-{"tmdb_id": 547848, "title": "Encosto", "original_title": "Encosto", "slug_title": "encosto", "date": "2013-11-21", "genre": "Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2LR5FR7OYatIB6EVILQidHLQNLE.jpg", "actors": [], "comments": [], "recommandations_id": []}

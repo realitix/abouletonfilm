@@ -1,1 +1,0 @@
-{"tmdb_id": 551418, "title": "The Chore", "original_title": "The Chore", "slug_title": "the-chore", "date": "2018-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

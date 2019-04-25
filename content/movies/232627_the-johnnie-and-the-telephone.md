@@ -1,1 +1,0 @@
-{"tmdb_id": 232627, "title": "The Johnnie and the Telephone", "original_title": "The Johnnie and the Telephone", "slug_title": "the-johnnie-and-the-telephone", "date": "1903-12-03", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

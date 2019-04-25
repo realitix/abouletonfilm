@@ -1,1 +1,0 @@
-{"tmdb_id": 276979, "title": "Kidsongs: A Day with the Animals", "original_title": "Kidsongs: A Day with the Animals", "slug_title": "kidsongs-a-day-with-the-animals", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 478306, "title": "Wilco: Live at Soundstage", "original_title": "Wilco: Live at Soundstage", "slug_title": "wilco-live-at-soundstage", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nsSHhUaTohX34yPZB8ra8e4qILB.jpg", "actors": [], "comments": [], "recommandations_id": []}

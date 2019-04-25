@@ -1,1 +1,0 @@
-{"tmdb_id": 137077, "title": "Normal School", "original_title": "Escuela normal", "slug_title": "normal-school", "date": "2012-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kJs1CJT2vgYeyYvad2VIieIzq86.jpg", "actors": [], "comments": [], "recommandations_id": []}

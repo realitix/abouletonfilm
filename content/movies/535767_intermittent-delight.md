@@ -1,1 +1,0 @@
-{"tmdb_id": 535767, "title": "Intermittent Delight", "original_title": "Intermittent Delight", "slug_title": "intermittent-delight", "date": "2007-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cdB6rWmedWpi6mmRH8qHg1K0FDR.jpg", "actors": [], "comments": [], "recommandations_id": []}

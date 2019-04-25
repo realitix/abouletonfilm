@@ -1,1 +1,0 @@
-{"tmdb_id": 394903, "title": "Bacon, the Movie", "original_title": "Bacon, the Movie", "slug_title": "bacon-the-movie", "date": "2001-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/883bPPhOKqk4WAT7lpkg4tF1Gxo.jpg", "actors": [], "comments": [], "recommandations_id": []}

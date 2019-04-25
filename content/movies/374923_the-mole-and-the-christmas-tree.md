@@ -1,1 +1,0 @@
-{"tmdb_id": 374923, "title": "The Mole and the Christmas Tree", "original_title": "Krtek o v\u00e1noc\u00edch", "slug_title": "the-mole-and-the-christmas-tree", "date": "1975-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

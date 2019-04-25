@@ -1,1 +1,0 @@
-{"tmdb_id": 335082, "title": "Rocking the Foundations", "original_title": "Rocking the Foundations", "slug_title": "rocking-the-foundations", "date": "1985-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/koB7ySF1JDsdIUk4aJIF1n9estC.jpg", "actors": [], "comments": [], "recommandations_id": []}

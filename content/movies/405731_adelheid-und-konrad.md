@@ -1,1 +1,0 @@
-{"tmdb_id": 405731, "title": "Adelheid und Konrad", "original_title": "Adelheid und Konrad", "slug_title": "adelheid-und-konrad", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

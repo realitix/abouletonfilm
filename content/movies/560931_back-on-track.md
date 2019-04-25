@@ -1,1 +1,0 @@
-{"tmdb_id": 560931, "title": "Back on Track", "original_title": "Back on Track", "slug_title": "back-on-track", "date": "2018-09-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4SktMQzvWUZQGiLa76m4vDk07oD.jpg", "actors": [], "comments": [], "recommandations_id": []}

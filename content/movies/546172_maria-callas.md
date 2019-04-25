@@ -1,1 +1,0 @@
-{"tmdb_id": 546172, "title": "Maria Callas", "original_title": "Maria Callas", "slug_title": "maria-callas", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "un film de Ange Leccia", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3DE8Bdht7nCh1j8vmnl3aHEnE15.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 594995, "title": "2006 FIFA World Cup All Goals", "original_title": "2006 FIFA World Cup All Goals", "slug_title": "2006-fifa-world-cup-all-goals", "date": "2006-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mRcn4tK6mEupeOS18YOTrpCt5h4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 383988, "title": "I padroni del mondo", "original_title": "I padroni del mondo", "slug_title": "i-padroni-del-mondo", "date": "2008-02-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/76B48t2S5NUb343nJ8I0Qlw9MuN.jpg", "actors": [], "comments": [], "recommandations_id": []}

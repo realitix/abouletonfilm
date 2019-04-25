@@ -1,1 +1,1 @@
-{"tmdb_id": 274414, "title": "Fome de Bola", "original_title": "Fome de Bola", "slug_title": "fome-de-bola", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 274414, "title": "Fome de Bola", "original_title": "Fome de Bola", "slug_title": "fome-de-bola", "date": "2010-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

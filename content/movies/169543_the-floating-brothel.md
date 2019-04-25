@@ -1,1 +1,0 @@
-{"tmdb_id": 169543, "title": "The Floating Brothel", "original_title": "The Floating Brothel", "slug_title": "the-floating-brothel", "date": "2006-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5TMkFg8Cclx18vKFhXGEYVr19rW.jpg", "actors": [], "comments": [], "recommandations_id": []}

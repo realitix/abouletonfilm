@@ -1,1 +1,0 @@
-{"tmdb_id": 100986, "title": "Funny Car Summer", "original_title": "Funny Car Summer", "slug_title": "funny-car-summer", "date": "1973-10-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5s7XxxrTWH4KldU7DXrpz6HtErF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 552964, "title": "Yo la Tengo at Fabrik ,Hamburg, Germany", "original_title": "Yo la Tengo at Fabrik ,Hamburg, Germany", "slug_title": "yo-la-tengo-at-fabrik-hamburg-germany", "date": "2000-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

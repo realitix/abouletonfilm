@@ -1,1 +1,0 @@
-{"tmdb_id": 388706, "title": "Teta Veleta", "original_title": "Teta Veleta", "slug_title": "teta-veleta", "date": "2016-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

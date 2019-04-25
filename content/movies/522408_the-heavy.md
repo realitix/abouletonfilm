@@ -1,1 +1,1 @@
-{"tmdb_id": 522408, "title": "The Heavy", "original_title": "The Heavy", "slug_title": "the-heavy", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 522408, "title": "The Heavy", "original_title": "The Heavy", "slug_title": "the-heavy", "date": "", "genre": [""], "score": "10.0/10", "synopsis": "Plot unknown.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

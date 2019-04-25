@@ -1,1 +1,0 @@
-{"tmdb_id": 339698, "title": "Escape from Firebase Kate", "original_title": "Escape from Firebase Kate", "slug_title": "escape-from-firebase-kate", "date": "2015-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

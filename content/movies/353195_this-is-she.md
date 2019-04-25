@@ -1,1 +1,0 @@
-{"tmdb_id": 353195, "title": "This Is She", "original_title": "This Is She", "slug_title": "this-is-she", "date": "2015-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tysNJOAzIEXX1fakHSU1FQVftwb.jpg", "actors": [], "comments": [], "recommandations_id": []}

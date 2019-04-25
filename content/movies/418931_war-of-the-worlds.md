@@ -1,1 +1,0 @@
-{"tmdb_id": 418931, "title": "War of the Worlds", "original_title": "War of the Worlds", "slug_title": "war-of-the-worlds", "date": "2013-10-29", "genre": "Documentaire", "score": "7.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uwP7iHhhemg8cZ47mL28tGdA37k.jpg", "actors": [], "comments": [], "recommandations_id": []}

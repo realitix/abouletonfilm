@@ -1,1 +1,0 @@
-{"tmdb_id": 397716, "title": "Drowned", "original_title": "Drowned", "slug_title": "drowned", "date": "", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7w1UhpOC4grAZ73aAQsaU3bEvkC.jpg", "actors": ["Ellar Coltrane (Boy)", "Rasha Mosa (Girl)"], "comments": [], "recommandations_id": []}

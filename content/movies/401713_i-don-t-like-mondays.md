@@ -1,1 +1,0 @@
-{"tmdb_id": 401713, "title": "I Don't Like Mondays", "original_title": "I Don't Like Mondays", "slug_title": "i-don-t-like-mondays", "date": "2006-01-23", "genre": "Crime / Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cxaedDV1kQwZUShvQK9YB13oFQM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 308322, "title": "Flash Gordon: Marooned on Mongo", "original_title": "Flash Gordon: Marooned on Mongo", "slug_title": "flash-gordon-marooned-on-mongo", "date": "1996-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/caUFHct7GMb5GtNfavIBAdrBg5f.jpg", "actors": [], "comments": [], "recommandations_id": []}

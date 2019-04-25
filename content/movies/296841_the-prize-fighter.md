@@ -1,1 +1,0 @@
-{"tmdb_id": 296841, "title": "The Prize Fighter", "original_title": "The Prize Fighter", "slug_title": "the-prize-fighter", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

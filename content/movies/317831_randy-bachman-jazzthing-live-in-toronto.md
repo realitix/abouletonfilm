@@ -1,1 +1,0 @@
-{"tmdb_id": 317831, "title": "Randy Bachman: JazzThing: Live in Toronto", "original_title": "Randy Bachman: JazzThing: Live in Toronto", "slug_title": "randy-bachman-jazzthing-live-in-toronto", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

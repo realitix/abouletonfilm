@@ -1,1 +1,0 @@
-{"tmdb_id": 287003, "title": "Avatar: Scene Deconstruction", "original_title": "Avatar: Scene Deconstruction", "slug_title": "avatar-scene-deconstruction", "date": "2009-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wQ6qSfC8IoiS71swcleUrpDMjt3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 314592, "title": "Meno male \u00e9 luned\u00ec", "original_title": "Meno male \u00e9 luned\u00ec", "slug_title": "meno-male-e-lunedi", "date": "2014-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

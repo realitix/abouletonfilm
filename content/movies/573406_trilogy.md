@@ -1,1 +1,0 @@
-{"tmdb_id": 573406, "title": "Trilogy", "original_title": "Trilogy", "slug_title": "trilogy", "date": "2007-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8rJYeSilKxBDuQ7YC8qPLMZgu3h.jpg", "actors": ["Taj Burrow ()", "Joel Parkinson ()", "Andy Irons ()"], "comments": [], "recommandations_id": []}

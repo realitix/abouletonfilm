@@ -1,1 +1,0 @@
-{"tmdb_id": 361367, "title": "Ruth, Roses, and Revolver", "original_title": "Ruth, Roses, and Revolver", "slug_title": "ruth-roses-and-revolver", "date": "1987-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Aol5nGqX0tncDfmds80sTixDGcc.jpg", "actors": [], "comments": [], "recommandations_id": []}

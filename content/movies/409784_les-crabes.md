@@ -1,1 +1,0 @@
-{"tmdb_id": 409784, "title": "Les crabes", "original_title": "Les crabes", "slug_title": "les-crabes", "date": "1930-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

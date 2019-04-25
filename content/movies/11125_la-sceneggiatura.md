@@ -1,1 +1,0 @@
-{"tmdb_id": 11125, "title": "La Sceneggiatura", "original_title": "La Sceneggiatura", "slug_title": "la-sceneggiatura", "date": "2006-08-28", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matteo Pianezzi (Andrea)", "Claudia Nicosia (Simona)", "Filippo Panunzi (Andrea Grandfather)"], "comments": [], "recommandations_id": []}

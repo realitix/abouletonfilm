@@ -1,1 +1,0 @@
-{"tmdb_id": 435758, "title": "An Avenger", "original_title": "Osvetnik", "slug_title": "an-avenger", "date": "1958-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/61pySYmxxDwELZoI58hW1hfABfc.jpg", "actors": [], "comments": [], "recommandations_id": []}

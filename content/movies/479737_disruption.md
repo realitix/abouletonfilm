@@ -1,1 +1,0 @@
-{"tmdb_id": 479737, "title": "disruption", "original_title": "disruption", "slug_title": "disruption", "date": "2017-10-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f5B9v3unhsC1Bu6i1Gv4Xf8h8va.jpg", "actors": [], "comments": [], "recommandations_id": []}

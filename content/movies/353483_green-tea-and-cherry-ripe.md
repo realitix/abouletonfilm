@@ -1,1 +1,0 @@
-{"tmdb_id": 353483, "title": "Green Tea and Cherry Ripe", "original_title": "Green Tea and Cherry Ripe", "slug_title": "green-tea-and-cherry-ripe", "date": "1989-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oRIDlyCkGeWZ10VAvx9Cju8oqiX.jpg", "actors": [], "comments": [], "recommandations_id": []}

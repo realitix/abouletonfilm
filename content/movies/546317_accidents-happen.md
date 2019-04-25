@@ -1,1 +1,0 @@
-{"tmdb_id": 546317, "title": "Accidents Happen", "original_title": "Accidents Happen", "slug_title": "accidents-happen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/25MuLXKRdGENeOvkSxBlrrwz668.jpg", "actors": [], "comments": [], "recommandations_id": []}

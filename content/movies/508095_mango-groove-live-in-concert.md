@@ -1,1 +1,0 @@
-{"tmdb_id": 508095, "title": "Mango Groove: Live in Concert", "original_title": "Mango Groove: Live in Concert", "slug_title": "mango-groove-live-in-concert", "date": "2011-04-04", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

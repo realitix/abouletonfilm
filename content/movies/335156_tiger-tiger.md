@@ -1,1 +1,0 @@
-{"tmdb_id": 335156, "title": "Tiger Tiger", "original_title": "Tiger Tiger", "slug_title": "tiger-tiger", "date": "2015-04-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alan Rabinowitz (Self)"], "comments": [], "recommandations_id": []}

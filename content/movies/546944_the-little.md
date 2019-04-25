@@ -1,1 +1,0 @@
-{"tmdb_id": 546944, "title": "The Little", "original_title": "The Little", "slug_title": "the-little", "date": "2010-01-01", "genre": "Drame / Fantastique / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tWbTnZdHN2u7JOw4hsqgcRqB3TM.jpg", "actors": [], "comments": [], "recommandations_id": []}

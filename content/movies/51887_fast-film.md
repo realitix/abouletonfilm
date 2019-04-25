@@ -1,1 +1,0 @@
-{"tmdb_id": 51887, "title": "Fast Film", "original_title": "Fast Film", "slug_title": "fast-film", "date": "2003-05-01", "genre": "Aventure / Animation", "score": "7.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o26U5HvU8JcbPmEnHfJirqssdbv.jpg", "actors": [], "comments": [], "recommandations_id": [117592, 126200, 46595, 111161]}

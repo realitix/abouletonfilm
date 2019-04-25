@@ -1,1 +1,0 @@
-{"tmdb_id": 160236, "title": "Shinee World 2012 (arena tour)", "original_title": "Shinee World 2012 (arena tour)", "slug_title": "shinee-world-2012-arena-tour", "date": "2012-12-10", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7L6tDf22FvVD9BSz3JlIU469ga6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 420627, "title": "Holiday", "original_title": "En vacances", "slug_title": "holiday", "date": "2000-06-07", "genre": "Romance / Drame / Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AwtIMMr6HdTeHgf1njWTXEHr17e.jpg", "actors": [], "comments": [], "recommandations_id": []}

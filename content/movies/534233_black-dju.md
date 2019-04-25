@@ -1,1 +1,0 @@
-{"tmdb_id": 534233, "title": "Black Dju", "original_title": "Black Dju", "slug_title": "black-dju", "date": "1997-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

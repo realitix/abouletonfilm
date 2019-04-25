@@ -1,1 +1,0 @@
-{"tmdb_id": 479872, "title": "Take Courage", "original_title": "Take Courage", "slug_title": "take-courage", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

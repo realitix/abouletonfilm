@@ -1,1 +1,0 @@
-{"tmdb_id": 551860, "title": "Elayne Boosler: Top Tomata", "original_title": "Elayne Boosler: Top Tomata", "slug_title": "elayne-boosler-top-tomata", "date": "1989-10-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elayne Boosler (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 267335, "title": "The Gable 5", "original_title": "The Gable 5", "slug_title": "the-gable-5", "date": "2014-03-27", "genre": "Action", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eliza Dushku (Taylor Shaye)", "James Morrison (Dr. Gable)"], "comments": [], "recommandations_id": []}

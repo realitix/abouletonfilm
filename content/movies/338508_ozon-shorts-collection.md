@@ -1,1 +1,0 @@
-{"tmdb_id": 338508, "title": "Ozon Shorts Collection", "original_title": "Ozon Shorts Collection", "slug_title": "ozon-shorts-collection", "date": "2001-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

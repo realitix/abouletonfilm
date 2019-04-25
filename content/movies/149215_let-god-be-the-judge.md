@@ -1,1 +1,0 @@
-{"tmdb_id": 149215, "title": "Let God Be the Judge", "original_title": "Let God Be the Judge", "slug_title": "let-god-be-the-judge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

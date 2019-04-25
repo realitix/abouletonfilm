@@ -1,1 +1,0 @@
-{"tmdb_id": 354262, "title": "Zero - Cold War", "original_title": "Zero - Cold War", "slug_title": "zero-cold-war", "date": "2013-07-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5KsOvdgbKASiDmg9cLLQXreoguN.jpg", "actors": [], "comments": [], "recommandations_id": []}

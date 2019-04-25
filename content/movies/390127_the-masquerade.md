@@ -1,1 +1,0 @@
-{"tmdb_id": 390127, "title": "The Masquerade", "original_title": "The Masquerade", "slug_title": "the-masquerade", "date": "2015-03-28", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 77336, "title": "Satanic Panic", "original_title": "Satanic Panic", "slug_title": "satanic-panic", "date": "2009-08-13", "genre": "Horreur", "score": "1.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ty3CwYAaYZWoNDDRs9LMc3M7CYF.jpg", "actors": [], "comments": [], "recommandations_id": []}

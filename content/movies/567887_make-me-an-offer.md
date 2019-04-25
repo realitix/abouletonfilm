@@ -1,1 +1,0 @@
-{"tmdb_id": 567887, "title": "Make Me an Offer", "original_title": "Make Me an Offer", "slug_title": "make-me-an-offer", "date": "1980-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

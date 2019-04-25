@@ -1,1 +1,0 @@
-{"tmdb_id": 113934, "title": "Lost World Of The Pacific", "original_title": "Lost World Of The Pacific", "slug_title": "lost-world-of-the-pacific", "date": "2011-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7tyHrGLapSvt733CwcxFq6MVyZc.jpg", "actors": [], "comments": [], "recommandations_id": []}

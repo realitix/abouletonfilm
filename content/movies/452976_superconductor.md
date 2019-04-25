@@ -1,1 +1,0 @@
-{"tmdb_id": 452976, "title": "Superconductor", "original_title": "Superconductor", "slug_title": "superconductor", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christine Reeves ()", "Gary Brennan ()", "Warren Dexter Beatty ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 113299, "title": "Street Kids United", "original_title": "Street Kids United", "slug_title": "street-kids-united", "date": "2011-09-08", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wA0fhVvC1VS3azjmn04R9X7lRmH.jpg", "actors": [], "comments": [], "recommandations_id": []}

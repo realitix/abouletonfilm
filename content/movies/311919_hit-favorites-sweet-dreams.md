@@ -1,1 +1,0 @@
-{"tmdb_id": 311919, "title": "HIT Favorites: Sweet Dreams", "original_title": "HIT Favorites: Sweet Dreams", "slug_title": "hit-favorites-sweet-dreams", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

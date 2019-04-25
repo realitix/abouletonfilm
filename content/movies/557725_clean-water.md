@@ -1,1 +1,0 @@
-{"tmdb_id": 557725, "title": "Clean Water", "original_title": "Clean Water", "slug_title": "clean-water", "date": "2016-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2V7RWZ1b7hJh8TZjGYB17X2FDha.jpg", "actors": [], "comments": [], "recommandations_id": []}

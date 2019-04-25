@@ -1,1 +1,0 @@
-{"tmdb_id": 188452, "title": "Storm Surfers: New Zealand", "original_title": "Storm Surfers: New Zealand", "slug_title": "storm-surfers-new-zealand", "date": "2010-07-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tnnwFNZt9KH2cKjJRi6GuWFqK0U.jpg", "actors": [], "comments": [], "recommandations_id": []}

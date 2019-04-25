@@ -1,1 +1,0 @@
-{"tmdb_id": 324979, "title": "Snow, Man", "original_title": "Snow, Man", "slug_title": "snow-man", "date": "2011-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

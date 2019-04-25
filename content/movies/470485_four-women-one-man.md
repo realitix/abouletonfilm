@@ -1,1 +1,0 @@
-{"tmdb_id": 470485, "title": "Four Women \u2013 One Man", "original_title": "Fyra fruar och en man", "slug_title": "four-women-one-man", "date": "2007-12-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Df0iHL9Yebx0vaGuYb2CbMxHS5.jpg", "actors": [], "comments": [], "recommandations_id": []}

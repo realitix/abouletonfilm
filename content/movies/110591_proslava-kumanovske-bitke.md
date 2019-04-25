@@ -1,1 +1,0 @@
-{"tmdb_id": 110591, "title": "Proslava Kumanovske bitke", "original_title": "Proslava Kumanovske bitke", "slug_title": "proslava-kumanovske-bitke", "date": "1923-08-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

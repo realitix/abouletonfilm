@@ -1,1 +1,0 @@
-{"tmdb_id": 41255, "title": "Frankenhood", "original_title": "Frankenhood", "slug_title": "frankenhood", "date": "2009-05-08", "genre": "Com\u00e9die / Horreur", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wbuG1pOZOvNoj5jNV4FQiG41hoa.jpg", "actors": [], "comments": [], "recommandations_id": []}

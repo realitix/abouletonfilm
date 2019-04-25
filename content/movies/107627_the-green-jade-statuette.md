@@ -1,1 +1,0 @@
-{"tmdb_id": 107627, "title": "The Green Jade Statuette", "original_title": "The Green Jade Statuette", "slug_title": "the-green-jade-statuette", "date": "1977-06-11", "genre": "Action", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pbVX8zYetjhdWAWURULg6wjPh9B.jpg", "actors": [], "comments": [], "recommandations_id": []}

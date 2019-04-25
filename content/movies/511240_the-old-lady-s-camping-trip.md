@@ -1,1 +1,0 @@
-{"tmdb_id": 511240, "title": "The Old Lady's Camping Trip", "original_title": "The Old Lady's Camping Trip", "slug_title": "the-old-lady-s-camping-trip", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

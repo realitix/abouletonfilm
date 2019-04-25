@@ -1,1 +1,0 @@
-{"tmdb_id": 478566, "title": "Phoenix", "original_title": "Phoenix", "slug_title": "phoenix", "date": "2017-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gJuSz3nO1KxOvstSW8PrXH7DVKz.jpg", "actors": ["K.K. Saman Kumara (Father)", "Mihiri Priyangi (Daughter)"], "comments": [], "recommandations_id": []}

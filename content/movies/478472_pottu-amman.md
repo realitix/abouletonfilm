@@ -1,1 +1,0 @@
-{"tmdb_id": 478472, "title": "Pottu Amman", "original_title": "Pottu Amman", "slug_title": "pottu-amman", "date": "2000-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pZfXVImuo4Iffo8Vv3dJBNQ7BJj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 551861, "title": "Elayne Boosler: Live Nude Girls", "original_title": "Elayne Boosler: Live Nude Girls", "slug_title": "elayne-boosler-live-nude-girls", "date": "1991-10-04", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elayne Boosler (Herself)"], "comments": [], "recommandations_id": []}

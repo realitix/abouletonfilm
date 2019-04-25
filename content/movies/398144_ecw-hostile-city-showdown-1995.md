@@ -1,1 +1,0 @@
-{"tmdb_id": 398144, "title": "ECW Hostile City Showdown 1995", "original_title": "ECW Hostile City Showdown 1995", "slug_title": "ecw-hostile-city-showdown-1995", "date": "1995-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xVS5KwQd7QB9B96WvrhpsSp1r07.jpg", "actors": [], "comments": [], "recommandations_id": []}

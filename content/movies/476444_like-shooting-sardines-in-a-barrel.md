@@ -1,1 +1,0 @@
-{"tmdb_id": 476444, "title": "Like Shooting Sardines In A Barrel", "original_title": "Like Shooting Sardines In A Barrel", "slug_title": "like-shooting-sardines-in-a-barrel", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

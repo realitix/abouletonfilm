@@ -1,1 +1,0 @@
-{"tmdb_id": 594618, "title": "Princess Lady Bug", "original_title": "Princess Lady Bug", "slug_title": "princess-lady-bug", "date": "1930-01-01", "genre": "Fantastique / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kathryn Reece ()"], "comments": [], "recommandations_id": []}

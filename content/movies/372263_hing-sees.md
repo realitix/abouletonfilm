@@ -1,1 +1,0 @@
-{"tmdb_id": 372263, "title": "Hing sees", "original_title": "Hing sees", "slug_title": "hing-sees", "date": "2002-02-28", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9z1SnvpdqQ0Iu7A4d9lbjh8NeTU.jpg", "actors": [], "comments": [], "recommandations_id": []}

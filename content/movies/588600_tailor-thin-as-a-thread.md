@@ -1,1 +1,0 @@
-{"tmdb_id": 588600, "title": "Tailor Thin-as-a-Thread", "original_title": "Krawiec Niteczka", "slug_title": "tailor-thin-as-a-thread", "date": "2005-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

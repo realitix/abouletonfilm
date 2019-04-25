@@ -1,1 +1,0 @@
-{"tmdb_id": 508677, "title": "Oca\u00f1a, la memoria del sol", "original_title": "Oca\u00f1a, la memoria del sol", "slug_title": "ocana-la-memoria-del-sol", "date": "2010-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4n8q0y7mQgiWajT8L03dr5je5wu.jpg", "actors": [], "comments": [], "recommandations_id": []}

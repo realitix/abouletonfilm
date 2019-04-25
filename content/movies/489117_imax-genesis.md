@@ -1,1 +1,0 @@
-{"tmdb_id": 489117, "title": "Imax - Genesis", "original_title": "Imax - Genesis", "slug_title": "imax-genesis", "date": "1978-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tpEnOhFMC8nSVmfy443iuCsjrUg.jpg", "actors": [], "comments": [], "recommandations_id": []}

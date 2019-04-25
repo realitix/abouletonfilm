@@ -1,1 +1,0 @@
-{"tmdb_id": 305838, "title": "Naya Bakra", "original_title": "Naya Bakra", "slug_title": "naya-bakra", "date": "1979-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

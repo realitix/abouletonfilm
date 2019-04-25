@@ -1,1 +1,0 @@
-{"tmdb_id": 347060, "title": "Manitou's Shoe - Extra Large", "original_title": "Manitou's Shoe - Extra Large", "slug_title": "manitou-s-shoe-extra-large", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

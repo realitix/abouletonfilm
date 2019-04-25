@@ -1,1 +1,0 @@
-{"tmdb_id": 273571, "title": "Promised Land", "original_title": "Promised Land", "slug_title": "promised-land", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r1JurZ94SSPSpJB2RZBMvXCFs6p.jpg", "actors": [], "comments": [], "recommandations_id": []}

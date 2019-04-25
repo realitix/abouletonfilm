@@ -1,1 +1,0 @@
-{"tmdb_id": 435359, "title": "Run Boy Run", "original_title": "Rutz Yeled Rutz", "slug_title": "run-boy-run", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 145496, "title": "Gallero", "original_title": "Gallero", "slug_title": "gallero", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gHa5w14t18ti8JlyS62y6eif5S8.jpg", "actors": ["Gustavo Almada ()", "Silvia Zerbini ()"], "comments": [], "recommandations_id": []}

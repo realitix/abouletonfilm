@@ -1,1 +1,0 @@
-{"tmdb_id": 231254, "title": "And We Made the Room Shine", "original_title": "And We Made the Room Shine", "slug_title": "and-we-made-the-room-shine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

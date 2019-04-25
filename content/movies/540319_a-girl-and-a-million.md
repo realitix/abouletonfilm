@@ -1,1 +1,0 @@
-{"tmdb_id": 540319, "title": "A Girl and a Million", "original_title": "Une jeune fille et un million", "slug_title": "a-girl-and-a-million", "date": "1932-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sbGOQe7CF2tUefNTrKTbA5lXAKk.jpg", "actors": [], "comments": [], "recommandations_id": []}

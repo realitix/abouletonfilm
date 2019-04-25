@@ -1,1 +1,0 @@
-{"tmdb_id": 99480, "title": "I am Jesus", "original_title": "I am Jesus", "slug_title": "i-am-jesus", "date": "2011-01-28", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b1QJal68aLPTVUT8yL1sLfvFosR.jpg", "actors": [], "comments": [], "recommandations_id": []}

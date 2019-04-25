@@ -1,1 +1,0 @@
-{"tmdb_id": 552341, "title": "Liu Pi-Chia", "original_title": "Liu Pi-Chia", "slug_title": "liu-pi-chia", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

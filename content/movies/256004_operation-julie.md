@@ -1,1 +1,0 @@
-{"tmdb_id": 256004, "title": "Operation Julie", "original_title": "Operation Julie", "slug_title": "operation-julie", "date": "1985-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Colin Blakely ()", "Kay Adshead ()", "John Ainley ()"], "comments": [], "recommandations_id": []}

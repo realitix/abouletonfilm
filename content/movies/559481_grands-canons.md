@@ -1,1 +1,0 @@
-{"tmdb_id": 559481, "title": "Grands Canons", "original_title": "Grands Canons", "slug_title": "grands-canons", "date": "2018-04-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

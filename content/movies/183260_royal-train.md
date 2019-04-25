@@ -1,1 +1,0 @@
-{"tmdb_id": 183260, "title": "Royal Train", "original_title": "Royal Train", "slug_title": "royal-train", "date": "1896-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k5pJo9IDNLQN4sa1YTknIDF5c6c.jpg", "actors": [], "comments": [], "recommandations_id": []}

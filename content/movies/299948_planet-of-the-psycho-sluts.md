@@ -1,1 +1,0 @@
-{"tmdb_id": 299948, "title": "Planet of the Psycho-Sluts", "original_title": "Planet of the Psycho-Sluts", "slug_title": "planet-of-the-psycho-sluts", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

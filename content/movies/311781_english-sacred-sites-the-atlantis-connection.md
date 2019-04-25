@@ -1,1 +1,0 @@
-{"tmdb_id": 311781, "title": "English Sacred Sites: The Atlantis Connection", "original_title": "English Sacred Sites: The Atlantis Connection", "slug_title": "english-sacred-sites-the-atlantis-connection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

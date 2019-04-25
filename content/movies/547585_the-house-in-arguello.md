@@ -1,1 +1,0 @@
-{"tmdb_id": 547585, "title": "The House in Arg\u00fcello", "original_title": "La Casa de Arg\u00fcello", "slug_title": "the-house-in-arguello", "date": "", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

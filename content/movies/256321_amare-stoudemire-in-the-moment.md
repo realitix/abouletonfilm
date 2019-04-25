@@ -1,1 +1,0 @@
-{"tmdb_id": 256321, "title": "Amare Stoudemire: In the Moment", "original_title": "Amare Stoudemire: In the Moment", "slug_title": "amare-stoudemire-in-the-moment", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rfkeDVTnPDPfGw6HaCYxyUJ3e78.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 554811, "title": "Active Poetry", "original_title": "Active Poetry", "slug_title": "active-poetry", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pGtmJYKojbWQAFZt5wTW2ydowNP.jpg", "actors": [], "comments": [], "recommandations_id": []}

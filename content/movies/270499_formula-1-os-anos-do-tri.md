@@ -1,1 +1,0 @@
-{"tmdb_id": 270499, "title": "F\u00f3rmula 1 Os Anos do Tri", "original_title": "F\u00f3rmula 1 Os Anos do Tri", "slug_title": "formula-1-os-anos-do-tri", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Vm5SwJDLfc0w4t6z4vDOs9CoNr.jpg", "actors": [], "comments": [], "recommandations_id": []}

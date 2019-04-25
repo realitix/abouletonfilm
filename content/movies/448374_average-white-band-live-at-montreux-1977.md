@@ -1,1 +1,0 @@
-{"tmdb_id": 448374, "title": "Average White Band Live At Montreux 1977", "original_title": "Average White Band Live At Montreux 1977", "slug_title": "average-white-band-live-at-montreux-1977", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

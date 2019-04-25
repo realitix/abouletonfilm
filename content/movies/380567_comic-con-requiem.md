@@ -1,1 +1,0 @@
-{"tmdb_id": 380567, "title": "Comic Con: Requiem", "original_title": "Comic Con: Requiem", "slug_title": "comic-con-requiem", "date": "2015-05-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8iAc7VqvWEyTmD2BeUQ16wWYQoW.jpg", "actors": [], "comments": [], "recommandations_id": []}

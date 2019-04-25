@@ -1,1 +1,0 @@
-{"tmdb_id": 189399, "title": "The Eagle Has Landed", "original_title": "The Eagle Has Landed", "slug_title": "the-eagle-has-landed", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/muFX0iOTy4UiMsV3OAao8sKNMnJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

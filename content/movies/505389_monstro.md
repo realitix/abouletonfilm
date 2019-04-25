@@ -1,1 +1,0 @@
-{"tmdb_id": 505389, "title": "Monstro", "original_title": "Monstro", "slug_title": "monstro", "date": "2018-02-15", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2igOE397EaqIqeA71q1G7ZXPDW4.jpg", "actors": ["Jhonny Ferri (Homem Sem Rosto)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 122322, "title": "I.M. Caravaggio", "original_title": "I.M. Caravaggio", "slug_title": "i-m-caravaggio", "date": "2011-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yQuJPKOc8pSWcWsHHwBS6j4L9m9.jpg", "actors": [], "comments": [], "recommandations_id": []}

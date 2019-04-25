@@ -1,1 +1,0 @@
-{"tmdb_id": 319329, "title": "No Existimos", "original_title": "No Existimos", "slug_title": "no-existimos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

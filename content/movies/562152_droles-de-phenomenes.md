@@ -1,1 +1,0 @@
-{"tmdb_id": 562152, "title": "Dr\u00f4les de ph\u00e9nom\u00e8nes", "original_title": "Dr\u00f4les de ph\u00e9nom\u00e8nes", "slug_title": "droles-de-phenomenes", "date": "1959-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

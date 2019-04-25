@@ -1,1 +1,0 @@
-{"tmdb_id": 407779, "title": "Goodbye and Thank You", "original_title": "Au revoir et merci", "slug_title": "goodbye-and-thank-you", "date": "1906-07-24", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

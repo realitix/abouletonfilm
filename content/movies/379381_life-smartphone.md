@@ -1,1 +1,0 @@
-{"tmdb_id": 379381, "title": "Life Smartphone", "original_title": "Life Smartphone", "slug_title": "life-smartphone", "date": "2015-11-20", "genre": "Com\u00e9die / Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4cy89OAy51qbkyf6XkgrSdvXNEo.jpg", "actors": [], "comments": [], "recommandations_id": []}

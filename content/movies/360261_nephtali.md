@@ -1,1 +1,0 @@
-{"tmdb_id": 360261, "title": "Nephtali", "original_title": "Nephtali", "slug_title": "nephtali", "date": "2015-09-15", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cpVrvmL1IjW3YPlc6kZ5Hmhb5FX.jpg", "actors": ["Marion Bardeau (Ballerina)"], "comments": [], "recommandations_id": []}

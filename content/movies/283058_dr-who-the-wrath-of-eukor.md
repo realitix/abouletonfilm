@@ -1,1 +1,0 @@
-{"tmdb_id": 283058, "title": "Dr Who: The Wrath of Eukor", "original_title": "Dr Who: The Wrath of Eukor", "slug_title": "dr-who-the-wrath-of-eukor", "date": "1984-08-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barbara Benedetti (The Doctor)"], "comments": [], "recommandations_id": []}

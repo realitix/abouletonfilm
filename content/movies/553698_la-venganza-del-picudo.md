@@ -1,1 +1,0 @@
-{"tmdb_id": 553698, "title": "La Venganza del Picudo", "original_title": "La Venganza del Picudo", "slug_title": "la-venganza-del-picudo", "date": "2013-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u30yYEQcBiTO5AZSFcSkqw6fTCG.jpg", "actors": [], "comments": [], "recommandations_id": []}

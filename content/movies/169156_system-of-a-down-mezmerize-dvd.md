@@ -1,1 +1,0 @@
-{"tmdb_id": 169156, "title": "System of a Down - Mezmerize DVD", "original_title": "System of a Down - Mezmerize DVD", "slug_title": "system-of-a-down-mezmerize-dvd", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m2FjVOA7LvMwOcjvDXzYMYd2bmh.jpg", "actors": [], "comments": [], "recommandations_id": []}

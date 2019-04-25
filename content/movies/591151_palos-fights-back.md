@@ -1,1 +1,0 @@
-{"tmdb_id": 591151, "title": "Palos Fights Back!", "original_title": "Palos Fights Back!", "slug_title": "palos-fights-back", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bernard Bonnin ()"], "comments": [], "recommandations_id": []}

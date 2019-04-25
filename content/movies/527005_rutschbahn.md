@@ -1,1 +1,0 @@
-{"tmdb_id": 527005, "title": "Rutschbahn", "original_title": "Rutschbahn", "slug_title": "rutschbahn", "date": "1928-12-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Heinrich George (Jig Hartford)", "Harry Hardt (Sten)", "S.Z. Sakall (Sam)", "Grete Reinwald (Nadja Berischeff)"], "comments": [], "recommandations_id": []}

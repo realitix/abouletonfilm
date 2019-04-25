@@ -1,1 +1,0 @@
-{"tmdb_id": 328114, "title": "Camisado", "original_title": "Camisado", "slug_title": "camisado", "date": "2015-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

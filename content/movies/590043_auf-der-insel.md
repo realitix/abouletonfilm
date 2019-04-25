@@ -1,1 +1,0 @@
-{"tmdb_id": 590043, "title": "Auf der Insel", "original_title": "Auf der Insel", "slug_title": "auf-der-insel", "date": "1977-05-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Erika Skrotzki (Hilde Strawitzke)", "Peter Schiff (Georg Koppe)", "Peter Schlesinger (Nachbar Heinz)"], "comments": [], "recommandations_id": []}

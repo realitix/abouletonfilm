@@ -1,1 +1,0 @@
-{"tmdb_id": 477619, "title": "My Brave Young Man", "original_title": "My Brave Young Man", "slug_title": "my-brave-young-man", "date": "2015-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w9fnGwWEswR8PnjORsu89VPsFof.jpg", "actors": [], "comments": [], "recommandations_id": []}

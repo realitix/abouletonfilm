@@ -1,1 +1,0 @@
-{"tmdb_id": 195860, "title": "Onmitsu Hicho", "original_title": "\u96a0\u5bc6\u79d8\u5e16", "slug_title": "onmitsu-hicho", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/utdG2rsfckUYrcqJgQrLoqAJby1.jpg", "actors": ["Hiroshi Tachi (Tamazuro Kamiya)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 350349, "title": "\ud3c9\uc591 \ub9e8\ubc1c", "original_title": "\ud3c9\uc591 \ub9e8\ubc1c", "slug_title": "pyeongyang-maenbal", "date": "1980-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

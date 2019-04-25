@@ -1,1 +1,0 @@
-{"tmdb_id": 472905, "title": "The Phlebotomist", "original_title": "The Phlebotomist", "slug_title": "the-phlebotomist", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

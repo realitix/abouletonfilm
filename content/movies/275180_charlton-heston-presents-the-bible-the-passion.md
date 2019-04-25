@@ -1,1 +1,0 @@
-{"tmdb_id": 275180, "title": "Charlton Heston Presents the Bible: The Passion", "original_title": "Charlton Heston Presents the Bible: The Passion", "slug_title": "charlton-heston-presents-the-bible-the-passion", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

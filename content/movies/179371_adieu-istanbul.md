@@ -1,1 +1,0 @@
-{"tmdb_id": 179371, "title": "Adieu Istanbul", "original_title": "Adieu Istanbul", "slug_title": "adieu-istanbul", "date": "2013-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

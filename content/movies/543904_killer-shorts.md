@@ -1,1 +1,0 @@
-{"tmdb_id": 543904, "title": "Killer Shorts", "original_title": "Killer Shorts", "slug_title": "killer-shorts", "date": "2009-06-30", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iu4BQmackdcHST8miDoYshQ4HNR.jpg", "actors": [], "comments": [], "recommandations_id": []}

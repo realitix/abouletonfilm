@@ -1,1 +1,0 @@
-{"tmdb_id": 74252, "title": "Bygga i tr\u00e4-Boxen", "original_title": "Bygga i tr\u00e4-Boxen", "slug_title": "bygga-i-tra-boxen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

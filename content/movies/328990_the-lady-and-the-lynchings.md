@@ -1,1 +1,0 @@
-{"tmdb_id": 328990, "title": "The Lady and the Lynchings", "original_title": "The Lady and the Lynchings", "slug_title": "the-lady-and-the-lynchings", "date": "1977-01-01", "genre": "T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Carradine ()", "Ray Mann (George)"], "comments": [], "recommandations_id": []}

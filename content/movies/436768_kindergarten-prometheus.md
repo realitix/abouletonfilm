@@ -1,1 +1,0 @@
-{"tmdb_id": 436768, "title": "Kindergarten Prometheus", "original_title": "Kindergarten Prometheus", "slug_title": "kindergarten-prometheus", "date": "2008-01-22", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bIZdU0vosLAZBJXluh16Ol5KR06.jpg", "actors": [], "comments": [], "recommandations_id": []}

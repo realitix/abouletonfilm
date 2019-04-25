@@ -1,1 +1,0 @@
-{"tmdb_id": 455638, "title": "Historias vistas de Boikot", "original_title": "Historias vistas de Boikot", "slug_title": "historias-vistas-de-boikot", "date": "2000-03-01", "genre": "Musique", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bcOfmvR6uZCATuuI0qTXVPI5RvS.jpg", "actors": [], "comments": [], "recommandations_id": []}

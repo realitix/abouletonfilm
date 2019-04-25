@@ -1,1 +1,0 @@
-{"tmdb_id": 537375, "title": "Japan's Don", "original_title": "\u3084\u304f\u3056\u6226\u4e89 \u65e5\u672c\u306e\u9996\u9818", "slug_title": "japan-s-don", "date": "1977-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aoiVJJxSo2h8i5sH2xUbHl5Nu0X.jpg", "actors": [], "comments": [], "recommandations_id": []}

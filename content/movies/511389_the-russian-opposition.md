@@ -1,1 +1,0 @@
-{"tmdb_id": 511389, "title": "The Russian Opposition", "original_title": "The Russian Opposition", "slug_title": "the-russian-opposition", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

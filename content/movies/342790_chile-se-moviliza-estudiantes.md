@@ -1,1 +1,0 @@
-{"tmdb_id": 342790, "title": "Chile se moviliza: Estudiantes", "original_title": "Chile se moviliza: Estudiantes", "slug_title": "chile-se-moviliza-estudiantes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

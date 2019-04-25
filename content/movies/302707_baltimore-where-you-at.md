@@ -1,1 +1,0 @@
-{"tmdb_id": 302707, "title": "Baltimore, Where You At?", "original_title": "Baltimore, Where You At?", "slug_title": "baltimore-where-you-at", "date": "2014-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ar9li7OXwracMCDGTFSGUHfr6TL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 272899, "title": "To Chris Marker, an Unsent Letter", "original_title": "To Chris Marker, an Unsent Letter", "slug_title": "to-chris-marker-an-unsent-letter", "date": "2012-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

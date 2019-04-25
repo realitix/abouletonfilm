@@ -1,1 +1,0 @@
-{"tmdb_id": 530790, "title": "Tawidgutom", "original_title": "Tawidgutom", "slug_title": "tawidgutom", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

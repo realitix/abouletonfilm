@@ -1,1 +1,0 @@
-{"tmdb_id": 561913, "title": "The Naked Woodworker", "original_title": "The Naked Woodworker", "slug_title": "the-naked-woodworker", "date": "2014-08-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uJt4pli3NgKwoW30rjxFCiW4pF7.jpg", "actors": ["Mike Siemsen ()"], "comments": [], "recommandations_id": []}

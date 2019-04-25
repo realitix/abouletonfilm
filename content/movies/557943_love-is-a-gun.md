@@ -1,1 +1,0 @@
-{"tmdb_id": 557943, "title": "Love Is a Gun", "original_title": "Love Is a Gun", "slug_title": "love-is-a-gun", "date": "2020-03-01", "genre": "Crime / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chlo\u00eb Grace Moretz (Bonnie Parker)", "Jack O'Connell (Clyde Barrow)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 379330, "title": "Residual", "original_title": "Residual", "slug_title": "residual", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vin\u00edcius Ferreira (Homem)", "Larissa Salgado (Mulher)"], "comments": [], "recommandations_id": []}

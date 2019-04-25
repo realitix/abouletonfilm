@@ -1,1 +1,0 @@
-{"tmdb_id": 232670, "title": "Milit\u00e6re Opvisninger paa F\u00e6lleden", "original_title": "Milit\u00e6re Opvisninger paa F\u00e6lleden", "slug_title": "militaere-opvisninger-paa-faelleden", "date": "1906-11-03", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

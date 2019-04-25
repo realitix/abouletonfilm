@@ -1,1 +1,1 @@
-{"tmdb_id": 349938, "title": "\ud751\ub140", "original_title": "\ud751\ub140", "slug_title": "heugnyeo", "date": "1982-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 349938, "title": "\ud751\ub140", "original_title": "\ud751\ub140", "slug_title": "heugnyeo", "date": "1982-10-16", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

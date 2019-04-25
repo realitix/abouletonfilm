@@ -1,1 +1,0 @@
-{"tmdb_id": 143987, "title": "The Evening Parade", "original_title": "The Evening Parade", "slug_title": "the-evening-parade", "date": "2002-09-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zxbqp12coonNy01b1kXJkPKsWcx.jpg", "actors": [], "comments": [], "recommandations_id": []}

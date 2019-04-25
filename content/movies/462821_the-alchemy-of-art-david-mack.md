@@ -1,1 +1,0 @@
-{"tmdb_id": 462821, "title": "The Alchemy of Art: David Mack", "original_title": "The Alchemy of Art: David Mack", "slug_title": "the-alchemy-of-art-david-mack", "date": "2007-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Mack (Himself)", "Terry Moore (Himself)"], "comments": [], "recommandations_id": []}

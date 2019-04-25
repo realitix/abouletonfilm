@@ -1,1 +1,0 @@
-{"tmdb_id": 510596, "title": "Ananse: Part 1", "original_title": "Ananse: Part 1", "slug_title": "ananse-part-1", "date": "2011-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ypeeRdjwbWPxudDp7hedmxC3OAw.jpg", "actors": ["Rose Mensah (Spiderman)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 564591, "title": "Animal Homes", "original_title": "Animal Homes", "slug_title": "animal-homes", "date": "1954-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

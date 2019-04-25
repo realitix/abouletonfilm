@@ -1,1 +1,0 @@
-{"tmdb_id": 268662, "title": "Il fischio al naso", "original_title": "Il fischio al naso", "slug_title": "il-fischio-al-naso", "date": "1967-08-06", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hxaf7isRMxd2hN9L2ROkx8ry4eg.jpg", "actors": [], "comments": [], "recommandations_id": []}

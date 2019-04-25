@@ -1,1 +1,0 @@
-{"tmdb_id": 513711, "title": "Du\u00ec Hu\u00e0 / The Dialogue", "original_title": "\u5c0d\u8a71", "slug_title": "dui-hua-the-dialogue", "date": "2014-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5DpYWb8BlFJ1lbDmRmJkUAVQW0L.jpg", "actors": [], "comments": [], "recommandations_id": []}

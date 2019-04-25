@@ -1,1 +1,0 @@
-{"tmdb_id": 274047, "title": "The Weekend", "original_title": "The Weekend", "slug_title": "the-weekend", "date": "2013-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ga4If3WcZZ2RnY97ma5LFLxcn0C.jpg", "actors": [], "comments": [], "recommandations_id": []}

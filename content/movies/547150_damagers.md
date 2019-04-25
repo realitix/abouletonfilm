@@ -1,1 +1,0 @@
-{"tmdb_id": 547150, "title": "Damagers", "original_title": "Damagers", "slug_title": "damagers", "date": "2013-12-13", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wCWuIezlpRuqo1F2oGLV9L2zWlB.jpg", "actors": [], "comments": [], "recommandations_id": []}

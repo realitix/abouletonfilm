@@ -1,1 +1,0 @@
-{"tmdb_id": 468422, "title": "Chronicles of Religious Persecution in China", "original_title": "Chronicles of Religious Persecution in China", "slug_title": "chronicles-of-religious-persecution-in-china", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 310475, "title": "The Ad and the Ego", "original_title": "The Ad and the Ego", "slug_title": "the-ad-and-the-ego", "date": "1997-05-06", "genre": "Documentaire", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lsfW1STdzo0j1scf8v5cFHa3dtV.jpg", "actors": [], "comments": [], "recommandations_id": []}

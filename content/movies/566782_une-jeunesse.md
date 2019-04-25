@@ -1,1 +1,0 @@
-{"tmdb_id": 566782, "title": "Une jeunesse", "original_title": "Une jeunesse", "slug_title": "une-jeunesse", "date": "1983-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6bTOPljDmvFuLulFmVrh9He1MkS.jpg", "actors": [], "comments": [], "recommandations_id": []}

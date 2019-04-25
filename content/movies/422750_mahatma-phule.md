@@ -1,1 +1,0 @@
-{"tmdb_id": 422750, "title": "Mahatma Phule", "original_title": "Mahatma Phule", "slug_title": "mahatma-phule", "date": "1954-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

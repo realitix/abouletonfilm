@@ -1,1 +1,0 @@
-{"tmdb_id": 175402, "title": "The Fall Guy", "original_title": "The Fall Guy", "slug_title": "the-fall-guy", "date": "1921-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Semon (Larry, the Fall Guy)", "Oliver Hardy (Gentleman Joe, alias Black Bart)"], "comments": [], "recommandations_id": []}

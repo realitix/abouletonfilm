@@ -1,1 +1,0 @@
-{"tmdb_id": 350123, "title": "\uc2e0\uc758 \uc774\ubc29\uc778", "original_title": "\uc2e0\uc758 \uc774\ubc29\uc778", "slug_title": "sinyi-ibangin", "date": "1991-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

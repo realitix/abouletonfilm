@@ -1,1 +1,0 @@
-{"tmdb_id": 353328, "title": "Milkman", "original_title": "Milkman", "slug_title": "milkman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

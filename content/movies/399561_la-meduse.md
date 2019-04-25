@@ -1,1 +1,0 @@
-{"tmdb_id": 399561, "title": "La m\u00e9duse", "original_title": "La m\u00e9duse", "slug_title": "la-meduse", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sxUSYXp5nQgLdEjipFLBlFmDyf1.jpg", "actors": ["Val\u00e9rie Favre ()", "Yvan Lagrange ()"], "comments": [], "recommandations_id": []}

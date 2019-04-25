@@ -1,1 +1,0 @@
-{"tmdb_id": 532456, "title": "Dans la chambre", "original_title": "Dans la chambre", "slug_title": "dans-la-chambre", "date": "2006-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

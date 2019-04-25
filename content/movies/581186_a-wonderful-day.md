@@ -1,1 +1,0 @@
-{"tmdb_id": 581186, "title": "A Wonderful Day", "original_title": "A Wonderful Day", "slug_title": "a-wonderful-day", "date": "2004-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/54XV9q8V04WKyMeOvqGaC9hSR6d.jpg", "actors": [], "comments": [], "recommandations_id": []}

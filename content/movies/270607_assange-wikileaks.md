@@ -1,1 +1,0 @@
-{"tmdb_id": 270607, "title": "Assange: Wikileaks", "original_title": "Assange: Wikileaks", "slug_title": "assange-wikileaks", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

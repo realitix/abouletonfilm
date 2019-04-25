@@ -1,1 +1,0 @@
-{"tmdb_id": 323988, "title": "Universal Newsreel Vol. 37 Release 97-104", "original_title": "Universal Newsreel Vol. 37 Release 97-104", "slug_title": "universal-newsreel-vol-37-release-97-104", "date": "2010-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

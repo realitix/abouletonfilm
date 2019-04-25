@@ -1,1 +1,0 @@
-{"tmdb_id": 593370, "title": "The Experience of Fliehkraft", "original_title": "The Experience of Fliehkraft", "slug_title": "the-experience-of-fliehkraft", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

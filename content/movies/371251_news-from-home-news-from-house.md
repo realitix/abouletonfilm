@@ -1,1 +1,0 @@
-{"tmdb_id": 371251, "title": "News From Home/News From House", "original_title": "News From Home/News From House", "slug_title": "news-from-home-news-from-house", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

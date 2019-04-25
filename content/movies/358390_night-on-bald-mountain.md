@@ -1,1 +1,0 @@
-{"tmdb_id": 358390, "title": "Night on Bald Mountain", "original_title": "Night on Bald Mountain", "slug_title": "night-on-bald-mountain", "date": "1940-11-13", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gj6xxaDRKVKbnWHzgKCUtE27t9Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

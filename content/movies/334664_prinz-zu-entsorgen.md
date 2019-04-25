@@ -1,1 +1,0 @@
-{"tmdb_id": 334664, "title": "Prinz zu entsorgen", "original_title": "Prinz zu entsorgen", "slug_title": "prinz-zu-entsorgen", "date": "1995-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christoph Waltz (Roman)", "Marita Marschall (Lorena)", "Maren Schumacher ()"], "comments": [], "recommandations_id": []}

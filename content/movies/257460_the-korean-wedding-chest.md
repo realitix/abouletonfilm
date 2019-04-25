@@ -1,1 +1,0 @@
-{"tmdb_id": 257460, "title": "The Korean Wedding Chest", "original_title": "Die koreanische Hochzeitstruhe", "slug_title": "the-korean-wedding-chest", "date": "2009-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Tklo8Y4G8k814DlLJymRRpe5UV.jpg", "actors": [], "comments": [], "recommandations_id": []}

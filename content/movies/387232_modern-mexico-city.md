@@ -1,1 +1,0 @@
-{"tmdb_id": 387232, "title": "Modern Mexico City", "original_title": "Modern Mexico City", "slug_title": "modern-mexico-city", "date": "1942-11-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Krev3c0JKitIQdQ1zy4dd3RYbI.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

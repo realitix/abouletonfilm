@@ -1,1 +1,0 @@
-{"tmdb_id": 442556, "title": "Vera Klement", "original_title": "Vera Klement", "slug_title": "vera-klement", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vera Klement (herself)"], "comments": [], "recommandations_id": []}

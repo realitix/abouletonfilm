@@ -1,1 +1,0 @@
-{"tmdb_id": 581574, "title": "Bullet: Ek Dhamaka", "original_title": "Bullet: Ek Dhamaka", "slug_title": "bullet-ek-dhamaka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

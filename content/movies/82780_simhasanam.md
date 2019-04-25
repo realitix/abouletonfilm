@@ -1,1 +1,0 @@
-{"tmdb_id": 82780, "title": "Simhasanam", "original_title": "\u0c38\u0c3f\u0c02\u0c39\u0c3e\u0c38\u0c28\u0c02", "slug_title": "simhasanam", "date": "1986-03-21", "genre": "Aventure / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f5hjYvnNz82zvCXyNh7mK1XaObw.jpg", "actors": [], "comments": [], "recommandations_id": []}

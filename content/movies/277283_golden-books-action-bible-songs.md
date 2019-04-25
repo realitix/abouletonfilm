@@ -1,1 +1,0 @@
-{"tmdb_id": 277283, "title": "Golden Books: Action Bible Songs", "original_title": "Golden Books: Action Bible Songs", "slug_title": "golden-books-action-bible-songs", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

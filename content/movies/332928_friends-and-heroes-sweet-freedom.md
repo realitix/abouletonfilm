@@ -1,1 +1,0 @@
-{"tmdb_id": 332928, "title": "Friends and Heroes - Sweet Freedom", "original_title": "Friends and Heroes - Sweet Freedom", "slug_title": "friends-and-heroes-sweet-freedom", "date": "2007-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

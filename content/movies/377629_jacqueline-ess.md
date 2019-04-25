@@ -1,1 +1,0 @@
-{"tmdb_id": 377629, "title": "Jacqueline Ess", "original_title": "Jacqueline Ess", "slug_title": "jacqueline-ess", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lena Headey (Jacqueline Ess)"], "comments": [], "recommandations_id": []}

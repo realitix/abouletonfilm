@@ -1,1 +1,0 @@
-{"tmdb_id": 451941, "title": "Silent But Deadly", "original_title": "Silent But Deadly", "slug_title": "silent-but-deadly", "date": "1986-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rigle87gsORQrKiv9uMYvAFiyM3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 444865, "title": "Alzate l'architrave, carpentieri", "original_title": "Alzate l'architrave, carpentieri", "slug_title": "alzate-l-architrave-carpentieri", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

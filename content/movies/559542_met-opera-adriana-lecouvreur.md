@@ -1,1 +1,0 @@
-{"tmdb_id": 559542, "title": "Met Opera: Adriana Lecouvreur", "original_title": "Met Opera: Adriana Lecouvreur", "slug_title": "met-opera-adriana-lecouvreur", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vYxvpWI8seuQXTUM7wdMyFon4or.jpg", "actors": [], "comments": [], "recommandations_id": []}

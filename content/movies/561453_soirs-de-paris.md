@@ -1,1 +1,0 @@
-{"tmdb_id": 561453, "title": "Soirs de Paris", "original_title": "Soirs de Paris", "slug_title": "soirs-de-paris", "date": "1954-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

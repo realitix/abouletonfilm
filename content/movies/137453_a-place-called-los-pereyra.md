@@ -1,1 +1,0 @@
-{"tmdb_id": 137453, "title": "A Place Called Los Pereyra", "original_title": "A Place Called Los Pereyra", "slug_title": "a-place-called-los-pereyra", "date": "2009-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fqLMC95x569inDHgDyrxtb2X2Jc.jpg", "actors": [], "comments": [], "recommandations_id": []}

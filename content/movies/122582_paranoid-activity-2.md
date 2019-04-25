@@ -1,1 +1,0 @@
-{"tmdb_id": 122582, "title": "Paranoid Activity 2", "original_title": "Paranoid Activity 2", "slug_title": "paranoid-activity-2", "date": "2011-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hecVQF9AQAZYa1X9Yht1mEFV2Zc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 526996, "title": "Fearless Martyr", "original_title": "\u0634\u0647\u06cc\u062f \u0628\u06cc \u062a\u0631\u062f\u06cc\u062f", "slug_title": "fearless-martyr", "date": "2017-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Salim Shaheen ()"], "comments": [], "recommandations_id": []}

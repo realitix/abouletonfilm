@@ -1,1 +1,0 @@
-{"tmdb_id": 110387, "title": "Revision", "original_title": "Revision", "slug_title": "revision", "date": "2012-02-12", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uxALsj0LL6Datcu2kzds8GpWgFv.jpg", "actors": [], "comments": [], "recommandations_id": []}

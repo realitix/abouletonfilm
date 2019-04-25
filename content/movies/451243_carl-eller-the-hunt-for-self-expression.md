@@ -1,1 +1,0 @@
-{"tmdb_id": 451243, "title": "Carl Eller: The Hunt for Self Expression", "original_title": "Carl Eller: The Hunt for Self Expression", "slug_title": "carl-eller-the-hunt-for-self-expression", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

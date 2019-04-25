@@ -1,1 +1,0 @@
-{"tmdb_id": 275752, "title": "WWE: John Cena - My Life", "original_title": "WWE: John Cena - My Life", "slug_title": "wwe-john-cena-my-life", "date": "2007-11-13", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nXh4FN4fq2FUSPsshOvcU5GiKIl.jpg", "actors": ["John Cena ()"], "comments": [], "recommandations_id": []}

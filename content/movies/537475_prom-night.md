@@ -1,1 +1,0 @@
-{"tmdb_id": 537475, "title": "Prom Night", "original_title": "Prom Night", "slug_title": "prom-night", "date": "2018-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Piper Perri ()", "Whitney Wright ()"], "comments": [], "recommandations_id": []}

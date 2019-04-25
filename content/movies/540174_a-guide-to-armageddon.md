@@ -1,1 +1,0 @@
-{"tmdb_id": 540174, "title": "A Guide to Armageddon", "original_title": "A Guide to Armageddon", "slug_title": "a-guide-to-armageddon", "date": "1982-05-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ludovic Kennedy (Narrator (voice))"], "comments": [], "recommandations_id": []}

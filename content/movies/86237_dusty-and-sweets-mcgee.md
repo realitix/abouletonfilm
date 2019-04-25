@@ -1,1 +1,0 @@
-{"tmdb_id": 86237, "title": "Dusty and Sweets McGee", "original_title": "Dusty and Sweets McGee", "slug_title": "dusty-and-sweets-mcgee", "date": "1971-07-14", "genre": "Drame / Crime", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3qAgdrNzGJnKj5IfX4QuZrMl8rF.jpg", "actors": [], "comments": [], "recommandations_id": []}

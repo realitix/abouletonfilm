@@ -1,1 +1,0 @@
-{"tmdb_id": 520737, "title": "A Circle of Children", "original_title": "A Circle of Children", "slug_title": "a-circle-of-children", "date": "1977-03-10", "genre": "Drame / T\u00e9l\u00e9film", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7bFTRkAl5pcJyjrxaAtzO57nrLL.jpg", "actors": [], "comments": [], "recommandations_id": []}

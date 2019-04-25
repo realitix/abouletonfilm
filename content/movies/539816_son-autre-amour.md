@@ -1,1 +1,0 @@
-{"tmdb_id": 539816, "title": "Son autre amour", "original_title": "Son autre amour", "slug_title": "son-autre-amour", "date": "1934-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/42AFHJEpPveOacDJmCFXCkUY95o.jpg", "actors": [], "comments": [], "recommandations_id": []}

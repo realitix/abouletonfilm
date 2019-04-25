@@ -1,1 +1,0 @@
-{"tmdb_id": 511823, "title": "Snow Puppy", "original_title": "Snow Puppy", "slug_title": "snow-puppy", "date": "2018-02-25", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4MYCI7zgrXrGG3B1MZMu2EjtZVO.jpg", "actors": [], "comments": [], "recommandations_id": []}

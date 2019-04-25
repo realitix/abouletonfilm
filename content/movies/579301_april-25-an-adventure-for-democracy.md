@@ -1,1 +1,0 @@
-{"tmdb_id": 579301, "title": "April 25 \u2013 An Adventure for Democracy", "original_title": "25 de Abril - Uma Aventura Para a Demokracya", "slug_title": "april-25-an-adventure-for-democracy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

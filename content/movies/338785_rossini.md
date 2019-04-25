@@ -1,1 +1,0 @@
-{"tmdb_id": 338785, "title": "Rossini", "original_title": "Rossini", "slug_title": "rossini", "date": "1942-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/omx0x6aaHaV5s1CbcySBF1MfvhD.jpg", "actors": ["Nino Besozzi ()", "Paola Barbara ()", "Camillo Pilotto ()"], "comments": [], "recommandations_id": []}

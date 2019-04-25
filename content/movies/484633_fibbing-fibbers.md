@@ -1,1 +1,0 @@
-{"tmdb_id": 484633, "title": "Fibbing Fibbers", "original_title": "Fibbing Fibbers", "slug_title": "fibbing-fibbers", "date": "1936-10-19", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Catlett (Walter)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 531495, "title": "Platform #12 Tokyo", "original_title": "Platform #12 Tokyo", "slug_title": "platform-12-tokyo", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8zZ4DuygHtUbzQACPp4ZC3OMedh.jpg", "actors": [], "comments": [], "recommandations_id": []}

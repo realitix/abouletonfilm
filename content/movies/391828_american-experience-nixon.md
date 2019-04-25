@@ -1,1 +1,0 @@
-{"tmdb_id": 391828, "title": "American Experience: Nixon", "original_title": "American Experience: Nixon", "slug_title": "american-experience-nixon", "date": "1990-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ryfis4DiluMmgKPNYot2ASgA977.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 462836, "title": "Henk Rijckaert: Het Experiment", "original_title": "Henk Rijckaert: Het Experiment", "slug_title": "henk-rijckaert-het-experiment", "date": "2012-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1vEy6eZSHx9M7Md8rKfophuJSng.jpg", "actors": [], "comments": [], "recommandations_id": []}

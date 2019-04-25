@@ -1,1 +1,0 @@
-{"tmdb_id": 582894, "title": "Homicidal", "original_title": "Homicidal", "slug_title": "homicidal", "date": "1975-01-01", "genre": "Horreur / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

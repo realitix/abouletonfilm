@@ -1,1 +1,0 @@
-{"tmdb_id": 323768, "title": "Hitler's Escape To Argentina", "original_title": "Hitler's Escape To Argentina", "slug_title": "hitler-s-escape-to-argentina", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 345097, "title": "Us in the Street", "original_title": "N\u00f3s na Rua", "slug_title": "us-in-the-street", "date": "2015-06-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nvcseV6HWfX7MYBzo7HqgZ0Abbz.jpg", "actors": [], "comments": [], "recommandations_id": []}

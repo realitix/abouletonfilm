@@ -1,1 +1,0 @@
-{"tmdb_id": 351599, "title": "The Golden Hen", "original_title": "The Golden Hen", "slug_title": "the-golden-hen", "date": "1946-05-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Kay (Gandy Goose / Sourpuss (voice))"], "comments": [], "recommandations_id": []}

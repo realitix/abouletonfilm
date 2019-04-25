@@ -1,1 +1,0 @@
-{"tmdb_id": 541234, "title": "Art as Dialogue", "original_title": "Art as Dialogue", "slug_title": "art-as-dialogue", "date": "2017-05-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thora Birch (Herself)", "Illeana Douglas (Herself)", "Scarlett Johansson (Herself)"], "comments": [], "recommandations_id": []}

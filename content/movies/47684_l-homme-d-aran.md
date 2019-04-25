@@ -1,1 +1,0 @@
-{"tmdb_id": 47684, "title": "L'Homme d'Aran", "original_title": "Man of Aran", "slug_title": "l-homme-d-aran", "date": "1934-04-24", "genre": "Documentaire / Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i8GPkoqZ71tyhQveeUKRLCPGQzq.jpg", "actors": [], "comments": [], "recommandations_id": [145915, 110921, 113989, 204178]}

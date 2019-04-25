@@ -1,1 +1,0 @@
-{"tmdb_id": 324380, "title": "How to Shoot a Crime", "original_title": "How to Shoot a Crime", "slug_title": "how-to-shoot-a-crime", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

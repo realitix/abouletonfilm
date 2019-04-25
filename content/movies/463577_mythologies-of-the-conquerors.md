@@ -1,1 +1,0 @@
-{"tmdb_id": 463577, "title": "Mythologies of the Conquerors", "original_title": "Mythologies of the Conquerors", "slug_title": "mythologies-of-the-conquerors", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

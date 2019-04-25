@@ -1,1 +1,0 @@
-{"tmdb_id": 514191, "title": "Wishology! Part 1: The Big Beginning", "original_title": "Wishology! Part 1: The Big Beginning", "slug_title": "wishology-part-1-the-big-beginning", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

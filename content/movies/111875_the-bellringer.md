@@ -1,1 +1,0 @@
-{"tmdb_id": 111875, "title": "The Bellringer", "original_title": "The Bellringer", "slug_title": "the-bellringer", "date": "2007-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vUD3eHSfr5kNFFEwWt63zZvAOOP.jpg", "actors": [], "comments": [], "recommandations_id": []}

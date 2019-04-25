@@ -1,1 +1,0 @@
-{"tmdb_id": 215602, "title": "River People", "original_title": "\u6c34\u4e0a\u4eba\u5bb6", "slug_title": "river-people", "date": "2008-12-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oUKZFfkBrZV912eb4RPM8KMi2uU.jpg", "actors": ["Shan Haoshan ()"], "comments": [], "recommandations_id": []}

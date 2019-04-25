@@ -1,1 +1,0 @@
-{"tmdb_id": 283990, "title": "Staten Island", "original_title": "Staten Island", "slug_title": "staten-island", "date": "1978-05-01", "genre": "Science-Fiction", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vhyk6xWBH9ocnQD9AGXBTogHAMW.jpg", "actors": ["Pat Place ()"], "comments": [], "recommandations_id": []}

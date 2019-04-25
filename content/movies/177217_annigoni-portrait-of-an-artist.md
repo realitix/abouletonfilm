@@ -1,1 +1,0 @@
-{"tmdb_id": 177217, "title": "Annigoni: Portrait of an Artist", "original_title": "Annigoni: Portrait of an Artist", "slug_title": "annigoni-portrait-of-an-artist", "date": "1995-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

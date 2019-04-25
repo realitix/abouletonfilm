@@ -1,1 +1,0 @@
-{"tmdb_id": 533530, "title": "Slan\u00e9 cukr\u00edky", "original_title": "Slan\u00e9 cukr\u00edky", "slug_title": "slane-cukriky", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qFGdquU4gAB0WaFmaSMgU52eFar.jpg", "actors": [], "comments": [], "recommandations_id": []}

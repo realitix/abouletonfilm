@@ -1,1 +1,0 @@
-{"tmdb_id": 480687, "title": "the Vietnamese Bride", "original_title": "the Vietnamese Bride", "slug_title": "the-vietnamese-bride", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y8R8j7Kr5Vlpe3crfivIsWSVL9O.jpg", "actors": [], "comments": [], "recommandations_id": []}

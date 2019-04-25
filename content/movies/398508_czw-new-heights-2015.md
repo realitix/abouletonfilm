@@ -1,1 +1,0 @@
-{"tmdb_id": 398508, "title": "CZW New Heights 2015", "original_title": "CZW New Heights 2015", "slug_title": "czw-new-heights-2015", "date": "2015-07-11", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tPh0wLtQwaV9bat4Wcpux16HcVs.jpg", "actors": [], "comments": [], "recommandations_id": []}

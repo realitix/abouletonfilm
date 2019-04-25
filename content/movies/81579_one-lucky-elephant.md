@@ -1,1 +1,0 @@
-{"tmdb_id": 81579, "title": "One Lucky Elephant", "original_title": "One Lucky Elephant", "slug_title": "one-lucky-elephant", "date": "2011-06-08", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vMkMnFvx03xzkDmn50TyNlXrC85.jpg", "actors": [], "comments": [], "recommandations_id": []}

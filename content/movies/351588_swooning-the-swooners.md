@@ -1,1 +1,0 @@
-{"tmdb_id": 351588, "title": "Swooning the Swooners", "original_title": "Swooning the Swooners", "slug_title": "swooning-the-swooners", "date": "1945-09-14", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kHj6lTgzjGRqxFg8aUw7wzF6z9W.jpg", "actors": [], "comments": [], "recommandations_id": []}

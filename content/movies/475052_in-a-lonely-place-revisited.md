@@ -1,1 +1,0 @@
-{"tmdb_id": 475052, "title": "In a Lonely Place Revisited", "original_title": "In a Lonely Place Revisited", "slug_title": "in-a-lonely-place-revisited", "date": "2003-03-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Curtis Hanson (Host)"], "comments": [], "recommandations_id": []}

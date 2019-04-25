@@ -1,1 +1,0 @@
-{"tmdb_id": 270942, "title": "A Dream of a House", "original_title": "\u00c1lom a h\u00e1zr\u00f3l", "slug_title": "a-dream-of-a-house", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6voYgagFJgnEYk5f9iBJoioFv8a.jpg", "actors": [], "comments": [], "recommandations_id": []}

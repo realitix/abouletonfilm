@@ -1,1 +1,0 @@
-{"tmdb_id": 448532, "title": "Lines of Force", "original_title": "Silok\u0159ivky", "slug_title": "lines-of-force", "date": "1984-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

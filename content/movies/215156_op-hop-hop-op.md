@@ -1,1 +1,0 @@
-{"tmdb_id": 215156, "title": "Op Hop/Hop Op", "original_title": "Op Hop/Hop Op", "slug_title": "op-hop-hop-op", "date": "1966-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3V1QBSzqkh8vimH1eaOFT9XjCG7.jpg", "actors": [], "comments": [], "recommandations_id": []}

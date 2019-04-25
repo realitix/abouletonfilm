@@ -1,1 +1,1 @@
-{"tmdb_id": 488757, "title": "Formas do Afeto", "original_title": "Formas do Afeto", "slug_title": "formas-do-afeto", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 488757, "title": "Formas do Afeto", "original_title": "Formas do Afeto", "slug_title": "formas-do-afeto", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

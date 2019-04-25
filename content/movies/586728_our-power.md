@@ -1,1 +1,0 @@
-{"tmdb_id": 586728, "title": "Our Power", "original_title": "Our Power", "slug_title": "our-power", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 280789, "title": "Keepers of the Frame", "original_title": "Keepers of the Frame", "slug_title": "keepers-of-the-frame", "date": "1999-03-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wsUur8z4HoaU2l9hs3JFJjnwvOl.jpg", "actors": [], "comments": [], "recommandations_id": []}

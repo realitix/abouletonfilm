@@ -1,1 +1,0 @@
-{"tmdb_id": 156096, "title": "Hitlers Hantlangare - Goebbles", "original_title": "Hitlers Hantlangare - Goebbles", "slug_title": "hitlers-hantlangare-goebbles", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yBvQOmFWp3rLGDap0Qf03huCBoS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 335736, "title": "The Mothman Curse", "original_title": "The Mothman Curse", "slug_title": "the-mothman-curse", "date": "2014-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/35noYj81swE8xNfvc1GiPAons5J.jpg", "actors": ["Rachel Dale (Rachel)"], "comments": [], "recommandations_id": []}

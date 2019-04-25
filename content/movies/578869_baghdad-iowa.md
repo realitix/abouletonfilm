@@ -1,1 +1,0 @@
-{"tmdb_id": 578869, "title": "Baghdad, Iowa", "original_title": "Baghdad, Iowa", "slug_title": "baghdad-iowa", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anastasia Davis ()", "Natasha Lovaas ()", "Shayn Herndon ()", "Alfred Ferraris ()", "Kristin Keating ()"], "comments": [], "recommandations_id": []}

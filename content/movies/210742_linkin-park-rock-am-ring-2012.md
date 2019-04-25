@@ -1,1 +1,0 @@
-{"tmdb_id": 210742, "title": "Linkin Park - Rock am Ring 2012", "original_title": "Linkin Park - Rock am Ring 2012", "slug_title": "linkin-park-rock-am-ring-2012", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

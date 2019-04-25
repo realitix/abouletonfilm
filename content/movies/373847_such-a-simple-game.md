@@ -1,1 +1,0 @@
-{"tmdb_id": 373847, "title": "Such a Simple Game", "original_title": "Un jeu si simple", "slug_title": "such-a-simple-game", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lZlFkc7j63h1gmXsg0lJy0VSxO8.jpg", "actors": [], "comments": [], "recommandations_id": []}

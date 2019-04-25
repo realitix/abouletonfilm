@@ -1,1 +1,0 @@
-{"tmdb_id": 195232, "title": "After Launching", "original_title": "After Launching", "slug_title": "after-launching", "date": "1898-03-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/owUzmpjviIZALYf9241M1hAsuTd.jpg", "actors": [], "comments": [], "recommandations_id": []}

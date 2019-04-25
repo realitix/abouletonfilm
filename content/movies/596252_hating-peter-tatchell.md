@@ -1,1 +1,0 @@
-{"tmdb_id": 596252, "title": "Hating Peter Tatchell", "original_title": "Hating Peter Tatchell", "slug_title": "hating-peter-tatchell", "date": "2017-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3vfC4bKMjVq4zUbX2uzT6wlQaxw.jpg", "actors": [], "comments": [], "recommandations_id": []}

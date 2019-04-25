@@ -1,1 +1,0 @@
-{"tmdb_id": 465316, "title": "Shop of Eternal Life", "original_title": "Shop of Eternal Life", "slug_title": "shop-of-eternal-life", "date": "2017-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

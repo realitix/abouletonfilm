@@ -1,1 +1,0 @@
-{"tmdb_id": 527732, "title": "Fluxorama", "original_title": "Fluxorama", "slug_title": "fluxorama", "date": "2018-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uVfo5su7r3WhAHtGIlnq4oeGxYZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

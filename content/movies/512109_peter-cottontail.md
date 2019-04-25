@@ -1,1 +1,0 @@
-{"tmdb_id": 512109, "title": "Peter Cottontail", "original_title": "Peter Cottontail", "slug_title": "peter-cottontail", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

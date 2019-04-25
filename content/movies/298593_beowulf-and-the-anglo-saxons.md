@@ -1,1 +1,0 @@
-{"tmdb_id": 298593, "title": "Beowulf and the Anglo Saxons", "original_title": "Beowulf and the Anglo Saxons", "slug_title": "beowulf-and-the-anglo-saxons", "date": "2007-02-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

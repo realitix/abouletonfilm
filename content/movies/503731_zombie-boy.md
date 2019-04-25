@@ -1,1 +1,0 @@
-{"tmdb_id": 503731, "title": "Zombie Boy", "original_title": "Zombie Boy", "slug_title": "zombie-boy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kAJFGY41zeQ6OsV6N2Wf13znKS8.jpg", "actors": [], "comments": [], "recommandations_id": []}

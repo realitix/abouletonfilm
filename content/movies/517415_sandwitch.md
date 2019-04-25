@@ -1,1 +1,0 @@
-{"tmdb_id": 517415, "title": "Sandwitch", "original_title": "Sandwitch", "slug_title": "sandwitch", "date": "2018-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i1UeUCo3VkditvDd2LBs5aorYbR.jpg", "actors": [], "comments": [], "recommandations_id": []}

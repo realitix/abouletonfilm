@@ -1,1 +1,0 @@
-{"tmdb_id": 332206, "title": "SNL: 25 Years of Music Volume 2", "original_title": "SNL: 25 Years of Music Volume 2", "slug_title": "snl-25-years-of-music-volume-2", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xIVybvI2I4d7rt2WAhIEfYqjlE6.jpg", "actors": [], "comments": [], "recommandations_id": []}

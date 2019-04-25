@@ -1,1 +1,0 @@
-{"tmdb_id": 237060, "title": "The Eager Beaver", "original_title": "The Eager Beaver", "slug_title": "the-eager-beaver", "date": "1946-07-12", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6N3dpZWtLSGoRzMRhaNWQlmlj4G.jpg", "actors": [], "comments": [], "recommandations_id": []}

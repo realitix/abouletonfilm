@@ -1,1 +1,0 @@
-{"tmdb_id": 510716, "title": "Vollkrassmann", "original_title": "Vollkrassmann", "slug_title": "vollkrassmann", "date": "2018-02-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Funda Rosenland (Dilara)", "Dogan Padar (Sami / Vollkrassmann)", "Pauline Angert (Yvonne)"], "comments": [], "recommandations_id": []}

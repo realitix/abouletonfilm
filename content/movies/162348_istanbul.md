@@ -1,1 +1,0 @@
-{"tmdb_id": 162348, "title": "Istanbul", "original_title": "Istanbul", "slug_title": "istanbul", "date": "1964-01-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mZKK4YIOGoyHn3zGhRwoDS8cYm4.jpg", "actors": ["Pierre Asso (Narrator)"], "comments": [], "recommandations_id": []}

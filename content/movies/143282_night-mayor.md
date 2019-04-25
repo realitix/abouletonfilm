@@ -1,1 +1,0 @@
-{"tmdb_id": 143282, "title": "Night Mayor", "original_title": "Night Mayor", "slug_title": "night-mayor", "date": "2009-09-13", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eIfYxF3Aq95yu1UXQQgV4HPaXFU.jpg", "actors": [], "comments": [], "recommandations_id": []}

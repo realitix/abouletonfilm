@@ -1,1 +1,0 @@
-{"tmdb_id": 259794, "title": "India.Arie - Live in Brazil", "original_title": "India.Arie - Live in Brazil", "slug_title": "india-arie-live-in-brazil", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aIzQACr2GsWdZyt1gmrj3t0JW5c.jpg", "actors": [], "comments": [], "recommandations_id": []}

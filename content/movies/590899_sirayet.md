@@ -1,1 +1,0 @@
-{"tmdb_id": 590899, "title": "Sirayet", "original_title": "Sirayet", "slug_title": "sirayet", "date": "2017-10-21", "genre": "Drame / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8RkmQnWuoVEYFefezv2Go6Ydf7s.jpg", "actors": ["Kemal Burak Alper ()"], "comments": [], "recommandations_id": []}

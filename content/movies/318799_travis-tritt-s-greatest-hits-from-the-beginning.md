@@ -1,1 +1,0 @@
-{"tmdb_id": 318799, "title": "Travis Tritt's Greatest Hits: From the Beginning", "original_title": "Travis Tritt's Greatest Hits: From the Beginning", "slug_title": "travis-tritt-s-greatest-hits-from-the-beginning", "date": "1995-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

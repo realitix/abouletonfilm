@@ -1,1 +1,0 @@
-{"tmdb_id": 595040, "title": "Straight Line Curve", "original_title": "Straight Line Curve", "slug_title": "straight-line-curve", "date": "2013-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/80oBlHGGSqNcHF3Z7zX0jKyY0BO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 339861, "title": "Hollywood", "original_title": "Hollywood", "slug_title": "hollywood", "date": "2003-01-03", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rcyuITdM4rOzZkwdxo43eHwd3OI.jpg", "actors": ["Upendra ()", "Felicity Mason ()", "Emma Dean ()", "Anant Nag ()"], "comments": [], "recommandations_id": []}

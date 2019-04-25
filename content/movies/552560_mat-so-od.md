@@ -1,1 +1,0 @@
-{"tmdb_id": 552560, "title": "Mat So'od", "original_title": "Mat So'od", "slug_title": "mat-so-od", "date": "2017-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/57xUAGEJq7pIZtqvvJkifXIZulX.jpg", "actors": ["Khir Rahman ()", "Siti Saleha ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 360578, "title": "Ekin Cheng Beautiful Day 2011 Concert", "original_title": "Ekin Cheng Beautiful Day 2011 Concert", "slug_title": "ekin-cheng-beautiful-day-2011-concert", "date": "2011-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 316457, "title": "A Woman And A Gun", "original_title": "A Woman And A Gun", "slug_title": "a-woman-and-a-gun", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

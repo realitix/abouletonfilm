@@ -1,1 +1,0 @@
-{"tmdb_id": 122992, "title": "Anouk - Close Up", "original_title": "Anouk - Close Up", "slug_title": "anouk-close-up", "date": "2004-01-05", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Xq1my1alkQGNu49Ki5aHJgNj3G.jpg", "actors": ["Anouk (Singer)"], "comments": [], "recommandations_id": []}

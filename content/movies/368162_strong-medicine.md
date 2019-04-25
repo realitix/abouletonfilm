@@ -1,1 +1,0 @@
-{"tmdb_id": 368162, "title": "Strong Medicine", "original_title": "Strong Medicine", "slug_title": "strong-medicine", "date": "1981-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AcIxpSCFoI5uewzmwLiWr2fNZaF.jpg", "actors": ["Bill Raymond (Young Man)"], "comments": [], "recommandations_id": []}

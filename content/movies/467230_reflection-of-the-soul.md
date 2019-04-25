@@ -1,1 +1,0 @@
-{"tmdb_id": 467230, "title": "Reflection of the Soul", "original_title": "Reflection of the Soul", "slug_title": "reflection-of-the-soul", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

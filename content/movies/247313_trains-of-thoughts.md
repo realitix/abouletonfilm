@@ -1,1 +1,0 @@
-{"tmdb_id": 247313, "title": "Trains of Thoughts", "original_title": "Trains of Thoughts", "slug_title": "trains-of-thoughts", "date": "2012-12-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yWnsdVHiLRI4A01kFi7A3gtncqW.jpg", "actors": [], "comments": [], "recommandations_id": []}

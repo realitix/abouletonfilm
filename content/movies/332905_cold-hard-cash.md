@@ -1,1 +1,0 @@
-{"tmdb_id": 332905, "title": "Cold Hard Cash", "original_title": "Cold Hard Cash", "slug_title": "cold-hard-cash", "date": "2007-10-20", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mXpnxdbFlxTR3y3jR43Bh74KpI2.jpg", "actors": [], "comments": [], "recommandations_id": []}

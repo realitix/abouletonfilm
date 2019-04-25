@@ -1,1 +1,0 @@
-{"tmdb_id": 509471, "title": "Waiting for Dracula", "original_title": "Waiting for Dracula", "slug_title": "waiting-for-dracula", "date": "2012-03-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/19JP5ns2DBcn9yquPwGLfKchsTw.jpg", "actors": [], "comments": [], "recommandations_id": []}

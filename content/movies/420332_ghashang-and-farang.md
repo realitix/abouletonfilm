@@ -1,1 +1,0 @@
-{"tmdb_id": 420332, "title": "Ghashang and Farang", "original_title": "Ghashang va Farang", "slug_title": "ghashang-and-farang", "date": "2016-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nsbhyyzZlrbwR36oA1fCb3X8AKC.jpg", "actors": [], "comments": [], "recommandations_id": []}

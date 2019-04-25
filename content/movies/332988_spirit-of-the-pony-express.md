@@ -1,1 +1,0 @@
-{"tmdb_id": 332988, "title": "Spirit of the Pony Express", "original_title": "Spirit of the Pony Express", "slug_title": "spirit-of-the-pony-express", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

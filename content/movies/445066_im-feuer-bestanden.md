@@ -1,1 +1,0 @@
-{"tmdb_id": 445066, "title": "Im Feuer bestanden", "original_title": "Im Feuer bestanden", "slug_title": "im-feuer-bestanden", "date": "1978-09-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qadvRyJWAsCl2vmrSuxoHuY5rku.jpg", "actors": [], "comments": [], "recommandations_id": []}

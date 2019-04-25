@@ -1,1 +1,0 @@
-{"tmdb_id": 493059, "title": "That's Black Entertainment", "original_title": "That's Black Entertainment", "slug_title": "that-s-black-entertainment", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

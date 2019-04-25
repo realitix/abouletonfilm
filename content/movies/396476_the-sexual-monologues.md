@@ -1,1 +1,0 @@
-{"tmdb_id": 396476, "title": "The Sexual Monologues", "original_title": "The Sexual Monologues", "slug_title": "the-sexual-monologues", "date": "2011-01-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aQ3mmvwoQhW861l7kO0Ra83kiUe.jpg", "actors": [], "comments": [], "recommandations_id": []}

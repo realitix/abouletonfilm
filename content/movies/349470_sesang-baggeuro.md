@@ -1,1 +1,0 @@
-{"tmdb_id": 349470, "title": "\uc138\uc0c1 \ubc16\uc73c\ub85c", "original_title": "\uc138\uc0c1 \ubc16\uc73c\ub85c", "slug_title": "sesang-baggeuro", "date": "1994-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

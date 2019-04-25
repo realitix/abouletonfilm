@@ -1,1 +1,0 @@
-{"tmdb_id": 437675, "title": "The Cow Farm", "original_title": "The Cow Farm", "slug_title": "the-cow-farm", "date": "2016-01-28", "genre": "Documentaire / Familial / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xjUlp8MwFfMNnPY2B0YZK47OFnW.jpg", "actors": [], "comments": [], "recommandations_id": []}

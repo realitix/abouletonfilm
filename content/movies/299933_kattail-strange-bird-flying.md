@@ -1,1 +1,0 @@
-{"tmdb_id": 299933, "title": "Kattail: Strange Bird Flying", "original_title": "Kattail: Strange Bird Flying", "slug_title": "kattail-strange-bird-flying", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

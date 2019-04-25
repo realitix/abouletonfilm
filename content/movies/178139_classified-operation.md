@@ -1,1 +1,0 @@
-{"tmdb_id": 178139, "title": "Classified Operation", "original_title": "Classified Operation", "slug_title": "classified-operation", "date": "1982-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lLwHO6tAK8RE1gnrupUW3vllWEX.jpg", "actors": [], "comments": [], "recommandations_id": []}

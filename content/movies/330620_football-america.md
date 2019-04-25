@@ -1,1 +1,0 @@
-{"tmdb_id": 330620, "title": "Football America", "original_title": "Football America", "slug_title": "football-america", "date": "1996-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Coburn (Narrator)"], "comments": [], "recommandations_id": []}

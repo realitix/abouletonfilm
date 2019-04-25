@@ -1,1 +1,0 @@
-{"tmdb_id": 592672, "title": "My Charlie Brown Christmas", "original_title": "My Charlie Brown Christmas", "slug_title": "my-charlie-brown-christmas", "date": "2003-12-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6hEi5amnpUKPbPjF9kVQmDtM8u3.jpg", "actors": [], "comments": [], "recommandations_id": []}

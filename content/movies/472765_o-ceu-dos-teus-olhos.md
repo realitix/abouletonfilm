@@ -1,1 +1,0 @@
-{"tmdb_id": 472765, "title": "O c\u00e9u dos teus olhos", "original_title": "O c\u00e9u dos teus olhos", "slug_title": "o-ceu-dos-teus-olhos", "date": "2016-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nlEKUuMYT8dsbEG3Llk8kRjuaR.jpg", "actors": [], "comments": [], "recommandations_id": []}

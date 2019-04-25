@@ -1,1 +1,0 @@
-{"tmdb_id": 410013, "title": "La t\u00eate en bas", "original_title": "La t\u00eate en bas", "slug_title": "la-tete-en-bas", "date": "2013-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pt17z6lmmDPtkaaF6Pfl9sYHqc2.jpg", "actors": [], "comments": [], "recommandations_id": []}

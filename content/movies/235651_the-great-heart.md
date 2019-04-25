@@ -1,1 +1,0 @@
-{"tmdb_id": 235651, "title": "The Great Heart", "original_title": "The Great Heart", "slug_title": "the-great-heart", "date": "1938-12-31", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carey Wilson (Narrator (voice))", "Tom Neal (Father Damien (uncredited))"], "comments": [], "recommandations_id": []}

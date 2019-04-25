@@ -1,1 +1,0 @@
-{"tmdb_id": 449433, "title": "Cahier Africain", "original_title": "Cahier Africain", "slug_title": "cahier-africain", "date": "2016-08-07", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2UI7hi8EEcxHYYmDOWANA9WJpRb.jpg", "actors": [], "comments": [], "recommandations_id": []}

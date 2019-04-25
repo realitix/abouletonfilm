@@ -1,1 +1,0 @@
-{"tmdb_id": 157952, "title": "The Lost Gospels", "original_title": "The Lost Gospels", "slug_title": "the-lost-gospels", "date": "2008-03-15", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tznKUA83Z13MT6WT3kqxCnHf3Wf.jpg", "actors": ["Peter Owen-Jones (Himself)"], "comments": [], "recommandations_id": []}

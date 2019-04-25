@@ -1,1 +1,0 @@
-{"tmdb_id": 443452, "title": "The Way to Murnau", "original_title": "Der Weg nach Murnau", "slug_title": "the-way-to-murnau", "date": "2003-02-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["F.W. Murnau (Himself (archive footage))"], "comments": [], "recommandations_id": []}

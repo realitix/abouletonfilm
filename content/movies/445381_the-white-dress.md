@@ -1,1 +1,0 @@
-{"tmdb_id": 445381, "title": "The White Dress", "original_title": "The White Dress", "slug_title": "the-white-dress", "date": "1973-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/clV5YIWrxWOXphi52IhpiZ5mWEg.jpg", "actors": ["Naglaa Fathy (Dalal)", "Ahmed Mazhar ()"], "comments": [], "recommandations_id": []}

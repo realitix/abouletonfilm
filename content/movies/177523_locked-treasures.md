@@ -1,1 +1,0 @@
-{"tmdb_id": 177523, "title": "Locked Treasures", "original_title": "Locked Treasures", "slug_title": "locked-treasures", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

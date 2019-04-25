@@ -1,1 +1,0 @@
-{"tmdb_id": 527649, "title": "Ohne Titel oder Nixon kommt nach Berlin Zeitungen", "original_title": "Ohne Titel oder Nixon kommt nach Berlin Zeitungen", "slug_title": "ohne-titel-oder-nixon-kommt-nach-berlin-zeitungen", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

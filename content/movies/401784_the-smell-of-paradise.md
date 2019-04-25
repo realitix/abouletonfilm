@@ -1,1 +1,0 @@
-{"tmdb_id": 401784, "title": "The Smell of Paradise", "original_title": "The Smell of Paradise", "slug_title": "the-smell-of-paradise", "date": "2005-09-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/upqRnEDksfhDjtIDI92TWJBfF6g.jpg", "actors": [], "comments": [], "recommandations_id": []}

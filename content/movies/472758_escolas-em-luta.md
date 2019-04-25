@@ -1,1 +1,0 @@
-{"tmdb_id": 472758, "title": "Escolas em Luta", "original_title": "Escolas em Luta", "slug_title": "escolas-em-luta", "date": "2017-09-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8BM61JnOj62tI3dibwKjRPqT8NN.jpg", "actors": [], "comments": [], "recommandations_id": []}

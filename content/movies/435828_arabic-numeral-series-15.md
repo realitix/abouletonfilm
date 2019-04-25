@@ -1,1 +1,0 @@
-{"tmdb_id": 435828, "title": "Arabic Numeral Series 15", "original_title": "Arabic Numeral Series 15", "slug_title": "arabic-numeral-series-15", "date": "1982-01-18", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aPVXTSHx54FSxpRDimNQjSAtNKP.jpg", "actors": [], "comments": [], "recommandations_id": []}

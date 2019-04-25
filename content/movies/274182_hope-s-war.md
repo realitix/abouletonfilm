@@ -1,1 +1,0 @@
-{"tmdb_id": 274182, "title": "Hope's War", "original_title": "Hope's War", "slug_title": "hope-s-war", "date": "2005-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

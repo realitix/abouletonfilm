@@ -1,1 +1,0 @@
-{"tmdb_id": 493898, "title": "End of the Universe", "original_title": "End of the Universe", "slug_title": "end-of-the-universe", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJ0UB1NKinA7qwbuzzkAmuoARfd.jpg", "actors": [], "comments": [], "recommandations_id": []}

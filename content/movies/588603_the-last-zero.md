@@ -1,1 +1,0 @@
-{"tmdb_id": 588603, "title": "The Last Zero", "original_title": "Ostatnie zero", "slug_title": "the-last-zero", "date": "1965-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

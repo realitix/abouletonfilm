@@ -1,1 +1,0 @@
-{"tmdb_id": 420110, "title": "The Twins", "original_title": "The Twins", "slug_title": "the-twins", "date": "1911-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 525334, "title": "Pianism", "original_title": "\u041f\u0438\u0430\u043d\u0438\u0437\u043c", "slug_title": "pianism", "date": "2012-06-20", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hvknmkQQgg9FQQZQBiwiCWMxA07.jpg", "actors": [], "comments": [], "recommandations_id": []}

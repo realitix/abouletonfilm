@@ -1,1 +1,0 @@
-{"tmdb_id": 338731, "title": "Eveylyn Everyone", "original_title": "Eveylyn Everyone", "slug_title": "eveylyn-everyone", "date": "2010-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

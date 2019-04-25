@@ -1,1 +1,0 @@
-{"tmdb_id": 359659, "title": "Mujeres + Videojuegos", "original_title": "Mujeres + Videojuegos", "slug_title": "mujeres-videojuegos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

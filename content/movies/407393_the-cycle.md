@@ -1,1 +1,0 @@
-{"tmdb_id": 407393, "title": "The Cycle", "original_title": "El ciclo", "slug_title": "the-cycle", "date": "2003-01-01", "genre": "Drame / Horreur / Myst\u00e8re / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jacob Torres (The Man)"], "comments": [], "recommandations_id": []}

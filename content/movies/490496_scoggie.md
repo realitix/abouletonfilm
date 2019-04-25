@@ -1,1 +1,0 @@
-{"tmdb_id": 490496, "title": "Scoggie", "original_title": "Scoggie", "slug_title": "scoggie", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lCYJEQHUFX0VfRqQYhy9ifwQJzZ.jpg", "actors": ["Scoggie Watson (Himself)"], "comments": [], "recommandations_id": []}

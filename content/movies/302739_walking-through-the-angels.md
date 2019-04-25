@@ -1,1 +1,0 @@
-{"tmdb_id": 302739, "title": "Walking Through the Angels", "original_title": "Walking Through the Angels", "slug_title": "walking-through-the-angels", "date": "2014-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

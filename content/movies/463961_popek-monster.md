@@ -1,1 +1,0 @@
-{"tmdb_id": 463961, "title": "Popek Monster", "original_title": "Popek Monster", "slug_title": "popek-monster", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

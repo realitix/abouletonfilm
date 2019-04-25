@@ -1,1 +1,0 @@
-{"tmdb_id": 319560, "title": "Legends of the Arabian Nights", "original_title": "Legends of the Arabian Nights", "slug_title": "legends-of-the-arabian-nights", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

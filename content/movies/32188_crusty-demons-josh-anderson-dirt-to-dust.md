@@ -1,1 +1,0 @@
-{"tmdb_id": 32188, "title": "Crusty Demons: Josh Anderson dirt to Dust", "original_title": "Crusty Demons: Josh Anderson dirt to Dust", "slug_title": "crusty-demons-josh-anderson-dirt-to-dust", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

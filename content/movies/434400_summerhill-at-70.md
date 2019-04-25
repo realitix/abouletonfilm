@@ -1,1 +1,0 @@
-{"tmdb_id": 434400, "title": "Summerhill at 70", "original_title": "Summerhill at 70", "slug_title": "summerhill-at-70", "date": "1992-01-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5JNeZEkSL8F3oC0dKWSGv1LBFd0.jpg", "actors": [], "comments": [], "recommandations_id": []}

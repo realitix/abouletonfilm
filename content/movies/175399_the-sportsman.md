@@ -1,1 +1,0 @@
-{"tmdb_id": 175399, "title": "The Sportsman", "original_title": "The Sportsman", "slug_title": "the-sportsman", "date": "1921-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Semon (The Sportsman)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 439470, "title": "Liga\u00e7\u00f5es Perigosas", "original_title": "Liga\u00e7\u00f5es Perigosas", "slug_title": "ligacoes-perigosas", "date": "2017-02-05", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kfEIx5VFOZAt8XBZBElLmQ0gQL7.jpg", "actors": [], "comments": [], "recommandations_id": []}

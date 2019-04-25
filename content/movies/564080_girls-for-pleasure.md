@@ -1,1 +1,0 @@
-{"tmdb_id": 564080, "title": "Girls for Pleasure", "original_title": "Dossier prostitution", "slug_title": "girls-for-pleasure", "date": "1970-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5GBMpSmL3B3a4qltBMIyMZes7cc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 387314, "title": "Who Is Saving Whom?", "original_title": "Wer rettet wen?", "slug_title": "who-is-saving-whom", "date": "2015-02-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1V4H6Xn04tMRrcdD9dYUMfaACVQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

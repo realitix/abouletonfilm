@@ -1,1 +1,0 @@
-{"tmdb_id": 479204, "title": "\uac15\ub0a8\ud480\uc2f8\ub871", "original_title": "\uac15\ub0a8\ud480\uc2f8\ub871", "slug_title": "gangnampulssarong", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cNY67fpzXj5l8zzsTBAkC3fC0Gn.jpg", "actors": [], "comments": [], "recommandations_id": []}

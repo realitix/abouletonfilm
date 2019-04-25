@@ -1,1 +1,0 @@
-{"tmdb_id": 427549, "title": "Yosemite the Magnificent", "original_title": "Yosemite the Magnificent", "slug_title": "yosemite-the-magnificent", "date": "1941-05-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James A. FitzPatrick ()", "James A. FitzPatrick (Narrator)"], "comments": [], "recommandations_id": []}

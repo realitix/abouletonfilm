@@ -1,1 +1,0 @@
-{"tmdb_id": 522947, "title": "Los 16 justos", "original_title": "Los 16 justos", "slug_title": "los-16-justos", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

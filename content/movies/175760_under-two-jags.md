@@ -1,1 +1,0 @@
-{"tmdb_id": 175760, "title": "Under Two Jags", "original_title": "Under Two Jags", "slug_title": "under-two-jags", "date": "1923-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i8N1tGzKy1ggAhucYDLap1cqRQB.jpg", "actors": ["Stan Laurel ()"], "comments": [], "recommandations_id": []}

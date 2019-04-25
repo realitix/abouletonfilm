@@ -1,1 +1,0 @@
-{"tmdb_id": 460751, "title": "Potsdam von oben", "original_title": "Potsdam von oben", "slug_title": "potsdam-von-oben", "date": "2017-05-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pSI8VNbKI25aSBMdLtbfIOmhoFW.jpg", "actors": [], "comments": [], "recommandations_id": []}

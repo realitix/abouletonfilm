@@ -1,1 +1,0 @@
-{"tmdb_id": 68859, "title": "The Kidnappers", "original_title": "The Kidnappers", "slug_title": "the-kidnappers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 303388, "title": "The Forever People", "original_title": "The Forever People", "slug_title": "the-forever-people", "date": "2013-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

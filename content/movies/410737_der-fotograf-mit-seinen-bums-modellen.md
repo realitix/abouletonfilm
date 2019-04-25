@@ -1,1 +1,0 @@
-{"tmdb_id": 410737, "title": "Der Fotograf mit seinen Bums-Modellen", "original_title": "Der Fotograf mit seinen Bums-Modellen", "slug_title": "der-fotograf-mit-seinen-bums-modellen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hannelore Lust ()", "Mario Pollak ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 503946, "title": "Kiki und Tiger", "original_title": "Kiki und Tiger", "slug_title": "kiki-und-tiger", "date": "2002-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

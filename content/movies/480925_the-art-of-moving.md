@@ -1,1 +1,0 @@
-{"tmdb_id": 480925, "title": "The Art of Moving", "original_title": "The Art of Moving", "slug_title": "the-art-of-moving", "date": "2016-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zs9zcDZebpfQC3YBzhROYDAx5v7.jpg", "actors": [], "comments": [], "recommandations_id": []}

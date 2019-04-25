@@ -1,1 +1,0 @@
-{"tmdb_id": 457645, "title": "Reminiscencias", "original_title": "Reminiscencias", "slug_title": "reminiscencias", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xOTIsajdPTTgSJNDLbbKcMfzcyx.jpg", "actors": [], "comments": [], "recommandations_id": []}

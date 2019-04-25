@@ -1,1 +1,0 @@
-{"tmdb_id": 464133, "title": "\uc804\ub9dd \uc88b\uc740 \ubc29 2", "original_title": "\uc804\ub9dd \uc88b\uc740 \ubc29 2", "slug_title": "jeonmang-joheun-bang-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uot0mzMpjRGzHebxUJNrIdtLRhu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 338136, "title": "Naagmani", "original_title": "Naagmani", "slug_title": "naagmani", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v9iEMKT5gaKMaXKhnsdgydgAjtN.jpg", "actors": [], "comments": [], "recommandations_id": []}

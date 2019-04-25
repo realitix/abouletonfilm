@@ -1,1 +1,0 @@
-{"tmdb_id": 99365, "title": "Taj Mahal", "original_title": "Taj Mahal", "slug_title": "taj-mahal", "date": "2010-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5jMoB15AhrLcGQnPGA6VQ91m41s.jpg", "actors": [], "comments": [], "recommandations_id": []}

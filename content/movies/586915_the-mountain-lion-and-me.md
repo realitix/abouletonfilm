@@ -1,1 +1,0 @@
-{"tmdb_id": 586915, "title": "The Mountain Lion and Me", "original_title": "The Mountain Lion and Me", "slug_title": "the-mountain-lion-and-me", "date": "2018-03-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Casey Anderson (Himself)"], "comments": [], "recommandations_id": []}

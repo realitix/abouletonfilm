@@ -1,1 +1,0 @@
-{"tmdb_id": 441789, "title": "Atlantic Patrol", "original_title": "Atlantic Patrol", "slug_title": "atlantic-patrol", "date": "1940-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bjuiCfloGScapRvrrxl6gTdfwOJ.jpg", "actors": ["Lorne Greene (Narrator)"], "comments": [], "recommandations_id": []}

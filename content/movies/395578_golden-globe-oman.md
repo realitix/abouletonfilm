@@ -1,1 +1,0 @@
-{"tmdb_id": 395578, "title": "Golden Globe - Oman", "original_title": "Golden Globe - Oman", "slug_title": "golden-globe-oman", "date": "2010-08-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/588Eq9CgV9B0grkPFyQuiXYqhX1.jpg", "actors": [], "comments": [], "recommandations_id": []}

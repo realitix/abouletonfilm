@@ -1,1 +1,0 @@
-{"tmdb_id": 392576, "title": "The Dark Embrace", "original_title": "The Dark Embrace", "slug_title": "the-dark-embrace", "date": "2015-05-29", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hAJV14Sb7FHsHkx6tJSpnEuzq4t.jpg", "actors": [], "comments": [], "recommandations_id": []}

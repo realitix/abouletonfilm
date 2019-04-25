@@ -1,1 +1,0 @@
-{"tmdb_id": 426688, "title": "Quem s\u00e3o elas?", "original_title": "Quem s\u00e3o elas?", "slug_title": "quem-sao-elas", "date": "2006-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

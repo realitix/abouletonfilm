@@ -1,1 +1,0 @@
-{"tmdb_id": 234387, "title": "A Hot Stone", "original_title": "Goryachiy kamen", "slug_title": "a-hot-stone", "date": "1965-11-08", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qRHYAmdCA96EF4sdLc2D2pD37pl.jpg", "actors": [], "comments": [], "recommandations_id": []}

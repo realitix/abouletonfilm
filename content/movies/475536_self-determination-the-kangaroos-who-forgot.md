@@ -1,1 +1,0 @@
-{"tmdb_id": 475536, "title": "Self Determination: The Kangaroos Who Forgot", "original_title": "Self Determination: The Kangaroos Who Forgot", "slug_title": "self-determination-the-kangaroos-who-forgot", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

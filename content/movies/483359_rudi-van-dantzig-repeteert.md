@@ -1,1 +1,0 @@
-{"tmdb_id": 483359, "title": "Rudi van Dantzig repeteert", "original_title": "Rudi van Dantzig repeteert", "slug_title": "rudi-van-dantzig-repeteert", "date": "1984-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rudi van Dantzig (Himself)"], "comments": [], "recommandations_id": []}

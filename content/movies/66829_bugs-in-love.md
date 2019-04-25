@@ -1,1 +1,0 @@
-{"tmdb_id": 66829, "title": "Bugs in Love", "original_title": "Bugs in Love", "slug_title": "bugs-in-love", "date": "1932-10-01", "genre": "Animation", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/79ygTfVL2qbQlEekyiSZHpjE8lJ.jpg", "actors": [], "comments": [], "recommandations_id": [67573, 67585, 67602, 53178]}

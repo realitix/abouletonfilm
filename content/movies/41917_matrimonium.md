@@ -1,1 +1,0 @@
-{"tmdb_id": 41917, "title": "Matrimonium", "original_title": "Matrimonium", "slug_title": "matrimonium", "date": "2005-01-01", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3pDAkIU2MO4iHgV81aCdxqzMNol.jpg", "actors": [], "comments": [], "recommandations_id": []}

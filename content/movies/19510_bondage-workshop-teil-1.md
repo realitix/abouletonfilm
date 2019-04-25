@@ -1,1 +1,0 @@
-{"tmdb_id": 19510, "title": "Bondage Workshop Teil 1", "original_title": "Bondage Workshop Teil 1", "slug_title": "bondage-workshop-teil-1", "date": "1900-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matthias T. J. Grimme (Drachenmann)", "Capricious (Model)"], "comments": [], "recommandations_id": []}

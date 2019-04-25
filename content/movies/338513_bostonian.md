@@ -1,1 +1,0 @@
-{"tmdb_id": 338513, "title": "Bostonian", "original_title": "Bostonian", "slug_title": "bostonian", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zlwe7AqjlhefnuzjDiReE1PBmml.jpg", "actors": [], "comments": [], "recommandations_id": []}

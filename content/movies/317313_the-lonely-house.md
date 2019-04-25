@@ -1,1 +1,0 @@
-{"tmdb_id": 317313, "title": "The Lonely House", "original_title": "Dom na pustkowiu", "slug_title": "the-lonely-house", "date": "1949-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/84dMSWe1uVMBYCmFt8MK5Vbuyz0.jpg", "actors": [], "comments": [], "recommandations_id": []}

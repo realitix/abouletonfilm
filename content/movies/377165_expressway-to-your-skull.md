@@ -1,1 +1,0 @@
-{"tmdb_id": 377165, "title": "Expressway to Your Skull", "original_title": "Expressway to Your Skull", "slug_title": "expressway-to-your-skull", "date": "2014-07-27", "genre": "Thriller / Horreur", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/90Bu28IYHl8k2XSVYxmgongVMfP.jpg", "actors": [], "comments": [], "recommandations_id": []}

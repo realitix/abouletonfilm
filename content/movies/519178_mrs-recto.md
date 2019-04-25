@@ -1,1 +1,0 @@
-{"tmdb_id": 519178, "title": "Mrs. Recto", "original_title": "Mrs. Recto", "slug_title": "mrs-recto", "date": "2010-09-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vyNQtHQkz4DoDoAl26lvybyQixx.jpg", "actors": ["Regine Velasquez ()", "Elmo Magalona ()"], "comments": [], "recommandations_id": []}

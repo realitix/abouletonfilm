@@ -1,1 +1,0 @@
-{"tmdb_id": 236296, "title": "Fresh Fish", "original_title": "Fresh Fish", "slug_title": "fresh-fish", "date": "1939-11-03", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dDdWMposvPuDwAIGn9xuPE3FxEm.jpg", "actors": [], "comments": [], "recommandations_id": []}

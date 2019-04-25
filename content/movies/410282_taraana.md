@@ -1,1 +1,0 @@
-{"tmdb_id": 410282, "title": "Taraana", "original_title": "Taraana", "slug_title": "taraana", "date": "1979-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nm9CkyhQTv6cPNLiXPrYgRXFKmd.jpg", "actors": ["Mithun Chakraborty ()", "Ranjeeta Kaur ()"], "comments": [], "recommandations_id": []}

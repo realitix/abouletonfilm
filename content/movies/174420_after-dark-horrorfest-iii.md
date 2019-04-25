@@ -1,1 +1,0 @@
-{"tmdb_id": 174420, "title": "After Dark Horrorfest III", "original_title": "After Dark Horrorfest III", "slug_title": "after-dark-horrorfest-iii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

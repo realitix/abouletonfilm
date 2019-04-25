@@ -1,1 +1,0 @@
-{"tmdb_id": 247966, "title": "Sanctuary: Lisa Gerrard", "original_title": "Sanctuary: Lisa Gerrard", "slug_title": "sanctuary-lisa-gerrard", "date": "2006-09-18", "genre": "Documentaire / Musique", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x716nDbwXLCAuz3GAz31wnOUNct.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 543734, "title": "Untitled K-Pop Film", "original_title": "Untitled K-Pop Film", "slug_title": "untitled-k-pop-film", "date": "", "genre": "Musique / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

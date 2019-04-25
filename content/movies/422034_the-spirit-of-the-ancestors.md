@@ -1,1 +1,0 @@
-{"tmdb_id": 422034, "title": "The Spirit of the Ancestors", "original_title": "Te Kuhane o te tupuna", "slug_title": "the-spirit-of-the-ancestors", "date": "2016-04-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7LTLwEq533fVN6TJozHtX4tzskU.jpg", "actors": [], "comments": [], "recommandations_id": []}

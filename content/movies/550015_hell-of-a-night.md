@@ -1,1 +1,0 @@
-{"tmdb_id": 550015, "title": "Hell of a Night", "original_title": "Hell of a Night", "slug_title": "hell-of-a-night", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/axpFlUoz3Jxt20gbnMuPQAovZWh.jpg", "actors": [], "comments": [], "recommandations_id": []}

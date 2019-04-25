@@ -1,1 +1,0 @@
-{"tmdb_id": 412962, "title": "The National Rehabilitation Center", "original_title": "The National Rehabilitation Center", "slug_title": "the-national-rehabilitation-center", "date": "1969-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

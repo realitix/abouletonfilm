@@ -1,1 +1,0 @@
-{"tmdb_id": 467321, "title": "A Portrait of the Lady in the Yellow Hat", "original_title": "A Portrait of the Lady in the Yellow Hat", "slug_title": "a-portrait-of-the-lady-in-the-yellow-hat", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stephen Lovi (Director)"], "comments": [], "recommandations_id": []}

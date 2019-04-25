@@ -1,1 +1,0 @@
-{"tmdb_id": 532760, "title": "The Old Woman Who Hid Her Fear Under the Stairs", "original_title": "The Old Woman Who Hid Her Fear Under the Stairs", "slug_title": "the-old-woman-who-hid-her-fear-under-the-stairs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

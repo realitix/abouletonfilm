@@ -1,1 +1,0 @@
-{"tmdb_id": 377012, "title": "The Song Remains The Same", "original_title": "The Song Remains The Same", "slug_title": "the-song-remains-the-same", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gfd0tci8gZlmPJtFrIFY2N7IjWq.jpg", "actors": [], "comments": [], "recommandations_id": []}

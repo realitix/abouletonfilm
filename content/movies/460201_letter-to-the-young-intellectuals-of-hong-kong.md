@@ -1,1 +1,0 @@
-{"tmdb_id": 460201, "title": "Letter to the Young Intellectuals of Hong Kong", "original_title": "Letter to the Young Intellectuals of Hong Kong", "slug_title": "letter-to-the-young-intellectuals-of-hong-kong", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

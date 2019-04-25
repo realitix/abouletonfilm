@@ -1,1 +1,0 @@
-{"tmdb_id": 505020, "title": "The Key and the Frame", "original_title": "The Key and the Frame", "slug_title": "the-key-and-the-frame", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

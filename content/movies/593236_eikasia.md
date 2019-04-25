@@ -1,1 +1,0 @@
-{"tmdb_id": 593236, "title": "Eikasia", "original_title": "Eikasia", "slug_title": "eikasia", "date": "2018-12-18", "genre": "Science-Fiction / Drame / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5RbRODtpE6vuFVEyMIbzunmJD0H.jpg", "actors": ["Francisco Morais (He)"], "comments": [], "recommandations_id": []}

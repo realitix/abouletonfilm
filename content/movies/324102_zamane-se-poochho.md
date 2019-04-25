@@ -1,1 +1,0 @@
-{"tmdb_id": 324102, "title": "Zamane Se Poochho", "original_title": "Zamane Se Poochho", "slug_title": "zamane-se-poochho", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

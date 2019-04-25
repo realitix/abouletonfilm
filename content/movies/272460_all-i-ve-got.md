@@ -1,1 +1,0 @@
-{"tmdb_id": 272460, "title": "All I've Got", "original_title": "All I've Got", "slug_title": "all-i-ve-got", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

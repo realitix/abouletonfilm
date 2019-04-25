@@ -1,1 +1,0 @@
-{"tmdb_id": 574394, "title": "La Traviata - ROH", "original_title": "La Traviata - ROH", "slug_title": "la-traviata-roh", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ermonela Jaho (Violetta)", "Charles Castronovo (Alfredo)"], "comments": [], "recommandations_id": []}

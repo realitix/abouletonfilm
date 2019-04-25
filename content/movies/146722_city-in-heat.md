@@ -1,1 +1,0 @@
-{"tmdb_id": 146722, "title": "City in Heat", "original_title": "Ciudad en celo", "slug_title": "city-in-heat", "date": "2006-11-30", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l2Al4PX86u3VkXaumnWikT3qNSD.jpg", "actors": ["N\u00faria Gago (In\u00e9s)"], "comments": [], "recommandations_id": []}

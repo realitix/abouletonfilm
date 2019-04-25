@@ -1,1 +1,0 @@
-{"tmdb_id": 103182, "title": "Goo Goo Dolls: Live In Alaska", "original_title": "Goo Goo Dolls: Live In Alaska", "slug_title": "goo-goo-dolls-live-in-alaska", "date": "2002-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s0fykLuokuhAus5InWCd9ZAAXK4.jpg", "actors": [], "comments": [], "recommandations_id": []}

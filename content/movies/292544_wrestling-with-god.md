@@ -1,1 +1,0 @@
-{"tmdb_id": 292544, "title": "Wrestling with God", "original_title": "Wrestling with God", "slug_title": "wrestling-with-god", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3JW433CHg5h1Gk11LLGFl5Nidgu.jpg", "actors": [], "comments": [], "recommandations_id": []}

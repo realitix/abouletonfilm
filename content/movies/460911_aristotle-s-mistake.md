@@ -1,1 +1,0 @@
-{"tmdb_id": 460911, "title": "Aristotle's Mistake", "original_title": "Aristotle's Mistake", "slug_title": "aristotle-s-mistake", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

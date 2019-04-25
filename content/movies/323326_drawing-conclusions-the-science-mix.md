@@ -1,1 +1,0 @@
-{"tmdb_id": 323326, "title": "Drawing Conclusions - The Science Mix", "original_title": "Drawing Conclusions - The Science Mix", "slug_title": "drawing-conclusions-the-science-mix", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

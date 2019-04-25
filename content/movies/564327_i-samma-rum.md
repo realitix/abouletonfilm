@@ -1,1 +1,0 @@
-{"tmdb_id": 564327, "title": "I samma rum", "original_title": "I samma rum", "slug_title": "i-samma-rum", "date": "1968-04-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pia Rydwall (X)", "Sven Wollter (Y)", "Hans Wigren (Z)"], "comments": [], "recommandations_id": []}

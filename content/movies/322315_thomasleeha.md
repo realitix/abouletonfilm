@@ -1,1 +1,0 @@
-{"tmdb_id": 322315, "title": "Thomasleeha", "original_title": "Thomasleeha", "slug_title": "thomasleeha", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

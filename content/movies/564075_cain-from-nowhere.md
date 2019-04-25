@@ -1,1 +1,0 @@
-{"tmdb_id": 564075, "title": "Cain from Nowhere", "original_title": "Ca\u00efn de nulle part", "slug_title": "cain-from-nowhere", "date": "1970-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 576786, "title": "Howdy Judge", "original_title": "Howdy Judge", "slug_title": "howdy-judge", "date": "1926-04-04", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bobby Ray ()"], "comments": [], "recommandations_id": []}

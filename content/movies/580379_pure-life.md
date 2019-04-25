@@ -1,1 +1,0 @@
-{"tmdb_id": 580379, "title": "Pure Life", "original_title": "La vida pura", "slug_title": "pure-life", "date": "2015-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

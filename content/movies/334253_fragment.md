@@ -1,1 +1,0 @@
-{"tmdb_id": 334253, "title": "Fragment", "original_title": "Fragment", "slug_title": "fragment", "date": "2015-04-02", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jLj2PuGCcRcoCJIlL48RUqvJAYR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 583483, "title": "Sound Shapes", "original_title": "Sound Shapes", "slug_title": "sound-shapes", "date": "1972-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rb6HruT1UPl6NBqqIDScMY92PEA.jpg", "actors": [], "comments": [], "recommandations_id": []}

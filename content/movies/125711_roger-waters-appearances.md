@@ -1,1 +1,0 @@
-{"tmdb_id": 125711, "title": "Roger Waters - Appearances", "original_title": "Roger Waters - Appearances", "slug_title": "roger-waters-appearances", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h2O2sERyK9Eu3jdODgfdz9OWlTY.jpg", "actors": [], "comments": [], "recommandations_id": []}

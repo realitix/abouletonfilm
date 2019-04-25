@@ -1,1 +1,0 @@
-{"tmdb_id": 264743, "title": "Poison Sweethearts", "original_title": "Poison Sweethearts", "slug_title": "poison-sweethearts", "date": "2008-07-15", "genre": "Horreur", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iynazUOQbPkSdC89WFLVS6LHv1Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

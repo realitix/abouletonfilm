@@ -1,1 +1,0 @@
-{"tmdb_id": 313636, "title": "Cost-Benefit-Love", "original_title": "Cost-Benefit-Love", "slug_title": "cost-benefit-love", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

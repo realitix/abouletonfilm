@@ -1,1 +1,0 @@
-{"tmdb_id": 324649, "title": "A Film for Maria", "original_title": "A Film for Maria", "slug_title": "a-film-for-maria", "date": "1961-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rebecca Crawford ()", "Linda Beagley ()", "Susan Beagley ()"], "comments": [], "recommandations_id": []}

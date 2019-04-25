@@ -1,1 +1,0 @@
-{"tmdb_id": 350516, "title": "\uc2dc\ub77c\uc18c\ub2c8", "original_title": "\uc2dc\ub77c\uc18c\ub2c8", "slug_title": "sirasoni", "date": "1979-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

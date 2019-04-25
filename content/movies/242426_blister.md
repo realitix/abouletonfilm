@@ -1,1 +1,0 @@
-{"tmdb_id": 242426, "title": "Blister!", "original_title": "Burisuta", "slug_title": "blister", "date": "2000-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kMQZbW9Gpdl7Eclnp98qfiEGWe1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 165388, "title": "Chain Reaction 3", "original_title": "Chain Reaction 3", "slug_title": "chain-reaction-3", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

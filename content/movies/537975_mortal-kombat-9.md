@@ -1,1 +1,0 @@
-{"tmdb_id": 537975, "title": "Mortal Kombat 9", "original_title": "Mortal Kombat 9", "slug_title": "mortal-kombat-9", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rBCLdgGpaTIkaURe5iABNDPlpCD.jpg", "actors": [], "comments": [], "recommandations_id": []}

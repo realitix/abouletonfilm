@@ -1,1 +1,0 @@
-{"tmdb_id": 551857, "title": "Elayne Boosler: Broadway Baby", "original_title": "Elayne Boosler: Broadway Baby", "slug_title": "elayne-boosler-broadway-baby", "date": "1987-10-10", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elayne Boosler (Herself)"], "comments": [], "recommandations_id": []}

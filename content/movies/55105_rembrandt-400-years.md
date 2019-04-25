@@ -1,1 +1,0 @@
-{"tmdb_id": 55105, "title": "Rembrandt 400 Years", "original_title": "Rembrandt 400 Years", "slug_title": "rembrandt-400-years", "date": "2006-01-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bsyCZt0e5mBkBQF8Zd35fsOwn4n.jpg", "actors": [], "comments": [], "recommandations_id": []}

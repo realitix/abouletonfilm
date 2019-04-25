@@ -1,1 +1,0 @@
-{"tmdb_id": 279518, "title": "Roll Out, Cowboy", "original_title": "Roll Out, Cowboy", "slug_title": "roll-out-cowboy", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

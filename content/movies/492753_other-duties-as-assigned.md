@@ -1,1 +1,0 @@
-{"tmdb_id": 492753, "title": "Other Duties as Assigned", "original_title": "Other Duties as Assigned", "slug_title": "other-duties-as-assigned", "date": "2015-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tracy Cutts (Herself)"], "comments": [], "recommandations_id": []}

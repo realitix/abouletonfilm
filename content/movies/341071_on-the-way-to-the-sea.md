@@ -1,1 +1,0 @@
-{"tmdb_id": 341071, "title": "On the Way to the Sea", "original_title": "\u53bb\u5927\u6d77\u7684\u8def\u4e0a", "slug_title": "on-the-way-to-the-sea", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uYq6Sr15x9x3qMU9GGMAKw6ncud.jpg", "actors": [], "comments": [], "recommandations_id": []}

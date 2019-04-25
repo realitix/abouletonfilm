@@ -1,1 +1,0 @@
-{"tmdb_id": 542546, "title": "Portrait mit Fuchs drin", "original_title": "Portrait mit Fuchs drin", "slug_title": "portrait-mit-fuchs-drin", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lURTEIMPZ3CUXe8FAkC3JKBudRJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

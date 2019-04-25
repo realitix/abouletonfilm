@@ -1,1 +1,0 @@
-{"tmdb_id": 378383, "title": "Mig Thai", "original_title": "Mig Thai", "slug_title": "mig-thai", "date": "2013-03-03", "genre": "Documentaire / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1W0FNC5Ks89AQBF9YI8hEb4UOBO.jpg", "actors": [], "comments": [], "recommandations_id": []}

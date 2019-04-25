@@ -1,1 +1,0 @@
-{"tmdb_id": 518535, "title": "Milagros", "original_title": "Milagros", "slug_title": "milagros", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

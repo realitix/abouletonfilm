@@ -1,1 +1,0 @@
-{"tmdb_id": 429251, "title": "Collier n co.", "original_title": "Collier n co.", "slug_title": "collier-n-co", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

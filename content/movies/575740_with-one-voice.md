@@ -1,1 +1,0 @@
-{"tmdb_id": 575740, "title": "With One Voice", "original_title": "D'une seule voix", "slug_title": "with-one-voice", "date": "2009-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xHSuQPugESM9JlQXwAnHdMa0t06.jpg", "actors": [], "comments": [], "recommandations_id": []}

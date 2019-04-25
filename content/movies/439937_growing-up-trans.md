@@ -1,1 +1,0 @@
-{"tmdb_id": 439937, "title": "Growing Up Trans", "original_title": "Growing Up Trans", "slug_title": "growing-up-trans", "date": "2015-06-30", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xakJ5AOrFdQEk5fngaw8T30odmE.jpg", "actors": ["Miri Navasky (Narrator)"], "comments": [], "recommandations_id": []}

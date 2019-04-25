@@ -1,1 +1,0 @@
-{"tmdb_id": 288758, "title": "Obras Incompletas", "original_title": "Obras Incompletas", "slug_title": "obras-incompletas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hDPmufflSlDHvDKeXhraiYkcye7.jpg", "actors": ["Andr\u00e9s Calamaro (M\u00fasico)"], "comments": [], "recommandations_id": []}

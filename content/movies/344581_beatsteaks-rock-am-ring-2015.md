@@ -1,1 +1,0 @@
-{"tmdb_id": 344581, "title": "Beatsteaks - Rock am Ring 2015", "original_title": "Beatsteaks - Rock am Ring 2015", "slug_title": "beatsteaks-rock-am-ring-2015", "date": "2015-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nGl5uXyxZ9Sfi8B7n8ANenOFQLN.jpg", "actors": [], "comments": [], "recommandations_id": []}

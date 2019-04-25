@@ -1,1 +1,0 @@
-{"tmdb_id": 356447, "title": "O Berimbau", "original_title": "O Berimbau", "slug_title": "o-berimbau", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

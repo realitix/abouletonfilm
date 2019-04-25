@@ -1,1 +1,0 @@
-{"tmdb_id": 212101, "title": "The Midnight Party", "original_title": "The Midnight Party", "slug_title": "the-midnight-party", "date": "1938-12-31", "genre": "", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sz2i6K6pNfVJy0D5Yz46PTWxaa.jpg", "actors": [], "comments": [], "recommandations_id": [163102, 154818, 154612, 109364]}

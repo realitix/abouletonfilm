@@ -1,1 +1,0 @@
-{"tmdb_id": 248885, "title": "Mob Stories", "original_title": "Mob Stories", "slug_title": "mob-stories", "date": "1993-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vMv53bp8IxGvejfiiRBxT4HxOmA.jpg", "actors": [], "comments": [], "recommandations_id": []}

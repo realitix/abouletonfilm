@@ -1,1 +1,0 @@
-{"tmdb_id": 472468, "title": "La tricheuse", "original_title": "La tricheuse", "slug_title": "la-tricheuse", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3PWINRAXlQbRAiF8ueSTSVTDFqU.jpg", "actors": [], "comments": [], "recommandations_id": []}

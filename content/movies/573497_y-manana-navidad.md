@@ -1,1 +1,0 @@
-{"tmdb_id": 573497, "title": "Y ma\u00f1ana Navidad", "original_title": "Y ma\u00f1ana Navidad", "slug_title": "y-manana-navidad", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

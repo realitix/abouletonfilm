@@ -1,1 +1,0 @@
-{"tmdb_id": 304427, "title": "Childish Dream Tales", "original_title": "Childish Dream Tales", "slug_title": "childish-dream-tales", "date": "2014-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

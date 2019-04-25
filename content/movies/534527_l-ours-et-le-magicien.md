@@ -1,1 +1,0 @@
-{"tmdb_id": 534527, "title": "L'ours et le magicien", "original_title": "L'ours et le magicien", "slug_title": "l-ours-et-le-magicien", "date": "2010-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pdo9rGV7VhBMlk2hjCNKitHdre.jpg", "actors": [], "comments": [], "recommandations_id": []}

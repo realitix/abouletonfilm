@@ -1,1 +1,0 @@
-{"tmdb_id": 378081, "title": "Das Millionengrab", "original_title": "Das Millionengrab", "slug_title": "das-millionengrab", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

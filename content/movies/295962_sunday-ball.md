@@ -1,1 +1,0 @@
-{"tmdb_id": 295962, "title": "Sunday Ball", "original_title": "Campo de Jogo", "slug_title": "sunday-ball", "date": "2014-09-30", "genre": "Documentaire", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5QBF6GYgbVFoCMrewHTLKUc9lVT.jpg", "actors": [], "comments": [], "recommandations_id": [168771, 417257, 426224, 128132]}

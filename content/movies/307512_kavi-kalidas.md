@@ -1,1 +1,0 @@
-{"tmdb_id": 307512, "title": "Kavi Kalidas", "original_title": "Kavi Kalidas", "slug_title": "kavi-kalidas", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

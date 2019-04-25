@@ -1,1 +1,0 @@
-{"tmdb_id": 531565, "title": "Fireman Sam Race Against Time", "original_title": "Fireman Sam Race Against Time", "slug_title": "fireman-sam-race-against-time", "date": "2016-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/asSxVH0Wc6mjmBUiX2pqyIwj85x.jpg", "actors": [], "comments": [], "recommandations_id": []}

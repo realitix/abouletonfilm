@@ -1,1 +1,0 @@
-{"tmdb_id": 484225, "title": "Are You Feeling Lonely?", "original_title": "Are You Feeling Lonely?", "slug_title": "are-you-feeling-lonely", "date": "2003-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

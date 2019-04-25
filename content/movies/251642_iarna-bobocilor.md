@@ -1,1 +1,0 @@
-{"tmdb_id": 251642, "title": "Iarna bobocilor", "original_title": "Iarna bobocilor", "slug_title": "iarna-bobocilor", "date": "1977-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h2AC0Fl1eSR6Uf4wx0GfeNYcyVI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 359915, "title": "Half Wet", "original_title": "Half Wet", "slug_title": "half-wet", "date": "2014-10-31", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ymFHakyauAvYcZCZHqFOMjWOXQs.jpg", "actors": ["Keiran Chantrey (Tiny Eyes)", "Paul Williams (Gus)"], "comments": [], "recommandations_id": []}

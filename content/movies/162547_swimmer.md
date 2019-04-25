@@ -1,1 +1,0 @@
-{"tmdb_id": 162547, "title": "Swimmer", "original_title": "Swimmer", "slug_title": "swimmer", "date": "2012-01-25", "genre": "Drame", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5KmqNkC4kVc1SjAwRzlvYIjgNyw.jpg", "actors": ["Tom Litten (Swimmer)"], "comments": [], "recommandations_id": []}

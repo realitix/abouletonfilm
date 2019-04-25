@@ -1,1 +1,0 @@
-{"tmdb_id": 570393, "title": "200 Feet for March 31st", "original_title": "60 metri per il 31 marzo", "slug_title": "200-feet-for-march-31st", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5hPd29Qdn4qUACZWAy3xOu5e1qX.jpg", "actors": [], "comments": [], "recommandations_id": []}

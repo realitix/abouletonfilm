@@ -1,1 +1,0 @@
-{"tmdb_id": 395996, "title": "Taksi Horror", "original_title": "Taksi Horror", "slug_title": "taksi-horror", "date": "2014-05-04", "genre": "Horreur", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4zHWlqWvYs6AGq5Csm0IgubCB4B.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 410576, "title": "Bad Dad Rehab", "original_title": "Bad Dad Rehab", "slug_title": "bad-dad-rehab", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oUgQBEPLA8VAZtu5krty5zgKV1u.jpg", "actors": [], "comments": [], "recommandations_id": []}

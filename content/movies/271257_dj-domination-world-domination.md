@@ -1,1 +1,0 @@
-{"tmdb_id": 271257, "title": "DJ Domination: World Domination", "original_title": "DJ Domination: World Domination", "slug_title": "dj-domination-world-domination", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

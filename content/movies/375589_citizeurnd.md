@@ -1,1 +1,0 @@
-{"tmdb_id": 375589, "title": "Citiz\u20acnd", "original_title": "Citiz\u20acnd", "slug_title": "citizeurnd", "date": "2015-10-14", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hs9H3dUqnHMwoOFzk4vGNtMvtsL.jpg", "actors": [], "comments": [], "recommandations_id": []}

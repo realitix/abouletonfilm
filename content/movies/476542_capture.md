@@ -1,1 +1,0 @@
-{"tmdb_id": 476542, "title": "Capture", "original_title": "Capture", "slug_title": "capture", "date": "2017-04-30", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oTJHx2q4ex47UlNmzIyC8wboT8k.jpg", "actors": ["Sarah Lian ()", "Jake Lockett ()", "Sarah Oh ()"], "comments": [], "recommandations_id": []}

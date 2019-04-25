@@ -1,1 +1,0 @@
-{"tmdb_id": 550300, "title": "Elfen Lied Special", "original_title": "Elfen Lied Special", "slug_title": "elfen-lied-special", "date": "2005-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ceGGSFAGHmw2F7lcnlrX3DLMgsp.jpg", "actors": [], "comments": [], "recommandations_id": []}

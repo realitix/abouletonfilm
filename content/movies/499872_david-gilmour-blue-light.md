@@ -1,1 +1,0 @@
-{"tmdb_id": 499872, "title": "David Gilmour: Blue Light", "original_title": "David Gilmour: Blue Light", "slug_title": "david-gilmour-blue-light", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Gilmour ()"], "comments": [], "recommandations_id": []}

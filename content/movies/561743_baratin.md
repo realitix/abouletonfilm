@@ -1,1 +1,0 @@
-{"tmdb_id": 561743, "title": "Baratin", "original_title": "Baratin", "slug_title": "baratin", "date": "1956-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sts0lw3cJw5NJHt8wKv8mp7WQK1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 442150, "title": "Ulysses in the Subway", "original_title": "Ulysses in the Subway", "slug_title": "ulysses-in-the-subway", "date": "2017-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kRPQfBvkRpTIIG1J3tTC0UJ40vI.jpg", "actors": [], "comments": [], "recommandations_id": []}

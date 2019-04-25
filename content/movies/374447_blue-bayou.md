@@ -1,1 +1,0 @@
-{"tmdb_id": 374447, "title": "Blue Bayou", "original_title": "Blue Bayou", "slug_title": "blue-bayou", "date": "1946-04-20", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/98R43UJFLHDexhkanqPshuEsP2W.jpg", "actors": [], "comments": [], "recommandations_id": []}

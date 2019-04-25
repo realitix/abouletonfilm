@@ -1,1 +1,0 @@
-{"tmdb_id": 403637, "title": "Indietracks", "original_title": "Indietracks", "slug_title": "indietracks", "date": "2016-06-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iHKK55yPowXn7OM2h2p4Uk9f4T7.jpg", "actors": [], "comments": [], "recommandations_id": []}

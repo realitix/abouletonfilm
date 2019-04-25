@@ -1,1 +1,0 @@
-{"tmdb_id": 313409, "title": "Making Theater: Rashomon: A Play Is Born", "original_title": "Making Theater: Rashomon: A Play Is Born", "slug_title": "making-theater-rashomon-a-play-is-born", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 300915, "title": "Do Phool", "original_title": "Do Phool", "slug_title": "do-phool", "date": "1958-08-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/48zF6FgcwTvlsiQPsfMJKYzkzUA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 595952, "title": "Byron Trimble: Diary of a Short City Boy", "original_title": "Byron Trimble: Diary of a Short City Boy", "slug_title": "byron-trimble-diary-of-a-short-city-boy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

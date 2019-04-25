@@ -1,1 +1,0 @@
-{"tmdb_id": 416233, "title": "La reconstruction", "original_title": "Ha-Shich'zoor", "slug_title": "la-reconstruction", "date": "1994-10-10", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

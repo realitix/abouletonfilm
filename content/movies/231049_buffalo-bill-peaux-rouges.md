@@ -1,1 +1,0 @@
-{"tmdb_id": 231049, "title": "Buffalo Bill: peaux rouges", "original_title": "Buffalo Bill: peaux rouges", "slug_title": "buffalo-bill-peaux-rouges", "date": "1897-10-29", "genre": "Documentaire", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6yTxbZeX2ki9pbhyvUGUcmCnBO9.jpg", "actors": [], "comments": [], "recommandations_id": []}

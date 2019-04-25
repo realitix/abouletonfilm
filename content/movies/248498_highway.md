@@ -1,1 +1,0 @@
-{"tmdb_id": 248498, "title": "Highway", "original_title": "Highway", "slug_title": "highway", "date": "1958-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

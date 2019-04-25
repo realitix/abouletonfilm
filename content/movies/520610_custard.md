@@ -1,1 +1,0 @@
-{"tmdb_id": 520610, "title": "Custard", "original_title": "Custard", "slug_title": "custard", "date": "1974-01-01", "genre": "Animation / Com\u00e9die / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lAKKuw5ibA6B7UZWmLb1ytstBBb.jpg", "actors": [], "comments": [], "recommandations_id": []}

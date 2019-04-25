@@ -1,1 +1,0 @@
-{"tmdb_id": 565556, "title": "A. Constant", "original_title": "A. Constant", "slug_title": "a-constant", "date": "1977-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lkIt9QZXjAeOFkboyfQbFYGxqNE.jpg", "actors": [], "comments": [], "recommandations_id": []}

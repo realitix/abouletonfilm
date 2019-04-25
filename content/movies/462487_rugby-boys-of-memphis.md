@@ -1,1 +1,0 @@
-{"tmdb_id": 462487, "title": "Rugby Boys of Memphis", "original_title": "Rugby Boys of Memphis", "slug_title": "rugby-boys-of-memphis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uIOqe8q5v8ulsta0a2I3f7E4vp4.jpg", "actors": [], "comments": [], "recommandations_id": []}

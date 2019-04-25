@@ -1,1 +1,0 @@
-{"tmdb_id": 571135, "title": "To Be... A Classic", "original_title": "To Be... A Classic", "slug_title": "to-be-a-classic", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Janet Bergstrom ()", "N.T. Binh ()", "Fran\u00e7ois Truffaut ()", "Claude Berri ()"], "comments": [], "recommandations_id": []}

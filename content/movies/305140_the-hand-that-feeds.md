@@ -1,1 +1,0 @@
-{"tmdb_id": 305140, "title": "The Hand That Feeds", "original_title": "The Hand That Feeds", "slug_title": "the-hand-that-feeds", "date": "2014-04-05", "genre": "Documentaire", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p7Pa2wDpDcrdCjKXkvfrgK1NkH5.jpg", "actors": [], "comments": [], "recommandations_id": []}

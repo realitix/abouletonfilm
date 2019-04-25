@@ -1,1 +1,0 @@
-{"tmdb_id": 521643, "title": "The New Hustle", "original_title": "The New Hustle", "slug_title": "the-new-hustle", "date": "2017-08-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/epnqDLclG8DkXcUQsPhCYjFGmeT.jpg", "actors": [], "comments": [], "recommandations_id": []}

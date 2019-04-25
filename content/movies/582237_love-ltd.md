@@ -1,1 +1,0 @@
-{"tmdb_id": 582237, "title": "Love, Ltd.", "original_title": "Love, Ltd.", "slug_title": "love-ltd", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

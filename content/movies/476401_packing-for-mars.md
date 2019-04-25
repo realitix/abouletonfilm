@@ -1,1 +1,0 @@
-{"tmdb_id": 476401, "title": "Packing for Mars", "original_title": "Packing for Mars", "slug_title": "packing-for-mars", "date": "2015-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/geRWL7t81OVAdfhDgHTRKuK6Q3j.jpg", "actors": ["Frank Jacob (Himself)"], "comments": [], "recommandations_id": []}

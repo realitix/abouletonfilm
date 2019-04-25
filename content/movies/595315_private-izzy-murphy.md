@@ -1,1 +1,0 @@
-{"tmdb_id": 595315, "title": "Private Izzy Murphy", "original_title": "Private Izzy Murphy", "slug_title": "private-izzy-murphy", "date": "1926-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/90eaMZnVaYWVtpcW5Uvhpxx4qal.jpg", "actors": [], "comments": [], "recommandations_id": []}

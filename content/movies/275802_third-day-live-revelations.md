@@ -1,1 +1,0 @@
-{"tmdb_id": 275802, "title": "Third Day: Live Revelations", "original_title": "Third Day: Live Revelations", "slug_title": "third-day-live-revelations", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

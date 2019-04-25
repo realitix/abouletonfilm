@@ -1,1 +1,0 @@
-{"tmdb_id": 441387, "title": "Bubbles", "original_title": "Bubbles", "slug_title": "bubbles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

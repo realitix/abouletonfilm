@@ -1,1 +1,0 @@
-{"tmdb_id": 81586, "title": "Vincent: A Life in Color", "original_title": "Vincent: A Life in Color", "slug_title": "vincent-a-life-in-color", "date": "2008-11-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t5g39ES3R8qrDRinBU4mv0TcKE6.jpg", "actors": [], "comments": [], "recommandations_id": []}

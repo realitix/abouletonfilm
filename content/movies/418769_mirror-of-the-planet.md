@@ -1,1 +1,0 @@
-{"tmdb_id": 418769, "title": "Mirror of the Planet", "original_title": "Planetens spejle", "slug_title": "mirror-of-the-planet", "date": "1992-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5zF1DEfFx62GxIp24BBvjNFJ9Bt.jpg", "actors": [], "comments": [], "recommandations_id": []}

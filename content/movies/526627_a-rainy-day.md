@@ -1,1 +1,0 @@
-{"tmdb_id": 526627, "title": "A Rainy Day", "original_title": "A Rainy Day", "slug_title": "a-rainy-day", "date": "2004-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pamelyn Chee (Florence)", "Camy Ting (Katie)", "Kang Zhang (Alan)", "Sam Zhou (Father)"], "comments": [], "recommandations_id": []}

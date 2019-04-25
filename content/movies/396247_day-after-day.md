@@ -1,1 +1,0 @@
-{"tmdb_id": 396247, "title": "Day After Day", "original_title": "Dzie\u0144 po dniu", "slug_title": "day-after-day", "date": "1980-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8nfQ5WJEMf26fgraaNVnukOMLgy.jpg", "actors": [], "comments": [], "recommandations_id": []}

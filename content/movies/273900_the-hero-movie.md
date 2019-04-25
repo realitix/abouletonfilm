@@ -1,1 +1,0 @@
-{"tmdb_id": 273900, "title": "The Hero Movie", "original_title": "The Hero Movie", "slug_title": "the-hero-movie", "date": "2014-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

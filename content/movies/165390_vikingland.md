@@ -1,1 +1,0 @@
-{"tmdb_id": 165390, "title": "Vikingland", "original_title": "Vikingland", "slug_title": "vikingland", "date": "2011-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tw2vbwCLIsnLusjY6NykckUDLJo.jpg", "actors": ["Luis Lomba ()"], "comments": [], "recommandations_id": []}

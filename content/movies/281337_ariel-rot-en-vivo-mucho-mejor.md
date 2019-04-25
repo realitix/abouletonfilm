@@ -1,1 +1,0 @@
-{"tmdb_id": 281337, "title": "Ariel Rot En Vivo Mucho Mejor", "original_title": "Ariel Rot En Vivo Mucho Mejor", "slug_title": "ariel-rot-en-vivo-mucho-mejor", "date": "2001-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qjd2aHIPuUWZnOSKdPItnasebns.jpg", "actors": [], "comments": [], "recommandations_id": []}

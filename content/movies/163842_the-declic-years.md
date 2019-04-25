@@ -1,1 +1,0 @@
-{"tmdb_id": 163842, "title": "The Declic Years", "original_title": "Les ann\u00e9es d\u00e9clic", "slug_title": "the-declic-years", "date": "1984-07-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

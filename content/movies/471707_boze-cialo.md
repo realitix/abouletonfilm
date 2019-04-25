@@ -1,1 +1,0 @@
-{"tmdb_id": 471707, "title": "Bo\u017ce Cia\u0142o", "original_title": "Bo\u017ce Cia\u0142o", "slug_title": "boze-cialo", "date": "2019-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

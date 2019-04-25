@@ -1,1 +1,0 @@
-{"tmdb_id": 282588, "title": "Mutthu Nammappa", "original_title": "Mutthu Nammappa", "slug_title": "mutthu-nammappa", "date": "2014-11-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shivaraj Kumar ()"], "comments": [], "recommandations_id": []}

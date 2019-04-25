@@ -1,1 +1,0 @@
-{"tmdb_id": 320770, "title": "Urusei Yatsura: Ryoko's September Tea Party", "original_title": "Urusei Yatsura Ova 6", "slug_title": "urusei-yatsura-ryoko-s-september-tea-party", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

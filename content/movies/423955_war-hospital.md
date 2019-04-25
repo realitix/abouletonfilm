@@ -1,1 +1,0 @@
-{"tmdb_id": 423955, "title": "War Hospital", "original_title": "War Hospital", "slug_title": "war-hospital", "date": "2005-10-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

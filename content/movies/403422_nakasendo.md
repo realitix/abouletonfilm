@@ -1,1 +1,0 @@
-{"tmdb_id": 403422, "title": "Nakasendo", "original_title": "Nakasendo", "slug_title": "nakasendo", "date": "1963-06-24", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2zUJFkkOSsuYE9JfThEIwgO9lgd.jpg", "actors": [], "comments": [], "recommandations_id": []}

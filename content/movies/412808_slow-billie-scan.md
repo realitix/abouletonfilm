@@ -1,1 +1,0 @@
-{"tmdb_id": 412808, "title": "Slow Billie Scan", "original_title": "Slow Billie Scan", "slug_title": "slow-billie-scan", "date": "1987-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pBKHT4mY96BflVD2ohCIzPxzjCg.jpg", "actors": [], "comments": [], "recommandations_id": []}

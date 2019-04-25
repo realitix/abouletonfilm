@@ -1,1 +1,0 @@
-{"tmdb_id": 301761, "title": "The Red Man and the Child", "original_title": "The Red Man and the Child", "slug_title": "the-red-man-and-the-child", "date": "1908-07-27", "genre": "Action / Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charles Inslee (The Sioux)", "John Tansey (Child)"], "comments": [], "recommandations_id": []}

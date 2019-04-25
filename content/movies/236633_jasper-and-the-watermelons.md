@@ -1,1 +1,0 @@
-{"tmdb_id": 236633, "title": "Jasper and the Watermelons", "original_title": "Jasper and the Watermelons", "slug_title": "jasper-and-the-watermelons", "date": "1942-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

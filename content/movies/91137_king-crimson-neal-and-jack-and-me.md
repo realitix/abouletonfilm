@@ -1,1 +1,0 @@
-{"tmdb_id": 91137, "title": "King Crimson: Neal and Jack and Me", "original_title": "King Crimson: Neal and Jack and Me", "slug_title": "king-crimson-neal-and-jack-and-me", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/48KsPkfO5wdvoGLqMwyO12BuuRM.jpg", "actors": [], "comments": [], "recommandations_id": []}

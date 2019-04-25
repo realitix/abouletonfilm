@@ -1,1 +1,0 @@
-{"tmdb_id": 507993, "title": "Come Alive", "original_title": "Come Alive", "slug_title": "come-alive", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

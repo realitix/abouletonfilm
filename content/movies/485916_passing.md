@@ -1,1 +1,1 @@
-{"tmdb_id": 485916, "title": "Passing", "original_title": "Passing", "slug_title": "passing", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 485916, "title": "Passing", "original_title": "Passing", "slug_title": "passing", "date": "2017-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Horror short from director James Eaves", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

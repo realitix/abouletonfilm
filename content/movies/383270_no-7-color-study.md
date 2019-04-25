@@ -1,1 +1,0 @@
-{"tmdb_id": 383270, "title": "No. 7: Color Study", "original_title": "No. 7: Color Study", "slug_title": "no-7-color-study", "date": "1950-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r7ECSjXOt8xzdGeNCVT06TBivwJ.jpg", "actors": [], "comments": [], "recommandations_id": [250252, 87200, 149047, 380030]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 482188, "title": "Pick-Ups", "original_title": "Pick-Ups", "slug_title": "pick-ups", "date": "2018-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/13vN5BoFQ9d0v2uw7FSiKkUD2AE.jpg", "actors": ["Luxy Banner ()", "Henry J. Smith III ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 102534, "title": "The Good Son", "original_title": "Hyv\u00e4 poika", "slug_title": "the-good-son", "date": "2011-03-25", "genre": "Thriller", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vyppcYbxNR8kVFGsnJX23JaV8HF.jpg", "actors": [], "comments": [], "recommandations_id": []}

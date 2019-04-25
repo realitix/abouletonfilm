@@ -1,1 +1,0 @@
-{"tmdb_id": 477494, "title": "Hip Hop Abs - Last Minute Abs", "original_title": "Hip Hop Abs - Last Minute Abs", "slug_title": "hip-hop-abs-last-minute-abs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wxGRxujQURnPvAeez3P8EDqoMt2.jpg", "actors": ["Shaun T. ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 246293, "title": "Poistoja", "original_title": "Poistoja", "slug_title": "poistoja", "date": "2013-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 246293, "title": "Poistoja", "original_title": "Poistoja", "slug_title": "poistoja", "date": "2013-11-14", "genre": [""], "score": "0.0/10", "synopsis": "\"I'm the deletion of my life.\"", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

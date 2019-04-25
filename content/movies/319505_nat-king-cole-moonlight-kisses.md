@@ -1,1 +1,0 @@
-{"tmdb_id": 319505, "title": "Nat King Cole: Moonlight Kisses", "original_title": "Nat King Cole: Moonlight Kisses", "slug_title": "nat-king-cole-moonlight-kisses", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 513587, "title": "Vida e Obra de Ramiro Miguez", "original_title": "Vida e Obra de Ramiro Miguez", "slug_title": "vida-e-obra-de-ramiro-miguez", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 323534, "title": "GHOST BURN - The Haunted Jail", "original_title": "GHOST BURN - The Haunted Jail", "slug_title": "ghost-burn-the-haunted-jail", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

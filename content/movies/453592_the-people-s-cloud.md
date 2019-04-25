@@ -1,1 +1,0 @@
-{"tmdb_id": 453592, "title": "The People's Cloud", "original_title": "The People's Cloud", "slug_title": "the-people-s-cloud", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 454562, "title": "Dancing Bear - Banquet Bride", "original_title": "Dancing Bear - Banquet Bride", "slug_title": "dancing-bear-banquet-bride", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xbMrBtWwotGxcYvDhcX3UokSyvG.jpg", "actors": [], "comments": [], "recommandations_id": []}

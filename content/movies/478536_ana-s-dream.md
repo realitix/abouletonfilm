@@ -1,1 +1,0 @@
-{"tmdb_id": 478536, "title": "Ana's Dream", "original_title": "El sue\u00f1o de Ana", "slug_title": "ana-s-dream", "date": "2017-09-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6FpXmWd4WFsZ7wCNdozHhuNGbZh.jpg", "actors": ["Amparo Noguera ()", "Julieta Figueroa ()"], "comments": [], "recommandations_id": []}

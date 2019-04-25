@@ -1,1 +1,0 @@
-{"tmdb_id": 362266, "title": "Eating Happiness", "original_title": "Eating Happiness", "slug_title": "eating-happiness", "date": "2015-09-29", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9DkL3UHedkljJdZiNAvakXxnUfg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 435327, "title": "Happy Go Loopy", "original_title": "Happy Go Loopy", "slug_title": "happy-go-loopy", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1WGJ9h5DL2pCJUeP6rB5ERxPcwJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

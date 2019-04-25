@@ -1,1 +1,0 @@
-{"tmdb_id": 350660, "title": "Exhibition on Screen: Vermeer and Music", "original_title": "Exhibition on Screen: Vermeer and Music", "slug_title": "exhibition-on-screen-vermeer-and-music", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tim Marlow (Presenter)"], "comments": [], "recommandations_id": []}

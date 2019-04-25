@@ -1,1 +1,0 @@
-{"tmdb_id": 538905, "title": "84 Days in Asia", "original_title": "84 Days in Asia", "slug_title": "84-days-in-asia", "date": "2015-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tKO4tE0g7DJHlqtfhYnufgHtqKq.jpg", "actors": [], "comments": [], "recommandations_id": []}

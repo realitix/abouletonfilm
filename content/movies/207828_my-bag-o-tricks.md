@@ -1,1 +1,0 @@
-{"tmdb_id": 207828, "title": "My Bag o' Tricks", "original_title": "My Bag o' Tricks", "slug_title": "my-bag-o-tricks", "date": "1929-01-15", "genre": "Com\u00e9die / Musique", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oFpVh80K6fOfGimdtizp9MPbTBf.jpg", "actors": ["Trixie Friganza ()"], "comments": [], "recommandations_id": []}

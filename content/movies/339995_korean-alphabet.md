@@ -1,1 +1,0 @@
-{"tmdb_id": 339995, "title": "Korean Alphabet", "original_title": "Korean Alphabet", "slug_title": "korean-alphabet", "date": "1967-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

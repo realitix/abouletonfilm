@@ -1,1 +1,0 @@
-{"tmdb_id": 172197, "title": "Finally Got the News", "original_title": "Finally Got the News", "slug_title": "finally-got-the-news", "date": "1970-06-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ft8Gj4HDHFiKBodvu4O7gC0AKbP.jpg", "actors": [], "comments": [], "recommandations_id": []}

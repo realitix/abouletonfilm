@@ -1,1 +1,0 @@
-{"tmdb_id": 271405, "title": "El amor, el deber y el crimen", "original_title": "El amor, el deber y el crimen", "slug_title": "el-amor-el-deber-y-el-crimen", "date": "1925-05-22", "genre": "", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rafael Burgos ()", "Mara Meva ()"], "comments": [], "recommandations_id": []}

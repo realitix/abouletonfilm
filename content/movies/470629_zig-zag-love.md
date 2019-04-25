@@ -1,1 +1,0 @@
-{"tmdb_id": 470629, "title": "Zig Zag Love", "original_title": "Zig Zag Love", "slug_title": "zig-zag-love", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

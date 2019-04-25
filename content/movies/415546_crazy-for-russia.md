@@ -1,1 +1,0 @@
-{"tmdb_id": 415546, "title": "Crazy For Russia", "original_title": "\u72c2\u543b\u4fc4\u7f57\u65af", "slug_title": "crazy-for-russia", "date": "1994-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Feng Gong (Dajiang)", "Zhenhua Niu (Shuangcheng)"], "comments": [], "recommandations_id": []}

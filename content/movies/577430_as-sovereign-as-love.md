@@ -1,1 +1,0 @@
-{"tmdb_id": 577430, "title": "As Sovereign as Love", "original_title": "As Sovereign as Love", "slug_title": "as-sovereign-as-love", "date": "2017-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cl5psdb3DGggmtUbZia5WFMEYa8.jpg", "actors": [], "comments": [], "recommandations_id": []}

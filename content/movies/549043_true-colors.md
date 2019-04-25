@@ -1,1 +1,0 @@
-{"tmdb_id": 549043, "title": "True Colors", "original_title": "True Colors", "slug_title": "true-colors", "date": "2018-09-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hLIJiUQ9rMEbooD8xmA2wTVzXAj.jpg", "actors": ["Julian Hanlan ()", "William Alexander ()"], "comments": [], "recommandations_id": []}

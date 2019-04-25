@@ -1,1 +1,0 @@
-{"tmdb_id": 453054, "title": "Paranoia", "original_title": "Paranoia", "slug_title": "paranoia", "date": "2013-06-18", "genre": "Thriller / Horreur / Myst\u00e8re", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ldfyJWn1xQBAjn1F8s3zi0RmXlm.jpg", "actors": [], "comments": [], "recommandations_id": []}

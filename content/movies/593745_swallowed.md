@@ -1,1 +1,0 @@
-{"tmdb_id": 593745, "title": "Swallowed", "original_title": "Swallowed", "slug_title": "swallowed", "date": "2016-03-09", "genre": "Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lily Baldwin (Sam)", "Michael Dempsey (Carlton)"], "comments": [], "recommandations_id": []}

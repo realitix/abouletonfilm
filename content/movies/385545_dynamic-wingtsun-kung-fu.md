@@ -1,1 +1,0 @@
-{"tmdb_id": 385545, "title": "Dynamic WingTsun Kung Fu", "original_title": "Dynamic WingTsun Kung Fu", "slug_title": "dynamic-wingtsun-kung-fu", "date": "1986-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rWwKgH94dXFm8JRISKC4kpAEtdS.jpg", "actors": [], "comments": [], "recommandations_id": []}

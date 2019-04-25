@@ -1,1 +1,0 @@
-{"tmdb_id": 272410, "title": "Pedro Guerra - Vidas en Vivo", "original_title": "Pedro Guerra - Vidas en Vivo", "slug_title": "pedro-guerra-vidas-en-vivo", "date": "2008-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dde4fwFZ4Qs3NSjGaVfUeGaseOL.jpg", "actors": [], "comments": [], "recommandations_id": []}

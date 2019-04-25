@@ -1,1 +1,0 @@
-{"tmdb_id": 346150, "title": "Animated Soviet Propaganda", "original_title": "Animated Soviet Propaganda", "slug_title": "animated-soviet-propaganda", "date": "1997-06-15", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cHneF0Q2dZZMDnGg8uhgdpsNy0i.jpg", "actors": [], "comments": [], "recommandations_id": []}

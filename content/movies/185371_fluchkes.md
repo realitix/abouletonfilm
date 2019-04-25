@@ -1,1 +1,0 @@
-{"tmdb_id": 185371, "title": "Fluchkes", "original_title": "Fluchkes", "slug_title": "fluchkes", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

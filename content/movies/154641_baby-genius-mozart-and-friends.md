@@ -1,1 +1,0 @@
-{"tmdb_id": 154641, "title": "Baby Genius: Mozart And Friends", "original_title": "Baby Genius: Mozart And Friends", "slug_title": "baby-genius-mozart-and-friends", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXelYduBy46VXWIsPsiKLk95XMR.jpg", "actors": [], "comments": [], "recommandations_id": []}

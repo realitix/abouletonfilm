@@ -1,1 +1,0 @@
-{"tmdb_id": 593582, "title": "The Last Defense", "original_title": "The Last Defense", "slug_title": "the-last-defense", "date": "2018-04-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9mpQlmdfj6BhJnfS6WwiHDCF8iv.jpg", "actors": [], "comments": [], "recommandations_id": []}

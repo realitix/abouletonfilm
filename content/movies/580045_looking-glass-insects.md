@@ -1,1 +1,0 @@
-{"tmdb_id": 580045, "title": "Looking Glass Insects", "original_title": "Looking Glass Insects", "slug_title": "looking-glass-insects", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2yhpk2JkGWcpHshS1qfGj0HcUT3.jpg", "actors": [], "comments": [], "recommandations_id": []}

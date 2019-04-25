@@ -1,1 +1,0 @@
-{"tmdb_id": 354184, "title": "Caesarean Section", "original_title": "Kaiser Schnitt", "slug_title": "caesarean-section", "date": "1987-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mara Mattuschka ()"], "comments": [], "recommandations_id": []}

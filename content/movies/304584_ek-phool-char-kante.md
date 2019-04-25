@@ -1,1 +1,0 @@
-{"tmdb_id": 304584, "title": "Ek Phool Char Kante", "original_title": "Ek Phool Char Kante", "slug_title": "ek-phool-char-kante", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

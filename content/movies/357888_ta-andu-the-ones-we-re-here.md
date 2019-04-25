@@ -1,1 +1,0 @@
-{"tmdb_id": 357888, "title": "Ta Andu: The ones We're Here", "original_title": "Ta andu: los que estamos aqu\u00ed", "slug_title": "ta-andu-the-ones-we-re-here", "date": "2015-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

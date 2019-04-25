@@ -1,1 +1,0 @@
-{"tmdb_id": 17955, "title": "He Said, She Said", "original_title": "He Said, She Said", "slug_title": "he-said-she-said", "date": "2009-01-01", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

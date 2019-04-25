@@ -1,1 +1,0 @@
-{"tmdb_id": 211284, "title": "Dimension", "original_title": "Dimension", "slug_title": "dimension", "date": "2010-08-24", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x46dCzxjsuJI2DUW9rKZZbp6qr5.jpg", "actors": [], "comments": [], "recommandations_id": []}

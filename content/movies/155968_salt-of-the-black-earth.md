@@ -1,1 +1,0 @@
-{"tmdb_id": 155968, "title": "Salt of the Black Earth", "original_title": "S\u00f3l Ziemi Czarnej", "slug_title": "salt-of-the-black-earth", "date": "1970-03-06", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mMtgZLF0TdSHUsXrYSOjKaH2OB6.jpg", "actors": [], "comments": [], "recommandations_id": []}

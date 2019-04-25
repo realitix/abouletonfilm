@@ -1,1 +1,0 @@
-{"tmdb_id": 218084, "title": "Buddy Rich: The Lost Tapes", "original_title": "Buddy Rich: The Lost Tapes", "slug_title": "buddy-rich-the-lost-tapes", "date": "2002-03-04", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/seSbQklxOTrIWt59kAVQA5AZTnk.jpg", "actors": [], "comments": [], "recommandations_id": []}

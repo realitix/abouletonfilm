@@ -1,1 +1,0 @@
-{"tmdb_id": 194609, "title": "Ballet libella", "original_title": "Ballet libella", "slug_title": "ballet-libella", "date": "1897-05-18", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7cecLM3u72b8d1w14gMFAxzdBms.jpg", "actors": [], "comments": [], "recommandations_id": []}

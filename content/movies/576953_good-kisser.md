@@ -1,1 +1,0 @@
-{"tmdb_id": 576953, "title": "Good Kisser", "original_title": "Good Kisser", "slug_title": "good-kisser", "date": "", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rachel Paulson (Kate)", "Kari Alison Hodge (Jenna)", "Julia Eringer (Mia)", "Courtney McCullough (Yuka)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 592897, "title": "A Maybe Day in Kazakhstan", "original_title": "A Maybe Day in Kazakhstan", "slug_title": "a-maybe-day-in-kazakhstan", "date": "1994-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

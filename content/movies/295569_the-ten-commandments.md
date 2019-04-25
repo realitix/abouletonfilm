@@ -1,1 +1,0 @@
-{"tmdb_id": 295569, "title": "The Ten Commandments", "original_title": "The Ten Commandments", "slug_title": "the-ten-commandments", "date": "1994-01-01", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1kYzX3wVNNMhyWkpazr7g6m3IM4.jpg", "actors": [], "comments": [], "recommandations_id": []}

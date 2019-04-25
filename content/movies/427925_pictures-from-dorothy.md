@@ -1,1 +1,0 @@
-{"tmdb_id": 427925, "title": "Pictures from Dorothy", "original_title": "Pictures from Dorothy", "slug_title": "pictures-from-dorothy", "date": "2004-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cKMQzjKeOQRDvPr5HGlQFTosRvp.jpg", "actors": [], "comments": [], "recommandations_id": []}

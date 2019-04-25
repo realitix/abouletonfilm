@@ -1,1 +1,0 @@
-{"tmdb_id": 564461, "title": "Self Storage", "original_title": "Self Storage", "slug_title": "self-storage", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeff Garlin (Duncan Baumgartner)", "Scott Foley (Zack Griffy)"], "comments": [], "recommandations_id": []}

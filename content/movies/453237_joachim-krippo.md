@@ -1,1 +1,0 @@
-{"tmdb_id": 453237, "title": "Joachim Krippo", "original_title": "Joachim Krippo", "slug_title": "joachim-krippo", "date": "1993-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

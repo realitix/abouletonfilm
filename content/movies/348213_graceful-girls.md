@@ -1,1 +1,0 @@
-{"tmdb_id": 348213, "title": "Graceful Girls", "original_title": "Graceful Girls", "slug_title": "graceful-girls", "date": "2015-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yoYJk4f6YpSdwCgWg2KYnafcXW8.jpg", "actors": [], "comments": [], "recommandations_id": []}

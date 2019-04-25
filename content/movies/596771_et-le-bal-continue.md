@@ -1,1 +1,0 @@
-{"tmdb_id": 596771, "title": "Et le bal continue", "original_title": "Et le bal continue", "slug_title": "et-le-bal-continue", "date": "2015-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iC83coAEuOgbg4naZKsLTF8l7f2.jpg", "actors": [], "comments": [], "recommandations_id": []}

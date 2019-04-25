@@ -1,1 +1,0 @@
-{"tmdb_id": 266720, "title": "Spaceman", "original_title": "Spaceman", "slug_title": "spaceman", "date": "2013-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

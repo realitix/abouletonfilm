@@ -1,1 +1,0 @@
-{"tmdb_id": 261321, "title": "Dumulmeori", "original_title": "\ub450\ubb3c\uba38\ub9ac", "slug_title": "dumulmeori", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5IrCmWgmEiSselWKll3qlnZYoJM.jpg", "actors": [], "comments": [], "recommandations_id": []}

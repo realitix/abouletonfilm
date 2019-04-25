@@ -1,1 +1,0 @@
-{"tmdb_id": 595462, "title": "Farewell", "original_title": "\uc774\ubcc4", "slug_title": "farewell", "date": "1973-09-11", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m60pkCjvVjemp6n4IWwSog68ud9.jpg", "actors": ["Shin Seong-il ()", "Kim Ji-mee ()", "Oh Su-mi ()"], "comments": [], "recommandations_id": []}

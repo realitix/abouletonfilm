@@ -1,1 +1,0 @@
-{"tmdb_id": 393122, "title": "Cineforms", "original_title": "Kineformy", "slug_title": "cineforms", "date": "1957-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dWkC0ZGBR8oiqSKFjIsac0LuXOd.jpg", "actors": [], "comments": [], "recommandations_id": []}

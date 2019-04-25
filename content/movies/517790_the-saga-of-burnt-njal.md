@@ -1,1 +1,0 @@
-{"tmdb_id": 517790, "title": "The Saga of Burnt Nj\u00e1l", "original_title": "Brennu-nj\u00e1lssaga", "slug_title": "the-saga-of-burnt-njal", "date": "1981-08-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

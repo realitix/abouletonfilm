@@ -1,1 +1,0 @@
-{"tmdb_id": 502911, "title": "Italia-Albania: materiali a confronto", "original_title": "Italia-Albania: materiali a confronto", "slug_title": "italia-albania-materiali-a-confronto", "date": "2003-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

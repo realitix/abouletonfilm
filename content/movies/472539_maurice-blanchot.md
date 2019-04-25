@@ -1,1 +1,0 @@
-{"tmdb_id": 472539, "title": "Maurice Blanchot", "original_title": "Maurice Blanchot", "slug_title": "maurice-blanchot", "date": "1998-09-30", "genre": "Documentaire / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xEY4ZSYlINitzuQOsLmEJG8YE8B.jpg", "actors": [], "comments": [], "recommandations_id": []}

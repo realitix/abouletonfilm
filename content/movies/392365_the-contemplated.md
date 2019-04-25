@@ -1,1 +1,0 @@
-{"tmdb_id": 392365, "title": "The Contemplated", "original_title": "El contemplado", "slug_title": "the-contemplated", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Grafp36U7IFTNWlMaVlyEhyFJi.jpg", "actors": [], "comments": [], "recommandations_id": []}

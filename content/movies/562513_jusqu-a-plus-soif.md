@@ -1,1 +1,0 @@
-{"tmdb_id": 562513, "title": "Jusqu'\u00e0 plus soif", "original_title": "Jusqu'\u00e0 plus soif", "slug_title": "jusqu-a-plus-soif", "date": "1962-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5iAKKIrm1Nl2L5xRoWDmGitEFev.jpg", "actors": [], "comments": [], "recommandations_id": []}

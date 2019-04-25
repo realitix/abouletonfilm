@@ -1,1 +1,0 @@
-{"tmdb_id": 592494, "title": "Despu\u00e9s de Sarmiento", "original_title": "Despu\u00e9s de Sarmiento", "slug_title": "despues-de-sarmiento", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ywptKZZnolVo24Mynm2JxIwYM56.jpg", "actors": [], "comments": [], "recommandations_id": []}

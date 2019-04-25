@@ -1,1 +1,0 @@
-{"tmdb_id": 371175, "title": "The Office Girls", "original_title": "The Office Girls", "slug_title": "the-office-girls", "date": "2005-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

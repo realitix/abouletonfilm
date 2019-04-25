@@ -1,1 +1,0 @@
-{"tmdb_id": 368026, "title": "Berlin - Zwischen Stacheldraht und Mauer", "original_title": "Berlin - Zwischen Stacheldraht und Mauer", "slug_title": "berlin-zwischen-stacheldraht-und-mauer", "date": "1962-12-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

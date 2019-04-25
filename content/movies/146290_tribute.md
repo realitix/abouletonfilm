@@ -1,1 +1,0 @@
-{"tmdb_id": 146290, "title": "Tribute", "original_title": "Tribute", "slug_title": "tribute", "date": "2001-11-03", "genre": "Musique / Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6fiZO6z8OfofCMsuZ0zA5YwQVEk.jpg", "actors": [], "comments": [], "recommandations_id": []}

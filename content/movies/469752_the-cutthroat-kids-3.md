@@ -1,1 +1,0 @@
-{"tmdb_id": 469752, "title": "The Cutthroat Kids 3", "original_title": "The Cutthroat Kids 3", "slug_title": "the-cutthroat-kids-3", "date": "2014-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

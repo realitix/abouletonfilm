@@ -1,1 +1,0 @@
-{"tmdb_id": 566302, "title": "Antec\u00e2mara", "original_title": "Antec\u00e2mara", "slug_title": "antecamara", "date": "2018-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

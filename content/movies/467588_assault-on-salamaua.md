@@ -1,1 +1,0 @@
-{"tmdb_id": 467588, "title": "Assault on Salamaua", "original_title": "Assault on Salamaua", "slug_title": "assault-on-salamaua", "date": "1943-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/llTLuGhjCKSYDcDzml99wR6LrSR.jpg", "actors": [], "comments": [], "recommandations_id": []}

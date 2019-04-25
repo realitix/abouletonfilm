@@ -1,1 +1,0 @@
-{"tmdb_id": 591794, "title": "Swarm Season", "original_title": "Swarm Season", "slug_title": "swarm-season", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gs7znLyqtzDGwMHObCpzIvvembN.jpg", "actors": [], "comments": [], "recommandations_id": []}

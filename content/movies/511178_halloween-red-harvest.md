@@ -1,1 +1,0 @@
-{"tmdb_id": 511178, "title": "Halloween: Red Harvest", "original_title": "Halloween: Red Harvest", "slug_title": "halloween-red-harvest", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4GISUPSvIAES9xLBmt6EMPMLKYs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 338639, "title": "The Gipsy's Warning", "original_title": "The Gipsy's Warning", "slug_title": "the-gipsy-s-warning", "date": "1907-10-04", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Florence Turner ()", "Hector Dion ()"], "comments": [], "recommandations_id": []}

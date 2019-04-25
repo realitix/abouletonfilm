@@ -1,1 +1,0 @@
-{"tmdb_id": 452304, "title": "Golgata", "original_title": "Golgata", "slug_title": "golgata", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

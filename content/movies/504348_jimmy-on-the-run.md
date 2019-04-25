@@ -1,1 +1,0 @@
-{"tmdb_id": 504348, "title": "Jimmy on the Run", "original_title": "Jimmy on the Run", "slug_title": "jimmy-on-the-run", "date": "2016-04-05", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jianmin Huang (Himself)"], "comments": [], "recommandations_id": []}

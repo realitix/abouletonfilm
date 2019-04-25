@@ -1,1 +1,0 @@
-{"tmdb_id": 120060, "title": "Dali In New York", "original_title": "Dali In New York", "slug_title": "dali-in-new-york", "date": "1965-02-21", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oOJGiHXljMOCcjTI2mtNVYEQYC0.jpg", "actors": [], "comments": [], "recommandations_id": []}

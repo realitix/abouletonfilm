@@ -1,1 +1,0 @@
-{"tmdb_id": 515836, "title": "Live in Jurunas", "original_title": "Live in Jurunas", "slug_title": "live-in-jurunas", "date": "2013-03-23", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXPR0NqXV2wx6ZQR6MERQ9Z9Uzx.jpg", "actors": ["Gaby Amarantos ()"], "comments": [], "recommandations_id": []}

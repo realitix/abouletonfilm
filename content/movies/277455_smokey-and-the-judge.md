@@ -1,1 +1,0 @@
-{"tmdb_id": 277455, "title": "Smokey and the Judge", "original_title": "Smokey and the Judge", "slug_title": "smokey-and-the-judge", "date": "1980-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dOOSVyzDBovwdkFmx1sReZWspkk.jpg", "actors": [], "comments": [], "recommandations_id": []}

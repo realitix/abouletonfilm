@@ -1,1 +1,0 @@
-{"tmdb_id": 532465, "title": "Interference", "original_title": "Interference", "slug_title": "interference", "date": "1991-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z28C27CMgtoEY3HohYpTkIZD3zD.jpg", "actors": [], "comments": [], "recommandations_id": []}

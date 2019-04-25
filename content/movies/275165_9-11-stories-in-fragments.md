@@ -1,1 +1,0 @@
-{"tmdb_id": 275165, "title": "9/11: Stories in Fragments", "original_title": "9/11: Stories in Fragments", "slug_title": "9-11-stories-in-fragments", "date": "2011-09-05", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

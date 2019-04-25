@@ -1,1 +1,0 @@
-{"tmdb_id": 328835, "title": "The Jambon Theatrical Players Of The AEF", "original_title": "The Jambon Theatrical Players Of The AEF", "slug_title": "the-jambon-theatrical-players-of-the-aef", "date": "1918-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

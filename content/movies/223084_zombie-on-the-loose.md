@@ -1,1 +1,0 @@
-{"tmdb_id": 223084, "title": "Zombie on the Loose", "original_title": "Zombie on the Loose", "slug_title": "zombie-on-the-loose", "date": "2010-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4y1nP0zz5IEoeb4l6qKLCznxHrI.jpg", "actors": [], "comments": [], "recommandations_id": []}

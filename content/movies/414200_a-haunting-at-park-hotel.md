@@ -1,1 +1,0 @@
-{"tmdb_id": 414200, "title": "A Haunting at Park Hotel", "original_title": "A Haunting at Park Hotel", "slug_title": "a-haunting-at-park-hotel", "date": "2016-07-28", "genre": "Thriller / Horreur", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j9jxPd7ix1uCzCkiwzJ2ivY5IdW.jpg", "actors": [], "comments": [], "recommandations_id": []}

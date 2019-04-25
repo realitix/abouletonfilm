@@ -1,1 +1,0 @@
-{"tmdb_id": 175264, "title": "Yes Dear", "original_title": "Yes Dear", "slug_title": "yes-dear", "date": "1920-12-11", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

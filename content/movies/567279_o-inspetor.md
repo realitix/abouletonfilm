@@ -1,1 +1,0 @@
-{"tmdb_id": 567279, "title": "O Inspetor", "original_title": "O Inspetor", "slug_title": "o-inspetor", "date": "1988-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

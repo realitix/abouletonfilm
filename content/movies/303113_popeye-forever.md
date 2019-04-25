@@ -1,1 +1,0 @@
-{"tmdb_id": 303113, "title": "Popeye Forever", "original_title": "Popeye Forever", "slug_title": "popeye-forever", "date": "2009-09-09", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Ht4l6Y6X6sPfVLCGWC21ulIIay.jpg", "actors": [], "comments": [], "recommandations_id": []}

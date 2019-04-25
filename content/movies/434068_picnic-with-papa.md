@@ -1,1 +1,0 @@
-{"tmdb_id": 434068, "title": "Picnic with Papa", "original_title": "Picnic with Papa", "slug_title": "picnic-with-papa", "date": "1952-09-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

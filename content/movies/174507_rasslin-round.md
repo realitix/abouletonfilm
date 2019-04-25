@@ -1,1 +1,0 @@
-{"tmdb_id": 174507, "title": "Rasslin' Round", "original_title": "Rasslin' Round", "slug_title": "rasslin-round", "date": "1934-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 584831, "title": "Fiebre de danza", "original_title": "Fiebre de danza", "slug_title": "fiebre-de-danza", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pilar Alc\u00f3n ()", "Antonio Chamorro ()", "Gustavo Masulli ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 414410, "title": "Life Line", "original_title": "\u00c9letvonal", "slug_title": "life-line", "date": "2007-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f8KvGClDgkZiWSlbyR2KYcPwqTM.jpg", "actors": [], "comments": [], "recommandations_id": []}

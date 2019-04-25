@@ -1,1 +1,0 @@
-{"tmdb_id": 510192, "title": "#GeorgeWashington", "original_title": "#GeorgeWashington", "slug_title": "georgewashington", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nE4w1cSFCBqdjWWNA01yxCkjRk0.jpg", "actors": [], "comments": [], "recommandations_id": []}

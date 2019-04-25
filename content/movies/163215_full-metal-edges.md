@@ -1,1 +1,0 @@
-{"tmdb_id": 163215, "title": "Full Metal Edges", "original_title": "Full Metal Edges", "slug_title": "full-metal-edges", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kLteYWiN4TOvbqaYXgy5fofB1re.jpg", "actors": [], "comments": [], "recommandations_id": []}

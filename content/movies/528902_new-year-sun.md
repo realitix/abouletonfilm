@@ -1,1 +1,0 @@
-{"tmdb_id": 528902, "title": "new year sun", "original_title": "new year sun", "slug_title": "new-year-sun", "date": "2010-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3CyJWYUDWAFNi0C5Ctsxd3POPkr.jpg", "actors": [], "comments": [], "recommandations_id": []}

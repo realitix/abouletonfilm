@@ -1,1 +1,0 @@
-{"tmdb_id": 468487, "title": "No Problems", "original_title": "No Problems", "slug_title": "no-problems", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

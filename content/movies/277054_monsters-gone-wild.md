@@ -1,1 +1,0 @@
-{"tmdb_id": 277054, "title": "Monsters Gone Wild", "original_title": "Monsters Gone Wild", "slug_title": "monsters-gone-wild", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xmojcaUlKaP76Ze0yKUFAwjRNfU.jpg", "actors": [], "comments": [], "recommandations_id": []}

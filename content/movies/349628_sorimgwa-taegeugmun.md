@@ -1,1 +1,0 @@
-{"tmdb_id": 349628, "title": "\uc18c\ub9bc\uacfc \ud0dc\uadf9\ubb38", "original_title": "\uc18c\ub9bc\uacfc \ud0dc\uadf9\ubb38", "slug_title": "sorimgwa-taegeugmun", "date": "1983-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

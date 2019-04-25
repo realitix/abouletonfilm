@@ -1,1 +1,0 @@
-{"tmdb_id": 421299, "title": "Ainslie Trailer", "original_title": "Ainslie Trailer", "slug_title": "ainslie-trailer", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ainslie Pryor ()"], "comments": [], "recommandations_id": []}

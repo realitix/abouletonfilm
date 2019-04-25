@@ -1,1 +1,0 @@
-{"tmdb_id": 312730, "title": "North of Superior", "original_title": "North of Superior", "slug_title": "north-of-superior", "date": "1971-05-22", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1pSIfYUcwJhv6ubNmxFlJBLuxMW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 408318, "title": "Scape-Mates", "original_title": "Scape-Mates", "slug_title": "scape-mates", "date": "1972-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tuKYqHgOXm7R4Mc9zAWMKEcopfg.jpg", "actors": [], "comments": [], "recommandations_id": []}

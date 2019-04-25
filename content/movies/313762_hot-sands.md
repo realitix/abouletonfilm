@@ -1,1 +1,0 @@
-{"tmdb_id": 313762, "title": "Hot Sands", "original_title": "Hot Sands", "slug_title": "hot-sands", "date": "1924-02-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Monty Banks ()"], "comments": [], "recommandations_id": []}

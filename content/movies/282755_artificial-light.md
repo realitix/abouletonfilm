@@ -1,1 +1,0 @@
-{"tmdb_id": 282755, "title": "Artificial Light", "original_title": "Artificial Light", "slug_title": "artificial-light", "date": "1969-01-01", "genre": "", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ddPl82efYEA712XP7TkUeCADrmi.jpg", "actors": [], "comments": [], "recommandations_id": []}

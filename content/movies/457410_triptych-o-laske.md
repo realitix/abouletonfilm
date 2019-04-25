@@ -1,1 +1,0 @@
-{"tmdb_id": 457410, "title": "Triptych o l\u00e1ske", "original_title": "Triptych o l\u00e1ske", "slug_title": "triptych-o-laske", "date": "1980-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hqDy3kS9Ygmy3mchR7tveiVq2rl.jpg", "actors": [], "comments": [], "recommandations_id": []}

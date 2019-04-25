@@ -1,1 +1,0 @@
-{"tmdb_id": 144814, "title": "Alexandra", "original_title": "Alexandra", "slug_title": "alexandra", "date": "2012-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bEe2YNmyY8hmRyBXLeaiIgNRzGh.jpg", "actors": [], "comments": [], "recommandations_id": []}

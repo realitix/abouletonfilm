@@ -1,1 +1,0 @@
-{"tmdb_id": 318448, "title": "Queen Noor: Between Two Realms", "original_title": "Queen Noor: Between Two Realms", "slug_title": "queen-noor-between-two-realms", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

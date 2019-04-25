@@ -1,1 +1,0 @@
-{"tmdb_id": 411192, "title": "Secondo Me", "original_title": "Secondo Me", "slug_title": "secondo-me", "date": "2016-08-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wkJJdOHB5IJD96mNiAM8TlfUjRZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

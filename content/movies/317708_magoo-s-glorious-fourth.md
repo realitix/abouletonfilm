@@ -1,1 +1,0 @@
-{"tmdb_id": 317708, "title": "Magoo's Glorious Fourth", "original_title": "Magoo's Glorious Fourth", "slug_title": "magoo-s-glorious-fourth", "date": "1957-07-24", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

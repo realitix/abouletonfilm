@@ -1,1 +1,0 @@
-{"tmdb_id": 464821, "title": "C\u00e3o Guia", "original_title": "C\u00e3o Guia", "slug_title": "cao-guia", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b02i4euS9hvwMmRHtgB9GLzUCQP.jpg", "actors": ["Graciela Pozzobon (L\u00facia)", "Bruce Gomlevsky (Raul)"], "comments": [], "recommandations_id": []}

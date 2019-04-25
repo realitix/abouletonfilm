@@ -1,1 +1,0 @@
-{"tmdb_id": 300015, "title": "Dark Legacy II", "original_title": "Dark Legacy II", "slug_title": "dark-legacy-ii", "date": "2014-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jVHLtofG2WNTNRycM7mYIMxKmHy.jpg", "actors": ["John Hankey (Narrator)"], "comments": [], "recommandations_id": []}

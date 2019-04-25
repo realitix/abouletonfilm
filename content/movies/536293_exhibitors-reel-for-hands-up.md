@@ -1,1 +1,0 @@
-{"tmdb_id": 536293, "title": "Exhibitors' Reel for \u201cHands Up\u201d", "original_title": "Exhibitors' Reel for \u201cHands Up\u201d", "slug_title": "exhibitors-reel-for-hands-up", "date": "1918-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

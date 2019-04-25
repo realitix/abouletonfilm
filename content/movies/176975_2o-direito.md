@@ -1,1 +1,1 @@
-{"tmdb_id": 176975, "title": "2\u00ba Direito", "original_title": "2\u00ba Direito", "slug_title": "2o-direito", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 176975, "title": "2\u00ba Direito", "original_title": "2\u00ba Direito", "slug_title": "2o-direito", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

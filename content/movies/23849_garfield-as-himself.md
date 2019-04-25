@@ -1,1 +1,0 @@
-{"tmdb_id": 23849, "title": "Garfield as Himself", "original_title": "Garfield as Himself", "slug_title": "garfield-as-himself", "date": "2004-06-29", "genre": "Animation / Com\u00e9die / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r8lsz4KtcgtKWdq9o40QH5YZAP9.jpg", "actors": [], "comments": [], "recommandations_id": []}

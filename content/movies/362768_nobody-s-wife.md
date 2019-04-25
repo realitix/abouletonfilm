@@ -1,1 +1,0 @@
-{"tmdb_id": 362768, "title": "Nobody's Wife", "original_title": "La Mujer De Nadie", "slug_title": "nobody-s-wife", "date": "1937-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/87oL1rodTwz3onsMTgrxRkc1B24.jpg", "actors": [], "comments": [], "recommandations_id": []}

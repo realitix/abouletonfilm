@@ -1,1 +1,0 @@
-{"tmdb_id": 132161, "title": "(nostalgia)", "original_title": "(nostalgia)", "slug_title": "nostalgia", "date": "1971-01-01", "genre": "", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/NbIDDIrEcfa0r4REeaCjDEn5J2.jpg", "actors": ["Michael Snow (Narrator)"], "comments": [], "recommandations_id": [145619, 93507, 145915, 146986]}

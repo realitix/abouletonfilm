@@ -1,1 +1,0 @@
-{"tmdb_id": 251224, "title": "One Deadly Road", "original_title": "One Deadly Road", "slug_title": "one-deadly-road", "date": "1998-07-31", "genre": "Action / Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

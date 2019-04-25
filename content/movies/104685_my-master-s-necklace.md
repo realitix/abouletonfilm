@@ -1,1 +1,0 @@
-{"tmdb_id": 104685, "title": "My Master's Necklace", "original_title": "My Master's Necklace", "slug_title": "my-master-s-necklace", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vIelANWf77Cybjf7ExavKGEYWQs.jpg", "actors": [], "comments": [], "recommandations_id": []}

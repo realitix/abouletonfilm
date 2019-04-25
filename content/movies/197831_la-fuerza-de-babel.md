@@ -1,1 +1,0 @@
-{"tmdb_id": 197831, "title": "La fuerza de Babel", "original_title": "La fuerza de Babel", "slug_title": "la-fuerza-de-babel", "date": "2013-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d24YV4Yrt86yo9mTOLVmbOhL6GC.jpg", "actors": [], "comments": [], "recommandations_id": []}

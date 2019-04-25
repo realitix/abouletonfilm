@@ -1,1 +1,0 @@
-{"tmdb_id": 217523, "title": "Two Cabins", "original_title": "Two Cabins", "slug_title": "two-cabins", "date": "2010-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vpPUjj6VJph4FBp6uAPYrJ8DN0m.jpg", "actors": [], "comments": [], "recommandations_id": []}

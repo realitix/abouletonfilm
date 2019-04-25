@@ -1,1 +1,0 @@
-{"tmdb_id": 551647, "title": "Lush Reeds", "original_title": "\u4e4b\u5b50\u4e8e\u5f52", "slug_title": "lush-reeds", "date": "2018-10-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zrMw7Oeeeee8rfV3hNSU0pWxB2w.jpg", "actors": ["Huang Lu (Xiayin)"], "comments": [], "recommandations_id": []}

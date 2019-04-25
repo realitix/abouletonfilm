@@ -1,1 +1,0 @@
-{"tmdb_id": 297379, "title": "Marty's World", "original_title": "Le monde de Marty", "slug_title": "marty-s-world", "date": "2000-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rK5iwzAkAgirY5FgMG3WOLVamoQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

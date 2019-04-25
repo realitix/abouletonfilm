@@ -1,1 +1,0 @@
-{"tmdb_id": 554804, "title": "O Escritor", "original_title": "O Escritor", "slug_title": "o-escritor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thiago Lulio (Escritor)"], "comments": [], "recommandations_id": []}

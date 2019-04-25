@@ -1,1 +1,0 @@
-{"tmdb_id": 358513, "title": "Bangland", "original_title": "Bangland", "slug_title": "bangland", "date": "2015-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8QOIe6RX2zqIWzyoU6BSmmur4Mj.jpg", "actors": [], "comments": [], "recommandations_id": []}

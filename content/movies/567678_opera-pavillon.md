@@ -1,1 +1,0 @@
-{"tmdb_id": 567678, "title": "Ope\u0301ra/Pavillon", "original_title": "Ope\u0301ra/Pavillon", "slug_title": "opera-pavillon", "date": "2015-04-07", "genre": "", "score": "0.0/10", "synopsis": "Ope\u0301ra/Pavillon", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nlUF1MRYMlEvY8bAixhhMyGqiG9.jpg", "actors": [], "comments": [], "recommandations_id": []}

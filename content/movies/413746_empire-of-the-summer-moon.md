@@ -1,1 +1,0 @@
-{"tmdb_id": 413746, "title": "Empire of the Summer Moon", "original_title": "Empire of the Summer Moon", "slug_title": "empire-of-the-summer-moon", "date": "", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

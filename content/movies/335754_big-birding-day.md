@@ -1,1 +1,0 @@
-{"tmdb_id": 335754, "title": "Big Birding Day", "original_title": "Big Birding Day", "slug_title": "big-birding-day", "date": "2010-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

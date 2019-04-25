@@ -1,1 +1,0 @@
-{"tmdb_id": 512304, "title": "All Hallowe'en", "original_title": "All Hallowe'en", "slug_title": "all-hallowe-en", "date": "1953-08-01", "genre": "Fantastique / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

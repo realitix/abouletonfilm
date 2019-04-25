@@ -1,1 +1,0 @@
-{"tmdb_id": 414649, "title": "A Man Called Bee", "original_title": "A Man Called Bee", "slug_title": "a-man-called-bee", "date": "1974-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

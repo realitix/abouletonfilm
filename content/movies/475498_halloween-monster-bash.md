@@ -1,1 +1,0 @@
-{"tmdb_id": 475498, "title": "Halloween Monster Bash", "original_title": "Halloween Monster Bash", "slug_title": "halloween-monster-bash", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lrCjmj7hL2g3Il84KG5nyPhkQqm.jpg", "actors": [], "comments": [], "recommandations_id": []}

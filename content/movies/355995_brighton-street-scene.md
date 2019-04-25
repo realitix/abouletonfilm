@@ -1,1 +1,0 @@
-{"tmdb_id": 355995, "title": "Brighton Street Scene", "original_title": "Brighton Street Scene", "slug_title": "brighton-street-scene", "date": "1888-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

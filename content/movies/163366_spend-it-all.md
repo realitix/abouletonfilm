@@ -1,1 +1,0 @@
-{"tmdb_id": 163366, "title": "Spend It All", "original_title": "Spend It All", "slug_title": "spend-it-all", "date": "1971-01-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qYwS8sdZk31oaC0hHxsoqAfTqGm.jpg", "actors": [], "comments": [], "recommandations_id": [145011, 154902]}

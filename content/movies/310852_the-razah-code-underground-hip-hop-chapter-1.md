@@ -1,1 +1,0 @@
-{"tmdb_id": 310852, "title": "The Razah Code Underground Hip-Hop Chapter 1", "original_title": "The Razah Code Underground Hip-Hop Chapter 1", "slug_title": "the-razah-code-underground-hip-hop-chapter-1", "date": "2006-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

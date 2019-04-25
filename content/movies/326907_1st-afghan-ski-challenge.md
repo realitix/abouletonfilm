@@ -1,1 +1,0 @@
-{"tmdb_id": 326907, "title": "1st Afghan Ski Challenge", "original_title": "1st Afghan Ski Challenge", "slug_title": "1st-afghan-ski-challenge", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

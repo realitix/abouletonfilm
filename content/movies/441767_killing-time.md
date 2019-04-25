@@ -1,1 +1,0 @@
-{"tmdb_id": 441767, "title": "Killing Time", "original_title": "Killing Time", "slug_title": "killing-time", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kkunte3fGM5iWm5np0nOnZPnTqZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

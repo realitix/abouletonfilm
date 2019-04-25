@@ -1,1 +1,0 @@
-{"tmdb_id": 434920, "title": "The Blind Swordsman", "original_title": "The Blind Swordsman", "slug_title": "the-blind-swordsman", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shintar\u014d Katsu (Interviewee)"], "comments": [], "recommandations_id": []}

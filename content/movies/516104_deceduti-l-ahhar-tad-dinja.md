@@ -1,1 +1,0 @@
-{"tmdb_id": 516104, "title": "Deceduti - L ahhar tad dinja", "original_title": "Deceduti - L ahhar tad dinja", "slug_title": "deceduti-l-ahhar-tad-dinja", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

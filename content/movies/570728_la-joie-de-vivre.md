@@ -1,1 +1,0 @@
-{"tmdb_id": 570728, "title": "La joie de vivre", "original_title": "La joie de vivre", "slug_title": "la-joie-de-vivre", "date": "1993-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8pPolooX22cMEDx3ZsB1SJ6TOHb.jpg", "actors": [], "comments": [], "recommandations_id": []}

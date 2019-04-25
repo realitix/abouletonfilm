@@ -1,1 +1,0 @@
-{"tmdb_id": 303021, "title": "The Savior", "original_title": "The Savior", "slug_title": "the-savior", "date": "2014-03-29", "genre": "Familial / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6sNpSoxEtRlmYI5QoC7ZTSRVTZe.jpg", "actors": [], "comments": [], "recommandations_id": []}

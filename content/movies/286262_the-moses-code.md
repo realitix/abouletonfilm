@@ -1,1 +1,0 @@
-{"tmdb_id": 286262, "title": "The Moses Code", "original_title": "The Moses Code", "slug_title": "the-moses-code", "date": "2008-04-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b4NzoQOG2rfqWaQPamLeQAJ4PYU.jpg", "actors": [], "comments": [], "recommandations_id": []}

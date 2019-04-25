@@ -1,1 +1,0 @@
-{"tmdb_id": 592194, "title": "Spectre", "original_title": "\u5e7d\u7075", "slug_title": "spectre", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shao Huifang (Xia Zhenglan)", "Wang Mingcheng (Lu Hanzhang)", "Shaokang Yu (Zhao Yuxiong)"], "comments": [], "recommandations_id": []}

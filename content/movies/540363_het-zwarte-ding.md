@@ -1,1 +1,0 @@
-{"tmdb_id": 540363, "title": "Het Zwarte Ding", "original_title": "Het Zwarte Ding", "slug_title": "het-zwarte-ding", "date": "2018-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mT0Df8ZDqN7IaDMHXwhef24AizR.jpg", "actors": ["Ren\u00e9 van 't Hof ()"], "comments": [], "recommandations_id": []}

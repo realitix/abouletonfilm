@@ -1,1 +1,0 @@
-{"tmdb_id": 202659, "title": "Blood and Soul", "original_title": "Ch\u00ee to re\u00ee", "slug_title": "blood-and-soul", "date": "1923-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harumi Ichikawa ()"], "comments": [], "recommandations_id": []}

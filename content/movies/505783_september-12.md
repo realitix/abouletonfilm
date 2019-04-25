@@ -1,1 +1,0 @@
-{"tmdb_id": 505783, "title": "September 12", "original_title": "September 12", "slug_title": "september-12", "date": "2010-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

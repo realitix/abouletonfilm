@@ -1,1 +1,0 @@
-{"tmdb_id": 30917, "title": "He is Risen", "original_title": "He is Risen", "slug_title": "he-is-risen", "date": "1988-01-01", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rYE7M1EAeZekMhiCOUBo82iUzoq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 191303, "title": "Korkusuz Kaptan Swing", "original_title": "Korkusuz Kaptan Swing", "slug_title": "korkusuz-kaptan-swing", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Dx9jiYi2YvblSt85HQngr5ovEE.jpg", "actors": [], "comments": [], "recommandations_id": []}

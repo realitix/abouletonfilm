@@ -1,1 +1,0 @@
-{"tmdb_id": 507460, "title": "Shrimp Chicken Fish", "original_title": "Shrimp Chicken Fish", "slug_title": "shrimp-chicken-fish", "date": "2010-05-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b7ALX9BSHgy4ERFY0qgRgMFZe8e.jpg", "actors": [], "comments": [], "recommandations_id": []}

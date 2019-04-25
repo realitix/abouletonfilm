@@ -1,1 +1,0 @@
-{"tmdb_id": 107218, "title": "After the Harvest", "original_title": "After the Harvest", "slug_title": "after-the-harvest", "date": "2001-05-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1rW92ZrKbAvj290mOPovA1gVWPo.jpg", "actors": ["Sam Shepard (Caleb Gare)"], "comments": [], "recommandations_id": []}

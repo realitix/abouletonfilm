@@ -1,1 +1,0 @@
-{"tmdb_id": 480124, "title": "I funerali di Don Rua a Torino", "original_title": "I funerali di Don Rua a Torino", "slug_title": "i-funerali-di-don-rua-a-torino", "date": "1910-10-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

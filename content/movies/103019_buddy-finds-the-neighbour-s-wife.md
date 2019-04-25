@@ -1,1 +1,0 @@
-{"tmdb_id": 103019, "title": "Buddy Finds The Neighbour's Wife", "original_title": "Buddy Finds The Neighbour's Wife", "slug_title": "buddy-finds-the-neighbour-s-wife", "date": "2001-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 407326, "title": "I Dream of Zombies", "original_title": "I Dream of Zombies", "slug_title": "i-dream-of-zombies", "date": "2016-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mMrl1EV3SBFwTe1hlrpytGwrhb2.jpg", "actors": [], "comments": [], "recommandations_id": []}

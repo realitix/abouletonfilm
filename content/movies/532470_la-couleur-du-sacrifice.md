@@ -1,1 +1,0 @@
-{"tmdb_id": 532470, "title": "La couleur du sacrifice", "original_title": "La couleur du sacrifice", "slug_title": "la-couleur-du-sacrifice", "date": "2006-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

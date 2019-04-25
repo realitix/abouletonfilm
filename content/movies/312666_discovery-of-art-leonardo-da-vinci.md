@@ -1,1 +1,0 @@
-{"tmdb_id": 312666, "title": "Discovery of Art: Leonardo Da Vinci", "original_title": "Discovery of Art: Leonardo Da Vinci", "slug_title": "discovery-of-art-leonardo-da-vinci", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

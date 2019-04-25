@@ -1,1 +1,0 @@
-{"tmdb_id": 587408, "title": "Miseric\u00f3rdia", "original_title": "Miseric\u00f3rdia", "slug_title": "misericordia", "date": "2019-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 460932, "title": "Wealth of a Nation", "original_title": "Wealth of a Nation", "slug_title": "wealth-of-a-nation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

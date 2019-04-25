@@ -1,1 +1,0 @@
-{"tmdb_id": 576334, "title": "The Brink", "original_title": "The Brink", "slug_title": "the-brink", "date": "2019-03-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3AtTHqWRpxtauz2rtUSPj19nUke.jpg", "actors": [], "comments": [], "recommandations_id": []}

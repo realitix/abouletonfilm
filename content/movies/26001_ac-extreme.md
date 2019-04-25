@@ -1,1 +1,0 @@
-{"tmdb_id": 26001, "title": "AC: Extreme", "original_title": "AC: Extreme", "slug_title": "ac-extreme", "date": "2004-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pWMf1VeYGaMPFSIkubkcWUlp4LG.jpg", "actors": ["Mark Shinn (Mark Shinn)", "Aaron Hadlow (Aaron Hadlow)"], "comments": [], "recommandations_id": []}

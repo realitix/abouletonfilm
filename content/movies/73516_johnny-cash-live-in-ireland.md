@@ -1,1 +1,0 @@
-{"tmdb_id": 73516, "title": "Johnny Cash - Live In Ireland", "original_title": "Johnny Cash - Live In Ireland", "slug_title": "johnny-cash-live-in-ireland", "date": "2006-12-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wDa1UMkQtGR4JI60TG4yYNb8rBY.jpg", "actors": [], "comments": [], "recommandations_id": []}

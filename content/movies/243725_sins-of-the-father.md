@@ -1,1 +1,0 @@
-{"tmdb_id": 243725, "title": "Sins of the Father", "original_title": "Sins of the Father", "slug_title": "sins-of-the-father", "date": "2002-01-05", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vmyo3gLY4NeRazW0NX16ktOh9RS.jpg", "actors": [], "comments": [], "recommandations_id": []}

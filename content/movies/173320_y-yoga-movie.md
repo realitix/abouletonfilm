@@ -1,1 +1,0 @@
-{"tmdb_id": 173320, "title": "Y Yoga Movie", "original_title": "Y Yoga Movie", "slug_title": "y-yoga-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ELXPMOlva55tbfXjtbEHVZC7fF.jpg", "actors": [], "comments": [], "recommandations_id": []}

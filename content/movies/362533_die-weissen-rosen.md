@@ -1,1 +1,0 @@
-{"tmdb_id": 362533, "title": "Die wei\u00dfen Rosen", "original_title": "Die wei\u00dfen Rosen", "slug_title": "die-weissen-rosen", "date": "1916-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p7U6gn5HbFBvtU1TwSszXMuWiRy.jpg", "actors": [], "comments": [], "recommandations_id": []}

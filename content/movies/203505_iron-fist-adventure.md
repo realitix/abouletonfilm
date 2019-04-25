@@ -1,1 +1,0 @@
-{"tmdb_id": 203505, "title": "Iron Fist Adventure", "original_title": "Iron Fist Adventure", "slug_title": "iron-fist-adventure", "date": "1972-07-28", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3BRfRwEU3iKK3OH7j9PKmqTUwbO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 234334, "title": "Just Plane Beep", "original_title": "Just Plane Beep", "slug_title": "just-plane-beep", "date": "1965-10-30", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rxigIW1nQOpOQKkhHmUSsqs641Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

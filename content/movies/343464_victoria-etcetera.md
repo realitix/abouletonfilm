@@ -1,1 +1,0 @@
-{"tmdb_id": 343464, "title": "Victoria Etcetera", "original_title": "Victoria Etcetera", "slug_title": "victoria-etcetera", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gwKgBZgisczmMtuXnhVjfipMOM9.jpg", "actors": [], "comments": [], "recommandations_id": []}

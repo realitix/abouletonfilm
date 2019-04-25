@@ -1,1 +1,0 @@
-{"tmdb_id": 495605, "title": "Clint Pulver: Get on Path and On Purpose", "original_title": "Clint Pulver: Get on Path and On Purpose", "slug_title": "clint-pulver-get-on-path-and-on-purpose", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

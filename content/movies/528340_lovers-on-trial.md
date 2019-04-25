@@ -1,1 +1,0 @@
-{"tmdb_id": 528340, "title": "Lovers on Trial", "original_title": "Les amants d'assises", "slug_title": "lovers-on-trial", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

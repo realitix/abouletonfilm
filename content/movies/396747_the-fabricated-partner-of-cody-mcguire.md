@@ -1,1 +1,0 @@
-{"tmdb_id": 396747, "title": "The Fabricated Partner of Cody McGuire", "original_title": "The Fabricated Partner of Cody McGuire", "slug_title": "the-fabricated-partner-of-cody-mcguire", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 293693, "title": "Women Who Win", "original_title": "Women Who Win", "slug_title": "women-who-win", "date": "1919-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Unity More ()", "Mary Dibley ()", "Mary Forbes ()"], "comments": [], "recommandations_id": []}

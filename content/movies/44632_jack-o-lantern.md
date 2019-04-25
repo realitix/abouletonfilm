@@ -1,1 +1,0 @@
-{"tmdb_id": 44632, "title": "Jack O'Lantern", "original_title": "Jack O'Lantern", "slug_title": "jack-o-lantern", "date": "2004-01-01", "genre": "Horreur", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m6WtpTgTLdmraOP0Y3eFOalrqxX.jpg", "actors": [], "comments": [], "recommandations_id": []}

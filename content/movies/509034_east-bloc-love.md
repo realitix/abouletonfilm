@@ -1,1 +1,0 @@
-{"tmdb_id": 509034, "title": "East Bloc Love", "original_title": "East Bloc Love", "slug_title": "east-bloc-love", "date": "2011-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ok27OYD5dJTzF9kf4j3k1U5LYLH.jpg", "actors": [], "comments": [], "recommandations_id": []}

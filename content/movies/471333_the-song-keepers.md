@@ -1,1 +1,0 @@
-{"tmdb_id": 471333, "title": "The Song Keepers", "original_title": "The Song Keepers", "slug_title": "the-song-keepers", "date": "2017-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g2W5YUKKOLGALyZ9f2ishuZnt31.jpg", "actors": [], "comments": [], "recommandations_id": []}

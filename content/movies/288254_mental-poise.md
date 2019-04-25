@@ -1,1 +1,0 @@
-{"tmdb_id": 288254, "title": "Mental Poise", "original_title": "Mental Poise", "slug_title": "mental-poise", "date": "1938-12-10", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Benchley (Psychoanalyst / Mr. Ostegraf)"], "comments": [], "recommandations_id": []}

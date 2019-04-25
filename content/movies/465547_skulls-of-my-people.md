@@ -1,1 +1,0 @@
-{"tmdb_id": 465547, "title": "Skulls Of My People", "original_title": "Skulls Of My People", "slug_title": "skulls-of-my-people", "date": "2017-02-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ylGAFdQMYLHu3lIsye0130gzrev.jpg", "actors": [], "comments": [], "recommandations_id": []}

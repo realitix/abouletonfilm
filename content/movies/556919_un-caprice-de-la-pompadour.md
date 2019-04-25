@@ -1,1 +1,0 @@
-{"tmdb_id": 556919, "title": "Un caprice de la Pompadour", "original_title": "Un caprice de la Pompadour", "slug_title": "un-caprice-de-la-pompadour", "date": "1931-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

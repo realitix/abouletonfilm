@@ -1,1 +1,0 @@
-{"tmdb_id": 298720, "title": "O Acre Existe", "original_title": "O Acre Existe", "slug_title": "o-acre-existe", "date": "2014-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fTzYk262lw9DCjK9E4dmaaouIK1.jpg", "actors": ["C\u00edcero Franca ()"], "comments": [], "recommandations_id": []}

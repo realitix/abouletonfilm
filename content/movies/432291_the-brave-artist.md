@@ -1,1 +1,0 @@
-{"tmdb_id": 432291, "title": "The Brave Artist", "original_title": "The Brave Artist", "slug_title": "the-brave-artist", "date": "2016-12-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

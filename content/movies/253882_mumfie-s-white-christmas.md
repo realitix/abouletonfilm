@@ -1,1 +1,0 @@
-{"tmdb_id": 253882, "title": "Mumfie's White Christmas", "original_title": "Mumfie's White Christmas", "slug_title": "mumfie-s-white-christmas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

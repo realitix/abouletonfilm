@@ -1,1 +1,0 @@
-{"tmdb_id": 212468, "title": "The Bicycle", "original_title": "Gulong", "slug_title": "the-bicycle", "date": "2007-07-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sA11akWxhhUgCxPvsdwrlUi7Tmy.jpg", "actors": [], "comments": [], "recommandations_id": []}

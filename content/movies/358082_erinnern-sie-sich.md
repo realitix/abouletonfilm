@@ -1,1 +1,0 @@
-{"tmdb_id": 358082, "title": "Erinnern Sie sich?", "original_title": "Erinnern Sie sich?", "slug_title": "erinnern-sie-sich", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

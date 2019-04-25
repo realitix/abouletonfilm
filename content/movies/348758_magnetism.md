@@ -1,1 +1,0 @@
-{"tmdb_id": 348758, "title": "Magnetism", "original_title": "Magnetism", "slug_title": "magnetism", "date": "2015-03-11", "genre": "Romance / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/91w5FvkMVweprv66AGuxy9oCHPv.jpg", "actors": [], "comments": [], "recommandations_id": []}

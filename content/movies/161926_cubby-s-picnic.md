@@ -1,1 +1,0 @@
-{"tmdb_id": 161926, "title": "Cubby's Picnic", "original_title": "Cubby's Picnic", "slug_title": "cubby-s-picnic", "date": "1933-10-05", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

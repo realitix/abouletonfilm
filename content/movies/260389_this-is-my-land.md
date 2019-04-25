@@ -1,1 +1,0 @@
-{"tmdb_id": 260389, "title": "This Is My Land", "original_title": "This Is My Land", "slug_title": "this-is-my-land", "date": "2006-03-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cZZDiPzFc0V628Of5GMgvQVyBVM.jpg", "actors": [], "comments": [], "recommandations_id": []}

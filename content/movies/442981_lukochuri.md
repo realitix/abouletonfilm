@@ -1,1 +1,0 @@
-{"tmdb_id": 442981, "title": "Lukochuri", "original_title": "Lukochuri", "slug_title": "lukochuri", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8jFEvfwawqaq3KZKY0NV6BOCNr7.jpg", "actors": [], "comments": [], "recommandations_id": []}

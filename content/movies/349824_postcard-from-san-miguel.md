@@ -1,1 +1,0 @@
-{"tmdb_id": 349824, "title": "Postcard from San Miguel", "original_title": "Postcard from San Miguel", "slug_title": "postcard-from-san-miguel", "date": "1996-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nrCzW9GZbT8Qz7ZHfxFHnJydKEq.jpg", "actors": [], "comments": [], "recommandations_id": []}

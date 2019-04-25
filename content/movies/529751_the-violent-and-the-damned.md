@@ -1,1 +1,0 @@
-{"tmdb_id": 529751, "title": "The Violent and the Damned", "original_title": "The Violent and the Damned", "slug_title": "the-violent-and-the-damned", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

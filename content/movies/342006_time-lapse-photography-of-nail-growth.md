@@ -1,1 +1,0 @@
-{"tmdb_id": 342006, "title": "Time-Lapse Photography of Nail Growth", "original_title": "Time-Lapse Photography of Nail Growth", "slug_title": "time-lapse-photography-of-nail-growth", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

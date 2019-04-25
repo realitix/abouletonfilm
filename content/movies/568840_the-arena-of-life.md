@@ -1,1 +1,0 @@
-{"tmdb_id": 568840, "title": "The Arena of Life", "original_title": "Arena \u017cycia", "slug_title": "the-arena-of-life", "date": "1979-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/soo4A3oXAW8p9HiYyiOaJifdHjc.jpg", "actors": [], "comments": [], "recommandations_id": []}

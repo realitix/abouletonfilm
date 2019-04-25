@@ -1,1 +1,0 @@
-{"tmdb_id": 276795, "title": "Patrice O'Neal: Unreleased", "original_title": "Patrice O'Neal: Unreleased", "slug_title": "patrice-o-neal-unreleased", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tp8fYHWV9DozoG8go8Kc70LseBy.jpg", "actors": [], "comments": [], "recommandations_id": []}

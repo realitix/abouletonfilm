@@ -1,1 +1,0 @@
-{"tmdb_id": 572225, "title": "The Mandrake", "original_title": "Mehre giah", "slug_title": "the-mandrake", "date": "1975-01-01", "genre": "Drame / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ali Nassirian ()", "Pouri Baneai ()", "Ezzatollah Ramazanifar ()", "Dariush Iran Nezhad ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 447092, "title": "The Bald Boy", "original_title": "Kelo\u011flan", "slug_title": "the-bald-boy", "date": "1971-12-03", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w0zdio0mUh9ZE24sAEwHmkVAiCv.jpg", "actors": [], "comments": [], "recommandations_id": []}

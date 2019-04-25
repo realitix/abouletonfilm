@@ -1,1 +1,0 @@
-{"tmdb_id": 272356, "title": "Tyler Perry's The Marriage Counselor - The Play", "original_title": "Tyler Perry's The Marriage Counselor - The Play", "slug_title": "tyler-perry-s-the-marriage-counselor-the-play", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

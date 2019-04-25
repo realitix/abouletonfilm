@@ -1,1 +1,0 @@
-{"tmdb_id": 274014, "title": "French Lesson", "original_title": "French Lesson", "slug_title": "french-lesson", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 352669, "title": "You, Your Brain, & You", "original_title": "You, Your Brain, & You", "slug_title": "you-your-brain-you", "date": "2015-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 335968, "title": "Kingdom of the Saguenay", "original_title": "Kingdom of the Saguenay", "slug_title": "kingdom-of-the-saguenay", "date": "1964-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

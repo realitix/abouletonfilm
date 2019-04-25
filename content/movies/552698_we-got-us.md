@@ -1,1 +1,0 @@
-{"tmdb_id": 552698, "title": "We Got Us", "original_title": "We Got Us", "slug_title": "we-got-us", "date": "", "genre": "Documentaire / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

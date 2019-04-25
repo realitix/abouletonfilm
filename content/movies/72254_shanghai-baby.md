@@ -1,1 +1,0 @@
-{"tmdb_id": 72254, "title": "Shanghai Baby", "original_title": "Shanghai Baby", "slug_title": "shanghai-baby", "date": "2007-05-18", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ukEy9sl9fJVjEmPgxYn2PzmDAk8.jpg", "actors": ["Bai Ling (Coco)"], "comments": [], "recommandations_id": []}

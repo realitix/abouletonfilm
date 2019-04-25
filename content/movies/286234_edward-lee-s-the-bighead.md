@@ -1,1 +1,0 @@
-{"tmdb_id": 286234, "title": "Edward Lee's the Bighead", "original_title": "Edward Lee's the Bighead", "slug_title": "edward-lee-s-the-bighead", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fA0Zq7ryNDn3ABww1ozHRNgVHqt.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 520178, "title": "The Translator", "original_title": "The Translator", "slug_title": "the-translator", "date": "2015-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tyler McKenzie (Ben)"], "comments": [], "recommandations_id": []}

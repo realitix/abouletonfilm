@@ -1,1 +1,0 @@
-{"tmdb_id": 210573, "title": "Parallel Lines: Jun and the Hidden Skies", "original_title": "Parallel Lines: Jun and the Hidden Skies", "slug_title": "parallel-lines-jun-and-the-hidden-skies", "date": "2010-04-08", "genre": "Aventure / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

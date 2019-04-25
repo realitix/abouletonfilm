@@ -1,1 +1,0 @@
-{"tmdb_id": 582649, "title": "Brontosaurus", "original_title": "Brontosaurus", "slug_title": "brontosaurus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a4VTaomb6LtTUHL8ehL6ZofGhVf.jpg", "actors": [], "comments": [], "recommandations_id": []}

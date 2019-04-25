@@ -1,1 +1,0 @@
-{"tmdb_id": 406291, "title": "Un acoperis deasupra capului", "original_title": "Un acoperis deasupra capului", "slug_title": "un-acoperis-deasupra-capului", "date": "2006-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mtK2rv7BlNlq9rkUcEpg1pUX0QV.jpg", "actors": [], "comments": [], "recommandations_id": []}

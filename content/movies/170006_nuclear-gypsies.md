@@ -1,1 +1,0 @@
-{"tmdb_id": 170006, "title": "Nuclear Gypsies", "original_title": "Ikiteru uchiga hana nanoyo shin-dara sore madeyo to sengen", "slug_title": "nuclear-gypsies", "date": "1985-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wkEgZPkfWU2mABiqkRzcGUNREf5.jpg", "actors": [], "comments": [], "recommandations_id": []}

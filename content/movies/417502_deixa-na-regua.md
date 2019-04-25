@@ -1,1 +1,0 @@
-{"tmdb_id": 417502, "title": "Deixa Na R\u00e9gua", "original_title": "Deixa Na R\u00e9gua", "slug_title": "deixa-na-regua", "date": "2016-10-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uO5Xmt6yFFohTGnJdAm4xLGTG2H.jpg", "actors": [], "comments": [], "recommandations_id": []}

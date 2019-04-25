@@ -1,1 +1,0 @@
-{"tmdb_id": 182041, "title": "The Murder City Devils: The End", "original_title": "The Murder City Devils: The End", "slug_title": "the-murder-city-devils-the-end", "date": "2005-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tjLcpPqTKaEmTBZwpHu7Zjf6O15.jpg", "actors": [], "comments": [], "recommandations_id": []}

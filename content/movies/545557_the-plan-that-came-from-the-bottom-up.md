@@ -1,1 +1,0 @@
-{"tmdb_id": 545557, "title": "The Plan That Came from the Bottom Up", "original_title": "The Plan That Came from the Bottom Up", "slug_title": "the-plan-that-came-from-the-bottom-up", "date": "2018-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

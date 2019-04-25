@@ -1,1 +1,0 @@
-{"tmdb_id": 276605, "title": "Masheenee Alcketiara", "original_title": "Masheenee Alcketiara", "slug_title": "masheenee-alcketiara", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

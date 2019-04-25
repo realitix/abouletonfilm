@@ -1,1 +1,0 @@
-{"tmdb_id": 235282, "title": "Arrowhead", "original_title": "Arrowhead", "slug_title": "arrowhead", "date": "2013-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uvSZmUmc9yIniPBpyjuFRTR75NW.jpg", "actors": [], "comments": [], "recommandations_id": []}

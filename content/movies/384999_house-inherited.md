@@ -1,1 +1,0 @@
-{"tmdb_id": 384999, "title": "House Inherited", "original_title": "House Inherited", "slug_title": "house-inherited", "date": "2015-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wRoWTugvqgOFqKCFpGwhDrNnxBF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 538497, "title": "Mon oncle et mon cur\u00e9", "original_title": "Mon oncle et mon cur\u00e9", "slug_title": "mon-oncle-et-mon-cure", "date": "1939-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gryrRTzvSaOsPtdTHmbpLLERabo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 563015, "title": "Film Hi Film", "original_title": "Film Hi Film", "slug_title": "film-hi-film", "date": "1983-05-13", "genre": "Com\u00e9die / Drame / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pran ()", "Ramesh Deo ()", "Seema Deo ()"], "comments": [], "recommandations_id": []}

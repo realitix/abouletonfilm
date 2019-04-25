@@ -1,1 +1,0 @@
-{"tmdb_id": 558638, "title": "We Would Like to Thank You", "original_title": "We Would Like to Thank You", "slug_title": "we-would-like-to-thank-you", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5aRwW9ftiuqKsFX66lo75q6GKdo.jpg", "actors": [], "comments": [], "recommandations_id": []}

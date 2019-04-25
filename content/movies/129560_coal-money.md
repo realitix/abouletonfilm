@@ -1,1 +1,0 @@
-{"tmdb_id": 129560, "title": "Coal Money", "original_title": "Tong dao", "slug_title": "coal-money", "date": "2009-01-01", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mijxRi5w1fqxro8VoPVM8wRT6HW.jpg", "actors": [], "comments": [], "recommandations_id": [49099, 149094, 125075, 48268]}

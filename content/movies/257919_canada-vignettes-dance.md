@@ -1,1 +1,0 @@
-{"tmdb_id": 257919, "title": "Canada Vignettes: Dance", "original_title": "Canada Vignettes: Dance", "slug_title": "canada-vignettes-dance", "date": "1979-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iePCC4xuIbtIiqeZd4YMMnenAQe.jpg", "actors": [], "comments": [], "recommandations_id": []}

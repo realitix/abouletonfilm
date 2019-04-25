@@ -1,1 +1,0 @@
-{"tmdb_id": 212444, "title": "Madama Butterfly", "original_title": "Madama Butterfly", "slug_title": "madama-butterfly", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cQFOW80m5odH7LFQcevZValp6nB.jpg", "actors": [], "comments": [], "recommandations_id": []}

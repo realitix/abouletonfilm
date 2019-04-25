@@ -1,1 +1,0 @@
-{"tmdb_id": 408926, "title": "A Truthful Liar", "original_title": "A Truthful Liar", "slug_title": "a-truthful-liar", "date": "1924-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Will Rogers (Ambassador Alfalfa Doolittle)", "Jack Ackroyd (Flunky)"], "comments": [], "recommandations_id": []}

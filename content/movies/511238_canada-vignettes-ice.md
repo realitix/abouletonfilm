@@ -1,1 +1,0 @@
-{"tmdb_id": 511238, "title": "Canada Vignettes: Ice", "original_title": "Canada Vignettes: Ice", "slug_title": "canada-vignettes-ice", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

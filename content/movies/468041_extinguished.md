@@ -1,1 +1,0 @@
-{"tmdb_id": 468041, "title": "Extinguished", "original_title": "Extinguished", "slug_title": "extinguished", "date": "2017-04-19", "genre": "Animation / Romance", "score": "7.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a7Ae9bnewY4gl7RQMgfzwnQqRRT.jpg", "actors": [], "comments": [], "recommandations_id": [415735, 369761, 444526, 82942]}

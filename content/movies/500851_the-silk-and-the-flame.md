@@ -1,1 +1,0 @@
-{"tmdb_id": 500851, "title": "The Silk and the Flame", "original_title": "The Silk and the Flame", "slug_title": "the-silk-and-the-flame", "date": "2018-02-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yUTOE3vOXLVHKHxY1YR0V2GgXtz.jpg", "actors": [], "comments": [], "recommandations_id": []}

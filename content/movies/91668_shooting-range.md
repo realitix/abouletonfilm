@@ -1,1 +1,0 @@
-{"tmdb_id": 91668, "title": "Shooting Range", "original_title": "\u0422\u0438\u0440", "slug_title": "shooting-range", "date": "1979-01-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6olzySXQBes65p6XqMn8z73Myti.jpg", "actors": [], "comments": [], "recommandations_id": []}

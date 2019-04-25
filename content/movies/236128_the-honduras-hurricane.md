@@ -1,1 +1,0 @@
-{"tmdb_id": 236128, "title": "The Honduras Hurricane", "original_title": "The Honduras Hurricane", "slug_title": "the-honduras-hurricane", "date": "1938-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sbFjiPp2o9l67tf0bkEbTgD3Yrp.jpg", "actors": [], "comments": [], "recommandations_id": []}

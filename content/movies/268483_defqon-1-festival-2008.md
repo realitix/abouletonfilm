@@ -1,1 +1,0 @@
-{"tmdb_id": 268483, "title": "DefQon 1 Festival 2008", "original_title": "DefQon 1 Festival 2008", "slug_title": "defqon-1-festival-2008", "date": "2008-08-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7XkZ90uavCAJhZsawyp2yQOU8S1.jpg", "actors": [], "comments": [], "recommandations_id": []}

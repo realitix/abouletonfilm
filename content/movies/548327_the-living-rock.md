@@ -1,1 +1,0 @@
-{"tmdb_id": 548327, "title": "The Living Rock", "original_title": "The Living Rock", "slug_title": "the-living-rock", "date": "1989-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

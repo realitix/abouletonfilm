@@ -1,1 +1,0 @@
-{"tmdb_id": 531107, "title": "Las Zorras", "original_title": "Las Zorras", "slug_title": "las-zorras", "date": "", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/HNi8yAWdj7ERG35mIjXkXmGkLO.jpg", "actors": [], "comments": [], "recommandations_id": []}

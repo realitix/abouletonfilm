@@ -1,1 +1,0 @@
-{"tmdb_id": 535829, "title": "Buffalo Lifts", "original_title": "Buffalo Lifts", "slug_title": "buffalo-lifts", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/auTNc96wS3ZK5zSQKdl1OSQDrJI.jpg", "actors": [], "comments": [], "recommandations_id": []}

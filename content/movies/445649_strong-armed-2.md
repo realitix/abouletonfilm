@@ -1,1 +1,0 @@
-{"tmdb_id": 445649, "title": "Strong-Armed 2", "original_title": "Strong-Armed 2", "slug_title": "strong-armed-2", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jason Miller (Himself)", "Bryan Wyatt ()", "Drew Peters ()", "Jacob Scott ()"], "comments": [], "recommandations_id": []}

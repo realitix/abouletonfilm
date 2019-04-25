@@ -1,1 +1,0 @@
-{"tmdb_id": 128030, "title": "Nova Voz - Enquanto eu Viver", "original_title": "Nova Voz - Enquanto eu Viver", "slug_title": "nova-voz-enquanto-eu-viver", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iBXRRUeY3cJXlIQkjTue0cmr9nL.jpg", "actors": [], "comments": [], "recommandations_id": []}

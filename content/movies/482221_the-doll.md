@@ -1,1 +1,0 @@
-{"tmdb_id": 482221, "title": "The Doll", "original_title": "The Doll", "slug_title": "the-doll", "date": "2015-01-01", "genre": "Horreur", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1aJmrwv2UlJv9GKLqvuiFUmU1bQ.jpg", "actors": ["M.Sarantsetseg ()", "U.Munguntulga ()", "N.Munkhsoyol ()"], "comments": [], "recommandations_id": []}

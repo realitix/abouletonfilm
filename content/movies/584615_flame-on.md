@@ -1,1 +1,0 @@
-{"tmdb_id": 584615, "title": "Flame On", "original_title": "Flame On", "slug_title": "flame-on", "date": "2011-02-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fgBI17RvpjFyYeoAg083Bs6aGPq.jpg", "actors": [], "comments": [], "recommandations_id": []}

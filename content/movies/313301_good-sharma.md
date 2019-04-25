@@ -1,1 +1,0 @@
-{"tmdb_id": 313301, "title": "Good Sharma", "original_title": "Good Sharma", "slug_title": "good-sharma", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 107056, "title": "The Dancing Hawk", "original_title": "Tanczacy jastrzab", "slug_title": "the-dancing-hawk", "date": "1978-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1pQDUMf5BIQwDQ65G5jZcPqlfId.jpg", "actors": [], "comments": [], "recommandations_id": []}

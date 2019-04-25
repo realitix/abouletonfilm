@@ -1,1 +1,0 @@
-{"tmdb_id": 471658, "title": "Kipper - Water Play", "original_title": "Kipper - Water Play", "slug_title": "kipper-water-play", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l2FWGf1iiEyjlaX2gcQqGOyLsu3.jpg", "actors": [], "comments": [], "recommandations_id": []}

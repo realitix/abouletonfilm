@@ -1,1 +1,0 @@
-{"tmdb_id": 317410, "title": "Barnyard Waac", "original_title": "Barnyard Waac", "slug_title": "barnyard-waac", "date": "1942-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

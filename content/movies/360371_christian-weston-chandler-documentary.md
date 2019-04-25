@@ -1,1 +1,0 @@
-{"tmdb_id": 360371, "title": "Christian Weston Chandler Documentary", "original_title": "Christian Weston Chandler Documentary", "slug_title": "christian-weston-chandler-documentary", "date": "", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 502821, "title": "Io so chi sono", "original_title": "Io so chi sono", "slug_title": "io-so-chi-sono", "date": "2004-05-03", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 502821, "title": "Io so chi sono", "original_title": "Io so chi sono", "slug_title": "io-so-chi-sono", "date": "2004-05-03", "genre": [""], "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,1 @@
-{"tmdb_id": 300729, "title": "Badi Maa", "original_title": "Badi Maa", "slug_title": "badi-maa", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 300729, "title": "Badi Maa", "original_title": "Badi Maa", "slug_title": "badi-maa", "date": "1995-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Notable 1945 Indian production", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 477328, "title": "Last Words", "original_title": "Last Words", "slug_title": "last-words", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mark Janse (Himself)"], "comments": [], "recommandations_id": []}

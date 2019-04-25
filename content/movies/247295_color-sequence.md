@@ -1,1 +1,0 @@
-{"tmdb_id": 247295, "title": "Color Sequence", "original_title": "Color Sequence", "slug_title": "color-sequence", "date": "1943-01-01", "genre": "Animation", "score": "3.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xv7EqgaUph7k8qQ1IwUre5Dho0L.jpg", "actors": [], "comments": [], "recommandations_id": [385624, 385625, 385623, 146987]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 232622, "title": "Hyde Park School Room 2, Missouri Commission", "original_title": "Hyde Park School Room 2, Missouri Commission", "slug_title": "hyde-park-school-room-2-missouri-commission", "date": "1904-05-03", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

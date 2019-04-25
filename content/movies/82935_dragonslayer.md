@@ -1,1 +1,0 @@
-{"tmdb_id": 82935, "title": "Dragonslayer", "original_title": "Dragonslayer", "slug_title": "dragonslayer", "date": "2011-11-04", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/niwJbncGCTuA0TWYDBXab9i0oEM.jpg", "actors": ["Josh 'Skreech' Sandoval (Himself)"], "comments": [], "recommandations_id": []}

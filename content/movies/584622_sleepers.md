@@ -1,1 +1,0 @@
-{"tmdb_id": 584622, "title": "Sleepers", "original_title": "Sleepers", "slug_title": "sleepers", "date": "1974-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uT5DxoZlBECKfTkMdhGqS1utnMv.jpg", "actors": [], "comments": [], "recommandations_id": []}

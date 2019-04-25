@@ -1,1 +1,0 @@
-{"tmdb_id": 353882, "title": "Conversations in Vermont", "original_title": "Conversations in Vermont", "slug_title": "conversations-in-vermont", "date": "1971-08-10", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/up4mu5kWY6xQjCoZxba0yky75RF.jpg", "actors": [], "comments": [], "recommandations_id": []}

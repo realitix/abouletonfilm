@@ -1,1 +1,0 @@
-{"tmdb_id": 453221, "title": "The Slocum Disaster", "original_title": "The Slocum Disaster", "slug_title": "the-slocum-disaster", "date": "1904-06-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

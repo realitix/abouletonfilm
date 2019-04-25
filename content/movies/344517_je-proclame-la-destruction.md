@@ -1,1 +1,0 @@
-{"tmdb_id": 344517, "title": "Je Proclame la Destruction", "original_title": "Je Proclame la Destruction", "slug_title": "je-proclame-la-destruction", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2IjwwaNwsu5Pz9RubzgMCO5pw0h.jpg", "actors": [], "comments": [], "recommandations_id": []}

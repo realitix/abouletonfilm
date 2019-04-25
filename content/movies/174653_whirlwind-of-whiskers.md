@@ -1,1 +1,0 @@
-{"tmdb_id": 174653, "title": "Whirlwind of Whiskers", "original_title": "Whirlwind of Whiskers", "slug_title": "whirlwind-of-whiskers", "date": "1917-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bud Duncan (Bud)", "Lloyd Hamilton (Ham)"], "comments": [], "recommandations_id": []}

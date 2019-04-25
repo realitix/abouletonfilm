@@ -1,1 +1,0 @@
-{"tmdb_id": 349750, "title": "\ud654\ub791\ub300", "original_title": "\ud654\ub791\ub300", "slug_title": "hwarangdae", "date": "1990-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

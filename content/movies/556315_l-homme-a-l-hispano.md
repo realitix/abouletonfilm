@@ -1,1 +1,0 @@
-{"tmdb_id": 556315, "title": "L'homme \u00e0 l'Hispano", "original_title": "L'homme \u00e0 l'Hispano", "slug_title": "l-homme-a-l-hispano", "date": "1926-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

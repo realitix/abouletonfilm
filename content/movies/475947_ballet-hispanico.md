@@ -1,1 +1,0 @@
-{"tmdb_id": 475947, "title": "Ballet Hispanico", "original_title": "Ballet Hispanico", "slug_title": "ballet-hispanico", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

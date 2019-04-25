@@ -1,1 +1,0 @@
-{"tmdb_id": 353566, "title": "The Losers", "original_title": "\u5ee2\u7269", "slug_title": "the-losers", "date": "2014-03-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kbQDVjxaym5vhcfBXp6NSSw9EbX.jpg", "actors": ["HSU Hua-chien ()", "HSU Hua-chien ()"], "comments": [], "recommandations_id": []}

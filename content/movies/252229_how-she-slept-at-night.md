@@ -1,1 +1,0 @@
-{"tmdb_id": 252229, "title": "How She Slept at Night", "original_title": "How She Slept at Night", "slug_title": "how-she-slept-at-night", "date": "2007-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

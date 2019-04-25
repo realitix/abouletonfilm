@@ -1,1 +1,0 @@
-{"tmdb_id": 428559, "title": "The Making of Madden NFL", "original_title": "The Making of Madden NFL", "slug_title": "the-making-of-madden-nfl", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oBE3a5LswI0dS02YYLIp4so9ZHI.jpg", "actors": [], "comments": [], "recommandations_id": []}

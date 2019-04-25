@@ -1,1 +1,0 @@
-{"tmdb_id": 274807, "title": "The Governance of Love", "original_title": "O rzadach milosci", "slug_title": "the-governance-of-love", "date": "2013-10-15", "genre": "Animation / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c1XPphmuuGfhZ6lXyinsJ6aMFhX.jpg", "actors": [], "comments": [], "recommandations_id": []}

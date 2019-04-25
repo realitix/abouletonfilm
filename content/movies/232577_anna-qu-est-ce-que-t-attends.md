@@ -1,1 +1,0 @@
-{"tmdb_id": 232577, "title": "Anna, qu'est-ce que t'attends?", "original_title": "Anna, qu'est-ce que t'attends?", "slug_title": "anna-qu-est-ce-que-t-attends", "date": "1906-11-03", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fragson (Himself)"], "comments": [], "recommandations_id": []}

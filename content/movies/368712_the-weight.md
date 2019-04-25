@@ -1,1 +1,0 @@
-{"tmdb_id": 368712, "title": "The Weight", "original_title": "The Weight", "slug_title": "the-weight", "date": "2012-09-21", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tNNQBFhf9XD2lHGMF7jyLY03i0K.jpg", "actors": [], "comments": [], "recommandations_id": []}

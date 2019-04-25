@@ -1,1 +1,0 @@
-{"tmdb_id": 367679, "title": "The House that Mary Bought", "original_title": "The House that Mary Bought", "slug_title": "the-house-that-mary-bought", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

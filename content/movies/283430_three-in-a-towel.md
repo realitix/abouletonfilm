@@ -1,1 +1,0 @@
-{"tmdb_id": 283430, "title": "Three in a Towel", "original_title": "Three in a Towel", "slug_title": "three-in-a-towel", "date": "1969-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ApmALHoNuU4S2lQWbl0tTBxKh6y.jpg", "actors": [], "comments": [], "recommandations_id": []}

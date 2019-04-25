@@ -1,1 +1,0 @@
-{"tmdb_id": 591030, "title": "Homo Herbivorus", "original_title": "Homo Herbivorus", "slug_title": "homo-herbivorus", "date": "2019-01-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rXHFObQ0R0qRTKfNNAWBWXt4FBZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

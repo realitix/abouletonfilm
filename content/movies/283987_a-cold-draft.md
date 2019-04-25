@@ -1,1 +1,0 @@
-{"tmdb_id": 283987, "title": "A Cold Draft", "original_title": "A Cold Draft", "slug_title": "a-cold-draft", "date": "1988-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ngugaIOulqflvGkJttLKUfVBvkK.jpg", "actors": [], "comments": [], "recommandations_id": []}

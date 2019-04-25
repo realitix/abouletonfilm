@@ -1,1 +1,0 @@
-{"tmdb_id": 471743, "title": "Daffydilly Daddy", "original_title": "Daffydilly Daddy", "slug_title": "daffydilly-daddy", "date": "1945-05-25", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

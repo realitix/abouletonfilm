@@ -1,1 +1,0 @@
-{"tmdb_id": 592945, "title": "The Bucket", "original_title": "Yi Ge Tong", "slug_title": "the-bucket", "date": "2019-01-25", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k8QoEEic6RgTTTPWBUFzAspXoBU.jpg", "actors": ["Xuan Li (Son)", "Zhen Jiang (Mother)"], "comments": [], "recommandations_id": []}

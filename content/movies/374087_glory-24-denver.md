@@ -1,1 +1,0 @@
-{"tmdb_id": 374087, "title": "Glory 24: Denver", "original_title": "Glory 24: Denver", "slug_title": "glory-24-denver", "date": "2015-10-09", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Schilling ()", "Wayne Barrett ()", "Dustin Jacoby ()"], "comments": [], "recommandations_id": []}

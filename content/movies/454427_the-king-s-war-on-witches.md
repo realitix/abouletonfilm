@@ -1,1 +1,0 @@
-{"tmdb_id": 454427, "title": "The King's War on Witches", "original_title": "The King's War on Witches", "slug_title": "the-king-s-war-on-witches", "date": "2012-04-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Russell Boulter (Narrator)"], "comments": [], "recommandations_id": []}

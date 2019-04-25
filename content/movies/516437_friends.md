@@ -1,1 +1,1 @@
-{"tmdb_id": 516437, "title": "Friends", "original_title": "Friends", "slug_title": "friends", "date": "1972-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 516437, "title": "Friends", "original_title": "Friends", "slug_title": "friends", "date": "1972-01-05", "genre": [""], "score": "0.0/10", "synopsis": "Educational filmstrip about friendship", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

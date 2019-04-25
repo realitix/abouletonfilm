@@ -1,1 +1,0 @@
-{"tmdb_id": 387677, "title": "The Taxi Driver", "original_title": "The Taxi Driver", "slug_title": "the-taxi-driver", "date": "1954-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zkX6U0kheskZ9JItRkibebyr43s.jpg", "actors": [], "comments": [], "recommandations_id": []}

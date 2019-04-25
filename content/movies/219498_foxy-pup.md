@@ -1,1 +1,0 @@
-{"tmdb_id": 219498, "title": "Foxy Pup", "original_title": "Foxy Pup", "slug_title": "foxy-pup", "date": "1937-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

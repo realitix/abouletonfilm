@@ -1,1 +1,0 @@
-{"tmdb_id": 236211, "title": "Hamateur Night", "original_title": "Hamateur Night", "slug_title": "hamateur-night", "date": "1939-01-27", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8iEMD1dWqWJRtE92sQslmTMUz3h.jpg", "actors": [], "comments": [], "recommandations_id": []}

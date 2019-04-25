@@ -1,1 +1,0 @@
-{"tmdb_id": 245006, "title": "Autism Is a World", "original_title": "Autism Is a World", "slug_title": "autism-is-a-world", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b5FHSgBxgZuyzHJkFtifjucz0FB.jpg", "actors": ["Julianna Margulies (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 544381, "title": "Um Fio de Esperan\u00e7a", "original_title": "Um Fio de Esperan\u00e7a", "slug_title": "um-fio-de-esperanca", "date": "2017-06-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/byxfPRiEnRQQNywUFc4bXBQM3A6.jpg", "actors": [], "comments": [], "recommandations_id": []}

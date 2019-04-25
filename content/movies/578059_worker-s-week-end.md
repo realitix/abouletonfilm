@@ -1,1 +1,0 @@
-{"tmdb_id": 578059, "title": "Worker's Week-End", "original_title": "Worker's Week-End", "slug_title": "worker-s-week-end", "date": "1943-01-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["H.E. Fowle ()"], "comments": [], "recommandations_id": []}

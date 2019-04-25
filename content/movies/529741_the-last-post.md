@@ -1,1 +1,0 @@
-{"tmdb_id": 529741, "title": "The Last Post", "original_title": "The Last Post", "slug_title": "the-last-post", "date": "2017-01-01", "genre": "Animation / Aventure / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pbWl2Qi3so0qEVGU7jWq6WFxUk0.jpg", "actors": [], "comments": [], "recommandations_id": []}

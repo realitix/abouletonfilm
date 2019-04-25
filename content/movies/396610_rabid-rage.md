@@ -1,1 +1,0 @@
-{"tmdb_id": 396610, "title": "Rabid Rage", "original_title": "Rabid Rage", "slug_title": "rabid-rage", "date": "2008-11-09", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rtCA43udCtXVPiQWKiXmTH1mmRB.jpg", "actors": [], "comments": [], "recommandations_id": []}

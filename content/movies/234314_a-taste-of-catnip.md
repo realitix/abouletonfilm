@@ -1,1 +1,0 @@
-{"tmdb_id": 234314, "title": "A Taste of Catnip", "original_title": "A Taste of Catnip", "slug_title": "a-taste-of-catnip", "date": "1966-12-03", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pkz7tC5PT9MZq4OFr7uJetNQKV7.jpg", "actors": [], "comments": [], "recommandations_id": []}

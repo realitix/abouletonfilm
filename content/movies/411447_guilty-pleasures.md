@@ -1,1 +1,0 @@
-{"tmdb_id": 411447, "title": "Guilty Pleasures", "original_title": "Guilty Pleasures", "slug_title": "guilty-pleasures", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

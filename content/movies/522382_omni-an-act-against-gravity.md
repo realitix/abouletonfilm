@@ -1,1 +1,0 @@
-{"tmdb_id": 522382, "title": "Omni: An Act against Gravity", "original_title": "Omni: An Act against Gravity", "slug_title": "omni-an-act-against-gravity", "date": "2018-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

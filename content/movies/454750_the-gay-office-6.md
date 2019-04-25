@@ -1,1 +1,0 @@
-{"tmdb_id": 454750, "title": "The Gay Office 6", "original_title": "The Gay Office 6", "slug_title": "the-gay-office-6", "date": "2013-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Spencer Fox ()", "Dale Cooper ()", "Adam Killian ()"], "comments": [], "recommandations_id": []}

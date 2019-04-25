@@ -1,1 +1,0 @@
-{"tmdb_id": 314632, "title": "Stories from la Sierra Madre", "original_title": "Historias de la Sierra Madre", "slug_title": "stories-from-la-sierra-madre", "date": "2014-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

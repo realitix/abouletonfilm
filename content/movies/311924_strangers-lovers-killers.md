@@ -1,1 +1,0 @@
-{"tmdb_id": 311924, "title": "Strangers, Lovers, Killers", "original_title": "Strangers, Lovers, Killers", "slug_title": "strangers-lovers-killers", "date": "2010-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

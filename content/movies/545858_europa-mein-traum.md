@@ -1,1 +1,0 @@
-{"tmdb_id": 545858, "title": "Europa, mein Traum", "original_title": "Europa, mein Traum", "slug_title": "europa-mein-traum", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

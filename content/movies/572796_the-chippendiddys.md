@@ -1,1 +1,0 @@
-{"tmdb_id": 572796, "title": "The Chippendiddys", "original_title": "The Chippendiddys", "slug_title": "the-chippendiddys", "date": "1995-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hOjS73N9MysBVIlKp6rf2ZsMeWw.jpg", "actors": [], "comments": [], "recommandations_id": []}

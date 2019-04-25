@@ -1,1 +1,0 @@
-{"tmdb_id": 302025, "title": "Hearty Tomato", "original_title": "Hearty Tomato", "slug_title": "hearty-tomato", "date": "2012-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

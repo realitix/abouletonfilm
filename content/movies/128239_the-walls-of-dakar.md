@@ -1,1 +1,0 @@
-{"tmdb_id": 128239, "title": "The Walls of Dakar", "original_title": "Aaru mb\u00e9dd", "slug_title": "the-walls-of-dakar", "date": "2012-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

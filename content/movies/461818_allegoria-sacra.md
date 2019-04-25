@@ -1,1 +1,0 @@
-{"tmdb_id": 461818, "title": "Allegoria Sacra", "original_title": "Allegoria Sacra", "slug_title": "allegoria-sacra", "date": "2011-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7nI5RiHLVUDfRs3QQ0ypckT58wO.jpg", "actors": [], "comments": [], "recommandations_id": []}

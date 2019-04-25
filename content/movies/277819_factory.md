@@ -1,1 +1,0 @@
-{"tmdb_id": 277819, "title": "Factory", "original_title": "\u0424\u0430\u0431\u0440\u0438\u043a\u0430", "slug_title": "factory", "date": "2004-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wiLVOAGa0H6EgpnQMmKyGheCnO.jpg", "actors": [], "comments": [], "recommandations_id": [220949]}

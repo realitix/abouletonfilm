@@ -1,1 +1,0 @@
-{"tmdb_id": 335742, "title": "Aaarrgh!", "original_title": "Aaarrgh!", "slug_title": "aaarrgh", "date": "2014-04-01", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eZKytAgt3hThzhUpB6IZvSM3QSi.jpg", "actors": [], "comments": [], "recommandations_id": []}

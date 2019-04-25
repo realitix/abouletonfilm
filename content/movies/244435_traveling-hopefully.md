@@ -1,1 +1,0 @@
-{"tmdb_id": 244435, "title": "Traveling Hopefully", "original_title": "Traveling Hopefully", "slug_title": "traveling-hopefully", "date": "1982-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

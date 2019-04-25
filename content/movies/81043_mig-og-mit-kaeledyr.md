@@ -1,1 +1,0 @@
-{"tmdb_id": 81043, "title": "Mig og mit K\u00e6ledyr", "original_title": "Mig og mit K\u00e6ledyr", "slug_title": "mig-og-mit-kaeledyr", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

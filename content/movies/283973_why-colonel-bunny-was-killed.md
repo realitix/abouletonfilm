@@ -1,1 +1,0 @@
-{"tmdb_id": 283973, "title": "Why Colonel Bunny Was Killed", "original_title": "Why Colonel Bunny Was Killed", "slug_title": "why-colonel-bunny-was-killed", "date": "2010-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AffaavzK9XoXTYLRx220SPOEKIK.jpg", "actors": [], "comments": [], "recommandations_id": []}

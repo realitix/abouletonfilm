@@ -1,1 +1,0 @@
-{"tmdb_id": 284064, "title": "Deaf Sam Yong", "original_title": "Beongeoli Sam-ryong", "slug_title": "deaf-sam-yong", "date": "1964-11-13", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m0os8fyZCoGS5PYI8nib5Y6pidS.jpg", "actors": [], "comments": [], "recommandations_id": []}

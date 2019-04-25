@@ -1,1 +1,0 @@
-{"tmdb_id": 466591, "title": "Filming Haneke", "original_title": "Filming Haneke", "slug_title": "filming-haneke", "date": "2000-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Haneke (Interviewee)", "Juliette Binoche (Interviewee)", "Marin Karmitz (Interviewee)"], "comments": [], "recommandations_id": []}

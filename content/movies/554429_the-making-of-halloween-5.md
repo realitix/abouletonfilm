@@ -1,1 +1,0 @@
-{"tmdb_id": 554429, "title": "The Making of Halloween 5", "original_title": "The Making of Halloween 5", "slug_title": "the-making-of-halloween-5", "date": "1989-10-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 164528, "title": "Kidd Life", "original_title": "Kidd Life", "slug_title": "kidd-life", "date": "2012-11-13", "genre": "", "score": "9.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wwfPr4vm0rcuRWzQn9EONTpnGH9.jpg", "actors": ["Nicholas Westwood Kidd (Kidd)"], "comments": [], "recommandations_id": []}

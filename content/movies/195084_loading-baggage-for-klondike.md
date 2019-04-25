@@ -1,1 +1,0 @@
-{"tmdb_id": 195084, "title": "Loading Baggage for Klondike", "original_title": "Loading Baggage for Klondike", "slug_title": "loading-baggage-for-klondike", "date": "1897-10-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

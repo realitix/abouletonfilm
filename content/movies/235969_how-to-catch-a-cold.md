@@ -1,1 +1,0 @@
-{"tmdb_id": 235969, "title": "How to Catch a Cold", "original_title": "How to Catch a Cold", "slug_title": "how-to-catch-a-cold", "date": "1951-08-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t8pQPnHQbr3uX7CYCKRQMGNwr5Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

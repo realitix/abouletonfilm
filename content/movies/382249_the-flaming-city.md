@@ -1,1 +1,0 @@
-{"tmdb_id": 382249, "title": "The Flaming City", "original_title": "The Flaming City", "slug_title": "the-flaming-city", "date": "1963-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

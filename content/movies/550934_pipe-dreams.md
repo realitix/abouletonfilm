@@ -1,1 +1,0 @@
-{"tmdb_id": 550934, "title": "Pipe Dreams", "original_title": "Pipe Dreams", "slug_title": "pipe-dreams", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xwbFc1GMUmWzA5MSWAUy7MYYfWi.jpg", "actors": [], "comments": [], "recommandations_id": []}

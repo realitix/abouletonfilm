@@ -1,1 +1,0 @@
-{"tmdb_id": 472300, "title": "Jazz a la Cuba", "original_title": "Jazz a la Cuba", "slug_title": "jazz-a-la-cuba", "date": "1933-07-07", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Don Aspiazu (Bandleader)"], "comments": [], "recommandations_id": []}

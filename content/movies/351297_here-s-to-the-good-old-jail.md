@@ -1,1 +1,0 @@
-{"tmdb_id": 351297, "title": "Here's to the Good Old Jail", "original_title": "Here's to the Good Old Jail", "slug_title": "here-s-to-the-good-old-jail", "date": "1938-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

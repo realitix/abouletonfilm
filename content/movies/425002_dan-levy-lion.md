@@ -1,1 +1,0 @@
-{"tmdb_id": 425002, "title": "Dan Levy: Lion", "original_title": "Dan Levy: Lion", "slug_title": "dan-levy-lion", "date": "2016-11-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/TT5cLq9x5fbes42NI2Ul3Ssbh9.jpg", "actors": ["Dan Levy (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 504300, "title": "Fan Girl", "original_title": "Fan Girl", "slug_title": "fan-girl", "date": "2016-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Steve Oram (Ryan Laughtner)"], "comments": [], "recommandations_id": []}

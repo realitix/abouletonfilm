@@ -1,1 +1,0 @@
-{"tmdb_id": 400581, "title": "The Abernathy Kids' Rescue", "original_title": "The Abernathy Kids' Rescue", "slug_title": "the-abernathy-kids-rescue", "date": "1911-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Abernathy ()", "Phillip Abernathy ()", "Tom Abernathy ()"], "comments": [], "recommandations_id": []}

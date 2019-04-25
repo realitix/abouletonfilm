@@ -1,1 +1,0 @@
-{"tmdb_id": 547796, "title": "Sincerity III", "original_title": "Sincerity III", "slug_title": "sincerity-iii", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

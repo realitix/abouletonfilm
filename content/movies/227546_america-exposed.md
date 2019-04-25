@@ -1,1 +1,0 @@
-{"tmdb_id": 227546, "title": "America Exposed", "original_title": "America Exposed", "slug_title": "america-exposed", "date": "1991-06-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zHrmfKtNqLbQqJwKGEwzCDJwfdH.jpg", "actors": ["Seka (Herself)"], "comments": [], "recommandations_id": []}

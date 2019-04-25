@@ -1,1 +1,0 @@
-{"tmdb_id": 440234, "title": "Toumast", "original_title": "Toumast", "slug_title": "toumast", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

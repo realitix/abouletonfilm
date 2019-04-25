@@ -1,1 +1,0 @@
-{"tmdb_id": 150908, "title": "Reveal The Path", "original_title": "Reveal The Path", "slug_title": "reveal-the-path", "date": "2012-05-31", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oJ6OCFf6ap6kvOlwwcO0GXbpU0F.jpg", "actors": [], "comments": [], "recommandations_id": []}

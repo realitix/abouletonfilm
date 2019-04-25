@@ -1,1 +1,0 @@
-{"tmdb_id": 316772, "title": "Powerful: Energy for Everyone", "original_title": "Powerful: Energy for Everyone", "slug_title": "powerful-energy-for-everyone", "date": "2010-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

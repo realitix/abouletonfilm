@@ -1,1 +1,0 @@
-{"tmdb_id": 542512, "title": "Carnival! - We Are Positively Wacky", "original_title": "Karneval! - Wir sind positiv bekloppt", "slug_title": "carnival-we-are-positively-wacky", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

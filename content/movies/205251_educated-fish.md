@@ -1,1 +1,0 @@
-{"tmdb_id": 205251, "title": "Educated Fish", "original_title": "Educated Fish", "slug_title": "educated-fish", "date": "1937-10-29", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/NZ12i0bLXAeFQXjQwL5C2zecy.jpg", "actors": [], "comments": [], "recommandations_id": []}

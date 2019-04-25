@@ -1,1 +1,0 @@
-{"tmdb_id": 459331, "title": "In the Box", "original_title": "V kocke", "slug_title": "in-the-box", "date": "2001-04-24", "genre": "Animation / Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xBrB4HZHsYjPbSO2nDVYtBLxdRD.jpg", "actors": [], "comments": [], "recommandations_id": []}

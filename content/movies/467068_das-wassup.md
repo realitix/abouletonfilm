@@ -1,1 +1,0 @@
-{"tmdb_id": 467068, "title": "Das Wassup", "original_title": "Das Wassup", "slug_title": "das-wassup", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/igju6LI7XANjAUawbaieKvXzxh6.jpg", "actors": [], "comments": [], "recommandations_id": []}

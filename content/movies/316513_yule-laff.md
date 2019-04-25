@@ -1,1 +1,0 @@
-{"tmdb_id": 316513, "title": "Yule Laff", "original_title": "Yule Laff", "slug_title": "yule-laff", "date": "1962-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

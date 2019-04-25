@@ -1,1 +1,0 @@
-{"tmdb_id": 385892, "title": "Lesbian Fixation: Vol. 2", "original_title": "Lesbian Fixation: Vol. 2", "slug_title": "lesbian-fixation-vol-2", "date": "2013-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

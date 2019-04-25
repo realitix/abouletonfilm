@@ -1,1 +1,0 @@
-{"tmdb_id": 572981, "title": "Mabata Bata", "original_title": "Mabata Bata", "slug_title": "mabata-bata", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 289241, "title": "American Colour", "original_title": "American Colour", "slug_title": "american-colour", "date": "2011-09-09", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3nO8sK1u0ZESqhs1pdQBUDZnCq1.jpg", "actors": [], "comments": [], "recommandations_id": []}

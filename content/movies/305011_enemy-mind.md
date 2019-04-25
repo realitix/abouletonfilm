@@ -1,1 +1,0 @@
-{"tmdb_id": 305011, "title": "Enemy Mind", "original_title": "Enemy Mind", "slug_title": "enemy-mind", "date": "2010-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

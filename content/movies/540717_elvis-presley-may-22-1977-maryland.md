@@ -1,1 +1,0 @@
-{"tmdb_id": 540717, "title": "Elvis Presley May 22 1977 Maryland", "original_title": "Elvis Presley May 22 1977 Maryland", "slug_title": "elvis-presley-may-22-1977-maryland", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

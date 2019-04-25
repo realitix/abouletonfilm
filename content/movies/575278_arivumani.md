@@ -1,1 +1,0 @@
-{"tmdb_id": 575278, "title": "Arivumani", "original_title": "Arivumani", "slug_title": "arivumani", "date": "2004-08-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rmmJO4Iyropi8r7xb5QsAKHKrKG.jpg", "actors": ["Murali (Arivumani)", "Meera Vasudevan ()"], "comments": [], "recommandations_id": []}

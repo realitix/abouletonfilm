@@ -1,1 +1,0 @@
-{"tmdb_id": 285120, "title": "Un centesimo di secondo", "original_title": "Un centesimo di secondo", "slug_title": "un-centesimo-di-secondo", "date": "1981-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

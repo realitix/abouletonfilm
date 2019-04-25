@@ -1,1 +1,0 @@
-{"tmdb_id": 422608, "title": "In the heart of winter", "original_title": "Au C\u0153ur de l'hiver", "slug_title": "in-the-heart-of-winter", "date": "2012-08-26", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gsHqOXExt58pnlfmXkPjuXRQiRc.jpg", "actors": [], "comments": [], "recommandations_id": []}

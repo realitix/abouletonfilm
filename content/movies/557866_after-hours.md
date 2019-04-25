@@ -1,1 +1,0 @@
-{"tmdb_id": 557866, "title": "After Hours", "original_title": "After Hours", "slug_title": "after-hours", "date": "2013-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2h2BEdDoaIkbpn9uVLBpeUZaXD.jpg", "actors": ["Dido Angel ()"], "comments": [], "recommandations_id": []}

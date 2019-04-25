@@ -1,1 +1,0 @@
-{"tmdb_id": 311573, "title": "Inside Sportfishing: Threshers Yak Style", "original_title": "Inside Sportfishing: Threshers Yak Style", "slug_title": "inside-sportfishing-threshers-yak-style", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

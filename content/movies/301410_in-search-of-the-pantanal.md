@@ -1,1 +1,0 @@
-{"tmdb_id": 301410, "title": "In Search of the Pantanal", "original_title": "In Search of the Pantanal", "slug_title": "in-search-of-the-pantanal", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

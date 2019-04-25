@@ -1,1 +1,0 @@
-{"tmdb_id": 344374, "title": "FAMOUS COMPOSERS: Ravel", "original_title": "FAMOUS COMPOSERS: Ravel", "slug_title": "famous-composers-ravel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

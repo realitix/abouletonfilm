@@ -1,1 +1,0 @@
-{"tmdb_id": 358922, "title": "Being AP", "original_title": "Being AP", "slug_title": "being-ap", "date": "2015-09-10", "genre": "Documentaire", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mQgnWeFZAK3bWEChR9qWSxqAYWy.jpg", "actors": ["Tony McCoy (Himself)"], "comments": [], "recommandations_id": [317945, 423197, 419289, 314672]}

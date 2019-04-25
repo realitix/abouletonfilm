@@ -1,1 +1,0 @@
-{"tmdb_id": 159023, "title": "One Good Turn", "original_title": "One Good Turn", "slug_title": "one-good-turn", "date": "1930-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 131510, "title": "Eine Frau wird gejagt: Ich bin keine M\u00f6rderin", "original_title": "Eine Frau wird gejagt: Ich bin keine M\u00f6rderin", "slug_title": "eine-frau-wird-gejagt-ich-bin-keine-morderin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

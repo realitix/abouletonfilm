@@ -1,1 +1,0 @@
-{"tmdb_id": 160207, "title": "The Dealers", "original_title": "The Dealers", "slug_title": "the-dealers", "date": "2012-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/omI4uy9DjRqNy3jeFyn0rN3P9JM.jpg", "actors": [], "comments": [], "recommandations_id": []}

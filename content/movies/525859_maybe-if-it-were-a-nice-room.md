@@ -1,1 +1,0 @@
-{"tmdb_id": 525859, "title": "Maybe if it were a nice room", "original_title": "Maybe if it were a nice room", "slug_title": "maybe-if-it-were-a-nice-room", "date": "2016-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

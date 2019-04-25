@@ -1,1 +1,0 @@
-{"tmdb_id": 444748, "title": "Thine Inward-Looking Eyes", "original_title": "Thine Inward-Looking Eyes", "slug_title": "thine-inward-looking-eyes", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zopumHnV0VQhDfgF3riKJV0LHr9.jpg", "actors": [], "comments": [], "recommandations_id": []}

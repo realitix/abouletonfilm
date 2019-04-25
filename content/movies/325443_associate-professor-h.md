@@ -1,1 +1,0 @@
-{"tmdb_id": 325443, "title": "Associate Professor H.", "original_title": "Docent H.", "slug_title": "associate-professor-h", "date": "1968-08-29", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jan Machulski ()", "Andrzej Rausz (Docent hammler)"], "comments": [], "recommandations_id": []}

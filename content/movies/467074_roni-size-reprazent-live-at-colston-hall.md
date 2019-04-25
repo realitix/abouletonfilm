@@ -1,1 +1,0 @@
-{"tmdb_id": 467074, "title": "Roni Size Reprazent: Live At Colston Hall", "original_title": "Roni Size Reprazent: Live At Colston Hall", "slug_title": "roni-size-reprazent-live-at-colston-hall", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roni Size (Himself)"], "comments": [], "recommandations_id": []}

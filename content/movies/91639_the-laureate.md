@@ -1,1 +1,0 @@
-{"tmdb_id": 91639, "title": "The Laureate", "original_title": "The Laureate", "slug_title": "the-laureate", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

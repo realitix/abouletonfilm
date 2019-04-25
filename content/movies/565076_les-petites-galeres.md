@@ -1,1 +1,0 @@
-{"tmdb_id": 565076, "title": "Les petites gal\u00e8res", "original_title": "Les petites gal\u00e8res", "slug_title": "les-petites-galeres", "date": "1977-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

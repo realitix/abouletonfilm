@@ -1,1 +1,0 @@
-{"tmdb_id": 540225, "title": "Call It Free", "original_title": "Call It Free", "slug_title": "call-it-free", "date": "1955-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d8Pt0weyGAURcROJRURR5vODCFF.jpg", "actors": [], "comments": [], "recommandations_id": []}

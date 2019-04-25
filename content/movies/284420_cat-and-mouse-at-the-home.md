@@ -1,1 +1,0 @@
-{"tmdb_id": 284420, "title": "\"Cat and Mouse\" at the Home", "original_title": "\"Cat and Mouse\" at the Home", "slug_title": "cat-and-mouse-at-the-home", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

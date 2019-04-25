@@ -1,1 +1,0 @@
-{"tmdb_id": 295787, "title": "Count It Down: TV's Funniest Men", "original_title": "Count It Down: TV's Funniest Men", "slug_title": "count-it-down-tv-s-funniest-men", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

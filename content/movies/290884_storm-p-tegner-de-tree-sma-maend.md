@@ -1,1 +1,0 @@
-{"tmdb_id": 290884, "title": "Storm P. tegner de Tree Sm\u00e5 M\u00e6nd", "original_title": "Storm P. tegner de Tree Sm\u00e5 M\u00e6nd", "slug_title": "storm-p-tegner-de-tree-sma-maend", "date": "1920-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Storm Petersen ()"], "comments": [], "recommandations_id": []}

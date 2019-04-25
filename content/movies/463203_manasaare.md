@@ -1,1 +1,0 @@
-{"tmdb_id": 463203, "title": "Manasaare", "original_title": "Manasaare", "slug_title": "manasaare", "date": "2009-09-25", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mvuZao9LAn42adxuxIQHi7HwNSa.jpg", "actors": ["Diganth Manchale ()", "Aindrita Ray ()"], "comments": [], "recommandations_id": []}

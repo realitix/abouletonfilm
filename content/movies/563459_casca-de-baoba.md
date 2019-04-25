@@ -1,1 +1,0 @@
-{"tmdb_id": 563459, "title": "Casca de Baob\u00e1", "original_title": "Casca de Baob\u00e1", "slug_title": "casca-de-baoba", "date": "2017-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ks8Cfr1kCBR86KxoaU6TDJafxHe.jpg", "actors": [], "comments": [], "recommandations_id": []}

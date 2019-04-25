@@ -1,1 +1,0 @@
-{"tmdb_id": 316630, "title": "Bhagat Singh & Mangal Pandey: Animated Stories", "original_title": "Bhagat Singh & Mangal Pandey: Animated Stories", "slug_title": "bhagat-singh-mangal-pandey-animated-stories", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

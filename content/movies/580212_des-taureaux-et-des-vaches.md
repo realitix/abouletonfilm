@@ -1,1 +1,0 @@
-{"tmdb_id": 580212, "title": "Des taureaux et des vaches", "original_title": "Des taureaux et des vaches", "slug_title": "des-taureaux-et-des-vaches", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

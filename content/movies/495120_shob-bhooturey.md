@@ -1,1 +1,0 @@
-{"tmdb_id": 495120, "title": "Shob Bhooturey", "original_title": "Shob Bhooturey", "slug_title": "shob-bhooturey", "date": "", "genre": "Horreur", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/78ljVZkG4R13pcWJdefIZPWlcCr.jpg", "actors": [], "comments": [], "recommandations_id": []}

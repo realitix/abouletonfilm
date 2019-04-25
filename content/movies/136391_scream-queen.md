@@ -1,1 +1,0 @@
-{"tmdb_id": 136391, "title": "Scream Queen", "original_title": "Scream Queen", "slug_title": "scream-queen", "date": "2003-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rCv04bYHYjCgrWoHHuOLA0NsOFu.jpg", "actors": [], "comments": [], "recommandations_id": []}

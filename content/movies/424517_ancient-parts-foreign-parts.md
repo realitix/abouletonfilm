@@ -1,1 +1,0 @@
-{"tmdb_id": 424517, "title": "Ancient Parts/Foreign Parts", "original_title": "Ancient Parts/Foreign Parts", "slug_title": "ancient-parts-foreign-parts", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lmuxRYWunLipLY1bdMfIZzUwes6.jpg", "actors": [], "comments": [], "recommandations_id": []}

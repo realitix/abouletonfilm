@@ -1,1 +1,0 @@
-{"tmdb_id": 392956, "title": "We Are All Alone My Dear", "original_title": "We Are All Alone My Dear", "slug_title": "we-are-all-alone-my-dear", "date": "1977-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

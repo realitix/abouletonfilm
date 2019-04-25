@@ -1,1 +1,0 @@
-{"tmdb_id": 462390, "title": "The Trial", "original_title": "Procesul", "slug_title": "the-trial", "date": "2017-06-09", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xOZGobyhL6UftXkxPZ6Iy6Mph7Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

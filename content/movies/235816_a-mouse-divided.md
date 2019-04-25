@@ -1,1 +1,0 @@
-{"tmdb_id": 235816, "title": "A Mouse Divided", "original_title": "A Mouse Divided", "slug_title": "a-mouse-divided", "date": "1953-01-30", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6f7JIN7tbUFJogiA3Y4xvh5atHl.jpg", "actors": [], "comments": [], "recommandations_id": [40865, 204677, 199045]}

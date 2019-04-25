@@ -1,1 +1,0 @@
-{"tmdb_id": 109107, "title": "Lost Swordship", "original_title": "Piao xiang jian yu", "slug_title": "lost-swordship", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z5EbmEubDUemwZ5hj4H2ppJr3Ac.jpg", "actors": [], "comments": [], "recommandations_id": []}

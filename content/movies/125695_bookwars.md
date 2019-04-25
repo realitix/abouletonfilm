@@ -1,1 +1,0 @@
-{"tmdb_id": 125695, "title": "BookWars", "original_title": "BookWars", "slug_title": "bookwars", "date": "2000-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jWyyAS0zu40fUoisSAicsDjMXTP.jpg", "actors": [], "comments": [], "recommandations_id": []}

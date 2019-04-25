@@ -1,1 +1,0 @@
-{"tmdb_id": 512169, "title": "Resist: an LGBTQ Anthology", "original_title": "Resist: an LGBTQ Anthology", "slug_title": "resist-an-lgbtq-anthology", "date": "2017-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qCDvWfl7kswRiq5kAUQRdw6ASuD.jpg", "actors": [], "comments": [], "recommandations_id": []}

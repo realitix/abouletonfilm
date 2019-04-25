@@ -1,1 +1,0 @@
-{"tmdb_id": 277583, "title": "Sudden Destruction", "original_title": "Sudden Destruction", "slug_title": "sudden-destruction", "date": "2013-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

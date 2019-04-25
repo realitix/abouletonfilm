@@ -1,1 +1,0 @@
-{"tmdb_id": 274444, "title": "O Rel\u00f3gio do Meu Av\u00f4", "original_title": "O Rel\u00f3gio do Meu Av\u00f4", "slug_title": "o-relogio-do-meu-avo", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j5oYU1n5SbEnR4xMqfiKP8UaT5c.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 240328, "title": "Dearly Departed", "original_title": "Dearly Departed", "slug_title": "dearly-departed", "date": "2009-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6V6Rq8egM6nZROJjxjexgCg1OzE.jpg", "actors": ["S. Luis Bocardo (Ray-Bud Turpin)"], "comments": [], "recommandations_id": []}

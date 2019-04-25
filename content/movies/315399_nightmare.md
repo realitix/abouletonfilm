@@ -1,1 +1,0 @@
-{"tmdb_id": 315399, "title": "Nightmare", "original_title": "Nightmare", "slug_title": "nightmare", "date": "2007-03-14", "genre": "Myst\u00e8re", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uWUvIhmVWGzGmnWf7BxsEdrJVRE.jpg", "actors": ["H. Aziz Kayihan (Student)"], "comments": [], "recommandations_id": []}

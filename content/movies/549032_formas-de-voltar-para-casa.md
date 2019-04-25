@@ -1,1 +1,0 @@
-{"tmdb_id": 549032, "title": "Formas de Voltar para Casa", "original_title": "Formas de Voltar para Casa", "slug_title": "formas-de-voltar-para-casa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

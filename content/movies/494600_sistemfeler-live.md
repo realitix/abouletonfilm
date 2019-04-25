@@ -1,1 +1,0 @@
-{"tmdb_id": 494600, "title": "Sistemfeler Live", "original_title": "Sistemfeler Live", "slug_title": "sistemfeler-live", "date": "2017-12-15", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vjSfyd7NOXt7nnGeSW4RdvnLuDj.jpg", "actors": [], "comments": [], "recommandations_id": []}

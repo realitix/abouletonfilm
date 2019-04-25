@@ -1,1 +1,0 @@
-{"tmdb_id": 519728, "title": "Treasures of New York: Pratt Institute", "original_title": "Treasures of New York: Pratt Institute", "slug_title": "treasures-of-new-york-pratt-institute", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

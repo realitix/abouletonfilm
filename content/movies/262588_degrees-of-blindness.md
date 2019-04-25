@@ -1,1 +1,0 @@
-{"tmdb_id": 262588, "title": "Degrees of Blindness", "original_title": "Degrees of Blindness", "slug_title": "degrees-of-blindness", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leigh Bowery ()", "Tilda Swinton ()", "Michael Clark ()"], "comments": [], "recommandations_id": []}

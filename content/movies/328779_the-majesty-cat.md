@@ -1,1 +1,0 @@
-{"tmdb_id": 328779, "title": "The Majesty Cat", "original_title": "Nan xia Chan Chao", "slug_title": "the-majesty-cat", "date": "1975-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Xd2QGvBgNAQPlH8hPbNWj0tWEQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

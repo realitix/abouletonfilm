@@ -1,1 +1,0 @@
-{"tmdb_id": 259968, "title": "Sasori in U.S.A.", "original_title": "Sasori in U.S.A.", "slug_title": "sasori-in-u-s-a", "date": "1997-04-05", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5adTq1nAQGU880k2NgsWrclckDn.jpg", "actors": [], "comments": [], "recommandations_id": []}

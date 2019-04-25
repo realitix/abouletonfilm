@@ -1,1 +1,0 @@
-{"tmdb_id": 52524, "title": "No Correct Way", "original_title": "No Correct Way", "slug_title": "no-correct-way", "date": "2008-11-18", "genre": "Action / Aventure / Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/my7AfaiiTQhny01VPO18gIWIsKM.jpg", "actors": [], "comments": [], "recommandations_id": []}

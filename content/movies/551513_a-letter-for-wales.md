@@ -1,1 +1,0 @@
-{"tmdb_id": 551513, "title": "A Letter for Wales", "original_title": "A Letter for Wales", "slug_title": "a-letter-for-wales", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

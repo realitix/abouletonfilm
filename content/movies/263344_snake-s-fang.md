@@ -1,1 +1,0 @@
-{"tmdb_id": 263344, "title": "Snake's Fang", "original_title": "Dandan-e-mar", "slug_title": "snake-s-fang", "date": "1990-01-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lTU6gbFFDh1Ao2dJ88dVizdHoIL.jpg", "actors": [], "comments": [], "recommandations_id": []}

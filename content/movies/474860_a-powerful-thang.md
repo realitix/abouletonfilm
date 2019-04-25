@@ -1,1 +1,0 @@
-{"tmdb_id": 474860, "title": "A Powerful Thang", "original_title": "A Powerful Thang", "slug_title": "a-powerful-thang", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jDWXYlSKYhpeXXrgwtePeb6NFxs.jpg", "actors": [], "comments": [], "recommandations_id": []}

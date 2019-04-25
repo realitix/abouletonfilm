@@ -1,1 +1,0 @@
-{"tmdb_id": 364740, "title": "El canto de los sue\u00f1os", "original_title": "El canto de los sue\u00f1os", "slug_title": "el-canto-de-los-suenos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

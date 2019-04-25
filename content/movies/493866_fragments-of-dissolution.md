@@ -1,1 +1,0 @@
-{"tmdb_id": 493866, "title": "Fragments of Dissolution", "original_title": "Fragments of Dissolution", "slug_title": "fragments-of-dissolution", "date": "2012-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 515437, "title": "Marija's Own", "original_title": "Marija's Own", "slug_title": "marija-s-own", "date": "2011-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nina Violi\u0107 (Granddaughter 2)", "Zeljka Sukova (Granddaughter 1)", "Mila Culjak (Granddaughter 3)"], "comments": [], "recommandations_id": []}

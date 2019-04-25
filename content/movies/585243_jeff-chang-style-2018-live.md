@@ -1,1 +1,0 @@
-{"tmdb_id": 585243, "title": "Jeff Chang Style 2018 Live", "original_title": "Jeff Chang Style 2018 Live", "slug_title": "jeff-chang-style-2018-live", "date": "2018-08-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["\u5f20\u4fe1\u54f2 ()"], "comments": [], "recommandations_id": []}

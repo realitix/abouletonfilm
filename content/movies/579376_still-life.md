@@ -1,1 +1,0 @@
-{"tmdb_id": 579376, "title": "Still Life", "original_title": "Still Life", "slug_title": "still-life", "date": "2015-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5k5VclIWbesx5nhm3I7AMusckhZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

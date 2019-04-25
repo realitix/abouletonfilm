@@ -1,1 +1,0 @@
-{"tmdb_id": 374790, "title": "Arriv\u00e9e d'un train (gare de Vincennes)", "original_title": "Arriv\u00e9e d'un train (gare de Vincennes)", "slug_title": "arrivee-d-un-train-gare-de-vincennes", "date": "1896-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

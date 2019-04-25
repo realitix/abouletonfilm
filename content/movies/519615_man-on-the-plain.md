@@ -1,1 +1,0 @@
-{"tmdb_id": 519615, "title": "Man on the Plain", "original_title": "Hombre en la Llanura", "slug_title": "man-on-the-plain", "date": "2018-04-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5y8yDBPmzYAZcm5ktBFseJzVPcH.jpg", "actors": [], "comments": [], "recommandations_id": []}

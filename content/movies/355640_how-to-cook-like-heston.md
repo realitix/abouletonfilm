@@ -1,1 +1,0 @@
-{"tmdb_id": 355640, "title": "How to Cook Like Heston", "original_title": "How to Cook Like Heston", "slug_title": "how-to-cook-like-heston", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Heston Blumenthal ()"], "comments": [], "recommandations_id": []}

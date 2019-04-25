@@ -1,1 +1,0 @@
-{"tmdb_id": 462034, "title": "En rejse til m\u00e5nen", "original_title": "En rejse til m\u00e5nen", "slug_title": "en-rejse-til-manen", "date": "1973-05-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 254350, "title": "Tuatha de Danann - Acoustic Live", "original_title": "Tuatha de Danann - Acoustic Live", "slug_title": "tuatha-de-danann-acoustic-live", "date": "2009-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

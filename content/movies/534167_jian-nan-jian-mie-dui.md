@@ -1,1 +1,0 @@
-{"tmdb_id": 534167, "title": "\u8d31\u7537\u6b7c\u706d\u961f", "original_title": "\u8d31\u7537\u6b7c\u706d\u961f", "slug_title": "jian-nan-jian-mie-dui", "date": "2015-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qKzzcRPB2VIT6H4C5fWrHUVbThn.jpg", "actors": [], "comments": [], "recommandations_id": []}

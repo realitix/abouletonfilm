@@ -1,1 +1,0 @@
-{"tmdb_id": 234680, "title": "Night Life in Tokyo", "original_title": "Night Life in Tokyo", "slug_title": "night-life-in-tokyo", "date": "1961-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

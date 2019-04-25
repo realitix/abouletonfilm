@@ -1,1 +1,0 @@
-{"tmdb_id": 306178, "title": "L'Olimpiade", "original_title": "L'Olimpiade", "slug_title": "l-olimpiade", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

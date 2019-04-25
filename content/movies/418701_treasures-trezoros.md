@@ -1,1 +1,0 @@
-{"tmdb_id": 418701, "title": "Treasures (Trezoros)", "original_title": "Treasures (Trezoros)", "slug_title": "treasures-trezoros", "date": "2016-10-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cpM0BxGi8tfdCW0WqK29Sn9nloo.jpg", "actors": [], "comments": [], "recommandations_id": []}

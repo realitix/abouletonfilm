@@ -1,1 +1,0 @@
-{"tmdb_id": 255941, "title": "Florence", "original_title": "Florence", "slug_title": "florence", "date": "1975-01-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o9OynkihR99humMtY7LdbyfLEe5.jpg", "actors": [], "comments": [], "recommandations_id": []}

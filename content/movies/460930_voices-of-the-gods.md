@@ -1,1 +1,0 @@
-{"tmdb_id": 460930, "title": "Voices of the Gods", "original_title": "Voices of the Gods", "slug_title": "voices-of-the-gods", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

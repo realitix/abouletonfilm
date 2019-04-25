@@ -1,1 +1,0 @@
-{"tmdb_id": 595580, "title": "Scenes from a Dry City", "original_title": "Scenes from a Dry City", "slug_title": "scenes-from-a-dry-city", "date": "2019-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/juw4Rtkrczlboi3Ht8tynCiGJeb.jpg", "actors": [], "comments": [], "recommandations_id": []}

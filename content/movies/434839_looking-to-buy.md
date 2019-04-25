@@ -1,1 +1,0 @@
-{"tmdb_id": 434839, "title": "Looking to Buy", "original_title": "Looking to Buy", "slug_title": "looking-to-buy", "date": "2015-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mark Mitchell ()"], "comments": [], "recommandations_id": []}

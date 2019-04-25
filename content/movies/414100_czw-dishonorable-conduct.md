@@ -1,1 +1,0 @@
-{"tmdb_id": 414100, "title": "CZW Dishonorable Conduct", "original_title": "CZW Dishonorable Conduct", "slug_title": "czw-dishonorable-conduct", "date": "2007-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 122350, "title": "The Pettifogger", "original_title": "The Pettifogger", "slug_title": "the-pettifogger", "date": "2011-10-09", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/se7u8J6FQCEnLraiAQYZ9wmst9o.jpg", "actors": [], "comments": [], "recommandations_id": []}

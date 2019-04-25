@@ -1,1 +1,0 @@
-{"tmdb_id": 236345, "title": "Mommy Loves Puppy", "original_title": "Mommy Loves Puppy", "slug_title": "mommy-loves-puppy", "date": "1940-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 481945, "title": "The Life Of Rando", "original_title": "The Life Of Rando", "slug_title": "the-life-of-rando", "date": "2017-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A4Z45fENTYEBaCpqH3XWvNcaNYK.jpg", "actors": ["Laurentius Rando (Himself)"], "comments": [], "recommandations_id": []}

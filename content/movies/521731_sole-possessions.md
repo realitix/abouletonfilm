@@ -1,1 +1,0 @@
-{"tmdb_id": 521731, "title": "Sole Possessions", "original_title": "Sole Possessions", "slug_title": "sole-possessions", "date": "2005-10-29", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elise Baughman (Claire)", "Dameon Clarke (Danny)"], "comments": [], "recommandations_id": []}

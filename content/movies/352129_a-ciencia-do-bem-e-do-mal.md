@@ -1,1 +1,0 @@
-{"tmdb_id": 352129, "title": "A Ci\u00eancia do Bem e do Mal", "original_title": "A Ci\u00eancia do Bem e do Mal", "slug_title": "a-ciencia-do-bem-e-do-mal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

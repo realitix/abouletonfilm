@@ -1,1 +1,0 @@
-{"tmdb_id": 276046, "title": "Slam from the Street: Hip Hop Slams!", "original_title": "Slam from the Street: Hip Hop Slams!", "slug_title": "slam-from-the-street-hip-hop-slams", "date": "2003-07-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

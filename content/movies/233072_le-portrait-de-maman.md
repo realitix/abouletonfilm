@@ -1,1 +1,0 @@
-{"tmdb_id": 233072, "title": "Le portrait de maman", "original_title": "Le portrait de maman", "slug_title": "le-portrait-de-maman", "date": "1910-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

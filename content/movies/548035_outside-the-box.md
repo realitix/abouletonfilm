@@ -1,1 +1,0 @@
-{"tmdb_id": 548035, "title": "Outside the Box", "original_title": "Outside the Box", "slug_title": "outside-the-box", "date": "2018-11-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gamtCo6gjxrwIEQlVGU4iZiDHh4.jpg", "actors": [], "comments": [], "recommandations_id": []}

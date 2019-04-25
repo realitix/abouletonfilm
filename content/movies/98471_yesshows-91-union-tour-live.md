@@ -1,1 +1,0 @@
-{"tmdb_id": 98471, "title": "Yesshows '91: Union Tour Live", "original_title": "Yesshows '91: Union Tour Live", "slug_title": "yesshows-91-union-tour-live", "date": "1991-05-09", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e6Z8TBic4THMYa2zKkgBZpoxdlg.jpg", "actors": [], "comments": [], "recommandations_id": []}

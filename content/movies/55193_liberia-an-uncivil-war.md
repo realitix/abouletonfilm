@@ -1,1 +1,0 @@
-{"tmdb_id": 55193, "title": "Liberia: An Uncivil War", "original_title": "Liberia: An Uncivil War", "slug_title": "liberia-an-uncivil-war", "date": "", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jvBLZwkgxjFn1bCJbdZdVlZ80b3.jpg", "actors": [], "comments": [], "recommandations_id": []}

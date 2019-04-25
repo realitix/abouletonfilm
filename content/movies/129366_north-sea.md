@@ -1,1 +1,0 @@
-{"tmdb_id": 129366, "title": "North Sea", "original_title": "North Sea", "slug_title": "north-sea", "date": "1938-03-07", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wfZxoseo1qHIcaeur2WW4M24Rhb.jpg", "actors": ["Bill Blewitt (crewman on the \"John Gillman\")"], "comments": [], "recommandations_id": []}

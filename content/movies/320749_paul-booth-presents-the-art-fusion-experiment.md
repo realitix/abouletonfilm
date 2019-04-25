@@ -1,1 +1,0 @@
-{"tmdb_id": 320749, "title": "Paul Booth Presents: The Art Fusion Experiment", "original_title": "Paul Booth Presents: The Art Fusion Experiment", "slug_title": "paul-booth-presents-the-art-fusion-experiment", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 540139, "title": "Il \u00e9tait une fois", "original_title": "Il \u00e9tait une fois", "slug_title": "il-etait-une-fois", "date": "1933-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

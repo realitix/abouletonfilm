@@ -1,1 +1,0 @@
-{"tmdb_id": 518465, "title": "\u041c\u0430\u0441\u0442\u0435\u0440\u0441\u043a\u0430\u044f", "original_title": "\u041c\u0430\u0441\u0442\u0435\u0440\u0441\u043a\u0430\u044f", "slug_title": "masterskaia", "date": "2018-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

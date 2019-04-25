@@ -1,1 +1,0 @@
-{"tmdb_id": 403108, "title": "Blind Guardian: [2016] Hellfest", "original_title": "Blind Guardian: [2016] Hellfest", "slug_title": "blind-guardian-2016-hellfest", "date": "2016-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mqRtzwdiihuvZ8zDXudDImS7ETc.jpg", "actors": [], "comments": [], "recommandations_id": []}

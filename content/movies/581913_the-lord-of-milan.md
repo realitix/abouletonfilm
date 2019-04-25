@@ -1,1 +1,0 @@
-{"tmdb_id": 581913, "title": "The Lord of Milan", "original_title": "The Lord of Milan", "slug_title": "the-lord-of-milan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Wqp8GuqkFZmS53wG64qOPV1eYR.jpg", "actors": [], "comments": [], "recommandations_id": []}

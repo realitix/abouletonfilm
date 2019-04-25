@@ -1,1 +1,0 @@
-{"tmdb_id": 322962, "title": "Bouncer Breaks Up", "original_title": "Bouncer Breaks Up", "slug_title": "bouncer-breaks-up", "date": "1953-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

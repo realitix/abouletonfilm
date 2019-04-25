@@ -1,1 +1,0 @@
-{"tmdb_id": 513705, "title": "Hallo k3 Deel 2", "original_title": "Hallo k3 Deel 2", "slug_title": "hallo-k3-deel-2", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cyDtKx3ySpwmMrGiZ904Olori9D.jpg", "actors": [], "comments": [], "recommandations_id": []}

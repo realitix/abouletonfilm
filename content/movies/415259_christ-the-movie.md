@@ -1,1 +1,0 @@
-{"tmdb_id": 415259, "title": "Christ - The Movie", "original_title": "Christ - The Movie", "slug_title": "christ-the-movie", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1s8MvJoBzHrjaai802wQCmrz3F2.jpg", "actors": [], "comments": [], "recommandations_id": []}

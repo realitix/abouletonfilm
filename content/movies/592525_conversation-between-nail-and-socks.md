@@ -1,1 +1,0 @@
-{"tmdb_id": 592525, "title": "Conversation Between Nail and Socks", "original_title": "Conversation Between Nail and Socks", "slug_title": "conversation-between-nail-and-socks", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

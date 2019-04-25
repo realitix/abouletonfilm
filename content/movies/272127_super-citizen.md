@@ -1,1 +1,0 @@
-{"tmdb_id": 272127, "title": "Super Citizen", "original_title": "Chao ji shi min", "slug_title": "super-citizen", "date": "1985-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cY4BoBHR5jmxHo0MhwG9pBsckB8.jpg", "actors": [], "comments": [], "recommandations_id": []}

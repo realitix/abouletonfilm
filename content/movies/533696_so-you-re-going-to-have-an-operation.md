@@ -1,1 +1,0 @@
-{"tmdb_id": 533696, "title": "So You're Going to Have an Operation", "original_title": "So You're Going to Have an Operation", "slug_title": "so-you-re-going-to-have-an-operation", "date": "1950-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon (Joe McDoakes)"], "comments": [], "recommandations_id": []}

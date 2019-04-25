@@ -1,1 +1,0 @@
-{"tmdb_id": 403255, "title": "Het beste van de Bereboot", "original_title": "Het beste van de Bereboot", "slug_title": "het-beste-van-de-bereboot", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qi8JkAiL6gc5hCUXSVPDmt2fHBI.jpg", "actors": [], "comments": [], "recommandations_id": []}

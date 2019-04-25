@@ -1,1 +1,0 @@
-{"tmdb_id": 123487, "title": "Moderat", "original_title": "Moderat", "slug_title": "moderat", "date": "2009-04-30", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vkxSdR0CCEqEXV0M8NpRrlZSkCE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 423962, "title": "Yoga Jetzt", "original_title": "Yoga Jetzt", "slug_title": "yoga-jetzt", "date": "2007-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/syW5EVCFtcFiulzDnPZZ50ZMy01.jpg", "actors": [], "comments": [], "recommandations_id": []}

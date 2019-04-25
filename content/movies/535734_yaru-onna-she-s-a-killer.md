@@ -1,1 +1,0 @@
-{"tmdb_id": 535734, "title": "Yaru Onna: She's a Killer", "original_title": "\u6bba\u308b\u5973", "slug_title": "yaru-onna-she-s-a-killer", "date": "2018-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kang Ji-young (Aiko)", "Rina Takeda ()", "Tar\u00f4 Suruga ()", "Jake Zyrus ()"], "comments": [], "recommandations_id": []}

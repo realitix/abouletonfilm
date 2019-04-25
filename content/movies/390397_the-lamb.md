@@ -1,1 +1,0 @@
-{"tmdb_id": 390397, "title": "The Lamb", "original_title": "The Lamb", "slug_title": "the-lamb", "date": "2016-03-15", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ocIKNMRcMx7rL1swihZlNFDwTb4.jpg", "actors": [], "comments": [], "recommandations_id": []}

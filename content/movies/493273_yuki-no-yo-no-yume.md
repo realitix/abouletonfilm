@@ -1,1 +1,0 @@
-{"tmdb_id": 493273, "title": "Yuki no yo no yume", "original_title": "Yuki no yo no yume", "slug_title": "yuki-no-yo-no-yume", "date": "1947-12-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3cfwnPeWn9cNugVgI3PI7MQqxvo.jpg", "actors": [], "comments": [], "recommandations_id": []}

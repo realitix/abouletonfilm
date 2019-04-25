@@ -1,1 +1,0 @@
-{"tmdb_id": 301402, "title": "Black Ink", "original_title": "Black Ink", "slug_title": "black-ink", "date": "2014-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

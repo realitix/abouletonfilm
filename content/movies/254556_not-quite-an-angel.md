@@ -1,1 +1,0 @@
-{"tmdb_id": 254556, "title": "Not Quite an Angel", "original_title": "Not Quite an Angel", "slug_title": "not-quite-an-angel", "date": "1999-07-05", "genre": "Familial", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/adVQX1hZzlOHeft2KXKm0fIJW4b.jpg", "actors": [], "comments": [], "recommandations_id": []}

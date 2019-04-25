@@ -1,1 +1,0 @@
-{"tmdb_id": 338034, "title": "Internal", "original_title": "Interno", "slug_title": "internal", "date": "2010-03-13", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

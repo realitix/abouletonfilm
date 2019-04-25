@@ -1,1 +1,0 @@
-{"tmdb_id": 543104, "title": "The Field", "original_title": "The Field", "slug_title": "the-field", "date": "2018-10-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/akPlSzhcx9Hz23ZlBbxMeTh4vcJ.jpg", "actors": ["Mia Maelzer (Lalla)"], "comments": [], "recommandations_id": []}

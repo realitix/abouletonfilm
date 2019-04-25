@@ -1,1 +1,0 @@
-{"tmdb_id": 315007, "title": "Self-Assembly", "original_title": "Self-Assembly", "slug_title": "self-assembly", "date": "2014-11-28", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3hbemdbc8TVhGta8wuzD8DeNwnY.jpg", "actors": [], "comments": [], "recommandations_id": [60632, 63507, 56320, 37620]}

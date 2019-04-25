@@ -1,1 +1,0 @@
-{"tmdb_id": 297215, "title": "Every Three Seconds", "original_title": "Every Three Seconds", "slug_title": "every-three-seconds", "date": "2014-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

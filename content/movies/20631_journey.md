@@ -1,1 +1,0 @@
-{"tmdb_id": 20631, "title": "Journey", "original_title": "Journey", "slug_title": "journey", "date": "2003-01-01", "genre": "Drame / Documentaire / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yKcQmpZyqKtQLAkHSg94VTRQezM.jpg", "actors": ["Warren Miller (Narrator)"], "comments": [], "recommandations_id": []}

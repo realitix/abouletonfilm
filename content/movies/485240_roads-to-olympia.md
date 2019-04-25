@@ -1,1 +1,0 @@
-{"tmdb_id": 485240, "title": "Roads to Olympia", "original_title": "Roads to Olympia", "slug_title": "roads-to-olympia", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/42IhhTPilPoNnIBVmKBcTT8Afo7.jpg", "actors": [], "comments": [], "recommandations_id": []}

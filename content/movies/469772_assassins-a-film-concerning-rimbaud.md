@@ -1,1 +1,0 @@
-{"tmdb_id": 469772, "title": "Assassins: A Film Concerning Rimbaud", "original_title": "Assassins: A Film Concerning Rimbaud", "slug_title": "assassins-a-film-concerning-rimbaud", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Todd Haynes ()", "Laura Linney ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 557851, "title": "Allein machen sie dich ein", "original_title": "Allein machen sie dich ein", "slug_title": "allein-machen-sie-dich-ein", "date": "1974-06-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

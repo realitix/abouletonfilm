@@ -1,1 +1,0 @@
-{"tmdb_id": 310190, "title": "Pantera: Screaming Black Messiahs: Unauthorized", "original_title": "Pantera: Screaming Black Messiahs: Unauthorized", "slug_title": "pantera-screaming-black-messiahs-unauthorized", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

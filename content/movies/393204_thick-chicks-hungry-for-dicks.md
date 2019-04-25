@@ -1,1 +1,0 @@
-{"tmdb_id": 393204, "title": "Thick Chicks Hungry For Dicks", "original_title": "Thick Chicks Hungry For Dicks", "slug_title": "thick-chicks-hungry-for-dicks", "date": "2013-06-04", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lg3pcJc01YJBCL1463GaUmLpocj.jpg", "actors": [], "comments": [], "recommandations_id": []}

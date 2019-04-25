@@ -1,1 +1,0 @@
-{"tmdb_id": 57940, "title": "Mitt Liv Som Uggla", "original_title": "Mitt Liv Som Uggla", "slug_title": "mitt-liv-som-uggla", "date": "1997-11-10", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Magnus Uggla (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 548589, "title": "Summer Is An Adventure", "original_title": "Summer Is An Adventure", "slug_title": "summer-is-an-adventure", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

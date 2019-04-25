@@ -1,1 +1,0 @@
-{"tmdb_id": 579393, "title": "Shadow Glories", "original_title": "Shadow Glories", "slug_title": "shadow-glories", "date": "2001-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vgELalXfErPEmdsNJkvGkcG0FnI.jpg", "actors": [], "comments": [], "recommandations_id": []}

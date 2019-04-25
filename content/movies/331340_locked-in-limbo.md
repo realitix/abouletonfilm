@@ -1,1 +1,0 @@
-{"tmdb_id": 331340, "title": "Locked in Limbo", "original_title": "Locked in Limbo", "slug_title": "locked-in-limbo", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

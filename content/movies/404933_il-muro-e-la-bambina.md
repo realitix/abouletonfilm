@@ -1,1 +1,0 @@
-{"tmdb_id": 404933, "title": "Il Muro e la Bambina", "original_title": "Il Muro e la Bambina", "slug_title": "il-muro-e-la-bambina", "date": "2013-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1AdZiY5XtNnuQ3qCamAXsjkRwuO.jpg", "actors": [], "comments": [], "recommandations_id": []}

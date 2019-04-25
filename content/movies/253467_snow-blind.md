@@ -1,1 +1,0 @@
-{"tmdb_id": 253467, "title": "Snow Blind", "original_title": "Snow Blind", "slug_title": "snow-blind", "date": "2010-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dCCtc1WsM9KgOS9gKnWLrjG2XB6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 225966, "title": "Sleep, Wake, Forget", "original_title": "Sleep, Wake, Forget", "slug_title": "sleep-wake-forget", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

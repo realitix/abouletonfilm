@@ -1,1 +1,0 @@
-{"tmdb_id": 467870, "title": "The Farmer's Cinematheque", "original_title": "The Farmer's Cinematheque", "slug_title": "the-farmer-s-cinematheque", "date": "2015-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wkFnF4eGDsU7uHjLdwAEIDgBBzz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 358376, "title": "They Call It Acid", "original_title": "They Call It Acid", "slug_title": "they-call-it-acid", "date": "2015-09-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

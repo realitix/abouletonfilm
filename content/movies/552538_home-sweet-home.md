@@ -1,1 +1,0 @@
-{"tmdb_id": 552538, "title": "Home Sweet Home", "original_title": "Home Sweet Home", "slug_title": "home-sweet-home", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

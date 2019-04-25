@@ -1,1 +1,0 @@
-{"tmdb_id": 568189, "title": "Aucun regret", "original_title": "Aucun regret", "slug_title": "aucun-regret", "date": "2016-03-09", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Katia Miran ()", "Fanny Sidney ()", "Mathieu M\u00e9tral ()"], "comments": [], "recommandations_id": []}

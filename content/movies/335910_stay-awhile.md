@@ -1,1 +1,0 @@
-{"tmdb_id": 335910, "title": "Stay Awhile", "original_title": "Stay Awhile", "slug_title": "stay-awhile", "date": "2014-12-06", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

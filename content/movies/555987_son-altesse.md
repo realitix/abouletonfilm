@@ -1,1 +1,0 @@
-{"tmdb_id": 555987, "title": "Son altesse", "original_title": "Son altesse", "slug_title": "son-altesse", "date": "1922-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

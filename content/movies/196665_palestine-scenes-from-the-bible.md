@@ -1,1 +1,0 @@
-{"tmdb_id": 196665, "title": "Palestine - Scenes From the Bible", "original_title": "Palestine - Programme biblique", "slug_title": "palestine-scenes-from-the-bible", "date": "1904-05-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 47099, "title": "Killer", "original_title": "Tueur \u00e0 gages", "slug_title": "killer", "date": "1998-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ksXHnv9vji2afzKA1H8sdxHMUf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 307158, "title": "The Hunt for Lincoln's Assassin", "original_title": "The Hunt for Lincoln's Assassin", "slug_title": "the-hunt-for-lincoln-s-assassin", "date": "2007-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

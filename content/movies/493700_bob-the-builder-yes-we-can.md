@@ -1,1 +1,0 @@
-{"tmdb_id": 493700, "title": "Bob the Builder: Yes We Can!", "original_title": "Bob the Builder: Yes We Can!", "slug_title": "bob-the-builder-yes-we-can", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rvKWvJ1kWHIUHdl44jxa3C78TkO.jpg", "actors": [], "comments": [], "recommandations_id": []}

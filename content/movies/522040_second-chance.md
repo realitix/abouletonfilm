@@ -1,1 +1,0 @@
-{"tmdb_id": 522040, "title": "Second Chance", "original_title": "Second Chance", "slug_title": "second-chance", "date": "2013-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ydYP9NTmTnXE1vki6Cg1NgZSmxb.jpg", "actors": [], "comments": [], "recommandations_id": []}

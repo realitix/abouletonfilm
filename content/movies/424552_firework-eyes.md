@@ -1,1 +1,0 @@
-{"tmdb_id": 424552, "title": "Firework : Eyes", "original_title": "Firework : Eyes", "slug_title": "firework-eyes", "date": "1974-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9njQZpMs9v3wmXe9xKeyqFgFJL1.jpg", "actors": [], "comments": [], "recommandations_id": []}

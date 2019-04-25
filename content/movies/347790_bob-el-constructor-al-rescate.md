@@ -1,1 +1,0 @@
-{"tmdb_id": 347790, "title": "Bob el Constructor: Al Rescate", "original_title": "Bob el Constructor: Al Rescate", "slug_title": "bob-el-constructor-al-rescate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

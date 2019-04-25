@@ -1,1 +1,0 @@
-{"tmdb_id": 416520, "title": "\uaf2c\ub9c8 \ub300\ubd80", "original_title": "\uaf2c\ub9c8 \ub300\ubd80", "slug_title": "ggoma-daebu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

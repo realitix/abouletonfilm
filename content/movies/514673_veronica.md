@@ -1,1 +1,0 @@
-{"tmdb_id": 514673, "title": "Veronica", "original_title": "Veronica", "slug_title": "veronica", "date": "2017-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h6wBTSinv5iDYZ51lEaSLNFN0vq.jpg", "actors": ["Ryan Andrew V\u00e1squez (Veronica)", "Ethan Paisley (Bryson)"], "comments": [], "recommandations_id": []}

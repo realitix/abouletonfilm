@@ -1,1 +1,0 @@
-{"tmdb_id": 313534, "title": "New Dubai", "original_title": "Nova Dubai", "slug_title": "new-dubai", "date": "2014-10-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yqYm70i10nNrwo3VROYBCBtzpTE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 262653, "title": "Hannah's Story", "original_title": "Hannah's Story", "slug_title": "hannah-s-story", "date": "2007-09-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

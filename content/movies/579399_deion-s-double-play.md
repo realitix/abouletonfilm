@@ -1,1 +1,0 @@
-{"tmdb_id": 579399, "title": "Deion's Double Play", "original_title": "Deion's Double Play", "slug_title": "deion-s-double-play", "date": "2019-01-31", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xj2DcMsoOkEk1LeNE51LymOwQtN.jpg", "actors": ["Deion Sanders ()"], "comments": [], "recommandations_id": []}

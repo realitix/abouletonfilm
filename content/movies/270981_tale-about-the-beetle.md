@@ -1,1 +1,0 @@
-{"tmdb_id": 270981, "title": "Tale About the Beetle", "original_title": "Mese a bog\u00e1rr\u00f3l", "slug_title": "tale-about-the-beetle", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

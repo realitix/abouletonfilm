@@ -1,1 +1,0 @@
-{"tmdb_id": 531640, "title": "200 Family Cartoons Collection Vol. 1", "original_title": "200 Family Cartoons Collection Vol. 1", "slug_title": "200-family-cartoons-collection-vol-1", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

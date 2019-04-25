@@ -1,1 +1,0 @@
-{"tmdb_id": 350318, "title": "\uc774\uc8fc\uc77c\uc758 \ub9ac\ube60\ub3d9 \uc0ac\uc7a5", "original_title": "\uc774\uc8fc\uc77c\uc758 \ub9ac\ube60\ub3d9 \uc0ac\uc7a5", "slug_title": "ijuilyi-ribbadong-sajang", "date": "1980-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

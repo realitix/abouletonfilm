@@ -1,1 +1,0 @@
-{"tmdb_id": 74755, "title": "Nonpoint - Live and Kicking", "original_title": "Nonpoint - Live and Kicking", "slug_title": "nonpoint-live-and-kicking", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ouMCOvszPOECg3FKV5DxuzD8lXC.jpg", "actors": [], "comments": [], "recommandations_id": []}

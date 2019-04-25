@@ -1,1 +1,0 @@
-{"tmdb_id": 129411, "title": "Pictures at an Exhibition", "original_title": "Tableaux d'une exposition", "slug_title": "pictures-at-an-exhibition", "date": "1972-01-01", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ss2vkyZg8JniEVyaa0hXkWTWAR2.jpg", "actors": [], "comments": [], "recommandations_id": [49104]}

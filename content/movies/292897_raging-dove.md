@@ -1,1 +1,0 @@
-{"tmdb_id": 292897, "title": "Raging Dove", "original_title": "Raging Dove", "slug_title": "raging-dove", "date": "2005-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

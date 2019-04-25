@@ -1,1 +1,0 @@
-{"tmdb_id": 518560, "title": "Third Tape", "original_title": "Third Tape", "slug_title": "third-tape", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bTFt9Jq4v9YsZgAT0y6BFEQcOxs.jpg", "actors": [], "comments": [], "recommandations_id": []}

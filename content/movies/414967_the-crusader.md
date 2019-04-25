@@ -1,1 +1,0 @@
-{"tmdb_id": 414967, "title": "The Crusader", "original_title": "The Crusader", "slug_title": "the-crusader", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Neil Carter (Lee)", "Victoria Perry (Journalist)"], "comments": [], "recommandations_id": []}

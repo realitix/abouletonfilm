@@ -1,1 +1,0 @@
-{"tmdb_id": 316490, "title": "Metric Meets the Inchworm", "original_title": "Metric Meets the Inchworm", "slug_title": "metric-meets-the-inchworm", "date": "1974-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Angel ((voice))"], "comments": [], "recommandations_id": []}

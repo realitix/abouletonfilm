@@ -1,1 +1,0 @@
-{"tmdb_id": 323413, "title": "Imperfect Harmony", "original_title": "Imperfect Harmony", "slug_title": "imperfect-harmony", "date": "2014-06-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/caz4ATfcpnrvjIJskkHiiFfdN8W.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 294605, "title": "A Letter for Joe", "original_title": "A Letter for Joe", "slug_title": "a-letter-for-joe", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7OAhiu20dJtBQ6bci9h2MQOD0JE.jpg", "actors": [], "comments": [], "recommandations_id": []}

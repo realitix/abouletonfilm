@@ -1,1 +1,0 @@
-{"tmdb_id": 389179, "title": "La odisea del General Jos\u00e9", "original_title": "La odisea del General Jos\u00e9", "slug_title": "la-odisea-del-general-jose", "date": "1968-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aM12xLUI6plzUX9nlPUQTw6JYjY.jpg", "actors": [], "comments": [], "recommandations_id": []}

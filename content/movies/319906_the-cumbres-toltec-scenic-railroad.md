@@ -1,1 +1,0 @@
-{"tmdb_id": 319906, "title": "The Cumbres & Toltec Scenic Railroad", "original_title": "The Cumbres & Toltec Scenic Railroad", "slug_title": "the-cumbres-toltec-scenic-railroad", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

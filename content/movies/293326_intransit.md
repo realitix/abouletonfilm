@@ -1,1 +1,0 @@
-{"tmdb_id": 293326, "title": "Intransit", "original_title": "Intransit", "slug_title": "intransit", "date": "2014-09-07", "genre": "Documentaire", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

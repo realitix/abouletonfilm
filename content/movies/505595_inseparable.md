@@ -1,1 +1,0 @@
-{"tmdb_id": 505595, "title": "Inseparable", "original_title": "Les ins\u00e9parables", "slug_title": "inseparable", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w3kYD3PtxoX1LZF6Zoxp17ZPIA9.jpg", "actors": [], "comments": [], "recommandations_id": []}

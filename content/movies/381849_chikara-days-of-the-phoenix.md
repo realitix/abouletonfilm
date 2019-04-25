@@ -1,1 +1,0 @@
-{"tmdb_id": 381849, "title": "CHIKARA Days Of The Phoenix", "original_title": "CHIKARA Days Of The Phoenix", "slug_title": "chikara-days-of-the-phoenix", "date": "2016-01-30", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tpFIHRLvlPS83ZqsnpEotL4xaAI.jpg", "actors": [], "comments": [], "recommandations_id": []}

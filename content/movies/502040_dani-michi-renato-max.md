@@ -1,1 +1,0 @@
-{"tmdb_id": 502040, "title": "Dani, Michi, Renato & Max", "original_title": "Dani, Michi, Renato & Max", "slug_title": "dani-michi-renato-max", "date": "1988-02-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

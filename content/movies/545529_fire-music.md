@@ -1,1 +1,0 @@
-{"tmdb_id": 545529, "title": "Fire Music", "original_title": "Fire Music", "slug_title": "fire-music", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/polpaEFNQnihvh1w1fgPSeE5N6d.jpg", "actors": [], "comments": [], "recommandations_id": []}

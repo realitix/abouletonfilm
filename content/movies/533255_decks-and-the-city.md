@@ -1,1 +1,0 @@
-{"tmdb_id": 533255, "title": "Decks and The City", "original_title": "Decks and The City", "slug_title": "decks-and-the-city", "date": "2018-07-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tSLOzXsp6UslS2mgUFdrz8uEna9.jpg", "actors": [], "comments": [], "recommandations_id": []}

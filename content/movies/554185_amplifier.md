@@ -1,1 +1,0 @@
-{"tmdb_id": 554185, "title": "Amplifier", "original_title": "Amplifier", "slug_title": "amplifier", "date": "2017-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/icIgLjsz6naFnTip6DRjUR3C2QR.jpg", "actors": ["Heikki Vienola ()"], "comments": [], "recommandations_id": []}

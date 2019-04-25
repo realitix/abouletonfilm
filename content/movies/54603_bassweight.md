@@ -1,1 +1,0 @@
-{"tmdb_id": 54603, "title": "Bassweight", "original_title": "Bassweight", "slug_title": "bassweight", "date": "2008-01-12", "genre": "Musique / Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1nMtqJY9bBbtg93CeascpPCkJos.jpg", "actors": [], "comments": [], "recommandations_id": []}

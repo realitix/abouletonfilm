@@ -1,1 +1,0 @@
-{"tmdb_id": 206158, "title": "Karla's Arrival", "original_title": "La llegada de Karla", "slug_title": "karla-s-arrival", "date": "2011-09-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9IhC80P4zk77gMiGe6CrjveQuhA.jpg", "actors": ["Sujeylin Aguilar (Herself)"], "comments": [], "recommandations_id": []}

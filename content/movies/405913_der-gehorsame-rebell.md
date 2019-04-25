@@ -1,1 +1,0 @@
-{"tmdb_id": 405913, "title": "Der gehorsame Rebell", "original_title": "Der gehorsame Rebell", "slug_title": "der-gehorsame-rebell", "date": "1952-07-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

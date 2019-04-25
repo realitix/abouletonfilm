@@ -1,1 +1,0 @@
-{"tmdb_id": 283678, "title": "The Four Devils", "original_title": "De fire dj\u00e6vle", "slug_title": "the-four-devils", "date": "1911-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Dinesen ()", "Edith Buemann ()", "Tilley Christiansen ()"], "comments": [], "recommandations_id": []}

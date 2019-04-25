@@ -1,1 +1,0 @@
-{"tmdb_id": 352284, "title": "Dora - Naar Het Strand", "original_title": "Dora - Naar Het Strand", "slug_title": "dora-naar-het-strand", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ouZ2gOUd6WskGmXcUtlRekWJzDv.jpg", "actors": [], "comments": [], "recommandations_id": []}

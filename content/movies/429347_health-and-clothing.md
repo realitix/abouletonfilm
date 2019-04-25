@@ -1,1 +1,0 @@
-{"tmdb_id": 429347, "title": "Health and Clothing", "original_title": "Health and Clothing", "slug_title": "health-and-clothing", "date": "1928-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

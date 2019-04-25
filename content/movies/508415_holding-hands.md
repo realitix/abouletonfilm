@@ -1,1 +1,0 @@
-{"tmdb_id": 508415, "title": "Holding Hands", "original_title": "Holding Hands", "slug_title": "holding-hands", "date": "2010-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fZIIybM2IH1FQOOfXg8Af3SE5nB.jpg", "actors": [], "comments": [], "recommandations_id": []}

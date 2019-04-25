@@ -1,1 +1,0 @@
-{"tmdb_id": 328329, "title": "The Dahl Dynasty", "original_title": "The Dahl Dynasty", "slug_title": "the-dahl-dynasty", "date": "2013-03-24", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

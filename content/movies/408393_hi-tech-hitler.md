@@ -1,1 +1,0 @@
-{"tmdb_id": 408393, "title": "Hi-Tech Hitler", "original_title": "Hi-Tech Hitler", "slug_title": "hi-tech-hitler", "date": "2006-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/49TKirEHMB7v6jTp1AegRE9XlJc.jpg", "actors": [], "comments": [], "recommandations_id": []}

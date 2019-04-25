@@ -1,1 +1,0 @@
-{"tmdb_id": 425842, "title": "\u5409\u6751\u6587\u5eab", "original_title": "\u5409\u6751\u6587\u5eab", "slug_title": "ji-cun-wen-ku", "date": "1988-10-09", "genre": "Com\u00e9die / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

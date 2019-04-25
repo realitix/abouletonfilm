@@ -1,1 +1,0 @@
-{"tmdb_id": 533955, "title": "The Man Who Sells the Moon", "original_title": "The Man Who Sells the Moon", "slug_title": "the-man-who-sells-the-moon", "date": "2013-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 478323, "title": "Children of Labor", "original_title": "Children of Labor", "slug_title": "children-of-labor", "date": "1977-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

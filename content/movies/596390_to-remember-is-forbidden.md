@@ -1,1 +1,0 @@
-{"tmdb_id": 596390, "title": "To Remember Is Forbidden", "original_title": "Debekatuta dago oroitzea", "slug_title": "to-remember-is-forbidden", "date": "2010-09-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

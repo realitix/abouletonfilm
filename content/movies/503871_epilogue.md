@@ -1,1 +1,0 @@
-{"tmdb_id": 503871, "title": "Epilogue", "original_title": "Epilogue", "slug_title": "epilogue", "date": "2018-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5dbGF7LHi7d0eaBRUxR8tMkV9Sf.jpg", "actors": [], "comments": [], "recommandations_id": []}

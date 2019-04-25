@@ -1,1 +1,0 @@
-{"tmdb_id": 62066, "title": "Was ist Was - Klima", "original_title": "Was ist Was - Klima", "slug_title": "was-ist-was-klima", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yXjbNic3DuBot9d7mmiTbWNnm0v.jpg", "actors": [], "comments": [], "recommandations_id": []}

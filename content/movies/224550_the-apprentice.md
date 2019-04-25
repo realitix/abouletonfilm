@@ -1,1 +1,0 @@
-{"tmdb_id": 224550, "title": "The Apprentice", "original_title": "The Apprentice", "slug_title": "the-apprentice", "date": "1991-10-01", "genre": "Animation", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w3DUFOlOzMncT4MT2G99Tow1FeR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 425080, "title": "Water seeking its level", "original_title": "Water seeking its level", "slug_title": "water-seeking-its-level", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wapT525ZLPpDWmKCjzx3EkhUoaX.jpg", "actors": [], "comments": [], "recommandations_id": []}

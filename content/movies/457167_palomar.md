@@ -1,1 +1,0 @@
-{"tmdb_id": 457167, "title": "Palomar", "original_title": "Palomar", "slug_title": "palomar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5fcBQLp8ifiPSRLQUGzKTqF9fVe.jpg", "actors": [], "comments": [], "recommandations_id": []}

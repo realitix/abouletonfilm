@@ -1,1 +1,0 @@
-{"tmdb_id": 267815, "title": "The Absent", "original_title": "Los ausentes", "slug_title": "the-absent", "date": "2014-08-11", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/apvW19MqeTnr1CiXZLCRpk67NmS.jpg", "actors": ["Gabino Rodr\u00edguez ()", "Eduard Fern\u00e1ndez ()"], "comments": [], "recommandations_id": []}

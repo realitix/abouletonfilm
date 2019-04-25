@@ -1,1 +1,0 @@
-{"tmdb_id": 505699, "title": "Broken Gods", "original_title": "Broken Gods", "slug_title": "broken-gods", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h9QRAhNk2r6QkZIWbcyOB0VlfsV.jpg", "actors": ["Reese Westhoff (Dwight)", "James Jensen ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 77420, "title": "Globalisation Is Good", "original_title": "Globalisation Is Good", "slug_title": "globalisation-is-good", "date": "", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 584590, "title": "Grant Hill NBA sensation", "original_title": "Grant Hill NBA sensation", "slug_title": "grant-hill-nba-sensation", "date": "1996-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tkd9M3IUPyhulyJNmcIWRsq5MY2.jpg", "actors": [], "comments": [], "recommandations_id": []}

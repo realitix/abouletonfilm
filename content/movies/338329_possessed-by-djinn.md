@@ -1,1 +1,0 @@
-{"tmdb_id": 338329, "title": "Possessed by Djinn", "original_title": "Possessed by Djinn", "slug_title": "possessed-by-djinn", "date": "2015-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6RP5iZscujoZ8nVgMvSqCzWQRf.jpg", "actors": [], "comments": [], "recommandations_id": []}

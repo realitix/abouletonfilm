@@ -1,1 +1,0 @@
-{"tmdb_id": 344746, "title": "Infinity girl", "original_title": "Infinity girl", "slug_title": "infinity-girl", "date": "1969-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1YmjEDLY7GRPSUyQWpO23kn62Mg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 361201, "title": "Screen Test #2", "original_title": "Screen Test #2", "slug_title": "screen-test-2", "date": "1965-06-12", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mario Montez ()", "Ronald Tavel ()"], "comments": [], "recommandations_id": []}

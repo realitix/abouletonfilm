@@ -1,1 +1,0 @@
-{"tmdb_id": 474745, "title": "The Legend of the Ugly King", "original_title": "The Legend of the Ugly King", "slug_title": "the-legend-of-the-ugly-king", "date": "2017-09-07", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vwGvz8IitsXpo9eypShdWXjQY1F.jpg", "actors": [], "comments": [], "recommandations_id": []}

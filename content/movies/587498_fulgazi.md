@@ -1,1 +1,0 @@
-{"tmdb_id": 587498, "title": "Fulgazi", "original_title": "Fulgazi", "slug_title": "fulgazi", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Talent Harris ()", "Shaun Cruz ()", "Tiffani Webb ()", "Smokey ()", "Kool Bubba Ice ()", "Ali Vega ()", "Jay Parris ()"], "comments": [], "recommandations_id": []}

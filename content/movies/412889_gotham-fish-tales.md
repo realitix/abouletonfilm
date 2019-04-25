@@ -1,1 +1,0 @@
-{"tmdb_id": 412889, "title": "Gotham Fish Tales", "original_title": "Gotham Fish Tales", "slug_title": "gotham-fish-tales", "date": "2005-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

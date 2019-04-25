@@ -1,1 +1,0 @@
-{"tmdb_id": 561749, "title": "C'est une fille de Paname", "original_title": "C'est une fille de Paname", "slug_title": "c-est-une-fille-de-paname", "date": "1957-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6OarnRVtuDusKGALxnAN5Ap5HOz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 566728, "title": "They Are The Last", "original_title": "They Are The Last", "slug_title": "they-are-the-last", "date": "2014-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 440614, "title": "Caddies", "original_title": "Caddies", "slug_title": "caddies", "date": "2014-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8djlMmZqn4AMsw0qo72LGoFGgZf.jpg", "actors": [], "comments": [], "recommandations_id": []}

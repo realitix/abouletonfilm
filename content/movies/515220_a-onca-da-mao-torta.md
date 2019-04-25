@@ -1,1 +1,0 @@
-{"tmdb_id": 515220, "title": "A On\u00e7a da M\u00e3o Torta", "original_title": "A On\u00e7a da M\u00e3o Torta", "slug_title": "a-onca-da-mao-torta", "date": "2003-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xYVZPA7GqOTtFquWZT0DCIZZQvh.jpg", "actors": [], "comments": [], "recommandations_id": []}

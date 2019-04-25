@@ -1,1 +1,0 @@
-{"tmdb_id": 128392, "title": "Track Projections", "original_title": "Track Projections", "slug_title": "track-projections", "date": "2007-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rjhyfeC1f4blJ0ToVhzfh7pwO86.jpg", "actors": [], "comments": [], "recommandations_id": []}

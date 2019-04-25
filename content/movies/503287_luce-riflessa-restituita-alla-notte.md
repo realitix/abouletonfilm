@@ -1,1 +1,0 @@
-{"tmdb_id": 503287, "title": "Luce riflessa restituita alla notte", "original_title": "Luce riflessa restituita alla notte", "slug_title": "luce-riflessa-restituita-alla-notte", "date": "2011-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

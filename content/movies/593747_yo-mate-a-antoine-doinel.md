@@ -1,1 +1,0 @@
-{"tmdb_id": 593747, "title": "Yo mat\u00e9 a Antoine Doinel", "original_title": "Yo mat\u00e9 a Antoine Doinel", "slug_title": "yo-mate-a-antoine-doinel", "date": "2019-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

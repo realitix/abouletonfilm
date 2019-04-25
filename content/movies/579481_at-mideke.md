@@ -1,1 +1,1 @@
-{"tmdb_id": 579481, "title": "At Mideke", "original_title": "At Mideke", "slug_title": "at-mideke", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 579481, "title": "At Mideke", "original_title": "At Mideke", "slug_title": "at-mideke", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A montage from the films of Michael Mideke.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

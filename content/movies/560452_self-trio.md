@@ -1,1 +1,0 @@
-{"tmdb_id": 560452, "title": "Self-Trio", "original_title": "Self-Trio", "slug_title": "self-trio", "date": "1976-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

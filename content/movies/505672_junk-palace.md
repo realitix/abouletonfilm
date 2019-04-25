@@ -1,1 +1,0 @@
-{"tmdb_id": 505672, "title": "Junk Palace", "original_title": "Junk Palace", "slug_title": "junk-palace", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

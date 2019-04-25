@@ -1,1 +1,0 @@
-{"tmdb_id": 270251, "title": "Showman", "original_title": "Showman", "slug_title": "showman", "date": "1963-01-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9cwQbecpXklggordYhqtGr5lmvu.jpg", "actors": ["Joseph E. Levine ()", "Sophia Loren ()"], "comments": [], "recommandations_id": []}

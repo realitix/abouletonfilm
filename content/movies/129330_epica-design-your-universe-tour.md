@@ -1,1 +1,0 @@
-{"tmdb_id": 129330, "title": "Epica - Design Your Universe Tour", "original_title": "Epica - Design Your Universe Tour", "slug_title": "epica-design-your-universe-tour", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/as5y5be5vspfG1WI1uBEzQ9Hr33.jpg", "actors": [], "comments": [], "recommandations_id": []}

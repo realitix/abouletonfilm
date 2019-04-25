@@ -1,1 +1,0 @@
-{"tmdb_id": 511219, "title": "The Day Off", "original_title": "The Day Off", "slug_title": "the-day-off", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

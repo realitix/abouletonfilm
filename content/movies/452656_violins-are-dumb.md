@@ -1,1 +1,0 @@
-{"tmdb_id": 452656, "title": "Violins are dumb", "original_title": "Violins are dumb", "slug_title": "violins-are-dumb", "date": "2015-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s4ltfktrHIIZYuOEqwCojm8hqB3.jpg", "actors": [], "comments": [], "recommandations_id": []}

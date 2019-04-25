@@ -1,1 +1,0 @@
-{"tmdb_id": 359971, "title": "Of All the Things", "original_title": "Of All the Things", "slug_title": "of-all-the-things", "date": "2008-03-08", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dennis Lambert (himself)", "Jody Lambert (himself)"], "comments": [], "recommandations_id": []}

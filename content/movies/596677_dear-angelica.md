@@ -1,1 +1,0 @@
-{"tmdb_id": 596677, "title": "Dear Angelica", "original_title": "Dear Angelica", "slug_title": "dear-angelica", "date": "2017-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i2liF8THeiq9A77XQUpt6Kc64Da.jpg", "actors": [], "comments": [], "recommandations_id": []}

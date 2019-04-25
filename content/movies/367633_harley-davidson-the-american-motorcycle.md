@@ -1,1 +1,0 @@
-{"tmdb_id": 367633, "title": "Harley-Davidson: The American Motorcycle", "original_title": "Harley-Davidson: The American Motorcycle", "slug_title": "harley-davidson-the-american-motorcycle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

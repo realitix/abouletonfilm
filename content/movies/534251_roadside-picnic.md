@@ -1,1 +1,0 @@
-{"tmdb_id": 534251, "title": "Roadside Picnic", "original_title": "Roadside Picnic", "slug_title": "roadside-picnic", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/96vFtHCn763fhZ18eehcsSiqstR.jpg", "actors": [], "comments": [], "recommandations_id": []}

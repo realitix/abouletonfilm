@@ -1,1 +1,0 @@
-{"tmdb_id": 339131, "title": "La venganza del tigre", "original_title": "La venganza del tigre", "slug_title": "la-venganza-del-tigre", "date": "2015-02-19", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gqz0TbWctcqnW40rg4V4cp514wY.jpg", "actors": [], "comments": [], "recommandations_id": []}

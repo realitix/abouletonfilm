@@ -1,1 +1,0 @@
-{"tmdb_id": 144503, "title": "Love Speed and Loss", "original_title": "Love Speed and Loss", "slug_title": "love-speed-and-loss", "date": "2006-09-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4lZBDEINySTr1LPcqpaaBooX2Xs.jpg", "actors": [], "comments": [], "recommandations_id": []}

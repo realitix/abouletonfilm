@@ -1,1 +1,0 @@
-{"tmdb_id": 279918, "title": "The Booker", "original_title": "The Booker", "slug_title": "the-booker", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

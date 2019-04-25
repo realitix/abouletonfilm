@@ -1,1 +1,0 @@
-{"tmdb_id": 468852, "title": "Maa Abbayi", "original_title": "Maa Abbayi", "slug_title": "maa-abbayi", "date": "2017-03-17", "genre": "Action / Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/478SX1tSbLpecq6nyh2Zfqte7AB.jpg", "actors": ["Sree Vishnu ()", "Chitra Shukla ()"], "comments": [], "recommandations_id": []}

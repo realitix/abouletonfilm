@@ -1,1 +1,0 @@
-{"tmdb_id": 371470, "title": "Die Achatmurmel", "original_title": "Die Achatmurmel", "slug_title": "die-achatmurmel", "date": "1960-04-21", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mFz2tWF9JB6BVyRlHJ1wDOpvhyh.jpg", "actors": [], "comments": [], "recommandations_id": []}

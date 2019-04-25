@@ -1,1 +1,0 @@
-{"tmdb_id": 213352, "title": "Christopher Ford Sees a film", "original_title": "Christopher Ford Sees a film", "slug_title": "christopher-ford-sees-a-film", "date": "2005-01-01", "genre": "Com\u00e9die", "score": "7.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christopher D. Ford (Christopher Ford)"], "comments": [], "recommandations_id": []}

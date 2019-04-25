@@ -1,1 +1,0 @@
-{"tmdb_id": 431718, "title": "Last Resort", "original_title": "En Dernier Recours", "slug_title": "last-resort", "date": "1987-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ib8816rLGUBIDQ3Q0fV8iNcJqux.jpg", "actors": [], "comments": [], "recommandations_id": []}

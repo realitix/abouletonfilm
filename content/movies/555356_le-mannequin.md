@@ -1,1 +1,0 @@
-{"tmdb_id": 555356, "title": "Le mannequin", "original_title": "Le mannequin", "slug_title": "le-mannequin", "date": "1913-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

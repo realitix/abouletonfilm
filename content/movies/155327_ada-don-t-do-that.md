@@ -1,1 +1,0 @@
-{"tmdb_id": 155327, "title": "Ada, Don't Do That!", "original_title": "Ada! To nie wypada!", "slug_title": "ada-don-t-do-that", "date": "1936-11-19", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mdCNKzuUI7y9dq9hDjzKcpL5kSa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 2773, "title": "\u00c4gypten - Nil und Pyramiden", "original_title": "\u00c4gypten - Nil und Pyramiden", "slug_title": "agypten-nil-und-pyramiden", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J\u00fcrgen Gries (Voice)"], "comments": [], "recommandations_id": []}

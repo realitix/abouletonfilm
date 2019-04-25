@@ -1,1 +1,0 @@
-{"tmdb_id": 275838, "title": "Directors: Ron Howard", "original_title": "Directors: Ron Howard", "slug_title": "directors-ron-howard", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

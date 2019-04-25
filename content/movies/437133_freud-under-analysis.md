@@ -1,1 +1,0 @@
-{"tmdb_id": 437133, "title": "Freud Under Analysis", "original_title": "Freud Under Analysis", "slug_title": "freud-under-analysis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sy718dPFZU0GLR7PRJiXGpY6fzs.jpg", "actors": [], "comments": [], "recommandations_id": []}

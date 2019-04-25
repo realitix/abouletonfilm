@@ -1,1 +1,0 @@
-{"tmdb_id": 321353, "title": "Renee Fleming: Sacred Songs", "original_title": "Renee Fleming: Sacred Songs", "slug_title": "renee-fleming-sacred-songs", "date": "2006-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

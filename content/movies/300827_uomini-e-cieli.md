@@ -1,1 +1,0 @@
-{"tmdb_id": 300827, "title": "Uomini e cieli", "original_title": "Uomini e cieli", "slug_title": "uomini-e-cieli", "date": "1947-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gBljp0AsAxtWKzVZsR7inDBPt2b.jpg", "actors": [], "comments": [], "recommandations_id": []}

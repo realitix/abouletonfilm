@@ -1,1 +1,0 @@
-{"tmdb_id": 383905, "title": "Moving Forward", "original_title": "Moving Forward", "slug_title": "moving-forward", "date": "2015-04-03", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/WDp4YObOPnK11dszzTtl6gKd3H.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 334229, "title": "Bru Ha Ha", "original_title": "Bru Ha Ha", "slug_title": "bru-ha-ha", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2WOJzZWMZkPgcQiy1I6BSVFQD2Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

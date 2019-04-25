@@ -1,1 +1,0 @@
-{"tmdb_id": 161955, "title": "Happy Hoboes", "original_title": "Happy Hoboes", "slug_title": "happy-hoboes", "date": "1933-03-30", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4fbOFdSlip3ipALQlCBWHlfDz1j.jpg", "actors": [], "comments": [], "recommandations_id": []}

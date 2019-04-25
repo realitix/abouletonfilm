@@ -1,1 +1,0 @@
-{"tmdb_id": 587239, "title": "Otto Waalkes rockt WERNER", "original_title": "Otto Waalkes rockt WERNER", "slug_title": "otto-waalkes-rockt-werner", "date": "2018-08-31", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Otto Waalkes (Himself)"], "comments": [], "recommandations_id": []}

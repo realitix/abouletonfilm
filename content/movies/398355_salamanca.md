@@ -1,1 +1,0 @@
-{"tmdb_id": 398355, "title": "Salamanca", "original_title": "\u0421\u0430\u043b\u0430\u043c\u0430\u043d\u043a\u0430", "slug_title": "salamanca", "date": "2015-11-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eWW8ZSjvIto4s4oORzfhwWJ96BN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 298443, "title": "Hugh Hefner: Founder and Editor of Playboy", "original_title": "Hugh Hefner: Founder and Editor of Playboy", "slug_title": "hugh-hefner-founder-and-editor-of-playboy", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

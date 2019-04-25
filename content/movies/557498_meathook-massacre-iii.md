@@ -1,1 +1,0 @@
-{"tmdb_id": 557498, "title": "Meathook Massacre III", "original_title": "Meathook Massacre III", "slug_title": "meathook-massacre-iii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Lankford (Pa Fleischer)"], "comments": [], "recommandations_id": []}

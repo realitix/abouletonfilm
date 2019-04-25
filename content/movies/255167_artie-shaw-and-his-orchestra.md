@@ -1,1 +1,0 @@
-{"tmdb_id": 255167, "title": "Artie Shaw and His Orchestra", "original_title": "Artie Shaw and His Orchestra", "slug_title": "artie-shaw-and-his-orchestra", "date": "1939-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

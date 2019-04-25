@@ -1,1 +1,1 @@
-{"tmdb_id": 44331, "title": "Option", "original_title": "Optzia", "slug_title": "option", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 44331, "title": "Option", "original_title": "Optzia", "slug_title": "option", "date": "1997-01-01", "genre": [""], "score": "0.0/10", "synopsis": " ", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 133725, "title": "Dear Mandela", "original_title": "Dear Mandela", "slug_title": "dear-mandela", "date": "2012-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7u4yMgLYDT7bdQV5YiQK6ZmA6yw.jpg", "actors": [], "comments": [], "recommandations_id": []}

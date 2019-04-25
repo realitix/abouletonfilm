@@ -1,1 +1,0 @@
-{"tmdb_id": 565073, "title": "Rundfunk", "original_title": "Rundfunk", "slug_title": "rundfunk", "date": "2018-07-05", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/91MQjLxvNs4UPcsEARm9dSAcI62.jpg", "actors": ["Jacopo Garfagnoli ()", "Frank Peroni ()"], "comments": [], "recommandations_id": []}

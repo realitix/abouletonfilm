@@ -1,1 +1,0 @@
-{"tmdb_id": 339096, "title": "The Jetsons", "original_title": "The Jetsons", "slug_title": "the-jetsons", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

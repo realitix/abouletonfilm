@@ -1,1 +1,0 @@
-{"tmdb_id": 329051, "title": "The Communist Weapon Of Allure", "original_title": "The Communist Weapon Of Allure", "slug_title": "the-communist-weapon-of-allure", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

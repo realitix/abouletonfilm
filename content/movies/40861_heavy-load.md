@@ -1,1 +1,0 @@
-{"tmdb_id": 40861, "title": "Heavy Load", "original_title": "Heavy Load", "slug_title": "heavy-load", "date": "2008-03-10", "genre": "Musique / Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oO6SVgNBYPIEYtcuJrNM4I3BtNv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 550205, "title": "Wish Dragon", "original_title": "Wish Dragon", "slug_title": "wish-dragon", "date": "2019-07-26", "genre": "Animation / Familial / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bMk6O8qjIAVXb1iOzWc1e1lmlVK.jpg", "actors": [], "comments": [], "recommandations_id": []}

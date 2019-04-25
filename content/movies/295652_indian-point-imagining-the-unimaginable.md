@@ -1,1 +1,0 @@
-{"tmdb_id": 295652, "title": "Indian Point: Imagining the Unimaginable", "original_title": "Indian Point: Imagining the Unimaginable", "slug_title": "indian-point-imagining-the-unimaginable", "date": "2004-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

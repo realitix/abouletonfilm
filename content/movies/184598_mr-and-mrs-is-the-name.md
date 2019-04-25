@@ -1,1 +1,0 @@
-{"tmdb_id": 184598, "title": "Mr. and Mrs. Is the Name", "original_title": "Mr. and Mrs. Is the Name", "slug_title": "mr-and-mrs-is-the-name", "date": "1935-01-18", "genre": "", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6SyqPpNmdH9EIqLLbFbnKT5D48l.jpg", "actors": [], "comments": [], "recommandations_id": []}

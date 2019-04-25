@@ -1,1 +1,0 @@
-{"tmdb_id": 154780, "title": "The Alien Anthology Archives", "original_title": "The Alien Anthology Archives", "slug_title": "the-alien-anthology-archives", "date": "2010-10-26", "genre": "", "score": "9.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gXKG9RULpMI0VN9hqBXeNAeLOpf.jpg", "actors": [], "comments": [], "recommandations_id": []}

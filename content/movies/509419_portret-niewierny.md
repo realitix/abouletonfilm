@@ -1,1 +1,0 @@
-{"tmdb_id": 509419, "title": "Portret niewierny", "original_title": "Portret niewierny", "slug_title": "portret-niewierny", "date": "1981-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wZlYYMsqrJtlWAh9HNXO8uJmCSB.jpg", "actors": [], "comments": [], "recommandations_id": []}

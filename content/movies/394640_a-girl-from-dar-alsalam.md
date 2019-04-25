@@ -1,1 +1,0 @@
-{"tmdb_id": 394640, "title": "A girl From Dar alsalam", "original_title": "A girl From Dar alsalam", "slug_title": "a-girl-from-dar-alsalam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

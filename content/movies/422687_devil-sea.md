@@ -1,1 +1,0 @@
-{"tmdb_id": 422687, "title": "Devil Sea", "original_title": "Devil Sea", "slug_title": "devil-sea", "date": "1931-02-28", "genre": "Musique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sogojmbCGKjNxUdvGCyqEdZ3RQY.jpg", "actors": ["Ethel Merman ()", "Leslie Stowe ()"], "comments": [], "recommandations_id": []}

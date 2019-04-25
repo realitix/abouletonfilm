@@ -1,1 +1,0 @@
-{"tmdb_id": 454736, "title": "One Roll in the Blackness", "original_title": "One Roll in the Blackness", "slug_title": "one-roll-in-the-blackness", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Keiji Haino (Keiji Haino)"], "comments": [], "recommandations_id": []}

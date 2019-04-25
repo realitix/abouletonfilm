@@ -1,1 +1,0 @@
-{"tmdb_id": 160219, "title": "L'ultimo pastore", "original_title": "L'ultimo pastore", "slug_title": "l-ultimo-pastore", "date": "2013-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ol7B8duQJyCuFz1fvuZjsFj6Ptj.jpg", "actors": [], "comments": [], "recommandations_id": []}

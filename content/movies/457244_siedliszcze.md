@@ -1,1 +1,0 @@
-{"tmdb_id": 457244, "title": "Siedliszcze", "original_title": "Siedliszcze", "slug_title": "siedliszcze", "date": "1960-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 556669, "title": "Voici dimanche", "original_title": "Voici dimanche", "slug_title": "voici-dimanche", "date": "1930-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 556669, "title": "Voici dimanche", "original_title": "Voici dimanche", "slug_title": "voici-dimanche", "date": "1930-12-26", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

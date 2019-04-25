@@ -1,1 +1,0 @@
-{"tmdb_id": 452830, "title": "Black Mirror", "original_title": "Black Mirror", "slug_title": "black-mirror", "date": "2011-06-20", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fYi4BQhoj2ay3oJwT2x8kMNHpds.jpg", "actors": ["Chlo\u00eb Sevigny (Herself)"], "comments": [], "recommandations_id": [374430]}

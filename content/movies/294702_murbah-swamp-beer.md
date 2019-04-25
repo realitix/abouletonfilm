@@ -1,1 +1,0 @@
-{"tmdb_id": 294702, "title": "Murbah Swamp Beer", "original_title": "Murbah Swamp Beer", "slug_title": "murbah-swamp-beer", "date": "2002-02-24", "genre": "Com\u00e9die / Documentaire", "score": "5.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

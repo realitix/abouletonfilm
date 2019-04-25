@@ -1,1 +1,0 @@
-{"tmdb_id": 236828, "title": "Life of a Thoroughbred", "original_title": "Life of a Thoroughbred", "slug_title": "life-of-a-thoroughbred", "date": "1941-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

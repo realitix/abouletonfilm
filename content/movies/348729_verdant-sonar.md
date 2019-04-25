@@ -1,1 +1,0 @@
-{"tmdb_id": 348729, "title": "Verdant Sonar", "original_title": "Verdant Sonar", "slug_title": "verdant-sonar", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

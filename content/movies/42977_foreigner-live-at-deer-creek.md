@@ -1,1 +1,0 @@
-{"tmdb_id": 42977, "title": "Foreigner - Live at Deer Creek", "original_title": "Foreigner - Live at Deer Creek", "slug_title": "foreigner-live-at-deer-creek", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/znTBu2c3A9l7AbQp6mIGKLppCcz.jpg", "actors": [], "comments": [], "recommandations_id": []}

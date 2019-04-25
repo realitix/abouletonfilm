@@ -1,1 +1,0 @@
-{"tmdb_id": 354422, "title": "The Gift of Pachamama", "original_title": "El regalo de la Pachamama", "slug_title": "the-gift-of-pachamama", "date": "2008-08-27", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ixcFOAaFx68FeXQYsxYFD7y3gzN.jpg", "actors": [], "comments": [], "recommandations_id": []}

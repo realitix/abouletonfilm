@@ -1,1 +1,0 @@
-{"tmdb_id": 353881, "title": "Life-Raft Earth", "original_title": "Life-Raft Earth", "slug_title": "life-raft-earth", "date": "1969-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

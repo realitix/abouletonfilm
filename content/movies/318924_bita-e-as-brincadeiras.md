@@ -1,1 +1,0 @@
-{"tmdb_id": 318924, "title": "Bita e as Brincadeiras", "original_title": "Bita e as Brincadeiras", "slug_title": "bita-e-as-brincadeiras", "date": "2014-10-07", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w3ddWRPV029xjc22SDIjWq58GQ6.jpg", "actors": [], "comments": [], "recommandations_id": []}

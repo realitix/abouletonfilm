@@ -1,1 +1,0 @@
-{"tmdb_id": 561745, "title": "Bonjour jeunesse", "original_title": "Bonjour jeunesse", "slug_title": "bonjour-jeunesse", "date": "1957-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

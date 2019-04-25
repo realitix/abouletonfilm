@@ -1,1 +1,0 @@
-{"tmdb_id": 288822, "title": "The Jeff Koons Show", "original_title": "The Jeff Koons Show", "slug_title": "the-jeff-koons-show", "date": "2004-04-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o5RZ99mCENwe38JzpIrKs1DfWRo.jpg", "actors": [], "comments": [], "recommandations_id": []}

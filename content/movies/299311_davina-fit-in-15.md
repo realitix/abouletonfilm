@@ -1,1 +1,0 @@
-{"tmdb_id": 299311, "title": "Davina - Fit In 15", "original_title": "Davina - Fit In 15", "slug_title": "davina-fit-in-15", "date": "2013-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eFCqz8AnBimrJKPBlgJiWzcrWYr.jpg", "actors": ["Davina McCall ()"], "comments": [], "recommandations_id": []}

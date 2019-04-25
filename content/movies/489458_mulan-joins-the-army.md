@@ -1,1 +1,0 @@
-{"tmdb_id": 489458, "title": "Mulan Joins the Army", "original_title": "Hua Mulan Cong Jun", "slug_title": "mulan-joins-the-army", "date": "1927-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iyYYnxtacf4xcFVrDQy2hvPecfA.jpg", "actors": [], "comments": [], "recommandations_id": []}

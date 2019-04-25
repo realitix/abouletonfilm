@@ -1,1 +1,0 @@
-{"tmdb_id": 522666, "title": "La cabina", "original_title": "La cabina", "slug_title": "la-cabina", "date": "2005-05-19", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8r8jtH983qJOWSLm0fI7ZIUebSX.jpg", "actors": ["Jos\u00e9 Lucas ()", "Pepe Viyuela ()"], "comments": [], "recommandations_id": []}

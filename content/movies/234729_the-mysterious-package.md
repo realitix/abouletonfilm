@@ -1,1 +1,0 @@
-{"tmdb_id": 234729, "title": "The Mysterious Package", "original_title": "The Mysterious Package", "slug_title": "the-mysterious-package", "date": "1960-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xZCDULFh4zqIj8lI417Dcz8g0Et.jpg", "actors": [], "comments": [], "recommandations_id": []}

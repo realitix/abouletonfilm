@@ -1,1 +1,0 @@
-{"tmdb_id": 559900, "title": "Rue des Saussaies", "original_title": "Rue des Saussaies", "slug_title": "rue-des-saussaies", "date": "1951-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2E39eRDo9Npg5SkvZOudzxfq1lb.jpg", "actors": [], "comments": [], "recommandations_id": []}

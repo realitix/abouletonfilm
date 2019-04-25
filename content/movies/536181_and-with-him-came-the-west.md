@@ -1,1 +1,0 @@
-{"tmdb_id": 536181, "title": "And with Him Came the West", "original_title": "And with Him Came the West", "slug_title": "and-with-him-came-the-west", "date": "2019-02-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

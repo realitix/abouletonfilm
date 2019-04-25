@@ -1,1 +1,0 @@
-{"tmdb_id": 541623, "title": "Postcards from Ukraine", "original_title": "Postcards from Ukraine", "slug_title": "postcards-from-ukraine", "date": "2017-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dNTWoKmwA6ycK7yBCwqpv0LBwS5.jpg", "actors": [], "comments": [], "recommandations_id": []}

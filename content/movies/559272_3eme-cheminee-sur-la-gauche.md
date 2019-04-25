@@ -1,1 +1,0 @@
-{"tmdb_id": 559272, "title": "3\u00e8me chemin\u00e9e sur la gauche", "original_title": "3\u00e8me chemin\u00e9e sur la gauche", "slug_title": "3eme-cheminee-sur-la-gauche", "date": "1948-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

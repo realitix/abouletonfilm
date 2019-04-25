@@ -1,1 +1,0 @@
-{"tmdb_id": 549719, "title": "The Mega Brothel", "original_title": "The Mega Brothel", "slug_title": "the-mega-brothel", "date": "2015-01-29", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ucUsVYwRSM16ng5FSqFOnIpcUaw.jpg", "actors": ["Lucy Briers (Narrator)"], "comments": [], "recommandations_id": []}

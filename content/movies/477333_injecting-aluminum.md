@@ -1,1 +1,0 @@
-{"tmdb_id": 477333, "title": "Injecting Aluminum", "original_title": "Injecting Aluminum", "slug_title": "injecting-aluminum", "date": "2017-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3YnXa43hAxGPp0WgG17e2D5UQCP.jpg", "actors": [], "comments": [], "recommandations_id": []}

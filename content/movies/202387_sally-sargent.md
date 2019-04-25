@@ -1,1 +1,0 @@
-{"tmdb_id": 202387, "title": "Sally Sargent", "original_title": "Sally Sargent", "slug_title": "sally-sargent", "date": "1968-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 510715, "title": "Collage d\u2019Hollywood", "original_title": "Collage d\u2019Hollywood", "slug_title": "collage-dhollywood", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lmgluC5RquM9xWSuZqUUY8v83lH.jpg", "actors": [], "comments": [], "recommandations_id": []}

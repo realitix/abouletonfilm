@@ -1,1 +1,0 @@
-{"tmdb_id": 539465, "title": "The Were-Tiger", "original_title": "The Were-Tiger", "slug_title": "the-were-tiger", "date": "1925-05-31", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hedda Nova ()", "Jules Cowles ()", "George Carrossella ()"], "comments": [], "recommandations_id": []}

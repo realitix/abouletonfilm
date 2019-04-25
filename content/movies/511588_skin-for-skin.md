@@ -1,1 +1,0 @@
-{"tmdb_id": 511588, "title": "Skin for Skin", "original_title": "Skin for Skin", "slug_title": "skin-for-skin", "date": "2017-01-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9qyAiWMy7FsIVo9CCBCWbf07MeW.jpg", "actors": [], "comments": [], "recommandations_id": []}

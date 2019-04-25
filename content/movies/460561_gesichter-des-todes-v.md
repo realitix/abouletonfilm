@@ -1,1 +1,0 @@
-{"tmdb_id": 460561, "title": "Gesichter des Todes V", "original_title": "Gesichter des Todes V", "slug_title": "gesichter-des-todes-v", "date": "1991-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 260068, "title": "The Tears of Aids", "original_title": "Les larmes du SIDA", "slug_title": "the-tears-of-aids", "date": "1996-12-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean-Michel Monroc (L'homme)", "Sophie B\u00e9renguier (La femme)"], "comments": [], "recommandations_id": []}

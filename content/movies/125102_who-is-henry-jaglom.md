@@ -1,1 +1,0 @@
-{"tmdb_id": 125102, "title": "Who Is Henry Jaglom?", "original_title": "Who Is Henry Jaglom?", "slug_title": "who-is-henry-jaglom", "date": "1997-07-08", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wLSbgmXmf0GBPbRVcbo5zFgEmwb.jpg", "actors": [], "comments": [], "recommandations_id": []}

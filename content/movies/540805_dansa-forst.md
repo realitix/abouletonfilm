@@ -1,1 +1,0 @@
-{"tmdb_id": 540805, "title": "Dansa f\u00f6rst", "original_title": "Dansa f\u00f6rst", "slug_title": "dansa-forst", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

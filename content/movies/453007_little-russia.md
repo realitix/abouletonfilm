@@ -1,1 +1,0 @@
-{"tmdb_id": 453007, "title": "Little Russia", "original_title": "La piccola Russia", "slug_title": "little-russia", "date": "2004-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wGfZTemiamX2ooxdPukDDk0gpUl.jpg", "actors": [], "comments": [], "recommandations_id": []}

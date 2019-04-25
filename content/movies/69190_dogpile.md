@@ -1,1 +1,0 @@
-{"tmdb_id": 69190, "title": "Dogpile", "original_title": "Dogpile", "slug_title": "dogpile", "date": "1991-01-01", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1CwNcGNeA1XZZ5H1hIAfVPvxBQl.jpg", "actors": [], "comments": [], "recommandations_id": []}

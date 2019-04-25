@@ -1,1 +1,0 @@
-{"tmdb_id": 347296, "title": "A Fuchsia Elephant", "original_title": "A Fuchsia Elephant", "slug_title": "a-fuchsia-elephant", "date": "2009-06-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dianna Agron (Charlotte Hill)", "Dave Franco (Michael)", "Paul Boukadakis (Paul)"], "comments": [], "recommandations_id": []}

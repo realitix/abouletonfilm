@@ -1,1 +1,0 @@
-{"tmdb_id": 581999, "title": "The Wonders of Harmonic Designing", "original_title": "The Wonders of Harmonic Designing", "slug_title": "the-wonders-of-harmonic-designing", "date": "1913-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

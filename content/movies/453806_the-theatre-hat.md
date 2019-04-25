@@ -1,1 +1,0 @@
-{"tmdb_id": 453806, "title": "The Theatre Hat", "original_title": "The Theatre Hat", "slug_title": "the-theatre-hat", "date": "1897-03-23", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 597110, "title": "To Live to Sing", "original_title": "Huo zhe chang zhe", "slug_title": "to-live-to-sing", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

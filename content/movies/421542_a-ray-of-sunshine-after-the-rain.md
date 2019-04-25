@@ -1,1 +1,0 @@
-{"tmdb_id": 421542, "title": "A Ray of Sunshine After the Rain", "original_title": "A Ray of Sunshine After the Rain", "slug_title": "a-ray-of-sunshine-after-the-rain", "date": "1899-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

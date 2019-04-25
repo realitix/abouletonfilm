@@ -1,1 +1,0 @@
-{"tmdb_id": 127692, "title": "Fixation", "original_title": "Fixation", "slug_title": "fixation", "date": "2012-07-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1GvsCY54iGCncCwvkjby2fx8l6o.jpg", "actors": [], "comments": [], "recommandations_id": []}

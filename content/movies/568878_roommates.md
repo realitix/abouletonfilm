@@ -1,1 +1,0 @@
-{"tmdb_id": 568878, "title": "Roommates", "original_title": "Roommates", "slug_title": "roommates", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AdT2ixd5YCjIDQP1Dix01TkrKRz.jpg", "actors": ["Kip Noll ()", "Kourey Mitchell ()", "Lee Marlin ()"], "comments": [], "recommandations_id": []}

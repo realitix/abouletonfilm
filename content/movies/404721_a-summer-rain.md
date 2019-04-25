@@ -1,1 +1,0 @@
-{"tmdb_id": 404721, "title": "A Summer Rain", "original_title": "A Summer Rain", "slug_title": "a-summer-rain", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

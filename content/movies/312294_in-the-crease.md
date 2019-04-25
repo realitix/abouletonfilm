@@ -1,1 +1,0 @@
-{"tmdb_id": 312294, "title": "In the Crease", "original_title": "In the Crease", "slug_title": "in-the-crease", "date": "2006-10-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uv9I4zEIhSMM3HgwPZmLEcZ554X.jpg", "actors": [], "comments": [], "recommandations_id": []}

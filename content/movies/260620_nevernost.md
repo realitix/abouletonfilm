@@ -1,1 +1,0 @@
-{"tmdb_id": 260620, "title": "Nevernost", "original_title": "Nevernost", "slug_title": "nevernost", "date": "2006-01-01", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eEby8v5rKJGuzkdXUFScD3b4z9w.jpg", "actors": [], "comments": [], "recommandations_id": []}

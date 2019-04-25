@@ -1,1 +1,0 @@
-{"tmdb_id": 288386, "title": "Brotherhood of the Popcorn", "original_title": "Brotherhood of the Popcorn", "slug_title": "brotherhood-of-the-popcorn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

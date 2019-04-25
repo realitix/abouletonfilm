@@ -1,1 +1,0 @@
-{"tmdb_id": 579357, "title": "Da tie nu", "original_title": "Da tie nu", "slug_title": "da-tie-nu", "date": "1974-05-26", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1FLYaUGvuNIoX9tttYmOT34kxHY.jpg", "actors": [], "comments": [], "recommandations_id": []}

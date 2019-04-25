@@ -1,1 +1,0 @@
-{"tmdb_id": 293287, "title": "Opium War", "original_title": "\u9d09\u7247\u6230\u722d", "slug_title": "opium-war", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mIGGImST5Ozo3ZPI4slqPrmR3jV.jpg", "actors": [], "comments": [], "recommandations_id": []}

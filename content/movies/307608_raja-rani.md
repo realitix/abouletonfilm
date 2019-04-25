@@ -1,1 +1,1 @@
-{"tmdb_id": 307608, "title": "Raja Rani", "original_title": "Raja Rani", "slug_title": "raja-rani", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 307608, "title": "Raja Rani", "original_title": "Raja Rani", "slug_title": "raja-rani", "date": "1956-01-01", "genre": [""], "score": "0.0/10", "synopsis": "No Overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

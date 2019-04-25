@@ -1,1 +1,0 @@
-{"tmdb_id": 256582, "title": "Carpe Diem", "original_title": "Carpe Diem", "slug_title": "carpe-diem", "date": "1996-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Terje Haakonsen ()", "Jim Rippey ()", "Johan Olofsson ()", "Kevin Jones ()"], "comments": [], "recommandations_id": []}

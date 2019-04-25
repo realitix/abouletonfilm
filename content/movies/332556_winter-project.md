@@ -1,1 +1,0 @@
-{"tmdb_id": 332556, "title": "Winter Project", "original_title": "Winter Project", "slug_title": "winter-project", "date": "2014-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

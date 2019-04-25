@@ -1,1 +1,0 @@
-{"tmdb_id": 469461, "title": "Last Words: The Battle for Arnhem Bridge", "original_title": "Last Words: The Battle for Arnhem Bridge", "slug_title": "last-words-the-battle-for-arnhem-bridge", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

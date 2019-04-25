@@ -1,1 +1,0 @@
-{"tmdb_id": 294309, "title": "The Great Night", "original_title": "Velk\u00e1 noc", "slug_title": "the-great-night", "date": "2015-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cMq06HlOok7T1mVtNQkf4wgpV7Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

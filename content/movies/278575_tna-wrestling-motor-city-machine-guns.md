@@ -1,1 +1,0 @@
-{"tmdb_id": 278575, "title": "TNA Wrestling: Motor City Machine Guns", "original_title": "TNA Wrestling: Motor City Machine Guns", "slug_title": "tna-wrestling-motor-city-machine-guns", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

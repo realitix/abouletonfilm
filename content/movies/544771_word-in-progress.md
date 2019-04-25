@@ -1,1 +1,0 @@
-{"tmdb_id": 544771, "title": "Word In Progress", "original_title": "Word In Progress", "slug_title": "word-in-progress", "date": "2010-07-28", "genre": "", "score": "0.0/10", "synopsis": "Ab\u00e9c\u00e9daire", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ze6MzPhs5p8qdifG18Z2JV842iv.jpg", "actors": [], "comments": [], "recommandations_id": []}

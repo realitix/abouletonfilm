@@ -1,1 +1,0 @@
-{"tmdb_id": 161196, "title": "Geert Hoste: Sterk", "original_title": "Geert Hoste: Sterk", "slug_title": "geert-hoste-sterk", "date": "1999-12-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sOQswTzlnV2caJqXgAdSK0ItF4I.jpg", "actors": ["Geert Hoste (Geert Hoste)"], "comments": [], "recommandations_id": []}

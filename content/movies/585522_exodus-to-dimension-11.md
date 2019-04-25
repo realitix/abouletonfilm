@@ -1,1 +1,0 @@
-{"tmdb_id": 585522, "title": "Exodus to Dimension 11", "original_title": "Exodus to Dimension 11", "slug_title": "exodus-to-dimension-11", "date": "2011-01-11", "genre": "Science-Fiction / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8rFiAQ7D3uURGK1ZyzgqjSXKoWi.jpg", "actors": [], "comments": [], "recommandations_id": []}

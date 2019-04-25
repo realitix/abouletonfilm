@@ -1,1 +1,0 @@
-{"tmdb_id": 324393, "title": "Choice Cuts", "original_title": "Choice Cuts", "slug_title": "choice-cuts", "date": "2014-10-27", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonathan West (Carl)", "Kristin Condon (Young Woman)", "Joe Cipriano (Boy)", "Josh West (Zeke)"], "comments": [], "recommandations_id": []}

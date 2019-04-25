@@ -1,1 +1,0 @@
-{"tmdb_id": 54824, "title": "Boxed In", "original_title": "Boxed In", "slug_title": "boxed-in", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

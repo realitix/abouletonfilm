@@ -1,1 +1,0 @@
-{"tmdb_id": 475933, "title": "Comme des lions", "original_title": "Comme des lions", "slug_title": "comme-des-lions", "date": "2016-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/izejEK0R7Lufqmv1bv1wiMcyueA.jpg", "actors": [], "comments": [], "recommandations_id": []}

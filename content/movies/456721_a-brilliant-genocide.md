@@ -1,1 +1,0 @@
-{"tmdb_id": 456721, "title": "A Brilliant Genocide", "original_title": "A Brilliant Genocide", "slug_title": "a-brilliant-genocide", "date": "2016-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zHr730zXu02KrYtfHySLGOWl3x6.jpg", "actors": [], "comments": [], "recommandations_id": []}

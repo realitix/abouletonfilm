@@ -1,1 +1,0 @@
-{"tmdb_id": 412675, "title": "Singing to Myself", "original_title": "Singing to Myself", "slug_title": "singing-to-myself", "date": "2016-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sophie MacLean (Iris)", "Bryde MacLean (Celeste)", "Heidi Grant ()", "Carl Peterson ()"], "comments": [], "recommandations_id": []}

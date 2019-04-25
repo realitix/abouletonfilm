@@ -1,1 +1,0 @@
-{"tmdb_id": 411564, "title": "A Spurious Emission", "original_title": "A Spurious Emission", "slug_title": "a-spurious-emission", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sg5YuqYGTaVJR9fGcxmL0PFGboL.jpg", "actors": [], "comments": [], "recommandations_id": []}

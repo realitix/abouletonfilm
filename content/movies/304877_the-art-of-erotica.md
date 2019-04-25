@@ -1,1 +1,0 @@
-{"tmdb_id": 304877, "title": "The Art of Erotica", "original_title": "The Art of Erotica", "slug_title": "the-art-of-erotica", "date": "2009-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/othBS9xVaSIZ1URlGGmbTP6yl9C.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 555819, "title": "An Eye and a Knife", "original_title": "O Olho e a Faca", "slug_title": "an-eye-and-a-knife", "date": "2018-10-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6JC6PKPKHlvolk12DzbXo7wiVXn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 461004, "title": "What Lies That Way", "original_title": "What Lies That Way", "slug_title": "what-lies-that-way", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 584135, "title": "Gothic Lolitas #3", "original_title": "Gothic Lolitas #3", "slug_title": "gothic-lolitas-3", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zcaUwoTOsSjLQOpq6cgEIpKVAD8.jpg", "actors": ["C.J. ()"], "comments": [], "recommandations_id": []}

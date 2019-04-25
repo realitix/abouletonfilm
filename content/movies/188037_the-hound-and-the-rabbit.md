@@ -1,1 +1,0 @@
-{"tmdb_id": 188037, "title": "The Hound and the Rabbit", "original_title": "The Hound and the Rabbit", "slug_title": "the-hound-and-the-rabbit", "date": "1937-05-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gv8QXBtLOfisUg3IsWiyLEQYh0q.jpg", "actors": [], "comments": [], "recommandations_id": []}

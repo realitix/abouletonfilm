@@ -1,1 +1,0 @@
-{"tmdb_id": 322206, "title": "Mrugaalaya", "original_title": "Mrugaalaya", "slug_title": "mrugaalaya", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

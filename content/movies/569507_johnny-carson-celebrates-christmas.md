@@ -1,1 +1,0 @@
-{"tmdb_id": 569507, "title": "Johnny Carson Celebrates Christmas", "original_title": "Johnny Carson Celebrates Christmas", "slug_title": "johnny-carson-celebrates-christmas", "date": "2008-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Johnny Carson ()"], "comments": [], "recommandations_id": []}

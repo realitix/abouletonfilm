@@ -1,1 +1,0 @@
-{"tmdb_id": 293527, "title": "Gulls and Buoys", "original_title": "Gulls and Buoys", "slug_title": "gulls-and-buoys", "date": "1972-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2OCx9SVh7qaoc7Pmpy9Xab5Rzsn.jpg", "actors": [], "comments": [], "recommandations_id": [162691, 146670, 147819, 164127]}

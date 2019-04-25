@@ -1,1 +1,0 @@
-{"tmdb_id": 195584, "title": "The Artist and the Dummy", "original_title": "L'artiste et le mannequin", "slug_title": "the-artist-and-the-dummy", "date": "1900-05-21", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Georges M\u00e9li\u00e8s (Artiste)"], "comments": [], "recommandations_id": [108285, 194603, 108269, 114143]}

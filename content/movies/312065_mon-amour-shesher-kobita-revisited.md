@@ -1,1 +1,0 @@
-{"tmdb_id": 312065, "title": "Mon Amour: Shesher Kobita Revisited", "original_title": "Mon Amour: Shesher Kobita Revisited", "slug_title": "mon-amour-shesher-kobita-revisited", "date": "2008-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

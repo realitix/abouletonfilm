@@ -1,1 +1,0 @@
-{"tmdb_id": 328068, "title": "The Sorcerer's Apprentice", "original_title": "The Sorcerer's Apprentice", "slug_title": "the-sorcerer-s-apprentice", "date": "1955-07-13", "genre": "Fantastique / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sonia Arova ()"], "comments": [], "recommandations_id": []}

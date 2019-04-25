@@ -1,1 +1,0 @@
-{"tmdb_id": 316574, "title": "Inferior Decorator", "original_title": "Inferior Decorator", "slug_title": "inferior-decorator", "date": "1965-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

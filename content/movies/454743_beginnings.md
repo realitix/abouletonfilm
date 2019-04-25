@@ -1,1 +1,0 @@
-{"tmdb_id": 454743, "title": "Beginnings", "original_title": "Beginnings", "slug_title": "beginnings", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

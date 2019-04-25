@@ -1,1 +1,0 @@
-{"tmdb_id": 308618, "title": "Sikaram", "original_title": "Sikaram", "slug_title": "sikaram", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

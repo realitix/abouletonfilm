@@ -1,1 +1,0 @@
-{"tmdb_id": 125100, "title": "Wednesday", "original_title": "Sreda", "slug_title": "wednesday", "date": "1997-10-13", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uIaWKt3tsVpErNaqA5zxILhagzp.jpg", "actors": [], "comments": [], "recommandations_id": []}

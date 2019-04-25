@@ -1,1 +1,0 @@
-{"tmdb_id": 380573, "title": "Magindanao", "original_title": "Magindanao", "slug_title": "magindanao", "date": "1982-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

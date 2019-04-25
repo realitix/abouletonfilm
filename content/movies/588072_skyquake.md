@@ -1,1 +1,0 @@
-{"tmdb_id": 588072, "title": "Skyquake", "original_title": "Skyquake", "slug_title": "skyquake", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lN1uZyynerAIyG60ErbTjDRJble.jpg", "actors": [], "comments": [], "recommandations_id": []}

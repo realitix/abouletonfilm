@@ -1,1 +1,0 @@
-{"tmdb_id": 436029, "title": "Fat Camp", "original_title": "Fat Camp", "slug_title": "fat-camp", "date": "2006-02-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

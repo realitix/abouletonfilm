@@ -1,1 +1,1 @@
-{"tmdb_id": 355305, "title": "skyrim vid", "original_title": "skyrim vid", "slug_title": "skyrim-vid", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 355305, "title": "skyrim vid", "original_title": "skyrim vid", "slug_title": "skyrim-vid", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "made for my anarchy arcade", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

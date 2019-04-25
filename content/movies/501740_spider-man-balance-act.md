@@ -1,1 +1,0 @@
-{"tmdb_id": 501740, "title": "Spider-Man: Balance Act", "original_title": "Spider-Man: Balance Act", "slug_title": "spider-man-balance-act", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rTekhiTgfJyLXDgEumKngyTBTpY.jpg", "actors": [], "comments": [], "recommandations_id": []}

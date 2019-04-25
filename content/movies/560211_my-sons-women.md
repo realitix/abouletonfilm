@@ -1,1 +1,0 @@
-{"tmdb_id": 560211, "title": "My Son\u2019s Women", "original_title": "My Son\u2019s Women", "slug_title": "my-sons-women", "date": "2018-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qhVSOCKdoxcqtYOpCNDVr4IzxJx.jpg", "actors": [], "comments": [], "recommandations_id": []}

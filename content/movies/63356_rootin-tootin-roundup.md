@@ -1,1 +1,0 @@
-{"tmdb_id": 63356, "title": "Rootin' Tootin' Roundup", "original_title": "Disneys Desperados", "slug_title": "rootin-tootin-roundup", "date": "1989-12-31", "genre": "Animation / Familial", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 336773, "title": "Whatever Comes Next", "original_title": "Whatever Comes Next", "slug_title": "whatever-comes-next", "date": "2014-11-23", "genre": "Documentaire / Histoire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kkSOY6NUzPdDe6afmHDz40vruDQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

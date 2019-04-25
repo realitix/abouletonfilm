@@ -1,1 +1,0 @@
-{"tmdb_id": 499940, "title": "Necktie", "original_title": "Necktie", "slug_title": "necktie", "date": "2013-04-01", "genre": "", "score": "8.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3fR0tTFw4FSmzO3IEiR5Rf61xn9.jpg", "actors": [], "comments": [], "recommandations_id": [91410, 81857, 38810]}

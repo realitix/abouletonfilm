@@ -1,1 +1,0 @@
-{"tmdb_id": 474146, "title": "Prom\u00e9nade", "original_title": "Prom\u00e9nade", "slug_title": "promenade", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yKavf6LPwcyzH5JAkyZ6Jwpl0rn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 528403, "title": "ADHD Is Necessary", "original_title": "\u5fc5\u9808\u904e\u52d5", "slug_title": "adhd-is-necessary", "date": "2018-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/waNEgEuzhxMV8uCZgiruDYStfXk.jpg", "actors": [], "comments": [], "recommandations_id": []}

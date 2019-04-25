@@ -1,1 +1,0 @@
-{"tmdb_id": 103318, "title": "Primal Scream Live in London", "original_title": "Primal Scream Live in London", "slug_title": "primal-scream-live-in-london", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

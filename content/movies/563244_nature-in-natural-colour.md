@@ -1,1 +1,0 @@
-{"tmdb_id": 563244, "title": "Nature in Natural Colour", "original_title": "Priroda u naravnim bojama I i II", "slug_title": "nature-in-natural-colour", "date": "1933-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 475656, "title": "Immortals", "original_title": "Immortals", "slug_title": "immortals", "date": "2017-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rFltsTP415zUpQucrWGcC9CpdCr.jpg", "actors": [], "comments": [], "recommandations_id": []}

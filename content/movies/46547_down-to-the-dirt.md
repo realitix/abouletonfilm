@@ -1,1 +1,0 @@
-{"tmdb_id": 46547, "title": "Down to the Dirt", "original_title": "Down to the Dirt", "slug_title": "down-to-the-dirt", "date": "2008-10-24", "genre": "Drame", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qlKOSae5PqXBnwK5DQmTHiVuteI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 364219, "title": "Captive Audience", "original_title": "Captive Audience", "slug_title": "captive-audience", "date": "2011-11-22", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

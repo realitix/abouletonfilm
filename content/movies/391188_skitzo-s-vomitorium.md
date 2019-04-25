@@ -1,1 +1,0 @@
-{"tmdb_id": 391188, "title": "Skitzo's Vomitorium", "original_title": "Skitzo's Vomitorium", "slug_title": "skitzo-s-vomitorium", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4r3IPC8lPZer806wuyPy8iQPuAL.jpg", "actors": [], "comments": [], "recommandations_id": []}

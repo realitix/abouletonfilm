@@ -1,1 +1,0 @@
-{"tmdb_id": 250692, "title": "Moving Art: Flowers", "original_title": "Moving Art: Flowers", "slug_title": "moving-art-flowers", "date": "2014-02-12", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8bMNlhfTGPxHFAf7dlkWvEPczQw.jpg", "actors": [], "comments": [], "recommandations_id": [368667, 250693, 250691, 324325]}

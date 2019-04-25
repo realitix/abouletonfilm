@@ -1,1 +1,0 @@
-{"tmdb_id": 174419, "title": "Honky-Donkey", "original_title": "Honky-Donkey", "slug_title": "honky-donkey", "date": "1934-06-01", "genre": "Com\u00e9die / Familial", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4HOZQU9b1STG0mhw858OLxZqufJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

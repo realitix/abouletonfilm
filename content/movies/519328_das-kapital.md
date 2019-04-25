@@ -1,1 +1,0 @@
-{"tmdb_id": 519328, "title": "Das Kapital", "original_title": "Das Kapital", "slug_title": "das-kapital", "date": "2009-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xorp3UbCRI8hYB5alPEvvcq7Hs.jpg", "actors": [], "comments": [], "recommandations_id": []}

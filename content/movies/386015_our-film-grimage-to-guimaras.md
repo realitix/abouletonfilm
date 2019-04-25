@@ -1,1 +1,0 @@
-{"tmdb_id": 386015, "title": "Our Film-Grimage to Guimaras", "original_title": "Our Film-Grimage to Guimaras", "slug_title": "our-film-grimage-to-guimaras", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

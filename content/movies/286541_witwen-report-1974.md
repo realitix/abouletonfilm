@@ -1,1 +1,0 @@
-{"tmdb_id": 286541, "title": "Witwen Report 1974", "original_title": "Witwen Report 1974", "slug_title": "witwen-report-1974", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

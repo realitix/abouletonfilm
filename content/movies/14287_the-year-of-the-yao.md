@@ -1,1 +1,0 @@
-{"tmdb_id": 14287, "title": "The Year of the Yao", "original_title": "The Year of the Yao", "slug_title": "the-year-of-the-yao", "date": "2004-09-16", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a0AQ2rnDZx08I0Kc2pjd0G87ln5.jpg", "actors": [], "comments": [], "recommandations_id": []}

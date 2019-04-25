@@ -1,1 +1,0 @@
-{"tmdb_id": 484439, "title": "Bicycle Today, Automobile Tomorrow.", "original_title": "Bicycle Today, Automobile Tomorrow.", "slug_title": "bicycle-today-automobile-tomorrow", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

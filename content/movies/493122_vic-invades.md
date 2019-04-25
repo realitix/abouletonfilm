@@ -1,1 +1,0 @@
-{"tmdb_id": 493122, "title": "Vic Invades", "original_title": "Vic Invades", "slug_title": "vic-invades", "date": "2015-11-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

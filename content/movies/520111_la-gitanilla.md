@@ -1,1 +1,0 @@
-{"tmdb_id": 520111, "title": "La gitanilla", "original_title": "La gitanilla", "slug_title": "la-gitanilla", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

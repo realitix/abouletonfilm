@@ -1,1 +1,0 @@
-{"tmdb_id": 507385, "title": "Rock Bottom: Gay Men & Meth", "original_title": "Rock Bottom: Gay Men & Meth", "slug_title": "rock-bottom-gay-men-meth", "date": "2006-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bJM8CgNmS08Pdu9hrwHF3ChNQsY.jpg", "actors": [], "comments": [], "recommandations_id": []}

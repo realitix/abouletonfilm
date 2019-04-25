@@ -1,1 +1,0 @@
-{"tmdb_id": 100602, "title": "Coming!! Snafu", "original_title": "Coming!! Snafu", "slug_title": "coming-snafu", "date": "1943-06-01", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bt3jVBZYIr5MTShNv2CSl8voli8.jpg", "actors": ["Mel Blanc (Pvt. Snafu)", "Frank Graham (Narrator)"], "comments": [], "recommandations_id": []}

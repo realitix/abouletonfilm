@@ -1,1 +1,0 @@
-{"tmdb_id": 472619, "title": "Blood Sky", "original_title": "Blood Sky", "slug_title": "blood-sky", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

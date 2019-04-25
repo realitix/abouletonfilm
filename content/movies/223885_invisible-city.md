@@ -1,1 +1,0 @@
-{"tmdb_id": 223885, "title": "Invisible City", "original_title": "Invisible City", "slug_title": "invisible-city", "date": "2009-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kzh7nhdHvRAULVZeElOFY8n6IGg.jpg", "actors": [], "comments": [], "recommandations_id": []}

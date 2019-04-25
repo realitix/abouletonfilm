@@ -1,1 +1,0 @@
-{"tmdb_id": 403286, "title": "Enraged by a Picture", "original_title": "Enraged by a Picture", "slug_title": "enraged-by-a-picture", "date": "2006-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

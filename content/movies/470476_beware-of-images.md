@@ -1,1 +1,0 @@
-{"tmdb_id": 470476, "title": "Beware of Images", "original_title": "Beware of Images", "slug_title": "beware-of-images", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6xKYGxsU3zu7MvL9Oq8rVkOPdVw.jpg", "actors": [], "comments": [], "recommandations_id": []}

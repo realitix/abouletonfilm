@@ -1,1 +1,0 @@
-{"tmdb_id": 491764, "title": "The First Round Dance", "original_title": "The First Round Dance", "slug_title": "the-first-round-dance", "date": "2001-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zwarcyvqhHzjF1EssTE1Tl0w39F.jpg", "actors": [], "comments": [], "recommandations_id": []}

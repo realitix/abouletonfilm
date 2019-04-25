@@ -1,1 +1,0 @@
-{"tmdb_id": 442778, "title": "The Way of All Pests", "original_title": "The Way of All Pests", "slug_title": "the-way-of-all-pests", "date": "1941-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mel Blanc (Various Bugs (voice))"], "comments": [], "recommandations_id": []}

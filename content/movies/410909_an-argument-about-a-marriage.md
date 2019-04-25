@@ -1,1 +1,0 @@
-{"tmdb_id": 410909, "title": "An Argument About a Marriage", "original_title": "An Argument About a Marriage", "slug_title": "an-argument-about-a-marriage", "date": "1969-08-11", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/slINYI77gywM0YHOGeHIF45KsA1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 118795, "title": "Aurillac, la ville du parapluie", "original_title": "Aurillac, la ville du parapluie", "slug_title": "aurillac-la-ville-du-parapluie", "date": "2011-08-16", "genre": "", "score": "7.0/10", "synopsis": "documentaire", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

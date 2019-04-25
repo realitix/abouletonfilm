@@ -1,1 +1,0 @@
-{"tmdb_id": 202037, "title": "Lassies Abenteuer in Alaska", "original_title": "Lassies Abenteuer in Alaska", "slug_title": "lassies-abenteuer-in-alaska", "date": "1960-02-07", "genre": "Action / Aventure / Familial / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

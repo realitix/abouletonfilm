@@ -1,1 +1,0 @@
-{"tmdb_id": 566644, "title": "Kiss My Ashes", "original_title": "Kiss My Ashes", "slug_title": "kiss-my-ashes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x527Uv7fdky4kzm1oHoGLtZ9jSo.jpg", "actors": [], "comments": [], "recommandations_id": []}

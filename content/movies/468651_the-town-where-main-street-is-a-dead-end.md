@@ -1,1 +1,0 @@
-{"tmdb_id": 468651, "title": "The Town Where Main Street Is A Dead End", "original_title": "The Town Where Main Street Is A Dead End", "slug_title": "the-town-where-main-street-is-a-dead-end", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

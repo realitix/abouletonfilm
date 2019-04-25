@@ -1,1 +1,0 @@
-{"tmdb_id": 535941, "title": "Blueprint for Bronzeville", "original_title": "Blueprint for Bronzeville", "slug_title": "blueprint-for-bronzeville", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

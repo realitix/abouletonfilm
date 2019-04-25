@@ -1,1 +1,0 @@
-{"tmdb_id": 224449, "title": "Angry Kid: Russian Roulette", "original_title": "Angry Kid: Russian Roulette", "slug_title": "angry-kid-russian-roulette", "date": "2002-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4zJhZqtm5XuBRdINEWoimnBSIJ9.jpg", "actors": [], "comments": [], "recommandations_id": []}

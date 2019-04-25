@@ -1,1 +1,0 @@
-{"tmdb_id": 280829, "title": "Cap Bocage", "original_title": "Cap Bocage", "slug_title": "cap-bocage", "date": "2014-07-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

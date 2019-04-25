@@ -1,1 +1,0 @@
-{"tmdb_id": 435030, "title": "Barack Obama: The Reality of Hope", "original_title": "Barack Obama: The Reality of Hope", "slug_title": "barack-obama-the-reality-of-hope", "date": "2017-01-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

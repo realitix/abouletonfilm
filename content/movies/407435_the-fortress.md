@@ -1,1 +1,0 @@
-{"tmdb_id": 407435, "title": "The Fortress", "original_title": "The Fortress", "slug_title": "the-fortress", "date": "2020-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

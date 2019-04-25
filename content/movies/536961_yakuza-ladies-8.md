@@ -1,1 +1,0 @@
-{"tmdb_id": 536961, "title": "Yakuza Ladies 8", "original_title": "\u6975\u9053\u306e\u59bb\u305f\u3061 \u8d64\u3044\u6bba\u610f", "slug_title": "yakuza-ladies-8", "date": "1999-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j00P8lt2mBwu6bmVZpgbdVfw1Ui.jpg", "actors": [], "comments": [], "recommandations_id": []}

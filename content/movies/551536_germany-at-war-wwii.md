@@ -1,1 +1,0 @@
-{"tmdb_id": 551536, "title": "Germany At War: WWII", "original_title": "Germany At War: WWII", "slug_title": "germany-at-war-wwii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vgAtD4LsKDKisHjsEPkHuKuJdny.jpg", "actors": [], "comments": [], "recommandations_id": []}

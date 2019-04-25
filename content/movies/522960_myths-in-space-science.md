@@ -1,1 +1,0 @@
-{"tmdb_id": 522960, "title": "Myths in Space Science", "original_title": "Myths in Space Science", "slug_title": "myths-in-space-science", "date": "2008-07-19", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James R. Bartzen, III (Himself)"], "comments": [], "recommandations_id": []}

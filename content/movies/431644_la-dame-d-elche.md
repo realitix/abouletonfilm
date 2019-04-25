@@ -1,1 +1,0 @@
-{"tmdb_id": 431644, "title": "La Dame d'Elche", "original_title": "La Dame d'Elche", "slug_title": "la-dame-d-elche", "date": "1964-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nJ4XeL20fkDGncBYR9qDqM8wMA2.jpg", "actors": [], "comments": [], "recommandations_id": []}

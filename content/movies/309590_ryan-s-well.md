@@ -1,1 +1,0 @@
-{"tmdb_id": 309590, "title": "Ryan's Well", "original_title": "Ryan's Well", "slug_title": "ryan-s-well", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 408069, "title": "Sunshine for Breakfast", "original_title": "Sunshine for Breakfast", "slug_title": "sunshine-for-breakfast", "date": "2013-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

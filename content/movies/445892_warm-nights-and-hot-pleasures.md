@@ -1,1 +1,0 @@
-{"tmdb_id": 445892, "title": "Warm Nights and Hot Pleasures", "original_title": "Warm Nights and Hot Pleasures", "slug_title": "warm-nights-and-hot-pleasures", "date": "1964-10-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/re8PhlBRlvARZFyNWAS5WpYo6u9.jpg", "actors": [], "comments": [], "recommandations_id": []}

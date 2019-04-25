@@ -1,1 +1,0 @@
-{"tmdb_id": 221000, "title": "Roger of the Raj", "original_title": "Roger of the Raj", "slug_title": "roger-of-the-raj", "date": "1979-10-23", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Palin ()"], "comments": [], "recommandations_id": []}

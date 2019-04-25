@@ -1,1 +1,0 @@
-{"tmdb_id": 306371, "title": "Danda Gopuram", "original_title": "Danda Gopuram", "slug_title": "danda-gopuram", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

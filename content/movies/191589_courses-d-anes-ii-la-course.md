@@ -1,1 +1,0 @@
-{"tmdb_id": 191589, "title": "Courses d'\u00e2nes: II, la course", "original_title": "Courses d'\u00e2nes: II, la course", "slug_title": "courses-d-anes-ii-la-course", "date": "1896-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 180198, "title": "Valtari", "original_title": "Valtari", "slug_title": "valtari", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A2o0QbXDPwfTzVX5rpuEldWZ93Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 560945, "title": "Writing Home", "original_title": "Writing Home", "slug_title": "writing-home", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

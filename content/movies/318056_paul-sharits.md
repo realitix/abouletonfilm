@@ -1,1 +1,0 @@
-{"tmdb_id": 318056, "title": "Paul Sharits", "original_title": "Paul Sharits", "slug_title": "paul-sharits", "date": "2015-01-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nq8IeWridIF5kVyfnSDbbDgNbhw.jpg", "actors": ["Paul Sharits (Himself)"], "comments": [], "recommandations_id": []}

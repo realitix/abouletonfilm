@@ -1,1 +1,0 @@
-{"tmdb_id": 235146, "title": "Hold That Rock", "original_title": "Hold That Rock", "slug_title": "hold-that-rock", "date": "1956-07-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r4qsnkeKF2A4wRiP7H15JW6BveV.jpg", "actors": ["Daws Butler ((voices))"], "comments": [], "recommandations_id": []}

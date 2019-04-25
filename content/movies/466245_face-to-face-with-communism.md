@@ -1,1 +1,0 @@
-{"tmdb_id": 466245, "title": "Face to Face with Communism", "original_title": "Face to Face with Communism", "slug_title": "face-to-face-with-communism", "date": "1951-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

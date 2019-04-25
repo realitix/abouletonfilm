@@ -1,1 +1,0 @@
-{"tmdb_id": 346561, "title": "Lost Control", "original_title": "\u5b8c\u5168\u5931\u63a7", "slug_title": "lost-control", "date": "1997-10-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nKw2zM04cB4yK6Nd4yTAz1Gqux8.jpg", "actors": [], "comments": [], "recommandations_id": []}

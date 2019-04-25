@@ -1,1 +1,0 @@
-{"tmdb_id": 68565, "title": "18 Shades of Dust", "original_title": "18 Shades of Dust", "slug_title": "18-shades-of-dust", "date": "2001-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

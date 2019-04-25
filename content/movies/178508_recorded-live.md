@@ -1,1 +1,0 @@
-{"tmdb_id": 178508, "title": "Recorded Live", "original_title": "Recorded Live", "slug_title": "recorded-live", "date": "1975-01-01", "genre": "Com\u00e9die / Horreur", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nmwgM6Rn1TpvXEnwhAMV1jtyKLi.jpg", "actors": ["John Goodwin (Mr. Aaines)"], "comments": [], "recommandations_id": []}

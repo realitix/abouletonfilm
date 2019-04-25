@@ -1,1 +1,0 @@
-{"tmdb_id": 204408, "title": "Kaleidoscope", "original_title": "Chaalchitra", "slug_title": "kaleidoscope", "date": "1981-01-07", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hOQlmBFVctnjvlbevL6b89dqt8B.jpg", "actors": ["Anjan Dutt ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 428467, "title": "Chuthattam", "original_title": "Chuthattam", "slug_title": "chuthattam", "date": "2016-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

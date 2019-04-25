@@ -1,1 +1,0 @@
-{"tmdb_id": 395227, "title": "J\u00e1aji Approx.", "original_title": "J\u00e1aji Approx.", "slug_title": "jaaji-approx", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

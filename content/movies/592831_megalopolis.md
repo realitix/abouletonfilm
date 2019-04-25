@@ -1,1 +1,0 @@
-{"tmdb_id": 592831, "title": "Megalopolis", "original_title": "Megalopolis", "slug_title": "megalopolis", "date": "", "genre": "Drame / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 580534, "title": "Double Vision", "original_title": "Double Vision", "slug_title": "double-vision", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luke Camilleri (John)", "Natasha Wilson (Kim)"], "comments": [], "recommandations_id": []}

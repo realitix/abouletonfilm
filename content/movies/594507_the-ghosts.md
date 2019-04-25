@@ -1,1 +1,0 @@
-{"tmdb_id": 594507, "title": "The ghosts", "original_title": "Los Fantasmas", "slug_title": "the-ghosts", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gqZDXp1fXFyBOvYvTNLWnRDRmJM.jpg", "actors": [], "comments": [], "recommandations_id": []}

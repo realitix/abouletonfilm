@@ -1,1 +1,0 @@
-{"tmdb_id": 516120, "title": "Keith Stubbs: Pound Cake", "original_title": "Keith Stubbs: Pound Cake", "slug_title": "keith-stubbs-pound-cake", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

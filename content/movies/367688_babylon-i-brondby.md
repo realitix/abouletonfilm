@@ -1,1 +1,0 @@
-{"tmdb_id": 367688, "title": "Babylon i Br\u00f6ndby", "original_title": "Babylon i Br\u00f6ndby", "slug_title": "babylon-i-brondby", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

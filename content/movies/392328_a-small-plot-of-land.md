@@ -1,1 +1,0 @@
-{"tmdb_id": 392328, "title": "A Small Plot of Land", "original_title": "Pedacito de tierra", "slug_title": "a-small-plot-of-land", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ToPXdMTDoY6Va91aNFeeO9r6M1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 467744, "title": "La bataille de France", "original_title": "La bataille de France", "slug_title": "la-bataille-de-france", "date": "1964-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Aijjs0I1TMSBShnkVKE6FI6RL.jpg", "actors": [], "comments": [], "recommandations_id": []}

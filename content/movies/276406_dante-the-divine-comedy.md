@@ -1,1 +1,0 @@
-{"tmdb_id": 276406, "title": "Dante: The Divine Comedy", "original_title": "Dante: The Divine Comedy", "slug_title": "dante-the-divine-comedy", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gCpvKgYjPagiUok8tsg6mD4RYiV.jpg", "actors": [], "comments": [], "recommandations_id": []}

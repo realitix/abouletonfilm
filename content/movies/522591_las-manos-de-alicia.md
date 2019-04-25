@@ -1,1 +1,0 @@
-{"tmdb_id": 522591, "title": "Las manos de Alicia", "original_title": "Las manos de Alicia", "slug_title": "las-manos-de-alicia", "date": "", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eKedPadvjP9Xdivh0HZAiyJBQ6z.jpg", "actors": [], "comments": [], "recommandations_id": []}

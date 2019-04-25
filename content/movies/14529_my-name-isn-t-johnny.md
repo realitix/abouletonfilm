@@ -1,1 +1,0 @@
-{"tmdb_id": 14529, "title": "My Name Isn't Johnny", "original_title": "My Name Isn't Johnny", "slug_title": "my-name-isn-t-johnny", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

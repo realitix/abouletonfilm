@@ -1,1 +1,0 @@
-{"tmdb_id": 234783, "title": "Fun on Furlough", "original_title": "Fun on Furlough", "slug_title": "fun-on-furlough", "date": "1959-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 44314, "title": "High Hopes", "original_title": "High Hopes", "slug_title": "high-hopes", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

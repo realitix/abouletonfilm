@@ -1,1 +1,0 @@
-{"tmdb_id": 473522, "title": "Narmada: A Valley Rises", "original_title": "Narmada: A Valley Rises", "slug_title": "narmada-a-valley-rises", "date": "1994-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

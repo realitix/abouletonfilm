@@ -1,1 +1,0 @@
-{"tmdb_id": 399313, "title": "Wild Blue Yonder", "original_title": "Wild Blue Yonder", "slug_title": "wild-blue-yonder", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

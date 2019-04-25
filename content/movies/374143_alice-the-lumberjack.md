@@ -1,1 +1,0 @@
-{"tmdb_id": 374143, "title": "Alice the Lumberjack", "original_title": "Alice the Lumberjack", "slug_title": "alice-the-lumberjack", "date": "1926-12-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hLM6JhavzfdaUiLJPqxFduuYChS.jpg", "actors": ["Margie Gay (Alice)"], "comments": [], "recommandations_id": []}

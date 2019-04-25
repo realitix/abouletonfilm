@@ -1,1 +1,0 @@
-{"tmdb_id": 304128, "title": "Dil Ki Karen", "original_title": "Dil Ki Karen", "slug_title": "dil-ki-karen", "date": "2006-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 585326, "title": "Lady Parts Justice in the New World Order", "original_title": "Lady Parts Justice in the New World Order", "slug_title": "lady-parts-justice-in-the-new-world-order", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 387993, "title": "Monster Truck Classics", "original_title": "Monster Truck Classics", "slug_title": "monster-truck-classics", "date": "2013-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wxnjcUwxzB6GnJS6fOWL2mhZF9M.jpg", "actors": [], "comments": [], "recommandations_id": []}

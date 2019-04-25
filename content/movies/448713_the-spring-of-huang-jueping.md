@@ -1,1 +1,0 @@
-{"tmdb_id": 448713, "title": "The Spring of Huang Jueping", "original_title": "The Spring of Huang Jueping", "slug_title": "the-spring-of-huang-jueping", "date": "2017-03-22", "genre": "Histoire / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

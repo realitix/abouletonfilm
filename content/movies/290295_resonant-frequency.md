@@ -1,1 +1,0 @@
-{"tmdb_id": 290295, "title": "Resonant Frequency", "original_title": "Resonant Frequency", "slug_title": "resonant-frequency", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alex Lanipekun ()", "Sharea Samuels ()", "Corinne Skinner-Carter ()", "Danny Devall ()"], "comments": [], "recommandations_id": []}

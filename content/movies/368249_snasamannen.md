@@ -1,1 +1,0 @@
-{"tmdb_id": 368249, "title": "Sn\u00e5samannen", "original_title": "Sn\u00e5samannen", "slug_title": "snasamannen", "date": "2015-10-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vqyugp9l6V7nyPqQijRxDAwF7E8.jpg", "actors": [], "comments": [], "recommandations_id": []}

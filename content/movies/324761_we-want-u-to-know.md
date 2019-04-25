@@ -1,1 +1,0 @@
-{"tmdb_id": 324761, "title": "We Want (U) to Know", "original_title": "We Want (U) to Know", "slug_title": "we-want-u-to-know", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

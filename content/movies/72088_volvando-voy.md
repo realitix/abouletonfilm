@@ -1,1 +1,0 @@
-{"tmdb_id": 72088, "title": "Volvando voy", "original_title": "Volvando voy", "slug_title": "volvando-voy", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

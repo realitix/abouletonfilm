@@ -1,1 +1,0 @@
-{"tmdb_id": 424631, "title": "El \u00faltimo minuto", "original_title": "El \u00faltimo minuto", "slug_title": "el-ultimo-minuto", "date": "1936-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

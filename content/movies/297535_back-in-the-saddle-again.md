@@ -1,1 +1,0 @@
-{"tmdb_id": 297535, "title": "Back in the Saddle Again", "original_title": "Back in the Saddle Again", "slug_title": "back-in-the-saddle-again", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u7TqcPWSlIWXQQx1xLUxmeI17JE.jpg", "actors": [], "comments": [], "recommandations_id": []}

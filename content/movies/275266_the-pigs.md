@@ -1,1 +1,0 @@
-{"tmdb_id": 275266, "title": "The Pigs", "original_title": "Els Porcs", "slug_title": "the-pigs", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ntO4vee8OAFWCe19cP4JWqzVBA.jpg", "actors": ["Rosa Morata ()", "Troupe del Vall\u00e9s Occidental ()"], "comments": [], "recommandations_id": []}

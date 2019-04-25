@@ -1,1 +1,0 @@
-{"tmdb_id": 556902, "title": "The Ballad of a Rooster", "original_title": "Balada o pijetlu", "slug_title": "the-ballad-of-a-rooster", "date": "1964-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

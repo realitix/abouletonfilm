@@ -1,1 +1,0 @@
-{"tmdb_id": 272475, "title": "Benji at Marineland", "original_title": "Benji at Marineland", "slug_title": "benji-at-marineland", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

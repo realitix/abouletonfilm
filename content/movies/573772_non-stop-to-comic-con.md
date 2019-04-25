@@ -1,1 +1,0 @@
-{"tmdb_id": 573772, "title": "Non-Stop to Comic-Con", "original_title": "Non-Stop to Comic-Con", "slug_title": "non-stop-to-comic-con", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 325310, "title": "My Baby Angel", "original_title": "My Baby Angel", "slug_title": "my-baby-angel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 170992, "title": "Meeting a Milestone", "original_title": "Meeting a Milestone", "slug_title": "meeting-a-milestone", "date": "1989-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tQReHQuqzcz3QeX8N4ll0DpU48j.jpg", "actors": [], "comments": [], "recommandations_id": []}

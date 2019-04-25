@@ -1,1 +1,0 @@
-{"tmdb_id": 490436, "title": "Devil in the Flesh", "original_title": "Diablo en la Piel", "slug_title": "devil-in-the-flesh", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

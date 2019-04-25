@@ -1,1 +1,0 @@
-{"tmdb_id": 571604, "title": "Familles, je vous hais", "original_title": "Familles, je vous hais", "slug_title": "familles-je-vous-hais", "date": "1997-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/499XGUCn3vOgTlCFwGNQoJR4nNl.jpg", "actors": [], "comments": [], "recommandations_id": []}

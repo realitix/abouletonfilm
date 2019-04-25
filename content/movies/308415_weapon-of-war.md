@@ -1,1 +1,0 @@
-{"tmdb_id": 308415, "title": "Weapon of War", "original_title": "Weapon of War", "slug_title": "weapon-of-war", "date": "1944-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

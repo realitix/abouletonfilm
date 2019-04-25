@@ -1,1 +1,0 @@
-{"tmdb_id": 190425, "title": "MAGIE DER BERGWELT 3D", "original_title": "MAGIE DER BERGWELT 3D", "slug_title": "magie-der-bergwelt-3d", "date": "2012-01-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/klqdXY1MR5NmcsmSspXvVD2UMLH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 354502, "title": "Container", "original_title": "Container", "slug_title": "container", "date": "2001-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

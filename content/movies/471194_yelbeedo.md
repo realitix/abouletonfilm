@@ -1,1 +1,0 @@
-{"tmdb_id": 471194, "title": "Yelbeedo", "original_title": "Yelbeedo", "slug_title": "yelbeedo", "date": "1990-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

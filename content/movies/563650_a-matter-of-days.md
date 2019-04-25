@@ -1,1 +1,0 @@
-{"tmdb_id": 563650, "title": "A Matter of Days", "original_title": "\u00c0 quelques jours pr\u00e8s", "slug_title": "a-matter-of-days", "date": "1969-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z2cAO0dL9OqLnCGcJRmhlpEai8S.jpg", "actors": [], "comments": [], "recommandations_id": []}

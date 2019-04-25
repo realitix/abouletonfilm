@@ -1,1 +1,0 @@
-{"tmdb_id": 461374, "title": "Grrrl Love and Revolution: Riot Grrrl NYC", "original_title": "Grrrl Love and Revolution: Riot Grrrl NYC", "slug_title": "grrrl-love-and-revolution-riot-grrrl-nyc", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

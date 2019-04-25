@@ -1,1 +1,0 @@
-{"tmdb_id": 280126, "title": "H\u00e5ndv\u00e6rkerskolen - Snedker", "original_title": "H\u00e5ndv\u00e6rkerskolen - Snedker", "slug_title": "handvaerkerskolen-snedker", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zGYf7M8A6J6eCruD9o1UhJq4JjQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

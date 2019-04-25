@@ -1,1 +1,0 @@
-{"tmdb_id": 97305, "title": "Solar System", "original_title": "Sonnensystem", "slug_title": "solar-system", "date": "2011-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qi0kx3U0b5LD1QqUMp1L41zZbpu.jpg", "actors": [], "comments": [], "recommandations_id": []}

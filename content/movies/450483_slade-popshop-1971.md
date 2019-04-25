@@ -1,1 +1,0 @@
-{"tmdb_id": 450483, "title": "Slade - Popshop 1971", "original_title": "Slade - Popshop 1971", "slug_title": "slade-popshop-1971", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fAWQY6ZqrKKQeD47LfgHbxgHik1.jpg", "actors": [], "comments": [], "recommandations_id": []}

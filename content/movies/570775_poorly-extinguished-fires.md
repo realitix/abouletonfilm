@@ -1,1 +1,0 @@
-{"tmdb_id": 570775, "title": "Poorly Extinguished Fires", "original_title": "Des feux mal \u00e9teints", "slug_title": "poorly-extinguished-fires", "date": "1994-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3MtCAwkWBWX82SsJhKQO6xx687v.jpg", "actors": [], "comments": [], "recommandations_id": []}

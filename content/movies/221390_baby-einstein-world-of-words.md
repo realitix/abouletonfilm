@@ -1,1 +1,0 @@
-{"tmdb_id": 221390, "title": "Baby Einstein: World of Words", "original_title": "Baby Einstein: World of Words", "slug_title": "baby-einstein-world-of-words", "date": "2012-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eaiOcnMnS5gMhCNfzJEuVIOqsh0.jpg", "actors": [], "comments": [], "recommandations_id": []}

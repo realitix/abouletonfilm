@@ -1,1 +1,0 @@
-{"tmdb_id": 474915, "title": "Now Pretend", "original_title": "Now Pretend", "slug_title": "now-pretend", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

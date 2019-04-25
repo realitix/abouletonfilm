@@ -1,1 +1,0 @@
-{"tmdb_id": 506772, "title": "Bellator 194:Mitrione Vs.Nelson", "original_title": "Bellator 194:Mitrione Vs.Nelson", "slug_title": "bellator-194-mitrione-vs-nelson", "date": "2018-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

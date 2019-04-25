@@ -1,1 +1,0 @@
-{"tmdb_id": 532646, "title": "Bus Stop", "original_title": "Bus Stop", "slug_title": "bus-stop", "date": "1981-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2dn91jLzIRJcnHe4BODi1u1zbNP.jpg", "actors": [], "comments": [], "recommandations_id": []}

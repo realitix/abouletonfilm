@@ -1,1 +1,0 @@
-{"tmdb_id": 492978, "title": "Adolf's Busy Day", "original_title": "Adolf's Busy Day", "slug_title": "adolf-s-busy-day", "date": "1940-01-01", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

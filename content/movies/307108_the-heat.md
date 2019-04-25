@@ -1,1 +1,0 @@
-{"tmdb_id": 307108, "title": "The Heat", "original_title": "\u017bar", "slug_title": "the-heat", "date": "2013-07-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1qjpYXo5vTRYJekVLjyWzvEtPMz.jpg", "actors": [], "comments": [], "recommandations_id": []}

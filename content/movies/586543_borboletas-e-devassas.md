@@ -1,1 +1,0 @@
-{"tmdb_id": 586543, "title": "Borboletas e Devassas", "original_title": "Borboletas e Devassas", "slug_title": "borboletas-e-devassas", "date": "2009-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t4vAymfQ58l3A9rMYhlhUBLIgox.jpg", "actors": [], "comments": [], "recommandations_id": []}

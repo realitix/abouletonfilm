@@ -1,1 +1,0 @@
-{"tmdb_id": 312901, "title": "For My Sisters", "original_title": "For My Sisters", "slug_title": "for-my-sisters", "date": "2014-12-13", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wJWmgW514yVizGvDBUYFVIBcBc7.jpg", "actors": ["Carole Alston (Carole Alston)"], "comments": [], "recommandations_id": []}

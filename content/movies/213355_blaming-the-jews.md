@@ -1,1 +1,0 @@
-{"tmdb_id": 213355, "title": "Blaming the Jews", "original_title": "Blaming the Jews", "slug_title": "blaming-the-jews", "date": "2006-09-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sFIwnZNiwokkpgf19LnM59MP0KB.jpg", "actors": ["David Aaronovitch (Presenter)"], "comments": [], "recommandations_id": []}

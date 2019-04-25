@@ -1,1 +1,0 @@
-{"tmdb_id": 425755, "title": "Invisible Killer", "original_title": "Invisible Killer", "slug_title": "invisible-killer", "date": "2009-08-28", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/73CNzIianwACmFbvxwRzG7xtCmc.jpg", "actors": ["Bo Feng ()", "Li Qiang (Yixiang Li)"], "comments": [], "recommandations_id": []}

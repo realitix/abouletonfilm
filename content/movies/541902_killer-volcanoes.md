@@ -1,1 +1,0 @@
-{"tmdb_id": 541902, "title": "Killer Volcanoes", "original_title": "Killer Volcanoes", "slug_title": "killer-volcanoes", "date": "1997-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ngyDg7vHvcDiwOxBM5O47LYzVE1.jpg", "actors": ["Maurice Krafft ()", "Katia Krafft ()"], "comments": [], "recommandations_id": []}

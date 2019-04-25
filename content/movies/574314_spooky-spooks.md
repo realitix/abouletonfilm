@@ -1,1 +1,0 @@
-{"tmdb_id": 574314, "title": "Spooky Spooks", "original_title": "Spooky Spooks", "slug_title": "spooky-spooks", "date": "1920-01-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bud Duncan ()"], "comments": [], "recommandations_id": []}

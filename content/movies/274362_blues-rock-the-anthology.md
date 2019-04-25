@@ -1,1 +1,0 @@
-{"tmdb_id": 274362, "title": "Blues Rock: The Anthology", "original_title": "Blues Rock: The Anthology", "slug_title": "blues-rock-the-anthology", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

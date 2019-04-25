@@ -1,1 +1,0 @@
-{"tmdb_id": 514204, "title": "The Bridge", "original_title": "The Bridge", "slug_title": "the-bridge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

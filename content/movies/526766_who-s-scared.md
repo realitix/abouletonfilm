@@ -1,1 +1,0 @@
-{"tmdb_id": 526766, "title": "Who's Scared", "original_title": "Veliki strah", "slug_title": "who-s-scared", "date": "1958-01-01", "genre": "Animation / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/waohIymO9w761EBmMMyvXMwbfXG.jpg", "actors": [], "comments": [], "recommandations_id": []}

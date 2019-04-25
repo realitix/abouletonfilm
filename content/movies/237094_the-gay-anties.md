@@ -1,1 +1,0 @@
-{"tmdb_id": 237094, "title": "The Gay Anties", "original_title": "The Gay Anties", "slug_title": "the-gay-anties", "date": "1947-02-15", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bTEjqGt7PXjADfUNTdhVJTHRr29.jpg", "actors": [], "comments": [], "recommandations_id": []}

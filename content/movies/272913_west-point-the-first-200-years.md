@@ -1,1 +1,0 @@
-{"tmdb_id": 272913, "title": "West Point: The First 200 Years", "original_title": "West Point: The First 200 Years", "slug_title": "west-point-the-first-200-years", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yiSEfJTlES0xocgjl8fMM6bmcoc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 379937, "title": "Apache on the County Seat", "original_title": "Apache on the County Seat", "slug_title": "apache-on-the-county-seat", "date": "1973-06-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Holt (Hoot Kloot / Fester / Indians (voice))"], "comments": [], "recommandations_id": []}

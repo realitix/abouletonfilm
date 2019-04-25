@@ -1,1 +1,0 @@
-{"tmdb_id": 97148, "title": "Stau - Jetzt geht's los", "original_title": "Stau - Jetzt geht's los", "slug_title": "stau-jetzt-geht-s-los", "date": "1992-10-03", "genre": "Documentaire", "score": "4.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4145viy82YmqwFkvsXI2ZNi2FVV.jpg", "actors": [], "comments": [], "recommandations_id": []}

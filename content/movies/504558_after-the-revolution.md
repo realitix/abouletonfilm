@@ -1,1 +1,0 @@
-{"tmdb_id": 504558, "title": "After The Revolution", "original_title": "After The Revolution", "slug_title": "after-the-revolution", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fnrqjoXidrGdVSRKt7CQGTJNmcZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

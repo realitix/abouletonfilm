@@ -1,1 +1,0 @@
-{"tmdb_id": 584808, "title": "Banglasia 2.0", "original_title": "Banglasia 2.0", "slug_title": "banglasia-2-0", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Namewee ()", "Nirab Hossain ()", "Saiful Apek ()", "Dato David Arumugam ()", "Atikah Suhaime ()"], "comments": [], "recommandations_id": []}

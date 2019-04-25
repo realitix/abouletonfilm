@@ -1,1 +1,0 @@
-{"tmdb_id": 311594, "title": "National Geographic Kids: Creepy Creatures", "original_title": "National Geographic Kids: Creepy Creatures", "slug_title": "national-geographic-kids-creepy-creatures", "date": "2004-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

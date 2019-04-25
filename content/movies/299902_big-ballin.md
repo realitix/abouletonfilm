@@ -1,1 +1,0 @@
-{"tmdb_id": 299902, "title": "Big Ballin'", "original_title": "Big Ballin'", "slug_title": "big-ballin", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

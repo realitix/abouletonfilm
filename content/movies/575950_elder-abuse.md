@@ -1,1 +1,0 @@
-{"tmdb_id": 575950, "title": "Elder Abuse", "original_title": "Elder Abuse", "slug_title": "elder-abuse", "date": "2018-04-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yyfgG00myuQlQy8azos2MNxsdPh.jpg", "actors": [], "comments": [], "recommandations_id": []}

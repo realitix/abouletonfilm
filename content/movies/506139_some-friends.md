@@ -1,1 +1,0 @@
-{"tmdb_id": 506139, "title": "Some Friends", "original_title": "Some Friends", "slug_title": "some-friends", "date": "1973-06-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4X5kLKBzhyUWmSdwSIhhNYyv7DR.jpg", "actors": [], "comments": [], "recommandations_id": []}

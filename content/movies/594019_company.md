@@ -1,1 +1,0 @@
-{"tmdb_id": 594019, "title": "Company", "original_title": "Compa\u00f1\u00eda", "slug_title": "company", "date": "2019-04-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wM9MeALlwNNw5CxBlY5hhSI8ti6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 517272, "title": "Ek Nanhi Munni Ladki Thi", "original_title": "Ek Nanhi Munni Ladki Thi", "slug_title": "ek-nanhi-munni-ladki-thi", "date": "1970-04-08", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lzwaI9BhpDyJgpSz3j188zVZBjw.jpg", "actors": ["Mumtaz ()"], "comments": [], "recommandations_id": []}

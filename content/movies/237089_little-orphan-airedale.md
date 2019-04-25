@@ -1,1 +1,0 @@
-{"tmdb_id": 237089, "title": "Little Orphan Airedale", "original_title": "Little Orphan Airedale", "slug_title": "little-orphan-airedale", "date": "1947-10-03", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iNgGGoH1s540DjHWnu6BjiInow3.jpg", "actors": [], "comments": [], "recommandations_id": []}

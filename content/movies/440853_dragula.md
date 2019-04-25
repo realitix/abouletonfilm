@@ -1,1 +1,0 @@
-{"tmdb_id": 440853, "title": "Dragula", "original_title": "Dragula", "slug_title": "dragula", "date": "1973-02-10", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/M1cj6Jjpx2UHltJJBULIuF3XYE.jpg", "actors": ["Casey Donovan (Dragula's Son #1)"], "comments": [], "recommandations_id": []}

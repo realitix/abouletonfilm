@@ -1,1 +1,0 @@
-{"tmdb_id": 473596, "title": "Sofie Hagen: Bubblewrap", "original_title": "Sofie Hagen: Bubblewrap", "slug_title": "sofie-hagen-bubblewrap", "date": "2016-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vwxX3O3M0BkkPQAd8IffJOPwAHd.jpg", "actors": ["Sofie Hagen (Herself)"], "comments": [], "recommandations_id": []}

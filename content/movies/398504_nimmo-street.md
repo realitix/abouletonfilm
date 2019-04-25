@@ -1,1 +1,0 @@
-{"tmdb_id": 398504, "title": "Nimmo Street", "original_title": "Nimmo Street", "slug_title": "nimmo-street", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rIzgxi4z3fLJGXUxpk8qCRjptdL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 410372, "title": "Will You Dance With Me?", "original_title": "Will You Dance With Me?", "slug_title": "will-you-dance-with-me", "date": "2014-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 484956, "title": "Knee Action", "original_title": "Knee Action", "slug_title": "knee-action", "date": "1937-01-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy)"], "comments": [], "recommandations_id": []}

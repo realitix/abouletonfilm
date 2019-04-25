@@ -1,1 +1,0 @@
-{"tmdb_id": 272705, "title": "Technocalyps part 3: The Digital Messiah", "original_title": "Technocalyps part 3: The Digital Messiah", "slug_title": "technocalyps-part-3-the-digital-messiah", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

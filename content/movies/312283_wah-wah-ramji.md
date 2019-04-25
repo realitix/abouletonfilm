@@ -1,1 +1,0 @@
-{"tmdb_id": 312283, "title": "Wah Wah Ramji", "original_title": "Wah Wah Ramji", "slug_title": "wah-wah-ramji", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 351193, "title": "Bebe veut imiter St. Martin", "original_title": "Bebe veut imiter St. Martin", "slug_title": "bebe-veut-imiter-st-martin", "date": "1910-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

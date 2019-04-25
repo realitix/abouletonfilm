@@ -1,1 +1,0 @@
-{"tmdb_id": 234682, "title": "Woody's Kook-Out", "original_title": "Woody's Kook-Out", "slug_title": "woody-s-kook-out", "date": "1961-10-16", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s1zszkIyWIuPUXeWYXoqcz4SKYC.jpg", "actors": [], "comments": [], "recommandations_id": []}

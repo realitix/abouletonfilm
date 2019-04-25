@@ -1,1 +1,0 @@
-{"tmdb_id": 340188, "title": "With A Kite", "original_title": "With A Kite", "slug_title": "with-a-kite", "date": "2015-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fcXhWM5wjSKFI0vQDa0j68sdC7m.jpg", "actors": [], "comments": [], "recommandations_id": []}

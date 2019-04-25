@@ -1,1 +1,0 @@
-{"tmdb_id": 252840, "title": "Transatlantic Flight", "original_title": "Transatlantic Flight", "slug_title": "transatlantic-flight", "date": "1925-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

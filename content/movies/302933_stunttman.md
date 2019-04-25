@@ -1,1 +1,0 @@
-{"tmdb_id": 302933, "title": "Stunttman", "original_title": "Stunttman", "slug_title": "stunttman", "date": "1994-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 568771, "title": "Fifteen", "original_title": "Quince", "slug_title": "fifteen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

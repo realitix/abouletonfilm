@@ -1,1 +1,0 @@
-{"tmdb_id": 318109, "title": "Billy Vaughn & His Orchestra", "original_title": "Billy Vaughn & His Orchestra", "slug_title": "billy-vaughn-his-orchestra", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

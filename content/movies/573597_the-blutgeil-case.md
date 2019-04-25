@@ -1,1 +1,0 @@
-{"tmdb_id": 573597, "title": "The Blutgeil Case", "original_title": "The Blutgeil Case", "slug_title": "the-blutgeil-case", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kGcdi3s3DApqd7QiTeloJx8RzuM.jpg", "actors": [], "comments": [], "recommandations_id": []}

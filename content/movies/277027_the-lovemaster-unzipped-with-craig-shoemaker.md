@@ -1,1 +1,0 @@
-{"tmdb_id": 277027, "title": "The Lovemaster... Unzipped with Craig Shoemaker", "original_title": "The Lovemaster... Unzipped with Craig Shoemaker", "slug_title": "the-lovemaster-unzipped-with-craig-shoemaker", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

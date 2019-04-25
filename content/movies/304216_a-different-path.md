@@ -1,1 +1,0 @@
-{"tmdb_id": 304216, "title": "A Different Path", "original_title": "A Different Path", "slug_title": "a-different-path", "date": "2010-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

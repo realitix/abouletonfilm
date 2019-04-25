@@ -1,1 +1,0 @@
-{"tmdb_id": 219191, "title": "Black Beauty", "original_title": "Black Beauty", "slug_title": "black-beauty", "date": "1987-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9BYPk57KNXhatVBOXnCzWdMXeRh.jpg", "actors": [], "comments": [], "recommandations_id": []}

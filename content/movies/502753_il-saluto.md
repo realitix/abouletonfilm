@@ -1,1 +1,1 @@
-{"tmdb_id": 502753, "title": "Il saluto", "original_title": "Il saluto", "slug_title": "il-saluto", "date": "1962-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 502753, "title": "Il saluto", "original_title": "Il saluto", "slug_title": "il-saluto", "date": "1962-03-03", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

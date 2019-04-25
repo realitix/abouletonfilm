@@ -1,1 +1,0 @@
-{"tmdb_id": 257268, "title": "Upaj: Improvise", "original_title": "Upaj: Improvise", "slug_title": "upaj-improvise", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pandit Chitresh Das ()", "Jason Samuels Smith ()"], "comments": [], "recommandations_id": []}

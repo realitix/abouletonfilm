@@ -1,1 +1,0 @@
-{"tmdb_id": 550943, "title": "Macedonian", "original_title": "Makedonac", "slug_title": "macedonian", "date": "2015-03-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1yVYZXeel4vMuxr74VtgiI3Qfgs.jpg", "actors": ["Amir Reko (Himself)"], "comments": [], "recommandations_id": []}

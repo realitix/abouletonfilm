@@ -1,1 +1,0 @@
-{"tmdb_id": 218861, "title": "After Warhol", "original_title": "After Warhol", "slug_title": "after-warhol", "date": "2011-12-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qwWtsBoGKrHW5RIMrgIOpVjwu3q.jpg", "actors": [], "comments": [], "recommandations_id": []}

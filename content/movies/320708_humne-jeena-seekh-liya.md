@@ -1,1 +1,0 @@
-{"tmdb_id": 320708, "title": "Humne Jeena Seekh Liya", "original_title": "Humne Jeena Seekh Liya", "slug_title": "humne-jeena-seekh-liya", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

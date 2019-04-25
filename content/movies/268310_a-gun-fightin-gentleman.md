@@ -1,1 +1,0 @@
-{"tmdb_id": 268310, "title": "A Gun Fightin' Gentleman", "original_title": "A Gun Fightin' Gentleman", "slug_title": "a-gun-fightin-gentleman", "date": "1919-11-29", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x1XZzSIMUBTrSgKcqIRnT7KPDLu.jpg", "actors": ["Harry Carey ()"], "comments": [], "recommandations_id": []}

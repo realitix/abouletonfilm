@@ -1,1 +1,0 @@
-{"tmdb_id": 353243, "title": "Le retour \u00e0 la vie", "original_title": "Le retour \u00e0 la vie", "slug_title": "le-retour-a-la-vie", "date": "1936-08-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

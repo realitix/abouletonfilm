@@ -1,1 +1,0 @@
-{"tmdb_id": 427244, "title": "Around the Big Curves", "original_title": "Around the Big Curves", "slug_title": "around-the-big-curves", "date": "1899-03-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

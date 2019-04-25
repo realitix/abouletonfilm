@@ -1,1 +1,0 @@
-{"tmdb_id": 184894, "title": "Spirals", "original_title": "Spirals", "slug_title": "spirals", "date": "1926-05-23", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gUe9TMJEtCvN2Z9IEY5HBRDQaXl.jpg", "actors": [], "comments": [], "recommandations_id": [128796, 144674, 190081, 164596]}

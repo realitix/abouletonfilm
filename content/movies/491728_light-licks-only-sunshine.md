@@ -1,1 +1,0 @@
-{"tmdb_id": 491728, "title": "Light Licks: Only Sunshine", "original_title": "Light Licks: Only Sunshine", "slug_title": "light-licks-only-sunshine", "date": "2000-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dVXpZwiNH1i8tWMGKAZurG9Bwxs.jpg", "actors": [], "comments": [], "recommandations_id": []}

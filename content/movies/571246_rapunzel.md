@@ -1,1 +1,0 @@
-{"tmdb_id": 571246, "title": "Rapunzel", "original_title": "Rapunzel", "slug_title": "rapunzel", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fNp8w3AgztawgFjnxwMnDzTGgVn.jpg", "actors": [], "comments": [], "recommandations_id": []}

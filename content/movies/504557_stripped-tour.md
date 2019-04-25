@@ -1,1 +1,0 @@
-{"tmdb_id": 504557, "title": "Stripped Tour", "original_title": "Stripped Tour", "slug_title": "stripped-tour", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

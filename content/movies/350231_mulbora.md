@@ -1,1 +1,0 @@
-{"tmdb_id": 350231, "title": "\ubb3c\ubcf4\ub77c", "original_title": "\ubb3c\ubcf4\ub77c", "slug_title": "mulbora", "date": "1980-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

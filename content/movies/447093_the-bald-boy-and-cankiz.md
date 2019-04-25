@@ -1,1 +1,0 @@
-{"tmdb_id": 447093, "title": "The Bald Boy and Cankiz", "original_title": "Kelo\u011flan ile Cank\u0131z", "slug_title": "the-bald-boy-and-cankiz", "date": "1972-06-15", "genre": "Com\u00e9die", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eU212ofpl20tf878DIAvoJlWDXt.jpg", "actors": [], "comments": [], "recommandations_id": []}

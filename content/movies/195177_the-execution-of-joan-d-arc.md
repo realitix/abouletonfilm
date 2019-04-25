@@ -1,1 +1,0 @@
-{"tmdb_id": 195177, "title": "The Execution of Joan d'Arc", "original_title": "Ex\u00e9cution de Jeanne d'Arc", "slug_title": "the-execution-of-joan-d-arc", "date": "1898-05-20", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [193647, 190587, 178756]}

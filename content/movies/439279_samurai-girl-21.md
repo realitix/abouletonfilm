@@ -1,1 +1,0 @@
-{"tmdb_id": 439279, "title": "Samurai Girl 21", "original_title": "Samurai g\u00e2ru 21", "slug_title": "samurai-girl-21", "date": "2001-01-01", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7e9oIJWwHpt2sCTAIE4TP6aOF7j.jpg", "actors": [], "comments": [], "recommandations_id": []}

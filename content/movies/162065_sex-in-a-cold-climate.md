@@ -1,1 +1,0 @@
-{"tmdb_id": 162065, "title": "Sex in a Cold Climate", "original_title": "Sex in a Cold Climate", "slug_title": "sex-in-a-cold-climate", "date": "1998-03-01", "genre": "", "score": "8.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gWB7K5o3YE7QEQp5J415sUmStC3.jpg", "actors": [], "comments": [], "recommandations_id": []}

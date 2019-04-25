@@ -1,1 +1,0 @@
-{"tmdb_id": 500199, "title": "Csillag\u00f6sv\u00e9nyen 4", "original_title": "Csillag\u00f6sv\u00e9nyen 4", "slug_title": "csillagosvenyen-4", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4RM1YQwjQn2ahjtdLme0XwxEI8W.jpg", "actors": [], "comments": [], "recommandations_id": []}

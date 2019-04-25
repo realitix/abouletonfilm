@@ -1,1 +1,0 @@
-{"tmdb_id": 198363, "title": "Sauts de cheval en longueur", "original_title": "Sauts de cheval en longueur", "slug_title": "sauts-de-cheval-en-longueur", "date": "1897-01-01", "genre": "", "score": "5.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [194569, 189579, 190584, 194175]}

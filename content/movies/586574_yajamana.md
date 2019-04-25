@@ -1,1 +1,0 @@
-{"tmdb_id": 586574, "title": "Yajamana", "original_title": "Yajamana", "slug_title": "yajamana", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lHPFLV4dmoZi3N8aAz1Hxh42aa.jpg", "actors": [], "comments": [], "recommandations_id": []}

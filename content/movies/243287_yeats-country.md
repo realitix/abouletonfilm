@@ -1,1 +1,0 @@
-{"tmdb_id": 243287, "title": "Yeats Country", "original_title": "Yeats Country", "slug_title": "yeats-country", "date": "1965-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jFPYhjlPPHWKiQr2pebKupryw8U.jpg", "actors": ["Niall Toibin (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 302953, "title": "Farz Ki Jung", "original_title": "Farz Ki Jung", "slug_title": "farz-ki-jung", "date": "1989-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 529805, "title": "Dreaming Youth", "original_title": "Dreaming Youth", "slug_title": "dreaming-youth", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

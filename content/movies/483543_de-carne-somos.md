@@ -1,1 +1,0 @@
-{"tmdb_id": 483543, "title": "De carne somos", "original_title": "De carne somos", "slug_title": "de-carne-somos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Trini Delor (Diana)", "Edmundo Moreau (Alberto)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 517623, "title": "Professor Mamlock", "original_title": "Professor Mamlock", "slug_title": "professor-mamlock", "date": "1960-02-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mathilde Danegger (Schwester Hedwig)", "Werner Pledath (Dr. Seidel)"], "comments": [], "recommandations_id": []}

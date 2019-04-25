@@ -1,1 +1,0 @@
-{"tmdb_id": 296174, "title": "Popularity Killer", "original_title": "Popularity Killer", "slug_title": "popularity-killer", "date": "2011-10-28", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xLW0V86cvEb057ALJD7sDEaZRep.jpg", "actors": [], "comments": [], "recommandations_id": []}

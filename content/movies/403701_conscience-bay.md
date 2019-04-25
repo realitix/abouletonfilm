@@ -1,1 +1,0 @@
-{"tmdb_id": 403701, "title": "Conscience Bay", "original_title": "Conscience Bay", "slug_title": "conscience-bay", "date": "1960-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Brown ()", "Rosemarie Anderson ()", "Mark Dignam ()", "Catherine Willmer ()"], "comments": [], "recommandations_id": []}

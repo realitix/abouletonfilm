@@ -1,1 +1,0 @@
-{"tmdb_id": 209025, "title": "Spartacus: Gladiator War", "original_title": "Spartacus: Gladiator War", "slug_title": "spartacus-gladiator-war", "date": "2005-01-01", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fIfK9qBb0pH2w6GkOf7HH8ga6uO.jpg", "actors": [], "comments": [], "recommandations_id": []}

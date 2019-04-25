@@ -1,1 +1,0 @@
-{"tmdb_id": 511469, "title": "Voir le monde", "original_title": "Voir le monde", "slug_title": "voir-le-monde", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

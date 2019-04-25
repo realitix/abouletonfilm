@@ -1,1 +1,0 @@
-{"tmdb_id": 547775, "title": "Dracula's Ghost", "original_title": "Dracula's Ghost", "slug_title": "dracula-s-ghost", "date": "2017-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bela Lugosi (Dracula)", "Lionel Atwill ()", "Dwight Frye ()", "Fay Wray ()", "Melvyn Douglas ()"], "comments": [], "recommandations_id": []}

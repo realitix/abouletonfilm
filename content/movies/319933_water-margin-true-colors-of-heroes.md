@@ -1,1 +1,0 @@
-{"tmdb_id": 319933, "title": "Water Margin: True Colors of Heroes", "original_title": "Water Margin: True Colors of Heroes", "slug_title": "water-margin-true-colors-of-heroes", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

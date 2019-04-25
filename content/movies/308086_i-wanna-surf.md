@@ -1,1 +1,0 @@
-{"tmdb_id": 308086, "title": "I Wanna Surf", "original_title": "I Wanna Surf", "slug_title": "i-wanna-surf", "date": "2014-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

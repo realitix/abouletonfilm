@@ -1,1 +1,0 @@
-{"tmdb_id": 579164, "title": "L'Chayim, Comrade Stalin", "original_title": "L'Chayim, Comrade Stalin", "slug_title": "l-chayim-comrade-stalin", "date": "2003-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 419186, "title": "I Turn to Jello", "original_title": "I Turn to Jello", "slug_title": "i-turn-to-jello", "date": "2016-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Zy6rldKBQVFwQmZXQbD1uBtkKu.jpg", "actors": [], "comments": [], "recommandations_id": []}

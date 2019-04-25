@@ -1,1 +1,0 @@
-{"tmdb_id": 379938, "title": "Money in Minutes", "original_title": "Money in Minutes", "slug_title": "money-in-minutes", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

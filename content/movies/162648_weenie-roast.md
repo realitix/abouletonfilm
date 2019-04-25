@@ -1,1 +1,0 @@
-{"tmdb_id": 162648, "title": "Weenie Roast", "original_title": "Weenie Roast", "slug_title": "weenie-roast", "date": "1931-09-13", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

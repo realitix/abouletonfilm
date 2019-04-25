@@ -1,1 +1,0 @@
-{"tmdb_id": 292694, "title": "Treffpunkt Rastplatz", "original_title": "Treffpunkt Rastplatz", "slug_title": "treffpunkt-rastplatz", "date": "2006-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ZPAJSIo2mO8u50nVSnznAkmRvA.jpg", "actors": ["Vivian Schmitt (Anna B.)"], "comments": [], "recommandations_id": []}

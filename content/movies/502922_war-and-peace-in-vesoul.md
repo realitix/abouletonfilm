@@ -1,1 +1,0 @@
-{"tmdb_id": 502922, "title": "War and Peace in Vesoul", "original_title": "War and Peace in Vesoul", "slug_title": "war-and-peace-in-vesoul", "date": "1997-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

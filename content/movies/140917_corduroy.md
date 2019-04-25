@@ -1,1 +1,0 @@
-{"tmdb_id": 140917, "title": "Corduroy", "original_title": "Corduroy", "slug_title": "corduroy", "date": "2006-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lpOpf1hhz3iMUXQazTfE3D1TTbc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 588495, "title": "Shera Baloch", "original_title": "Shera Baloch", "slug_title": "shera-baloch", "date": "1990-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sultan Rahi ()"], "comments": [], "recommandations_id": []}

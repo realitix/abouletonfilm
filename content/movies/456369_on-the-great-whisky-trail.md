@@ -1,1 +1,0 @@
-{"tmdb_id": 456369, "title": "On The Great Whisky Trail", "original_title": "On The Great Whisky Trail", "slug_title": "on-the-great-whisky-trail", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

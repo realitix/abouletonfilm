@@ -1,1 +1,0 @@
-{"tmdb_id": 198579, "title": "Die Entstehung der Erde", "original_title": "Die Entstehung der Erde", "slug_title": "die-entstehung-der-erde", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Lo5bKUrb1qwyKy5X0f9yQhdYax.jpg", "actors": [], "comments": [], "recommandations_id": []}

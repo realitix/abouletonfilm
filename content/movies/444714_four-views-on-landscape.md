@@ -1,1 +1,0 @@
-{"tmdb_id": 444714, "title": "Four Views on Landscape", "original_title": "Four Views on Landscape", "slug_title": "four-views-on-landscape", "date": "1976-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

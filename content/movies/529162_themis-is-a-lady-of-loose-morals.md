@@ -1,1 +1,0 @@
-{"tmdb_id": 529162, "title": "Themis Is A Lady Of Loose Morals", "original_title": "Themis Is A Lady Of Loose Morals", "slug_title": "themis-is-a-lady-of-loose-morals", "date": "2009-05-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

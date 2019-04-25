@@ -1,1 +1,0 @@
-{"tmdb_id": 350429, "title": "\uc0c8\ubcbd\uc744 \uae68\uc6b0\ub9ac\ub85c\ub2e4", "original_title": "\uc0c8\ubcbd\uc744 \uae68\uc6b0\ub9ac\ub85c\ub2e4", "slug_title": "saebyeogeul-ggaeuriroda", "date": "1990-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

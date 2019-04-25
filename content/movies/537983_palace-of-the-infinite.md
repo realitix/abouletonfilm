@@ -1,1 +1,0 @@
-{"tmdb_id": 537983, "title": "Palace of the Infinite", "original_title": "Palace of the Infinite", "slug_title": "palace-of-the-infinite", "date": "2018-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

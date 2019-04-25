@@ -1,1 +1,0 @@
-{"tmdb_id": 537746, "title": "Glenda\u2019s Last Tattoo", "original_title": "Glenda\u2019s Last Tattoo", "slug_title": "glendas-last-tattoo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3JlN77MJXedmmf8Mrr2eGQHt6g1.jpg", "actors": ["Glenda Goldwater (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 547794, "title": "Soldiers and Other Cosmic Objects", "original_title": "Soldiers and Other Cosmic Objects", "slug_title": "soldiers-and-other-cosmic-objects", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

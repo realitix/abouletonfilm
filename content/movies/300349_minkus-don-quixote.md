@@ -1,1 +1,0 @@
-{"tmdb_id": 300349, "title": "MINKUS: Don Quixote", "original_title": "MINKUS: Don Quixote", "slug_title": "minkus-don-quixote", "date": "2013-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 493057, "title": "Hyo-Ryu-Ki", "original_title": "\u6f02\u6d41\u59eb", "slug_title": "hyo-ryu-ki", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dUwDiN1rSqEU1ux3QkanMLj8JQh.jpg", "actors": ["Yuki Saito (herself)"], "comments": [], "recommandations_id": []}

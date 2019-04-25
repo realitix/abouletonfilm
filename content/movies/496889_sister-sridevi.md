@@ -1,1 +1,0 @@
-{"tmdb_id": 496889, "title": "Sister Sridevi", "original_title": "Sister Sridevi", "slug_title": "sister-sridevi", "date": "2017-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Babusan ()", "Aparajita ()", "Mihir Das ()", "Shivani ()"], "comments": [], "recommandations_id": []}

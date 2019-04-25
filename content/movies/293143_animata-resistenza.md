@@ -1,1 +1,0 @@
-{"tmdb_id": 293143, "title": "Animata resistenza", "original_title": "Animata resistenza", "slug_title": "animata-resistenza", "date": "2014-09-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gfQxzaScN4iCmLywiMeNHMWtAC4.jpg", "actors": ["Simone Massi (Se stesso)"], "comments": [], "recommandations_id": []}

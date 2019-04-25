@@ -1,1 +1,0 @@
-{"tmdb_id": 249989, "title": "Vonnegut's Cats Cradle", "original_title": "Vonnegut's Cats Cradle", "slug_title": "vonnegut-s-cats-cradle", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andrew D. Ford ()"], "comments": [], "recommandations_id": []}

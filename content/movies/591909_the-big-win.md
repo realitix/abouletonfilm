@@ -1,1 +1,0 @@
-{"tmdb_id": 591909, "title": "The Big Win", "original_title": "The Big Win", "slug_title": "the-big-win", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cTJ1ecYi7MupxnTQWBNP8cp7YS7.jpg", "actors": [], "comments": [], "recommandations_id": []}

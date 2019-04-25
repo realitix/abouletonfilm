@@ -1,1 +1,0 @@
-{"tmdb_id": 120275, "title": "Franz  Kafka", "original_title": "Franz  Kafka", "slug_title": "franz-kafka", "date": "1992-05-05", "genre": "", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dJnq9Q75yc5CDKelw2AcjdJzj99.jpg", "actors": [], "comments": [], "recommandations_id": [175503, 143278, 19020, 143810]}

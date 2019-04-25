@@ -1,1 +1,0 @@
-{"tmdb_id": 417058, "title": "Pinamar", "original_title": "Pinamar", "slug_title": "pinamar", "date": "2016-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s7gwO1GrrxmNR6qYWyRaQAVHfHu.jpg", "actors": [], "comments": [], "recommandations_id": []}

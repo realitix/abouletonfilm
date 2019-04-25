@@ -1,1 +1,0 @@
-{"tmdb_id": 272956, "title": "Little Gobie and the Big Christmas Adventure", "original_title": "Little Gobie and the Big Christmas Adventure", "slug_title": "little-gobie-and-the-big-christmas-adventure", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 501792, "title": "A Strange New Beauty", "original_title": "A Strange New Beauty", "slug_title": "a-strange-new-beauty", "date": "2017-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

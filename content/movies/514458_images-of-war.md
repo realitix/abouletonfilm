@@ -1,1 +1,0 @@
-{"tmdb_id": 514458, "title": "Images of War", "original_title": "Kriegsbilder", "slug_title": "images-of-war", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

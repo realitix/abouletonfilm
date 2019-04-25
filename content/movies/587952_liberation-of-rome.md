@@ -1,1 +1,0 @@
-{"tmdb_id": 587952, "title": "Liberation of Rome", "original_title": "Liberation of Rome", "slug_title": "liberation-of-rome", "date": "1944-07-13", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 393436, "title": "Memories of Paintings", "original_title": "Memories of Paintings", "slug_title": "memories-of-paintings", "date": "", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

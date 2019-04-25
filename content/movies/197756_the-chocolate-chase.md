@@ -1,1 +1,0 @@
-{"tmdb_id": 197756, "title": "The Chocolate Chase", "original_title": "The Chocolate Chase", "slug_title": "the-chocolate-chase", "date": "1980-05-27", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2uAiFEAMEfoIOWdj8U5T3y4HvzZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 152079, "title": "Caetano Veloso - Prenda Minha", "original_title": "Caetano Veloso - Prenda Minha", "slug_title": "caetano-veloso-prenda-minha", "date": "2016-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4tF4CdBuhjx6U3DNAOj28rsUgYH.jpg", "actors": [], "comments": [], "recommandations_id": []}

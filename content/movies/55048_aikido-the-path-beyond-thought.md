@@ -1,1 +1,0 @@
-{"tmdb_id": 55048, "title": "Aikido: The Path Beyond Thought", "original_title": "Aikido: The Path Beyond Thought", "slug_title": "aikido-the-path-beyond-thought", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vjcABrzIZSOTq9w6p88m94chXdh.jpg", "actors": [], "comments": [], "recommandations_id": []}

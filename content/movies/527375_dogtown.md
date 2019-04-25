@@ -1,1 +1,0 @@
-{"tmdb_id": 527375, "title": "Dogtown", "original_title": "Dogtown", "slug_title": "dogtown", "date": "", "genre": "Action / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

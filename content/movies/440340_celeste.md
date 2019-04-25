@@ -1,1 +1,0 @@
-{"tmdb_id": 440340, "title": "Celeste", "original_title": "Celeste", "slug_title": "celeste", "date": "2009-06-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zgulNw79IvRIi1BfDS6zRJXWI6j.jpg", "actors": [], "comments": [], "recommandations_id": []}

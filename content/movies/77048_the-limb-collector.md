@@ -1,1 +1,0 @@
-{"tmdb_id": 77048, "title": "The Limb Collector", "original_title": "The Limb Collector", "slug_title": "the-limb-collector", "date": "2010-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

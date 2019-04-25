@@ -1,1 +1,0 @@
-{"tmdb_id": 60229, "title": "Rocco: Animal Trainer 30", "original_title": "Rocco: Animal Trainer 30", "slug_title": "rocco-animal-trainer-30", "date": "2009-10-02", "genre": "", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/epXTpnqQQggGtTbMxnRumxRu3ku.jpg", "actors": [], "comments": [], "recommandations_id": []}

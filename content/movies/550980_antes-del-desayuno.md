@@ -1,1 +1,0 @@
-{"tmdb_id": 550980, "title": "Antes del desayuno", "original_title": "Antes del desayuno", "slug_title": "antes-del-desayuno", "date": "1955-09-28", "genre": "Thriller / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

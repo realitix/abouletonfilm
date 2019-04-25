@@ -1,1 +1,0 @@
-{"tmdb_id": 312281, "title": "Inner Peace for Busy People", "original_title": "Inner Peace for Busy People", "slug_title": "inner-peace-for-busy-people", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

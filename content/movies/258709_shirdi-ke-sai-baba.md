@@ -1,1 +1,0 @@
-{"tmdb_id": 258709, "title": "Shirdi Ke Sai Baba", "original_title": "Shirdi Ke Sai Baba", "slug_title": "shirdi-ke-sai-baba", "date": "1977-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

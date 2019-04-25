@@ -1,1 +1,0 @@
-{"tmdb_id": 188162, "title": "Dumping Elaine", "original_title": "Dumping Elaine", "slug_title": "dumping-elaine", "date": "2001-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Susan Lynch (Beth)", "Matthew Delamere (Eddie)", "Emma Pierson (Waitress)", "Dido Miles (Waitress)"], "comments": [], "recommandations_id": []}

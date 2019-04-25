@@ -1,1 +1,0 @@
-{"tmdb_id": 284500, "title": "Postis Per - T\u00e5g p\u00e5 Rymmen", "original_title": "Postis Per - T\u00e5g p\u00e5 Rymmen", "slug_title": "postis-per-tag-pa-rymmen", "date": "2007-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

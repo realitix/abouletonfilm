@@ -1,1 +1,0 @@
-{"tmdb_id": 380929, "title": "Hollywood, It's a Dog's Life", "original_title": "Hollywood, It's a Dog's Life", "slug_title": "hollywood-it-s-a-dog-s-life", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bW6NJQlCRgXCsiSoqzVMehYBEAb.jpg", "actors": [], "comments": [], "recommandations_id": []}

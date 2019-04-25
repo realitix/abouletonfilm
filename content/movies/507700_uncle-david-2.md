@@ -1,1 +1,0 @@
-{"tmdb_id": 507700, "title": "Uncle David 2", "original_title": "Uncle David 2", "slug_title": "uncle-david-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x6Ulo3HrSodDrLFwn1z1YA3CQNz.jpg", "actors": [], "comments": [], "recommandations_id": []}

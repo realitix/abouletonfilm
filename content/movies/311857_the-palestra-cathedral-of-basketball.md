@@ -1,1 +1,0 @@
-{"tmdb_id": 311857, "title": "The Palestra: Cathedral of Basketball", "original_title": "The Palestra: Cathedral of Basketball", "slug_title": "the-palestra-cathedral-of-basketball", "date": "2007-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

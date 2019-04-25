@@ -1,1 +1,0 @@
-{"tmdb_id": 271479, "title": "Arnie the Doughnut", "original_title": "Arnie the Doughnut", "slug_title": "arnie-the-doughnut", "date": "2005-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7s9naO8xYwx3WPcczrjRScHLlqS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 430562, "title": "She Likes You, Charlie Brown", "original_title": "She Likes You, Charlie Brown", "slug_title": "she-likes-you-charlie-brown", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

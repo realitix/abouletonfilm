@@ -1,1 +1,0 @@
-{"tmdb_id": 270828, "title": "Kill the Habit", "original_title": "Kill the Habit", "slug_title": "kill-the-habit", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yDrYbgjZzwlTWq93jP7GLXGRj1v.jpg", "actors": [], "comments": [], "recommandations_id": []}

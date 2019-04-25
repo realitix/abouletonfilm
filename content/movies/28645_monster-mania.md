@@ -1,1 +1,0 @@
-{"tmdb_id": 28645, "title": "Monster Mania", "original_title": "Monster Mania", "slug_title": "monster-mania", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/93uSB4nJN79CWt3GurIBhhANnVy.jpg", "actors": ["Jack Palance (Host)", "Cassandra Peterson (Elvira)"], "comments": [], "recommandations_id": []}

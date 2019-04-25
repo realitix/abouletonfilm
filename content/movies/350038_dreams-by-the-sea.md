@@ -1,1 +1,0 @@
-{"tmdb_id": 350038, "title": "Dreams by the Sea", "original_title": "Dreymar vi\u00f0 havi\u00f0", "slug_title": "dreams-by-the-sea", "date": "2017-10-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mOPM2xKN7i4AON0KNciOa5Ez8Rk.jpg", "actors": [], "comments": [], "recommandations_id": []}

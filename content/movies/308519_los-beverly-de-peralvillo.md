@@ -1,1 +1,0 @@
-{"tmdb_id": 308519, "title": "Los Beverly de Peralvillo", "original_title": "Los Beverly de Peralvillo", "slug_title": "los-beverly-de-peralvillo", "date": "1971-12-09", "genre": "Com\u00e9die", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fHV3p2PwTpa9yTENbdJeZGQmwgt.jpg", "actors": [], "comments": [], "recommandations_id": []}

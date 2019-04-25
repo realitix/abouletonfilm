@@ -1,1 +1,0 @@
-{"tmdb_id": 275754, "title": "Duffy's Irish Circus", "original_title": "Duffy's Irish Circus", "slug_title": "duffy-s-irish-circus", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

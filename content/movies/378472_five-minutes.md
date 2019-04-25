@@ -1,1 +1,0 @@
-{"tmdb_id": 378472, "title": "Five Minutes", "original_title": "Five Minutes", "slug_title": "five-minutes", "date": "2014-11-19", "genre": "Drame / Horreur", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tj2StgHzpRGFJy0ajXw5RUqQHvF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 587190, "title": "Hulk vs Superman", "original_title": "Hulk vs Superman", "slug_title": "hulk-vs-superman", "date": "2016-04-15", "genre": "Action / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ewan Hoyle (Hulk / Bruce Banner)", "Henry Cavill (Superman)"], "comments": [], "recommandations_id": []}

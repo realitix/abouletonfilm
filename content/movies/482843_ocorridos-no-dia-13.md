@@ -1,1 +1,0 @@
-{"tmdb_id": 482843, "title": "Ocorridos no Dia 13", "original_title": "Ocorridos no Dia 13", "slug_title": "ocorridos-no-dia-13", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

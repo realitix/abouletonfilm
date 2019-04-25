@@ -1,1 +1,0 @@
-{"tmdb_id": 412951, "title": "Misi\u00f3n: Incomprensible", "original_title": "Misi\u00f3n: Incomprensible", "slug_title": "mision-incomprensible", "date": "2004-01-02", "genre": "Com\u00e9die / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jos\u00e9 Brocco ()"], "comments": [], "recommandations_id": []}

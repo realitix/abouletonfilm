@@ -1,1 +1,0 @@
-{"tmdb_id": 581047, "title": "Berliner Luft", "original_title": "Berliner Luft", "slug_title": "berliner-luft", "date": "1996-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

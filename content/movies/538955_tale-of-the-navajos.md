@@ -1,1 +1,0 @@
-{"tmdb_id": 538955, "title": "Tale of the Navajos", "original_title": "Tale of the Navajos", "slug_title": "tale-of-the-navajos", "date": "1949-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/buHkSx0jHx73s1TlfdOPaHXJOC5.jpg", "actors": ["Edwin Jerome (Narrator)"], "comments": [], "recommandations_id": []}

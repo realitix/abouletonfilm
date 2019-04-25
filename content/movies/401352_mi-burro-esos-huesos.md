@@ -1,1 +1,0 @@
-{"tmdb_id": 401352, "title": "Mi burro: esos huesos", "original_title": "Mi burro: esos huesos", "slug_title": "mi-burro-esos-huesos", "date": "2011-04-28", "genre": "Animation", "score": "5.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

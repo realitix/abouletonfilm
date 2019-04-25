@@ -1,1 +1,0 @@
-{"tmdb_id": 412420, "title": "One Nation Under Trump", "original_title": "One Nation Under Trump", "slug_title": "one-nation-under-trump", "date": "2016-08-14", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m7KXTMKtk8wXsu1hajuPfFbzX9H.jpg", "actors": [], "comments": [], "recommandations_id": []}

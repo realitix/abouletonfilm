@@ -1,1 +1,0 @@
-{"tmdb_id": 432986, "title": "Wybraniec", "original_title": "Wybraniec", "slug_title": "wybraniec", "date": "2013-01-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/toWVSS7v4N9hArZ2Zl8MBrRqiQ3.jpg", "actors": ["Karolina Gorczyca (Justyna)", "Maja Bohosiewicz ()"], "comments": [], "recommandations_id": []}

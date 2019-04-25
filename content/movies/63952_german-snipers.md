@@ -1,1 +1,0 @@
-{"tmdb_id": 63952, "title": "German Snipers", "original_title": "Der deutsche Scharfschuetze", "slug_title": "german-snipers", "date": "1944-01-01", "genre": "Documentaire / Guerre / Histoire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tnwG8fXB2FvOJYPkZMZCdyctEu8.jpg", "actors": [], "comments": [], "recommandations_id": []}

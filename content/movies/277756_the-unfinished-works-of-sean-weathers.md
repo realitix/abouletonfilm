@@ -1,1 +1,0 @@
-{"tmdb_id": 277756, "title": "The Unfinished Works Of Sean Weathers", "original_title": "The Unfinished Works Of Sean Weathers", "slug_title": "the-unfinished-works-of-sean-weathers", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

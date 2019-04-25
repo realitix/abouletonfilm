@@ -1,1 +1,0 @@
-{"tmdb_id": 432962, "title": "Dziga and His Brothers", "original_title": "Dziga i ego bratya", "slug_title": "dziga-and-his-brothers", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wmStrNoxz26Bw3RZyHFSiI17kgS.jpg", "actors": [], "comments": [], "recommandations_id": []}

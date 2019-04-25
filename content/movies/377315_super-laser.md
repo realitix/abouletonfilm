@@ -1,1 +1,0 @@
-{"tmdb_id": 377315, "title": "Super Laser", "original_title": "Super Laser", "slug_title": "super-laser", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jonn3FnW1AMwAtFSHWzQj1jNmVk.jpg", "actors": [], "comments": [], "recommandations_id": []}

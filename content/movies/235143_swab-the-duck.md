@@ -1,1 +1,0 @@
-{"tmdb_id": 235143, "title": "Swab the Duck", "original_title": "Swab the Duck", "slug_title": "swab-the-duck", "date": "1956-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

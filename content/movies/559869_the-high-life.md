@@ -1,1 +1,0 @@
-{"tmdb_id": 559869, "title": "The High Life", "original_title": "La grande vie", "slug_title": "the-high-life", "date": "1951-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1DlxR0Or89sllNyY5aqcVtOiPee.jpg", "actors": [], "comments": [], "recommandations_id": []}

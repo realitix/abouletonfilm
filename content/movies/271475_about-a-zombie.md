@@ -1,1 +1,0 @@
-{"tmdb_id": 271475, "title": "About a Zombie", "original_title": "About a Zombie", "slug_title": "about-a-zombie", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

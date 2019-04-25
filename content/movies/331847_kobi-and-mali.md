@@ -1,1 +1,0 @@
-{"tmdb_id": 331847, "title": "Kobi and Mali", "original_title": "Kobi V'Mali", "slug_title": "kobi-and-mali", "date": "1978-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Meir Azulai ()", "Shalom Bitton ()", "Yehuda Cohen ()"], "comments": [], "recommandations_id": []}

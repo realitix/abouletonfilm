@@ -1,1 +1,0 @@
-{"tmdb_id": 234843, "title": "Valhalla", "original_title": "Valhalla", "slug_title": "valhalla", "date": "2013-09-13", "genre": "Aventure", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/51FdggkUMko8XXB16zC5LmkD74Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

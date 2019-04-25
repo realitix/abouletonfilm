@@ -1,1 +1,0 @@
-{"tmdb_id": 234962, "title": "Ghost Writers", "original_title": "Ghost Writers", "slug_title": "ghost-writers", "date": "1958-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

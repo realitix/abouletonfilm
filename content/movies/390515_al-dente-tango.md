@@ -1,1 +1,0 @@
-{"tmdb_id": 390515, "title": "Al Dente Tango", "original_title": "Al Dente Tango", "slug_title": "al-dente-tango", "date": "2011-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4rWSejhcrxQbfYN2Xddjmf6d9xO.jpg", "actors": [], "comments": [], "recommandations_id": []}

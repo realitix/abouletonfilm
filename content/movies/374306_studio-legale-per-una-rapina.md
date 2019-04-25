@@ -1,1 +1,0 @@
-{"tmdb_id": 374306, "title": "Studio legale per una rapina", "original_title": "Studio legale per una rapina", "slug_title": "studio-legale-per-una-rapina", "date": "1973-06-27", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nx88JnaTtcYbZvW6MACovnhrJMZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

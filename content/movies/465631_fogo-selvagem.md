@@ -1,1 +1,0 @@
-{"tmdb_id": 465631, "title": "Fogo Selvagem", "original_title": "Fogo Selvagem", "slug_title": "fogo-selvagem", "date": "2017-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iVQsjEEYM7FN0HyB1GFNVNuWIID.jpg", "actors": [], "comments": [], "recommandations_id": []}

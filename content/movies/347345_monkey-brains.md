@@ -1,1 +1,0 @@
-{"tmdb_id": 347345, "title": "Monkey Brains", "original_title": "Monkey Brains", "slug_title": "monkey-brains", "date": "2004-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

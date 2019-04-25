@@ -1,1 +1,0 @@
-{"tmdb_id": 179847, "title": "First Love", "original_title": "Pierwsza milosc", "slug_title": "first-love", "date": "1974-07-01", "genre": "Documentaire", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/erNcZdZptvQezDpfrpcl4uxfwTo.jpg", "actors": [], "comments": [], "recommandations_id": []}

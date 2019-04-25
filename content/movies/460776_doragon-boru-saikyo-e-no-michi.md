@@ -1,1 +1,0 @@
-{"tmdb_id": 460776, "title": "Doragon b\u00f4ru: Saiky\u00f4 e no michi", "original_title": "Doragon b\u00f4ru: Saiky\u00f4 e no michi", "slug_title": "doragon-boru-saikyo-e-no-michi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

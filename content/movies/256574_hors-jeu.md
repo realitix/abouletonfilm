@@ -1,1 +1,0 @@
-{"tmdb_id": 256574, "title": "Hors-jeu", "original_title": "Hors-jeu", "slug_title": "hors-jeu", "date": "1977-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [256581, 224391, 256584, 256471]}

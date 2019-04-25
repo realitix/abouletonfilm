@@ -1,1 +1,0 @@
-{"tmdb_id": 547110, "title": "Gigantic", "original_title": "Gigantic", "slug_title": "gigantic", "date": "2021-01-07", "genre": "Animation / Familial / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i4UHIpb2ofsLBjnoW6wbWvebLMm.jpg", "actors": [], "comments": [], "recommandations_id": []}

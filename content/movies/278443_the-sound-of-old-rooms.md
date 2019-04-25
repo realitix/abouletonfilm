@@ -1,1 +1,0 @@
-{"tmdb_id": 278443, "title": "The Sound Of Old Rooms", "original_title": "Kokkho-poth", "slug_title": "the-sound-of-old-rooms", "date": "2011-10-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

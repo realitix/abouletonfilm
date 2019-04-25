@@ -1,1 +1,0 @@
-{"tmdb_id": 318175, "title": "Christ Tabernacle Choir: We Have Overcome", "original_title": "Christ Tabernacle Choir: We Have Overcome", "slug_title": "christ-tabernacle-choir-we-have-overcome", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

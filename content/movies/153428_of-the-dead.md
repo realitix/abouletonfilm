@@ -1,1 +1,0 @@
-{"tmdb_id": 153428, "title": "Of the Dead", "original_title": "Des morts", "slug_title": "of-the-dead", "date": "1979-10-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wUqufnVje0hU2XBsixlk1pZN76o.jpg", "actors": [], "comments": [], "recommandations_id": []}

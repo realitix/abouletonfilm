@@ -1,1 +1,0 @@
-{"tmdb_id": 382588, "title": "\u5b54\u96c0\u773c", "original_title": "\u5b54\u96c0\u773c", "slug_title": "kong-que-yan", "date": "2009-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zAGMacgaWTtw4KASji9ywTDKOTU.jpg", "actors": [], "comments": [], "recommandations_id": []}

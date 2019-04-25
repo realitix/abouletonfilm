@@ -1,1 +1,0 @@
-{"tmdb_id": 388579, "title": "The Chunkblow", "original_title": "The Chunkblow", "slug_title": "the-chunkblow", "date": "2015-04-18", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yRHJ2q1p3zJqIjmEciLnCHl8fF.jpg", "actors": [], "comments": [], "recommandations_id": []}

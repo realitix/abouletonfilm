@@ -1,1 +1,0 @@
-{"tmdb_id": 304141, "title": "A Sud del Sud", "original_title": "A Sud del Sud", "slug_title": "a-sud-del-sud", "date": "2001-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 563952, "title": "N\u00e3o \u00e9 s\u00f3 Isso", "original_title": "N\u00e3o \u00e9 s\u00f3 Isso", "slug_title": "nao-e-so-isso", "date": "2018-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6q4s3uM0dy8gJjzq5mK5dXYxPdQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

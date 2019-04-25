@@ -1,1 +1,0 @@
-{"tmdb_id": 71160, "title": "Sinbad: Brain Damaged", "original_title": "Sinbad: Brain Damaged", "slug_title": "sinbad-brain-damaged", "date": "1990-01-01", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bjGILKsViSMW1VGLs5MM9D7ijmO.jpg", "actors": ["Sinbad (Himself)"], "comments": [], "recommandations_id": []}

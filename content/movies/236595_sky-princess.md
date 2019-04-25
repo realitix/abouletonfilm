@@ -1,1 +1,0 @@
-{"tmdb_id": 236595, "title": "Sky Princess", "original_title": "Sky Princess", "slug_title": "sky-princess", "date": "1942-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2QnYfmTs7OLKpu7JsXQFd2ssVq.jpg", "actors": [], "comments": [], "recommandations_id": []}

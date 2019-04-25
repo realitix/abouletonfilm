@@ -1,1 +1,0 @@
-{"tmdb_id": 477745, "title": "Cocktail de Rayas", "original_title": "Cocktail de Rayas", "slug_title": "cocktail-de-rayas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

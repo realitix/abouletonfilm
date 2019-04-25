@@ -1,1 +1,0 @@
-{"tmdb_id": 424317, "title": "Voler ave les Oiseaux", "original_title": "Voler ave les Oiseaux", "slug_title": "voler-ave-les-oiseaux", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Franck Cuvelier et Christian Moullec pr\u00e9sentet \"l'homme qui vol avec les oies\"-", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

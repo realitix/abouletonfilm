@@ -1,1 +1,0 @@
-{"tmdb_id": 429852, "title": "Land of the Throat", "original_title": "Land of the Throat", "slug_title": "land-of-the-throat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

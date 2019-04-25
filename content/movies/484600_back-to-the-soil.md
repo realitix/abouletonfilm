@@ -1,1 +1,0 @@
-{"tmdb_id": 484600, "title": "Back to the Soil", "original_title": "Back to the Soil", "slug_title": "back-to-the-soil", "date": "1934-08-10", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Sidney ()", "Charles Murray ()"], "comments": [], "recommandations_id": []}

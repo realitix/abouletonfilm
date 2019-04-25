@@ -1,1 +1,0 @@
-{"tmdb_id": 243211, "title": "Cradle of Genius", "original_title": "Cradle of Genius", "slug_title": "cradle-of-genius", "date": "1961-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

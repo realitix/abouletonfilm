@@ -1,1 +1,0 @@
-{"tmdb_id": 409631, "title": "Allt vi delar", "original_title": "Allt vi delar", "slug_title": "allt-vi-delar", "date": "2014-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6s0x4bMseQCsH641XT2MuXWC4gW.jpg", "actors": [], "comments": [], "recommandations_id": []}

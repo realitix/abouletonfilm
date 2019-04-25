@@ -1,1 +1,0 @@
-{"tmdb_id": 362660, "title": "The Battle of the Ants", "original_title": "The Battle of the Ants", "slug_title": "the-battle-of-the-ants", "date": "1922-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jf8cjzBpd6PrNzXAh6DNVbIoCZO.jpg", "actors": [], "comments": [], "recommandations_id": []}

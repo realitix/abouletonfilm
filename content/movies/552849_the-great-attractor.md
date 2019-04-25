@@ -1,1 +1,0 @@
-{"tmdb_id": 552849, "title": "The Great Attractor", "original_title": "The Great Attractor", "slug_title": "the-great-attractor", "date": "2018-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/29Mk43fn2ARGuvtxFofuhPt779.jpg", "actors": [], "comments": [], "recommandations_id": []}

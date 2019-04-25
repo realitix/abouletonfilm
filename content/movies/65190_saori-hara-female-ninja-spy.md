@@ -1,1 +1,0 @@
-{"tmdb_id": 65190, "title": "Saori Hara Female Ninja Spy", "original_title": "Saori Hara Female Ninja Spy", "slug_title": "saori-hara-female-ninja-spy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

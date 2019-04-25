@@ -1,1 +1,0 @@
-{"tmdb_id": 465422, "title": "Olympic: Pr\u00e1zdniny na zemi", "original_title": "Olympic: Pr\u00e1zdniny na zemi", "slug_title": "olympic-prazdniny-na-zemi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cb7VDTNpc7whkyY8UvrYnQf5xna.jpg", "actors": [], "comments": [], "recommandations_id": []}

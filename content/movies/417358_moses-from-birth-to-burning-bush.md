@@ -1,1 +1,0 @@
-{"tmdb_id": 417358, "title": "Moses: From Birth to Burning Bush", "original_title": "Moses: From Birth to Burning Bush", "slug_title": "moses-from-birth-to-burning-bush", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3xXcjsIHfXGUvURqsv3fafrOMPy.jpg", "actors": [], "comments": [], "recommandations_id": []}

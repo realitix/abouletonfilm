@@ -1,1 +1,0 @@
-{"tmdb_id": 461377, "title": "Who the F**K Is That Guy?", "original_title": "Who the F**K Is That Guy?", "slug_title": "who-the-f-k-is-that-guy", "date": "2017-07-21", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

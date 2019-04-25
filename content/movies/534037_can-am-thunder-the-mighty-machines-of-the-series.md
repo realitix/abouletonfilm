@@ -1,1 +1,0 @@
-{"tmdb_id": 534037, "title": "Can-Am Thunder: The Mighty Machines of the Series", "original_title": "Can-Am Thunder: The Mighty Machines of the Series", "slug_title": "can-am-thunder-the-mighty-machines-of-the-series", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

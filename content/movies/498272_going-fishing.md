@@ -1,1 +1,0 @@
-{"tmdb_id": 498272, "title": "Going Fishing", "original_title": "Going Fishing", "slug_title": "going-fishing", "date": "2018-01-10", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dMsGs6gELApt7GWQ4fSpPgBjVHg.jpg", "actors": [], "comments": [], "recommandations_id": []}

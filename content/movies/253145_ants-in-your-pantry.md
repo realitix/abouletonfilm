@@ -1,1 +1,0 @@
-{"tmdb_id": 253145, "title": "Ants in Your Pantry", "original_title": "Ants in Your Pantry", "slug_title": "ants-in-your-pantry", "date": "1945-02-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eOsKw9cFIVuW7EzmsjNTD8abXF5.jpg", "actors": [], "comments": [], "recommandations_id": []}

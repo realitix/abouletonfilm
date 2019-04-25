@@ -1,1 +1,0 @@
-{"tmdb_id": 310497, "title": "Chris Isaak: Baja Sessions", "original_title": "Chris Isaak: Baja Sessions", "slug_title": "chris-isaak-baja-sessions", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

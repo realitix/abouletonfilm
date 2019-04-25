@@ -1,1 +1,0 @@
-{"tmdb_id": 385436, "title": "Farz Aur Kanoon", "original_title": "Farz Aur Kanoon", "slug_title": "farz-aur-kanoon", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/elEGK7x7sXLAZNtt6D7nqGijCVa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 173215, "title": "Gold Farmers", "original_title": "Gold Farmers", "slug_title": "gold-farmers", "date": "2010-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t1MHfzNPFilNagZqDOY8L2IVMR6.jpg", "actors": [], "comments": [], "recommandations_id": []}

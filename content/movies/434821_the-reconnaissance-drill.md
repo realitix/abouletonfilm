@@ -1,1 +1,0 @@
-{"tmdb_id": 434821, "title": "The Reconnaissance Drill", "original_title": "De verkenningsboring", "slug_title": "the-reconnaissance-drill", "date": "1954-09-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

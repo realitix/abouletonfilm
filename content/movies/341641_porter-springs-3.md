@@ -1,1 +1,0 @@
-{"tmdb_id": 341641, "title": "Porter Springs 3", "original_title": "Porter Springs 3", "slug_title": "porter-springs-3", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oFdcWMQ30vJraCF2GjhQJDtSjb3.jpg", "actors": [], "comments": [], "recommandations_id": []}

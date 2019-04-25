@@ -1,1 +1,0 @@
-{"tmdb_id": 552414, "title": "Film Bug I", "original_title": "Film Bug I", "slug_title": "film-bug-i", "date": "2006-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ruki ()", "Reita ()", "Uruha ()", "Aoi ()", "Kai ()"], "comments": [], "recommandations_id": []}

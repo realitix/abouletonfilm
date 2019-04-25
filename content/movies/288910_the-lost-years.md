@@ -1,1 +1,0 @@
-{"tmdb_id": 288910, "title": "The Lost Years", "original_title": "The Lost Years", "slug_title": "the-lost-years", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

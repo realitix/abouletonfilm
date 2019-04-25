@@ -1,1 +1,0 @@
-{"tmdb_id": 595118, "title": "Eve's Lover", "original_title": "Eve's Lover", "slug_title": "eve-s-lover", "date": "1925-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g5ABDRQsDH2342O1mIUdKdKbij6.jpg", "actors": [], "comments": [], "recommandations_id": []}

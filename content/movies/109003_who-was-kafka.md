@@ -1,1 +1,0 @@
-{"tmdb_id": 109003, "title": "Who was Kafka", "original_title": "Who was Kafka", "slug_title": "who-was-kafka", "date": "2006-02-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/on8bSbZntjry6HuPRp98zoC9KlN.jpg", "actors": [], "comments": [], "recommandations_id": []}

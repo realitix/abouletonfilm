@@ -1,1 +1,0 @@
-{"tmdb_id": 332590, "title": "A Good Madness", "original_title": "A Good Madness", "slug_title": "a-good-madness", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

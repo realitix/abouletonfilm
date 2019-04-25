@@ -1,1 +1,0 @@
-{"tmdb_id": 339015, "title": "Jazz Icons: Cab Calloway", "original_title": "Jazz Icons: Cab Calloway", "slug_title": "jazz-icons-cab-calloway", "date": "1934-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cab Calloway ()"], "comments": [], "recommandations_id": []}

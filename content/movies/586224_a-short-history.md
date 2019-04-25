@@ -1,1 +1,0 @@
-{"tmdb_id": 586224, "title": "A Short History", "original_title": "A Short History", "slug_title": "a-short-history", "date": "2017-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d9aesoMT2aNzqIhB4KrWiRGmJJx.jpg", "actors": [], "comments": [], "recommandations_id": []}

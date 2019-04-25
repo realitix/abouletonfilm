@@ -1,1 +1,0 @@
-{"tmdb_id": 276553, "title": "Symphony for the Spire", "original_title": "Symphony for the Spire", "slug_title": "symphony-for-the-spire", "date": "1992-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

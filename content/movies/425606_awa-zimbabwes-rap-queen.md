@@ -1,1 +1,0 @@
-{"tmdb_id": 425606, "title": "AWA: Zimbabwe\u2019s Rap Queen", "original_title": "AWA: Zimbabwe\u2019s Rap Queen", "slug_title": "awa-zimbabwes-rap-queen", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["AWA (Herself)", "AWA (Herself)"], "comments": [], "recommandations_id": []}

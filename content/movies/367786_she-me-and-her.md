@@ -1,1 +1,0 @@
-{"tmdb_id": 367786, "title": "She Me and Her", "original_title": "She Me and Her", "slug_title": "she-me-and-her", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 321613, "title": "Dodge & Twist", "original_title": "Dodge & Twist", "slug_title": "dodge-twist", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

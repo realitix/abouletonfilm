@@ -1,1 +1,0 @@
-{"tmdb_id": 450134, "title": "Parallel Novel", "original_title": "\ud3c9\ud589\uc18c\uc124", "slug_title": "parallel-novel", "date": "2016-11-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oEE0bkhX4Z0d97pS99S7gsJS0Rx.jpg", "actors": [], "comments": [], "recommandations_id": []}

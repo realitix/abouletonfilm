@@ -1,1 +1,0 @@
-{"tmdb_id": 428346, "title": "Der G.m.b.H. Tenor", "original_title": "Der G.m.b.H. Tenor", "slug_title": "der-g-m-b-h-tenor", "date": "1916-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernst Lubitsch (Sally)", "Ossi Oswalda (Sallys Cousin)", "Victor Janson (Theater Agent)"], "comments": [], "recommandations_id": []}

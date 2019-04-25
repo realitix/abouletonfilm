@@ -1,1 +1,0 @@
-{"tmdb_id": 362490, "title": "Sandstorm", "original_title": "Sandstorm", "slug_title": "sandstorm", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

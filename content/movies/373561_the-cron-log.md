@@ -1,1 +1,0 @@
-{"tmdb_id": 373561, "title": "The Cron Log", "original_title": "The Cron Log", "slug_title": "the-cron-log", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 309541, "title": "Carrying the Swing", "original_title": "Carrying the Swing", "slug_title": "carrying-the-swing", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

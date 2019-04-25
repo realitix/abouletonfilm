@@ -1,1 +1,0 @@
-{"tmdb_id": 374064, "title": "Christmas Torture", "original_title": "Christmas Torture", "slug_title": "christmas-torture", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aq4joiY73z02ELXUF3cxQPBPNgN.jpg", "actors": [], "comments": [], "recommandations_id": []}

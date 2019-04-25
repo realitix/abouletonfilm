@@ -1,1 +1,0 @@
-{"tmdb_id": 419847, "title": "Practice", "original_title": "Practice", "slug_title": "practice", "date": "2016-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Hkm1NaHAltYi6UUrR83tHr40Gv.jpg", "actors": [], "comments": [], "recommandations_id": []}

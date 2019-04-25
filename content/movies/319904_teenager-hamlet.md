@@ -1,1 +1,0 @@
-{"tmdb_id": 319904, "title": "Teenager Hamlet", "original_title": "Teenager Hamlet", "slug_title": "teenager-hamlet", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Wn6uXrWwHQv4zxz87rEVmjzjpe.jpg", "actors": [], "comments": [], "recommandations_id": []}

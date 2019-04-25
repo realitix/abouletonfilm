@@ -1,1 +1,0 @@
-{"tmdb_id": 439355, "title": "A Veteran's Destiny", "original_title": "A Veteran's Destiny", "slug_title": "a-veteran-s-destiny", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

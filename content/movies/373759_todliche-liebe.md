@@ -1,1 +1,0 @@
-{"tmdb_id": 373759, "title": "T\u00f6dliche Liebe", "original_title": "T\u00f6dliche Liebe", "slug_title": "todliche-liebe", "date": "1995-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mathieu Carri\u00e8re ()", "Susi Nicoletti ()", "Wolfgang Gasser ()", "Leon Askin ()"], "comments": [], "recommandations_id": []}

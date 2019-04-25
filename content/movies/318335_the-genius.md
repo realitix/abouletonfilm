@@ -1,1 +1,0 @@
-{"tmdb_id": 318335, "title": "The Genius", "original_title": "The Genius", "slug_title": "the-genius", "date": "1993-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

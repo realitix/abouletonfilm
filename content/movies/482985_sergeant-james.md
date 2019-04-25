@@ -1,1 +1,0 @@
-{"tmdb_id": 482985, "title": "Sergeant James", "original_title": "Sergeant James", "slug_title": "sergeant-james", "date": "2016-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xLaaKI2XOZMKVkaJPoyHFY3VkvB.jpg", "actors": [], "comments": [], "recommandations_id": []}

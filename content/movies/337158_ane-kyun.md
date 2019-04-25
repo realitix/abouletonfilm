@@ -1,1 +1,0 @@
-{"tmdb_id": 337158, "title": "Ane Kyun!", "original_title": "Ane Kyun!", "slug_title": "ane-kyun", "date": "2014-08-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3qKCZ3A74rh0Cm1FaEqIJwpWikS.jpg", "actors": [], "comments": [], "recommandations_id": []}

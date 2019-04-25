@@ -1,1 +1,0 @@
-{"tmdb_id": 281816, "title": "Seoul Electric", "original_title": "Seoul Electric", "slug_title": "seoul-electric", "date": "2012-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6TiVhi8udQyNhB5lrzFClOHnbzi.jpg", "actors": [], "comments": [], "recommandations_id": []}

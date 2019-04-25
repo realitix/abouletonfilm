@@ -1,1 +1,0 @@
-{"tmdb_id": 525118, "title": "Harcerze na zlocie", "original_title": "Harcerze na zlocie", "slug_title": "harcerze-na-zlocie", "date": "1952-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

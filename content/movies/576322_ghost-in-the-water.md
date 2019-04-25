@@ -1,1 +1,0 @@
-{"tmdb_id": 576322, "title": "Ghost in the Water", "original_title": "Ghost in the Water", "slug_title": "ghost-in-the-water", "date": "1982-12-31", "genre": "Horreur / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lpn3JzyAbcmlTxxRHCBXZwsqW8S.jpg", "actors": [], "comments": [], "recommandations_id": []}

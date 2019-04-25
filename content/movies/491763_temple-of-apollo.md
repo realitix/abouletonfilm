@@ -1,1 +1,0 @@
-{"tmdb_id": 491763, "title": "Temple of Apollo", "original_title": "Temple of Apollo", "slug_title": "temple-of-apollo", "date": "2012-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fhkFzdb6IJ95j8b1sWYrGWt2hJF.jpg", "actors": [], "comments": [], "recommandations_id": []}

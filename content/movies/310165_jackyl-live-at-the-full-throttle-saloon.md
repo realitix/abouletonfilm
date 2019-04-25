@@ -1,1 +1,0 @@
-{"tmdb_id": 310165, "title": "Jackyl: Live at the Full Throttle Saloon", "original_title": "Jackyl: Live at the Full Throttle Saloon", "slug_title": "jackyl-live-at-the-full-throttle-saloon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

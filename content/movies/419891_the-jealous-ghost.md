@@ -1,1 +1,0 @@
-{"tmdb_id": 419891, "title": "The Jealous Ghost", "original_title": "Mayat Cemburu", "slug_title": "the-jealous-ghost", "date": "1973-01-01", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Johny Gudel ()", "Paimo ()", "Kardjo AC-DC ()", "Eddy Geyol ()", "Suroto ()"], "comments": [], "recommandations_id": []}

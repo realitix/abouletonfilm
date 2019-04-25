@@ -1,1 +1,0 @@
-{"tmdb_id": 320451, "title": "The Eyes of the Panther", "original_title": "The Eyes of the Panther", "slug_title": "the-eyes-of-the-panther", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

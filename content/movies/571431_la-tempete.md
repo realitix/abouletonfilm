@@ -1,1 +1,0 @@
-{"tmdb_id": 571431, "title": "La temp\u00eate", "original_title": "La temp\u00eate", "slug_title": "la-tempete", "date": "2006-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/za31h2ITB6EHJ8T9I84819FJzjI.jpg", "actors": [], "comments": [], "recommandations_id": []}

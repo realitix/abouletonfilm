@@ -1,1 +1,0 @@
-{"tmdb_id": 402756, "title": "I Want to beat up Clark Peters", "original_title": "I Want to beat up Clark Peters", "slug_title": "i-want-to-beat-up-clark-peters", "date": "2015-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zrc6kXTJs3NDqS8FN3PrJwCkO4J.jpg", "actors": [], "comments": [], "recommandations_id": []}

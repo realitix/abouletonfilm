@@ -1,1 +1,0 @@
-{"tmdb_id": 277436, "title": "Simon, el gran var\u00f3n", "original_title": "Simon, el gran var\u00f3n", "slug_title": "simon-el-gran-varon", "date": "2002-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r21r1t5P5556XveW55RWDqiRA4A.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 257994, "title": "Stan Tracey: The Godfather of British Jazz", "original_title": "Stan Tracey: The Godfather of British Jazz", "slug_title": "stan-tracey-the-godfather-of-british-jazz", "date": "2003-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stan Tracey (Himself)"], "comments": [], "recommandations_id": []}

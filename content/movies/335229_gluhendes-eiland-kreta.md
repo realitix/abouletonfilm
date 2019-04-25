@@ -1,1 +1,0 @@
-{"tmdb_id": 335229, "title": "Gl\u00fchendes Eiland Kreta", "original_title": "Gl\u00fchendes Eiland Kreta", "slug_title": "gluhendes-eiland-kreta", "date": "1959-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

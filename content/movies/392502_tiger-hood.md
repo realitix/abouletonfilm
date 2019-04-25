@@ -1,1 +1,0 @@
-{"tmdb_id": 392502, "title": "Tiger Hood", "original_title": "Tiger Hood", "slug_title": "tiger-hood", "date": "2016-04-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jVuIVMEcmsewM2I4QMnYvveo5wT.jpg", "actors": [], "comments": [], "recommandations_id": []}

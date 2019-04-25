@@ -1,1 +1,0 @@
-{"tmdb_id": 538691, "title": "The Legend of Prometheus", "original_title": "Prom\u00e9th\u00e9e", "slug_title": "the-legend-of-prometheus", "date": "1908-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Jj8R8Vk1KHAcrWfqdfjyBNDUPF.jpg", "actors": [], "comments": [], "recommandations_id": []}

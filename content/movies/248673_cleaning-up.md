@@ -1,1 +1,0 @@
-{"tmdb_id": 248673, "title": "Cleaning Up", "original_title": "Cleaning Up", "slug_title": "cleaning-up", "date": "1930-09-28", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chester Conklin (Chester)", "Mack Swain (Mack)", "Gibson Gowland (Burke)"], "comments": [], "recommandations_id": []}

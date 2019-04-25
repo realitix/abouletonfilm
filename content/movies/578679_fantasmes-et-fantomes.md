@@ -1,1 +1,0 @@
-{"tmdb_id": 578679, "title": "Fantasmes et fant\u00f4mes", "original_title": "Fantasmes et fant\u00f4mes", "slug_title": "fantasmes-et-fantomes", "date": "2017-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tisrAQN5SSnPSUhnXlf1VFJsIQe.jpg", "actors": [], "comments": [], "recommandations_id": []}

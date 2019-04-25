@@ -1,1 +1,0 @@
-{"tmdb_id": 439104, "title": "Ghoultown! Live From Texas!", "original_title": "Ghoultown! Live From Texas!", "slug_title": "ghoultown-live-from-texas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

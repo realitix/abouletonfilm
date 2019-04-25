@@ -1,1 +1,0 @@
-{"tmdb_id": 468699, "title": "Kaj & Andrea 15", "original_title": "Kaj & Andrea 15", "slug_title": "kaj-andrea-15", "date": "2004-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ymDzRFwD8pMr45AakNRhNGvqcd.jpg", "actors": [], "comments": [], "recommandations_id": []}

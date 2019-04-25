@@ -1,1 +1,0 @@
-{"tmdb_id": 579914, "title": "Crossing Tracks", "original_title": "Latu", "slug_title": "crossing-tracks", "date": "2019-01-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4SFBK0hkuUiydtJDrUHKaY69UB0.jpg", "actors": [], "comments": [], "recommandations_id": []}

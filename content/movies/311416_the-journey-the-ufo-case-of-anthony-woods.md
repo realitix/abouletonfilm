@@ -1,1 +1,0 @@
-{"tmdb_id": 311416, "title": "The Journey: The UFO Case of Anthony Woods", "original_title": "The Journey: The UFO Case of Anthony Woods", "slug_title": "the-journey-the-ufo-case-of-anthony-woods", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

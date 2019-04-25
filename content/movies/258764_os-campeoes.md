@@ -1,1 +1,0 @@
-{"tmdb_id": 258764, "title": "Os Campe\u00f5es", "original_title": "Os Campe\u00f5es", "slug_title": "os-campeoes", "date": "1983-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Isaac Bardavid ()", "Armando B\u00f3gus ()", "Wilza Carla ()", "Tony Correia ()"], "comments": [], "recommandations_id": []}

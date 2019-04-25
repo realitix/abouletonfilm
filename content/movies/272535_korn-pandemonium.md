@@ -1,1 +1,0 @@
-{"tmdb_id": 272535, "title": "Korn: Pandemonium", "original_title": "Korn: Pandemonium", "slug_title": "korn-pandemonium", "date": "2010-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Korn ()"], "comments": [], "recommandations_id": []}

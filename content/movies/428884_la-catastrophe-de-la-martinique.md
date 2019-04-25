@@ -1,1 +1,0 @@
-{"tmdb_id": 428884, "title": "La catastrophe de la Martinique", "original_title": "La catastrophe de la Martinique", "slug_title": "la-catastrophe-de-la-martinique", "date": "1902-12-04", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

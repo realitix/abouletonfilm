@@ -1,1 +1,0 @@
-{"tmdb_id": 556354, "title": "Visage d'a\u00efeule", "original_title": "Visage d'a\u00efeule", "slug_title": "visage-d-aieule", "date": "1926-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 85538, "title": "Jake Shimabukuro: A Million Miles Away", "original_title": "Jake Shimabukuro: A Million Miles Away", "slug_title": "jake-shimabukuro-a-million-miles-away", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

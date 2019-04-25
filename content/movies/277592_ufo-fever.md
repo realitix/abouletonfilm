@@ -1,1 +1,0 @@
-{"tmdb_id": 277592, "title": "UFO Fever", "original_title": "UFO Fever", "slug_title": "ufo-fever", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Noel Francomano (Townie #1)"], "comments": [], "recommandations_id": []}

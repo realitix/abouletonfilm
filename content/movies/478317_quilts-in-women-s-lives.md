@@ -1,1 +1,0 @@
-{"tmdb_id": 478317, "title": "Quilts in Women's Lives", "original_title": "Quilts in Women's Lives", "slug_title": "quilts-in-women-s-lives", "date": "1980-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

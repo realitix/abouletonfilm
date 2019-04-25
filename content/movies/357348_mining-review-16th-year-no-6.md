@@ -1,1 +1,0 @@
-{"tmdb_id": 357348, "title": "Mining Review 16th Year No. 6", "original_title": "Mining Review 16th Year No. 6", "slug_title": "mining-review-16th-year-no-6", "date": "1963-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Slater ()"], "comments": [], "recommandations_id": []}

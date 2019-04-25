@@ -1,1 +1,0 @@
-{"tmdb_id": 367409, "title": "Steve Waugh", "original_title": "Steve Waugh", "slug_title": "steve-waugh", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tGU5nA3s3Xa3CWMMEYNjjbMwMtC.jpg", "actors": ["Steve Waugh (Himself)"], "comments": [], "recommandations_id": []}

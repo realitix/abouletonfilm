@@ -1,1 +1,0 @@
-{"tmdb_id": 334006, "title": "Lewis and Clark Expedition", "original_title": "Lewis and Clark Expedition", "slug_title": "lewis-and-clark-expedition", "date": "2007-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 255691, "title": "The Foliage", "original_title": "\u7f8e\u4eba\u8349", "slug_title": "the-foliage", "date": "2003-01-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ibzJy8oyqygCe1JAS1mEc3az6Bs.jpg", "actors": ["Shu Qi (Ye Xing Yu)", "Liu Ye ()"], "comments": [], "recommandations_id": []}

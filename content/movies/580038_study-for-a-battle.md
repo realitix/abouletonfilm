@@ -1,1 +1,0 @@
-{"tmdb_id": 580038, "title": "Study for a Battle", "original_title": "Study for a Battle", "slug_title": "study-for-a-battle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rB6cnEuuJbKuQTufsQPpk82RSdl.jpg", "actors": [], "comments": [], "recommandations_id": []}

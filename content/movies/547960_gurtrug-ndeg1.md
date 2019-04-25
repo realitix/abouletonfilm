@@ -1,1 +1,0 @@
-{"tmdb_id": 547960, "title": "Gurtrug N\u00b01", "original_title": "Gurtrug N\u00b01", "slug_title": "gurtrug-ndeg1", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/owzAhTmQvVnfvgPYZ8Z4yUV5QjB.jpg", "actors": [], "comments": [], "recommandations_id": []}

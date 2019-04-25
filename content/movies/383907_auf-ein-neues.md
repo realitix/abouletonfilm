@@ -1,1 +1,0 @@
-{"tmdb_id": 383907, "title": "Auf ein Neues", "original_title": "Auf ein Neues", "slug_title": "auf-ein-neues", "date": "1988-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gert Fr\u00f6be (Narrator)", "Axel von Ambesser (Narrator)"], "comments": [], "recommandations_id": []}

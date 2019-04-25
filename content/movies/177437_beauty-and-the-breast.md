@@ -1,1 +1,0 @@
-{"tmdb_id": 177437, "title": "Beauty and the Breast", "original_title": "Beauty and the Breast", "slug_title": "beauty-and-the-breast", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i6PaFvbVyZ6boPrHc8Wq6s2gBIz.jpg", "actors": [], "comments": [], "recommandations_id": []}

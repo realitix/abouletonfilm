@@ -1,1 +1,0 @@
-{"tmdb_id": 392742, "title": "Treehouse", "original_title": "Treehouse", "slug_title": "treehouse", "date": "2016-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

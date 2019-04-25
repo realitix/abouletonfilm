@@ -1,1 +1,0 @@
-{"tmdb_id": 149935, "title": "Waiting for Sancho", "original_title": "Waiting for Sancho", "slug_title": "waiting-for-sancho", "date": "2008-10-06", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ev7MALzvBnbnRnjtAyY9IlSVIeg.jpg", "actors": [], "comments": [], "recommandations_id": []}

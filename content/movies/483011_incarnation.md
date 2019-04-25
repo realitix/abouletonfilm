@@ -1,1 +1,0 @@
-{"tmdb_id": 483011, "title": "Incarnation", "original_title": "Encarnaci\u00f3n", "slug_title": "incarnation", "date": "2017-10-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hLE3rxpTyara6bS4jJxThwT4SSS.jpg", "actors": ["Luis Alberti (Ezequiel)"], "comments": [], "recommandations_id": []}

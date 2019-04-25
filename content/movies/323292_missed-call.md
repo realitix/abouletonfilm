@@ -1,1 +1,0 @@
-{"tmdb_id": 323292, "title": "Missed Call", "original_title": "Missed Call", "slug_title": "missed-call", "date": "2007-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

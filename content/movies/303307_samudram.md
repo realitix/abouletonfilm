@@ -1,1 +1,0 @@
-{"tmdb_id": 303307, "title": "Samudram", "original_title": "Samudram", "slug_title": "samudram", "date": "1999-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sGFaEz8rXLPQ0YAN0hlrXHE0c7e.jpg", "actors": [], "comments": [], "recommandations_id": []}

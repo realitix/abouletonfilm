@@ -1,1 +1,0 @@
-{"tmdb_id": 554568, "title": "The Last Attack of the Beast", "original_title": "The Last Attack of the Beast", "slug_title": "the-last-attack-of-the-beast", "date": "2002-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

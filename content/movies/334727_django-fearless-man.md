@@ -1,1 +1,0 @@
-{"tmdb_id": 334727, "title": "Django - Fearless Man", "original_title": "Cango - korkusuz adam", "slug_title": "django-fearless-man", "date": "1967-10-07", "genre": "Action / Western", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9nGkmWxhgHXsHpfHqX9ZW7FMZPx.jpg", "actors": [], "comments": [], "recommandations_id": []}

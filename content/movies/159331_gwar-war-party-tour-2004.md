@@ -1,1 +1,0 @@
-{"tmdb_id": 159331, "title": "Gwar - War Party Tour 2004", "original_title": "Gwar - War Party Tour 2004", "slug_title": "gwar-war-party-tour-2004", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v41I7L6lt3kFEe4tK0g5psO18Zh.jpg", "actors": [], "comments": [], "recommandations_id": []}

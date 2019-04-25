@@ -1,1 +1,0 @@
-{"tmdb_id": 433374, "title": "Super Zero", "original_title": "Super Zero", "slug_title": "super-zero", "date": "", "genre": "Action / Horreur", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pnqIm1oqIhoaFLARnDF3XjQWhAL.jpg", "actors": [], "comments": [], "recommandations_id": []}

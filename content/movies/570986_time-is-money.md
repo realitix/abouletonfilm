@@ -1,1 +1,0 @@
-{"tmdb_id": 570986, "title": "Time is Money", "original_title": "Time is Money", "slug_title": "time-is-money", "date": "1994-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/froPq40zwiukIbSuRS1koG6mfrJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

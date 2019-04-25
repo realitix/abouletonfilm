@@ -1,1 +1,0 @@
-{"tmdb_id": 594323, "title": "Pixy Dragons", "original_title": "Pixy Dragons", "slug_title": "pixy-dragons", "date": "2019-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3XswvwI0AtGM23e7zHievS3tBNn.jpg", "actors": [], "comments": [], "recommandations_id": []}

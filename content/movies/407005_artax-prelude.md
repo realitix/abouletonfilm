@@ -1,1 +1,0 @@
-{"tmdb_id": 407005, "title": "Artax: Prelude", "original_title": "Artax: Prelude", "slug_title": "artax-prelude", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1hOf3na1JwjwXH24GqOdfG52uWP.jpg", "actors": ["Alex Warner (Man (voice))"], "comments": [], "recommandations_id": []}

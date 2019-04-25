@@ -1,1 +1,0 @@
-{"tmdb_id": 25210, "title": "Lee Mack: Live", "original_title": "Lee Mack: Live", "slug_title": "lee-mack-live", "date": "2007-11-27", "genre": "Com\u00e9die", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wOdKOODwbu7kL2D9SCYjQTRYQXW.jpg", "actors": ["Lee Mack (Lee Mack)"], "comments": [], "recommandations_id": []}

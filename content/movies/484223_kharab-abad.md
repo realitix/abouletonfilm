@@ -1,1 +1,0 @@
-{"tmdb_id": 484223, "title": "Kharab-abad", "original_title": "Kharab-abad", "slug_title": "kharab-abad", "date": "1966-10-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vhHxz5oEFboVbT4z5TuYkC3PCj1.jpg", "actors": [], "comments": [], "recommandations_id": []}

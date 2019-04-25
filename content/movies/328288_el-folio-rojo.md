@@ -1,1 +1,0 @@
-{"tmdb_id": 328288, "title": "El Folio Rojo", "original_title": "El Folio Rojo", "slug_title": "el-folio-rojo", "date": "2014-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q5ldqO5X7PU0HJjRqTeP7K7lHIQ.jpg", "actors": ["Victor Sol\u00e9 (Man)"], "comments": [], "recommandations_id": []}

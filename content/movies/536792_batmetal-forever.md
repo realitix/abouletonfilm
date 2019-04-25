@@ -1,1 +1,0 @@
-{"tmdb_id": 536792, "title": "Batmetal Forever", "original_title": "Batmetal Forever", "slug_title": "batmetal-forever", "date": "2018-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wOqMqSm36feTMhHpxzgzgXXnB88.jpg", "actors": [], "comments": [], "recommandations_id": []}

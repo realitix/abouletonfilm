@@ -1,1 +1,0 @@
-{"tmdb_id": 224028, "title": "The Stuck-Up Wolf", "original_title": "The Stuck-Up Wolf", "slug_title": "the-stuck-up-wolf", "date": "1967-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

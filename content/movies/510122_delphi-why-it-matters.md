@@ -1,1 +1,0 @@
-{"tmdb_id": 510122, "title": "Delphi: Why It Matters", "original_title": "Delphi: Why It Matters", "slug_title": "delphi-why-it-matters", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4EoRx3rU4Fs9jL3SlF5B43jPlNJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

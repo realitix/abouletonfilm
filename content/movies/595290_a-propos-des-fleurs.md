@@ -1,1 +1,0 @@
-{"tmdb_id": 595290, "title": "\u00c0 propos des fleurs", "original_title": "\u00c0 propos des fleurs", "slug_title": "a-propos-des-fleurs", "date": "1952-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

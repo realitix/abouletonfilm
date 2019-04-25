@@ -1,1 +1,0 @@
-{"tmdb_id": 589695, "title": "Sammy the Salmon", "original_title": "Sammy the Salmon", "slug_title": "sammy-the-salmon", "date": "2018-10-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/foEN5Rex5hJBicAuMFseFAIlAcW.jpg", "actors": [], "comments": [], "recommandations_id": []}

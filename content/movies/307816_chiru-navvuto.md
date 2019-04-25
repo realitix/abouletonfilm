@@ -1,1 +1,0 @@
-{"tmdb_id": 307816, "title": "Chiru Navvuto", "original_title": "Chiru Navvuto", "slug_title": "chiru-navvuto", "date": "2000-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 269104, "title": "Soul Flower Train", "original_title": "Soul Flower Train", "slug_title": "soul-flower-train", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/H3NfYNGU21tHogy0xaMnXrgMjl.jpg", "actors": [], "comments": [], "recommandations_id": []}

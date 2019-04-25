@@ -1,1 +1,0 @@
-{"tmdb_id": 556941, "title": "Delphine", "original_title": "Delphine", "slug_title": "delphine", "date": "1931-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 349346, "title": "High Stakes", "original_title": "\uace0\uc218", "slug_title": "high-stakes", "date": "1998-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

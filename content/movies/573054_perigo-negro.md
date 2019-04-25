@@ -1,1 +1,0 @@
-{"tmdb_id": 573054, "title": "Perigo Negro", "original_title": "Perigo Negro", "slug_title": "perigo-negro", "date": "1992-02-21", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jfkVi6J90Tkao7E8DxEgkGjrWbf.jpg", "actors": [], "comments": [], "recommandations_id": []}

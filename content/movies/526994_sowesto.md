@@ -1,1 +1,0 @@
-{"tmdb_id": 526994, "title": "Sowesto", "original_title": "Sowesto", "slug_title": "sowesto", "date": "1969-05-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/soXTFFUI2fpaRFTZoCeoB4NKkTl.jpg", "actors": [], "comments": [], "recommandations_id": []}

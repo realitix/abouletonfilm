@@ -1,1 +1,0 @@
-{"tmdb_id": 480240, "title": "Lille Kalles dr\u00f6m om sin sn\u00f6gubbe", "original_title": "Lille Kalles dr\u00f6m om sin sn\u00f6gubbe", "slug_title": "lille-kalles-drom-om-sin-snogubbe", "date": "1916-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

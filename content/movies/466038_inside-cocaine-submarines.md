@@ -1,1 +1,0 @@
-{"tmdb_id": 466038, "title": "Inside cocaine submarines", "original_title": "Inside cocaine submarines", "slug_title": "inside-cocaine-submarines", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cQeAcYxV4m0N6iUWv1A2BjNW2pD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 565423, "title": "Erostratus", "original_title": "Erostratus", "slug_title": "erostratus", "date": "1958-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 565423, "title": "Erostratus", "original_title": "Erostratus", "slug_title": "erostratus", "date": "1958-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Film by Joseph Marzano.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 487465, "title": "The Smoker", "original_title": "The Smoker", "slug_title": "the-smoker", "date": "1910-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Billy Quirk (George)", "Mary Pickford (George's Wife)"], "comments": [], "recommandations_id": []}

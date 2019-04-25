@@ -1,1 +1,0 @@
-{"tmdb_id": 426766, "title": "El reyecito", "original_title": "El reyecito", "slug_title": "el-reyecito", "date": "1979-09-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fosi Bendeck (El Rey)"], "comments": [], "recommandations_id": []}

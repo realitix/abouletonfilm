@@ -1,1 +1,0 @@
-{"tmdb_id": 437309, "title": "Hunkey Kongs", "original_title": "Hunkey Kongs", "slug_title": "hunkey-kongs", "date": "2016-01-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bxVpZM9StWyd8S30gT6N7SPwHPm.jpg", "actors": [], "comments": [], "recommandations_id": []}

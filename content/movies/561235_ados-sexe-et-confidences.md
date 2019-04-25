@@ -1,1 +1,0 @@
-{"tmdb_id": 561235, "title": "Ados, sexe et confidences", "original_title": "Ados, sexe et confidences", "slug_title": "ados-sexe-et-confidences", "date": "2018-09-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

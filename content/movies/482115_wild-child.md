@@ -1,1 +1,0 @@
-{"tmdb_id": 482115, "title": "Wild Child", "original_title": "Wild Child", "slug_title": "wild-child", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

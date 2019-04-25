@@ -1,1 +1,0 @@
-{"tmdb_id": 242508, "title": "High Steel", "original_title": "High Steel", "slug_title": "high-steel", "date": "1965-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4PDZlgl7HNXD9deAiCOCjoWAHQS.jpg", "actors": ["Don Francks (Narrator)"], "comments": [], "recommandations_id": []}

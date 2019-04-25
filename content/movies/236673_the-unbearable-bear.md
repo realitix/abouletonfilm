@@ -1,1 +1,0 @@
-{"tmdb_id": 236673, "title": "The Unbearable Bear", "original_title": "The Unbearable Bear", "slug_title": "the-unbearable-bear", "date": "1943-04-16", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/51i77eCW8EMDXq0jbkEoe85pa3b.jpg", "actors": [], "comments": [], "recommandations_id": []}

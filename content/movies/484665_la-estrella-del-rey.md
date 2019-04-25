@@ -1,1 +1,0 @@
-{"tmdb_id": 484665, "title": "La estrella del rey", "original_title": "La estrella del rey", "slug_title": "la-estrella-del-rey", "date": "1957-09-16", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

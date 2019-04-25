@@ -1,1 +1,0 @@
-{"tmdb_id": 330371, "title": "Tomorrow Love Will Return", "original_title": "Ghadan Ya'ud al-Hubb", "slug_title": "tomorrow-love-will-return", "date": "1972-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

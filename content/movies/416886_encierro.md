@@ -1,1 +1,0 @@
-{"tmdb_id": 416886, "title": "Encierro", "original_title": "Encierro", "slug_title": "encierro", "date": "2009-01-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tUux8gbQYpnqDd4HJn1H4hQQy7E.jpg", "actors": [], "comments": [], "recommandations_id": []}

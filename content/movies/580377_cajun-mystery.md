@@ -1,1 +1,0 @@
-{"tmdb_id": 580377, "title": "Cajun Mystery", "original_title": "Cajun Mystery", "slug_title": "cajun-mystery", "date": "2018-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nI0It6xdJUnxljUVuEGhNb2FxXk.jpg", "actors": [], "comments": [], "recommandations_id": []}

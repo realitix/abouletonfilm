@@ -1,1 +1,0 @@
-{"tmdb_id": 400669, "title": "Willie, the Hunter", "original_title": "Willie, the Hunter", "slug_title": "willie-the-hunter", "date": "1912-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bobby Burns (In bear costume)", "George Reehm (Club member)", "Walter Stull (Willie)"], "comments": [], "recommandations_id": []}

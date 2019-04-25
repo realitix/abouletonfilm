@@ -1,1 +1,0 @@
-{"tmdb_id": 567419, "title": "Princesses Are Not to Be Sniffed At", "original_title": "K princezn\u00e1m se ne\u010duch\u00e1", "slug_title": "princesses-are-not-to-be-sniffed-at", "date": "1965-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

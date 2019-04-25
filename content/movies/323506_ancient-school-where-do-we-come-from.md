@@ -1,1 +1,0 @@
-{"tmdb_id": 323506, "title": "Ancient School - Where Do We Come From?", "original_title": "Ancient School - Where Do We Come From?", "slug_title": "ancient-school-where-do-we-come-from", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

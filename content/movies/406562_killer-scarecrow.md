@@ -1,1 +1,0 @@
-{"tmdb_id": 406562, "title": "Killer Scarecrow", "original_title": "Killer Scarecrow", "slug_title": "killer-scarecrow", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 436481, "title": "Osudy dobr\u00e9ho voj\u00e1ka \u0160vejka", "original_title": "Osudy dobr\u00e9ho voj\u00e1ka \u0160vejka", "slug_title": "osudy-dobreho-vojaka-svejka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

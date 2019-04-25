@@ -1,1 +1,0 @@
-{"tmdb_id": 278587, "title": "Geronimo Stilton: Intrigue on the Rodent Express", "original_title": "Geronimo Stilton: Intrigue on the Rodent Express", "slug_title": "geronimo-stilton-intrigue-on-the-rodent-express", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 534768, "title": "Neige et les arbres magiques", "original_title": "Neige et les arbres magiques", "slug_title": "neige-et-les-arbres-magiques", "date": "2015-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sEjO9B5aLLUHsi52NKSI8TrUxea.jpg", "actors": [], "comments": [], "recommandations_id": []}

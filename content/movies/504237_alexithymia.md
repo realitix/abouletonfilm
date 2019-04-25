@@ -1,1 +1,0 @@
-{"tmdb_id": 504237, "title": "Alexithymia", "original_title": "Alexithymia", "slug_title": "alexithymia", "date": "2017-11-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qGYFS17yMSDDFK3qAL2HzvrnUDn.jpg", "actors": [], "comments": [], "recommandations_id": []}

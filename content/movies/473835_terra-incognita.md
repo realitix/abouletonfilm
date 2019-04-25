@@ -1,1 +1,0 @@
-{"tmdb_id": 473835, "title": "Terra Incognita", "original_title": "Terra Incognita", "slug_title": "terra-incognita", "date": "2005-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yL60YzoQGDT2C8McdIPxKHOFcCH.jpg", "actors": [], "comments": [], "recommandations_id": []}

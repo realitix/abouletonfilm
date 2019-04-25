@@ -1,1 +1,0 @@
-{"tmdb_id": 575254, "title": "Teritorial Pissings", "original_title": "Teritorial Pissings", "slug_title": "teritorial-pissings", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

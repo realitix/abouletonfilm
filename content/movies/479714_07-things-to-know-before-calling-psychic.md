@@ -1,1 +1,0 @@
-{"tmdb_id": 479714, "title": "07 things to know before calling psychic", "original_title": "07 things to know before calling psychic", "slug_title": "07-things-to-know-before-calling-psychic", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 552771, "title": "As We Like It", "original_title": "As We Like It", "slug_title": "as-we-like-it", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

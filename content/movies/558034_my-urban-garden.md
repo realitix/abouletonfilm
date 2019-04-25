@@ -1,1 +1,0 @@
-{"tmdb_id": 558034, "title": "My Urban Garden", "original_title": "My Urban Garden", "slug_title": "my-urban-garden", "date": "1984-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bIWcn438k4rEkxHhfi8OdsmTZke.jpg", "actors": [], "comments": [], "recommandations_id": []}

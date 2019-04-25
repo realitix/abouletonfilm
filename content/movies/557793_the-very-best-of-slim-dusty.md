@@ -1,1 +1,0 @@
-{"tmdb_id": 557793, "title": "The Very Best Of Slim Dusty", "original_title": "The Very Best Of Slim Dusty", "slug_title": "the-very-best-of-slim-dusty", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zNUXbPsNZg5lrHcDB0hhIozQ0Ry.jpg", "actors": [], "comments": [], "recommandations_id": []}

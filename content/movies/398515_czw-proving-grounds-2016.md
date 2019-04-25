@@ -1,1 +1,0 @@
-{"tmdb_id": 398515, "title": "CZW Proving Grounds 2016", "original_title": "CZW Proving Grounds 2016", "slug_title": "czw-proving-grounds-2016", "date": "2016-03-26", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/70gJ7G517svx0PbODz9HreVyLjB.jpg", "actors": [], "comments": [], "recommandations_id": []}

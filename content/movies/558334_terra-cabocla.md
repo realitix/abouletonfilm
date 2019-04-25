@@ -1,1 +1,1 @@
-{"tmdb_id": 558334, "title": "Terra Cabocla", "original_title": "Terra Cabocla", "slug_title": "terra-cabocla", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 558334, "title": "Terra Cabocla", "original_title": "Terra Cabocla", "slug_title": "terra-cabocla", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

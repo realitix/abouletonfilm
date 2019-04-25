@@ -1,1 +1,0 @@
-{"tmdb_id": 556831, "title": "Three Domestics", "original_title": "Three Domestics", "slug_title": "three-domestics", "date": "1971-05-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

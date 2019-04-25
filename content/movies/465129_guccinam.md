@@ -1,1 +1,0 @@
-{"tmdb_id": 465129, "title": "Guccinam", "original_title": "Guccinam", "slug_title": "guccinam", "date": "2000-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

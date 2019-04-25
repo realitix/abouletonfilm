@@ -1,1 +1,0 @@
-{"tmdb_id": 567950, "title": "Douce France", "original_title": "Douce France", "slug_title": "douce-france", "date": "1986-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ecFzySXn7wSzRunWDxdfMhY7LzR.jpg", "actors": [], "comments": [], "recommandations_id": []}

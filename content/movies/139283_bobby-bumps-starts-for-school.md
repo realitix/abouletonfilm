@@ -1,1 +1,0 @@
-{"tmdb_id": 139283, "title": "Bobby Bumps Starts for School", "original_title": "Bobby Bumps Starts for School", "slug_title": "bobby-bumps-starts-for-school", "date": "1917-09-17", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/syGjFpDJDBSDpuzRvIbbOmLlf0X.jpg", "actors": [], "comments": [], "recommandations_id": []}

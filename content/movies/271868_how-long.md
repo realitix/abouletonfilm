@@ -1,1 +1,1 @@
-{"tmdb_id": 271868, "title": "How Long?", "original_title": "How Long?", "slug_title": "how-long", "date": "1976-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 271868, "title": "How Long?", "original_title": "How Long?", "slug_title": "how-long", "date": "1976-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Gibson Kente.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

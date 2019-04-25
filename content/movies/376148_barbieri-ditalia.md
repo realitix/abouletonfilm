@@ -1,1 +1,0 @@
-{"tmdb_id": 376148, "title": "Barbieri d\u2019Italia", "original_title": "Barbieri d\u2019Italia", "slug_title": "barbieri-ditalia", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2yGfX4UUus1QeMSWPWsuMKv1gPH.jpg", "actors": [], "comments": [], "recommandations_id": []}

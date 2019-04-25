@@ -1,1 +1,0 @@
-{"tmdb_id": 327110, "title": "El decimo infierno", "original_title": "El decimo infierno", "slug_title": "el-decimo-infierno", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 404986, "title": "Casa da Seresta", "original_title": "Casa da Seresta", "slug_title": "casa-da-seresta", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zvEIIrxq4vFVRfZiAUutKsB9v34.jpg", "actors": [], "comments": [], "recommandations_id": []}

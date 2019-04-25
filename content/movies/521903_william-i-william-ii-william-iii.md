@@ -1,1 +1,0 @@
-{"tmdb_id": 521903, "title": "William I, William II, William III", "original_title": "Willem I, Willem II, Willem III", "slug_title": "william-i-william-ii-william-iii", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

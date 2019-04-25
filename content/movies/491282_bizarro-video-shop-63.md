@@ -1,1 +1,0 @@
-{"tmdb_id": 491282, "title": "Bizarro Video. Shop 63", "original_title": "Bizarro Video. Shop 63", "slug_title": "bizarro-video-shop-63", "date": "2016-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bynnCm4ZrtcfFoRIS9Lo3lywoaJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

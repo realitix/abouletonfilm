@@ -1,1 +1,0 @@
-{"tmdb_id": 436213, "title": "Swift Current", "original_title": "Swift Current", "slug_title": "swift-current", "date": "2016-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bUuSsy31jqw7nNlrmmyZZig1odR.jpg", "actors": [], "comments": [], "recommandations_id": []}

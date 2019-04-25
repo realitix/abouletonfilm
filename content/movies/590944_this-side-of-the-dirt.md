@@ -1,1 +1,0 @@
-{"tmdb_id": 590944, "title": "This Side of the Dirt", "original_title": "This Side of the Dirt", "slug_title": "this-side-of-the-dirt", "date": "2018-07-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q1vBfVyUzPIwPzxsmBhvNebQAnn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 424766, "title": "Pi\u00f3rnikt", "original_title": "Pi\u00f3rnikt", "slug_title": "piornikt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9MCcCrI4M6JYbqke85GGYH8FbQR.jpg", "actors": [], "comments": [], "recommandations_id": []}

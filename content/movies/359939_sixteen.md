@@ -1,1 +1,0 @@
-{"tmdb_id": 359939, "title": "Sixteen", "original_title": "Sixteen", "slug_title": "sixteen", "date": "2015-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

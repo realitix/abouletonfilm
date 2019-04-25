@@ -1,1 +1,0 @@
-{"tmdb_id": 360875, "title": "20va Satabdam", "original_title": "20va Satabdam", "slug_title": "20va-satabdam", "date": "1980-08-24", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Suman Talwar ()"], "comments": [], "recommandations_id": []}

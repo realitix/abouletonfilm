@@ -1,1 +1,0 @@
-{"tmdb_id": 534290, "title": "Du bout des l\u00e8vres", "original_title": "Du bout des l\u00e8vres", "slug_title": "du-bout-des-levres", "date": "1976-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

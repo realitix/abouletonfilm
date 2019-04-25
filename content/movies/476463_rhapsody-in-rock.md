@@ -1,1 +1,0 @@
-{"tmdb_id": 476463, "title": "Rhapsody in rock", "original_title": "Rhapsody in rock", "slug_title": "rhapsody-in-rock", "date": "2004-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wyqi4VEEfPPPfMRRHnQT4vSmo6T.jpg", "actors": [], "comments": [], "recommandations_id": []}

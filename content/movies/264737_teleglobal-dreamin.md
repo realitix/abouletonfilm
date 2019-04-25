@@ -1,1 +1,0 @@
-{"tmdb_id": 264737, "title": "Teleglobal Dreamin'", "original_title": "Teleglobal Dreamin'", "slug_title": "teleglobal-dreamin", "date": "", "genre": "Com\u00e9die / Crime", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

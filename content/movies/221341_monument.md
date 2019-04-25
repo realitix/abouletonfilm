@@ -1,1 +1,0 @@
-{"tmdb_id": 221341, "title": "Monument", "original_title": "Monument", "slug_title": "monument", "date": "1990-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

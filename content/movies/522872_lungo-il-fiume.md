@@ -1,1 +1,0 @@
-{"tmdb_id": 522872, "title": "Lungo il fiume", "original_title": "Lungo il fiume", "slug_title": "lungo-il-fiume", "date": "1992-11-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Francesco Carnelutti ((voice))"], "comments": [], "recommandations_id": []}

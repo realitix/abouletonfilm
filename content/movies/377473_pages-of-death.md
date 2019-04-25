@@ -1,1 +1,0 @@
-{"tmdb_id": 377473, "title": "Pages of Death", "original_title": "Pages of Death", "slug_title": "pages-of-death", "date": "1962-01-14", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bzHiUd4L6SUtSiheE1W24gL9x8P.jpg", "actors": [], "comments": [], "recommandations_id": []}

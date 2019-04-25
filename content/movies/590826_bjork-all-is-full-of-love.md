@@ -1,1 +1,0 @@
-{"tmdb_id": 590826, "title": "Bjork - All Is Full of Love", "original_title": "Bjork - All Is Full of Love", "slug_title": "bjork-all-is-full-of-love", "date": "1999-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1G2jf8ox5rygdEVX5LClxkRDx0b.jpg", "actors": [], "comments": [], "recommandations_id": []}

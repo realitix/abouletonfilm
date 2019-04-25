@@ -1,1 +1,0 @@
-{"tmdb_id": 268719, "title": "Eyewitness DVD: Bird", "original_title": "Eyewitness DVD: Bird", "slug_title": "eyewitness-dvd-bird", "date": "2006-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kZEtLjC5FfWTFuz0jv3wh7Owj39.jpg", "actors": [], "comments": [], "recommandations_id": []}

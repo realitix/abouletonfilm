@@ -1,1 +1,0 @@
-{"tmdb_id": 478833, "title": "The Citizens", "original_title": "The Citizens", "slug_title": "the-citizens", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

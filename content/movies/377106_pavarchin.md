@@ -1,1 +1,0 @@
-{"tmdb_id": 377106, "title": "Pavarchin", "original_title": "Pavarchin", "slug_title": "pavarchin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

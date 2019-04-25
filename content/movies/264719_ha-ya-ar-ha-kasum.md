@@ -1,1 +1,0 @@
-{"tmdb_id": 264719, "title": "Ha'Ya'ar Ha-Kasum", "original_title": "Ha'Ya'ar Ha-Kasum", "slug_title": "ha-ya-ar-ha-kasum", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zccvp1dZFgbL6BY1s81gQSDZkKc.jpg", "actors": [], "comments": [], "recommandations_id": []}

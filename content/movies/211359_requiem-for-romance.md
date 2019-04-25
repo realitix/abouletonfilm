@@ -1,1 +1,0 @@
-{"tmdb_id": 211359, "title": "Requiem for Romance", "original_title": "Requiem for Romance", "slug_title": "requiem-for-romance", "date": "2012-01-26", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/14RcKaEOtNLow2MY7stz5YmAP0m.jpg", "actors": [], "comments": [], "recommandations_id": []}

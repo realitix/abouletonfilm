@@ -1,1 +1,0 @@
-{"tmdb_id": 148452, "title": "Beertickers: Beyond the Ale", "original_title": "Beertickers: Beyond the Ale", "slug_title": "beertickers-beyond-the-ale", "date": "2009-12-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/db1VIkRrz0iJPO0uJAP0TxtB3y2.jpg", "actors": [], "comments": [], "recommandations_id": []}

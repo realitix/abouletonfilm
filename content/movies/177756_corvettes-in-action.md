@@ -1,1 +1,0 @@
-{"tmdb_id": 177756, "title": "Corvettes In Action", "original_title": "Corvettes In Action", "slug_title": "corvettes-in-action", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

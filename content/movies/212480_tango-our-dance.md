@@ -1,1 +1,0 @@
-{"tmdb_id": 212480, "title": "Tango: Our Dance", "original_title": "Tango: Bayle Nuestro", "slug_title": "tango-our-dance", "date": "1988-07-14", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sS90SCcGZAniaNOhGZaX4Cf24r4.jpg", "actors": [], "comments": [], "recommandations_id": []}

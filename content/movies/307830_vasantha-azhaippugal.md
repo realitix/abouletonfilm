@@ -1,1 +1,0 @@
-{"tmdb_id": 307830, "title": "Vasantha Azhaippugal", "original_title": "Vasantha Azhaippugal", "slug_title": "vasantha-azhaippugal", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

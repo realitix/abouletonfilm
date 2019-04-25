@@ -1,1 +1,0 @@
-{"tmdb_id": 429339, "title": "L'atelier faiminette", "original_title": "L'atelier faiminette", "slug_title": "l-atelier-faiminette", "date": "1921-12-08", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hdwHpk9b6V8nVQ9nLkNcHXuJubr.jpg", "actors": [], "comments": [], "recommandations_id": []}

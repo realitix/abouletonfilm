@@ -1,1 +1,0 @@
-{"tmdb_id": 237871, "title": "Fiskerliv i Norden", "original_title": "Fiskerliv i Norden", "slug_title": "fiskerliv-i-norden", "date": "1906-09-15", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Viggo Larsen (Fisker)", "Margrete Jespersen (hans Kone)", "Gustav Lund ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 417209, "title": "\ubbf8\uc548\ud558\ub2e4 \ub3c5\ub3c4\uc57c", "original_title": "\ubbf8\uc548\ud558\ub2e4 \ub3c5\ub3c4\uc57c", "slug_title": "mianhada-dogdoya", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

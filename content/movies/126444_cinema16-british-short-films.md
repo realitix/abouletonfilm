@@ -1,1 +1,0 @@
-{"tmdb_id": 126444, "title": "Cinema16: British Short Films", "original_title": "Cinema16: British Short Films", "slug_title": "cinema16-british-short-films", "date": "2003-05-05", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7QjqXSW8pl2PCSaYSUHdO1qc0vh.jpg", "actors": [], "comments": [], "recommandations_id": []}

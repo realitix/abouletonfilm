@@ -1,1 +1,0 @@
-{"tmdb_id": 273763, "title": "Antisocial Behaviour", "original_title": "Antisocial Behaviour", "slug_title": "antisocial-behaviour", "date": "2007-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lLbSyG3X5y96X7OpEFKIbFh7HtI.jpg", "actors": [], "comments": [], "recommandations_id": []}

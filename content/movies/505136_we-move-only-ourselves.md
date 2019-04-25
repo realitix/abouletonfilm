@@ -1,1 +1,0 @@
-{"tmdb_id": 505136, "title": "We Move Only Ourselves", "original_title": "We Move Only Ourselves", "slug_title": "we-move-only-ourselves", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

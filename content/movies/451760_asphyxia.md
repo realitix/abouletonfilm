@@ -1,1 +1,0 @@
-{"tmdb_id": 451760, "title": "Asphyxia", "original_title": "Asphyxia", "slug_title": "asphyxia", "date": "2016-12-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qWvXrO4e5jcClsYNw6YBqMohk49.jpg", "actors": ["Jack Kilmer (James)", "Eleanore Pienta (Jessica)"], "comments": [], "recommandations_id": []}

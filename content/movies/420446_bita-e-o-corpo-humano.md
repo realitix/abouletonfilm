@@ -1,1 +1,0 @@
-{"tmdb_id": 420446, "title": "Bita e o Corpo Humano", "original_title": "Bita e o Corpo Humano", "slug_title": "bita-e-o-corpo-humano", "date": "2016-08-10", "genre": "Animation", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qKZunXBpHOW2PYXxR7EQrH4bcag.jpg", "actors": [], "comments": [], "recommandations_id": []}

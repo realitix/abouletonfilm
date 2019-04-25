@@ -1,1 +1,0 @@
-{"tmdb_id": 70497, "title": "The World of Tomorrow", "original_title": "The World of Tomorrow", "slug_title": "the-world-of-tomorrow", "date": "1984-01-01", "genre": "Documentaire", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vdY10fRfpJrlQJGtJyAKxvO8tHY.jpg", "actors": [], "comments": [], "recommandations_id": []}

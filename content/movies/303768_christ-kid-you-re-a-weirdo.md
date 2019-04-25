@@ -1,1 +1,0 @@
-{"tmdb_id": 303768, "title": "Christ Kid, You're a Weirdo", "original_title": "Christ Kid, You're a Weirdo", "slug_title": "christ-kid-you-re-a-weirdo", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

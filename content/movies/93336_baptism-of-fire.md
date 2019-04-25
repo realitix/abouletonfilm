@@ -1,1 +1,0 @@
-{"tmdb_id": 93336, "title": "Baptism of Fire", "original_title": "Baptism of Fire", "slug_title": "baptism-of-fire", "date": "1943-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dSwcYFEZoBU6qrm9skRKwrupkM3.jpg", "actors": [], "comments": [], "recommandations_id": []}

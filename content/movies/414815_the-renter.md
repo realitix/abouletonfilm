@@ -1,1 +1,0 @@
-{"tmdb_id": 414815, "title": "The Renter", "original_title": "The Renter", "slug_title": "the-renter", "date": "2012-02-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hJTGEdHK06Aki012jh4H1MV3apu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 539555, "title": "Spreading the Truth (Difundiendo la verdad)", "original_title": "Spreading the Truth (Difundiendo la verdad)", "slug_title": "spreading-the-truth-difundiendo-la-verdad", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

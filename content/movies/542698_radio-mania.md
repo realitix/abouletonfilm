@@ -1,1 +1,0 @@
-{"tmdb_id": 542698, "title": "Radio-Mania", "original_title": "Radio-Mania", "slug_title": "radio-mania", "date": "1922-12-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

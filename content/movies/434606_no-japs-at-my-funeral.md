@@ -1,1 +1,0 @@
-{"tmdb_id": 434606, "title": "No Japs at My Funeral", "original_title": "No Japs at My Funeral", "slug_title": "no-japs-at-my-funeral", "date": "1980-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

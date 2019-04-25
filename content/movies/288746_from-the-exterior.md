@@ -1,1 +1,0 @@
-{"tmdb_id": 288746, "title": "From the Exterior", "original_title": "From the Exterior", "slug_title": "from-the-exterior", "date": "1970-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xfAvKbpS1Ecrb5lu1HOv6AxCQua.jpg", "actors": [], "comments": [], "recommandations_id": []}

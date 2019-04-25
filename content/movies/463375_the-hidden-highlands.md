@@ -1,1 +1,0 @@
-{"tmdb_id": 463375, "title": "The Hidden Highlands", "original_title": "The Hidden Highlands", "slug_title": "the-hidden-highlands", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6C6q4jgcTRvmhfm3MnUbdC5D3D1.jpg", "actors": [], "comments": [], "recommandations_id": []}

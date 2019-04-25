@@ -1,1 +1,0 @@
-{"tmdb_id": 157140, "title": "The Age of Ballyhoo", "original_title": "The Age of Ballyhoo", "slug_title": "the-age-of-ballyhoo", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

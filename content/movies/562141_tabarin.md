@@ -1,1 +1,0 @@
-{"tmdb_id": 562141, "title": "Tabarin", "original_title": "Tabarin", "slug_title": "tabarin", "date": "1958-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q1dC0gVMs4cvID8ndwV52wsxp5Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

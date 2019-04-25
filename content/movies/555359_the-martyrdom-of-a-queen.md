@@ -1,1 +1,0 @@
-{"tmdb_id": 555359, "title": "The Martyrdom of a Queen", "original_title": "Le calvaire d'une reine", "slug_title": "the-martyrdom-of-a-queen", "date": "1919-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

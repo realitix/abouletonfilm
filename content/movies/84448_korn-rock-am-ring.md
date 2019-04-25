@@ -1,1 +1,0 @@
-{"tmdb_id": 84448, "title": "Korn: Rock Am Ring", "original_title": "Korn: Rock Am Ring", "slug_title": "korn-rock-am-ring", "date": "2011-06-15", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2PRkEDFLsKXe02v8LvJw2iNbp84.jpg", "actors": ["Korn ()"], "comments": [], "recommandations_id": []}

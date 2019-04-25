@@ -1,1 +1,0 @@
-{"tmdb_id": 352610, "title": "Las Callampas", "original_title": "Las Callampas", "slug_title": "las-callampas", "date": "1958-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lzEVp88vvm8jH6J0tBeBjOysAro.jpg", "actors": [], "comments": [], "recommandations_id": []}

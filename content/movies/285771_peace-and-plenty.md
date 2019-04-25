@@ -1,1 +1,0 @@
-{"tmdb_id": 285771, "title": "Peace and Plenty", "original_title": "Peace and Plenty", "slug_title": "peace-and-plenty", "date": "1939-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

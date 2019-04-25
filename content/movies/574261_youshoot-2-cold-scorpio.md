@@ -1,1 +1,0 @@
-{"tmdb_id": 574261, "title": "YouShoot: 2 Cold Scorpio", "original_title": "YouShoot: 2 Cold Scorpio", "slug_title": "youshoot-2-cold-scorpio", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Charles Scaggs (Himself)"], "comments": [], "recommandations_id": []}

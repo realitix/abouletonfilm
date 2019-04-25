@@ -1,1 +1,0 @@
-{"tmdb_id": 349518, "title": "The Young Lover", "original_title": "\uc5b4\ub9b0 \uc5f0\uc778", "slug_title": "the-young-lover", "date": "1994-10-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

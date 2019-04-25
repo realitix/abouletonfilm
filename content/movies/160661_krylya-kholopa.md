@@ -1,1 +1,0 @@
-{"tmdb_id": 160661, "title": "Krylya kholopa", "original_title": "Krylya kholopa", "slug_title": "krylya-kholopa", "date": "1926-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4gJDHnn6D0mzRIGALxVosuZhB4p.jpg", "actors": [], "comments": [], "recommandations_id": []}

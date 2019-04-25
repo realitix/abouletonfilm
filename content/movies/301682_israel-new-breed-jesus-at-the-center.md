@@ -1,1 +1,0 @@
-{"tmdb_id": 301682, "title": "Israel & New Breed: Jesus At the Center", "original_title": "Israel & New Breed: Jesus At the Center", "slug_title": "israel-new-breed-jesus-at-the-center", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

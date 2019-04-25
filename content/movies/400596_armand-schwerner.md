@@ -1,1 +1,0 @@
-{"tmdb_id": 400596, "title": "Armand Schwerner", "original_title": "Armand Schwerner", "slug_title": "armand-schwerner", "date": "1973-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 359566, "title": "Perd\u00e3o, Mister Fiel", "original_title": "Perd\u00e3o, Mister Fiel", "slug_title": "perdao-mister-fiel", "date": "2009-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ebb7EcnegmVkhFlnzbLYKDIZs0r.jpg", "actors": [], "comments": [], "recommandations_id": []}

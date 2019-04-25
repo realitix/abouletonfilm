@@ -1,1 +1,0 @@
-{"tmdb_id": 469101, "title": "Searching for Katie", "original_title": "Searching for Katie", "slug_title": "searching-for-katie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

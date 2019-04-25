@@ -1,1 +1,0 @@
-{"tmdb_id": 493969, "title": "The Floor Is Lava", "original_title": "The Floor Is Lava", "slug_title": "the-floor-is-lava", "date": "2017-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y6fnbamMfTdHM59bOSGRZTHLxaT.jpg", "actors": [], "comments": [], "recommandations_id": []}

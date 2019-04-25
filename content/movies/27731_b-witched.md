@@ -1,1 +1,0 @@
-{"tmdb_id": 27731, "title": "B-Witched", "original_title": "B-Witched", "slug_title": "b-witched", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7oXYyXuKESFzY5fmmz6yTAwPYca.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 301262, "title": "The Dike of Transience", "original_title": "A Muland\u00f3s\u00e1g g\u00e1tja", "slug_title": "the-dike-of-transience", "date": "2004-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 480529, "title": "Popstars", "original_title": "\uc5f0\uc2b5\uc0dd", "slug_title": "popstars", "date": "2016-12-15", "genre": "Thriller / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/48PUh44vsWwkndURnrBSNvIhZJX.jpg", "actors": ["Shin Ji-soo (Mira)"], "comments": [], "recommandations_id": []}

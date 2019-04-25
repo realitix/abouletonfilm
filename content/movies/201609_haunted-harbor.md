@@ -1,1 +1,0 @@
-{"tmdb_id": 201609, "title": "Haunted Harbor", "original_title": "Haunted Harbor", "slug_title": "haunted-harbor", "date": "1944-08-26", "genre": "Action / Aventure", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5eSVxxONNOuBcuo95QNYXdphqQT.jpg", "actors": ["Kane Richmond (Jim Marsden)"], "comments": [], "recommandations_id": []}

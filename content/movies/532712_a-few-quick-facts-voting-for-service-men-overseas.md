@@ -1,1 +1,0 @@
-{"tmdb_id": 532712, "title": "A Few Quick Facts: Voting for Service Men overseas", "original_title": "A Few Quick Facts: Voting for Service Men overseas", "slug_title": "a-few-quick-facts-voting-for-service-men-overseas", "date": "1944-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

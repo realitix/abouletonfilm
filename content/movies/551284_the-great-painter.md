@@ -1,1 +1,0 @@
-{"tmdb_id": 551284, "title": "The Great Painter", "original_title": "Suur maalrit\u00f6\u00f6", "slug_title": "the-great-painter", "date": "2013-12-06", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hGALsYseARV1h9kpEraXdcgssjE.jpg", "actors": [], "comments": [], "recommandations_id": []}

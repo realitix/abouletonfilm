@@ -1,1 +1,0 @@
-{"tmdb_id": 321457, "title": "Tentation de Saint-Antoine", "original_title": "Tentation de Saint-Antoine", "slug_title": "tentation-de-saint-antoine", "date": "1903-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

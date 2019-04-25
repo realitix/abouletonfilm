@@ -1,1 +1,0 @@
-{"tmdb_id": 462078, "title": "\u0411\u0435\u043b\u044b\u0435 \u043d\u043e\u0447\u0438", "original_title": "\u0411\u0435\u043b\u044b\u0435 \u043d\u043e\u0447\u0438", "slug_title": "belye-nochi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

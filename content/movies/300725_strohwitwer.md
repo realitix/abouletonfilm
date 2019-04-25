@@ -1,1 +1,0 @@
-{"tmdb_id": 300725, "title": "Strohwitwer", "original_title": "Strohwitwer", "slug_title": "strohwitwer", "date": "1931-10-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maly Delschaft ()", "Adele Sandrock ()", "Fritz Kampers ()", "Maria Paudler ()"], "comments": [], "recommandations_id": []}

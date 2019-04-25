@@ -1,1 +1,0 @@
-{"tmdb_id": 364164, "title": "Self-Defense", "original_title": "Legitima defensa", "slug_title": "self-defense", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marie Louise Alemann ()"], "comments": [], "recommandations_id": []}

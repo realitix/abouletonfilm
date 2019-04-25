@@ -1,1 +1,0 @@
-{"tmdb_id": 61283, "title": "Bellator 40", "original_title": "Bellator 40", "slug_title": "bellator-40", "date": "2011-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4B0wbgATL78ZQjjqLLViPW7EMpf.jpg", "actors": [], "comments": [], "recommandations_id": []}

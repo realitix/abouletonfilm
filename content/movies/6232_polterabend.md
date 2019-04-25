@@ -1,1 +1,0 @@
-{"tmdb_id": 6232, "title": "Polterabend", "original_title": "Polterabend", "slug_title": "polterabend", "date": "2006-01-24", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kirstin Hesse (-)", "Axel Kraus (-)", "Jan Nissen (-)", "Karin Rasenack (-)"], "comments": [], "recommandations_id": []}

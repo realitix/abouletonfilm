@@ -1,1 +1,0 @@
-{"tmdb_id": 529365, "title": "Pudim de Morango", "original_title": "Pudim de Morango", "slug_title": "pudim-de-morango", "date": "1979-01-01", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Z31IWet9A8ur3b09f533Mavt2f.jpg", "actors": [], "comments": [], "recommandations_id": []}

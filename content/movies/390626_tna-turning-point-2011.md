@@ -1,1 +1,0 @@
-{"tmdb_id": 390626, "title": "TNA Turning Point 2011", "original_title": "TNA Turning Point 2011", "slug_title": "tna-turning-point-2011", "date": "2011-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/92f2Ey9oC62K4YQftjWRH0Syzny.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 291584, "title": "Wasabi Tuna", "original_title": "Wasabi Tuna", "slug_title": "wasabi-tuna", "date": "2003-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4PhvOKTX5ApHc26nZwN8JidRhDz.jpg", "actors": [], "comments": [], "recommandations_id": []}

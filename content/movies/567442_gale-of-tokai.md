@@ -1,1 +1,0 @@
-{"tmdb_id": 567442, "title": "Gale of Tokai", "original_title": "\u82e5\u304d\u65e5\u306e\u6b21\u90ce\u9577\u3000\u6771\u6d77\u9053\u306e\u3064\u3080\u3058\u98a8", "slug_title": "gale-of-tokai", "date": "1962-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 560640, "title": "A Day in the Life of Greg Watkins", "original_title": "A Day in the Life of Greg Watkins", "slug_title": "a-day-in-the-life-of-greg-watkins", "date": "1999-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

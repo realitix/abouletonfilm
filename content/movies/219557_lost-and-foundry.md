@@ -1,1 +1,0 @@
-{"tmdb_id": 219557, "title": "Lost and Foundry", "original_title": "Lost and Foundry", "slug_title": "lost-and-foundry", "date": "1937-07-15", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qD7YMUKwgVhGRwVYpUhVDf1N0Hk.jpg", "actors": [], "comments": [], "recommandations_id": []}

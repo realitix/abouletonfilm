@@ -1,1 +1,0 @@
-{"tmdb_id": 319556, "title": "Joe Williams: Jazz Masters Series", "original_title": "Joe Williams: Jazz Masters Series", "slug_title": "joe-williams-jazz-masters-series", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

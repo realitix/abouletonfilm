@@ -1,1 +1,0 @@
-{"tmdb_id": 469289, "title": "The Fox of Shichigorosawa", "original_title": "The Fox of Shichigorosawa", "slug_title": "the-fox-of-shichigorosawa", "date": "2015-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d4q5ebaZJNj1JPyrxn7mMIZikD8.jpg", "actors": [], "comments": [], "recommandations_id": []}

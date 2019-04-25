@@ -1,1 +1,0 @@
-{"tmdb_id": 300341, "title": "The Vacant House", "original_title": "The Vacant House", "slug_title": "the-vacant-house", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

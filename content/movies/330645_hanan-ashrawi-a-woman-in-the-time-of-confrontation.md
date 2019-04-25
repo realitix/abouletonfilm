@@ -1,1 +1,0 @@
-{"tmdb_id": 330645, "title": "Hanan 'Ashrawi: A Woman in the Time of Confrontation", "original_title": "Hanan 'Ashrawi: Imra'a Fi Zaman al-Tahaddi", "slug_title": "hanan-ashrawi-a-woman-in-the-time-of-confrontation", "date": "1995-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

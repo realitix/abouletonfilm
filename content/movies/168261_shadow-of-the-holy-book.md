@@ -1,1 +1,0 @@
-{"tmdb_id": 168261, "title": "Shadow of the Holy Book", "original_title": "Pyh\u00e4n kirjan varjo", "slug_title": "shadow-of-the-holy-book", "date": "2007-11-24", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kazqHl5PvP7h4PKhOOV011jzezl.jpg", "actors": [], "comments": [], "recommandations_id": []}

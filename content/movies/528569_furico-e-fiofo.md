@@ -1,1 +1,0 @@
-{"tmdb_id": 528569, "title": "Furico e Fiof\u00f3", "original_title": "Furico e Fiof\u00f3", "slug_title": "furico-e-fiofo", "date": "2011-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/onwxKM8rQ4FTtKS8XximfAApAWM.jpg", "actors": [], "comments": [], "recommandations_id": []}

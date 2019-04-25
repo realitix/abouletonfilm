@@ -1,1 +1,0 @@
-{"tmdb_id": 532525, "title": "Central Texas Barbecue", "original_title": "Central Texas Barbecue", "slug_title": "central-texas-barbecue", "date": "2015-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

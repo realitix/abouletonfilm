@@ -1,1 +1,0 @@
-{"tmdb_id": 362072, "title": "Concentration", "original_title": "La concentration", "slug_title": "concentration", "date": "1968-11-28", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dVA3WFeWHjrVgofoFxAiuGGVFvO.jpg", "actors": ["Jean-Pierre L\u00e9aud ()", "Zouzou ()"], "comments": [], "recommandations_id": []}

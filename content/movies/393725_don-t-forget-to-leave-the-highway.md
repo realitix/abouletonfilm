@@ -1,1 +1,0 @@
-{"tmdb_id": 393725, "title": "Don't Forget to Leave the Highway", "original_title": "Don't Forget to Leave the Highway", "slug_title": "don-t-forget-to-leave-the-highway", "date": "1979-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

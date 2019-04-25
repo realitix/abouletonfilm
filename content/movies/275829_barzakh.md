@@ -1,1 +1,0 @@
-{"tmdb_id": 275829, "title": "Barzakh", "original_title": "Barzakh", "slug_title": "barzakh", "date": "2011-01-25", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8SBPdgvRTbtVMECjyhJPfC661q.jpg", "actors": [], "comments": [], "recommandations_id": []}

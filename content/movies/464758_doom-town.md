@@ -1,1 +1,0 @@
-{"tmdb_id": 464758, "title": "Doom Town", "original_title": "Doom Town", "slug_title": "doom-town", "date": "1953-07-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oBDTsbZyMsXi8rG0L2Yy9l5QBEQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

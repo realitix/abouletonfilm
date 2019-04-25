@@ -1,1 +1,0 @@
-{"tmdb_id": 87006, "title": "Speedfreaks Germany - The Movie", "original_title": "Speedfreaks Germany - The Movie", "slug_title": "speedfreaks-germany-the-movie", "date": "2011-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dFfXrnackgJhNADymbnswL629aN.jpg", "actors": [], "comments": [], "recommandations_id": []}

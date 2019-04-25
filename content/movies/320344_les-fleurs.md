@@ -1,1 +1,0 @@
-{"tmdb_id": 320344, "title": "Les Fleurs", "original_title": "Les Fleurs", "slug_title": "les-fleurs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

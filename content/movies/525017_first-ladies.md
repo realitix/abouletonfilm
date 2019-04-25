@@ -1,1 +1,0 @@
-{"tmdb_id": 525017, "title": "First Ladies", "original_title": "First Ladies", "slug_title": "first-ladies", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jennifer Aniston (Beverly Nicholson)", "Tig Notaro (Kasey Nicholson)"], "comments": [], "recommandations_id": []}

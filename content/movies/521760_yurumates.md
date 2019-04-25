@@ -1,1 +1,0 @@
-{"tmdb_id": 521760, "title": "Yurumates", "original_title": "\u3086\u308b\u3081\u3044\u3064", "slug_title": "yurumates", "date": "2009-04-24", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Haruko Momoi (Yurume (voice))"], "comments": [], "recommandations_id": []}

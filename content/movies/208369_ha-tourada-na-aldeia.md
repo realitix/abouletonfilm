@@ -1,1 +1,0 @@
-{"tmdb_id": 208369, "title": "H\u00e1 Tourada na Aldeia", "original_title": "H\u00e1 Tourada na Aldeia", "slug_title": "ha-tourada-na-aldeia", "date": "2010-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jm5m8XXUSSWmooxjlIrbrUtgf1m.jpg", "actors": [], "comments": [], "recommandations_id": []}

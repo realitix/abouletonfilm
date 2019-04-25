@@ -1,1 +1,0 @@
-{"tmdb_id": 593322, "title": "Bacchanalia", "original_title": "Bacchanalia", "slug_title": "bacchanalia", "date": "2017-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5jyLIEld2ay8xJakaRVZIf4WAKh.jpg", "actors": [], "comments": [], "recommandations_id": []}

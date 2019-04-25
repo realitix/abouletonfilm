@@ -1,1 +1,0 @@
-{"tmdb_id": 547872, "title": "Frauenarzt Dr. Fotzenglotz", "original_title": "Frauenarzt Dr. Fotzenglotz", "slug_title": "frauenarzt-dr-fotzenglotz", "date": "2012-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mxpn4WYmDG2fJ8cVMemJ3acU4UA.jpg", "actors": [], "comments": [], "recommandations_id": []}

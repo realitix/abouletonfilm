@@ -1,1 +1,0 @@
-{"tmdb_id": 500663, "title": "The Voice from the Screen", "original_title": "The Voice from the Screen", "slug_title": "the-voice-from-the-screen", "date": "1926-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

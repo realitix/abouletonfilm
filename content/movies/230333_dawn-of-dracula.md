@@ -1,1 +1,0 @@
-{"tmdb_id": 230333, "title": "Dawn of Dracula", "original_title": "Dawn of Dracula", "slug_title": "dawn-of-dracula", "date": "2013-09-27", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marlena Midnite (Victoria Van Helsing)", "Robyn Graves (Patricia Pennyweather)"], "comments": [], "recommandations_id": []}

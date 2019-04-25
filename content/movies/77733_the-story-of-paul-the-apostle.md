@@ -1,1 +1,0 @@
-{"tmdb_id": 77733, "title": "The Story of Paul the Apostle", "original_title": "The Story of Paul the Apostle", "slug_title": "the-story-of-paul-the-apostle", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

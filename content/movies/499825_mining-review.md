@@ -1,1 +1,0 @@
-{"tmdb_id": 499825, "title": "Mining Review", "original_title": "Mining Review", "slug_title": "mining-review", "date": "1948-01-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 532442, "title": "Wing Commander V: Prophecy", "original_title": "Wing Commander V: Prophecy", "slug_title": "wing-commander-v-prophecy", "date": "1997-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

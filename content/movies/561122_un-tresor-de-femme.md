@@ -1,1 +1,0 @@
-{"tmdb_id": 561122, "title": "Un tr\u00e9sor de femme", "original_title": "Un tr\u00e9sor de femme", "slug_title": "un-tresor-de-femme", "date": "1953-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/djFLsN3m1VnNqHgoFRtKRaesTCh.jpg", "actors": [], "comments": [], "recommandations_id": []}

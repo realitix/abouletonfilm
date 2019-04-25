@@ -1,1 +1,0 @@
-{"tmdb_id": 234814, "title": "Mouse-Placed Kitten", "original_title": "Mouse-Placed Kitten", "slug_title": "mouse-placed-kitten", "date": "1959-01-23", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s8gmEHbu2sAPtoCKv9lm4azXHdm.jpg", "actors": [], "comments": [], "recommandations_id": [235472, 199750, 236114, 163052]}

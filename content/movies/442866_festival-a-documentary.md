@@ -1,1 +1,0 @@
-{"tmdb_id": 442866, "title": "Festival: A Documentary", "original_title": "Festival: A Documentary", "slug_title": "festival-a-documentary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xG4pAbbNDiK3MWznFEY43ddH4d1.jpg", "actors": [], "comments": [], "recommandations_id": []}

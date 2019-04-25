@@ -1,1 +1,0 @@
-{"tmdb_id": 104266, "title": "A Tale of Labyrinth", "original_title": "Meiky\u00fb-tan", "slug_title": "a-tale-of-labyrinth", "date": "1975-06-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nP9sGqky8WUN32uc6up5r3iaFSY.jpg", "actors": [], "comments": [], "recommandations_id": []}

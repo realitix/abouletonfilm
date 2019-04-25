@@ -1,1 +1,0 @@
-{"tmdb_id": 88913, "title": "Bujang Telajak", "original_title": "Bujang Telajak", "slug_title": "bujang-telajak", "date": "2012-01-19", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sTObWNixDtiex32aXvgpr4Lvn26.jpg", "actors": [], "comments": [], "recommandations_id": []}

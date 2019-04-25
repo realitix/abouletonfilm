@@ -1,1 +1,0 @@
-{"tmdb_id": 523099, "title": "Thank You for Supporting the Arts", "original_title": "Thank You for Supporting the Arts", "slug_title": "thank-you-for-supporting-the-arts", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liv Osthus ()", "Gus Van Sant ()"], "comments": [], "recommandations_id": []}

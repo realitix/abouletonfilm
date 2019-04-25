@@ -1,1 +1,0 @@
-{"tmdb_id": 478966, "title": "It's Up To You", "original_title": "Es liegt an Dir", "slug_title": "it-s-up-to-you", "date": "1948-05-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

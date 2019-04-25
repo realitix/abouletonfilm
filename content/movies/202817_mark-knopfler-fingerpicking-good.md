@@ -1,1 +1,0 @@
-{"tmdb_id": 202817, "title": "Mark Knopfler: Fingerpicking Good", "original_title": "Mark Knopfler: Fingerpicking Good", "slug_title": "mark-knopfler-fingerpicking-good", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k0AvVD138IoKXt4BLP3WJ8Dd5CX.jpg", "actors": [], "comments": [], "recommandations_id": []}

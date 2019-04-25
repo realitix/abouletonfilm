@@ -1,1 +1,0 @@
-{"tmdb_id": 460348, "title": "Jattu Engineer", "original_title": "Jattu Engineer", "slug_title": "jattu-engineer", "date": "2017-06-29", "genre": "Com\u00e9die / Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rLgQVuTo5GXf3KfO63Ahnc9QqMy.jpg", "actors": ["Gurmeet Ram Rahim Singh ()"], "comments": [], "recommandations_id": []}

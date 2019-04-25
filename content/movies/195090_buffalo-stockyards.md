@@ -1,1 +1,0 @@
-{"tmdb_id": 195090, "title": "Buffalo Stockyards", "original_title": "Buffalo Stockyards", "slug_title": "buffalo-stockyards", "date": "1897-07-20", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4ByXOxHgkzCYj56Mt8XkbDPXksE.jpg", "actors": [], "comments": [], "recommandations_id": []}

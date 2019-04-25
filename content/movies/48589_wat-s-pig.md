@@ -1,1 +1,0 @@
-{"tmdb_id": 48589, "title": "Wat's Pig", "original_title": "Wat's Pig", "slug_title": "wat-s-pig", "date": "1996-01-01", "genre": "Animation", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AinBibneSQLKDhKxan19MJznoO7.jpg", "actors": [], "comments": [], "recommandations_id": []}

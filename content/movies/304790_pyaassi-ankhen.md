@@ -1,1 +1,0 @@
-{"tmdb_id": 304790, "title": "Pyaassi Ankhen", "original_title": "Pyaassi Ankhen", "slug_title": "pyaassi-ankhen", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

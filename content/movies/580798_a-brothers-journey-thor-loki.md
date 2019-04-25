@@ -1,1 +1,0 @@
-{"tmdb_id": 580798, "title": "A Brothers' Journey: Thor & Loki", "original_title": "A Brothers' Journey: Thor & Loki", "slug_title": "a-brothers-journey-thor-loki", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

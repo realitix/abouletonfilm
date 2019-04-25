@@ -1,1 +1,0 @@
-{"tmdb_id": 592645, "title": "The Murder of Jill Dando", "original_title": "The Murder of Jill Dando", "slug_title": "the-murder-of-jill-dando", "date": "2019-04-02", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4ZQObdFX8tLqLBjIqyBRxhr8mg7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 311514, "title": "Show Me Your Roots", "original_title": "Show Me Your Roots", "slug_title": "show-me-your-roots", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

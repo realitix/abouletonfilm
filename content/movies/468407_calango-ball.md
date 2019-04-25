@@ -1,1 +1,0 @@
-{"tmdb_id": 468407, "title": "Calango Ball", "original_title": "Calango Ball", "slug_title": "calango-ball", "date": "2017-07-28", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/WmcwHwbvyIIqyC65yaQ7TPF8ju.jpg", "actors": [], "comments": [], "recommandations_id": []}

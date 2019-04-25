@@ -1,1 +1,0 @@
-{"tmdb_id": 533897, "title": "A Short History of Decay", "original_title": "\u89e3\u9ad4\u6982\u8981", "slug_title": "a-short-history-of-decay", "date": "2015-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

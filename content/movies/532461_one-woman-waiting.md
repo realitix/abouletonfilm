@@ -1,1 +1,0 @@
-{"tmdb_id": 532461, "title": "One Woman Waiting", "original_title": "One Woman Waiting", "slug_title": "one-woman-waiting", "date": "1985-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d9jgEJjtz4VJ7FRrxZPR2426cds.jpg", "actors": [], "comments": [], "recommandations_id": []}

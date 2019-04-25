@@ -1,1 +1,0 @@
-{"tmdb_id": 272952, "title": "Hangin' in Hedo", "original_title": "Hangin' in Hedo", "slug_title": "hangin-in-hedo", "date": "2008-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

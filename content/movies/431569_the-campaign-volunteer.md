@@ -1,1 +1,0 @@
-{"tmdb_id": 431569, "title": "The Campaign Volunteer", "original_title": "Der Wahlhelfer", "slug_title": "the-campaign-volunteer", "date": "1967-06-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3dvcfGALZwl02OP9VPxaxt97TTH.jpg", "actors": [], "comments": [], "recommandations_id": []}

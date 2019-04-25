@@ -1,1 +1,0 @@
-{"tmdb_id": 583111, "title": "Counselling", "original_title": "Counselling", "slug_title": "counselling", "date": "", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Natalie Brown (Sasha)", "Michael Healey (Dr. Robertson)", "John Ralston (Clark)"], "comments": [], "recommandations_id": []}

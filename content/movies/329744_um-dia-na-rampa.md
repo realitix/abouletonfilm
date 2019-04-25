@@ -1,1 +1,0 @@
-{"tmdb_id": 329744, "title": "Um Dia na Rampa", "original_title": "Um Dia na Rampa", "slug_title": "um-dia-na-rampa", "date": "1960-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j2xVJFPI2MKCBzWCQoFcwyxv8IX.jpg", "actors": [], "comments": [], "recommandations_id": []}

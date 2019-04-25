@@ -1,1 +1,0 @@
-{"tmdb_id": 318243, "title": "A Musical Journey: Russia, Ukraine, Uzbekistan", "original_title": "A Musical Journey: Russia, Ukraine, Uzbekistan", "slug_title": "a-musical-journey-russia-ukraine-uzbekistan", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 567690, "title": "Dear Evan Hansen", "original_title": "Dear Evan Hansen", "slug_title": "dear-evan-hansen", "date": "", "genre": "Musique / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ben Platt (Evan Hansen)"], "comments": [], "recommandations_id": []}

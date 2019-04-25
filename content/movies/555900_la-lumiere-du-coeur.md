@@ -1,1 +1,0 @@
-{"tmdb_id": 555900, "title": "La lumi\u00e8re du coeur", "original_title": "La lumi\u00e8re du coeur", "slug_title": "la-lumiere-du-coeur", "date": "1916-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 315166, "title": "Like Sleep", "original_title": "Like Sleep", "slug_title": "like-sleep", "date": "1965-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lcNKHG2X7xaQfJBgflBd5B9F0b1.jpg", "actors": [], "comments": [], "recommandations_id": []}

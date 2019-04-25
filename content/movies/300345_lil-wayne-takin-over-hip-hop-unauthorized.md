@@ -1,1 +1,0 @@
-{"tmdb_id": 300345, "title": "Lil Wayne: Takin' Over Hip Hop - Unauthorized", "original_title": "Lil Wayne: Takin' Over Hip Hop - Unauthorized", "slug_title": "lil-wayne-takin-over-hip-hop-unauthorized", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

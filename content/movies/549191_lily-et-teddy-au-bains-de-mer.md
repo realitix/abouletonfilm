@@ -1,1 +1,0 @@
-{"tmdb_id": 549191, "title": "Lily et Teddy au bains de mer", "original_title": "Lily et Teddy au bains de mer", "slug_title": "lily-et-teddy-au-bains-de-mer", "date": "1917-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

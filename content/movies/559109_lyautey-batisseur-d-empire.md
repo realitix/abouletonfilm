@@ -1,1 +1,0 @@
-{"tmdb_id": 559109, "title": "Lyautey, b\u00e2tisseur d'empire", "original_title": "Lyautey, b\u00e2tisseur d'empire", "slug_title": "lyautey-batisseur-d-empire", "date": "1946-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xnZ7FFVUbzkoYXo7pOqmhpfqEvO.jpg", "actors": [], "comments": [], "recommandations_id": []}

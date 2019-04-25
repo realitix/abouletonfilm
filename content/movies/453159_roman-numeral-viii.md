@@ -1,1 +1,0 @@
-{"tmdb_id": 453159, "title": "Roman Numeral: VIII", "original_title": "Roman Numeral: VIII", "slug_title": "roman-numeral-viii", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

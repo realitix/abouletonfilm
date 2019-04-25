@@ -1,1 +1,0 @@
-{"tmdb_id": 477916, "title": "Catherine Street", "original_title": "Catherine Street", "slug_title": "catherine-street", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

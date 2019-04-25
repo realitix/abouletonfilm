@@ -1,1 +1,0 @@
-{"tmdb_id": 553155, "title": "Cancer Rebellion", "original_title": "Cancer Rebellion", "slug_title": "cancer-rebellion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/llUVA5KwZuWHbeszwkL0j2L6Nsh.jpg", "actors": [], "comments": [], "recommandations_id": []}

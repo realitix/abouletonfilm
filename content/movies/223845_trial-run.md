@@ -1,1 +1,0 @@
-{"tmdb_id": 223845, "title": "Trial Run", "original_title": "Trial Run", "slug_title": "trial-run", "date": "1984-01-01", "genre": "Myst\u00e8re / Thriller / Crime", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uoTyivvb71QEzEHowDhS4AhHTge.jpg", "actors": [], "comments": [], "recommandations_id": []}

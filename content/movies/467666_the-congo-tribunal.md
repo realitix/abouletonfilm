@@ -1,1 +1,0 @@
-{"tmdb_id": 467666, "title": "The Congo Tribunal", "original_title": "Das Kongo Tribunal", "slug_title": "the-congo-tribunal", "date": "2017-08-23", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tf54mNhtToB5nEBor43T4zzR31q.jpg", "actors": [], "comments": [], "recommandations_id": []}

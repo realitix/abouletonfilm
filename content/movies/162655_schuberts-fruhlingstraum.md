@@ -1,1 +1,0 @@
-{"tmdb_id": 162655, "title": "Schuberts Fr\u00fchlingstraum", "original_title": "Schuberts Fr\u00fchlingstraum", "slug_title": "schuberts-fruhlingstraum", "date": "1931-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

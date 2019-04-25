@@ -1,1 +1,0 @@
-{"tmdb_id": 488200, "title": "Thuis Vogels Kijken, Goed Bekeken!", "original_title": "Thuis Vogels Kijken, Goed Bekeken!", "slug_title": "thuis-vogels-kijken-goed-bekeken", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/miXvTc7sXPFp0m9JvL3dp089th6.jpg", "actors": [], "comments": [], "recommandations_id": []}

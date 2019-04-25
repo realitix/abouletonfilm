@@ -1,1 +1,0 @@
-{"tmdb_id": 270956, "title": "Gustavus: The Fellow-Man", "original_title": "Guszt\u00e1v a t\u00e1rsas l\u00e9ny", "slug_title": "gustavus-the-fellow-man", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lPsYR07N2GjZRSGMWIxSQpQVv0t.jpg", "actors": [], "comments": [], "recommandations_id": []}

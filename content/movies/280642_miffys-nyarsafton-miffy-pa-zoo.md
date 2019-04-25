@@ -1,1 +1,0 @@
-{"tmdb_id": 280642, "title": "Miffys Ny\u00e5rsafton & Miffy p\u00e5 Zoo", "original_title": "Miffys Ny\u00e5rsafton & Miffy p\u00e5 Zoo", "slug_title": "miffys-nyarsafton-miffy-pa-zoo", "date": "2007-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

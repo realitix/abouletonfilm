@@ -1,1 +1,0 @@
-{"tmdb_id": 349774, "title": "Mother's Love", "original_title": "\ubaa8\uc815", "slug_title": "mother-s-love", "date": "1983-03-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

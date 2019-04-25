@@ -1,1 +1,0 @@
-{"tmdb_id": 374696, "title": "Patients", "original_title": "Patients", "slug_title": "patients", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jvNQ9Anqao74slrixVPzdxLOYxA.jpg", "actors": [], "comments": [], "recommandations_id": []}

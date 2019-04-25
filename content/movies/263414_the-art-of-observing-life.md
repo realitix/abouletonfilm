@@ -1,1 +1,0 @@
-{"tmdb_id": 263414, "title": "The Art of Observing Life", "original_title": "The Art of Observing Life", "slug_title": "the-art-of-observing-life", "date": "2013-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cP5e6mCQSKECa4g41qoDMPXbybl.jpg", "actors": [], "comments": [], "recommandations_id": []}

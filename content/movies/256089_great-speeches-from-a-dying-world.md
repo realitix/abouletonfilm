@@ -1,1 +1,0 @@
-{"tmdb_id": 256089, "title": "Great Speeches from a Dying World", "original_title": "Great Speeches from a Dying World", "slug_title": "great-speeches-from-a-dying-world", "date": "2009-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 247015, "title": "Heaven Shall Burn: Live in Vienna", "original_title": "Heaven Shall Burn: Live in Vienna", "slug_title": "heaven-shall-burn-live-in-vienna", "date": "2009-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

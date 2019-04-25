@@ -1,1 +1,0 @@
-{"tmdb_id": 283935, "title": "El fusilamiento de Dorrego", "original_title": "El fusilamiento de Dorrego", "slug_title": "el-fusilamiento-de-dorrego", "date": "1908-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Salvador Rosich ()", "Eliseo Guti\u00e9rrez ()", "Roberto Casaux ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 592009, "title": "Roll Call", "original_title": "Roll Call", "slug_title": "roll-call", "date": "2019-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/paGuHkV77YIVD9yoZA6YRZmxOvG.jpg", "actors": [], "comments": [], "recommandations_id": []}

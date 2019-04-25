@@ -1,1 +1,0 @@
-{"tmdb_id": 571639, "title": "What Ghosts Like Most", "original_title": "What Ghosts Like Most", "slug_title": "what-ghosts-like-most", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 249023, "title": "The Day Kennedy Died", "original_title": "The Day Kennedy Died", "slug_title": "the-day-kennedy-died", "date": "2013-11-17", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dZAmoTJcp7W3as85y3ZcqZ0aAel.jpg", "actors": [], "comments": [], "recommandations_id": []}

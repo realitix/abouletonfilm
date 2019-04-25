@@ -1,1 +1,0 @@
-{"tmdb_id": 517225, "title": "Sodom and Gomorrah: The Last Seven Days", "original_title": "Sodom and Gomorrah: The Last Seven Days", "slug_title": "sodom-and-gomorrah-the-last-seven-days", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

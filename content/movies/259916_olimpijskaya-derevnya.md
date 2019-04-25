@@ -1,1 +1,0 @@
-{"tmdb_id": 259916, "title": "Olimpijskaya derevnya", "original_title": "Olimpijskaya derevnya", "slug_title": "olimpijskaya-derevnya", "date": "2012-05-10", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nFvT7gFrgwrgXF6UbeFQ2MiDyS6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 127694, "title": "Of Dolls and Murder", "original_title": "Of Dolls and Murder", "slug_title": "of-dolls-and-murder", "date": "2012-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i10EODvMxxjBzKgq41gBvpMMKb7.jpg", "actors": [], "comments": [], "recommandations_id": []}

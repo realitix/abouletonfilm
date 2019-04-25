@@ -1,1 +1,0 @@
-{"tmdb_id": 309465, "title": "Aptha Mithra", "original_title": "Aptha Mithra", "slug_title": "aptha-mithra", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

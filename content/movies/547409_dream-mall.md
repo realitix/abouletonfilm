@@ -1,1 +1,0 @@
-{"tmdb_id": 547409, "title": "Dream Mall", "original_title": "Dream Mall", "slug_title": "dream-mall", "date": "2015-06-26", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3W972v4W3jY19ODE03KK4WtryHA.jpg", "actors": ["Siddarth Jadhav ()", "Neha Joshi ()"], "comments": [], "recommandations_id": []}

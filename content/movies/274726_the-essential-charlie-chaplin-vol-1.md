@@ -1,1 +1,0 @@
-{"tmdb_id": 274726, "title": "The Essential Charlie Chaplin: Vol. 1", "original_title": "The Essential Charlie Chaplin: Vol. 1", "slug_title": "the-essential-charlie-chaplin-vol-1", "date": "1914-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

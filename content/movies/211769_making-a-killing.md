@@ -1,1 +1,0 @@
-{"tmdb_id": 211769, "title": "Making a Killing", "original_title": "Making a Killing", "slug_title": "making-a-killing", "date": "2002-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lAHLVajYiKOTmU2aQMQJEqHov7A.jpg", "actors": [], "comments": [], "recommandations_id": []}

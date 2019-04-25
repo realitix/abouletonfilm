@@ -1,1 +1,0 @@
-{"tmdb_id": 459098, "title": "Sujeto morfologico", "original_title": "Sujeto morfologico", "slug_title": "sujeto-morfologico", "date": "1999-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

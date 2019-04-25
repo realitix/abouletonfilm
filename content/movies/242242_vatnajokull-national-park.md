@@ -1,1 +1,0 @@
-{"tmdb_id": 242242, "title": "Vatnaj\u00f6kull National Park", "original_title": "Vatnaj\u00f6kull National Park", "slug_title": "vatnajokull-national-park", "date": "2013-06-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

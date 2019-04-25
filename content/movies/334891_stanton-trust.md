@@ -1,1 +1,0 @@
-{"tmdb_id": 334891, "title": "Stanton Trust", "original_title": "Stanton Trust", "slug_title": "stanton-trust", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

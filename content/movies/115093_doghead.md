@@ -1,1 +1,0 @@
-{"tmdb_id": 115093, "title": "Doghead", "original_title": "Cabeza de perro", "slug_title": "doghead", "date": "2006-08-25", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9uMk8VPBGOPGqkYZtaS5R8LDziY.jpg", "actors": ["Juan Jos\u00e9 Ballesta (Samuel)", "Adriana Ugarte ()"], "comments": [], "recommandations_id": []}

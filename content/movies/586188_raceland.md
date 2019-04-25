@@ -1,1 +1,0 @@
-{"tmdb_id": 586188, "title": "Raceland", "original_title": "Raceland", "slug_title": "raceland", "date": "2018-12-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

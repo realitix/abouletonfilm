@@ -1,1 +1,0 @@
-{"tmdb_id": 421304, "title": "Dora Myrtle", "original_title": "Dora Myrtle", "slug_title": "dora-myrtle", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ainslie Pryor ()", "Mark Ellinger ()"], "comments": [], "recommandations_id": []}

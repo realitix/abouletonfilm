@@ -1,1 +1,0 @@
-{"tmdb_id": 424610, "title": "Why Not a Sparrow", "original_title": "Why Not a Sparrow", "slug_title": "why-not-a-sparrow", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y8HPSAdlV3oegkD7eopahkC3bjZ.jpg", "actors": ["Theresa Columbus ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 506141, "title": "A Brief Summer\u2019s Tale", "original_title": "A Brief Summer\u2019s Tale", "slug_title": "a-brief-summers-tale", "date": "2008-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nCo4OZ0urKQZ8zIsZBqWv5o8XaJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

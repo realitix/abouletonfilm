@@ -1,1 +1,0 @@
-{"tmdb_id": 453043, "title": "Calling Doctor Magoo", "original_title": "Calling Doctor Magoo", "slug_title": "calling-doctor-magoo", "date": "1956-05-24", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Backus (Mr. Magoo (voice))", "Jerry Hausner (Waldo (voice))"], "comments": [], "recommandations_id": []}

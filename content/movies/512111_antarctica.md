@@ -1,1 +1,0 @@
-{"tmdb_id": 512111, "title": "Antarctica", "original_title": "Antarctica", "slug_title": "antarctica", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

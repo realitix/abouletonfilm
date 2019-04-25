@@ -1,1 +1,0 @@
-{"tmdb_id": 494898, "title": "The Twins of the Twin Towers", "original_title": "The Twins of the Twin Towers", "slug_title": "the-twins-of-the-twin-towers", "date": "2011-09-11", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

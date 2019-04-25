@@ -1,1 +1,0 @@
-{"tmdb_id": 231737, "title": "Parke Davis' Employees", "original_title": "Parke Davis' Employees", "slug_title": "parke-davis-employees", "date": "1899-07-30", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

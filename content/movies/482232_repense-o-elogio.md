@@ -1,1 +1,0 @@
-{"tmdb_id": 482232, "title": "Repense o Elogio", "original_title": "Repense o Elogio", "slug_title": "repense-o-elogio", "date": "2017-10-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hnVYNWl1mioyU1xaWKH0jyZUGKv.jpg", "actors": [], "comments": [], "recommandations_id": []}

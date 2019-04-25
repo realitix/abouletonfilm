@@ -1,1 +1,0 @@
-{"tmdb_id": 566051, "title": "Goddess of Light", "original_title": "\u5149\u306e\u5973\u795e", "slug_title": "goddess-of-light", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vm061h770Ky5RsPjfu6mmszOO4j.jpg", "actors": [], "comments": [], "recommandations_id": []}

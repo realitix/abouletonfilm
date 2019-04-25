@@ -1,1 +1,0 @@
-{"tmdb_id": 380396, "title": "An Animated Short FIlm", "original_title": "An Animated Short FIlm", "slug_title": "an-animated-short-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uIAHBR7pWTXJBhGyU6s46HQaf52.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 563456, "title": "CorpoStyleDanceMachine", "original_title": "CorpoStyleDanceMachine", "slug_title": "corpostyledancemachine", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n4PDosvdlAEbYY34AcYIhQb4eyB.jpg", "actors": [], "comments": [], "recommandations_id": []}

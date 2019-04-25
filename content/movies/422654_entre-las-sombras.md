@@ -1,1 +1,0 @@
-{"tmdb_id": 422654, "title": "Entre las Sombras", "original_title": "Entre las Sombras", "slug_title": "entre-las-sombras", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

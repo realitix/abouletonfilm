@@ -1,1 +1,0 @@
-{"tmdb_id": 595167, "title": "Dead Blue: Surviving Depression", "original_title": "Dead Blue: Surviving Depression", "slug_title": "dead-blue-surviving-depression", "date": "1998-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mike Wallace (Himself)"], "comments": [], "recommandations_id": []}

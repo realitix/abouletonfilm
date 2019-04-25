@@ -1,1 +1,0 @@
-{"tmdb_id": 152307, "title": "The Boneyard", "original_title": "The Boneyard", "slug_title": "the-boneyard", "date": "2009-10-06", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/siIuXM3xiso2OwlaMgG5xmP50Uu.jpg", "actors": ["Will Lyman (Narrator)"], "comments": [], "recommandations_id": []}

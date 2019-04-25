@@ -1,1 +1,0 @@
-{"tmdb_id": 344295, "title": "A Century of Energy", "original_title": "Um S\u00e9culo de Energia", "slug_title": "a-century-of-energy", "date": "2015-06-08", "genre": "Documentaire", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qjQRepzoNx1ZvSNLDvLnU0fd3Yi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 213778, "title": "The Lollipop Generation", "original_title": "The Lollipop Generation", "slug_title": "the-lollipop-generation", "date": "2008-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vaginal Davis ()"], "comments": [], "recommandations_id": []}

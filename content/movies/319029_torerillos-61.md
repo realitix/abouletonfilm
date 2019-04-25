@@ -1,1 +1,0 @@
-{"tmdb_id": 319029, "title": "Torerillos, 61", "original_title": "Torerillos, 61", "slug_title": "torerillos-61", "date": "1962-01-01", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bVpihnqm7OYikWYLTmTHNsEdBDS.jpg", "actors": [], "comments": [], "recommandations_id": []}

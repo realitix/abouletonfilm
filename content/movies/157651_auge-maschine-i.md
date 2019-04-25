@@ -1,1 +1,0 @@
-{"tmdb_id": 157651, "title": "Auge/Maschine I", "original_title": "Auge/Maschine I", "slug_title": "auge-maschine-i", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qYs2tWXyiyFnPV7k98Mu5HZ7nur.jpg", "actors": [], "comments": [], "recommandations_id": []}

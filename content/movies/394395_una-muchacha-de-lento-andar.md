@@ -1,1 +1,0 @@
-{"tmdb_id": 394395, "title": "Una muchacha de lento andar", "original_title": "Una muchacha de lento andar", "slug_title": "una-muchacha-de-lento-andar", "date": "2011-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rFxVv7RXHgBOAAST9hINcoOSNs8.jpg", "actors": [], "comments": [], "recommandations_id": []}

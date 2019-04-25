@@ -1,1 +1,0 @@
-{"tmdb_id": 426956, "title": "Downward Angel", "original_title": "Downward Angel", "slug_title": "downward-angel", "date": "2001-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

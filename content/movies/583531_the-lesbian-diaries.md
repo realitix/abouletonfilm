@@ -1,1 +1,0 @@
-{"tmdb_id": 583531, "title": "The Lesbian Diaries", "original_title": "The Lesbian Diaries", "slug_title": "the-lesbian-diaries", "date": "2015-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bfLC4Nbt71g6HlW7jDiTzSx8qOu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 229929, "title": "A Sketchbook for the Library Van", "original_title": "A Sketchbook for the Library Van", "slug_title": "a-sketchbook-for-the-library-van", "date": "2005-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 474474, "title": "How to Raise a Baby", "original_title": "How to Raise a Baby", "slug_title": "how-to-raise-a-baby", "date": "1938-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Benchley (Lecturer Father)"], "comments": [], "recommandations_id": []}

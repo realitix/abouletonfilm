@@ -1,1 +1,0 @@
-{"tmdb_id": 544257, "title": "Coffee Cake", "original_title": "Coffee Cake", "slug_title": "coffee-cake", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

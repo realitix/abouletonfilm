@@ -1,1 +1,0 @@
-{"tmdb_id": 313343, "title": "Idol Is Dead", "original_title": "Idol Is Dead", "slug_title": "idol-is-dead", "date": "2012-05-01", "genre": "Com\u00e9die / Horreur / Musique", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xBCD2TVRyRKEjdgv6Kyu8087FSC.jpg", "actors": [], "comments": [], "recommandations_id": []}

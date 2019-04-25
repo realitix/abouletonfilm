@@ -1,1 +1,0 @@
-{"tmdb_id": 283985, "title": "Pictures on Pink Paper", "original_title": "Pictures on Pink Paper", "slug_title": "pictures-on-pink-paper", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lmkLivEQ1i36hfyarIq1AgeHXXV.jpg", "actors": [], "comments": [], "recommandations_id": []}

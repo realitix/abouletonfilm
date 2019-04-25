@@ -1,1 +1,0 @@
-{"tmdb_id": 83888, "title": "Shambles", "original_title": "Shambles", "slug_title": "shambles", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bujXuZMJn39rEjlpv9mcyjv3P0Q.jpg", "actors": ["Andrew Sawyer (John)"], "comments": [], "recommandations_id": []}

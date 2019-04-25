@@ -1,1 +1,0 @@
-{"tmdb_id": 578647, "title": "The Captain", "original_title": "The Captain", "slug_title": "the-captain", "date": "2013-12-23", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shem Arce (The Captain)", "Chace Williams (The Gigabandit)", "Miles Ellis (Mayor Johnston)"], "comments": [], "recommandations_id": []}

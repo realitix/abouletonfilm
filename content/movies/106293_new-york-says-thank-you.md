@@ -1,1 +1,0 @@
-{"tmdb_id": 106293, "title": "New York Says Thank You", "original_title": "New York Says Thank You", "slug_title": "new-york-says-thank-you", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fQC44ln84bgVkIdXYvQlJoByX3u.jpg", "actors": [], "comments": [], "recommandations_id": []}

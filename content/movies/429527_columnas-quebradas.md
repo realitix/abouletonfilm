@@ -1,1 +1,0 @@
-{"tmdb_id": 429527, "title": "Columnas quebradas", "original_title": "Columnas quebradas", "slug_title": "columnas-quebradas", "date": "2015-06-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3HJPyenTc0Z6d9J2Ez0FnaoVTrs.jpg", "actors": [], "comments": [], "recommandations_id": []}

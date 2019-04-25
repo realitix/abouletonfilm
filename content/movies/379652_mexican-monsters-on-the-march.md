@@ -1,1 +1,0 @@
-{"tmdb_id": 379652, "title": "Mexican Monsters on the March", "original_title": "Mexican Monsters on the March", "slug_title": "mexican-monsters-on-the-march", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ebczjcAPu2xW21s7AmHn8100Jzu.jpg", "actors": [], "comments": [], "recommandations_id": []}

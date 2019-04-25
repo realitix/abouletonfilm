@@ -1,1 +1,0 @@
-{"tmdb_id": 263215, "title": "Bigfoot: The Definitive Guide", "original_title": "Bigfoot: The Definitive Guide", "slug_title": "bigfoot-the-definitive-guide", "date": "2011-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

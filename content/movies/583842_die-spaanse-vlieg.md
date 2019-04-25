@@ -1,1 +1,0 @@
-{"tmdb_id": 583842, "title": "Die Spaanse Vlieg", "original_title": "Die Spaanse Vlieg", "slug_title": "die-spaanse-vlieg", "date": "1978-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

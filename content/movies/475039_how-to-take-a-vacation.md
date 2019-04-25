@@ -1,1 +1,0 @@
-{"tmdb_id": 475039, "title": "How to Take a Vacation", "original_title": "How to Take a Vacation", "slug_title": "how-to-take-a-vacation", "date": "1941-10-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Benchley (Husband)", "Ruth Lee (Wife)"], "comments": [], "recommandations_id": []}

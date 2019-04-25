@@ -1,1 +1,0 @@
-{"tmdb_id": 325017, "title": "Measures of Distance", "original_title": "Measures of Distance", "slug_title": "measures-of-distance", "date": "1988-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lL8eiILJZ4JD7bc6IQdGQWO3mHW.jpg", "actors": [], "comments": [], "recommandations_id": []}

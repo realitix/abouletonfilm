@@ -1,1 +1,0 @@
-{"tmdb_id": 452607, "title": "Sonic Maskarada", "original_title": "Sonic Maskarada", "slug_title": "sonic-maskarada", "date": "2006-01-01", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e23LjxgIwSEUtEg0BiMJ7mjB7d.jpg", "actors": [], "comments": [], "recommandations_id": []}

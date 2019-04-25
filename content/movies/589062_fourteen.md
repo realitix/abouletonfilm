@@ -1,1 +1,0 @@
-{"tmdb_id": 589062, "title": "Fourteen", "original_title": "Fourteen", "slug_title": "fourteen", "date": "2006-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Laken Romine (Hannah)", "Diana Gayl (Connie)"], "comments": [], "recommandations_id": []}

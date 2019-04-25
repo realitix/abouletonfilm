@@ -1,1 +1,0 @@
-{"tmdb_id": 191409, "title": "Honey for Oshun", "original_title": "Miel para Osh\u00fan", "slug_title": "honey-for-oshun", "date": "2001-08-28", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uqmSKoPxyEM28rn3Inie3UgvWMJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 383469, "title": "JACARELVIS E AMIGOS VOL 2", "original_title": "JACARELVIS E AMIGOS VOL 2", "slug_title": "jacarelvis-e-amigos-vol-2", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6xHjqoaKRlNrGuRH7Zi9dciKeN5.jpg", "actors": [], "comments": [], "recommandations_id": []}

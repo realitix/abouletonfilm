@@ -1,1 +1,0 @@
-{"tmdb_id": 510060, "title": "A.I. & the Destiny of Mankind", "original_title": "A.I. & the Destiny of Mankind", "slug_title": "a-i-the-destiny-of-mankind", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fnghEnpYtRktbZDrWJ5ppsEV9e2.jpg", "actors": [], "comments": [], "recommandations_id": []}

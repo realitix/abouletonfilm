@@ -1,1 +1,0 @@
-{"tmdb_id": 519939, "title": "Mother of Many", "original_title": "Mother of Many", "slug_title": "mother-of-many", "date": "2009-12-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c0w0a7yWsImXoO3FamcW1arRUwZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

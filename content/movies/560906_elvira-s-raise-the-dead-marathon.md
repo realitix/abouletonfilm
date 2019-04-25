@@ -1,1 +1,0 @@
-{"tmdb_id": 560906, "title": "Elvira's Raise the Dead Marathon", "original_title": "Elvira's Raise the Dead Marathon", "slug_title": "elvira-s-raise-the-dead-marathon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vEOmcQLhuDcaJ4f2NbvBgcPAuvB.jpg", "actors": [], "comments": [], "recommandations_id": []}

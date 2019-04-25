@@ -1,1 +1,0 @@
-{"tmdb_id": 571386, "title": "Dhoolpet Ganesha", "original_title": "Dhoolpet Ganesha", "slug_title": "dhoolpet-ganesha", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oXT8S316EKWWnBmRSeiLbU1Xpn7.jpg", "actors": [], "comments": [], "recommandations_id": []}

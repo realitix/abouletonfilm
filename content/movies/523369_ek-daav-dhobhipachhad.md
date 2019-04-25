@@ -1,1 +1,0 @@
-{"tmdb_id": 523369, "title": "Ek Daav Dhobhipachhad", "original_title": "Ek Daav Dhobhipachhad", "slug_title": "ek-daav-dhobhipachhad", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

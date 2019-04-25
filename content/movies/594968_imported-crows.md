@@ -1,1 +1,0 @@
-{"tmdb_id": 594968, "title": "Imported Crows", "original_title": "Uvozne vrane", "slug_title": "imported-crows", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d6wRXCh5F8Uz3YiLDQXngPSjGFh.jpg", "actors": [], "comments": [], "recommandations_id": []}

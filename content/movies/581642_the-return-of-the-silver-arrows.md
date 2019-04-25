@@ -1,1 +1,0 @@
-{"tmdb_id": 581642, "title": "The Return of the Silver Arrows", "original_title": "The Return of the Silver Arrows", "slug_title": "the-return-of-the-silver-arrows", "date": "2004-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

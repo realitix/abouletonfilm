@@ -1,1 +1,0 @@
-{"tmdb_id": 516863, "title": "Angesichts der W\u00e4lder", "original_title": "Angesichts der W\u00e4lder", "slug_title": "angesichts-der-walder", "date": "1995-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

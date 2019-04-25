@@ -1,1 +1,0 @@
-{"tmdb_id": 424385, "title": "Cadfael: One Corpse Too Many", "original_title": "Cadfael: One Corpse Too Many", "slug_title": "cadfael-one-corpse-too-many", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bglQGyFKtGuN9xaBgykTErrDDdt.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 298323, "title": "The Barewolf", "original_title": "The Barewolf", "slug_title": "the-barewolf", "date": "2011-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

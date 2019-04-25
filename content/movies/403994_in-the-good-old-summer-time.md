@@ -1,1 +1,0 @@
-{"tmdb_id": 403994, "title": "In the Good Old Summer Time", "original_title": "In the Good Old Summer Time", "slug_title": "in-the-good-old-summer-time", "date": "1926-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

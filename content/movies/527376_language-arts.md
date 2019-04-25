@@ -1,1 +1,0 @@
-{"tmdb_id": 527376, "title": "Language Arts", "original_title": "Language Arts", "slug_title": "language-arts", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sarah Shahi (Allison Forche-Marlow)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 499032, "title": "City of Ys", "original_title": "City of Ys", "slug_title": "city-of-ys", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2iZe9J0LSupGddI4s5XvJ0ibNYE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556845, "title": "Jarmark Europa", "original_title": "Jarmark Europa", "slug_title": "jarmark-europa", "date": "2004-02-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

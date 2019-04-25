@@ -1,1 +1,0 @@
-{"tmdb_id": 46833, "title": "The Other Side of Fire", "original_title": "Ansuyeh Atash", "slug_title": "the-other-side-of-fire", "date": "1988-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9gi9iIVQAtdYhigr9HjgOJJA0H9.jpg", "actors": [], "comments": [], "recommandations_id": []}

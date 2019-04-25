@@ -1,1 +1,0 @@
-{"tmdb_id": 574219, "title": "YouShoot: Sabu", "original_title": "YouShoot: Sabu", "slug_title": "youshoot-sabu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Sabu (Himself)"], "comments": [], "recommandations_id": []}

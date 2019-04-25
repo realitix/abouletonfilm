@@ -1,1 +1,0 @@
-{"tmdb_id": 313989, "title": "Medal of Honor", "original_title": "Medal of Honor", "slug_title": "medal-of-honor", "date": "2008-11-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6a1E3VN5zZZKOLMGnEyYUcATIbK.jpg", "actors": ["Alfre Woodard (Narrator)"], "comments": [], "recommandations_id": []}

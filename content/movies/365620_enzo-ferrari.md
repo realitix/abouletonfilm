@@ -1,1 +1,0 @@
-{"tmdb_id": 365620, "title": "Enzo Ferrari", "original_title": "Enzo Ferrari", "slug_title": "enzo-ferrari", "date": "", "genre": "Drame", "score": "8.2/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hugh Jackman (Enzo Ferrari)", "Noomi Rapace (Linda Ferrari)"], "comments": [], "recommandations_id": []}

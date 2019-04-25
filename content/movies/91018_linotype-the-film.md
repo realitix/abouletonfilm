@@ -1,1 +1,0 @@
-{"tmdb_id": 91018, "title": "Linotype: The Film", "original_title": "Linotype: The Film", "slug_title": "linotype-the-film", "date": "2012-02-03", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8SQ4DG6d5i624SmEM0N4wYujFJL.jpg", "actors": [], "comments": [], "recommandations_id": [74237, 61880, 24506, 29436]}

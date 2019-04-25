@@ -1,1 +1,0 @@
-{"tmdb_id": 278338, "title": "Pocoyo: Super Pocoyo", "original_title": "Pocoyo: Super Pocoyo", "slug_title": "pocoyo-super-pocoyo", "date": "2011-01-11", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gkT2p0uAVOAFIKO61NwTh9ITevh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 303464, "title": "Corridor No. 8", "original_title": "Corridor #8", "slug_title": "corridor-no-8", "date": "2008-02-08", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/38TcxwjhwHBxZkDPpnvPEuWuw5c.jpg", "actors": [], "comments": [], "recommandations_id": []}

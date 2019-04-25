@@ -1,1 +1,0 @@
-{"tmdb_id": 573119, "title": "L'America a Roma", "original_title": "L'America a Roma", "slug_title": "l-america-a-roma", "date": "1998-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

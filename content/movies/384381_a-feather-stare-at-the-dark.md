@@ -1,1 +1,0 @@
-{"tmdb_id": 384381, "title": "A Feather Stare at the Dark", "original_title": "Yami wo Mitsumeru Hane", "slug_title": "a-feather-stare-at-the-dark", "date": "2003-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tg9Cg3UPjDpwSWYvj4pOf7G9X2n.jpg", "actors": [], "comments": [], "recommandations_id": []}

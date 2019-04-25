@@ -1,1 +1,0 @@
-{"tmdb_id": 57538, "title": "Absolutely Safe", "original_title": "Absolutely Safe", "slug_title": "absolutely-safe", "date": "2007-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXQ1scDg2KqM6hS6cD1A7SjfVHA.jpg", "actors": [], "comments": [], "recommandations_id": []}

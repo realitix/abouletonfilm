@@ -1,1 +1,0 @@
-{"tmdb_id": 588378, "title": "Buckjumping", "original_title": "Buckjumping", "slug_title": "buckjumping", "date": "2018-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/irFf2z6kKANCaOa9kn1pticH880.jpg", "actors": [], "comments": [], "recommandations_id": []}

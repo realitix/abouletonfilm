@@ -1,1 +1,1 @@
-{"tmdb_id": 305937, "title": "The Racer", "original_title": "The Racer", "slug_title": "the-racer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 305937, "title": "The Racer", "original_title": "The Racer", "slug_title": "the-racer", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "The Racer is a racing movie I can't find on IMDB", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

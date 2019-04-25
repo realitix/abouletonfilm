@@ -1,1 +1,0 @@
-{"tmdb_id": 415131, "title": "Waterdrop", "original_title": "Waterdrop", "slug_title": "waterdrop", "date": "2015-09-15", "genre": "Science-Fiction", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7VYYfH0mf4PnQDc5X16Yy32zym4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 279377, "title": "Sobre la misma tierra", "original_title": "Sobre la misma tierra", "slug_title": "sobre-la-misma-tierra", "date": "2011-12-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

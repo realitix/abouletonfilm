@@ -1,1 +1,0 @@
-{"tmdb_id": 348886, "title": "Voices from the Waves - Kesennuma", "original_title": "Voices from the Waves - Kesennuma", "slug_title": "voices-from-the-waves-kesennuma", "date": "2013-11-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

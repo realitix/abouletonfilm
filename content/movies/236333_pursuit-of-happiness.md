@@ -1,1 +1,0 @@
-{"tmdb_id": 236333, "title": "Pursuit of Happiness", "original_title": "Pursuit of Happiness", "slug_title": "pursuit-of-happiness", "date": "1940-11-13", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tcXmWbIDPlxkXRsIrgdXpDJQvRu.jpg", "actors": [], "comments": [], "recommandations_id": []}

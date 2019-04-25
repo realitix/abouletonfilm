@@ -1,1 +1,0 @@
-{"tmdb_id": 238672, "title": "Chainsaw Maid 3", "original_title": "Chainsaw Maid 3", "slug_title": "chainsaw-maid-3", "date": "2012-03-22", "genre": "Horreur / Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/42FxijETxEvcyq1k9rggdE8Fpl1.jpg", "actors": [], "comments": [], "recommandations_id": []}

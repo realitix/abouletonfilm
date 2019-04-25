@@ -1,1 +1,0 @@
-{"tmdb_id": 268018, "title": "Waging A Living", "original_title": "Waging A Living", "slug_title": "waging-a-living", "date": "2005-03-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cRnT7SnFeY1iBWLqIhztQ47wdsD.jpg", "actors": [], "comments": [], "recommandations_id": []}

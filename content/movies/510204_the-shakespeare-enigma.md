@@ -1,1 +1,0 @@
-{"tmdb_id": 510204, "title": "The Shakespeare Enigma", "original_title": "The Shakespeare Enigma", "slug_title": "the-shakespeare-enigma", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5m8PytWLUHyHZzYzI7v7mzVG0nf.jpg", "actors": [], "comments": [], "recommandations_id": []}

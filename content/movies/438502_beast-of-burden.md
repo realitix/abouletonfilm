@@ -1,1 +1,0 @@
-{"tmdb_id": 438502, "title": "Beast of Burden", "original_title": "Burden of the Beast", "slug_title": "beast-of-burden", "date": "2004-01-31", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

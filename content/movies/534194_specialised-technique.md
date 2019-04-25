@@ -1,1 +1,0 @@
-{"tmdb_id": 534194, "title": "Specialised Technique", "original_title": "Specialised Technique", "slug_title": "specialised-technique", "date": "2018-07-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lTauyEIdjGdbgzZveqhq5orNfrV.jpg", "actors": [], "comments": [], "recommandations_id": []}

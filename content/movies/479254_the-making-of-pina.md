@@ -1,1 +1,0 @@
-{"tmdb_id": 479254, "title": "The Making of Pina", "original_title": "The Making of Pina", "slug_title": "the-making-of-pina", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wim Wenders (Narrator)"], "comments": [], "recommandations_id": []}

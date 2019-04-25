@@ -1,1 +1,0 @@
-{"tmdb_id": 476969, "title": "\uc81c5\uc758 \uc0ac\ub098\uc774", "original_title": "\uc81c5\uc758 \uc0ac\ub098\uc774", "slug_title": "je5yi-sanai", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

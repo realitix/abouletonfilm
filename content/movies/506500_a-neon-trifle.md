@@ -1,1 +1,0 @@
-{"tmdb_id": 506500, "title": "A Neon Trifle", "original_title": "Neonowa Fraszka", "slug_title": "a-neon-trifle", "date": "1959-02-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/doNArFgHrPxeDY3YbVJ89L5CIaV.jpg", "actors": [], "comments": [], "recommandations_id": []}

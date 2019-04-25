@@ -1,1 +1,0 @@
-{"tmdb_id": 561762, "title": "Strings", "original_title": "Strings", "slug_title": "strings", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zj8jp4RlqOy14XhXiQZ7ovVWoGL.jpg", "actors": [], "comments": [], "recommandations_id": []}

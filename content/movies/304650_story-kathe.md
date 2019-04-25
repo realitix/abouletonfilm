@@ -1,1 +1,0 @@
-{"tmdb_id": 304650, "title": "Story Kathe", "original_title": "Story Kathe", "slug_title": "story-kathe", "date": "2013-05-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Prathap Narayan ()", "Tilak Shekar (Rajiv)", "Parvatii Nair (Pallavi)", "Neha Patel ()"], "comments": [], "recommandations_id": []}

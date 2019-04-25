@@ -1,1 +1,0 @@
-{"tmdb_id": 502947, "title": "In cerca della poesia", "original_title": "In cerca della poesia", "slug_title": "in-cerca-della-poesia", "date": "1999-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

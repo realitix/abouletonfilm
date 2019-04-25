@@ -1,1 +1,0 @@
-{"tmdb_id": 172751, "title": "Capriciousness", "original_title": "Capriciousness", "slug_title": "capriciousness", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 576946, "title": "Recycling and Waste", "original_title": "\u00c5tervinningscentralen", "slug_title": "recycling-and-waste", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Petter Jakobsson ()", "Thomas Olsson ()", "Alexander Ramirez ()"], "comments": [], "recommandations_id": []}

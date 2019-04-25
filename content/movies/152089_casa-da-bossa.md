@@ -1,1 +1,0 @@
-{"tmdb_id": 152089, "title": "Casa da Bossa", "original_title": "Casa da Bossa", "slug_title": "casa-da-bossa", "date": "2016-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8XFY4maCeUNAJkZUzmgQo2OXo7R.jpg", "actors": [], "comments": [], "recommandations_id": []}

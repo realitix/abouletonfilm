@@ -1,1 +1,0 @@
-{"tmdb_id": 326068, "title": "Azeroth Choppers", "original_title": "Azeroth Choppers", "slug_title": "azeroth-choppers", "date": "2014-04-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xk1ohZbEIkhF4JcL5BshQQ5Coxi.jpg", "actors": ["Paul Teutul, Jr. (Himself)"], "comments": [], "recommandations_id": []}

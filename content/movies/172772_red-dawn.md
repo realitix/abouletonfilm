@@ -1,1 +1,0 @@
-{"tmdb_id": 172772, "title": "Red Dawn", "original_title": "Alvorada Vermelha", "slug_title": "red-dawn", "date": "2011-05-08", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pEZZmGORyx5JMit3lgUQv0fZWop.jpg", "actors": [], "comments": [], "recommandations_id": []}

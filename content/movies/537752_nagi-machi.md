@@ -1,1 +1,0 @@
-{"tmdb_id": 537752, "title": "Nagi Machi", "original_title": "\u51ea\u5f85\u3061", "slug_title": "nagi-machi", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shingo Katori ()"], "comments": [], "recommandations_id": []}

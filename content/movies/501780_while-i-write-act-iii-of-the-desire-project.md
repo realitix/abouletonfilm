@@ -1,1 +1,0 @@
-{"tmdb_id": 501780, "title": "While I Write: Act III of The Desire Project", "original_title": "While I Write: Act III of The Desire Project", "slug_title": "while-i-write-act-iii-of-the-desire-project", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

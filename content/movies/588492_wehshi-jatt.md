@@ -1,1 +1,0 @@
-{"tmdb_id": 588492, "title": "Wehshi Jatt", "original_title": "Wehshi Jatt", "slug_title": "wehshi-jatt", "date": "1975-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sultan Rahi ()"], "comments": [], "recommandations_id": []}

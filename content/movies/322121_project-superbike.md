@@ -1,1 +1,0 @@
-{"tmdb_id": 322121, "title": "Project: Superbike", "original_title": "Project: Superbike", "slug_title": "project-superbike", "date": "2011-01-13", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uYY9yArmLOSuVAeg3lZprkPowt4.jpg", "actors": [], "comments": [], "recommandations_id": []}

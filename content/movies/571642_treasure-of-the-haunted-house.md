@@ -1,1 +1,0 @@
-{"tmdb_id": 571642, "title": "Treasure of the Haunted House", "original_title": "Treasure of the Haunted House", "slug_title": "treasure-of-the-haunted-house", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3JYCCgjPfQFmqJxD3PnplPRSS5P.jpg", "actors": [], "comments": [], "recommandations_id": []}

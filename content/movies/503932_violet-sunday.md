@@ -1,1 +1,0 @@
-{"tmdb_id": 503932, "title": "Violet Sunday", "original_title": "Domingo Violeta", "slug_title": "violet-sunday", "date": "2011-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sara Rekalde ()", "Bruna Carbo ()"], "comments": [], "recommandations_id": []}

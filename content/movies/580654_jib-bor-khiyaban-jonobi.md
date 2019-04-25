@@ -1,1 +1,0 @@
-{"tmdb_id": 580654, "title": "JIb bor khiyaban jonobi", "original_title": "JIb bor khiyaban jonobi", "slug_title": "jib-bor-khiyaban-jonobi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 569679, "title": "two moons", "original_title": "two moons", "slug_title": "two-moons", "date": "2019-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

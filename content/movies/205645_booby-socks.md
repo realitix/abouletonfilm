@@ -1,1 +1,0 @@
-{"tmdb_id": 205645, "title": "Booby Socks", "original_title": "Booby Socks", "slug_title": "booby-socks", "date": "1945-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

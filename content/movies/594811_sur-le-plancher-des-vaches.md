@@ -1,1 +1,0 @@
-{"tmdb_id": 594811, "title": "Sur le plancher des vaches", "original_title": "Sur le plancher des vaches", "slug_title": "sur-le-plancher-des-vaches", "date": "2016-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hCd62HcaEz4VcqAZVIZylJ6NSMa.jpg", "actors": [], "comments": [], "recommandations_id": []}

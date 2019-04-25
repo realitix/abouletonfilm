@@ -1,1 +1,0 @@
-{"tmdb_id": 153546, "title": "Little People", "original_title": "Little People", "slug_title": "little-people", "date": "1982-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xf1EHTvnOgtsK5aaWq2IdDBeCh1.jpg", "actors": [], "comments": [], "recommandations_id": []}

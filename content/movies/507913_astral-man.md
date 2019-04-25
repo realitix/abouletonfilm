@@ -1,1 +1,0 @@
-{"tmdb_id": 507913, "title": "Astral Man", "original_title": "Astral Man", "slug_title": "astral-man", "date": "1959-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a8Xisrgj4GRZF6ncVZRz7btCMBs.jpg", "actors": [], "comments": [], "recommandations_id": []}

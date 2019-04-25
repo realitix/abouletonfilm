@@ -1,1 +1,0 @@
-{"tmdb_id": 155997, "title": "Formula 1 2012: Australian GP", "original_title": "Formula 1 2012: Australian GP", "slug_title": "formula-1-2012-australian-gp", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

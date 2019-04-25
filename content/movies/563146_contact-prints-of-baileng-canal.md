@@ -1,1 +1,0 @@
-{"tmdb_id": 563146, "title": "Contact Prints of Baileng Canal", "original_title": "Contact Prints of Baileng Canal", "slug_title": "contact-prints-of-baileng-canal", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

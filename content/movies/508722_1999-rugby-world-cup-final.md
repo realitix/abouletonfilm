@@ -1,1 +1,0 @@
-{"tmdb_id": 508722, "title": "1999 Rugby World Cup Final", "original_title": "1999 Rugby World Cup Final", "slug_title": "1999-rugby-world-cup-final", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jC1gKqcvtiXFLJ6wtZqfnsT6eQp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 379233, "title": "Pink Trumpet", "original_title": "Pink Trumpet", "slug_title": "pink-trumpet", "date": "1978-11-03", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nIpZVTYLCSO6UtzIwq6S4nshkS0.jpg", "actors": [], "comments": [], "recommandations_id": []}

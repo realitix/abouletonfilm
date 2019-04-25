@@ -1,1 +1,0 @@
-{"tmdb_id": 474889, "title": "K\u00f6chin in der Taiga", "original_title": "K\u00f6chin in der Taiga", "slug_title": "kochin-in-der-taiga", "date": "1977-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

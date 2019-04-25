@@ -1,1 +1,0 @@
-{"tmdb_id": 343101, "title": "Devil Dog", "original_title": "Devil Dog", "slug_title": "devil-dog", "date": "2007-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7gfJuBX1sLFhwGKoLheKz8yMqBO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 438832, "title": "Heretic", "original_title": "Heretic", "slug_title": "heretic", "date": "1931-02-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r1TuCLqxamAfXJzRJE15S6309ty.jpg", "actors": ["Martha Graham ()"], "comments": [], "recommandations_id": []}

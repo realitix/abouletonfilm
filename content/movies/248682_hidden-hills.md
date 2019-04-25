@@ -1,1 +1,0 @@
-{"tmdb_id": 248682, "title": "Hidden Hills", "original_title": "Hidden Hills", "slug_title": "hidden-hills", "date": "2013-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gDd6SeKx6TRKPeArxvSEwn6MIIi.jpg", "actors": [], "comments": [], "recommandations_id": []}

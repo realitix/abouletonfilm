@@ -1,1 +1,0 @@
-{"tmdb_id": 199909, "title": "Green Frankenstein", "original_title": "Green Frankenstein", "slug_title": "green-frankenstein", "date": "2013-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bettina Lieder (Various)", "Sebastian Graf (Various)"], "comments": [], "recommandations_id": []}

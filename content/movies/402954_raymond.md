@@ -1,1 +1,0 @@
-{"tmdb_id": 402954, "title": "Raymond", "original_title": "Raymond", "slug_title": "raymond", "date": "2010-06-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A6u0NeTihS5t5sDgwN93FgJhNFk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 308095, "title": "Jhumaandi Naadam", "original_title": "Jhumaandi Naadam", "slug_title": "jhumaandi-naadam", "date": "2010-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

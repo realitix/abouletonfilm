@@ -1,1 +1,0 @@
-{"tmdb_id": 360938, "title": "After Mabo", "original_title": "After Mabo", "slug_title": "after-mabo", "date": "1998-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tUXYiJFqxRi9GBv8edxoHvtx6ls.jpg", "actors": [], "comments": [], "recommandations_id": []}

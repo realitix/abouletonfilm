@@ -1,1 +1,0 @@
-{"tmdb_id": 247289, "title": "Joel-Peter Witkin - L'image ind\u00e9l\u00e9bile", "original_title": "Joel-Peter Witkin - L'image ind\u00e9l\u00e9bile", "slug_title": "joel-peter-witkin-l-image-indelebile", "date": "2007-09-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 525860, "title": "A Luv Tale", "original_title": "A Luv Tale", "slug_title": "a-luv-tale", "date": "1999-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bNk0gVyvKcwZg638N2hsnl4tHyo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 448873, "title": "Child's Play", "original_title": "Child's Play", "slug_title": "child-s-play", "date": "1980-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eDrhsy1a6rVzI8K9OyF3Q7jGIQG.jpg", "actors": [], "comments": [], "recommandations_id": []}

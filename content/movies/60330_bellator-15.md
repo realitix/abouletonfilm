@@ -1,1 +1,0 @@
-{"tmdb_id": 60330, "title": "Bellator 15", "original_title": "Bellator 15", "slug_title": "bellator-15", "date": "2010-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ZJEUDJmtF15Rr40tGQ0sOzoAH7.jpg", "actors": [], "comments": [], "recommandations_id": []}

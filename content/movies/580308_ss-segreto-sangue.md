@@ -1,1 +1,0 @@
-{"tmdb_id": 580308, "title": "SS segreto sangue", "original_title": "SS segreto sangue", "slug_title": "ss-segreto-sangue", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tpElsvh7YTjAJXL7dP478suWMye.jpg", "actors": [], "comments": [], "recommandations_id": []}

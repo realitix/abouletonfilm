@@ -1,1 +1,0 @@
-{"tmdb_id": 439691, "title": "Shifting Positions", "original_title": "Shifting Positions", "slug_title": "shifting-positions", "date": "1999-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

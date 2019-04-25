@@ -1,1 +1,0 @@
-{"tmdb_id": 365437, "title": "La neuropatologia", "original_title": "La neuropatologia", "slug_title": "la-neuropatologia", "date": "1908-02-17", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xAMUSUByh9XiG3q906XCTdstd7O.jpg", "actors": [], "comments": [], "recommandations_id": []}

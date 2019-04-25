@@ -1,1 +1,0 @@
-{"tmdb_id": 506228, "title": "Il sogno dell'alieno", "original_title": "Il sogno dell'alieno", "slug_title": "il-sogno-dell-alieno", "date": "2013-02-19", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

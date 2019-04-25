@@ -1,1 +1,0 @@
-{"tmdb_id": 503281, "title": "Beyond the Shadows", "original_title": "Beyond the Shadows", "slug_title": "beyond-the-shadows", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

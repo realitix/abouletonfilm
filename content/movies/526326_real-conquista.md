@@ -1,1 +1,1 @@
-{"tmdb_id": 526326, "title": "Real Conquista", "original_title": "Real Conquista", "slug_title": "real-conquista", "date": "2018-05-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 526326, "title": "Real Conquista", "original_title": "Real Conquista", "slug_title": "real-conquista", "date": "2018-05-24", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

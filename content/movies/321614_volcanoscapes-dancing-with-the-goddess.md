@@ -1,1 +1,0 @@
-{"tmdb_id": 321614, "title": "VolcanoScapes... Dancing with the Goddess", "original_title": "VolcanoScapes... Dancing with the Goddess", "slug_title": "volcanoscapes-dancing-with-the-goddess", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

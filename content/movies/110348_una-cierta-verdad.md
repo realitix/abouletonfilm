@@ -1,1 +1,0 @@
-{"tmdb_id": 110348, "title": "Una cierta verdad", "original_title": "Una cierta verdad", "slug_title": "una-cierta-verdad", "date": "2008-10-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4guOz3Bbxx9inUWFBXVBqWQNCtt.jpg", "actors": [], "comments": [], "recommandations_id": []}

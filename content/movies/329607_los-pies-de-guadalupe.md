@@ -1,1 +1,0 @@
-{"tmdb_id": 329607, "title": "Los pies de Guadalupe", "original_title": "Los pies de Guadalupe", "slug_title": "los-pies-de-guadalupe", "date": "2014-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

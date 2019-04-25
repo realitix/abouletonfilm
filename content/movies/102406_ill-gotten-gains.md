@@ -1,1 +1,0 @@
-{"tmdb_id": 102406, "title": "Ill Gotten Gains", "original_title": "Ill Gotten Gains", "slug_title": "ill-gotten-gains", "date": "1997-12-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lAM25aWKKuPJMcEGdr3lR230iyM.jpg", "actors": [], "comments": [], "recommandations_id": []}

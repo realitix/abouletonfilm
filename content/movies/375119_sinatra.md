@@ -1,1 +1,0 @@
-{"tmdb_id": 375119, "title": "Sinatra", "original_title": "Sinatra", "slug_title": "sinatra", "date": "1969-11-05", "genre": "Musique", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aHiei9ODgJzvGr5snKZnzCPSgqh.jpg", "actors": ["Frank Sinatra ()", "Don Costa ()"], "comments": [], "recommandations_id": []}

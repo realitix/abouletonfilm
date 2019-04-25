@@ -1,1 +1,0 @@
-{"tmdb_id": 425051, "title": "Malenkiy Muk", "original_title": "Malenkiy Muk", "slug_title": "malenkiy-muk", "date": "1938-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 252657, "title": "Bob the Builder: Animal Adventures", "original_title": "Bob the Builder: Animal Adventures", "slug_title": "bob-the-builder-animal-adventures", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 449490, "title": "Courant D'air", "original_title": "Courant D'air", "slug_title": "courant-d-air", "date": "2011-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

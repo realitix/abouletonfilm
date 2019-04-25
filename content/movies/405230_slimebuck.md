@@ -1,1 +1,0 @@
-{"tmdb_id": 405230, "title": "Slimebuck", "original_title": "Slimebuck", "slug_title": "slimebuck", "date": "2014-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

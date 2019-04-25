@@ -1,1 +1,0 @@
-{"tmdb_id": 596760, "title": "Estelas", "original_title": "Estelas", "slug_title": "estelas", "date": "2019-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rHPmzYjbFH1fnuZLVEMwVr1RQ3h.jpg", "actors": [], "comments": [], "recommandations_id": []}

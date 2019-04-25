@@ -1,1 +1,0 @@
-{"tmdb_id": 283689, "title": "Die Flamme", "original_title": "Die Flamme", "slug_title": "die-flamme", "date": "1923-01-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/C2NZ6xoHRohmceN3HcMcVE6GDC.jpg", "actors": ["Pola Negri ()", "Hermann Thimig ()", "Alfred Abel ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 495665, "title": "Rouge Colorado", "original_title": "Rouge Colorado", "slug_title": "rouge-colorado", "date": "2012-09-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

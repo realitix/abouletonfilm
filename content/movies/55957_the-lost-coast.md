@@ -1,1 +1,0 @@
-{"tmdb_id": 55957, "title": "The Lost Coast", "original_title": "The Lost Coast", "slug_title": "the-lost-coast", "date": "2008-01-01", "genre": "Drame", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n4jr2wnh4vm1lqkpELrA2ShZgLf.jpg", "actors": [], "comments": [], "recommandations_id": [167973, 216693, 15737, 108614]}

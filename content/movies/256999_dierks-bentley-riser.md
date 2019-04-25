@@ -1,1 +1,0 @@
-{"tmdb_id": 256999, "title": "Dierks Bentley: Riser", "original_title": "Dierks Bentley: Riser", "slug_title": "dierks-bentley-riser", "date": "2014-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

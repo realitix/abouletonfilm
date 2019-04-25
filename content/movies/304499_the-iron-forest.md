@@ -1,1 +1,0 @@
-{"tmdb_id": 304499, "title": "The Iron Forest", "original_title": "The Iron Forest", "slug_title": "the-iron-forest", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

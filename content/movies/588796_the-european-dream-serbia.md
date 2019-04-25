@@ -1,1 +1,0 @@
-{"tmdb_id": 588796, "title": "The European Dream: Serbia", "original_title": "The European Dream: Serbia", "slug_title": "the-european-dream-serbia", "date": "2018-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sOzzdZDvdeTuoDUZE3vynPumquJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

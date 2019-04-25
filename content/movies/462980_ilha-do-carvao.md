@@ -1,1 +1,0 @@
-{"tmdb_id": 462980, "title": "Ilha do Carv\u00e3o", "original_title": "Ilha do Carv\u00e3o", "slug_title": "ilha-do-carvao", "date": "2017-06-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8sO9bQoCaQpbID1E2FB9Yeolf8U.jpg", "actors": [], "comments": [], "recommandations_id": []}

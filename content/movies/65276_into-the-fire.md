@@ -1,1 +1,0 @@
-{"tmdb_id": 65276, "title": "Into The Fire", "original_title": "Into The Fire", "slug_title": "into-the-fire", "date": "2011-04-11", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lyJe2dpz86Clrscx5YfhTg1v186.jpg", "actors": [], "comments": [], "recommandations_id": []}

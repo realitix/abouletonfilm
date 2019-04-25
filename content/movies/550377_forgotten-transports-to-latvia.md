@@ -1,1 +1,0 @@
-{"tmdb_id": 550377, "title": "Forgotten Transports to Latvia", "original_title": "Zapomenut\u00e9 transporty do Loty\u0161ska", "slug_title": "forgotten-transports-to-latvia", "date": "2007-11-28", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

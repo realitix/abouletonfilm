@@ -1,1 +1,0 @@
-{"tmdb_id": 380505, "title": "Puede Ako, Puwede Ka Pa Ba", "original_title": "Puede Ako, Puwede Ka Pa Ba", "slug_title": "puede-ako-puwede-ka-pa-ba", "date": "1976-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bWSSrOKK3x1OkZDO8flZByVryMw.jpg", "actors": [], "comments": [], "recommandations_id": []}

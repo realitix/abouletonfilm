@@ -1,1 +1,0 @@
-{"tmdb_id": 322872, "title": "Jade Miners", "original_title": "Wa yu shi de ren", "slug_title": "jade-miners", "date": "2015-01-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lA54WdvZB8RAAwpszsj1DRJnNGx.jpg", "actors": [], "comments": [], "recommandations_id": []}

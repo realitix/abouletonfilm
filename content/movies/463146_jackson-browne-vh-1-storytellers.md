@@ -1,1 +1,0 @@
-{"tmdb_id": 463146, "title": "Jackson Browne: VH-1 Storytellers", "original_title": "Jackson Browne: VH-1 Storytellers", "slug_title": "jackson-browne-vh-1-storytellers", "date": "1996-04-18", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jackson Browne (Himself)"], "comments": [], "recommandations_id": []}

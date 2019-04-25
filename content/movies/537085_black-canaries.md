@@ -1,1 +1,0 @@
-{"tmdb_id": 537085, "title": "Black Canaries", "original_title": "Black Canaries", "slug_title": "black-canaries", "date": "2016-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fLh8ZDHccNC3XdzArcSfK5SjYaQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 316768, "title": "Breaking of Branches is Forbidden", "original_title": "Hanaori", "slug_title": "breaking-of-branches-is-forbidden", "date": "1968-03-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8TURpnV208ny5BeLajSdgNT0yNf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 428727, "title": "Beach Events", "original_title": "Beach Events", "slug_title": "beach-events", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i4nB9JhLHdbdmuFVv8GWe3qPJQt.jpg", "actors": [], "comments": [], "recommandations_id": []}

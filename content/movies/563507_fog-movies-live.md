@@ -1,1 +1,0 @@
-{"tmdb_id": 563507, "title": "Fog Movies Live", "original_title": "Fog Movies Live", "slug_title": "fog-movies-live", "date": "2008-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r9uf4vFlucMne69Kx0i0FWVBVcp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 403058, "title": "Dan and Margot", "original_title": "Dan and Margot", "slug_title": "dan-and-margot", "date": "2016-02-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mwU7CtoFbzF9oHksOSEU1wQsRWA.jpg", "actors": [], "comments": [], "recommandations_id": []}

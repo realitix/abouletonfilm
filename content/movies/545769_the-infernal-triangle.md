@@ -1,1 +1,0 @@
-{"tmdb_id": 545769, "title": "The Infernal Triangle", "original_title": "The Infernal Triangle", "slug_title": "the-infernal-triangle", "date": "1935-08-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Phyllis Barry ()", "John Warburton ()", "John Williamson ()"], "comments": [], "recommandations_id": []}

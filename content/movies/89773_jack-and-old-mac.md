@@ -1,1 +1,0 @@
-{"tmdb_id": 89773, "title": "Jack and Old Mac", "original_title": "Jack and Old Mac", "slug_title": "jack-and-old-mac", "date": "1956-07-18", "genre": "Animation", "score": "4.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5KpCWj7mqKTkxq6i1G0IiIf34TQ.jpg", "actors": [], "comments": [], "recommandations_id": [93718, 97884, 53469, 67173]}

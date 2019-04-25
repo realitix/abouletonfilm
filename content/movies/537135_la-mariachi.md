@@ -1,1 +1,0 @@
-{"tmdb_id": 537135, "title": "La Mariachi", "original_title": "La Mariachi", "slug_title": "la-mariachi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cF5Y1Fbq6jFlmbIVYYCzuuMhSec.jpg", "actors": ["Nancy Velasco (Ella misma)", "Teo Saldivar (Ella misma)"], "comments": [], "recommandations_id": []}

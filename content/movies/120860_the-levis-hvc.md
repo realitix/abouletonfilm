@@ -1,1 +1,0 @@
-{"tmdb_id": 120860, "title": "The Levis HVC", "original_title": "The Levis HVC", "slug_title": "the-levis-hvc", "date": "2002-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sony Green (Voice Over)", "Dylan Murray (Pedestrian)", "Nicholas Markel (Pedestrian)"], "comments": [], "recommandations_id": []}

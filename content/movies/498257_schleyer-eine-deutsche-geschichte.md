@@ -1,1 +1,0 @@
-{"tmdb_id": 498257, "title": "Schleyer - Eine deutsche Geschichte", "original_title": "Schleyer - Eine deutsche Geschichte", "slug_title": "schleyer-eine-deutsche-geschichte", "date": "2003-07-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 513864, "title": "Digging Your Own Grave", "original_title": "Digging Your Own Grave", "slug_title": "digging-your-own-grave", "date": "1995-01-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andrew Macdonald ()", "Danny Boyle ()"], "comments": [], "recommandations_id": []}

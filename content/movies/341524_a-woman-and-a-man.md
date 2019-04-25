@@ -1,1 +1,0 @@
-{"tmdb_id": 341524, "title": "A Woman and a Man", "original_title": "Imra'ah wa ragoul", "slug_title": "a-woman-and-a-man", "date": "1971-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zCZmmKMZHgLAihcMEI945gRaziT.jpg", "actors": [], "comments": [], "recommandations_id": []}

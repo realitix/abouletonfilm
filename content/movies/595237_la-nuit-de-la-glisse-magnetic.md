@@ -1,1 +1,0 @@
-{"tmdb_id": 595237, "title": "La Nuit de la Glisse: Magnetic", "original_title": "La Nuit de la Glisse: Magnetic", "slug_title": "la-nuit-de-la-glisse-magnetic", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bzPUIKJmiDRlSvoKxXNdNQu9LeM.jpg", "actors": [], "comments": [], "recommandations_id": []}

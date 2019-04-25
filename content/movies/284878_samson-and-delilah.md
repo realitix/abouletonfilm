@@ -1,1 +1,0 @@
-{"tmdb_id": 284878, "title": "Samson and Delilah", "original_title": "Samson and Delilah", "slug_title": "samson-and-delilah", "date": "2007-08-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charles Alvez da Cruz ()", "Klara Uleman ()"], "comments": [], "recommandations_id": []}

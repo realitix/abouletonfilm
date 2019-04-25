@@ -1,1 +1,0 @@
-{"tmdb_id": 151551, "title": "The Woman in the Woods", "original_title": "Kvinnan i skogen", "slug_title": "the-woman-in-the-woods", "date": "2012-12-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

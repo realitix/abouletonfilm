@@ -1,1 +1,0 @@
-{"tmdb_id": 199210, "title": "Le Toit du Japon", "original_title": "\u767d\u3044\u5c71\u8108", "slug_title": "le-toit-du-japon", "date": "1957-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k0ZxdFhQuWJL9Q5dz56yDbIiahc.jpg", "actors": [], "comments": [], "recommandations_id": []}

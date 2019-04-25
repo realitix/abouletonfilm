@@ -1,1 +1,0 @@
-{"tmdb_id": 278789, "title": "Dinner and Driving", "original_title": "Dinner and Driving", "slug_title": "dinner-and-driving", "date": "1997-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Caroline Aaron (Roz)"], "comments": [], "recommandations_id": []}

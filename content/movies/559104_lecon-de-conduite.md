@@ -1,1 +1,0 @@
-{"tmdb_id": 559104, "title": "Le\u00e7on de conduite", "original_title": "Le\u00e7on de conduite", "slug_title": "lecon-de-conduite", "date": "1946-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jZ9H9tJXYANmBy7mY7erKSc4idi.jpg", "actors": [], "comments": [], "recommandations_id": []}

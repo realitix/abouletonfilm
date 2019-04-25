@@ -1,1 +1,0 @@
-{"tmdb_id": 494024, "title": "Hollywood Runaround", "original_title": "Hollywood Runaround", "slug_title": "hollywood-runaround", "date": "1932-12-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Monte Collins ()"], "comments": [], "recommandations_id": []}

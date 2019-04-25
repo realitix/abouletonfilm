@@ -1,1 +1,0 @@
-{"tmdb_id": 444758, "title": "Mr. Sandman", "original_title": "Mr. Sandman", "slug_title": "mr-sandman", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

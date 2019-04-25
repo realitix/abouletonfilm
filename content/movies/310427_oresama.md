@@ -1,1 +1,0 @@
-{"tmdb_id": 310427, "title": "Oresama", "original_title": "\u304a\u308c\u3055\u307e", "slug_title": "oresama", "date": "2003-08-28", "genre": "Drame", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jxCpIxfuFB7icSenaojrl8TnH4N.jpg", "actors": ["Miyavi (Miyavi)", "Hassei Takano (Shiini)"], "comments": [], "recommandations_id": []}

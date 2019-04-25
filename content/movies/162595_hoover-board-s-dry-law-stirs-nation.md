@@ -1,1 +1,0 @@
-{"tmdb_id": 162595, "title": "Hoover Board's Dry Law Stirs Nation", "original_title": "Hoover Board's Dry Law Stirs Nation", "slug_title": "hoover-board-s-dry-law-stirs-nation", "date": "1931-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George W. Wickersham (Himself)"], "comments": [], "recommandations_id": []}

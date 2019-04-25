@@ -1,1 +1,0 @@
-{"tmdb_id": 232686, "title": "Kong Haakons Kroning i Trondhjem", "original_title": "Kong Haakons Kroning i Trondhjem", "slug_title": "kong-haakons-kroning-i-trondhjem", "date": "1906-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

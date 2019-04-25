@@ -1,1 +1,0 @@
-{"tmdb_id": 518358, "title": "Pinchaque, the Colombian Tapir", "original_title": "Pinchaque, le tapir colombien", "slug_title": "pinchaque-the-colombian-tapir", "date": "2014-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

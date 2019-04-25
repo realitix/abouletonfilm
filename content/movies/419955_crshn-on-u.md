@@ -1,1 +1,0 @@
-{"tmdb_id": 419955, "title": "CRSHN ON U", "original_title": "CRSHN ON U", "slug_title": "crshn-on-u", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

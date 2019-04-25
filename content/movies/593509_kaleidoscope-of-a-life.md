@@ -1,1 +1,0 @@
-{"tmdb_id": 593509, "title": "Kaleidoscope of a Life", "original_title": "Kale\u00efdoscope d'une vie", "slug_title": "kaleidoscope-of-a-life", "date": "2016-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pW0V5D3czNzgP7zZLU9ONYO2DBt.jpg", "actors": [], "comments": [], "recommandations_id": []}

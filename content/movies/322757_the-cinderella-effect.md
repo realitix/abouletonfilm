@@ -1,1 +1,0 @@
-{"tmdb_id": 322757, "title": "The Cinderella Effect", "original_title": "The Cinderella Effect", "slug_title": "the-cinderella-effect", "date": "2012-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 557640, "title": "Rudarska opera", "original_title": "Rudarska opera", "slug_title": "rudarska-opera", "date": "2006-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

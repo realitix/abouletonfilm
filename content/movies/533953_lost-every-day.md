@@ -1,1 +1,0 @@
-{"tmdb_id": 533953, "title": "Lost Every Day", "original_title": "Lost Every Day", "slug_title": "lost-every-day", "date": "2010-08-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

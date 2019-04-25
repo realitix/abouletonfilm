@@ -1,1 +1,0 @@
-{"tmdb_id": 485146, "title": "Billy's BootCamp: Basic Training Bootcamp", "original_title": "Billy's BootCamp: Basic Training Bootcamp", "slug_title": "billy-s-bootcamp-basic-training-bootcamp", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Billy Blanks (Billy Blanks)"], "comments": [], "recommandations_id": []}

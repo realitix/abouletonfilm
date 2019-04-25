@@ -1,1 +1,0 @@
-{"tmdb_id": 304720, "title": "Padikkaathavan", "original_title": "Padikkaathavan", "slug_title": "padikkaathavan", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

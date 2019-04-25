@@ -1,1 +1,0 @@
-{"tmdb_id": 582000, "title": "Plants of the Underworld", "original_title": "Plants of the Underworld", "slug_title": "plants-of-the-underworld", "date": "1930-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["E.V.H. Emmett (Himself - Narrator)"], "comments": [], "recommandations_id": []}

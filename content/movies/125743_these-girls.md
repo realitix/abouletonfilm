@@ -1,1 +1,0 @@
-{"tmdb_id": 125743, "title": "These Girls", "original_title": "El-banate dol", "slug_title": "these-girls", "date": "2006-09-08", "genre": "Com\u00e9die / Romance", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iK1ZUdQoIW7tUiet0fVwtSuVV6n.jpg", "actors": [], "comments": [], "recommandations_id": []}

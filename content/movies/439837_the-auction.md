@@ -1,1 +1,0 @@
-{"tmdb_id": 439837, "title": "The Auction", "original_title": "The Auction", "slug_title": "the-auction", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c99KaA2eloK8N24JbQmx3WvnWoZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

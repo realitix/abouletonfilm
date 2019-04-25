@@ -1,1 +1,0 @@
-{"tmdb_id": 92363, "title": "The Animated Book of Mormon", "original_title": "The Animated Book of Mormon", "slug_title": "the-animated-book-of-mormon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

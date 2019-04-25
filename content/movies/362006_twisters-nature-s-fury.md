@@ -1,1 +1,0 @@
-{"tmdb_id": 362006, "title": "Twisters! Nature's Fury", "original_title": "Twisters! Nature's Fury", "slug_title": "twisters-nature-s-fury", "date": "1996-09-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oc7a4j3dKnZ0EhhvLpeyfTfiIeP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 309032, "title": "August is Coming Home", "original_title": "Uuwi Na Si August", "slug_title": "august-is-coming-home", "date": "2014-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aH12adzuPGX7RTkaFc9eUu7GJpd.jpg", "actors": [], "comments": [], "recommandations_id": []}

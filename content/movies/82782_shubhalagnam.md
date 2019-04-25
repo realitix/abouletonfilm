@@ -1,1 +1,0 @@
-{"tmdb_id": 82782, "title": "Shubhalagnam", "original_title": "Shubhalagnam", "slug_title": "shubhalagnam", "date": "1994-10-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6NSPT94JTsAF89xBAP1CSFPHT3e.jpg", "actors": [], "comments": [], "recommandations_id": []}

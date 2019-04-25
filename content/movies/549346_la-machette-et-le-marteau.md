@@ -1,1 +1,0 @@
-{"tmdb_id": 549346, "title": "La machette et le marteau", "original_title": "La machette et le marteau", "slug_title": "la-machette-et-le-marteau", "date": "1975-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

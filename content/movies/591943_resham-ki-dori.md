@@ -1,1 +1,0 @@
-{"tmdb_id": 591943, "title": "Resham Ki Dori", "original_title": "Resham Ki Dori", "slug_title": "resham-ki-dori", "date": "1974-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/60UJVMiNWeaJsteYTF1iBT4gY4K.jpg", "actors": ["Saira Banu ()", "Dharmendra ()"], "comments": [], "recommandations_id": []}

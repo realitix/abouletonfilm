@@ -1,1 +1,0 @@
-{"tmdb_id": 476624, "title": "Wool and Snow", "original_title": "A L\u00e3 e a Neve", "slug_title": "wool-and-snow", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xneYvHNqRGHWejK21Qv0izJ29cc.jpg", "actors": [], "comments": [], "recommandations_id": []}

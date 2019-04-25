@@ -1,1 +1,0 @@
-{"tmdb_id": 318476, "title": "Non Ti Scordar Di Me", "original_title": "Non Ti Scordar Di Me", "slug_title": "non-ti-scordar-di-me", "date": "1935-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 304380, "title": "Maison Fifi", "original_title": "Maison Fifi", "slug_title": "maison-fifi", "date": "1914-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Axel Breidahl ()", "Viggo Larsen ()", "Max Lehmann ()", "Wanda Treumann (Fifi)", "Helene Vo\u00df ()"], "comments": [], "recommandations_id": []}

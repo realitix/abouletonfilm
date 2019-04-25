@@ -1,1 +1,0 @@
-{"tmdb_id": 413902, "title": "De Blinde Fotograaf", "original_title": "De Blinde Fotograaf", "slug_title": "de-blinde-fotograaf", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

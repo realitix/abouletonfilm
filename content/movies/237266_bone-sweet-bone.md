@@ -1,1 +1,0 @@
-{"tmdb_id": 237266, "title": "Bone Sweet Bone", "original_title": "Bone Sweet Bone", "slug_title": "bone-sweet-bone", "date": "1948-05-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6QtkfHclHhhpBMDZFXgATpo0KTW.jpg", "actors": ["Mel Blanc (Curator / Shep (voice))"], "comments": [], "recommandations_id": []}

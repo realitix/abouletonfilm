@@ -1,1 +1,0 @@
-{"tmdb_id": 312348, "title": "Best Motoring International: American Touge 3", "original_title": "Best Motoring International: American Touge 3", "slug_title": "best-motoring-international-american-touge-3", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

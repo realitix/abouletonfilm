@@ -1,1 +1,0 @@
-{"tmdb_id": 276921, "title": "Wrong Side of the Bus", "original_title": "Wrong Side of the Bus", "slug_title": "wrong-side-of-the-bus", "date": "2009-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

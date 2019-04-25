@@ -1,1 +1,0 @@
-{"tmdb_id": 348606, "title": "Downhill", "original_title": "Cuesta Abajo", "slug_title": "downhill", "date": "1995-05-18", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Q6UQ8jYhjo2cwS4K7W9F1ewrEH.jpg", "actors": ["Marcelo Videla ()", "H\u00e9ctor Anglada ()"], "comments": [], "recommandations_id": []}

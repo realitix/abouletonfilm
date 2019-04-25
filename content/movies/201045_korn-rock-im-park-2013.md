@@ -1,1 +1,0 @@
-{"tmdb_id": 201045, "title": "KoRn: Rock Im Park 2013", "original_title": "KoRn: Rock Im Park 2013", "slug_title": "korn-rock-im-park-2013", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

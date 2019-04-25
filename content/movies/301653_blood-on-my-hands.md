@@ -1,1 +1,0 @@
-{"tmdb_id": 301653, "title": "Blood on My Hands", "original_title": "Blood on My Hands", "slug_title": "blood-on-my-hands", "date": "2006-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

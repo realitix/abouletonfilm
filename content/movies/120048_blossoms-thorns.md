@@ -1,1 +1,0 @@
-{"tmdb_id": 120048, "title": "Blossoms & Thorns", "original_title": "Blossoms & Thorns", "slug_title": "blossoms-thorns", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

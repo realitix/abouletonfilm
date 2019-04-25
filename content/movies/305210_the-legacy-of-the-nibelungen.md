@@ -1,1 +1,0 @@
-{"tmdb_id": 305210, "title": "The Legacy of the Nibelungen", "original_title": "Das Erbe der Nibelungen", "slug_title": "the-legacy-of-the-nibelungen", "date": "2011-10-03", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wOWpTFWH18DACQicmUhCefB05Aw.jpg", "actors": [], "comments": [], "recommandations_id": []}

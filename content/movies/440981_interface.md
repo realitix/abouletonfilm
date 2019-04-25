@@ -1,1 +1,0 @@
-{"tmdb_id": 440981, "title": "Interface", "original_title": "Interface", "slug_title": "interface", "date": "2016-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9IXOGeGI6cVKyfMOcwKzyfC4Kak.jpg", "actors": [], "comments": [], "recommandations_id": []}

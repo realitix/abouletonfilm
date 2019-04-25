@@ -1,1 +1,0 @@
-{"tmdb_id": 355896, "title": "Chegada do Trem em Petr\u00f3polis", "original_title": "Chegada do Trem em Petr\u00f3polis", "slug_title": "chegada-do-trem-em-petropolis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

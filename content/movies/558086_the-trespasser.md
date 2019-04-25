@@ -1,1 +1,0 @@
-{"tmdb_id": 558086, "title": "The Trespasser", "original_title": "The Trespasser", "slug_title": "the-trespasser", "date": "2018-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

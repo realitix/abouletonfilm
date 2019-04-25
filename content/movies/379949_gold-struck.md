@@ -1,1 +1,0 @@
-{"tmdb_id": 379949, "title": "Gold Struck", "original_title": "Gold Struck", "slug_title": "gold-struck", "date": "1974-01-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Holt (Hoot Kloot / Fester (voice))", "Larry D. Mann ((voice))"], "comments": [], "recommandations_id": []}

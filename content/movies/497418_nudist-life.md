@@ -1,1 +1,0 @@
-{"tmdb_id": 497418, "title": "Nudist Life", "original_title": "Nudist Life", "slug_title": "nudist-life", "date": "1961-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frank Decker (Narrator (voice))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 538606, "title": "Camorra", "original_title": "Camorra", "slug_title": "camorra", "date": "2018-09-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i4xjytpI0HgUfmV8Pf3SXRQ8hWF.jpg", "actors": [], "comments": [], "recommandations_id": []}

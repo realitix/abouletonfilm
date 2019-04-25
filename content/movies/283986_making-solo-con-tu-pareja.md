@@ -1,1 +1,0 @@
-{"tmdb_id": 283986, "title": "Making 'S\u00f3lo con tu pareja'", "original_title": "Making 'S\u00f3lo con tu pareja'", "slug_title": "making-solo-con-tu-pareja", "date": "2006-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/92qrGrLgSW5XcbZIWXIWCpfNLLx.jpg", "actors": [], "comments": [], "recommandations_id": []}

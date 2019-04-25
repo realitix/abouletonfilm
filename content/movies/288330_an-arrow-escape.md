@@ -1,1 +1,0 @@
-{"tmdb_id": 288330, "title": "An Arrow Escape", "original_title": "An Arrow Escape", "slug_title": "an-arrow-escape", "date": "1936-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

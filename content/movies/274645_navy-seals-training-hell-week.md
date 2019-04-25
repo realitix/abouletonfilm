@@ -1,1 +1,0 @@
-{"tmdb_id": 274645, "title": "Navy SEALs Training: Hell Week", "original_title": "Navy SEALs Training: Hell Week", "slug_title": "navy-seals-training-hell-week", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

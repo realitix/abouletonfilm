@@ -1,1 +1,0 @@
-{"tmdb_id": 581522, "title": "Meat the Future", "original_title": "Meat the Future", "slug_title": "meat-the-future", "date": "2019-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Uma Valeti ()", "Bruce Friedrich ()"], "comments": [], "recommandations_id": []}

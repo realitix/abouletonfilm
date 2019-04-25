@@ -1,1 +1,0 @@
-{"tmdb_id": 510878, "title": "James Bond Collectie", "original_title": "James Bond Collectie", "slug_title": "james-bond-collectie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

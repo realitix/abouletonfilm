@@ -1,1 +1,0 @@
-{"tmdb_id": 333340, "title": "Temporary Spirits", "original_title": "Temporary Spirits", "slug_title": "temporary-spirits", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

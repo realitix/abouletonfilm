@@ -1,1 +1,0 @@
-{"tmdb_id": 259628, "title": "Skiing Everest", "original_title": "Skiing Everest", "slug_title": "skiing-everest", "date": "2009-01-10", "genre": "Documentaire", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yw4mU3s8qsNiaUKmiyFxkDCuNOI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 325934, "title": "Iwo Jima: Memories in Sand", "original_title": "Iwo Jima: Memories in Sand", "slug_title": "iwo-jima-memories-in-sand", "date": "2001-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 331834, "title": "First step", "original_title": "Premier pas", "slug_title": "first-step", "date": "1980-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 44080, "title": "Twilight", "original_title": "Saye roshan", "slug_title": "twilight", "date": "2001-01-01", "genre": "Drame / Thriller", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

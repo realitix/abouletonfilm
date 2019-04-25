@@ -1,1 +1,0 @@
-{"tmdb_id": 484856, "title": "Ballerina I'm Not", "original_title": "Ballerina I'm Not", "slug_title": "ballerina-i-m-not", "date": "2017-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aUiLuhfIUUsuO771iZovDll3LEI.jpg", "actors": [], "comments": [], "recommandations_id": []}

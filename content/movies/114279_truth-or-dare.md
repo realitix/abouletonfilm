@@ -1,1 +1,0 @@
-{"tmdb_id": 114279, "title": "Truth or Dare", "original_title": "Truth or Dare", "slug_title": "truth-or-dare", "date": "1996-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gL25wHctUcY7qHulyTbsEvj66kJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

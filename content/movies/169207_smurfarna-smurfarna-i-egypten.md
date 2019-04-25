@@ -1,1 +1,0 @@
-{"tmdb_id": 169207, "title": "Smurfarna - Smurfarna i Egypten", "original_title": "Smurfarna - Smurfarna i Egypten", "slug_title": "smurfarna-smurfarna-i-egypten", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gf8ChmYRsL0GTtdNSnDXoj6tcZK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 540081, "title": "Henrique e a Morte", "original_title": "Henrique e a Morte", "slug_title": "henrique-e-a-morte", "date": "2016-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 244879, "title": "Blues Highway", "original_title": "Blues Highway", "slug_title": "blues-highway", "date": "1994-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

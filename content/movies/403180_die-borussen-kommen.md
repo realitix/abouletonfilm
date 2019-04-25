@@ -1,1 +1,0 @@
-{"tmdb_id": 403180, "title": "Die Borussen kommen", "original_title": "Die Borussen kommen", "slug_title": "die-borussen-kommen", "date": "1964-02-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nVpnbTSIJ6RXZ7HMnUiqPgG7fAV.jpg", "actors": [], "comments": [], "recommandations_id": []}

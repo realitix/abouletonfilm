@@ -1,1 +1,0 @@
-{"tmdb_id": 236153, "title": "Porky the Gob", "original_title": "Porky the Gob", "slug_title": "porky-the-gob", "date": "1938-12-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cJz5xJs7KGlrI4ssCv2fIsYf0ep.jpg", "actors": ["Mel Blanc (Porky Pig (voice))"], "comments": [], "recommandations_id": []}

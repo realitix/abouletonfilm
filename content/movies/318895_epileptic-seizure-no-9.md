@@ -1,1 +1,0 @@
-{"tmdb_id": 318895, "title": "Epileptic Seizure, No. 9", "original_title": "Epileptic Seizure, No. 9", "slug_title": "epileptic-seizure-no-9", "date": "1906-01-17", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

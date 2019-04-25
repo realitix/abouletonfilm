@@ -1,1 +1,0 @@
-{"tmdb_id": 364754, "title": "Hush Hush", "original_title": "Hush Hush", "slug_title": "hush-hush", "date": "", "genre": "Romance / Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

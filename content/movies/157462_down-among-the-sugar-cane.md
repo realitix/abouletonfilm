@@ -1,1 +1,0 @@
-{"tmdb_id": 157462, "title": "Down Among the Sugar Cane", "original_title": "Down Among the Sugar Cane", "slug_title": "down-among-the-sugar-cane", "date": "1932-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

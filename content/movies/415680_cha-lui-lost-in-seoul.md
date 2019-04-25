@@ -1,1 +1,0 @@
-{"tmdb_id": 415680, "title": "Cha-lui: Lost in Seoul", "original_title": "Cha-lui: Lost in Seoul", "slug_title": "cha-lui-lost-in-seoul", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/koVprPWlpO3HBtxnOBA1B9xyvYL.jpg", "actors": [], "comments": [], "recommandations_id": []}

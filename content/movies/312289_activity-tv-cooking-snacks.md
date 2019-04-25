@@ -1,1 +1,0 @@
-{"tmdb_id": 312289, "title": "Activity TV: Cooking Snacks", "original_title": "Activity TV: Cooking Snacks", "slug_title": "activity-tv-cooking-snacks", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

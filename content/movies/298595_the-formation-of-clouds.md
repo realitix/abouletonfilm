@@ -1,1 +1,0 @@
-{"tmdb_id": 298595, "title": "The Formation of Clouds", "original_title": "La formation des nuages", "slug_title": "the-formation-of-clouds", "date": "2011-02-12", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n5a3VTGgvXfde4eOl7sFNS7HYff.jpg", "actors": [], "comments": [], "recommandations_id": []}

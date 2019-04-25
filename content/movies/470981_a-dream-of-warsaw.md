@@ -1,1 +1,0 @@
-{"tmdb_id": 470981, "title": "A Dream of Warsaw", "original_title": "Sen o Warszawie", "slug_title": "a-dream-of-warsaw", "date": "2014-11-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8KllBKNWpoZNxsXMojIgMoMlh9t.jpg", "actors": ["Czes\u0142aw Niemen ()"], "comments": [], "recommandations_id": []}

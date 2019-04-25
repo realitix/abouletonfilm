@@ -1,1 +1,0 @@
-{"tmdb_id": 413458, "title": "R\u00e9publique", "original_title": "R\u00e9publique", "slug_title": "republique", "date": "2016-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h7o258p5yjgGzNYvkpTHqMiHe9e.jpg", "actors": [], "comments": [], "recommandations_id": []}

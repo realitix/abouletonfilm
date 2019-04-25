@@ -1,1 +1,0 @@
-{"tmdb_id": 343633, "title": "D-construir", "original_title": "D-construir", "slug_title": "d-construir", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vlMgvuCc6z6C1v01dszGmcBOBaO.jpg", "actors": [], "comments": [], "recommandations_id": []}

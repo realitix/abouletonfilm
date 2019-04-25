@@ -1,1 +1,0 @@
-{"tmdb_id": 471701, "title": "Foreign Films", "original_title": "Foreign Films", "slug_title": "foreign-films", "date": "2003-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/btSLPg4BldK48jV6Lj6KjFmmTaf.jpg", "actors": ["Will Haven ()"], "comments": [], "recommandations_id": []}

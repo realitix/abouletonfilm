@@ -1,1 +1,0 @@
-{"tmdb_id": 368077, "title": "Betrayal of Trust", "original_title": "Betrayal of Trust", "slug_title": "betrayal-of-trust", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

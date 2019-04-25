@@ -1,1 +1,0 @@
-{"tmdb_id": 544694, "title": "As Margens do Diana", "original_title": "As Margens do Diana", "slug_title": "as-margens-do-diana", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

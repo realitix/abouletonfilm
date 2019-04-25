@@ -1,1 +1,0 @@
-{"tmdb_id": 202353, "title": "All Hams on Deck", "original_title": "All Hams on Deck", "slug_title": "all-hams-on-deck", "date": "1970-11-08", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jBj020IPl7kH7Krn5uHEDub02wK.jpg", "actors": [], "comments": [], "recommandations_id": []}

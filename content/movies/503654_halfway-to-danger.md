@@ -1,1 +1,0 @@
-{"tmdb_id": 503654, "title": "Halfway to Danger", "original_title": "Halfway to Danger", "slug_title": "halfway-to-danger", "date": "1975-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

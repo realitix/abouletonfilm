@@ -1,1 +1,0 @@
-{"tmdb_id": 349973, "title": "The Garden of Ecos", "original_title": "Le jardin d'\u00c9cos", "slug_title": "the-garden-of-ecos", "date": "1997-07-19", "genre": "Drame / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zojIdE5ikqP9aNskRvhrleRHGN7.jpg", "actors": [], "comments": [], "recommandations_id": []}

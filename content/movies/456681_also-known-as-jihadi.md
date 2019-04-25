@@ -1,1 +1,0 @@
-{"tmdb_id": 456681, "title": "Also Known as Jihadi", "original_title": "Also Known as Jihadi", "slug_title": "also-known-as-jihadi", "date": "2017-03-11", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p9iIpO4GLbBL6lqGmTYGNUDIJPv.jpg", "actors": [], "comments": [], "recommandations_id": []}

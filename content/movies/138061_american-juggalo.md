@@ -1,1 +1,0 @@
-{"tmdb_id": 138061, "title": "American Juggalo", "original_title": "American Juggalo", "slug_title": "american-juggalo", "date": "2011-09-25", "genre": "Documentaire / Musique", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2c0IMFRdJ86tLIwakpiE4uO1vsl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 354113, "title": "Striking Daughter", "original_title": "\u6253\u3064\u5a18\u30b5\u30e6\u30ea", "slug_title": "striking-daughter", "date": "2003-01-01", "genre": "Animation", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

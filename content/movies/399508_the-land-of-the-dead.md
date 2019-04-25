@@ -1,1 +1,0 @@
-{"tmdb_id": 399508, "title": "The Land of the Dead", "original_title": "The Land of the Dead", "slug_title": "the-land-of-the-dead", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Q7GIOvM1q5f6JbP6yLjbToak7M.jpg", "actors": [], "comments": [], "recommandations_id": []}

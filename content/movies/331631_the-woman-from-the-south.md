@@ -1,1 +1,0 @@
-{"tmdb_id": 331631, "title": "The Woman from the South", "original_title": "al-Janubiyya", "slug_title": "the-woman-from-the-south", "date": "1984-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

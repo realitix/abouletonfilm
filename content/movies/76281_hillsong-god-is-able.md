@@ -1,1 +1,0 @@
-{"tmdb_id": 76281, "title": "Hillsong - God Is Able", "original_title": "Hillsong - God Is Able", "slug_title": "hillsong-god-is-able", "date": "2011-07-05", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gqgRGmalTVQrYYVjTEim0oFKdW1.jpg", "actors": [], "comments": [], "recommandations_id": []}

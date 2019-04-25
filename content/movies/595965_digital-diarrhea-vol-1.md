@@ -1,1 +1,0 @@
-{"tmdb_id": 595965, "title": "Digital Diarrhea Vol. 1", "original_title": "Digital Diarrhea Vol. 1", "slug_title": "digital-diarrhea-vol-1", "date": "2006-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6NKEHiaAbfK8WpFjv2zaiMh3lnz.jpg", "actors": [], "comments": [], "recommandations_id": []}

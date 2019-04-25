@@ -1,1 +1,0 @@
-{"tmdb_id": 274725, "title": "The Clash: Up Close and Personal", "original_title": "The Clash: Up Close and Personal", "slug_title": "the-clash-up-close-and-personal", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["The Clash ()"], "comments": [], "recommandations_id": []}

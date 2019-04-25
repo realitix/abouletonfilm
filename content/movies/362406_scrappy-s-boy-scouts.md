@@ -1,1 +1,0 @@
-{"tmdb_id": 362406, "title": "Scrappy's Boy Scouts", "original_title": "Scrappy's Boy Scouts", "slug_title": "scrappy-s-boy-scouts", "date": "1936-01-02", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

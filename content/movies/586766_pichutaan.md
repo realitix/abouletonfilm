@@ -1,1 +1,0 @@
-{"tmdb_id": 586766, "title": "Pichutaan", "original_title": "Pichutaan", "slug_title": "pichutaan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qaDunPvYfDQRy4YYnRFT97k2T2J.jpg", "actors": [], "comments": [], "recommandations_id": []}

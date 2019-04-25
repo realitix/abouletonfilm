@@ -1,1 +1,0 @@
-{"tmdb_id": 494174, "title": "Mast Challay Aamcha", "original_title": "Mast Challay Aamcha", "slug_title": "mast-challay-aamcha", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

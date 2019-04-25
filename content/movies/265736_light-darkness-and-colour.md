@@ -1,1 +1,0 @@
-{"tmdb_id": 265736, "title": "Light Darkness and Colour", "original_title": "Light Darkness and Colour", "slug_title": "light-darkness-and-colour", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Tateson (Narrator)"], "comments": [], "recommandations_id": []}

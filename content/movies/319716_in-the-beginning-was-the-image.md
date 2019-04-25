@@ -1,1 +1,0 @@
-{"tmdb_id": 319716, "title": "In the Beginning Was the Image", "original_title": "In the Beginning Was the Image", "slug_title": "in-the-beginning-was-the-image", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

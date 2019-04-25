@@ -1,1 +1,0 @@
-{"tmdb_id": 522380, "title": "When the Dogs Talked", "original_title": "When the Dogs Talked", "slug_title": "when-the-dogs-talked", "date": "2014-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

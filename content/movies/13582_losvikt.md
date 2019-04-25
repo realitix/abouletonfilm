@@ -1,1 +1,0 @@
-{"tmdb_id": 13582, "title": "L\u00f6svikt", "original_title": "L\u00f6svikt", "slug_title": "losvikt", "date": "2008-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/noFmarzdFlvvMD2a4swJrCxRuoi.jpg", "actors": ["Robert Gustafsson (Robert Gustafsson)"], "comments": [], "recommandations_id": []}

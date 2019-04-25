@@ -1,1 +1,0 @@
-{"tmdb_id": 381580, "title": "The Comic", "original_title": "The Comic", "slug_title": "the-comic", "date": "1969-11-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Cole (Tod)", "Isabel Dean (Peggy)", "Ren\u00e9e Houston (Olive)", "Hilary Dwyer (Judy)"], "comments": [], "recommandations_id": []}

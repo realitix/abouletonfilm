@@ -1,1 +1,0 @@
-{"tmdb_id": 353014, "title": "Paulina Is Leaving", "original_title": "Paulina s'en va", "slug_title": "paulina-is-leaving", "date": "1969-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gffwLcFf9vnf2jcofW7XT1Lqq3t.jpg", "actors": ["Bulle Ogier ()"], "comments": [], "recommandations_id": []}

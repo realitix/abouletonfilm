@@ -1,1 +1,1 @@
-{"tmdb_id": 565710, "title": "Holsteinherz", "original_title": "Holsteinherz", "slug_title": "holsteinherz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 565710, "title": "Holsteinherz", "original_title": "Holsteinherz", "slug_title": "holsteinherz", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

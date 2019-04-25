@@ -1,1 +1,0 @@
-{"tmdb_id": 365310, "title": "A Souvenir from Switzerland", "original_title": "Kong fak jak Switzerland", "slug_title": "a-souvenir-from-switzerland", "date": "2015-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sorayos Prapapan ()", "Piyakul Phusri ()"], "comments": [], "recommandations_id": []}

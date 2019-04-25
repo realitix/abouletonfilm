@@ -1,1 +1,0 @@
-{"tmdb_id": 265492, "title": "\u00c9loge du chiac", "original_title": "\u00c9loge du chiac", "slug_title": "eloge-du-chiac", "date": "1969-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qrwsNnhzCHsg8pzctiNIdXF6zAR.jpg", "actors": [], "comments": [], "recommandations_id": []}

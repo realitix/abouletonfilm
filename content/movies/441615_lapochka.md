@@ -1,1 +1,0 @@
-{"tmdb_id": 441615, "title": "\u041b\u0430\u043f\u043e\u0447\u043a\u0430", "original_title": "\u041b\u0430\u043f\u043e\u0447\u043a\u0430", "slug_title": "lapochka", "date": "1986-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nVq1xKqo1EyrrraXuqkosJK0BV9.jpg", "actors": [], "comments": [], "recommandations_id": []}

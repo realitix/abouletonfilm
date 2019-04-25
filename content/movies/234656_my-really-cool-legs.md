@@ -1,1 +1,0 @@
-{"tmdb_id": 234656, "title": "My Really Cool Legs!", "original_title": "My Really Cool Legs!", "slug_title": "my-really-cool-legs", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y8hdqYmS4HmV1Sk62OYQVuDWqam.jpg", "actors": [], "comments": [], "recommandations_id": []}

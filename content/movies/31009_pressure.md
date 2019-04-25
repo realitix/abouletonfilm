@@ -1,1 +1,0 @@
-{"tmdb_id": 31009, "title": "Pressure", "original_title": "Pressure", "slug_title": "pressure", "date": "2002-02-20", "genre": "Action / Drame / Thriller", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6wRCJMbSfYvN9t6iy4KSkYFUkqb.jpg", "actors": ["Kerr Smith ()", "Lochlyn Munro ()"], "comments": [], "recommandations_id": []}

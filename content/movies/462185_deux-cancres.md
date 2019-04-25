@@ -1,1 +1,0 @@
-{"tmdb_id": 462185, "title": "Deux Cancres", "original_title": "Deux Cancres", "slug_title": "deux-cancres", "date": "2017-05-26", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ZCEnVIkvs710nP5vL4ZrNW9tQr.jpg", "actors": ["Ludovic Vieuille ()"], "comments": [], "recommandations_id": []}

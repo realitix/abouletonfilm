@@ -1,1 +1,0 @@
-{"tmdb_id": 455618, "title": "Rock & Choir", "original_title": "Rock & Choir", "slug_title": "rock-choir", "date": "2013-01-22", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uPaAUc3STfGAbFFU6sl5eqMIgsl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 360266, "title": "Red Cabbages", "original_title": "Red Cabbages", "slug_title": "red-cabbages", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

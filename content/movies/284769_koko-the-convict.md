@@ -1,1 +1,0 @@
-{"tmdb_id": 284769, "title": "Koko the Convict", "original_title": "Koko the Convict", "slug_title": "koko-the-convict", "date": "1926-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

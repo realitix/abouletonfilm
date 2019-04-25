@@ -1,1 +1,0 @@
-{"tmdb_id": 510890, "title": "Tintico's Afternoons", "original_title": "Las Tardes de Tintico", "slug_title": "tintico-s-afternoons", "date": "2012-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

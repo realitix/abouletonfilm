@@ -1,1 +1,0 @@
-{"tmdb_id": 414774, "title": "Sweet Sounds", "original_title": "Sweet Sounds", "slug_title": "sweet-sounds", "date": "1976-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9V3DjeK2jtV3pdxqx8gEIhmK5w8.jpg", "actors": [], "comments": [], "recommandations_id": []}

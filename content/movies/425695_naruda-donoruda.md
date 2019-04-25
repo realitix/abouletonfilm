@@ -1,1 +1,0 @@
-{"tmdb_id": 425695, "title": "Naruda Donoruda", "original_title": "Naruda Donoruda", "slug_title": "naruda-donoruda", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

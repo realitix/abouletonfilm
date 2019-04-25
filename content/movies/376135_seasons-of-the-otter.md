@@ -1,1 +1,0 @@
-{"tmdb_id": 376135, "title": "Seasons of the Otter", "original_title": "Seasons of the Otter", "slug_title": "seasons-of-the-otter", "date": "2010-01-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yWOmLTkFZmMzECERBNJefZTwibo.jpg", "actors": [], "comments": [], "recommandations_id": []}

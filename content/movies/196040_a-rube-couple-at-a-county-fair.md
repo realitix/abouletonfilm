@@ -1,1 +1,0 @@
-{"tmdb_id": 196040, "title": "A Rube Couple at a County Fair", "original_title": "A Rube Couple at a County Fair", "slug_title": "a-rube-couple-at-a-county-fair", "date": "1904-11-22", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

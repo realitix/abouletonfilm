@@ -1,1 +1,0 @@
-{"tmdb_id": 263370, "title": "Hunting Time", "original_title": "Av Zamani", "slug_title": "hunting-time", "date": "1988-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iYIlT0Za8UEJJFN2otaLMpH8lLx.jpg", "actors": [], "comments": [], "recommandations_id": []}

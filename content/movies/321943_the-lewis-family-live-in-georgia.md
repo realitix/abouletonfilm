@@ -1,1 +1,0 @@
-{"tmdb_id": 321943, "title": "The Lewis Family: Live in Georgia", "original_title": "The Lewis Family: Live in Georgia", "slug_title": "the-lewis-family-live-in-georgia", "date": "2007-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

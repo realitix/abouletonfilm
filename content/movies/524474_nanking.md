@@ -1,1 +1,0 @@
-{"tmdb_id": 524474, "title": "Nanking", "original_title": "Nankin", "slug_title": "nanking", "date": "1938-01-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5WjCdc1Il7Ei4QQen9NjN63XM6p.jpg", "actors": ["Musei Tokugawa (Narrator)"], "comments": [], "recommandations_id": []}

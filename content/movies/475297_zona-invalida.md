@@ -1,1 +1,0 @@
-{"tmdb_id": 475297, "title": "Zona Invalida", "original_title": "Zona Invalida", "slug_title": "zona-invalida", "date": "", "genre": "Science-Fiction / Horreur / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

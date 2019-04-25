@@ -1,1 +1,0 @@
-{"tmdb_id": 432313, "title": "The sleeping souls", "original_title": "Les \u00e2mes dormantes", "slug_title": "the-sleeping-souls", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 387109, "title": "Aur\u00e9lia", "original_title": "Aur\u00e9lia", "slug_title": "aurelia", "date": "2013-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8IeUghMZsvOxh0efYMbPZNdnQry.jpg", "actors": [], "comments": [], "recommandations_id": []}

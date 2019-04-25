@@ -1,1 +1,0 @@
-{"tmdb_id": 452322, "title": "PROTOTYPE", "original_title": "PROTOTYPE", "slug_title": "prototype", "date": "2017-08-03", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wkEqyWBv2E0bUbkrHMYQ0xQKRTw.jpg", "actors": [], "comments": [], "recommandations_id": []}

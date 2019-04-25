@@ -1,1 +1,0 @@
-{"tmdb_id": 505326, "title": "Golden Boys", "original_title": "Golden Boys", "slug_title": "golden-boys", "date": "2017-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

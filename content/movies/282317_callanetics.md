@@ -1,1 +1,0 @@
-{"tmdb_id": 282317, "title": "Callanetics", "original_title": "Callanetics", "slug_title": "callanetics", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tPgM8oL0VVCXwXl5KTiU9xiObgN.jpg", "actors": ["Callan Pinckney (Herself)"], "comments": [], "recommandations_id": []}

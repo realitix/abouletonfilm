@@ -1,1 +1,0 @@
-{"tmdb_id": 79512, "title": "Maruzzella", "original_title": "Maruzzella", "slug_title": "maruzzella", "date": "1956-09-27", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fTxcfwOL4SbgScfYchbigtVOOHI.jpg", "actors": ["Marisa Allasio (Maruzzella)", "Renato Carosone (Renato)"], "comments": [], "recommandations_id": []}

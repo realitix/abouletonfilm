@@ -1,1 +1,0 @@
-{"tmdb_id": 480634, "title": "Derelicts", "original_title": "Derelicts", "slug_title": "derelicts", "date": "2017-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 176037, "title": "Supermarket", "original_title": "Supermarket", "slug_title": "supermarket", "date": "2012-12-28", "genre": "Thriller", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gxvMtyeuug2zJPudOVkDcYMSI0F.jpg", "actors": [], "comments": [], "recommandations_id": []}

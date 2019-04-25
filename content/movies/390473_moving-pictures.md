@@ -1,1 +1,0 @@
-{"tmdb_id": 390473, "title": "Moving Pictures", "original_title": "Moving Pictures", "slug_title": "moving-pictures", "date": "2000-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

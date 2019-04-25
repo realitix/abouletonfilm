@@ -1,1 +1,0 @@
-{"tmdb_id": 503927, "title": "Bewaarders", "original_title": "Bewaarders", "slug_title": "bewaarders", "date": "2018-02-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 594805, "title": "Why Girls Leave Home", "original_title": "Why Girls Leave Home", "slug_title": "why-girls-leave-home", "date": "1921-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8GstVOlqKfPL5qB7t72sgjvSUZb.jpg", "actors": [], "comments": [], "recommandations_id": []}

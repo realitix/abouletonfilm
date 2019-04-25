@@ -1,1 +1,0 @@
-{"tmdb_id": 316652, "title": "Masters of Photography: Andre Kertesz", "original_title": "Masters of Photography: Andre Kertesz", "slug_title": "masters-of-photography-andre-kertesz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

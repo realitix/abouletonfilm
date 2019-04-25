@@ -1,1 +1,0 @@
-{"tmdb_id": 516926, "title": "Verfolgte Wege", "original_title": "Verfolgte Wege", "slug_title": "verfolgte-wege", "date": "1989-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

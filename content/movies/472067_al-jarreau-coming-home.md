@@ -1,1 +1,0 @@
-{"tmdb_id": 472067, "title": "Al Jarreau - Coming Home", "original_title": "Al Jarreau - Coming Home", "slug_title": "al-jarreau-coming-home", "date": "2017-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aMwSsThGN8th4VNQMyRMcW9eifF.jpg", "actors": [], "comments": [], "recommandations_id": []}

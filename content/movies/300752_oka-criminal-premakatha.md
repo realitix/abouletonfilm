@@ -1,1 +1,0 @@
-{"tmdb_id": 300752, "title": "Oka Criminal Premakatha", "original_title": "Oka Criminal Premakatha", "slug_title": "oka-criminal-premakatha", "date": "2014-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

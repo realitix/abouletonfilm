@@ -1,1 +1,0 @@
-{"tmdb_id": 330742, "title": "L'Invadenza Di Azuzl", "original_title": "L'Invadenza Di Azuzl", "slug_title": "l-invadenza-di-azuzl", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Astutillo Smeriglia (Gianfranco)", "Filippo Fraternali (Azuzl)", "Fausto Peloso (Azuzl)"], "comments": [], "recommandations_id": []}

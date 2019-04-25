@@ -1,1 +1,0 @@
-{"tmdb_id": 507999, "title": "The Amish and the Reformation", "original_title": "The Amish and the Reformation", "slug_title": "the-amish-and-the-reformation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

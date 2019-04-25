@@ -1,1 +1,0 @@
-{"tmdb_id": 271528, "title": "Blood Guardian", "original_title": "Blood Guardian", "slug_title": "blood-guardian", "date": "2009-01-01", "genre": "", "score": "0.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

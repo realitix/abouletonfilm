@@ -1,1 +1,0 @@
-{"tmdb_id": 108552, "title": "The Wall Man", "original_title": "\u58c1\u7537", "slug_title": "the-wall-man", "date": "2007-09-15", "genre": "Horreur / Drame / Crime", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lzEFPbqJhCHooKl5bNELjha8aPt.jpg", "actors": [], "comments": [], "recommandations_id": []}

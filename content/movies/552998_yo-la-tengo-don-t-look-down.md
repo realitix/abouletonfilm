@@ -1,1 +1,0 @@
-{"tmdb_id": 552998, "title": "Yo la Tengo  Don't Look Down", "original_title": "Yo la Tengo  Don't Look Down", "slug_title": "yo-la-tengo-don-t-look-down", "date": "2012-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

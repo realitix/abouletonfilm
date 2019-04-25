@@ -1,1 +1,0 @@
-{"tmdb_id": 115440, "title": "Lancelot Link: Secret Chimp", "original_title": "Lancelot Link: Secret Chimp", "slug_title": "lancelot-link-secret-chimp", "date": "1970-09-12", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dayton Allen (Lancelot Link)", "Joan Gerber (Mata Hairi)"], "comments": [], "recommandations_id": []}

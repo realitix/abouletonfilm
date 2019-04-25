@@ -1,1 +1,0 @@
-{"tmdb_id": 367860, "title": "Book of the heart 1", "original_title": "Book of the heart 1", "slug_title": "book-of-the-heart-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

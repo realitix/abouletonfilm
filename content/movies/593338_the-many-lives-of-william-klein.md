@@ -1,1 +1,0 @@
-{"tmdb_id": 593338, "title": "The Many Lives of William Klein", "original_title": "The Many Lives of William Klein", "slug_title": "the-many-lives-of-william-klein", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

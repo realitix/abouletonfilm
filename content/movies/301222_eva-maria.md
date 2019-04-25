@@ -1,1 +1,0 @@
-{"tmdb_id": 301222, "title": "Eva Maria", "original_title": "Eva Maria", "slug_title": "eva-maria", "date": "2013-11-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mariah Teixeira ()", "Jefferson Antonio ()"], "comments": [], "recommandations_id": []}

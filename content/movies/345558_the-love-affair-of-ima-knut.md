@@ -1,1 +1,0 @@
-{"tmdb_id": 345558, "title": "The Love Affair of Ima Knut", "original_title": "The Love Affair of Ima Knut", "slug_title": "the-love-affair-of-ima-knut", "date": "1917-03-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

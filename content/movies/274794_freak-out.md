@@ -1,1 +1,0 @@
-{"tmdb_id": 274794, "title": "Freak Out!", "original_title": "Freak Out!", "slug_title": "freak-out", "date": "2014-01-25", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bMb3ECVKaROrDz7GmwdHkXL1ZH4.jpg", "actors": ["Iben Hjejle (Ida Hoffman (voice))"], "comments": [], "recommandations_id": []}

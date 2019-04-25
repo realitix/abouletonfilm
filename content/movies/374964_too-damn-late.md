@@ -1,1 +1,0 @@
-{"tmdb_id": 374964, "title": "Too Damn Late", "original_title": "Too Damn Late", "slug_title": "too-damn-late", "date": "2009-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

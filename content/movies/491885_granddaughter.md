@@ -1,1 +1,0 @@
-{"tmdb_id": 491885, "title": "Granddaughter", "original_title": "Nieta", "slug_title": "granddaughter", "date": "2014-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t9tEKjSnxHxlLDSmxU41B3unRdo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 170321, "title": "Wild Life", "original_title": "Wild Life", "slug_title": "wild-life", "date": "1996-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wuDnQLUfW1UJWlvd5gSalCOEJI2.jpg", "actors": ["Mickey Curtis ()", "Akiko Azumi ()", "Jun Kunimura ()"], "comments": [], "recommandations_id": []}

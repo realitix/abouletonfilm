@@ -1,1 +1,0 @@
-{"tmdb_id": 571718, "title": "A Facada no Mito", "original_title": "A Facada no Mito", "slug_title": "a-facada-no-mito", "date": "2018-12-22", "genre": "Documentaire", "score": "2.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dCjlUtNANQTyqOYdd1TrtegYEST.jpg", "actors": ["Jair Bolsonaro ()"], "comments": [], "recommandations_id": []}

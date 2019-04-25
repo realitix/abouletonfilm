@@ -1,1 +1,0 @@
-{"tmdb_id": 582892, "title": "Despondent Yearning", "original_title": "Despondent Yearning", "slug_title": "despondent-yearning", "date": "1973-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Donald Farmer ()"], "comments": [], "recommandations_id": []}

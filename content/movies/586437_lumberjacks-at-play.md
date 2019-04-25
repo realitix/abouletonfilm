@@ -1,1 +1,0 @@
-{"tmdb_id": 586437, "title": "Lumberjacks at Play", "original_title": "Lumberjacks at Play", "slug_title": "lumberjacks-at-play", "date": "1971-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mark Zimering ()", "Ethan Coen ()"], "comments": [], "recommandations_id": []}

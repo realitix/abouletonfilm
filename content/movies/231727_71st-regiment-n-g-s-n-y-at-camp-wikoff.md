@@ -1,1 +1,0 @@
-{"tmdb_id": 231727, "title": "71st Regiment, N.G.S.N.Y. at Camp Wikoff", "original_title": "71st Regiment, N.G.S.N.Y. at Camp Wikoff", "slug_title": "71st-regiment-n-g-s-n-y-at-camp-wikoff", "date": "1898-09-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

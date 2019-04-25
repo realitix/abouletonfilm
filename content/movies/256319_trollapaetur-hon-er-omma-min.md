@@ -1,1 +1,0 @@
-{"tmdb_id": 256319, "title": "Tr\u00f8llap\u00e6tur: Hon er omma m\u00edn", "original_title": "Tr\u00f8llap\u00e6tur: Hon er omma m\u00edn", "slug_title": "trollapaetur-hon-er-omma-min", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

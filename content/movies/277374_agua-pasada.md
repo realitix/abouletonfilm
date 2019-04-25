@@ -1,1 +1,0 @@
-{"tmdb_id": 277374, "title": "Agua pasada", "original_title": "Agua pasada", "slug_title": "agua-pasada", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cuca Escribano ()", "Jos\u00e9 Manuel Seda ()"], "comments": [], "recommandations_id": []}

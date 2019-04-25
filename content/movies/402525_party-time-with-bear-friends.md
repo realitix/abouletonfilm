@@ -1,1 +1,0 @@
-{"tmdb_id": 402525, "title": "Party Time with Bear & Friends", "original_title": "Party Time with Bear & Friends", "slug_title": "party-time-with-bear-friends", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6md3ll39Js5FFmhdpC6a1qFfdK1.jpg", "actors": [], "comments": [], "recommandations_id": []}

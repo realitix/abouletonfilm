@@ -1,1 +1,1 @@
-{"tmdb_id": 500643, "title": "Reactionary", "original_title": "Reactionary", "slug_title": "reactionary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 500643, "title": "Reactionary", "original_title": "Reactionary", "slug_title": "reactionary", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

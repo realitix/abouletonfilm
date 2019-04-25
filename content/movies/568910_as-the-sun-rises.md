@@ -1,1 +1,0 @@
-{"tmdb_id": 568910, "title": "As the Sun Rises", "original_title": "As the Sun Rises", "slug_title": "as-the-sun-rises", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aUYP8xBkEnRUetsgvP1O6geSWFJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

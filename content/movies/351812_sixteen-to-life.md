@@ -1,1 +1,0 @@
-{"tmdb_id": 351812, "title": "Sixteen to Life", "original_title": "Sixteen to Life", "slug_title": "sixteen-to-life", "date": "2003-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sprague Grayden (Julie)", "Blaire Baron (Dana)"], "comments": [], "recommandations_id": []}

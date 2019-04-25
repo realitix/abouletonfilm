@@ -1,1 +1,0 @@
-{"tmdb_id": 502128, "title": "Chi-Town", "original_title": "Chi-Town", "slug_title": "chi-town", "date": "2018-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Fe2XzMengK9D6AtC2AMM2TS691.jpg", "actors": [], "comments": [], "recommandations_id": []}

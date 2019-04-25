@@ -1,1 +1,0 @@
-{"tmdb_id": 42954, "title": "Beethoven - Symphony No. 7", "original_title": "Beethoven - Symphony No. 7", "slug_title": "beethoven-symphony-no-7", "date": "1971-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Herbert von Karajan (Himself)"], "comments": [], "recommandations_id": []}

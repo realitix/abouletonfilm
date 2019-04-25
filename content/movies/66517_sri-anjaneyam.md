@@ -1,1 +1,0 @@
-{"tmdb_id": 66517, "title": "Sri Anjaneyam", "original_title": "Sri Anjaneyam", "slug_title": "sri-anjaneyam", "date": "2004-07-24", "genre": "Drame", "score": "3.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oYnvVxYxGj0FZkhQs6TfEu6VQKg.jpg", "actors": ["Nitin (Anji)", "Charmy Kaur (Shivangi)"], "comments": [], "recommandations_id": []}

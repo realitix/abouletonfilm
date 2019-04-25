@@ -1,1 +1,0 @@
-{"tmdb_id": 363866, "title": "Show Girl", "original_title": "Show Girl", "slug_title": "show-girl", "date": "1928-09-23", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eSshHOrRaKycv0aiw4OVMN0IDJS.jpg", "actors": [], "comments": [], "recommandations_id": []}

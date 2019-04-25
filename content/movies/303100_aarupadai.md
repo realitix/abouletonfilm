@@ -1,1 +1,0 @@
-{"tmdb_id": 303100, "title": "Aarupadai", "original_title": "Aarupadai", "slug_title": "aarupadai", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

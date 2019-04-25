@@ -1,1 +1,0 @@
-{"tmdb_id": 559529, "title": "Bolshoi Ballet: Don Quixote", "original_title": "Bolshoi Ballet: Don Quixote", "slug_title": "bolshoi-ballet-don-quixote", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n78HpbGSwVP9MH2FBIGKIJJ1XWh.jpg", "actors": [], "comments": [], "recommandations_id": []}

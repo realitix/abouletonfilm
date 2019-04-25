@@ -1,1 +1,0 @@
-{"tmdb_id": 275325, "title": "The Deal", "original_title": "The Deal", "slug_title": "the-deal", "date": "2011-09-01", "genre": "Drame", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qzts8GkJlqeY6tqqW9hQmtDkizS.jpg", "actors": ["Vasili Tsybulka ()"], "comments": [], "recommandations_id": []}

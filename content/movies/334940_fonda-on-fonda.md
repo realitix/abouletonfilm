@@ -1,1 +1,0 @@
-{"tmdb_id": 334940, "title": "Fonda on Fonda", "original_title": "Fonda on Fonda", "slug_title": "fonda-on-fonda", "date": "1992-01-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zXVZ0uT319zSekgPe4mlkJoJlj2.jpg", "actors": ["Jane Fonda (Herself - Host)"], "comments": [], "recommandations_id": []}

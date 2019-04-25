@@ -1,1 +1,0 @@
-{"tmdb_id": 351329, "title": "History's Mysteries: The True Story of Gladiators", "original_title": "History's Mysteries: The True Story of Gladiators", "slug_title": "history-s-mysteries-the-true-story-of-gladiators", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

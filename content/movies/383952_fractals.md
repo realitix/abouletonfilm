@@ -1,1 +1,0 @@
-{"tmdb_id": 383952, "title": "Fractals", "original_title": "Fractals", "slug_title": "fractals", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sI0wJXqiy036mUzeDnDxZNPgFRu.jpg", "actors": [], "comments": [], "recommandations_id": []}

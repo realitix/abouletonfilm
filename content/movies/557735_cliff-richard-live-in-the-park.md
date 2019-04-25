@@ -1,1 +1,0 @@
-{"tmdb_id": 557735, "title": "Cliff Richard. Live In The Park", "original_title": "Cliff Richard. Live In The Park", "slug_title": "cliff-richard-live-in-the-park", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zVfnyaqr7k9R5JdlzDywTT5bKzW.jpg", "actors": [], "comments": [], "recommandations_id": []}

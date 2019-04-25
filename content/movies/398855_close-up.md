@@ -1,1 +1,0 @@
-{"tmdb_id": 398855, "title": "Close Up", "original_title": "Close Up", "slug_title": "close-up", "date": "1983-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nE0lomQnASvkjjVs9mkQzfp4xdh.jpg", "actors": [], "comments": [], "recommandations_id": []}

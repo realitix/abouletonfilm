@@ -1,1 +1,0 @@
-{"tmdb_id": 312528, "title": "Adicts: Joker in the Pack", "original_title": "Adicts: Joker in the Pack", "slug_title": "adicts-joker-in-the-pack", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

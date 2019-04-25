@@ -1,1 +1,0 @@
-{"tmdb_id": 541415, "title": "The Last Song", "original_title": "The Last Song", "slug_title": "the-last-song", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

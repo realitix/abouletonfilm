@@ -1,1 +1,0 @@
-{"tmdb_id": 315993, "title": "A Grandson from America", "original_title": "\u5b59\u5b50\u4ece\u7f8e\u56fd\u6765", "slug_title": "a-grandson-from-america", "date": "2012-02-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3eaDAzGoHYkXWCkM2RAZscLGPE1.jpg", "actors": [], "comments": [], "recommandations_id": []}

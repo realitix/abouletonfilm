@@ -1,1 +1,0 @@
-{"tmdb_id": 507312, "title": "The Royal Wedding", "original_title": "The Royal Wedding", "slug_title": "the-royal-wedding", "date": "1947-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yDsv86BMMDWyzV6UODnVCJg1uzf.jpg", "actors": [], "comments": [], "recommandations_id": []}

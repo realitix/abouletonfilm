@@ -1,1 +1,0 @@
-{"tmdb_id": 184475, "title": "The Tailor from Torzhok", "original_title": "Zakroyshchik iz Torzhka", "slug_title": "the-tailor-from-torzhok", "date": "1925-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9UFd4cstz2vVgv795vcZj7NfzW8.jpg", "actors": [], "comments": [], "recommandations_id": []}

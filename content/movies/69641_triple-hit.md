@@ -1,1 +1,0 @@
-{"tmdb_id": 69641, "title": "Triple Hit", "original_title": "Triple Hit", "slug_title": "triple-hit", "date": "2009-04-05", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qZfVEyXbpg2oJ80M0U2CB4RcOj6.jpg", "actors": [], "comments": [], "recommandations_id": []}

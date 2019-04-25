@@ -1,1 +1,0 @@
-{"tmdb_id": 491198, "title": "Jesper Juhl: Sikke En Joke", "original_title": "Jesper Juhl: Sikke En Joke", "slug_title": "jesper-juhl-sikke-en-joke", "date": "2017-12-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uBesdiQxN2Fu5M1hjqxajji1Xkl.jpg", "actors": [], "comments": [], "recommandations_id": []}

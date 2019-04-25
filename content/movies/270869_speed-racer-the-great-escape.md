@@ -1,1 +1,0 @@
-{"tmdb_id": 270869, "title": "Speed Racer: The Great Escape", "original_title": "Speed Racer: The Great Escape", "slug_title": "speed-racer-the-great-escape", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

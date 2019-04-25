@@ -1,1 +1,0 @@
-{"tmdb_id": 252077, "title": "Posthaste Perennial Pattern", "original_title": "Posthaste Perennial Pattern", "slug_title": "posthaste-perennial-pattern", "date": "2010-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sk4KDoUPxocTGfu7e4NWbP0xGfx.jpg", "actors": [], "comments": [], "recommandations_id": []}

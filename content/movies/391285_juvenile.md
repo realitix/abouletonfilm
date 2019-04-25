@@ -1,1 +1,0 @@
-{"tmdb_id": 391285, "title": "Juvenile", "original_title": "Juvenile", "slug_title": "juvenile", "date": "2016-03-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7FVUSPlhgu8U5lfMhcfPXKNYtna.jpg", "actors": [], "comments": [], "recommandations_id": []}

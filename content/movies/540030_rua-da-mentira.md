@@ -1,1 +1,0 @@
-{"tmdb_id": 540030, "title": "Rua da Mentira", "original_title": "Rua da Mentira", "slug_title": "rua-da-mentira", "date": "2017-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nnGVDM8Tuv4Ji84K1k6GvqLlQC9.jpg", "actors": [], "comments": [], "recommandations_id": []}

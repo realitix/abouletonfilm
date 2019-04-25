@@ -1,1 +1,0 @@
-{"tmdb_id": 279947, "title": "Naturally Obsessed: The Making of a Scientist", "original_title": "Naturally Obsessed: The Making of a Scientist", "slug_title": "naturally-obsessed-the-making-of-a-scientist", "date": "2009-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 579904, "title": "Fireworks", "original_title": "Fireworks", "slug_title": "fireworks", "date": "2015-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amin Hayai (Kiarash)", "Elnaz Shakerdust (Maral)"], "comments": [], "recommandations_id": []}

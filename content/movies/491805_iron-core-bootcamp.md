@@ -1,1 +1,0 @@
-{"tmdb_id": 491805, "title": "Iron Core Bootcamp", "original_title": "Iron Core Bootcamp", "slug_title": "iron-core-bootcamp", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qjbWZwO04dVU97mbBOtX0weHjKu.jpg", "actors": [], "comments": [], "recommandations_id": []}

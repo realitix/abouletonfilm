@@ -1,1 +1,0 @@
-{"tmdb_id": 425289, "title": "A Funny Man", "original_title": "A Funny Man", "slug_title": "a-funny-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Cavallucci ()", "Jess Paul ()"], "comments": [], "recommandations_id": []}

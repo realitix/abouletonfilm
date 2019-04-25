@@ -1,1 +1,0 @@
-{"tmdb_id": 477418, "title": "Thread of the Needle", "original_title": "Thread of the Needle", "slug_title": "thread-of-the-needle", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

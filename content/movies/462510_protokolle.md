@@ -1,1 +1,0 @@
-{"tmdb_id": 462510, "title": "Protokolle", "original_title": "Protokolle", "slug_title": "protokolle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

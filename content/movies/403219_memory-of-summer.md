@@ -1,1 +1,0 @@
-{"tmdb_id": 403219, "title": "Memory of Summer", "original_title": "Memory of Summer", "slug_title": "memory-of-summer", "date": "1958-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gHqFFjRe3YSxGXDeBv3FsikCo1i.jpg", "actors": [], "comments": [], "recommandations_id": []}

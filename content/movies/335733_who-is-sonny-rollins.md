@@ -1,1 +1,0 @@
-{"tmdb_id": 335733, "title": "Who is Sonny Rollins?", "original_title": "Who is Sonny Rollins?", "slug_title": "who-is-sonny-rollins", "date": "1968-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sonny Rollins (Himself)"], "comments": [], "recommandations_id": []}

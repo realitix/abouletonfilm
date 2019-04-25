@@ -1,1 +1,0 @@
-{"tmdb_id": 278627, "title": "SauAcker", "original_title": "SauAcker", "slug_title": "sauacker", "date": "2014-06-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mHL6CZXYJf2fo10l6rHZMBs04lY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 528916, "title": "the wedding present", "original_title": "the wedding present", "slug_title": "the-wedding-present", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ak5sR7EUKfdTpUU9PjJTwkFlfm1.jpg", "actors": [], "comments": [], "recommandations_id": []}

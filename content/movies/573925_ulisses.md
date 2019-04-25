@@ -1,1 +1,0 @@
-{"tmdb_id": 573925, "title": "Ulisses", "original_title": "Ulisses", "slug_title": "ulisses", "date": "2018-11-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tLPpj1rR7kbZvOrmB5FsgUragAg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 477343, "title": "Monsieur Hulot's Work", "original_title": "Monsieur Hulot's Work", "slug_title": "monsieur-hulot-s-work", "date": "1976-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jacques Tati (Interviewee)", "Gavin Millar (Interviewer)"], "comments": [], "recommandations_id": []}

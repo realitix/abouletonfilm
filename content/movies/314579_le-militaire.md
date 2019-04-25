@@ -1,1 +1,0 @@
-{"tmdb_id": 314579, "title": "Le Militaire", "original_title": "Le Militaire", "slug_title": "le-militaire", "date": "2014-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gXsOGt5uDsk6wT6nHejYpubnrl4.jpg", "actors": [], "comments": [], "recommandations_id": []}

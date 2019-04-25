@@ -1,1 +1,0 @@
-{"tmdb_id": 270961, "title": "The Spirit of Diana", "original_title": "The Spirit of Diana", "slug_title": "the-spirit-of-diana", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 540690, "title": "Collision", "original_title": "Collision", "slug_title": "collision", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h7gFpUHxbKCMKGzrTIf8u3daaK5.jpg", "actors": ["Nuutti Nyk\u00e4nen (Unknown Entity)"], "comments": [], "recommandations_id": []}

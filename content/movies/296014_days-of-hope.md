@@ -1,1 +1,0 @@
-{"tmdb_id": 296014, "title": "Days of Hope", "original_title": "Days of Hope", "slug_title": "days-of-hope", "date": "2013-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mRLCi9wfcM9WJK7d8vd4GD9WZd6.jpg", "actors": [], "comments": [], "recommandations_id": []}

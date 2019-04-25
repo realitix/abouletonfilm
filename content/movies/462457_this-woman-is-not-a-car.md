@@ -1,1 +1,0 @@
-{"tmdb_id": 462457, "title": "This Woman Is Not a Car", "original_title": "This Woman Is Not a Car", "slug_title": "this-woman-is-not-a-car", "date": "1982-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

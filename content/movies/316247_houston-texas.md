@@ -1,1 +1,0 @@
-{"tmdb_id": 316247, "title": "Houston, Texas", "original_title": "Houston, Texas", "slug_title": "houston-texas", "date": "1956-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lTvIM3N3EGcJTiCaPaI8vqvTUVE.jpg", "actors": ["Henri Fabiani (Narrator)"], "comments": [], "recommandations_id": []}

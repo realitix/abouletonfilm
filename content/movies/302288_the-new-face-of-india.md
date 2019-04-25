@@ -1,1 +1,0 @@
-{"tmdb_id": 302288, "title": "The New Face of India", "original_title": "The New Face of India", "slug_title": "the-new-face-of-india", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

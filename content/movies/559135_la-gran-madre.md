@@ -1,1 +1,0 @@
-{"tmdb_id": 559135, "title": "La Gran Madre", "original_title": "La Gran Madre", "slug_title": "la-gran-madre", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 527880, "title": "Frankfurt f\u00fchlen", "original_title": "Frankfurt f\u00fchlen", "slug_title": "frankfurt-fuhlen", "date": "1990-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

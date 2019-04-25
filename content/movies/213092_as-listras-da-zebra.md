@@ -1,1 +1,0 @@
-{"tmdb_id": 213092, "title": "As listras da Zebra", "original_title": "As listras da Zebra", "slug_title": "as-listras-da-zebra", "date": "", "genre": "Drame", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lo0WEc6SCTem2EjYRNqa5OjLd72.jpg", "actors": [], "comments": [], "recommandations_id": []}

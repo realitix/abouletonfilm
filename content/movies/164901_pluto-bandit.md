@@ -1,1 +1,0 @@
-{"tmdb_id": 164901, "title": "Pluto bandit", "original_title": "Bone Bandit", "slug_title": "pluto-bandit", "date": "1948-04-30", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/etwSgjK0X9IGE0EDB2A1Vpep0pL.jpg", "actors": ["Pinto Colvig (Pluto)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 215735, "title": "Maddie - A Verdade Da Mentira", "original_title": "Maddie - A Verdade Da Mentira", "slug_title": "maddie-a-verdade-da-mentira", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

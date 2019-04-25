@@ -1,1 +1,0 @@
-{"tmdb_id": 469154, "title": "Cat City", "original_title": "Cat City", "slug_title": "cat-city", "date": "2017-04-23", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/me1MEPdtcPErX7ADc7FcJj5zgyA.jpg", "actors": ["Jonni Phillips ()", "Isabel Higgins ()", "Aster Pang ()"], "comments": [], "recommandations_id": []}

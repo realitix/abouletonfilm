@@ -1,1 +1,0 @@
-{"tmdb_id": 574076, "title": "Vigilante", "original_title": "\u30d3\u30b8\u30e9\u30f3\u30c6", "slug_title": "vigilante", "date": "2017-12-09", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nao Omori (Ichiro)", "Kosuke Suzuki (Jiro)", "Kenta Kiritani (Saburo)", "Yuki Tayama ()"], "comments": [], "recommandations_id": []}

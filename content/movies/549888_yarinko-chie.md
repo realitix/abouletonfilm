@@ -1,1 +1,0 @@
-{"tmdb_id": 549888, "title": "Yarinko Chie", "original_title": "Yarinko Chie", "slug_title": "yarinko-chie", "date": "1985-05-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chie Azuma ()", "Fumiaki Tobayama ()", "Yasushi Sat\u00f4 ()"], "comments": [], "recommandations_id": []}

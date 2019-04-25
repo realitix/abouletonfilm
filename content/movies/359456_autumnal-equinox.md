@@ -1,1 +1,0 @@
-{"tmdb_id": 359456, "title": "Autumnal Equinox", "original_title": "Autumnal Equinox", "slug_title": "autumnal-equinox", "date": "1974-09-12", "genre": "", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aKlw1UFzn5LmLo0mSVDBCkx2aFV.jpg", "actors": [], "comments": [], "recommandations_id": []}

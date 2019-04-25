@@ -1,1 +1,0 @@
-{"tmdb_id": 210526, "title": "Allison", "original_title": "Allison", "slug_title": "allison", "date": "2012-07-06", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A7cNwAVascewpV2rcJyXyKbg2ti.jpg", "actors": ["Marin Ireland (Allison)", "Joel Johnstone (Jerry)"], "comments": [], "recommandations_id": []}

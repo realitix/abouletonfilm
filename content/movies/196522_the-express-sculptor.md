@@ -1,1 +1,0 @@
-{"tmdb_id": 196522, "title": "The Express Sculptor", "original_title": "Le sculpteur express", "slug_title": "the-express-sculptor", "date": "1907-05-23", "genre": "Drame", "score": "5.7/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Julienne Mathieu ()"], "comments": [], "recommandations_id": [116363, 119959, 119961]}

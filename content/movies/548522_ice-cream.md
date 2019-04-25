@@ -1,1 +1,0 @@
-{"tmdb_id": 548522, "title": "Ice Cream", "original_title": "Ice Cream", "slug_title": "ice-cream", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 184399, "title": "Ship Shape", "original_title": "Ship Shape", "slug_title": "ship-shape", "date": "1925-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cliff Bowes ()", "Virginia Vance ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 113925, "title": "David Bowie : Stage Tour in Tokyo", "original_title": "David Bowie : Stage Tour in Tokyo", "slug_title": "david-bowie-stage-tour-in-tokyo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h0ljGnUEumhsliVavMdUYHaCkn2.jpg", "actors": [], "comments": [], "recommandations_id": []}

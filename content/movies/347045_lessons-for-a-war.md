@@ -1,1 +1,0 @@
-{"tmdb_id": 347045, "title": "Lessons for a War", "original_title": "Lecciones para una guerra", "slug_title": "lessons-for-a-war", "date": "2012-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bLiSzVISTrSXEX6UrAee8yGv5N3.jpg", "actors": [], "comments": [], "recommandations_id": []}

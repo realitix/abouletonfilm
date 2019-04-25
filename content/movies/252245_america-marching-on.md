@@ -1,1 +1,0 @@
-{"tmdb_id": 252245, "title": "America Marching On", "original_title": "America Marching On", "slug_title": "america-marching-on", "date": "1937-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lowell Thomas (Host / Narrator)"], "comments": [], "recommandations_id": []}

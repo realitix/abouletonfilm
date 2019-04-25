@@ -1,1 +1,0 @@
-{"tmdb_id": 371248, "title": "Puncture Wounds (September 11)", "original_title": "Puncture Wounds (September 11)", "slug_title": "puncture-wounds-september-11", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

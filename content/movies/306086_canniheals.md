@@ -1,1 +1,0 @@
-{"tmdb_id": 306086, "title": "Canniheals", "original_title": "Canniheals", "slug_title": "canniheals", "date": "2014-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

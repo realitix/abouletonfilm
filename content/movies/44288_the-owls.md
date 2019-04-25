@@ -1,1 +1,0 @@
-{"tmdb_id": 44288, "title": "The Owls", "original_title": "The Owls", "slug_title": "the-owls", "date": "2010-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aVzE8Bq6aDfMY3rJgzLw2kbxGKj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 524057, "title": "Yanni  Live From El Morro,Puerto Rico", "original_title": "Yanni  Live From El Morro,Puerto Rico", "slug_title": "yanni-live-from-el-morro-puerto-rico", "date": "2012-03-03", "genre": "Musique", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yanni (Piano - synthesizers)"], "comments": [], "recommandations_id": []}

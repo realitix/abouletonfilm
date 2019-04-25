@@ -1,1 +1,0 @@
-{"tmdb_id": 301380, "title": "The Fog of War 666", "original_title": "The Fog of War 666", "slug_title": "the-fog-of-war-666", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

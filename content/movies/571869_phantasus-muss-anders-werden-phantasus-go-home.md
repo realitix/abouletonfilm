@@ -1,1 +1,0 @@
-{"tmdb_id": 571869, "title": "Phantasus muss anders werden - Phantasus go home", "original_title": "Phantasus muss anders werden - Phantasus go home", "slug_title": "phantasus-muss-anders-werden-phantasus-go-home", "date": "1983-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

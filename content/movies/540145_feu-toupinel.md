@@ -1,1 +1,0 @@
-{"tmdb_id": 540145, "title": "Feu Toupinel", "original_title": "Feu Toupinel", "slug_title": "feu-toupinel", "date": "1934-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

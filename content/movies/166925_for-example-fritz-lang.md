@@ -1,1 +1,0 @@
-{"tmdb_id": 166925, "title": "For Example Fritz Lang", "original_title": "Zum Beispiel: Fritz Lang", "slug_title": "for-example-fritz-lang", "date": "1968-03-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Erwin Leiser ()", "Fritz Lang ()"], "comments": [], "recommandations_id": []}

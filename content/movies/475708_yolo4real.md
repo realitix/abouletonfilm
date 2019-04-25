@@ -1,1 +1,0 @@
-{"tmdb_id": 475708, "title": "#YOLO4REAL", "original_title": "#YOLO4REAL", "slug_title": "yolo4real", "date": "2017-09-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r85XZDUUuRHGYZ3le2ToMj64Av4.jpg", "actors": ["Sabri Saddik ()", "Lisa Zweerman ()"], "comments": [], "recommandations_id": []}

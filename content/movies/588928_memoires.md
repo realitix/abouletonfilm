@@ -1,1 +1,0 @@
-{"tmdb_id": 588928, "title": "M\u00e9moires", "original_title": "M\u00e9moires", "slug_title": "memoires", "date": "1984-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

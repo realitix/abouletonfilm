@@ -1,1 +1,0 @@
-{"tmdb_id": 139400, "title": "Nature of the Beast", "original_title": "Nature of the Beast", "slug_title": "nature-of-the-beast", "date": "1993-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dsAo8VFmyRVx2qFKvMa5Os2EUak.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 327202, "title": "Chopper Kings", "original_title": "Chopper Kings", "slug_title": "chopper-kings", "date": "2005-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xCCfftWbQ4K3YimaErSNMw2NuEH.jpg", "actors": [], "comments": [], "recommandations_id": []}

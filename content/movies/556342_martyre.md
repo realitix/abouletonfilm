@@ -1,1 +1,0 @@
-{"tmdb_id": 556342, "title": "Martyre", "original_title": "Martyre", "slug_title": "martyre", "date": "1927-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

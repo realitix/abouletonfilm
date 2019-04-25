@@ -1,1 +1,0 @@
-{"tmdb_id": 578032, "title": "The Eye of Envy", "original_title": "The Eye of Envy", "slug_title": "the-eye-of-envy", "date": "1917-08-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Crane Wilbur (Ambition, the Blacksmith)", "Jode Mullally (Avarice)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 537016, "title": "Ramayani", "original_title": "Ramayani", "slug_title": "ramayani", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pahari Sanyal ()", "Nargis ()", "Kanhaiyalal ()"], "comments": [], "recommandations_id": []}

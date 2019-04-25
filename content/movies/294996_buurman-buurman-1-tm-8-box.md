@@ -1,1 +1,0 @@
-{"tmdb_id": 294996, "title": "Buurman & Buurman 1 tm 8 Box", "original_title": "Buurman & Buurman 1 tm 8 Box", "slug_title": "buurman-buurman-1-tm-8-box", "date": "1978-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5r8KgYzL9O1cUmB0OCB5AyOUO9f.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 333963, "title": "The Yemen Revolution", "original_title": "\u062b\u0648\u0631\u0629 \u0627\u0644\u064a\u0645\u0646", "slug_title": "the-yemen-revolution", "date": "1966-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Magda ()", "Hassan Youssef ()", "Emad Hamdy ()"], "comments": [], "recommandations_id": []}

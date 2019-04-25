@@ -1,1 +1,0 @@
-{"tmdb_id": 406991, "title": "Alternate Ending", "original_title": "Alternate Ending", "slug_title": "alternate-ending", "date": "2003-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

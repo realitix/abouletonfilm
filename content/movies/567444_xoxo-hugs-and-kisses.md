@@ -1,1 +1,0 @@
-{"tmdb_id": 567444, "title": "XOXO - Hugs And Kisses", "original_title": "XOXO Poca\u0142unki i U\u015bciski", "slug_title": "xoxo-hugs-and-kisses", "date": "2016-07-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fLe1T2TyGiE9KhUIiztAvkLwxY2.jpg", "actors": [], "comments": [], "recommandations_id": []}

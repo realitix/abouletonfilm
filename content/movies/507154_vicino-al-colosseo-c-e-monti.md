@@ -1,1 +1,0 @@
-{"tmdb_id": 507154, "title": "Vicino al Colosseo... c'\u00e8 Monti", "original_title": "Vicino al Colosseo... c'\u00e8 Monti", "slug_title": "vicino-al-colosseo-c-e-monti", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 313181, "title": "Keith Richards: Under Review", "original_title": "Keith Richards: Under Review", "slug_title": "keith-richards-under-review", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 380175, "title": "Sacr\u00e9 Dilemme", "original_title": "Sacr\u00e9 Dilemme", "slug_title": "sacre-dilemme", "date": "2015-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

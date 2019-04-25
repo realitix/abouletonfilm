@@ -1,1 +1,0 @@
-{"tmdb_id": 318400, "title": "Bill Evans Trio: Rome Concert 1979", "original_title": "Bill Evans Trio: Rome Concert 1979", "slug_title": "bill-evans-trio-rome-concert-1979", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

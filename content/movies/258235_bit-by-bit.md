@@ -1,1 +1,0 @@
-{"tmdb_id": 258235, "title": "Bit by Bit", "original_title": "H\u00e4ppchenweise", "slug_title": "bit-by-bit", "date": "2013-03-09", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5TgD392KkxGs54XJiSt6I2GaSNa.jpg", "actors": [], "comments": [], "recommandations_id": []}

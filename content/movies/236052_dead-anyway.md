@@ -1,1 +1,0 @@
-{"tmdb_id": 236052, "title": "Dead Anyway", "original_title": "Dead Anyway", "slug_title": "dead-anyway", "date": "2013-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brad Carmichael (Edward)", "Ivana Stojanovic (Natasha)", "Bruce Pringle (Dave)", "Robert Fleet (Varga)"], "comments": [], "recommandations_id": []}

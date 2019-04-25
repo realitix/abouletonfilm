@@ -1,1 +1,0 @@
-{"tmdb_id": 587078, "title": "Psychonauts", "original_title": "Psychonauts", "slug_title": "psychonauts", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aiOgit5H3GaXHK1DK5FAsHdl5Wy.jpg", "actors": [], "comments": [], "recommandations_id": []}

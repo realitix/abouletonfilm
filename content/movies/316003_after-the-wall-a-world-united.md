@@ -1,1 +1,0 @@
-{"tmdb_id": 316003, "title": "After the Wall: A World United", "original_title": "After the Wall: A World United", "slug_title": "after-the-wall-a-world-united", "date": "2011-01-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

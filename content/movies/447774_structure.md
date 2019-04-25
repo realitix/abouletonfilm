@@ -1,1 +1,0 @@
-{"tmdb_id": 447774, "title": "Structure", "original_title": "Struktura", "slug_title": "structure", "date": "1969-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

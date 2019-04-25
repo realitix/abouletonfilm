@@ -1,1 +1,0 @@
-{"tmdb_id": 137302, "title": "My Past Is My Own", "original_title": "My Past Is My Own", "slug_title": "my-past-is-my-own", "date": "1989-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

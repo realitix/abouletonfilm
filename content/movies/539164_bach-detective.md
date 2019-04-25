@@ -1,1 +1,0 @@
-{"tmdb_id": 539164, "title": "Bach d\u00e9tective", "original_title": "Bach d\u00e9tective", "slug_title": "bach-detective", "date": "1936-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7e5gX3TgFtquj1BHO4z72lxLIjU.jpg", "actors": [], "comments": [], "recommandations_id": []}

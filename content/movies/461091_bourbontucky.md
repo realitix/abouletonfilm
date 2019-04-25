@@ -1,1 +1,0 @@
-{"tmdb_id": 461091, "title": "Bourbontucky", "original_title": "Bourbontucky", "slug_title": "bourbontucky", "date": "2015-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/50lCiubJBXmd8THJbF2oAK4mT4U.jpg", "actors": [], "comments": [], "recommandations_id": []}

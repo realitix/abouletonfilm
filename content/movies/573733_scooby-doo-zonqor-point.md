@@ -1,1 +1,0 @@
-{"tmdb_id": 573733, "title": "Scooby Doo Zonqor Point", "original_title": "Scooby Doo Zonqor Point", "slug_title": "scooby-doo-zonqor-point", "date": "2015-12-25", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h4JHBmbghNlsvioWFqD531v3mMK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 483920, "title": "The Jealous One", "original_title": "The Jealous One", "slug_title": "the-jealous-one", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elizabeth A. Povinelli (Hands of State)"], "comments": [], "recommandations_id": []}

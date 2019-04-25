@@ -1,1 +1,0 @@
-{"tmdb_id": 380873, "title": "Oks na Oks Pakner", "original_title": "Oks na Oks Pakner", "slug_title": "oks-na-oks-pakner", "date": "1985-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w65Dl0P8bbW4wePODuf4x3ONTcp.jpg", "actors": [], "comments": [], "recommandations_id": []}

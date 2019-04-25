@@ -1,1 +1,0 @@
-{"tmdb_id": 286689, "title": "The Skipper's Flirtation", "original_title": "The Skipper's Flirtation", "slug_title": "the-skipper-s-flirtation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

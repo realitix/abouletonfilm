@@ -1,1 +1,0 @@
-{"tmdb_id": 577919, "title": "Antoni Psycho", "original_title": "Antoni Psycho", "slug_title": "antoni-psycho", "date": "2018-10-29", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Antoni Porowski (Antoni Porowski)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 302958, "title": "Playground the Movie", "original_title": "Playground the Movie", "slug_title": "playground-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

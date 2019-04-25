@@ -1,1 +1,0 @@
-{"tmdb_id": 160474, "title": "Norway Northern Lights on Vimeo", "original_title": "Norway Northern Lights on Vimeo", "slug_title": "norway-northern-lights-on-vimeo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mLrAHyaaePVA2owIWYFdS8D81nZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

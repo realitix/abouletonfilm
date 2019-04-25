@@ -1,1 +1,0 @@
-{"tmdb_id": 536210, "title": "Merenc\u00f3ria", "original_title": "Merenc\u00f3ria", "slug_title": "merencoria", "date": "2017-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mSNRZg6pGDEkL5CCPyG1exjQpqm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 366523, "title": "Ta den ring", "original_title": "Ta den ring", "slug_title": "ta-den-ring", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 366523, "title": "Ta den ring", "original_title": "Ta den ring", "slug_title": "ta-den-ring", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Norwegian series, mystery", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

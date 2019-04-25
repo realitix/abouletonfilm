@@ -1,1 +1,0 @@
-{"tmdb_id": 282684, "title": "A Few Practical Ways To Prolong One\u2019s Life", "original_title": "Kilka praktycznych sposob\u00f3w na przedluzenie sobie zycia", "slug_title": "a-few-practical-ways-to-prolong-ones-life", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

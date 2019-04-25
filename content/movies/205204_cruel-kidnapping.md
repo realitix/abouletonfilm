@@ -1,1 +1,0 @@
-{"tmdb_id": 205204, "title": "Cruel Kidnapping", "original_title": "Cruel Kidnapping", "slug_title": "cruel-kidnapping", "date": "2006-10-03", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pOm441I5pOnp0p4iVe0bCVA3qUY.jpg", "actors": [], "comments": [], "recommandations_id": []}

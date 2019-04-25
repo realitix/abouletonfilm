@@ -1,1 +1,0 @@
-{"tmdb_id": 501945, "title": "Moby Dick", "original_title": "Moby Dick", "slug_title": "moby-dick", "date": "2002-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

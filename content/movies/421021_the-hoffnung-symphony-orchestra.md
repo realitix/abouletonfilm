@@ -1,1 +1,0 @@
-{"tmdb_id": 421021, "title": "The Hoffnung Symphony Orchestra", "original_title": "The Hoffnung Symphony Orchestra", "slug_title": "the-hoffnung-symphony-orchestra", "date": "1965-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

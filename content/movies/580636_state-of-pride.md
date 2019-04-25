@@ -1,1 +1,0 @@
-{"tmdb_id": 580636, "title": "State of Pride", "original_title": "State of Pride", "slug_title": "state-of-pride", "date": "2019-03-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 512230, "title": "Charm City", "original_title": "Charm City", "slug_title": "charm-city", "date": "2018-04-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rimHBcAxrSMH7DdHrD5bRTRSaZR.jpg", "actors": [], "comments": [], "recommandations_id": []}

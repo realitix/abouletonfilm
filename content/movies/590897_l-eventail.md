@@ -1,1 +1,0 @@
-{"tmdb_id": 590897, "title": "L'\u00e9ventail", "original_title": "L'\u00e9ventail", "slug_title": "l-eventail", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un film de Ga\u00ebl Badaud.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fRAzFmLO2TTWqSqgwv8QJuN7NM1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 352940, "title": "Panama-Pacific International Exhibition", "original_title": "Panama-Pacific International Exhibition", "slug_title": "panama-pacific-international-exhibition", "date": "1940-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 404319, "title": "La Divina", "original_title": "La Divina", "slug_title": "la-divina", "date": "1989-11-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michelle Sullivan (Greta Garbo)", "Christopher Renstrom (John Gilbert)", "Valda Z. Drabla (Alter-Ego)"], "comments": [], "recommandations_id": []}

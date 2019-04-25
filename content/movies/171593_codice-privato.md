@@ -1,1 +1,0 @@
-{"tmdb_id": 171593, "title": "Codice privato", "original_title": "Codice privato", "slug_title": "codice-privato", "date": "1988-09-08", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f0bvpG9AS3v6TlF3halk4S5MzHV.jpg", "actors": ["Ornella Muti (Anna)"], "comments": [], "recommandations_id": []}

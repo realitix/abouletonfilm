@@ -1,1 +1,0 @@
-{"tmdb_id": 388801, "title": "Get Out of Here", "original_title": "Llocsi caimanta", "slug_title": "get-out-of-here", "date": "1981-11-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2OsjXCJYOEa9TzVY9Ys941Fnzpw.jpg", "actors": [], "comments": [], "recommandations_id": []}

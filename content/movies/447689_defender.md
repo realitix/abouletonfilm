@@ -1,1 +1,0 @@
-{"tmdb_id": 447689, "title": "Defender", "original_title": "Defender", "slug_title": "defender", "date": "2017-04-15", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeff Adachi (Self)"], "comments": [], "recommandations_id": []}

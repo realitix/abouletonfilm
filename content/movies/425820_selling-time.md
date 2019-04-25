@@ -1,1 +1,0 @@
-{"tmdb_id": 425820, "title": "Selling Time", "original_title": "Selling Time", "slug_title": "selling-time", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

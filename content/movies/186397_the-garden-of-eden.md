@@ -1,1 +1,0 @@
-{"tmdb_id": 186397, "title": "The Garden of Eden", "original_title": "The Garden of Eden", "slug_title": "the-garden-of-eden", "date": "2012-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

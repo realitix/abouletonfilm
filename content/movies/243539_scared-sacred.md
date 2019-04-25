@@ -1,1 +1,0 @@
-{"tmdb_id": 243539, "title": "Scared Sacred", "original_title": "Scared Sacred", "slug_title": "scared-sacred", "date": "2005-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mB1ILPlMkntQ3P8fyVkP4hMsXk.jpg", "actors": [], "comments": [], "recommandations_id": []}

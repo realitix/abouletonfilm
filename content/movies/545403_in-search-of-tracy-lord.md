@@ -1,1 +1,0 @@
-{"tmdb_id": 545403, "title": "In Search of Tracy Lord", "original_title": "In Search of Tracy Lord", "slug_title": "in-search-of-tracy-lord", "date": "2017-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

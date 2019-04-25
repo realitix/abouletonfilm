@@ -1,1 +1,0 @@
-{"tmdb_id": 150871, "title": "10,000 Black Men Named George", "original_title": "10,000 Black Men Named George", "slug_title": "10000-black-men-named-george", "date": "2002-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gEaIFalumoPQnJWV01mLO48kqvC.jpg", "actors": [], "comments": [], "recommandations_id": []}

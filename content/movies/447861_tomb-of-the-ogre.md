@@ -1,1 +1,0 @@
-{"tmdb_id": 447861, "title": "Tomb of the Ogre", "original_title": "Susan phi pop", "slug_title": "tomb-of-the-ogre", "date": "1991-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r07w2lsRB1GVVWa14C69M16R4IT.jpg", "actors": [], "comments": [], "recommandations_id": []}

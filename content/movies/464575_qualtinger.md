@@ -1,1 +1,0 @@
-{"tmdb_id": 464575, "title": "Qualtinger", "original_title": "Qualtinger", "slug_title": "qualtinger", "date": "2011-11-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bBvVVPB6EuGm52ef8PiKs71tIFY.jpg", "actors": [], "comments": [], "recommandations_id": []}

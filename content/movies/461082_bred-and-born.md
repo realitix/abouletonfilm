@@ -1,1 +1,0 @@
-{"tmdb_id": 461082, "title": "Bred and Born", "original_title": "Bred and Born", "slug_title": "bred-and-born", "date": "1983-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

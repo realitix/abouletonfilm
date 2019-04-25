@@ -1,1 +1,0 @@
-{"tmdb_id": 546974, "title": "Theatre of Hope", "original_title": "Th\u00e9\u00e2tre de l'Esp\u00e9rance", "slug_title": "theatre-of-hope", "date": "1987-01-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/98mvOUAChN8LpJRyyQtXQxUnihj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 131245, "title": "Raw Faith", "original_title": "Raw Faith", "slug_title": "raw-faith", "date": "2011-06-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u2DvoNxWex1NaGFWBYlqIEgXbDl.jpg", "actors": ["Marilyn Sewell (Herself)"], "comments": [], "recommandations_id": []}

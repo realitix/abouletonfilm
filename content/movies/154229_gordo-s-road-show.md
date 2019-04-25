@@ -1,1 +1,0 @@
-{"tmdb_id": 154229, "title": "Gordo's Road Show", "original_title": "Gordo's Road Show", "slug_title": "gordo-s-road-show", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

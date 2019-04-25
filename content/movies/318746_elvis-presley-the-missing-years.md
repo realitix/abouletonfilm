@@ -1,1 +1,0 @@
-{"tmdb_id": 318746, "title": "Elvis Presley: The Missing Years", "original_title": "Elvis Presley: The Missing Years", "slug_title": "elvis-presley-the-missing-years", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yjbf47EnnoSiv0xYDeYWLbWl94t.jpg", "actors": [], "comments": [], "recommandations_id": []}

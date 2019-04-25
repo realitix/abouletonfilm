@@ -1,1 +1,0 @@
-{"tmdb_id": 574604, "title": "Visions Fugitives", "original_title": "Visions Fugitives", "slug_title": "visions-fugitives", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un film de Jakobois", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 520860, "title": "Tips for Today", "original_title": "Tips for Today", "slug_title": "tips-for-today", "date": "2017-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 406921, "title": "6horts #4: Checkpoint", "original_title": "6horts #4: Checkpoint", "slug_title": "6horts-4-checkpoint", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

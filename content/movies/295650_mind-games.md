@@ -1,1 +1,0 @@
-{"tmdb_id": 295650, "title": "Mind Games", "original_title": "Mind Games", "slug_title": "mind-games", "date": "2003-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lj2PIHZ1A77XY1lzdngjOP1z3wf.jpg", "actors": [], "comments": [], "recommandations_id": []}

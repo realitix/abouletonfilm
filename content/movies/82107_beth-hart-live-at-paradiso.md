@@ -1,1 +1,0 @@
-{"tmdb_id": 82107, "title": "Beth Hart: Live at Paradiso", "original_title": "Beth Hart: Live at Paradiso", "slug_title": "beth-hart-live-at-paradiso", "date": "2004-05-15", "genre": "Musique", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qSR4rWtlK4RxiUITWrbCFPGqjyU.jpg", "actors": [], "comments": [], "recommandations_id": []}

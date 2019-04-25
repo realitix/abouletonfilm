@@ -1,1 +1,0 @@
-{"tmdb_id": 447424, "title": "Hitler's Irish Movies", "original_title": "Hitler's Irish Movies", "slug_title": "hitler-s-irish-movies", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

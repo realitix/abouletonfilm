@@ -1,1 +1,0 @@
-{"tmdb_id": 79219, "title": "Still Waters", "original_title": "Still Waters", "slug_title": "still-waters", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 163085, "title": "Jam Session", "original_title": "Jam Session", "slug_title": "jam-session", "date": "1942-01-01", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j2Y7rsDvh1mYwDpVLcCco9dQA8v.jpg", "actors": [], "comments": [], "recommandations_id": [146829, 146587, 132508, 146698]}

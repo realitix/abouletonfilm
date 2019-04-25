@@ -1,1 +1,0 @@
-{"tmdb_id": 578793, "title": "Self-Conscious Over You", "original_title": "Self-Conscious Over You", "slug_title": "self-conscious-over-you", "date": "1980-01-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

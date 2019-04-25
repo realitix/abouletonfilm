@@ -1,1 +1,0 @@
-{"tmdb_id": 267140, "title": "Lodz Ghetto", "original_title": "Lodz Ghetto", "slug_title": "lodz-ghetto", "date": "1988-10-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yi21TFdAZY5uWwsOHmGbGg4m3Py.jpg", "actors": ["Jerzy Kosinski (Mordechai Chaim Rumkowski)"], "comments": [], "recommandations_id": []}

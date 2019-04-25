@@ -1,1 +1,0 @@
-{"tmdb_id": 438741, "title": "Being Batman", "original_title": "Being Batman", "slug_title": "being-batman", "date": "2017-01-30", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rQAuDMal8WTUaSQprc44AmlW7cf.jpg", "actors": ["Stephen Lawrence (Himself)"], "comments": [], "recommandations_id": []}

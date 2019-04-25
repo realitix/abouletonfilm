@@ -1,1 +1,0 @@
-{"tmdb_id": 302449, "title": "Harry Hotter and Lord Villaindemort", "original_title": "Harry Hotter and Lord Villaindemort", "slug_title": "harry-hotter-and-lord-villaindemort", "date": "2014-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

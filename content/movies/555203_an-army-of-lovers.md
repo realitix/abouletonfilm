@@ -1,1 +1,0 @@
-{"tmdb_id": 555203, "title": "An Army of Lovers", "original_title": "En Arm\u00e9 av \u00c4lskande", "slug_title": "an-army-of-lovers", "date": "2018-11-09", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hIT8m2ixTHq6lOpYIIVylagwvpk.jpg", "actors": [], "comments": [], "recommandations_id": []}

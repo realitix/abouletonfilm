@@ -1,1 +1,0 @@
-{"tmdb_id": 551666, "title": "Recital", "original_title": "Recital", "slug_title": "recital", "date": "1972-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zZkUmFxTX0rv3Pn7bebsU39IRul.jpg", "actors": [], "comments": [], "recommandations_id": []}

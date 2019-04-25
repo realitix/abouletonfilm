@@ -1,1 +1,0 @@
-{"tmdb_id": 274356, "title": "Africa Live: The Roll Back Malaria Concert", "original_title": "Africa Live: The Roll Back Malaria Concert", "slug_title": "africa-live-the-roll-back-malaria-concert", "date": "2006-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

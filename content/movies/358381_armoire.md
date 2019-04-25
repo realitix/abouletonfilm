@@ -1,1 +1,0 @@
-{"tmdb_id": 358381, "title": "Armoire", "original_title": "Armoire", "slug_title": "armoire", "date": "1970-01-01", "genre": "Animation", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zq3a5HMhq5KPM8WSOUVb6KFGlqB.jpg", "actors": [], "comments": [], "recommandations_id": [128941, 158292, 145013, 125713]}

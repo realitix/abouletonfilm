@@ -1,1 +1,0 @@
-{"tmdb_id": 446204, "title": "Salome\u2019s Picnic", "original_title": "Salome\u2019s Picnic", "slug_title": "salomes-picnic", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

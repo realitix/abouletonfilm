@@ -1,1 +1,0 @@
-{"tmdb_id": 510553, "title": "L'Amico Fritz", "original_title": "L'Amico Fritz", "slug_title": "l-amico-fritz", "date": "2004-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cTEOh9BYoxACr4CzDaCB6YtsN35.jpg", "actors": ["Jos\u00e9 Bros ()", "Dimitra Theodossiou ()"], "comments": [], "recommandations_id": []}

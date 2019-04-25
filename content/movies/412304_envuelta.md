@@ -1,1 +1,1 @@
-{"tmdb_id": 412304, "title": "Envuelta", "original_title": "Envuelta", "slug_title": "envuelta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 412304, "title": "Envuelta", "original_title": "Envuelta", "slug_title": "envuelta", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Short erotic film about human body and light", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

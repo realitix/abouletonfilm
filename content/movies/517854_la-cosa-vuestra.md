@@ -1,1 +1,0 @@
-{"tmdb_id": 517854, "title": "La cosa vuestra", "original_title": "La cosa vuestra", "slug_title": "la-cosa-vuestra", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

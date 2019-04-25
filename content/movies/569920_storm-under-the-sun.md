@@ -1,1 +1,0 @@
-{"tmdb_id": 569920, "title": "Storm Under the Sun", "original_title": "Storm Under the Sun", "slug_title": "storm-under-the-sun", "date": "2007-11-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nlFdKcx8vYuHCPuJgxTHAGdeZv0.jpg", "actors": [], "comments": [], "recommandations_id": []}

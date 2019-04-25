@@ -1,1 +1,0 @@
-{"tmdb_id": 236046, "title": "Andreas Bo: Plagiat", "original_title": "Andreas Bo: Plagiat", "slug_title": "andreas-bo-plagiat", "date": "2013-10-28", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eYreTxfGO8LVQWXeGnAyQDXfRdK.jpg", "actors": ["Andreas Bo Pedersen (Himself)"], "comments": [], "recommandations_id": []}

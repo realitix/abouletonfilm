@@ -1,1 +1,0 @@
-{"tmdb_id": 588132, "title": "The Smelting of Time", "original_title": "La fundici\u00f3n del tiempo", "slug_title": "the-smelting-of-time", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xwNpRAWMVNGcuH91zq0luhvhkwi.jpg", "actors": [], "comments": [], "recommandations_id": []}

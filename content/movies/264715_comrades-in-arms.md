@@ -1,1 +1,0 @@
-{"tmdb_id": 264715, "title": "Comrades in Arms", "original_title": "Comrades in Arms", "slug_title": "comrades-in-arms", "date": "1990-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

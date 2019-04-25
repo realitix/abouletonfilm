@@ -1,1 +1,0 @@
-{"tmdb_id": 104073, "title": "Africa's Elephant Kingdom", "original_title": "Africa's Elephant Kingdom", "slug_title": "africa-s-elephant-kingdom", "date": "1998-05-08", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xnTcU2h6FvRCpo2TUh4Bv2Vq6iq.jpg", "actors": [], "comments": [], "recommandations_id": []}

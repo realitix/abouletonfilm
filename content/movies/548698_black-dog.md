@@ -1,1 +1,0 @@
-{"tmdb_id": 548698, "title": "Black Dog", "original_title": "Black Dog", "slug_title": "black-dog", "date": "2017-09-20", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aYUNepsgMFcK1uoJzUiyWQDiD8D.jpg", "actors": [], "comments": [], "recommandations_id": []}

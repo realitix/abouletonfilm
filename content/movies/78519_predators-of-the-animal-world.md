@@ -1,1 +1,0 @@
-{"tmdb_id": 78519, "title": "Predators of the Animal World", "original_title": "Predators of the Animal World", "slug_title": "predators-of-the-animal-world", "date": "1999-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/icNp8i1SRK2zxxf7focDTqPOsYg.jpg", "actors": [], "comments": [], "recommandations_id": []}

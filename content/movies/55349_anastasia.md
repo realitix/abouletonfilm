@@ -1,1 +1,0 @@
-{"tmdb_id": 55349, "title": "Anastasia", "original_title": "Anastasia", "slug_title": "anastasia", "date": "1997-05-20", "genre": "Musique / Animation / Familial", "score": "7.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hrPV5K7amTFN4xMWi1MaX1CG6ip.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 412816, "title": "Cambiantes Version 2", "original_title": "Cambiantes Version 2", "slug_title": "cambiantes-version-2", "date": "2014-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ggy2RSihLcayQoBIGEzXv2n0UKk.jpg", "actors": [], "comments": [], "recommandations_id": []}

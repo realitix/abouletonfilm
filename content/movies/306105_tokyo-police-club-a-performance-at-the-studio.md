@@ -1,1 +1,0 @@
-{"tmdb_id": 306105, "title": "Tokyo Police Club: A Performance at The Studio", "original_title": "Tokyo Police Club: A Performance at The Studio", "slug_title": "tokyo-police-club-a-performance-at-the-studio", "date": "2010-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

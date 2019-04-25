@@ -1,1 +1,0 @@
-{"tmdb_id": 307518, "title": "Maa Baabu", "original_title": "Maa Baabu", "slug_title": "maa-baabu", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

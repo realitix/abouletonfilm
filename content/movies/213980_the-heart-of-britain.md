@@ -1,1 +1,0 @@
-{"tmdb_id": 213980, "title": "The Heart of Britain", "original_title": "The Heart of Britain", "slug_title": "the-heart-of-britain", "date": "1941-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xQ9edAEYU5WicXrXHBVLjZVXvgV.jpg", "actors": [], "comments": [], "recommandations_id": []}

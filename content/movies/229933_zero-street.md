@@ -1,1 +1,0 @@
-{"tmdb_id": 229933, "title": "Zero Street", "original_title": "Na Ulitsa Nula", "slug_title": "zero-street", "date": "2010-10-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hDqsluMZnnZjwiVPLNW8anxpo1p.jpg", "actors": ["Daniel Rashev ()"], "comments": [], "recommandations_id": []}

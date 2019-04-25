@@ -1,1 +1,0 @@
-{"tmdb_id": 408940, "title": "Frate Francesco", "original_title": "Frate Francesco", "slug_title": "frate-francesco", "date": "1927-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alberto Pasquali (St. Francis of Assisi)", "Alfredo Robert ()", "Romuald Joub\u00e9 ()"], "comments": [], "recommandations_id": []}

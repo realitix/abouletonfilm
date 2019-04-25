@@ -1,1 +1,0 @@
-{"tmdb_id": 335378, "title": "SYNC.SND", "original_title": "SYNC.SND", "slug_title": "sync-snd", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kTGiNVrWxP5CMpiM1XEolCHhjVc.jpg", "actors": [], "comments": [], "recommandations_id": []}

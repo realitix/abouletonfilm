@@ -1,1 +1,0 @@
-{"tmdb_id": 103693, "title": "Jay-Z: Reasonable Doubt", "original_title": "Jay-Z: Reasonable Doubt", "slug_title": "jay-z-reasonable-doubt", "date": "2007-01-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j9CTinlm6Xt6oI6QdR1OF1GeVb4.jpg", "actors": [], "comments": [], "recommandations_id": []}

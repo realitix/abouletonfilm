@@ -1,1 +1,0 @@
-{"tmdb_id": 250359, "title": "Godsend", "original_title": "\uc2e0\uc758 \uc120\ubb3c", "slug_title": "godsend", "date": "2013-10-06", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wlew1HwkX4tgFUZjNNYf2RwG4zM.jpg", "actors": [], "comments": [], "recommandations_id": []}

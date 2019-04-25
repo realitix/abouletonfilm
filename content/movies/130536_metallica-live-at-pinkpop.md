@@ -1,1 +1,0 @@
-{"tmdb_id": 130536, "title": "Metallica: Live at Pinkpop", "original_title": "Metallica: Live at Pinkpop", "slug_title": "metallica-live-at-pinkpop", "date": "2008-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1wYRCPEPLrDRMlZdClUtWhxGlc6.jpg", "actors": [], "comments": [], "recommandations_id": []}

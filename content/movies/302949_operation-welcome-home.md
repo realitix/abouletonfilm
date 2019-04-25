@@ -1,1 +1,0 @@
-{"tmdb_id": 302949, "title": "Operation Welcome Home", "original_title": "Operation Welcome Home", "slug_title": "operation-welcome-home", "date": "1991-05-23", "genre": "Documentaire / Histoire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Colin Powell (Himself)"], "comments": [], "recommandations_id": []}

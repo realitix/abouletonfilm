@@ -1,1 +1,0 @@
-{"tmdb_id": 564107, "title": "Invasion", "original_title": "L'invasion", "slug_title": "invasion", "date": "1970-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vFbh1LEP9yG9XlqLTY9GxmRhv0A.jpg", "actors": [], "comments": [], "recommandations_id": []}

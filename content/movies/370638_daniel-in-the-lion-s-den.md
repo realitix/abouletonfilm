@@ -1,1 +1,0 @@
-{"tmdb_id": 370638, "title": "Daniel in the Lion's Den", "original_title": "S\u00e3o Paulo com Daniel", "slug_title": "daniel-in-the-lion-s-den", "date": "2015-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uae6gwdJmxtqtlazNH6HOBP6SbN.jpg", "actors": [], "comments": [], "recommandations_id": []}

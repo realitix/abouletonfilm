@@ -1,1 +1,0 @@
-{"tmdb_id": 338434, "title": "Der Kommunist", "original_title": "Der Kommunist", "slug_title": "der-kommunist", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 532684, "title": "Buttons in the Ground", "original_title": "Buttons in the Ground", "slug_title": "buttons-in-the-ground", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

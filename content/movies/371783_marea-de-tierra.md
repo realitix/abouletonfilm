@@ -1,1 +1,0 @@
-{"tmdb_id": 371783, "title": "Marea de Tierra", "original_title": "Marea de Tierra", "slug_title": "marea-de-tierra", "date": "2015-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

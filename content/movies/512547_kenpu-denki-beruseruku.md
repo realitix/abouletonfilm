@@ -1,1 +1,0 @@
-{"tmdb_id": 512547, "title": "Kenp\u00fb Denki Beruseruku", "original_title": "Kenp\u00fb Denki Beruseruku", "slug_title": "kenpu-denki-beruseruku", "date": "1997-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kMsGEWmgR9XNnn4JSrJYctHrMUa.jpg", "actors": [], "comments": [], "recommandations_id": []}

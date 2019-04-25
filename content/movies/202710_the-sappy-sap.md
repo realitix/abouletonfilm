@@ -1,1 +1,0 @@
-{"tmdb_id": 202710, "title": "The Sappy Sap", "original_title": "The Sappy Sap", "slug_title": "the-sappy-sap", "date": "1985-07-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AfhYjpst9gkroo3ng4jP9sttTfw.jpg", "actors": ["Scott Spiegel (Man)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 313161, "title": "Casper and Friends by the Old Mill Scream", "original_title": "Casper and Friends by the Old Mill Scream", "slug_title": "casper-and-friends-by-the-old-mill-scream", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

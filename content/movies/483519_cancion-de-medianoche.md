@@ -1,1 +1,0 @@
-{"tmdb_id": 483519, "title": "Cancion de MediaNoche", "original_title": "Cancion de MediaNoche", "slug_title": "cancion-de-medianoche", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

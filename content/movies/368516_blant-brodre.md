@@ -1,1 +1,0 @@
-{"tmdb_id": 368516, "title": "Blant Br\u00f8dre", "original_title": "Blant Br\u00f8dre", "slug_title": "blant-brodre", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

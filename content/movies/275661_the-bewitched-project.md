@@ -1,1 +1,0 @@
-{"tmdb_id": 275661, "title": "The Bewitched Project", "original_title": "The Bewitched Project", "slug_title": "the-bewitched-project", "date": "2000-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

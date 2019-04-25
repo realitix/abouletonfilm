@@ -1,1 +1,0 @@
-{"tmdb_id": 69283, "title": "Call Girls: The Truth", "original_title": "Call Girls: The Truth", "slug_title": "call-girls-the-truth", "date": "2007-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a2cuR5xVUNpPluq1gLPV2vaykB.jpg", "actors": [], "comments": [], "recommandations_id": []}

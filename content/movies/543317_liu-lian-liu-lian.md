@@ -1,1 +1,0 @@
-{"tmdb_id": 543317, "title": "\u69b4\u83b2\u69b4\u83b2", "original_title": "\u69b4\u83b2\u69b4\u83b2", "slug_title": "liu-lian-liu-lian", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

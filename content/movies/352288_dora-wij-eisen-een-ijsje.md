@@ -1,1 +1,0 @@
-{"tmdb_id": 352288, "title": "Dora - Wij Eisen Een Ijsje", "original_title": "Dora - Wij Eisen Een Ijsje", "slug_title": "dora-wij-eisen-een-ijsje", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7wJMvY1ajvtDge5mIHVvfntqX7t.jpg", "actors": [], "comments": [], "recommandations_id": []}

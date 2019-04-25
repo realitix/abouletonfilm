@@ -1,1 +1,0 @@
-{"tmdb_id": 137411, "title": "\u6c34\u9903\u5e7e\u5169", "original_title": "\u6c34\u9903\u5e7e\u5169", "slug_title": "shui-jiao-ji-liang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

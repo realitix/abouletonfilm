@@ -1,1 +1,0 @@
-{"tmdb_id": 387168, "title": "Osamishi Tani no Wakare Uta", "original_title": "Osamishi Tani no Wakare Uta", "slug_title": "osamishi-tani-no-wakare-uta", "date": "1971-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9jixRCqIwILx0atsVqKJniaidUO.jpg", "actors": [], "comments": [], "recommandations_id": []}

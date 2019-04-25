@@ -1,1 +1,0 @@
-{"tmdb_id": 320386, "title": "Journey to the Heart 3: Music for Healing", "original_title": "Journey to the Heart 3: Music for Healing", "slug_title": "journey-to-the-heart-3-music-for-healing", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

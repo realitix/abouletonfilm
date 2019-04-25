@@ -1,1 +1,0 @@
-{"tmdb_id": 368773, "title": "The Swimmer", "original_title": "The Swimmer", "slug_title": "the-swimmer", "date": "2013-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

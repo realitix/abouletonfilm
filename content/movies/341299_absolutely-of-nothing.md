@@ -1,1 +1,0 @@
-{"tmdb_id": 341299, "title": "Absolutely of Nothing", "original_title": "Absolutely of Nothing", "slug_title": "absolutely-of-nothing", "date": "1997-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1LQkSxSm2VfRGjIjRsIGpEoPqM.jpg", "actors": [], "comments": [], "recommandations_id": []}

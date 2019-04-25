@@ -1,1 +1,0 @@
-{"tmdb_id": 317023, "title": "Alfa Tau!", "original_title": "Alfa Tau!", "slug_title": "alfa-tau", "date": "1942-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6fHrdvCd3xnoB6hRlQkfWr70LDw.jpg", "actors": [], "comments": [], "recommandations_id": []}

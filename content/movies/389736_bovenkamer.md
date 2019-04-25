@@ -1,1 +1,0 @@
-{"tmdb_id": 389736, "title": "Bovenkamer", "original_title": "Bovenkamer", "slug_title": "bovenkamer", "date": "2015-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8jBsfGeGeiWDRkPieRhwePfHKch.jpg", "actors": [], "comments": [], "recommandations_id": []}

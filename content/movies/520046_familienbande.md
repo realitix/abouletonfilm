@@ -1,1 +1,0 @@
-{"tmdb_id": 520046, "title": "Familienbande", "original_title": "Familienbande", "slug_title": "familienbande", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

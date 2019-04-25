@@ -1,1 +1,0 @@
-{"tmdb_id": 301623, "title": "Devara Duddu", "original_title": "Devara Duddu", "slug_title": "devara-duddu", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 497486, "title": "Lenno & de Maanvis", "original_title": "Lenno & de Maanvis", "slug_title": "lenno-de-maanvis", "date": "2017-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kc1bBZHkaa3Lf3T3qhvEwdSQAaL.jpg", "actors": [], "comments": [], "recommandations_id": []}

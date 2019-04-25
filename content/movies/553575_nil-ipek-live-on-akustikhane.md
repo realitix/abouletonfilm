@@ -1,1 +1,0 @@
-{"tmdb_id": 553575, "title": "Nil Ipek Live On Akustikhane", "original_title": "Nil Ipek Live On Akustikhane", "slug_title": "nil-ipek-live-on-akustikhane", "date": "2017-05-11", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f1DjhkFy6Eee52ti10qojaOHnXa.jpg", "actors": [], "comments": [], "recommandations_id": []}

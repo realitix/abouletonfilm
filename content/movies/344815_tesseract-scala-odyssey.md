@@ -1,1 +1,0 @@
-{"tmdb_id": 344815, "title": "TesseracT: Scala / Odyssey", "original_title": "TesseracT: Scala / Odyssey", "slug_title": "tesseract-scala-odyssey", "date": "2015-05-16", "genre": "Musique", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6wKANLsOysMveMqwNM7mPVe3oWr.jpg", "actors": [], "comments": [], "recommandations_id": []}

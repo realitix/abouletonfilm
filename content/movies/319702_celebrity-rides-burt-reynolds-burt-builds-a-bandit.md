@@ -1,1 +1,0 @@
-{"tmdb_id": 319702, "title": "Celebrity Rides: Burt Reynolds: Burt Builds a Bandit", "original_title": "Celebrity Rides: Burt Reynolds: Burt Builds a Bandit", "slug_title": "celebrity-rides-burt-reynolds-burt-builds-a-bandit", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

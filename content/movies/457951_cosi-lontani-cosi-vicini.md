@@ -1,1 +1,0 @@
-{"tmdb_id": 457951, "title": "Cos\u00ec lontani cos\u00ec vicini", "original_title": "Cos\u00ec lontani cos\u00ec vicini", "slug_title": "cosi-lontani-cosi-vicini", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

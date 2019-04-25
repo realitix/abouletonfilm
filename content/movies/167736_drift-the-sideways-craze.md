@@ -1,1 +1,0 @@
-{"tmdb_id": 167736, "title": "Drift - The Sideways Craze", "original_title": "Drift - The Sideways Craze", "slug_title": "drift-the-sideways-craze", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vLrFNi5dunkrlJBOXdkq8p4Ripr.jpg", "actors": [], "comments": [], "recommandations_id": []}

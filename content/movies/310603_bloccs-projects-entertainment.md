@@ -1,1 +1,0 @@
-{"tmdb_id": 310603, "title": "Bloccs, Projects & Entertainment", "original_title": "Bloccs, Projects & Entertainment", "slug_title": "bloccs-projects-entertainment", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

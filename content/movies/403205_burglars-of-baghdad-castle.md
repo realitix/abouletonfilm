@@ -1,1 +1,0 @@
-{"tmdb_id": 403205, "title": "Burglars of \"Baghdad\" Castle", "original_title": "\u99ac\u5177\u7530\u57ce\u306e\u76d7\u8cca", "slug_title": "burglars-of-baghdad-castle", "date": "1926-06-15", "genre": "Fantastique / Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

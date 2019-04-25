@@ -1,1 +1,0 @@
-{"tmdb_id": 557763, "title": "Hank Plays Live 2004", "original_title": "Hank Plays Live 2004", "slug_title": "hank-plays-live-2004", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rjFXyhMy8ZvFnrBMs0ti4kX1O4X.jpg", "actors": [], "comments": [], "recommandations_id": []}

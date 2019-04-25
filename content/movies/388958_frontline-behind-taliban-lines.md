@@ -1,1 +1,0 @@
-{"tmdb_id": 388958, "title": "Frontline Behind Taliban Lines", "original_title": "Frontline Behind Taliban Lines", "slug_title": "frontline-behind-taliban-lines", "date": "2010-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

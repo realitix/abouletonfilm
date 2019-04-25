@@ -1,1 +1,0 @@
-{"tmdb_id": 298826, "title": "Lahna Turner: I Wrote A Song About It", "original_title": "Lahna Turner: I Wrote A Song About It", "slug_title": "lahna-turner-i-wrote-a-song-about-it", "date": "2014-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

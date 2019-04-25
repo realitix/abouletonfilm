@@ -1,1 +1,0 @@
-{"tmdb_id": 539882, "title": "L\u00e9opold le bien-aim\u00e9", "original_title": "L\u00e9opold le bien-aim\u00e9", "slug_title": "leopold-le-bien-aime", "date": "1934-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uqao7TgZynRQQhgv5wVS9X28CMt.jpg", "actors": [], "comments": [], "recommandations_id": []}

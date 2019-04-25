@@ -1,1 +1,0 @@
-{"tmdb_id": 565557, "title": "\u00c0 l'est du Rio Concho", "original_title": "\u00c0 l'est du Rio Concho", "slug_title": "a-l-est-du-rio-concho", "date": "1978-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

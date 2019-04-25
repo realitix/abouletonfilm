@@ -1,1 +1,0 @@
-{"tmdb_id": 383955, "title": "Meine Eltern", "original_title": "Meine Eltern", "slug_title": "meine-eltern", "date": "2003-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k9Uxkl7PC7S5rrT21HmRxVoyvlx.jpg", "actors": [], "comments": [], "recommandations_id": []}

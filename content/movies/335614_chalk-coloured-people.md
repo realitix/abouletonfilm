@@ -1,1 +1,0 @@
-{"tmdb_id": 335614, "title": "Chalk Coloured People", "original_title": "Chalk-iro no People", "slug_title": "chalk-coloured-people", "date": "1988-10-05", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yfiKN34YTOk86nBNvbfx6wBO023.jpg", "actors": [], "comments": [], "recommandations_id": []}

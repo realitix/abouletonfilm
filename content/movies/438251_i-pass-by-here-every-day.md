@@ -1,1 +1,0 @@
-{"tmdb_id": 438251, "title": "I Pass by Here Every Day", "original_title": "Cada d\u00eda paso por aqu\u00ed", "slug_title": "i-pass-by-here-every-day", "date": "2004-01-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

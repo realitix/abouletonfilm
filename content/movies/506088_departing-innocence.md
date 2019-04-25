@@ -1,1 +1,0 @@
-{"tmdb_id": 506088, "title": "Departing Innocence", "original_title": "Departing Innocence", "slug_title": "departing-innocence", "date": "2014-02-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

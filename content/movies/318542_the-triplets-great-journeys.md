@@ -1,1 +1,0 @@
-{"tmdb_id": 318542, "title": "The Triplets: Great Journeys", "original_title": "The Triplets: Great Journeys", "slug_title": "the-triplets-great-journeys", "date": "2004-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

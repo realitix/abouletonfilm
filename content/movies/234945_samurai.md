@@ -1,1 +1,0 @@
-{"tmdb_id": 234945, "title": "Samurai", "original_title": "Samurai", "slug_title": "samurai", "date": "2010-01-11", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AggUoInwpr5K0lP7y4VDS0i7SrK.jpg", "actors": ["Mark Dacascos ()"], "comments": [], "recommandations_id": []}

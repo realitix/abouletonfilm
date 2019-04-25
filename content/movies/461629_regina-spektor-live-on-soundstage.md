@@ -1,1 +1,0 @@
-{"tmdb_id": 461629, "title": "Regina Spektor Live on Soundstage", "original_title": "Regina Spektor Live on Soundstage", "slug_title": "regina-spektor-live-on-soundstage", "date": "2017-06-16", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Regina Spektor (Herself)"], "comments": [], "recommandations_id": []}

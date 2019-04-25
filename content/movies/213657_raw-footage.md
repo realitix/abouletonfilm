@@ -1,1 +1,0 @@
-{"tmdb_id": 213657, "title": "Raw Footage", "original_title": "Raw Footage", "slug_title": "raw-footage", "date": "2007-04-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

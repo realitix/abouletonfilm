@@ -1,1 +1,0 @@
-{"tmdb_id": 30953, "title": "Bj\u00f6rk: Volumen", "original_title": "Bj\u00f6rk: Volumen", "slug_title": "bjork-volumen", "date": "1999-01-01", "genre": "Musique", "score": "9.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uEfwqT0vIA31SPyfEihNRmBpQ1C.jpg", "actors": ["Bj\u00f6rk (Herself)"], "comments": [], "recommandations_id": []}

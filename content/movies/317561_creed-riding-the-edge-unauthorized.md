@@ -1,1 +1,0 @@
-{"tmdb_id": 317561, "title": "Creed: Riding the Edge: Unauthorized", "original_title": "Creed: Riding the Edge: Unauthorized", "slug_title": "creed-riding-the-edge-unauthorized", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 263823, "title": "Sentimentalnyy roman", "original_title": "Sentimentalnyy roman", "slug_title": "sentimentalnyy-roman", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

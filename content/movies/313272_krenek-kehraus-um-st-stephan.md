@@ -1,1 +1,0 @@
-{"tmdb_id": 313272, "title": "Krenek: Kehraus um St. Stephan", "original_title": "Krenek: Kehraus um St. Stephan", "slug_title": "krenek-kehraus-um-st-stephan", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

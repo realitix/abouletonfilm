@@ -1,1 +1,0 @@
-{"tmdb_id": 87848, "title": "Anyone Can Play Guitar", "original_title": "Anyone Can Play Guitar", "slug_title": "anyone-can-play-guitar", "date": "2009-12-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eD3B0YsLN0yqMCX3XLhuIk83rRA.jpg", "actors": [], "comments": [], "recommandations_id": []}

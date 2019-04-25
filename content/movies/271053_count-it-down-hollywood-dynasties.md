@@ -1,1 +1,0 @@
-{"tmdb_id": 271053, "title": "Count It Down: Hollywood Dynasties", "original_title": "Count It Down: Hollywood Dynasties", "slug_title": "count-it-down-hollywood-dynasties", "date": "2012-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

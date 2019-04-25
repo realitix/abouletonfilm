@@ -1,1 +1,0 @@
-{"tmdb_id": 362032, "title": "Celtic Thunder - Voyage II", "original_title": "Celtic Thunder - Voyage II", "slug_title": "celtic-thunder-voyage-ii", "date": "2012-06-25", "genre": "Musique", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x7HLvWbOiHj6eCTeJmqz8o7DZu3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 306118, "title": "Laugh Factory Presents Raj Sharma", "original_title": "Laugh Factory Presents Raj Sharma", "slug_title": "laugh-factory-presents-raj-sharma", "date": "2014-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

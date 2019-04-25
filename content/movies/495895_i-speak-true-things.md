@@ -1,1 +1,0 @@
-{"tmdb_id": 495895, "title": "I Speak True Things", "original_title": "I Speak True Things", "slug_title": "i-speak-true-things", "date": "2009-09-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

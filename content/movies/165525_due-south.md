@@ -1,1 +1,0 @@
-{"tmdb_id": 165525, "title": "Due South", "original_title": "Due South", "slug_title": "due-south", "date": "1994-04-23", "genre": "", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rhXN7TqUmUbof4znk8iJ8cebBoj.jpg", "actors": ["Paul Gross ()", "David Marciano ()"], "comments": [], "recommandations_id": []}

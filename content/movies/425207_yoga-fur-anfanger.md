@@ -1,1 +1,0 @@
-{"tmdb_id": 425207, "title": "Yoga f\u00fcr Anf\u00e4nger", "original_title": "Yoga f\u00fcr Anf\u00e4nger", "slug_title": "yoga-fur-anfanger", "date": "2016-08-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s3E5aVCx7FGgTyfNKzuwcXNqBe1.jpg", "actors": [], "comments": [], "recommandations_id": []}

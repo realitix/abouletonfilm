@@ -1,1 +1,0 @@
-{"tmdb_id": 563720, "title": "The Law of Averages", "original_title": "The Law of Averages", "slug_title": "the-law-of-averages", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

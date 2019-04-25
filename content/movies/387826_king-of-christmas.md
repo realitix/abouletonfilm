@@ -1,1 +1,0 @@
-{"tmdb_id": 387826, "title": "King of Christmas", "original_title": "King of Christmas", "slug_title": "king-of-christmas", "date": "2006-03-15", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Colin Buchanan (Colin Buchanan)"], "comments": [], "recommandations_id": []}

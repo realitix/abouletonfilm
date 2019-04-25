@@ -1,1 +1,0 @@
-{"tmdb_id": 258845, "title": "Le Dieu Saturne", "original_title": "Le Dieu Saturne", "slug_title": "le-dieu-saturne", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kwKvKqw7iTH856EHgslq5qFfZoG.jpg", "actors": [], "comments": [], "recommandations_id": []}

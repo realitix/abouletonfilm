@@ -1,1 +1,0 @@
-{"tmdb_id": 523992, "title": "Fotogr\u00e1fica", "original_title": "Fotogr\u00e1fica", "slug_title": "fotografica", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3TAoYxFY7jFXdfezd8OG5NFS7Dc.jpg", "actors": [], "comments": [], "recommandations_id": []}

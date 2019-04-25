@@ -1,1 +1,0 @@
-{"tmdb_id": 483234, "title": "Genosse Luther", "original_title": "Genosse Luther", "slug_title": "genosse-luther", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

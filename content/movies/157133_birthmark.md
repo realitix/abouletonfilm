@@ -1,1 +1,0 @@
-{"tmdb_id": 157133, "title": "Birthmark", "original_title": "Birthmark", "slug_title": "birthmark", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 571733, "title": "Beyonc\u00e9: Year of 4", "original_title": "Beyonc\u00e9: Year of 4", "slug_title": "beyonce-year-of-4", "date": "2011-07-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Beyonc\u00e9 Knowles (Herself)"], "comments": [], "recommandations_id": []}

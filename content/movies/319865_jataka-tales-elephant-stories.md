@@ -1,1 +1,0 @@
-{"tmdb_id": 319865, "title": "Jataka Tales: Elephant Stories", "original_title": "Jataka Tales: Elephant Stories", "slug_title": "jataka-tales-elephant-stories", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

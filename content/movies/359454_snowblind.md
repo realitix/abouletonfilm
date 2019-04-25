@@ -1,1 +1,0 @@
-{"tmdb_id": 359454, "title": "Snowblind", "original_title": "Snowblind", "slug_title": "snowblind", "date": "1968-09-12", "genre": "", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3DeFSwbyx5Mkxtb31IopUB9rUJs.jpg", "actors": [], "comments": [], "recommandations_id": [196198]}

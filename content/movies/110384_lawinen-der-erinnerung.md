@@ -1,1 +1,0 @@
-{"tmdb_id": 110384, "title": "Lawinen der Erinnerung", "original_title": "Lawinen der Erinnerung", "slug_title": "lawinen-der-erinnerung", "date": "2012-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

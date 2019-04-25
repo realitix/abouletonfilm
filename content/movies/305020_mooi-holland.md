@@ -1,1 +1,0 @@
-{"tmdb_id": 305020, "title": "Mooi Holland", "original_title": "Mooi Holland", "slug_title": "mooi-holland", "date": "1915-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 478573, "title": "\ubc14\ub2e4\uc758 \uc0ac\uc790\ub4e4", "original_title": "\ubc14\ub2e4\uc758 \uc0ac\uc790\ub4e4", "slug_title": "badayi-sajadeul", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

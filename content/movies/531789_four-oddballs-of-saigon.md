@@ -1,1 +1,0 @@
-{"tmdb_id": 531789, "title": "Four Oddballs of Saigon", "original_title": "Four Oddballs of Saigon", "slug_title": "four-oddballs-of-saigon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2WygkTfUCBw9OB4bp1KVrwCptef.jpg", "actors": [], "comments": [], "recommandations_id": []}

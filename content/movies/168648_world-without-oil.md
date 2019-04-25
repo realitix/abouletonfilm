@@ -1,1 +1,0 @@
-{"tmdb_id": 168648, "title": "World Without Oil", "original_title": "World Without Oil", "slug_title": "world-without-oil", "date": "2010-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/afu2lYfwDsrQOHpYrvJWJkEFved.jpg", "actors": ["Mike McCurlie (Himself)"], "comments": [], "recommandations_id": []}

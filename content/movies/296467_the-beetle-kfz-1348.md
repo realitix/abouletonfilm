@@ -1,1 +1,0 @@
-{"tmdb_id": 296467, "title": "The Beetle KFZ-1348", "original_title": "KFZ-1348", "slug_title": "the-beetle-kfz-1348", "date": "2008-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1BnAU8u9IvMCkqezifLzOY72AUq.jpg", "actors": [], "comments": [], "recommandations_id": []}

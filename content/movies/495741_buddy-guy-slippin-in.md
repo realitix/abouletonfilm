@@ -1,1 +1,0 @@
-{"tmdb_id": 495741, "title": "Buddy Guy - Slippin in", "original_title": "Buddy Guy - Slippin in", "slug_title": "buddy-guy-slippin-in", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uvHSXQgAHC6QdgJPhle6NZ7S4Fk.jpg", "actors": [], "comments": [], "recommandations_id": []}

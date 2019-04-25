@@ -1,1 +1,0 @@
-{"tmdb_id": 269262, "title": "Un uomo facile", "original_title": "Un uomo facile", "slug_title": "un-uomo-facile", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xAUoQjRLGnJELQg3vOfejjycbIp.jpg", "actors": [], "comments": [], "recommandations_id": []}

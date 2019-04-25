@@ -1,1 +1,0 @@
-{"tmdb_id": 506490, "title": "Passageways", "original_title": "Passageways", "slug_title": "passageways", "date": "2007-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/TzPi66xZLl9jnVoGTz5CcZ7YAc.jpg", "actors": [], "comments": [], "recommandations_id": []}

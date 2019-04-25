@@ -1,1 +1,0 @@
-{"tmdb_id": 256681, "title": "La Brune et moi", "original_title": "La Brune et moi", "slug_title": "la-brune-et-moi", "date": "1981-04-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/erc4beLiEQETJCR70RhHyTTQTdR.jpg", "actors": ["Pierre Cl\u00e9menti ()"], "comments": [], "recommandations_id": []}

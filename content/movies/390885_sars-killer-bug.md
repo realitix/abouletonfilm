@@ -1,1 +1,0 @@
-{"tmdb_id": 390885, "title": "SARS: Killer Bug", "original_title": "SARS: Killer Bug", "slug_title": "sars-killer-bug", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iRS8MrzjNJVbBUSJxUvtXS2WfzB.jpg", "actors": [], "comments": [], "recommandations_id": []}

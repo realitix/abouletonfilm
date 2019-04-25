@@ -1,1 +1,0 @@
-{"tmdb_id": 370924, "title": "The Good Girl", "original_title": "The Good Girl", "slug_title": "the-good-girl", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/60MUkKMfhcfIPkwg5h7mjf5cr8A.jpg", "actors": [], "comments": [], "recommandations_id": []}

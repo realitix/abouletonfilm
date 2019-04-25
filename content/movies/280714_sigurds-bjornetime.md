@@ -1,1 +1,0 @@
-{"tmdb_id": 280714, "title": "Sigurds Bj\u00f8rnetime", "original_title": "Sigurds Bj\u00f8rnetime", "slug_title": "sigurds-bjornetime", "date": "2005-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7bU1X9yOCpO8lopY2aVrk1xktx9.jpg", "actors": [], "comments": [], "recommandations_id": []}

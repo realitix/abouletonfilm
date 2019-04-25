@@ -1,1 +1,0 @@
-{"tmdb_id": 175476, "title": "At the Ringside", "original_title": "At the Ringside", "slug_title": "at-the-ringside", "date": "1921-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["'Snub' Pollard ()", "Marie Mosquini ()"], "comments": [], "recommandations_id": []}

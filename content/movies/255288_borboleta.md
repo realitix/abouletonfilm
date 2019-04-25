@@ -1,1 +1,0 @@
-{"tmdb_id": 255288, "title": "Borboleta", "original_title": "Borboleta", "slug_title": "borboleta", "date": "2011-01-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mxAB1pBipW8vuzVxKpkXILJmqRd.jpg", "actors": ["Jo\u00e3o Marco ()", "M\u00f3nica Saint-Michel ()"], "comments": [], "recommandations_id": []}

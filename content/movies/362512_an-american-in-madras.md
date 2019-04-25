@@ -1,1 +1,0 @@
-{"tmdb_id": 362512, "title": "An American in Madras", "original_title": "An American in Madras", "slug_title": "an-american-in-madras", "date": "2013-12-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/16F1WF5t6pwjThUUZSzkAajHYBT.jpg", "actors": [], "comments": [], "recommandations_id": []}

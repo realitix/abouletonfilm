@@ -1,1 +1,0 @@
-{"tmdb_id": 318412, "title": "Fred Sokolow: Cole Porter Songbook", "original_title": "Fred Sokolow: Cole Porter Songbook", "slug_title": "fred-sokolow-cole-porter-songbook", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

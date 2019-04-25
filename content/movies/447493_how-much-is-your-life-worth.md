@@ -1,1 +1,0 @@
-{"tmdb_id": 447493, "title": "How Much Is Your Life Worth?", "original_title": "How Much Is Your Life Worth?", "slug_title": "how-much-is-your-life-worth", "date": "2007-05-01", "genre": "Crime / T\u00e9l\u00e9film / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

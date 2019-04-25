@@ -1,1 +1,0 @@
-{"tmdb_id": 415215, "title": "D2Technology", "original_title": "D2Technology", "slug_title": "d2technology", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

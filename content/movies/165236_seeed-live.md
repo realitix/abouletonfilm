@@ -1,1 +1,0 @@
-{"tmdb_id": 165236, "title": "Seeed - Live", "original_title": "Seeed - Live", "slug_title": "seeed-live", "date": "2006-11-02", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tPiwVB3n8usxbUQjUvyYKu4H4kf.jpg", "actors": ["Seeed ()"], "comments": [], "recommandations_id": []}

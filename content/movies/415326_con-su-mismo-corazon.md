@@ -1,1 +1,0 @@
-{"tmdb_id": 415326, "title": "Con su mismo coraz\u00f3n", "original_title": "Con su mismo coraz\u00f3n", "slug_title": "con-su-mismo-corazon", "date": "1991-01-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

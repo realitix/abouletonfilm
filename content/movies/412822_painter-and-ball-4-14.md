@@ -1,1 +1,0 @@
-{"tmdb_id": 412822, "title": "Painter and Ball 4-14", "original_title": "Painter and Ball 4-14", "slug_title": "painter-and-ball-4-14", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cMQwfiEIcswZKJ5Ju42lVHf9D6w.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 204009, "title": "Ocean Warrior", "original_title": "Ocean Warrior", "slug_title": "ocean-warrior", "date": "1981-01-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xdx1uayHfO749dGy0dVvKvyUkKK.jpg", "actors": ["Paul Watson ()"], "comments": [], "recommandations_id": []}

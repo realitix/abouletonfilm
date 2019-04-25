@@ -1,1 +1,0 @@
-{"tmdb_id": 120085, "title": "The Big Bang", "original_title": "The Big Bang", "slug_title": "the-big-bang", "date": "1989-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j0JyuSV8BElLhMiRKux2KHgFGXq.jpg", "actors": [], "comments": [], "recommandations_id": []}

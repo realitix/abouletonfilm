@@ -1,1 +1,0 @@
-{"tmdb_id": 478312, "title": "My Dogs, Jinjin and Akida", "original_title": "My Dogs, Jinjin and Akida", "slug_title": "my-dogs-jinjin-and-akida", "date": "2016-10-22", "genre": "Drame / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 362309, "title": "Cold Nights Hot Salsa", "original_title": "Cold Nights Hot Salsa", "slug_title": "cold-nights-hot-salsa", "date": "2015-09-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/90yeDk9dmexgiuBG0f0LzuADuMc.jpg", "actors": [], "comments": [], "recommandations_id": []}

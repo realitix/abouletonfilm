@@ -1,1 +1,0 @@
-{"tmdb_id": 349536, "title": "A Light in My Heart", "original_title": "\ube5b\uc740 \ub0b4 \uac00\uc2b4\uc5d0", "slug_title": "a-light-in-my-heart", "date": "1995-10-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lJTuDrrs5DxQacKd2DKBtXUm167.jpg", "actors": [], "comments": [], "recommandations_id": []}

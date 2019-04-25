@@ -1,1 +1,0 @@
-{"tmdb_id": 351021, "title": "The Mad King", "original_title": "The Mad King", "slug_title": "the-mad-king", "date": "1932-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

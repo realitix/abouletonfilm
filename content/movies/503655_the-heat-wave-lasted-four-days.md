@@ -1,1 +1,0 @@
-{"tmdb_id": 503655, "title": "The Heat Wave Lasted Four Days", "original_title": "The Heat Wave Lasted Four Days", "slug_title": "the-heat-wave-lasted-four-days", "date": "1975-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zOgT6fCBYuI11ShiNkNklfadTuC.jpg", "actors": [], "comments": [], "recommandations_id": []}

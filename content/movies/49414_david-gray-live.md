@@ -1,1 +1,0 @@
-{"tmdb_id": 49414, "title": "David Gray - Live", "original_title": "David Gray - Live", "slug_title": "david-gray-live", "date": "2000-07-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6uAZEPTkQwqOnIp56ExZJC38c3Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

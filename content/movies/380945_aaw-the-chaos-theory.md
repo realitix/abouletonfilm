@@ -1,1 +1,0 @@
-{"tmdb_id": 380945, "title": "AAW The Chaos Theory", "original_title": "AAW The Chaos Theory", "slug_title": "aaw-the-chaos-theory", "date": "2016-01-15", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dTr6O50yaG1rOnbVGNqOojvr9Cp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 472376, "title": "Stars & Bars", "original_title": "Stars & Bars", "slug_title": "stars-bars", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

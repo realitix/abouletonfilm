@@ -1,1 +1,0 @@
-{"tmdb_id": 441998, "title": "\u041d\u043e\u0432\u0438\u0447\u043e\u043a", "original_title": "\u041d\u043e\u0432\u0438\u0447\u043e\u043a", "slug_title": "novichok", "date": "1961-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yjUXhI0yTJuO26s1XNoo6yf4iUa.jpg", "actors": [], "comments": [], "recommandations_id": []}

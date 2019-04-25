@@ -1,1 +1,0 @@
-{"tmdb_id": 530306, "title": "De ooggetuige", "original_title": "De ooggetuige", "slug_title": "de-ooggetuige", "date": "1996-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

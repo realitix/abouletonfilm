@@ -1,1 +1,0 @@
-{"tmdb_id": 433921, "title": "Evil Shadow", "original_title": "Evil Shadow", "slug_title": "evil-shadow", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6rF5QQRE2rmdgcO1Bv8njAUrBbo.jpg", "actors": [], "comments": [], "recommandations_id": []}

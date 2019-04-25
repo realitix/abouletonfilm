@@ -1,1 +1,0 @@
-{"tmdb_id": 69958, "title": "Suitable for Murder", "original_title": "Suitable for Murder", "slug_title": "suitable-for-murder", "date": "2008-01-01", "genre": "Horreur / Action / Thriller / Crime", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jf9tcS5FTSsFdUUjT25DPLRIR3b.jpg", "actors": [], "comments": [], "recommandations_id": []}

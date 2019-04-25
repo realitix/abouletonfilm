@@ -1,1 +1,0 @@
-{"tmdb_id": 407208, "title": "I Hate Mondays", "original_title": "I Hate Mondays", "slug_title": "i-hate-mondays", "date": "2016-06-27", "genre": "Science-Fiction / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gKOny6Q8hxkbZ0fijEuil4UM91C.jpg", "actors": [], "comments": [], "recommandations_id": []}

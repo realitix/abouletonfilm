@@ -1,1 +1,1 @@
-{"tmdb_id": 529558, "title": "Kestrel", "original_title": "Kestrel", "slug_title": "kestrel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 529558, "title": "Kestrel", "original_title": "Kestrel", "slug_title": "kestrel", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

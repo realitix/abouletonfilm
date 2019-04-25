@@ -1,1 +1,0 @@
-{"tmdb_id": 181982, "title": "B.B. King Jazz Casual", "original_title": "B.B. King Jazz Casual", "slug_title": "b-b-king-jazz-casual", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qi3zyKhqFqEOrKkYN0UKzEAYsno.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 563719, "title": "NFL SPORT", "original_title": "NFL SPORT", "slug_title": "nfl-sport", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zTWuIY2lm3QeTgacFs7EQ9g95en.jpg", "actors": [], "comments": [], "recommandations_id": []}

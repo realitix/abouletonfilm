@@ -1,1 +1,0 @@
-{"tmdb_id": 70048, "title": "To Fight For: The Year of Decision", "original_title": "Friedensschlag - Das Jahr der Entscheidung", "slug_title": "to-fight-for-the-year-of-decision", "date": "2010-01-01", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 352749, "title": "Serambi", "original_title": "Serambi", "slug_title": "serambi", "date": "2005-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 281205, "title": "Keepin' The Faith: Higher Ground", "original_title": "Keepin' The Faith: Higher Ground", "slug_title": "keepin-the-faith-higher-ground", "date": "2008-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

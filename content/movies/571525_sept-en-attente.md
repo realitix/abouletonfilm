@@ -1,1 +1,0 @@
-{"tmdb_id": 571525, "title": "Sept en attente", "original_title": "Sept en attente", "slug_title": "sept-en-attente", "date": "1996-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6kEKJgKerIK7oBD9ezdL5ggcaAi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 404362, "title": "A Gift for Heidi", "original_title": "A Gift for Heidi", "slug_title": "a-gift-for-heidi", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nAFuBUAuvAim0AGahEgHn1rGbms.jpg", "actors": [], "comments": [], "recommandations_id": []}

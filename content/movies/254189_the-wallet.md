@@ -1,1 +1,0 @@
-{"tmdb_id": 254189, "title": "The Wallet", "original_title": "Le portefeuille", "slug_title": "the-wallet", "date": "2003-10-08", "genre": "Animation / Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hRaA03dJ478lArFT7l9VbEUTyxt.jpg", "actors": [], "comments": [], "recommandations_id": []}

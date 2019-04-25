@@ -1,1 +1,0 @@
-{"tmdb_id": 414083, "title": "About a young man", "original_title": "About a young man", "slug_title": "about-a-young-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

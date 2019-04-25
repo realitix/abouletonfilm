@@ -1,1 +1,0 @@
-{"tmdb_id": 28726, "title": "Baseline Killer", "original_title": "Baseline Killer", "slug_title": "baseline-killer", "date": "2009-04-07", "genre": "Drame / Horreur", "score": "2.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hvJTwzWEPbSbhEKNIh5GsZRXjEk.jpg", "actors": [], "comments": [], "recommandations_id": []}

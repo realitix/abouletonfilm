@@ -1,1 +1,0 @@
-{"tmdb_id": 103093, "title": "Camelot", "original_title": "Camelot", "slug_title": "camelot", "date": "1998-02-17", "genre": "Musique / Animation / Familial / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

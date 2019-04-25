@@ -1,1 +1,0 @@
-{"tmdb_id": 319491, "title": "Lil Boosie: Bad Azz", "original_title": "Lil Boosie: Bad Azz", "slug_title": "lil-boosie-bad-azz", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

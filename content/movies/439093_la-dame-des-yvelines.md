@@ -1,1 +1,0 @@
-{"tmdb_id": 439093, "title": "La Dame Des Yvelines", "original_title": "La Dame Des Yvelines", "slug_title": "la-dame-des-yvelines", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/moHizrylq0G4aRWAWoMykFIYJZx.jpg", "actors": [], "comments": [], "recommandations_id": []}

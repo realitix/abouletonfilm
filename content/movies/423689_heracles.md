@@ -1,1 +1,0 @@
-{"tmdb_id": 423689, "title": "Heracles", "original_title": "Heracles", "slug_title": "heracles", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

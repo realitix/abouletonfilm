@@ -1,1 +1,0 @@
-{"tmdb_id": 425365, "title": "El derrumbamiento del Ej\u00e9rcito Rojo", "original_title": "El derrumbamiento del Ej\u00e9rcito Rojo", "slug_title": "el-derrumbamiento-del-ejercito-rojo", "date": "1939-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 130800, "title": "Song of Silence", "original_title": "Yang Mei Zhou", "slug_title": "song-of-silence", "date": "2012-04-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ruKLfKkGdUjs4XcLXTgPrHoigvW.jpg", "actors": ["Yaning Ying (Xiao Jing)"], "comments": [], "recommandations_id": []}

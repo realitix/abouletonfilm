@@ -1,1 +1,0 @@
-{"tmdb_id": 103791, "title": "Rou\u00e9 Verveer: R.I.P.", "original_title": "Rou\u00e9 Verveer: R.I.P.", "slug_title": "roue-verveer-r-i-p", "date": "2007-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/trZFlffx5EwdyLitpT01NEB4qRc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 588798, "title": "Patouillard paie ses dettes", "original_title": "Patouillard paie ses dettes", "slug_title": "patouillard-paie-ses-dettes", "date": "1911-10-20", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Bertho (Patouillard)"], "comments": [], "recommandations_id": []}

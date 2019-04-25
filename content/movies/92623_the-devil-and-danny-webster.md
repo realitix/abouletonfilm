@@ -1,1 +1,0 @@
-{"tmdb_id": 92623, "title": "The Devil and Danny Webster", "original_title": "The Devil and Danny Webster", "slug_title": "the-devil-and-danny-webster", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Seth King (Jason Stone)"], "comments": [], "recommandations_id": []}

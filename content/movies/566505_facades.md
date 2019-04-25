@@ -1,1 +1,0 @@
-{"tmdb_id": 566505, "title": "Facades", "original_title": "Facades", "slug_title": "facades", "date": "2018-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

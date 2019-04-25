@@ -1,1 +1,0 @@
-{"tmdb_id": 322446, "title": "Donald's Pretpaleis", "original_title": "Donald's Pretpaleis", "slug_title": "donald-s-pretpaleis", "date": "2004-08-04", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zjbsxOUSFbFUDXAgkQ7GmlsJtdE.jpg", "actors": [], "comments": [], "recommandations_id": []}

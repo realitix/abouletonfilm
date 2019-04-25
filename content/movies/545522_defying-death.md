@@ -1,1 +1,0 @@
-{"tmdb_id": 545522, "title": "Defying Death", "original_title": "\u6b7b\u62fc", "slug_title": "defying-death", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dADChW6aoSbuRZn3EPPniJiTgc5.jpg", "actors": ["Zhang Shan ()"], "comments": [], "recommandations_id": []}

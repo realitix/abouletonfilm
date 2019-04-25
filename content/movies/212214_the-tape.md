@@ -1,1 +1,0 @@
-{"tmdb_id": 212214, "title": "The Tape", "original_title": "The Tape", "slug_title": "the-tape", "date": "", "genre": "Drame / Aventure", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shawn Lawrence (Pawn Shop Owner)", "Julian Richings (Jack)"], "comments": [], "recommandations_id": []}

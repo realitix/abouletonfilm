@@ -1,1 +1,0 @@
-{"tmdb_id": 591617, "title": "Let the Child Be the Guide", "original_title": "Le ma\u00eetre est l'enfant", "slug_title": "let-the-child-be-the-guide", "date": "2018-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rn8qDTJbHtDzU7KLq08ZozlzRrF.jpg", "actors": [], "comments": [], "recommandations_id": []}

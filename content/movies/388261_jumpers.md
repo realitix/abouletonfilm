@@ -1,1 +1,0 @@
-{"tmdb_id": 388261, "title": "Jumpers", "original_title": "Jumpers", "slug_title": "jumpers", "date": "2016-03-17", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yyptZO48GZg3qOkFOWx55v3unYR.jpg", "actors": [], "comments": [], "recommandations_id": []}

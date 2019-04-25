@@ -1,1 +1,0 @@
-{"tmdb_id": 575283, "title": "Affair in the Air", "original_title": "Affair in the Air", "slug_title": "affair-in-the-air", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6vISdwkqFC1XtFW52bNdnvptxLZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

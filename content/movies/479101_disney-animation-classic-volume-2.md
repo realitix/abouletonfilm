@@ -1,1 +1,0 @@
-{"tmdb_id": 479101, "title": "Disney Animation Classic: Volume 2", "original_title": "Disney Animation Classic: Volume 2", "slug_title": "disney-animation-classic-volume-2", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3lc6G04u3MVwIyyDuAlNtTbcvPv.jpg", "actors": [], "comments": [], "recommandations_id": []}

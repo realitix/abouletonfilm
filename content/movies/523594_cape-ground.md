@@ -1,1 +1,0 @@
-{"tmdb_id": 523594, "title": "Cape Ground", "original_title": "Cape Ground", "slug_title": "cape-ground", "date": "2016-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l21TXG4ln0Jyr9Td0E8S3qzfng4.jpg", "actors": [], "comments": [], "recommandations_id": []}

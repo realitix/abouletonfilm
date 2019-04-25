@@ -1,1 +1,0 @@
-{"tmdb_id": 433228, "title": "Swiebertje 1", "original_title": "Swiebertje 1", "slug_title": "swiebertje-1", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qmSyphfKh2MGLrK0PiqdnRDbY2H.jpg", "actors": [], "comments": [], "recommandations_id": []}

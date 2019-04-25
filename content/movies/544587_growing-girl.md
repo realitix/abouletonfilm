@@ -1,1 +1,0 @@
-{"tmdb_id": 544587, "title": "Growing Girl", "original_title": "Growing Girl", "slug_title": "growing-girl", "date": "2017-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/516vHapyKMdbMAJqOA4hBXd5ljz.jpg", "actors": [], "comments": [], "recommandations_id": []}

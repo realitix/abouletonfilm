@@ -1,1 +1,0 @@
-{"tmdb_id": 368445, "title": "The Hangman", "original_title": "Galgemannen", "slug_title": "the-hangman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

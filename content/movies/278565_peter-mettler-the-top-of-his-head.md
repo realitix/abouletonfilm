@@ -1,1 +1,0 @@
-{"tmdb_id": 278565, "title": "Peter Mettler: The Top of His Head", "original_title": "Peter Mettler: The Top of His Head", "slug_title": "peter-mettler-the-top-of-his-head", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

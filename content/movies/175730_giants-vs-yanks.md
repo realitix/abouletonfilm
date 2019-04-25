@@ -1,1 +1,0 @@
-{"tmdb_id": 175730, "title": "Giants vs. Yanks", "original_title": "Giants vs. Yanks", "slug_title": "giants-vs-yanks", "date": "1923-05-12", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sunshine Sammy Morrison (Ernie (as Hal Roach's Rascals))"], "comments": [], "recommandations_id": []}

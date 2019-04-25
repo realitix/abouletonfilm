@@ -1,1 +1,0 @@
-{"tmdb_id": 331120, "title": "The Dream", "original_title": "Al-manam", "slug_title": "the-dream", "date": "1988-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qORue8yRi8qXRJGwo2jf1ZJFaWC.jpg", "actors": [], "comments": [], "recommandations_id": []}

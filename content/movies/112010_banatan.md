@@ -1,1 +1,0 @@
-{"tmdb_id": 112010, "title": "Banatan", "original_title": "Banatan", "slug_title": "banatan", "date": "1999-05-19", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fhoGLHuoFK7mYtw1l9Z8KEmtz3V.jpg", "actors": ["Ara Mina ()", "Jomari Yllana ()"], "comments": [], "recommandations_id": []}

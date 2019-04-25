@@ -1,1 +1,0 @@
-{"tmdb_id": 328294, "title": "Twisted", "original_title": "Twisted", "slug_title": "twisted", "date": "2015-02-01", "genre": "Drame / Thriller / Romance", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Claudio Trovato (Michael)", "Laura Fairclough (Kayley)"], "comments": [], "recommandations_id": []}

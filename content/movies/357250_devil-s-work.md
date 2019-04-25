@@ -1,1 +1,0 @@
-{"tmdb_id": 357250, "title": "Devil's Work", "original_title": "Devil's Work", "slug_title": "devil-s-work", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

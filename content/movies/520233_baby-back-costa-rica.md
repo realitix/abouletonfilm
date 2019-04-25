@@ -1,1 +1,0 @@
-{"tmdb_id": 520233, "title": "Baby Back Costa Rica", "original_title": "Baby Back Costa Rica", "slug_title": "baby-back-costa-rica", "date": "2011-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

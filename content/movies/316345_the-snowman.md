@@ -1,1 +1,0 @@
-{"tmdb_id": 316345, "title": "The Snowman", "original_title": "The Snowman", "slug_title": "the-snowman", "date": "1933-08-24", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zeXZFugapQ2e2K11foM1AbwMbdG.jpg", "actors": [], "comments": [], "recommandations_id": []}

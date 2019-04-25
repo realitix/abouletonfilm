@@ -1,1 +1,0 @@
-{"tmdb_id": 397802, "title": "Double Life", "original_title": "La vie en deux", "slug_title": "double-life", "date": "1980-07-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fVMLI72l7m619ma0xA4To4YkUrF.jpg", "actors": ["Erika Blanc (Herself)"], "comments": [], "recommandations_id": []}

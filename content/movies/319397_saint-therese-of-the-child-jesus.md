@@ -1,1 +1,0 @@
-{"tmdb_id": 319397, "title": "Saint Therese of the Child Jesus", "original_title": "Saint Therese of the Child Jesus", "slug_title": "saint-therese-of-the-child-jesus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

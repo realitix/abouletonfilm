@@ -1,1 +1,0 @@
-{"tmdb_id": 579987, "title": "Casey the Co-Ed", "original_title": "Casey the Co-Ed", "slug_title": "casey-the-co-ed", "date": "2004-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

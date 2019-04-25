@@ -1,1 +1,0 @@
-{"tmdb_id": 569909, "title": "Happiness Ave", "original_title": "Xingfu dajie", "slug_title": "happiness-ave", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

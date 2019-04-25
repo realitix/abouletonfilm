@@ -1,1 +1,0 @@
-{"tmdb_id": 305237, "title": "Eradu Kanasu", "original_title": "Eradu Kanasu", "slug_title": "eradu-kanasu", "date": "1974-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

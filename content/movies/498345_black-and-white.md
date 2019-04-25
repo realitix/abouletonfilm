@@ -1,1 +1,0 @@
-{"tmdb_id": 498345, "title": "Black and White", "original_title": "Black and White", "slug_title": "black-and-white", "date": "2006-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

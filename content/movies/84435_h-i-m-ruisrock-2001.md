@@ -1,1 +1,0 @@
-{"tmdb_id": 84435, "title": "H.I.M: Ruisrock 2001", "original_title": "H.I.M: Ruisrock 2001", "slug_title": "h-i-m-ruisrock-2001", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 125809, "title": "A Dog's Day", "original_title": "Pattiyude Divasam", "slug_title": "a-dog-s-day", "date": "2001-05-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9vFHMpo7eGyfFvgaUOf4OaJp9oC.jpg", "actors": [], "comments": [], "recommandations_id": []}

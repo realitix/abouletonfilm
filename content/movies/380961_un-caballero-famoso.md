@@ -1,1 +1,0 @@
-{"tmdb_id": 380961, "title": "Un caballero famoso", "original_title": "Un caballero famoso", "slug_title": "un-caballero-famoso", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wlayZrsaKaiHod8IZXA8Y2NOHrf.jpg", "actors": [], "comments": [], "recommandations_id": []}

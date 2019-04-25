@@ -1,1 +1,0 @@
-{"tmdb_id": 149340, "title": "Fighting for Our Lives", "original_title": "Fighting for Our Lives", "slug_title": "fighting-for-our-lives", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jZ1ye6wSPxsli518ixEBfEymwn3.jpg", "actors": [], "comments": [], "recommandations_id": []}

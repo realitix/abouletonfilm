@@ -1,1 +1,0 @@
-{"tmdb_id": 402739, "title": "El vecino", "original_title": "El vecino", "slug_title": "el-vecino", "date": "2011-01-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7vLRAvAvrVekG0JJs6F7XL85VWU.jpg", "actors": ["Joelly Rodriguez (Anel)", "Luis Eduardo Pagan ()"], "comments": [], "recommandations_id": []}

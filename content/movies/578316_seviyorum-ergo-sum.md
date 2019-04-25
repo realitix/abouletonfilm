@@ -1,1 +1,0 @@
-{"tmdb_id": 578316, "title": "Seviyorum Ergo Sum", "original_title": "Seviyorum Ergo Sum", "slug_title": "seviyorum-ergo-sum", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dsL0XFSVVbgnMjAqZgyz9QYi0FH.jpg", "actors": ["Nuri Bilge Ceylan ()"], "comments": [], "recommandations_id": []}

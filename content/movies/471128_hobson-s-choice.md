@@ -1,1 +1,0 @@
-{"tmdb_id": 471128, "title": "Hobson's Choice", "original_title": "Hobson's Choice", "slug_title": "hobson-s-choice", "date": "1983-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lZ8u17pAeArxx2LfMaDPIoc6T60.jpg", "actors": [], "comments": [], "recommandations_id": []}

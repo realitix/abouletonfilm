@@ -1,1 +1,0 @@
-{"tmdb_id": 496825, "title": "Shelter", "original_title": "Shelter", "slug_title": "shelter", "date": "", "genre": "Drame / Familial / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Veronica Mora (Kate)", "Olivia Medina (Audrey)", "Fue Naiuli (Marianne)", "Edward Nyahay (Dave)"], "comments": [], "recommandations_id": []}

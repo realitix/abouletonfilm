@@ -1,1 +1,0 @@
-{"tmdb_id": 277453, "title": "Die Winterreise", "original_title": "Die Winterreise", "slug_title": "die-winterreise", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yxosduNVNFnzfWuvdfPcQffK6Ul.jpg", "actors": [], "comments": [], "recommandations_id": []}

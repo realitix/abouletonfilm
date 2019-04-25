@@ -1,1 +1,0 @@
-{"tmdb_id": 562213, "title": "Le 7eme jour de Saint-Malo", "original_title": "Le 7eme jour de Saint-Malo", "slug_title": "le-7eme-jour-de-saint-malo", "date": "1960-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hI0sc67ILkTqBkRjNEVadSFZ1br.jpg", "actors": [], "comments": [], "recommandations_id": []}

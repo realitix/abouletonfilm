@@ -1,1 +1,0 @@
-{"tmdb_id": 473562, "title": "Dead People", "original_title": "Dead People", "slug_title": "dead-people", "date": "2005-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e9aXDoCS46Khql9yPUD9KJhAgl3.jpg", "actors": ["Frank J. Butler (Himself)"], "comments": [], "recommandations_id": []}

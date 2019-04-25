@@ -1,1 +1,0 @@
-{"tmdb_id": 358291, "title": "Windmill III", "original_title": "Windmill III", "slug_title": "windmill-iii", "date": "1974-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l4xceH530kRpeqzobtTHPWGx8c6.jpg", "actors": [], "comments": [], "recommandations_id": []}

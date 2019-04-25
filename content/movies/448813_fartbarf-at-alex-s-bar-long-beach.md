@@ -1,1 +1,0 @@
-{"tmdb_id": 448813, "title": "Fartbarf at Alex's Bar, Long Beach", "original_title": "Fartbarf at Alex's Bar, Long Beach", "slug_title": "fartbarf-at-alex-s-bar-long-beach", "date": "2011-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fartbarf (Fartbarf)"], "comments": [], "recommandations_id": []}

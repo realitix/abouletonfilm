@@ -1,1 +1,0 @@
-{"tmdb_id": 520440, "title": "Unbanned: The Legend of AJ1", "original_title": "Unbanned: The Legend of AJ1", "slug_title": "unbanned-the-legend-of-aj1", "date": "2018-04-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u0gL9o1b3kgxPVHX8W4DnUR3l8P.jpg", "actors": [], "comments": [], "recommandations_id": []}

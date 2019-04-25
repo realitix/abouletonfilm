@@ -1,1 +1,0 @@
-{"tmdb_id": 563237, "title": "How Kitchener Was Betrayed", "original_title": "How Kitchener Was Betrayed", "slug_title": "how-kitchener-was-betrayed", "date": "1921-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fred Paul (Field Marshal Kitchener)", "Peggy Hathaway (Mrs. Mack)"], "comments": [], "recommandations_id": []}

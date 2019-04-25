@@ -1,1 +1,0 @@
-{"tmdb_id": 458051, "title": "Beyond Belief", "original_title": "Beyond Belief", "slug_title": "beyond-belief", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Vs1OTksxnLLFctCoBCEsVDB1qQ.jpg", "actors": ["Richard Mathews (Host)"], "comments": [], "recommandations_id": []}

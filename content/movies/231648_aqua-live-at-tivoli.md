@@ -1,1 +1,0 @@
-{"tmdb_id": 231648, "title": "Aqua - Live at Tivoli", "original_title": "Aqua - Live at Tivoli", "slug_title": "aqua-live-at-tivoli", "date": "2009-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 340002, "title": "Girls Beware", "original_title": "Girls Beware", "slug_title": "girls-beware", "date": "1961-01-01", "genre": "Crime / Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3xfUQvi0NGm4qkjYtSsr595X8p8.jpg", "actors": [], "comments": [], "recommandations_id": []}

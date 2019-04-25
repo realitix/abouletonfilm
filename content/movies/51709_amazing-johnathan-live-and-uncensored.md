@@ -1,1 +1,0 @@
-{"tmdb_id": 51709, "title": "Amazing Johnathan: Live and Uncensored!", "original_title": "Amazing Johnathan: Live and Uncensored!", "slug_title": "amazing-johnathan-live-and-uncensored", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

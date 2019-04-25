@@ -1,1 +1,0 @@
-{"tmdb_id": 590201, "title": "Crystal City", "original_title": "Crystal City", "slug_title": "crystal-city", "date": "2019-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jTsVdGPq9CeT81dyxgJP2JEoY3P.jpg", "actors": [], "comments": [], "recommandations_id": []}

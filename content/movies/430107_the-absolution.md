@@ -1,1 +1,0 @@
-{"tmdb_id": 430107, "title": "The Absolution", "original_title": "The Absolution", "slug_title": "the-absolution", "date": "1998-01-02", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cordelia Gonz\u00e1lez ()"], "comments": [], "recommandations_id": []}

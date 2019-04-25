@@ -1,1 +1,0 @@
-{"tmdb_id": 396549, "title": "Thomas Hirschhorn - Gramsci Monument", "original_title": "Thomas Hirschhorn - Gramsci Monument", "slug_title": "thomas-hirschhorn-gramsci-monument", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

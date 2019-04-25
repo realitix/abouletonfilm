@@ -1,1 +1,0 @@
-{"tmdb_id": 457568, "title": "Crazywise", "original_title": "Crazywise", "slug_title": "crazywise", "date": "2017-06-06", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AhitSVLkQ6T8blWxSFyIzf16fnC.jpg", "actors": [], "comments": [], "recommandations_id": []}

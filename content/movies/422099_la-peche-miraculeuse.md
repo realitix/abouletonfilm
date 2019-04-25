@@ -1,1 +1,0 @@
-{"tmdb_id": 422099, "title": "La p\u00eache miraculeuse", "original_title": "La p\u00eache miraculeuse", "slug_title": "la-peche-miraculeuse", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l7UgfmAIyCosJ4YpdVGiSDQrzkj.jpg", "actors": [], "comments": [], "recommandations_id": []}

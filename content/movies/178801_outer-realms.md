@@ -1,1 +1,0 @@
-{"tmdb_id": 178801, "title": "Outer Realms", "original_title": "Outer Realms", "slug_title": "outer-realms", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

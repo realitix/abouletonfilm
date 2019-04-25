@@ -1,1 +1,0 @@
-{"tmdb_id": 415809, "title": "Wuthering Heights", "original_title": "Wuthering Heights", "slug_title": "wuthering-heights", "date": "1920-07-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/71ESvbix65v8QnoW2uxfIjtbymt.jpg", "actors": [], "comments": [], "recommandations_id": []}

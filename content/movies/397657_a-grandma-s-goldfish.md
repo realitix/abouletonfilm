@@ -1,1 +1,0 @@
-{"tmdb_id": 397657, "title": "A Grandma's Goldfish", "original_title": "\u5a46\u3061\u3083\u306e\u91d1\u9b5a", "slug_title": "a-grandma-s-goldfish", "date": "2012-10-28", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zGreQLhqtfPspdCEWijtW4TAUFX.jpg", "actors": [], "comments": [], "recommandations_id": []}

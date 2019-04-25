@@ -1,1 +1,0 @@
-{"tmdb_id": 347132, "title": "Tennis with JLG", "original_title": "Tenis con JLG - Buscando a Godard", "slug_title": "tennis-with-jlg", "date": "2002-06-13", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

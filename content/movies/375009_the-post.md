@@ -1,1 +1,0 @@
-{"tmdb_id": 375009, "title": "The Post", "original_title": "\u041f\u043e\u0447\u0442\u0430", "slug_title": "the-post", "date": "1929-11-25", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m2pwKPfo2LuDBRM6U3TYS2VnDlA.jpg", "actors": [], "comments": [], "recommandations_id": []}

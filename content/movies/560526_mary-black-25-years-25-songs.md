@@ -1,1 +1,0 @@
-{"tmdb_id": 560526, "title": "Mary Black: 25 Years - 25 Songs", "original_title": "Mary Black: 25 Years - 25 Songs", "slug_title": "mary-black-25-years-25-songs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p3AYjN9MmXLhhl4TjUZ3WeuXH0z.jpg", "actors": [], "comments": [], "recommandations_id": []}

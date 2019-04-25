@@ -1,1 +1,0 @@
-{"tmdb_id": 122335, "title": "101 Great Welsh Tries", "original_title": "101 Great Welsh Tries", "slug_title": "101-great-welsh-tries", "date": "2006-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nQfL550Kiy0RLmF9NPB3h68ydNO.jpg", "actors": [], "comments": [], "recommandations_id": []}

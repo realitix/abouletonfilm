@@ -1,1 +1,0 @@
-{"tmdb_id": 537819, "title": "Great American Desert", "original_title": "Great American Desert", "slug_title": "great-american-desert", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eO49iZvURwBKlGXdbEuJXzDkznV.jpg", "actors": [], "comments": [], "recommandations_id": []}

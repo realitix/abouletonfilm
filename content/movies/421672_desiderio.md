@@ -1,1 +1,0 @@
-{"tmdb_id": 421672, "title": "Desiderio", "original_title": "Desiderio", "slug_title": "desiderio", "date": "1984-02-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fUpPqVyOcPkRvJBGVpQMCDwCDuA.jpg", "actors": ["Fanny Ardant (Lucia)", "Carlo Giuffr\u00e8 (Peppino)"], "comments": [], "recommandations_id": []}

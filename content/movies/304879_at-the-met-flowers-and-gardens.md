@@ -1,1 +1,0 @@
-{"tmdb_id": 304879, "title": "At the Met: Flowers and Gardens", "original_title": "At the Met: Flowers and Gardens", "slug_title": "at-the-met-flowers-and-gardens", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

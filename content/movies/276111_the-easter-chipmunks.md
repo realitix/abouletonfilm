@@ -1,1 +1,0 @@
-{"tmdb_id": 276111, "title": "The Easter Chipmunks", "original_title": "The Easter Chipmunks", "slug_title": "the-easter-chipmunks", "date": "1995-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j5EudNsbRv6Ddtrvs429Djk8Tpg.jpg", "actors": [], "comments": [], "recommandations_id": []}

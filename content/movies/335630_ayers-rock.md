@@ -1,1 +1,0 @@
-{"tmdb_id": 335630, "title": "Ayers Rock", "original_title": "Ayers Rock", "slug_title": "ayers-rock", "date": "1983-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aeK31W1M5PmS8qgElvtYGvqv0Fc.jpg", "actors": [], "comments": [], "recommandations_id": []}

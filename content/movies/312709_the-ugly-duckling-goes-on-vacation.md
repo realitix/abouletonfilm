@@ -1,1 +1,0 @@
-{"tmdb_id": 312709, "title": "The Ugly Duckling Goes on Vacation", "original_title": "The Ugly Duckling Goes on Vacation", "slug_title": "the-ugly-duckling-goes-on-vacation", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 562448, "title": "\u76d6\u4e16\u82f1\u96c4", "original_title": "\u76d6\u4e16\u82f1\u96c4", "slug_title": "gai-shi-ying-xiong", "date": "2018-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pDwl7kO9NzPCQv6nY2UqeR8AWaS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 281065, "title": "Identities", "original_title": "Identities", "slug_title": "identities", "date": "1991-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kegtUPwCiXtBVWOzdZQ8EYB5IwX.jpg", "actors": [], "comments": [], "recommandations_id": []}

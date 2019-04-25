@@ -1,1 +1,0 @@
-{"tmdb_id": 500675, "title": "At the Seashore", "original_title": "At the Seashore", "slug_title": "at-the-seashore", "date": "1929-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

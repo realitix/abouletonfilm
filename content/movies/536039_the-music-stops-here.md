@@ -1,1 +1,0 @@
-{"tmdb_id": 536039, "title": "The Music Stops Here!", "original_title": "The Music Stops Here!", "slug_title": "the-music-stops-here", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zYXG2Kd0HQl6v5iCABfs8irw4kQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

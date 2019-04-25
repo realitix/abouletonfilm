@@ -1,1 +1,0 @@
-{"tmdb_id": 301330, "title": "6 Easy Pieces", "original_title": "6 Easy Pieces", "slug_title": "6-easy-pieces", "date": "2000-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sjDihM4jEIx41yIwPOTF7BspSrs.jpg", "actors": [], "comments": [], "recommandations_id": []}

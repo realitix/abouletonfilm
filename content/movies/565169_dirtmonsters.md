@@ -1,1 +1,0 @@
-{"tmdb_id": 565169, "title": "Dirtmonsters", "original_title": "Dreckmonster", "slug_title": "dirtmonsters", "date": "2007-10-30", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ogtJstgg5ZqBfmCi4qYx2xPuUh4.jpg", "actors": [], "comments": [], "recommandations_id": []}

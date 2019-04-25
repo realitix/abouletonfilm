@@ -1,1 +1,0 @@
-{"tmdb_id": 249072, "title": "We Need a Vacation", "original_title": "Fais-moi des vacances", "slug_title": "we-need-a-vacation", "date": "2004-07-24", "genre": "Com\u00e9die / Drame", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7BNZqIV4bpjNXEW4npW4FbPzeHZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

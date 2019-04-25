@@ -1,1 +1,0 @@
-{"tmdb_id": 593994, "title": "Parralel", "original_title": "Parralel", "slug_title": "parralel", "date": "2018-05-31", "genre": "Animation / Science-Fiction / Fantastique / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

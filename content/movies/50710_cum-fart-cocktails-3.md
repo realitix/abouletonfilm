@@ -1,1 +1,0 @@
-{"tmdb_id": 50710, "title": "Cum Fart Cocktails 3", "original_title": "Cum Fart Cocktails 3", "slug_title": "cum-fart-cocktails-3", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kDXTZ2PdYvRfuuxdfznzk7GOyKd.jpg", "actors": [], "comments": [], "recommandations_id": []}

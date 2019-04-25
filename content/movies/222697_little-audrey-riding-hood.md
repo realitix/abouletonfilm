@@ -1,1 +1,0 @@
-{"tmdb_id": 222697, "title": "Little Audrey Riding Hood", "original_title": "Little Audrey Riding Hood", "slug_title": "little-audrey-riding-hood", "date": "1955-10-14", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2rQA0IPqH67dREkDV6s1Er2b5Bn.jpg", "actors": [], "comments": [], "recommandations_id": []}

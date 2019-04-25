@@ -1,1 +1,0 @@
-{"tmdb_id": 574694, "title": "According To...", "original_title": "According To...", "slug_title": "according-to", "date": "2007-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

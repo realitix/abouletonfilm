@@ -1,1 +1,0 @@
-{"tmdb_id": 366735, "title": "A Game of Catch", "original_title": "A Game of Catch", "slug_title": "a-game-of-catch", "date": "2015-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

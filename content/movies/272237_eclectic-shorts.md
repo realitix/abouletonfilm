@@ -1,1 +1,0 @@
-{"tmdb_id": 272237, "title": "Eclectic Shorts", "original_title": "Eclectic Shorts", "slug_title": "eclectic-shorts", "date": "2006-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

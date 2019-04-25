@@ -1,1 +1,0 @@
-{"tmdb_id": 329071, "title": "The Beautiful Bedouin", "original_title": "El badawia el hasnaa", "slug_title": "the-beautiful-bedouin", "date": "1947-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mohammed Al-Bakkar ()", "Badr Lama ()", "Badriya Raafat ()"], "comments": [], "recommandations_id": []}

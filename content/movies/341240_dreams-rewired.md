@@ -1,1 +1,0 @@
-{"tmdb_id": 341240, "title": "Dreams Rewired", "original_title": "Dreams Rewired", "slug_title": "dreams-rewired", "date": "2015-02-01", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eDJUw55zdHNJJ1BTbhNimLZgz5k.jpg", "actors": ["Tilda Swinton (Narrator)"], "comments": [], "recommandations_id": []}

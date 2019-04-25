@@ -1,1 +1,0 @@
-{"tmdb_id": 574401, "title": "Campbell of the Mounted", "original_title": "Campbell of the Mounted", "slug_title": "campbell-of-the-mounted", "date": "1922-04-01", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Irving Cummings ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 565603, "title": "Cheerleaders Going Wild 3", "original_title": "Cheerleaders Going Wild 3", "slug_title": "cheerleaders-going-wild-3", "date": "2013-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yNJ7Zbz0pz4ACxn96KLzrfBenCP.jpg", "actors": [], "comments": [], "recommandations_id": []}

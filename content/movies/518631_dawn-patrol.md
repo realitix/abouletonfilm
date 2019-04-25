@@ -1,1 +1,0 @@
-{"tmdb_id": 518631, "title": "Dawn Patrol", "original_title": "Dawn Patrol", "slug_title": "dawn-patrol", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "L'ombre d'une porte qui s'ouvre balaie le sol...", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/74Keo5wwEcYevpBZQGROfETHLmU.jpg", "actors": [], "comments": [], "recommandations_id": []}

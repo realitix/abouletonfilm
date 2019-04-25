@@ -1,1 +1,0 @@
-{"tmdb_id": 232057, "title": "Girls Taking Time Checks", "original_title": "Girls Taking Time Checks", "slug_title": "girls-taking-time-checks", "date": "1904-04-30", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bW8ZNF8cJAdwUsEUanxDvBnvtwH.jpg", "actors": [], "comments": [], "recommandations_id": []}

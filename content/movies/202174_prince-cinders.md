@@ -1,1 +1,0 @@
-{"tmdb_id": 202174, "title": "Prince Cinders", "original_title": "Prince Cinders", "slug_title": "prince-cinders", "date": "1993-12-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sLeoILwJ29KKqIn3j6BYjakYT99.jpg", "actors": [], "comments": [], "recommandations_id": []}

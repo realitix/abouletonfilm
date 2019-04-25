@@ -1,1 +1,0 @@
-{"tmdb_id": 310675, "title": "Surviving the Rush", "original_title": "Surviving the Rush", "slug_title": "surviving-the-rush", "date": "2007-04-24", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ZpIEOOingIwwS5bZsdEckIDfGw.jpg", "actors": [], "comments": [], "recommandations_id": []}

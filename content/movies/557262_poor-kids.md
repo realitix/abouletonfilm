@@ -1,1 +1,0 @@
-{"tmdb_id": 557262, "title": "Poor Kids", "original_title": "Poor Kids", "slug_title": "poor-kids", "date": "2017-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/E4pqjucXZ2vowawP9AdSlTwAj.jpg", "actors": [], "comments": [], "recommandations_id": []}

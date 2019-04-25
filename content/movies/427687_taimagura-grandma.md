@@ -1,1 +1,0 @@
-{"tmdb_id": 427687, "title": "Taimagura Grandma", "original_title": "Taimagura Grandma", "slug_title": "taimagura-grandma", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bgpThk6Zev8SH3JPKUgesNtSc33.jpg", "actors": [], "comments": [], "recommandations_id": []}

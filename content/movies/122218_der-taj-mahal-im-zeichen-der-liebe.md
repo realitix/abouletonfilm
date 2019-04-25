@@ -1,1 +1,0 @@
-{"tmdb_id": 122218, "title": "Der Taj Mahal - Im Zeichen der Liebe", "original_title": "Der Taj Mahal - Im Zeichen der Liebe", "slug_title": "der-taj-mahal-im-zeichen-der-liebe", "date": "2009-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

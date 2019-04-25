@@ -1,1 +1,0 @@
-{"tmdb_id": 552616, "title": "They sing up on the hill", "original_title": "They sing up on the hill", "slug_title": "they-sing-up-on-the-hill", "date": "2018-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

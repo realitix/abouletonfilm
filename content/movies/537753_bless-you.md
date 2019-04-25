@@ -1,1 +1,0 @@
-{"tmdb_id": 537753, "title": "Bless You!", "original_title": "Na Zdrowie", "slug_title": "bless-you", "date": "2018-06-22", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cL3UC7fHSWQFY6luNFbMxwEv60A.jpg", "actors": [], "comments": [], "recommandations_id": []}

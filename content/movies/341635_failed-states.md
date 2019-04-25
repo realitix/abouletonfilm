@@ -1,1 +1,0 @@
-{"tmdb_id": 341635, "title": "Failed States", "original_title": "Failed States", "slug_title": "failed-states", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oFdcWMQ30vJraCF2GjhQJDtSjb3.jpg", "actors": [], "comments": [], "recommandations_id": []}

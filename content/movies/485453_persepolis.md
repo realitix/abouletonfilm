@@ -1,1 +1,0 @@
-{"tmdb_id": 485453, "title": "Persepolis", "original_title": "Persepolis", "slug_title": "persepolis", "date": "1960-04-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kjzUN7XtEoSYeE33BCntHP02neg.jpg", "actors": [], "comments": [], "recommandations_id": []}

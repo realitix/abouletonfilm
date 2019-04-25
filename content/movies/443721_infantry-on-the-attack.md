@@ -1,1 +1,0 @@
-{"tmdb_id": 443721, "title": "Infantry on the Attack", "original_title": "Infantry on the Attack", "slug_title": "infantry-on-the-attack", "date": "1941-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nwUnHNC1IyktECzLkXCcli1kdDP.jpg", "actors": [], "comments": [], "recommandations_id": []}
